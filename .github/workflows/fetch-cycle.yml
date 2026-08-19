@@ -1,0 +1,45 @@
+name: Fetch Cycle
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+          cache-dependency-path: pipeline/package-lock.json
+
+      - name: Install dependencies
+        working-directory: pipeline
+        run: npm install
+
+      - name: Run pipeline
+        working-directory: pipeline
+        env:
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+        run: node src/runPipeline.js
+
+      - name: Commit and push if data changed
+        run: |
+          git config user.name "news-aggregator-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes, skipping commit."
+          else
+            git commit -m "chore: automated fetch cycle $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          fi
