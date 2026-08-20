@@ -1,6 +1,8 @@
 import { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { formatModeLabel, formatPricingLabel } from '../data/eventFormat.js';
+import { useEvents } from '../data/useEvents.js';
+import { ChevronRightIcon } from '../components/icons.jsx';
 
 function formatDateRange(startDate, endDate) {
   if (!startDate) return 'Date TBA';
@@ -13,6 +15,7 @@ function formatDateRange(startDate, endDate) {
 
 export default function EventDetailPage() {
   const { id } = useParams();
+  const { events } = useEvents();
   const [event, setEvent] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -46,6 +49,9 @@ export default function EventDetailPage() {
   if (loading) return <p className="status-message">Loading…</p>;
   if (error) return <p className="status-message error">{error}</p>;
 
+  const currentIndex = events.findIndex((e) => e.id === id);
+  const nextEvent = currentIndex >= 0 && currentIndex < events.length - 1 ? events[currentIndex + 1] : null;
+
   return (
     <article className="event-detail-page">
       <Link to="/events" className="back-link">← Back to events</Link>
@@ -70,6 +76,12 @@ export default function EventDetailPage() {
         <a href={event.link} target="_blank" rel="noopener noreferrer" className="read-full-link">
           Event link →
         </a>
+      )}
+
+      {nextEvent && (
+        <Link to={`/event/${nextEvent.id}`} className="sticky-next-button">
+          Next Event <ChevronRightIcon size={16} />
+        </Link>
       )}
     </article>
   );

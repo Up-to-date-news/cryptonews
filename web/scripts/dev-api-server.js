@@ -12,6 +12,7 @@ import updateNews from '../api/update-news.js';
 import deleteNews from '../api/delete-news.js';
 import updateEvent from '../api/update-event.js';
 import deleteEvent from '../api/delete-event.js';
+import contact from '../api/contact.js';
 
 const PORT = 3001;
 
@@ -24,6 +25,7 @@ const routes = {
   '/api/delete-news': deleteNews,
   '/api/update-event': updateEvent,
   '/api/delete-event': deleteEvent,
+  '/api/contact': contact,
 };
 
 function adaptResponse(res) {

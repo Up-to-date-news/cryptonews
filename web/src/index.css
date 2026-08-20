@@ -84,11 +84,6 @@ h1, h2, h3 {
   .site-logo {
     font-size: 0.9rem;
   }
-
-  .site-nav a {
-    padding: 0.35rem 0.55rem;
-    font-size: 0.85rem;
-  }
 }
 
 .site-nav {
@@ -140,6 +135,78 @@ h1, h2, h3 {
   color: var(--fg);
 }
 
+.mobile-menu-toggle {
+  display: none;
+}
+
+@media (max-width: 640px) {
+  .site-nav {
+    display: none;
+  }
+
+  .site-header-right {
+    margin-left: auto;
+  }
+
+  .mobile-menu-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 34px;
+    height: 34px;
+    border: none;
+    border-radius: 999px;
+    background: transparent;
+    color: var(--muted);
+    cursor: pointer;
+  }
+
+  .mobile-menu-toggle:hover {
+    background: var(--border);
+    color: var(--fg);
+  }
+}
+
+.mobile-menu-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  background: var(--bg);
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 1.5rem;
+  overflow-y: auto;
+}
+
+.mobile-menu-back {
+  align-self: flex-start;
+  border: none;
+  background: none;
+  color: var(--muted);
+  font-weight: 500;
+  font-size: 0.95rem;
+  padding: 0.5rem 0;
+  cursor: pointer;
+}
+
+.mobile-menu-nav {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+}
+
+.mobile-menu-nav a {
+  padding: 1rem 0.25rem;
+  font-size: 1.15rem;
+  font-weight: 500;
+  color: var(--fg);
+  border-bottom: 1px solid var(--border);
+}
+
+.mobile-menu-nav a.active {
+  color: var(--accent);
+}
+
 main {
   max-width: 720px;
   margin: 0 auto;
@@ -189,6 +256,7 @@ main {
 .article-card-time {
   flex-shrink: 0;
   white-space: nowrap;
+  margin-left: auto;
 }
 
 /* Tags */
@@ -911,4 +979,141 @@ label.radio-option {
   font-size: 0.9rem;
   color: var(--muted);
   margin: 0.2rem 0;
+}
+
+/* Footer */
+
+.site-footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 2rem 1.5rem;
+  margin-top: 2rem;
+  border-top: 1px solid var(--border);
+}
+
+.site-footer-social {
+  display: flex;
+  gap: 1rem;
+}
+
+.site-footer-social a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 999px;
+  color: var(--muted);
+}
+
+.site-footer-social a:hover {
+  background: var(--border);
+  color: var(--fg);
+}
+
+.site-footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem 1rem;
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+
+.site-footer-links a:hover {
+  color: var(--fg);
+}
+
+.site-footer-copyright {
+  color: var(--muted);
+}
+
+/* Terms / Contact (shared plain-text page layout) */
+
+.terms-page {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.terms-page .admin-form {
+  max-width: none;
+  margin-top: 1rem;
+}
+
+.terms-updated {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin: 0 0 1rem;
+}
+
+.terms-page section {
+  margin: 1.5rem 0;
+}
+
+.terms-page h2 {
+  font-size: 1.05rem;
+  margin: 0 0 0.5rem;
+}
+
+.terms-page p,
+.terms-page li {
+  line-height: 1.6;
+  color: var(--fg);
+}
+
+.terms-page ul {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.admin-form select {
+  padding: 0.65rem 2.25rem 0.65rem 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background-color: var(--card-bg);
+  color: var(--fg);
+  font: inherit;
+  width: 100%;
+  appearance: none;
+  -webkit-appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6' fill='none'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%23888' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.9rem center;
+}
+
+/* Mobile-only sticky "next" button on article/event detail pages */
+
+.sticky-next-button {
+  display: none;
+}
+
+@media (max-width: 640px) {
+  .sticky-next-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    position: fixed;
+    left: 1rem;
+    right: 1rem;
+    bottom: 1rem;
+    padding: 0.85rem 1rem;
+    border-radius: 999px;
+    background: var(--accent);
+    color: var(--accent-fg);
+    font-weight: 500;
+    font-size: 0.95rem;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
+    z-index: 20;
+  }
+
+  /* Keep the sticky button from covering the last bit of content */
+  .article-page,
+  .event-detail-page {
+    padding-bottom: 4.5rem;
+  }
 }

@@ -62,3 +62,47 @@ export function LogoutIcon(props) {
     </Icon>
   );
 }
+
+export function InstagramIcon(props) {
+  return (
+    <Icon {...props}>
+      <rect x="3" y="3" width="18" height="18" rx="5" />
+      <circle cx="12" cy="12" r="4" />
+      <circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none" />
+    </Icon>
+  );
+}
+
+export function TelegramIcon(props) {
+  return (
+    <Icon {...props}>
+      <path d="m21 4-19 8 6 2m13-10-3 15-9-6m12-9-9 8" />
+    </Icon>
+  );
+}
+
+export function TwitterIcon(props) {
+  return (
+    <Icon {...props}>
+      <path d="M4 4l7.5 9.5L4.5 20H7l5.5-5 4.5 5.5H21l-7.8-9.9L20.5 4H18l-5 4.5L8.5 4H4Z" />
+    </Icon>
+  );
+}
+
+export function MoreIcon(props) {
+  return (
+    <Icon {...props}>
+      <circle cx="5" cy="12" r="1.4" fill="currentColor" stroke="none" />
+      <circle cx="12" cy="12" r="1.4" fill="currentColor" stroke="none" />
+      <circle cx="19" cy="12" r="1.4" fill="currentColor" stroke="none" />
+    </Icon>
+  );
+}
+
+export function ChevronRightIcon(props) {
+  return (
+    <Icon {...props}>
+      <path d="m9 6 6 6-6 6" />
+    </Icon>
+  );
+}

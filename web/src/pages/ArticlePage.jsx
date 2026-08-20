@@ -1,5 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useParams, useLocation, Link } from 'react-router-dom';
+import { useArticles } from '../data/useArticles.js';
+import { ChevronRightIcon } from '../components/icons.jsx';
 
 function dayKeyFromPubDate(pubDate) {
   return new Date(pubDate).toISOString().slice(0, 10);
@@ -17,6 +19,7 @@ async function resolvePubDate(id) {
 export default function ArticlePage() {
   const { id } = useParams();
   const location = useLocation();
+  const { articles } = useArticles();
   const [article, setArticle] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -56,6 +59,9 @@ export default function ArticlePage() {
   if (loading) return <p className="status-message">Loading…</p>;
   if (error) return <p className="status-message error">{error}</p>;
 
+  const currentIndex = articles.findIndex((a) => a.id === id);
+  const nextArticle = currentIndex >= 0 && currentIndex < articles.length - 1 ? articles[currentIndex + 1] : null;
+
   return (
     <article className="article-page">
       <Link to="/" className="back-link">← Back</Link>
@@ -74,6 +80,12 @@ export default function ArticlePage() {
       <p className="article-pubdate">
         Published {article.pubDate ? new Date(article.pubDate).toLocaleString() : 'date unknown'}
       </p>
+
+      {nextArticle && (
+        <Link to={`/article/${nextArticle.id}`} state={{ pubDate: nextArticle.pubDate }} className="sticky-next-button">
+          Next Post <ChevronRightIcon size={16} />
+        </Link>
+      )}
     </article>
   );
 }
