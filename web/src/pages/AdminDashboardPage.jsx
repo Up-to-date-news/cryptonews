@@ -1,18 +1,14 @@
 import { useEffect, useMemo, useState } from 'react';
-import { useAdminAuth } from '../admin/useAdminAuth.js';
 
 function dayKey(pubDate) {
   return pubDate ? new Date(pubDate).toISOString().slice(0, 10) : null;
 }
 
 export default function AdminDashboardPage() {
-  const { authFetch } = useAdminAuth();
   const [index, setIndex] = useState(null);
   const [feedCount, setFeedCount] = useState(null);
   const [eventCount, setEventCount] = useState(null);
   const [error, setError] = useState(null);
-  const [newTag, setNewTag] = useState('');
-  const [tagStatus, setTagStatus] = useState('idle'); // idle | submitting | error | success
 
   useEffect(() => {
     Promise.all([
@@ -45,41 +41,14 @@ export default function AdminDashboardPage() {
     const distinctDays = rssPerDay.size || 1;
     const avgPerDay = rssItems.length / distinctDays;
 
-    const tagCounts = new Map();
-    for (const item of index) {
-      for (const tag of item.tags ?? []) {
-        tagCounts.set(tag, (tagCounts.get(tag) ?? 0) + 1);
-      }
-    }
-
     return {
       totalFeeds: feedCount,
       totalRss: rssItems.length,
       todayCount: rssPerDay.get(today) ?? 0,
       avgPerDay: avgPerDay.toFixed(1),
       totalManual: manualItems.length,
-      tagCounts: [...tagCounts.entries()].sort((a, b) => b[1] - a[1]),
     };
   }, [index, feedCount]);
-
-  async function handleAddTag(e) {
-    e.preventDefault();
-    if (!newTag.trim()) return;
-    setTagStatus('submitting');
-    try {
-      const res = await authFetch('/api/add-tag', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ tag: newTag.trim() }),
-      });
-      const data = await res.json().catch(() => null);
-      if (!res.ok) throw new Error(data?.error ?? `Request failed: ${res.status}`);
-      setTagStatus('success');
-      setNewTag('');
-    } catch (err) {
-      setTagStatus('error');
-    }
-  }
 
   if (error) return <p className="status-message error">Failed to load dashboard: {error}</p>;
   if (!stats) return <p className="status-message">Loading dashboard…</p>;
@@ -127,30 +96,6 @@ export default function AdminDashboardPage() {
             <span className="stat-value">{eventCount}</span>
             <span className="stat-label">Total events</span>
           </div>
-        </div>
-      </section>
-
-      <section>
-        <h2 className="section-heading">Tags</h2>
-        <form onSubmit={handleAddTag} className="inline-form">
-          <input
-            type="text"
-            value={newTag}
-            onChange={(e) => setNewTag(e.target.value)}
-            placeholder="Add a new tag…"
-          />
-          <button type="submit" disabled={tagStatus === 'submitting'}>Add tag</button>
-        </form>
-        {tagStatus === 'error' && <p className="admin-status error">Failed to add tag.</p>}
-        {tagStatus === 'success' && <p className="admin-status success">Tag added.</p>}
-
-        <div className="tag-list">
-          {stats.tagCounts.length === 0 && <p className="empty-state">No tags yet.</p>}
-          {stats.tagCounts.map(([tag, count]) => (
-            <span key={tag} className="tag-pill">
-              {tag} <span className="tag-pill-count">{count}</span>
-            </span>
-          ))}
         </div>
       </section>
     </div>

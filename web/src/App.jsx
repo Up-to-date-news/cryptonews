@@ -12,6 +12,7 @@ import AdminEditPostPage from './pages/AdminEditPostPage.jsx';
 import AdminEventsListPage from './pages/AdminEventsListPage.jsx';
 import AdminCreateEventPage from './pages/AdminCreateEventPage.jsx';
 import AdminEditEventPage from './pages/AdminEditEventPage.jsx';
+import AdminTagsPage from './pages/AdminTagsPage.jsx';
 import AdminGuard from './admin/AdminGuard.jsx';
 import AdminLayout from './admin/AdminLayout.jsx';
 import ThemeToggle from './components/ThemeToggle.jsx';
@@ -59,6 +60,7 @@ export default function App() {
         <Route path="events" element={<AdminEventsListPage />} />
         <Route path="events/new" element={<AdminCreateEventPage />} />
         <Route path="events/:id/edit" element={<AdminEditEventPage />} />
+        <Route path="tags" element={<AdminTagsPage />} />
       </Route>
     </Routes>
   );

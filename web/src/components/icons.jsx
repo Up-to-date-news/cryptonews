@@ -45,6 +45,15 @@ export function EventsIcon(props) {
   );
 }
 
+export function TagsIcon(props) {
+  return (
+    <Icon {...props}>
+      <path d="M20.59 13.41 13.41 20.59a2 2 0 0 1-2.82 0L3 13V3h10l7.59 7.59a2 2 0 0 1 0 2.82Z" />
+      <circle cx="7.5" cy="7.5" r="1.3" />
+    </Icon>
+  );
+}
+
 export function LogoutIcon(props) {
   return (
     <Icon {...props}>

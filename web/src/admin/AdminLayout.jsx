@@ -1,6 +1,6 @@
 import { NavLink, Outlet, useNavigate } from 'react-router-dom';
 import { useAdminAuth } from './useAdminAuth.js';
-import { DashboardIcon, PostsIcon, EventsIcon, LogoutIcon } from '../components/icons.jsx';
+import { DashboardIcon, PostsIcon, EventsIcon, TagsIcon, LogoutIcon } from '../components/icons.jsx';
 
 function navClass({ isActive }) {
   return isActive ? 'admin-nav-link active' : 'admin-nav-link';
@@ -28,6 +28,9 @@ export default function AdminLayout() {
           </NavLink>
           <NavLink to="/admin/events" className={navClass}>
             <EventsIcon size={17} /> Events
+          </NavLink>
+          <NavLink to="/admin/tags" className={navClass}>
+            <TagsIcon size={17} /> Tags
           </NavLink>
         </nav>
         <button onClick={handleLogout} className="admin-sidebar-logout">
