@@ -33,6 +33,15 @@ async function loadLastRunTimestamp() {
   }
 }
 
+// Day boundary in UTC, matching how the archive already buckets articles
+// into per-day files (dayKey = toISOString().slice(0, 10)) — using a
+// different "today" here would disagree with the archive about what counts
+// as today's content.
+function startOfTodayUTC() {
+  const now = new Date();
+  return new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), 0, 0, 0, 0));
+}
+
 function extractSummary(feedItem) {
   return feedItem.contentSnippet || feedItem.summary || feedItem.content || null;
 }
@@ -72,7 +81,19 @@ async function fetchOneFeed(feedConfig, sinceDate) {
 
 export async function fetchAllFeeds() {
   const feedsConfig = await loadFeedsConfig();
-  const sinceDate = await loadLastRunTimestamp();
+  const lastRunAt = await loadLastRunTimestamp();
+  const todayStart = startOfTodayUTC();
+
+  // Only today's posts, and only what's new since the last run — whichever
+  // of the two is more recent wins. In normal hourly operation the
+  // checkpoint is always the binding constraint (today already started
+  // hours ago). It only matters after a long gap: without this, resuming
+  // from a stale checkpoint would dump in a full day-plus backlog instead
+  // of just today's posts.
+  const sinceDate = lastRunAt > todayStart ? lastRunAt : todayStart;
+  if (sinceDate === todayStart && lastRunAt < todayStart) {
+    console.log(`[fetchFeeds] Last run (${lastRunAt.toISOString()}) was before today — clamping to today's start (${todayStart.toISOString()}) instead of pulling the older backlog.`);
+  }
 
   const results = await Promise.all(
     feedsConfig.map((feedConfig) => fetchOneFeed(feedConfig, sinceDate))
