@@ -659,6 +659,10 @@ label.radio-option {
   font-size: 0.85rem;
 }
 
+.admin-filter-row select {
+  padding-right: 2rem;
+}
+
 .admin-list {
   display: flex;
   flex-direction: column;
