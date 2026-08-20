@@ -1,37 +1,145 @@
 [
   {
+    "id": "279dde1a48cce744",
+    "title": "Alphabet’s GOOGL-linked stock tokens gain $33M in market cap",
+    "summary": "The rise of tokenized stocks like GOOGL-linked tokens signals a shift towards 24/7 trading and integration with decentralized finance, impacting market dynamics.\nThe post Alphabet’s GOOGL-linked stock tokens gain $33M in market cap appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/googl-stock-tokens-market-cap-gain/",
+    "source": "CryptoBriefing",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-08-20T16:50:54.000Z",
+    "fetchedAt": "2026-08-20T16:53:46.664Z",
+    "isDuplicateOf": null,
+    "content": null
+  },
+  {
+    "id": "c2d8c21ca8162300",
+    "title": "Kakao Mobility eyes Nasdaq listing worth up to $1B to give TPG its exit",
+    "summary": "Kakao Mobility's Nasdaq listing highlights the growing trend of international tech firms seeking US markets for strategic investor exits.\nThe post Kakao Mobility eyes Nasdaq listing worth up to $1B to give TPG its exit appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/kakao-mobility-nasdaq-listing-tpg-exit/",
+    "source": "CryptoBriefing",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-08-20T16:46:34.000Z",
+    "fetchedAt": "2026-08-20T16:53:46.664Z",
+    "isDuplicateOf": null,
+    "content": null
+  },
+  {
+    "id": "976828b3016a3f99",
+    "title": "Nearly 2,000 Hacked WordPress Sites Turned Into Criminal Infrastructure",
+    "tags": [
+      "StopAndProtect",
+      "WordPress"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "pubDate": "2026-08-20T16:33:38.000Z"
+  },
+  {
+    "id": "8285cc097f1950d5",
+    "title": "LINK jumps above $10.60 as Chainlink takes the White House spotlight",
+    "summary": "Sergey Nazarov’s appearance and Nethermind’s move helped the token.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/link-jumps-above-10-60-as-chainlink-takes-the-white-house-spotlight/",
+    "source": "AMBCrypto",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-08-20T16:30:52.000Z",
+    "fetchedAt": "2026-08-20T16:53:46.664Z",
+    "isDuplicateOf": null,
+    "content": null
+  },
+  {
+    "id": "a8dc5785fe967026",
+    "title": "Grayscale Says SEC Reg Crypto Plan Could Reopen Token Fundraising Path",
+    "tags": [],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "pubDate": "2026-08-20T16:30:00.000Z"
+  },
+  {
+    "id": "369a20e90d60523b",
+    "title": "Bitcoin Eyes $74K After Rally as Analyst Flags $67K Support",
+    "summary": "Traders remain cautious about a straight-line recovery, with further volatility still possible around key support levels.",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/bitcoin-eyes-74k-after-rally-as-analyst-flags-67k-support/",
+    "source": "CryptoPotato",
+    "tags": [
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-20T16:28:19.000Z",
+    "fetchedAt": "2026-08-20T16:53:46.664Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin is eyeing the $74,000 level following a recent market rally. Analysts have identified $67,000 as a key support level to watch. Despite the upward momentum, traders continue to exercise caution regarding a potential straight-line recovery, noting that further volatility remains possible around these critical technical levels in the near term."
+  },
+  {
+    "id": "f2bf7fd847fd5a3d",
+    "title": "Ripple Mints More RLUSD as XRP Jumps 19%",
+    "summary": "Ripple has minted another batch of RLUSD as XRP stages a sharp rally, with the token surging nearly 19% in 24 hours and briefly reaching $1.24.",
+    "hasSummary": true,
+    "link": "https://u.today/ripple-mints-more-rlusd-as-xrp-jumps-19",
+    "source": "U.Today",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-08-20T16:19:36.000Z",
+    "fetchedAt": "2026-08-20T16:53:46.664Z",
+    "isDuplicateOf": null,
+    "content": null
+  },
+  {
+    "id": "33bbff5068e5a2bb",
+    "title": "Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist",
+    "tags": [
+      "Bitcoin",
+      "United States"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "pubDate": "2026-08-20T16:17:32.000Z"
+  },
+  {
+    "id": "6b8e4fd1c7e6527c",
+    "title": "Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "pubDate": "2026-08-20T16:12:00.000Z"
+  },
+  {
+    "id": "31a2dea44c3a4bbc",
+    "title": "Bitcoin Hits Highest Price Since June as $3 Billion in Shorts Liquidated",
+    "tags": [],
+    "source": "Decrypt",
+    "origin": "rss",
+    "pubDate": "2026-08-20T16:04:04.000Z"
+  },
+  {
     "id": "00f3553ceac5623b",
     "title": "Super Micro completes investigation, finds no management knowledge of Nvidia chip diversion scheme",
-    "summary": "Super Micro's cleared management may restore investor confidence, but enhanced compliance is crucial to prevent future export control breaches.\nThe post Super Micro completes investigation, finds no management knowledge of Nvidia chip diversion scheme appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/supermicro-investigation-nvidia-chip-diversion/",
-    "source": "CryptoBriefing",
     "tags": [
       "Super Micro",
       "Nvidia"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-20T16:02:04.000Z",
-    "fetchedAt": "2026-08-20T16:04:29.109Z",
-    "isDuplicateOf": null,
-    "content": "Super Micro has completed its investigation and found that management had no knowledge of a chip diversion scheme involving Nvidia technology. While clearing leadership may help restore investor confidence, experts emphasize that enhanced compliance measures remain crucial to prevent future export control breaches and ensure adherence to regulatory standards."
+    "pubDate": "2026-08-20T16:02:04.000Z"
   },
   {
     "id": "eef72fbbd1244ad5",
     "title": "Federal Reserve’s Musalem flags uneven credit tightening across the US economy",
-    "summary": "The uneven credit tightening could exacerbate economic disparities, impacting small businesses and employment, while larger firms remain resilient.\nThe post Federal Reserve’s Musalem flags uneven credit tightening across the US economy appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/fed-musalem-credit-tightening-economy/",
-    "source": "CryptoBriefing",
     "tags": [
       "Federal Reserve",
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-20T16:00:43.000Z",
-    "fetchedAt": "2026-08-20T16:04:29.109Z",
-    "isDuplicateOf": null,
-    "content": "Federal Reserve official Musalem has highlighted an uneven tightening of credit conditions throughout the United States economy. This disparity may place heavier burdens on smaller businesses and employment sectors, whereas larger corporations continue to demonstrate resilience against these tightening financial pressures."
+    "pubDate": "2026-08-20T16:00:43.000Z"
   },
   {
     "id": "52c651d8bcd3232f",
@@ -46,79 +154,49 @@
   {
     "id": "689031d23ff4b70f",
     "title": "US Treasury doubles buyback operations as 30-year yields hit levels not seen since 2007",
-    "summary": "The Treasury's expanded buybacks aim to stabilize bond markets, but rising yields could still hinder corporate investment and economic growth.\nThe post US Treasury doubles buyback operations as 30-year yields hit levels not seen since 2007 appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/treasury-bessent-buyback-expansion-bond-yields/",
-    "source": "CryptoBriefing",
     "tags": [
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-20T16:00:23.000Z",
-    "fetchedAt": "2026-08-20T16:04:29.109Z",
-    "isDuplicateOf": null,
-    "content": "The United States Treasury has doubled its buyback operations following a significant rise in 30-year yields to levels not seen since 2007. The expanded buyback program is designed to support liquidity and stabilize the broader bond markets. However, analysts note that persistently rising yields could still pose challenges for corporate investment and overall economic growth."
+    "pubDate": "2026-08-20T16:00:23.000Z"
   },
   {
     "id": "cce623d614cbbc95",
     "title": "Treasury rout restarts after Bessent’s buyback plan fails to calm bond market",
-    "summary": "Rising Treasury yields signal increased borrowing costs, impacting mortgages, corporate debt, and municipal projects, straining economic growth.\nThe post Treasury rout restarts after Bessent’s buyback plan fails to calm bond market appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/treasury-rout-bessent-buyback-plan/",
-    "source": "CryptoBriefing",
     "tags": [
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-20T15:58:24.000Z",
-    "fetchedAt": "2026-08-20T16:04:29.109Z",
-    "isDuplicateOf": null,
-    "content": "A renewed sell-off in US Treasuries has hit the bond market after a newly proposed buyback plan failed to calm investor concerns. Rising Treasury yields are driving up borrowing costs across the economy, impacting mortgages, corporate debt, and municipal projects. These financial pressures threaten to strain broader economic growth as market volatility persists."
+    "pubDate": "2026-08-20T15:58:24.000Z"
   },
   {
     "id": "7dbe23d6cc897783",
     "title": "The math behind the banker bet: Why crypto traders play baccarat with crypto",
-    "summary": "Crypto traders' use of baccarat highlights the allure of predictable odds and quick settlements, yet the house edge remains unyielding.\nThe post The math behind the banker bet: Why crypto traders play baccarat with crypto appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/crypto-gambling-baccarat-math-bankers-bet/",
-    "source": "CryptoBriefing",
     "tags": [],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-20T15:56:54.000Z",
-    "fetchedAt": "2026-08-20T16:04:29.109Z",
-    "isDuplicateOf": null,
-    "content": null
+    "pubDate": "2026-08-20T15:56:54.000Z"
   },
   {
     "id": "2653805a62f324c0",
     "title": "Standard Chartered adopts hedge fund strategies for wealth clients",
-    "summary": "Standard Chartered's strategy shift may enhance client portfolio resilience and diversification, potentially stabilizing returns amid market volatility.\nThe post Standard Chartered adopts hedge fund strategies for wealth clients appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/standard-chartered-hedge-fund-wealth-clients/",
-    "source": "CryptoBriefing",
     "tags": [],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-20T15:56:49.000Z",
-    "fetchedAt": "2026-08-20T16:04:29.109Z",
-    "isDuplicateOf": null,
-    "content": null
+    "pubDate": "2026-08-20T15:56:49.000Z"
   },
   {
     "id": "c0c6efab797e612e",
     "title": "Russian missile barrage escalates conflict in Kyiv, causing destruction and casualties",
-    "summary": "The intensified conflict in Kyiv raises market concerns about potential Russian advances, impacting strategic forecasts and geopolitical stability.\nThe post Russian missile barrage escalates conflict in Kyiv, causing destruction and casualties appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/russian-missile-barrage-escalates-conflict-in-kyiv-causing-destruction-and/",
-    "source": "CryptoBriefing",
     "tags": [
       "Russia",
       "Kyiv"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-20T15:54:16.000Z",
-    "fetchedAt": "2026-08-20T16:04:29.109Z",
-    "isDuplicateOf": null,
-    "content": "A recent Russian missile barrage on Kyiv has caused significant destruction and casualties, escalating the ongoing conflict. This intensification has raised concerns among market observers regarding geopolitical stability and potential strategic advances, impacting broader market forecasts and regional security outlooks."
+    "pubDate": "2026-08-20T15:54:16.000Z"
   },
   {
     "id": "d9c985f636a63042",
@@ -132,40 +210,42 @@
     "pubDate": "2026-08-20T15:53:51.000Z"
   },
   {
+    "id": "375ed063bb3e562d",
+    "title": "Ripple Enters $10 Billion Private Credit Market: What It Means for XRP",
+    "summary": "Ripple enters the $10 billion credit market via XRPL upgrades with Cicada and Clearpool.",
+    "hasSummary": true,
+    "link": "https://u.today/ripple-enters-10-billion-private-credit-market-what-it-means-for-xrp",
+    "source": "U.Today",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-08-20T15:53:25.000Z",
+    "fetchedAt": "2026-08-20T16:53:46.664Z",
+    "isDuplicateOf": null,
+    "content": null
+  },
+  {
     "id": "1537f98fe2b5ab25",
     "title": "Hudson River Trading signs multibillion dollar CoreWeave AI computing deal",
-    "summary": "Hudson River Trading signed a multibillion dollar deal with CoreWeave to expand AI computing capacity and access Nvidia Vera Rubin chips.\nThe post Hudson River Trading signs multibillion dollar CoreWeave AI computing deal appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/hudson-river-trading-signs-multibillion-dollar-coreweave-ai-computing-deal/",
-    "source": "CryptoBriefing",
     "tags": [
       "Hudson River Trading",
       "CoreWeave",
       "Nvidia"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-20T15:51:06.000Z",
-    "fetchedAt": "2026-08-20T16:04:29.109Z",
-    "isDuplicateOf": null,
-    "content": "Hudson River Trading has signed a multibillion-dollar agreement with CoreWeave to expand its artificial intelligence computing capacity. Through this partnership, the quantitative trading firm will gain access to advanced Nvidia Vera Rubin chips, marking a significant investment in high-performance infrastructure to support growing computational demands for AI workloads."
+    "pubDate": "2026-08-20T15:51:06.000Z"
   },
   {
     "id": "036d44df8347f6ef",
     "title": "Greg Brockman takes helm at OpenAI amid IPO preparations",
-    "summary": "Brockman's leadership may stabilize OpenAI's strategic direction, potentially enhancing IPO prospects amid legal and market challenges.\nThe post Greg Brockman takes helm at OpenAI amid IPO preparations appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/greg-brockman-takes-helm-at-openai-amid-ipo-preparations/",
-    "source": "CryptoBriefing",
     "tags": [
       "OpenAI",
       "Greg Brockman",
       "Crypto Briefing"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-20T15:50:39.000Z",
-    "fetchedAt": "2026-08-20T16:04:29.109Z",
-    "isDuplicateOf": null,
-    "content": "Greg Brockman has taken the helm at OpenAI as the organization prepares for a potential initial public offering. This leadership transition aims to stabilize the strategic direction of the company amidst various market and legal challenges, while also enhancing its overall prospects for going public."
+    "pubDate": "2026-08-20T15:50:39.000Z"
   },
   {
     "id": "3888c86cfc739e83",
@@ -180,36 +260,24 @@
   {
     "id": "c27a2473506a15d4",
     "title": "Intercontinental Exchange considers further investment in Polymarket",
-    "summary": "ICE's increased investment in Polymarket could reshape financial data distribution, enhancing real-time market sentiment analysis for investors.\nThe post Intercontinental Exchange considers further investment in Polymarket appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/ice-polymarket-further-investment/",
-    "source": "CryptoBriefing",
     "tags": [
       "Intercontinental Exchange",
       "Polymarket"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-20T15:44:56.000Z",
-    "fetchedAt": "2026-08-20T16:04:29.109Z",
-    "isDuplicateOf": null,
-    "content": "Intercontinental Exchange is reportedly considering making an additional investment in prediction market platform Polymarket. This potential move by the major financial exchange operator could significantly impact financial data distribution and improve real-time market sentiment analysis tools for investors across the industry."
+    "pubDate": "2026-08-20T15:44:56.000Z"
   },
   {
     "id": "90f69a8c1cf80510",
     "title": "White House unveils National Security Science and Technology Strategy targeting AI, semiconductors, and defense innovation",
-    "summary": "The strategy's focus on tech innovation and collaboration could redefine global power dynamics, emphasizing resilience and competitive edge.\nThe post White House unveils National Security Science and Technology Strategy targeting AI, semiconductors, and defense innovation appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/us-national-security-science-technology-strategy/",
-    "source": "CryptoBriefing",
     "tags": [
       "White House",
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-20T15:44:40.000Z",
-    "fetchedAt": "2026-08-20T16:04:29.109Z",
-    "isDuplicateOf": null,
-    "content": "The White House has introduced a new National Security Science and Technology Strategy aimed at advancing key technological sectors including artificial intelligence, semiconductors, and defense innovation. This initiative focuses on fostering technological innovation and collaboration to enhance national resilience and maintain a competitive edge, which could ultimately impact global power dynamics."
+    "pubDate": "2026-08-20T15:44:40.000Z"
   },
   {
     "id": "1ee110ded799df34",
@@ -224,16 +292,10 @@
   {
     "id": "dcb21f1e4e773d85",
     "title": "Fed’s Musalem: Forward guidance strategic when rates near zero",
-    "summary": "Forward guidance's strategic use by the Fed could stabilize market expectations, influencing future monetary policy decisions and economic forecasts.\nThe post Fed’s Musalem: Forward guidance strategic when rates near zero appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/feds-musalem-forward-guidance-strategic-when-rates-near-zero/",
-    "source": "CryptoBriefing",
     "tags": [],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-20T15:42:30.000Z",
-    "fetchedAt": "2026-08-20T16:04:29.109Z",
-    "isDuplicateOf": null,
-    "content": null
+    "pubDate": "2026-08-20T15:42:30.000Z"
   },
   {
     "id": "386c668ac30d2b70",
@@ -251,16 +313,10 @@
   {
     "id": "6e4c06d610cf922f",
     "title": "Crypto, AI and betting firms drive record spending in 2026 midterms",
-    "summary": "The surge in spending by emerging tech sectors in the 2026 midterms highlights a shift in political influence, potentially reshaping regulatory landscapes.\nThe post Crypto, AI and betting firms drive record spending in 2026 midterms appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/crypto-ai-betting-record-midterm-spending/",
-    "source": "CryptoBriefing",
     "tags": [],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-20T15:41:08.000Z",
-    "fetchedAt": "2026-08-20T16:04:29.109Z",
-    "isDuplicateOf": null,
-    "content": null
+    "pubDate": "2026-08-20T15:41:08.000Z"
   },
   {
     "id": "a414b69ddcf8a4c8",
@@ -273,6 +329,22 @@
     "source": "Cointelegraph",
     "origin": "rss",
     "pubDate": "2026-08-20T15:40:54.000Z"
+  },
+  {
+    "id": "a959b509fb23adbd",
+    "title": "FBI gets alleged $165 million crypto Ponzi scheme mastermind back after year-long Fiji escape",
+    "tags": [],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "pubDate": "2026-08-20T15:40:03.000Z"
+  },
+  {
+    "id": "1089d0532484724a",
+    "title": "Coinbase CEO Brian Armstrong Says Bitcoin Will Likely Hit $400,000 By 2030",
+    "tags": [],
+    "source": "Bitcoin Magazine",
+    "origin": "rss",
+    "pubDate": "2026-08-20T15:39:56.000Z"
   },
   {
     "id": "1a38235d270eab04",
@@ -349,16 +421,10 @@
   {
     "id": "411b7d327f0d1936",
     "title": "NeoSoul Raises $11 Million in Pre-A Funding to Accelerate Its Expansion in the AI Economy",
-    "summary": "NeoSoul announced the completion of an $11 million Pre-A funding round, with participation from MH Ventures, Amber Group, ArkStream Capital, 0G Foundation, Kirin Capital, CatcherVC, and New Oak International. The new capital will support the continued development of NeoSoul’s agentic trading products and broader AI economy infrastructure. The financing follows the launch of NeoTrade, NeoSoul’s\nThe post NeoSoul Raises $11 Million in Pre-A Funding to Accelerate Its Expansion in the AI Economy appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/neosoul-raises-11-million-in-pre-a-funding/",
-    "source": "BeInCrypto",
     "tags": [],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-08-20T15:00:00.000Z",
-    "fetchedAt": "2026-08-20T16:04:29.109Z",
-    "isDuplicateOf": null,
-    "content": null
+    "pubDate": "2026-08-20T15:00:00.000Z"
   },
   {
     "id": "55b6c5d30097fb24",
@@ -575,151 +641,5 @@
     "source": "CryptoBriefing",
     "origin": "rss",
     "pubDate": "2026-08-20T13:59:43.000Z"
-  },
-  {
-    "id": "523cd3e13751592a",
-    "title": "‘Star Wars vibes:’ Chainlink’s McCormick sees AI agents, robots driving blockchain transactions",
-    "tags": [
-      "Chainlink",
-      "Crypto Briefing"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "pubDate": "2026-08-20T13:58:22.000Z"
-  },
-  {
-    "id": "f49c0f13283f88e6",
-    "title": "Clearpool, Ripple, Cicada Credit team up for XRP Ledger lending platform",
-    "tags": [
-      "Clearpool",
-      "Ripple",
-      "Cicada Credit",
-      "XRP"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "pubDate": "2026-08-20T13:56:06.000Z"
-  },
-  {
-    "id": "c0186167aaa69420",
-    "title": "Polytrade Finance goes live on Robinhood Crypto with USDG trade credit",
-    "tags": [
-      "Polytrade Finance",
-      "Robinhood Crypto",
-      "USDG"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "pubDate": "2026-08-20T13:54:10.000Z"
-  },
-  {
-    "id": "a79ac7d604f82eb5",
-    "title": "AI solutions in business: Where automation delivers real value?",
-    "tags": [
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "pubDate": "2026-08-20T13:53:58.000Z"
-  },
-  {
-    "id": "964ca15fc6101246",
-    "title": "Virtu explores sale of brokerage unit valued at over $3.5B",
-    "tags": [
-      "Virtu"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "pubDate": "2026-08-20T13:52:29.000Z"
-  },
-  {
-    "id": "4ce438ab95aba9af",
-    "title": "Shein pushes Hong Kong IPO to September 1 as valuation slides from $98B peak",
-    "tags": [
-      "Shein",
-      "Hong Kong"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "pubDate": "2026-08-20T13:50:48.000Z"
-  },
-  {
-    "id": "f54242dda5212949",
-    "title": "Bitcoin’s 12% God Candle: Did OG Whales Just Kickstart the Next Bull Market?",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "pubDate": "2026-08-20T13:49:35.000Z"
-  },
-  {
-    "id": "68385ad394237f86",
-    "title": "Tandem Bank Makes Executive Changes Following Board Refresh Earlier this Year",
-    "tags": [
-      "Tandem Bank",
-      "Stephen Jones",
-      "Paul Pester",
-      "United Kingdom"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "pubDate": "2026-08-20T13:47:35.000Z"
-  },
-  {
-    "id": "e829f9c765851536",
-    "title": "US crude oil tops $87 as Trump warns of “Economic D-Day” for Iran",
-    "tags": [
-      "United States",
-      "Iran"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "pubDate": "2026-08-20T13:46:45.000Z"
-  },
-  {
-    "id": "8c9bd80b76495829",
-    "title": "XRP Lifts to $1.21 on Washington 'Hopium,' but Bollinger Bands Signal It's Time to Take Profit",
-    "tags": [
-      "XRP",
-      "Washington"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "pubDate": "2026-08-20T13:43:15.000Z"
-  },
-  {
-    "id": "047b4adcefb5c1f7",
-    "title": "New Jersey’s regulated iGaming market shows: How digital finance is reshaping online entertainment",
-    "tags": [
-      "New Jersey",
-      "United States"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "pubDate": "2026-08-20T13:40:13.000Z"
-  },
-  {
-    "id": "3fb6a6118df4f989",
-    "title": "West Ham agrees loan deal for Divine Mukasa from Manchester City",
-    "tags": [
-      "West Ham",
-      "Manchester City"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "pubDate": "2026-08-20T13:38:22.000Z"
-  },
-  {
-    "id": "1844f3371b16de68",
-    "title": "Dow, S&P 500, and Nasdaq open lower as bond market shrugs off Bessent’s buyback boost",
-    "tags": [
-      "Dow Jones Industrial Average",
-      "S&P 500",
-      "Nasdaq"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "pubDate": "2026-08-20T13:38:21.000Z"
   }
 ]
