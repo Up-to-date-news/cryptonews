@@ -42,10 +42,19 @@ async function fetchOneFeed(feedConfig, sinceDate) {
   try {
     const feed = await withTimeout(parser.parseURL(feedConfig.url), FEED_TIMEOUT_MS, feedConfig.sourceName);
     console.log(`[fetchFeeds] OK: ${feedConfig.sourceName} (${feed.items?.length ?? 0} item(s) in feed)`);
+    const maxAllowedDate = new Date(Date.now() + 5 * 60 * 1000); // small clock-skew tolerance
     for (const item of feed.items ?? []) {
       const pubDate = item.isoDate || item.pubDate || null;
       if (pubDate && new Date(pubDate) <= sinceDate) continue;
       if (!item.title || !item.link) continue;
+
+      // Some feeds (e.g. sponsored/scheduled content) publish items dated
+      // in the future. News can't happen ahead of time, and letting these
+      // through would let them sort above everything genuinely current.
+      if (pubDate && new Date(pubDate) > maxAllowedDate) {
+        console.log(`[fetchFeeds] Skipping future-dated item from "${feedConfig.sourceName}": "${item.title}" (${pubDate})`);
+        continue;
+      }
 
       items.push({
         title: item.title.trim(),
