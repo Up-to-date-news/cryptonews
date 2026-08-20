@@ -8,6 +8,14 @@ on:
 permissions:
   contents: write
 
+# Guarantees only one fetch cycle ever runs at a time — if a manual
+# trigger overlaps with the scheduled hourly run (or GitHub's scheduler
+# delay causes two to land close together), the second one queues
+# instead of running concurrently and racing on data/ commits.
+concurrency:
+  group: fetch-cycle
+  cancel-in-progress: false
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
