@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
+import { Link } from 'react-router-dom';
 
 function dayKey(pubDate) {
   return pubDate ? new Date(pubDate).toISOString().slice(0, 10) : null;
@@ -47,6 +48,7 @@ export default function AdminDashboardPage() {
       todayCount: rssPerDay.get(today) ?? 0,
       avgPerDay: avgPerDay.toFixed(1),
       totalManual: manualItems.length,
+      needsContent: index.filter((a) => a.hasContent === false).length,
     };
   }, [index, feedCount]);
 
@@ -76,6 +78,10 @@ export default function AdminDashboardPage() {
             <span className="stat-value">{stats.totalRss}</span>
             <span className="stat-label">Total articles</span>
           </div>
+          <Link to="/admin/needs-content" className="stat-tile stat-tile-link">
+            <span className="stat-value">{stats.needsContent}</span>
+            <span className="stat-label">Needs content</span>
+          </Link>
         </div>
       </section>
 

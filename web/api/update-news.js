@@ -29,9 +29,9 @@ export default async function handler(req, res) {
     const index = await readJsonFile(octokit, cfg, indexPath, []);
     const indexEntry = index.find((a) => a.id === id);
     if (!indexEntry) return res.status(404).json({ error: 'Article not found.' });
-    if (indexEntry.origin !== 'manual') {
-      return res.status(403).json({ error: 'Only manually-created posts can be edited.' });
-    }
+    // Any post can be edited, not just manually-created ones — this is what
+    // lets the admin fill in content for RSS articles that the AI enrichment
+    // step skipped (e.g. daily quota exhausted) via the "Needs Content" page.
 
     const dayPath = `data/articles/${dayKeyFromDate(indexEntry.pubDate)}.json`;
     const dayArticles = await readJsonFile(octokit, cfg, dayPath, []);
@@ -42,7 +42,7 @@ export default async function handler(req, res) {
     const updatedArticle = { ...dayArticles[articleIdx], title: title.trim(), content: content.trim(), tags: tagList, imagePath };
     dayArticles[articleIdx] = updatedArticle;
 
-    const updatedIndex = index.map((a) => (a.id === id ? { ...a, title: updatedArticle.title, tags: tagList, imagePath } : a));
+    const updatedIndex = index.map((a) => (a.id === id ? { ...a, title: updatedArticle.title, tags: tagList, hasContent: true, imagePath } : a));
 
     const latest = await readJsonFile(octokit, cfg, latestPath, []);
     const latestHasEntry = latest.some((a) => a.id === id);

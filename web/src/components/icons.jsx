@@ -99,6 +99,16 @@ export function MoreIcon(props) {
   );
 }
 
+export function AlertIcon(props) {
+  return (
+    <Icon {...props}>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M12 8v5" />
+      <circle cx="12" cy="16" r="0.5" fill="currentColor" stroke="none" />
+    </Icon>
+  );
+}
+
 export function ChevronRightIcon(props) {
   return (
     <Icon {...props}>

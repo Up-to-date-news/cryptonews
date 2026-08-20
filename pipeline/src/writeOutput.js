@@ -57,6 +57,10 @@ async function updateIndex(publishedItems) {
       tags: item.tags ?? [],
       source: item.source,
       origin: item.origin ?? 'rss',
+      // Lets the admin "Needs Content" page filter without fetching every
+      // day-file — set false when enrichment produced nothing (AI quota
+      // exhausted, generation failed, etc.) so the admin can fill it in.
+      hasContent: Boolean(item.content),
       pubDate: item.pubDate,
     }));
 

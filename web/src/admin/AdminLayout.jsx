@@ -1,6 +1,7 @@
 import { NavLink, Outlet, useNavigate } from 'react-router-dom';
 import { useAdminAuth } from './useAdminAuth.js';
-import { DashboardIcon, PostsIcon, EventsIcon, TagsIcon, LogoutIcon } from '../components/icons.jsx';
+import { useNeedsContent } from '../data/useNeedsContent.js';
+import { DashboardIcon, PostsIcon, EventsIcon, TagsIcon, AlertIcon, LogoutIcon } from '../components/icons.jsx';
 
 function navClass({ isActive }) {
   return isActive ? 'admin-nav-link active' : 'admin-nav-link';
@@ -9,6 +10,7 @@ function navClass({ isActive }) {
 export default function AdminLayout() {
   const { logout } = useAdminAuth();
   const navigate = useNavigate();
+  const { count: needsContentCount } = useNeedsContent();
 
   function handleLogout() {
     logout();
@@ -31,6 +33,10 @@ export default function AdminLayout() {
           </NavLink>
           <NavLink to="/admin/tags" className={navClass}>
             <TagsIcon size={17} /> Tags
+          </NavLink>
+          <NavLink to="/admin/needs-content" className={navClass}>
+            <AlertIcon size={17} /> Needs Content
+            {needsContentCount > 0 && <span className="admin-nav-badge">{needsContentCount}</span>}
           </NavLink>
         </nav>
         <button onClick={handleLogout} className="admin-sidebar-logout">

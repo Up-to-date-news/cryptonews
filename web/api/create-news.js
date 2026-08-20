@@ -48,6 +48,7 @@ export default async function handler(req, res) {
     tags: article.tags,
     source: article.source,
     origin: article.origin,
+    hasContent: true,
     imagePath: article.imagePath,
     pubDate: article.pubDate,
   };

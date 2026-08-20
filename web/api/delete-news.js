@@ -22,9 +22,9 @@ export default async function handler(req, res) {
     const index = await readJsonFile(octokit, cfg, indexPath, []);
     const indexEntry = index.find((a) => a.id === id);
     if (!indexEntry) return res.status(404).json({ error: 'Article not found.' });
-    if (indexEntry.origin !== 'manual') {
-      return res.status(403).json({ error: 'Only manually-created posts can be deleted.' });
-    }
+    // Any post can be deleted, not just manually-created ones — the Needs
+    // Content page needs to be able to discard RSS articles the admin
+    // doesn't want to bother writing content for.
 
     const dayPath = `data/articles/${dayKeyFromDate(indexEntry.pubDate)}.json`;
     const dayArticles = await readJsonFile(octokit, cfg, dayPath, []);

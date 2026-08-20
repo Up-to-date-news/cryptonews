@@ -16,6 +16,7 @@ import AdminEventsListPage from './pages/AdminEventsListPage.jsx';
 import AdminCreateEventPage from './pages/AdminCreateEventPage.jsx';
 import AdminEditEventPage from './pages/AdminEditEventPage.jsx';
 import AdminTagsPage from './pages/AdminTagsPage.jsx';
+import AdminNeedsContentPage from './pages/AdminNeedsContentPage.jsx';
 import AdminGuard from './admin/AdminGuard.jsx';
 import AdminLayout from './admin/AdminLayout.jsx';
 import ThemeToggle from './components/ThemeToggle.jsx';
@@ -33,7 +34,10 @@ function PublicLayout() {
   return (
     <div className="app">
       <header className="site-header">
-        <Link to="/" className="site-logo">up to date news</Link>
+        <Link to="/" className="site-logo" aria-label="up to date news">
+          <img src="/logos/logo-web.svg" alt="up to date news" className="site-logo-img site-logo-img-web" />
+          <img src="/logos/logo-mobile.svg" alt="up to date news" className="site-logo-img site-logo-img-mobile" />
+        </Link>
         <nav className="site-nav">
           <NavLink to="/" end className={({ isActive }) => (isActive ? 'active' : '')}>News</NavLink>
           <NavLink to="/events" className={({ isActive }) => (isActive ? 'active' : '')}>Event</NavLink>
@@ -91,6 +95,7 @@ export default function App() {
         <Route path="events/new" element={<AdminCreateEventPage />} />
         <Route path="events/:id/edit" element={<AdminEditEventPage />} />
         <Route path="tags" element={<AdminTagsPage />} />
+        <Route path="needs-content" element={<AdminNeedsContentPage />} />
       </Route>
     </Routes>
   );
