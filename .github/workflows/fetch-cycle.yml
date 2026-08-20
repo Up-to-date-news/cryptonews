@@ -13,7 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     # Safety net beyond the in-code timeouts: even an unforeseen hang gets
     # killed here instead of blocking the next scheduled run for hours.
-    timeout-minutes: 15
+    # Needs real headroom, not just enough for a normal hour's volume —
+    # if a run ever fails to finish, state.json's checkpoint doesn't
+    # advance, so the *next* run has an even bigger backlog to catch up
+    # on. Too tight a limit here creates a self-perpetuating stuck loop.
+    timeout-minutes: 40
     steps:
       - name: Checkout
         uses: actions/checkout@v4
