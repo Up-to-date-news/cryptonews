@@ -1,5 +1,19 @@
 [
   {
+    "id": "3a6d1e1d-1e3c-4c91-9ed5-8c4c386aaf0a",
+    "title": "Zcash Rallies 12% on Grayscale ETF Filing and $110M Purchase Plan",
+    "content": "Driven by institutional momentum and a broader market recovery, Zcash (ZEC) surged 12% after breaking out of its previous consolidation range. The rally is anchored by Grayscale advancing its spot ETF application with NYSE Arca and a Digital Currency Group subsidiary discussing a potential $110 million ZEC acquisition. To sustain this upward trajectory, ZEC must hold critical support above the $550 mark to avoid a breakdown toward $500. A decisive close above the key $600 psychological barrier would confirm the breakout and open the door for a continuation toward the $650–$700 target zone.",
+    "tags": [
+      "ZEC"
+    ],
+    "source": "Admin",
+    "origin": "manual",
+    "link": null,
+    "isDuplicateOf": null,
+    "pubDate": "2026-08-20T13:36:41.905Z",
+    "fetchedAt": "2026-08-20T13:36:41.905Z"
+  },
+  {
     "id": "3ab5d8d27de3deb6",
     "title": "Massachusetts lawmakers seek to establish strict AI safeguards",
     "tags": [
@@ -76,10 +90,6 @@
   {
     "id": "1646b046cfe16b04",
     "title": "11th Edition Banking Book Risk Management",
-    "summary": "Integrate IRRBB, CSRBB, and funding strategies to strengthen capital efficiency and strategic decision-making\nBanks are facing growing pressure to manage interest rate risk in the banking book (IRRBB) and credit spread risk in the banking book (CSRBB) while navigating evolving regulatory frameworks and unprecedented market volatility. The 11th Annual Banking Book Risk Management Conference brings together ALM heads, risk managers, treasury leaders, and portfolio strategists to explore cutting-edge practices in interest rate, deposit behaviour, and balance sheet risk management. Through case studies, interactive panels, and workshops, delegates will gain actionable insights on modelling, stress testing, scenario analysis, and governance strategies that maximize balance sheet resilience and profitability.\nThe Marcus Evans 11th Edition Banking Book Risk Management conference will provide banking book, ALM, and risk professionals with the opportunity to benchmark best practices in managing interest rate, credit spread, and deposit-driven risks in today’s evolving financial landscape. It will feature case studies and insights from leading European institutions on optimising FTP, hedging strategies, and integrating IRRBB and CSRBB frameworks with economic capital and governance objectives. Core discussions will explore AI-driven behavioural modelling, deposit segmentation, prepayment risk management, and strategic funding decisions to preserve NII and EVE stability. Participants will also gain practical guidance on aligning regulatory compliance with forward-looking balance sheet strategy, leveraging integrated risk insights, and enhancing collaboration across treasury, ALM, and risk teams to drive resilient and profitable banking book performance.\nTopics Covered:\nRisk mitigation accounting: The new accounting model reflecting interest rate risk management in financial statements and its prudential implications \nImprove banking book risk modelling accuracy through detailed segmentation and data governance \nIntegrate deposit behaviour insights into IRRBB and banking book risk management under shifting rate environments \nLeverage AI and advanced analytics to optimise banking book risk insights \nOptimise FTP and Hedging to enhance ALM and interest rate risk management \nDrive balance sheet performance through strategic funding and hedging \nBest Practices and Case Studies from:\nLuca Ciavoliello, Team Lead , Supervisory Policy Division, European Central Bank \nTullio Lucca, Head of Strategic Asset & Liability Management, Intesa Sanpaolo\nJacek Rzeźnik, Deputy Director ALM Risk, mBank S.A.\nLejla Hodzic, Head of ICAAP/ILAAP, Market and Liquidity Risk Management, Sparkasse Bank\nThomas Obitz, Expert Advisor Risk and Regulatory Change, RiskTransform\nUwe Jurkschat, Head of Treasury, Deutsche Kreditbank AG\nSpecial discounts available to Financial IT members! For more information please contact: Stefanos Ioannou, Digital Media and PR Executive at stefanosi@marcusevanscy.com  or visit: https://bit.ly/4rqlwxE \n \nNoYesFinTech StartUps20 Aug, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/fintech-startups/11th-edition-banking-book-risk-management",
-    "source": "Financial IT",
     "tags": [
       "Marcus Evans",
       "European Central Bank",
@@ -88,11 +98,9 @@
       "Sparkasse Bank",
       "Deutsche Kreditbank AG"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-08-20T11:09:52.000Z",
-    "fetchedAt": "2026-08-20T11:24:30.876Z",
-    "isDuplicateOf": null,
-    "content": "The 11th Annual Banking Book Risk Management Conference will bring together finance professionals to address challenges in managing interest rate and credit spread risks. Hosted by Marcus Evans, the event features expert speakers from leading European financial institutions. Discussions will focus on regulatory compliance, deposit behaviour modelling, FTP optimization, and leveraging advanced analytics to enhance balance sheet resilience and strategic decision-making in volatile markets."
+    "pubDate": "2026-08-20T11:09:52.000Z"
   },
   {
     "id": "16ee72006eaa6d92",
@@ -252,19 +260,13 @@
   {
     "id": "4aa823c322ba7ef8",
     "title": "Stripe, OpenRouter finally strike a deal",
-    "summary": "The payments behemoth’s acquisition of the AI spend management firm has been in the works for weeks. The reported price tag: $7.5 billion.",
-    "hasSummary": true,
-    "link": "https://www.bankingdive.com/news/stripe-openrouter-acquisition-ai-7-billion/828357/",
-    "source": "Banking Dive",
     "tags": [
       "Stripe",
       "OpenRouter"
     ],
+    "source": "Banking Dive",
     "origin": "rss",
-    "pubDate": "2026-08-20T10:49:00.000Z",
-    "fetchedAt": "2026-08-20T11:24:30.876Z",
-    "isDuplicateOf": null,
-    "content": "Payments giant Stripe has officially reached an agreement to acquire AI spend management firm OpenRouter. The deal, which has been under discussion for several weeks, carries a reported price tag of $7.5 billion. This major acquisition highlights the increasing convergence of financial technology and artificial intelligence infrastructure as leading industry players expand their capabilities in the rapidly growing artificial intelligence market."
+    "pubDate": "2026-08-20T10:49:00.000Z"
   },
   {
     "id": "c49fef0659b18650",
@@ -334,10 +336,6 @@
   {
     "id": "a31e917d8efe3f0e",
     "title": "Axiology Selected to Participate in ECB’s Pontes Initial Launch and Appia Contact Group",
-    "summary": "Axiology, the digital asset financial infrastructure platform, today announces that it has been included in the European Central Bank’s evolving list of distributed ledger technology operators registered for the initial launch of Pontes in September 2026, and has also been selected to participate in the ECB’s Appia Contact Group.\n \nAxiology is one of four DLT operators included on the Pontes list, alongside Clearstream, SWIAT and Cashlink. Its participation in the Appia Contact Group extends Axiology’s involvement across the Eurosystem’s two key initiatives for DLT-based settlement using central bank money.\n \nPontes and Appia are complementary parts of the Eurosystem’s strategy for tokenized wholesale markets. Pontes focuses on connecting DLT platforms with TARGET Services, while Appia looks to the longer-term development of a more integrated tokenized financial ecosystem. The new Appia Contact Group brings market engagement across both initiatives into a single forum, supporting the evolution of Pontes as well as the development of the Appia roadmap. Axiology’s involvement in both initiatives positions it to contribute to both the practical implementation of DLT settlement and the evolution of Europe’s future market infrastructure.\n \nTogether, these initiatives support the development of a European capital markets environment in which tokenized securities can move more efficiently across regulated infrastructure. Europe’s markets remain fragmented across national systems and infrastructures, creating additional operational hand-offs and complexity for cross-border issuance and investment. Connecting DLT-based securities infrastructure with central bank money settlement is an important step towards reducing that fragmentation.\n \nAxiology is preparing to connect its regulated DLT Trading and Settlement System (DLT TSS) with Eurosystem payment infrastructure. Under the model being tested, tokenized securities remain recorded and transferred through Axiology’s infrastructure, while the corresponding cash leg can settle in central bank money. Axiology’s testing work covers settlement scenarios relevant to the lifecycle of digital securities, including primary issuance, secondary-market transactions, redemptions and coupon or interest payments.\n \n\nMarius Jurgilas, CEO of Axiology, said, “Tokenization will only deliver meaningful change to European capital markets if digital securities can connect effectively with the infrastructure institutions already rely on. Pontes is an important step in making that connection possible today, while Appia looks further ahead to how a more integrated tokenised financial ecosystem could develop. For Axiology, participating in both is an opportunity to help demonstrate how regulated DLT infrastructure can become part of the wider European financial system.” \n \nAxiology is currently progressing through the Pontes testing and certification process ahead of the initial launch, scheduled for 21 September 2026. Production participation remains subject to the completion of all operational prerequisites, as well as final certification and necessary regulatory approvals.\nNoYesAsset Management20 Aug, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/asset-management/axiology-selected-participate-ecbs-pontes-initial-launch-and-appia-contact",
-    "source": "Financial IT",
     "tags": [
       "Axiology",
       "European Central Bank",
@@ -345,11 +343,9 @@
       "SWIAT",
       "Cashlink"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-08-20T10:42:07.000Z",
-    "fetchedAt": "2026-08-20T11:24:30.876Z",
-    "isDuplicateOf": null,
-    "content": "Axiology has been selected to participate in the European Central Bank’s Pontes initial launch scheduled for September 2026 and the Appia Contact Group. As one of the DLT operators involved, Axiology will connect its regulated DLT Trading and Settlement System with Eurosystem payment infrastructure. These initiatives aim to reduce fragmentation in European capital markets by enabling tokenized securities to settle using central bank money across regulated infrastructure."
+    "pubDate": "2026-08-20T10:42:07.000Z"
   },
   {
     "id": "5c293a6f89674b92",
@@ -432,18 +428,12 @@
   {
     "id": "260a9cbda5414eb4",
     "title": "The Biggest Fraud Risk May Already Be Inside the Business, Warns Chargebacks911",
-    "summary": "The payments industry has spent years building walls through fraud filters, AI detection, behavioral biometrics, 3D Secure and machine learning that have all been designed to stop threats arriving from outside. New research from Chargebacks911, a global leader in dispute resolution and chargeback management, suggests many merchants have spent years defending against the wrong threat.\nThe 2026 Chargeback Field Report, based on proprietary survey data from more than 250 merchants, finds that nearly one in four merchants has experienced employee-initiated fraud or in-house collusion. Fewer than four in ten of those merchants actively monitor for it. More than half, 53.5%, either do not know whether the problem is being tracked within their organization or confirmed outright that it is not.\nThe findings arrive as retailers across global markets enter one of the busiest seasonal hiring periods of the year. Back-to-school recruitment brings large numbers of temporary employees into direct contact with payment systems, refund processes and customer data at precisely the moment internal controls are under their greatest pressure.\n\"The most sophisticated fraud prevention platform in the world cannot stop a threat it was never designed to recognize,\" said Monica Eaton, Founder and CEO of Chargebacks911. \"Merchants have invested heavily in stopping fraud at the door. Very few have stopped to ask what happens when the threat already has a key.\"\nInternal fraud rarely looks dramatic as it does not resemble someone breaking into a system or stealing payment credentials. It looks like ordinary business continuing exactly as expected and that is precisely what makes it so difficult to detect.\nIn its most deliberate form, an employee with access to customer accounts directs a buyer to file a chargeback rather than request a refund through the merchant, with the resulting funds shared between them. The merchant loses the transaction, absorbs the chargeback fee and has no obvious way to trace the loss back to its source.\nSometimes there is no malicious intent at all. A refund is agreed but never processed correctly. The customer disputes the payment, the merchant absorbs the loss and the resulting chargeback appears no different from external fraud.\nBoth scenarios produce losses that are functionally indistinguishable from external fraud. Without visibility across the full dispute lifecycle, most merchants will never know the difference.\n\"The assumption behind most fraud prevention strategies is that the threat is outside the building,\" said Donald Kossmann, Chief Technology Officer at Chargebacks911. \"That assumption determines which data gets monitored, which patterns get flagged and, just as importantly, which risks never get questioned. Internal fraud is effective because it operates inside the perimeter that assumption creates. It doesn't bypass controls. Managing internal fraud isn't a matter of suspicion but rather of architecture. Merchants need continuous visibility across dispute activity to identify unusual patterns before unexplained losses become accepted as part of doing business.\"\nThe back-to-school period is a period in which retailers deliberately expand access to sensitive systems under accelerated timelines, with onboarding compressed by necessity and oversight stretched by volume. New employees are not inherently a risk, but process weaknesses that experienced teams have learned to work around become significantly more dangerous when large numbers of temporary staff are introduced in a short period of time.\nFewer than half of merchants surveyed monitor employee actions that result in disputes at all. Most organizations that uncover internal fraud do so retrospectively, not because their systems detected it, but because the losses eventually became too large to ignore.\nChargebacks911's Unified Dispute Management System (UDMS) applies AI and machine learning across the full dispute lifecycle, identifying patterns consistent with internal process failures or deliberate collusion that remain invisible when cases are reviewed individually. ResolveLab provides continuous, real-time performance measurement across dispute activity, giving merchants the operational visibility to distinguish between external fraud, consumer abuse and internally generated losses.\n\"Most merchants discover internal fraud by accident,\" said Eaton. \"A pattern eventually becomes too obvious to ignore, or someone says something they shouldn't. That is not a detection strategy. Merchants who are serious about managing this risk need to understand their own dispute activity well enough to recognize when something doesn't add up, before the business starts explaining away losses it should have prevented.\"\nNoYesFraud Detection20 Aug, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/fraud-detection/biggest-fraud-risk-may-already-be-inside-business-warns-chargebacks911",
-    "source": "Financial IT",
     "tags": [
       "Chargebacks911"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-08-20T10:28:10.000Z",
-    "fetchedAt": "2026-08-20T11:24:30.876Z",
-    "isDuplicateOf": null,
-    "content": "New research from Chargebacks911 warns that internal fraud and employee collusion pose a major risk to merchants, often going unnoticed as businesses focus heavily on external threats. According to the 2026 Chargeback Field Report, nearly one in four merchants experiences in-house fraud, yet most lack proper monitoring systems. Experts advise businesses to improve visibility across the full dispute lifecycle to catch internal risks early."
+    "pubDate": "2026-08-20T10:28:10.000Z"
   },
   {
     "id": "d4afcab8587a6a77",
@@ -571,19 +561,13 @@
   {
     "id": "c2c5a2a9ea92486f",
     "title": "Float Instalment Platform Confirms Early Traction From UK Merchants",
-    "summary": "Float, the credit card-linked instalment platform, which launched in the UK just one month ago (July 2026), has already onboarded UK merchants and is reporting early positive results and feedback.\nThese early adopter UK merchants come from Float’s higher-value verticals in consumer electronics, furniture and home and sports and leisure.  Float also confirms it is in advanced conversations with more brands in those sectors as well as in the automotive, beauty, luxury fashion and jewellery sectors. \n“The merchant response in the UK has been overwhelmingly positive as they see the almost immediate benefit Float delivers” says Alex Forsyth-Thompson, Float’s Founder and CEO.  “Merchants tell us they view Float as a financially responsible option for their many customers who simply don’t want to take out new loans to make much needed purchases.  They are enthusiastic that there's no new credit facility being issued, with bank-approved limits which are generally much larger than other checkout financing options. In general, they find Float new and genuinely quite different from other instalment offerings.” \nKey early statistics reveal:\nThe speed of adoption from UK customers on merchants’ sites has been impressively swift.  75% of UK merchants are processing transactions on the same day they go live with Float.  The remaining 25% within 10 days.\nThe UK average order value (AOV) is currently £676 and increasing\nFloat works well alongside other checkout financing options, typically 2–3 purchases made through Float’s platform see an average order value uplift of 133%. UK stats are a smaller sample of this number but are trending towards the same global average. \n“We are delighted with these initial results” confirms Forsyth-Thompson.  “What it proves is the power of leveraging existing credit card facilities – customers are already familiar with their credit card and obviously feel comfortable using it from the get-go. At the same time, UK merchants are familiar with the power of instalment offerings at checkout. Together this has led to early adoption on both sides.”\nA major furniture and home merchant which was one of the first to sign up to Float said: \"Since introducing Float, we've seen strong customer adoption thanks to its simple, intuitive checkout experience. Being able to offer instalment payments using customers' existing credit cards provides a genuine alternative to traditional finance options. The Float team has been responsive, professional and easy to work with, and the platform has become an important part of our payment offering. We would confidently recommend Float to retailers looking to improve customer choice and support higher-value purchases.\"\nFloat is compatible with 55+ million UK credit cards and lets merchants offer their shoppers up to 12 interest- and fee-free1 monthly instalments using the credit card they already have on their existing credit card – with no new credit facility issued and no additional sign-up process. Float’s technology powers card-linked instalment payments: entirely within the shopper's existing credit limit. \n\nNoYesLending20 Aug, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/lending/float-instalment-platform-confirms-early-traction-uk-merchants",
-    "source": "Financial IT",
     "tags": [
       "Float",
       "United Kingdom"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-08-20T10:08:30.000Z",
-    "fetchedAt": "2026-08-20T11:24:30.876Z",
-    "isDuplicateOf": null,
-    "content": "Float, a credit card-linked instalment platform, has confirmed early traction and positive feedback from UK merchants just one month after launching in the country. The platform enables shoppers to use existing credit card limits for interest-free instalments across high-value retail sectors. Initial statistics indicate swift customer adoption and strong average order values, with merchants praising the seamless integration and alternative checkout financing options."
+    "pubDate": "2026-08-20T10:08:30.000Z"
   },
   {
     "id": "7801299da95b79e5",
@@ -685,17 +669,5 @@
     "source": "Coinpedia",
     "origin": "rss",
     "pubDate": "2026-08-20T09:46:30.000Z"
-  },
-  {
-    "id": "5d37c17cd3829559",
-    "title": "Coinbase brings 290+ Hyperliquid perps to Base app – Here’s why it matters",
-    "tags": [
-      "Coinbase",
-      "Hyperliquid",
-      "Base"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "pubDate": "2026-08-20T09:45:18.000Z"
   }
 ]
