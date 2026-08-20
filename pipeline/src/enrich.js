@@ -81,6 +81,16 @@ function extractRetryDelayMs(err) {
   return match ? Math.ceil(parseFloat(match[1]) * 1000) + 500 : null;
 }
 
+// The free tier has two separate 429 limits: a per-minute burst limit (15
+// RPM, worth retrying — it clears in seconds) and a per-day cap (500/day,
+// pointless to retry — it won't clear until Google's daily reset). Google's
+// error puts "PerDay" in the quotaId when it's the latter.
+class DailyQuotaExceededError extends Error {}
+
+function isDailyQuotaError(err) {
+  return /PerDay/i.test(err.message ?? '');
+}
+
 async function generateContent(item) {
   const client = getClient();
   const model = client.getGenerativeModel({
@@ -108,6 +118,9 @@ async function generateContentWithRetry(item) {
       return await generateContent(item);
     } catch (err) {
       const isRateLimit = err.message?.includes('429') || err.status === 429;
+      if (isRateLimit && isDailyQuotaError(err)) {
+        throw new DailyQuotaExceededError(err.message);
+      }
       if (!isRateLimit || attempt === MAX_RETRIES) throw err;
 
       const delay = extractRetryDelayMs(err) ?? MIN_REQUEST_INTERVAL_MS * 2 ** attempt;
@@ -121,13 +134,23 @@ export async function enrichItems(dedupedItems) {
   const toEnrich = dedupedItems.filter((item) => item.isDuplicateOf === null);
   let successCount = 0;
 
-  for (const item of toEnrich) {
+  for (let i = 0; i < toEnrich.length; i++) {
+    const item = toEnrich[i];
     try {
       const result = await generateContentWithRetry(item);
       item.content = result.content;
       item.tags = result.tags;
       successCount++;
     } catch (err) {
+      if (err instanceof DailyQuotaExceededError) {
+        // Every remaining item would fail the exact same way — stop
+        // spending a network round-trip (and the pacing sleep) on each one
+        // individually and just mark them all unenriched right away.
+        const remaining = toEnrich.slice(i);
+        console.error(`[enrich] Gemini's free-tier daily quota is exhausted — skipping content generation for the remaining ${remaining.length} item(s) instead of retrying each one.`);
+        for (const skipped of remaining) skipped.content = null;
+        break;
+      }
       console.error(`[enrich] Failed to generate content for "${item.title}": ${err.message}`);
       item.content = null;
     }
