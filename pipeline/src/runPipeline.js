@@ -77,7 +77,9 @@ async function main() {
   console.log(`[runPipeline] Done. Published ${totalPublished} article(s) this run. Archive now has ${totalIndexed ?? 'an unchanged number of'} total.`);
 }
 
-main().catch((err) => {
-  console.error('[runPipeline] Fatal error, run aborted:', err);
-  process.exit(1);
-});
+main()
+  .then(() => process.exit(0))
+  .catch((err) => {
+    console.error('[runPipeline] Fatal error, run aborted:', err);
+    process.exit(1);
+  });
