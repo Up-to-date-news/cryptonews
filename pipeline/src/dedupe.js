@@ -11,11 +11,31 @@ const INDEX_PATH = path.join(__dirname, '../../data/index.json');
 // similarity, unrelated headlines ~0.2. Re-tune as real archive data comes in.
 const SIMILARITY_THRESHOLD = 0.72;
 const MODEL_NAME = 'Xenova/all-MiniLM-L6-v2';
+// Each CI run is a fresh machine with no model cache, so this downloads
+// ~90MB from Hugging Face every time. Without a timeout, a stalled
+// download hangs the whole pipeline indefinitely (seen in production —
+// a run sat "in progress" for 2+ hours with no way to recover on its own).
+const MODEL_LOAD_TIMEOUT_MS = 120000;
+
+function withTimeout(promise, ms, label) {
+  let timer;
+  const timeout = new Promise((_, reject) => {
+    timer = setTimeout(() => reject(new Error(`Timed out after ${ms}ms: ${label}`)), ms);
+  });
+  return Promise.race([promise, timeout]).finally(() => clearTimeout(timer));
+}
 
 let embedderPromise = null;
 function getEmbedder() {
   if (!embedderPromise) {
-    embedderPromise = pipeline('feature-extraction', MODEL_NAME);
+    embedderPromise = withTimeout(
+      pipeline('feature-extraction', MODEL_NAME),
+      MODEL_LOAD_TIMEOUT_MS,
+      'loading embedding model'
+    ).catch((err) => {
+      embedderPromise = null; // allow a retry on the next embed() call instead of caching the failure forever
+      throw err;
+    });
   }
   return embedderPromise;
 }
@@ -26,7 +46,11 @@ function embeddingText(item) {
 
 async function embed(text) {
   const embedder = await getEmbedder();
-  const output = await embedder(text, { pooling: 'mean', normalize: true });
+  const output = await withTimeout(
+    embedder(text, { pooling: 'mean', normalize: true }),
+    30000,
+    'embedding inference'
+  );
   return Array.from(output.data);
 }
 
