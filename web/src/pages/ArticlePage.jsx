@@ -59,6 +59,9 @@ export default function ArticlePage() {
   return (
     <article className="article-page">
       <Link to="/" className="back-link">← Back</Link>
+      {article.imagePath && (
+        <img src={`/${article.imagePath}`} alt="" className="article-detail-image" />
+      )}
       <h1>{article.title}</h1>
       {article.tags?.length > 0 && (
         <div className="tag-list">

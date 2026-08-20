@@ -635,6 +635,30 @@ label.radio-option {
 
 /* Admin list views (posts, events) */
 
+.admin-filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem;
+  margin: 0 0 1.25rem;
+}
+
+.admin-filter-row .search-bar {
+  flex: 1 1 220px;
+  margin: 0;
+}
+
+.admin-filter-row select,
+.admin-filter-row input[type='date'] {
+  padding: 0.55rem 0.8rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--card-bg);
+  color: var(--fg);
+  font: inherit;
+  font-size: 0.85rem;
+}
+
 .admin-list {
   display: flex;
   flex-direction: column;
@@ -865,7 +889,8 @@ label.radio-option {
   gap: 0.5rem;
 }
 
-.event-detail-image {
+.event-detail-image,
+.article-detail-image {
   width: 100%;
   max-height: 320px;
   object-fit: cover;

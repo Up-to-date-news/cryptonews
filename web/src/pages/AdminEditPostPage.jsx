@@ -7,6 +7,15 @@ function dayKeyFromPubDate(pubDate) {
   return new Date(pubDate).toISOString().slice(0, 10);
 }
 
+function fileToDataUrl(file) {
+  return new Promise((resolve, reject) => {
+    const reader = new FileReader();
+    reader.onload = () => resolve(reader.result);
+    reader.onerror = reject;
+    reader.readAsDataURL(file);
+  });
+}
+
 export default function AdminEditPostPage() {
   const { id } = useParams();
   const { authFetch } = useAdminAuth();
@@ -16,6 +25,8 @@ export default function AdminEditPostPage() {
   const [content, setContent] = useState('');
   const [knownTags, setKnownTags] = useState([]);
   const [selectedTags, setSelectedTags] = useState([]);
+  const [existingImagePath, setExistingImagePath] = useState(null);
+  const [imageFile, setImageFile] = useState(null);
   const [loading, setLoading] = useState(true);
   const [loadError, setLoadError] = useState(null);
   const [status, setStatus] = useState('idle'); // idle | submitting | error
@@ -43,6 +54,7 @@ export default function AdminEditPostPage() {
       setContent(full.content);
       setSelectedTags(full.tags ?? []);
       setKnownTags(merged);
+      setExistingImagePath(full.imagePath ?? null);
     }
 
     load()
@@ -56,10 +68,12 @@ export default function AdminEditPostPage() {
     setErrorMessage('');
 
     try {
+      const image = imageFile ? await fileToDataUrl(imageFile) : null;
+
       const res = await authFetch('/api/update-news', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ id, title, content, tags: selectedTags }),
+        body: JSON.stringify({ id, title, content, tags: selectedTags, image }),
       });
       const data = await res.json().catch(() => null);
       if (!res.ok) throw new Error(data?.error ?? `Request failed: ${res.status}`);
@@ -92,6 +106,11 @@ export default function AdminEditPostPage() {
           <span className="admin-form-label">Select tags</span>
           <TagPicker knownTags={knownTags} selectedTags={selectedTags} onChange={setSelectedTags} />
         </div>
+
+        <label>
+          Post image {existingImagePath && !imageFile && <span className="admin-form-hint">(current image will be kept unless you choose a new one)</span>}
+          <input type="file" accept="image/png,image/jpeg,image/gif,image/webp" onChange={(e) => setImageFile(e.target.files[0] ?? null)} />
+        </label>
 
         <button type="submit" disabled={status === 'submitting'}>
           {status === 'submitting' ? 'Saving…' : 'Save changes'}

@@ -1,6 +1,7 @@
 import { randomUUID } from 'node:crypto';
 import { requireAuth } from './_lib/auth.js';
 import { getOctokit, repoConfig, readJsonFile, commitFiles } from './_lib/github.js';
+import { parseDataUrl } from './_lib/image.js';
 
 const LATEST_COUNT = 60;
 
@@ -16,17 +17,19 @@ export default async function handler(req, res) {
 
   if (!requireAuth(req, res)) return;
 
-  const { title, content, tags } = req.body ?? {};
+  const { title, content, tags, image } = req.body ?? {};
 
   if (!title?.trim() || !content?.trim()) {
     return res.status(400).json({ error: 'Title and content are required.' });
   }
 
   const tagList = Array.isArray(tags) ? tags.map((t) => String(t).trim()).filter(Boolean) : [];
+  const parsedImage = image ? parseDataUrl(image) : null;
 
   const now = new Date();
+  const id = randomUUID();
   const article = {
-    id: randomUUID(),
+    id,
     title: title.trim(),
     content: content.trim(),
     tags: tagList,
@@ -34,6 +37,7 @@ export default async function handler(req, res) {
     origin: 'manual',
     link: null,
     isDuplicateOf: null,
+    imagePath: parsedImage ? `data/articles/images/${id}.${parsedImage.ext}` : null,
     pubDate: now.toISOString(),
     fetchedAt: now.toISOString(),
   };
@@ -44,6 +48,7 @@ export default async function handler(req, res) {
     tags: article.tags,
     source: article.source,
     origin: article.origin,
+    imagePath: article.imagePath,
     pubDate: article.pubDate,
   };
 
@@ -70,6 +75,9 @@ export default async function handler(req, res) {
       { path: indexPath, content: JSON.stringify(newIndex, null, 2) },
       { path: latestPath, content: JSON.stringify(newLatest, null, 2) },
     ];
+    if (parsedImage) {
+      files.push({ path: article.imagePath, content: parsedImage.base64, encoding: 'base64' });
+    }
 
     await commitFiles(octokit, cfg, files, `feat: manual article "${article.title}"`);
 
