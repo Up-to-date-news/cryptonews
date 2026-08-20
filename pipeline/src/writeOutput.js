@@ -72,10 +72,6 @@ async function rebuildLatest(fullIndex, publishedItems) {
   await writeFile(LATEST_PATH, JSON.stringify(recent, null, 2));
 }
 
-async function updateState() {
-  await writeFile(STATE_PATH, JSON.stringify({ lastRunAt: new Date().toISOString() }, null, 2));
-}
-
 // Publishes a copy of the feeds config into /data so the (static, public)
 // frontend can read the feed count for the admin dashboard — the pipeline's
 // own config directory isn't served to the browser.
@@ -84,14 +80,32 @@ async function publishFeedsConfig() {
   await writeFile(FEEDS_PUBLIC_PATH, JSON.stringify(feeds, null, 2));
 }
 
-export async function writeOutput(enrichedItems) {
+export async function getExistingIndexIds() {
+  const existing = await readJsonSafe(INDEX_PATH, []);
+  return new Set(existing.map((a) => a.id));
+}
+
+// Writes one batch of already-enriched items to disk immediately (day file,
+// index, latest) WITHOUT advancing the run checkpoint. Safe to call
+// repeatedly and safe to be interrupted mid-way — appendToDayFiles/
+// updateIndex both dedupe by id, so a killed run that gets re-attempted
+// just skips whatever was already written rather than duplicating it.
+export async function writeBatch(enrichedItems) {
   const publishedItems = enrichedItems.filter((item) => item.isDuplicateOf === null);
+  if (publishedItems.length === 0) return { publishedCount: 0 };
 
   await appendToDayFiles(publishedItems);
   const fullIndex = await updateIndex(publishedItems);
   await rebuildLatest(fullIndex, publishedItems);
-  await updateState();
-  await publishFeedsConfig();
 
   return { publishedCount: publishedItems.length, totalIndexed: fullIndex.length };
+}
+
+// Only call once, after every batch for this run has been attempted —
+// advancing the checkpoint early would let a mid-run kill silently drop
+// whatever items hadn't been reached yet (next run's "since" filter would
+// exclude them even though they were never actually processed).
+export async function finalizeRun() {
+  await writeFile(STATE_PATH, JSON.stringify({ lastRunAt: new Date().toISOString() }, null, 2));
+  await publishFeedsConfig();
 }

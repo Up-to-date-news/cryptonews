@@ -54,6 +54,10 @@ jobs:
         run: node src/runPipeline.js
 
       - name: Commit and push if data changed
+        # Runs even if "Run pipeline" above times out or throws, so
+        # whatever batches it already wrote to data/ before being killed
+        # still get committed instead of thrown away.
+        if: always()
         run: |
           git config user.name "news-aggregator-bot"
           git config user.email "actions@users.noreply.github.com"

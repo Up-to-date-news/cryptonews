@@ -15,6 +15,19 @@ const MODEL_NAME = 'gemini-flash-lite-latest';
 // since a 3-4hr fetch cycle has plenty of time to work through the backlog.
 const MIN_REQUEST_INTERVAL_MS = 4200;
 const MAX_RETRIES = 3;
+// Without this, a single stalled Gemini call hangs the whole batch (and
+// pipeline) forever with no error and no log line — seen in production as
+// the same class of bug that once hung dedupe.js's model download for 2+
+// hours. A 45s cap is generous for a 50-80 word JSON response.
+const REQUEST_TIMEOUT_MS = 45000;
+
+function withTimeout(promise, ms, label) {
+  let timer;
+  const timeout = new Promise((_, reject) => {
+    timer = setTimeout(() => reject(new Error(`Timed out after ${ms}ms: ${label}`)), ms);
+  });
+  return Promise.race([promise, timeout]).finally(() => clearTimeout(timer));
+}
 
 let genAI = null;
 function getClient() {
@@ -77,7 +90,11 @@ async function generateContent(item) {
       responseSchema: RESPONSE_SCHEMA,
     },
   });
-  const result = await model.generateContent(buildPrompt(item));
+  const result = await withTimeout(
+    model.generateContent(buildPrompt(item)),
+    REQUEST_TIMEOUT_MS,
+    `generateContent for "${item.title}"`
+  );
   const parsed = JSON.parse(result.response.text());
   return {
     content: parsed.content?.trim() ?? '',
