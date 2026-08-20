@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useAdminAuth } from '../admin/useAdminAuth.js';
-import { formatModeLabel } from '../data/eventFormat.js';
+import { formatModeLabel, formatPricingLabel } from '../data/eventFormat.js';
 
 function formatDate(dateStr) {
   return dateStr ? new Date(dateStr).toLocaleDateString(undefined, { month: 'short', day: 'numeric', year: 'numeric' }) : 'TBA';
@@ -63,7 +63,7 @@ export default function AdminEventsListPage() {
                   <span className="tag-pill-sm">{formatDate(event.startDate)}</span>
                   {event.location && <span className="tag-pill-sm">{event.location}</span>}
                   <span className="tag-pill-sm">{formatModeLabel(event.mode)}</span>
-                  <span className="tag-pill-sm">{event.pricing === 'paid' ? 'Paid' : 'Free'}</span>
+                  <span className="tag-pill-sm">{formatPricingLabel(event.pricing)}</span>
                 </div>
               </div>
               <div className="admin-list-actions">

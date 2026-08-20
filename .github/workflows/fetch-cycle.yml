@@ -64,7 +64,27 @@ jobs:
           git add data/
           if git diff --cached --quiet; then
             echo "No data changes, skipping commit."
-          else
-            git commit -m "chore: automated fetch cycle $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
-            git push
+            exit 0
           fi
+          git commit -m "chore: automated fetch cycle $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+
+          # The admin panel commits straight to main too (post/event
+          # create-edit-delete), so main can move while this run is
+          # still working. A plain push would reject as non-fast-forward
+          # and this run's output would be silently lost — rebase onto
+          # whatever landed and retry instead of giving up on the first try.
+          for attempt in 1 2 3; do
+            if git push; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt/3), rebasing onto latest main and retrying..."
+            git fetch origin main
+            if ! git rebase origin/main; then
+              echo "::error::Rebase conflict — could not auto-merge with concurrent admin-panel changes. Aborting rebase; this run's output is not pushed."
+              git rebase --abort
+              exit 1
+            fi
+          done
+          echo "::error::Push still rejected after 3 attempts."
+          exit 1

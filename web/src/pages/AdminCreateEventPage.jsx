@@ -126,7 +126,7 @@ export default function AdminCreateEventPage() {
           </label>
         </div>
 
-        <div className="radio-row">
+        <div className="radio-column">
           <span className="admin-form-label">Pricing</span>
           <label className="radio-option">
             <input
@@ -145,6 +145,15 @@ export default function AdminCreateEventPage() {
               onChange={() => updateField('pricing', 'paid')}
             />
             Paid
+          </label>
+          <label className="radio-option">
+            <input
+              type="radio"
+              name="pricing"
+              checked={form.pricing === 'both'}
+              onChange={() => updateField('pricing', 'both')}
+            />
+            Both
           </label>
         </div>
 

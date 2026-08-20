@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { useAdminAuth } from '../admin/useAdminAuth.js';
+import TagPicker from '../components/TagPicker.jsx';
 
 function dayKeyFromPubDate(pubDate) {
   return new Date(pubDate).toISOString().slice(0, 10);
@@ -15,7 +16,6 @@ export default function AdminEditPostPage() {
   const [content, setContent] = useState('');
   const [knownTags, setKnownTags] = useState([]);
   const [selectedTags, setSelectedTags] = useState([]);
-  const [customTag, setCustomTag] = useState('');
   const [loading, setLoading] = useState(true);
   const [loadError, setLoadError] = useState(null);
   const [status, setStatus] = useState('idle'); // idle | submitting | error
@@ -49,18 +49,6 @@ export default function AdminEditPostPage() {
       .catch((err) => setLoadError(err.message))
       .finally(() => setLoading(false));
   }, [id]);
-
-  function toggleTag(tag) {
-    setSelectedTags((prev) => (prev.includes(tag) ? prev.filter((t) => t !== tag) : [...prev, tag]));
-  }
-
-  function addCustomTag() {
-    const trimmed = customTag.trim();
-    if (trimmed && !selectedTags.includes(trimmed)) {
-      setSelectedTags((prev) => [...prev, trimmed]);
-    }
-    setCustomTag('');
-  }
 
   async function handleSubmit(e) {
     e.preventDefault();
@@ -102,41 +90,7 @@ export default function AdminEditPostPage() {
 
         <div>
           <span className="admin-form-label">Select tags</span>
-          <div className="tag-checkbox-list">
-            {knownTags.map((tag) => (
-              <label key={tag} className="tag-checkbox">
-                <input type="checkbox" checked={selectedTags.includes(tag)} onChange={() => toggleTag(tag)} />
-                {tag}
-              </label>
-            ))}
-          </div>
-
-          <div className="inline-form">
-            <input
-              type="text"
-              value={customTag}
-              onChange={(e) => setCustomTag(e.target.value)}
-              placeholder="New tag…"
-              onKeyDown={(e) => {
-                if (e.key === 'Enter') {
-                  e.preventDefault();
-                  addCustomTag();
-                }
-              }}
-            />
-            <button type="button" onClick={addCustomTag}>Add</button>
-          </div>
-
-          {selectedTags.length > 0 && (
-            <div className="tag-list">
-              {selectedTags.map((tag) => (
-                <span key={tag} className="tag-pill">
-                  {tag}
-                  <button type="button" className="tag-pill-remove" onClick={() => toggleTag(tag)}>×</button>
-                </span>
-              ))}
-            </div>
-          )}
+          <TagPicker knownTags={knownTags} selectedTags={selectedTags} onChange={setSelectedTags} />
         </div>
 
         <button type="submit" disabled={status === 'submitting'}>

@@ -238,19 +238,52 @@ main {
   padding: 0;
 }
 
-.tag-checkbox-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem 1rem;
+.tag-picker {
+  position: relative;
   margin: 0.5rem 0 0.75rem;
 }
 
-.tag-checkbox {
-  display: flex;
-  align-items: center;
-  gap: 0.35rem;
+.tag-picker-input {
+  width: 100%;
+  padding: 0.65rem 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--card-bg);
+  color: var(--fg);
+  font: inherit;
+}
+
+.tag-picker-input:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.tag-picker-dropdown {
+  position: absolute;
+  z-index: 10;
+  top: calc(100% + 0.35rem);
+  left: 0;
+  right: 0;
+  max-height: 260px;
+  overflow-y: auto;
+  margin: 0;
+  padding: 0.35rem;
+  list-style: none;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+
+.tag-picker-option {
+  padding: 0.5rem 0.65rem;
+  border-radius: 6px;
   font-size: 0.9rem;
   color: var(--fg);
+  cursor: pointer;
+}
+
+.tag-picker-option.is-highlighted {
+  background: var(--border);
 }
 
 /* Forms (shared: admin login, create post/event, search) */
@@ -320,8 +353,16 @@ main {
   flex-wrap: wrap;
 }
 
-.radio-option {
+.radio-column {
   display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.5rem;
+}
+
+label.radio-option {
+  display: flex;
+  flex-direction: row;
   align-items: center;
   gap: 0.35rem;
   font-size: 0.9rem;

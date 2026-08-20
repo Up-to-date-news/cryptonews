@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { formatModeLabel } from '../data/eventFormat.js';
+import { formatModeLabel, formatPricingLabel } from '../data/eventFormat.js';
 
 function formatDateRange(startDate, endDate) {
   if (!startDate) return 'Date TBA';
@@ -21,7 +21,7 @@ export default function EventCard({ event }) {
           <span>
             {event.location && <span className="event-card-location">{event.location}</span>}
             <span className="tag-pill-sm">{formatModeLabel(event.mode)}</span>
-            <span className="tag-pill-sm">{event.pricing === 'paid' ? 'Paid' : 'Free'}</span>
+            <span className="tag-pill-sm">{formatPricingLabel(event.pricing)}</span>
           </span>
           <span className="event-card-date">{formatDateRange(event.startDate, event.endDate)}</span>
         </div>

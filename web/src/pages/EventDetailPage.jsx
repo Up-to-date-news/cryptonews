@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { formatModeLabel } from '../data/eventFormat.js';
+import { formatModeLabel, formatPricingLabel } from '../data/eventFormat.js';
 
 function formatDateRange(startDate, endDate) {
   if (!startDate) return 'Date TBA';
@@ -58,7 +58,7 @@ export default function EventDetailPage() {
 
       <div className="tag-list">
         <span className="tag-pill-sm">{formatModeLabel(event.mode)}</span>
-        <span className="tag-pill-sm">{event.pricing === 'paid' ? 'Paid' : 'Free'}</span>
+        <span className="tag-pill-sm">{formatPricingLabel(event.pricing)}</span>
       </div>
 
       <p className="event-detail-meta">{formatDateRange(event.startDate, event.endDate)}</p>

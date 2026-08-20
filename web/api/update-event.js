@@ -34,7 +34,7 @@ export default async function handler(req, res) {
       title: title.trim(),
       location: location?.trim() || null,
       mode: ['online', 'hybrid'].includes(mode) ? mode : 'offline',
-      pricing: pricing === 'paid' ? 'paid' : 'free',
+      pricing: ['paid', 'both'].includes(pricing) ? pricing : 'free',
       startDate: new Date(startDate).toISOString(),
       endDate: endDate ? new Date(endDate).toISOString() : null,
       link: link?.trim() || null,
