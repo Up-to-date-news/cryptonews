@@ -15,6 +15,12 @@ const MODEL_NAME = 'gemini-flash-lite-latest';
 // since a 3-4hr fetch cycle has plenty of time to work through the backlog.
 const MIN_REQUEST_INTERVAL_MS = 4200;
 const MAX_RETRIES = 3;
+// Non-rate-limit failures (timeouts, network blips, a malformed/partial
+// response) got zero retries before this — a single random hiccup
+// permanently left that article title-only. Most of these are transient,
+// so one quick extra try clears them without hammering anything.
+const MAX_TRANSIENT_RETRIES = 1;
+const TRANSIENT_RETRY_DELAY_MS = 3000;
 // Without this, a single stalled Gemini call hangs the whole batch (and
 // pipeline) forever with no error and no log line — seen in production as
 // the same class of bug that once hung dedupe.js's model download for 2+
@@ -113,7 +119,10 @@ async function generateContent(item) {
 }
 
 async function generateContentWithRetry(item) {
-  for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
+  let rateLimitAttempt = 0;
+  let transientAttempt = 0;
+
+  while (true) {
     try {
       return await generateContent(item);
     } catch (err) {
@@ -121,11 +130,20 @@ async function generateContentWithRetry(item) {
       if (isRateLimit && isDailyQuotaError(err)) {
         throw new DailyQuotaExceededError(err.message);
       }
-      if (!isRateLimit || attempt === MAX_RETRIES) throw err;
 
-      const delay = extractRetryDelayMs(err) ?? MIN_REQUEST_INTERVAL_MS * 2 ** attempt;
-      console.error(`[enrich] Rate limited on "${item.title}", retrying in ${Math.round(delay / 1000)}s (attempt ${attempt + 1}/${MAX_RETRIES})`);
-      await sleep(delay);
+      if (isRateLimit) {
+        if (rateLimitAttempt === MAX_RETRIES) throw err;
+        const delay = extractRetryDelayMs(err) ?? MIN_REQUEST_INTERVAL_MS * 2 ** rateLimitAttempt;
+        console.error(`[enrich] Rate limited on "${item.title}", retrying in ${Math.round(delay / 1000)}s (attempt ${rateLimitAttempt + 1}/${MAX_RETRIES})`);
+        await sleep(delay);
+        rateLimitAttempt++;
+        continue;
+      }
+
+      if (transientAttempt === MAX_TRANSIENT_RETRIES) throw err;
+      console.error(`[enrich] Transient error on "${item.title}" (${err.message}) — retrying once in ${TRANSIENT_RETRY_DELAY_MS / 1000}s`);
+      await sleep(TRANSIENT_RETRY_DELAY_MS);
+      transientAttempt++;
     }
   }
 }
