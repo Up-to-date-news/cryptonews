@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react';
 import { useParams, useLocation, Link } from 'react-router-dom';
-import { useArticles } from '../data/useArticles.js';
 import { ChevronRightIcon } from '../components/icons.jsx';
 import { usePageMeta, SITE_NAME, SITE_URL } from '../hooks/usePageMeta.js';
 
@@ -20,8 +19,11 @@ async function resolvePubDate(slug) {
 export default function ArticlePage() {
   const { slug } = useParams();
   const location = useLocation();
-  const { articles } = useArticles();
   const [article, setArticle] = useState(null);
+  // Same day's articles, sorted newest-first — enough to compute "next
+  // article" without ever fetching the full (and ever-growing) index.json,
+  // which used to be pulled in just for this one lookup.
+  const [siblingArticles, setSiblingArticles] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
@@ -38,12 +40,16 @@ export default function ArticlePage() {
       const dayArticles = await res.json();
       const found = dayArticles.find((item) => item.slug === slug);
       if (!found) throw new Error('Article not found.');
-      return found;
+      const sorted = [...dayArticles].sort((a, b) => new Date(b.pubDate ?? 0) - new Date(a.pubDate ?? 0));
+      return { found, sorted };
     }
 
     load()
-      .then((found) => {
-        if (!cancelled) setArticle(found);
+      .then(({ found, sorted }) => {
+        if (!cancelled) {
+          setArticle(found);
+          setSiblingArticles(sorted);
+        }
       })
       .catch((err) => {
         if (!cancelled) setError(err.message);
@@ -90,14 +96,14 @@ export default function ArticlePage() {
   if (loading) return <p className="status-message">Loading…</p>;
   if (error) return <p className="status-message error">{error}</p>;
 
-  const currentIndex = articles.findIndex((a) => a.slug === slug);
-  const nextArticle = currentIndex >= 0 && currentIndex < articles.length - 1 ? articles[currentIndex + 1] : null;
+  const currentIndex = siblingArticles.findIndex((a) => a.slug === slug);
+  const nextArticle = currentIndex >= 0 && currentIndex < siblingArticles.length - 1 ? siblingArticles[currentIndex + 1] : null;
 
   return (
     <article className="article-page">
       <Link to="/" className="back-link">← Back</Link>
       {article.imagePath && (
-        <img src={`/${article.imagePath}`} alt="" className="article-detail-image" />
+        <img src={`/${article.imagePath}`} alt="" className="article-detail-image" fetchpriority="high" decoding="async" />
       )}
       <h1>{article.title}</h1>
       {article.tags?.length > 0 && (

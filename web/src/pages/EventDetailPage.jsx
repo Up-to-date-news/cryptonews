@@ -101,7 +101,7 @@ export default function EventDetailPage() {
       <Link to="/events" className="back-link">← Back to events</Link>
 
       {event.imagePath && (
-        <img src={`/${event.imagePath}`} alt={event.title} className="event-detail-image" />
+        <img src={`/${event.imagePath}`} alt={event.title} className="event-detail-image" fetchpriority="high" decoding="async" />
       )}
 
       <h1>{event.title}</h1>

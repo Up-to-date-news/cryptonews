@@ -17,7 +17,7 @@ export default function EventCard({ event }) {
   return (
     <Link to={`/event/${event.slug}`} className="event-card">
       {event.imagePath && (
-        <img src={`/${event.imagePath}`} alt="" className="event-card-thumb" />
+        <img src={`/${event.imagePath}`} alt="" className="event-card-thumb" loading="lazy" decoding="async" width="72" height="72" />
       )}
       <div className="event-card-body">
         <h3 className="event-card-title">{event.title}</h3>
