@@ -1,5 +1,571 @@
 [
   {
+    "id": "23d93f744cef6541",
+    "slug": "sec-outlines-steps-to-reverse-biden-era-crypto-enforcement",
+    "title": "SEC outlines steps to reverse Biden-era crypto enforcement",
+    "tags": [
+      "Securities and Exchange Commission",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T23:25:36.000Z"
+  },
+  {
+    "id": "c9644578e9af19e8",
+    "title": "One AI Agent, 2,395 Payments. Still No Final Say",
+    "summary": "Preparing a batch of payments used to mean a person checking each invoice, confirming it matched what was approved, and grouping everything by hand. Coupa just showed how much of that work software can now do on its own. The company’s Payment Batch Creation Agent ran 14 payment batches on its own, covering 2,395 individual […]\nThe post One AI Agent, 2,395 Payments. Still No Final Say appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/one-ai-agent-2395-payments-still-no-final-say/",
+    "source": "PYMNTS",
+    "tags": [
+      "Coupa"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-21T23:12:32.000Z",
+    "fetchedAt": "2026-08-21T23:43:03.990Z",
+    "isDuplicateOf": null,
+    "content": "Coupa recently demonstrated the capability of its software automation by running fourteen payment batches independently. The Payment Batch Creation Agent successfully processed a total of 2,395 individual payments without human intervention during the initial grouping and verification stages, highlighting how artificial intelligence can handle routine administrative workloads that traditionally required manual oversight.",
+    "slug": "one-ai-agent-2-395-payments-still-no-final-say"
+  },
+  {
+    "id": "4a46406c1e18e813",
+    "slug": "anthropic-s-opus-4-6-model-bypasses-content-restrictions-tests-show",
+    "title": "Anthropic’s Opus 4.6 model bypasses content restrictions, tests show",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T23:12:06.000Z"
+  },
+  {
+    "id": "019f983a1ee71944",
+    "slug": "mantra-chain-stays-offline-after-exploit-as-aug-21-restart-hinges-on-patch-test",
+    "title": "MANTRA Chain stays offline after exploit as Aug. 21 restart hinges on patch test",
+    "tags": [
+      "MANTRA Chain"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T23:10:37.000Z"
+  },
+  {
+    "id": "870e38a050a324b1",
+    "slug": "decoding-bitcoin-s-supply-gap-can-btc-bulls-reach-84-569",
+    "title": "Decoding Bitcoin’s supply gap: Can BTC bulls reach $84,569?",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T23:00:22.000Z"
+  },
+  {
+    "id": "33ed9b172afafecb",
+    "slug": "elon-musk-said-bitcoin-has-no-throat-to-choke-why-does-that-matter",
+    "title": "Elon Musk Said Bitcoin Has No Throat to Choke: Why Does That Matter?",
+    "tags": [
+      "Elon Musk",
+      "Bitcoin",
+      "Tesla",
+      "SpaceX"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T23:00:00.000Z"
+  },
+  {
+    "id": "dc884e35c80ae5ae",
+    "title": "Regulation Crypto Assets: Here is a Comparison to Reg A and Reg CF",
+    "summary": "Earlier this week, the Securities and Exchange Commission (SEC) announced new proposed rules for issuers to raise capital under new exemptions for crypto assets. Regulation Crypto Asset (Reg CA) is widely modeled after two existing securities exemptions, Reg CF and Reg A. Reg A and... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/08/299877-regulation-crypto-assets-here-is-a-comparison-to-reg-a-and-reg-cf/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Securities and Exchange Commission"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-21T22:43:09.000Z",
+    "fetchedAt": "2026-08-21T23:43:03.990Z",
+    "isDuplicateOf": null,
+    "content": "The Securities and Exchange Commission has announced new proposed rules allowing issuers to raise capital through exemptions specifically for crypto assets. The newly proposed Regulation Crypto Asset framework is modeled closely after existing securities exemptions, namely Regulation CF and Regulation A.",
+    "slug": "regulation-crypto-assets-here-is-a-comparison-to-reg-a-and-reg-cf"
+  },
+  {
+    "id": "9380476ad66a60b1",
+    "slug": "microsoft-receives-first-production-vera-rubin-systems-from-nvidia",
+    "title": "Microsoft receives first production Vera Rubin systems from Nvidia",
+    "tags": [
+      "Microsoft",
+      "Nvidia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T22:37:36.000Z"
+  },
+  {
+    "id": "a0fadba76773d71f",
+    "slug": "openai-calls-for-stronger-ai-laws-in-california",
+    "title": "OpenAI calls for stronger AI laws in California",
+    "tags": [
+      "OpenAI",
+      "California"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T22:37:25.000Z"
+  },
+  {
+    "id": "f1ef787f5d473725",
+    "slug": "hood-stock-surges-14-as-crypto-and-prediction-markets-take-centre-stage",
+    "title": "HOOD stock surges 14% as crypto and prediction markets take centre stage",
+    "tags": [
+      "Robinhood",
+      "Washington"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T22:30:49.000Z"
+  },
+  {
+    "id": "68236c0b83b9bc08",
+    "slug": "bitari-files-for-30m-ipo-on-nasdaq-to-fund-bitcoin-mining-expansion",
+    "title": "Bitari files for $30M IPO on Nasdaq to fund Bitcoin mining expansion",
+    "tags": [
+      "Bitari",
+      "Nasdaq",
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T22:29:25.000Z"
+  },
+  {
+    "id": "a727b7da0b09c14a",
+    "slug": "solana-activates-350-ms-slots-on-mainnet-boosting-transaction-speeds",
+    "title": "Solana activates 350-ms slots on mainnet, boosting transaction speeds",
+    "tags": [
+      "Solana"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T22:15:18.000Z"
+  },
+  {
+    "id": "350fe7c8ba98e652",
+    "slug": "3-american-stocks-showing-the-same-setup-that-sent-moderna-up-177",
+    "title": "3 American Stocks Showing the Same Setup That Sent Moderna Up 177%",
+    "tags": [
+      "Moderna",
+      "Merck",
+      "United States"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T22:14:05.000Z"
+  },
+  {
+    "id": "dfe8f2fbeb831e17",
+    "slug": "tesla-controls-59-of-us-ev-market-highest-share-since-2023",
+    "title": "Tesla controls 59% of US EV market, highest share since 2023",
+    "tags": [
+      "Tesla",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T22:13:47.000Z"
+  },
+  {
+    "id": "c0f5f82b3887a429",
+    "slug": "tokenized-equity-on-solana-nears-470m-driven-by-xstocks-growth",
+    "title": "Tokenized equity on Solana nears $470M, driven by xStocks growth",
+    "tags": [
+      "Solana",
+      "xStocks"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T22:12:58.000Z"
+  },
+  {
+    "id": "d094cca6e7e20b86",
+    "slug": "crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
+    "title": "Crypto advocates join in suing Illinois over digital asset tax",
+    "tags": [
+      "Crypto Council for Innovation",
+      "Blockchain Association",
+      "Illinois"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T22:10:28.000Z"
+  },
+  {
+    "id": "1514af16aaf491d4",
+    "slug": "nvidia-stock-suffers-longest-losing-streak-since-2022-will-q2-earnings-end-it",
+    "title": "Nvidia Stock Suffers Longest Losing Streak Since 2022: Will Q2 Earnings End It?",
+    "tags": [
+      "Nvidia"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T22:10:03.000Z"
+  },
+  {
+    "id": "2f5d7e8ee6c8fc1d",
+    "title": "Finovate Global Germany: Spend Management, Embedded Finance, and Instant Payments",
+    "summary": "This week’s edition of Finovate Global features the latest fintech headlines from Germany. Berlin-based spend management platform Moss raises capital Germany has a new fintech unicorn. Moss, a spend management platform based in Berlin, has raised €30 million ($35 million) in Series C funding. The round was led by Portage and Cherry Ventures. It brings Read more...\nThe post Finovate Global Germany: Spend Management, Embedded Finance, and Instant Payments appeared first on Finovate.",
+    "hasSummary": true,
+    "link": "https://finovate.com/finovate-global-germany-spend-management-embedded-finance-and-instant-payments/",
+    "source": "Finovate",
+    "tags": [
+      "Moss",
+      "Portage",
+      "Cherry Ventures",
+      "Germany",
+      "Berlin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-21T22:03:43.000Z",
+    "fetchedAt": "2026-08-21T23:43:03.990Z",
+    "isDuplicateOf": null,
+    "content": "Berlin-based spend management platform Moss has raised new capital in a funding round led by Portage and Cherry Ventures. The latest investment helps drive the company's growth in Germany, highlighting ongoing developments in spend management, embedded finance, and instant payments within the region.",
+    "slug": "finovate-global-germany-spend-management-embedded-finance-and-instant-payments"
+  },
+  {
+    "id": "6541676791acf54f",
+    "slug": "kraken-freezes-4-2m-over-htx-linked-transfers-but-who-sent-them",
+    "title": "Kraken freezes $4.2M over HTX-linked transfers, but who sent them?",
+    "tags": [
+      "Kraken",
+      "HTX",
+      "USDT"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T22:00:36.000Z"
+  },
+  {
+    "id": "537abf94bcf58134",
+    "slug": "covolt-power-files-for-us-ipo-to-capitalize-on-data-center-energy-boom",
+    "title": "CoVolt Power files for US IPO to capitalize on data center energy boom",
+    "tags": [
+      "CoVolt Power",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T21:59:38.000Z"
+  },
+  {
+    "id": "dddbeddef4094ceb",
+    "slug": "altcoins-could-see-up-to-1-000x-returns-post-pullback-analyst-predicts",
+    "title": "Altcoins Could See Up to 1,000x Returns Post-Pullback, Analyst Predicts",
+    "tags": [
+      "Ethereum",
+      "Cardano"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T21:56:30.000Z"
+  },
+  {
+    "id": "a6207da956ad9b48",
+    "title": "Apollo Global Management Hit by Social Engineering Attack and Data Breach",
+    "summary": "Apollo Global Management disclosed Friday (Aug. 21) that it suffered a social engineering attack that led to a data breach. Apollo determined in an investigation that there was unauthorized access to some of its cloud platforms between July 6 and July 10 and that the information that may have been impacted by the incident includes […]\nThe post Apollo Global Management Hit by Social Engineering Attack and Data Breach appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/cybersecurity/2026/apollo-global-management-social-engineering-attack-data-breach/",
+    "source": "PYMNTS",
+    "tags": [
+      "Apollo Global Management"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-21T21:55:52.000Z",
+    "fetchedAt": "2026-08-21T23:43:03.990Z",
+    "isDuplicateOf": null,
+    "content": "Investment firm Apollo Global Management recently disclosed that it suffered a social engineering attack resulting in a data breach. An internal investigation revealed that unauthorized parties gained access to certain cloud platforms over a period in July. The incident impacted specific information stored within those systems, prompting the company to investigate the extent of the unauthorized access and secure its platforms against further threats.",
+    "slug": "apollo-global-management-hit-by-social-engineering-attack-and-data-breach"
+  },
+  {
+    "id": "79e19dca33fcc60a",
+    "slug": "trump-backed-4-billion-usd1-stablecoin-has-wallet-powers-its-own-github-does-not-show",
+    "title": "Trump-backed $4 billion USD1 stablecoin has wallet powers its own GitHub does not show",
+    "tags": [
+      "USD1",
+      "GitHub",
+      "Justin Sun"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T21:55:39.000Z"
+  },
+  {
+    "id": "aadd14d39a5bceed",
+    "slug": "anthropic-ipo-filing-to-list-ai-backlash-as-risk-factor-sources-say",
+    "title": "Anthropic IPO filing to list AI backlash as risk factor, sources say",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T21:52:03.000Z"
+  },
+  {
+    "id": "76a7aa46af613859",
+    "slug": "trump-says-bessent-acted-independently-to-support-bond-market",
+    "title": "Trump says Bessent acted independently to support bond market",
+    "tags": [
+      "Donald Trump",
+      "Scott Bessent"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T21:50:13.000Z"
+  },
+  {
+    "id": "39521616e12a589a",
+    "slug": "grayscale-files-fifth-sec-amendment-for-proposed-zcash-etf",
+    "title": "Grayscale files fifth SEC amendment for proposed Zcash ETF",
+    "tags": [
+      "Grayscale",
+      "Zcash",
+      "SEC"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T21:45:12.000Z"
+  },
+  {
+    "id": "e22999a3d722fcb3",
+    "slug": "coinbase-app-enables-instant-access-to-base-solana-tokens-post-launch",
+    "title": "Coinbase app enables instant access to Base, Solana tokens post-launch",
+    "tags": [
+      "Coinbase",
+      "Base",
+      "Solana"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T21:44:52.000Z"
+  },
+  {
+    "id": "4afa0424465a7ffc",
+    "slug": "coldcard-adds-new-security-measures-after-130-million-bitcoin-exploit",
+    "title": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
+    "tags": [
+      "Coldcard",
+      "Coinkite",
+      "Bitcoin"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T21:31:05.000Z"
+  },
+  {
+    "id": "b3b603a508f8abbd",
+    "slug": "ondo-crypto-leads-the-tokenized-stocks-market-but-xstocks-is-catching-up",
+    "title": "Ondo crypto leads the tokenized stocks market – But xStocks is catching up",
+    "tags": [
+      "Ondo",
+      "xStocks"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T21:30:13.000Z"
+  },
+  {
+    "id": "8eb7ceb935462988",
+    "slug": "rusia-cambia-a-drones-mas-rapidos-e-hibridos-en-su-nueva-tactica-de-ataques-contra-ucrania",
+    "title": "Rusia cambia a drones más rápidos e híbridos en su nueva táctica de ataques contra Ucrania",
+    "tags": [
+      "Russia",
+      "Ukraine"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T21:29:47.000Z"
+  },
+  {
+    "id": "e4acaa2a27753287",
+    "slug": "robinhood-chain-crosses-1b-in-total-value-locked",
+    "title": "Robinhood Chain crosses $1B in total value locked",
+    "tags": [
+      "Robinhood"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T21:28:30.000Z"
+  },
+  {
+    "id": "543b7525112d0095",
+    "slug": "x-ads-integrates-ai-agents-for-campaign-management-and-analytics",
+    "title": "X Ads integrates AI agents for campaign management and analytics",
+    "tags": [
+      "X"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T21:26:54.000Z"
+  },
+  {
+    "id": "ded1eeaaadccb501",
+    "title": "Boeing engineers reject contract and authorize strike",
+    "summary": "The potential strike could exacerbate Boeing's production delays, impacting its competitive edge and financial stability in the aerospace market.\nThe post Boeing engineers reject contract and authorize strike appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/boeing-engineers-union-rejects-contract-strike/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Boeing"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-21T21:25:11.000Z",
+    "fetchedAt": "2026-08-21T23:43:03.990Z",
+    "isDuplicateOf": null,
+    "content": "Boeing engineers have officially rejected a newly proposed contract and voted to authorize a strike. This industrial action threatens to deepen existing production delays for the aerospace giant, potentially impacting its overall competitive edge and financial stability within the broader aviation market as labor tensions escalate.",
+    "slug": "boeing-engineers-reject-contract-and-authorize-strike"
+  },
+  {
+    "id": "fcc6bb1f42267891",
+    "title": "Nvidia posts longest losing streak in nearly five years",
+    "summary": "Nvidia's recent stock dip highlights market volatility and investor caution, underscoring the tech sector's sensitivity to economic shifts.\nThe post Nvidia posts longest losing streak in nearly five years appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/nvidia-longest-losing-streak-five-years/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Nvidia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-21T21:22:12.000Z",
+    "fetchedAt": "2026-08-21T23:43:03.990Z",
+    "isDuplicateOf": null,
+    "content": "Nvidia has experienced its longest losing streak in nearly five years. This recent stock decline highlights broader market volatility and investor caution, demonstrating how sensitive the major tech sector remains to ongoing economic shifts.",
+    "slug": "nvidia-posts-longest-losing-streak-in-nearly-five-years"
+  },
+  {
+    "id": "d96734782ebf6208",
+    "title": "Card Processors Add New Rails as Customers Go Global",
+    "summary": "The card-issuing platforms that grew up alongside, and serving, FinTechs are following their customers into businesses that have little to do with issuing another card. There is a common commercial calculation across several examples. Once a company is plugged into a customer’s payments operation, card processing is only one place to generate business. At the […]\nThe post Card Processors Add New Rails as Customers Go Global appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/news/payment-methods/2026/card-processors-add-new-rails-customers-go-global/",
+    "source": "PYMNTS",
+    "tags": [
+      "PYMNTS.com"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-21T21:15:14.000Z",
+    "fetchedAt": "2026-08-21T23:43:03.990Z",
+    "isDuplicateOf": null,
+    "content": "Card-issuing platforms that initially grew alongside FinTech companies are expanding their operations globally. By integrating into their customers' broader payment systems, these processors are finding new commercial opportunities beyond traditional card issuance, allowing them to generate additional business as their clients venture into international markets.",
+    "slug": "card-processors-add-new-rails-as-customers-go-global"
+  },
+  {
+    "id": "71c2d01ed6ceba56",
+    "title": "Former SpaceX engineers revive shelved nuclear reactor design to power AI data centers",
+    "summary": "Reviving the mPower reactor design could accelerate AI data center growth, but faces challenges in cost, regulation, and nuclear waste management.\nThe post Former SpaceX engineers revive shelved nuclear reactor design to power AI data centers appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/applied-atomics-mpower-smr-data-centers/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "SpaceX"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-21T21:06:45.000Z",
+    "fetchedAt": "2026-08-21T23:43:03.990Z",
+    "isDuplicateOf": null,
+    "content": "Former SpaceX engineers are working to revive a shelved nuclear reactor design to provide power for growing artificial intelligence data centers. While this initiative could help accelerate the expansion of AI infrastructure, the project still faces significant hurdles related to regulatory approval, financial costs, and the management of nuclear waste.",
+    "slug": "former-spacex-engineers-revive-shelved-nuclear-reactor-design-to-power-ai-data-centers"
+  },
+  {
+    "id": "52cc53fe4e2a0eb6",
+    "title": "Crypto rules can advance even if the Clarity Act stalls",
+    "summary": "The stalled crypto bill leaves regulatory agencies to continue their fragmented oversight, impacting market stability and innovation clarity.\nThe post Crypto rules can advance even if the Clarity Act stalls appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/clarity-act-stalls-crypto-regulators-authority/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Clarity Act"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-21T21:05:30.000Z",
+    "fetchedAt": "2026-08-21T23:43:03.990Z",
+    "isDuplicateOf": null,
+    "content": "Although the Clarity Act has stalled, cryptocurrency regulations may still progress. Without comprehensive new legislation, regulatory agencies will likely continue their fragmented oversight of the digital asset sector. This ongoing division impacts overall market stability and leaves industry participants searching for regulatory clarity regarding innovation and compliance.",
+    "slug": "crypto-rules-can-advance-even-if-the-clarity-act-stalls"
+  },
+  {
+    "id": "b2806da631dda348",
+    "slug": "assessing-hype-s-recovery-as-hyperliquid-whales-move-77-38m",
+    "title": "Assessing HYPE’s recovery as Hyperliquid whales move $77.38M",
+    "tags": [
+      "Hyperliquid"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T21:00:41.000Z"
+  },
+  {
+    "id": "753ba3643d32572a",
+    "title": "Goldman says Iran sanctions have already disrupted most oil supply",
+    "summary": "The market's muted response to sanctions highlights the primacy of actual supply disruptions over political announcements in oil pricing.\nThe post Goldman says Iran sanctions have already disrupted most oil supply appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/goldman-sachs-oil-iran-sanctions-analysis/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Goldman Sachs",
+      "Iran"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-21T20:59:14.000Z",
+    "fetchedAt": "2026-08-21T23:43:03.990Z",
+    "isDuplicateOf": null,
+    "content": "Investment banking giant Goldman Sachs has reported that international sanctions against Iran have already caused significant disruptions to the global oil supply. Despite these major supply impacts, the broader market's muted reaction demonstrates that traders and analysts are prioritizing actual physical supply shortages over political announcements when determining oil prices, according to industry reports.",
+    "slug": "goldman-says-iran-sanctions-have-already-disrupted-most-oil-supply"
+  },
+  {
+    "id": "dea829ecc546fbad",
+    "slug": "ray-dalio-sees-japan-debt-crisis-coming-to-america-2-assets-are-his-escape-plan",
+    "title": "Ray Dalio Sees Japan Debt Crisis Coming to America: 2 Assets Are His Escape Plan",
+    "tags": [
+      "Japan",
+      "United States"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T20:58:08.000Z"
+  },
+  {
     "id": "d5c6cba99ae2fb00",
     "slug": "ionic-digital-increases-bitcoin-holdings-by-21-btc-to-2-882-btc-as-ai-revenue-dominates",
     "title": "Ionic Digital increases Bitcoin holdings by 21 BTC to 2,882 BTC as AI revenue dominates",
@@ -41,22 +607,17 @@
   },
   {
     "id": "adc68698db038f35",
+    "slug": "tron-founder-justin-sun-secures-procedural-victory-to-keep-personal-claims-public-in-world-liberty",
     "title": "Tron Founder Justin Sun Secures Procedural Victory to Keep Personal Claims Public in World Liberty Financial Lawsuit",
-    "summary": "Crypto billionaire and Tron (TRX) founder Justin Sun recently secured a limited procedural success in his ongoing legal dispute with World Liberty Financial. A federal judge in California ruled that Sun’s personal claims against the Trump-linked crypto project will remain in open federal court rather than... Read More",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/08/299647-tron-founder-justin-sun-secures-procedural-victory-to-keep-personal-claims-public-in-world-liberty-financial-lawsuit/",
-    "source": "Crowdfund Insider",
     "tags": [
       "Justin Sun",
       "Tron",
       "World Liberty Financial"
     ],
+    "source": "Crowdfund Insider",
     "origin": "rss",
-    "pubDate": "2026-08-21T20:31:04.000Z",
-    "fetchedAt": "2026-08-21T20:54:00.815Z",
-    "isDuplicateOf": null,
-    "content": "Tron founder Justin Sun achieved a procedural victory in his legal battle involving World Liberty Financial. A federal judge in California decided that Sun's personal claims against the Trump-linked cryptocurrency project will stay in open federal court, preventing them from being moved behind closed doors for now.",
-    "slug": "tron-founder-justin-sun-secures-procedural-victory-to-keep-personal-claims-public-in-world-liberty"
+    "hasContent": true,
+    "pubDate": "2026-08-21T20:31:04.000Z"
   },
   {
     "id": "26d84b85bc47f01d",
@@ -124,21 +685,16 @@
   },
   {
     "id": "c7474a87ddcf2b2c",
+    "slug": "ai-is-opening-new-revenue-streams-for-automakers",
     "title": "AI Is Opening New Revenue Streams for Automakers",
-    "summary": "Artificial intelligence (AI) could give automakers something they have spent years trying to build: a way to keep making money from a vehicle long after it leaves the dealership. Ford and General Motors (GM) are both betting that an AI assistant tied to a vehicle’s data can keep that relationship, and the revenue, going long […]\nThe post AI Is Opening New Revenue Streams for Automakers appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-is-opening-new-revenue-streams-for-automakers/",
-    "source": "PYMNTS",
     "tags": [
       "Ford",
       "General Motors"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-08-21T20:18:05.000Z",
-    "fetchedAt": "2026-08-21T20:54:00.815Z",
-    "isDuplicateOf": null,
-    "content": "Artificial intelligence is creating new long-term revenue streams for automakers by enabling continuous post-sale connections with vehicle owners. Major automotive companies like Ford and General Motors are investing in AI assistants that utilize vehicle data to maintain ongoing relationships and generate continuous financial returns long after cars leave the dealership.",
-    "slug": "ai-is-opening-new-revenue-streams-for-automakers"
+    "hasContent": true,
+    "pubDate": "2026-08-21T20:18:05.000Z"
   },
   {
     "id": "edb77c12db8d3f86",
@@ -167,23 +723,18 @@
   },
   {
     "id": "d096cf26abc66cb0",
+    "slug": "former-jpmorgan-coo-matt-zames-to-advise-social-security-administration-on-modernization",
     "title": "Former JPMorgan COO Matt Zames to Advise Social Security Administration on Modernization",
-    "summary": "Former JPMorgan Chase Chief Operating Officer Matt Zames will become an advisor to the Social Security Administration Monday (Aug. 24) to help modernize the agency, CNBC reported Friday (Aug. 21), citing unnamed sources. Zames will serve in an unpaid advisory role and will join his former JPMorgan Chase colleague Frank Bisignano, who is the Social […]\nThe post Former JPMorgan COO Matt Zames to Advise Social Security Administration on Modernization appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/personnel/2026/former-jpmorgan-coo-matt-zames-to-advise-social-security-administration-on-modernization/",
-    "source": "PYMNTS",
     "tags": [
       "JPMorgan Chase",
       "Social Security Administration",
       "Matt Zames",
       "Frank Bisignano"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-08-21T20:12:24.000Z",
-    "fetchedAt": "2026-08-21T20:54:00.815Z",
-    "isDuplicateOf": null,
-    "content": "Former JPMorgan Chase Chief Operating Officer Matt Zames is reportedly set to join the Social Security Administration as an unpaid advisor. Starting Monday, Zames will help the agency with modernization efforts. He joins his former colleague Frank Bisignano in advising the organization, according to recent media reports citing unnamed sources.",
-    "slug": "former-jpmorgan-coo-matt-zames-to-advise-social-security-administration-on-modernization"
+    "hasContent": true,
+    "pubDate": "2026-08-21T20:12:24.000Z"
   },
   {
     "id": "5e42ae68e6b09917",
@@ -275,585 +826,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-08-21T20:03:41.000Z"
-  },
-  {
-    "id": "55a718bbed148fb2",
-    "slug": "ray-dalio-says-to-buy-a-bit-of-bitcoin-amid-potential-debt-crisis",
-    "title": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T20:00:47.000Z"
-  },
-  {
-    "id": "adcf5a3265e81363",
-    "slug": "iran-s-crude-loadings-drop-to-one-seventh-of-pre-war-levels-as-us-blockade-tightens",
-    "title": "Iran’s crude loadings drop to one-seventh of pre-war levels as US blockade tightens",
-    "tags": [
-      "Iran",
-      "United States",
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T20:00:39.000Z"
-  },
-  {
-    "id": "ddc7831c23bc5eec",
-    "slug": "legacy-and-team-spirit-advance-to-ewc-2026-semifinals-after-key-victories",
-    "title": "Legacy and Team Spirit advance to EWC 2026 semifinals after key victories",
-    "tags": [
-      "Legacy",
-      "Team Spirit"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T20:00:28.000Z"
-  },
-  {
-    "id": "1eb014e7cb6e4c69",
-    "slug": "dogwifhat-outpaces-floki-bonk-and-doge-why-is-wif-leading-pack",
-    "title": "dogwifhat outpaces FLOKI, BONK and DOGE – Why is WIF leading pack?",
-    "tags": [
-      "Dogwifhat",
-      "Floki",
-      "Bonk",
-      "Dogecoin"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T20:00:10.000Z"
-  },
-  {
-    "id": "3708f4090a88f50e",
-    "slug": "bitcoin-seeks-support-near-77k-as-gold-approaches-highs",
-    "title": "Bitcoin seeks support near $77K as gold approaches highs",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T19:57:47.000Z"
-  },
-  {
-    "id": "8f4e3e44304700c9",
-    "title": "Team Vitality eliminated from 2026 Esports World Cup in Paris",
-    "summary": "Vitality's exit reshapes competitive dynamics, boosting FURIA's odds and highlighting the volatile nature of esports prediction markets.\nThe post Team Vitality eliminated from 2026 Esports World Cup in Paris appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/team-vitality-eliminated-from-2026-esports-world-cup-in-paris/",
-    "source": "CryptoBriefing",
-    "tags": [
-      "Team Vitality",
-      "FURIA",
-      "Paris"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-21T19:57:42.000Z",
-    "fetchedAt": "2026-08-21T20:54:00.815Z",
-    "isDuplicateOf": null,
-    "content": "Team Vitality has been eliminated from the 2026 Esports World Cup in Paris. This unexpected exit has significantly reshaped competitive dynamics in the tournament, boosting FURIA's odds and highlighting the highly volatile nature of esports prediction markets.",
-    "slug": "team-vitality-eliminated-from-2026-esports-world-cup-in-paris"
-  },
-  {
-    "id": "ed2342d0bd694954",
-    "title": "Trump administration dismisses dozen senior staff at Fannie Mae",
-    "summary": "The dismissals may undermine Fannie Mae's regulatory oversight, potentially affecting its governance and the integrity of mortgage markets.\nThe post Trump administration dismisses dozen senior staff at Fannie Mae appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/trump-fannie-mae-senior-staff-dismissed/",
-    "source": "CryptoBriefing",
-    "tags": [
-      "Fannie Mae",
-      "United States"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-21T19:55:07.000Z",
-    "fetchedAt": "2026-08-21T20:54:00.815Z",
-    "isDuplicateOf": null,
-    "content": "The Trump administration has dismissed a dozen senior staff members at Fannie Mae. Reports indicate that these sudden departures could potentially undermine regulatory oversight at the institution, raising concerns regarding its overall governance and the stability and integrity of mortgage markets.",
-    "slug": "trump-administration-dismisses-dozen-senior-staff-at-fannie-mae"
-  },
-  {
-    "id": "80b45ddb70b2e01e",
-    "title": "Manchester United signs Carlos Baleba from Brighton for £70M",
-    "summary": "Baleba's signing reflects Manchester United's strategic investment in young talent, potentially reshaping their midfield dynamics long-term.\nThe post Manchester United signs Carlos Baleba from Brighton for £70M appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/manchester-united-signs-carlos-baleba-brighton/",
-    "source": "CryptoBriefing",
-    "tags": [
-      "Manchester United",
-      "Brighton",
-      "Carlos Baleba"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-21T19:53:23.000Z",
-    "fetchedAt": "2026-08-21T20:54:00.815Z",
-    "isDuplicateOf": null,
-    "content": "Manchester United has completed the signing of midfielder Carlos Baleba from Brighton for a reported fee of £70 million. This strategic investment highlights the club's focus on securing promising young talent to strengthen its squad. The high-profile transfer is expected to significantly impact the team's midfield dynamics as they look toward future competitions and long-term development.",
-    "slug": "manchester-united-signs-carlos-baleba-from-brighton-for-70m"
-  },
-  {
-    "id": "c482eedac770c453",
-    "title": "Nvidia research shows the wrapper around AI models can drive double-digit benchmark gains",
-    "summary": "Nvidia's findings could reshape AI development priorities, emphasizing efficient model harnessing over scaling, potentially altering cost structures.\nThe post Nvidia research shows the wrapper around AI models can drive double-digit benchmark gains appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/nvidia-ai-harness-over-model-research/",
-    "source": "CryptoBriefing",
-    "tags": [
-      "Nvidia"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-21T19:51:59.000Z",
-    "fetchedAt": "2026-08-21T20:54:00.815Z",
-    "isDuplicateOf": null,
-    "content": "Recent research from Nvidia demonstrates that the wrapper utilized around artificial intelligence models can achieve double-digit benchmark gains. This discovery suggests that future development priorities may shift toward optimizing how models are harnessed rather than simply scaling them up, which could significantly impact cost structures across the industry.",
-    "slug": "nvidia-research-shows-the-wrapper-around-ai-models-can-drive-double-digit-benchmark-gains"
-  },
-  {
-    "id": "4f391c5210239311",
-    "slug": "sec-reg-crypto-proposal-starts-60-day-federal-register-comment-clock",
-    "title": "SEC Reg Crypto Proposal Starts 60-Day Federal Register Comment Clock",
-    "tags": [
-      "Securities and Exchange Commission",
-      "United States"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T19:45:00.000Z"
-  },
-  {
-    "id": "862767a055b06c2f",
-    "title": "Apollo Global Management reports unauthorized access to cloud platforms",
-    "summary": "The breach highlights the vulnerability of major financial firms to basic phishing attacks, underscoring the need for enhanced cybersecurity measures.\nThe post Apollo Global Management reports unauthorized access to cloud platforms appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/apollo-global-management-cloud-data-breach/",
-    "source": "CryptoBriefing",
-    "tags": [
-      "Apollo Global Management"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-21T19:43:40.000Z",
-    "fetchedAt": "2026-08-21T20:54:00.815Z",
-    "isDuplicateOf": null,
-    "content": "Investment firm Apollo Global Management recently experienced unauthorized access to cloud platforms utilized by the company. The security incident highlights the ongoing risks and vulnerabilities financial institutions face regarding digital infrastructure and phishing threats. Experts emphasize that major firms must continue strengthening their cybersecurity measures to protect sensitive cloud data from similar unauthorized intrusions moving forward.",
-    "slug": "apollo-global-management-reports-unauthorized-access-to-cloud-platforms"
-  },
-  {
-    "id": "fbfd4e65406ba65f",
-    "title": "Token Terminal pivots to stablecoin and RWA data, tracking over 4,600 tokenized assets",
-    "summary": "Token Terminal's pivot to asset-level data could redefine blockchain analytics, emphasizing stablecoin dominance and expanding market insights.\nThe post Token Terminal pivots to stablecoin and RWA data, tracking over 4,600 tokenized assets appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/token-terminal-stablecoin-rwa-data-pivot/",
-    "source": "CryptoBriefing",
-    "tags": [
-      "Token Terminal"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-21T19:41:47.000Z",
-    "fetchedAt": "2026-08-21T20:54:00.815Z",
-    "isDuplicateOf": null,
-    "content": "Token Terminal has shifted its analytics focus toward stablecoin and real-world asset data. The platform now tracks thousands of tokenized assets, reflecting a growing industry emphasis on asset-level intelligence and blockchain transparency. This pivot aims to provide deeper market insights and highlight the increasing dominance of stablecoins within the digital asset ecosystem.",
-    "slug": "token-terminal-pivots-to-stablecoin-and-rwa-data-tracking-over-4-600-tokenized-assets"
-  },
-  {
-    "id": "0b464a8fbccb019c",
-    "title": "Justice Department and TikTok settle children’s privacy lawsuit for $400M",
-    "summary": "The settlement underscores increasing regulatory scrutiny on tech firms, potentially influencing future privacy enforcement and compliance standards.\nThe post Justice Department and TikTok settle children’s privacy lawsuit for $400M appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/doj-tiktok-400m-privacy-settlement/",
-    "source": "CryptoBriefing",
-    "tags": [
-      "Justice Department",
-      "TikTok"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-21T19:39:47.000Z",
-    "fetchedAt": "2026-08-21T20:54:00.815Z",
-    "isDuplicateOf": null,
-    "content": "The Justice Department and TikTok have reached a settlement in a children's privacy lawsuit, involving a payment of 400 million dollars. This development highlights the growing regulatory scrutiny facing technology companies regarding data protection practices, which could impact future compliance standards and enforcement actions across the industry.",
-    "slug": "justice-department-and-tiktok-settle-children-s-privacy-lawsuit-for-400m"
-  },
-  {
-    "id": "b1ee8cec26561f9f",
-    "title": "Tether’s XAUT deposits shift across DeFi venues as AAVE V4 gains $8M",
-    "summary": "Aave V4's rise in XAUT deposits highlights a shift towards using tokenized commodities as active collateral in DeFi, enhancing capital efficiency.\nThe post Tether’s XAUT deposits shift across DeFi venues as AAVE V4 gains $8M appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/xaut-deposits-shift-aave-v4-gains/",
-    "source": "CryptoBriefing",
-    "tags": [
-      "Tether",
-      "Aave",
-      "XAUT"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-21T19:39:41.000Z",
-    "fetchedAt": "2026-08-21T20:54:00.815Z",
-    "isDuplicateOf": null,
-    "content": "Tether's gold-backed token XAUT has seen significant movement across various decentralized finance venues. Aave V4 recently attracted millions in new XAUT deposits, highlighting a growing trend of utilizing tokenized commodities as active collateral within decentralized finance protocols to enhance overall capital efficiency across the market.",
-    "slug": "tether-s-xaut-deposits-shift-across-defi-venues-as-aave-v4-gains-8m"
-  },
-  {
-    "id": "6059d751fbf99553",
-    "title": "OpenAI key sales executive Kaelyn Voss resigns as leadership exodus continues",
-    "summary": "Leadership instability at OpenAI could undermine investor confidence and complicate its IPO plans, impacting its growth and revenue goals.\nThe post OpenAI key sales executive Kaelyn Voss resigns as leadership exodus continues appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/openai-kaelyn-voss-resigns-leadership-exodus/",
-    "source": "CryptoBriefing",
-    "tags": [
-      "OpenAI",
-      "Kaelyn Voss"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-21T19:38:25.000Z",
-    "fetchedAt": "2026-08-21T20:54:00.815Z",
-    "isDuplicateOf": null,
-    "content": "OpenAI has experienced another high-level departure as key sales executive Kaelyn Voss has resigned. This latest exit contributes to a continuing leadership exodus at the artificial intelligence company. Observers note that ongoing instability in top management could potentially impact investor confidence and complicate future strategic goals for the organization as it navigates this period of transition.",
-    "slug": "openai-key-sales-executive-kaelyn-voss-resigns-as-leadership-exodus-continues"
-  },
-  {
-    "id": "d14da584d6e86e76",
-    "title": "Circle’s EURC sees $77M deposited across 20 DeFi venues as Aave V3 dominates",
-    "summary": "EURC's growth in DeFi highlights the potential for euro-denominated assets, but reliance on Aave V3 poses systemic risks to its ecosystem.\nThe post Circle’s EURC sees $77M deposited across 20 DeFi venues as Aave V3 dominates appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/eurc-77m-defi-aave-v3-dominates/",
-    "source": "CryptoBriefing",
-    "tags": [
-      "Circle",
-      "EURC",
-      "Aave"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-21T19:33:54.000Z",
-    "fetchedAt": "2026-08-21T20:54:00.815Z",
-    "isDuplicateOf": null,
-    "content": "Circle's EURC stablecoin has achieved significant growth, with millions deposited across multiple decentralized finance venues. Aave V3 currently dominates these deposits. While this expansion highlights the rising adoption of euro-denominated digital assets, industry analysts note that a heavy reliance on a single platform may introduce systemic risks to the broader ecosystem.",
-    "slug": "circle-s-eurc-sees-77m-deposited-across-20-defi-venues-as-aave-v3-dominates"
-  },
-  {
-    "id": "9ab5c6e9ff5afecb",
-    "slug": "tom-lee-ranks-17-crypto-stocks-is-your-bitcoin-stock-still-a-worthy-bet",
-    "title": "Tom Lee Ranks 17 Crypto Stocks: Is Your Bitcoin Stock Still a Worthy Bet?",
-    "tags": [
-      "Tom Lee",
-      "Bitcoin"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T19:33:51.000Z"
-  },
-  {
-    "id": "32d5c316375f37d6",
-    "title": "Goldman Sachs sees gold rally accelerating on $90 silver bets",
-    "summary": "Increased silver options activity could amplify gold's rally, impacting global markets and investment strategies amid volatile precious metals.\nThe post Goldman Sachs sees gold rally accelerating on $90 silver bets appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/goldman-sachs-gold-rally-silver-90-bets/",
-    "source": "CryptoBriefing",
-    "tags": [
-      "Goldman Sachs"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-21T19:33:30.000Z",
-    "fetchedAt": "2026-08-21T20:54:00.815Z",
-    "isDuplicateOf": null,
-    "content": "Goldman Sachs anticipates that the ongoing rally in gold could accelerate significantly, driven by notable activity surrounding silver options. Observers suggest that increased focus on aggressive silver price targets may amplify broader movements across precious metals markets, influencing global investment strategies during a period of market volatility.",
-    "slug": "goldman-sachs-sees-gold-rally-accelerating-on-90-silver-bets"
-  },
-  {
-    "id": "355cccf0928da3a8",
-    "title": "Arsenal opens Premier League title defense with 2-0 win as Bukayo Saka finds the net",
-    "summary": "Arsenal's strong start and Saka's performance highlight their strategic depth, setting a promising tone for sustained dominance this season.\nThe post Arsenal opens Premier League title defense with 2-0 win as Bukayo Saka finds the net appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/arsenal-saka-premier-league-opener-win/",
-    "source": "CryptoBriefing",
-    "tags": [
-      "Arsenal",
-      "Bukayo Saka",
-      "Premier League"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-21T19:29:04.000Z",
-    "fetchedAt": "2026-08-21T20:54:00.815Z",
-    "isDuplicateOf": null,
-    "content": "Arsenal successfully launched their Premier League title defense with a solid 2-0 victory. Star player Bukayo Saka scored during the match, showcasing the team's strong performance and strategic depth. This early win sets a promising tone for their campaign, signaling their intent to maintain dominance throughout the current season.",
-    "slug": "arsenal-opens-premier-league-title-defense-with-2-0-win-as-bukayo-saka-finds-the-net"
-  },
-  {
-    "id": "b31d4d63d3b26434",
-    "slug": "onchain-in-court-what-happened-in-crypto-legal-news-this-week",
-    "title": "Onchain, in court: What happened in crypto legal news this week",
-    "tags": [
-      "CFTC",
-      "Alameda",
-      "FTX",
-      "United States",
-      "Nicolas Maduro"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T19:19:27.000Z"
-  },
-  {
-    "id": "200a17041dc07d07",
-    "slug": "russian-drones-hit-mall-in-zelensky-s-hometown-escalate-ukraine-conflict",
-    "title": "Russian drones hit mall in Zelensky’s hometown, escalate Ukraine conflict",
-    "tags": [
-      "Russia",
-      "Ukraine",
-      "Volodymyr Zelensky"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T19:11:02.000Z"
-  },
-  {
-    "id": "962729492ba172fc",
-    "slug": "justin-sun-s-world-liberty-fight-stays-in-public-court-for-now",
-    "title": "Justin Sun's World Liberty Fight Stays in Public Court, For Now",
-    "tags": [
-      "Justin Sun",
-      "Tron"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T19:10:31.000Z"
-  },
-  {
-    "id": "a9ffeacbf8a6ec5a",
-    "slug": "strive-raises-capital-to-acquire-400-bitcoin-this-week-through-preferred-stock-offering",
-    "title": "Strive raises capital to acquire 400 Bitcoin this week through preferred stock offering",
-    "tags": [
-      "Strive",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T19:10:29.000Z"
-  },
-  {
-    "id": "1a18b670b071baeb",
-    "slug": "polymarket-study-reveals-media-impact-on-prediction-market-prices",
-    "title": "Polymarket study reveals media impact on prediction market prices",
-    "tags": [
-      "Polymarket",
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T19:09:15.000Z"
-  },
-  {
-    "id": "838aed6724a8fa6c",
-    "slug": "ray-dalio-warns-us-faces-debt-crisis-in-three-years-without-cuts",
-    "title": "Ray Dalio warns US faces debt crisis in three years without cuts",
-    "tags": [
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T19:08:35.000Z"
-  },
-  {
-    "id": "dd4e7485becfdce7",
-    "slug": "g20-countries-advance-crypto-regulation-as-us-faces-critical-september-15-vote-on-clarity-act",
-    "title": "G20 countries advance crypto regulation as US faces critical September 15 vote on CLARITY Act",
-    "tags": [
-      "G20",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T19:04:49.000Z"
-  },
-  {
-    "id": "40c10ee9ea4d9b99",
-    "slug": "anchorage-digital-opens-first-bank-accounts-for-ai-agents-unveils-agentic-banking-platform",
-    "title": "Anchorage Digital opens first bank accounts for AI agents, unveils ‘agentic banking’ platform",
-    "tags": [
-      "Anchorage Digital"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T19:04:44.000Z"
-  },
-  {
-    "id": "3936043636ed1de6",
-    "slug": "ondo-finance-s-ivvon-becomes-largest-tokenized-etf-with-70m-market-cap",
-    "title": "ONDO Finance’s IVVon becomes largest tokenized ETF with $70M market cap",
-    "tags": [
-      "ONDO Finance",
-      "IVVon"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T19:02:43.000Z"
-  },
-  {
-    "id": "b12f44eda2ace5a7",
-    "slug": "crypto-founder-declares-3-ada-is-inevitable-is-a-full-scale-1-349-breakout-rally-underway",
-    "title": "Crypto Founder Declares $3 ADA Is Inevitable— Is a Full-Scale 1,349% Breakout Rally Underway?",
-    "tags": [
-      "Cardano"
-    ],
-    "source": "ZyCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T19:01:26.000Z"
-  },
-  {
-    "id": "d18df000cf605706",
-    "slug": "pass-the-clarity-act",
-    "title": "Pass the Clarity Act",
-    "tags": [
-      "Blockchain Association"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T19:00:00.000Z"
-  },
-  {
-    "id": "3ec932e53078f903",
-    "slug": "hashdex-liquidates-defi-as-first-us-spot-bitcoin-etf-closure-arrives",
-    "title": "Hashdex Liquidates DEFI As First US Spot Bitcoin ETF Closure Arrives",
-    "tags": [
-      "Hashdex",
-      "Bitcoin",
-      "United States"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T19:00:00.000Z"
-  },
-  {
-    "id": "f13ec3fa688ab3b7",
-    "slug": "apple-cuts-jobs-in-siri-and-vision-pro-teams-as-strategic-pivot-accelerates",
-    "title": "Apple cuts jobs in Siri and Vision Pro teams as strategic pivot accelerates",
-    "tags": [
-      "Apple"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T18:53:25.000Z"
-  },
-  {
-    "id": "537a00f5a1fe01a2",
-    "slug": "utility-gm-says-bitcoin-mining-deal-prevented-a-3-rate-increase-for-customers",
-    "title": "Utility GM says Bitcoin mining deal prevented a 3% rate increase for customers",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T18:47:02.000Z"
-  },
-  {
-    "id": "645d6ca4b2a4acbc",
-    "slug": "solana-just-got-faster-is-it-bullish-for-sol",
-    "title": "Solana Just Got Faster—Is It Bullish for SOL?",
-    "tags": [
-      "Solana",
-      "SOL"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T18:45:01.000Z"
-  },
-  {
-    "id": "9e23c81e16e44c84",
-    "slug": "ten-japanese-footballers-to-play-in-premier-league-this-season-a-record-for-any-asian-nation",
-    "title": "Ten Japanese footballers to play in Premier League this season, a record for any Asian nation",
-    "tags": [
-      "Japan",
-      "Premier League"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T18:43:14.000Z"
-  },
-  {
-    "id": "25423cb1a1f98a29",
-    "slug": "eip-8363-sparks-debate-on-eth-s-identity-as-sound-money-or-productive-asset",
-    "title": "EIP-8363 sparks debate on ETH’s identity as sound money or productive asset",
-    "tags": [
-      "Ethereum"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T18:41:01.000Z"
-  },
-  {
-    "id": "bcee8f312cced84a",
-    "slug": "tether-s-usdt-deposits-on-aave-v3-rise-by-526m-in-90-days-as-defi-lending-demand-surges",
-    "title": "Tether’s USDT deposits on Aave V3 rise by $526M in 90 days as DeFi lending demand surges",
-    "tags": [
-      "Tether",
-      "Aave",
-      "USDT"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T18:40:51.000Z"
-  },
-  {
-    "id": "e26bd0edfbc93df6",
-    "slug": "iran-asserts-control-over-waters-east-of-strait-of-hormuz-amid-tensions",
-    "title": "Iran asserts control over waters east of Strait of Hormuz amid tensions",
-    "tags": [
-      "Iran",
-      "Strait of Hormuz"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T18:38:59.000Z"
-  },
-  {
-    "id": "f690c622f3593ca3",
-    "slug": "tron-now-supported-in-bitcoin-com-wallet-for-direct-asset-access",
-    "title": "TRON now supported in Bitcoin.com Wallet for direct asset access",
-    "tags": [
-      "TRON",
-      "Bitcoin.com"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T18:32:10.000Z"
-  },
-  {
-    "id": "9dae6daa279b1184",
-    "slug": "xdc-network-hits-a-27-7-million-transaction-milestone-can-xdc-price-keep-up",
-    "title": "XDC Network hits a 27.7 million transaction milestone- Can XDC price keep up?",
-    "tags": [
-      "XDC Network"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T18:30:15.000Z"
   }
 ]
