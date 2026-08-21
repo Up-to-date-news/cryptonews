@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { useParams, useLocation, Link } from 'react-router-dom';
 import { useArticles } from '../data/useArticles.js';
 import { ChevronRightIcon } from '../components/icons.jsx';
+import { usePageMeta, SITE_NAME, SITE_URL } from '../hooks/usePageMeta.js';
 
 function dayKeyFromPubDate(pubDate) {
   return new Date(pubDate).toISOString().slice(0, 10);
@@ -55,6 +56,36 @@ export default function ArticlePage() {
       cancelled = true;
     };
   }, [slug, location.state]);
+
+  const description = article?.content
+    ? article.content.slice(0, 160)
+    : article?.summary ?? undefined;
+
+  usePageMeta({
+    title: article?.title,
+    description,
+    path: `/article/${slug}`,
+    image: article?.imagePath ? `${SITE_URL}/${article.imagePath}` : undefined,
+    type: 'article',
+    jsonLd: article
+      ? {
+          '@context': 'https://schema.org',
+          '@type': 'NewsArticle',
+          headline: article.title,
+          description,
+          image: article.imagePath ? [`${SITE_URL}/${article.imagePath}`] : undefined,
+          datePublished: article.pubDate,
+          dateModified: article.pubDate,
+          mainEntityOfPage: { '@type': 'WebPage', '@id': `${SITE_URL}/article/${slug}` },
+          author: { '@type': 'Organization', name: SITE_NAME },
+          publisher: {
+            '@type': 'Organization',
+            name: SITE_NAME,
+            logo: { '@type': 'ImageObject', url: `${SITE_URL}/logos/favicon.png` },
+          },
+        }
+      : null,
+  });
 
   if (loading) return <p className="status-message">Loading…</p>;
   if (error) return <p className="status-message error">{error}</p>;

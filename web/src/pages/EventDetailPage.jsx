@@ -3,6 +3,13 @@ import { useParams, Link } from 'react-router-dom';
 import { formatModeLabel, formatPricingLabel } from '../data/eventFormat.js';
 import { useEvents } from '../data/useEvents.js';
 import { ChevronRightIcon } from '../components/icons.jsx';
+import { usePageMeta, SITE_NAME, SITE_URL } from '../hooks/usePageMeta.js';
+
+const ATTENDANCE_MODE = {
+  online: 'https://schema.org/OnlineEventAttendanceMode',
+  offline: 'https://schema.org/OfflineEventAttendanceMode',
+  hybrid: 'https://schema.org/MixedEventAttendanceMode',
+};
 
 // Shown in the event's own timezone (not the viewer's) with its
 // abbreviation, e.g. "Sep 9, 2026, 10:00 AM GST" — everyone sees the
@@ -56,6 +63,32 @@ export default function EventDetailPage() {
       cancelled = true;
     };
   }, [slug]);
+
+  usePageMeta({
+    title: event?.title,
+    description: event?.description?.slice(0, 160),
+    path: `/event/${slug}`,
+    image: event?.imagePath ? `${SITE_URL}/${event.imagePath}` : undefined,
+    type: 'article',
+    jsonLd: event
+      ? {
+          '@context': 'https://schema.org',
+          '@type': 'Event',
+          name: event.title,
+          description: event.description,
+          startDate: event.startDate,
+          endDate: event.endDate ?? undefined,
+          eventAttendanceMode: ATTENDANCE_MODE[event.mode] ?? ATTENDANCE_MODE.offline,
+          eventStatus: 'https://schema.org/EventScheduled',
+          location: event.location
+            ? { '@type': 'Place', name: event.location, address: event.location }
+            : undefined,
+          image: event.imagePath ? [`${SITE_URL}/${event.imagePath}`] : undefined,
+          url: `${SITE_URL}/event/${slug}`,
+          organizer: { '@type': 'Organization', name: SITE_NAME, url: SITE_URL },
+        }
+      : null,
+  });
 
   if (loading) return <p className="status-message">Loading…</p>;
   if (error) return <p className="status-message error">{error}</p>;

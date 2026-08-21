@@ -1,5 +1,27 @@
 {
   "rewrites": [
+    {
+      "source": "/article/:slug",
+      "has": [
+        {
+          "type": "header",
+          "key": "user-agent",
+          "value": ".*(Googlebot|Bingbot|DuckDuckBot|Baiduspider|YandexBot|Applebot|GPTBot|ChatGPT-User|OAI-SearchBot|CCBot|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Perplexity-User|facebookexternalhit|Twitterbot|LinkedInBot|Slackbot|WhatsApp|TelegramBot|Discordbot|redditbot|Bytespider|PetalBot|Amazonbot|meta-externalagent).*"
+        }
+      ],
+      "destination": "/api/prerender-article?slug=:slug"
+    },
+    {
+      "source": "/event/:slug",
+      "has": [
+        {
+          "type": "header",
+          "key": "user-agent",
+          "value": ".*(Googlebot|Bingbot|DuckDuckBot|Baiduspider|YandexBot|Applebot|GPTBot|ChatGPT-User|OAI-SearchBot|CCBot|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Perplexity-User|facebookexternalhit|Twitterbot|LinkedInBot|Slackbot|WhatsApp|TelegramBot|Discordbot|redditbot|Bytespider|PetalBot|Amazonbot|meta-externalagent).*"
+        }
+      ],
+      "destination": "/api/prerender-event?slug=:slug"
+    },
     { "source": "/((?!api/).*)", "destination": "/index.html" }
   ]
 }

@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
+import { usePageMeta } from '../hooks/usePageMeta.js';
 
 const REASONS = [
   { value: 'advertisement', label: 'For advertisement' },
@@ -21,6 +22,12 @@ export default function ContactPage() {
   const [form, setForm] = useState(INITIAL_FORM);
   const [status, setStatus] = useState('idle'); // idle | submitting | error | success
   const [errorMessage, setErrorMessage] = useState('');
+
+  usePageMeta({
+    title: 'Contact Us',
+    description: 'Get in touch with up to date news — advertising inquiries, corrections, and general contact.',
+    path: '/contact',
+  });
 
   function updateField(field, value) {
     setForm((prev) => ({ ...prev, [field]: value }));

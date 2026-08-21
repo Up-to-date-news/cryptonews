@@ -2,6 +2,7 @@ import { useSearchParams } from 'react-router-dom';
 import { useArticles } from '../data/useArticles.js';
 import ArticleList from '../components/ArticleList.jsx';
 import Pagination from '../components/Pagination.jsx';
+import { usePageMeta } from '../hooks/usePageMeta.js';
 
 const PAGE_SIZE = 20;
 
@@ -9,6 +10,8 @@ export default function ListPage() {
   const { articles, loading, error } = useArticles();
   const [searchParams, setSearchParams] = useSearchParams();
   const page = Math.max(1, parseInt(searchParams.get('page') ?? '1', 10) || 1);
+
+  usePageMeta({ path: page > 1 ? `/?page=${page}` : '/' });
 
   if (loading) return <p className="status-message">Loading…</p>;
   if (error) return <p className="status-message error">Failed to load articles: {error}</p>;

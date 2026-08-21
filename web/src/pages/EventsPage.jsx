@@ -5,6 +5,7 @@ import { getEventStatus } from '../data/eventStatus.js';
 import EventCard from '../components/EventCard.jsx';
 import Pagination from '../components/Pagination.jsx';
 import SearchBar from '../components/SearchBar.jsx';
+import { usePageMeta } from '../hooks/usePageMeta.js';
 
 const PAGE_SIZE = 20;
 const TABS = [
@@ -27,6 +28,12 @@ export default function EventsPage() {
     if (!q) return byTab;
     return byTab.filter((event) => event.title.toLowerCase().includes(q) || event.location?.toLowerCase().includes(q));
   }, [events, tab, search]);
+
+  usePageMeta({
+    title: 'Crypto & Fintech Events',
+    description: 'Upcoming crypto, blockchain, and fintech conferences and events around the world.',
+    path: '/events',
+  });
 
   if (loading) return <p className="status-message">Loading…</p>;
   if (error) return <p className="status-message error">Failed to load events: {error}</p>;

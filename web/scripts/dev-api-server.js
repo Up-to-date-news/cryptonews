@@ -4,6 +4,7 @@
 // run the files in web/api/ directly once deployed.
 import 'dotenv/config';
 import http from 'node:http';
+import { URL } from 'node:url';
 import adminLogin from '../api/admin-login.js';
 import createNews from '../api/create-news.js';
 import addTag from '../api/add-tag.js';
@@ -13,6 +14,8 @@ import deleteNews from '../api/delete-news.js';
 import updateEvent from '../api/update-event.js';
 import deleteEvent from '../api/delete-event.js';
 import contact from '../api/contact.js';
+import prerenderArticle from '../api/prerender-article.js';
+import prerenderEvent from '../api/prerender-event.js';
 
 const PORT = 3001;
 
@@ -26,6 +29,8 @@ const routes = {
   '/api/update-event': updateEvent,
   '/api/delete-event': deleteEvent,
   '/api/contact': contact,
+  '/api/prerender-article': prerenderArticle,
+  '/api/prerender-event': prerenderEvent,
 };
 
 function adaptResponse(res) {
@@ -36,6 +41,12 @@ function adaptResponse(res) {
   res.json = (body) => {
     res.setHeader('Content-Type', 'application/json');
     res.end(JSON.stringify(body));
+  };
+  res.send = (body) => {
+    if (!res.getHeader('Content-Type')) {
+      res.setHeader('Content-Type', typeof body === 'string' ? 'text/html; charset=utf-8' : 'application/json');
+    }
+    res.end(typeof body === 'string' ? body : JSON.stringify(body));
   };
   return res;
 }
@@ -53,7 +64,8 @@ async function readBody(req) {
 }
 
 const server = http.createServer(async (req, res) => {
-  const handler = routes[req.url];
+  const parsedUrl = new URL(req.url, `http://${req.headers.host}`);
+  const handler = routes[parsedUrl.pathname];
   adaptResponse(res);
 
   if (!handler) {
@@ -61,6 +73,7 @@ const server = http.createServer(async (req, res) => {
     return;
   }
 
+  req.query = Object.fromEntries(parsedUrl.searchParams);
   req.body = await readBody(req);
 
   try {

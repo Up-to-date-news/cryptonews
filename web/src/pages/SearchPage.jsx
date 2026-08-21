@@ -1,11 +1,16 @@
 import { useState } from 'react';
+import { useSearchParams } from 'react-router-dom';
 import { useSearchIndex } from '../data/useSearchIndex.js';
 import SearchBar from '../components/SearchBar.jsx';
 import ArticleList from '../components/ArticleList.jsx';
+import { usePageMeta } from '../hooks/usePageMeta.js';
 
 export default function SearchPage() {
   const { loading, error, search } = useSearchIndex();
-  const [query, setQuery] = useState('');
+  const [searchParams] = useSearchParams();
+  const [query, setQuery] = useState(searchParams.get('q') ?? '');
+
+  usePageMeta({ title: 'Search', path: '/search', noindex: true });
 
   if (loading) return <p className="status-message">Loading archive…</p>;
   if (error) return <p className="status-message error">Failed to load search index: {error}</p>;

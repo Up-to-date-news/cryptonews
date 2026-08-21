@@ -2,6 +2,7 @@ import { NavLink, Outlet, useNavigate } from 'react-router-dom';
 import { useAdminAuth } from './useAdminAuth.js';
 import { useNeedsContent } from '../data/useNeedsContent.js';
 import { DashboardIcon, PostsIcon, EventsIcon, TagsIcon, AlertIcon, LogoutIcon } from '../components/icons.jsx';
+import { usePageMeta } from '../hooks/usePageMeta.js';
 
 function navClass({ isActive }) {
   return isActive ? 'admin-nav-link active' : 'admin-nav-link';
@@ -11,6 +12,8 @@ export default function AdminLayout() {
   const { logout } = useAdminAuth();
   const navigate = useNavigate();
   const { count: needsContentCount } = useNeedsContent();
+
+  usePageMeta({ title: 'Admin', path: '/admin', noindex: true });
 
   function handleLogout() {
     logout();

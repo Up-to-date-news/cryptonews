@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { Navigate } from 'react-router-dom';
 import { useAdminAuth } from '../admin/useAdminAuth.js';
+import { usePageMeta } from '../hooks/usePageMeta.js';
 
 export default function AdminLoginPage() {
   const { isAuthenticated, login } = useAdminAuth();
@@ -8,6 +9,8 @@ export default function AdminLoginPage() {
   const [password, setPassword] = useState('');
   const [status, setStatus] = useState('idle'); // idle | submitting | error
   const [errorMessage, setErrorMessage] = useState('');
+
+  usePageMeta({ title: 'Admin Login', path: '/admin/login', noindex: true });
 
   if (isAuthenticated) {
     return <Navigate to="/admin/dashboard" replace />;

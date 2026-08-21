@@ -1,6 +1,9 @@
 import { Link } from 'react-router-dom';
+import { usePageMeta } from '../hooks/usePageMeta.js';
 
 export default function TermsPage() {
+  usePageMeta({ title: 'Terms & Conditions', path: '/terms' });
+
   return (
     <article className="terms-page">
       <Link to="/" className="back-link">← Back</Link>
