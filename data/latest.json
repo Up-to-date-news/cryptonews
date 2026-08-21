@@ -357,11 +357,19 @@
   {
     "id": "6e4a107e4c093237",
     "title": "Stripe and Ramp Are Betting on AI Traffic Controllers",
-    "tags": [],
+    "summary": "Stripe is known for processing payments. Ramp is known for managing corporate expenses. But this week, the two companies made almost identical moves: building the layer that decides which artificial intelligence (AI) model gets used. Ramp launched Router.com on Wednesday (Aug. 19), opening up a tool it had run internally for three years. A company […]\nThe post Stripe and Ramp Are Betting on AI Traffic Controllers appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/stripe-and-ramp-are-betting-on-ai-traffic-controllers/",
     "source": "PYMNTS",
+    "tags": [
+      "Stripe",
+      "Ramp"
+    ],
     "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-08-20T23:35:59.000Z"
+    "pubDate": "2026-08-20T23:35:59.000Z",
+    "fetchedAt": "2026-08-20T23:44:22.656Z",
+    "isDuplicateOf": null,
+    "content": "Payment giant Stripe and corporate spend controller Ramp are making major bets on AI model routers to manage enterprise API traffic.\nRather than relying on a single AI provider, these platforms dynamically send each query to the cheapest model that meets performance needs.\n\n\nRamp commercialized its internal cost-saving tool via Router.com, while Stripe moved to acquire OpenRouter, an aggregator serving over 10 million developers.\nThe routing middleware mirrors cloud optimization tools, trimming enterprise AI processing costs by 30% to 40% while preventing system downtime.\nThe dual moves highlight a strategic shift across fintech: controlling which AI model gets selected is becoming just as lucrative as building the models."
   },
   {
     "id": "f72cd0bb416f7e18",
