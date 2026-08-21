@@ -1,90 +1,540 @@
 [
   {
+    "id": "99bb64e683f175e0",
+    "title": "Inside CFTC’s crypto backup plan – What happens if CLARITY Act stalls?",
+    "tags": [
+      "Commodity Futures Trading Commission",
+      "Securities and Exchange Commission"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T11:00:59.000Z"
+  },
+  {
+    "id": "2c3919465713791d",
+    "title": "Bitcoin surge toward $80K points to liquidity-driven momentum shift as ETF flows rebound: Bernstein",
+    "tags": [
+      "Bitcoin",
+      "Bernstein",
+      "United States"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T10:57:54.000Z"
+  },
+  {
+    "id": "05596c8ade080ff6",
+    "title": "IEM Beijing 2026 features 24 teams competing across closed qualifiers",
+    "tags": [
+      "IEM Beijing",
+      "Vitality",
+      "Spirit"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T10:57:25.000Z"
+  },
+  {
+    "id": "fcaaa26e997c1945",
+    "title": "BNK FEARX forces Game 3 against Hanjin Brion with series tied 1-1 in LCK",
+    "tags": [
+      "BNK FEARX",
+      "Hanjin Brion"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T10:56:37.000Z"
+  },
+  {
+    "id": "4f97b8bc073278e0",
+    "title": "HSBC’s Kettner sees negative economic surprises boosting Treasuries",
+    "tags": [
+      "HSBC"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T10:50:33.000Z"
+  },
+  {
+    "id": "ec6067d0661d19a2",
+    "title": "Canada-US trade deal nears as Carney weighs tariff concessions",
+    "tags": [
+      "Canada",
+      "United States",
+      "Carney"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T10:44:48.000Z"
+  },
+  {
+    "id": "fcabc887baf61c0b",
+    "title": "Bitcoin and gold surge as Bessent’s bond market move weakens dollar",
+    "tags": [
+      "Bitcoin",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T10:44:04.000Z"
+  },
+  {
+    "id": "151acc1a099bc3d2",
+    "title": "Ethereum ETF Pulls $221M as ETH Eyes Another Breakout",
+    "tags": [
+      "Ethereum",
+      "BlackRock"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T10:41:22.000Z"
+  },
+  {
+    "id": "a7c742df0d98f5a7",
+    "title": "Europe offers subsidies to local AI players amid global boom",
+    "tags": [
+      "Europe"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T10:39:33.000Z"
+  },
+  {
+    "id": "9fe5b1bd390c233f",
+    "title": "The Real Reason Behind Bitcoin’s Mind-Blowing Surge to $80K? One Word: Cramer",
+    "tags": [
+      "Bitcoin",
+      "Jim Cramer"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T10:38:15.000Z"
+  },
+  {
+    "id": "1340865fd163224b",
+    "title": "Potential Bull Trap? Dogecoin Contributor Warns on Crypto Market Surge",
+    "tags": [
+      "Dogecoin"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T10:35:00.000Z"
+  },
+  {
+    "id": "a3a2471928af50d7",
+    "title": "Tesla recalls nearly 2 million China-made Model 3 and Model Y vehicles",
+    "tags": [
+      "Tesla",
+      "China"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T10:26:05.000Z"
+  },
+  {
+    "id": "1192d608bfd0f493",
+    "title": "Singapore’s DBS deploys specialist AI agents for 1,500 employees",
+    "summary": "DBS will roll out agentic AI services for roughly 1,500 bankers globally to support with corporate credit assessments.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/newsarticle/48281/singapores-dbs-deploys-specialist-ai-agents-for-1500-employees?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Singapore",
+      "DBS"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-21T10:22:00.000Z",
+    "fetchedAt": "2026-08-21T11:01:53.749Z",
+    "isDuplicateOf": null,
+    "content": "Singapore-based DBS is rolling out specialized agentic artificial intelligence services for approximately 1,500 employees globally. The deployment focuses on supporting staff with corporate credit assessments, marking a significant adoption of advanced automation technology within the banking sector to enhance operational efficiency."
+  },
+  {
+    "id": "bdf028f489bad27f",
+    "title": "SumUp Partners With Newcastle United in a Multi-Year Deal as Official Training Kit Partner",
+    "summary": "Newcastle United has welcomed leading fintech company SumUp as the club’s Official Training Kit Partner in a multi-year partnership.\nIn a partnership that sees SumUp join the club’s group of Primary Partners, the global business will feature prominently across training wear for the men’s, women’s, and academy teams, providing an unparalleled opportunity for brand exposure with the Premier League’s huge global fanbase.\nAlready integrated into the local business community as a trusted payment provider to thousands of companies in the North East, SumUp will also help drive local business engagement, becoming the Presenting Partner of the Newcastle United Business Club; one of the region’s largest and most engaging commercial networking entities.\nThrough this partnership, SumUp will work with the club to identify opportunities for business collaboration, strengthening connections across the region and beyond. Together they will launch a co-branded SumUp card which will offer fans special offers and rewards when engaging with official club outlets, as well as businesses across the UK. In addition, SumUp will have access to exclusive events and networking opportunities designed to accelerate growth with new partners.\nSpeaking on the partnership, Newcastle United’s Chief Revenue Officer, Dave O’Connor, said: \"SumUp is the perfect partner for Newcastle United; an innovative, ambitious, global business with a genuine commitment to supporting local businesses who serve our fans and community everyday.\n“We’re excited to kick the partnership off and bring SumUp, its team and its local merchant community closer to the club and our supporters.\nThis partnership is a reflection of our commercial ambition: working with innovative global businesses that fully understand the unique role Newcastle United plays in the life of our city and its community.\"\nLuke Griffiths, Chief Commercial Officer and UK CEO, SumUp added, “When the opportunity to partner with Newcastle United arose, it felt like a natural fit. Football brings people together and is woven into the everyday lives of fans, families and communities - something we understand at SumUp. Every day, we work with businesses of all sizes, helping them run and grow, while also giving people a simple, smarter way to manage and spend their money.\n“This partnership gives us a strong platform to bring our merchant and local communities closer to the club, while creating new opportunities for businesses and fans across the region. As Newcastle United’s Official Training Kit Partner and Presenting Partner of the Newcastle United Business Club, we look forward to bringing these communities together.”\nThe new SumUp-branded training kit will be worn by Newcastle United squad members starting immediately across all first-team, women's, and academy training sessions and pre-match warm-ups.\nNoYesPayments21 Aug, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/payments/sumup-partners-newcastle-united-multi-year-deal-official-training-kit-partner",
+    "source": "Financial IT",
+    "tags": [
+      "SumUp",
+      "Newcastle United",
+      "North East",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-21T10:20:22.000Z",
+    "fetchedAt": "2026-08-21T11:01:53.749Z",
+    "isDuplicateOf": null,
+    "content": "Newcastle United has announced a multi-year partnership with fintech company SumUp, making them the club’s Official Training Kit Partner. SumUp branding will feature on training wear for the men’s, women’s, and academy teams. Additionally, SumUp becomes the Presenting Partner of the Newcastle United Business Club and will collaborate on community initiatives, including a co-branded card offering special rewards for fans and local businesses."
+  },
+  {
+    "id": "fe15a72beba1ce2d",
+    "title": "XRP Sees Record-Breaking 130% Volume Spike Amid Bull Run Strengthening",
+    "tags": [
+      "XRP"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T10:20:00.000Z"
+  },
+  {
+    "id": "d2335df13f74df3e",
+    "title": "Chainlink Price Surges 8% as LINK Breaks Out — Can ETF Inflows Push It Toward $16?",
+    "summary": "The post Chainlink Price Surges 8% as LINK Breaks Out — Can ETF Inflows Push It Toward $16? appeared first on Coinpedia Fintech News\nChainlink price has surged nearly 8% as LINK breaks above a multi-month resistance structure, putting the $12 level back in play after months of consolidation. The move arrives alongside a broader recovery across the crypto market, but Chainlink is also benefiting from a strengthening institutional-demand narrative as spot LINK ETFs extend their inflow streak. The …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/price-analysis/chainlink-price-surges-8-as-link-breaks-out-can-etf-inflows-push-it-toward-16/",
+    "source": "Coinpedia",
+    "tags": [
+      "Chainlink"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-21T10:19:47.000Z",
+    "fetchedAt": "2026-08-21T11:01:53.749Z",
+    "isDuplicateOf": null,
+    "content": "Chainlink experienced an eight percent price surge as LINK broke above a multi-month resistance level following a period of consolidation. The recent market recovery, combined with a strengthening institutional-demand narrative and continued spot ETF inflows, has helped push the token back toward key price levels. Analysts are now watching whether sustained inflows can drive further upward momentum toward sixteen dollars."
+  },
+  {
+    "id": "41268b3815633e39",
+    "title": "Immutable (IMX) Price Prediction 2026, 2027 – 2030: How High Can IMX Go?",
+    "summary": "The post Immutable (IMX) Price Prediction 2026, 2027 – 2030: How High Can IMX Go? appeared first on Coinpedia Fintech News\nStory Highlights The live price of the IMX token is The Immutable IMX price could hit $0.5526 in 2026 By 2030, IMX could target the $11, only if Web3 gaming becomes mainstream. Immutable is a blockchain infrastructure project built specifically for NFTs and Web3 gaming. Instead of competing as a general-purpose Layer 1, Immutable operates …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/price-prediction/immutable-x-imx-price-prediction/",
+    "source": "Coinpedia",
+    "tags": [
+      "Immutable"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-21T10:17:09.000Z",
+    "fetchedAt": "2026-08-21T11:01:53.749Z",
+    "isDuplicateOf": null,
+    "content": "A recent price prediction for the Immutable token highlights potential future values based on the growth of Web3 gaming and NFTs. Analysts project the IMX price could reach $0.5526 by 2026. Looking further ahead to 2030, IMX might target $11 if Web3 gaming achieves mainstream adoption. Immutable functions as a specialized blockchain infrastructure project designed specifically for NFTs and gaming applications rather than a general-purpose Layer 1 network."
+  },
+  {
+    "id": "1b8918596b642bb1",
+    "title": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T10:15:36.000Z"
+  },
+  {
+    "id": "25893a184dfe3d8c",
+    "title": "Digital Reef’s proposed London datacentre could emit 1M tonnes of CO2 annually, clashing with UK net zero goals",
+    "tags": [
+      "Digital Reef",
+      "London",
+      "United Kingdom"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T10:14:51.000Z"
+  },
+  {
+    "id": "bb23e74396ed9c4f",
+    "title": "Coldcard strengthens seed generation with firmware update",
+    "tags": [
+      "Coldcard",
+      "Coinkite"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T10:13:23.000Z"
+  },
+  {
+    "id": "34f22f889415a2fb",
+    "title": "Bank of America strategist warns of risk asset pressure if bond plan fails",
+    "tags": [
+      "Bank of America"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T10:09:53.000Z"
+  },
+  {
+    "id": "80f8b0db12b987cd",
+    "title": "Cr1t- hints TI2026 likely last tournament for Team Falcons roster",
+    "tags": [
+      "Team Falcons"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T10:08:39.000Z"
+  },
+  {
+    "id": "bc8c95454f210289",
+    "title": "Scott Bessent’s Treasury buybacks are quietly undoing the Fed’s inflation fight",
+    "tags": [
+      "Scott Bessent",
+      "Federal Reserve",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T10:07:20.000Z"
+  },
+  {
+    "id": "0ccf790998eac618",
+    "title": "Optimism Price Prediction 2026, 2027 – 2030, Can the Superchain Vision Revive OP’s Long-Term Value?",
+    "summary": "The post Optimism Price Prediction 2026, 2027 – 2030, Can the Superchain Vision Revive OP’s Long-Term Value? appeared first on Coinpedia Fintech News\nStory Highlights The live price of Optimism is . OP could attempt a recovery toward $0.3733 by 2026 if OP Stack usage, and governance-driven incentives. By 2030, Optimism could target the $5.20, if the Superchain becomes a core part of Ethereum’s Optimism is not just another Ethereum Layer 2. It is the foundation of a …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/price-prediction/optimism-op-price-prediction/",
+    "source": "Coinpedia",
+    "tags": [
+      "Optimism",
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-21T10:03:06.000Z",
+    "fetchedAt": "2026-08-21T11:01:53.749Z",
+    "isDuplicateOf": null,
+    "content": "A recent analysis outlines long-term price predictions for Optimism between 2026 and 2030, exploring whether its Superchain vision and OP Stack usage can help revive the asset's value. Projections suggest potential recovery targets depending on ecosystem growth and governance incentives, highlighting Optimism's role as a prominent Layer 2 foundation for Ethereum."
+  },
+  {
+    "id": "d6b7309b4e770530",
+    "title": "FE fundinfo adds Irish tax modelling to Nexus for Financial Advisers",
+    "summary": "FE fundinfo today extended Nexus for Financial Advisers into the Republic of Ireland, with a dedicated Gross Cashflow modeller bringing built-in tax-aware planning to advisers in the market.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/110701/fe-fundinfo-adds-irish-tax-modelling-to-nexus-for-financial-advisers?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "FE fundinfo",
+      "Republic of Ireland"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-21T10:03:00.000Z",
+    "fetchedAt": "2026-08-21T11:01:53.749Z",
+    "isDuplicateOf": null,
+    "content": "FE fundinfo has expanded its Nexus for Financial Advisers platform into the Republic of Ireland. The update introduces a dedicated Gross Cashflow modeller designed to provide built-in, tax-aware planning capabilities for financial advisers operating within the Irish market."
+  },
+  {
+    "id": "1ce5b28585076a71",
+    "title": "Samsung, SK Hynix face pressure to share AI boom profits",
+    "summary": "The AI-driven profit surge for Samsung and SK Hynix highlights the growing geopolitical and economic pressures to balance reinvestment with equitable wealth distribution.\nThe post Samsung, SK Hynix face pressure to share AI boom profits appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/samsung-sk-hynix-ai-profit-sharing-pressure/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Samsung",
+      "SK Hynix"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-21T10:00:39.000Z",
+    "fetchedAt": "2026-08-21T11:01:53.749Z",
+    "isDuplicateOf": null,
+    "content": "Samsung and SK Hynix are experiencing a significant profit surge driven by the global artificial intelligence boom. This financial growth has brought increased geopolitical and economic pressure on the companies. Observers note that these semiconductor giants now face heightened expectations to balance future business reinvestment with more equitable wealth distribution amid the expanding industry."
+  },
+  {
+    "id": "09059042025a640e",
+    "title": "XRP jumps 18% as ETFs record $13.24M inflows – Is $1.50 next?",
+    "tags": [
+      "XRP"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T10:00:32.000Z"
+  },
+  {
+    "id": "85b89b801b22ef68",
+    "title": "Clash erupts between Palestinians, Jewish West Bank settler group during unapproved hike – report",
+    "summary": "The clash highlights ongoing instability in the West Bank, potentially hindering diplomatic efforts and affecting geopolitical dynamics.\nThe post Clash erupts between Palestinians, Jewish West Bank settler group during unapproved hike – report appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/clash-erupts-between-palestinians-jewish-west-bank-settler-group-during/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "West Bank",
+      "Palestine"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-21T09:56:59.000Z",
+    "fetchedAt": "2026-08-21T11:01:53.749Z",
+    "isDuplicateOf": null,
+    "content": "A clash has erupted between Palestinians and a Jewish West Bank settler group during an unapproved hike in the region. This incident underscores the persistent instability in the West Bank, which could potentially hinder ongoing diplomatic efforts and impact broader geopolitical dynamics in the area."
+  },
+  {
+    "id": "8f964e0916119b90",
+    "title": "Kalshi’s Crypto Perpetual Futures Reach $17.98 Million Open Interest",
+    "tags": [
+      "Kalshi"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T09:46:43.000Z"
+  },
+  {
+    "id": "a85ef4c891b10cd7",
+    "title": "Stacks crypto price prediction: Why $0.26 is KEY to STX’s next rally",
+    "tags": [
+      "Stacks",
+      "Bitcoin"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T09:45:18.000Z"
+  },
+  {
+    "id": "6619aaca43701aba",
+    "title": "Ethereum’s 29% Price Rally Divides Whales Across the Market",
+    "tags": [
+      "Ethereum",
+      "Binance",
+      "United States"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T09:41:19.000Z"
+  },
+  {
+    "id": "bef2159f56995f88",
+    "title": "Kusama Coin (KSM) Price Prediction 2026, 2027-2030: Is KSM a Good Investment?",
+    "summary": "The post Kusama Coin (KSM) Price Prediction 2026, 2027-2030: Is KSM a Good Investment? appeared first on Coinpedia Fintech News\nStory Highlights The Kusama Price today is $ KSM could attempt a move toward $16.70 by the end of 2026. Looking ahead to 2030, the KSM price will depend on the mainstream adoption of its Parachains, the Polkadot ecosystem The Kusama (KSM) network remains a vital component of the Polkadot (DOT) chain, a layer-0 blockchain. …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/price-prediction/kusama-coin-prediction/",
+    "source": "Coinpedia",
+    "tags": [
+      "Kusama",
+      "Polkadot"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-21T09:32:34.000Z",
+    "fetchedAt": "2026-08-21T11:01:53.749Z",
+    "isDuplicateOf": null,
+    "content": "A recent price prediction for Kusama Coin (KSM) suggests the cryptocurrency could attempt a move toward $16.70 by the end of 2026. Looking ahead to 2030, analysts note that the token's future price will depend heavily on the mainstream adoption of its parachains and the broader Polkadot ecosystem. As a vital component of the layer-0 blockchain, Kusama continues to attract interest from investors evaluating its long-term potential."
+  },
+  {
+    "id": "5a3d596c872bd64e",
+    "title": "SEC’s latest crypto rules only open a few of Wall Street’s ‘million doors’ – Bitwise CIO Matt Hougan",
+    "tags": [
+      "Bitwise",
+      "SEC",
+      "Wall Street"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T09:29:56.000Z"
+  },
+  {
+    "id": "9a08e1153887491b",
+    "title": "Solana Is South Korea's Next Big Tokenization Play as Shinhan Mimics BlackRock's Blueprint",
+    "tags": [
+      "Solana",
+      "South Korea",
+      "Shinhan",
+      "BlackRock"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T09:25:30.000Z"
+  },
+  {
+    "id": "f8b7681580be6d54",
+    "title": "Bitcoin’s Price Approaches $80K, Millions Liquidated in Hours",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T09:24:52.000Z"
+  },
+  {
+    "id": "9300cf4b80efa5eb",
+    "title": "What Is Bitcoin Infinity Day? The 8/21 Ritual That Bans Selling for a Day",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-21T09:23:35.000Z"
+  },
+  {
     "id": "fe0b007d3e83f0a2",
     "title": "Upbit trading volume spikes 273% as South Korean investors re-enter crypto",
-    "summary": "One analyst said South Korean capital is slowly moving back to crypto, as investors are 'return-chasing' rather than 'asset-loyal.'",
-    "hasSummary": true,
-    "link": "https://www.theblock.co/news/markets/2026-08-21-upbit-trading-volume-spikes-412435",
-    "source": "The Block",
     "tags": [
       "Upbit",
       "SouthKorea",
       "CryptoTrading"
     ],
+    "source": "The Block",
     "origin": "rss",
-    "pubDate": "2026-08-21T09:17:58.000Z",
-    "fetchedAt": "2026-08-21T09:21:06.340Z",
-    "isDuplicateOf": null,
-    "content": "Daily trading volume on South Korea’s leading cryptocurrency exchange Upbit surged by 273% as retail investors aggressively returned to digital asset markets.\nThe sharp liquidity influx was largely driven by a wave of new token listings alongside a broader global market rally.\nData shows local traders are rapidly shifting back into speculative altcoin pairs, aiming to capture short-term momentum and outsized returns.\nThe sudden spike in trading activity pushed South Korea’s \"Kimchi Premium\" higher, reflecting strong domestic buying pressure relative to global price averages.\nThe volume surge solidifies Upbit’s market dominance in the region, reaffirming South Korea as one of the world's most active retail crypto hubs."
+    "hasContent": true,
+    "pubDate": "2026-08-21T09:17:58.000Z"
   },
   {
     "id": "5a484c34d06e54fe",
     "title": "Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.",
-    "summary": "The rally in hard assets isn’t necessarily about what the Treasury is doing, but what its move signals to the market.",
-    "hasSummary": true,
-    "link": "https://www.coindesk.com/markets/2026/08/21/treasury-s-latest-measure-isn-t-qe-or-ycc-still-bitcoin-is-skyrocketing-here-s-why",
-    "source": "CoinDesk",
     "tags": [
       "Bitcoin",
       "United States Department of the Treasury"
     ],
+    "source": "CoinDesk",
     "origin": "rss",
-    "pubDate": "2026-08-21T09:17:15.000Z",
-    "fetchedAt": "2026-08-21T09:21:06.340Z",
-    "isDuplicateOf": null,
-    "content": "Bitcoin prices are surging following a recent measure introduced by the Treasury. While analysts clarify that the policy is distinct from quantitative easing or yield curve control, the market response indicates strong investor enthusiasm for hard assets. Observers note the rally is largely driven by what the Treasury's strategic move signals for the broader financial outlook."
+    "hasContent": true,
+    "pubDate": "2026-08-21T09:17:15.000Z"
   },
   {
     "id": "ef37fdee2b8fa42b",
     "title": "Nomura-backed Laser Digital wins key approval to offer crypto services in Japan",
-    "summary": "Japan's crypto market maturity accelerates, attracting institutional interest and necessitating robust infrastructure and trusted services.\nThe post Nomura-backed Laser Digital wins key approval to offer crypto services in Japan appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/nomura-backed-laser-digital-wins-key-approval-to-offer-crypto-services-in-japan/",
-    "source": "CryptoBriefing",
     "tags": [
       "LaserDigital",
       "JapanCrypto"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-21T09:14:59.000Z",
-    "fetchedAt": "2026-08-21T09:21:06.340Z",
-    "isDuplicateOf": null,
-    "content": "Laser Digital, the digital-asset subsidiary of Nomura Holdings, has officially completed its registration as a crypto asset exchange operator in Japan.\nThe regulatory clearance from the Kanto Local Finance Bureau permits the firm to offer institutional trading and asset brokerage services.\nThe expansion aims to tap into growing domestic demand as Japanese institutional interest in digital asset allocation reaches record levels.\nAlongside trading, Laser Digital is partnering with local entities to explore Japanese yen and U.S. dollar stablecoin issuance.\nThe milestone reinforces Nomura’s strategy to build a globally regulated crypto infrastructure across Asia, Europe, and the U.S."
+    "hasContent": true,
+    "pubDate": "2026-08-21T09:14:59.000Z"
   },
   {
     "id": "a2dab33aa59ab24f",
     "title": "Important Pi Network News and PI Price Update: August 21",
-    "summary": "Aside from all the latest news, we will check how PI performed during the highly impressive market-wide revival over the past few days.",
-    "hasSummary": true,
-    "link": "https://cryptopotato.com/important-pi-network-news-and-pi-price-update-august-21/",
-    "source": "CryptoPotato",
     "tags": [
       "Pi Network"
     ],
+    "source": "CryptoPotato",
     "origin": "rss",
-    "pubDate": "2026-08-21T09:10:56.000Z",
-    "fetchedAt": "2026-08-21T09:21:06.340Z",
-    "isDuplicateOf": null,
-    "content": "The latest Pi Network news includes a comprehensive price update for August 21. Alongside recent developments surrounding the project, analysts examined how the PI token performed during the impressive market-wide revival observed over the past few days. The updates offer insights into current market trends and the digital asset's recent price movements."
+    "hasContent": true,
+    "pubDate": "2026-08-21T09:10:56.000Z"
   },
   {
     "id": "28f26764bb599501",
     "title": "Russia deploys North Korean missiles within reach of 7 Ukrainian regions",
-    "summary": "The missile deployment heightens regional tensions, potentially prompting NATO involvement and altering the strategic military balance.\nThe post Russia deploys North Korean missiles within reach of 7 Ukrainian regions appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/russia-deploys-north-korean-missiles-within-reach-of-7-ukrainian-regions/",
-    "source": "CryptoBriefing",
     "tags": [
       "Russia",
       "North Korea",
       "Ukraine",
       "NATO"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-21T09:04:38.000Z",
-    "fetchedAt": "2026-08-21T09:21:06.340Z",
-    "isDuplicateOf": null,
-    "content": "Recent reports indicate that Russia has deployed North Korean missiles within striking distance of seven Ukrainian regions. This strategic military escalation significantly heightens regional tensions and could potentially prompt a broader response from NATO, altering the current balance of power in the ongoing conflict."
+    "hasContent": true,
+    "pubDate": "2026-08-21T09:04:38.000Z"
   },
   {
     "id": "f9f39095ed16ef1e",
@@ -307,482 +757,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-08-21T07:53:43.000Z"
-  },
-  {
-    "id": "c1c8f93377dc53ac",
-    "title": "MANTRA Hits All-Time Low on the Day Most Coins Rallied",
-    "tags": [
-      "MANTRA",
-      "BeInCrypto"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T07:48:33.000Z"
-  },
-  {
-    "id": "980545281ba6d9c1",
-    "title": "Arsenal signs Ezri Konsa from Aston Villa for £51M plus add-ons",
-    "tags": [
-      "Arsenal",
-      "Aston Villa",
-      "Ezri Konsa"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T07:32:37.000Z"
-  },
-  {
-    "id": "d3573c53c89c1be4",
-    "title": "Bitcoin News Today: Reserve Rules Set Scope for Government Demand",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T07:32:29.000Z"
-  },
-  {
-    "id": "d60239c932ce66d8",
-    "title": "US redeploys aircraft carriers to Middle East, leaves Asia-Pacific gap",
-    "tags": [
-      "United States",
-      "Middle East",
-      "Taiwan",
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T07:25:20.000Z"
-  },
-  {
-    "id": "b5ddffb590d7c331",
-    "title": "Japan’s Inflation Print Just Made a September BOJ Hike Harder to Avoid",
-    "tags": [
-      "Japan",
-      "Bank of Japan",
-      "Iran"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T07:13:52.000Z"
-  },
-  {
-    "id": "4a1ab892cb7f1204",
-    "title": "Treasury buyback expansion sparks dollar debasement concerns, boosts gold, bitcoin",
-    "tags": [
-      "Gold",
-      "Bitcoin",
-      "United States Department of the Treasury"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T07:12:52.000Z"
-  },
-  {
-    "id": "3c51ce3e63a13bd0",
-    "title": "Finassets Crypto Payment Gateway Launches USDC Payment Support on Solana",
-    "tags": [
-      "Finassets",
-      "USDC",
-      "Solana",
-      "Panama City"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T07:11:46.000Z"
-  },
-  {
-    "id": "15ed3abfb4760606",
-    "title": "Anchorage CEO says AI agents need bank accounts for ‘The Jetsons’-like future",
-    "tags": [
-      "Anchorage"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T07:11:13.000Z"
-  },
-  {
-    "id": "2546700442287b08",
-    "title": "Bitcoin Reclaims Bull Market Support Band as BTC Hits $75k — 3 Factors Behind This Boost",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "ZyCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T07:11:03.000Z"
-  },
-  {
-    "id": "f94e65ecf990f59e",
-    "title": "Gold Prices To Rise 10 Times Higher, Predicts Analyst",
-    "tags": [
-      "Thomas Kaplan",
-      "Electrum Group"
-    ],
-    "source": "Watcher.Guru",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T07:10:00.000Z"
-  },
-  {
-    "id": "afd668a038f2aa59",
-    "title": "U.S. Debt Hits $40,000,000,000,000 for the First Time Ever as President Trump Dismisses Bond Market Worries",
-    "tags": [
-      "United States",
-      "Donald Trump"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T07:04:13.000Z"
-  },
-  {
-    "id": "c82f24157468344d",
-    "title": "Ripple SEC Case Becomes a Warning for Crypto Lawmakers",
-    "tags": [
-      "Ripple",
-      "SEC"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T07:02:46.000Z"
-  },
-  {
-    "id": "2a8be27b7549643e",
-    "title": "Attackers drove 63% of early use of Ethereum’s new smart wallet feature",
-    "tags": [
-      "Ethereum",
-      "CryptoSlate"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T07:00:39.000Z"
-  },
-  {
-    "id": "b952661750c3e97b",
-    "title": "Why FASB’s ‘cash equivalent’ proposal could accelerate stablecoin adoption",
-    "tags": [
-      "FASB"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T07:00:10.000Z"
-  },
-  {
-    "id": "8442ae3b4b8cba4d",
-    "title": "Gate First Launches Japanese Stock Trading, Expanding Its One-Stop Global Asset Trading Platform",
-    "tags": [
-      "Gate",
-      "Tokyo Stock Exchange",
-      "Japan"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T06:54:41.000Z"
-  },
-  {
-    "id": "ac53904cd7013d61",
-    "title": "Dogecoin (DOGE) Price Prediction 2026, 2027 – 2030: Will DOGE Reach 1 Dollar?",
-    "tags": [
-      "Dogecoin"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T06:50:50.000Z"
-  },
-  {
-    "id": "03e080033284405c",
-    "title": "Hyperliquid fee revenue up 31% in August, HYPE price rises amid market optimism",
-    "tags": [
-      "Hyperliquid"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T06:49:52.000Z"
-  },
-  {
-    "id": "628844e97c72f107",
-    "title": "ZBD Unveils Embedded Financial Infrastructure for Video Games",
-    "tags": [
-      "ZBD",
-      "1047 Games",
-      "Joygame",
-      "TapNation",
-      "Turborilla"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T06:47:32.000Z"
-  },
-  {
-    "id": "082267d9f464a751",
-    "title": "Tottenham Hotspur agrees to sign Savinho from Manchester City for £75M",
-    "tags": [
-      "Tottenham Hotspur",
-      "Manchester City",
-      "Savinho"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T06:43:51.000Z"
-  },
-  {
-    "id": "3694e7d822d1d2e6",
-    "title": "Ethena Price Explodes 40% as Arthur Hayes Calls Ethena a 5X Bet — Can ENA Reach $0.20?",
-    "tags": [
-      "Ethena",
-      "Arthur Hayes"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T06:42:27.000Z"
-  },
-  {
-    "id": "62b45e72f6ea2780",
-    "title": "Emerging-market stocks rally as investors shift focus to smaller tech firms",
-    "tags": [
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T06:39:36.000Z"
-  },
-  {
-    "id": "62aa19feeaad4e6b",
-    "title": "Solana Aims to Cut Block Time in Half, and You Can Watch It Live",
-    "tags": [
-      "Solana",
-      "BeInCrypto"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T06:34:05.000Z"
-  },
-  {
-    "id": "42b019ff1cf5c622",
-    "title": "South Korea’s Shinhan partners with Solana Foundation, Etherfuse, Orca for tokenized fund issuance",
-    "tags": [
-      "Shinhan",
-      "Solana",
-      "Etherfuse",
-      "Orca",
-      "South Korea"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T06:32:48.000Z"
-  },
-  {
-    "id": "d518a54d422d69c3",
-    "title": "Binance To Remove Seven Spot Trading Pairs Including SUI And LTC Markets",
-    "tags": [
-      "Binance",
-      "SUI",
-      "LTC"
-    ],
-    "source": "Bitcoinist",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T06:30:00.000Z"
-  },
-  {
-    "id": "5d69e8459f5f2849",
-    "title": "Danfoss expects data-center sales to double amid AI boom",
-    "tags": [
-      "Danfoss"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T06:21:21.000Z"
-  },
-  {
-    "id": "c9461d84a65c9e39",
-    "title": "Cardano Founder Charles Hoskinson Backs Clarity Act, Praises Paul Atkins",
-    "tags": [
-      "Cardano",
-      "Charles Hoskinson",
-      "United States"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T06:16:05.000Z"
-  },
-  {
-    "id": "2eacbdbc69add879",
-    "title": "Why INJ traders should watch THESE levels after price rally hits major roadblock",
-    "summary": "INJ is in a tight spot right now with several factors contradicting themselves.",
-    "hasSummary": true,
-    "link": "https://ambcrypto.com/why-inj-traders-should-watch-these-levels-after-price-rally-hits-major-roadblock/",
-    "source": "AMBCrypto",
-    "tags": [
-      "CryptoTrading",
-      "INJ"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-21T06:00:04.000Z",
-    "fetchedAt": "2026-08-21T06:03:10.204Z",
-    "isDuplicateOf": null,
-    "content": "Injective (INJ) faces a crucial technical juncture after its recent price rally hit strong overhead resistance in the $5.55–$5.60 zone.\nDerivatives data from major exchanges reveals growing sell volume in the perpetual futures market, with short positioning edging past 51%.\nDespite a 14% short-term price bounce, declining long-to-short ratios indicate that bullish momentum may be wavering among leverage traders.\nMarket participants are closely monitoring immediate support between $5.20 and $5.30 to determine if buyers can defend against a deeper pullback.\nA decisive daily close above $5.60 could unlock upside targets near $6.08, whereas breaking below $4.77 risks a retracement toward $3.98."
-  },
-  {
-    "id": "12973e1322f8a91a",
-    "title": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
-    "tags": [
-      "MANTRA"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-21T05:52:27.000Z"
-  },
-  {
-    "id": "1473534c64f260ee",
-    "title": "South Korean lawmakers seek expanded FIU powers over unregistered crypto firms",
-    "summary": "The proposal would let the FIU investigate suspected violations and refer unregistered crypto operators directly to law enforcement.",
-    "hasSummary": true,
-    "link": "https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph",
-    "tags": [
-      "SouthKorea",
-      "CryptoRegulation",
-      "FIU"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-21T05:47:16.000Z",
-    "fetchedAt": "2026-08-21T06:03:10.204Z",
-    "isDuplicateOf": null,
-    "content": "South Korean lawmakers have introduced a bill to grant the Financial Intelligence Unit (FIU) direct authority to investigate unregistered crypto firms.\nThe proposed amendment allows the agency to independently analyze suspected violations and refer cases directly to law enforcement.\nUnder the new framework, any citizen would be able to report suspected illegal or unregistered virtual asset operators to the FIU.\nLawmakers cited enforcement gaps under current laws, where police stalled investigations into most FIU-referred unregistered firms.\nThe measure aims to strengthen anti-money laundering controls and crack down on offshore entities targeting local retail investors."
-  },
-  {
-    "id": "4b425acd2d9bb8a1",
-    "title": "US plans unprecedented sanctions on Iran, escalating tensions: Bessent",
-    "summary": "The sanctions could further destabilize regional relations and diminish prospects for future diplomatic agreements between the U.S. and Iran.\nThe post US plans unprecedented sanctions on Iran, escalating tensions: Bessent appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/us-plans-unprecedented-sanctions-on-iran-escalating-tensions-bessent/",
-    "source": "CryptoBriefing",
-    "tags": [],
-    "origin": "rss",
-    "pubDate": "2026-08-21T05:46:17.000Z",
-    "fetchedAt": "2026-08-21T06:03:10.204Z",
-    "isDuplicateOf": null,
-    "content": "U.S. Treasury Secretary Scott Bessent announced that Washington is preparing to implement the \"toughest sanctions in history\" against Iran as part of an aggressive \"maximum economic pressure\" campaign.  Coordinated Economic Isolation: The strategy aims to completely sever Tehran's remaining commercial ties, with secondary sanctions targeting any country or firm that continues to trade with Iran.  Strait of Hormuz Enforcement: The financial measures will run parallel to an ongoing maritime blockade restricting commercial vessel transit and port access.  Explicit Policy Objectives: Administration officials have framed the unprecedented financial squeeze as a non-kinetic mechanism designed to force a resolution to the ongoing conflict.  The announcement has added further volatility to global energy markets, driving Brent crude prices above $92 per barrel amid escalating supply disruption fears. Treasury officials are expected to outline the specific details of the sanctions package"
-  },
-  {
-    "id": "f8dbdb3e93338c3f",
-    "title": "Aston Villa faces squad challenges after selling three key players",
-    "summary": "Aston Villa's squad depth and cohesion face challenges, risking inconsistency in multiple competitions despite financial gains from sales.\nThe post Aston Villa faces squad challenges after selling three key players appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/aston-villa-squad-challenges-summer-sales/",
-    "source": "CryptoBriefing",
-    "tags": [
-      "AstonVilla",
-      "PremierLeague"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-21T05:37:25.000Z",
-    "fetchedAt": "2026-08-21T06:03:10.204Z",
-    "isDuplicateOf": null,
-    "content": "Aston Villa is navigating an unprecedented squad rebuild as financial sustainability demands and high-profile transfers reshape their roster ahead of the new season.\nThe club has sanctioned major departures, including core midfielders Youri Tielemans and Morgan Rogers, alongside defender Lucas Digne and centre-back Ezri Konsa.\nCompounding the roster overhaul, an early-season injury wave has sidelined key players Amadou Onana and summer recruit João Gomes.\nManager Unai Emery has brought in replacements such as Japanese goalkeeper Zion Suzuki and prospect Brian Madjo to patch critical depth gaps.\nWith additional star figures like Ollie Watkins continuing to attract heavy international transfer interest, Villa's remaining squad depth faces an immediate test.\nNavigating this rapid transition smoothly will determine whether the club can maintain its top-four competitiveness or suffer an extended period of adjustment."
-  },
-  {
-    "id": "dffa6a77506df111",
-    "title": "CZ Wants Countries to Tokenize Assets, But There’s A Catch",
-    "summary": "Binance founder Changpeng Zhao (CZ) said tokenization could help countries raise money and attract foreign investment, while acknowledging that putting assets on multiple blockchains could fragment liquidity.  His comments come as the tokenization market continues to expand, with the total value of distributed assets now at $38.40 billion. CZ Pushes For Global Tokenization  Zhao framed\nThe post CZ Wants Countries to Tokenize Assets, But There’s A Catch appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/cz-countries-tokenized-stocks-fragmented-liquidity/",
-    "source": "BeInCrypto",
-    "tags": [
-      "CZ",
-      "CryptoNews"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-21T05:31:06.000Z",
-    "fetchedAt": "2026-08-21T06:03:10.204Z",
-    "isDuplicateOf": null,
-    "content": "Former Binance CEO Changpeng \"CZ\" Zhao urged governments to tokenize state assets, stock markets, and issue sovereign stablecoins to attract foreign direct investment.\nAccording to updates shared on Binance Square, CZ has been meeting with government officials and regulators across Asia to accelerate real-world asset (RWA) adoption.\nHowever, CZ highlighted a major catch: deploying assets across multiple blockchains creates significant fragmented liquidity.\nHe emphasized that overcoming this obstacle requires high asset interchangeability and standardized frameworks among different token issuers.\nAnalysis covered by Mitrade indicates that sovereign RWA initiatives could unlock hundreds of billions in market value as governments look to expand global capital access."
-  },
-  {
-    "id": "120a0eab00aee564",
-    "title": "OpenAI IPO pause raises questions about Anthropic’s public offering plans",
-    "summary": "OpenAI's IPO pause may signal broader market or regulatory challenges, potentially affecting Anthropic's valuation and strategic decisions.\nThe post OpenAI IPO pause raises questions about Anthropic’s public offering plans appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/openai-ipo-pause-raises-questions-about-anthropics-public-offering-plans/",
-    "source": "CryptoBriefing",
-    "tags": [
-      "OpenAI",
-      "Anthropic"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-21T05:30:28.000Z",
-    "fetchedAt": "2026-08-21T06:03:10.204Z",
-    "isDuplicateOf": null,
-    "content": "OpenAI CFO Sarah Friar reassured staff that the firm is targeting a public debut by 2027, dismissing IPO race pressure as rival Anthropic prepares to go public.\nThe update follows OpenAI's confidential IPO filing in June alongside a temporary pause on certain training workloads to overhaul internal safety protocols.\nMeanwhile, Anthropic has submitted its own confidential paperwork and could list as early as September 2026, backed by annualized revenue approaching $65 billion.\nManagement urged employees not to worry if Anthropic debuts first, emphasizing that OpenAI is operating on its own independent timeline.\nMarket analysts believe Anthropic’s public prospectus will provide the first true audited look at revenue trajectories and compute costs across the AI industry"
-  },
-  {
-    "id": "5bbc6cda627351ba",
-    "title": "South Korea plans chip windfall fund to support youth, AI investment",
-    "summary": "South Korea's strategic fund aims to transform tech windfalls into long-term economic resilience, focusing on youth, AI, and global supply chains.\nThe post South Korea plans chip windfall fund to support youth, AI investment appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/south-korea-chip-windfall-fund-youth-ai/",
-    "source": "CryptoBriefing",
-    "tags": [
-      "SouthKorea",
-      "AI",
-      "Economy"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-21T05:25:59.000Z",
-    "fetchedAt": "2026-08-21T06:03:10.204Z",
-    "isDuplicateOf": null,
-    "content": "South Korea’s government announced plans to establish a \"Future Response Fund\" financed by excess tax revenues from the country's booming semiconductor sector.\nEstimated to exceed 100 trillion won ($72 billion), the fund will pool additional tax receipts driven by soaring AI memory chip profits at Samsung Electronics and SK Hynix.\nA primary focus of the fund is supporting younger generations through targeted employment programs, affordable housing support, and startup funding.\nIn parallel, capital will be directed toward strategic national projects, including physical AI, data center infrastructure, and next-generation technologies.\nPresident Lee Jae-myung’s administration framed the initiative as a way to convert a cyclical tech boom into multi-decade structural support while tackling youth unemployment and low birth rates.\nRelated legislation to formalize the fund structure is scheduled to be submitted to parliament alongside the upcoming budget proposal."
-  },
-  {
-    "id": "c2f1498c0b0b981c",
-    "title": "Australia charges man for trying to inform Russia on Ukrainian military activities",
-    "summary": "Australia's legal action underscores global vigilance on intelligence activities, potentially reshaping geopolitical dynamics in the Russia-Ukraine conflict.\nThe post Australia charges man for trying to inform Russia on Ukrainian military activities appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/australia-charges-man-for-trying-to-inform-russia-on-ukrainian-military/",
-    "source": "CryptoBriefing",
-    "tags": [
-      "Australia",
-      "NationalSecurity",
-      "Ukraine"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-21T05:10:55.000Z",
-    "fetchedAt": "2026-08-21T06:03:10.204Z",
-    "isDuplicateOf": null,
-    "content": "Australian police have charged 27-year-old dual Russian-Australian citizen Vladimir Teslov with attempted foreign interference.\nInvestigators allege Teslov traveled to Russia in late 2024 for military-style training while maintaining contact with suspected Russian intelligence handlers.\nIn May 2025, he enlisted in the Ukrainian Armed Forces specifically to gain access to confidential military personnel, unit locations, and field operations.\nAuthorities state he subsequently attempted to transmit the sensitive intelligence to individuals linked to Russian state services, creating severe risks for Ukrainian troops.\nFederal police executed search warrants in Brisbane, seizing multiple electronic devices as part of an ongoing counter-espionage operation.\nIf convicted under Australia's foreign interference laws, Teslov faces a maximum sentence of 20 years in prison."
-  },
-  {
-    "id": "ff7e746458013bcf",
-    "title": "Bitcoin Rockets Past $75K as Analyst Declares the Bull Market Has Begun",
-    "tags": [],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-08-21T05:09:15.000Z"
   }
 ]
