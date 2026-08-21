@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 
-const SITE_NAME = 'up to date news';
+const SITE_NAME = 'Up to Date Crypto News';
 const SITE_URL = 'https://cryptonews-peach.vercel.app';
 const DEFAULT_IMAGE = `${SITE_URL}/logos/favicon.png`;
 

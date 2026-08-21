@@ -39,7 +39,7 @@ export default async function handler(req, res) {
     location: event.location ? { '@type': 'Place', name: event.location, address: event.location } : undefined,
     image: [image],
     url,
-    organizer: { '@type': 'Organization', name: 'up to date news', url: SITE_URL },
+    organizer: { '@type': 'Organization', name: 'Up to Date Crypto News', url: SITE_URL },
   };
 
   const bodyHtml = `
@@ -49,7 +49,7 @@ export default async function handler(req, res) {
   <p>${escapeHtml(event.startDate || '')} – ${escapeHtml(event.endDate || '')} (${escapeHtml(event.timezone || 'UTC')})</p>
   <p>${escapeHtml(event.description || '')}</p>
   ${event.link ? `<p><a href="${escapeHtml(event.link)}">Official event site</a></p>` : ''}
-  <p><a href="${escapeHtml(url)}">View on up to date news</a></p>
+  <p><a href="${escapeHtml(url)}">View on Up to Date Crypto News</a></p>
 </article>`;
 
   const html = renderPrerenderPage({

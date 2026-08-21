@@ -34,9 +34,9 @@ function PublicLayout() {
   return (
     <div className="app">
       <header className="site-header">
-        <Link to="/" className="site-logo" aria-label="up to date news">
-          <img src="/logos/logo-web.svg" alt="up to date news" className="site-logo-img site-logo-img-web" />
-          <img src="/logos/logo-mobile.svg" alt="up to date news" className="site-logo-img site-logo-img-mobile" />
+        <Link to="/" className="site-logo" aria-label="Up to Date Crypto News">
+          <img src="/logos/logo-web.svg" alt="Up to Date Crypto News" className="site-logo-img site-logo-img-web" />
+          <img src="/logos/logo-mobile.svg" alt="Up to Date Crypto News" className="site-logo-img site-logo-img-mobile" />
         </Link>
         <nav className="site-nav">
           <NavLink to="/" end className={({ isActive }) => (isActive ? 'active' : '')}>News</NavLink>

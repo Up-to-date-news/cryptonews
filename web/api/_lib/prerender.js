@@ -1,4 +1,4 @@
-const SITE_NAME = 'up to date news';
+const SITE_NAME = 'Up to Date Crypto News';
 
 // Vite serves the SPA and its /data/*.json on one origin in production;
 // locally the API shim runs on :3001 while Vite serves everything else

@@ -44,7 +44,7 @@ export default async function handler(req, res) {
     });
 
     await transporter.sendMail({
-      from: `"Up to date news — contact form" <${process.env.GMAIL_USER}>`,
+      from: `"Up to Date Crypto News — contact form" <${process.env.GMAIL_USER}>`,
       to: CONTACT_TO,
       replyTo: email.trim(),
       subject: `[Contact] ${reasonLabel} — ${name.trim()}`,

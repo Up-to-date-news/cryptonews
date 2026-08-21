@@ -20,7 +20,7 @@ export default function Footer() {
 
       <div className="site-footer-links">
         <Link to="/terms">Terms &amp; Conditions</Link>
-        <span className="site-footer-copyright">© {year} up to date news. All rights reserved.</span>
+        <span className="site-footer-copyright">© {year} Up to Date Crypto News. All rights reserved.</span>
       </div>
     </footer>
   );

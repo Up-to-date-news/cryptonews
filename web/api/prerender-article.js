@@ -34,10 +34,10 @@ export default async function handler(req, res) {
     datePublished: article.pubDate,
     dateModified: article.pubDate,
     mainEntityOfPage: { '@type': 'WebPage', '@id': url },
-    author: { '@type': 'Organization', name: 'up to date news' },
+    author: { '@type': 'Organization', name: 'Up to Date Crypto News' },
     publisher: {
       '@type': 'Organization',
-      name: 'up to date news',
+      name: 'Up to Date Crypto News',
       logo: { '@type': 'ImageObject', url: `${SITE_URL}/logos/favicon.png` },
     },
   };
@@ -47,8 +47,8 @@ export default async function handler(req, res) {
   <h1>${escapeHtml(article.title)}</h1>
   ${article.tags?.length ? `<p>${article.tags.map(escapeHtml).join(', ')}</p>` : ''}
   <p>${escapeHtml(article.content || article.summary || 'Content unavailable for this article.')}</p>
-  <p>Source: ${escapeHtml(article.source || 'up to date news')} — Published ${escapeHtml(article.pubDate || '')}</p>
-  <p><a href="${escapeHtml(url)}">Read on up to date news</a></p>
+  <p>Source: ${escapeHtml(article.source || 'Up to Date Crypto News')} — Published ${escapeHtml(article.pubDate || '')}</p>
+  <p><a href="${escapeHtml(url)}">Read on Up to Date Crypto News</a></p>
 </article>`;
 
   const html = renderPrerenderPage({

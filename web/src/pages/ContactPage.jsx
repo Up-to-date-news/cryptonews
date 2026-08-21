@@ -25,7 +25,7 @@ export default function ContactPage() {
 
   usePageMeta({
     title: 'Contact Us',
-    description: 'Get in touch with up to date news — advertising inquiries, corrections, and general contact.',
+    description: 'Get in touch with Up to Date Crypto News — advertising inquiries, corrections, and general contact.',
     path: '/contact',
   });
 
