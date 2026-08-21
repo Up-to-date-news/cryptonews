@@ -5984,10 +5984,13 @@
   {
     "id": "ba89e13b8692f97a",
     "title": "Bitcoin news: BTC reclaims $74,000 as ETFs see $5.3B volume",
-    "tags": [],
+    "tags": [
+      "Bitcoin",
+      "SpotETFs"
+    ],
     "source": "Coinpedia",
     "origin": "rss",
-    "hasContent": false,
+    "hasContent": true,
     "pubDate": "2026-08-21T04:03:36.000Z"
   }
 ]
