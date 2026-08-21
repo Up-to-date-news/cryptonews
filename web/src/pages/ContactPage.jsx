@@ -57,8 +57,9 @@ export default function ContactPage() {
   }
 
   return (
-    <div className="terms-page">
+    <div className="contact-page">
       <Link to="/" className="back-link">← Back</Link>
+      <div className="contact-card">
       <h1>Contact us</h1>
 
       {status === 'success' ? (
@@ -106,6 +107,7 @@ export default function ContactPage() {
           {status === 'error' && <p className="admin-status error">{errorMessage}</p>}
         </form>
       )}
+      </div>
     </div>
   );
 }
