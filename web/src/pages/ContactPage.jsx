@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { usePageMeta } from '../hooks/usePageMeta.js';
+import SearchableSelect from '../components/SearchableSelect.jsx';
 
 const REASONS = [
   { value: 'advertisement', label: 'For advertisement' },
@@ -91,11 +92,7 @@ export default function ContactPage() {
 
           <label>
             Reason
-            <select value={form.reason} onChange={(e) => updateField('reason', e.target.value)}>
-              {REASONS.map((r) => (
-                <option key={r.value} value={r.value}>{r.label}</option>
-              ))}
-            </select>
+            <SearchableSelect options={REASONS} value={form.reason} onChange={(value) => updateField('reason', value)} ariaLabel="Reason" />
           </label>
 
           <label>

@@ -10,8 +10,12 @@ export default async function handler(req, res) {
 
   if (!requireAuth(req, res)) return;
 
-  const { id } = req.body ?? {};
-  if (!id) return res.status(400).json({ error: 'id is required.' });
+  const { id, ids } = req.body ?? {};
+  // Accepts either one id (existing single-delete callers) or an ids
+  // array (bulk selection) — both delete in a single commit either way,
+  // so selecting hundreds of posts doesn't mean hundreds of commits.
+  const idList = Array.isArray(ids) && ids.length > 0 ? ids : id ? [id] : [];
+  if (idList.length === 0) return res.status(400).json({ error: 'id or ids is required.' });
 
   try {
     const octokit = getOctokit();
@@ -20,35 +24,41 @@ export default async function handler(req, res) {
     const latestPath = 'data/latest.json';
 
     const index = await readJsonFile(octokit, cfg, indexPath, []);
-    const indexEntry = index.find((a) => a.id === id);
-    if (!indexEntry) return res.status(404).json({ error: 'Article not found.' });
+    const idSet = new Set(idList);
+    const entriesToDelete = index.filter((a) => idSet.has(a.id));
+    if (entriesToDelete.length === 0) return res.status(404).json({ error: 'No matching articles found.' });
     // Any post can be deleted, not just manually-created ones — the Needs
-    // Content page needs to be able to discard RSS articles the admin
-    // doesn't want to bother writing content for.
+    // Content / AI Posts pages need to be able to discard RSS articles.
 
-    const dayPath = `data/articles/${dayKeyFromDate(indexEntry.pubDate)}.json`;
-    const dayArticles = await readJsonFile(octokit, cfg, dayPath, []);
-    const updatedDayArticles = dayArticles.filter((a) => a.id !== id);
+    // A bulk selection can span multiple day-files — touch only the ones
+    // that actually contain a deleted id.
+    const dayPaths = new Set(entriesToDelete.map((entry) => `data/articles/${dayKeyFromDate(entry.pubDate)}.json`));
 
-    const updatedIndex = index.filter((a) => a.id !== id);
+    const files = [];
+    for (const dayPath of dayPaths) {
+      const dayArticles = await readJsonFile(octokit, cfg, dayPath, []);
+      const updatedDayArticles = dayArticles.filter((a) => !idSet.has(a.id));
+      files.push({ path: dayPath, content: JSON.stringify(updatedDayArticles, null, 2) });
+    }
+
+    const updatedIndex = index.filter((a) => !idSet.has(a.id));
+    files.push({ path: indexPath, content: JSON.stringify(updatedIndex, null, 2) });
 
     const latest = await readJsonFile(octokit, cfg, latestPath, []);
-    const latestHasEntry = latest.some((a) => a.id === id);
-    const updatedLatest = latest.filter((a) => a.id !== id);
-
-    const files = [
-      { path: dayPath, content: JSON.stringify(updatedDayArticles, null, 2) },
-      { path: indexPath, content: JSON.stringify(updatedIndex, null, 2) },
-    ];
-    if (latestHasEntry) {
+    if (latest.some((a) => idSet.has(a.id))) {
+      const updatedLatest = latest.filter((a) => !idSet.has(a.id));
       files.push({ path: latestPath, content: JSON.stringify(updatedLatest, null, 2) });
     }
 
-    await commitFiles(octokit, cfg, files, `chore: delete post "${indexEntry.title}"`);
+    const commitMessage = entriesToDelete.length === 1
+      ? `chore: delete post "${entriesToDelete[0].title}"`
+      : `chore: delete ${entriesToDelete.length} posts`;
 
-    return res.status(200).json({ success: true });
+    await commitFiles(octokit, cfg, files, commitMessage);
+
+    return res.status(200).json({ success: true, deletedCount: entriesToDelete.length });
   } catch (err) {
     console.error('[delete-news] Failed:', err);
-    return res.status(500).json({ error: 'Failed to delete post. See server logs for details.' });
+    return res.status(500).json({ error: 'Failed to delete post(s). See server logs for details.' });
   }
 }

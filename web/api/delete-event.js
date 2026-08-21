@@ -9,8 +9,9 @@ export default async function handler(req, res) {
 
   if (!requireAuth(req, res)) return;
 
-  const { id } = req.body ?? {};
-  if (!id) return res.status(400).json({ error: 'id is required.' });
+  const { id, ids } = req.body ?? {};
+  const idList = Array.isArray(ids) && ids.length > 0 ? ids : id ? [id] : [];
+  if (idList.length === 0) return res.status(400).json({ error: 'id or ids is required.' });
 
   try {
     const octokit = getOctokit();
@@ -18,21 +19,26 @@ export default async function handler(req, res) {
     const indexPath = 'data/events/index.json';
 
     const events = await readJsonFile(octokit, cfg, indexPath, []);
-    const target = events.find((e) => e.id === id);
-    if (!target) return res.status(404).json({ error: 'Event not found.' });
+    const idSet = new Set(idList);
+    const targets = events.filter((e) => idSet.has(e.id));
+    if (targets.length === 0) return res.status(404).json({ error: 'No matching events found.' });
 
-    const updated = events.filter((e) => e.id !== id);
+    const updated = events.filter((e) => !idSet.has(e.id));
+
+    const commitMessage = targets.length === 1
+      ? `chore: delete event "${targets[0].title}"`
+      : `chore: delete ${targets.length} events`;
 
     await commitFiles(
       octokit,
       cfg,
       [{ path: indexPath, content: JSON.stringify(updated, null, 2) }],
-      `chore: delete event "${target.title}"`
+      commitMessage
     );
 
-    return res.status(200).json({ success: true });
+    return res.status(200).json({ success: true, deletedCount: targets.length });
   } catch (err) {
     console.error('[delete-event] Failed:', err);
-    return res.status(500).json({ error: 'Failed to delete event. See server logs for details.' });
+    return res.status(500).json({ error: 'Failed to delete event(s). See server logs for details.' });
   }
 }

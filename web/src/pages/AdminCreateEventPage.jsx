@@ -2,6 +2,7 @@ import { useMemo, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useAdminAuth } from '../admin/useAdminAuth.js';
 import { getTimezoneOptions, guessTimezone, zonedTimeToUtcISOString } from '../data/timezone.js';
+import SearchableSelect from '../components/SearchableSelect.jsx';
 
 function initialForm() {
   return {
@@ -109,11 +110,13 @@ export default function AdminCreateEventPage() {
 
         <label>
           Timezone
-          <select value={form.timezone} onChange={(e) => updateField('timezone', e.target.value)}>
-            {timezoneOptions.map((tz) => (
-              <option key={tz.value} value={tz.value}>{tz.label}</option>
-            ))}
-          </select>
+          <SearchableSelect
+            options={timezoneOptions}
+            value={form.timezone}
+            onChange={(value) => updateField('timezone', value)}
+            placeholder="Select timezone"
+            ariaLabel="Timezone"
+          />
           <span className="admin-form-hint">Start/end times above are interpreted in this timezone.</span>
         </label>
 

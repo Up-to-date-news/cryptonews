@@ -1,10 +1,11 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 
-// A searchable single-select for tag filters — plain <select> can't be
-// styled once its listbox is open (native popup, no CSS control over its
-// corners/shadow), and with hundreds of tags a flat scroll list is slow
-// to use. This is a small custom combobox: type to filter, click to pick.
-export default function TagFilterSelect({ tags, value, onChange, placeholder = 'All tags' }) {
+// Generic replacement for native <select> everywhere in the admin (and
+// contact form) — a plain <select>'s open listbox is OS-rendered and
+// cannot be styled (no control over corners/shadow), and long option
+// lists (tags, timezones) are slow to scan without search. Type to
+// filter by label, click or Enter to choose.
+export default function SearchableSelect({ options, value, onChange, placeholder = 'Select…', ariaLabel }) {
   const [query, setQuery] = useState('');
   const [isOpen, setIsOpen] = useState(false);
   const [highlightedIndex, setHighlightedIndex] = useState(0);
@@ -21,14 +22,16 @@ export default function TagFilterSelect({ tags, value, onChange, placeholder = '
     return () => document.removeEventListener('mousedown', handleClickOutside);
   }, []);
 
+  const selectedLabel = useMemo(() => options.find((o) => o.value === value)?.label ?? '', [options, value]);
+
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
-    if (!q) return tags;
-    return tags.filter((tag) => tag.toLowerCase().includes(q));
-  }, [tags, query]);
+    if (!q) return options;
+    return options.filter((o) => o.label.toLowerCase().includes(q));
+  }, [options, query]);
 
-  function select(tag) {
-    onChange(tag);
+  function select(option) {
+    onChange(option.value);
     setQuery('');
     setIsOpen(false);
   }
@@ -51,16 +54,17 @@ export default function TagFilterSelect({ tags, value, onChange, placeholder = '
   }
 
   return (
-    <div className="tag-filter-select" ref={containerRef}>
+    <div className="searchable-select" ref={containerRef}>
       <input
         type="text"
-        className="tag-filter-input"
-        value={isOpen ? query : value || ''}
+        className="searchable-select-input"
+        value={isOpen ? query : selectedLabel}
         placeholder={placeholder}
+        readOnly={false}
         onFocus={() => {
           setIsOpen(true);
           setQuery('');
-          setHighlightedIndex(0);
+          setHighlightedIndex(Math.max(0, options.findIndex((o) => o.value === value)));
         }}
         onChange={(e) => {
           setQuery(e.target.value);
@@ -68,34 +72,25 @@ export default function TagFilterSelect({ tags, value, onChange, placeholder = '
           setIsOpen(true);
         }}
         onKeyDown={handleKeyDown}
-        aria-label="Filter by tag"
+        aria-label={ariaLabel}
       />
 
       {isOpen && (
-        <ul className="tag-filter-dropdown">
-          <li
-            className={`tag-filter-option${value === '' ? ' is-selected' : ''}`}
-            onMouseDown={(e) => {
-              e.preventDefault();
-              select('');
-            }}
-          >
-            All tags
-          </li>
-          {filtered.map((tag, i) => (
+        <ul className="searchable-select-dropdown">
+          {filtered.map((option, i) => (
             <li
-              key={tag}
-              className={`tag-filter-option${i === highlightedIndex ? ' is-highlighted' : ''}${tag === value ? ' is-selected' : ''}`}
+              key={option.value}
+              className={`searchable-select-option${i === highlightedIndex ? ' is-highlighted' : ''}${option.value === value ? ' is-selected' : ''}`}
               onMouseEnter={() => setHighlightedIndex(i)}
               onMouseDown={(e) => {
                 e.preventDefault();
-                select(tag);
+                select(option);
               }}
             >
-              {tag}
+              {option.label}
             </li>
           ))}
-          {filtered.length === 0 && <li className="tag-filter-empty">No matching tags</li>}
+          {filtered.length === 0 && <li className="searchable-select-empty">No matches</li>}
         </ul>
       )}
     </div>

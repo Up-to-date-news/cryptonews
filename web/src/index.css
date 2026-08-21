@@ -749,13 +749,13 @@ label.radio-option {
   margin: 0;
 }
 
-.tag-filter-select {
+.searchable-select {
   position: relative;
   flex: 1 1 200px;
   min-width: 160px;
 }
 
-.tag-filter-input {
+.searchable-select-input {
   width: 100%;
   padding: 0.55rem 0.8rem;
   border: 1px solid var(--border);
@@ -764,14 +764,16 @@ label.radio-option {
   color: var(--fg);
   font: inherit;
   font-size: 0.85rem;
+  cursor: pointer;
 }
 
-.tag-filter-input:focus {
+.searchable-select-input:focus {
   outline: none;
   border-color: var(--accent);
+  cursor: text;
 }
 
-.tag-filter-dropdown {
+.searchable-select-dropdown {
   position: absolute;
   z-index: 10;
   top: calc(100% + 0.35rem);
@@ -788,7 +790,7 @@ label.radio-option {
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
 }
 
-.tag-filter-option {
+.searchable-select-option {
   padding: 0.5rem 0.65rem;
   border-radius: 6px;
   font-size: 0.85rem;
@@ -796,23 +798,22 @@ label.radio-option {
   cursor: pointer;
 }
 
-.tag-filter-option.is-highlighted {
+.searchable-select-option.is-highlighted {
   background: var(--border);
 }
 
-.tag-filter-option.is-selected {
+.searchable-select-option.is-selected {
   color: var(--accent);
   font-weight: 500;
 }
 
-.tag-filter-empty {
+.searchable-select-empty {
   padding: 0.5rem 0.65rem;
   font-size: 0.85rem;
   color: var(--muted-fg, var(--fg));
   opacity: 0.7;
 }
 
-.admin-filter-row select,
 .admin-filter-row input[type='date'] {
   padding: 0.55rem 0.8rem;
   border: 1px solid var(--border);
@@ -823,13 +824,34 @@ label.radio-option {
   font-size: 0.85rem;
 }
 
-.admin-filter-row select {
-  padding-right: 2.25rem;
-  appearance: none;
-  -webkit-appearance: none;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6' fill='none'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%23888' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
-  background-repeat: no-repeat;
-  background-position: right 0.9rem center;
+.admin-bulk-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 0 0 0.85rem;
+}
+
+.admin-select-all {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.85rem;
+  color: var(--fg);
+  cursor: pointer;
+}
+
+.admin-select-all input[type='checkbox'],
+.admin-list-checkbox {
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+  accent-color: var(--accent);
+}
+
+.admin-list-checkbox {
+  flex-shrink: 0;
 }
 
 .admin-list {
