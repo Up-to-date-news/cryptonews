@@ -1214,23 +1214,60 @@ label.radio-option {
 .contact-card .admin-form {
   max-width: none;
   margin-top: 1rem;
+  gap: 1rem;
+}
+
+.contact-card-header {
+  margin-bottom: 0.25rem;
+}
+
+.contact-card-subtitle {
+  margin: 0.35rem 0 0;
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.4;
+}
+
+.contact-form-row {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.contact-form-row label {
+  flex: 1;
+  min-width: 0;
+}
+
+.contact-submit {
+  width: 100%;
+  padding: 0.75rem 1.1rem;
+  font-size: 0.95rem;
 }
 
 /* Compact boxed card is a desktop/tablet treatment only — mobile keeps
-   today's plain full-width layout unchanged, per explicit request. */
+   today's plain full-width, single-column layout unchanged, per
+   explicit request. */
 @media (min-width: 641px) {
   .contact-card {
-    max-width: 520px;
-    margin: 1rem auto 0;
-    padding: 2rem 2.25rem 2.25rem;
+    width: 100%;
+    max-width: 600px;
+    margin: 1.5rem auto 0;
+    padding: 2.75rem 3rem 3rem;
     background: var(--card-bg);
     border: 1px solid var(--border);
-    border-radius: 20px;
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.08);
+    border-radius: 24px;
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.1);
   }
 
   .contact-card h1 {
     margin-top: 0;
+    font-size: 1.6rem;
+  }
+
+  .contact-form-row {
+    flex-direction: row;
+    gap: 1.25rem;
   }
 }
 

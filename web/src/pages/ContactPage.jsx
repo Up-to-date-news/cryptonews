@@ -60,53 +60,59 @@ export default function ContactPage() {
     <div className="contact-page">
       <Link to="/" className="back-link">← Back</Link>
       <div className="contact-card">
-      <h1>Contact us</h1>
+        <div className="contact-card-header">
+          <h1>Contact us</h1>
+          <p className="contact-card-subtitle">We'd love to hear from you — send us a message and we'll get back to you.</p>
+        </div>
 
-      {status === 'success' ? (
-        <p className="admin-status success">Thanks — your message has been sent. We'll get back to you if needed.</p>
-      ) : (
-        <form onSubmit={handleSubmit} className="admin-form">
-          <label>
-            Name
-            <input type="text" value={form.name} onChange={(e) => updateField('name', e.target.value)} required />
-          </label>
+        {status === 'success' ? (
+          <p className="admin-status success">Thanks — your message has been sent. We'll get back to you if needed.</p>
+        ) : (
+          <form onSubmit={handleSubmit} className="admin-form contact-form">
+            <div className="contact-form-row">
+              <label>
+                Name
+                <input type="text" value={form.name} onChange={(e) => updateField('name', e.target.value)} required />
+              </label>
+              <label>
+                Email
+                <input type="email" value={form.email} onChange={(e) => updateField('email', e.target.value)} required />
+              </label>
+            </div>
 
-          <label>
-            Email
-            <input type="email" value={form.email} onChange={(e) => updateField('email', e.target.value)} required />
-          </label>
+            <div className="contact-form-row">
+              <label>
+                City
+                <input type="text" value={form.city} onChange={(e) => updateField('city', e.target.value)} />
+              </label>
+              <label>
+                Country
+                <input type="text" value={form.country} onChange={(e) => updateField('country', e.target.value)} />
+              </label>
+            </div>
 
-          <label>
-            City
-            <input type="text" value={form.city} onChange={(e) => updateField('city', e.target.value)} />
-          </label>
+            <div className="contact-form-row">
+              <label>
+                Company
+                <input type="text" value={form.company} onChange={(e) => updateField('company', e.target.value)} />
+              </label>
+              <label>
+                Reason
+                <SearchableSelect options={REASONS} value={form.reason} onChange={(value) => updateField('reason', value)} ariaLabel="Reason" />
+              </label>
+            </div>
 
-          <label>
-            Country
-            <input type="text" value={form.country} onChange={(e) => updateField('country', e.target.value)} />
-          </label>
+            <label>
+              Message
+              <textarea value={form.message} onChange={(e) => updateField('message', e.target.value)} rows={4} required />
+            </label>
 
-          <label>
-            Company
-            <input type="text" value={form.company} onChange={(e) => updateField('company', e.target.value)} />
-          </label>
-
-          <label>
-            Reason
-            <SearchableSelect options={REASONS} value={form.reason} onChange={(value) => updateField('reason', value)} ariaLabel="Reason" />
-          </label>
-
-          <label>
-            Message
-            <textarea value={form.message} onChange={(e) => updateField('message', e.target.value)} rows={6} required />
-          </label>
-
-          <button type="submit" disabled={status === 'submitting'}>
-            {status === 'submitting' ? 'Sending…' : 'Submit'}
-          </button>
-          {status === 'error' && <p className="admin-status error">{errorMessage}</p>}
-        </form>
-      )}
+            <button type="submit" disabled={status === 'submitting'} className="contact-submit">
+              {status === 'submitting' ? 'Sending…' : 'Submit'}
+            </button>
+            {status === 'error' && <p className="admin-status error">{errorMessage}</p>}
+          </form>
+        )}
       </div>
     </div>
   );
