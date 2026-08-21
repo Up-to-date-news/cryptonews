@@ -31,6 +31,9 @@ export default function AdminLayout() {
           <NavLink to="/admin/posts" className={navClass}>
             <PostsIcon size={17} /> Posts
           </NavLink>
+          <NavLink to="/admin/ai-posts" className={navClass}>
+            <PostsIcon size={17} /> AI Posts
+          </NavLink>
           <NavLink to="/admin/events" className={navClass}>
             <EventsIcon size={17} /> Events
           </NavLink>

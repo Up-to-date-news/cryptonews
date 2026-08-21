@@ -27,6 +27,7 @@ export default function AdminEditPostPage() {
   const [selectedTags, setSelectedTags] = useState([]);
   const [existingImagePath, setExistingImagePath] = useState(null);
   const [imageFile, setImageFile] = useState(null);
+  const [origin, setOrigin] = useState('manual');
   const [loading, setLoading] = useState(true);
   const [loadError, setLoadError] = useState(null);
   const [status, setStatus] = useState('idle'); // idle | submitting | error
@@ -55,6 +56,7 @@ export default function AdminEditPostPage() {
       setSelectedTags(full.tags ?? []);
       setKnownTags(merged);
       setExistingImagePath(full.imagePath ?? null);
+      setOrigin(entry.origin ?? 'manual');
     }
 
     load()
@@ -78,7 +80,7 @@ export default function AdminEditPostPage() {
       const data = await res.json().catch(() => null);
       if (!res.ok) throw new Error(data?.error ?? `Request failed: ${res.status}`);
 
-      navigate('/admin/posts');
+      navigate(origin === 'manual' ? '/admin/posts' : '/admin/ai-posts');
     } catch (err) {
       setStatus('error');
       setErrorMessage(err.message);

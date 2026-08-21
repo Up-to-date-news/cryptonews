@@ -19,6 +19,7 @@ const ContactPage = lazy(() => import('./pages/ContactPage.jsx'));
 const AdminLoginPage = lazy(() => import('./pages/AdminLoginPage.jsx'));
 const AdminDashboardPage = lazy(() => import('./pages/AdminDashboardPage.jsx'));
 const AdminPostsListPage = lazy(() => import('./pages/AdminPostsListPage.jsx'));
+const AdminAIPostsListPage = lazy(() => import('./pages/AdminAIPostsListPage.jsx'));
 const AdminCreatePostPage = lazy(() => import('./pages/AdminCreatePostPage.jsx'));
 const AdminEditPostPage = lazy(() => import('./pages/AdminEditPostPage.jsx'));
 const AdminEventsListPage = lazy(() => import('./pages/AdminEventsListPage.jsx'));
@@ -97,6 +98,7 @@ export default function App() {
           <Route path="dashboard" element={<AdminDashboardPage />} />
           <Route path="posts" element={<AdminPostsListPage />} />
           <Route path="posts/new" element={<AdminCreatePostPage />} />
+          <Route path="ai-posts" element={<AdminAIPostsListPage />} />
           <Route path="posts/:id/edit" element={<AdminEditPostPage />} />
           <Route path="events" element={<AdminEventsListPage />} />
           <Route path="events/new" element={<AdminCreateEventPage />} />
