@@ -535,12 +535,15 @@
     "hasSummary": true,
     "link": "https://bitcoinist.com/cardano-foundation-drafts-dijkstra-upgrade-for-smart-contract-execution/",
     "source": "Bitcoinist",
-    "tags": [],
+    "tags": [
+      "Cardano",
+      "Blockchain"
+    ],
     "origin": "rss",
     "pubDate": "2026-08-21T04:15:00.000Z",
     "fetchedAt": "2026-08-21T04:24:46.442Z",
     "isDuplicateOf": null,
-    "content": null
+    "content": "Cardano governance organization Intersect has outlined a two-phase roadmap for its long-awaited Dijkstra upgrade.\n\nPhase one, targeted for Q4 2026, introduces Linear Leios and Plutus V4 to dramatically scale smart contract processing capabilities.\nPhase two will follow in Q2 2027, activating Ouroboros Peras via a hard fork to accelerate overall transaction finality.\n\nThe phased rollout strategy aims to minimize technical execution risks while allowing thorough testing on preview networks.\nOnce fully deployed, the enhanced execution architecture is expected to boost ecosystem scalability and layer-1 competitiveness."
   },
   {
     "id": "dce0c81bf23c76f8",
