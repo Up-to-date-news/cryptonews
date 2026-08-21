@@ -182,11 +182,20 @@
   {
     "id": "de052e06f62c19c4",
     "title": "Wyoming Stable Token Commission Moves FRNT Infrastructure To Chainlink CCIP",
-    "tags": [],
+    "summary": "Wyoming Stable Token Commission Moves FRNT Infrastructure To Chainlink CCIP - Read the full analysis.",
+    "hasSummary": true,
+    "link": "https://bitcoinist.com/wyoming-stable-token-commission-moves-frnt-infrastructure-to-chainlink-ccip/",
     "source": "Bitcoinist",
+    "tags": [
+      "Chainlink",
+      "Wyoming",
+      "Stablecoins"
+    ],
     "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-08-21T02:00:00.000Z"
+    "pubDate": "2026-08-21T02:00:00.000Z",
+    "fetchedAt": "2026-08-21T03:30:40.380Z",
+    "isDuplicateOf": null,
+    "content": "The Wyoming Stable Token Commission has migrated its sovereign Frontier Stable Token (FRNT) to Chainlink’s Cross-Chain Interoperability Protocol (CCIP).\nThe state entity fully deprecated its previous integration with LayerZero following a security review that raised operational and disclosure concerns.\nAs the first public-entity stablecoin in the U.S., FRNT leverages CCIP to maintain secure cross-chain functionality across eight major blockchain networks.\n\nCommission leadership stated that CCIP was the only infrastructure capable of satisfying Wyoming's strict security and institutional compliance standards.\n\nThe multi-year partnership secures state-backed digital asset transfers while preserving reserve yield generated for Wyoming’s public education fund."
   },
   {
     "id": "b47e3f58d318e77a",
