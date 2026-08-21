@@ -4,9 +4,20 @@ import { formatModeLabel, formatPricingLabel } from '../data/eventFormat.js';
 import { useEvents } from '../data/useEvents.js';
 import { ChevronRightIcon } from '../components/icons.jsx';
 
-function formatDateRange(startDate, endDate) {
+// Shown in the event's own timezone (not the viewer's) with its
+// abbreviation, e.g. "Sep 9, 2026, 10:00 AM GST" — everyone sees the
+// venue-local time the organizer actually advertised.
+function formatDateRange(startDate, endDate, timezone) {
   if (!startDate) return 'Date TBA';
-  const opts = { month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit' };
+  const opts = {
+    month: 'short',
+    day: 'numeric',
+    year: 'numeric',
+    hour: 'numeric',
+    minute: '2-digit',
+    timeZone: timezone || 'UTC',
+    timeZoneName: 'short',
+  };
   const start = new Date(startDate).toLocaleString(undefined, opts);
   if (!endDate) return start;
   const end = new Date(endDate).toLocaleString(undefined, opts);
@@ -67,7 +78,7 @@ export default function EventDetailPage() {
         <span className="tag-pill-sm">{formatPricingLabel(event.pricing)}</span>
       </div>
 
-      <p className="event-detail-meta">{formatDateRange(event.startDate, event.endDate)}</p>
+      <p className="event-detail-meta">{formatDateRange(event.startDate, event.endDate, event.timezone)}</p>
       {event.location && <p className="event-detail-meta">{event.location}</p>}
 
       {event.description && <p className="article-content">{event.description}</p>}

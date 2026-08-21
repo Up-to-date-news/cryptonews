@@ -1,18 +1,22 @@
-import { useState } from 'react';
+import { useMemo, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useAdminAuth } from '../admin/useAdminAuth.js';
+import { getTimezoneOptions, guessTimezone, zonedTimeToUtcISOString } from '../data/timezone.js';
 
-const INITIAL_FORM = {
-  title: '',
-  startDate: '',
-  endDate: '',
-  location: '',
-  isOffline: true,
-  isOnline: false,
-  pricing: 'free',
-  link: '',
-  description: '',
-};
+function initialForm() {
+  return {
+    title: '',
+    startDate: '',
+    endDate: '',
+    timezone: guessTimezone(),
+    location: '',
+    isOffline: true,
+    isOnline: false,
+    pricing: 'free',
+    link: '',
+    description: '',
+  };
+}
 
 function computeMode({ isOffline, isOnline }) {
   if (isOffline && isOnline) return 'hybrid';
@@ -33,10 +37,11 @@ export default function AdminCreateEventPage() {
   const { authFetch } = useAdminAuth();
   const navigate = useNavigate();
 
-  const [form, setForm] = useState(INITIAL_FORM);
+  const [form, setForm] = useState(initialForm);
   const [imageFile, setImageFile] = useState(null);
   const [status, setStatus] = useState('idle'); // idle | submitting | error
   const [errorMessage, setErrorMessage] = useState('');
+  const timezoneOptions = useMemo(() => getTimezoneOptions(), []);
 
   function updateField(field, value) {
     setForm((prev) => ({ ...prev, [field]: value }));
@@ -60,7 +65,13 @@ export default function AdminCreateEventPage() {
       const res = await authFetch('/api/create-event', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ ...form, mode: computeMode(form), image }),
+        body: JSON.stringify({
+          ...form,
+          startDate: zonedTimeToUtcISOString(form.startDate, form.timezone),
+          endDate: form.endDate ? zonedTimeToUtcISOString(form.endDate, form.timezone) : null,
+          mode: computeMode(form),
+          image,
+        }),
       });
       const data = await res.json().catch(() => null);
       if (!res.ok) throw new Error(data?.error ?? `Request failed: ${res.status}`);
@@ -94,6 +105,16 @@ export default function AdminCreateEventPage() {
         <label>
           End date
           <input type="datetime-local" value={form.endDate} onChange={(e) => updateField('endDate', e.target.value)} />
+        </label>
+
+        <label>
+          Timezone
+          <select value={form.timezone} onChange={(e) => updateField('timezone', e.target.value)}>
+            {timezoneOptions.map((tz) => (
+              <option key={tz.value} value={tz.value}>{tz.label}</option>
+            ))}
+          </select>
+          <span className="admin-form-hint">Start/end times above are interpreted in this timezone.</span>
         </label>
 
         <label>

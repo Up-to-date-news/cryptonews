@@ -12,7 +12,7 @@ export default async function handler(req, res) {
 
   if (!requireAuth(req, res)) return;
 
-  const { title, startDate, endDate, location, mode, pricing, link, description, image } = req.body ?? {};
+  const { title, startDate, endDate, timezone, location, mode, pricing, link, description, image } = req.body ?? {};
 
   if (!title?.trim() || !startDate) {
     return res.status(400).json({ error: 'Title and start date are required.' });
@@ -24,6 +24,7 @@ export default async function handler(req, res) {
   const event = {
     id,
     title: title.trim(),
+    timezone: timezone?.trim() || 'UTC',
     location: location?.trim() || null,
     mode: ['online', 'hybrid'].includes(mode) ? mode : 'offline',
     pricing: ['paid', 'both'].includes(pricing) ? pricing : 'free',

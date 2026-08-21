@@ -1,13 +1,7 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { useAdminAuth } from '../admin/useAdminAuth.js';
-
-function toDatetimeLocalValue(iso) {
-  if (!iso) return '';
-  const d = new Date(iso);
-  const pad = (n) => String(n).padStart(2, '0');
-  return `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}T${pad(d.getHours())}:${pad(d.getMinutes())}`;
-}
+import { getTimezoneOptions, guessTimezone, utcToZonedLocalValue, zonedTimeToUtcISOString } from '../data/timezone.js';
 
 function fileToDataUrl(file) {
   return new Promise((resolve, reject) => {
@@ -36,6 +30,7 @@ export default function AdminEditEventPage() {
   const [loadError, setLoadError] = useState(null);
   const [status, setStatus] = useState('idle'); // idle | submitting | error
   const [errorMessage, setErrorMessage] = useState('');
+  const timezoneOptions = useMemo(() => getTimezoneOptions(), []);
 
   useEffect(() => {
     fetch('/data/events/index.json')
@@ -43,10 +38,12 @@ export default function AdminEditEventPage() {
       .then((events) => {
         const event = events.find((e) => e.id === id);
         if (!event) throw new Error('Event not found.');
+        const timezone = event.timezone || guessTimezone();
         setForm({
           title: event.title,
-          startDate: toDatetimeLocalValue(event.startDate),
-          endDate: toDatetimeLocalValue(event.endDate),
+          startDate: utcToZonedLocalValue(event.startDate, timezone),
+          endDate: utcToZonedLocalValue(event.endDate, timezone),
+          timezone,
           location: event.location ?? '',
           isOffline: event.mode !== 'online',
           isOnline: event.mode === 'online' || event.mode === 'hybrid',
@@ -82,7 +79,14 @@ export default function AdminEditEventPage() {
       const res = await authFetch('/api/update-event', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ id, ...form, mode: computeMode(form), image }),
+        body: JSON.stringify({
+          id,
+          ...form,
+          startDate: zonedTimeToUtcISOString(form.startDate, form.timezone),
+          endDate: form.endDate ? zonedTimeToUtcISOString(form.endDate, form.timezone) : null,
+          mode: computeMode(form),
+          image,
+        }),
       });
       const data = await res.json().catch(() => null);
       if (!res.ok) throw new Error(data?.error ?? `Request failed: ${res.status}`);
@@ -114,6 +118,16 @@ export default function AdminEditEventPage() {
         <label>
           End date
           <input type="datetime-local" value={form.endDate} onChange={(e) => updateField('endDate', e.target.value)} />
+        </label>
+
+        <label>
+          Timezone
+          <select value={form.timezone} onChange={(e) => updateField('timezone', e.target.value)}>
+            {timezoneOptions.map((tz) => (
+              <option key={tz.value} value={tz.value}>{tz.label}</option>
+            ))}
+          </select>
+          <span className="admin-form-hint">Start/end times above are interpreted in this timezone.</span>
         </label>
 
         <label>
