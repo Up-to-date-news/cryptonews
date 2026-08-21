@@ -728,6 +728,16 @@ label.radio-option {
   gap: 0.75rem;
 }
 
+.admin-page-header h1 {
+  flex-shrink: 0;
+}
+
+.admin-page-header .search-bar {
+  flex: 1 1 260px;
+  max-width: 420px;
+  width: auto;
+}
+
 .admin-form-hint {
   font-weight: 400;
   color: var(--muted);
@@ -750,7 +760,15 @@ label.radio-option {
 }
 
 .searchable-select {
+  /* No width/flex-basis here on purpose — this component is reused inside
+     both row-flex containers (.admin-filter-row, sized below) and
+     column-flex form labels. A flex-basis meant as "200px wide" becomes
+     "200px tall" once the flex direction is column, leaving a large gap
+     under the field. Unsized, it just stretches to the label's width. */
   position: relative;
+}
+
+.admin-filter-row .searchable-select {
   flex: 1 1 200px;
   min-width: 160px;
 }

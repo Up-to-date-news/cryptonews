@@ -174,11 +174,11 @@ export default function AdminPostsList({
     <div className="admin-page">
       <div className="admin-page-header">
         <h1>{title}</h1>
+        <SearchBar value={search} onChange={handleSearchChange} placeholder={searchPlaceholder} />
         {newPostLink && <Link to={newPostLink} className="button-link">+ New Post</Link>}
       </div>
 
       <div className="admin-filter-row">
-        <SearchBar value={search} onChange={handleSearchChange} placeholder={searchPlaceholder} />
         <SearchableSelect options={tagOptions} value={tagFilter} onChange={handleTagChange} placeholder="All tags" ariaLabel="Filter by tag" />
         <input type="date" value={fromDate} onChange={(e) => handleFromChange(e.target.value)} aria-label="Posted from" />
         <input type="date" value={toDate} onChange={(e) => handleToChange(e.target.value)} aria-label="Posted to" />

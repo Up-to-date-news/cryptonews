@@ -178,11 +178,11 @@ export default function AdminEventsListPage() {
     <div className="admin-page">
       <div className="admin-page-header">
         <h1>Events</h1>
+        <SearchBar value={search} onChange={resetToFirstPage(setSearch)} placeholder="Search events…" />
         <Link to="/admin/events/new" className="button-link">+ New Event</Link>
       </div>
 
       <div className="admin-filter-row">
-        <SearchBar value={search} onChange={resetToFirstPage(setSearch)} placeholder="Search events…" />
         <SearchableSelect options={STATUS_OPTIONS} value={statusFilter} onChange={resetToFirstPage(setStatusFilter)} placeholder="Any status" ariaLabel="Filter by status" />
         <SearchableSelect options={PRICING_OPTIONS} value={pricingFilter} onChange={resetToFirstPage(setPricingFilter)} placeholder="Free or paid" ariaLabel="Filter by pricing" />
         <SearchableSelect options={FORMAT_OPTIONS} value={formatFilter} onChange={resetToFirstPage(setFormatFilter)} placeholder="Online or offline" ariaLabel="Filter by format" />
