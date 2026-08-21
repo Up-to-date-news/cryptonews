@@ -471,12 +471,16 @@
     "hasSummary": true,
     "link": "https://thefintechtimes.com/terrapay-and-tpbank-link-up-for-real-time-cross-border-payments/",
     "source": "The Fintech Times",
-    "tags": [],
+    "tags": [
+      "TerraPay",
+      "TPBank",
+      "CrossBorderPayments"
+    ],
     "origin": "rss",
     "pubDate": "2026-08-21T02:00:31.000Z",
     "fetchedAt": "2026-08-21T03:30:40.380Z",
     "isDuplicateOf": null,
-    "content": null
+    "content": "Global infrastructure provider TerraPay has partnered with Vietnam’s TPBank to enable real-time cross-border transfers across more than 150 countries.\nThrough a single API integration, TPBank connects directly to TerraPay’s network, avoiding the complexity of negotiating individual correspondent banking relationships.\nThe collaboration supports two-way, direct account-to-account and account-to-wallet transactions, eliminating traditional intermediary bank delays.\n\nAll international transactions under the agreement remain fully compliant with the State Bank of Vietnam’s foreign exchange and anti-money laundering regulations.\nThe expansion targets Vietnam's surging digital payment market, connecting local customers to major remittance corridors across Asia, Europe, and the Americas."
   },
   {
     "id": "d8b8f1c37e2d13be",
