@@ -1,14 +1,21 @@
 const DIACRITICS_RE = new RegExp('[̀-ͯ]', 'g');
+const MAX_LENGTH = 100;
 
 function slugify(title) {
-  return (title || '')
+  const full = (title || '')
     .toLowerCase()
     .normalize('NFKD')
     .replace(DIACRITICS_RE, '')
     .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '')
-    .slice(0, 80)
-    .replace(/-+$/g, '') || 'article';
+    .replace(/^-+|-+$/g, '');
+
+  if (full.length <= MAX_LENGTH) return full || 'article';
+
+  // Cut back to the last full word instead of chopping mid-word (which
+  // produced ugly, meaningless-looking tails like "...annually-c").
+  const truncated = full.slice(0, MAX_LENGTH);
+  const lastHyphen = truncated.lastIndexOf('-');
+  return (lastHyphen > 0 ? truncated.slice(0, lastHyphen) : truncated) || 'article';
 }
 
 // Collisions are rare (two articles sharing an exact title) but not
