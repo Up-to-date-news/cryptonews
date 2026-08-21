@@ -749,6 +749,69 @@ label.radio-option {
   margin: 0;
 }
 
+.tag-filter-select {
+  position: relative;
+  flex: 1 1 200px;
+  min-width: 160px;
+}
+
+.tag-filter-input {
+  width: 100%;
+  padding: 0.55rem 0.8rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--card-bg);
+  color: var(--fg);
+  font: inherit;
+  font-size: 0.85rem;
+}
+
+.tag-filter-input:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.tag-filter-dropdown {
+  position: absolute;
+  z-index: 10;
+  top: calc(100% + 0.35rem);
+  left: 0;
+  right: 0;
+  max-height: 260px;
+  overflow-y: auto;
+  margin: 0;
+  padding: 0.35rem;
+  list-style: none;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.tag-filter-option {
+  padding: 0.5rem 0.65rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  color: var(--fg);
+  cursor: pointer;
+}
+
+.tag-filter-option.is-highlighted {
+  background: var(--border);
+}
+
+.tag-filter-option.is-selected {
+  color: var(--accent);
+  font-weight: 500;
+}
+
+.tag-filter-empty {
+  padding: 0.5rem 0.65rem;
+  font-size: 0.85rem;
+  color: var(--muted-fg, var(--fg));
+  opacity: 0.7;
+}
+
 .admin-filter-row select,
 .admin-filter-row input[type='date'] {
   padding: 0.55rem 0.8rem;

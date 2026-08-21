@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { useAdminAuth } from '../admin/useAdminAuth.js';
 import SearchBar from './SearchBar.jsx';
 import Pagination from './Pagination.jsx';
+import TagFilterSelect from './TagFilterSelect.jsx';
 
 const PAGE_SIZE = 20;
 
@@ -106,12 +107,7 @@ export default function AdminPostsList({
 
       <div className="admin-filter-row">
         <SearchBar value={search} onChange={handleSearchChange} placeholder={searchPlaceholder} />
-        <select value={tagFilter} onChange={(e) => handleTagChange(e.target.value)} aria-label="Filter by tag">
-          <option value="">All tags</option>
-          {allTags.map((tag) => (
-            <option key={tag} value={tag}>{tag}</option>
-          ))}
-        </select>
+        <TagFilterSelect tags={allTags} value={tagFilter} onChange={handleTagChange} />
         <input type="date" value={fromDate} onChange={(e) => handleFromChange(e.target.value)} aria-label="Posted from" />
         <input type="date" value={toDate} onChange={(e) => handleToChange(e.target.value)} aria-label="Posted to" />
       </div>
