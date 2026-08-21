@@ -11,7 +11,7 @@ function formatDateRange(startDate, endDate) {
 
 export default function EventCard({ event }) {
   return (
-    <Link to={`/event/${event.id}`} className="event-card">
+    <Link to={`/event/${event.slug}`} className="event-card">
       {event.imagePath && (
         <img src={`/${event.imagePath}`} alt="" className="event-card-thumb" />
       )}

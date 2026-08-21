@@ -14,7 +14,7 @@ function formatDateRange(startDate, endDate) {
 }
 
 export default function EventDetailPage() {
-  const { id } = useParams();
+  const { slug } = useParams();
   const { events } = useEvents();
   const [event, setEvent] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -30,7 +30,7 @@ export default function EventDetailPage() {
       })
       .then((data) => {
         if (cancelled) return;
-        const found = data.find((e) => e.id === id);
+        const found = data.find((e) => e.slug === slug);
         if (!found) throw new Error('Event not found.');
         setEvent(found);
       })
@@ -44,12 +44,12 @@ export default function EventDetailPage() {
     return () => {
       cancelled = true;
     };
-  }, [id]);
+  }, [slug]);
 
   if (loading) return <p className="status-message">Loading…</p>;
   if (error) return <p className="status-message error">{error}</p>;
 
-  const currentIndex = events.findIndex((e) => e.id === id);
+  const currentIndex = events.findIndex((e) => e.slug === slug);
   const nextEvent = currentIndex >= 0 && currentIndex < events.length - 1 ? events[currentIndex + 1] : null;
 
   return (
@@ -79,7 +79,7 @@ export default function EventDetailPage() {
       )}
 
       {nextEvent && (
-        <Link to={`/event/${nextEvent.id}`} className="sticky-next-button">
+        <Link to={`/event/${nextEvent.slug}`} className="sticky-next-button">
           Next Event <ChevronRightIcon size={16} />
         </Link>
       )}

@@ -7,17 +7,17 @@ function dayKeyFromPubDate(pubDate) {
   return new Date(pubDate).toISOString().slice(0, 10);
 }
 
-async function resolvePubDate(id) {
+async function resolvePubDate(slug) {
   const res = await fetch('/data/index.json');
   if (!res.ok) throw new Error(`Failed to load index.json: ${res.status}`);
   const index = await res.json();
-  const entry = index.find((item) => item.id === id);
+  const entry = index.find((item) => item.slug === slug);
   if (!entry) throw new Error('Article not found in index.');
   return entry.pubDate;
 }
 
 export default function ArticlePage() {
-  const { id } = useParams();
+  const { slug } = useParams();
   const location = useLocation();
   const { articles } = useArticles();
   const [article, setArticle] = useState(null);
@@ -30,12 +30,12 @@ export default function ArticlePage() {
     setError(null);
 
     async function load() {
-      const pubDate = location.state?.pubDate ?? (await resolvePubDate(id));
+      const pubDate = location.state?.pubDate ?? (await resolvePubDate(slug));
       const day = dayKeyFromPubDate(pubDate);
       const res = await fetch(`/data/articles/${day}.json`);
       if (!res.ok) throw new Error(`Failed to load ${day}.json: ${res.status}`);
       const dayArticles = await res.json();
-      const found = dayArticles.find((item) => item.id === id);
+      const found = dayArticles.find((item) => item.slug === slug);
       if (!found) throw new Error('Article not found.');
       return found;
     }
@@ -54,12 +54,12 @@ export default function ArticlePage() {
     return () => {
       cancelled = true;
     };
-  }, [id, location.state]);
+  }, [slug, location.state]);
 
   if (loading) return <p className="status-message">Loading…</p>;
   if (error) return <p className="status-message error">{error}</p>;
 
-  const currentIndex = articles.findIndex((a) => a.id === id);
+  const currentIndex = articles.findIndex((a) => a.slug === slug);
   const nextArticle = currentIndex >= 0 && currentIndex < articles.length - 1 ? articles[currentIndex + 1] : null;
 
   return (
@@ -82,7 +82,7 @@ export default function ArticlePage() {
       </p>
 
       {nextArticle && (
-        <Link to={`/article/${nextArticle.id}`} state={{ pubDate: nextArticle.pubDate }} className="sticky-next-button">
+        <Link to={`/article/${nextArticle.slug}`} state={{ pubDate: nextArticle.pubDate }} className="sticky-next-button">
           Next Post <ChevronRightIcon size={16} />
         </Link>
       )}

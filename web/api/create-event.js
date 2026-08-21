@@ -2,6 +2,7 @@ import { randomUUID } from 'node:crypto';
 import { requireAuth } from './_lib/auth.js';
 import { getOctokit, repoConfig, readJsonFile, commitFiles } from './_lib/github.js';
 import { parseDataUrl } from './_lib/image.js';
+import { uniqueSlug } from './_lib/slug.js';
 
 export default async function handler(req, res) {
   if (req.method !== 'POST') {
@@ -42,6 +43,8 @@ export default async function handler(req, res) {
     const indexPath = 'data/events/index.json';
 
     const existing = await readJsonFile(octokit, cfg, indexPath, []);
+    const usedSlugs = new Set(existing.map((e) => e.slug).filter(Boolean));
+    event.slug = uniqueSlug(event.title, event.startDate, event.id, usedSlugs);
     const updated = [...existing, event];
 
     const files = [{ path: indexPath, content: JSON.stringify(updated, null, 2) }];

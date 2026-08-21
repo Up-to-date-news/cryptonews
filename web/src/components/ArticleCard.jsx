@@ -12,7 +12,7 @@ function timeAgo(pubDate) {
 export default function ArticleCard({ article }) {
   return (
     <Link
-      to={`/article/${article.id}`}
+      to={`/article/${article.slug}`}
       state={{ pubDate: article.pubDate }}
       className="article-card"
     >

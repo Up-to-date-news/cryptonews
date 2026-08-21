@@ -2,6 +2,7 @@ import { randomUUID } from 'node:crypto';
 import { requireAuth } from './_lib/auth.js';
 import { getOctokit, repoConfig, readJsonFile, commitFiles } from './_lib/github.js';
 import { parseDataUrl } from './_lib/image.js';
+import { uniqueSlug } from './_lib/slug.js';
 
 const LATEST_COUNT = 60;
 
@@ -64,6 +65,10 @@ export default async function handler(req, res) {
       readJsonFile(octokit, cfg, dayPath, []),
       readJsonFile(octokit, cfg, indexPath, []),
     ]);
+
+    const usedSlugs = new Set(index.map((a) => a.slug).filter(Boolean));
+    article.slug = uniqueSlug(article.title, article.pubDate, article.id, usedSlugs);
+    indexEntry.slug = article.slug;
 
     const newDayArticles = [...dayArticles, article];
     const newIndex = [...index, indexEntry];

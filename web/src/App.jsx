@@ -76,10 +76,10 @@ export default function App() {
     <Routes>
       <Route element={<PublicLayout />}>
         <Route path="/" element={<ListPage />} />
-        <Route path="/article/:id" element={<ArticlePage />} />
+        <Route path="/article/:slug" element={<ArticlePage />} />
         <Route path="/search" element={<SearchPage />} />
         <Route path="/events" element={<EventsPage />} />
-        <Route path="/event/:id" element={<EventDetailPage />} />
+        <Route path="/event/:slug" element={<EventDetailPage />} />
         <Route path="/terms" element={<TermsPage />} />
         <Route path="/contact" element={<ContactPage />} />
       </Route>

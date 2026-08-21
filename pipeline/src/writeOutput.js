@@ -1,6 +1,7 @@
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { uniqueSlug } from './slug.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = path.join(__dirname, '../../data');
@@ -24,6 +25,17 @@ async function readJsonSafe(filePath, fallback) {
 function dayKey(item) {
   const date = item.pubDate ? new Date(item.pubDate) : new Date(item.fetchedAt);
   return date.toISOString().slice(0, 10);
+}
+
+// Mutates each item with a `slug` before it's written anywhere, so the
+// day-file entry and the index entry end up with the identical value.
+async function assignSlugs(items) {
+  const existing = await readJsonSafe(INDEX_PATH, []);
+  const used = new Set(existing.map((a) => a.slug).filter(Boolean));
+  for (const item of items) {
+    item.slug = uniqueSlug(item.title, item.pubDate, item.id, used);
+    used.add(item.slug);
+  }
 }
 
 async function appendToDayFiles(publishedItems) {
@@ -53,6 +65,7 @@ async function updateIndex(publishedItems) {
     .filter((item) => !existingIds.has(item.id))
     .map((item) => ({
       id: item.id,
+      slug: item.slug,
       title: item.title,
       tags: item.tags ?? [],
       source: item.source,
@@ -98,6 +111,7 @@ export async function writeBatch(enrichedItems) {
   const publishedItems = enrichedItems.filter((item) => item.isDuplicateOf === null);
   if (publishedItems.length === 0) return { publishedCount: 0 };
 
+  await assignSlugs(publishedItems);
   await appendToDayFiles(publishedItems);
   const fullIndex = await updateIndex(publishedItems);
   await rebuildLatest(fullIndex, publishedItems);
