@@ -3137,5 +3137,623 @@
     "isDuplicateOf": null,
     "content": "Cryptocurrency-linked stocks are experiencing a notable market rebound as Bitcoin climbs back toward the $80,000 threshold. After experiencing several months of stagnation and downward pressure, the broader digital asset market has seen renewed momentum, highlighted by Bitcoin recently reclaiming the $79,000 price level and boosting investor sentiment across the sector.",
     "slug": "crypto-stocks-on-the-rise-as-bitcoin-nears-a-return-to-80-000"
+  },
+  {
+    "id": "f1a74ad43b86ef2d",
+    "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
+    "summary": "The Entra ID flaw earned the highest possible severity score, but Microsoft says it patched the bug before publishing the CVE and found no evidence it was ever exploited.",
+    "hasSummary": true,
+    "link": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
+    "source": "Decrypt",
+    "tags": [
+      "Microsoft"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T17:31:03.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.024Z",
+    "isDuplicateOf": null,
+    "content": "Microsoft has patched a severe security flaw in Entra ID that could have allowed remote code execution. The vulnerability received the highest possible severity rating of ten out of ten. Microsoft stated that it deployed the fix before publishing the CVE details and confirmed there is currently no evidence that the exploit was ever used maliciously.",
+    "slug": "microsoft-fixes-perfect-10-exploit-that-could-have-let-hackers-run-code-remotely"
+  },
+  {
+    "id": "2537836be3a83cc1",
+    "title": "Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push",
+    "summary": "CoinGlass recorded nearly $10 billion in 24-hour futures volume and $1.76 billion in open interest, indicating that derivatives made up much of the trading.",
+    "hasSummary": true,
+    "link": "https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528",
+    "source": "The Block",
+    "tags": [
+      "Zcash",
+      "Grayscale"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T17:35:27.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.024Z",
+    "isDuplicateOf": null,
+    "content": "Zcash reached an eight-year high near $850, driven by a push for a Grayscale exchange-traded fund. Market data recorded nearly $10 billion in 24-hour futures volume and $1.76 billion in open interest, highlighting strong derivatives market activity surrounding the privacy-focused cryptocurrency.",
+    "slug": "zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push"
+  },
+  {
+    "id": "dd942d5315c3f840",
+    "title": "CLARITY gets a September Senate floor date as CFTC signals a limited regulatory fallback",
+    "summary": "The scheduled cloture vote will test the bill's 60-vote coalition, while existing CFTC powers stop short of Congress's full framework.\nThe post CLARITY gets a September Senate floor date as CFTC signals a limited regulatory fallback appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/clarity-gets-a-september-senate-floor-date-as-cftc-signals-a-limited-regulatory-fallback/",
+    "source": "CryptoSlate",
+    "tags": [
+      "CFTC",
+      "United States Senate"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T17:10:29.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.024Z",
+    "isDuplicateOf": null,
+    "content": "The CLARITY bill has secured a Senate floor date for September, setting up a scheduled cloture vote to test the legislation's 60-vote coalition. Meanwhile, the Commodity Futures Trading Commission has signaled a limited regulatory fallback, noting that its existing powers stop short of the full legislative framework proposed by Congress.",
+    "slug": "clarity-gets-a-september-senate-floor-date-as-cftc-signals-a-limited-regulatory-fallback"
+  },
+  {
+    "id": "e5a1030113092883",
+    "title": "Solana’s first governance vote nears with a live 60% quorum display error",
+    "summary": "An unmerged frontend fix must replace live-stake math with the constitution’s one-third snapshot test before epoch 1021.\nThe post Solana’s first governance vote nears with a live 60% quorum display error appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/solanas-first-governance-vote-nears-with-a-live-60-quorum-display-error/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Solana",
+      "CryptoSlate"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T15:45:50.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.024Z",
+    "isDuplicateOf": null,
+    "content": "Solana is approaching its first governance vote amid a live 60 percent quorum display error. An unmerged frontend fix must replace the live-stake math with the constitution's one-third snapshot test prior to epoch 1021 to ensure accuracy during the voting process.",
+    "slug": "solana-s-first-governance-vote-nears-with-a-live-60-quorum-display-error"
+  },
+  {
+    "id": "ad1a57e4cd1b4d51",
+    "title": "Aave’s TVL reaches $18.05B – But THESE 2 signals flash caution",
+    "summary": "Aave gained deposits, bullish leverage, and sellers simultaneously. Which signal survives the weekend?",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/aaves-tvl-reaches-18-05b-but-these-2-signals-flash-caution/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Aave"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T17:00:04.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "Decentralized finance protocol Aave has seen its Total Value Locked reach $18.05 billion. However, analysts are urging caution after observing simultaneous gains in user deposits, bullish leverage, and active selling pressure. It remains unclear whether bullish momentum or selling pressure will dominate the market as the weekend approaches.",
+    "slug": "aave-s-tvl-reaches-18-05b-but-these-2-signals-flash-caution"
+  },
+  {
+    "id": "4891f7957b59602b",
+    "title": "Chainlink ETFs record five straight inflow days – Is $14 next for LINK?",
+    "summary": "Chainlink nearly erased 2026 losses before $12.60 exposed the rally’s first serious disagreement.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/chainlink-etfs-record-five-straight-inflow-days-is-14-next-for-link/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Chainlink"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T16:00:22.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "Chainlink exchange-traded funds recently marked five consecutive days of inflows, helping the asset nearly erase its losses for 2026. However, the price movement stalled near $12.60, a level that exposed the current rally's first serious disagreement among market participants and raised questions about whether the token could advance toward the $14 threshold.",
+    "slug": "chainlink-etfs-record-five-straight-inflow-days-is-14-next-for-link"
+  },
+  {
+    "id": "8e622308dd4e49f8",
+    "title": "XRP Completes Double Golden Cross Against BTC, $2 Next?",
+    "summary": "XRP exploded to a six-month high on its Bitcoin chart, completing double golden cross signals.",
+    "hasSummary": true,
+    "link": "https://u.today/xrp-completes-double-golden-cross-against-btc-2-next",
+    "source": "U.Today",
+    "tags": [
+      "XRP",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T15:45:52.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "XRP recently reached a six-month high on its Bitcoin trading chart, driven by the completion of notable double golden cross technical signals. This market movement has sparked renewed trader speculation and discussion across the digital asset space regarding whether the token could potentially test the two-dollar price threshold in upcoming market sessions.",
+    "slug": "xrp-completes-double-golden-cross-against-btc-2-next"
+  },
+  {
+    "id": "d62a310edce11dcd",
+    "title": "BounceBit Retires Its Chain After Attacker Moves 286.5 Million Tokens",
+    "summary": "BounceBit will permanently shut down its Layer 1 blockchain after an attacker moved 286.5 million BB out of nine mainnet accounts. The project will reissue the token as a BEP-20 asset on BNB Chain. The team said the attacker compromised no private keys, wallets, or hardware devices. The unauthorized transfers came from a protocol-level authorization\nThe post BounceBit Retires Its Chain After Attacker Moves 286.5 Million Tokens appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/bouncebit-exploit-chain-sunset-bb-reissue/",
+    "source": "BeInCrypto",
+    "tags": [
+      "BounceBit",
+      "BNB Chain"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T16:26:33.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "BounceBit is permanently shutting down its Layer 1 blockchain following an incident where an attacker moved 286.5 million tokens from nine mainnet accounts due to a protocol-level authorization issue. The project announced plans to reissue the token as a BEP-20 asset on BNB Chain. The team confirmed that no private keys, wallets, or hardware devices were compromised during the unauthorized transfers.",
+    "slug": "bouncebit-retires-its-chain-after-attacker-moves-286-5-million-tokens"
+  },
+  {
+    "id": "5531bb62ac819af9",
+    "title": "Iranian lawmaker says US negotiations were authorized by Supreme Leader Khamenei",
+    "summary": "The Supreme Leader's approval of US talks signals a potential shift in Iran's diplomatic strategy, impacting regional stability and alliances.\nThe post Iranian lawmaker says US negotiations were authorized by Supreme Leader Khamenei appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/iran-us-negotiations-supreme-leader-authorized/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Iran",
+      "United States",
+      "Ali Khamenei"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T17:55:03.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "An Iranian lawmaker has stated that recent negotiations involving the United States received authorization from Supreme Leader Khamenei. This high-level approval suggests a potential change in Iran's diplomatic approach toward foreign relations. Observers note that such a policy shift could have significant implications for regional stability and international alliances in the Middle East.",
+    "slug": "iranian-lawmaker-says-us-negotiations-were-authorized-by-supreme-leader-khamenei"
+  },
+  {
+    "id": "e108d4d1a215e6cf",
+    "title": "US Treasury buyback plan boosts gold, bitcoin prices",
+    "summary": "The Treasury's buyback plan underscores gold and bitcoin's role as hedges against currency devaluation and economic uncertainty.\nThe post US Treasury buyback plan boosts gold, bitcoin prices appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/us-treasury-buyback-plan-boosts-gold-bitcoin-prices/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "United States",
+      "Gold",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T17:54:02.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "Recent financial developments involving the United States Treasury buyback plan have positively impacted the market prices of gold and bitcoin. Analysts note that this strategy highlights the growing role of both assets as reliable hedges against currency devaluation and broader economic uncertainty in traditional financial markets.",
+    "slug": "us-treasury-buyback-plan-boosts-gold-bitcoin-prices"
+  },
+  {
+    "id": "688b4547a896c99c",
+    "title": "Trump reshuffles portfolio, sells Meta and buys Berkshire Hathaway in June",
+    "summary": "Trump's portfolio changes highlight potential conflicts in presidential financial disclosures and signal a shift in investment strategies.\nThe post Trump reshuffles portfolio, sells Meta and buys Berkshire Hathaway in June appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/trump-sells-meta-buys-berkshire-hathaway/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Donald Trump",
+      "Meta",
+      "Berkshire Hathaway"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T17:44:09.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "Recent financial disclosures reveal that Donald Trump adjusted his investment portfolio in June. The strategy shift involved selling shares of Meta and purchasing holdings in Berkshire Hathaway. These portfolio adjustments have drawn attention regarding potential conflicts of interest related to presidential financial transparency.",
+    "slug": "trump-reshuffles-portfolio-sells-meta-and-buys-berkshire-hathaway-in-june"
+  },
+  {
+    "id": "6180746ed2a42e72",
+    "title": "Stacks enables AI agents to transact with BTC onchain",
+    "summary": "AI agents autonomously transacting with Bitcoin onchain could revolutionize digital economies, enhancing efficiency and scalability.\nThe post Stacks enables AI agents to transact with BTC onchain appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/stacks-ai-agents-btc-onchain-transactions/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Stacks",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T17:38:34.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "Stacks has enabled artificial intelligence agents to conduct transactions directly using Bitcoin on the blockchain. This development allows autonomous AI systems to participate in digital economies, potentially improving efficiency and scalability. The integration marks a significant step forward for decentralized financial applications and automated blockchain interactions.",
+    "slug": "stacks-enables-ai-agents-to-transact-with-btc-onchain"
+  },
+  {
+    "id": "101ea567472b48c8",
+    "title": "South Korean ship tests Arctic route to Europe amid Middle East tensions",
+    "summary": "The Arctic route test could reshape global shipping dynamics, reducing reliance on Middle East passages and altering market strategies.\nThe post South Korean ship tests Arctic route to Europe amid Middle East tensions appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/south-korean-ship-tests-arctic-route-to-europe-amid-middle-east-tensions/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "South Korea",
+      "Europe"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T17:38:01.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "A South Korean ship has successfully tested an Arctic shipping route to Europe. This alternative path is being explored as tensions in the Middle East continue to impact global logistics. The development could significantly reshape international shipping dynamics, potentially reducing the reliance on traditional Middle East passages and altering long-term market strategies for global supply chains.",
+    "slug": "south-korean-ship-tests-arctic-route-to-europe-amid-middle-east-tensions"
+  },
+  {
+    "id": "fd668583080a5e1f",
+    "title": "Putin warns Russia to target Ukraine’s ports, exports amid rising tensions",
+    "summary": "Escalating tensions threaten global grain supply chains, potentially destabilizing markets and intensifying the Ukraine conflict.\nThe post Putin warns Russia to target Ukraine’s ports, exports amid rising tensions appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/putin-warns-russia-to-target-ukraines-ports-exports-amid-rising-tensions/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Russia",
+      "Ukraine"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T17:23:29.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "Russian leadership has issued warnings regarding plans to target Ukrainian ports and export facilities amid escalating geopolitical tensions. This strategic focus threatens to disrupt vital global grain supply chains, potentially destabilizing international markets and further intensifying the ongoing conflict in the region.",
+    "slug": "putin-warns-russia-to-target-ukraine-s-ports-exports-amid-rising-tensions"
+  },
+  {
+    "id": "4d3938fd993594a8",
+    "title": "Brentford dismantle Spurs with two first-half goals as Janelt doubles the lead",
+    "summary": "Brentford's victory highlights their growing role as Premier League disruptors, challenging traditional power dynamics with strategic recruitment.\nThe post Brentford dismantle Spurs with two first-half goals as Janelt doubles the lead appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/brentford-janelt-spurs-2-0-premier-league/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Brentford",
+      "Tottenham Hotspur",
+      "Premier League"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T17:20:19.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "Brentford secured a strong victory against Tottenham Hotspur, scoring two goals in the first half, including a crucial strike by Janelt to double the lead. This impressive performance underscores Brentford's rising status and competitiveness within the Premier League, showcasing their ability to challenge established teams through effective strategy and execution.",
+    "slug": "brentford-dismantle-spurs-with-two-first-half-goals-as-janelt-doubles-the-lead"
+  },
+  {
+    "id": "2e160c5db579128d",
+    "title": "10 killed in Russian, Ukrainian attacks amid escalating conflict",
+    "summary": "The escalation in conflict may shift strategic priorities, influencing market expectations of Russian military actions in Ukrainian cities.\nThe post 10 killed in Russian, Ukrainian attacks amid escalating conflict appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/10-killed-in-russian-ukrainian-attacks-amid-escalating-conflict/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Russia",
+      "Ukraine"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T16:43:24.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "An escalation in conflict involving Russian and Ukrainian attacks resulted in ten reported deaths. This intensification of hostilities may alter strategic priorities and influence broader market expectations regarding military actions in the region, according to recent updates from Crypto Briefing.",
+    "slug": "10-killed-in-russian-ukrainian-attacks-amid-escalating-conflict"
+  },
+  {
+    "id": "0cbfedc2a5f592df",
+    "title": "Berkshire Hathaway makes backdoor investment in SpaceX through Alphabet holdings",
+    "summary": "Berkshire's indirect stake in SpaceX highlights the potential for strategic investments to yield significant returns without direct IPO risks.\nThe post Berkshire Hathaway makes backdoor investment in SpaceX through Alphabet holdings appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/berkshire-hathaway-backdoor-spacex-investment/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Berkshire Hathaway",
+      "SpaceX",
+      "Alphabet"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T16:42:54.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "Berkshire Hathaway has gained an indirect exposure to SpaceX through its holdings in Alphabet. This backdoor investment strategy allows major institutional portfolios to secure a stake in emerging industry leaders while avoiding the direct risks typically associated with initial public offerings. The development underscores the interconnected nature of modern corporate portfolios and major tech sector investments.",
+    "slug": "berkshire-hathaway-makes-backdoor-investment-in-spacex-through-alphabet-holdings"
+  },
+  {
+    "id": "2bc034983ca86b03",
+    "title": "CPAC endorses Ralph Norman in South Carolina GOP Senate primary runoff",
+    "summary": "CPAC's endorsement may strengthen Norman's position, potentially influencing conservative voter alignment and impacting the GOP primary outcome.\nThe post CPAC endorses Ralph Norman in South Carolina GOP Senate primary runoff appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/cpac-endorses-ralph-norman-in-south-carolina-gop-senate-primary-runoff/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "CPAC",
+      "Ralph Norman",
+      "South Carolina"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T16:40:20.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "The Conservative Political Action Conference has officially endorsed Ralph Norman in the South Carolina Republican Senate primary runoff. This endorsement aims to bolster Norman's campaign position, potentially influencing conservative voters and shaping the final outcome of the upcoming GOP primary race.",
+    "slug": "cpac-endorses-ralph-norman-in-south-carolina-gop-senate-primary-runoff"
+  },
+  {
+    "id": "69bddc04233a16c0",
+    "title": "Eight countries warn Israel E1 settlement plan threatens Palestinian statehood",
+    "summary": "International pressure on Israel's E1 plan may increase focus on Palestinian statehood, impacting the viability of a two-state solution.\nThe post Eight countries warn Israel E1 settlement plan threatens Palestinian statehood appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/eight-countries-warn-israel-e1-settlement-plan-threatens-palestinian-statehood/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Israel"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T16:40:20.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "Eight countries have issued a warning that Israel's E1 settlement plan poses a serious threat to Palestinian statehood. The international community has expressed concern that the proposed expansion in the West Bank could undermine the viability of a two-state solution, increasing diplomatic pressure regarding the future of the region.",
+    "slug": "eight-countries-warn-israel-e1-settlement-plan-threatens-palestinian-statehood"
+  },
+  {
+    "id": "be2a450e60535f23",
+    "title": "Iran warns Gulf states over US military aircraft presence",
+    "summary": "The Gulf states' strategic alliances may face strain, potentially altering regional security and economic stability amid rising tensions.\nThe post Iran warns Gulf states over US military aircraft presence appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/iran-warns-gulf-states-over-us-military-aircraft-presence/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Iran",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T16:36:57.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "Iran has issued a warning to Gulf states concerning the presence of United States military aircraft within their borders. This development threatens to strain strategic alliances in the region, potentially impacting both regional security and overall economic stability as geopolitical tensions continue to rise.",
+    "slug": "iran-warns-gulf-states-over-us-military-aircraft-presence"
+  },
+  {
+    "id": "fc39ff509bb9df6f",
+    "title": "Charlton beats West Ham 2-1, maintaining perfect Championship start",
+    "summary": "Charlton's strong start highlights their promotion potential, while West Ham's struggles deepen concerns over their Championship campaign.\nThe post Charlton beats West Ham 2-1, maintaining perfect Championship start appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/charlton-beats-west-ham-championship/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Charlton",
+      "West Ham"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T16:35:30.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "Charlton secured a 2-1 victory against West Ham, successfully maintaining their strong and perfect start to the Championship season. This impressive performance highlights Charlton's growing promotion potential early in the campaign. Meanwhile, the defeat deepens ongoing concerns regarding West Ham's early struggles in the league, raising questions about their form and ability to bounce back in upcoming matches.",
+    "slug": "charlton-beats-west-ham-2-1-maintaining-perfect-championship-start"
+  },
+  {
+    "id": "cc0402a8197f708b",
+    "title": "Everton defeats Crystal Palace 2-0 in Premier League opener at Hill Dickinson Stadium",
+    "summary": "Everton's victory highlights their continued dominance over Palace, while Palace faces challenges adapting to new management and tactics.\nThe post Everton defeats Crystal Palace 2-0 in Premier League opener at Hill Dickinson Stadium appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/everton-defeats-crystal-palace-premier-league/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Everton",
+      "Crystal Palace"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T16:25:42.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "Everton secured a 2-0 victory against Crystal Palace in their Premier League opener at the Hill Dickinson Stadium. The win showcases Everton's continued strong form against Palace, while the visiting side faces ongoing challenges as they work to adapt to new management and tactical approaches following the start of the season.",
+    "slug": "everton-defeats-crystal-palace-2-0-in-premier-league-opener-at-hill-dickinson-stadium"
+  },
+  {
+    "id": "f785fd8f69e26155",
+    "title": "Mark Carney outlines retaliatory import taxes on key sectors as US-Canada trade talks collapse",
+    "summary": "The collapse of US-Canada trade talks and ensuing tariffs could strain bilateral relations, disrupt industries, and impact global trade dynamics.\nThe post Mark Carney outlines retaliatory import taxes on key sectors as US-Canada trade talks collapse appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/carney-retaliatory-import-taxes-us-canada/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Mark Carney",
+      "United States",
+      "Canada"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T16:19:03.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "Trade negotiations between the United States and Canada have officially collapsed, leading to plans for retaliatory import taxes on key industrial sectors. This breakdown in bilateral discussions threatens to disrupt established supply chains, strain cross-border relations, and create broader ripples across global trade dynamics as officials respond to the escalating tariff measures.",
+    "slug": "mark-carney-outlines-retaliatory-import-taxes-on-key-sectors-as-us-canada-trade-talks-collapse"
+  },
+  {
+    "id": "7c8bd2c165662492",
+    "title": "Balde decides to leave FC Barcelona after coaching staff discussions shake his confidence",
+    "summary": "Balde's departure highlights the fragile nature of player-club relationships and the impact of internal dynamics on career trajectories.\nThe post Balde decides to leave FC Barcelona after coaching staff discussions shake his confidence appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/balde-leaving-fc-barcelona-manchester-united/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "FC Barcelona"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T16:16:09.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "Alejandro Balde has reportedly decided to leave FC Barcelona following a series of discussions with the coaching staff that significantly impacted his confidence. This unexpected development highlights the fragile nature of player-club relationships and demonstrates how internal team dynamics can dramatically alter a professional athlete's career trajectory at the prominent football club.",
+    "slug": "balde-decides-to-leave-fc-barcelona-after-coaching-staff-discussions-shake-his-confidence"
+  },
+  {
+    "id": "eb91904b3a672141",
+    "title": "Study reveals frontier AI labs lack plans to contain rogue models",
+    "summary": "The lack of robust containment plans in AI labs highlights significant risks, urging stricter safety protocols to prevent potential AI threats.\nThe post Study reveals frontier AI labs lack plans to contain rogue models appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/frontier-ai-labs-rogue-model-containment/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Crypto Briefing"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T16:05:56.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "A recent study indicates that leading frontier artificial intelligence laboratories currently lack adequate plans to contain rogue AI models. This absence of robust containment strategies highlights significant safety risks within the industry. Experts are now urging labs to implement stricter security protocols and comprehensive contingency plans to effectively prevent potential threats posed by advanced artificial intelligence systems.",
+    "slug": "study-reveals-frontier-ai-labs-lack-plans-to-contain-rogue-models"
+  },
+  {
+    "id": "8f713a237ecdbeaa",
+    "title": "Rashida Tlaib reveals Ethereum ETF in personal IRA despite voting against crypto in Congress",
+    "summary": "Tlaib's crypto investment highlights the growing normalization of digital assets in traditional finance, despite political skepticism.\nThe post Rashida Tlaib reveals Ethereum ETF in personal IRA despite voting against crypto in Congress appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/tlaib-ethereum-etf-ira-holdings/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Rashida Tlaib",
+      "Ethereum",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T15:57:50.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "Representative Rashida Tlaib has disclosed a personal investment in an Ethereum exchange-traded fund within her individual retirement account. This revelation comes despite her previous legislative opposition to cryptocurrency in Congress. The investment reflects the broader, ongoing integration of digital assets into traditional financial portfolios, even among political figures who express skepticism toward the sector.",
+    "slug": "rashida-tlaib-reveals-ethereum-etf-in-personal-ira-despite-voting-against-crypto-in-congress"
+  },
+  {
+    "id": "c81dd72be3ffc117",
+    "title": "Leeds United takes lead against Nottingham Forest with late goal by Stach",
+    "summary": "Stach's late goal highlights the critical impact of resilience and strategic signings in shaping Leeds United's successful season trajectory.\nThe post Leeds United takes lead against Nottingham Forest with late goal by Stach appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/leeds-united-stach-late-goal-nottingham-forest/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Leeds United",
+      "Nottingham Forest",
+      "Stach"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T15:53:38.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "Leeds United secured a crucial lead against Nottingham Forest following a decisive late goal scored by Stach. This dramatic late strike underscores the team's resilience and highlights the significant impact of strategic player signings on their ongoing successful season trajectory.",
+    "slug": "leeds-united-takes-lead-against-nottingham-forest-with-late-goal-by-stach"
+  },
+  {
+    "id": "380867f3dc5a0335",
+    "title": "Mark Carney rejects US trade deal, criticizes Trump’s tariffs as talks collapse",
+    "summary": "The collapse of US-Canada trade talks may destabilize North American economic relations, impacting sectors reliant on cross-border trade.\nThe post Mark Carney rejects US trade deal, criticizes Trump’s tariffs as talks collapse appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/carney-rejects-us-trade-deal-trump-tariffs/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Mark Carney",
+      "United States",
+      "Canada"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T15:52:54.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "Trade talks between officials have collapsed following a rejection of a proposed trade agreement. Criticism was directed at newly imposed tariffs, raising concerns about potential instability in North American economic relations and the future of cross-border commerce.",
+    "slug": "mark-carney-rejects-us-trade-deal-criticizes-trump-s-tariffs-as-talks-collapse"
+  },
+  {
+    "id": "da555753c27cfec8",
+    "title": "Canada ends trade negotiations with US, pivots to domestic economic strategy",
+    "summary": "Canada's strategic shift to diversify trade partners may reduce US dependency, but risks economic strain on industries reliant on US exports.\nThe post Canada ends trade negotiations with US, pivots to domestic economic strategy appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/canada-ends-trade-negotiations-us/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Canada",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T15:50:46.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "Canada has officially ended trade negotiations with the United States and is pivoting toward a domestic economic strategy. This strategic shift aims to diversify trade partners and reduce dependency on the United States. However, experts warn that the move could cause short-term economic strain for various industries that have traditionally relied heavily on exports to the American market.",
+    "slug": "canada-ends-trade-negotiations-with-us-pivots-to-domestic-economic-strategy"
+  },
+  {
+    "id": "4c03a00ce2de0d6b",
+    "title": "Citadel’s Ken Griffin turns AI meltdown into $4B masterclass",
+    "summary": "Citadel's strategic acquisition highlights its role as a stabilizing force in volatile markets, showcasing adept risk management and market influence.\nThe post Citadel’s Ken Griffin turns AI meltdown into $4B masterclass appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/citadel-griffin-ai-meltdown-4b-masterclass/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Citadel",
+      "Ken Griffin",
+      "Crypto Briefing"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T15:50:01.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "Citadel, led by Ken Griffin, successfully navigated recent market volatility surrounding an artificial intelligence downturn. Through strategic maneuvering, the firm capitalized on the shifting market conditions, turning the potential disruption into a significant financial gain. This event underscores the company's strong risk management capabilities and its growing influence as a stabilizing force during periods of economic instability.",
+    "slug": "citadel-s-ken-griffin-turns-ai-meltdown-into-4b-masterclass"
+  },
+  {
+    "id": "c0c31108793dc95a",
+    "title": "US tanker aircraft leave Bulgaria, easing immediate military threat perception",
+    "summary": "The tankers' departure may ease regional tensions, impacting market perceptions and reducing the likelihood of Iran's airspace closure.\nThe post US tanker aircraft leave Bulgaria, easing immediate military threat perception appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/us-tanker-aircraft-leave-bulgaria-easing-immediate-military-threat-perception/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "United States",
+      "Bulgaria",
+      "Iran"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T15:48:27.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "United States tanker aircraft have departed from Bulgaria, a move that is expected to ease immediate military threat perceptions in the region. The departure of these aircraft could help reduce regional tensions and decrease the likelihood of airspace closures in Iran, according to reports.",
+    "slug": "us-tanker-aircraft-leave-bulgaria-easing-immediate-military-threat-perception"
+  },
+  {
+    "id": "c60ada567e7e11cc",
+    "title": "Can ARB Price Break the $0.25 Barrier Soon?",
+    "summary": "The post Can ARB Price Break the $0.25 Barrier Soon? appeared first on Coinpedia Fintech News\nARB price is finally showing some life after finding demand around $0.07112 this week, but the weekly chart still has plenty of resistance waiting above. The move comes as Arbitrum reports fresh growth across tokenized assets, perpetuals, stablecoin payments and its broader onchain economy. Arbitrum Adds More RWA and Perp Activity Arbitrum One has crossed …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/price-analysis/can-arb-price-break-the-0-25-barrier-soon/",
+    "source": "Coinpedia",
+    "tags": [
+      "Arbitrum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T17:16:11.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "Arbitrum is showing signs of recovery after finding demand near the $0.07112 level, prompting speculation on whether its price can break the $0.25 barrier. Despite facing significant resistance on the weekly chart, the network is benefiting from fresh growth across tokenized assets, perpetuals, stablecoin payments, and its broader onchain economy.",
+    "slug": "can-arb-price-break-the-0-25-barrier-soon"
+  },
+  {
+    "id": "71a5609b2e4a9bae",
+    "title": "LTC Price Tests Weekly Demand as Bulls Eye $80",
+    "summary": "The post LTC Price Tests Weekly Demand as Bulls Eye $80 appeared first on Coinpedia Fintech News\nLTC price is showing signs of life after finding demand around $44, but the weekly chart still has a major problem overhead. The asset remains inside a descending triangle, while the recent recovery has pushed price above the 20-EMA and toward the 50-EMA near $62.61. LTC Price Recovery Faces Its First Test The $44 demand …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/price-analysis/ltc-price-tests-weekly-demand-as-bulls-eye-80/",
+    "source": "Coinpedia",
+    "tags": [
+      "Litecoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T16:53:07.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "Litecoin (LTC) price is showing signs of recovery after testing weekly demand around the $44 region. The asset has moved above its 20-EMA and is heading toward the 50-EMA near $62.61. Despite this positive momentum, the weekly chart reveals that LTC remains trapped inside a descending triangle pattern, facing significant overhead resistance as bulls set their sights on the $80 price target.",
+    "slug": "ltc-price-tests-weekly-demand-as-bulls-eye-80"
+  },
+  {
+    "id": "bad1f44de7290e25",
+    "title": "Dallas Man Allegedly Orchestrates Massive Bank Fraud, Obtains $40,000,000 From Texas Capital Bank, Happy State Bank and More",
+    "summary": "A Dallas businessman has been accused of using falsified financial records to obtain more than $40 million in loans, with prosecutors alleging the scheme defrauded banks and lenders of more than $20 million. Garrett Douglas Johnson, 41, was charged August 19th after a federal grand jury returned a six-count indictment accusing him of five counts […]\nThe post Dallas Man Allegedly Orchestrates Massive Bank Fraud, Obtains $40,000,000 From Texas Capital Bank, Happy State Bank and More appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/08/22/dallas-man-allegedly-orchestrates-bank-fraud-obtains-40000000-from-texas-capital-bank-happy-state-bank-and-more/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "Dallas",
+      "Texas Capital Bank",
+      "Happy State Bank",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T16:55:26.000Z",
+    "fetchedAt": "2026-08-22T17:59:28.025Z",
+    "isDuplicateOf": null,
+    "content": "A Dallas businessman has been indicted by a federal grand jury for allegedly orchestrating a massive bank fraud scheme. The accused reportedly used falsified financial records to secure over $40 million in loans from multiple institutions, including Texas Capital Bank and Happy State Bank. Prosecutors state the fraudulent activities ultimately caused losses exceeding $20 million for the lenders involved.",
+    "slug": "dallas-man-allegedly-orchestrates-massive-bank-fraud-obtains-40-000-000-from-texas-capital-bank"
   }
 ]
