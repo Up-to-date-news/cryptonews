@@ -1,5 +1,597 @@
 [
   {
+    "id": "19f6e65e7a9d6368",
+    "slug": "sec-proposes-a-path-for-crypto-projects-to-raise-75-million-and-later-end-the-token-s-securities",
+    "title": "SEC proposes a path for crypto projects to raise $75 million and later end the token’s securities contract",
+    "tags": [
+      "SEC",
+      "CFTC",
+      "Bitcoin"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T13:45:53.000Z"
+  },
+  {
+    "id": "3b6ea2b39dd6c4d5",
+    "slug": "microsoft-introduces-agent-lightning-v1-0-a-framework-for-training-ai-agents-without-breaking-their",
+    "title": "Microsoft introduces Agent Lightning v1.0, a framework for training AI agents without breaking their production setup",
+    "tags": [
+      "Microsoft"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T13:38:49.000Z"
+  },
+  {
+    "id": "7eef9da801f08024",
+    "slug": "bitcoin-etfs-buy-1-92b-this-week-largest-stash-in-10-months",
+    "title": "Bitcoin ETFs buy $1.92B this week, largest stash in 10 months",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T13:38:43.000Z"
+  },
+  {
+    "id": "139652276f41ba4a",
+    "slug": "dn-soopers-conclude-competitive-year-with-sweep-over-kiwoom-drx",
+    "title": "DN SOOPers conclude competitive year with sweep over Kiwoom DRX",
+    "tags": [
+      "DN SOOPers",
+      "Kiwoom DRX"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T13:35:34.000Z"
+  },
+  {
+    "id": "35a053fbf71e95bb",
+    "slug": "a-third-of-the-post-chatgpt-web-is-ai-written-pew-finds",
+    "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds",
+    "tags": [
+      "Pew Research",
+      "OpenAI"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T13:31:03.000Z"
+  },
+  {
+    "id": "6a16ed7940b513f5",
+    "slug": "chatgpt-introduces-group-chats-with-invite-links-and-privacy-features",
+    "title": "ChatGPT introduces group chats with invite links and privacy features",
+    "tags": [
+      "OpenAI",
+      "ChatGPT"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T13:30:57.000Z"
+  },
+  {
+    "id": "82284cf91e538268",
+    "slug": "kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
+    "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
+    "tags": [
+      "Kalshi",
+      "CFTC",
+      "Washington"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T13:30:00.000Z"
+  },
+  {
+    "id": "1d70a326f7a0df3a",
+    "slug": "mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult",
+    "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
+    "tags": [
+      "European Union",
+      "MiCA"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T13:30:00.000Z"
+  },
+  {
+    "id": "d7b3133e97d7e54b",
+    "slug": "donald-trump-escalates-pressure-on-iran-with-new-sanctions-and-blockade",
+    "title": "Donald Trump escalates pressure on Iran with new sanctions and blockade",
+    "tags": [
+      "Donald Trump",
+      "Iran",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T13:19:16.000Z"
+  },
+  {
+    "id": "5a7462714eab550c",
+    "slug": "crypto-market-erases-110-billion-in-20-minutes-after-sharp-rally",
+    "title": "Crypto market erases $110 billion in 20 minutes after sharp rally",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T13:19:12.000Z"
+  },
+  {
+    "id": "2c8ca4ca36b9fe6b",
+    "slug": "zachxbt-to-launch-website-with-restrictions-on-low-quality-countries",
+    "title": "ZachXBT to launch website with restrictions on ‘low quality’ countries",
+    "tags": [
+      "ZachXBT"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T13:16:41.000Z"
+  },
+  {
+    "id": "f1824b93e870f907",
+    "slug": "us-treasury-bond-intervention-challenges-fed-s-monetary-policy-stability",
+    "title": "US Treasury bond intervention challenges Fed’s monetary policy stability",
+    "tags": [
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T13:09:40.000Z"
+  },
+  {
+    "id": "0b07d715f694cc08",
+    "slug": "circle-internet-group-s-tokenized-stocks-add-48m-in-market-cap-in-a-single-week",
+    "title": "Circle Internet Group’s tokenized stocks add $48M in market cap in a single week",
+    "tags": [
+      "Circle Internet Group"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T13:02:41.000Z"
+  },
+  {
+    "id": "a4ffd7b08844cea4",
+    "slug": "ethereum-s-breakout-gains-credibility-3-metrics-support-eth-s-3k-bid",
+    "title": "Ethereum’s breakout gains credibility – 3 metrics support ETH’s $3K bid",
+    "tags": [
+      "Ethereum"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T13:00:43.000Z"
+  },
+  {
+    "id": "51151165e700cec6",
+    "title": "Nuggets Launches Authority Control Plane for Autonomous AI Agents",
+    "summary": "The London identity firm has launched a runtime enforcement layer that governs what AI agents are authorised to do at the moment of execution.\nThe post Nuggets Launches Authority Control Plane for Autonomous AI Agents appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/nuggets-launches-authority-control-plane-for-autonomous-ai-agents/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Nuggets",
+      "London"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T13:00:24.000Z",
+    "fetchedAt": "2026-08-22T13:48:33.777Z",
+    "isDuplicateOf": null,
+    "content": "London-based identity firm Nuggets has launched an authority control plane designed for autonomous AI agents. The new runtime enforcement layer operates at the moment of execution to govern and manage what AI agents are authorized to do.",
+    "slug": "nuggets-launches-authority-control-plane-for-autonomous-ai-agents"
+  },
+  {
+    "id": "84a0b34bd673f334",
+    "slug": "rogers-aipac-rift-shakes-up-tight-michigan-senate-race",
+    "title": "Rogers-AIPAC rift shakes up tight Michigan Senate race",
+    "tags": [
+      "Michigan",
+      "Rogers",
+      "AIPAC"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T12:57:17.000Z"
+  },
+  {
+    "id": "c582ff72d31fcfc3",
+    "slug": "jpmorgan-s-tokenized-t-bill-products-near-885m-in-market-cap",
+    "title": "JPMorgan’s tokenized T-bill products near $885M in market cap",
+    "tags": [
+      "JPMorgan"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T12:56:44.000Z"
+  },
+  {
+    "id": "ac56768e1c0881d9",
+    "slug": "putin-claims-russian-soldiers-advancing-in-ukraine-amid-ongoing-conflict",
+    "title": "Putin claims Russian soldiers advancing in Ukraine amid ongoing conflict",
+    "tags": [
+      "Russia",
+      "Ukraine"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T12:53:28.000Z"
+  },
+  {
+    "id": "0a4a9aede5adcc01",
+    "slug": "team-vision-becomes-first-grand-finalist-at-ti-2026",
+    "title": "Team Vision becomes first grand finalist at TI 2026",
+    "tags": [
+      "Team Vision",
+      "The International"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T12:47:01.000Z"
+  },
+  {
+    "id": "1a72765db6b19452",
+    "slug": "algorand-sees-841k-increase-in-euro-stablecoin-market-cap",
+    "title": "Algorand sees $841K increase in euro stablecoin market cap",
+    "tags": [
+      "Algorand",
+      "Europe"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T12:44:59.000Z"
+  },
+  {
+    "id": "9efba3f434b640d7",
+    "slug": "us-air-force-f-15s-deployed-to-middle-east-amid-iran-tensions",
+    "title": "US Air Force F-15s deployed to Middle East amid Iran tensions",
+    "tags": [
+      "United States Air Force",
+      "Middle East",
+      "Iran"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T12:34:02.000Z"
+  },
+  {
+    "id": "e9fe32a84aff3a69",
+    "title": "Groq Valuation Halves to $3.5bn in $350m Funding Round",
+    "summary": "AI chip startup Groq has raised $350 million at a $3.5 billion valuation, roughly half the level it commanded less than a year ago, Bloomberg reported. The funding round, completed on Aug. 17, values Groq nearly 50% below the $6.9 billion valuation it secured in... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/08/300132-groq-valuation-halves-to-3-5bn-in-350m-funding-round/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Groq",
+      "Bloomberg"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T12:31:25.000Z",
+    "fetchedAt": "2026-08-22T13:48:33.777Z",
+    "isDuplicateOf": null,
+    "content": "AI chip startup Groq has completed a new funding round, raising $350 million. The company's valuation dropped to $3.5 billion, which is roughly half of the valuation it commanded less than a year ago. Bloomberg reported that the transaction was finalized on August 17, reflecting a significant adjustment in the startup's market value amid the competitive artificial intelligence hardware sector.",
+    "slug": "groq-valuation-halves-to-3-5bn-in-350m-funding-round"
+  },
+  {
+    "id": "abf780140820f45d",
+    "title": "Stanley Druckenmiller’s Family Office Allocates Nearly $88M to Bitdeer and Hyperliquid Strategies",
+    "summary": "Investor Stanley Druckenmiller has signaled a notable shift toward digital assets through recent disclosures from his Duquesne Family Office. Regulatory filings for the second quarter of 2026 reveal new stakes totaling approximately $87.8 million in two crypto-related companies: Bitdeer Technologies Group (NASDAQ: BTDR) and Hyperliquid... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/08/300113-stanley-druckenmillers-family-office-allocates-nearly-88m-to-bitdeer-and-hyperliquid-strategies/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Stanley Druckenmiller",
+      "Bitdeer Technologies Group",
+      "Hyperliquid"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T12:29:50.000Z",
+    "fetchedAt": "2026-08-22T13:48:33.777Z",
+    "isDuplicateOf": null,
+    "content": "Investor Stanley Druckenmiller's Duquesne Family Office has invested nearly $88 million into digital asset strategies. Regulatory filings show the family office acquired new stakes in Bitdeer Technologies Group and Hyperliquid during the second quarter of 2026, marking a significant move by the prominent investor into crypto-related companies.",
+    "slug": "stanley-druckenmiller-s-family-office-allocates-nearly-88m-to-bitdeer-and-hyperliquid-strategies"
+  },
+  {
+    "id": "a200f54c7c7dd3b0",
+    "title": "Bitcoin Restaking Platform BounceBit to Wind Down L1 Blockchain Following Exploit",
+    "summary": "BounceBit, a Bitcoin restaking and yield platform, has announced the permanent closure of its independent Layer 1 blockchain. The decision follows a security incident in which an attacker exploited a protocol-level authorization vulnerability, transferring roughly 286.5 million BB tokens—valued at around $3 million at the... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/08/300073-bitcoin-restaking-platform-bouncebit-to-wind-down-l1-blockchain-following-exploit/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "BounceBit",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T12:28:24.000Z",
+    "fetchedAt": "2026-08-22T13:48:33.777Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin restaking and yield platform BounceBit is permanently shutting down its independent Layer 1 blockchain. The decision comes in the wake of a security incident where an attacker exploited a protocol-level authorization vulnerability, successfully transferring a large sum of BB tokens. The platform announced the wind-down as a direct response to the exploit to address security concerns and protect users moving forward.",
+    "slug": "bitcoin-restaking-platform-bouncebit-to-wind-down-l1-blockchain-following-exploit"
+  },
+  {
+    "id": "91f0f685c295255b",
+    "slug": "lucas-vazquez-scores-to-double-bayer-leverkusen-s-lead",
+    "title": "Lucas Vazquez scores to double Bayer Leverkusen’s lead",
+    "tags": [
+      "Lucas Vazquez",
+      "Bayer Leverkusen"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T12:26:45.000Z"
+  },
+  {
+    "id": "02161dd643e8a6aa",
+    "slug": "hull-city-s-nobel-mendy-scores-twice-against-manchester-united-on-premier-league-return",
+    "title": "Hull City’s Nobel Mendy scores twice against Manchester United on Premier League return",
+    "tags": [
+      "Hull City",
+      "Manchester United"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T12:17:25.000Z"
+  },
+  {
+    "id": "336308122f0e0f83",
+    "slug": "just-1-of-wallets-control-133m-in-midterm-odds-on-polymarket-creating-a-dangerous-illusion-of-mass",
+    "title": "Just 1% of wallets control $133M in midterm odds on Polymarket, creating a dangerous illusion of mass public consensus",
+    "tags": [
+      "Polymarket"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T12:15:16.000Z"
+  },
+  {
+    "id": "00fbd4fd7bd0a21b",
+    "slug": "big-tech-may-need-to-rethink-ai-spending-plans-amid-adoption-concerns",
+    "title": "Big Tech may need to rethink AI spending plans amid adoption concerns",
+    "tags": [
+      "Big Tech"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T12:14:49.000Z"
+  },
+  {
+    "id": "b525e5b692d3a0f6",
+    "slug": "bitcoin-shows-first-warning-signs-after-15k-surge-in-2-days",
+    "title": "Bitcoin Shows First Warning Signs After $15K Surge in 2 Days",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T12:14:10.000Z"
+  },
+  {
+    "id": "0f97efe5cbcbc5f4",
+    "slug": "s-p-500-pulls-back-amid-rising-treasury-yields-and-inflation-concerns",
+    "title": "S&P 500 pulls back amid rising Treasury yields and inflation concerns",
+    "tags": [
+      "S&P 500",
+      "Crypto Briefing"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T12:07:08.000Z"
+  },
+  {
+    "id": "0c75f6d6f2624991",
+    "slug": "ukraine-marks-35-years-of-independence-amid-russian-missile-attacks",
+    "title": "Ukraine marks 35 years of independence amid Russian missile attacks",
+    "tags": [
+      "Ukraine",
+      "Russia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T12:05:41.000Z"
+  },
+  {
+    "id": "4be87c2441cee16e",
+    "slug": "hull-city-takes-early-lead-against-manchester-united-with-semi-ajayi-goal",
+    "title": "Hull City takes early lead against Manchester United with Semi Ajayi goal",
+    "tags": [
+      "Hull City",
+      "Manchester United"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T12:05:19.000Z"
+  },
+  {
+    "id": "c550812cc791888c",
+    "slug": "hull-city-stuns-manchester-united-1-0-in-premier-league-opener",
+    "title": "Hull City stuns Manchester United 1-0 in Premier League opener",
+    "tags": [
+      "Hull City",
+      "Manchester United"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T12:02:21.000Z"
+  },
+  {
+    "id": "3279d66686307da2",
+    "slug": "jd-vance-dodge-xrp-bitcoin-debt-plan-as-u-s-debt-hits-40t",
+    "title": "JD Vance Dodge XRP, Bitcoin Debt Plan as U.S. Debt Hits $40T",
+    "tags": [
+      "JD Vance",
+      "Donald Trump",
+      "Scott Bessent",
+      "Bitcoin",
+      "XRP",
+      "United States"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T12:00:41.000Z"
+  },
+  {
+    "id": "cd4c8a3a48041eec",
+    "slug": "bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in",
+    "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
+    "tags": [
+      "Bitcoin",
+      "Ether",
+      "X"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T12:00:00.000Z"
+  },
+  {
+    "id": "be6862c4cde48943",
+    "slug": "leon-goretzka-close-to-joining-aston-villa-as-free-agent-after-bayern-munich-exit",
+    "title": "Leon Goretzka close to joining Aston Villa as free agent after Bayern Munich exit",
+    "tags": [
+      "Leon Goretzka",
+      "Aston Villa",
+      "Bayern Munich"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T11:55:09.000Z"
+  },
+  {
+    "id": "1095001e1fae4524",
+    "slug": "chelsea-confirms-joao-pedro-s-contract-extension-until-2034",
+    "title": "Chelsea confirms João Pedro’s contract extension until 2034",
+    "tags": [
+      "Chelsea"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T11:44:37.000Z"
+  },
+  {
+    "id": "271a7bbda540d7c3",
+    "slug": "iran-s-basij-leader-warns-against-trusting-potential-us-iran-talks",
+    "title": "Iran’s Basij leader warns against trusting potential US-Iran talks",
+    "tags": [
+      "Iran",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T11:44:16.000Z"
+  },
+  {
+    "id": "6d1e526ff1f63f80",
+    "slug": "chelsea-rejects-loan-requests-for-winger-jamie-gittens",
+    "title": "Chelsea rejects loan requests for winger Jamie Gittens",
+    "tags": [
+      "Chelsea"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T11:34:30.000Z"
+  },
+  {
+    "id": "5c8f5e25db927add",
+    "title": "Binance’s BNB Coin Reclaims $700: Is $1000 Next?",
+    "summary": "Binance’s BNB coin has reclaimed the $700 price level for the first time since June 1, 2026. CoinGecko…",
+    "hasSummary": true,
+    "link": "https://watcher.guru/news/binances-bnb-coin-reclaims-700-is-1000-next",
+    "source": "Watcher.Guru",
+    "tags": [
+      "Binance",
+      "BNB"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-22T11:31:00.000Z",
+    "fetchedAt": "2026-08-22T13:48:33.777Z",
+    "isDuplicateOf": null,
+    "content": "Binance's BNB coin has officially reclaimed the key $700 price level. This marks the first time the digital asset has reached this milestone since June 1, 2026. Market participants are now closely watching the charts to see if the cryptocurrency can maintain this upward momentum and potentially target the upcoming $1000 psychological barrier in the near future.",
+    "slug": "binance-s-bnb-coin-reclaims-700-is-1000-next"
+  },
+  {
+    "id": "504c15a5180a2917",
+    "slug": "pi-network-price-prediction-can-august-24-catalyst-push-pi-toward-0-15",
+    "title": "Pi Network Price Prediction: Can August 24 Catalyst Push PI Toward $0.15?",
+    "tags": [
+      "Pi Network",
+      "PI"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T11:30:06.000Z"
+  },
+  {
+    "id": "c24cad3c90d44042",
+    "slug": "ripple-stablecoin-lead-this-xrp-ledger-feature-could-matter-big-for-rlusd",
+    "title": "Ripple Stablecoin Lead: This XRP Ledger Feature Could Matter Big for RLUSD",
+    "tags": [
+      "Ripple",
+      "XRP Ledger"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T11:30:05.000Z"
+  },
+  {
+    "id": "56bfb6d5f31fa816",
+    "slug": "humidifi-halts-trading-after-internal-network-incident-hits-platform-funds",
+    "title": "Humidifi halts trading after internal network incident hits platform funds",
+    "tags": [
+      "HumidiFi"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T11:24:44.000Z"
+  },
+  {
+    "id": "a7cf88c3236afe3e",
+    "slug": "bitcoin-jumps-23-amid-4b-crypto-short-squeeze-is-btc-s-bottom-in",
+    "title": "Bitcoin jumps 23% amid $4B crypto short squeeze – Is BTC’s bottom in?",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-22T11:00:16.000Z"
+  },
+  {
     "id": "abacfe6ebd0da2e5",
     "slug": "bitcoin-crash-forced-riot-to-pledge-1-825-btc-but-this-huge-rally-may-now-free-up-1-500-btc",
     "title": "Bitcoin crash forced Riot to pledge 1,825 BTC, but this huge rally may now free up 1,500 BTC",
@@ -54,22 +646,17 @@
   },
   {
     "id": "ce020b7bfa52b170",
+    "slug": "bitcoin-ethereum-and-xrp-crash-as-1-7b-got-liquidated-in-24-hours",
     "title": "Bitcoin, Ethereum, and XRP Crash as $1.7B Got Liquidated in 24 Hours",
-    "summary": "The post Bitcoin, Ethereum, and XRP Crash as $1.7B Got Liquidated in 24 Hours appeared first on Coinpedia Fintech News\nThe crypto market just suffered its biggest flash crash since October 2025, wiping out $108 billion in just six minutes. The total market value fell from $2.68 trillion to $2.55 trillion as selling pressure increased. More than $1.71 billion in crypto positions were liquidated, hitting Bitcoin, Ethereum, and altcoins the hardest. Crypto Rally Halt Turned …",
-    "hasSummary": true,
-    "link": "https://coinpedia.org/news/bitcoin-ethereum-and-xrp-crash-as-1-7b-got-liquidated-in-24-hours/",
-    "source": "Coinpedia",
     "tags": [
       "Bitcoin",
       "Ethereum",
       "XRP"
     ],
+    "source": "Coinpedia",
     "origin": "rss",
-    "pubDate": "2026-08-22T10:16:44.000Z",
-    "fetchedAt": "2026-08-22T10:52:25.637Z",
-    "isDuplicateOf": null,
-    "content": "The cryptocurrency market suffered a major flash crash, wiping out $108 billion in market value within minutes. Bitcoin, Ethereum, and XRP led the decline as selling pressure surged across exchanges. More than $1.7 billion in leveraged crypto positions were liquidated over a 24-hour period, abruptly halting the recent market rally and reducing total market value significantly.",
-    "slug": "bitcoin-ethereum-and-xrp-crash-as-1-7b-got-liquidated-in-24-hours"
+    "hasContent": true,
+    "pubDate": "2026-08-22T10:16:44.000Z"
   },
   {
     "id": "14e2ff9ccbd8a5e1",
@@ -98,20 +685,15 @@
   },
   {
     "id": "ea86da639537b268",
+    "slug": "how-low-can-bitcoin-price-drop-after-the-flash-crash",
     "title": "How Low Can Bitcoin Price Drop After the Flash Crash?",
-    "summary": "The post How Low Can Bitcoin Price Drop After the Flash Crash? appeared first on Coinpedia Fintech News\nBitcoin is facing fresh correction risk after a sharp sell-off pushed BTC from above $79,000 toward $77,000. The move triggered roughly $547 million in crypto liquidations before buyers stepped back in. BTC was trading around $77,291, down 0.43%, at the time of writing. The pullback came after Bitcoin reached about $79,500, its highest level in …",
-    "hasSummary": true,
-    "link": "https://coinpedia.org/news/how-low-can-bitcoin-price-drop-after-the-flash-crash/",
-    "source": "Coinpedia",
     "tags": [
       "Bitcoin"
     ],
+    "source": "Coinpedia",
     "origin": "rss",
-    "pubDate": "2026-08-22T10:13:31.000Z",
-    "fetchedAt": "2026-08-22T10:52:25.637Z",
-    "isDuplicateOf": null,
-    "content": "Bitcoin faced a fresh correction risk following a sharp sell-off that pushed its price from above $79,000 down toward $77,000. This sudden pullback triggered approximately $547 million in cryptocurrency liquidations before buyers re-entered the market. At the time of reporting, Bitcoin was trading near $77,291, marking a modest daily decrease of 0.43% after previously reaching a high of about $79,500.",
-    "slug": "how-low-can-bitcoin-price-drop-after-the-flash-crash"
+    "hasContent": true,
+    "pubDate": "2026-08-22T10:13:31.000Z"
   },
   {
     "id": "703d2b0eadba5746",
@@ -128,21 +710,16 @@
   },
   {
     "id": "9d9f4e561dfe9ffc",
+    "slug": "ukraine-says-it-struck-russian-oil-refinery-in-overnight-attack",
     "title": "Ukraine says it struck Russian oil refinery in overnight attack",
-    "summary": "Ukraine's strategic strikes on Russian infrastructure may weaken Russia's military logistics and alter market perceptions of conflict outcomes.\nThe post Ukraine says it struck Russian oil refinery in overnight attack appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/ukraine-says-it-struck-russian-oil-refinery-in-overnight-attack/",
-    "source": "CryptoBriefing",
     "tags": [
       "Ukraine",
       "Russia"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-22T10:10:09.000Z",
-    "fetchedAt": "2026-08-22T10:52:25.637Z",
-    "isDuplicateOf": null,
-    "content": "Ukraine reported that it successfully struck a Russian oil refinery during an overnight attack. This strategic military operation targets Russian infrastructure and energy capabilities. Analysts suggest such strikes could impact regional logistics and energy markets as the ongoing conflict between the two countries continues to evolve.",
-    "slug": "ukraine-says-it-struck-russian-oil-refinery-in-overnight-attack"
+    "hasContent": true,
+    "pubDate": "2026-08-22T10:10:09.000Z"
   },
   {
     "id": "92d7beeda42e36cf",
@@ -159,58 +736,43 @@
   },
   {
     "id": "eb04b3bee41577a8",
+    "slug": "premier-league-and-serie-a-return-la-liga-kicks-off-this-weekend",
     "title": "Premier League and Serie A return, La Liga kicks off this weekend",
-    "summary": "The staggered league starts may impact team preparations and player fitness, potentially influencing competitive balance and season outcomes.\nThe post Premier League and Serie A return, La Liga kicks off this weekend appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/premier-league-serie-a-la-liga-return/",
-    "source": "CryptoBriefing",
     "tags": [
       "Premier League",
       "Serie A",
       "La Liga"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-22T10:05:58.000Z",
-    "fetchedAt": "2026-08-22T10:52:25.637Z",
-    "isDuplicateOf": null,
-    "content": "Major European football leagues, including the Premier League, Serie A, and La Liga, are returning for action this weekend. These staggered league starts may impact team preparations and player fitness. Observers note that this scheduling could potentially influence competitive balance and overall season outcomes for participating clubs as competitions get underway.",
-    "slug": "premier-league-and-serie-a-return-la-liga-kicks-off-this-weekend"
+    "hasContent": true,
+    "pubDate": "2026-08-22T10:05:58.000Z"
   },
   {
     "id": "38092cd92f4d8e59",
+    "slug": "lionel-messi-fined-for-slapping-opponent-during-mls-match",
     "title": "Lionel Messi fined for slapping opponent during MLS match",
-    "summary": "Messi's fine highlights MLS's strict stance on head contact, emphasizing the league's commitment to player safety and post-match accountability.\nThe post Lionel Messi fined for slapping opponent during MLS match appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/messi-fined-slapping-opponent-mls/",
-    "source": "CryptoBriefing",
     "tags": [
       "Lionel Messi",
       "MLS"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-22T10:05:14.000Z",
-    "fetchedAt": "2026-08-22T10:52:25.637Z",
-    "isDuplicateOf": null,
-    "content": "Lionel Messi has been fined following an incident where he slapped an opponent during an MLS match. The disciplinary action underscores the league's strict stance on head contact and physical altercations on the field. This decision emphasizes the league's ongoing commitment to enforcing player safety regulations and maintaining post-match accountability among all participating athletes.",
-    "slug": "lionel-messi-fined-for-slapping-opponent-during-mls-match"
+    "hasContent": true,
+    "pubDate": "2026-08-22T10:05:14.000Z"
   },
   {
     "id": "6b275460c3c935b0",
+    "slug": "team-given-0-win-probability-at-the-international-2026",
     "title": "Team given 0% win probability at The International 2026",
-    "summary": "The 0% win probability highlights the unpredictability of esports, emphasizing the dynamic nature of competitive gaming and statistical models.\nThe post Team given 0% win probability at The International 2026 appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/team-given-0-win-probability-at-the-international-2026/",
-    "source": "CryptoBriefing",
     "tags": [
       "The International 2026",
       "Crypto Briefing"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-22T09:55:03.000Z",
-    "fetchedAt": "2026-08-22T10:52:25.637Z",
-    "isDuplicateOf": null,
-    "content": "A competitive esports team has been given a zero percent win probability for The International 2026. This rare statistical outlook highlights the unpredictable nature of competitive gaming and underscores how statistical models approach major esports tournaments. Observers note that such extreme predictions reflect the ongoing volatility and dynamic shifts present within the professional gaming landscape as teams prepare for the high-stakes event.",
-    "slug": "team-given-0-win-probability-at-the-international-2026"
+    "hasContent": true,
+    "pubDate": "2026-08-22T09:55:03.000Z"
   },
   {
     "id": "e7a0077b063b4b61",
@@ -235,600 +797,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-08-22T09:45:03.000Z"
-  },
-  {
-    "id": "c6044ce484618471",
-    "title": "PEPE Price Surges 18% After Breakout — Is $0.000005 the Next Target?",
-    "summary": "The post PEPE Price Surges 18% After Breakout — Is $0.000005 the Next Target? appeared first on Coinpedia Fintech News\nPEPE price has suddenly broken out of a months-long downtrend, surging nearly 18% to $0.00000411 as buyers pushed through a key technical barrier. The breakout arrives as capital rotates into high-beta meme coins across the broader crypto market. With PEPE now above its descending trendline, the immediate question is whether bulls can turn the breakout …",
-    "hasSummary": true,
-    "link": "https://coinpedia.org/price-analysis/pepe-price-surges-18-after-breakout-is-0-000005-the-next-target/",
-    "source": "Coinpedia",
-    "tags": [
-      "PEPE"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-22T09:44:23.000Z",
-    "fetchedAt": "2026-08-22T10:52:25.637Z",
-    "isDuplicateOf": null,
-    "content": "The PEPE price surged nearly 18 percent to $0.00000411 following a breakout from a months-long downtrend. Buyers successfully pushed through a key technical barrier as capital began rotating into high-beta meme coins across the broader cryptocurrency market. With the asset now trading above its descending trendline, analysts are watching to see if bulls can maintain momentum toward the next potential price targets.",
-    "slug": "pepe-price-surges-18-after-breakout-is-0-000005-the-next-target"
-  },
-  {
-    "id": "4b34a03a62753fcd",
-    "title": "Hussein Molaei, brother of slain protester, detained by Iranian Revolutionary Guards",
-    "summary": "The detention highlights intensified repression, potentially increasing regime instability and impacting geopolitical dynamics.\nThe post Hussein Molaei, brother of slain protester, detained by Iranian Revolutionary Guards appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/hussein-molaei-brother-of-slain-protester-detained-by-iranian-revolutionary/",
-    "source": "CryptoBriefing",
-    "tags": [
-      "Iran"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-22T09:28:52.000Z",
-    "fetchedAt": "2026-08-22T10:52:25.637Z",
-    "isDuplicateOf": null,
-    "content": "Iranian Revolutionary Guards have reportedly detained Hussein Molaei, the brother of a slain protester. This incident underscores the ongoing repression within the country, raising concerns about potential regime instability and broader geopolitical consequences in the region.",
-    "slug": "hussein-molaei-brother-of-slain-protester-detained-by-iranian-revolutionary-guards"
-  },
-  {
-    "id": "94f589b18ea0e1cc",
-    "title": "$550 Million Wiped From The Cryptocurrency Market In 60 Minutes",
-    "summary": "The cryptocurrency market is facing a steep correction after registering one of its most significant rallies of 2026.…",
-    "hasSummary": true,
-    "link": "https://watcher.guru/news/550-million-wiped-from-the-cryptocurrency-market-in-60-minutes",
-    "source": "Watcher.Guru",
-    "tags": [
-      "Cryptocurrency Market"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-22T09:26:04.000Z",
-    "fetchedAt": "2026-08-22T10:52:25.637Z",
-    "isDuplicateOf": null,
-    "content": "The cryptocurrency market faced a steep correction following one of its most significant rallies of 2026. Within the span of just sixty minutes, a massive $550 million was wiped from the overall market, catching investors by surprise and reversing recent upward momentum as trading volatility spiked sharply.",
-    "slug": "550-million-wiped-from-the-cryptocurrency-market-in-60-minutes"
-  },
-  {
-    "id": "d88bd4deeb055d7c",
-    "title": "Germany to invest €12B in long-range missiles amid Russia tensions",
-    "summary": "Germany's missile investment may heighten NATO-Russia tensions, increasing the risk of military conflict and impacting global markets.\nThe post Germany to invest €12B in long-range missiles amid Russia tensions appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/germany-to-invest-12b-in-long-range-missiles-amid-russia-tensions/",
-    "source": "CryptoBriefing",
-    "tags": [
-      "Germany",
-      "Russia",
-      "NATO"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-22T09:23:23.000Z",
-    "fetchedAt": "2026-08-22T10:52:25.637Z",
-    "isDuplicateOf": null,
-    "content": "Germany plans to invest twelve billion euros in long-range missiles amid ongoing tensions with Russia. This major defense investment comes as geopolitical friction rises, which may heighten tensions within NATO and impact global markets. The announcement highlights Europe's increasing focus on strengthening its military capabilities in response to regional security concerns.",
-    "slug": "germany-to-invest-12b-in-long-range-missiles-amid-russia-tensions"
-  },
-  {
-    "id": "df54eec93e7ab71c",
-    "title": "Caregiver Allegedly Drains $180,000 From 92-Year-Old Florida Woman’s Bank Accounts",
-    "summary": "A Florida caregiver faces felony charges after allegedly stealing more than $180,000 from an elderly client with vision impairment over 18 months.\nThe post Caregiver Allegedly Drains $180,000 From 92-Year-Old Florida Woman’s Bank Accounts appeared first on The Daily Hodl.",
-    "hasSummary": true,
-    "link": "https://dailyhodl.com/2026/08/22/caregiver-allegedly-drains-180000-from-92-year-old-florida-womans-bank-accounts/",
-    "source": "The Daily Hodl",
-    "tags": [
-      "Florida"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-22T09:15:52.000Z",
-    "fetchedAt": "2026-08-22T10:52:25.637Z",
-    "isDuplicateOf": null,
-    "content": "A Florida caregiver has been arrested and faces felony charges after allegedly stealing more than $180,000 from a 92-year-old elderly client. Authorities state the suspect drained the victim's bank accounts over an 18-month period, taking advantage of the vulnerable woman's vision impairment before the fraudulent activity was uncovered.",
-    "slug": "caregiver-allegedly-drains-180-000-from-92-year-old-florida-woman-s-bank-accounts"
-  },
-  {
-    "id": "3bbd2c8bf3953dfe",
-    "title": "Cami Clark influences Anthropic’s direction as key adviser to CEO Dario Amodei",
-    "summary": "Cami Clark's informal influence highlights the critical role of personal networks in shaping strategic decisions and securing pivotal investments.\nThe post Cami Clark influences Anthropic’s direction as key adviser to CEO Dario Amodei appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/cami-clark-anthropic-adviser-dario-amodei/",
-    "source": "CryptoBriefing",
-    "tags": [
-      "Anthropic",
-      "Cami Clark",
-      "Dario Amodei"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-22T09:14:12.000Z",
-    "fetchedAt": "2026-08-22T10:52:25.637Z",
-    "isDuplicateOf": null,
-    "content": "Cami Clark serves as a key adviser to Anthropic CEO Dario Amodei, where her informal influence highlights the significant impact of personal networks on corporate strategy and investment decisions at the artificial intelligence firm.",
-    "slug": "cami-clark-influences-anthropic-s-direction-as-key-adviser-to-ceo-dario-amodei"
-  },
-  {
-    "id": "1bfccb18df1a4606",
-    "title": "Payhawk’s Agent Fetch Cuts Vendor Invoice Time to Two Days",
-    "summary": "Payhawk says its AI agent retrieves vendor portal invoices 12 times faster than humans, cutting average submission time from 23.8 days to a target\nThe post Payhawk’s Agent Fetch Cuts Vendor Invoice Time to Two Days appeared first on The Fintech Times.",
-    "hasSummary": true,
-    "link": "https://thefintechtimes.com/payhawks-agent-fetch-cuts-vendor-invoice-time-to-two-days/",
-    "source": "The Fintech Times",
-    "tags": [
-      "Payhawk"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-08-22T09:00:23.000Z",
-    "fetchedAt": "2026-08-22T10:52:25.637Z",
-    "isDuplicateOf": null,
-    "content": "Payhawk has launched an artificial intelligence tool called Agent Fetch designed to streamline vendor invoice management. According to the company, the new technology retrieves invoices from vendor portals significantly faster than manual processes, reducing average submission times from over three weeks down to just two days.",
-    "slug": "payhawk-s-agent-fetch-cuts-vendor-invoice-time-to-two-days"
-  },
-  {
-    "id": "e76a0e8a8fce0b4a",
-    "slug": "ton-validators-prepare-node-update-ahead-of-collator-vote",
-    "title": "TON Validators Prepare Node Update Ahead Of Collator Vote",
-    "tags": [
-      "TON"
-    ],
-    "source": "Bitcoinist",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T09:00:00.000Z"
-  },
-  {
-    "id": "1d3e739ba951ee49",
-    "slug": "trump-signals-openness-to-diplomacy-with-iran-but-warns-airstrikes-could-resume",
-    "title": "Trump signals openness to diplomacy with Iran but warns airstrikes could resume",
-    "tags": [
-      "Donald Trump",
-      "Iran",
-      "Iraq"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T08:49:55.000Z"
-  },
-  {
-    "id": "45ea58aade5f65b8",
-    "slug": "treasury-just-put-a-deadline-on-offshore-stablecoins-access-to-us-customers",
-    "title": "Treasury just put a deadline on offshore stablecoins’ access to US customers",
-    "tags": [
-      "United States"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T08:35:21.000Z"
-  },
-  {
-    "id": "783dfbfa77d6af72",
-    "slug": "sumail-hints-at-retirement-raising-roster-uncertainty-for-nigma-galaxy-at-ti2026",
-    "title": "SumaiL hints at retirement, raising roster uncertainty for Nigma Galaxy at TI2026",
-    "tags": [
-      "SumaiL",
-      "Nigma Galaxy"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T08:31:18.000Z"
-  },
-  {
-    "id": "6fc9d12a95ca66eb",
-    "slug": "vertiv-s-david-cote-transforms-ac-maker-into-ai-powerhouse-worth-over-100b",
-    "title": "Vertiv’s David Cote transforms AC maker into AI powerhouse worth over $100B",
-    "tags": [
-      "Vertiv",
-      "David Cote"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T08:28:36.000Z"
-  },
-  {
-    "id": "d7895aa20e978297",
-    "slug": "bitcoin-just-flipped-a-months-long-s-p-500-trend-here-s-what-changed",
-    "title": "Bitcoin Just Flipped a Months-Long S&P 500 Trend: Here’s What Changed",
-    "tags": [
-      "Bitcoin",
-      "S&P 500",
-      "United States"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T08:23:27.000Z"
-  },
-  {
-    "id": "5226e9db34f4b23c",
-    "slug": "the-sandbox-contains-bridge-exploit-after-unbacked-sand-minted-on-base-and-bsc",
-    "title": "The Sandbox Contains Bridge Exploit After Unbacked SAND Minted on Base and BSC",
-    "tags": [
-      "The Sandbox",
-      "SAND",
-      "Base",
-      "BNB Smart Chain",
-      "Ethereum",
-      "Polygon"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T08:20:49.000Z"
-  },
-  {
-    "id": "e3d45a5b15873cac",
-    "slug": "avalanche-tokenized-asset-value-crosses-3b-as-rwa-push-grows",
-    "title": "Avalanche Tokenized Asset Value Crosses $3B As RWA Push Grows",
-    "tags": [
-      "Avalanche"
-    ],
-    "source": "Bitcoinist",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T08:15:00.000Z"
-  },
-  {
-    "id": "3277d5e6fc60cdef",
-    "slug": "your-ai-notetaker-would-like-a-word",
-    "title": "Your AI Notetaker Would Like a Word",
-    "tags": [
-      "PYMNTS.com"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T08:00:28.000Z"
-  },
-  {
-    "id": "7d504064713a396e",
-    "slug": "official-trump-trump-coin-price-prediction-2026-2027-2030-how-high-can-trump-go",
-    "title": "Official Trump (TRUMP) Coin Price Prediction 2026, 2027-2030: How High Can TRUMP Go?",
-    "tags": [
-      "TRUMP"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T07:56:00.000Z"
-  },
-  {
-    "id": "7d829d78ed78088f",
-    "slug": "ormat-technologies-pivots-to-ai-driven-geothermal-power-with-egs-projects",
-    "title": "Ormat Technologies pivots to AI-driven geothermal power with EGS projects",
-    "tags": [
-      "Ormat Technologies"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T07:48:56.000Z"
-  },
-  {
-    "id": "5567747450d6ab6f",
-    "slug": "solana-flirts-with-100-despite-rising-competition-can-sol-unlock-20-more",
-    "title": "Solana flirts with $100 despite rising competition – Can SOL unlock 20% more?",
-    "tags": [
-      "Solana"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T07:45:30.000Z"
-  },
-  {
-    "id": "6e81b3a4d1738703",
-    "slug": "xrp-futures-open-interest-rebounds-to-pre-crash-levels-in-august-2026",
-    "title": "XRP futures open interest rebounds to pre-crash levels in August 2026",
-    "tags": [
-      "XRP"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T07:41:29.000Z"
-  },
-  {
-    "id": "19b3e0a9f86760be",
-    "slug": "aave-debt-concentration-raises-risk-questions-after-ethereum-volatility",
-    "title": "Aave Debt Concentration Raises Risk Questions After Ethereum Volatility",
-    "tags": [
-      "Aave",
-      "Ethereum"
-    ],
-    "source": "Bitcoinist",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T07:30:00.000Z"
-  },
-  {
-    "id": "0e7e1b3f2e6f9644",
-    "slug": "ubs-global-wealth-management-boosts-s-p-500-year-end-target-to-8-100-on-stronger-profit-outlook",
-    "title": "UBS Global Wealth Management Boosts S&P 500 Year-End Target to 8,100 on Stronger Profit Outlook",
-    "tags": [
-      "UBS Global Wealth Management",
-      "S&P 500"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T07:04:44.000Z"
-  },
-  {
-    "id": "568a9f33524d3863",
-    "slug": "official-trump-surges-over-60-as-bears-lose-control-is-this-the-start-of-a-rally-or-a-bull-trap",
-    "title": "OFFICIAL TRUMP Surges Over 60% as Bears Lose Control—Is This the Start of a Rally or a Bull Trap?",
-    "tags": [
-      "OFFICIAL TRUMP"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T07:03:07.000Z"
-  },
-  {
-    "id": "d68e4329870bf639",
-    "slug": "adam-back-s-bitcoin-treasury-deal-died-but-its-15m-obligation-did-not",
-    "title": "Adam Back’s Bitcoin treasury deal died, but its $15M obligation did not",
-    "tags": [
-      "Adam Back",
-      "Bitcoin"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T07:00:55.000Z"
-  },
-  {
-    "id": "9bde321ae5fd3107",
-    "slug": "franklin-templeton-to-bring-tokenized-assets-into-traditional-etfs-details",
-    "title": "Franklin Templeton to bring tokenized assets into traditional ETFs — Details",
-    "tags": [
-      "Franklin Templeton",
-      "SEC"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T07:00:52.000Z"
-  },
-  {
-    "id": "d19d874fb19fb89b",
-    "slug": "tunisia-a-fintech-ecosystem-caught-between-cash-and-code",
-    "title": "Tunisia: A Fintech Ecosystem Caught Between Cash and Code",
-    "tags": [
-      "Tunisia"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T07:00:20.000Z"
-  },
-  {
-    "id": "ce2b4c445f216f91",
-    "slug": "openai-absorbs-instant-team-to-enhance-ai-application-infrastructure",
-    "title": "OpenAI absorbs Instant team to enhance AI application infrastructure",
-    "tags": [
-      "OpenAI",
-      "Instant"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T06:47:37.000Z"
-  },
-  {
-    "id": "e44e6abe75a8e186",
-    "slug": "bitcoin-and-gold-are-surging-together-the-debasement-trade-is-back",
-    "title": "Bitcoin and Gold Are Surging Together: The ‘Debasement Trade’ Is Back",
-    "tags": [
-      "Bitcoin",
-      "United States"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T06:40:40.000Z"
-  },
-  {
-    "id": "cca703e41ae04a5f",
-    "slug": "crypton-crp-price-prediction-2026-2027-2030-can-crp-surge-amid-rising-privacy-demand",
-    "title": "Crypton (CRP) Price Prediction 2026, 2027-2030: Can CRP Surge Amid Rising Privacy Demand?",
-    "tags": [
-      "Crypton",
-      "CRP",
-      "Utopia P2P"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T06:38:09.000Z"
-  },
-  {
-    "id": "361cd18cb658ef6b",
-    "slug": "will-bitcoin-continue-to-go-up",
-    "title": "Will Bitcoin Continue To Go Up",
-    "tags": [
-      "Bitcoin",
-      "United States"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T06:29:55.000Z"
-  },
-  {
-    "id": "e3646581c8a192db",
-    "slug": "crypto-flash-crash-wipes-out-500m-in-long-positions",
-    "title": "Crypto Flash Crash Wipes Out $500M in Long Positions",
-    "tags": [
-      "Bitcoin",
-      "Ethereum",
-      "Solana",
-      "XRP",
-      "Binance"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T06:23:58.000Z"
-  },
-  {
-    "id": "cc80d6cd0c1f6303",
-    "slug": "550m-in-crypto-longs-liquidated-in-past-hour-market-stress-rises",
-    "title": "$550M in crypto longs liquidated in past hour, market stress rises",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T06:19:13.000Z"
-  },
-  {
-    "id": "d35a30f93a4c018b",
-    "slug": "uniswap-sets-all-time-high-daily-burn-value-of-590k-for-uni-on-august-21",
-    "title": "Uniswap sets all-time high daily burn value of $590K for UNI on August 21",
-    "tags": [
-      "Uniswap",
-      "UNI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T06:09:19.000Z"
-  },
-  {
-    "id": "d08134a24231d1cb",
-    "slug": "crypto-open-interest-drops-3b-triggering-308m-in-liquidations",
-    "title": "Crypto open interest drops $3B, triggering $308M in liquidations",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T06:09:00.000Z"
-  },
-  {
-    "id": "f06af8429260ff3f",
-    "slug": "goldman-sachs-reports-ai-is-already-reshaping-labor-markets-across-developed-economies",
-    "title": "Goldman Sachs reports AI is already reshaping labor markets across developed economies",
-    "tags": [
-      "Goldman Sachs"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T06:06:46.000Z"
-  },
-  {
-    "id": "1de14ab36a7481aa",
-    "slug": "qatar-cuts-state-spending-as-economy-contracts-due-to-us-iran-conflict",
-    "title": "Qatar cuts state spending as economy contracts due to US-Iran conflict",
-    "tags": [
-      "Qatar",
-      "United States",
-      "Iran"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T06:05:18.000Z"
-  },
-  {
-    "id": "3810ae4da0997b81",
-    "slug": "deepbook-protocol-price-prediction-2026-2027-2030-is-deep-a-good-investment",
-    "title": "DeepBook Protocol Price Prediction 2026, 2027 – 2030: Is DEEP a Good Investment?",
-    "tags": [
-      "DeepBook Protocol",
-      "Sui"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T06:00:57.000Z"
-  },
-  {
-    "id": "01d2b66667cf333a",
-    "slug": "spot-demand-and-whales-back-fet-rally-but-this-level-could-flip-the-trend",
-    "title": "Spot demand and whales back FET rally, but THIS level could flip the trend",
-    "tags": [
-      "Artificial Superintelligence Alliance"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T06:00:19.000Z"
-  },
-  {
-    "id": "76df521da9a594bf",
-    "slug": "arbitrum-zk-settlement-plan-could-cut-withdrawals-from-days-to-hours",
-    "title": "Arbitrum ZK Settlement Plan Could Cut Withdrawals From Days To Hours",
-    "tags": [
-      "Arbitrum"
-    ],
-    "source": "Bitcoinist",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T06:00:00.000Z"
-  },
-  {
-    "id": "96303f10f88154c2",
-    "slug": "bitcoin-retraces-to-77-000-triggering-547m-in-liquidations",
-    "title": "Bitcoin retraces to $77,000, triggering $547M in liquidations",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T05:52:36.000Z"
-  },
-  {
-    "id": "498153ffdd53b20b",
-    "slug": "ukraine-sanctions-five-rusal-aluminum-enterprises-over-military-ties",
-    "title": "Ukraine sanctions five Rusal aluminum enterprises over military ties",
-    "tags": [
-      "Ukraine",
-      "Rusal",
-      "Russia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T05:52:01.000Z"
-  },
-  {
-    "id": "9be0437d4f6e6e0a",
-    "slug": "iran-seeks-deal-with-us-but-trump-says-terms-aren-t-right-yet",
-    "title": "Iran seeks deal with US, but Trump says terms aren’t right yet",
-    "tags": [
-      "Iran",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T05:49:20.000Z"
-  },
-  {
-    "id": "3f3ad373ca02c2d5",
-    "slug": "ethereum-s-26-surge-fuels-run-to-2-5k-after-whales-dump-1-7m-eth-3k-next",
-    "title": "Ethereum’s 26% surge fuels run to $2.5K after whales dump 1.7M ETH — $3K next?",
-    "tags": [
-      "Ethereum"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T05:30:53.000Z"
-  },
-  {
-    "id": "7fc760bce8bb0f46",
-    "slug": "bitcoin-surges-nearly-25-after-us-treasury-doubles-buyback-operations",
-    "title": "Bitcoin surges nearly 25% after US Treasury doubles buyback operations",
-    "tags": [
-      "Bitcoin",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T05:11:04.000Z"
   }
 ]
