@@ -1,75 +1,256 @@
 [
   {
-    "id": "a1b9f3efdf26bfe3",
-    "title": "Ukrainian woman accused of killing Russian commander in Crimea: report",
-    "summary": "The incident may signal a strategic shift, potentially increasing Ukrainian influence and altering geopolitical dynamics in the Crimea conflict.\nThe post Ukrainian woman accused of killing Russian commander in Crimea: report appeared first on Crypto Briefing.",
+    "id": "cd11de9cfceee48c",
+    "title": "France agrees to provide 16 Rafale jets to Ukraine, deliveries from 2028-2029",
+    "summary": "France's military support to Ukraine, including licensed production, enhances Ukraine's defense capabilities and strategic autonomy.\nThe post France agrees to provide 16 Rafale jets to Ukraine, deliveries from 2028-2029 appeared first on Crypto Briefing.",
     "hasSummary": true,
-    "link": "https://cryptobriefing.com/ukrainian-woman-accused-of-killing-russian-commander-in-crimea-report/",
+    "link": "https://cryptobriefing.com/france-interceptor-missiles-ukraine-delivery/",
     "source": "CryptoBriefing",
+    "tags": [
+      "France",
+      "Ukraine"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-23T05:51:14.000Z",
+    "fetchedAt": "2026-08-23T05:58:51.499Z",
+    "isDuplicateOf": null,
+    "content": "France has agreed to provide 16 Rafale fighter jets to Ukraine, with scheduled deliveries expected to take place between 2028 and 2029. This military support agreement, which includes provisions for licensed production, aims to enhance Ukraine's long-term defense capabilities and bolster its strategic autonomy amid ongoing geopolitical conflicts.",
+    "slug": "france-agrees-to-provide-16-rafale-jets-to-ukraine-deliveries-from-2028-2029"
+  },
+  {
+    "id": "caa6413cca12037d",
+    "title": "Masoud Pezeshkian defends Tehran-Washington agreement amid criticism",
+    "summary": "The Tehran-Washington agreement could reshape regional dynamics, impacting global diplomacy and security, despite domestic opposition.\nThe post Masoud Pezeshkian defends Tehran-Washington agreement amid criticism appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/pezeshkian-defends-iran-us-agreement/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Masoud Pezeshkian",
+      "Tehran",
+      "Washington"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-23T05:51:00.000Z",
+    "fetchedAt": "2026-08-23T05:58:51.499Z",
+    "isDuplicateOf": null,
+    "content": "Iranian official Masoud Pezeshkian has publicly defended a new agreement between Tehran and Washington. The diplomatic deal faces domestic criticism and is expected to significantly impact regional dynamics as well as broader international security and global diplomacy moving forward.",
+    "slug": "masoud-pezeshkian-defends-tehran-washington-agreement-amid-criticism"
+  },
+  {
+    "id": "7958a53ec67efbfd",
+    "title": "Iranian president urges support for Tehran-Washington memorandum despite criticism",
+    "summary": "The memorandum's support may stabilize Pezeshkian's leadership, but uncertainties in Iran-US relations could impact future negotiations.\nThe post Iranian president urges support for Tehran-Washington memorandum despite criticism appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/iranian-president-urges-support-for-tehran-washington-memorandum-despite/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Iran",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-23T05:49:18.000Z",
+    "fetchedAt": "2026-08-23T05:58:51.499Z",
+    "isDuplicateOf": null,
+    "content": "The Iranian president has called for backing the Tehran-Washington memorandum despite facing domestic criticism. Supporters suggest this move could help stabilize the president's leadership, though ongoing uncertainties in bilateral relations between Iran and the United States may still pose challenges for future diplomatic and economic negotiations.",
+    "slug": "iranian-president-urges-support-for-tehran-washington-memorandum-despite-criticism"
+  },
+  {
+    "id": "3e613303f5d46fb2",
+    "title": "BTC, ETH, XRP Tumble as Wintermute Builds Heavy Short Positions",
+    "summary": "Nearly $100 million in longs were wrecked in the past hour.",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/btc-eth-xrp-tumble-as-wintermute-builds-heavy-short-positions/",
+    "source": "CryptoPotato",
+    "tags": [
+      "Bitcoin",
+      "Ethereum",
+      "XRP",
+      "Wintermute"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-23T05:47:42.000Z",
+    "fetchedAt": "2026-08-23T05:58:51.499Z",
+    "isDuplicateOf": null,
+    "content": "Major cryptocurrencies including Bitcoin, Ethereum, and XRP experienced a sharp price drop as Wintermute established heavy short positions in the market. The sudden downward market movement resulted in significant liquidations, with nearly 100 million dollars in long positions wiped out within just one hour.",
+    "slug": "btc-eth-xrp-tumble-as-wintermute-builds-heavy-short-positions"
+  },
+  {
+    "id": "54b4274906c600c8",
+    "title": "LayerZero to axe 14 low-activity chains after KelpDAO exploit – Details",
+    "summary": "Chainlink has been the biggest winner of LayerZero's woes.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/layerzero-to-axe-14-low-activity-chains-after-kelpdao-exploit-details/",
+    "source": "AMBCrypto",
+    "tags": [
+      "LayerZero",
+      "KelpDAO",
+      "Chainlink"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-23T05:00:18.000Z",
+    "fetchedAt": "2026-08-23T05:58:51.499Z",
+    "isDuplicateOf": null,
+    "content": "Following a recent exploit involving KelpDAO, cross-chain protocol LayerZero has announced plans to remove support for 14 low-activity blockchain networks. In the wake of these developments, Chainlink has emerged as a notable beneficiary, positioning itself as the biggest winner amid LayerZero's current operational challenges.",
+    "slug": "layerzero-to-axe-14-low-activity-chains-after-kelpdao-exploit-details"
+  },
+  {
+    "id": "23e90cf34ddb44fa",
+    "title": "Coldcard now requires 65 key presses after seed exploit, while exposed funds still must move",
+    "summary": "Firmware 5.6.1 and 1.5.1Q harden new wallet creation but cannot repair a seed made on an affected release.\nThe post Coldcard now requires 65 key presses after seed exploit, while exposed funds still must move appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/coldcard-now-requires-65-key-presses-after-seed-exploit-while-exposed-funds-still-must-move/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Coldcard",
+      "CryptoSlate"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-23T05:00:07.000Z",
+    "fetchedAt": "2026-08-23T05:58:51.499Z",
+    "isDuplicateOf": null,
+    "content": "Coldcard has released firmware versions 5.6.1 and 1.5.1Q to harden new wallet creation following a seed exploit. The updated process now requires 65 key presses to improve security. However, the firmware updates cannot repair seed phrases already generated on an affected release, meaning users with exposed funds must still move their assets to a secure location.",
+    "slug": "coldcard-now-requires-65-key-presses-after-seed-exploit-while-exposed-funds-still-must-move"
+  },
+  {
+    "id": "5b7c90d37d7cd511",
+    "title": "United Arab Emirates: Fintech Is Part of the Economic Model",
+    "summary": "The following showcases the 2026 developments of fintech and wider digital of the United Arab Emirates (UAE).\nThe post United Arab Emirates: Fintech Is Part of the Economic Model appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/united-arab-emirates-fintech-is-part-of-the-economic-model/",
+    "source": "The Fintech Times",
+    "tags": [
+      "United Arab Emirates",
+      "The Fintech Times"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-23T05:00:06.000Z",
+    "fetchedAt": "2026-08-23T05:58:51.499Z",
+    "isDuplicateOf": null,
+    "content": "Fintech continues to play a vital role in the economic model of the United Arab Emirates. Recent developments highlight the growing importance of the digital sector within the nation, as outlined in reports from The Fintech Times detailing the country's ongoing technological progress.",
+    "slug": "united-arab-emirates-fintech-is-part-of-the-economic-model"
+  },
+  {
+    "id": "c43c273098655ebd",
+    "title": "Iran executes protester Majid Adineh amid US-Israel tensions",
+    "summary": "Iran's execution of a protester may signal increased repression and heighten tensions, potentially destabilizing the regime and impacting markets.\nThe post Iran executes protester Majid Adineh amid US-Israel tensions appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/iran-executes-protester-majid-adineh-amid-us-israel-tensions/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Iran",
+      "United States",
+      "Israel"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-23T04:54:25.000Z",
+    "fetchedAt": "2026-08-23T05:58:51.499Z",
+    "isDuplicateOf": null,
+    "content": "Iran has executed protester Majid Adineh, drawing international concern amid ongoing tensions involving the United States and Israel. Analysts warn that this development could signal increased domestic repression and further destabilize the region, potentially creating ripples across global markets.",
+    "slug": "iran-executes-protester-majid-adineh-amid-us-israel-tensions"
+  },
+  {
+    "id": "3cc20567e1dfc4e6",
+    "title": "Alibaba plans massive HK$80 billion share placement in Hong Kong",
+    "summary": "Alibaba's strategic shift to Hong Kong for capital raising highlights its move to mitigate geopolitical risks and diversify funding sources.\nThe post Alibaba plans massive HK$80 billion share placement in Hong Kong appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/alibaba-hong-kong-share-placement/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Alibaba",
+      "Hong Kong"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-23T04:45:50.000Z",
+    "fetchedAt": "2026-08-23T05:58:51.499Z",
+    "isDuplicateOf": null,
+    "content": "Alibaba has announced plans for a massive share placement valued at HK$80 billion in Hong Kong. This strategic move highlights the company's efforts toward capital raising, mitigating geopolitical risks, and diversifying its funding sources within the region.",
+    "slug": "alibaba-plans-massive-hk-80-billion-share-placement-in-hong-kong"
+  },
+  {
+    "id": "2d61241103a4da94",
+    "title": "Micron stock rises 30% from recent low as analysts project another 60% upside",
+    "summary": "Micron's stock surge highlights the potential for significant gains amid strong demand, but geopolitical and cyclical risks could impact future growth.\nThe post Micron stock rises 30% from recent low as analysts project another 60% upside appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/micron-stock-rises-30-percent-analysts-project-growth/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Micron"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-23T04:37:26.000Z",
+    "fetchedAt": "2026-08-23T05:58:51.499Z",
+    "isDuplicateOf": null,
+    "content": "Micron stock has climbed 30 percent from its recent low, driven by strong market demand. Analysts remain optimistic about the company's trajectory, projecting an additional 60 percent upside. Despite the positive momentum, market observers note that potential cyclical and geopolitical risks could still influence future growth and stock performance.",
+    "slug": "micron-stock-rises-30-from-recent-low-as-analysts-project-another-60-upside"
+  },
+  {
+    "id": "dea7f0ee95f6e97f",
+    "title": "Gold call-option demand hits 6-month high amid elevated prices: Barchart",
+    "summary": "Rising gold call-option demand signals investor optimism for future price increases, potentially impacting market strategies and economic forecasts.\nThe post Gold call-option demand hits 6-month high amid elevated prices: Barchart appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/gold-call-option-demand-hits-6-month-high-amid-elevated-prices-barchart/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Barchart"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-23T04:32:22.000Z",
+    "fetchedAt": "2026-08-23T05:58:51.499Z",
+    "isDuplicateOf": null,
+    "content": "Demand for gold call-options has reached a six-month high as market prices remain elevated. According to data from Barchart, this surge in call-option demand highlights growing investor optimism regarding potential future price increases. Such trends could influence broader market strategies and upcoming economic forecasts as traders position themselves for continued momentum in the precious metals sector.",
+    "slug": "gold-call-option-demand-hits-6-month-high-amid-elevated-prices-barchart"
+  },
+  {
+    "id": "a1b9f3efdf26bfe3",
+    "slug": "ukrainian-woman-accused-of-killing-russian-commander-in-crimea-report",
+    "title": "Ukrainian woman accused of killing Russian commander in Crimea: report",
     "tags": [
       "Crimea",
       "Russia",
       "Ukraine"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-23T04:12:20.000Z",
-    "fetchedAt": "2026-08-23T04:24:11.271Z",
-    "isDuplicateOf": null,
-    "content": "A Ukrainian woman has reportedly been accused of killing a Russian commander in Crimea. According to recent reports, the incident could signify a broader strategic shift in the conflict. Observers note this development may potentially increase Ukrainian influence and alter geopolitical dynamics within the contested region.",
-    "slug": "ukrainian-woman-accused-of-killing-russian-commander-in-crimea-report"
+    "hasContent": true,
+    "pubDate": "2026-08-23T04:12:20.000Z"
   },
   {
     "id": "61abee54bd145045",
+    "slug": "bitbay-s-fate-hangs-four-years-after-sylwester-suszek-s-disappearance",
     "title": "BitBay’s fate hangs four years after Sylwester Suszek’s disappearance",
-    "summary": "The unresolved disappearance and financial uncertainties highlight crypto's vulnerability to governance issues and potential criminal ties.\nThe post BitBay’s fate hangs four years after Sylwester Suszek’s disappearance appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/bitbay-suszek-disappearance-zondacrypto/",
-    "source": "CryptoBriefing",
     "tags": [
       "BitBay",
       "Sylwester Suszek"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-23T04:08:58.000Z",
-    "fetchedAt": "2026-08-23T04:24:11.271Z",
-    "isDuplicateOf": null,
-    "content": "Four years after the disappearance of Sylwester Suszek, the fate of the cryptocurrency exchange BitBay remains uncertain. This unresolved situation highlights ongoing vulnerabilities within the digital asset sector regarding corporate governance and security concerns.",
-    "slug": "bitbay-s-fate-hangs-four-years-after-sylwester-suszek-s-disappearance"
+    "hasContent": true,
+    "pubDate": "2026-08-23T04:08:58.000Z"
   },
   {
     "id": "40b46130153b7ec7",
+    "slug": "pol-rallies-31-as-polygon-activity-soars-can-bulls-hold-0-085",
     "title": "POL rallies 31% as Polygon activity soars – Can bulls hold $0.085?",
-    "summary": "Polygon hints at reclaiming $0.18 but bulls face a key test at $0.12.",
-    "hasSummary": true,
-    "link": "https://ambcrypto.com/pol-rallies-31-as-polygon-activity-soars-can-bulls-hold-0-085/",
-    "source": "AMBCrypto",
     "tags": [
       "Polygon"
     ],
+    "source": "AMBCrypto",
     "origin": "rss",
-    "pubDate": "2026-08-23T04:00:39.000Z",
-    "fetchedAt": "2026-08-23T04:24:11.271Z",
-    "isDuplicateOf": null,
-    "content": "Polygon's POL token recently rallied 31 percent as network activity increased significantly. Bulls are now facing a key market test to maintain momentum and determine if prices can hold critical support levels, with market watchers closely monitoring the token's ability to reclaim higher price targets amidst shifting trading volumes.",
-    "slug": "pol-rallies-31-as-polygon-activity-soars-can-bulls-hold-0-085"
+    "hasContent": true,
+    "pubDate": "2026-08-23T04:00:39.000Z"
   },
   {
     "id": "bba8c90ceee1b5f5",
+    "slug": "iranian-projectiles-strike-five-vessels-in-strait-of-hormuz-threatening-global-oil-chokepoint",
     "title": "Iranian projectiles strike five vessels in Strait of Hormuz, threatening global oil chokepoint",
-    "summary": "Escalating tensions in the Strait of Hormuz threaten global energy security, driving up oil prices and shipping costs, impacting supply chains.\nThe post Iranian projectiles strike five vessels in Strait of Hormuz, threatening global oil chokepoint appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/iran-strikes-vessels-strait-of-hormuz/",
-    "source": "CryptoBriefing",
     "tags": [
       "Iran",
       "Strait of Hormuz"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-23T03:39:27.000Z",
-    "fetchedAt": "2026-08-23T04:24:11.271Z",
-    "isDuplicateOf": null,
-    "content": "Iranian projectiles recently struck five vessels in the Strait of Hormuz, raising critical concerns over the security of a vital global oil chokepoint. This escalation in tensions threatens international energy markets, driving potential surges in oil prices and increasing shipping costs. The disruptions pose immediate challenges to global supply chains and heighten geopolitical risks in the region.",
-    "slug": "iranian-projectiles-strike-five-vessels-in-strait-of-hormuz-threatening-global-oil-chokepoint"
+    "hasContent": true,
+    "pubDate": "2026-08-23T03:39:27.000Z"
   },
   {
     "id": "a4700aa6d1b40a8a",
@@ -657,145 +838,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-08-22T19:04:29.000Z"
-  },
-  {
-    "id": "28cbf1d02e2b9b05",
-    "slug": "nvidia-notifies-customers-of-over-15-price-hikes-on-ai-products",
-    "title": "Nvidia notifies customers of over 15% price hikes on AI products",
-    "tags": [
-      "Nvidia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T19:03:14.000Z"
-  },
-  {
-    "id": "ec906bb7a7f4e85c",
-    "slug": "israel-s-chief-rabbi-denies-palestinian-existence-calls-for-gaza-destruction",
-    "title": "Israel’s Chief Rabbi denies Palestinian existence, calls for Gaza destruction",
-    "tags": [
-      "Israel",
-      "Palestine",
-      "Gaza"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T19:02:54.000Z"
-  },
-  {
-    "id": "13bed9b7eeede899",
-    "slug": "analyzing-pepe-s-61-rally-can-the-memecoin-flip-its-macro-structure",
-    "title": "Analyzing Pepe’s 61% rally – Can the memecoin flip its macro structure?",
-    "tags": [
-      "Pepe"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T19:00:30.000Z"
-  },
-  {
-    "id": "4ed4e43631871866",
-    "slug": "trump-supports-ai-data-centers-cites-job-creation-and-tax-benefits",
-    "title": "Trump supports AI data centers, cites job creation and tax benefits",
-    "tags": [
-      "Donald Trump"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T18:56:18.000Z"
-  },
-  {
-    "id": "1e13fa0e89f1cb60",
-    "slug": "polymarket-shows-democrats-heavily-favored-for-house-slight-edge-in-senate-in-2026",
-    "title": "Polymarket shows Democrats heavily favored for House, slight edge in Senate in 2026",
-    "tags": [
-      "Polymarket",
-      "United States",
-      "Democratic Party"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T18:38:21.000Z"
-  },
-  {
-    "id": "4d313ba2b5d4bcba",
-    "slug": "830-million-in-an-hour-xrp-and-trump-drive-new-record-in-south-korea",
-    "title": "$830 Million in an Hour: XRP and TRUMP Drive New Record in South Korea",
-    "tags": [
-      "Upbit",
-      "XRP",
-      "TRUMP",
-      "South Korea"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T18:37:00.000Z"
-  },
-  {
-    "id": "aa89c51eddcaa84d",
-    "slug": "coreweave-ceo-michael-intrator-sells-over-13-000-shares-for-1-2m",
-    "title": "CoreWeave CEO Michael Intrator sells over 13,000 shares for $1.2M",
-    "tags": [
-      "CoreWeave",
-      "Michael Intrator"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T18:32:56.000Z"
-  },
-  {
-    "id": "fe8a4712a1d4e9a6",
-    "slug": "bitcoin-and-ethereum-etfs-score-biggest-week-since-october-with-2-3-billion",
-    "title": "Bitcoin and Ethereum ETFs Score Biggest Week Since October with $2.3 Billion",
-    "tags": [
-      "Bitcoin",
-      "Ethereum",
-      "United States"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T18:32:04.000Z"
-  },
-  {
-    "id": "f1344a892177de00",
-    "slug": "crypto-market-sees-over-400b-inflows-in-the-last-5-days-here-are-signs-bull-run-has-started-analyst",
-    "title": "Crypto Market Sees Over $400B Inflows in the Last 5 Days; Here Are Signs Bull Run Has Started, Analyst Weighs In",
-    "tags": [],
-    "source": "ZyCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T18:30:35.000Z"
-  },
-  {
-    "id": "76763df31a3d5499",
-    "slug": "egypt-and-iran-discuss-de-escalation-diplomatic-initiatives",
-    "title": "Egypt and Iran discuss de-escalation, diplomatic initiatives",
-    "tags": [
-      "Egypt",
-      "Iran",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T18:25:45.000Z"
-  },
-  {
-    "id": "fc42bfdd19f77c7d",
-    "slug": "inside-transfer-wipes-out-1m-executive-debt-as-crypto-firm-offloads-payments-business-without",
-    "title": "Inside transfer wipes out $1M executive debt as crypto firm offloads payments business without independent valuation",
-    "tags": [],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-22T18:25:40.000Z"
   }
 ]
