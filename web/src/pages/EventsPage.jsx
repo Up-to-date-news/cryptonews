@@ -23,7 +23,11 @@ export default function EventsPage() {
   const tab = searchParams.get('tab') ?? 'all';
 
   const filtered = useMemo(() => {
-    const byTab = tab === 'all' ? events : events.filter((event) => getEventStatus(event) === tab);
+    // "All" means all current/upcoming events — ended ones still have
+    // their own dedicated tab, they just don't clutter the default view.
+    const byTab = tab === 'all'
+      ? events.filter((event) => getEventStatus(event) !== 'ended')
+      : events.filter((event) => getEventStatus(event) === tab);
     const q = search.trim().toLowerCase();
     if (!q) return byTab;
     return byTab.filter((event) => event.title.toLowerCase().includes(q) || event.location?.toLowerCase().includes(q));
