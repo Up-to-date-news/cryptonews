@@ -1,95 +1,307 @@
 [
   {
-    "id": "cc48e9c75d93a2e3",
-    "title": "US Treasury’s bond buyback push puts Bessent on a collision course with the Fed",
-    "summary": "The Treasury's bond buyback strategy may temporarily ease yields but highlights deeper fiscal challenges and conflicting monetary policies.\nThe post US Treasury’s bond buyback push puts Bessent on a collision course with the Fed appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/bessent-bond-buyback-fed-tension/",
+    "id": "5ccce5fc037db525",
+    "slug": "wall-street-is-making-it-easier-for-bitcoin-whales-to-ditch-self-custody-report",
+    "title": "Wall Street is making it easier for bitcoin whales to ditch self-custody: report",
+    "tags": [
+      "Bitcoin",
+      "Wall Street"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-26T05:52:53.000Z"
+  },
+  {
+    "id": "ef824261209bd62b",
+    "slug": "anz-forecasts-rba-to-raise-cash-rate-by-25bps-in-november",
+    "title": "ANZ forecasts RBA to raise cash rate by 25bps in November",
+    "tags": [
+      "ANZ",
+      "Reserve Bank of Australia",
+      "Australia"
+    ],
     "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-26T05:44:37.000Z"
+  },
+  {
+    "id": "3829149144c9141f",
+    "slug": "indian-refiners-cut-russian-crude-purchases-as-ukrainian-attacks-disrupt-flows",
+    "title": "Indian refiners cut Russian crude purchases as Ukrainian attacks disrupt flows",
+    "tags": [
+      "India",
+      "Russia",
+      "Ukraine"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-26T05:39:27.000Z"
+  },
+  {
+    "id": "39349a3d54c0b468",
+    "slug": "moonwell-has-a-1-8m-liquidity-hole-and-its-latest-plan-allocates-0-to-fix-it",
+    "title": "Moonwell has a $1.8M liquidity hole and its latest plan allocates $0 to fix it",
+    "tags": [
+      "Moonwell"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-26T05:30:47.000Z"
+  },
+  {
+    "id": "1661759f10a8cb23",
+    "title": "Roman Storm’s retrial postponed to April 26, 2027",
+    "summary": "The retrial delay highlights ongoing legal uncertainties for crypto developers, impacting innovation and investment in privacy-focused projects.\nThe post Roman Storm’s retrial postponed to April 26, 2027 appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/roman-storm-retrial-postponed-april-2027/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Roman Storm"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-26T05:30:18.000Z",
+    "fetchedAt": "2026-08-26T06:05:26.490Z",
+    "isDuplicateOf": null,
+    "content": "The retrial of Roman Storm has been officially postponed to April 26, 2027. This delay highlights ongoing legal uncertainties for privacy-focused crypto developers, which may impact innovation and investment within the sector. Legal proceedings and court reschedulings continue to draw attention from industry observers monitoring regulatory developments.",
+    "slug": "roman-storm-s-retrial-postponed-to-april-26-2027"
+  },
+  {
+    "id": "bdef1def10845401",
+    "title": "Linux Foundation takes governance of TRACE, an open standard for AI runtime attestation",
+    "summary": "The Linux Foundation's governance of TRACE enhances AI accountability, fostering trust and compliance across diverse computing environments.\nThe post Linux Foundation takes governance of TRACE, an open standard for AI runtime attestation appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/linux-foundation-trace-ai-runtime-attestation/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Linux Foundation"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-26T05:24:29.000Z",
+    "fetchedAt": "2026-08-26T06:05:26.490Z",
+    "isDuplicateOf": null,
+    "content": "The Linux Foundation has assumed governance of TRACE, an open standard designed for AI runtime attestation. This move aims to enhance accountability within artificial intelligence systems, fostering greater trust, security, and regulatory compliance across a variety of computing environments as adoption continues to expand globally.",
+    "slug": "linux-foundation-takes-governance-of-trace-an-open-standard-for-ai-runtime-attestation"
+  },
+  {
+    "id": "99be6599b6b66b52",
+    "slug": "grayscale-s-zcash-etf-starts-trading-on-nyse-arca-with-a-2-5-sponsor-fee",
+    "title": "Grayscale’s Zcash ETF Starts Trading on NYSE Arca With a 2.5% Sponsor Fee",
+    "tags": [
+      "Grayscale",
+      "Zcash",
+      "NYSE Arca"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-26T05:19:31.000Z"
+  },
+  {
+    "id": "aa4154d5efddf62c",
+    "slug": "xrp-s-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback",
+    "title": "XRP’s 44% rally brings leverage back, raising risk of sharper pullback",
+    "tags": [
+      "XRP",
+      "Binance",
+      "CryptoQuant"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-26T05:16:32.000Z"
+  },
+  {
+    "id": "1d666d27a8f83ab3",
+    "title": "Dolores Research launches WAGMI Bench, an open-source benchmark for AI trading agents on Virtuals Protocol",
+    "summary": "WAGMI Bench's open-source framework standardizes AI trading agent evaluation, fostering transparency and innovation in financial markets.\nThe post Dolores Research launches WAGMI Bench, an open-source benchmark for AI trading agents on Virtuals Protocol appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/dolores-research-wagmi-bench-trading-agents/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Dolores Research",
+      "Virtuals Protocol",
+      "WAGMI Bench"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-26T05:14:46.000Z",
+    "fetchedAt": "2026-08-26T06:05:26.490Z",
+    "isDuplicateOf": null,
+    "content": "Dolores Research has launched WAGMI Bench, a new open-source benchmark designed to evaluate AI trading agents on Virtuals Protocol. The framework aims to standardize performance testing for artificial intelligence in financial markets, promoting greater transparency and innovation across the sector according to recent reports.",
+    "slug": "dolores-research-launches-wagmi-bench-an-open-source-benchmark-for-ai-trading-agents-on-virtuals"
+  },
+  {
+    "id": "59da68b49351ec76",
+    "slug": "starbase-louisiana-set-to-become-spacex-s-largest-launch-site-in-100-billion-bet",
+    "title": "Starbase Louisiana Set to Become SpaceX's Largest Launch Site in $100 Billion Bet",
+    "tags": [
+      "SpaceX",
+      "Louisiana"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-26T05:04:18.000Z"
+  },
+  {
+    "id": "8ff357bb72721d04",
+    "slug": "analyzing-what-pengu-s-next-price-target-will-be-after-latest-10-gains",
+    "title": "Analyzing what PENGU’s next price target will be after latest 10% gains",
+    "tags": [
+      "PENGU"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-26T05:00:38.000Z"
+  },
+  {
+    "id": "8a7fc813c242d272",
+    "slug": "pitbull-album-named-pitcoin-spawns-wave-of-unaffiliated-crypto-tokens",
+    "title": "Pitbull Album Named Pitcoin Spawns Wave of Unaffiliated Crypto Tokens",
+    "tags": [
+      "Pitbull",
+      "Pitcoin",
+      "Billboard",
+      "BeInCrypto"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-26T04:56:03.000Z"
+  },
+  {
+    "id": "8563f972dee2bed7",
+    "slug": "kalshi-raised-1-12-billion-via-private-equity-offering-since-april-latest-sec-filing-shows",
+    "title": "Kalshi raised $1.12 billion via private equity offering since April, latest SEC filing shows",
+    "tags": [
+      "Kalshi",
+      "Crypto Briefing"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-26T04:51:58.000Z"
+  },
+  {
+    "id": "888736e2fa644aca",
+    "title": "Gazprombank Luxembourg arm posts record €61.4M profit amid sanctions-driven market chaos",
+    "summary": "Gazprombank's Luxembourg arm's profit surge highlights the volatility and risks in financial markets amid geopolitical tensions and sanctions.\nThe post Gazprombank Luxembourg arm posts record €61.4M profit amid sanctions-driven market chaos appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/gazprombank-luxembourg-executives-profit-sanctions/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Gazprombank",
+      "Luxembourg"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-26T04:43:24.000Z",
+    "fetchedAt": "2026-08-26T06:05:26.490Z",
+    "isDuplicateOf": null,
+    "content": "Gazprombank's Luxembourg branch has reported a record profit of €61.4 million. This financial milestone occurs during a period of significant market chaos driven by ongoing sanctions and geopolitical tensions. The dramatic earnings surge highlights the unique risks and high volatility currently impacting financial institutions operating within these complex global market conditions.",
+    "slug": "gazprombank-luxembourg-arm-posts-record-61-4m-profit-amid-sanctions-driven-market-chaos"
+  },
+  {
+    "id": "034e28233b6e166f",
+    "slug": "coinbase-stock-surges-as-bitcoin-rallied-to-80-000-how-tight-is-the-link",
+    "title": "Coinbase Stock Surges as Bitcoin Rallied to $80,000: How Tight Is the Link?",
+    "tags": [
+      "Coinbase",
+      "Bitcoin"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-26T04:35:00.000Z"
+  },
+  {
+    "id": "016a194ac46e15e6",
+    "title": "Bruno Fernandes sets record for most assists in a single Premier League season",
+    "summary": "Fernandes' record-breaking season underscores his pivotal role in Manchester United's resurgence and Champions League qualification.\nThe post Bruno Fernandes sets record for most assists in a single Premier League season appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/bruno-fernandes-premier-league-assist-record/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Bruno Fernandes",
+      "Manchester United",
+      "Premier League"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-26T04:34:33.000Z",
+    "fetchedAt": "2026-08-26T06:05:26.490Z",
+    "isDuplicateOf": null,
+    "content": "Manchester United player Bruno Fernandes has set a new record for the most assists in a single Premier League season. This record-breaking achievement highlights his crucial contribution to the team's ongoing resurgence and their successful qualification for the Champions League.",
+    "slug": "bruno-fernandes-sets-record-for-most-assists-in-a-single-premier-league-season"
+  },
+  {
+    "id": "cc48e9c75d93a2e3",
+    "slug": "us-treasury-s-bond-buyback-push-puts-bessent-on-a-collision-course-with-the-fed",
+    "title": "US Treasury’s bond buyback push puts Bessent on a collision course with the Fed",
     "tags": [
       "United States",
       "Federal Reserve"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-26T04:24:40.000Z",
-    "fetchedAt": "2026-08-26T04:26:54.578Z",
-    "isDuplicateOf": null,
-    "content": "The US Treasury's bond buyback strategy could temporarily ease yields, but it highlights growing fiscal challenges and potential conflicts with monetary policies. This push places Bessent on a collision course with the Federal Reserve, raising concerns about the coordination between government debt management and broader monetary objectives.",
-    "slug": "us-treasury-s-bond-buyback-push-puts-bessent-on-a-collision-course-with-the-fed"
+    "hasContent": true,
+    "pubDate": "2026-08-26T04:24:40.000Z"
   },
   {
     "id": "8f81034636b6fc53",
+    "slug": "us-banking-groups-plan-nationwide-blockchain-network-for-2027",
     "title": "US banking groups plan nationwide blockchain network for 2027",
-    "summary": "BankChain joins a growing field of bank-led networks building shared infrastructure for tokenized deposits and onchain payments.",
-    "hasSummary": true,
-    "link": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph",
     "tags": [
       "BankChain",
       "United States"
     ],
+    "source": "Cointelegraph",
     "origin": "rss",
-    "pubDate": "2026-08-26T04:17:39.000Z",
-    "fetchedAt": "2026-08-26T04:26:54.578Z",
-    "isDuplicateOf": null,
-    "content": "Major banking groups are planning a nationwide blockchain network slated for 2027. This initiative follows the launch of BankChain, joining a growing field of bank-led networks that are building shared infrastructure designed for tokenized deposits and onchain payments, marking a significant step toward digital asset adoption in traditional banking.",
-    "slug": "us-banking-groups-plan-nationwide-blockchain-network-for-2027"
+    "hasContent": true,
+    "pubDate": "2026-08-26T04:17:39.000Z"
   },
   {
     "id": "fd761e36aed36b31",
+    "slug": "bitcoin-holds-79-000-ether-solana-slip-as-traders-bank-a-week-of-gains",
     "title": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
-    "summary": "Every major token fell over 24 hours except HYPE, though bitcoin holds a 23% weekly gain and XRP almost 45%.",
-    "hasSummary": true,
-    "link": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
-    "source": "CoinDesk",
     "tags": [
       "Bitcoin",
       "Ethereum",
       "Solana",
       "XRP"
     ],
+    "source": "CoinDesk",
     "origin": "rss",
-    "pubDate": "2026-08-26T04:13:10.000Z",
-    "fetchedAt": "2026-08-26T04:26:54.578Z",
-    "isDuplicateOf": null,
-    "content": "Bitcoin maintained the $79,000 level despite minor pullbacks in other major cryptocurrencies like ether and solana. Traders secured profits following a strong week of market gains. While most major digital tokens experienced a slight decline over a 24-hour period, bitcoin retained a significant weekly increase, alongside notable gains for xrp, as market participants evaluated their positions after recent rallies.",
-    "slug": "bitcoin-holds-79-000-ether-solana-slip-as-traders-bank-a-week-of-gains"
+    "hasContent": true,
+    "pubDate": "2026-08-26T04:13:10.000Z"
   },
   {
     "id": "5e003aa6f663b82c",
+    "slug": "gold-holds-steady-near-4-650-as-investors-await-critical-us-inflation-data",
     "title": "Gold holds steady near $4,650 as investors await critical US inflation data",
-    "summary": "Gold's stability amid inflation data anticipation highlights its role as a hedge, influencing global monetary policies and market dynamics.\nThe post Gold holds steady near $4,650 as investors await critical US inflation data appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/gold-steady-investors-await-inflation-data/",
-    "source": "CryptoBriefing",
     "tags": [
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-26T04:05:18.000Z",
-    "fetchedAt": "2026-08-26T04:26:54.578Z",
-    "isDuplicateOf": null,
-    "content": "Gold prices remained steady near $4,650 as investors eagerly awaited upcoming United States inflation data. This market stability highlights the precious metal's ongoing role as a traditional hedge against economic uncertainty. Observers note that the forthcoming data could influence global monetary policies and market dynamics in the near term.",
-    "slug": "gold-holds-steady-near-4-650-as-investors-await-critical-us-inflation-data"
+    "hasContent": true,
+    "pubDate": "2026-08-26T04:05:18.000Z"
   },
   {
     "id": "1c3094c3b03dc5ee",
+    "slug": "40-malicious-firefox-add-ons-targeted-crypto-wallets-and-9-began-as-sports-score-tools",
     "title": "40 malicious Firefox add-ons targeted crypto wallets, and 9 began as sports-score tools",
-    "summary": "Socket confirmed 40 malicious IDs, and exposed wallet secrets still require migration after the add-ons are removed.\nThe post 40 malicious Firefox add-ons targeted crypto wallets, and 9 began as sports-score tools appeared first on CryptoSlate.",
-    "hasSummary": true,
-    "link": "https://cryptoslate.com/firefox-crypto-wallet-malware-hid-behind-nine-sports-add-ons-turning-routine-updates-into-a-key-rotation-trap/",
-    "source": "CryptoSlate",
     "tags": [
       "Socket",
       "Mozilla Firefox",
       "CryptoSlate"
     ],
+    "source": "CryptoSlate",
     "origin": "rss",
-    "pubDate": "2026-08-26T04:00:18.000Z",
-    "fetchedAt": "2026-08-26T04:26:54.578Z",
-    "isDuplicateOf": null,
-    "content": "Socket has identified 40 malicious Firefox add-ons that targeted cryptocurrency wallets. Nine of these dangerous extensions originally started out as harmless sports-score tools before being weaponized. Cybersecurity experts warn that even after removing the extensions, affected users must still migrate any exposed wallet secrets to secure new accounts.",
-    "slug": "40-malicious-firefox-add-ons-targeted-crypto-wallets-and-9-began-as-sports-score-tools"
+    "hasContent": true,
+    "pubDate": "2026-08-26T04:00:18.000Z"
   },
   {
     "id": "5cbf609bb3aaef05",
@@ -591,211 +803,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-08-26T01:00:43.000Z"
-  },
-  {
-    "id": "12e908aa73214c05",
-    "slug": "wrtn-raises-funding-at-870m-valuation-for-global-expansion",
-    "title": "Wrtn raises funding at $870M valuation for global expansion",
-    "tags": [
-      "Wrtn",
-      "South Korea"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-26T01:00:18.000Z"
-  },
-  {
-    "id": "5fe2a4c4f726fb27",
-    "slug": "banks-double-down-on-ncino-ai-agents-after-using-initial-credits",
-    "title": "Banks Double Down on nCino AI Agents After Using Initial Credits",
-    "tags": [
-      "nCino"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-26T01:00:13.000Z"
-  },
-  {
-    "id": "08c2dac8ca782acb",
-    "slug": "fairlead-strategies-founder-says-bitcoin-s-rally-has-more-room-than-gold-s",
-    "title": "Fairlead Strategies Founder Says Bitcoin's Rally Has More Room Than Gold's",
-    "tags": [
-      "Fairlead Strategies",
-      "Bitcoin"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-26T00:48:36.000Z"
-  },
-  {
-    "id": "d1d7a16cd9dbd262",
-    "slug": "intuit-says-75-of-enterprise-customers-deploy-ai-agents-monthly",
-    "title": "Intuit Says 75% of Enterprise Customers Deploy AI Agents Monthly",
-    "tags": [
-      "Intuit"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-26T00:47:19.000Z"
-  },
-  {
-    "id": "f556878523537635",
-    "slug": "bitcoin-miner-sphere-3d-faces-2-2m-tariff-claim-equal-to-77-of-its-cash",
-    "title": "Bitcoin miner Sphere 3D faces $2.2M tariff claim equal to 77% of its cash",
-    "tags": [
-      "Bitcoin",
-      "Sphere 3D"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-26T00:40:50.000Z"
-  },
-  {
-    "id": "dc2148244fb5ea02",
-    "slug": "veteran-strategist-warns-stocks-have-used-up-room-to-keep-climbing",
-    "title": "Veteran Strategist Warns Stocks Have ‘Used Up' Room to Keep Climbing",
-    "tags": [
-      "Jim Paulsen"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-26T00:40:31.000Z"
-  },
-  {
-    "id": "ce73234026119c30",
-    "slug": "chinese-lenders-price-bonds-off-overnight-funding-rate-as-pboc-reforms-reshape-benchmarks",
-    "title": "Chinese lenders price bonds off overnight funding rate as PBOC reforms reshape benchmarks",
-    "tags": [
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-26T00:31:28.000Z"
-  },
-  {
-    "id": "5646396ac1f3b714",
-    "slug": "us-consumer-spending-has-outpaced-disposable-income-for-24-consecutive-months",
-    "title": "US consumer spending has outpaced disposable income for 24 consecutive months",
-    "tags": [
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-26T00:30:45.000Z"
-  },
-  {
-    "id": "e5b887f9e568a94b",
-    "slug": "dogecoin-doge-rises-30-in-a-week-what-are-the-next-targets",
-    "title": "Dogecoin (DOGE) Rises 30% in a Week: What Are the Next Targets?",
-    "tags": [
-      "Dogecoin"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-26T00:30:09.000Z"
-  },
-  {
-    "id": "2dce32c479ef2b5f",
-    "slug": "trump-administration-discusses-new-trade-penalties-against-canada",
-    "title": "Trump administration discusses new trade penalties against Canada",
-    "tags": [
-      "United States",
-      "Canada"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-26T00:29:47.000Z"
-  },
-  {
-    "id": "d2eb4f819be1888d",
-    "slug": "banks-and-fintechs-are-unbundling-the-cross-border-stack-to-win-over-cfos",
-    "title": "Banks and FinTechs Are Unbundling the Cross-Border Stack to Win Over CFOs",
-    "tags": [
-      "Visa",
-      "Monetary Authority of Singapore",
-      "Singapore"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-26T00:27:59.000Z"
-  },
-  {
-    "id": "08b208685a91ac4e",
-    "slug": "kaylin-voss-returns-to-salesforce-from-openai-as-exec-revolving-door-keeps-spinning",
-    "title": "Kaylin Voss returns to Salesforce from OpenAI as exec revolving door keeps spinning",
-    "tags": [
-      "Salesforce",
-      "OpenAI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-26T00:27:16.000Z"
-  },
-  {
-    "id": "219e838f97c3b3d7",
-    "slug": "artificial-analysis-updates-coding-agent-index-with-reward-hacking-corrections",
-    "title": "Artificial Analysis updates Coding Agent Index with reward hacking corrections",
-    "tags": [
-      "Artificial Analysis"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-26T00:25:31.000Z"
-  },
-  {
-    "id": "9841a06df19817f6",
-    "slug": "gold-extends-five-day-gain-as-us-treasury-yields-drop",
-    "title": "Gold extends five-day gain as US Treasury yields drop",
-    "tags": [
-      "Gold",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-26T00:25:01.000Z"
-  },
-  {
-    "id": "d0b64ee262e7a9e9",
-    "slug": "us-naval-blockade-forces-iranian-tankers-to-anchor-off-sri-lanka-and-malaysia-as-crude-exports-halt",
-    "title": "US naval blockade forces Iranian tankers to anchor off Sri Lanka and Malaysia as crude exports halt",
-    "tags": [
-      "United States",
-      "Iran",
-      "Sri Lanka",
-      "Malaysia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-26T00:17:16.000Z"
-  },
-  {
-    "id": "7af0a8c124079918",
-    "slug": "ondo-expands-perps-collateral-as-tokenized-stocks-gain-a-second-use",
-    "title": "Ondo Expands Perps Collateral as Tokenized Stocks Gain a Second Use",
-    "tags": [
-      "Ondo",
-      "Circle",
-      "SpaceX",
-      "SanDisk"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-26T00:15:56.000Z"
   }
 ]
