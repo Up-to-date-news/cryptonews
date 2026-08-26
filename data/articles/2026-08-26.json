@@ -999,5 +999,97 @@
     "isDuplicateOf": null,
     "content": "Global commerce and payments platform Nayax has announced an agreement to acquire smart parking technology provider IPS Group from Windjammer Capital Investors. Founded in 2000, IPS delivers payment-enabled smart parking infrastructure that handles millions of consumer transactions annually. Terms of the transaction were not disclosed, and the deal marks a strategic expansion for Nayax into the smart parking sector.",
     "slug": "nayax-agrees-to-acquire-ips-group"
+  },
+  {
+    "id": "fd761e36aed36b31",
+    "title": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
+    "summary": "Every major token fell over 24 hours except HYPE, though bitcoin holds a 23% weekly gain and XRP almost 45%.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
+    "source": "CoinDesk",
+    "tags": [
+      "Bitcoin",
+      "Ethereum",
+      "Solana",
+      "XRP"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-26T04:13:10.000Z",
+    "fetchedAt": "2026-08-26T04:26:54.578Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin maintained the $79,000 level despite minor pullbacks in other major cryptocurrencies like ether and solana. Traders secured profits following a strong week of market gains. While most major digital tokens experienced a slight decline over a 24-hour period, bitcoin retained a significant weekly increase, alongside notable gains for xrp, as market participants evaluated their positions after recent rallies.",
+    "slug": "bitcoin-holds-79-000-ether-solana-slip-as-traders-bank-a-week-of-gains"
+  },
+  {
+    "id": "8f81034636b6fc53",
+    "title": "US banking groups plan nationwide blockchain network for 2027",
+    "summary": "BankChain joins a growing field of bank-led networks building shared infrastructure for tokenized deposits and onchain payments.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "BankChain",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-26T04:17:39.000Z",
+    "fetchedAt": "2026-08-26T04:26:54.578Z",
+    "isDuplicateOf": null,
+    "content": "Major banking groups are planning a nationwide blockchain network slated for 2027. This initiative follows the launch of BankChain, joining a growing field of bank-led networks that are building shared infrastructure designed for tokenized deposits and onchain payments, marking a significant step toward digital asset adoption in traditional banking.",
+    "slug": "us-banking-groups-plan-nationwide-blockchain-network-for-2027"
+  },
+  {
+    "id": "1c3094c3b03dc5ee",
+    "title": "40 malicious Firefox add-ons targeted crypto wallets, and 9 began as sports-score tools",
+    "summary": "Socket confirmed 40 malicious IDs, and exposed wallet secrets still require migration after the add-ons are removed.\nThe post 40 malicious Firefox add-ons targeted crypto wallets, and 9 began as sports-score tools appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/firefox-crypto-wallet-malware-hid-behind-nine-sports-add-ons-turning-routine-updates-into-a-key-rotation-trap/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Socket",
+      "Mozilla Firefox",
+      "CryptoSlate"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-26T04:00:18.000Z",
+    "fetchedAt": "2026-08-26T04:26:54.578Z",
+    "isDuplicateOf": null,
+    "content": "Socket has identified 40 malicious Firefox add-ons that targeted cryptocurrency wallets. Nine of these dangerous extensions originally started out as harmless sports-score tools before being weaponized. Cybersecurity experts warn that even after removing the extensions, affected users must still migrate any exposed wallet secrets to secure new accounts.",
+    "slug": "40-malicious-firefox-add-ons-targeted-crypto-wallets-and-9-began-as-sports-score-tools"
+  },
+  {
+    "id": "cc48e9c75d93a2e3",
+    "title": "US Treasury’s bond buyback push puts Bessent on a collision course with the Fed",
+    "summary": "The Treasury's bond buyback strategy may temporarily ease yields but highlights deeper fiscal challenges and conflicting monetary policies.\nThe post US Treasury’s bond buyback push puts Bessent on a collision course with the Fed appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/bessent-bond-buyback-fed-tension/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "United States",
+      "Federal Reserve"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-26T04:24:40.000Z",
+    "fetchedAt": "2026-08-26T04:26:54.578Z",
+    "isDuplicateOf": null,
+    "content": "The US Treasury's bond buyback strategy could temporarily ease yields, but it highlights growing fiscal challenges and potential conflicts with monetary policies. This push places Bessent on a collision course with the Federal Reserve, raising concerns about the coordination between government debt management and broader monetary objectives.",
+    "slug": "us-treasury-s-bond-buyback-push-puts-bessent-on-a-collision-course-with-the-fed"
+  },
+  {
+    "id": "5e003aa6f663b82c",
+    "title": "Gold holds steady near $4,650 as investors await critical US inflation data",
+    "summary": "Gold's stability amid inflation data anticipation highlights its role as a hedge, influencing global monetary policies and market dynamics.\nThe post Gold holds steady near $4,650 as investors await critical US inflation data appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/gold-steady-investors-await-inflation-data/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-26T04:05:18.000Z",
+    "fetchedAt": "2026-08-26T04:26:54.578Z",
+    "isDuplicateOf": null,
+    "content": "Gold prices remained steady near $4,650 as investors eagerly awaited upcoming United States inflation data. This market stability highlights the precious metal's ongoing role as a traditional hedge against economic uncertainty. Observers note that the forthcoming data could influence global monetary policies and market dynamics in the near term.",
+    "slug": "gold-holds-steady-near-4-650-as-investors-await-critical-us-inflation-data"
   }
 ]
