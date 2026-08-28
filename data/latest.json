@@ -1,149 +1,363 @@
 [
   {
-    "id": "8fd61d2ee2c98601",
-    "title": "Zcash price reclaims $800 as coinholders vote on major NU7 changes",
-    "summary": "ZEC recovered to around $826 while Zcash coinholders considered five questions that could shape the network’s upcoming NU7 upgrade.",
+    "id": "b76db59a0ed933d2",
+    "title": "Matrixport-linked whale deposits $10M USDC, opens $17.44M ETH long at 20x leverage",
+    "summary": "High-leverage trades by institutional players like Matrixport can significantly impact market dynamics, influencing both volatility and retail trader strategies.\nThe post Matrixport-linked whale deposits $10M USDC, opens $17.44M ETH long at 20x leverage appeared first on Crypto Briefing.",
     "hasSummary": true,
-    "link": "https://ambcrypto.com/zcash-price-reclaims-800-as-coinholders-vote-on-major-nu7-changes/",
+    "link": "https://cryptobriefing.com/matrixport-whale-10m-usdc-20x-eth-long/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Matrixport",
+      "USDC",
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T02:56:15.000Z",
+    "fetchedAt": "2026-08-28T03:01:01.179Z",
+    "isDuplicateOf": null,
+    "content": "A whale linked to Matrixport deposited $10 million in USDC and opened a $17.44 million Ethereum long position utilizing 20x leverage. High-leverage institutional trades of this scale can significantly influence market volatility and shape broader retail trading strategies within the cryptocurrency sector.",
+    "slug": "matrixport-linked-whale-deposits-10m-usdc-opens-17-44m-eth-long-at-20x-leverage"
+  },
+  {
+    "id": "f7105c330d3cdb35",
+    "title": "US nears deal for long-term access to Venezuela’s oil reserves",
+    "summary": "The deal could reshape global energy dynamics, enhance US energy security, and trigger significant geopolitical and economic shifts.\nThe post US nears deal for long-term access to Venezuela’s oil reserves appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/us-venezuela-oil-reserves-deal/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "United States",
+      "Venezuela"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T02:54:21.000Z",
+    "fetchedAt": "2026-08-28T03:01:01.179Z",
+    "isDuplicateOf": null,
+    "content": "The United States is reportedly nearing an agreement to secure long-term access to Venezuela's vast oil reserves. This potential development could significantly reshape global energy markets, bolster US energy security, and provoke major geopolitical and economic changes for both nations.",
+    "slug": "us-nears-deal-for-long-term-access-to-venezuela-s-oil-reserves"
+  },
+  {
+    "id": "857b30a7b298586e",
+    "title": "OpenAI mulls selling compute capacity down the road, but not anytime soon",
+    "summary": "OpenAI's potential future sale of compute capacity could diversify revenue streams and optimize resource utilization, impacting AI infrastructure markets.\nThe post OpenAI mulls selling compute capacity down the road, but not anytime soon appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/openai-compute-capacity-monetization-future/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "OpenAI"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T02:32:20.000Z",
+    "fetchedAt": "2026-08-28T03:01:01.179Z",
+    "isDuplicateOf": null,
+    "content": "OpenAI is considering the possibility of selling its compute capacity in the future. While this potential move could help diversify revenue streams and optimize resource utilization, the organization has indicated that such plans will not happen anytime soon. The development highlights ongoing strategic evaluations regarding infrastructure and market positioning within the broader artificial intelligence sector.",
+    "slug": "openai-mulls-selling-compute-capacity-down-the-road-but-not-anytime-soon"
+  },
+  {
+    "id": "663404fbbe441297",
+    "title": "XRP treasury firm Evernorth says SEC registration now effective, clearing way for Nasdaq listing",
+    "summary": "The S-4 registration statement is for Evernorth's merger with SPAC firm Armada, through which it seeks a Nasdaq listing.",
+    "hasSummary": true,
+    "link": "https://www.theblock.co/news/deals/2026-08-27-evernorth-xrp-sec-effective-412981",
+    "source": "The Block",
+    "tags": [
+      "Evernorth",
+      "Armada",
+      "SEC",
+      "Nasdaq",
+      "XRP"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T02:30:34.000Z",
+    "fetchedAt": "2026-08-28T03:01:01.179Z",
+    "isDuplicateOf": null,
+    "content": "XRP treasury firm Evernorth announced that its SEC registration is now effective. This development clears the way for the company to proceed with its planned Nasdaq listing, which will be achieved through a merger with the SPAC firm Armada using an S-4 registration statement.",
+    "slug": "xrp-treasury-firm-evernorth-says-sec-registration-now-effective-clearing-way-for-nasdaq-listing"
+  },
+  {
+    "id": "7faa70d16d48594b",
+    "title": "Japan and US intervention slows yen’s decline, faces long-term challenges",
+    "summary": "The intervention highlights the complexities of currency stabilization amid divergent monetary policies, with potential global market impacts.\nThe post Japan and US intervention slows yen’s decline, faces long-term challenges appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/japan-us-yen-intervention-challenges/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Japan",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T02:29:09.000Z",
+    "fetchedAt": "2026-08-28T03:01:01.179Z",
+    "isDuplicateOf": null,
+    "content": "Recent foreign exchange intervention by Japan and the United States has successfully slowed the rapid decline of the yen. However, experts warn that currency stabilization efforts face significant long-term challenges. These difficulties stem largely from ongoing divergent monetary policies between the nations, raising concerns about potential broader impacts on global financial markets.",
+    "slug": "japan-and-us-intervention-slows-yen-s-decline-faces-long-term-challenges"
+  },
+  {
+    "id": "68741363768906ed",
+    "title": "OpenAI plans to develop humanoid robot, says Sam Altman",
+    "summary": "OpenAI's humanoid robotics venture could revolutionize labor markets, impacting industries from construction to consumer services globally.\nThe post OpenAI plans to develop humanoid robot, says Sam Altman appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/openai-humanoid-robot-sam-altman/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "OpenAI",
+      "Sam Altman"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T02:22:29.000Z",
+    "fetchedAt": "2026-08-28T03:01:01.179Z",
+    "isDuplicateOf": null,
+    "content": "OpenAI is reportedly planning to develop a humanoid robot, according to statements by CEO Sam Altman. This ambitious robotics venture has the potential to significantly impact labor markets across various global industries, ranging from construction to consumer services, signaling a major strategic expansion for the artificial intelligence company.",
+    "slug": "openai-plans-to-develop-humanoid-robot-says-sam-altman"
+  },
+  {
+    "id": "d39b82f281b06d2f",
+    "title": "SEC proposes Regulation Crypto Assets to bring back token fundraising under new rules",
+    "summary": "The SEC's Reg CA could redefine crypto fundraising, balancing innovation with investor protection, potentially revitalizing the crypto market.\nThe post SEC proposes Regulation Crypto Assets to bring back token fundraising under new rules appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/sec-regulation-crypto-assets-ico-framework/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Securities and Exchange Commission"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T02:15:19.000Z",
+    "fetchedAt": "2026-08-28T03:01:01.179Z",
+    "isDuplicateOf": null,
+    "content": "The Securities and Exchange Commission has proposed Regulation Crypto Assets, a new framework aimed at revitalizing token fundraising. By establishing clear guidelines, the proposed rules seek to balance support for technological innovation with essential investor protection. This initiative could potentially reshape the digital asset fundraising landscape and encourage renewed activity within the broader crypto market.",
+    "slug": "sec-proposes-regulation-crypto-assets-to-bring-back-token-fundraising-under-new-rules"
+  },
+  {
+    "id": "0eb4b09a0c20dc20",
+    "title": "Saudi Aramco warns of 18-month recovery for oil inventories after Strait of Hormuz disruption",
+    "summary": "The prolonged recovery of oil inventories could sustain high prices, strain global economies, and accelerate shifts to alternative energy sources.\nThe post Saudi Aramco warns of 18-month recovery for oil inventories after Strait of Hormuz disruption appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/saudi-aramco-oil-inventory-recovery-18-months/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Saudi Aramco",
+      "Strait of Hormuz"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T02:09:22.000Z",
+    "fetchedAt": "2026-08-28T03:01:01.179Z",
+    "isDuplicateOf": null,
+    "content": "Saudi Aramco has issued a warning that oil inventories could take up to 18 months to recover following a disruption in the Strait of Hormuz. This prolonged recovery period is expected to sustain high oil prices, potentially straining global economies and accelerating the global transition toward alternative energy sources.",
+    "slug": "saudi-aramco-warns-of-18-month-recovery-for-oil-inventories-after-strait-of-hormuz-disruption"
+  },
+  {
+    "id": "281704441f66548b",
+    "title": "Affirm and Shopify Take Shop Pay Installments to Australia",
+    "summary": "Australian shoppers can now select installment payments powered by Affirm when they click on Shopify’s Shop Pay button, Affirm said in a Thursday (Aug. 27) press release. This capability is enabled by the global partnership of Affirm and Shopify, in which the companies launch Shop Pay Installments powered exclusively by Affirm. Shop Pay Installments was […]\nThe post Affirm and Shopify Take Shop Pay Installments to Australia appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/bnpl/2026/affirm-and-shopify-take-shop-pay-installments-to-australia/",
+    "source": "PYMNTS",
+    "tags": [
+      "Affirm",
+      "Shopify",
+      "Australia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T02:05:23.000Z",
+    "fetchedAt": "2026-08-28T03:01:01.180Z",
+    "isDuplicateOf": null,
+    "content": "Affirm and Shopify have launched Shop Pay Installments in Australia. Through their ongoing partnership, Australian shoppers can now choose Affirm-powered installment payment options when using Shopify's Shop Pay button at checkout. This expansion brings the exclusive partnership to a new international market, offering flexible payment solutions to more consumers.",
+    "slug": "affirm-and-shopify-take-shop-pay-installments-to-australia"
+  },
+  {
+    "id": "4917e565d65300ee",
+    "title": "Asset management industry sees record $54B in M&A activity as firms scramble for scale",
+    "summary": "The surge in M&A activity highlights a strategic shift towards consolidation, driven by fee pressures, globalization, and tech integration.\nThe post Asset management industry sees record $54B in M&A activity as firms scramble for scale appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/asset-management-record-54b-ma-activity/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Crypto Briefing"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T02:02:25.000Z",
+    "fetchedAt": "2026-08-28T03:01:01.180Z",
+    "isDuplicateOf": null,
+    "content": "The asset management industry has experienced a record $54 billion in merger and acquisition activity as firms rush to achieve greater scale. This significant surge highlights a broader strategic shift toward consolidation across the sector. Industry participants are increasingly driven to combine operations in response to mounting fee pressures, the demands of globalization, and the necessity for technological integration.",
+    "slug": "asset-management-industry-sees-record-54b-in-m-a-activity-as-firms-scramble-for-scale"
+  },
+  {
+    "id": "401652a33995e0b1",
+    "title": "Stablecoin reserves fall to $64B – Binance captures 68.5% of exchange liquidity",
+    "summary": "Stablecoin liquidity is concentrating on Binance, even as much of the market’s available capital shifts away from centralized exchanges.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/stablecoin-reserves-fall-to-64b-binance-captures-68-5-of-exchange-liquidity/",
     "source": "AMBCrypto",
+    "tags": [
+      "Binance"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T02:00:31.000Z",
+    "fetchedAt": "2026-08-28T03:01:01.179Z",
+    "isDuplicateOf": null,
+    "content": "Total stablecoin reserves have declined to 64 billion dollars. Despite this overall contraction in available market capital as funds shift away from centralized platforms, exchange liquidity is increasingly concentrating on Binance. The cryptocurrency platform currently commands 68.5 percent of this specific market share.",
+    "slug": "stablecoin-reserves-fall-to-64b-binance-captures-68-5-of-exchange-liquidity"
+  },
+  {
+    "id": "3af8b3e818b03204",
+    "title": "Yuan remains stable amid US sanction threats over Iran",
+    "summary": "The yuan's stability amid US sanctions hints at China's growing resilience and strategic positioning in global financial markets.\nThe post Yuan remains stable amid US sanction threats over Iran appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/yuan-stable-us-sanctions-iran/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "China",
+      "United States",
+      "Iran"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T01:52:39.000Z",
+    "fetchedAt": "2026-08-28T03:01:01.180Z",
+    "isDuplicateOf": null,
+    "content": "The Chinese yuan has remained stable despite recent threats of United States sanctions concerning Iran. This stability highlights China's increasing financial resilience and its calculated strategic positioning within global markets, demonstrating the currency's ability to withstand geopolitical pressures and ongoing international tensions.",
+    "slug": "yuan-remains-stable-amid-us-sanction-threats-over-iran"
+  },
+  {
+    "id": "b665f7f592294b7d",
+    "title": "NSA Leverages White House Directives to Gain Access to AI",
+    "summary": "The National Security Agency (NSA) wants access to “all” artificial intelligence models, NSA Deputy Director Tim Kosiba said Thursday (Aug. 27), according to a NextGov/FCW report. The NSA is carrying out White House directives on AI, and it is holding talks with leading developers as it does so, the report said. Speaking at an Intelligence […]\nThe post NSA Leverages White House Directives to Gain Access to AI appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/nsa-leverages-white-house-directives-to-gain-access-to-ai/",
+    "source": "PYMNTS",
+    "tags": [
+      "National Security Agency",
+      "White House"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T01:49:42.000Z",
+    "fetchedAt": "2026-08-28T03:01:01.180Z",
+    "isDuplicateOf": null,
+    "content": "The National Security Agency is seeking access to all artificial intelligence models in accordance with directives from the White House. According to reports, NSA officials are currently in discussions with leading artificial intelligence developers as the agency implements these new government policies regarding advanced technology integration and oversight.",
+    "slug": "nsa-leverages-white-house-directives-to-gain-access-to-ai"
+  },
+  {
+    "id": "783d2b3b254dc9ee",
+    "title": "Stripe consortium reportedly drops pursuit of PayPal after board rejects $53B bid",
+    "summary": "The failed acquisition highlights the challenges of valuing fintech giants and may signal a cautious approach to future large-scale consolidations.\nThe post Stripe consortium reportedly drops pursuit of PayPal after board rejects $53B bid appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/stripe-consortium-drops-paypal-pursuit/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Stripe",
+      "PayPal"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T01:37:49.000Z",
+    "fetchedAt": "2026-08-28T03:01:01.180Z",
+    "isDuplicateOf": null,
+    "content": "A consortium including Stripe has reportedly abandoned its pursuit to acquire PayPal after its multi-billion dollar bid was rejected by the board. This failed acquisition attempt underscores the current difficulties in valuing major financial technology companies and suggests a more cautious market approach moving forward regarding large-scale industry consolidations and corporate takeovers.",
+    "slug": "stripe-consortium-reportedly-drops-pursuit-of-paypal-after-board-rejects-53b-bid"
+  },
+  {
+    "id": "8fd61d2ee2c98601",
+    "slug": "zcash-price-reclaims-800-as-coinholders-vote-on-major-nu7-changes",
+    "title": "Zcash price reclaims $800 as coinholders vote on major NU7 changes",
     "tags": [
       "Zcash"
     ],
+    "source": "AMBCrypto",
     "origin": "rss",
-    "pubDate": "2026-08-28T01:30:43.000Z",
-    "fetchedAt": "2026-08-28T01:36:31.835Z",
-    "isDuplicateOf": null,
-    "content": "The privacy-focused cryptocurrency Zcash recently saw its price recover to around $826, reclaiming the $800 level. This market movement coincided with coinholders participating in a vote on five key questions designed to shape the network's upcoming major NU7 upgrade.",
-    "slug": "zcash-price-reclaims-800-as-coinholders-vote-on-major-nu7-changes"
+    "hasContent": true,
+    "pubDate": "2026-08-28T01:30:43.000Z"
   },
   {
     "id": "e58b4f9bee8d00ac",
+    "slug": "universities-are-cloning-their-professors-with-ai",
     "title": "Universities Are Cloning Their Professors With AI",
-    "summary": "At first glance, Harvard Business School senior lecturer Jeff Bussgang looks ordinary on a video call, smiling, ready to hear a founder’s pitch. He isn’t there. The student is talking to an artificial intelligence avatar built from Bussgang’s likeness, one of seven Harvard faculty who volunteered to be cloned, Entrepreneur reported. The avatars power HBS […]\nThe post Universities Are Cloning Their Professors With AI  appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/universities-are-cloning-their-professors-with-ai/",
-    "source": "PYMNTS",
     "tags": [
       "Harvard University",
       "Harvard Business School"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-08-28T01:29:37.000Z",
-    "fetchedAt": "2026-08-28T01:36:31.835Z",
-    "isDuplicateOf": null,
-    "content": "Universities are increasingly utilizing artificial intelligence by creating digital avatars of professors. At Harvard Business School, select faculty members have volunteered to be cloned into AI avatars for video interactions. These digital replicas help power educational programs and student interactions, showcasing a growing trend of generative technology adoption in higher education.",
-    "slug": "universities-are-cloning-their-professors-with-ai"
+    "hasContent": true,
+    "pubDate": "2026-08-28T01:29:37.000Z"
   },
   {
     "id": "9ec16c38622ab179",
+    "slug": "deepseek-founder-targets-china-s-ipo-boom-with-quant-strategies",
     "title": "DeepSeek founder targets China’s IPO boom with quant strategies",
-    "summary": "Liang Wenfeng's strategic pivot to China's IPO market could reshape tech investment dynamics, leveraging AI to navigate regulatory complexities.\nThe post DeepSeek founder targets China’s IPO boom with quant strategies appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/deepseek-founder-quant-china-ipo/",
-    "source": "CryptoBriefing",
     "tags": [
       "DeepSeek",
       "China",
       "Liang Wenfeng"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-28T01:16:07.000Z",
-    "fetchedAt": "2026-08-28T01:36:31.835Z",
-    "isDuplicateOf": null,
-    "content": "DeepSeek founder Liang Wenfeng is shifting focus toward China's initial public offering market using quantitative strategies. This strategic pivot aims to navigate regulatory complexities and could reshape technology investment dynamics in the region, according to reports.",
-    "slug": "deepseek-founder-targets-china-s-ipo-boom-with-quant-strategies"
+    "hasContent": true,
+    "pubDate": "2026-08-28T01:16:07.000Z"
   },
   {
     "id": "15838341dd16b6c4",
+    "slug": "investors-react-negatively-to-federal-reserve-chairman-s-press-conference",
     "title": "Investors react negatively to Federal Reserve chairman’s press conference",
-    "summary": "Investor uncertainty due to unclear Fed guidance may lead to increased market volatility and potential shifts in economic policy expectations.\nThe post Investors react negatively to Federal Reserve chairman’s press conference appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/fed-warsh-press-conference-market-reaction/",
-    "source": "CryptoBriefing",
     "tags": [
       "Federal Reserve"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-28T01:14:26.000Z",
-    "fetchedAt": "2026-08-28T01:36:31.835Z",
-    "isDuplicateOf": null,
-    "content": "Investors reacted negatively following the Federal Reserve chairman's recent press conference. Unclear guidance from the central bank has generated uncertainty across financial markets. This ambiguity could lead to increased market volatility and potential shifts in broader economic policy expectations moving forward as market participants assess the future outlook.",
-    "slug": "investors-react-negatively-to-federal-reserve-chairman-s-press-conference"
+    "hasContent": true,
+    "pubDate": "2026-08-28T01:14:26.000Z"
   },
   {
     "id": "bbd6a83969ad549b",
+    "slug": "us-judge-rules-pentagon-s-blacklist-of-anthropic-unlawful-calls-it-first-amendment-retaliation",
     "title": "US judge rules Pentagon’s blacklist of Anthropic unlawful, calls it First Amendment retaliation",
-    "summary": "This ruling underscores the tension between national security and corporate autonomy, potentially reshaping AI governance and defense contracting norms.\nThe post US judge rules Pentagon’s blacklist of Anthropic unlawful, calls it First Amendment retaliation appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/pentagon-anthropic-blacklist-ruled-unlawful/",
-    "source": "CryptoBriefing",
     "tags": [
       "Anthropic",
       "United States",
       "Pentagon"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-28T01:14:04.000Z",
-    "fetchedAt": "2026-08-28T01:36:31.835Z",
-    "isDuplicateOf": null,
-    "content": "A United States judge has ruled that the Pentagon's decision to place artificial intelligence company Anthropic on a blacklist was unlawful. The court determined the action constituted First Amendment retaliation. This legal decision highlights ongoing tensions between national security policies and corporate autonomy, which could influence future governance and defense contracting standards.",
-    "slug": "us-judge-rules-pentagon-s-blacklist-of-anthropic-unlawful-calls-it-first-amendment-retaliation"
+    "hasContent": true,
+    "pubDate": "2026-08-28T01:14:04.000Z"
   },
   {
     "id": "e27d5b5a39f83157",
+    "slug": "bitgo-buys-nydig-s-institutional-trading-business-expanding-derivatives-offering",
     "title": "BitGo buys NYDIG’s institutional trading business, expanding derivatives offering",
-    "summary": "With the transaction, around 30 NYDIG employees have joined BitGo, along with their institutional trading relationships.",
-    "hasSummary": true,
-    "link": "https://www.theblock.co/news/business/2026-08-27-bitgo-buys-nydig-institutional-trading-412975",
-    "source": "The Block",
     "tags": [
       "BitGo",
       "NYDIG"
     ],
+    "source": "The Block",
     "origin": "rss",
-    "pubDate": "2026-08-28T01:11:37.000Z",
-    "fetchedAt": "2026-08-28T01:36:31.835Z",
-    "isDuplicateOf": null,
-    "content": "Digital asset custodian BitGo has acquired the institutional trading business of NYDIG. The transaction enables BitGo to expand its derivatives offerings. Approximately thirty employees from NYDIG have transitioned to BitGo alongside their established institutional trading relationships, bolstering BitGo's operational capabilities in the digital asset sector.",
-    "slug": "bitgo-buys-nydig-s-institutional-trading-business-expanding-derivatives-offering"
+    "hasContent": true,
+    "pubDate": "2026-08-28T01:11:37.000Z"
   },
   {
     "id": "ec5b3bb3f0d0dcb5",
+    "slug": "hashkey-cloud-backs-stacks-genesis-bond-to-prove-institutional-appetite-for-native-bitcoin-yield",
     "title": "HashKey Cloud backs Stacks’ Genesis Bond to prove institutional appetite for native Bitcoin yield",
-    "summary": "The Genesis Bond avoids BTC lending and custody transfers while adding a 5% STX lock, managed parameters and variable payouts.\nThe post HashKey Cloud backs Stacks’ Genesis Bond to prove institutional appetite for native Bitcoin yield appeared first on CryptoSlate.",
-    "hasSummary": true,
-    "link": "https://cryptoslate.com/hashkey-cloud-backs-stacks-genesis-bond-to-prove-institutional-appetite-for-native-bitcoin-yield/",
-    "source": "CryptoSlate",
     "tags": [
       "HashKey Cloud",
       "Stacks",
       "Bitcoin"
     ],
+    "source": "CryptoSlate",
     "origin": "rss",
-    "pubDate": "2026-08-28T01:10:50.000Z",
-    "fetchedAt": "2026-08-28T01:36:31.835Z",
-    "isDuplicateOf": null,
-    "content": "HashKey Cloud is supporting Stacks’ Genesis Bond to demonstrate growing institutional demand for native Bitcoin yield. The financial product aims to avoid Bitcoin lending and custody transfers by incorporating a 5 percent STX lock, along with managed parameters and variable payouts for participants.",
-    "slug": "hashkey-cloud-backs-stacks-genesis-bond-to-prove-institutional-appetite-for-native-bitcoin-yield"
+    "hasContent": true,
+    "pubDate": "2026-08-28T01:10:50.000Z"
   },
   {
     "id": "08ccea4f368570f0",
+    "slug": "the-super-crowd-announces-the-purposebuilt100-a-list-of-fast-growing-firms-with-impact",
     "title": "The Super Crowd Announces the PurposeBuilt100: A List of Fast Growing Firms with Impact",
-    "summary": "The Super Crowd has announced the launch of PurposeBuilt100, a list of promising, fast-growing firms that are described as combining growth with impact. The list was revealed on the final day of the SuperCrowd26 event, a three-day virtual gathering focused on access to capital, community,... Read More",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/08/302098-the-super-crowd-announces-the-purposebuilt100-a-list-of-fast-growing-firms-with-impact/",
-    "source": "Crowdfund Insider",
     "tags": [
       "The Super Crowd",
       "PurposeBuilt100",
       "SuperCrowd26"
     ],
+    "source": "Crowdfund Insider",
     "origin": "rss",
-    "pubDate": "2026-08-28T01:05:06.000Z",
-    "fetchedAt": "2026-08-28T01:36:31.835Z",
-    "isDuplicateOf": null,
-    "content": "The Super Crowd has announced the launch of the PurposeBuilt100, a new list recognizing fast-growing firms that combine financial growth with positive societal impact. The announcement was made on the final day of the virtual SuperCrowd26 event, a three-day gathering centered on capital access and community building.",
-    "slug": "the-super-crowd-announces-the-purposebuilt100-a-list-of-fast-growing-firms-with-impact"
+    "hasContent": true,
+    "pubDate": "2026-08-28T01:05:06.000Z"
   },
   {
     "id": "42663a2988b4ea0b",
@@ -624,188 +838,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-08-27T19:38:23.000Z"
-  },
-  {
-    "id": "dabb707f829d53d9",
-    "slug": "td-bank-unlocks-141-million-in-ai-value-months-ahead-of-schedule",
-    "title": "TD Bank Unlocks $141 Million in AI Value Months Ahead of Schedule",
-    "tags": [
-      "TD Bank"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T19:37:02.000Z"
-  },
-  {
-    "id": "1505c057439d9471",
-    "slug": "jpmorgan-warns-global-food-prices-could-rise-5-amid-crises",
-    "title": "JPMorgan warns global food prices could rise 5% amid crises",
-    "tags": [
-      "JPMorgan"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T19:35:21.000Z"
-  },
-  {
-    "id": "6d1bbe5440767201",
-    "slug": "cardano-price-holds-above-0-21-even-as-dex-trading-surge-fades",
-    "title": "Cardano price holds above $0.21 even as DEX trading surge fades",
-    "tags": [
-      "Cardano"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T19:30:32.000Z"
-  },
-  {
-    "id": "76fc772ecb9dc1cc",
-    "slug": "anthropic-opens-10-000-claude-subscription-slots-for-scientists",
-    "title": "Anthropic opens 10,000 Claude subscription slots for scientists",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T19:30:23.000Z"
-  },
-  {
-    "id": "50936893f27184d5",
-    "slug": "abu-dhabi-royal-backs-49-stake-in-world-liberty-bank-entity",
-    "title": "Abu Dhabi royal backs 49% stake in World Liberty bank entity",
-    "tags": [
-      "Abu Dhabi",
-      "United States",
-      "World Liberty"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T19:26:10.000Z"
-  },
-  {
-    "id": "7a0aefa9d46ef31d",
-    "slug": "trump-cost-investors-4-7b-through-crypto-schemes-public-citizen",
-    "title": "Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen",
-    "tags": [
-      "Donald Trump",
-      "Public Citizen",
-      "World Liberty Financial"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T19:22:14.000Z"
-  },
-  {
-    "id": "006ed74554fa642d",
-    "slug": "sol-jumps-13-amid-charles-schwab-trading-plans-and-solana-deflationary-vote",
-    "title": "SOL Jumps 13% Amid Charles Schwab Trading Plans and Solana Deflationary Vote",
-    "tags": [
-      "Solana",
-      "Charles Schwab"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T19:19:13.000Z"
-  },
-  {
-    "id": "f3580e1ca41d6879",
-    "slug": "anthropic-ipo-could-come-in-september-but-it-has-a-massive-risk-factor",
-    "title": "Anthropic IPO Could Come in September, But It Has a Massive Risk Factor",
-    "tags": [
-      "Anthropic",
-      "SpaceX"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T19:14:09.000Z"
-  },
-  {
-    "id": "ba328731b3c640a3",
-    "slug": "sportradar-expands-polymarket-deal-to-cover-20-sports-leagues",
-    "title": "Sportradar expands Polymarket deal to cover 20+ sports leagues",
-    "tags": [
-      "Polymarket",
-      "Sportradar"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T19:06:34.000Z"
-  },
-  {
-    "id": "0625f0f95d8022fb",
-    "slug": "genius-group-plans-1-2b-plan-for-ai-and-bitcoin-treasuries",
-    "title": "Genius Group Plans $1.2B Plan for AI and Bitcoin Treasuries",
-    "tags": [
-      "Genius Group",
-      "Bitcoin"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T19:05:49.000Z"
-  },
-  {
-    "id": "99ea03e45ea5116b",
-    "slug": "strategy-ranks-among-top-15-us-volume-leaders-with-4-4b-in-daily-turnover",
-    "title": "Strategy ranks among top-15 US volume leaders with $4.4B in daily turnover",
-    "tags": [
-      "Strategy Inc.",
-      "Bitcoin",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T19:05:47.000Z"
-  },
-  {
-    "id": "34ffd296d2b61681",
-    "slug": "bitcoin-why-btc-must-break-this-liquidation-wall-to-target-86k",
-    "title": "Bitcoin – Why BTC must break THIS liquidation wall to target $86K",
-    "tags": [
-      "Bitcoin",
-      "Binance"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T19:00:13.000Z"
-  },
-  {
-    "id": "268e4a17bee8dd72",
-    "slug": "trump-hints-at-potential-sanctions-on-chinese-banks-over-iran-ties",
-    "title": "Trump hints at potential sanctions on Chinese banks over Iran ties",
-    "tags": [
-      "China",
-      "United States",
-      "Iran"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T18:58:11.000Z"
-  },
-  {
-    "id": "a8d3949c0570b8a8",
-    "slug": "investors-just-moved-7-billion-into-bitcoin-and-gold-in-five-days-to-escape-an-accelerating-dollar",
-    "title": "Investors just moved $7 billion into Bitcoin and gold in five days to escape an accelerating dollar crisis",
-    "tags": [
-      "Bitcoin",
-      "GLD",
-      "IBIT"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T18:55:59.000Z"
   }
 ]
