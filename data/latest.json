@@ -1,5 +1,39 @@
 [
   {
+    "id": "b9102bb1cf301a2e",
+    "title": "Swift accepts request to extend structured address migration for ISO 20022 messages",
+    "summary": "Swift is extending the November deadline for moving from unstructured to structured postal addresses for ISO 20022 payment messages after a host of banks asked for more time to comply.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/newsarticle/48318/swift-accepts-request-to-extend-structured-address-migration-for-iso-20022-messages?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Swift"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T00:01:00.000Z",
+    "fetchedAt": "2026-08-28T00:01:18.844Z",
+    "isDuplicateOf": null,
+    "content": "Swift has announced an extension to the November deadline for financial institutions transitioning from unstructured to structured postal addresses in ISO 20022 payment messages. The decision comes after numerous banks requested additional time to successfully implement the required compliance measures.",
+    "slug": "swift-accepts-request-to-extend-structured-address-migration-for-iso-20022-messages"
+  },
+  {
+    "id": "3db0440ef9e0f2ec",
+    "title": "‘This is huge’ – Bitcoin completes first quantum-resistant transaction",
+    "summary": "Bitcoin made a great step forward towards quantum-resistance.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/this-is-huge-bitcoin-completes-first-quantum-resistant-transaction/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T00:00:48.000Z",
+    "fetchedAt": "2026-08-28T00:01:18.843Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin has achieved a major milestone by successfully completing its first quantum-resistant transaction. This development marks a significant step forward for the digital currency as it prepares to defend against future advancements in quantum computing technology, which pose potential security threats to traditional cryptographic systems.",
+    "slug": "this-is-huge-bitcoin-completes-first-quantum-resistant-transaction"
+  },
+  {
     "id": "a757687b65445add",
     "slug": "sam-altman-expects-agi-system-by-end-of-2026-prediction-markets-remain-deeply-skeptical",
     "title": "Sam Altman expects AGI system by end of 2026, prediction markets remain deeply skeptical",
@@ -26,20 +60,15 @@
   },
   {
     "id": "d02ef3b268a1f47b",
+    "slug": "b2b-pricing-power-changes-when-software-can-prove-its-own-roi",
     "title": "B2B Pricing Power Changes When Software Can Prove Its Own ROI",
-    "summary": "A new problem is emerging across the B2B economy. Companies can now deliver measurable value to customers without making that value particularly measurable by customers. A payments platform may reduce processing costs and procurement software may improve supplier terms; accounts receivable automation may shorten collection cycles and treasury technology may reduce idle cash. But when renewal season […]\nThe post B2B Pricing Power Changes When Software Can Prove Its Own ROI appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/news/b2b-payments/2026/b2b-pricing-power-changes-when-software-can-prove-its-own-roi/",
-    "source": "PYMNTS",
     "tags": [
       "PYMNTS.com"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-08-27T20:47:17.000Z",
-    "fetchedAt": "2026-08-27T21:01:15.411Z",
-    "isDuplicateOf": null,
-    "content": "A new B2B pricing challenge is emerging as software platforms increasingly demonstrate their own measurable return on investment. Tools such as payments platforms, procurement software, accounts receivable automation, and treasury technology deliver clear financial value to clients by reducing costs and optimizing cash flow. However, this capability shifts traditional B2B pricing power, raising new questions for software providers and their customers as renewal season approaches.",
-    "slug": "b2b-pricing-power-changes-when-software-can-prove-its-own-roi"
+    "hasContent": true,
+    "pubDate": "2026-08-27T20:47:17.000Z"
   },
   {
     "id": "2853ef4c8476a887",
@@ -132,39 +161,29 @@
   },
   {
     "id": "204bd1467efc66d8",
+    "slug": "draftkings-makes-loyalty-points-spend-like-cash",
     "title": "DraftKings Makes Loyalty Points Spend Like Cash",
-    "summary": "DraftKings customers have long had to think in different currencies depending on where they were playing. Points on the sportsbook. A separate tier system on the casino side. Something else again on Jackpocket. Crown Cash, the company’s new unified rewards currency, is meant to erase that friction entirely. “We designed Crown Cash to make rewards […]\nThe post DraftKings Makes Loyalty Points Spend Like Cash appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/news/loyalty-and-rewards-news/2026/draftkings-makes-loyalty-points-spend-like-cash/",
-    "source": "PYMNTS",
     "tags": [
       "DraftKings",
       "Jackpocket"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-08-27T20:16:18.000Z",
-    "fetchedAt": "2026-08-27T21:01:15.411Z",
-    "isDuplicateOf": null,
-    "content": "DraftKings has introduced Crown Cash, a new unified rewards currency designed to eliminate the friction of managing different loyalty points across its various platforms. Previously, customers had to navigate separate currencies and tier systems for the sportsbook, casino, and Jackpocket services. The new program allows users to spend their loyalty points like cash across the ecosystem.",
-    "slug": "draftkings-makes-loyalty-points-spend-like-cash"
+    "hasContent": true,
+    "pubDate": "2026-08-27T20:16:18.000Z"
   },
   {
     "id": "d56e5ad53d3ff387",
+    "slug": "big-questions-big-ideas-meet-the-finovatefall-2026-keynotes",
     "title": "Big Questions, Big Ideas: Meet the FinovateFall 2026 Keynotes",
-    "summary": "FinovateFall returns to New York September 9 through 11, bringing more than 100 industry experts to the Marriott Marquis Times Square to discuss the forces reshaping banking and fintech. This year’s keynote lineup reflects just how much is changing at once. Banks and fintechs are navigating an uncertain economic and geopolitical environment while determining where Read more...\nThe post Big Questions, Big Ideas: Meet the FinovateFall 2026 Keynotes appeared first on Finovate.",
-    "hasSummary": true,
-    "link": "https://finovate.com/big-questions-big-ideas-meet-the-finovatefall-2026-keynotes/",
-    "source": "Finovate",
     "tags": [
       "New York",
       "FinovateFall"
     ],
+    "source": "Finovate",
     "origin": "rss",
-    "pubDate": "2026-08-27T20:16:05.000Z",
-    "fetchedAt": "2026-08-27T21:01:15.411Z",
-    "isDuplicateOf": null,
-    "content": "FinovateFall 2026 is scheduled to take place in New York from September 9 through 11 at the Marriott Marquis Times Square. The event will gather over 100 industry experts to explore major shifts in banking and fintech. Amid an uncertain economic and geopolitical landscape, keynote speakers will address critical questions and ideas currently transforming the financial sector.",
-    "slug": "big-questions-big-ideas-meet-the-finovatefall-2026-keynotes"
+    "hasContent": true,
+    "pubDate": "2026-08-27T20:16:05.000Z"
   },
   {
     "id": "ecd810260f912a69",
@@ -269,21 +288,16 @@
   },
   {
     "id": "4cb5bc4f2e9ae8c2",
+    "slug": "stripe-acquires-clerky-to-offer-legal-infrastructure-for-startups",
     "title": "Stripe Acquires Clerky to Offer Legal Infrastructure for Startups",
-    "summary": "Payment infrastructure fintech Stripe is getting into a new infrastructure layer this week. The California-based company has acquired Clerky, a company that offers legal infrastructure that startups need during and after formation. Terms of the deal were not disclosed. Clerky was founded in 2011 to help startups with legal paperwork surrounding incorporation and post-incorporation documentation, Read more...\nThe post Stripe Acquires Clerky to Offer Legal Infrastructure for Startups appeared first on Finovate.",
-    "hasSummary": true,
-    "link": "https://finovate.com/stripe-acquires-clerky-to-offer-legal-infrastructure-for-startups/",
-    "source": "Finovate",
     "tags": [
       "Stripe",
       "Clerky"
     ],
+    "source": "Finovate",
     "origin": "rss",
-    "pubDate": "2026-08-27T19:50:42.000Z",
-    "fetchedAt": "2026-08-27T21:01:15.411Z",
-    "isDuplicateOf": null,
-    "content": "Payment infrastructure company Stripe has acquired Clerky, a firm that provides legal infrastructure and paperwork assistance for startups during and after formation. Founded in 2011, Clerky specializes in streamlining incorporation and post-incorporation documentation. Financial terms of the acquisition were not disclosed as Stripe expands its offerings into the startup legal services sector.",
-    "slug": "stripe-acquires-clerky-to-offer-legal-infrastructure-for-startups"
+    "hasContent": true,
+    "pubDate": "2026-08-27T19:50:42.000Z"
   },
   {
     "id": "64ccbe222151f79f",
@@ -299,21 +313,16 @@
   },
   {
     "id": "80e8e13e2cfd4bd9",
+    "slug": "sba-proposal-could-push-small-business-lending-into-the-middle-market",
     "title": "SBA Proposal Could Push Small Business Lending Into the Middle Market",
-    "summary": "A small business can grow itself out of federal lending eligibility long before it becomes a large company. The Small Business Administration is proposing to give some of those firms more room to grow. Its proposed standards would raise revenue and employee limits across dozens of industries, adding an estimated 114,541 businesses to the pool […]\nThe post SBA Proposal Could Push Small Business Lending Into the Middle Market appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/smbs/2026/sba-proposal-could-push-small-business-lending-into-the-middle-market/",
-    "source": "PYMNTS",
     "tags": [
       "Small Business Administration",
       "United States"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-08-27T19:50:11.000Z",
-    "fetchedAt": "2026-08-27T21:01:15.411Z",
-    "isDuplicateOf": null,
-    "content": "The Small Business Administration has proposed raising revenue and employee size limits for federal lending eligibility across dozens of industries. This change aims to give growing small businesses more room to expand before losing access to support, potentially adding over 100,000 firms to the eligible pool. The proposal addresses concerns that successful companies can outgrow federal programs before reaching traditional large-business status.",
-    "slug": "sba-proposal-could-push-small-business-lending-into-the-middle-market"
+    "hasContent": true,
+    "pubDate": "2026-08-27T19:50:11.000Z"
   },
   {
     "id": "ffc9c7d3a2c98803",
@@ -393,20 +402,15 @@
   },
   {
     "id": "dabb707f829d53d9",
+    "slug": "td-bank-unlocks-141-million-in-ai-value-months-ahead-of-schedule",
     "title": "TD Bank Unlocks $141 Million in AI Value Months Ahead of Schedule",
-    "summary": "TD Bank Group delivered 195 million Canadian dollars (about $141 million) in artificial intelligence value in the first three quarters of its fiscal year 2026, according to a third-quarter earnings presentation released Thursday (Aug. 27). The move puts the company ahead of the pace needed to reach its fiscal year target of 200 million Canadian […]\nThe post TD Bank Unlocks $141 Million in AI Value Months Ahead of Schedule appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/earnings/2026/td-bank-unlocks-141-million-dollars-ai-value-months-ahead-schedule/",
-    "source": "PYMNTS",
     "tags": [
       "TD Bank"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-08-27T19:37:02.000Z",
-    "fetchedAt": "2026-08-27T21:01:15.411Z",
-    "isDuplicateOf": null,
-    "content": "TD Bank Group announced it generated 195 million Canadian dollars, approximately $141 million, in artificial intelligence value during the first three quarters of its fiscal year 2026. According to the bank's earnings presentation, this achievement places the institution well ahead of schedule to meet its overall annual target.",
-    "slug": "td-bank-unlocks-141-million-in-ai-value-months-ahead-of-schedule"
+    "hasContent": true,
+    "pubDate": "2026-08-27T19:37:02.000Z"
   },
   {
     "id": "1505c057439d9471",
@@ -773,30 +777,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-08-27T17:36:04.000Z"
-  },
-  {
-    "id": "49fd50687480d3d1",
-    "slug": "ethena-foundation-proposes-fee-switch-for-ena-token-buybacks-among-other-updates",
-    "title": "Ethena Foundation proposes fee switch for ENA token buybacks among other updates",
-    "tags": [
-      "Ethena Foundation",
-      "ENA"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T17:35:33.000Z"
-  },
-  {
-    "id": "52834f13c7ba4b37",
-    "slug": "this-is-why-arthur-hayes-thinks-ai-agents-need-their-own-money",
-    "title": "This Is Why Arthur Hayes Thinks AI Agents Need Their Own Money",
-    "tags": [
-      "Arthur Hayes"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T17:35:02.000Z"
   }
 ]
