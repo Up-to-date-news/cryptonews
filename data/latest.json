@@ -1,33 +1,427 @@
 [
   {
-    "id": "dc8afda523296c6e",
-    "slug": "intuit-cuts-17-of-workforce-in-restructuring-aimed-at-ai-platform-scalability",
-    "title": "Intuit cuts 17% of workforce in restructuring aimed at AI platform scalability",
+    "id": "deef5afbab368d1f",
+    "slug": "bitcoin-to-dump-while-ethereum-pumps-a-look-at-options-data-reveals",
+    "title": "Bitcoin to dump while Ethereum pumps? A look at Options data reveals…",
     "tags": [
-      "Intuit"
+      "Bitcoin",
+      "Ethereum"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T18:00:36.000Z"
+  },
+  {
+    "id": "e2baf99a41392a17",
+    "slug": "these-four-signals-could-confirm-if-bitcoin-s-low-is-locked-in-analyst",
+    "title": "These Four Signals Could Confirm if Bitcoin’s Low Is Locked In: Analyst",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:53:59.000Z"
+  },
+  {
+    "id": "e816204e516b259f",
+    "slug": "core-lightning-patches-vulnerabilities-in-version-26-06-7-amid-ai-report-surge",
+    "title": "Core Lightning patches vulnerabilities in version 26.06.7 amid AI report surge",
+    "tags": [
+      "Core Lightning"
     ],
     "source": "CryptoBriefing",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-08-28T14:56:47.000Z"
+    "pubDate": "2026-08-28T17:53:01.000Z"
   },
   {
-    "id": "5fdd6286fe8fbf62",
-    "slug": "google-updates-spam-policy-in-eu-after-890-million-antitrust-fine",
-    "title": "Google updates spam policy in EU after €890 million antitrust fine",
+    "id": "11c14107e0c1989a",
+    "slug": "nyse-proposes-extended-trading-hours-for-certain-options",
+    "title": "NYSE proposes extended trading hours for certain options",
     "tags": [
-      "Google",
-      "European Union"
+      "New York Stock Exchange"
     ],
     "source": "CryptoBriefing",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-08-28T14:55:22.000Z"
+    "pubDate": "2026-08-28T17:50:21.000Z"
   },
   {
-    "id": "6eb088a972f0756b",
-    "slug": "blackrock-just-pulled-in-115-of-all-bitcoin-etf-inflows-in-a-single-day-as-rival-funds-bleed-cash",
-    "title": "BlackRock just pulled in 115% of all Bitcoin ETF inflows in a single day as rival funds bleed cash",
+    "id": "f596270422fac03d",
+    "slug": "harvard-s-rogoff-warns-us-needs-a-shock-to-address-its-debt-crisis",
+    "title": "Harvard’s Rogoff warns US needs a shock to address its debt crisis",
+    "tags": [
+      "Harvard University",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:49:57.000Z"
+  },
+  {
+    "id": "f65cbd77a51a7a08",
+    "slug": "persian-gulf-oil-exports-rebound-may-keep-crude-below-90",
+    "title": "Persian Gulf oil exports rebound, may keep crude below $90",
+    "tags": [
+      "Persian Gulf"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:49:34.000Z"
+  },
+  {
+    "id": "e6534920b32d8eb7",
+    "slug": "chelsea-fc-gets-a-stablecoin-sponsor-after-uk-fca-warning-to-clubs",
+    "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
+    "tags": [
+      "Chelsea FC",
+      "Circle",
+      "USDC",
+      "Financial Conduct Authority",
+      "United Kingdom"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:46:12.000Z"
+  },
+  {
+    "id": "175ded6d19c2034a",
+    "slug": "ripple-moves-to-shrink-xrp-ledger-attack-surface-as-ai-audit-tests-lending-push",
+    "title": "Ripple moves to shrink XRP Ledger attack surface as AI audit tests lending push",
+    "tags": [
+      "Ripple",
+      "XRP Ledger"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:45:49.000Z"
+  },
+  {
+    "id": "55b5ad177e0d9549",
+    "slug": "rb-leipzig-signs-marc-guiu-from-chelsea-on-permanent-deal-with-sell-on-clause",
+    "title": "RB Leipzig signs Marc Guiu from Chelsea on permanent deal with sell-on clause",
+    "tags": [
+      "RB Leipzig",
+      "Chelsea"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:45:35.000Z"
+  },
+  {
+    "id": "9a4554298c3dc77b",
+    "slug": "lighter-expands-chainlink-integration-to-enhance-oracle-security-across-125-markets",
+    "title": "Lighter expands Chainlink integration to enhance oracle security across 125+ markets",
+    "tags": [
+      "Lighter",
+      "Chainlink"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:44:43.000Z"
+  },
+  {
+    "id": "5d1e8eaaa9b798da",
+    "slug": "us-economy-may-have-added-fewer-jobs-than-reported-bls-revision-suggests",
+    "title": "US economy may have added fewer jobs than reported, BLS revision suggests",
+    "tags": [
+      "Federal Reserve",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:42:45.000Z"
+  },
+  {
+    "id": "048ed018c347180b",
+    "slug": "kremlin-perceives-us-weakness-amid-iran-war-escalates-threats",
+    "title": "Kremlin perceives US weakness amid Iran war, escalates threats",
+    "tags": [
+      "Russia",
+      "United States",
+      "Iran",
+      "NATO"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:40:14.000Z"
+  },
+  {
+    "id": "6765ce34228b84ea",
+    "slug": "iran-outlines-conditions-for-us-deal-signals-openness-to-negotiation",
+    "title": "Iran outlines conditions for US deal, signals openness to negotiation",
+    "tags": [
+      "Iran",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:40:05.000Z"
+  },
+  {
+    "id": "55d08d43a075db6d",
+    "slug": "disorderly-yen-may-lead-to-higher-us-rates-impact-gold-prices-bloomberg",
+    "title": "Disorderly yen may lead to higher US rates, impact gold prices: Bloomberg",
+    "tags": [
+      "United States",
+      "Bloomberg"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:39:35.000Z"
+  },
+  {
+    "id": "1a130318848ad850",
+    "slug": "cognition-hits-900m-arr-but-plans-to-burn-nearly-as-much-cash-this-year",
+    "title": "Cognition hits $900M ARR but plans to burn nearly as much cash this year",
+    "tags": [
+      "Cognition"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:37:30.000Z"
+  },
+  {
+    "id": "7ab90d973c822cb8",
+    "slug": "asian-regulators-tell-banks-to-prepare-for-coming-stablecoin-rules",
+    "title": "Asian regulators tell banks to prepare for coming stablecoin rules",
+    "tags": [
+      "Asia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:35:04.000Z"
+  },
+  {
+    "id": "a606090bbbe01be5",
+    "slug": "bitcoin-suddenly-dumped-by-3k-as-liquidations-hit-200m-hourly-is-the-fed-to-blame",
+    "title": "Bitcoin Suddenly Dumped by $3K as Liquidations Hit $200M Hourly: Is the Fed to Blame?",
+    "tags": [
+      "Bitcoin",
+      "XRP",
+      "Federal Reserve"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:27:51.000Z"
+  },
+  {
+    "id": "6da38f50d1ccfee9",
+    "slug": "ninth-circuit-rules-against-kalshi-in-3-0-vote-letting-nevada-enforce-gaming-laws-on-prediction",
+    "title": "Ninth Circuit rules against Kalshi in 3-0 vote, letting Nevada enforce gaming laws on prediction markets",
+    "tags": [
+      "Kalshi",
+      "Nevada",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:25:56.000Z"
+  },
+  {
+    "id": "5509113c41dc55df",
+    "slug": "california-moves-into-federal-consumer-protection-void-under-chopra",
+    "title": "California Moves Into Federal Consumer Protection Void Under Chopra",
+    "tags": [
+      "California",
+      "Consumer Financial Protection Bureau",
+      "Rohit Chopra"
+    ],
+    "source": "PYMNTS",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:23:37.000Z"
+  },
+  {
+    "id": "f5d6ead4b69325e2",
+    "slug": "blue-owl-leads-2-8b-debt-deal-for-iren-to-acquire-nvidia-gpus",
+    "title": "Blue Owl leads $2.8B debt deal for Iren to acquire Nvidia GPUs",
+    "tags": [
+      "Blue Owl",
+      "Iren",
+      "Nvidia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:22:38.000Z"
+  },
+  {
+    "id": "124d3780feabd6dd",
+    "slug": "sec-claims-large-scale-abuse-in-investor-adviser-filings-files-charges-against-38-entities",
+    "title": "SEC Claims Large Scale Abuse in Investor Adviser Filings, Files Charges Against 38 Entities",
+    "tags": [
+      "Securities and Exchange Commission",
+      "Federal Bureau of Investigation"
+    ],
+    "source": "Crowdfund Insider",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:20:20.000Z"
+  },
+  {
+    "id": "c28afc4ce815d7a2",
+    "slug": "will-mnt-price-finally-rise-break-above-0-60",
+    "title": "Will MNT Price Finally Rise & Break Above $0.60?",
+    "tags": [
+      "Mantle"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:19:52.000Z"
+  },
+  {
+    "id": "bbdd8325156a3cb1",
+    "slug": "goldman-sachs-holds-88m-in-spot-solana-etfs-tops-institutional-list",
+    "title": "Goldman Sachs holds $88M in spot Solana ETFs, tops institutional list",
+    "tags": [
+      "Goldman Sachs",
+      "Solana"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:18:53.000Z"
+  },
+  {
+    "id": "c2953ddf8494a72c",
+    "slug": "fed-chair-warsh-calls-ai-a-hinge-point-in-history-4-key-things-he-said",
+    "title": "Fed Chair Warsh Calls AI a 'Hinge Point in History'—4 Key Things He Said",
+    "tags": [
+      "Federal Reserve",
+      "Jackson Hole"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:18:52.000Z"
+  },
+  {
+    "id": "b7275461b37fd0e4",
+    "slug": "tron-activates-ethereum-compatible-upgrade-with-passkey-support",
+    "title": "TRON activates Ethereum-compatible upgrade with passkey support",
+    "tags": [
+      "TRON",
+      "Ethereum"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:16:17.000Z"
+  },
+  {
+    "id": "31f9b8e05d8bce3e",
+    "slug": "saylor-takes-down-eth-bull-tom-lee-literally",
+    "title": "Saylor Takes Down ETH Bull Tom Lee (Literally)",
+    "tags": [
+      "Michael Saylor",
+      "Tom Lee",
+      "Bitcoin"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:09:39.000Z"
+  },
+  {
+    "id": "fb244e9684a0bffe",
+    "slug": "us-5-year-treasury-yield-hits-4-48-highest-level-since-february-2025",
+    "title": "US 5-year Treasury yield hits 4.48%, highest level since February 2025",
+    "tags": [
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:09:10.000Z"
+  },
+  {
+    "id": "cda0981b5bd74d98",
+    "slug": "small-businesses-tap-prediction-markets-to-shield-profits-from-surprise-costs",
+    "title": "Small Businesses Tap Prediction Markets to Shield Profits From Surprise Costs",
+    "tags": [
+      "Reuters"
+    ],
+    "source": "PYMNTS",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:08:17.000Z"
+  },
+  {
+    "id": "b23a2637e64a2694",
+    "slug": "0g-unveils-veyra-an-ai-verification-tool-for-video-authenticity",
+    "title": "0G unveils Veyra, an AI verification tool for video authenticity",
+    "tags": [
+      "0G"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:02:57.000Z"
+  },
+  {
+    "id": "2a001ff41d225861",
+    "slug": "north-korea-hackers-break-silence-with-19-4-million-bitcoin-btc-move-time-to-worry",
+    "title": "North Korea Hackers Break Silence With $19.4 Million Bitcoin (BTC) Move: Time to Worry?",
+    "tags": [
+      "North Korea",
+      "Lazarus Group",
+      "Bitcoin"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:02:05.000Z"
+  },
+  {
+    "id": "aac41ef70313c27e",
+    "slug": "occ-and-fdic-finalize-rule-defining-unsafe-practices-to-combat-crypto-debanking",
+    "title": "OCC and FDIC finalize rule defining ‘unsafe practices’ to combat crypto debanking",
+    "tags": [
+      "OCC",
+      "FDIC",
+      "Trump"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T17:00:43.000Z"
+  },
+  {
+    "id": "fbc363e4f102a3e4",
+    "slug": "central-banks-buy-47-377-203-440-of-gold-in-three-months-as-jpmorgan-chase-forecasts-nearly-30",
+    "title": "Central Banks Buy $47,377,203,440 of Gold In Three Months As JPMorgan Chase Forecasts Nearly 30% Price Increase",
+    "tags": [
+      "Poland",
+      "China",
+      "JPMorgan Chase"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T16:55:49.000Z"
+  },
+  {
+    "id": "8672c2dc0c319be0",
+    "slug": "blackrock-s-bitcoin-etf-regains-key-weekly-options-expiries-after-rule-overhaul",
+    "title": "BlackRock’s Bitcoin ETF regains key weekly options expiries after rule overhaul",
     "tags": [
       "BlackRock",
       "Bitcoin"
@@ -35,769 +429,385 @@
     "source": "CryptoSlate",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-08-28T14:55:10.000Z"
+    "pubDate": "2026-08-28T16:55:35.000Z"
   },
   {
-    "id": "3e916ccbf53c0c47",
-    "slug": "crypto-biz-bitcoin-pumps-wall-street-does-the-paperwork",
-    "title": "Crypto Biz: Bitcoin pumps, Wall Street does the paperwork",
+    "id": "fe0f8d39b119d920",
+    "slug": "hyena-ends-usde-perpetual-markets-after-4-billion-run",
+    "title": "HyENA ends USDe perpetual markets after $4 billion run",
     "tags": [
-      "Bitcoin",
-      "Circle",
+      "HyENA",
+      "USDe",
+      "Ethena"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T16:55:33.000Z"
+  },
+  {
+    "id": "52e090882f856b37",
+    "slug": "salesforce-crm-stock-surges-25-in-1-week-what-s-fueling-it",
+    "title": "Salesforce (CRM) Stock Surges 25% in 1 Week: What’s Fueling It?",
+    "tags": [
+      "Salesforce"
+    ],
+    "source": "Watcher.Guru",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T16:52:27.000Z"
+  },
+  {
+    "id": "5a62987a485ef8f7",
+    "slug": "coinbase-files-response-to-cftc-and-sec-on-perpetual-derivatives-pushing-for-clearer-regulatory",
+    "title": "Coinbase files response to CFTC and SEC on perpetual derivatives, pushing for clearer regulatory lines",
+    "tags": [
+      "Coinbase",
+      "CFTC",
+      "SEC",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T16:49:49.000Z"
+  },
+  {
+    "id": "dc7e35f106c96b8b",
+    "slug": "four-south-american-nations-sign-strategic-minerals-pact-to-reshape-global-supply-chains",
+    "title": "Four South American nations sign strategic minerals pact to reshape global supply chains",
+    "tags": [
+      "South America"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T16:46:09.000Z"
+  },
+  {
+    "id": "e133eb787c3989f0",
+    "slug": "charles-schwab-expands-crypto-trading-beyond-bitcoin-and-ethereum",
+    "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
+    "tags": [
+      "Charles Schwab",
       "Solana",
-      "Wall Street"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T14:53:40.000Z"
-  },
-  {
-    "id": "4a4bb5d5c323eddb",
-    "slug": "time-releases-2026-time100-list-of-influential-people-in-ai",
-    "title": "TIME releases 2026 TIME100 list of influential people in AI",
-    "tags": [
-      "TIME",
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T14:48:34.000Z"
-  },
-  {
-    "id": "3aa007bd2f77a868",
-    "slug": "btc-hits-15-week-high-ripple-expands-wall-street-push-sol-reclaims-100-weekly-crypto-recap",
-    "title": "BTC Hits 15-Week High, Ripple Expands Wall Street Push, SOL Reclaims $100: Weekly Crypto Recap",
-    "tags": [
+      "Avalanche",
+      "Chainlink",
       "Bitcoin",
-      "Ripple",
-      "Solana",
-      "ZEC",
-      "XMR"
+      "Ethereum"
     ],
-    "source": "CryptoPotato",
+    "source": "Decrypt",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-08-28T14:48:12.000Z"
+    "pubDate": "2026-08-28T16:39:02.000Z"
   },
   {
-    "id": "2855299d4c481f7b",
-    "slug": "fincen-moves-to-cut-off-swiss-bank-from-us-financial-system-over-money-laundering-ties",
-    "title": "FinCEN moves to cut off Swiss bank from US financial system over money laundering ties",
+    "id": "40865f4815b02c4e",
+    "slug": "meta-and-university-of-illinois-develop-evoharness-rl-a-self-evolving-runtime-layer-for-ai-agents",
+    "title": "Meta and University of Illinois develop EvoHarness-RL, a self-evolving runtime layer for AI agents",
     "tags": [
-      "FinCEN",
-      "United States",
-      "Switzerland"
+      "Meta",
+      "University of Illinois"
     ],
     "source": "CryptoBriefing",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-08-28T14:46:29.000Z"
+    "pubDate": "2026-08-28T16:38:17.000Z"
   },
   {
-    "id": "e6b0b913758ef55c",
-    "slug": "federal-reserve-chairman-warsh-says-accuracy-in-forecasting-is-an-aspiration",
-    "title": "Federal Reserve Chairman Warsh says accuracy in forecasting is an aspiration",
+    "id": "9974743b8a0762f1",
+    "slug": "capula-investment-management-seeks-investor-capital-for-new-trading-strategy",
+    "title": "Capula Investment Management seeks investor capital for new trading strategy",
     "tags": [
-      "Federal Reserve",
-      "Warsh"
+      "Capula Investment Management"
     ],
     "source": "CryptoBriefing",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-08-28T14:45:20.000Z"
+    "pubDate": "2026-08-28T16:30:17.000Z"
   },
   {
-    "id": "527fd253503eccdb",
-    "slug": "bybit-launches-24-7-options-on-stock-perpetuals-starting-with-spacex-and-nvidia",
-    "title": "Bybit launches 24/7 options on stock perpetuals, starting with SpaceX and Nvidia",
+    "id": "8c18cfc4c3ab4cb2",
+    "slug": "hyperliquid-leads-growth-among-top-perp-dexs-with-58-market-share",
+    "title": "Hyperliquid leads growth among top perp DEXs with 58% market share",
     "tags": [
-      "Bybit",
+      "Hyperliquid"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T16:29:37.000Z"
+  },
+  {
+    "id": "ecb2c86662b49736",
+    "slug": "walmart-s-1970-ipo-still-has-a-lesson-for-spacex-buyers",
+    "title": "Walmart’s 1970 IPO Still Has a Lesson for SpaceX Buyers",
+    "tags": [
+      "Walmart",
       "SpaceX",
       "Nvidia"
     ],
-    "source": "The Block",
+    "source": "BeInCrypto",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-08-28T14:44:23.000Z"
+    "pubDate": "2026-08-28T16:28:55.000Z"
   },
   {
-    "id": "e6e80f185099f910",
-    "slug": "twenty-one-capital-ceo-outlines-strategy-to-outperform-bitcoin",
-    "title": "Twenty One Capital CEO outlines strategy to outperform Bitcoin",
+    "id": "9c3b74d70bcaf376",
+    "slug": "pakistan-s-crypto-chief-makes-the-case-for-a-national-bitcoin-reserve",
+    "title": "Pakistan’s crypto chief makes the case for a national Bitcoin reserve",
     "tags": [
-      "Twenty One Capital",
+      "Pakistan",
       "Bitcoin"
     ],
     "source": "CryptoBriefing",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-08-28T14:41:31.000Z"
+    "pubDate": "2026-08-28T16:28:08.000Z"
   },
   {
-    "id": "6bdf60353cd6fcf8",
-    "slug": "bitgo-to-buy-nydig-trading-arm-for-42-5m-in-cash-and-stock-plus-15m-earnout",
-    "title": "BitGo to buy NYDIG trading arm for $42.5M in cash and stock plus $15M earnout",
+    "id": "93736353e0020867",
+    "slug": "kaspa-price-nears-a-critical-falling-wedge-breakout-can-it-rally-120-next",
+    "title": "Kaspa Price Nears a Critical Falling Wedge Breakout, Can It Rally 120% Next?",
     "tags": [
-      "BitGo",
-      "NYDIG",
-      "NYDIG IF Holdings"
+      "Kaspa"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T16:27:51.000Z"
+  },
+  {
+    "id": "bf9c1776da7c6b77",
+    "slug": "rafael-leao-rejects-aston-villa-move-joins-galatasaray-instead",
+    "title": "Rafael Leao rejects Aston Villa move, joins Galatasaray instead",
+    "tags": [
+      "Rafael Leao",
+      "Aston Villa",
+      "Galatasaray"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T16:27:17.000Z"
+  },
+  {
+    "id": "c2f86cb7dc20c802",
+    "slug": "circle-economists-argue-digital-finance-could-strengthen-dollar-dominance",
+    "title": "Circle economists argue digital finance could strengthen dollar dominance",
+    "tags": [
+      "Circle",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T16:27:03.000Z"
+  },
+  {
+    "id": "b3d49caa7bfde534",
+    "title": "Warsh furthers his push toward a ‘quieter Fed’",
+    "summary": "In his first Jackson Hole address, new Federal Reserve Chair Kevin Warsh doubled down on a promise to cut “forward guidance” and a commitment to 2% inflation.",
+    "hasSummary": true,
+    "link": "https://www.bankingdive.com/news/fed-jackson-hole-forward-guidance-inflation-kevin-warsh/829101/",
+    "source": "Banking Dive",
+    "tags": [
+      "Federal Reserve",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T16:24:02.000Z",
+    "fetchedAt": "2026-08-28T18:01:07.106Z",
+    "isDuplicateOf": null,
+    "content": "Federal Reserve Chair Kevin Warsh used his inaugural Jackson Hole address to advance his vision for a quieter central bank. Warsh reinforced his commitment to lowering forward guidance and maintaining a strict focus on a two percent inflation target, signaling a potential shift in communication strategy for the institution.",
+    "slug": "warsh-furthers-his-push-toward-a-quieter-fed"
+  },
+  {
+    "id": "75dc094a19ea7156",
+    "title": "VALT Bank gets FDIC’s nod",
+    "summary": "The proposed Eagle, Idaho-based digital business bank, which received its conditional OCC charter in March, plans to open in the fourth quarter, proposed CEO Matt Gediman said.",
+    "hasSummary": true,
+    "link": "https://www.bankingdive.com/news/valt-bank-gets-fdic-nod-deposit-insurance-gediman/829100/",
+    "source": "Banking Dive",
+    "tags": [
+      "VALT Bank",
+      "FDIC",
+      "Eagle",
+      "Idaho"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T16:21:51.000Z",
+    "fetchedAt": "2026-08-28T18:01:07.106Z",
+    "isDuplicateOf": null,
+    "content": "VALT Bank has received approval from the Federal Deposit Insurance Corporation. The proposed digital business bank, based in Eagle, Idaho, previously obtained its conditional OCC charter in March. According to proposed CEO Matt Gediman, the new institution plans to officially open its doors to customers during the fourth quarter of the year.",
+    "slug": "valt-bank-gets-fdic-s-nod"
+  },
+  {
+    "id": "93eee9af3c3bbe2d",
+    "slug": "microsoft-puts-25-ai-agents-to-work-on-supply-chain-costs",
+    "title": "Microsoft Puts 25 AI Agents to Work on Supply Chain Costs",
+    "tags": [
+      "Microsoft"
+    ],
+    "source": "PYMNTS",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T16:16:54.000Z"
+  },
+  {
+    "id": "422985e45143b8ef",
+    "slug": "solana-vote-to-double-disinflation-passes-by-a-hair-in-dramatic-finish",
+    "title": "Solana vote to double disinflation passes by a hair in dramatic finish",
+    "tags": [
+      "Solana",
+      "Kraken",
+      "Galaxy"
     ],
     "source": "CoinDesk",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-08-28T14:37:14.000Z"
+    "pubDate": "2026-08-28T16:12:45.000Z"
   },
   {
-    "id": "1394b1cf9eb3a47a",
-    "slug": "promise-of-defi-gave-way-to-walled-gardens-but-was-it-bound-to-happen",
-    "title": "Promise of DeFi gave way to ‘walled gardens,’ but was it bound to happen?",
+    "id": "d4891712c13d2dfc",
+    "slug": "what-is-strategy-mstr-the-bitcoin-treasury-company",
+    "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
     "tags": [
-      "DeFi"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T14:30:29.000Z"
-  },
-  {
-    "id": "87d740baaa103993",
-    "slug": "multiple-texas-banks-suffer-at-least-10-000-000-in-losses-after-lending-intermediary-uses-forgeries",
-    "title": "Multiple Texas Banks Suffer at Least $10,000,000+ in Losses After Lending Intermediary Uses Forgeries To Obtain Loans for Customers",
-    "tags": [
-      "Texas",
-      "Preferred Marketing Group"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T14:30:08.000Z"
-  },
-  {
-    "id": "db24c2e2d7ff9ac8",
-    "slug": "india-s-foreign-exchange-reserves-hit-record-high-amid-dollar-inflows",
-    "title": "India’s foreign-exchange reserves hit record high amid dollar inflows",
-    "tags": [
-      "India"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T14:20:03.000Z"
-  },
-  {
-    "id": "fc50ec44fb446093",
-    "slug": "us-treasury-imposes-limits-on-egyptian-bank-for-iran-dealings",
-    "title": "US Treasury imposes limits on Egyptian bank for Iran dealings",
-    "tags": [
-      "United States",
-      "Egypt",
-      "Iran"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T14:19:15.000Z"
-  },
-  {
-    "id": "7b2ff841efb37bbc",
-    "slug": "ethereum-etfs-take-226m-in-a-day-almost-matching-bitcoin-s-haul",
-    "title": "Ethereum ETFs Take $226M in a Day, Almost Matching Bitcoin's Haul",
-    "tags": [
-      "Ethereum",
+      "Strategy",
+      "Michael Saylor",
       "Bitcoin"
     ],
     "source": "Decrypt",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-08-28T14:17:21.000Z"
+    "pubDate": "2026-08-28T16:08:02.000Z"
   },
   {
-    "id": "3eee3f6bafc4c6ad",
-    "slug": "spacex-stock-investors-revealed-who-owns-the-biggest-stakes-in-2026",
-    "title": "SpaceX Stock Investors Revealed: Who Owns the Biggest Stakes in 2026?",
+    "id": "526d594b254a8c6f",
+    "slug": "bitcoin-miner-iren-shares-fall-as-ai-conversion-costs-mount",
+    "title": "Bitcoin Miner IREN Shares Fall as AI Conversion Costs Mount",
     "tags": [
-      "SpaceX",
-      "Elon Musk",
-      "Alphabet",
-      "Nvidia"
-    ],
-    "source": "Watcher.Guru",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T14:05:00.000Z"
-  },
-  {
-    "id": "1ec23ebf3bdf63e6",
-    "slug": "fed-chair-warsh-takes-the-stage-at-jackson-hole-with-inflation-still-running-hot",
-    "title": "Fed Chair Warsh takes the stage at Jackson Hole with inflation still running hot",
-    "tags": [
-      "Federal Reserve",
-      "Jackson Hole"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:58:15.000Z"
-  },
-  {
-    "id": "d3982088a8856620",
-    "slug": "micron-s-chinese-rival-reports-booming-sales-in-public-debut",
-    "title": "Micron’s Chinese rival reports booming sales in public debut",
-    "tags": [
-      "Micron",
-      "CXMT",
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:50:58.000Z"
-  },
-  {
-    "id": "5b6d15bc8fa67d6d",
-    "slug": "us-chicago-pmi-crashes-to-47-1-missing-forecast-by-over-10-points",
-    "title": "US Chicago PMI crashes to 47.1, missing forecast by over 10 points",
-    "tags": [
-      "United States",
-      "Federal Reserve"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:49:24.000Z"
-  },
-  {
-    "id": "849096b06ac54518",
-    "slug": "chevron-and-us-firms-near-deal-to-invest-billions-in-venezuelan-oil-fields",
-    "title": "Chevron and US firms near deal to invest billions in Venezuelan oil fields",
-    "tags": [
-      "Chevron",
-      "United States",
-      "Venezuela"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:48:24.000Z"
-  },
-  {
-    "id": "721e27d16f5675e8",
-    "slug": "jpmorgan-s-ibit-bitcoin-etf-bet-just-missed-its-escape-hatch-to-avoid-6-deduction",
-    "title": "JPMorgan’s IBIT Bitcoin ETF bet just missed its escape hatch to avoid 6% deduction",
-    "tags": [
-      "JPMorgan",
-      "Bitcoin",
-      "IBIT"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:45:31.000Z"
-  },
-  {
-    "id": "c5f9dc7554de16b1",
-    "slug": "linkmate-analysis-on-ai-trading-in-2026-what-actually-works-and-what-s-just-hype",
-    "title": "Linkmate Analysis on AI Trading in 2026 — What Actually Works and What’s Just Hype",
-    "tags": [
-      "Linkmate"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:44:09.000Z"
-  },
-  {
-    "id": "251257fa14362749",
-    "slug": "anthropic-wins-lawsuit-against-trump-administration-over-national-security-designation",
-    "title": "Anthropic wins lawsuit against Trump administration over national security designation",
-    "tags": [
-      "Anthropic",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:34:57.000Z"
-  },
-  {
-    "id": "cca750987b7afd07",
-    "slug": "who-is-legally-liable-when-an-ai-agent-goes-rogue",
-    "title": "Who is legally liable when an AI agent goes rogue?",
-    "tags": [],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:30:00.000Z"
-  },
-  {
-    "id": "53e8a445d37e69b3",
-    "slug": "bureau-of-labor-statistics-revises-payrolls-higher-for-first-time-since-2022",
-    "title": "Bureau of Labor Statistics revises payrolls higher for first time since 2022",
-    "tags": [
-      "Bureau of Labor Statistics",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:26:14.000Z"
-  },
-  {
-    "id": "1cc157a2b68d944d",
-    "slug": "helius-ceo-accuses-kraken-of-mathematical-illiteracy-over-sol-governance-vote",
-    "title": "Helius CEO accuses Kraken of mathematical illiteracy over SOL governance vote",
-    "tags": [
-      "Helius",
-      "Kraken",
-      "Solana"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:25:30.000Z"
-  },
-  {
-    "id": "df1aa887ed2519d6",
-    "slug": "gulf-oil-tanker-earnings-near-650-000-a-day-as-iran-war-reshapes-global-shipping",
-    "title": "Gulf oil tanker earnings near $650,000 a day as Iran war reshapes global shipping",
-    "tags": [
-      "Iran",
-      "Persian Gulf"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:25:18.000Z"
-  },
-  {
-    "id": "f1f4cf3fa6deca54",
-    "slug": "china-s-biggest-state-owned-lenders-report-higher-first-half-profits",
-    "title": "China’s biggest state-owned lenders report higher first-half profits",
-    "tags": [
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:19:46.000Z"
-  },
-  {
-    "id": "bcc17354c73c5e76",
-    "slug": "federal-reserve-s-hammack-flags-deep-uncertainty-over-balance-sheet-effects-on-the-economy",
-    "title": "Federal Reserve’s Hammack flags deep uncertainty over balance sheet effects on the economy",
-    "tags": [
-      "Federal Reserve"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:17:36.000Z"
-  },
-  {
-    "id": "3b03fc961c5bb55e",
-    "slug": "polish-olympic-chief-charged-in-zondacrypto-probe-justice-minister-says",
-    "title": "Polish Olympic chief charged in Zondacrypto probe, justice minister says",
-    "tags": [
-      "Polish Olympic Committee",
-      "Radosław Piesiewicz",
-      "Zondacrypto",
-      "Poland"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:16:37.000Z"
-  },
-  {
-    "id": "4646999c314332b1",
-    "slug": "lpl-2026-grand-finals-bracket-set-tes-faces-lgd-jdg-meets-we",
-    "title": "LPL 2026 Grand Finals bracket set: TES faces LGD, JDG meets WE",
-    "tags": [
-      "TES",
-      "LGD",
-      "JDG",
-      "WE",
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:16:29.000Z"
-  },
-  {
-    "id": "21d94a913128f2fb",
-    "slug": "same-election-question-two-different-odds-predictions-io-launches-free-cross-venue-comparison-tools",
-    "title": "Same Election Question, Two Different Odds: Predictions.io Launches Free Cross-Venue Comparison Tools",
-    "tags": [
-      "Predictions.io",
-      "Kalshi",
-      "Polymarket",
-      "Manifold",
-      "United States"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:12:53.000Z"
-  },
-  {
-    "id": "c7e0bd4bbb568250",
-    "slug": "chatgpt-may-soon-let-users-hide-saved-chats-behind-a-pin-or-fingerprint-report",
-    "title": "ChatGPT may soon let users hide saved chats behind a PIN or fingerprint: Report",
-    "tags": [
-      "ChatGPT",
-      "OpenAI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:11:22.000Z"
-  },
-  {
-    "id": "aae8fed72bb784db",
-    "slug": "china-s-robot-makers-excel-in-hardware-but-lack-the-ai-brains-for-general-use",
-    "title": "China’s robot makers excel in hardware but lack the AI brains for general use",
-    "tags": [
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:10:29.000Z"
-  },
-  {
-    "id": "841b2da9b85895ec",
-    "slug": "crypto-listed-on-fed-s-jackson-hole-agenda",
-    "title": "Crypto Listed on Fed's Jackson Hole Agenda",
-    "tags": [
-      "Federal Reserve",
-      "Jackson Hole"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:10:27.000Z"
-  },
-  {
-    "id": "28be0c6b816927dd",
-    "slug": "ubs-s-first-ever-panda-bond-sale-lands-record-low-rate-gets-oversubscribed-three-times-over",
-    "title": "UBS’s first-ever panda bond sale lands record-low rate, gets oversubscribed three times over",
-    "tags": [
-      "UBS",
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:09:49.000Z"
-  },
-  {
-    "id": "0af3dda17c0267d8",
-    "slug": "binance-opens-trading-for-bitcoin-mining-giant-mara-and-four-other-tradfi-assets",
-    "title": "Binance Opens Trading for Bitcoin Mining Giant MARA and Four Other TradFi Assets",
-    "tags": [
-      "Binance",
-      "MARA",
+      "IREN",
       "Bitcoin"
     ],
-    "source": "U.Today",
+    "source": "Decrypt",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-08-28T13:09:05.000Z"
+    "pubDate": "2026-08-28T16:04:37.000Z"
   },
   {
-    "id": "d3b6eb303778c17a",
-    "slug": "will-amd-s-helios-push-the-company-to-1-trillion-market-cap",
-    "title": "Will AMD’s Helios Push The Company To $1 Trillion Market Cap?",
+    "id": "a45990a6344b4627",
+    "slug": "the-new-cyber-math-for-cfos-one-attack-hundreds-of-disclosures",
+    "title": "The New Cyber Math for CFOs: One Attack, Hundreds of Disclosures",
     "tags": [
-      "Advanced Micro Devices"
+      "Manchester Airports Group",
+      "PYMNTS.com"
+    ],
+    "source": "PYMNTS",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-28T16:03:04.000Z"
+  },
+  {
+    "id": "2c44984db74eb104",
+    "slug": "amazon-stock-price-prediction-evercore-reiterates-amzn-target",
+    "title": "Amazon Stock Price Prediction: Evercore Reiterates AMZN Target",
+    "tags": [
+      "Amazon",
+      "Evercore"
     ],
     "source": "Watcher.Guru",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-08-28T13:05:00.000Z"
+    "pubDate": "2026-08-28T16:02:00.000Z"
   },
   {
-    "id": "b0961109a9027d47",
-    "slug": "countdown-begins-key-xrp-fix-upgrade-eyes-september-activation",
-    "title": "Countdown Begins: Key XRP Fix Upgrade Eyes September Activation",
+    "id": "ac953cf07e7c045d",
+    "slug": "should-cashcat-traders-expect-a-major-price-correction-in-the-near-term",
+    "title": "Should CASHCAT traders expect a major price correction in the near term?",
     "tags": [
-      "XRP"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:00:25.000Z"
-  },
-  {
-    "id": "1baedcba3d130007",
-    "slug": "ai-in-banking-is-a-workforce-problem-not-a-technology-one",
-    "title": "AI in Banking Is a Workforce Problem, Not a Technology One",
-    "tags": [
-      "Henley Business School",
-      "Rita Fontinha"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:00:16.000Z"
-  },
-  {
-    "id": "1f611ceb67334b18",
-    "slug": "4-7-billion-in-unrealized-losses-all-about-trump-family-s-crypto-ventures-and-their-impact",
-    "title": "$4.7 billion in unrealized losses — All about Trump Family’s crypto ventures and their impact",
-    "tags": [
-      "Donald Trump"
+      "CASHCAT"
     ],
     "source": "AMBCrypto",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-08-28T13:00:15.000Z"
+    "pubDate": "2026-08-28T16:00:29.000Z"
   },
   {
-    "id": "8d46643aae7007f9",
-    "slug": "the-clarity-act-slipped-to-september-banks-are-building-anyway",
-    "title": "The Clarity Act slipped to September. Banks are building anyway",
+    "id": "71f96528e4b4005e",
+    "slug": "bitcoin-drops-before-shrugging-off-fed-chair-s-inflation-comments",
+    "title": "Bitcoin Drops Before Shrugging Off Fed Chair’s Inflation Comments",
     "tags": [
-      "Matter Labs",
-      "Vassilis Tziokas"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T13:00:00.000Z"
-  },
-  {
-    "id": "f46829399dd243e7",
-    "slug": "iren-s-25-billion-30-billion-ai-buildout-may-have-spooked-investors-bernstein-says",
-    "title": "IREN’s $25 billion-$30 billion AI buildout may have ‘spooked’ investors, Bernstein says",
-    "tags": [
-      "IREN",
-      "Bernstein"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T12:57:52.000Z"
-  },
-  {
-    "id": "760d42d6f4836785",
-    "slug": "a-zero-revenue-public-company-tried-to-copy-michael-saylor-to-avoid-delisting-but-its-stock",
-    "title": "A zero-revenue public company tried to copy Michael Saylor to avoid delisting, but its stock immediately crashed 25%",
-    "tags": [
-      "Michael Saylor",
-      "Nasdaq"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T12:50:31.000Z"
-  },
-  {
-    "id": "ec7cf9c665eab6f6",
-    "slug": "hyperliquid-hype-etf-beats-xrp-etf-by-30-as-investors-aim-for-larger-risk",
-    "title": "Hyperliquid (HYPE) ETF Beats XRP ETF by 30% as Investors Aim for Larger Risk",
-    "tags": [
-      "Hyperliquid",
-      "XRP"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T12:45:00.000Z"
-  },
-  {
-    "id": "31a90abf1966b463",
-    "slug": "spark-unveils-updated-app-and-new-borrow-experience-combining-sparklend-and-isolated-markets",
-    "title": "Spark unveils updated app and new Borrow experience combining SparkLend and Isolated Markets",
-    "tags": [
-      "Spark",
-      "SparkLend"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T12:43:18.000Z"
-  },
-  {
-    "id": "4140027e5ae5f992",
-    "slug": "chelsea-manager-xabi-alonso-confirms-no-injury-concerns-ahead-of-match",
-    "title": "Chelsea manager Xabi Alonso confirms no injury concerns ahead of match",
-    "tags": [
-      "Chelsea"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T12:43:05.000Z"
-  },
-  {
-    "id": "b0a85546aa90a750",
-    "slug": "eth-and-btc-are-rallying-together-but-on-chain-data-shows-a-quiet-split",
-    "title": "ETH and BTC Are Rallying Together — But On-Chain Data Shows a Quiet Split",
-    "tags": [
-      "Ethereum",
       "Bitcoin",
-      "Santiment"
+      "Federal Reserve"
     ],
-    "source": "BeInCrypto",
+    "source": "Bitcoin Magazine",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-08-28T12:42:53.000Z"
+    "pubDate": "2026-08-28T15:49:18.000Z"
   },
   {
-    "id": "bef9e17155dafd9b",
-    "slug": "bullish-invests-in-usd-ai-s-100-million-stablecoin-based-liquidity-facility",
-    "title": "Bullish invests in USD.AI's $100 million stablecoin-based liquidity facility",
-    "tags": [
-      "Bullish",
-      "USD.AI"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T12:42:00.000Z"
-  },
-  {
-    "id": "b3edad7d3dce034b",
-    "slug": "canada-economy-grows-3-in-q2-fastest-since-2023",
-    "title": "Canada economy grows 3% in Q2, fastest since 2023",
-    "tags": [
-      "Canada"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T12:38:35.000Z"
-  },
-  {
-    "id": "26e6a5538595416c",
-    "slug": "china-s-regulators-ease-mortgage-rules-but-the-40-year-term-claim-doesn-t-hold-up",
-    "title": "China’s regulators ease mortgage rules, but the 40-year term claim doesn’t hold up",
-    "tags": [
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T12:33:05.000Z"
-  },
-  {
-    "id": "609855bb27b8f9d6",
-    "slug": "ethena-looks-beyond-crypto-to-squeeze-yield-from-booming-equity-perpetuals",
-    "title": "Ethena looks beyond crypto to squeeze yield from booming equity perpetuals",
-    "tags": [
-      "Ethena",
-      "USDe"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T12:30:57.000Z"
-  },
-  {
-    "id": "dc8dcf2db5f6c076",
-    "slug": "xmr-price-breaks-450-is-monero-on-track-for-500",
-    "title": "XMR Price Breaks $450: Is Monero on Track for $500?",
-    "tags": [
-      "Monero"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T12:27:46.000Z"
-  },
-  {
-    "id": "13032f45a54b04e2",
-    "title": "DeFi Exploit : Moonwell Freezes Base Borrowing After $8.7M MAMO Price-Manipulation Incident",
-    "summary": "Moonwell, a lending protocol on Base, said on August 27, 2026 that it was looking into a problem in its MAMO Core Market and had taken emergency steps to stop new loans. In its official statement, the team said borrow caps for every Core Market... Read More",
+    "id": "b6328b280eaee12a",
+    "title": "OCC, FDIC cement drill-down on ‘material financial risks’",
+    "summary": "The agencies said the changes would provide greater clarity and certainty for banks, while critics say revisions will weaken supervision.",
     "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/08/302632-defi-exploit-moonwell-freezes-base-borrowing-after-8-7m-mamo-price-manipulation-incident/",
-    "source": "Crowdfund Insider",
+    "link": "https://www.bankingdive.com/news/occ-fdic-material-financial-risks-unsafe-unsound-mra/829097/",
+    "source": "Banking Dive",
     "tags": [
-      "Moonwell",
-      "Base",
-      "MAMO"
+      "Office of the Comptroller of the Currency",
+      "Federal Deposit Insurance Corporation"
     ],
     "origin": "rss",
-    "pubDate": "2026-08-28T12:27:19.000Z",
-    "fetchedAt": "2026-08-28T15:01:02.704Z",
+    "pubDate": "2026-08-28T15:46:27.000Z",
+    "fetchedAt": "2026-08-28T18:01:07.106Z",
     "isDuplicateOf": null,
-    "content": "Moonwell, a lending protocol operating on Base, froze borrowing across its core markets following a price-manipulation incident involving the MAMO token resulting in an estimated $8.7 million exploit. The protocol team implemented emergency measures to halt new loans while investigating the vulnerability and assessing the full impact of the market manipulation on user funds.",
-    "slug": "defi-exploit-moonwell-freezes-base-borrowing-after-8-7m-mamo-price-manipulation-incident"
+    "content": "The Office of the Comptroller of the Currency and the Federal Deposit Insurance Corporation have updated their oversight framework to focus heavily on material financial risks. The regulators argue these adjustments will increase clarity and certainty for banking institutions. However, critics contend that the revised approach may weaken overall supervision of the financial sector.",
+    "slug": "occ-fdic-cement-drill-down-on-material-financial-risks"
   },
   {
-    "id": "f7b7f640817a975f",
-    "slug": "circle-internet-group-inc-crcl-stock-price-prediction-2026-2027-2030-2040",
-    "title": "Circle Internet Group Inc. (CRCL) Stock Price Prediction 2026, 2027, 2030 – 2040",
-    "tags": [
-      "Circle Internet Group",
-      "CRCL",
-      "USDC"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T12:22:55.000Z"
-  },
-  {
-    "id": "c9ba4a45e91a63e6",
-    "title": "BNPL Fintech Affirm Beats Revenue Estimates and Lifts Outlook as AFRM Stock Surge in After Hours",
-    "summary": "Affirm Holdings (NASDAQ: AFRM) closed fiscal 2026 with another quarter of rapid scale and a sharp jump in reported profit, then pointed investors toward continued growth in the year ahead. The buy-now-pay-later company, which reports results after the US market close on August 27, 2026,... Read More",
+    "id": "403893b877370d5e",
+    "title": "Renasant names KBW alum as its next CFO",
+    "summary": "Catherine Mealor will succeed the retiring Jim Mabry as the Mississippi bank’s finance chief. The lender said it intends to nominate Mabry for a board seat next year.",
     "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/08/302674-bnpl-fintech-affirm-beats-revenue-estimates-and-lifts-outlook-as-afrm-stock-surge-in-after-hours/",
-    "source": "Crowdfund Insider",
+    "link": "https://www.bankingdive.com/news/renasant-next-cfo-catherine-mealor-kbw-jim-mabry-retiring-board-seat/829096/",
+    "source": "Banking Dive",
     "tags": [
-      "Affirm"
+      "Renasant",
+      "Catherine Mealor",
+      "Jim Mabry"
     ],
     "origin": "rss",
-    "pubDate": "2026-08-28T12:22:24.000Z",
-    "fetchedAt": "2026-08-28T15:01:02.704Z",
+    "pubDate": "2026-08-28T15:46:16.000Z",
+    "fetchedAt": "2026-08-28T18:01:07.106Z",
     "isDuplicateOf": null,
-    "content": "Affirm Holdings reported strong results for fiscal 2026, beating revenue estimates and significantly improving its reported profit. The buy-now-pay-later company also raised its future outlook, leading to a surge in its stock price during after-hours trading following the announcement released late August.",
-    "slug": "bnpl-fintech-affirm-beats-revenue-estimates-and-lifts-outlook-as-afrm-stock-surge-in-after-hours"
+    "content": "Renasant has named Catherine Mealor as its next chief financial officer. She will succeed Jim Mabry, who is retiring from his role as the Mississippi bank’s finance chief. Renasant announced that it also intends to nominate Mabry for a seat on the company board next year.",
+    "slug": "renasant-names-kbw-alum-as-its-next-cfo"
   },
   {
-    "id": "bfee85fe50954fbc",
-    "slug": "kla-corp-insiders-cashed-out-64m-while-stock-slid-40",
-    "title": "KLA Corp insiders cashed out $64M while stock slid 40%",
+    "id": "8877c55cf57e2bed",
+    "slug": "bitcoin-dips-to-78-4k-as-fed-s-warsh-downplays-softer-inflation-prints",
+    "title": "Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints",
     "tags": [
-      "KLA Corp"
+      "Bitcoin",
+      "Federal Reserve",
+      "United States"
     ],
-    "source": "Protos",
+    "source": "Cointelegraph",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-08-28T12:22:03.000Z"
+    "pubDate": "2026-08-28T15:31:25.000Z"
   },
   {
-    "id": "596a1b0d7dea4089",
-    "slug": "sbi-buys-20-stake-in-indonesia-s-ajaib-for-270-million-to-expand-yen-stablecoin-in-southeast-asia",
-    "title": "SBI buys 20% stake in Indonesia's Ajaib for $270 million to expand yen stablecoin in Southeast Asia",
+    "id": "d0fbfb1bc6fb3ffc",
+    "slug": "google-scraps-search-ranking-penalties-for-publishers-after-eu-pressure",
+    "title": "Google Scraps Search Ranking Penalties for Publishers After EU Pressure",
     "tags": [
-      "SBI",
-      "Ajaib",
-      "Indonesia",
-      "Southeast Asia",
-      "Japan"
+      "Google",
+      "European Commission"
     ],
-    "source": "CoinDesk",
+    "source": "PYMNTS",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-08-28T12:18:31.000Z"
-  },
-  {
-    "id": "5331bf80785f372b",
-    "slug": "strategy-stock-surges-40-as-bitcoin-rally-lifts-mstr",
-    "title": "Strategy Stock Surges 40% as Bitcoin Rally Lifts MSTR",
-    "tags": [
-      "Strategy",
-      "Bitcoin"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-28T12:16:18.000Z"
+    "pubDate": "2026-08-28T15:30:53.000Z"
   }
 ]
