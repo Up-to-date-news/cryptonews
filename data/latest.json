@@ -1,37 +1,151 @@
 [
   {
-    "id": "b9102bb1cf301a2e",
-    "title": "Swift accepts request to extend structured address migration for ISO 20022 messages",
-    "summary": "Swift is extending the November deadline for moving from unstructured to structured postal addresses for ISO 20022 payment messages after a host of banks asked for more time to comply.",
+    "id": "42663a2988b4ea0b",
+    "title": "US Treasury targets growth, imbalances at G20 finance meeting as digital asset sanctions expand",
+    "summary": "The US's expanded sanctions on digital assets at the G20 meeting could reshape global trade dynamics and intensify compliance challenges.\nThe post US Treasury targets growth, imbalances at G20 finance meeting as digital asset sanctions expand appeared first on Crypto Briefing.",
     "hasSummary": true,
-    "link": "https://www.finextra.com/newsarticle/48318/swift-accepts-request-to-extend-structured-address-migration-for-iso-20022-messages?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
+    "link": "https://cryptobriefing.com/us-treasury-g20-iran-sanctions-digital-assets/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "United States",
+      "G20"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T00:51:24.000Z",
+    "fetchedAt": "2026-08-28T01:00:47.338Z",
+    "isDuplicateOf": null,
+    "content": "At the recent G20 finance meeting, the US Treasury focused on economic growth and global imbalances while simultaneously expanding sanctions on digital assets. This regulatory shift aims to address financial security concerns. However, market participants warn that the broader enforcement measures could reshape international trade dynamics and create significant compliance challenges for digital asset platforms operating globally.",
+    "slug": "us-treasury-targets-growth-imbalances-at-g20-finance-meeting-as-digital-asset-sanctions-expand"
+  },
+  {
+    "id": "ddf4fb61f9b733a0",
+    "title": "Evernorth clears SEC hurdle on path to become largest public XRP treasury vehicle",
+    "summary": "Evernorth's Nasdaq listing could revolutionize institutional access to XRP, enhancing liquidity and integrating crypto into traditional finance.\nThe post Evernorth clears SEC hurdle on path to become largest public XRP treasury vehicle appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/evernorth-sec-s4-nasdaq-xrp-treasury/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Evernorth",
+      "SEC",
+      "Nasdaq",
+      "XRP"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T00:40:36.000Z",
+    "fetchedAt": "2026-08-28T01:00:47.338Z",
+    "isDuplicateOf": null,
+    "content": "Evernorth has cleared a regulatory hurdle with the SEC as it works toward a Nasdaq listing. This development could significantly expand institutional access to XRP, potentially boosting market liquidity and further integrating digital assets into traditional financial systems.",
+    "slug": "evernorth-clears-sec-hurdle-on-path-to-become-largest-public-xrp-treasury-vehicle"
+  },
+  {
+    "id": "c9efd3db670d5d87",
+    "title": "Radiant World faces losses as blue-chip firms reassess support",
+    "summary": "Radiant World's unraveling highlights the fragility of trade finance systems, emphasizing the critical need for reliable documentation and trust.\nThe post Radiant World faces losses as blue-chip firms reassess support appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/radiant-world-losses-blue-chip-firms/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Radiant World"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T00:39:35.000Z",
+    "fetchedAt": "2026-08-28T01:00:47.338Z",
+    "isDuplicateOf": null,
+    "content": "Radiant World faces growing financial losses as major blue-chip firms reassess their support. The unfolding situation highlights the underlying fragility within trade finance systems, underscoring a critical industry-wide need for reliable documentation and restored trust among market participants.",
+    "slug": "radiant-world-faces-losses-as-blue-chip-firms-reassess-support"
+  },
+  {
+    "id": "bf3b071c494d4a4a",
+    "title": "Anthropic Previews Standard for AI Control of Physical Devices",
+    "summary": "Anthropic is opening a research preview of a shared specification for artificial intelligence agents to operate physical devices, specifically lab and manufacturing instruments, the company said in a Thursday (Aug. 27) announcement. The Model Hardware Standard (MHS) enables agents to operate instruments such as microscopes, liquid handlers and robotic arms; perform tasks ranging from routine […]\nThe post Anthropic Previews Standard for AI Control of Physical Devices appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-previews-standard-for-ai-control-of-physical-devices/",
+    "source": "PYMNTS",
+    "tags": [
+      "Anthropic"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T00:37:41.000Z",
+    "fetchedAt": "2026-08-28T01:00:47.338Z",
+    "isDuplicateOf": null,
+    "content": "Anthropic has launched a research preview for the Model Hardware Standard, a shared specification allowing artificial intelligence agents to operate physical equipment. The initiative targets tools like microscopes, liquid handlers, and robotic arms, enabling AI systems to safely manage complex tasks in laboratory and manufacturing environments.",
+    "slug": "anthropic-previews-standard-for-ai-control-of-physical-devices"
+  },
+  {
+    "id": "23996ccde5f5ea92",
+    "title": "Gemini launches stop market orders for Active Trader platform",
+    "summary": "Gemini's addition of stop market orders enhances its competitive edge, appealing to high-volume traders while maintaining regulatory compliance.\nThe post Gemini launches stop market orders for Active Trader platform appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/gemini-stop-market-orders-active-trader/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Gemini"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T00:22:42.000Z",
+    "fetchedAt": "2026-08-28T01:00:47.338Z",
+    "isDuplicateOf": null,
+    "content": "Cryptocurrency exchange Gemini has introduced stop market orders to its Active Trader platform. This new feature aims to improve the trading experience for high-volume users, offering them greater control and precision in managing their market positions while continuing to support regulatory compliance standards.",
+    "slug": "gemini-launches-stop-market-orders-for-active-trader-platform"
+  },
+  {
+    "id": "fe4ec6ccfe901f1b",
+    "title": "US Commerce Secretary accuses Canada of sabotaging trade talks with last-minute demands",
+    "summary": "The escalating US-Canada trade tensions risk destabilizing key industries, disrupting supply chains, and straining bilateral relations.\nThe post US Commerce Secretary accuses Canada of sabotaging trade talks with last-minute demands appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/lutnick-accuses-canada-sabotaging-trade-talks/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "United States",
+      "Canada"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T00:20:52.000Z",
+    "fetchedAt": "2026-08-28T01:00:47.338Z",
+    "isDuplicateOf": null,
+    "content": "Tensions between the United States and Canada have escalated after the US Commerce Secretary accused Canadian officials of disrupting ongoing trade talks with sudden, last-minute demands. This friction raises concerns over potential instability in key industries and cross-border supply chains, threatening to further strain bilateral relations between the two neighboring nations.",
+    "slug": "us-commerce-secretary-accuses-canada-of-sabotaging-trade-talks-with-last-minute-demands"
+  },
+  {
+    "id": "20ccd5b070c2d582",
+    "title": "Over 100 tech firms demand ‘defensive surge’ against AI-driven cyberattacks",
+    "summary": "The call for enhanced AI defenses highlights the urgent need for proactive cybersecurity measures to protect critical infrastructure globally.\nThe post Over 100 tech firms demand ‘defensive surge’ against AI-driven cyberattacks appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/tech-firms-defensive-surge-ai-cyberattacks/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Crypto Briefing"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-28T00:15:03.000Z",
+    "fetchedAt": "2026-08-28T01:00:47.338Z",
+    "isDuplicateOf": null,
+    "content": "More than 100 technology companies have issued a joint call for a defensive surge to protect against growing artificial intelligence-driven cyberattacks. This initiative highlights the urgent global need for enhanced proactive cybersecurity measures to safeguard critical infrastructure from increasingly sophisticated digital threats.",
+    "slug": "over-100-tech-firms-demand-defensive-surge-against-ai-driven-cyberattacks"
+  },
+  {
+    "id": "b9102bb1cf301a2e",
+    "slug": "swift-accepts-request-to-extend-structured-address-migration-for-iso-20022-messages",
+    "title": "Swift accepts request to extend structured address migration for ISO 20022 messages",
     "tags": [
       "Swift"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-08-28T00:01:00.000Z",
-    "fetchedAt": "2026-08-28T00:01:18.844Z",
-    "isDuplicateOf": null,
-    "content": "Swift has announced an extension to the November deadline for financial institutions transitioning from unstructured to structured postal addresses in ISO 20022 payment messages. The decision comes after numerous banks requested additional time to successfully implement the required compliance measures.",
-    "slug": "swift-accepts-request-to-extend-structured-address-migration-for-iso-20022-messages"
+    "hasContent": true,
+    "pubDate": "2026-08-28T00:01:00.000Z"
   },
   {
     "id": "3db0440ef9e0f2ec",
+    "slug": "this-is-huge-bitcoin-completes-first-quantum-resistant-transaction",
     "title": "‘This is huge’ – Bitcoin completes first quantum-resistant transaction",
-    "summary": "Bitcoin made a great step forward towards quantum-resistance.",
-    "hasSummary": true,
-    "link": "https://ambcrypto.com/this-is-huge-bitcoin-completes-first-quantum-resistant-transaction/",
-    "source": "AMBCrypto",
     "tags": [
       "Bitcoin"
     ],
+    "source": "AMBCrypto",
     "origin": "rss",
-    "pubDate": "2026-08-28T00:00:48.000Z",
-    "fetchedAt": "2026-08-28T00:01:18.843Z",
-    "isDuplicateOf": null,
-    "content": "Bitcoin has achieved a major milestone by successfully completing its first quantum-resistant transaction. This development marks a significant step forward for the digital currency as it prepares to defend against future advancements in quantum computing technology, which pose potential security threats to traditional cryptographic systems.",
-    "slug": "this-is-huge-bitcoin-completes-first-quantum-resistant-transaction"
+    "hasContent": true,
+    "pubDate": "2026-08-28T00:00:48.000Z"
   },
   {
     "id": "a757687b65445add",
@@ -685,97 +799,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-08-27T18:20:18.000Z"
-  },
-  {
-    "id": "083b272e8c1e481d",
-    "slug": "no-ledger-wasn-t-hacked-vulnerable-ethereum-app-was-patched-before-exploit-company-says",
-    "title": "No, Ledger Wasn’t Hacked: Vulnerable Ethereum App Was Patched Before Exploit, Company Says",
-    "tags": [
-      "Ledger",
-      "OneKey",
-      "Ethereum"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T18:16:03.000Z"
-  },
-  {
-    "id": "a4005ed38892ecb4",
-    "slug": "dollar-tree-attracts-higher-income-customers-as-sales-climb-7",
-    "title": "Dollar Tree Attracts Higher-Income Customers as Sales Climb 7%",
-    "tags": [
-      "Dollar Tree"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T17:53:36.000Z"
-  },
-  {
-    "id": "2cd3e37fff86d4c1",
-    "slug": "white-house-spurns-return-to-june-deal-with-iran-demands-stronger-terms",
-    "title": "White House spurns return to June deal with Iran, demands stronger terms",
-    "tags": [
-      "White House",
-      "Iran",
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T17:51:58.000Z"
-  },
-  {
-    "id": "7cbc8eff87e39ac0",
-    "slug": "china-vanke-reports-2-2-billion-first-half-loss-as-debt-pressure-mounts",
-    "title": "China Vanke reports $2.2 billion first-half loss as debt pressure mounts",
-    "tags": [
-      "China Vanke",
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T17:39:28.000Z"
-  },
-  {
-    "id": "b6b0c2e2776b1f75",
-    "slug": "google-microsoft-and-openai-urge-stronger-cyber-defenses-against-ai-threats",
-    "title": "Google, Microsoft and OpenAI urge stronger cyber defenses against AI threats",
-    "tags": [
-      "Google",
-      "Microsoft",
-      "OpenAI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T17:38:17.000Z"
-  },
-  {
-    "id": "6dcecf3825d5d654",
-    "slug": "bitcoin-etfs-make-in-kind-conversions-more-accessible-to-investors",
-    "title": "Bitcoin ETFs make in-kind conversions more accessible to investors",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T17:37:05.000Z"
-  },
-  {
-    "id": "8e0ddfad2ddedbbb",
-    "slug": "bitcoin-eyes-major-resistance-as-jackson-hole-kicks-off-with-unusual-fed-agenda",
-    "title": "Bitcoin Eyes Major Resistance as Jackson Hole Kicks Off With Unusual Fed Agenda",
-    "tags": [
-      "Bitcoin",
-      "Federal Reserve"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-27T17:36:04.000Z"
   }
 ]
