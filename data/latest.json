@@ -1,90 +1,328 @@
 [
   {
-    "id": "e919848aebe09657",
-    "title": "Over $10B liquidated from crypto market in past 2 weeks as historic short squeeze reshapes sentiment",
-    "summary": "The recent crypto short squeeze highlights the volatility and risks in derivatives trading, potentially reshaping market strategies and sentiment.\nThe post Over $10B liquidated from crypto market in past 2 weeks as historic short squeeze reshapes sentiment appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/10b-crypto-liquidations-short-squeeze/",
-    "source": "CryptoBriefing",
-    "tags": [],
+    "id": "ab7fa9f1d9e6905b",
+    "slug": "decoding-dogecoin-s-16-pullback-can-doge-recover-from-0-10",
+    "title": "Decoding Dogecoin’s 16% pullback: Can DOGE recover from $0.10?",
+    "tags": [
+      "Dogecoin"
+    ],
+    "source": "AMBCrypto",
     "origin": "rss",
-    "pubDate": "2026-08-29T17:58:48.000Z",
-    "fetchedAt": "2026-08-29T18:01:09.865Z",
+    "hasContent": true,
+    "pubDate": "2026-08-29T20:00:39.000Z"
+  },
+  {
+    "id": "9886e32ed230feda",
+    "slug": "acrisure-faces-debt-pressures-amid-guggenheim-ties-impacting-high-yield-credit-markets",
+    "title": "Acrisure faces debt pressures amid Guggenheim ties, impacting high-yield credit markets",
+    "tags": [
+      "Acrisure",
+      "Guggenheim"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T19:29:37.000Z"
+  },
+  {
+    "id": "9ff0333dca19c760",
+    "slug": "manchester-city-make-move-for-liverpool-s-cody-gakpo-amid-tottenham-interest",
+    "title": "Manchester City make move for Liverpool’s Cody Gakpo amid Tottenham interest",
+    "tags": [
+      "Manchester City",
+      "Liverpool",
+      "Tottenham Hotspur"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T19:25:14.000Z"
+  },
+  {
+    "id": "1d09b7b1dfeae6c9",
+    "slug": "central-bank-of-the-uae-orders-urgent-review-of-banque-misr-branches-after-us-treasury-proposal",
+    "title": "Central Bank of the UAE orders urgent review of Banque Misr branches after US Treasury proposal",
+    "tags": [
+      "Central Bank of the UAE",
+      "Banque Misr",
+      "United States Department of the Treasury",
+      "United Arab Emirates",
+      "United States",
+      "Iran"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T19:19:31.000Z"
+  },
+  {
+    "id": "8d60f1745fbff05b",
+    "slug": "stellar-tokenized-rwa-market-more-than-quadruples-to-nearly-4b",
+    "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
+    "tags": [
+      "Stellar"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T19:12:42.000Z"
+  },
+  {
+    "id": "4729d6ed4680bd95",
+    "slug": "nottingham-forest-linked-with-bid-for-crystal-palace-goalkeeper-dean-henderson",
+    "title": "Nottingham Forest linked with bid for Crystal Palace goalkeeper Dean Henderson",
+    "tags": [
+      "Nottingham Forest",
+      "Crystal Palace",
+      "Dean Henderson"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T19:07:02.000Z"
+  },
+  {
+    "id": "9264b649c19747b6",
+    "slug": "bis-warns-of-digital-dollarization-what-it-means-for-usdt-and-usdc",
+    "title": "BIS warns of ‘digital dollarization’ – What it means for USDT and USDC",
+    "tags": [
+      "Bank for International Settlements",
+      "USDT",
+      "USDC",
+      "United States"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T19:00:35.000Z"
+  },
+  {
+    "id": "bb191cd01cfe2518",
+    "slug": "bitcoin-knots-is-trying-to-fork-bitcoin-again-after-its-last-chain-died-in-two-blocks",
+    "title": "Bitcoin Knots is trying to fork Bitcoin again after its last chain died in two blocks",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T18:50:53.000Z"
+  },
+  {
+    "id": "3bab03af7298fada",
+    "slug": "federal-reserve-s-jackson-hole-2026-wraps-with-hawkish-warsh-debut-and-rate-hike-fears",
+    "title": "Federal Reserve’s Jackson Hole 2026 wraps with hawkish Warsh debut and rate hike fears",
+    "tags": [
+      "Federal Reserve",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T18:43:00.000Z"
+  },
+  {
+    "id": "ca6246cd674b1c1a",
+    "slug": "eth-etfs-see-highest-monthly-net-inflows-since-august-2025",
+    "title": "ETH ETFs see highest monthly net inflows since August 2025",
+    "tags": [
+      "Ethereum",
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T18:35:26.000Z"
+  },
+  {
+    "id": "3824808d0871e449",
+    "slug": "elon-musk-pursues-in-house-production-of-gas-turbine-components",
+    "title": "Elon Musk pursues in-house production of gas turbine components",
+    "tags": [
+      "Elon Musk"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T18:30:19.000Z"
+  },
+  {
+    "id": "bf52e10c9b0170e9",
+    "slug": "tottenham-sits-bottom-of-premier-league-table-with-0-points-after-two-losses",
+    "title": "Tottenham sits bottom of Premier League table with 0 points after two losses",
+    "tags": [
+      "Tottenham"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T18:29:25.000Z"
+  },
+  {
+    "id": "3c11c84f5108edf6",
+    "title": "Singapore Fintech Investment Falls To $499m in H1 2026 As Dealmaking Slows",
+    "summary": "Fintech investment in Singapore fell sharply in the first half of 2026 as investors became more selective and capital was concentrated in a smaller number of larger transactions, according to KPMG’s latest Pulse of Fintech report. Singapore fintech companies attracted more than $499 million across... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/08/303277-singapore-fintech-investment-falls-to-499m-in-h1-2026-as-dealmaking-slows/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Singapore",
+      "KPMG"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-29T18:27:21.000Z",
+    "fetchedAt": "2026-08-29T20:01:25.393Z",
     "isDuplicateOf": null,
-    "content": "Over 10 billion dollars have been liquidated from the cryptocurrency market over the past two weeks. This massive wave of liquidations was driven by a historic short squeeze, which has significantly reshaped market sentiment and highlighted the extreme volatility and ongoing risks associated with derivatives trading across the industry.",
-    "slug": "over-10b-liquidated-from-crypto-market-in-past-2-weeks-as-historic-short-squeeze-reshapes-sentiment"
+    "content": "Fintech investment in Singapore dropped to $499 million during the first half of 2026, according to KPMG's latest Pulse of Fintech report. The slowdown reflects a more cautious investment climate, where capital concentrated into a smaller volume of larger deals as investors grew increasingly selective.",
+    "slug": "singapore-fintech-investment-falls-to-499m-in-h1-2026-as-dealmaking-slows"
+  },
+  {
+    "id": "f84195ae64179a48",
+    "title": "Avici Attacker Turns $190 Into $670K as Team Refunds Users With 10% Cashback",
+    "summary": "The post Avici Attacker Turns $190 Into $670K as Team Refunds Users With 10% Cashback appeared first on Coinpedia Fintech News\nA Solana-based Avici security exploit has exposed more than $1 million in user funds, after an attacker reportedly spent just $190 on gas before draining over $670,000. Meanwhile, the Avici team has now refunded the affected user in full and added 10% cashback after identifying and fixing the contract issue. How Attacker Used $190 in …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/news/avici-attacker-turns-190-into-670k-as-team-refunds-users-with-10-cashback/",
+    "source": "Coinpedia",
+    "tags": [
+      "Avici",
+      "Solana"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-29T18:26:32.000Z",
+    "fetchedAt": "2026-08-29T20:01:25.393Z",
+    "isDuplicateOf": null,
+    "content": "A Solana-based security exploit involving Avici resulted in an attacker turning $190 in gas fees into over $670,000, while total user funds exposed exceeded $1 million. Following the incident, the Avici team identified and fixed the contract issue. They successfully refunded affected users in full and provided an additional 10% cashback to compensate for the exploit.",
+    "slug": "avici-attacker-turns-190-into-670k-as-team-refunds-users-with-10-cashback"
+  },
+  {
+    "id": "0717f050df9f767c",
+    "title": "Tokenization Firm Ondo Finance Appoints Ex-GFMA Executive as Chief Policy Officer",
+    "summary": "Ondo Finance has named Allison Parent as its chief policy officer, adding a veteran of global financial regulation as the firm pushes tokenized assets further into mainstream markets. Parent spent nearly a decade as executive director of the Global Financial Markets Association, representing major banks... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/08/303102-tokenization-firm-ondo-finance-appoints-ex-gfma-executive-as-chief-policy-officer/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Ondo Finance",
+      "Allison Parent",
+      "Global Financial Markets Association"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-29T18:26:07.000Z",
+    "fetchedAt": "2026-08-29T20:01:25.393Z",
+    "isDuplicateOf": null,
+    "content": "Tokenization firm Ondo Finance has appointed Allison Parent as its new chief policy officer. Parent brings nearly a decade of experience from her previous role as executive director of the Global Financial Markets Association. The leadership addition comes as the company continues its efforts to expand tokenized assets into mainstream financial markets.",
+    "slug": "tokenization-firm-ondo-finance-appoints-ex-gfma-executive-as-chief-policy-officer"
+  },
+  {
+    "id": "7b135f761750b2c2",
+    "slug": "sam-altman-pushes-back-on-ai-doom-predictions-says-job-losses-slower-than-feared",
+    "title": "Sam Altman pushes back on AI doom predictions, says job losses slower than feared",
+    "tags": [
+      "Sam Altman",
+      "OpenAI"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T18:24:45.000Z"
+  },
+  {
+    "id": "1a9ebf8a70af2b62",
+    "title": "Chinese Tech Giants Ramp Up AI Spending But Trail US Peers: Moody’s",
+    "summary": "Chinese technology giants are rapidly increasing spending on artificial intelligence infrastructure but face greater financial constraints than their U.S. counterparts, whose larger and more profitable core businesses provide stronger cash flow and greater capacity to sustain heavy investment, Moody’s Ratings said. Capital expenditure by leading... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/08/303278-chinese-tech-giants-ramp-up-ai-spending-but-trail-us-peers-moodys/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "China",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-29T18:24:45.000Z",
+    "fetchedAt": "2026-08-29T20:01:25.393Z",
+    "isDuplicateOf": null,
+    "content": "Chinese technology giants are heavily increasing their investments in artificial intelligence infrastructure. However, according to Moody's Ratings, they face tighter financial constraints compared to their American peers. U.S. competitors benefit from larger, highly profitable core businesses that generate stronger cash flows, giving them a greater capacity to sustain heavy capital expenditures.",
+    "slug": "chinese-tech-giants-ramp-up-ai-spending-but-trail-us-peers-moody-s"
+  },
+  {
+    "id": "44b74394d8031a7f",
+    "title": "Ajax reportedly in talks to sign Sofyan Amrabat as free agent",
+    "summary": "Amrabat's return to Ajax could strengthen their midfield depth and experience, potentially enhancing their domestic and European competitiveness.\nThe post Ajax reportedly in talks to sign Sofyan Amrabat as free agent appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/ajax-sofyan-amrabat-free-agent-signing/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Ajax",
+      "Sofyan Amrabat"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-29T18:20:24.000Z",
+    "fetchedAt": "2026-08-29T20:01:25.393Z",
+    "isDuplicateOf": null,
+    "content": "Ajax is reportedly in discussions to sign Sofyan Amrabat as a free agent. This potential addition aims to bolster the team's midfield depth and overall experience, which could significantly enhance their competitiveness in both domestic and European competitions.",
+    "slug": "ajax-reportedly-in-talks-to-sign-sofyan-amrabat-as-free-agent"
+  },
+  {
+    "id": "e919848aebe09657",
+    "slug": "over-10b-liquidated-from-crypto-market-in-past-2-weeks-as-historic-short-squeeze-reshapes-sentiment",
+    "title": "Over $10B liquidated from crypto market in past 2 weeks as historic short squeeze reshapes sentiment",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T17:58:48.000Z"
   },
   {
     "id": "d8fc4228c52a1999",
+    "slug": "iran-s-pezeshkian-emphasizes-islamabad-mou-domestic-unity-for-stability",
     "title": "Iran’s Pezeshkian emphasizes Islamabad MoU, domestic unity for stability",
-    "summary": "Iran's focus on the Islamabad MoU and domestic unity could enhance regional stability and strengthen Pezeshkian's political position.\nThe post Iran’s Pezeshkian emphasizes Islamabad MoU, domestic unity for stability appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/irans-pezeshkian-emphasizes-islamabad-mou-domestic-unity-for-stability/",
-    "source": "CryptoBriefing",
     "tags": [
       "Iran",
       "Pakistan",
       "Masoud Pezeshkian"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-29T17:54:04.000Z",
-    "fetchedAt": "2026-08-29T18:01:09.865Z",
-    "isDuplicateOf": null,
-    "content": "Iranian President Masoud Pezeshkian has emphasized the importance of the Islamabad Memorandum of Understanding alongside domestic unity to foster regional stability. This diplomatic focus aims to strengthen political cooperation and reinforce internal cohesion within the nation, highlighting strategic partnerships in the region.",
-    "slug": "iran-s-pezeshkian-emphasizes-islamabad-mou-domestic-unity-for-stability"
+    "hasContent": true,
+    "pubDate": "2026-08-29T17:54:04.000Z"
   },
   {
     "id": "66257195fd03adc6",
+    "slug": "newcastle-united-leads-tottenham-1-0-after-elanga-s-goal",
     "title": "Newcastle United leads Tottenham 1-0 after Elanga’s goal",
-    "summary": "Elanga's impact highlights Newcastle's strategic investments paying off, potentially reshaping their Premier League trajectory this season.\nThe post Newcastle United leads Tottenham 1-0 after Elanga’s goal appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/newcastle-elanga-goal-tottenham/",
-    "source": "CryptoBriefing",
     "tags": [
       "Newcastle United",
       "Tottenham"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-29T17:52:37.000Z",
-    "fetchedAt": "2026-08-29T18:01:09.865Z",
-    "isDuplicateOf": null,
-    "content": "Newcastle United took a 1-0 lead against Tottenham following a goal by Elanga. This performance highlights Newcastle's strategic investments, which are beginning to pay off and could potentially reshape the club's Premier League trajectory for the remainder of the season.",
-    "slug": "newcastle-united-leads-tottenham-1-0-after-elanga-s-goal"
+    "hasContent": true,
+    "pubDate": "2026-08-29T17:52:37.000Z"
   },
   {
     "id": "304b44b227c8fdad",
+    "slug": "federal-reserve-chair-warns-ai-is-advancing-faster-than-even-its-believers-predicted",
     "title": "Federal Reserve chair warns AI is advancing faster than even its believers predicted",
-    "summary": "AI's rapid advancement challenges economic stability, influencing Fed's policy on interest rates and highlighting potential market disruptions.\nThe post Federal Reserve chair warns AI is advancing faster than even its believers predicted appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/fed-chair-warsh-ai-advancing-rapidly/",
-    "source": "CryptoBriefing",
     "tags": [
       "Federal Reserve",
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-29T17:48:20.000Z",
-    "fetchedAt": "2026-08-29T18:01:09.865Z",
-    "isDuplicateOf": null,
-    "content": "The Federal Reserve chair has warned that artificial intelligence is advancing at a faster pace than previously anticipated by even its most optimistic supporters. This rapid technological growth introduces new factors for economic stability and could influence future central bank policies regarding interest rates, while also highlighting potential disruptions across global financial markets.",
-    "slug": "federal-reserve-chair-warns-ai-is-advancing-faster-than-even-its-believers-predicted"
+    "hasContent": true,
+    "pubDate": "2026-08-29T17:48:20.000Z"
   },
   {
     "id": "4bda2133614125d2",
+    "slug": "zcash-developer-zakura-launches-common-as-zec-price-jumps-5",
     "title": "Zcash Developer Zakura Launches “Common” as ZEC Price Jumps 5%",
-    "summary": "The post Zcash Developer Zakura Launches “Common” as ZEC Price Jumps 5% appeared first on Coinpedia Fintech News\nZcash developer Zakura has released Common, a new set of cryptography and protocol libraries aimed at making Zcash faster. The release brings major speed improvements across proof generation, hashing, and verification.  Following this release, Zcash native token ZEC has climbed about 5%, now trading at $838.60. Zakura Common Brings Major Speed Boost To Zcash Zakura …",
-    "hasSummary": true,
-    "link": "https://coinpedia.org/news/zcash-developer-zakura-launches-common-as-zec-price-jumps-5/",
-    "source": "Coinpedia",
     "tags": [
       "Zcash"
     ],
+    "source": "Coinpedia",
     "origin": "rss",
-    "pubDate": "2026-08-29T17:44:18.000Z",
-    "fetchedAt": "2026-08-29T18:01:09.865Z",
-    "isDuplicateOf": null,
-    "content": "Zcash developer Zakura has released Common, a new suite of cryptography and protocol libraries designed to enhance the speed of the Zcash network. The update introduces significant performance improvements in proof generation, hashing, and verification processes. Following the announcement, the native cryptocurrency ZEC experienced a 5% price increase, trading at approximately $838.60.",
-    "slug": "zcash-developer-zakura-launches-common-as-zec-price-jumps-5"
+    "hasContent": true,
+    "pubDate": "2026-08-29T17:44:18.000Z"
   },
   {
     "id": "ce01cd4586f03718",
@@ -550,232 +788,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-08-29T14:31:57.000Z"
-  },
-  {
-    "id": "e78df47ece938cbd",
-    "slug": "evernorth-s-xrp-strategy-hinges-on-one-number-after-nasdaq-vote",
-    "title": "Evernorth’s XRP strategy hinges on one number after Nasdaq vote",
-    "tags": [
-      "Evernorth",
-      "Armada II",
-      "Nasdaq",
-      "XRP"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T14:30:29.000Z"
-  },
-  {
-    "id": "c4dc9a4829bd4fcc",
-    "slug": "broad-u-s-money-supply-climbs-to-fresh-record-of-23-220-000-000-000-with-ongoing-monthly-gains",
-    "title": "Broad U.S. Money Supply Climbs to Fresh Record of $23,220,000,000,000 With Ongoing Monthly Gains",
-    "tags": [
-      "United States"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T14:30:13.000Z"
-  },
-  {
-    "id": "5ccd09e0d801eddd",
-    "slug": "everton-pressures-bournemouth-for-opener-in-premier-league-clash",
-    "title": "Everton pressures Bournemouth for opener in Premier League clash",
-    "tags": [
-      "Everton",
-      "Bournemouth",
-      "Premier League"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T14:28:18.000Z"
-  },
-  {
-    "id": "1cbe207ac380b9b7",
-    "slug": "jim-cramer-defends-nvidia-amid-concerns-over-80b-in-debt-and-massive-financing-exposure",
-    "title": "Jim Cramer defends Nvidia amid concerns over $80B in debt and massive financing exposure",
-    "tags": [
-      "Nvidia",
-      "Jim Cramer"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T14:20:06.000Z"
-  },
-  {
-    "id": "5ee7d18026208190",
-    "slug": "google-s-wikiskill-improves-agent-performance-across-5-benchmarks",
-    "title": "Google’s WikiSkill improves agent performance across 5 benchmarks",
-    "tags": [
-      "Google"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T14:18:56.000Z"
-  },
-  {
-    "id": "b24dbf449001d58a",
-    "slug": "fifa-faces-crisis-as-secret-world-cup-privatization-plan-leaks",
-    "title": "FIFA faces crisis as secret World Cup privatization plan leaks",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-08-29T14:14:02.000Z"
-  },
-  {
-    "id": "64826f350704c1ff",
-    "slug": "sberbank-plans-crypto-backed-loans-using-bitcoin-ethereum-and-tether",
-    "title": "Sberbank plans crypto-backed loans using Bitcoin, Ethereum and Tether",
-    "tags": [
-      "Sberbank",
-      "Bitcoin",
-      "Ethereum",
-      "Tether",
-      "Russia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T14:05:34.000Z"
-  },
-  {
-    "id": "57dc69f05289b511",
-    "slug": "scott-bessent-s-plan-to-tame-us-borrowing-costs-keeps-running-into-the-bond-market-s-brick-wall",
-    "title": "Scott Bessent’s plan to tame US borrowing costs keeps running into the bond market’s brick wall",
-    "tags": [
-      "Scott Bessent",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T14:04:34.000Z"
-  },
-  {
-    "id": "dc6ffd9a37d8b66f",
-    "slug": "this-seems-incorrect-ripple-cto-emeritus-slams-kalshi-cftc-argument",
-    "title": "'This Seems Incorrect': Ripple CTO Emeritus Slams Kalshi CFTC Argument",
-    "tags": [
-      "Ripple",
-      "Kalshi",
-      "Commodity Futures Trading Commission"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T14:00:43.000Z"
-  },
-  {
-    "id": "844b375dabecabdd",
-    "slug": "reform-uk-drops-crypto-sponsors-what-does-farage-want-instead",
-    "title": "Reform UK Drops Crypto Sponsors: What Does Farage Want Instead?",
-    "tags": [
-      "Reform UK",
-      "Bitcoin",
-      "United Kingdom"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T14:00:04.000Z"
-  },
-  {
-    "id": "72edf6d43b986e80",
-    "slug": "former-white-house-teleprompter-operator-ordered-to-pay-172-000-for-kalshi-trades-on-mention-markets",
-    "title": "Former White House teleprompter operator ordered to pay $172,000 for Kalshi trades on mention markets",
-    "tags": [
-      "White House",
-      "CFTC",
-      "Kalshi"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T13:58:02.000Z"
-  },
-  {
-    "id": "2e8e4573105b5b9d",
-    "slug": "liverpool-and-nottingham-forest-draw-2-2-in-premier-league-clash-at-anfield",
-    "title": "Liverpool and Nottingham Forest draw 2-2 in Premier League clash at Anfield",
-    "tags": [
-      "Liverpool",
-      "Nottingham Forest",
-      "Premier League"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T13:35:50.000Z"
-  },
-  {
-    "id": "6a9e8567f4424f8b",
-    "slug": "cursor-founder-says-openai-models-account-for-just-5-of-user-traffic",
-    "title": "Cursor founder says OpenAI models account for just 5% of user traffic",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-08-29T13:34:28.000Z"
-  },
-  {
-    "id": "e48f59c71c3c491c",
-    "slug": "bitcoin-miners-are-no-longer-pure-crypto-proxies-and-are-morphing-into-high-performance-computing",
-    "title": "Bitcoin miners are no longer pure crypto proxies and are morphing into high-performance computing hubs",
-    "tags": [],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-08-29T13:30:22.000Z"
-  },
-  {
-    "id": "3979ad8a8bd61869",
-    "slug": "where-will-eth-find-support-after-the-2-5k-rejection-ethereum-price-analysis",
-    "title": "Where Will ETH Find Support After the $2.5K Rejection? (Ethereum Price Analysis)",
-    "tags": [
-      "Ethereum"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T13:16:52.000Z"
-  },
-  {
-    "id": "dde8be9ef896a872",
-    "slug": "nvidia-and-global-liquidity-shifts-impact-market-landscape-fundstrat",
-    "title": "Nvidia and global liquidity shifts impact market landscape: Fundstrat",
-    "tags": [
-      "Nvidia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T13:15:50.000Z"
-  },
-  {
-    "id": "9150703f235f498a",
-    "slug": "japanese-tech-giant-announces-real-shib-coin-giveaway-for-holders",
-    "title": "Japanese Tech Giant Announces 'Real SHIB Coin' Giveaway for Holders",
-    "tags": [],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-08-29T13:15:03.000Z"
-  },
-  {
-    "id": "6343c24d7938d24b",
-    "slug": "ethereum-core-developers-schedule-eip-8141-for-hegota-upgrade",
-    "title": "Ethereum core developers schedule EIP-8141 for Hegotá upgrade",
-    "tags": [
-      "Ethereum"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T13:06:03.000Z"
   }
 ]
