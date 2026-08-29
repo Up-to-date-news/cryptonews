@@ -1,110 +1,561 @@
 [
   {
-    "id": "de53613ba67d59a2",
-    "title": "Kremlin pauses Ukraine peace talks amid continued eastern offensive",
-    "summary": "The pause in peace talks signals a prolonged conflict, diminishing hopes for a ceasefire and impacting geopolitical stability and market outlooks.\nThe post Kremlin pauses Ukraine peace talks amid continued eastern offensive appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/kremlin-pauses-ukraine-peace-talks-amid-continued-eastern-offensive/",
+    "id": "535da80d3f23df9a",
+    "slug": "bitcoin-drops-after-warsh-speech-as-hike-odds-hit-57-can-btc-reclaim-80k",
+    "title": "Bitcoin drops after Warsh speech as hike odds hit 57% – Can BTC reclaim $80K?",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T15:00:15.000Z"
+  },
+  {
+    "id": "78b819e93f0efcf3",
+    "slug": "ditching-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
+    "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
+    "tags": [
+      "Bitcoin",
+      "United States"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T15:00:00.000Z"
+  },
+  {
+    "id": "32d476484a3c5c33",
+    "slug": "swift-s-1-5-quadrillion-network-faces-a-blockchain-test",
+    "title": "Swift’s $1.5 quadrillion network faces a blockchain test",
+    "tags": [],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-08-29T15:00:00.000Z"
+  },
+  {
+    "id": "8d94242d7cb445ed",
+    "slug": "the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
+    "title": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
+    "tags": [],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T15:00:00.000Z"
+  },
+  {
+    "id": "d3575fbc87cb052f",
+    "slug": "psg-goalkeeper-matvei-safonov-plays-full-90-minutes-after-warm-up-collision-with-coaching-staff",
+    "title": "PSG goalkeeper Matvei Safonov plays full 90 minutes after warm-up collision with coaching staff",
+    "tags": [],
     "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-08-29T14:51:53.000Z"
+  },
+  {
+    "id": "83f114534cd80780",
+    "slug": "mourinho-backs-mbappe-for-2026-ballon-d-or-after-historic-world-cup-run",
+    "title": "Mourinho backs Mbappé for 2026 Ballon d’Or after historic World Cup run",
+    "tags": [
+      "José Mourinho",
+      "Kylian Mbappé"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T14:46:40.000Z"
+  },
+  {
+    "id": "7be6130a25462603",
+    "slug": "market-strategists-warn-of-scrutiny-for-us-government-ownership-stakes",
+    "title": "Market strategists warn of scrutiny for US government ownership stakes",
+    "tags": [
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T14:44:46.000Z"
+  },
+  {
+    "id": "78c9d4892fe1cdb0",
+    "slug": "coventry-leads-hull-in-first-premier-league-home-game-in-25-years",
+    "title": "Coventry leads Hull in first Premier League home game in 25 years",
+    "tags": [
+      "Coventry",
+      "Hull"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T14:37:38.000Z"
+  },
+  {
+    "id": "e79278d9a85f028e",
+    "slug": "ionq-shifts-to-vertical-integration-with-skywater-technology-acquisition",
+    "title": "IonQ shifts to vertical integration with SkyWater Technology acquisition",
+    "tags": [
+      "IonQ",
+      "SkyWater Technology"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T14:37:02.000Z"
+  },
+  {
+    "id": "18cf30c4efa8ea0d",
+    "slug": "us-gas-prices-surge-1-25-per-gallon-amid-iran-conflict-tensions",
+    "title": "US gas prices surge $1.25 per gallon amid Iran conflict tensions",
+    "tags": [
+      "United States",
+      "Iran"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T14:31:57.000Z"
+  },
+  {
+    "id": "e78df47ece938cbd",
+    "slug": "evernorth-s-xrp-strategy-hinges-on-one-number-after-nasdaq-vote",
+    "title": "Evernorth’s XRP strategy hinges on one number after Nasdaq vote",
+    "tags": [
+      "Evernorth",
+      "Armada II",
+      "Nasdaq",
+      "XRP"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T14:30:29.000Z"
+  },
+  {
+    "id": "c4dc9a4829bd4fcc",
+    "title": "Broad U.S. Money Supply Climbs to Fresh Record of $23,220,000,000,000 With Ongoing Monthly Gains",
+    "summary": "U.S. M2 money supply rose by $102.8 billion in July to a new high of $23.22 trillion, marking the 27th consecutive monthly increase.\nThe post Broad U.S. Money Supply Climbs to Fresh Record of $23,220,000,000,000 With Ongoing Monthly Gains appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/08/29/broad-u-s-money-supply-climbs-to-fresh-record-of-23220000000000-with-ongoing-monthly-gains/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-29T14:30:13.000Z",
+    "fetchedAt": "2026-08-29T15:01:08.601Z",
+    "isDuplicateOf": null,
+    "content": "The broad United States money supply has climbed to a fresh record high of $23.22 trillion amid ongoing monthly gains. According to reports, the M2 money supply rose by $102.8 billion in July, marking the twenty-seventh consecutive monthly increase for the metric.",
+    "slug": "broad-u-s-money-supply-climbs-to-fresh-record-of-23-220-000-000-000-with-ongoing-monthly-gains"
+  },
+  {
+    "id": "5ccd09e0d801eddd",
+    "slug": "everton-pressures-bournemouth-for-opener-in-premier-league-clash",
+    "title": "Everton pressures Bournemouth for opener in Premier League clash",
+    "tags": [
+      "Everton",
+      "Bournemouth",
+      "Premier League"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T14:28:18.000Z"
+  },
+  {
+    "id": "1cbe207ac380b9b7",
+    "slug": "jim-cramer-defends-nvidia-amid-concerns-over-80b-in-debt-and-massive-financing-exposure",
+    "title": "Jim Cramer defends Nvidia amid concerns over $80B in debt and massive financing exposure",
+    "tags": [
+      "Nvidia",
+      "Jim Cramer"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T14:20:06.000Z"
+  },
+  {
+    "id": "5ee7d18026208190",
+    "slug": "google-s-wikiskill-improves-agent-performance-across-5-benchmarks",
+    "title": "Google’s WikiSkill improves agent performance across 5 benchmarks",
+    "tags": [
+      "Google"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T14:18:56.000Z"
+  },
+  {
+    "id": "b24dbf449001d58a",
+    "slug": "fifa-faces-crisis-as-secret-world-cup-privatization-plan-leaks",
+    "title": "FIFA faces crisis as secret World Cup privatization plan leaks",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-08-29T14:14:02.000Z"
+  },
+  {
+    "id": "64826f350704c1ff",
+    "slug": "sberbank-plans-crypto-backed-loans-using-bitcoin-ethereum-and-tether",
+    "title": "Sberbank plans crypto-backed loans using Bitcoin, Ethereum and Tether",
+    "tags": [
+      "Sberbank",
+      "Bitcoin",
+      "Ethereum",
+      "Tether",
+      "Russia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T14:05:34.000Z"
+  },
+  {
+    "id": "57dc69f05289b511",
+    "title": "Scott Bessent’s plan to tame US borrowing costs keeps running into the bond market’s brick wall",
+    "summary": "Efforts to manage US borrowing costs face challenges, highlighting concerns over fiscal sustainability and potential market distortions.\nThe post Scott Bessent’s plan to tame US borrowing costs keeps running into the bond market’s brick wall appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/bessent-us-interest-rates-bond-market/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Scott Bessent",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-29T14:04:34.000Z",
+    "fetchedAt": "2026-08-29T15:01:08.601Z",
+    "isDuplicateOf": null,
+    "content": "Efforts led by Scott Bessent to manage United States borrowing costs are encountering significant hurdles in the bond market. These challenges highlight growing concerns regarding fiscal sustainability and the potential for market distortions. As policymakers attempt to navigate the complex economic environment, market reactions continue to test the proposed financial strategies.",
+    "slug": "scott-bessent-s-plan-to-tame-us-borrowing-costs-keeps-running-into-the-bond-market-s-brick-wall"
+  },
+  {
+    "id": "dc6ffd9a37d8b66f",
+    "slug": "this-seems-incorrect-ripple-cto-emeritus-slams-kalshi-cftc-argument",
+    "title": "'This Seems Incorrect': Ripple CTO Emeritus Slams Kalshi CFTC Argument",
+    "tags": [
+      "Ripple",
+      "Kalshi",
+      "Commodity Futures Trading Commission"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T14:00:43.000Z"
+  },
+  {
+    "id": "844b375dabecabdd",
+    "slug": "reform-uk-drops-crypto-sponsors-what-does-farage-want-instead",
+    "title": "Reform UK Drops Crypto Sponsors: What Does Farage Want Instead?",
+    "tags": [
+      "Reform UK",
+      "Bitcoin",
+      "United Kingdom"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T14:00:04.000Z"
+  },
+  {
+    "id": "72edf6d43b986e80",
+    "slug": "former-white-house-teleprompter-operator-ordered-to-pay-172-000-for-kalshi-trades-on-mention-markets",
+    "title": "Former White House teleprompter operator ordered to pay $172,000 for Kalshi trades on mention markets",
+    "tags": [
+      "White House",
+      "CFTC",
+      "Kalshi"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T13:58:02.000Z"
+  },
+  {
+    "id": "2e8e4573105b5b9d",
+    "title": "Liverpool and Nottingham Forest draw 2-2 in Premier League clash at Anfield",
+    "summary": "Liverpool's struggles to secure wins highlight potential challenges in adapting to new management, while Forest's resilience signals competitive intent.\nThe post Liverpool and Nottingham Forest draw 2-2 in Premier League clash at Anfield appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/liverpool-nottingham-forest-draw-premier-league/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Liverpool",
+      "Nottingham Forest",
+      "Premier League"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-29T13:35:50.000Z",
+    "fetchedAt": "2026-08-29T15:01:08.601Z",
+    "isDuplicateOf": null,
+    "content": "Liverpool and Nottingham Forest played out a 2-2 draw in their Premier League encounter at Anfield. The match highlighted ongoing challenges for Liverpool as they adjust to new management, while Nottingham Forest demonstrated strong resilience on the pitch, signaling their competitive intent for the season.",
+    "slug": "liverpool-and-nottingham-forest-draw-2-2-in-premier-league-clash-at-anfield"
+  },
+  {
+    "id": "6a9e8567f4424f8b",
+    "title": "Cursor founder says OpenAI models account for just 5% of user traffic",
+    "summary": "Cursor's reliance on diverse AI models highlights the strategic importance of multi-supplier resilience in the evolving AI landscape.\nThe post Cursor founder says OpenAI models account for just 5% of user traffic appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/cursor-openai-5-percent-traffic/",
+    "source": "CryptoBriefing",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-08-29T13:34:28.000Z",
+    "fetchedAt": "2026-08-29T15:01:08.601Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "cursor-founder-says-openai-models-account-for-just-5-of-user-traffic"
+  },
+  {
+    "id": "e48f59c71c3c491c",
+    "slug": "bitcoin-miners-are-no-longer-pure-crypto-proxies-and-are-morphing-into-high-performance-computing",
+    "title": "Bitcoin miners are no longer pure crypto proxies and are morphing into high-performance computing hubs",
+    "tags": [],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-08-29T13:30:22.000Z"
+  },
+  {
+    "id": "3979ad8a8bd61869",
+    "slug": "where-will-eth-find-support-after-the-2-5k-rejection-ethereum-price-analysis",
+    "title": "Where Will ETH Find Support After the $2.5K Rejection? (Ethereum Price Analysis)",
+    "tags": [
+      "Ethereum"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T13:16:52.000Z"
+  },
+  {
+    "id": "dde8be9ef896a872",
+    "title": "Nvidia and global liquidity shifts impact market landscape: Fundstrat",
+    "summary": "Nvidia's influence and liquidity shifts may redefine market dynamics, affecting asset valuations and investor strategies across sectors.\nThe post Nvidia and global liquidity shifts impact market landscape: Fundstrat appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/nvidia-and-global-liquidity-shifts-impact-market-landscape-fundstrat/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Nvidia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-29T13:15:50.000Z",
+    "fetchedAt": "2026-08-29T15:01:08.601Z",
+    "isDuplicateOf": null,
+    "content": "According to Fundstrat, shifting global liquidity conditions alongside the prominent market influence of Nvidia are set to impact the broader financial landscape. These combined macroeconomic and sector-specific factors could redefine traditional market dynamics, potentially influencing asset valuations and reshaping investor strategies across various industries in the near future.",
+    "slug": "nvidia-and-global-liquidity-shifts-impact-market-landscape-fundstrat"
+  },
+  {
+    "id": "9150703f235f498a",
+    "slug": "japanese-tech-giant-announces-real-shib-coin-giveaway-for-holders",
+    "title": "Japanese Tech Giant Announces 'Real SHIB Coin' Giveaway for Holders",
+    "tags": [],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-08-29T13:15:03.000Z"
+  },
+  {
+    "id": "6343c24d7938d24b",
+    "title": "Ethereum core developers schedule EIP-8141 for Hegotá upgrade",
+    "summary": "EIP-8141's inclusion in the Hegot upgrade enhances Ethereum's competitiveness by simplifying user transactions and future-proofing security.\nThe post Ethereum core developers schedule EIP-8141 for Hegotá upgrade appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/ethereum-eip-8141-hegota-upgrade/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-29T13:06:03.000Z",
+    "fetchedAt": "2026-08-29T15:01:08.601Z",
+    "isDuplicateOf": null,
+    "content": "Ethereum core developers have scheduled EIP-8141 for inclusion in the upcoming Hegot upgrade. This enhancement aims to improve Ethereum's overall competitiveness by simplifying user transactions and strengthening long-term security features for the network.",
+    "slug": "ethereum-core-developers-schedule-eip-8141-for-hegota-upgrade"
+  },
+  {
+    "id": "68861a1c34c6090a",
+    "title": "Nvidia advances AI architecture with smarter traffic control",
+    "summary": "Nvidia's Spectrum-X could redefine AI data center efficiency, potentially setting a new standard for network performance and scalability.\nThe post Nvidia advances AI architecture with smarter traffic control appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/nvidia-spectrum-x-ethernet-ai-networking/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Nvidia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-29T13:04:52.000Z",
+    "fetchedAt": "2026-08-29T15:01:08.601Z",
+    "isDuplicateOf": null,
+    "content": "Nvidia has announced advancements in AI architecture through the introduction of smarter traffic control capabilities. The new Spectrum-X technology aims to redefine data center efficiency, potentially establishing a new standard for network performance and scalability. This development highlights ongoing efforts to optimize infrastructure for artificial intelligence workloads.",
+    "slug": "nvidia-advances-ai-architecture-with-smarter-traffic-control"
+  },
+  {
+    "id": "f45b52c51eabf3a0",
+    "slug": "bitcoin-treasuries-cross-100b-can-btc-absorb-metaplanet-s-237m-move",
+    "title": "Bitcoin treasuries cross $100B – Can BTC absorb Metaplanet’s $237M move?",
+    "tags": [],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-08-29T13:00:52.000Z"
+  },
+  {
+    "id": "78b70cdbe29c64da",
+    "slug": "tokenized-assets-are-busier-than-the-data-shows",
+    "title": "Tokenized assets are busier than the data shows",
+    "tags": [
+      "Katana",
+      "Matthew Fisher"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-29T13:00:00.000Z"
+  },
+  {
+    "id": "94ca7fda9ced55d9",
+    "title": "Polkadot Price Faces Sell Pressure Despite Decentralization Lead, Can It Recover Past $1?",
+    "summary": "The post Polkadot Price Faces Sell Pressure Despite Decentralization Lead, Can It Recover Past $1? appeared first on Coinpedia Fintech News\nPolkadot has a curious problem right now: the network is stacking up positive ecosystem developments while the Polkadot price is doing almost the opposite. Chainspect’s Nakamoto Coefficient data places Polkadot at the top of the listed networks, ahead of TON and Avalanche, suggesting a comparatively strong decentralization profile.  Yet DOT is slipping under its 50-day …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/news/polkadot-price-faces-sell-pressure-despite-decentralization-lead-can-it-recover-past-1/",
+    "source": "Coinpedia",
+    "tags": [
+      "Polkadot",
+      "Chainspect",
+      "TON",
+      "Avalanche"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-29T12:55:29.000Z",
+    "fetchedAt": "2026-08-29T15:01:08.601Z",
+    "isDuplicateOf": null,
+    "content": "Polkadot is facing downward price pressure despite strong network developments. Recent data from Chainspect indicates that Polkadot leads listed networks in decentralization based on its Nakamoto Coefficient, outperforming competitors like TON and Avalanche. However, the token's market price has struggled, slipping below its 50-day moving average as investors watch to see if it can recover key price levels.",
+    "slug": "polkadot-price-faces-sell-pressure-despite-decentralization-lead-can-it-recover-past-1"
+  },
+  {
+    "id": "5669f4e5018f386c",
+    "title": "US hiring slows again as job growth settles into a stubborn crawl",
+    "summary": "The persistent hiring slowdown may hinder economic growth and exacerbate workforce challenges, impacting sectors unevenly across the economy.\nThe post US hiring slows again as job growth settles into a stubborn crawl appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/us-hiring-slows-job-growth-remains-weak/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-29T12:40:29.000Z",
+    "fetchedAt": "2026-08-29T15:01:08.601Z",
+    "isDuplicateOf": null,
+    "content": "Recent data shows that United States hiring has slowed down once again, with job growth settling into a persistent crawl. This ongoing slowdown in the labor market raises concerns about broader economic growth and highlights continuing workforce challenges impacting various sectors differently across the economy.",
+    "slug": "us-hiring-slows-again-as-job-growth-settles-into-a-stubborn-crawl"
+  },
+  {
+    "id": "622d34c12d5a1861",
+    "slug": "bitcoin-s-failed-81-000-breakout-just-put-75-000-back-on-the-table",
+    "title": "Bitcoin’s failed $81,000 breakout just put $75,000 back on the table",
+    "tags": [],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-08-29T12:40:28.000Z"
+  },
+  {
+    "id": "db92104ccfc44f97",
+    "title": "Bournemouth hosts Everton in Premier League Matchweek 2 with both sides navigating early-season injury concerns",
+    "summary": "Injury challenges and transfer dynamics could significantly impact both Bournemouth's and Everton's early-season momentum and strategic depth.\nThe post Bournemouth hosts Everton in Premier League Matchweek 2 with both sides navigating early-season injury concerns appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/bournemouth-everton-premier-league-matchweek-2/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Bournemouth",
+      "Everton"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-29T12:38:48.000Z",
+    "fetchedAt": "2026-08-29T15:01:08.601Z",
+    "isDuplicateOf": null,
+    "content": "Bournemouth prepares to host Everton for a Premier League Matchweek 2 fixture. Both teams enter the match managing early-season injury concerns and evaluating ongoing transfer dynamics. These roster challenges could significantly impact the strategic depth and momentum of both clubs as they seek a strong start in the current campaign.",
+    "slug": "bournemouth-hosts-everton-in-premier-league-matchweek-2-with-both-sides-navigating-early-season"
+  },
+  {
+    "id": "de53613ba67d59a2",
+    "slug": "kremlin-pauses-ukraine-peace-talks-amid-continued-eastern-offensive",
+    "title": "Kremlin pauses Ukraine peace talks amid continued eastern offensive",
     "tags": [
       "Russia",
       "Ukraine",
       "Kremlin"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-29T12:23:03.000Z",
-    "fetchedAt": "2026-08-29T12:35:30.676Z",
-    "isDuplicateOf": null,
-    "content": "The Kremlin has announced a pause in peace negotiations concerning Ukraine as military offensives continue in the eastern region. This development signals a potentially prolonged conflict, diminishing immediate hopes for a ceasefire. The breakdown in diplomatic efforts has raised concerns regarding ongoing geopolitical stability and broader economic market outlooks.",
-    "slug": "kremlin-pauses-ukraine-peace-talks-amid-continued-eastern-offensive"
+    "hasContent": true,
+    "pubDate": "2026-08-29T12:23:03.000Z"
   },
   {
     "id": "d9038a0d21d1830e",
+    "slug": "uae-spy-sheikh-behind-trump-crypto-bank-49-ownership-500m-and-questions-maga-can-t-avoid",
     "title": "UAE “Spy Sheikh” Behind Trump Crypto Bank: 49% Ownership, $500M and Questions MAGA Can’t Avoid",
-    "summary": "UAE-linked investors hold 49% of World Liberty Financial’s planned crypto bank venture after the OCC’s preliminary approval for USD1 services.\nThe post UAE “Spy Sheikh” Behind Trump Crypto Bank: 49% Ownership, $500M and Questions MAGA Can’t Avoid appeared first on Cryptonews.",
-    "hasSummary": true,
-    "link": "https://cryptonews.com/news/world-liberty-financial-trump-crypto-bank/",
-    "source": "CryptoNews",
     "tags": [
       "United Arab Emirates",
       "World Liberty Financial"
     ],
+    "source": "CryptoNews",
     "origin": "rss",
-    "pubDate": "2026-08-29T12:20:00.000Z",
-    "fetchedAt": "2026-08-29T12:35:30.676Z",
-    "isDuplicateOf": null,
-    "content": "UAE-linked investors have reportedly secured a 49% ownership stake in a planned crypto bank venture associated with World Liberty Financial. The project has received preliminary approval for USD1 services, raising significant political and financial questions. The involvement of foreign entities in a Trump-linked cryptocurrency project continues to draw widespread attention and scrutiny.",
-    "slug": "uae-spy-sheikh-behind-trump-crypto-bank-49-ownership-500m-and-questions-maga-can-t-avoid"
+    "hasContent": true,
+    "pubDate": "2026-08-29T12:20:00.000Z"
   },
   {
     "id": "2119c7173a4ac43c",
+    "slug": "spacex-stock-price-at-141-50-as-elon-musk-targets-3-5t-revenue-by-2033",
     "title": "SpaceX Stock Price at $141.50 as Elon Musk Targets $3.5T Revenue by 2033",
-    "summary": "The post SpaceX Stock Price at $141.50 as Elon Musk Targets $3.5T Revenue by 2033 appeared first on Coinpedia Fintech News\nElon Musk’s SpaceX is at the center of a new Wall Street discussion after Morgan Stanley published its latest forecast following the company’s $100 billion Starbase Louisiana expansion plan.  Morgan Stanley sees SpaceX reaching $3.5 trillion in annual revenue by 2040, while Elon Musk expects the same figure to be reached by 2033. Morgan Stanley …",
-    "hasSummary": true,
-    "link": "https://coinpedia.org/news/spacex-stock-price-at-141-50-as-elon-musk-targets-3-5t-revenue-by-2033/",
-    "source": "Coinpedia",
     "tags": [
       "SpaceX",
       "Elon Musk",
       "Morgan Stanley"
     ],
+    "source": "Coinpedia",
     "origin": "rss",
-    "pubDate": "2026-08-29T12:18:11.000Z",
-    "fetchedAt": "2026-08-29T12:35:30.676Z",
-    "isDuplicateOf": null,
-    "content": "SpaceX is drawing attention from Wall Street following a Morgan Stanley forecast and the company's Starbase Louisiana expansion plan. While Morgan Stanley projects SpaceX could reach $3.5 trillion in annual revenue by 2040, Elon Musk anticipates hitting that milestone significantly earlier by the year 2033.",
-    "slug": "spacex-stock-price-at-141-50-as-elon-musk-targets-3-5t-revenue-by-2033"
+    "hasContent": true,
+    "pubDate": "2026-08-29T12:18:11.000Z"
   },
   {
     "id": "1bae395e970dc633",
+    "slug": "bfx-wins-teamfight-t1-secures-nexus-to-advance-in-lck-playoffs",
     "title": "BFX wins teamfight, T1 secures Nexus to advance in LCK Playoffs",
-    "summary": "T1's advancement highlights their strategic prowess, while BFX's resilience suggests potential for future upsets in the LCK Playoffs.\nThe post BFX wins teamfight, T1 secures Nexus to advance in LCK Playoffs appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/t1-beats-bfx-lck-playoffs-2026/",
-    "source": "CryptoBriefing",
     "tags": [
       "LCK"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-29T12:11:11.000Z",
-    "fetchedAt": "2026-08-29T12:35:30.676Z",
-    "isDuplicateOf": null,
-    "content": "In a competitive match during the LCK Playoffs, BFX secured a notable victory in a teamfight, but T1 ultimately triumphed by securing the Nexus to advance in the tournament. T1's strategic execution allowed them to progress, while BFX's performance demonstrated strong resilience, pointing toward potential future upsets in the regional competition.",
-    "slug": "bfx-wins-teamfight-t1-secures-nexus-to-advance-in-lck-playoffs"
+    "hasContent": true,
+    "pubDate": "2026-08-29T12:11:11.000Z"
   },
   {
     "id": "94b8b94b9e56a0f7",
+    "slug": "leao-bids-emotional-farewell-to-milan-amid-galatasaray-transfer-reports",
     "title": "Leao bids emotional farewell to Milan amid Galatasaray transfer reports",
-    "summary": "Leao's move to Galatasaray signals a shift in Turkish football's ambition, potentially elevating its competitive stature in Europe.\nThe post Leao bids emotional farewell to Milan amid Galatasaray transfer reports appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/leao-farewell-milan-galatasaray-transfer/",
-    "source": "CryptoBriefing",
     "tags": [
       "AC Milan",
       "Galatasaray",
       "Turkey"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-29T12:09:54.000Z",
-    "fetchedAt": "2026-08-29T12:35:30.676Z",
-    "isDuplicateOf": null,
-    "content": "Rafael Leao has reportedly bid an emotional farewell to AC Milan amid growing transfer links to Galatasaray. This potential move highlights rising ambitions within Turkish football, which could boost the country's competitive standing across European competitions if the high-profile transfer is successfully finalized.",
-    "slug": "leao-bids-emotional-farewell-to-milan-amid-galatasaray-transfer-reports"
+    "hasContent": true,
+    "pubDate": "2026-08-29T12:09:54.000Z"
   },
   {
     "id": "7cab89a7eda3560a",
+    "slug": "manchester-united-s-champions-league-fixtures-confirmed-for-2026-27-season",
     "title": "Manchester United’s Champions League fixtures confirmed for 2026-27 season",
-    "summary": "Manchester United's return to the Champions League highlights the evolving dynamics of European football, impacting team strategies and fan engagement.\nThe post Manchester United’s Champions League fixtures confirmed for 2026-27 season appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/manchester-united-champions-league-fixtures-2026-27/",
-    "source": "CryptoBriefing",
     "tags": [],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-29T12:08:36.000Z",
-    "fetchedAt": "2026-08-29T12:35:30.676Z",
-    "isDuplicateOf": null,
-    "content": null,
-    "slug": "manchester-united-s-champions-league-fixtures-confirmed-for-2026-27-season"
+    "hasContent": false,
+    "pubDate": "2026-08-29T12:08:36.000Z"
   },
   {
     "id": "61448ced5d2c6289",
@@ -355,466 +806,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-08-29T11:04:07.000Z"
-  },
-  {
-    "id": "cc6c64556128e73c",
-    "slug": "simon-s-cat-price-prediction-2026-2027-2030-will-cat-price-skyrocket",
-    "title": "Simon’s Cat Price Prediction 2026, 2027-2030: Will CAT Price Skyrocket?",
-    "tags": [
-      "Simon’s Cat",
-      "CAT"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T11:03:43.000Z"
-  },
-  {
-    "id": "147727defd80b298",
-    "slug": "solana-etfs-attract-138m-in-10-days-is-sol-ignoring-the-demand",
-    "title": "Solana ETFs attract $138M in 10 days – Is SOL ignoring the demand?",
-    "tags": [],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-08-29T11:00:20.000Z"
-  },
-  {
-    "id": "0a7e39706d2f2f74",
-    "slug": "sam-altman-and-musk-s-war-costs-cursor-ai-after-60b-deal",
-    "title": "Sam Altman and Musk’s War Costs Cursor AI After $60B Deal",
-    "tags": [
-      "OpenAI",
-      "SpaceX",
-      "Cursor",
-      "Sam Altman",
-      "Elon Musk"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T10:54:48.000Z"
-  },
-  {
-    "id": "a437b9949ae5a5c3",
-    "slug": "trump-promoted-brand-touts-gold-before-token-collapse",
-    "title": "Trump-promoted brand touts GOLD before token collapse",
-    "tags": [
-      "Donald Trump"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T10:53:41.000Z"
-  },
-  {
-    "id": "f91cbdad91f25f83",
-    "slug": "ethereum-holders-staked-64-million-to-buy-a-75-blokyz-nft",
-    "title": "Ethereum Holders Staked $64 Million to Buy a $75 Blokyz NFT",
-    "tags": [
-      "Ethereum",
-      "Blokyz"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T10:47:21.000Z"
-  },
-  {
-    "id": "4cf6d1d1b4a35097",
-    "slug": "fulham-in-talks-to-sign-defender-andrei-ratiu-from-rayo-vallecano-in-potential-25m-deal",
-    "title": "Fulham in talks to sign defender Andrei Ratiu from Rayo Vallecano in potential €25M deal",
-    "tags": [
-      "Fulham",
-      "Rayo Vallecano",
-      "Andrei Ratiu"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T10:37:49.000Z"
-  },
-  {
-    "id": "ba72e63030dbde9b",
-    "slug": "9z-falls-to-vitality-in-iem-cologne-major-2026-match",
-    "title": "9z falls to Vitality in IEM Cologne Major 2026 match",
-    "tags": [
-      "9z",
-      "Vitality",
-      "IEM Cologne"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T10:36:18.000Z"
-  },
-  {
-    "id": "8dcd3b5e94e834b8",
-    "slug": "hong-kong-sfc-flags-star-bridge-capital-group-as-unlicensed",
-    "title": "Hong Kong SFC flags Star Bridge Capital Group as unlicensed",
-    "tags": [
-      "Hong Kong",
-      "Securities and Futures Commission",
-      "Star Bridge Capital Group"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T10:34:20.000Z"
-  },
-  {
-    "id": "a546746b44dc1775",
-    "slug": "xtx-markets-alex-gerko-earns-record-895m-in-2025",
-    "title": "XTX Markets’ Alex Gerko earns record £895M in 2025",
-    "tags": [
-      "XTX Markets",
-      "Alex Gerko"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T10:31:49.000Z"
-  },
-  {
-    "id": "9d1144ee6737c7d8",
-    "slug": "waves-price-prediction-2026-2027-2030-is-waves-ready-to-cross-1",
-    "title": "Waves Price Prediction 2026, 2027 – 2030: Is WAVES Ready To Cross $1?",
-    "tags": [
-      "Waves"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T10:27:34.000Z"
-  },
-  {
-    "id": "5955c14ec80d1af9",
-    "slug": "nvidia-leads-robinhood-chain-with-74k-asset-holders-spy-ranks-seventh",
-    "title": "Nvidia leads Robinhood Chain with 74K asset holders, SPY ranks seventh",
-    "tags": [
-      "Nvidia",
-      "Robinhood",
-      "SPY"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T10:18:36.000Z"
-  },
-  {
-    "id": "32d1a267ed57fcc6",
-    "slug": "us-faces-lawsuit-over-military-aid-to-israel-amid-lebanon-conflict",
-    "title": "US faces lawsuit over military aid to Israel amid Lebanon conflict",
-    "tags": [
-      "United States",
-      "Israel",
-      "Lebanon"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T10:13:03.000Z"
-  },
-  {
-    "id": "929c3123374937e3",
-    "slug": "yougov-survey-reveals-ai-s-limited-impact-on-us-jobs-since-2023",
-    "title": "YouGov survey reveals AI’s limited impact on US jobs since 2023",
-    "tags": [
-      "YouGov",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T10:10:23.000Z"
-  },
-  {
-    "id": "b5d85462ca561541",
-    "slug": "us-renews-do-not-travel-warning-for-ukraine-amid-ongoing-conflict",
-    "title": "US renews ‘Do Not Travel’ warning for Ukraine amid ongoing conflict",
-    "tags": [
-      "United States",
-      "Ukraine"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T10:08:58.000Z"
-  },
-  {
-    "id": "9029ca3bb51a2216",
-    "slug": "usde-on-base-surges-25-645-to-337m-in-90-days",
-    "title": "USDe on Base surges 25,645% to $337M in 90 days",
-    "tags": [
-      "USDe",
-      "Base",
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T09:53:13.000Z"
-  },
-  {
-    "id": "2674e37bcff28266",
-    "slug": "acala-price-prediction-2026-2027-2030-when-will-aca-price-reach-3",
-    "title": "Acala Price Prediction 2026, 2027 – 2030: When Will ACA Price Reach $3?",
-    "tags": [
-      "Acala",
-      "ACA",
-      "Polkadot"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T09:37:59.000Z"
-  },
-  {
-    "id": "86d58246c5fe70ac",
-    "slug": "base-leads-all-chains-in-tokenized-us-treasury-market-cap-growth-with-636k-daily-gain",
-    "title": "Base leads all chains in tokenized US Treasury market cap growth with $636K daily gain",
-    "tags": [
-      "Base",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T09:36:31.000Z"
-  },
-  {
-    "id": "dd9cd80982daa760",
-    "slug": "funtoken-s-road-to-0-01-why-the-next-move-could-be-worth-watching",
-    "title": "FUNToken’s Road to $0.01: Why the Next Move Could Be Worth Watching",
-    "tags": [
-      "FUNToken"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T09:27:22.000Z"
-  },
-  {
-    "id": "0dcbe10cf1a21a01",
-    "slug": "justice-department-revises-chinese-hacking-claims-clarifying-agencies-were-targets-not-victims",
-    "title": "Justice Department Revises Chinese Hacking Claims, Clarifying Agencies Were Targets Not Victims",
-    "tags": [
-      "Justice Department",
-      "China",
-      "United States"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T09:15:14.000Z"
-  },
-  {
-    "id": "ae86c530c176782d",
-    "slug": "polygon-labs-issues-urgent-client-upgrade-notice-following-austin-and-kyoto-hardforks",
-    "title": "Polygon Labs issues urgent client upgrade notice following Austin and Kyoto hardforks",
-    "tags": [
-      "Polygon Labs"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T09:10:11.000Z"
-  },
-  {
-    "id": "5f357856dba46b94",
-    "slug": "europe-faces-natural-gas-storage-challenges-as-winter-nears",
-    "title": "Europe faces natural gas storage challenges as winter nears",
-    "tags": [
-      "Europe"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T09:03:05.000Z"
-  },
-  {
-    "id": "57505e42cfb0a530",
-    "slug": "the-future-is-elsewhere-endeavor-s-constanza-castro-feijoo-on-fintech-s-overlooked-markets",
-    "title": "‘The Future Is Elsewhere’: Endeavor’s Constanza Castro Feijóo on Fintech’s Overlooked Markets",
-    "tags": [
-      "Endeavor",
-      "Constanza Castro Feijóo",
-      "London"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T09:00:52.000Z"
-  },
-  {
-    "id": "ca5d331f7f94761a",
-    "slug": "changpeng-zhao-believes-bitcoin-at-1m-is-coming-much-quicker-than-25-years",
-    "title": "Changpeng Zhao Believes Bitcoin at $1M Is Coming ‘Much Quicker’ Than 25 Years",
-    "tags": [
-      "Bitcoin",
-      "Changpeng Zhao"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T08:46:10.000Z"
-  },
-  {
-    "id": "2df48945b0e2dbdd",
-    "slug": "ex-irgc-commander-rezaei-outlines-conditions-for-us-iran-agreement",
-    "title": "Ex-IRGC commander Rezaei outlines conditions for US-Iran agreement",
-    "tags": [
-      "Iran",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T08:13:09.000Z"
-  },
-  {
-    "id": "d3459d7b9e6afc20",
-    "slug": "stablecoins-not-credible-for-payments-at-scale-bis-chief-says",
-    "title": "Stablecoins not credible for payments at scale, BIS chief says",
-    "tags": [
-      "Bank for International Settlements",
-      "Financial Stability Institute",
-      "Pablo Hernández de Cos"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T08:01:04.000Z"
-  },
-  {
-    "id": "ad63d096d374dcca",
-    "slug": "malware-has-a-branding-department-and-toxicpanda-is-its-latest-star",
-    "title": "Malware Has a Branding Department and ToxicPanda Is Its Latest Star",
-    "tags": [
-      "ToxicPanda",
-      "PYMNTS.com"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T08:00:44.000Z"
-  },
-  {
-    "id": "ee5b753e9476ef92",
-    "slug": "football-transfers-the-hidden-fx-cost-of-deadline-deals",
-    "title": "Football Transfers: The Hidden FX Cost of Deadline Deals",
-    "tags": [
-      "Neo",
-      "Laurent Descout"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T08:00:19.000Z"
-  },
-  {
-    "id": "73bec274ed78fc70",
-    "slug": "bluecore-energy-partners-with-port-of-long-beach-on-offshore-nuclear-barges",
-    "title": "Bluecore Energy partners with Port of Long Beach on offshore nuclear barges",
-    "tags": [
-      "Bluecore Energy",
-      "Port of Long Beach"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T07:29:27.000Z"
-  },
-  {
-    "id": "12caadb4199fed26",
-    "slug": "iran-retains-missile-drone-capabilities-amid-tensions-with-israel",
-    "title": "Iran retains missile, drone capabilities amid tensions with Israel",
-    "tags": [
-      "Iran",
-      "Israel"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T07:16:13.000Z"
-  },
-  {
-    "id": "2fce3d6ff7bcdc50",
-    "slug": "crypto-etfs-appeared-to-hit-10b-in-hours-but-filing-data-exposes-where-that-money-really-came-from",
-    "title": "Crypto ETFs appeared to hit $10B in hours, but filing data exposes where that money really came from",
-    "tags": [
-      "Ethereum",
-      "Grayscale",
-      "United States"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T07:10:07.000Z"
-  },
-  {
-    "id": "3f6145271a733bca",
-    "slug": "president-trump-announces-historic-deal-securing-us-control-of-65-000-000-000-barrels-of-venezuela",
-    "title": "President Trump Announces Historic Deal Securing US Control of 65,000,000,000 Barrels of Venezuela Oil Reserves",
-    "tags": [
-      "Donald Trump",
-      "United States",
-      "Venezuela"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T07:04:02.000Z"
-  },
-  {
-    "id": "fff9118f8f570ef7",
-    "slug": "analyzing-bitcoin-s-14m-profit-milestone-btc-s-next-move-hinges-on-this-level",
-    "title": "Analyzing Bitcoin’s 14M profit milestone – BTC’s next move hinges on THIS level",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T07:00:30.000Z"
-  },
-  {
-    "id": "ff7ae14979dc846b",
-    "slug": "us-spot-bitcoin-etfs-see-202m-in-outflows-as-btc-dips-below-78k",
-    "title": "US spot Bitcoin ETFs see $202M in outflows as BTC dips below $78K",
-    "tags": [
-      "Bitcoin",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T06:59:46.000Z"
-  },
-  {
-    "id": "6a05a1902102b2e1",
-    "slug": "btc-recovers-from-sub-77k-dip-xrp-drops-below-1-40-weekend-watch",
-    "title": "BTC Recovers From Sub-$77K Dip, XRP Drops Below $1.40: Weekend Watch",
-    "tags": [
-      "Bitcoin",
-      "XRP",
-      "Kevin Warsh"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T06:49:34.000Z"
-  },
-  {
-    "id": "aa06583fda544e56",
-    "slug": "ukraine-braces-for-winter-combat-as-ceasefire-prospects-dim",
-    "title": "Ukraine braces for winter combat as ceasefire prospects dim",
-    "tags": [
-      "Ukraine"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T06:37:39.000Z"
   }
 ]
