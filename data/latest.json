@@ -1,130 +1,423 @@
 [
   {
-    "id": "428dd9decf178577",
-    "title": "BNB Chain and Robinhood Chain host top seven tokenized stocks, generating $4.3B in DEX volume",
-    "summary": "The rise in tokenized stock trading on BNB and Robinhood Chains highlights a shift towards decentralized finance, offering 24/7 global market access.\nThe post BNB Chain and Robinhood Chain host top seven tokenized stocks, generating $4.3B in DEX volume appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/bnb-robinhood-chain-tokenized-stocks-volume/",
+    "id": "d84cfab1adf7ab1c",
+    "slug": "bessent-declines-to-advise-bank-of-japan-on-rate-increases",
+    "title": "Bessent declines to advise Bank of Japan on rate increases",
+    "tags": [
+      "Bank of Japan",
+      "Japan"
+    ],
     "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T22:32:06.000Z"
+  },
+  {
+    "id": "20b25db8ab2975c1",
+    "slug": "us-intercepts-majority-of-iranian-missiles-amid-ongoing-tensions",
+    "title": "US intercepts majority of Iranian missiles amid ongoing tensions",
+    "tags": [
+      "United States",
+      "Iran"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T22:31:22.000Z"
+  },
+  {
+    "id": "19cf565106441860",
+    "slug": "oil-rises-on-iran-tensions-us-stock-futures-dip-amid-fed-rate-hike-signals",
+    "title": "Oil rises on Iran tensions, US stock futures dip amid Fed rate hike signals",
+    "tags": [
+      "Iran",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T22:26:54.000Z"
+  },
+  {
+    "id": "6ab926843007ee46",
+    "slug": "arsenal-signs-scanlon-ogunneye-from-man-utd-for-under-21-squad",
+    "title": "Arsenal signs Scanlon, Ogunneye from Man Utd for under-21 squad",
+    "tags": [
+      "Arsenal",
+      "Manchester United"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T22:11:36.000Z"
+  },
+  {
+    "id": "fe6f38d372f5b524",
+    "title": "Digital Assets Thoughts of the Week: Crypto Markets",
+    "summary": "Digital Assets minds had plenty to say about crypto markets this week. “On regulation, the SEC has proposed a framework for crypto assets, while the CFTC is advancing related regulatory and enforcement initiatives. The market is now watching the next procedural steps for the Clarity... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/08/303330-digital-assets-thoughts-of-the-week-crypto-markets/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Securities and Exchange Commission",
+      "Commodity Futures Trading Commission"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-30T22:08:48.000Z",
+    "fetchedAt": "2026-08-30T22:35:34.874Z",
+    "isDuplicateOf": null,
+    "content": "Digital asset markets remain a focal point this week as industry leaders discuss evolving regulatory landscapes. The Securities and Exchange Commission has proposed a new framework for crypto assets, while the Commodity Futures Trading Commission continues advancing its own regulatory and enforcement initiatives. Market participants are closely monitoring upcoming procedural steps to see how these developments will shape the future of the industry.",
+    "slug": "digital-assets-thoughts-of-the-week-crypto-markets"
+  },
+  {
+    "id": "c36c9d156c791347",
+    "title": "Samsung Adds QR Payment Feature to South African Digital Wallets",
+    "summary": "Samsung South Africa has added a new QR payment feature to its digital wallet. Scan to Pay is designed to offer Samsung Galaxy users an alternative to physical cards and make checkout quicker, the tech company announced Friday (Aug. 28). “Scan to Pay is designed to remove unnecessary friction from everyday transactions,” the company said […]\nThe post Samsung Adds QR Payment Feature to South African Digital Wallets appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/news/payment-methods/mobile-payments/2026/samsung-adds-qr-payment-feature-to-south-african-digital-wallets/",
+    "source": "PYMNTS",
+    "tags": [
+      "Samsung",
+      "South Africa"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-30T22:03:07.000Z",
+    "fetchedAt": "2026-08-30T22:35:34.874Z",
+    "isDuplicateOf": null,
+    "content": "Samsung South Africa has introduced a new QR payment feature called Scan to Pay for its digital wallet users. Announced on Friday, August 28, the feature aims to provide Samsung Galaxy users with a faster alternative to physical cards and streamline everyday checkouts by reducing transaction friction.",
+    "slug": "samsung-adds-qr-payment-feature-to-south-african-digital-wallets"
+  },
+  {
+    "id": "cbfea52face4abec",
+    "slug": "residents-report-damage-after-russian-drone-attack-on-ammunition-depot-near-kyiv",
+    "title": "Residents report damage after Russian drone attack on ammunition depot near Kyiv",
+    "tags": [
+      "Russia",
+      "Ukraine",
+      "Kyiv"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T22:03:03.000Z"
+  },
+  {
+    "id": "efe387637e6abe3f",
+    "slug": "crypto-market-s-weekly-winners-and-losers-vet-rain-stable-arb",
+    "title": "Crypto market’s weekly winners and losers – VET, RAIN, STABLE, ARB",
+    "tags": [
+      "VET",
+      "RAIN",
+      "STABLE",
+      "ARB"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T22:00:31.000Z"
+  },
+  {
+    "id": "06bc78b8c45fff0f",
+    "slug": "ecb-wants-the-euro-directly-on-blockchain-will-it-kill-stablecoins-in-europe",
+    "title": "ECB Wants the Euro Directly on Blockchain. Will It Kill Stablecoins in Europe?",
+    "tags": [
+      "European Central Bank",
+      "Euro",
+      "Europe"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T22:00:00.000Z"
+  },
+  {
+    "id": "46f986e0e710682a",
+    "slug": "iran-s-revolutionary-guards-announce-missile-launches-at-vessels-in-strait-of-hormuz",
+    "title": "Iran’s Revolutionary Guards announce missile launches at vessels in Strait of Hormuz",
+    "tags": [
+      "Iran",
+      "Strait of Hormuz"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T21:59:51.000Z"
+  },
+  {
+    "id": "e782297dfa8ecb88",
+    "slug": "impacts-are-being-reported-at-muwaffaq-salti-air-base-in-jordan-a-major-hub-for-u-s-military",
+    "title": "Impacts are being reported at Muwaffaq Salti Air Base in Jordan, a major hub for U.S. military operations in the region",
+    "tags": [
+      "Jordan",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T21:59:21.000Z"
+  },
+  {
+    "id": "eb77d77a56752fd8",
+    "title": "Nvidia CEO Jensen Huang cites AI as catalyst for US manufacturing reshoring",
+    "summary": "AI-driven reshoring could revitalize US manufacturing, creating jobs and boosting domestic production, while demanding significant energy investments.\nThe post Nvidia CEO Jensen Huang cites AI as catalyst for US manufacturing reshoring appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/nvidia-huang-ai-us-manufacturing-reshoring/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Nvidia",
+      "Jensen Huang",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-30T21:55:26.000Z",
+    "fetchedAt": "2026-08-30T22:35:34.874Z",
+    "isDuplicateOf": null,
+    "content": "Nvidia CEO Jensen Huang recently highlighted artificial intelligence as a major catalyst for the reshoring of US manufacturing. This technological shift could help revitalize domestic production and create new jobs, though it will also require substantial investments in energy infrastructure to support advanced computing demands.",
+    "slug": "nvidia-ceo-jensen-huang-cites-ai-as-catalyst-for-us-manufacturing-reshoring"
+  },
+  {
+    "id": "7f7188d00439879c",
+    "title": "Anthropic Accused of Stealing Thousands of Songs in Music Label Suit",
+    "summary": "The music industry is once again accusing artificial intelligence giant Anthropic of intellectual property theft. Sony Music, Warner Chappell Music and several other labels filed a federal lawsuit Friday (Aug. 28) alleging that the Claude maker improperly used “thousands upon thousands” of their songs to train the AI model. “Defendants can no longer hide their […]\nThe post Anthropic Accused of Stealing Thousands of Songs in Music Label Suit appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-accused-of-stealing-thousands-of-songs-in-music-label-suit/",
+    "source": "PYMNTS",
+    "tags": [
+      "Anthropic",
+      "Sony Music",
+      "Warner Chappell Music"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-30T21:44:27.000Z",
+    "fetchedAt": "2026-08-30T22:35:34.874Z",
+    "isDuplicateOf": null,
+    "content": "Major music publishers, including Sony Music and Warner Chappell Music, have filed a federal lawsuit against artificial intelligence company Anthropic. The labels accuse the firm of intellectual property theft, alleging that thousands of copyrighted songs were improperly used to train the Claude AI model without permission. The legal action marks a significant escalation in ongoing disputes between the creative industries and AI developers regarding training data.",
+    "slug": "anthropic-accused-of-stealing-thousands-of-songs-in-music-label-suit"
+  },
+  {
+    "id": "17c95663a13f7a6b",
+    "slug": "defi-sector-jumps-38-as-us-policy-shift-unlocks-token-value-capture",
+    "title": "DeFi Sector Jumps 38% as US Policy Shift Unlocks Token Value Capture",
+    "tags": [
+      "United States"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T21:33:40.000Z"
+  },
+  {
+    "id": "0c59756c6740a46c",
+    "title": "China AI Firm AInnovation Acquires 51% Stake in Qingdao ALP",
+    "summary": "Chinese AI company AInnovation Technology Group acquired a 51% equity interest in industrial software company Qingdao AInnovation ALP Intelligent Industrial Technology Co., Ltd. for a total consideration of RMB122.4 million ($17.1 million), according to a Hong Kong Stock Exchange filing seen by CrowdFund Insider. AInnovation... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/08/303676-china-ai-firm-ainnovation-acquires-51-stake-in-qingdao-alp/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "AInnovation",
+      "Qingdao ALP",
+      "China",
+      "Hong Kong"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-30T21:31:58.000Z",
+    "fetchedAt": "2026-08-30T22:35:34.874Z",
+    "isDuplicateOf": null,
+    "content": "Chinese artificial intelligence company AInnovation Technology Group has acquired a 51 percent equity stake in industrial software firm Qingdao AInnovation ALP Intelligent Industrial Technology. According to a filing with the Hong Kong Stock Exchange, the transaction involves a total consideration of RMB122.4 million, which is approximately $17.1 million.",
+    "slug": "china-ai-firm-ainnovation-acquires-51-stake-in-qingdao-alp"
+  },
+  {
+    "id": "d72317d862847a00",
+    "title": "Lavrov warns NATO’s Arctic military activity threatens Russia’s security",
+    "summary": "Heightened Arctic tensions risk escalating NATO-Russia conflicts, impacting global security dynamics and increasing miscalculation risks.\nThe post Lavrov warns NATO’s Arctic military activity threatens Russia’s security appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/lavrov-warns-natos-arctic-military-activity-threatens-russias-security/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Russia",
+      "NATO"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-30T21:27:11.000Z",
+    "fetchedAt": "2026-08-30T22:35:34.874Z",
+    "isDuplicateOf": null,
+    "content": "Russian Foreign Minister Sergei Lavrov has warned that increasing military activities by NATO in the Arctic region pose significant security risks to Russia. Officials expressed concern that heightened tensions in the north could escalate broader conflicts between NATO and Russia, potentially destabilizing global security and raising the likelihood of dangerous miscalculations.",
+    "slug": "lavrov-warns-nato-s-arctic-military-activity-threatens-russia-s-security"
+  },
+  {
+    "id": "4912a3c8ffd5cc45",
+    "title": "Affirm CEO Sees Greater BNPL Demand as Gas Prices Climb",
+    "summary": "The head of buy now, pay later provider Affirm says gas prices are weighing on consumers. “The U.S. consumer undoubtedly sees the higher gas prices, so can’t, can’t ignore that,” Max Levchin said in an interview with CNBC’s “Squawk Box” Friday (Aug. 28). “They’re also coming to us to help manage those prices across all […]\nThe post Affirm CEO Sees Greater BNPL Demand as Gas Prices Climb appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/bnpl/2026/affirm-ceo-sees-greater-bnpl-demand-as-gas-prices-climb/",
+    "source": "PYMNTS",
+    "tags": [
+      "Affirm",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-30T21:26:13.000Z",
+    "fetchedAt": "2026-08-30T22:35:34.874Z",
+    "isDuplicateOf": null,
+    "content": "Affirm CEO Max Levchin reports that rising gas prices are increasing consumer demand for buy now, pay later services. In a recent interview, Levchin noted that consumers are utilizing BNPL options to help manage elevated fuel costs and budget their everyday expenses as inflationary pressures continue to impact household budgets across the country.",
+    "slug": "affirm-ceo-sees-greater-bnpl-demand-as-gas-prices-climb"
+  },
+  {
+    "id": "8d4cb1c513bf7ce4",
+    "title": "Netanyahu reaffirms Israel as Jewish nation-state amid regional tensions",
+    "summary": "Netanyahu's reaffirmation may strain Israel's international relations and complicate Palestinian recognition, impacting regional stability.\nThe post Netanyahu reaffirms Israel as Jewish nation-state amid regional tensions appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/netanyahu-reaffirms-israel-as-jewish-nation-state-amid-regional-tensions/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Israel"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-30T21:09:07.000Z",
+    "fetchedAt": "2026-08-30T22:35:34.874Z",
+    "isDuplicateOf": null,
+    "content": "Israeli Prime Minister Benjamin Netanyahu has reaffirmed Israel's status as the nation-state of the Jewish people amidst ongoing regional tensions. This reaffirmation has drawn attention for its potential implications on international relations and the broader peace process in the region. Observers note that such political stances could complicate future diplomatic efforts involving Palestinian recognition and stability.",
+    "slug": "netanyahu-reaffirms-israel-as-jewish-nation-state-amid-regional-tensions"
+  },
+  {
+    "id": "435e97e98df9187a",
+    "title": "Iran’s rial collapse fuels speculation over President Pezeshkian’s future",
+    "summary": "The rial's collapse exacerbates Iran's economic crisis, potentially destabilizing political leadership and eroding public confidence.\nThe post Iran’s rial collapse fuels speculation over President Pezeshkian’s future appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/irans-rial-collapse-fuels-speculation-over-president-pezeshkians-future/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Iran",
+      "Masoud Pezeshkian"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-30T21:06:55.000Z",
+    "fetchedAt": "2026-08-30T22:35:34.874Z",
+    "isDuplicateOf": null,
+    "content": "The collapse of Iran's rial currency is fueling widespread speculation regarding the future of President Masoud Pezeshkian's administration. This severe economic crisis is worsening financial instability within the country and is expected to further erode public confidence in the current political leadership, intensifying pressure on the government.",
+    "slug": "iran-s-rial-collapse-fuels-speculation-over-president-pezeshkian-s-future"
+  },
+  {
+    "id": "0209bd00a4760be8",
+    "title": "Iran vows response to US strike on Larak Island, calls it ‘fatal mistake’",
+    "summary": "The escalating conflict risks derailing diplomatic efforts, reducing chances for a US-Iran deal and increasing regional instability.\nThe post Iran vows response to US strike on Larak Island, calls it ‘fatal mistake’ appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/iran-vows-response-to-us-strike-on-larak-island-calls-it-fatal-mistake/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Iran",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-30T21:05:13.000Z",
+    "fetchedAt": "2026-08-30T22:35:34.874Z",
+    "isDuplicateOf": null,
+    "content": "Iran has vowed to respond to a United States strike on Larak Island, describing the military action as a fatal mistake. The escalating tensions threaten to derail ongoing diplomatic efforts and decrease the likelihood of a deal between the two nations, further exacerbating instability across the wider region.",
+    "slug": "iran-vows-response-to-us-strike-on-larak-island-calls-it-fatal-mistake"
+  },
+  {
+    "id": "c0f177096c9be4e9",
+    "slug": "s-p-500-is-up-12-in-2026-but-a-1907-crash-signal-is-back",
+    "title": "S&P 500 Is Up 12% in 2026 But a 1907 Crash Signal Is Back",
+    "tags": [
+      "S&P 500"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T21:04:01.000Z"
+  },
+  {
+    "id": "428dd9decf178577",
+    "slug": "bnb-chain-and-robinhood-chain-host-top-seven-tokenized-stocks-generating-4-3b-in-dex-volume",
+    "title": "BNB Chain and Robinhood Chain host top seven tokenized stocks, generating $4.3B in DEX volume",
     "tags": [
       "BNB Chain",
       "Robinhood"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-30T20:46:47.000Z",
-    "fetchedAt": "2026-08-30T21:01:11.934Z",
-    "isDuplicateOf": null,
-    "content": "BNB Chain and Robinhood Chain are hosting the top seven tokenized stocks, driving $4.3 billion in decentralized exchange volume. This growth highlights an ongoing shift toward decentralized finance and provides users with 24/7 global market access to traditional equities.",
-    "slug": "bnb-chain-and-robinhood-chain-host-top-seven-tokenized-stocks-generating-4-3b-in-dex-volume"
+    "hasContent": true,
+    "pubDate": "2026-08-30T20:46:47.000Z"
   },
   {
     "id": "cfe91e3234479be7",
+    "slug": "president-trump-urges-fcc-to-investigate-media-polls-and-target-nbc-s-kristen-welker",
     "title": "President Trump Urges FCC to Investigate Media Polls and Target NBC’s Kristen Welker",
-    "summary": "President Trump posted on Truth Social calling for FCC action against media polls and NBC's Kristen Welker over her coverage of his endorsements. He claims high success rates for endorsed candidates while polls show his approval at record lows.\nThe post President Trump Urges FCC to Investigate Media Polls and Target NBC’s Kristen Welker appeared first on The Daily Hodl.",
-    "hasSummary": true,
-    "link": "https://dailyhodl.com/2026/08/30/president-trump-urges-fcc-to-investigate-media-polls-and-target-nbcs-kristen-welker/",
-    "source": "The Daily Hodl",
     "tags": [
       "Federal Communications Commission",
       "NBC",
       "Donald Trump",
       "Kristen Welker"
     ],
+    "source": "The Daily Hodl",
     "origin": "rss",
-    "pubDate": "2026-08-30T20:39:41.000Z",
-    "fetchedAt": "2026-08-30T21:01:11.934Z",
-    "isDuplicateOf": null,
-    "content": "President Trump took to social media to urge the Federal Communications Commission to investigate media polling organizations. He specifically targeted NBC journalist Kristen Welker following her coverage of his political endorsements. Trump argued that his endorsed candidates have high success rates, contrasting with media polls indicating low approval ratings for him.",
-    "slug": "president-trump-urges-fcc-to-investigate-media-polls-and-target-nbc-s-kristen-welker"
+    "hasContent": true,
+    "pubDate": "2026-08-30T20:39:41.000Z"
   },
   {
     "id": "1794f55d6ca521a3",
+    "slug": "bitcoin-posts-strongest-august-performance-since-2017",
     "title": "Bitcoin posts strongest August performance since 2017",
-    "summary": "Bitcoin's strong August performance may signal increased institutional interest, but its sustainability amid broader market conditions remains uncertain.\nThe post Bitcoin posts strongest August performance since 2017 appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/bitcoin-strongest-august-since-2017/",
-    "source": "CryptoBriefing",
     "tags": [
       "Bitcoin"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-30T20:36:29.000Z",
-    "fetchedAt": "2026-08-30T21:01:11.934Z",
-    "isDuplicateOf": null,
-    "content": "Bitcoin has recorded its strongest August performance since 2017. Analysts note this robust monthly return could point to growing institutional interest in the asset. However, experts caution that the sustainability of this upward trend remains uncertain when evaluated against broader macroeconomic market conditions and ongoing volatility.",
-    "slug": "bitcoin-posts-strongest-august-performance-since-2017"
+    "hasContent": true,
+    "pubDate": "2026-08-30T20:36:29.000Z"
   },
   {
     "id": "69977331f748af2a",
+    "slug": "kalshi-becomes-exclusive-prediction-market-partner-of-us-open-report",
     "title": "Kalshi becomes exclusive prediction market partner of US Open: report",
-    "summary": "As part of the agreement, rival prediction market platforms are reportedly barred from advertising at the tournament and on its ESPN broadcasts.",
-    "hasSummary": true,
-    "link": "https://www.theblock.co/news/deals/2026-08-30-kalshi-becomes-exclusive-prediction-market-partner-of-us-open-report-413074",
-    "source": "The Block",
     "tags": [
       "Kalshi",
       "US Open",
       "ESPN"
     ],
+    "source": "The Block",
     "origin": "rss",
-    "pubDate": "2026-08-30T20:28:52.000Z",
-    "fetchedAt": "2026-08-30T21:01:11.934Z",
-    "isDuplicateOf": null,
-    "content": "Kalshi has reportedly become the exclusive prediction market partner of the US Open. Under the agreement, rival prediction market platforms are barred from advertising during the tournament and on its official broadcasts.",
-    "slug": "kalshi-becomes-exclusive-prediction-market-partner-of-us-open-report"
+    "hasContent": true,
+    "pubDate": "2026-08-30T20:28:52.000Z"
   },
   {
     "id": "0a918fa09bf7607c",
+    "slug": "securitize-s-buidl-regains-title-as-largest-tokenized-us-treasury-fund",
     "title": "Securitize’s BUIDL regains title as largest tokenized US Treasury fund",
-    "summary": "BUIDL's regained dominance highlights the growing significance and competitive dynamics of the tokenized US Treasury market, impacting investment strategies.\nThe post Securitize’s BUIDL regains title as largest tokenized US Treasury fund appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/buidl-regains-largest-tokenized-treasury-fund/",
-    "source": "CryptoBriefing",
     "tags": [
       "Securitize",
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-30T20:21:23.000Z",
-    "fetchedAt": "2026-08-30T21:01:11.934Z",
-    "isDuplicateOf": null,
-    "content": "Securitize’s BUIDL has reclaimed its position as the largest tokenized US Treasury fund. This development underscores the intensifying competition and expanding importance within the tokenized US Treasury market, which continues to influence broader investment strategies across the digital asset ecosystem.",
-    "slug": "securitize-s-buidl-regains-title-as-largest-tokenized-us-treasury-fund"
+    "hasContent": true,
+    "pubDate": "2026-08-30T20:21:23.000Z"
   },
   {
     "id": "9d84b98862cb9b1a",
+    "slug": "nuscale-power-taps-ai-to-speed-up-small-modular-reactor-design-after-going-public-via-spac",
     "title": "NuScale Power taps AI to speed up small modular reactor design after going public via SPAC",
-    "summary": "NuScale's AI-driven efficiency in reactor design could accelerate nuclear energy adoption, addressing rising electricity demands and regulatory challenges.\nThe post NuScale Power taps AI to speed up small modular reactor design after going public via SPAC appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/nuscale-power-ai-reactor-design/",
-    "source": "CryptoBriefing",
     "tags": [
       "NuScale Power"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-30T20:12:44.000Z",
-    "fetchedAt": "2026-08-30T21:01:11.934Z",
-    "isDuplicateOf": null,
-    "content": "NuScale Power is utilizing artificial intelligence to accelerate the design process for its small modular reactors. Following its public debut via a SPAC merger, the company aims to leverage AI-driven efficiencies to help speed up nuclear energy adoption, addressing increasing global electricity demands and navigating complex regulatory challenges within the sector.",
-    "slug": "nuscale-power-taps-ai-to-speed-up-small-modular-reactor-design-after-going-public-via-spac"
+    "hasContent": true,
+    "pubDate": "2026-08-30T20:12:44.000Z"
   },
   {
     "id": "b82470da93519f83",
+    "slug": "openai-acquires-thousands-of-mac-minis-mac-studios-for-ai-training-the-information",
     "title": "OpenAI acquires thousands of Mac minis, Mac Studios for AI training: The Information",
-    "summary": "OpenAI's hardware expansion may boost its AI development capabilities and valuation, signaling a trend towards diverse computing resources.\nThe post OpenAI acquires thousands of Mac minis, Mac Studios for AI training: The Information appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/openai-acquires-thousands-of-mac-minis-mac-studios-for-ai-training-the/",
-    "source": "CryptoBriefing",
     "tags": [
       "OpenAI",
       "Apple"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-30T20:11:32.000Z",
-    "fetchedAt": "2026-08-30T21:01:11.934Z",
-    "isDuplicateOf": null,
-    "content": "OpenAI has reportedly acquired thousands of Mac minis and Mac Studios to support its artificial intelligence training initiatives. This hardware expansion highlights the company's efforts to diversify its computing resources as it scales its development capabilities, potentially strengthening its infrastructure and market valuation moving forward.",
-    "slug": "openai-acquires-thousands-of-mac-minis-mac-studios-for-ai-training-the-information"
+    "hasContent": true,
+    "pubDate": "2026-08-30T20:11:32.000Z"
   },
   {
     "id": "28e06b5ca00eead6",
@@ -542,283 +835,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-08-30T16:25:55.000Z"
-  },
-  {
-    "id": "14fa87e42bb4dd47",
-    "slug": "cronos-blockchain-stops-after-reported-75-million-hack-attempt",
-    "title": "Cronos Blockchain Stops After Reported $75 Million Hack Attempt",
-    "tags": [
-      "Cronos",
-      "Tectonic"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T16:19:43.000Z"
-  },
-  {
-    "id": "58df166bb690341a",
-    "slug": "thorchain-upgrade-enables-native-monero-swaps-boosting-xmr-8-9",
-    "title": "THORChain upgrade enables native Monero swaps, boosting XMR 8.9%",
-    "tags": [
-      "THORChain",
-      "Monero"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T16:09:47.000Z"
-  },
-  {
-    "id": "8406a5cf0f867fad",
-    "slug": "aster-launches-usd1-rwa-boost-phase-1-with-125m-wlfi-tokens-in-rewards",
-    "title": "Aster launches USD1 RWA Boost Phase 1 with 125M WLFI tokens in rewards",
-    "tags": [
-      "Aster",
-      "WLFI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T16:09:02.000Z"
-  },
-  {
-    "id": "a47751aa8d023cf5",
-    "slug": "bitcoin-ethereum-and-xrp-prices-brace-for-jobs-report-week-as-fed-decision-looms",
-    "title": "Bitcoin, Ethereum and XRP Prices Brace For Jobs Report Week as Fed Decision Looms",
-    "tags": [
-      "Bitcoin",
-      "Ethereum",
-      "XRP",
-      "Federal Reserve",
-      "United States"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T15:51:38.000Z"
-  },
-  {
-    "id": "3ec911cd38ac7021",
-    "slug": "jude-bellingham-scores-twice-as-real-madrid-cruises-past-malaga-3-0-in-laliga",
-    "title": "Jude Bellingham scores twice as Real Madrid cruises past Málaga 3-0 in LaLiga",
-    "tags": [
-      "Real Madrid",
-      "Malaga",
-      "Spain"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T15:40:38.000Z"
-  },
-  {
-    "id": "8084dd9b24931aa8",
-    "slug": "michael-saylor-hints-at-first-bitcoin-purchase-in-two-months-as-bitcoin-nears-79-000",
-    "title": "Michael Saylor hints at first bitcoin purchase in two months as bitcoin nears $79,000",
-    "tags": [
-      "Bitcoin",
-      "Michael Saylor",
-      "Strategy"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T15:39:55.000Z"
-  },
-  {
-    "id": "380e4bc26061a1f6",
-    "slug": "emiliano-martinez-aims-to-win-premier-league-with-chelsea-after-completing-7-5m-move",
-    "title": "Emiliano Martinez aims to win Premier League with Chelsea after completing £7.5M move",
-    "tags": [
-      "Chelsea",
-      "Emiliano Martinez",
-      "Premier League"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T15:30:42.000Z"
-  },
-  {
-    "id": "82fdecb8c3220151",
-    "slug": "chelsea-records-26-possession-and-2-97-xg-in-thrilling-4-3-win-over-brighton",
-    "title": "Chelsea records 26% possession and 2.97 xG in thrilling 4-3 win over Brighton",
-    "tags": [
-      "Chelsea",
-      "Brighton"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T15:29:19.000Z"
-  },
-  {
-    "id": "04ed84740af4f61d",
-    "slug": "anthropic-downloaded-music-from-torrent-sites-to-train-claude",
-    "title": "Anthropic Downloaded Music From Torrent Sites to Train Claude",
-    "tags": [
-      "Anthropic",
-      "Sony",
-      "Warner Brothers",
-      "Claude"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T15:26:20.000Z"
-  },
-  {
-    "id": "5e8012256dd6406c",
-    "slug": "chelsea-travel-to-the-emirates-for-a-september-6-london-derby-against-arsenal",
-    "title": "Chelsea travel to the Emirates for a September 6 London derby against Arsenal",
-    "tags": [
-      "Chelsea",
-      "Arsenal",
-      "Emirates Stadium"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T15:19:51.000Z"
-  },
-  {
-    "id": "860a805533821d85",
-    "slug": "ripple-xrp-etfs-smash-2026-inflow-record-as-total-flows-hit-new-ath",
-    "title": "Ripple (XRP) ETFs Smash 2026 Inflow Record as Total Flows Hit New ATH",
-    "tags": [
-      "Ripple",
-      "XRP"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T15:15:21.000Z"
-  },
-  {
-    "id": "f62f1ce99b38c1fa",
-    "slug": "israeli-forces-seal-west-bank-village-amid-escalating-settler-violence",
-    "title": "Israeli forces seal West Bank village amid escalating settler violence",
-    "tags": [
-      "Israel",
-      "West Bank"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T15:09:42.000Z"
-  },
-  {
-    "id": "7e02647f90063f26",
-    "slug": "joao-pedro-scores-against-former-club-as-chelsea-cruise-past-brighton-3-1",
-    "title": "Joao Pedro scores against former club as Chelsea cruise past Brighton 3-1",
-    "tags": [
-      "Chelsea",
-      "Brighton"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T15:09:06.000Z"
-  },
-  {
-    "id": "bb01e37822f8d409",
-    "slug": "sunderland-secures-first-win-of-the-season-against-fulham",
-    "title": "Sunderland secures first win of the season against Fulham",
-    "tags": [
-      "Sunderland",
-      "Fulham"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T15:07:58.000Z"
-  },
-  {
-    "id": "e0b62558d935fb29",
-    "slug": "one-mid-tier-bitcoin-treasury-just-gambled-its-entire-btc-reserve-on-a-single-30-day-reset-price",
-    "title": "One mid-tier Bitcoin treasury just gambled its entire BTC reserve on a single 30-day reset price",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T15:05:44.000Z"
-  },
-  {
-    "id": "c657aeaf31469b7d",
-    "slug": "bitcoin-shorts-squeezed-6-55b-in-august-weak-demand-raises-september-doubts",
-    "title": "Bitcoin shorts squeezed $6.55B in August – Weak demand raises September doubts",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T15:00:03.000Z"
-  },
-  {
-    "id": "4d444d0c0d9448e8",
-    "slug": "from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely",
-    "title": "From Hawala to Swift: Inside the 1,000-year battle to move money safely",
-    "tags": [
-      "SWIFT"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T15:00:00.000Z"
-  },
-  {
-    "id": "6b2052b26c90a410",
-    "slug": "travala-reports-unauthorized-access-to-limited-customer-records",
-    "title": "Travala Reports Unauthorized Access to Limited Customer Records",
-    "tags": [
-      "Travala",
-      "Singapore"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T14:57:52.000Z"
-  },
-  {
-    "id": "2193e2382a80998b",
-    "slug": "uae-grants-starlink-10-year-license-for-satellite-internet-services",
-    "title": "UAE Grants Starlink 10-Year License for Satellite Internet Services",
-    "tags": [
-      "Starlink",
-      "United Arab Emirates"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T14:56:12.000Z"
-  },
-  {
-    "id": "1a5af09d0d8a8d35",
-    "slug": "leeds-united-draws-1-1-against-brentford-in-premier-league-match",
-    "title": "Leeds United draws 1-1 against Brentford in Premier League match",
-    "tags": [
-      "Leeds United",
-      "Brentford"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T14:51:11.000Z"
-  },
-  {
-    "id": "602f3d23ed3924f4",
-    "slug": "pump-fun-app-surges-to-50m-daily-volume-and-905k-transactions",
-    "title": "Pump.fun app surges to $50M daily volume and 905K transactions",
-    "tags": [
-      "Pump.fun"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T14:49:54.000Z"
   }
 ]
