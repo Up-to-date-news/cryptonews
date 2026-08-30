@@ -1,106 +1,453 @@
 [
   {
-    "id": "3dae6c49ed467ff3",
-    "title": "Can Shiba Inu Delete A Zero If Bitcoin Hits $100,000?",
-    "summary": "Shiba Inu (SHIB) has struggled to gain momentum since late 2024. The popular dog-themed cryptocurrency hit $0.000032 in…",
+    "id": "49211809d05bb718",
+    "slug": "crypto-market-makers-are-cashing-in-on-bitcoin-s-rally-without-betting-on-direction",
+    "title": "Crypto market makers are cashing in on bitcoin's rally - without betting on direction",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T12:00:00.000Z"
+  },
+  {
+    "id": "7b29d44d78cd4408",
+    "slug": "chelsea-signs-emi-martinez-debut-expected-against-arsenal-after-brighton-miss",
+    "title": "Chelsea signs Emi Martinez, debut expected against Arsenal after Brighton miss",
+    "tags": [
+      "Chelsea",
+      "Emi Martinez",
+      "Arsenal",
+      "Brighton"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T11:50:48.000Z"
+  },
+  {
+    "id": "6acd3b0009cbafe6",
+    "slug": "team-secret-whales-win-third-consecutive-lcp-title-heading-to-worlds-as-top-seed",
+    "title": "Team Secret Whales win third consecutive LCP title, heading to Worlds as top seed",
+    "tags": [
+      "Team Secret Whales",
+      "LCP"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T11:47:43.000Z"
+  },
+  {
+    "id": "27c5a66631d7736a",
+    "slug": "lck-season-playoffs-bracket-update-gen-faces-kt-hle-takes-on-t1",
+    "title": "LCK Season Playoffs bracket update: GEN faces KT, HLE takes on T1",
+    "tags": [
+      "GEN",
+      "KT",
+      "HLE",
+      "T1"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T11:46:44.000Z"
+  },
+  {
+    "id": "55951ffefaec2481",
+    "slug": "tim-cook-owns-crypto-but-apple-never-bought-bitcoin-will-this-change",
+    "title": "Tim Cook Owns Crypto But Apple Never Bought Bitcoin: Will This Change?",
+    "tags": [
+      "Apple",
+      "Tim Cook",
+      "Bitcoin"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T11:46:29.000Z"
+  },
+  {
+    "id": "5ea221ae9bd9a0a3",
+    "slug": "bitwise-ceo-drops-crucial-xrp-reality-check-as-solana-fund-crosses-1-billion-threshold",
+    "title": "Bitwise CEO Drops Crucial XRP Reality Check as Solana Fund Crosses $1 Billion Threshold",
+    "tags": [
+      "Bitwise",
+      "Solana",
+      "XRP"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T11:45:30.000Z"
+  },
+  {
+    "id": "cad022ad336e9cb5",
+    "slug": "xrp-news-ceo-garlinghouse-says-ripple-revenue-set-to-more-than-double",
+    "title": "XRP News: CEO Garlinghouse Says Ripple Revenue Set To More Than Double",
+    "tags": [
+      "Ripple",
+      "Brad Garlinghouse",
+      "XRP"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T11:42:17.000Z"
+  },
+  {
+    "id": "233a0191a6485275",
+    "slug": "crypto-stock-tokens-barely-move-over-weekend-revealing-markets-become-illiquid-when-wall-street",
+    "title": "Crypto stock tokens barely move over weekend, revealing markets become illiquid when Wall Street goes offline",
+    "tags": [
+      "Wall Street",
+      "Aerodrome",
+      "Aave"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T11:40:11.000Z"
+  },
+  {
+    "id": "1746165dc1a7e7b3",
+    "slug": "european-union-prepares-sanctions-package-targeting-1-600-russian-entities",
+    "title": "European Union prepares sanctions package targeting 1,600 Russian entities",
+    "tags": [
+      "European Union",
+      "Russia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T11:40:08.000Z"
+  },
+  {
+    "id": "2295d349a126ef9c",
+    "slug": "goldman-sachs-warns-south-korea-s-aging-population-may-hinder-ai-boom-benefits",
+    "title": "Goldman Sachs warns South Korea’s aging population may hinder AI boom benefits",
+    "tags": [
+      "Goldman Sachs",
+      "South Korea"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T11:30:08.000Z"
+  },
+  {
+    "id": "96f6ad0835722b6f",
+    "slug": "hansi-flick-expresses-satisfaction-with-fc-barcelona-squad-amid-transfer-window",
+    "title": "Hansi Flick expresses satisfaction with FC Barcelona squad amid transfer window",
+    "tags": [
+      "FC Barcelona"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T11:21:25.000Z"
+  },
+  {
+    "id": "98bf33cff5f38c7e",
+    "slug": "helium-network-surges-up-to-100-as-celina-texas-integrates-decentralized-wireless-service",
+    "title": "Helium Network surges up to 100% as Celina, Texas integrates decentralized wireless service",
+    "tags": [
+      "Helium",
+      "Celina",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T11:20:21.000Z"
+  },
+  {
+    "id": "2c2ef7e6eb723e92",
+    "slug": "over-900m-pours-into-bitcoin-etfs-while-ethereum-funds-extend-impressive-streak",
+    "title": "Over $900M Pours Into Bitcoin ETFs While Ethereum Funds Extend Impressive Streak",
+    "tags": [
+      "Bitcoin",
+      "Ethereum"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T11:09:03.000Z"
+  },
+  {
+    "id": "e06cea50f2b9bb18",
+    "title": "De-Dollarization Is Not Over, Warns Chief Economist at CICC",
+    "summary": "The recent rise in the US dollar’s share of global foreign exchange does not imply that de-dollarization is…",
     "hasSummary": true,
-    "link": "https://watcher.guru/news/can-shiba-inu-delete-a-zero-if-bitcoin-hits-100000",
+    "link": "https://watcher.guru/news/de-dollarization-is-not-over-warns-chief-economist-at-cicc",
     "source": "Watcher.Guru",
+    "tags": [
+      "CICC",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-30T11:02:00.000Z",
+    "fetchedAt": "2026-08-30T12:01:06.479Z",
+    "isDuplicateOf": null,
+    "content": "The chief economist at CICC has warned that the ongoing trend of de-dollarization is far from over. Despite a recent temporary rise in the United States dollar’s share of global foreign exchange reserves, experts caution that global efforts to diversify away from the dollar remain active as nations seek alternative financial systems and reduce their reliance on US currency.",
+    "slug": "de-dollarization-is-not-over-warns-chief-economist-at-cicc"
+  },
+  {
+    "id": "3146cfe733e534e2",
+    "slug": "bitcoin-etfs-lose-201-8m-as-altcoins-see-inflows-is-a-shift-starting",
+    "title": "Bitcoin ETFs lose $201.8M as altcoins see inflows – Is a shift starting?",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T11:00:40.000Z"
+  },
+  {
+    "id": "241f98b8ae8c6f98",
+    "slug": "telegram-gift-nft-sells-for-20-000-as-pavel-durov-backs-young-coders",
+    "title": "Telegram Gift NFT Sells for $20,000 as Pavel Durov Backs Young Coders",
+    "tags": [
+      "Telegram",
+      "Pavel Durov"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T10:59:46.000Z"
+  },
+  {
+    "id": "2d8e6628bcbb7102",
+    "slug": "kt-rolster-sweeps-dplus-kia-3-0-advances-to-lck-playoffs-round-2",
+    "title": "KT Rolster sweeps Dplus KIA 3-0, advances to LCK playoffs round 2",
+    "tags": [
+      "KT Rolster",
+      "Dplus KIA"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T10:59:05.000Z"
+  },
+  {
+    "id": "a2f90bbf6bdeba7c",
+    "slug": "most-important-xrp-signal-delivered-right-now",
+    "title": "Most Important XRP Signal Delivered Right Now",
+    "tags": [
+      "XRP"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T10:53:00.000Z"
+  },
+  {
+    "id": "0c2cf24224ec8526",
+    "slug": "how-739b-in-new-us-debt-could-absorb-crypto-s-liquidity-before-buybacks-even-reach-bitcoin",
+    "title": "How $739B in new US debt could absorb crypto’s liquidity before buybacks even reach Bitcoin",
+    "tags": [
+      "Bitcoin",
+      "United States"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T10:50:36.000Z"
+  },
+  {
+    "id": "4f24d44345b5e497",
+    "slug": "kremlin-claims-ukraine-defeat-approaching-as-russian-forces-advance",
+    "title": "Kremlin claims Ukraine defeat approaching as Russian forces advance",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-08-30T10:37:07.000Z"
+  },
+  {
+    "id": "282aec6d69f3e201",
+    "slug": "chelsea-aston-villa-newcastle-pursue-christian-kofane-before-transfer-deadline",
+    "title": "Chelsea, Aston Villa, Newcastle pursue Christian Kofane before transfer deadline",
+    "tags": [
+      "Chelsea",
+      "Aston Villa",
+      "Newcastle United",
+      "Christian Kofane"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T10:30:55.000Z"
+  },
+  {
+    "id": "6056a7f1f2ce3a45",
+    "slug": "fed-awaits-key-inflation-data-before-september-rate-decision",
+    "title": "Fed awaits key inflation data before September rate decision",
+    "tags": [
+      "Federal Reserve"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T10:24:31.000Z"
+  },
+  {
+    "id": "964ea7da45246dc1",
+    "slug": "chelsea-faces-brighton-in-premier-league-clash-as-both-sides-eye-early-season-statement",
+    "title": "Chelsea faces Brighton in Premier League clash as both sides eye early-season statement",
+    "tags": [
+      "Chelsea",
+      "Brighton",
+      "Premier League"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T10:21:01.000Z"
+  },
+  {
+    "id": "b2238fcf93930eda",
+    "slug": "apple-commits-60b-to-domestic-manufacturing-ahead-of-ceo-transition",
+    "title": "Apple commits $60B to domestic manufacturing ahead of CEO transition",
+    "tags": [
+      "Apple",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T10:20:07.000Z"
+  },
+  {
+    "id": "09527f5589b1261f",
+    "slug": "crypto-s-next-meme-coin-war-traders-want-tokens-that-can-move-real-stocks",
+    "title": "Crypto’s Next Meme Coin War? Traders Want Tokens That Can Move Real Stocks",
+    "tags": [
+      "GameStop",
+      "BNB Chain"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T10:12:28.000Z"
+  },
+  {
+    "id": "ab8cb9b02d796dfb",
+    "slug": "military-leaders-warned-hegseth-that-a-prolonged-iran-war-risked-hollowing-out-u-s-readiness",
+    "title": "Military leaders warned Hegseth that a prolonged Iran war risked hollowing out U.S. readiness",
+    "tags": [
+      "United States",
+      "Iran",
+      "China"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T10:06:37.000Z"
+  },
+  {
+    "id": "cc667aade36f6590",
+    "slug": "newcastle-intensifies-pursuit-of-keeping-nick-woltemade-as-napoli-circles-with-loan-inquiry",
+    "title": "Newcastle intensifies pursuit of keeping Nick Woltemade as Napoli circles with loan inquiry",
+    "tags": [
+      "Newcastle",
+      "Napoli",
+      "Nick Woltemade"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T10:06:20.000Z"
+  },
+  {
+    "id": "ac2c5dff033be517",
+    "slug": "military-leaders-warn-against-extending-us-operations-in-iran",
+    "title": "Military leaders warn against extending US operations in Iran",
+    "tags": [
+      "United States",
+      "Iran"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-30T10:04:47.000Z"
+  },
+  {
+    "id": "3dae6c49ed467ff3",
+    "slug": "can-shiba-inu-delete-a-zero-if-bitcoin-hits-100-000",
+    "title": "Can Shiba Inu Delete A Zero If Bitcoin Hits $100,000?",
     "tags": [
       "Shiba Inu",
       "Bitcoin"
     ],
+    "source": "Watcher.Guru",
     "origin": "rss",
-    "pubDate": "2026-08-30T09:57:00.000Z",
-    "fetchedAt": "2026-08-30T10:01:17.846Z",
-    "isDuplicateOf": null,
-    "content": "Shiba Inu has faced difficulties in maintaining upward momentum since late 2024. As the popular dog-themed cryptocurrency looks for potential catalysts, market analysts and investors continue to watch broader crypto trends, including whether major assets like Bitcoin might reach the milestone of one hundred thousand dollars, which could impact the broader market.",
-    "slug": "can-shiba-inu-delete-a-zero-if-bitcoin-hits-100-000"
+    "hasContent": true,
+    "pubDate": "2026-08-30T09:57:00.000Z"
   },
   {
     "id": "e9e6148e10c5dd10",
+    "slug": "russia-vows-major-strikes-on-ukrainian-energy-grid-amid-conflict-escalation",
     "title": "Russia vows major strikes on Ukrainian energy grid amid conflict escalation",
-    "summary": "Escalating strikes on Ukraine's energy grid could weaken its military resilience and complicate efforts to reclaim territories like Crimea.\nThe post Russia vows major strikes on Ukrainian energy grid amid conflict escalation appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/russia-vows-major-strikes-on-ukrainian-energy-grid-amid-conflict-escalation/",
-    "source": "CryptoBriefing",
     "tags": [
       "Russia",
       "Ukraine",
       "Crimea"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-30T09:54:03.000Z",
-    "fetchedAt": "2026-08-30T10:01:17.846Z",
-    "isDuplicateOf": null,
-    "content": "Russia has announced plans to launch major strikes targeting Ukraine's energy grid as the ongoing conflict escalates. Analysts warn that continuous attacks on vital power infrastructure could severely undermine Ukraine's military resilience. Furthermore, these disruptions may complicate future strategic efforts aimed at reclaiming contested territories, including Crimea, as the humanitarian and infrastructural toll continues to mount.",
-    "slug": "russia-vows-major-strikes-on-ukrainian-energy-grid-amid-conflict-escalation"
+    "hasContent": true,
+    "pubDate": "2026-08-30T09:54:03.000Z"
   },
   {
     "id": "a92902760112024d",
+    "slug": "political-instability-in-us-israel-iran-complicates-potential-us-iran-deal",
     "title": "Political instability in US, Israel, Iran complicates potential US-Iran deal",
-    "summary": "Internal political struggles in the US, Israel, and Iran may hinder diplomatic efforts, reducing the likelihood of a US-Iran deal.\nThe post Political instability in US, Israel, Iran complicates potential US-Iran deal appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/political-instability-in-us-israel-iran-complicates-potential-us-iran-deal/",
-    "source": "CryptoBriefing",
     "tags": [
       "United States",
       "Israel",
       "Iran"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-30T09:48:08.000Z",
-    "fetchedAt": "2026-08-30T10:01:17.846Z",
-    "isDuplicateOf": null,
-    "content": "Internal political struggles within the United States, Israel, and Iran are creating significant challenges for diplomatic efforts. These domestic complexities risk stalling potential negotiations and reducing the likelihood of a formal agreement between the United States and Iran.",
-    "slug": "political-instability-in-us-israel-iran-complicates-potential-us-iran-deal"
+    "hasContent": true,
+    "pubDate": "2026-08-30T09:48:08.000Z"
   },
   {
     "id": "b02e782a018822f8",
+    "slug": "russia-s-sber-eyes-usdt-loans-questions-digital-ruble-demand",
     "title": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
-    "summary": "Sberbank's crypto-backed loan plans could boost institutional crypto adoption in Russia, potentially influencing Bitcoin's market dynamics.\nThe post Sberbank plans USDT, Ethereum loans pending Russian regulatory approval appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph",
     "tags": [
       "Sberbank",
       "Tether",
       "Ethereum",
       "Russia"
     ],
+    "source": "Cointelegraph",
     "origin": "rss",
-    "pubDate": "2026-08-30T09:45:01.000Z",
-    "fetchedAt": "2026-08-30T10:01:17.846Z",
-    "isDuplicateOf": null,
-    "content": "Russia's Sberbank is reportedly considering offering loans backed by cryptocurrencies like USDT and Ethereum, pending regulatory approval. This potential move could significantly increase institutional crypto adoption within Russia. Meanwhile, questions remain regarding the domestic demand for the nation's proposed digital ruble.",
-    "slug": "russia-s-sber-eyes-usdt-loans-questions-digital-ruble-demand"
+    "hasContent": true,
+    "pubDate": "2026-08-30T09:45:01.000Z"
   },
   {
     "id": "914dcad905d4baac",
+    "slug": "iran-demands-japan-explain-us-airbase-use-in-strikes-against-iran",
     "title": "Iran demands Japan explain US airbase use in strikes against Iran",
-    "summary": "Iran's demand for accountability may strain Japan-Iran relations, potentially impacting regional stability and future diplomatic engagements.\nThe post Iran demands Japan explain US airbase use in strikes against Iran appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/iran-demands-japan-explain-us-airbase-use-in-strikes-against-iran/",
-    "source": "CryptoBriefing",
     "tags": [
       "Iran",
       "Japan",
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-30T09:37:24.000Z",
-    "fetchedAt": "2026-08-30T10:01:17.846Z",
-    "isDuplicateOf": null,
-    "content": "Iran has officially demanded that Japan provide an explanation regarding the use of American airbases in recent strikes against Iranian targets. This diplomatic pressure threatens to strain bilateral relations between Tokyo and Tehran, while also carrying potential implications for broader regional stability and future diplomatic engagements in the Middle East.",
-    "slug": "iran-demands-japan-explain-us-airbase-use-in-strikes-against-iran"
+    "hasContent": true,
+    "pubDate": "2026-08-30T09:37:24.000Z"
   },
   {
     "id": "a4cd169114a18d81",
+    "slug": "explosion-in-hula-lebanon-attributed-to-israel-amid-regional-tensions",
     "title": "Explosion in Hula, Lebanon attributed to Israel amid regional tensions",
-    "summary": "The explosion in Hula may hinder diplomatic efforts and increase market volatility, affecting the prospects of a US-Iran deal by 2026.\nThe post Explosion in Hula, Lebanon attributed to Israel amid regional tensions appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/explosion-in-hula-lebanon-attributed-to-israel-amid-regional-tensions/",
-    "source": "CryptoBriefing",
     "tags": [
       "Hula",
       "Lebanon",
@@ -108,101 +455,74 @@
       "United States",
       "Iran"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-30T09:35:23.000Z",
-    "fetchedAt": "2026-08-30T10:01:17.846Z",
-    "isDuplicateOf": null,
-    "content": "An explosion in Hula, Lebanon, has been attributed to Israel amid rising regional tensions. Analysts note that such incidents could hinder ongoing diplomatic efforts and increase market volatility. These geopolitical developments might also impact the broader prospects of a United States and Iran diplomatic agreement by the year 2026.",
-    "slug": "explosion-in-hula-lebanon-attributed-to-israel-amid-regional-tensions"
+    "hasContent": true,
+    "pubDate": "2026-08-30T09:35:23.000Z"
   },
   {
     "id": "e9a84bc74d321478",
+    "slug": "popular-bitcoin-wallets-risk-losing-support-for-new-hardware-devices-as-critical-security-bridge",
     "title": "Popular Bitcoin wallets risk losing support for new hardware devices as critical security bridge stops accepting new devices",
-    "summary": "BHWI has published parity tests, but downstream wallets still face packaging, platform and integration work.\nThe post Popular Bitcoin wallets risk losing support for new hardware devices as critical security bridge stops accepting new devices appeared first on CryptoSlate.",
-    "hasSummary": true,
-    "link": "https://cryptoslate.com/popular-bitcoin-wallets-risk-losing-support-for-new-hardware-devices-as-critical-security-bridge-stops-accepting-new-devices/",
-    "source": "CryptoSlate",
     "tags": [
       "Bitcoin"
     ],
+    "source": "CryptoSlate",
     "origin": "rss",
-    "pubDate": "2026-08-30T09:30:10.000Z",
-    "fetchedAt": "2026-08-30T10:01:17.846Z",
-    "isDuplicateOf": null,
-    "content": "Popular Bitcoin wallets face potential disruptions in supporting new hardware devices. A critical security bridge has stopped accepting new devices, creating integration challenges for downstream platforms. Although parity tests have been published, wallets still need to complete significant packaging, platform, and integration work to maintain full device compatibility.",
-    "slug": "popular-bitcoin-wallets-risk-losing-support-for-new-hardware-devices-as-critical-security-bridge"
+    "hasContent": true,
+    "pubDate": "2026-08-30T09:30:10.000Z"
   },
   {
     "id": "d7d93e30fd1f0159",
+    "slug": "petrochina-profits-jump-22-in-h1-on-rising-global-energy-prices",
     "title": "PetroChina profits jump 22% in H1 on rising global energy prices",
-    "summary": "PetroChina's profit surge highlights the potential for sustained energy sector earnings amid volatile geopolitical and market conditions.\nThe post PetroChina profits jump 22% in H1 on rising global energy prices appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/petrochina-profits-jump-22-in-h1-on-rising-global-energy-prices/",
-    "source": "CryptoBriefing",
     "tags": [
       "PetroChina"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-30T09:16:43.000Z",
-    "fetchedAt": "2026-08-30T10:01:17.846Z",
-    "isDuplicateOf": null,
-    "content": "PetroChina reported a significant 22 percent increase in profits for the first half of the year. The earnings growth was driven by rising global energy prices, reflecting strong performance within the energy sector amid ongoing market and geopolitical conditions.",
-    "slug": "petrochina-profits-jump-22-in-h1-on-rising-global-energy-prices"
+    "hasContent": true,
+    "pubDate": "2026-08-30T09:16:43.000Z"
   },
   {
     "id": "79534fb8a8edc282",
+    "slug": "clothing-retailer-breached-affecting-12-900-000-accounts-names-addresses-and-more-exposed",
     "title": "Clothing Retailer Breached, Affecting 12,900,000 Accounts – Names, Addresses and More Exposed",
-    "summary": "ShinyHunters leaked 12.9 million Carhartt customer records including names, emails, phone numbers and addresses after $3.3 million ransom talks failed. The data was stolen from the company's Databricks platform.\nThe post Clothing Retailer Breached, Affecting 12,900,000 Accounts – Names, Addresses and More Exposed appeared first on The Daily Hodl.",
-    "hasSummary": true,
-    "link": "https://dailyhodl.com/2026/08/30/clothing-retailer-breached-affecting-12900000-accounts-names-addresses-and-more-exposed/",
-    "source": "The Daily Hodl",
     "tags": [
       "Carhartt",
       "ShinyHunters",
       "Databricks"
     ],
+    "source": "The Daily Hodl",
     "origin": "rss",
-    "pubDate": "2026-08-30T09:15:20.000Z",
-    "fetchedAt": "2026-08-30T10:01:17.846Z",
-    "isDuplicateOf": null,
-    "content": "A clothing retailer suffered a major data breach impacting approximately 12.9 million customer accounts. Sensitive personal information, including names, addresses, emails, and phone numbers, was exposed and leaked online after ransom negotiations reportedly failed. The stolen data originated from the company's Databricks platform.",
-    "slug": "clothing-retailer-breached-affecting-12-900-000-accounts-names-addresses-and-more-exposed"
+    "hasContent": true,
+    "pubDate": "2026-08-30T09:15:20.000Z"
   },
   {
     "id": "d0a7c441421d908a",
+    "slug": "satoshi-s-bitcoin-genesis-block-puzzle-gets-new-clues-but-mystery-remains",
     "title": "Satoshi's Bitcoin Genesis Block Puzzle Gets New Clues, but Mystery Remains",
-    "summary": "The Genesis Block, or Block 0, is the first-ever block on the Bitcoin blockchain, mined by Bitcoin pseudonymous creator Satoshi Nakamoto.",
-    "hasSummary": true,
-    "link": "https://u.today/satoshis-bitcoin-genesis-block-puzzle-gets-new-clues-but-mystery-remains",
-    "source": "U.Today",
     "tags": [
       "Bitcoin"
     ],
+    "source": "U.Today",
     "origin": "rss",
-    "pubDate": "2026-08-30T09:15:18.000Z",
-    "fetchedAt": "2026-08-30T10:01:17.846Z",
-    "isDuplicateOf": null,
-    "content": "The Genesis Block, also known as Block 0, remains a central mystery in cryptocurrency history. Mined by Bitcoin's pseudonymous creator Satoshi Nakamoto, it is the first-ever block on the Bitcoin blockchain. Recently, new clues have emerged regarding puzzles embedded within the block, though the true identity of its creator and the full meaning of the hidden messages continue to elude researchers and enthusiasts.",
-    "slug": "satoshi-s-bitcoin-genesis-block-puzzle-gets-new-clues-but-mystery-remains"
+    "hasContent": true,
+    "pubDate": "2026-08-30T09:15:18.000Z"
   },
   {
     "id": "cf2bc987aed036e1",
+    "slug": "erdogan-accuses-israel-of-genocide-israel-calls-him-antisemitic-inciter",
     "title": "Erdogan accuses Israel of genocide, Israel calls him antisemitic inciter",
-    "summary": "Erdogan's remarks may deepen regional tensions, complicating international diplomacy and reducing prospects for US recognition of Palestine.\nThe post Erdogan accuses Israel of genocide, Israel calls him antisemitic inciter appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/erdogan-accuses-israel-of-genocide-israel-calls-him-antisemitic-inciter/",
-    "source": "CryptoBriefing",
     "tags": [
       "Turkey",
       "Israel",
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-30T09:14:28.000Z",
-    "fetchedAt": "2026-08-30T10:01:17.846Z",
-    "isDuplicateOf": null,
-    "content": "Turkish President Erdogan accused Israel of genocide during a recent statement, prompting a sharp response from Israeli officials who labeled him an antisemitic inciter. The fiery exchange threatens to further escalate regional tensions and complicates international diplomatic efforts in the Middle East.",
-    "slug": "erdogan-accuses-israel-of-genocide-israel-calls-him-antisemitic-inciter"
+    "hasContent": true,
+    "pubDate": "2026-08-30T09:14:28.000Z"
   },
   {
     "id": "89fffc70287082f0",
@@ -473,375 +793,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-08-30T04:00:32.000Z"
-  },
-  {
-    "id": "4ae8a2ce61216289",
-    "slug": "xrp-s-crazy-august-is-almost-over-september-could-be-even-bigger",
-    "title": "XRP’s Crazy August Is Almost Over – September Could Be Even Bigger",
-    "tags": [
-      "XRP",
-      "Ripple"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T03:55:30.000Z"
-  },
-  {
-    "id": "7e72dd71413bf4b9",
-    "slug": "how-high-can-solana-price-go-this-rally",
-    "title": "How High Can Solana Price Go This Rally?",
-    "tags": [
-      "Solana",
-      "Bitcoin"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T03:50:25.000Z"
-  },
-  {
-    "id": "ab28d2d577fd3b14",
-    "slug": "what-happens-to-bitcoin-ethereum-and-xrp-if-the-clarity-act-passes",
-    "title": "What Happens to Bitcoin, Ethereum and XRP if the CLARITY Act Passes?",
-    "tags": [
-      "Bitcoin",
-      "Ethereum",
-      "XRP",
-      "United States"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T03:43:33.000Z"
-  },
-  {
-    "id": "d6ce5c43577277c8",
-    "slug": "israel-continues-military-operations-in-southern-lebanon-despite-ceasefire",
-    "title": "Israel continues military operations in southern Lebanon despite ceasefire",
-    "tags": [
-      "Israel",
-      "Lebanon"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T03:37:44.000Z"
-  },
-  {
-    "id": "558d23bc3a6a90a0",
-    "slug": "idf-general-warns-lack-of-clear-strategy-in-talks-with-hamas-hezbollah",
-    "title": "IDF general warns lack of clear strategy in talks with Hamas, Hezbollah",
-    "tags": [
-      "Hamas",
-      "Hezbollah",
-      "IDF"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T03:13:04.000Z"
-  },
-  {
-    "id": "a90bc18638b43579",
-    "slug": "israeli-forces-block-west-bank-village-entrance-for-over-20-hours",
-    "title": "Israeli forces block West Bank village entrance for over 20 hours",
-    "tags": [
-      "Israel",
-      "West Bank"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T03:02:46.000Z"
-  },
-  {
-    "id": "3c04f002a622e30c",
-    "slug": "dexe-jumps-36-as-volume-hits-238m-3-factors-that-help-bulls-further",
-    "title": "DeXe jumps 36% as volume hits $238M – 3 factors that help bulls further",
-    "tags": [
-      "DeXe"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T03:00:20.000Z"
-  },
-  {
-    "id": "7c07e98765932dff",
-    "slug": "venezuela-s-interim-president-affirms-us-energy-deal-lasting-25-years",
-    "title": "Venezuela’s interim president affirms US energy deal lasting 25 years",
-    "tags": [
-      "Venezuela",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T02:43:59.000Z"
-  },
-  {
-    "id": "6921f31dc47d146e",
-    "slug": "s-p-500-trades-22-sessions-without-a-decline-adds-8-7t-in-market-cap",
-    "title": "S&P 500 trades 22 sessions without a decline, adds $8.7T in market cap",
-    "tags": [
-      "S&P 500"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T02:37:33.000Z"
-  },
-  {
-    "id": "35707c82ebb48f2a",
-    "slug": "fossil-fuel-importers-face-330b-cost-surge-amid-us-iran-tensions-crea",
-    "title": "Fossil fuel importers face $330B cost surge amid US-Iran tensions: CREA",
-    "tags": [
-      "United States",
-      "Iran",
-      "CREA"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T02:33:23.000Z"
-  },
-  {
-    "id": "ecc0ec2f84464d49",
-    "slug": "europe-faces-low-missile-defense-amid-potential-russian-offensive-from-belarus",
-    "title": "Europe faces low missile defense amid potential Russian offensive from Belarus",
-    "tags": [
-      "Europe",
-      "Belarus",
-      "Russia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T02:31:16.000Z"
-  },
-  {
-    "id": "f8c61822f91a3c34",
-    "slug": "iran-is-spending-its-way-to-a-stronger-military-than-it-had-before-the-war-and-preparing-for-the",
-    "title": "Iran is spending its way to a stronger military than it had before the war, and preparing for the rematch",
-    "tags": [
-      "Iran"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T02:18:36.000Z"
-  },
-  {
-    "id": "e1dc9db723fd8f61",
-    "slug": "elon-musk-warns-15gw-of-ai-compute-may-sit-stranded-in-2027",
-    "title": "Elon Musk warns 15GW of AI compute may sit stranded in 2027",
-    "tags": [
-      "Elon Musk"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T01:49:18.000Z"
-  },
-  {
-    "id": "b9913297119069a5",
-    "slug": "ripple-donates-300-000-for-flood-relief-in-nepal-and-tibet",
-    "title": "Ripple donates $300,000 for flood relief in Nepal and Tibet",
-    "tags": [
-      "Ripple",
-      "Nepal",
-      "Tibet"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T01:34:38.000Z"
-  },
-  {
-    "id": "a31dfa25a258372c",
-    "slug": "ethereum-1-5b-etf-inflows-meet-aggressive-selling-can-2-3k-hold",
-    "title": "Ethereum: $1.5B ETF inflows meet aggressive selling – Can $2.3K hold?",
-    "tags": [
-      "Ethereum"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T01:00:48.000Z"
-  },
-  {
-    "id": "b96676550e940ab0",
-    "slug": "iran-vows-firm-stance-against-us-sanctions-emphasizes-diplomacy-and-defense",
-    "title": "Iran vows firm stance against US sanctions, emphasizes diplomacy and defense",
-    "tags": [
-      "Iran",
-      "United States",
-      "Middle East"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T00:37:40.000Z"
-  },
-  {
-    "id": "1c2182e0bc783959",
-    "slug": "sabrina-ionescu-sets-record-for-worst-three-point-percentage-in-wnba-history",
-    "title": "Sabrina Ionescu sets record for worst three-point percentage in WNBA history",
-    "tags": [
-      "Sabrina Ionescu",
-      "WNBA",
-      "Liberty"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T00:33:03.000Z"
-  },
-  {
-    "id": "aacd3e289af81f39",
-    "slug": "grok-bot-successfully-orders-a-tesla-model-y-for-a-user-marking-a-new-era-for-ai-commerce",
-    "title": "Grok Bot successfully orders a Tesla Model Y for a user, marking a new era for AI commerce",
-    "tags": [
-      "Grok Bot",
-      "Tesla"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T00:32:08.000Z"
-  },
-  {
-    "id": "6eb7e4f2fcee56e3",
-    "slug": "south-korea-to-require-mock-trading-before-retail-investors-can-touch-leveraged-etfs",
-    "title": "South Korea to require mock trading before retail investors can touch leveraged ETFs",
-    "tags": [
-      "South Korea"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-30T00:20:04.000Z"
-  },
-  {
-    "id": "e4b91692bee61114",
-    "slug": "polish-pm-donald-tusk-seeks-fresh-vote-on-vetoed-crypto-bill-as-zondacrypto-probe-widens",
-    "title": "Polish PM Donald Tusk Seeks Fresh Vote on Vetoed Crypto Bill as Zondacrypto Probe Widens",
-    "tags": [
-      "Donald Tusk",
-      "Zondacrypto",
-      "Poland"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T22:29:06.000Z"
-  },
-  {
-    "id": "4d6e0cd0200986ae",
-    "slug": "iran-challenges-us-claims-on-strait-of-hormuz-oil-traffic-insists-waterway-is-closed",
-    "title": "Iran challenges US claims on Strait of Hormuz oil traffic, insists waterway is closed",
-    "tags": [
-      "Iran",
-      "United States",
-      "Strait of Hormuz"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T22:27:33.000Z"
-  },
-  {
-    "id": "8e8e896e09867c6a",
-    "slug": "ethena-foundation-moves-to-end-investor-unlock-pressure-and-tie-protocol-revenue-to-ena-tokens",
-    "title": "Ethena Foundation Moves to End Investor Unlock Pressure and Tie Protocol Revenue to ENA Tokens",
-    "tags": [
-      "Ethena Foundation",
-      "ENA"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T22:25:33.000Z"
-  },
-  {
-    "id": "1bbed16d57df40e6",
-    "slug": "switchboard-halts-operations-on-aptos-sui-iota-and-movement-after-detecting-potential-compromise",
-    "title": "Switchboard halts operations on Aptos, SUI, IOTA, and Movement after detecting potential compromise",
-    "tags": [
-      "Switchboard",
-      "Aptos",
-      "SUI",
-      "IOTA",
-      "Movement"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T22:20:00.000Z"
-  },
-  {
-    "id": "12fd57efda824d98",
-    "slug": "us-government-runs-largest-primary-budget-deficit-among-advanced-economies-at-3-3-of-gdp",
-    "title": "US government runs largest primary budget deficit among advanced economies at 3.3% of GDP",
-    "tags": [
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T22:13:17.000Z"
-  },
-  {
-    "id": "8146ce85607ccce0",
-    "slug": "bitcoin-miner-iren-still-gets-82-of-revenue-from-btc-after-clearing-room-for-microsoft-ai-cloud",
-    "title": "Bitcoin miner IREN still gets 82% of revenue from BTC after clearing room for Microsoft AI cloud",
-    "tags": [
-      "Bitcoin",
-      "IREN",
-      "Microsoft"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T22:10:38.000Z"
-  },
-  {
-    "id": "44959d8903e38988",
-    "slug": "chinese-government-accelerates-humanoid-robot-funding-despite-tech-limitations",
-    "title": "Chinese government accelerates humanoid robot funding despite tech limitations",
-    "tags": [
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T22:09:02.000Z"
-  },
-  {
-    "id": "e948a369c3642ba9",
-    "slug": "xrp-etfs-attract-153m-in-9-days-is-supercycle-still-alive",
-    "title": "XRP ETFs attract $153M in 9 days – Is supercycle still alive?",
-    "tags": [
-      "XRP"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T22:00:41.000Z"
-  },
-  {
-    "id": "b3b6d7e1da8d7f3e",
-    "slug": "kalshi-warns-users-after-cftc-punishes-a-white-house-staff",
-    "title": "Kalshi Warns Users After CFTC Punishes a White House Staff",
-    "tags": [
-      "Kalshi",
-      "CFTC",
-      "White House"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-29T21:53:31.000Z"
   }
 ]
