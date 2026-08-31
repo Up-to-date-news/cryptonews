@@ -1,5 +1,269 @@
 [
   {
+    "id": "8f9f0d4297c2893b",
+    "slug": "russian-finance-minister-meets-us-treasury-secretary-in-first-g20-appearance-since-ukraine-invasion",
+    "title": "Russian finance minister meets US Treasury secretary in first G20 appearance since Ukraine invasion",
+    "tags": [
+      "Russia",
+      "United States",
+      "G20"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-31T20:59:18.000Z"
+  },
+  {
+    "id": "2521e74ad94fe521",
+    "slug": "polymarket-secures-300m-investment-boost-from-donald-trump-jr-s-fund",
+    "title": "Polymarket secures $300M investment boost from Donald Trump Jr.’s fund",
+    "tags": [
+      "Polymarket",
+      "Donald Trump Jr.",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-31T20:57:13.000Z"
+  },
+  {
+    "id": "7a243f39e5f80e53",
+    "title": "Hackers Target Claude Accounts With Malware That Steals Login Sessions",
+    "summary": "Cybercriminals are targeting users of Anthropic’s Claude artificial intelligence (AI) platform with malware that can steal authenticated login sessions, potentially allowing attackers to access accounts without passwords or two-factor authentication. Cyber Security News reported Monday (Aug. 31) that several information-stealing malware families, including Vidar, Lumma, StealC, RedLine and Acreed on Windows and Atomic Stealer on […]\nThe post Hackers Target Claude Accounts With Malware That Steals Login Sessions appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/hackers-target-claude-accounts-with-malware-that-steals-login-sessions/",
+    "source": "PYMNTS",
+    "tags": [
+      "Anthropic",
+      "Claude"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-31T20:50:40.000Z",
+    "fetchedAt": "2026-08-31T21:01:27.718Z",
+    "isDuplicateOf": null,
+    "content": "Cybercriminals are targeting users of Anthropic’s Claude AI platform using information-stealing malware. The attacks are designed to capture authenticated login sessions, potentially granting unauthorized access to accounts without requiring passwords or two-factor authentication. Security reports indicate that multiple malware families on Windows and other operating systems are being utilized in these campaigns to compromise unsuspecting users.",
+    "slug": "hackers-target-claude-accounts-with-malware-that-steals-login-sessions"
+  },
+  {
+    "id": "2e9cff4e0d846d62",
+    "title": "Cloudflare’s Adaptive Intelligence Makes Cyber Attacks Too Expensive for Fraudsters",
+    "summary": "Cybersecurity and connectivity cloud provider Cloudflare introduced a new way to fight cyberattacks, according to a Monday (Aug. 31) press release. Adaptive Intelligence is a continuous real-time detection engine built to counter automated cyber threats by increasing operational costs for attackers, the release said. It is integrated directly into the Cloudflare Bot Management platform. The […]\nThe post Cloudflare’s Adaptive Intelligence Makes Cyber Attacks Too Expensive for Fraudsters appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/cybersecurity/2026/cloudflare-adaptive-intelligence-makes-cyber-attacks-too-expensive-fraudsters/",
+    "source": "PYMNTS",
+    "tags": [
+      "Cloudflare"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-31T20:50:07.000Z",
+    "fetchedAt": "2026-08-31T21:01:27.718Z",
+    "isDuplicateOf": null,
+    "content": "Cloudflare has introduced Adaptive Intelligence, a real-time detection engine designed to counter automated cyber threats. Integrated into the Cloudflare Bot Management platform, the new tool aims to combat fraud by significantly increasing the operational costs for attackers. The security solution was announced following a recent company press release detailing the new defensive capabilities.",
+    "slug": "cloudflare-s-adaptive-intelligence-makes-cyber-attacks-too-expensive-for-fraudsters"
+  },
+  {
+    "id": "077629732f10d3c8",
+    "slug": "poland-intercepted-a-russian-reconnaissance-plane-over-the-baltic-sea",
+    "title": "Poland intercepted a Russian reconnaissance plane over the Baltic Sea",
+    "tags": [
+      "Poland",
+      "Russia",
+      "Baltic Sea"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-31T20:49:10.000Z"
+  },
+  {
+    "id": "997db6dfc1754262",
+    "slug": "north-korean-hackers-are-moving-tens-of-millions-on-hyperliquid-as-trump-pushes-to-onshore-the",
+    "title": "North Korean hackers are moving tens of millions on Hyperliquid as Trump pushes to onshore the crypto platform",
+    "tags": [
+      "North Korea",
+      "Hyperliquid",
+      "Bitcoin",
+      "Donald Trump",
+      "Lazarus Group"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-31T20:48:40.000Z"
+  },
+  {
+    "id": "009681b64ce46eae",
+    "slug": "ai-data-centers-are-learning-the-power-trick-bitcoin-miners-mastered-first",
+    "title": "AI data centers are learning the power trick Bitcoin miners mastered first",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-31T20:45:26.000Z"
+  },
+  {
+    "id": "ce541b70be78fa81",
+    "slug": "guardian-audits-announces-vanguard-security-program-and-1m-audit-security-fund",
+    "title": "Guardian Audits announces Vanguard security program and $1M audit security fund",
+    "tags": [
+      "Guardian Audits",
+      "Vanguard"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-31T20:38:21.000Z"
+  },
+  {
+    "id": "7631ed2bc661f1db",
+    "slug": "can-argentina-break-its-dollar-habit-as-inflation-slows",
+    "title": "Can Argentina Break Its Dollar Habit as Inflation Slows?",
+    "tags": [
+      "Argentina"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-31T20:35:15.000Z"
+  },
+  {
+    "id": "51b76140564e198d",
+    "title": "Bolt Seeks Up to $27 Million as CEO Works to Revive Payments Startup",
+    "summary": "Ryan Breslow is seeking up to $27 million in bridge financing for Bolt, the payments startup he co-founded, as he works to stabilize the company and position it for a larger funding round, according to TechCrunch. The financing is being raised from Bolt’s existing investors and is structured as a convertible note, the news outlet […]\nThe post Bolt Seeks Up to $27 Million as CEO Works to Revive Payments Startup appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/news/investment-tracker/2026/bolt-seeks-up-to-27-million-as-ceo-works-to-revive-payments-startup/",
+    "source": "PYMNTS",
+    "tags": [
+      "Bolt",
+      "Ryan Breslow",
+      "TechCrunch",
+      "PYMNTS.com"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-31T20:34:34.000Z",
+    "fetchedAt": "2026-08-31T21:01:27.718Z",
+    "isDuplicateOf": null,
+    "content": "Payments startup Bolt is seeking up to $27 million in bridge financing through a convertible note. Co-founder and CEO Ryan Breslow is raising the funds from existing investors to stabilize the company and prepare for a future funding round, according to industry reports.",
+    "slug": "bolt-seeks-up-to-27-million-as-ceo-works-to-revive-payments-startup"
+  },
+  {
+    "id": "34e0544a92e1a5df",
+    "slug": "warsh-s-jackson-hole-speech-fuels-september-fed-rate-hike-speculation",
+    "title": "Warsh’s Jackson Hole speech fuels September Fed rate hike speculation",
+    "tags": [
+      "Federal Reserve",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-31T20:32:47.000Z"
+  },
+  {
+    "id": "cec3912299a0da52",
+    "slug": "hyperliquid-eyes-us-launch-through-kraken",
+    "title": "Hyperliquid Eyes US Launch Through Kraken",
+    "tags": [
+      "Hyperliquid",
+      "Kraken",
+      "Payward",
+      "Bitnomial",
+      "United States"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-31T20:32:33.000Z"
+  },
+  {
+    "id": "ddb42cf8a7b465aa",
+    "title": "JPMorgan shifts to cautious outlook on US stocks after Fed remarks",
+    "summary": "JPMorgan's cautious stance highlights market volatility risks amid Fed's inflation fight, impacting investor sentiment and future rate expectations.\nThe post JPMorgan shifts to cautious outlook on US stocks after Fed remarks appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/jpmorgan-cautious-us-stocks-fed/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "JPMorgan",
+      "Federal Reserve",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-31T20:24:59.000Z",
+    "fetchedAt": "2026-08-31T21:01:27.717Z",
+    "isDuplicateOf": null,
+    "content": "JPMorgan has adopted a more cautious outlook on United States stocks following recent remarks from the Federal Reserve. This shift highlights ongoing market volatility risks as the central bank continues its efforts to manage inflation. The change in stance has influenced investor sentiment and shaped future expectations surrounding interest rates, reflecting broader economic uncertainties.",
+    "slug": "jpmorgan-shifts-to-cautious-outlook-on-us-stocks-after-fed-remarks"
+  },
+  {
+    "id": "6bc51ea97e330922",
+    "title": "Arbitrator Finds Gemini Not Responsible for Earn Program Collapse",
+    "summary": "An arbitrator has ruled that Gemini Space Station was not responsible for the collapse of its Earn lending program, finding insufficient evidence that the cryptocurrency exchange misled customers or failed to conduct adequate due diligence on its lending partner, Genesis Global Capital, according to CNBC. The ruling, issued Aug. 12, stemmed from a claim filed […]\nThe post Arbitrator Finds Gemini Not Responsible for Earn Program Collapse appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/cryptocurrency/2026/arbitrator-finds-gemini-not-responsible-for-earn-program-collapse/",
+    "source": "PYMNTS",
+    "tags": [
+      "Gemini",
+      "Genesis Global Capital"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-31T20:15:27.000Z",
+    "fetchedAt": "2026-08-31T21:01:27.718Z",
+    "isDuplicateOf": null,
+    "content": "An arbitrator has ruled that cryptocurrency exchange Gemini is not responsible for the collapse of its Earn lending program. The decision found insufficient evidence that the company misled customers or failed to conduct adequate due diligence regarding its lending partner, Genesis Global Capital. The ruling was issued following a claim filed by affected participants.",
+    "slug": "arbitrator-finds-gemini-not-responsible-for-earn-program-collapse"
+  },
+  {
+    "id": "723e87e61bd5fada",
+    "slug": "solana-fees-hit-record-as-validators-double-pace-of-inflation-cuts",
+    "title": "Solana fees hit record as validators double pace of inflation cuts",
+    "tags": [
+      "Solana"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-08-31T20:14:57.000Z"
+  },
+  {
+    "id": "a709ccb8a7247caf",
+    "title": "Kalshi traders assign 66% chance of Trump impeachment before end of term",
+    "summary": "The high impeachment odds highlight potential political instability, influencing market dynamics and public perception of governance efficacy.\nThe post Kalshi traders assign 66% chance of Trump impeachment before end of term appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/kalshi-trump-impeachment-odds-66-percent/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Kalshi",
+      "Donald Trump",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-31T20:14:26.000Z",
+    "fetchedAt": "2026-08-31T21:01:27.718Z",
+    "isDuplicateOf": null,
+    "content": "Prediction market traders on Kalshi have assigned a sixty-six percent probability to the impeachment of Donald Trump before the end of his term. This notable estimate highlights significant political uncertainty, which could impact broader market dynamics and public sentiment regarding current governance.",
+    "slug": "kalshi-traders-assign-66-chance-of-trump-impeachment-before-end-of-term"
+  },
+  {
+    "id": "8ba7393d88090f3b",
+    "title": "10-year Treasury yield crosses key threshold, prompting warnings of higher borrowing costs ahead",
+    "summary": "Rising Treasury yields could tighten financial conditions, increasing borrowing costs and potentially slowing economic growth and investment.\nThe post 10-year Treasury yield crosses key threshold, prompting warnings of higher borrowing costs ahead appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/10-year-treasury-yield-key-threshold-warnings/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-08-31T20:11:25.000Z",
+    "fetchedAt": "2026-08-31T21:01:27.718Z",
+    "isDuplicateOf": null,
+    "content": "The 10-year Treasury yield recently crossed a key threshold, triggering warnings about potential increases in borrowing costs. Analysts note that rising yields can tighten overall financial conditions, which might eventually slow down economic growth and impact investment activity across the broader market. Market participants continue to monitor these developments closely as macroeconomic pressures evolve.",
+    "slug": "10-year-treasury-yield-crosses-key-threshold-prompting-warnings-of-higher-borrowing-costs-ahead"
+  },
+  {
     "id": "93fe4f3a15d954b7",
     "slug": "mantle-crypto-how-mnt-s-10-rally-could-push-price-toward-0-59",
     "title": "Mantle crypto: How MNT’s 10% rally could push price toward $0.59",
@@ -13,21 +277,16 @@
   },
   {
     "id": "9ae06e46810762d1",
+    "slug": "burlington-shrinks-clothing-prices-following-55-million-tariff-refund",
     "title": "Burlington Shrinks Clothing Prices Following $55 Million Tariff Refund",
-    "summary": "Off-price clothing retailer Burlington is the latest company using tariff refunds to reduce prices. “It feels like the right thing to do for our customers,” CEO Michael O’Sullivan said on the company’s earnings call last week. “Over the last few years, many households, especially moderate- to lower-income families, have struggled with the higher cost of living — higher prices on essentials […]\nThe post Burlington Shrinks Clothing Prices Following $55 Million Tariff Refund  appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/news/retail/2026/burlington-shrinks-clothing-prices-following-55-million-tariff-refund/",
-    "source": "PYMNTS",
     "tags": [
       "Burlington",
       "Michael O'Sullivan"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-08-31T19:56:04.000Z",
-    "fetchedAt": "2026-08-31T20:01:37.294Z",
-    "isDuplicateOf": null,
-    "content": "Off-price retailer Burlington is lowering its clothing prices after receiving a tariff refund. According to CEO Michael O'Sullivan, the decision aims to support moderate- and lower-income families who have faced rising living costs and higher prices on essentials over the past few years.",
-    "slug": "burlington-shrinks-clothing-prices-following-55-million-tariff-refund"
+    "hasContent": true,
+    "pubDate": "2026-08-31T19:56:04.000Z"
   },
   {
     "id": "2ab933e97c3cbe33",
@@ -82,39 +341,29 @@
   },
   {
     "id": "ec2e1a4c25167096",
+    "slug": "instagram-looks-to-limit-ai-created-accounts-posing-as-human",
     "title": "Instagram Looks to Limit AI-Created Accounts Posing as Human",
-    "summary": "Instagram says its users don’t appreciate discovering that a human-looking profile is actually AI-generated. To that end, the Meta-owned social media platform announced Monday (Aug. 31) that it is taking steps to make sure AI-created profiles are clearer. That means renaming Instagram’s AI creator label to “AI-generated profile” to make it more obvious to users when a profile […]\nThe post Instagram Looks to Limit AI-Created Accounts Posing as Human appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/instagram-looks-to-limit-ai-created-accounts-posing-as-human/",
-    "source": "PYMNTS",
     "tags": [
       "Instagram",
       "Meta"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-08-31T19:34:33.000Z",
-    "fetchedAt": "2026-08-31T20:01:37.294Z",
-    "isDuplicateOf": null,
-    "content": "Instagram is taking steps to address AI-created accounts that pose as humans on the platform. The Meta-owned social media company announced that it is renaming its AI creator label to \"AI-generated profile.\" This change is designed to make it much clearer to users when they are interacting with an automated profile rather than a human, responding to user feedback about these accounts.",
-    "slug": "instagram-looks-to-limit-ai-created-accounts-posing-as-human"
+    "hasContent": true,
+    "pubDate": "2026-08-31T19:34:33.000Z"
   },
   {
     "id": "d0f9b6d4b506189c",
+    "slug": "polymarket-pledges-to-police-trading-for-us-midterm-elections",
     "title": "Polymarket Pledges to Police Trading For US Midterm Elections",
-    "summary": "Polymarket’s investigations head is reportedly promising to police trading ahead of this fall’s midterm elections. In an interview with Reuters published Monday (Aug. 31), Shauna Bautista said the prediction market is working to keep U.S. users away from its international platform. “I’m confident that I’m able to get the resources and the support I need,” […]\nThe post Polymarket Pledges to Police Trading For US Midterm Elections appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/economy/markets/2026/polymarket-pledges-to-police-trading-for-us-midterm-elections/",
-    "source": "PYMNTS",
     "tags": [
       "Polymarket",
       "United States"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-08-31T19:34:06.000Z",
-    "fetchedAt": "2026-08-31T20:01:37.294Z",
-    "isDuplicateOf": null,
-    "content": "Polymarket is taking steps to police trading ahead of upcoming midterm elections. According to reports, the prediction market's investigations team is working to prevent United States users from accessing its international platform. Representatives expressed confidence that the necessary resources and support are in place to monitor compliance and address regulatory concerns effectively.",
-    "slug": "polymarket-pledges-to-police-trading-for-us-midterm-elections"
+    "hasContent": true,
+    "pubDate": "2026-08-31T19:34:06.000Z"
   },
   {
     "id": "b3769e0ff9791769",
@@ -303,21 +552,16 @@
   },
   {
     "id": "36bd1a26111adc58",
+    "slug": "gamestop-turns-ebay-pursuit-into-a-nearly-5-billion-investment",
     "title": "GameStop Turns eBay Pursuit Into a Nearly $5 Billion Investment",
-    "summary": "GameStop’s multibillion-dollar investment in eBay could signal a shift in its pursuit of the online marketplace from would-be acquirer to influential shareholder, while giving the video game retailer a significant foothold in digital commerce. GameStop said Monday (Aug 31) in its preliminary second quarter results that it converted a previously disclosed derivative position tied to […]\nThe post GameStop Turns eBay Pursuit Into a Nearly $5 Billion Investment appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/earnings/2026/gamestop-turns-ebay-pursuit-into-a-nearly-5-billion-investment/",
-    "source": "PYMNTS",
     "tags": [
       "GameStop",
       "eBay"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-08-31T19:06:57.000Z",
-    "fetchedAt": "2026-08-31T20:01:37.294Z",
-    "isDuplicateOf": null,
-    "content": "GameStop has transformed its pursuit of eBay into a nearly $5 billion investment. According to preliminary second-quarter results, the video game retailer converted a previously disclosed derivative position. This move positions GameStop as an influential shareholder in the online marketplace, granting the company a major foothold in digital commerce.",
-    "slug": "gamestop-turns-ebay-pursuit-into-a-nearly-5-billion-investment"
+    "hasContent": true,
+    "pubDate": "2026-08-31T19:06:57.000Z"
   },
   {
     "id": "8aecccc0b39915d1",
@@ -336,56 +580,41 @@
   },
   {
     "id": "55be1da9902787a8",
+    "slug": "fdic-prevails-in-1-71-billion-court-case-involving-svb-collapse",
     "title": "FDIC Prevails in $1.71 Billion Court Case Involving SVB Collapse",
-    "summary": "The Federal Deposit Insurance Corporation has prevailed in a case stemming from Silicon Valley Bank’s collapse. As Reuters reported Monday (Aug. 31), a federal judge has ruled that the former parent company of the bank (SVB) cannot pursue a $1.71 billion claim against the regulator (FDIC). According to the report, U.S. District Judge Beth Labson […]\nThe post FDIC Prevails in $1.71 Billion Court Case Involving SVB Collapse appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/legal/2026/fdic-prevails-in-1-71-billion-court-case-involving-svb-collapse/",
-    "source": "PYMNTS",
     "tags": [
       "Federal Deposit Insurance Corporation",
       "Silicon Valley Bank",
       "Reuters"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-08-31T19:01:08.000Z",
-    "fetchedAt": "2026-08-31T20:01:37.294Z",
-    "isDuplicateOf": null,
-    "content": "The Federal Deposit Insurance Corporation has won a major legal battle stemming from the collapse of Silicon Valley Bank. A federal judge ruled that the former parent company of the bank cannot pursue a multi-billion-dollar claim against the regulatory agency. The decision provides a significant legal victory for the FDIC as it continues managing issues related to the high-profile bank failure.",
-    "slug": "fdic-prevails-in-1-71-billion-court-case-involving-svb-collapse"
+    "hasContent": true,
+    "pubDate": "2026-08-31T19:01:08.000Z"
   },
   {
     "id": "1b7f665da10cf0a1",
+    "slug": "cigna-is-using-ai-to-intervene-earlier-in-care",
     "title": "Cigna Is Using AI to Intervene Earlier in Care",
-    "summary": "Cigna is expanding artificial intelligence tools designed to identify patients who need help before their conditions worsen. The effort is projected to cut medical costs by about $200 million over three years, Cigna said in a July 23 press release. The expansion will reach 20% more customers with conditions including cancer, heart disease, kidney disease […]\nThe post Cigna Is Using AI to Intervene Earlier in Care appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/cigna-is-using-ai-intervene-earlier-care/",
-    "source": "PYMNTS",
     "tags": [
       "Cigna"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-08-31T19:00:51.000Z",
-    "fetchedAt": "2026-08-31T20:01:37.294Z",
-    "isDuplicateOf": null,
-    "content": "Cigna is expanding its use of artificial intelligence to identify patients requiring early medical intervention. Announced in a July press release, the initiative aims to reach twenty percent more customers facing conditions such as cancer, heart disease, and kidney disease. The healthcare provider projects this technological expansion will reduce medical costs by approximately two hundred million dollars over a three-year period.",
-    "slug": "cigna-is-using-ai-to-intervene-earlier-in-care"
+    "hasContent": true,
+    "pubDate": "2026-08-31T19:00:51.000Z"
   },
   {
     "id": "56853c7b0af0c69b",
+    "slug": "rails-rules-reality-the-next-phase-of-fintech",
     "title": "Rails, Rules & Reality: The Next Phase of Fintech",
-    "summary": "FedNow is moving toward cross-border payments, while stricter bank charter rules and AI-driven efficiency are reshaping fintech. Growth now depends on speed, compliance, profitability and smarter operations.\nThe post Rails, Rules & Reality: The Next Phase of Fintech appeared first on The Fintech Times.",
-    "hasSummary": true,
-    "link": "https://thefintechtimes.com/rails-rules-reality-the-next-phase-of-fintech/",
-    "source": "The Fintech Times",
     "tags": [
       "FedNow"
     ],
+    "source": "The Fintech Times",
     "origin": "rss",
-    "pubDate": "2026-08-31T19:00:34.000Z",
-    "fetchedAt": "2026-08-31T20:01:37.294Z",
-    "isDuplicateOf": null,
-    "content": "FedNow is expanding toward cross-border payments, while stricter bank charter regulations and artificial intelligence efficiency are reshaping the fintech industry. Future growth across the sector now depends heavily on operational speed, strict compliance, profitability, and smarter business operations as the market enters a demanding new phase.",
-    "slug": "rails-rules-reality-the-next-phase-of-fintech"
+    "hasContent": true,
+    "pubDate": "2026-08-31T19:00:34.000Z"
   },
   {
     "id": "27789f4480a74e9f",
@@ -493,42 +722,32 @@
   },
   {
     "id": "969a8728df60bd74",
+    "slug": "intuit-and-perplexity-team-on-ai-integrations",
     "title": "Intuit and Perplexity Team on AI Integrations",
-    "summary": "QuickBooks and Mailchimp maker Intuit has launched a partnership with artificial intelligence (AI) startup Perplexity. The collaboration, announced in a Monday (Aug. 31) news release , will integrate those two pieces of business software into Perplexity Computer, the company’s agentic AI assistant. The integration is designed to bridge the “gap between finding answers to getting personalized insights and taking decisive […]\nThe post Intuit and Perplexity Team on AI Integrations appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/intuit-and-perplexity-team-on-ai-integrations/",
-    "source": "PYMNTS",
     "tags": [
       "Intuit",
       "Perplexity",
       "QuickBooks",
       "Mailchimp"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-08-31T18:42:50.000Z",
-    "fetchedAt": "2026-08-31T20:01:37.294Z",
-    "isDuplicateOf": null,
-    "content": "Intuit has announced a new partnership with artificial intelligence startup Perplexity. The collaboration will integrate Intuit's QuickBooks and Mailchimp business software into Perplexity Computer, the company's agentic AI assistant. Announced in a recent news release, the integration is designed to help users bridge the gap between finding answers, receiving personalized insights, and taking decisive action using their business tools.",
-    "slug": "intuit-and-perplexity-team-on-ai-integrations"
+    "hasContent": true,
+    "pubDate": "2026-08-31T18:42:50.000Z"
   },
   {
     "id": "a3a23cf3383a0e6e",
+    "slug": "webull-coinbase-collaborate-on-crypto-services-in-canada",
     "title": "Webull, Coinbase Collaborate on Crypto Services in Canada",
-    "summary": "Webull (NASDAQ:BULL) has enlisted Coinbase’s (NASDAQ:COIN) crypto-as-a-service platform to extend its digital asset abilities in Canada. Webull, based in St. Petersburg, Florida, operates in Canada through Webull Securities (Canada) Limited (regulated by CIRO and a CIPF member) and primarily offers access to stocks and ETFs.... Read More",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/08/304177-webull-coinbase-collaborate-on-crypto-services-in-canada/",
-    "source": "Crowdfund Insider",
     "tags": [
       "Webull",
       "Coinbase",
       "Canada"
     ],
+    "source": "Crowdfund Insider",
     "origin": "rss",
-    "pubDate": "2026-08-31T18:42:30.000Z",
-    "fetchedAt": "2026-08-31T20:01:37.294Z",
-    "isDuplicateOf": null,
-    "content": "Webull has partnered with Coinbase using its crypto-as-a-service platform to expand digital asset capabilities in Canada. Operating through Webull Securities Canada, the firm aims to broaden its financial offerings beyond traditional stocks and ETFs. Coinbase will provide the underlying infrastructure to support these new digital asset services for Canadian users.",
-    "slug": "webull-coinbase-collaborate-on-crypto-services-in-canada"
+    "hasContent": true,
+    "pubDate": "2026-08-31T18:42:30.000Z"
   },
   {
     "id": "65a47572d6e72079",
@@ -611,231 +830,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-08-31T18:13:03.000Z"
-  },
-  {
-    "id": "44cc3612d06e0644",
-    "slug": "opensea-adds-solana-nft-trading-more-than-four-years-after-initial-beta",
-    "title": "OpenSea adds Solana NFT trading more than four years after initial beta",
-    "tags": [
-      "OpenSea",
-      "Solana"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T18:11:53.000Z"
-  },
-  {
-    "id": "1cf1694e0509fbc0",
-    "slug": "why-bitcoin-s-2b-corporate-treasuries-are-a-ticking-time-bomb-of-hidden-conditional-supply",
-    "title": "Why Bitcoin’s $2B corporate treasuries are a ticking time bomb of hidden conditional supply",
-    "tags": [
-      "Bitcoin",
-      "PowerCompute",
-      "USBC"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T18:10:27.000Z"
-  },
-  {
-    "id": "5d9e45ae0fbcf350",
-    "slug": "ripple-cto-emeritus-bip-110-vote-loss-doesn-t-justify-new-chain",
-    "title": "Ripple CTO Emeritus: BIP-110 Vote Loss Doesn’t Justify New Chain",
-    "tags": [
-      "Ripple",
-      "Bitcoin"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T18:05:45.000Z"
-  },
-  {
-    "id": "3d0deb9fd89ac6df",
-    "slug": "payfinia-and-map-on-instant-payments-for-credit-unions",
-    "title": "Payfinia and MAP on Instant Payments for Credit Unions",
-    "tags": [
-      "Payfinia",
-      "MAP",
-      "FedNow"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T18:00:40.000Z"
-  },
-  {
-    "id": "265816e439c0dd8d",
-    "slug": "usdc-treasury-burns-107m-usdc-to-manage-token-supply",
-    "title": "USDC Treasury burns 107M USDC to manage token supply",
-    "tags": [
-      "USDC"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T17:59:42.000Z"
-  },
-  {
-    "id": "1c12def13eb184fe",
-    "slug": "china-reins-in-yuan-amid-weak-domestic-demand",
-    "title": "China reins in yuan amid weak domestic demand",
-    "tags": [
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T17:54:45.000Z"
-  },
-  {
-    "id": "5b4660c921ccebe8",
-    "slug": "hyperliquid-in-talks-with-kraken-parent-to-bring-crypto-perps-to-us-traders",
-    "title": "Hyperliquid in Talks With Kraken Parent to Bring Crypto Perps to US Traders",
-    "tags": [
-      "Hyperliquid",
-      "Kraken",
-      "Bitnomial",
-      "United States"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T17:54:15.000Z"
-  },
-  {
-    "id": "6fe83e70d5c8d813",
-    "slug": "openai-lets-some-customers-pay-only-when-ai-performs",
-    "title": "OpenAI Lets Some Customers Pay Only When AI Performs",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T17:49:46.000Z"
-  },
-  {
-    "id": "d0e54c00ec29c6b4",
-    "slug": "department-of-war-launches-starshield-ai-s-grok-for-government-for-3-million-personnel",
-    "title": "Department of War launches Starshield AI’s Grok for Government for 3 million personnel",
-    "tags": [
-      "Department of War",
-      "Starshield AI",
-      "Grok"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T17:48:40.000Z"
-  },
-  {
-    "id": "85dcea065ca0e452",
-    "slug": "moonpay-s-paybox-launches-in-grok",
-    "title": "MoonPay's PayBox launches in Grok",
-    "tags": [
-      "MoonPay",
-      "Grok"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T17:45:00.000Z"
-  },
-  {
-    "id": "7cc51f443fcfac1d",
-    "slug": "aston-villa-vs-arsenal-team-news-updates-for-monday-night-football-clash",
-    "title": "Aston Villa vs Arsenal team news updates for Monday Night Football clash",
-    "tags": [
-      "Aston Villa",
-      "Arsenal"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T17:42:39.000Z"
-  },
-  {
-    "id": "ad4dd6ecba86d7f7",
-    "slug": "stablecoin-usage-in-argentina-stabilizes-even-as-inflation-cools",
-    "title": "Stablecoin usage in Argentina stabilizes even as inflation cools",
-    "tags": [
-      "Argentina"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T17:40:59.000Z"
-  },
-  {
-    "id": "5b546ea6a233984a",
-    "slug": "openai-says-ad-business-reaches-1-billion-run-rate",
-    "title": "OpenAI Says Ad Business Reaches $1 Billion Run Rate",
-    "tags": [
-      "OpenAI",
-      "ChatGPT",
-      "India",
-      "Europe"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T17:28:09.000Z"
-  },
-  {
-    "id": "3700e939af174ef9",
-    "slug": "dragoneer-investment-group-seeks-2b-for-new-fund-using-stakes-in-openai-and-spacex",
-    "title": "Dragoneer Investment Group seeks $2B for new fund using stakes in OpenAI and SpaceX",
-    "tags": [
-      "Dragoneer Investment Group",
-      "OpenAI",
-      "SpaceX"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T17:25:08.000Z"
-  },
-  {
-    "id": "a0209a9d667ee0e0",
-    "slug": "katie-stockton-monitors-improving-crypto-technicals-as-bitcoin-clears-key-moving-average",
-    "title": "Katie Stockton monitors improving crypto technicals as Bitcoin clears key moving average",
-    "tags": [
-      "Katie Stockton",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T17:19:32.000Z"
-  },
-  {
-    "id": "17f9ba9c3421e15a",
-    "slug": "tesla-adds-cybercabs-to-robotaxi-fleet-in-texas-ahead-of-september-launch",
-    "title": "Tesla adds Cybercabs to robotaxi fleet in Texas ahead of September launch",
-    "tags": [
-      "Tesla",
-      "Waymo",
-      "Texas"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T17:18:57.000Z"
-  },
-  {
-    "id": "227ccff775330a9e",
-    "slug": "iran-supreme-court-upholds-protester-s-death-sentence-amid-crackdown",
-    "title": "Iran Supreme Court upholds protester’s death sentence amid crackdown",
-    "tags": [
-      "Iran",
-      "Supreme Court"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T17:17:57.000Z"
   }
 ]
