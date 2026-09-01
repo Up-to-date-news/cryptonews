@@ -1,5 +1,40 @@
 [
   {
+    "id": "61417139a971c346",
+    "title": "Singapore commits S$220m to fintech innovation",
+    "summary": "The Monetary Authority of Singapore will pump S$220 million (US$173 million) over the next three years into the island's fintech ecosystem.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/newsarticle/48327/singapore-commits-s220m-to-fintech-innovation?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Singapore",
+      "Monetary Authority of Singapore"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-01T00:01:00.000Z",
+    "fetchedAt": "2026-09-01T00:01:12.018Z",
+    "isDuplicateOf": null,
+    "content": "The Monetary Authority of Singapore has announced a significant funding commitment of S$220 million to support innovation within the local financial technology sector. The substantial investment is scheduled to be deployed over the next three years to further develop and strengthen the island nation's growing fintech ecosystem.",
+    "slug": "singapore-commits-s-220m-to-fintech-innovation"
+  },
+  {
+    "id": "7d496f56a1168773",
+    "title": "Ethereum leverage crashes 91%, yet ETH price holds firm – Here’s why",
+    "summary": "Ethereum’s market structure is shifting as institutional accumulation grows, speculative leverage fades, and whale activity introduces new supply pressure.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/ethereum-leverage-crashes-91-yet-eth-price-holds-firm-heres-why/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-01T00:00:29.000Z",
+    "fetchedAt": "2026-09-01T00:01:12.018Z",
+    "isDuplicateOf": null,
+    "content": "Ethereum's market structure is currently undergoing a significant shift. Recent data indicates that speculative leverage has dropped sharply by 91 percent. Despite this massive reduction in leveraged positions, the price of ETH has managed to hold its ground firmly. Market analysts point to growing institutional accumulation and notable whale activity as key factors influencing supply pressure and supporting the asset's resilience.",
+    "slug": "ethereum-leverage-crashes-91-yet-eth-price-holds-firm-here-s-why"
+  },
+  {
     "id": "3cd5bbe73369b383",
     "slug": "robinhood-chain-hits-record-944m-in-daily-dex-volume",
     "title": "Robinhood Chain hits record $944M in daily DEX volume",
@@ -26,20 +61,15 @@
   },
   {
     "id": "5293a1e66f42b1f4",
+    "slug": "next-phase-of-iso-20022-stalled-by-corporate-data-gaps",
     "title": "Next Phase of ISO 20022 Stalled by Corporate Data Gaps",
-    "summary": "The payments industry has largely converted its cross-border messaging infrastructure to ISO 20022. Its next challenge is getting structured address data to match the new messaging standard. Swift postponed the next major milestone in that effort Thursday (Aug. 27), extending the timetable for eliminating fully unstructured postal addresses from ISO 20022 payment messages after large […]\nThe post Next Phase of ISO 20022 Stalled by Corporate Data Gaps appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/news/cross-border-payments/global-payments/2026/next-phase-iso-20022-stalled-corporate-data-gaps/",
-    "source": "PYMNTS",
     "tags": [
       "Swift"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-08-31T22:09:39.000Z",
-    "fetchedAt": "2026-08-31T22:35:42.728Z",
-    "isDuplicateOf": null,
-    "content": "The payments industry has largely transitioned its cross-border messaging infrastructure to ISO 20022, but the next phase of adoption has stalled due to corporate data gaps. Specifically, the challenge involves matching structured address data to the new standard. Consequently, the timeline for eliminating fully unstructured postal addresses from payment messages has been postponed.",
-    "slug": "next-phase-of-iso-20022-stalled-by-corporate-data-gaps"
+    "hasContent": true,
+    "pubDate": "2026-08-31T22:09:39.000Z"
   },
   {
     "id": "269eae8058cec1f5",
@@ -94,21 +124,16 @@
   },
   {
     "id": "d0bdebcdfa19c51f",
+    "slug": "coinbase-rolls-out-ai-trading-for-stocks-agentic-finance",
     "title": "Coinbase Rolls Out AI Trading for Stocks: Agentic Finance",
-    "summary": "Earlier today, Coinbase (NASDAQ:COIN) founder and CEO Brian Armstrong posted on X that AI trading is now rolling out for trading securities. The service was already available for crypto and derivatives. Coinbase had previously announced its intent to enable AI agent trading. Some, like Armstrong, describe... Read More",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/08/304291-coinbase-rolls-out-ai-trading-for-stocks-agentic-finance/",
-    "source": "Crowdfund Insider",
     "tags": [
       "Coinbase",
       "Brian Armstrong"
     ],
+    "source": "Crowdfund Insider",
     "origin": "rss",
-    "pubDate": "2026-08-31T21:56:39.000Z",
-    "fetchedAt": "2026-08-31T22:35:42.728Z",
-    "isDuplicateOf": null,
-    "content": "Coinbase is expanding its automated trading capabilities by rolling out artificial intelligence trading for securities such as stocks. The feature, previously available for cryptocurrency and derivatives, was announced by the company's founder and CEO. This development follows earlier plans shared by the platform to support AI agent trading.",
-    "slug": "coinbase-rolls-out-ai-trading-for-stocks-agentic-finance"
+    "hasContent": true,
+    "pubDate": "2026-08-31T21:56:39.000Z"
   },
   {
     "id": "1bd6c76b12498ebe",
@@ -201,39 +226,29 @@
   },
   {
     "id": "9ccbb1543483db81",
+    "slug": "american-and-russian-finance-ministers-discuss-ukraine-peace-plan",
     "title": "American and Russian finance ministers discuss Ukraine peace plan",
-    "summary": "The finance ministers' talks may signal a shift towards economic diplomacy, potentially impacting future peace negotiations and market dynamics.\nThe post American and Russian finance ministers discuss Ukraine peace plan appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/american-and-russian-finance-ministers-discuss-ukraine-peace-plan/",
-    "source": "CryptoBriefing",
     "tags": [
       "United States",
       "Russia",
       "Ukraine"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-08-31T21:22:17.000Z",
-    "fetchedAt": "2026-08-31T22:35:42.728Z",
-    "isDuplicateOf": null,
-    "content": "American and Russian finance ministers have held discussions regarding a potential peace plan for Ukraine. These high-level talks suggest a possible transition toward economic diplomacy, which could influence upcoming peace negotiations and broader market conditions going forward.",
-    "slug": "american-and-russian-finance-ministers-discuss-ukraine-peace-plan"
+    "hasContent": true,
+    "pubDate": "2026-08-31T21:22:17.000Z"
   },
   {
     "id": "a2f7387a64369d40",
+    "slug": "russia-bets-big-on-crypto-as-regulated-trading-targets-46-billion",
     "title": "Russia Bets Big on Crypto as Regulated Trading Targets $46 Billion",
-    "summary": "Crypto trading in Russia is expected to spike in the next twelve months after legalization, according to the country’s largest bank.",
-    "hasSummary": true,
-    "link": "https://zycrypto.com/russia-bets-big-on-crypto-as-regulated-trading-targets-46-billion/",
-    "source": "ZyCrypto",
     "tags": [
       "Russia"
     ],
+    "source": "ZyCrypto",
     "origin": "rss",
-    "pubDate": "2026-08-31T21:09:28.000Z",
-    "fetchedAt": "2026-08-31T22:35:42.728Z",
-    "isDuplicateOf": null,
-    "content": "Russia is positioning itself strongly in the digital asset sector as newly regulated trading aims to capture significant market volume in the coming year. According to the country's largest banking institution, the recent legalization of cryptocurrency trading is expected to drive a major surge in activity over the next twelve months.",
-    "slug": "russia-bets-big-on-crypto-as-regulated-trading-targets-46-billion"
+    "hasContent": true,
+    "pubDate": "2026-08-31T21:09:28.000Z"
   },
   {
     "id": "fb66b0c9f2439ad3",
@@ -775,34 +790,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-08-31T19:06:57.000Z"
-  },
-  {
-    "id": "8aecccc0b39915d1",
-    "slug": "visa-mastercard-and-fiserv-join-agentic-payments-alliance-to-shape-ai-payment-standards",
-    "title": "Visa, Mastercard, and Fiserv join Agentic Payments Alliance to shape AI payment standards",
-    "tags": [
-      "Visa",
-      "Mastercard",
-      "Fiserv",
-      "Agentic Payments Alliance"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:01:24.000Z"
-  },
-  {
-    "id": "55be1da9902787a8",
-    "slug": "fdic-prevails-in-1-71-billion-court-case-involving-svb-collapse",
-    "title": "FDIC Prevails in $1.71 Billion Court Case Involving SVB Collapse",
-    "tags": [
-      "Federal Deposit Insurance Corporation",
-      "Silicon Valley Bank",
-      "Reuters"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:01:08.000Z"
   }
 ]
