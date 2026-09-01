@@ -1,38 +1,404 @@
 [
   {
-    "id": "61417139a971c346",
-    "title": "Singapore commits S$220m to fintech innovation",
-    "summary": "The Monetary Authority of Singapore will pump S$220 million (US$173 million) over the next three years into the island's fintech ecosystem.",
+    "id": "b95c2dce80791632",
+    "slug": "trump-downplays-nuclear-weapon-use-amid-us-iran-tensions",
+    "title": "Trump downplays nuclear weapon use amid US-Iran tensions",
+    "tags": [
+      "United States",
+      "Iran",
+      "Donald Trump"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T02:30:59.000Z"
+  },
+  {
+    "id": "3baae7757fae0729",
+    "slug": "anthropic-pauses-ai-training-after-claude-s-unauthorized-actions",
+    "title": "Anthropic pauses AI training after Claude’s unauthorized actions",
+    "tags": [
+      "Anthropic",
+      "Claude"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T02:05:00.000Z"
+  },
+  {
+    "id": "2ad08f55c5d84367",
+    "slug": "shein-shares-slide-in-hong-kong-trading-debut",
+    "title": "Shein shares slide in Hong Kong trading debut",
+    "tags": [
+      "Shein",
+      "Hong Kong"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T02:01:02.000Z"
+  },
+  {
+    "id": "4011405c5fe01278",
+    "slug": "helium-crypto-surges-36-why-hnt-s-rally-could-face-a-reversal",
+    "title": "Helium crypto surges 36% – Why HNT’s rally could face a reversal",
+    "tags": [
+      "Helium"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T02:00:37.000Z"
+  },
+  {
+    "id": "e67ebeef6559b90a",
+    "slug": "trump-s-pharma-pricing-deal-expands-as-healthcare-stocks-keep-climbing",
+    "title": "Trump's Pharma Pricing Deal Expands as Healthcare Stocks Keep Climbing",
+    "tags": [
+      "Donald Trump",
+      "UBS"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T01:59:17.000Z"
+  },
+  {
+    "id": "2969311f66f9a498",
+    "slug": "china-s-manufacturing-pmi-rises-to-51-5-in-august-beats-forecast",
+    "title": "China’s manufacturing PMI rises to 51.5 in August, beats forecast",
+    "tags": [
+      "China"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T01:49:01.000Z"
+  },
+  {
+    "id": "a74e2e6f5aaab697",
+    "slug": "south-korea-plans-2-6t-won-budget-to-support-chip-industry-in-2027",
+    "title": "South Korea plans 2.6T won budget to support chip industry in 2027",
+    "tags": [
+      "South Korea"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T01:47:41.000Z"
+  },
+  {
+    "id": "7897d4bd267e422b",
+    "slug": "will-north-korea-allegations-derail-hyperliquid-s-us-entry-plans",
+    "title": "Will North Korea Allegations Derail Hyperliquid's US Entry Plans?",
+    "tags": [
+      "North Korea",
+      "Hyperliquid",
+      "United States"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T01:47:00.000Z"
+  },
+  {
+    "id": "1e4f07aa33600982",
+    "slug": "goldman-sachs-jane-street-millennium-lead-xrp-etf-holdings-q2-filings",
+    "title": "Goldman Sachs, Jane Street, Millennium lead XRP ETF holdings: Q2 filings",
+    "tags": [
+      "Goldman Sachs",
+      "Jane Street",
+      "Millennium",
+      "XRP"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T01:33:14.000Z"
+  },
+  {
+    "id": "4e2ce45dbb000fd0",
+    "slug": "bnb-chain-august-dapp-launches-point-to-growing-ecosystem-activity",
+    "title": "BNB Chain August dApp Launches Point To Growing Ecosystem Activity",
+    "tags": [
+      "BNB Chain"
+    ],
+    "source": "Bitcoinist",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T01:30:00.000Z"
+  },
+  {
+    "id": "209ee1c31f9c4631",
+    "slug": "north-american-blue-energy-partners-to-take-over-venezuelan-oilfields-from-chinese-and-russian",
+    "title": "North American Blue Energy Partners to take over Venezuelan oilfields from Chinese and Russian companies",
+    "tags": [
+      "North American Blue Energy Partners",
+      "Venezuela",
+      "China",
+      "Russia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T01:25:35.000Z"
+  },
+  {
+    "id": "0134adc8257cb7a0",
+    "slug": "china-injects-5-billion-yuan-via-7-day-reverse-repos-at-1-40",
+    "title": "China injects 5 billion yuan via 7-day reverse repos at 1.40%",
+    "tags": [
+      "China"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T01:24:07.000Z"
+  },
+  {
+    "id": "6c72463df407c019",
+    "slug": "jobs-protests-met-with-gunfire-in-southwestern-iran",
+    "title": "Jobs protests met with gunfire in southwestern Iran",
+    "tags": [
+      "Iran"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T01:21:43.000Z"
+  },
+  {
+    "id": "380060b231f993a4",
+    "slug": "us-treasury-secretary-bessent-tells-japan-to-raise-interest-rates-and-markets-are-already-pricing",
+    "title": "US Treasury Secretary Bessent tells Japan to raise interest rates, and markets are already pricing it in",
+    "tags": [
+      "Japan",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T01:18:41.000Z"
+  },
+  {
+    "id": "6d3c11dd8355d535",
+    "slug": "uk-shop-prices-rise-at-fastest-rate-in-over-two-years-amid-middle-east-conflict",
+    "title": "UK shop prices rise at fastest rate in over two years amid Middle East conflict",
+    "tags": [
+      "United Kingdom"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T01:07:34.000Z"
+  },
+  {
+    "id": "3ae3cfc94c3b892c",
+    "slug": "trump-criticizes-high-us-interest-rates-amid-potential-fed-rate-hikes",
+    "title": "Trump criticizes high US interest rates amid potential Fed rate hikes",
+    "tags": [
+      "Donald Trump",
+      "Federal Reserve",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T01:05:04.000Z"
+  },
+  {
+    "id": "0c0bb11963445bfa",
+    "slug": "us-2-year-yield-rises-as-fed-rate-hike-odds-increase-to-60",
+    "title": "US 2-year yield rises as Fed rate hike odds increase to 60%",
+    "tags": [
+      "Federal Reserve",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T01:01:12.000Z"
+  },
+  {
+    "id": "a567c3a202cffd73",
+    "slug": "sam-altman-says-astra-operates-in-a-superhuman-way-with-computers",
+    "title": "Sam Altman says Astra operates in a “superhuman” way with computers",
+    "tags": [
+      "Sam Altman",
+      "Astra"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T00:58:26.000Z"
+  },
+  {
+    "id": "1960093dd0abe575",
+    "slug": "anthropic-secures-5-gigawatts-ai-capacity-amid-alphabet-s-infrastructure-strain",
+    "title": "Anthropic secures 5 gigawatts AI capacity amid Alphabet’s infrastructure strain",
+    "tags": [
+      "Anthropic",
+      "Alphabet"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T00:48:05.000Z"
+  },
+  {
+    "id": "072b9352f7952ecf",
+    "slug": "trump-let-him-out-of-prison-now-he-s-banned-for-life-from-trading",
+    "title": "Trump Let Him Out of Prison, Now He's Banned for Life From Trading",
+    "tags": [
+      "George Santos",
+      "Donald Trump",
+      "Kalshi"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T00:47:08.000Z"
+  },
+  {
+    "id": "61664fa306532b01",
+    "slug": "netanyahu-claims-influence-on-us-to-extend-military-campaign-against-iran",
+    "title": "Netanyahu claims influence on US to extend military campaign against Iran",
+    "tags": [
+      "Israel",
+      "United States",
+      "Iran"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T00:46:26.000Z"
+  },
+  {
+    "id": "302a2494dd917427",
+    "slug": "oil-prices-surge-amid-middle-east-supply-disruptions-iea-taps-reserves",
+    "title": "Oil prices surge amid Middle East supply disruptions, IEA taps reserves",
+    "tags": [
+      "Middle East",
+      "International Energy Agency"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T00:39:59.000Z"
+  },
+  {
+    "id": "c07e2f435e1b318d",
+    "slug": "retail-investing-opens-up-to-ai-assistants",
+    "title": "Retail Investing Opens Up to AI Assistants",
+    "tags": [
+      "Scalable Capital",
+      "Europe",
+      "ChatGPT",
+      "Claude",
+      "Grok"
+    ],
+    "source": "PYMNTS",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T00:38:55.000Z"
+  },
+  {
+    "id": "e5245a4071b6804a",
+    "slug": "brazil-suspends-pro-bitcoin-candidate-renan-santos-s-campaign-freezes-r-3-3m-fund",
+    "title": "Brazil Suspends Pro-Bitcoin Candidate Renan Santos's Campaign, Freezes R$3.3M Fund",
+    "tags": [
+      "Brazil",
+      "Bitcoin",
+      "Renan Santos"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T00:37:48.000Z"
+  },
+  {
+    "id": "f9a0a7bff7a74da2",
+    "slug": "us-venezuela-oil-deal-aims-to-stabilize-market-reduce-foreign-influence",
+    "title": "US-Venezuela oil deal aims to stabilize market, reduce foreign influence",
+    "tags": [
+      "United States",
+      "Venezuela"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T00:18:39.000Z"
+  },
+  {
+    "id": "1b9b47ad9b3f11d9",
+    "slug": "grok-bot-upgrades-enable-direct-access-to-microsoft-services",
+    "title": "Grok bot upgrades enable direct access to Microsoft services",
+    "tags": [
+      "Grok",
+      "Microsoft"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T00:10:19.000Z"
+  },
+  {
+    "id": "b5c943e5027904a1",
+    "slug": "anthropic-signs-massive-cloud-deal-backed-by-nvidia-as-ai-compute-race-intensifies",
+    "title": "Anthropic signs massive cloud deal backed by Nvidia as AI compute race intensifies",
+    "tags": [
+      "Anthropic",
+      "Nvidia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-01T00:07:12.000Z"
+  },
+  {
+    "id": "ef3aef81c4a02855",
+    "title": "MeridianLink Acquires Credit Mountain",
+    "summary": "As FinovateFall 2026 approaches, we’re sharing news from FinovateFall alumni to give you a sense of the kind of companies that will be demoing their latest innovations live on stage September 9 through 11. Consider Credit Mountain, a financial wellness platform that won Best of Show in its Finovate debut at FinovateFall 2024. Earlier this Read more...\nThe post MeridianLink Acquires Credit Mountain appeared first on Finovate.",
     "hasSummary": true,
-    "link": "https://www.finextra.com/newsarticle/48327/singapore-commits-s220m-to-fintech-innovation?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
+    "link": "https://finovate.com/meridianlink-acquires-credit-mountain/",
+    "source": "Finovate",
+    "tags": [
+      "MeridianLink",
+      "Credit Mountain",
+      "FinovateFall"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-01T00:06:35.000Z",
+    "fetchedAt": "2026-09-01T02:39:52.288Z",
+    "isDuplicateOf": null,
+    "content": "FinovateFall 2024 Best of Show winner Credit Mountain has been acquired by MeridianLink. Credit Mountain is a financial wellness platform that made its debut at FinovateFall. As the upcoming FinovateFall event approaches, organizers are highlighting updates from alumni companies that previously showcased their innovations on stage.",
+    "slug": "meridianlink-acquires-credit-mountain"
+  },
+  {
+    "id": "61417139a971c346",
+    "slug": "singapore-commits-s-220m-to-fintech-innovation",
+    "title": "Singapore commits S$220m to fintech innovation",
     "tags": [
       "Singapore",
       "Monetary Authority of Singapore"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-09-01T00:01:00.000Z",
-    "fetchedAt": "2026-09-01T00:01:12.018Z",
-    "isDuplicateOf": null,
-    "content": "The Monetary Authority of Singapore has announced a significant funding commitment of S$220 million to support innovation within the local financial technology sector. The substantial investment is scheduled to be deployed over the next three years to further develop and strengthen the island nation's growing fintech ecosystem.",
-    "slug": "singapore-commits-s-220m-to-fintech-innovation"
+    "hasContent": true,
+    "pubDate": "2026-09-01T00:01:00.000Z"
   },
   {
     "id": "7d496f56a1168773",
+    "slug": "ethereum-leverage-crashes-91-yet-eth-price-holds-firm-here-s-why",
     "title": "Ethereum leverage crashes 91%, yet ETH price holds firm – Here’s why",
-    "summary": "Ethereum’s market structure is shifting as institutional accumulation grows, speculative leverage fades, and whale activity introduces new supply pressure.",
-    "hasSummary": true,
-    "link": "https://ambcrypto.com/ethereum-leverage-crashes-91-yet-eth-price-holds-firm-heres-why/",
-    "source": "AMBCrypto",
     "tags": [
       "Ethereum"
     ],
+    "source": "AMBCrypto",
     "origin": "rss",
-    "pubDate": "2026-09-01T00:00:29.000Z",
-    "fetchedAt": "2026-09-01T00:01:12.018Z",
-    "isDuplicateOf": null,
-    "content": "Ethereum's market structure is currently undergoing a significant shift. Recent data indicates that speculative leverage has dropped sharply by 91 percent. Despite this massive reduction in leveraged positions, the price of ETH has managed to hold its ground firmly. Market analysts point to growing institutional accumulation and notable whale activity as key factors influencing supply pressure and supporting the asset's resilience.",
-    "slug": "ethereum-leverage-crashes-91-yet-eth-price-holds-firm-here-s-why"
+    "hasContent": true,
+    "pubDate": "2026-09-01T00:00:29.000Z"
   },
   {
     "id": "3cd5bbe73369b383",
@@ -425,370 +791,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-08-31T20:32:33.000Z"
-  },
-  {
-    "id": "ddb42cf8a7b465aa",
-    "slug": "jpmorgan-shifts-to-cautious-outlook-on-us-stocks-after-fed-remarks",
-    "title": "JPMorgan shifts to cautious outlook on US stocks after Fed remarks",
-    "tags": [
-      "JPMorgan",
-      "Federal Reserve",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T20:24:59.000Z"
-  },
-  {
-    "id": "6bc51ea97e330922",
-    "slug": "arbitrator-finds-gemini-not-responsible-for-earn-program-collapse",
-    "title": "Arbitrator Finds Gemini Not Responsible for Earn Program Collapse",
-    "tags": [
-      "Gemini",
-      "Genesis Global Capital"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T20:15:27.000Z"
-  },
-  {
-    "id": "723e87e61bd5fada",
-    "slug": "solana-fees-hit-record-as-validators-double-pace-of-inflation-cuts",
-    "title": "Solana fees hit record as validators double pace of inflation cuts",
-    "tags": [
-      "Solana"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T20:14:57.000Z"
-  },
-  {
-    "id": "a709ccb8a7247caf",
-    "slug": "kalshi-traders-assign-66-chance-of-trump-impeachment-before-end-of-term",
-    "title": "Kalshi traders assign 66% chance of Trump impeachment before end of term",
-    "tags": [
-      "Kalshi",
-      "Donald Trump",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T20:14:26.000Z"
-  },
-  {
-    "id": "8ba7393d88090f3b",
-    "slug": "10-year-treasury-yield-crosses-key-threshold-prompting-warnings-of-higher-borrowing-costs-ahead",
-    "title": "10-year Treasury yield crosses key threshold, prompting warnings of higher borrowing costs ahead",
-    "tags": [
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T20:11:25.000Z"
-  },
-  {
-    "id": "93fe4f3a15d954b7",
-    "slug": "mantle-crypto-how-mnt-s-10-rally-could-push-price-toward-0-59",
-    "title": "Mantle crypto: How MNT’s 10% rally could push price toward $0.59",
-    "tags": [
-      "Mantle"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T20:00:54.000Z"
-  },
-  {
-    "id": "9ae06e46810762d1",
-    "slug": "burlington-shrinks-clothing-prices-following-55-million-tariff-refund",
-    "title": "Burlington Shrinks Clothing Prices Following $55 Million Tariff Refund",
-    "tags": [
-      "Burlington",
-      "Michael O'Sullivan"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:56:04.000Z"
-  },
-  {
-    "id": "2ab933e97c3cbe33",
-    "slug": "kalshi-bans-george-santos-over-state-of-the-union-bets",
-    "title": "Kalshi bans George Santos over State of the Union bets",
-    "tags": [
-      "Kalshi",
-      "George Santos"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:55:03.000Z"
-  },
-  {
-    "id": "304e52e8e0a7b181",
-    "slug": "bitcoin-gains-24-as-cryptoslate-price-prediction-model-maps-a-volatile-september",
-    "title": "Bitcoin gains 24% as CryptoSlate price prediction model maps a volatile September",
-    "tags": [
-      "Bitcoin",
-      "CryptoSlate"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:50:04.000Z"
-  },
-  {
-    "id": "dfd1951db2be348a",
-    "slug": "meta-wins-dismissal-of-instagram-shopping-antitrust-suit",
-    "title": "Meta wins dismissal of Instagram Shopping antitrust suit",
-    "tags": [
-      "Meta",
-      "Instagram"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:50:00.000Z"
-  },
-  {
-    "id": "c5c8103231172c79",
-    "slug": "technology-equity-funds-pull-in-195b-in-inflows-dwarfing-every-other-sector-combined",
-    "title": "Technology equity funds pull in $195B in inflows, dwarfing every other sector combined",
-    "tags": [
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:34:58.000Z"
-  },
-  {
-    "id": "ec2e1a4c25167096",
-    "slug": "instagram-looks-to-limit-ai-created-accounts-posing-as-human",
-    "title": "Instagram Looks to Limit AI-Created Accounts Posing as Human",
-    "tags": [
-      "Instagram",
-      "Meta"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:34:33.000Z"
-  },
-  {
-    "id": "d0f9b6d4b506189c",
-    "slug": "polymarket-pledges-to-police-trading-for-us-midterm-elections",
-    "title": "Polymarket Pledges to Police Trading For US Midterm Elections",
-    "tags": [
-      "Polymarket",
-      "United States"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:34:06.000Z"
-  },
-  {
-    "id": "b3769e0ff9791769",
-    "slug": "belgium-rejects-eu-push-to-use-frozen-russian-assets-for-ukraine-loan",
-    "title": "Belgium rejects EU push to use frozen Russian assets for Ukraine loan",
-    "tags": [
-      "Belgium",
-      "European Union",
-      "Ukraine",
-      "Russia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:34:03.000Z"
-  },
-  {
-    "id": "d083d1182691941f",
-    "slug": "cardano-ada-enters-its-worst-month-3-ais-examine-its-september-prospects",
-    "title": "Cardano (ADA) Enters Its Worst Month: 3 AIs Examine Its September Prospects",
-    "tags": [
-      "Cardano",
-      "Gemini"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:33:28.000Z"
-  },
-  {
-    "id": "51ac1535129e1d26",
-    "slug": "polymarket-in-talks-to-raise-1b-at-valuation-above-20b-led-by-1789-capital",
-    "title": "Polymarket in talks to raise $1B at valuation above $20B, led by 1789 Capital",
-    "tags": [
-      "Polymarket",
-      "1789 Capital"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:31:43.000Z"
-  },
-  {
-    "id": "60c920df37028763",
-    "slug": "blockstream-rebuilds-bitcoin-and-liquid-block-explorer-with-new-ui",
-    "title": "Blockstream rebuilds Bitcoin and Liquid block explorer with new UI",
-    "tags": [
-      "Blockstream",
-      "Bitcoin",
-      "Liquid"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:27:26.000Z"
-  },
-  {
-    "id": "05a42105b6b10870",
-    "slug": "chatbots-rarely-encourage-suicide-but-still-enable-harmful-role-play",
-    "title": "Chatbots rarely encourage suicide but still enable harmful role-play",
-    "tags": [
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:24:11.000Z"
-  },
-  {
-    "id": "7955cf4f6d67a24d",
-    "slug": "anchorage-digital-reports-tether-s-usa-reserve-details-for-july-31",
-    "title": "Anchorage Digital reports Tether’s USA₮ reserve details for July 31",
-    "tags": [
-      "Anchorage Digital",
-      "Tether",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:23:51.000Z"
-  },
-  {
-    "id": "d42ce95eebb1af5b",
-    "slug": "instagram-will-limit-reach-of-undisclosed-ai-profiles",
-    "title": "Instagram will limit reach of undisclosed AI profiles",
-    "tags": [
-      "Instagram"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:20:54.000Z"
-  },
-  {
-    "id": "f3c5edf1c5f328ba",
-    "slug": "ajax-reportedly-in-talks-with-sunderland-over-simon-adingra-transfer",
-    "title": "Ajax reportedly in talks with Sunderland over Simon Adingra transfer",
-    "tags": [
-      "Ajax",
-      "Sunderland",
-      "Simon Adingra"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:19:59.000Z"
-  },
-  {
-    "id": "532a744af2033da3",
-    "slug": "us-federal-trade-commission-drafts-complaint-against-amazon-over-deceptive-advertising-practices",
-    "title": "US Federal Trade Commission drafts complaint against Amazon over deceptive advertising practices",
-    "tags": [
-      "Amazon",
-      "Federal Trade Commission",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:19:58.000Z"
-  },
-  {
-    "id": "af02165aeef8aef3",
-    "slug": "oil-prices-today-prices-jump-as-war-rages-on-but-treasury-secretary-bessent-says-they-ll-fall",
-    "title": "Oil Prices Today: Prices Jump as War Rages on, But Treasury Secretary Bessent Says They’ll Fall",
-    "tags": [
-      "United States",
-      "Iran"
-    ],
-    "source": "Watcher.Guru",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:15:59.000Z"
-  },
-  {
-    "id": "db3e0b834c7fa485",
-    "slug": "s-p-500-rebalancing-could-move-27-trillion-in-tracking-funds",
-    "title": "S&P 500 rebalancing could move $27 trillion in tracking funds",
-    "tags": [
-      "S&P 500"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:14:52.000Z"
-  },
-  {
-    "id": "6a26fd57d6f3a5de",
-    "slug": "us-stocks-decline-as-trump-threatens-fresh-iran-strikes",
-    "title": "US stocks decline as Trump threatens fresh Iran strikes",
-    "tags": [
-      "United States",
-      "Iran"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:13:59.000Z"
-  },
-  {
-    "id": "34a16632a1bc771a",
-    "slug": "meta-launches-muse-code-in-beta-with-paid-plans-and-sdk",
-    "title": "Meta launches Muse Code in beta with paid plans and SDK",
-    "tags": [
-      "Meta"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:09:38.000Z"
-  },
-  {
-    "id": "e2304b009694925f",
-    "slug": "grok-bot-transforms-coding-tasks-as-a16z-investor-calls-it-a-chatgpt-moment",
-    "title": "Grok Bot transforms coding tasks as a16z investor calls it a ChatGPT moment",
-    "tags": [
-      "Grok Bot",
-      "ChatGPT",
-      "a16z"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:08:36.000Z"
-  },
-  {
-    "id": "36bd1a26111adc58",
-    "slug": "gamestop-turns-ebay-pursuit-into-a-nearly-5-billion-investment",
-    "title": "GameStop Turns eBay Pursuit Into a Nearly $5 Billion Investment",
-    "tags": [
-      "GameStop",
-      "eBay"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-08-31T19:06:57.000Z"
   }
 ]
