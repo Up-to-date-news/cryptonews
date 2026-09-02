@@ -1,5 +1,42 @@
 [
   {
+    "id": "09bfad4696b67669",
+    "title": "Jack Henry falls victim to ransomware attack",
+    "summary": "US core banking vendor Jack Henrry has been bit by a ransomware attack.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/newsarticle/48332/jack-henry-falls-victim-to-ransomware-attack?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Jack Henry",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-02T00:01:00.000Z",
+    "fetchedAt": "2026-09-02T00:01:17.442Z",
+    "isDuplicateOf": null,
+    "content": "US core banking vendor Jack Henry has become the victim of a ransomware attack, according to recent reports. The incident highlights ongoing cybersecurity risks facing financial technology providers and institutions. Investigations are currently underway to determine the extent of the breach and any potential impact on sensitive data or system operations.",
+    "slug": "jack-henry-falls-victim-to-ransomware-attack"
+  },
+  {
+    "id": "a46df527c4422e88",
+    "title": "Félix raises $200m in equity and debt to expand beyond remittances",
+    "summary": "Félix, a chat-based platform that utilises WhatsApp to enable Latino immigrants in the US to send money abroad, is planning to add a host of other financial products after raising $87 million in a Series C equity round.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/newsarticle/48333/flix-raises-200m-in-equity-and-debt-to-expand-beyond-remittances?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Félix",
+      "United States",
+      "WhatsApp"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-02T00:01:00.000Z",
+    "fetchedAt": "2026-09-02T00:01:17.442Z",
+    "isDuplicateOf": null,
+    "content": "Félix has raised funding in a new round to expand its operations. The chat-based platform, which operates using WhatsApp to help Latino immigrants in the United States send money abroad, plans to introduce a variety of additional financial products following the successful financing event.",
+    "slug": "felix-raises-200m-in-equity-and-debt-to-expand-beyond-remittances"
+  },
+  {
     "id": "aa8c9ca20e65a61e",
     "slug": "stopping-a-blockchain-doesn-t-always-recover-stolen-funds-what-actually-happened-when-3-networks",
     "title": "Stopping a blockchain doesn’t always recover stolen funds – What actually happened when 3 networks pulled the plug",
@@ -65,40 +102,30 @@
   },
   {
     "id": "bc553a9391560852",
+    "slug": "mysterious-ethereum-whale-is-dumping-408-million-in-eth",
     "title": "Mysterious Ethereum Whale is Dumping $408 Million in ETH",
-    "summary": "A mysterious Ethereum whale has moved hundreds of millions of dollars worth of ETH to top crypto exchanges like OKX, Binance, and Bybit, triggering speculation regarding a probable sell-off. The move comes even as the second-most-valued cryptocurrency has appreciated 28% in the last couple of weeks or so and is currently hovering around crucial inflection […]",
-    "hasSummary": true,
-    "link": "https://zycrypto.com/mysterious-ethereum-whale-is-dumping-408-million-in-eth/",
-    "source": "ZyCrypto",
     "tags": [
       "Ethereum",
       "OKX",
       "Binance",
       "Bybit"
     ],
+    "source": "ZyCrypto",
     "origin": "rss",
-    "pubDate": "2026-09-01T22:07:01.000Z",
-    "fetchedAt": "2026-09-01T22:38:14.838Z",
-    "isDuplicateOf": null,
-    "content": "A mysterious Ethereum whale has transferred hundreds of millions of dollars in ETH to major cryptocurrency exchanges, sparking speculation about a potential sell-off. This large movement of funds coincides with a recent 28 percent price appreciation for Ethereum over the last couple of weeks, bringing the digital asset to a crucial market level as investors monitor the situation closely.",
-    "slug": "mysterious-ethereum-whale-is-dumping-408-million-in-eth"
+    "hasContent": true,
+    "pubDate": "2026-09-01T22:07:01.000Z"
   },
   {
     "id": "1e60da367d99e792",
+    "slug": "when-supply-chain-risk-hits-cfos-with-receipts-move-first",
     "title": "When Supply Chain Risk Hits, CFOs With Receipts Move First",
-    "summary": "The three words “supply chain compliance” have typically been more likely to inspire yawns than cross-border growth strategies when brought up by enterprise chief financial officers. With a new round of tariffs creating greater uncertainty across supply chains that have traditionally been viewed as secure and responsible, however, firms are realizing that the procurement function […]\nThe post When Supply Chain Risk Hits, CFOs With Receipts Move First appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/news/b2b-payments/2026/when-supply-chain-risk-hits-cfos-with-receipts-move-first/",
-    "source": "PYMNTS",
     "tags": [
       "PYMNTS.com"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-09-01T21:52:09.000Z",
-    "fetchedAt": "2026-09-01T22:38:14.838Z",
-    "isDuplicateOf": null,
-    "content": "Supply chain compliance has taken on critical importance for enterprise chief financial officers amid new tariffs and rising global uncertainty. Traditionally viewed as a routine administrative task, procurement and supply chain management are now central to cross-border growth strategies as firms navigate risks and secure their operations against unexpected disruptions.",
-    "slug": "when-supply-chain-risk-hits-cfos-with-receipts-move-first"
+    "hasContent": true,
+    "pubDate": "2026-09-01T21:52:09.000Z"
   },
   {
     "id": "5c5b0688885c9c7f",
@@ -763,31 +790,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-01T20:00:00.000Z"
-  },
-  {
-    "id": "a9ff0a424ea7e8f6",
-    "slug": "air-defenses-activated-over-eastern-tehran-amid-heightened-regional-tensions",
-    "title": "Air defenses activated over eastern Tehran amid heightened regional tensions",
-    "tags": [
-      "Iran",
-      "Tehran"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-01T19:59:21.000Z"
-  },
-  {
-    "id": "a73df118b171061f",
-    "slug": "ikea-cuts-prices-in-europe-as-cost-of-living-pressures-persist",
-    "title": "IKEA Cuts Prices in Europe as Cost of Living Pressures Persist",
-    "tags": [
-      "IKEA",
-      "Europe"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-01T19:57:02.000Z"
   }
 ]
