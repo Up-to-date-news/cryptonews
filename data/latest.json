@@ -1,40 +1,223 @@
 [
   {
-    "id": "e0a8061c832d983c",
-    "title": "TabaPay closes $155m financing; agrees to buy a bank",
-    "summary": "Money movement platform TabaPay is set to buy a Denver-based bank after securing $155 million in strategic growth financing led by FTV Capital.",
+    "id": "646e159dfdfe5b90",
+    "slug": "assessing-cash-cat-s-29-rally-as-liquidations-hit-611k-what-s-next",
+    "title": "Assessing Cash Cat’s 29% rally as liquidations hit $611K: What’s next?",
+    "tags": [
+      "Cash Cat",
+      "Robinhood"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-03T03:00:56.000Z"
+  },
+  {
+    "id": "b4ad2b924d2e962d",
+    "slug": "binance-alpha-debut-lifts-pons-to-a-fresh-all-time-high",
+    "title": "Binance Alpha Debut Lifts PONS to a Fresh All-Time High",
+    "tags": [
+      "Binance",
+      "Pons",
+      "Robinhood"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-03T02:42:28.000Z"
+  },
+  {
+    "id": "ac56db3d7defd5cd",
+    "slug": "how-stablecoins-are-quietly-becoming-the-fed-s-debt-buyer-of-last-resort",
+    "title": "How stablecoins are quietly becoming the Fed’s debt buyer of last resort",
+    "tags": [
+      "Federal Reserve",
+      "United States"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-03T02:30:23.000Z"
+  },
+  {
+    "id": "c5160da7d0c22597",
+    "slug": "wti-crude-prices-steady-above-89-50-amid-middle-east-tensions",
+    "title": "WTI crude prices steady above $89.50 amid Middle East tensions",
+    "tags": [
+      "Middle East"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-03T02:12:48.000Z"
+  },
+  {
+    "id": "e4f263cdc8bd9975",
+    "slug": "colombian-fintech-plenti-raises-3-million-led-by-tether",
+    "title": "Colombian fintech Plenti raises $3 million led by Tether",
+    "tags": [
+      "Plenti",
+      "Tether",
+      "Colombia",
+      "Latin America"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-03T02:07:17.000Z"
+  },
+  {
+    "id": "17c0e528424aa63a",
+    "slug": "cesc-fabregas-named-serie-a-coach-of-the-year-for-2025-26",
+    "title": "Cesc Fabregas named Serie A Coach of the Year for 2025-26",
+    "tags": [
+      "Cesc Fabregas",
+      "Como",
+      "Serie A"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-03T01:54:21.000Z"
+  },
+  {
+    "id": "db883f019ba4fab3",
+    "slug": "hyperliquid-s-hype-joins-hashdex-crypto-etf-as-fifth-largest-holding",
+    "title": "Hyperliquid's HYPE Joins Hashdex Crypto ETF as Fifth-Largest Holding",
+    "tags": [
+      "Hyperliquid",
+      "Hashdex",
+      "Bitcoin"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-03T01:45:26.000Z"
+  },
+  {
+    "id": "61d0ea1bc015d31a",
+    "slug": "bitgo-opens-singapore-office-as-apac-client-base-triples",
+    "title": "BitGo opens Singapore office as APAC client base triples",
+    "tags": [
+      "BitGo",
+      "Singapore"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-03T01:18:44.000Z"
+  },
+  {
+    "id": "8175733c66059c3c",
+    "slug": "mrbeast-signs-multi-year-gemini-deal-how-much-is-actually-ai",
+    "title": "MrBeast Signs Multi-Year Gemini Deal: How Much Is Actually AI?",
+    "tags": [
+      "Google",
+      "MrBeast"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-03T01:09:56.000Z"
+  },
+  {
+    "id": "e3565b0c4bff8451",
+    "slug": "nearly-10-million-must-escape-a-dying-ethereum-l2-network-before-new-year-s-eve-or-risk-becoming",
+    "title": "Nearly $10 million must escape a dying Ethereum L2 network before New Year’s Eve or risk becoming unrecoverable",
+    "tags": [
+      "Ethereum"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-03T01:00:59.000Z"
+  },
+  {
+    "id": "f6f34ca45e2e2018",
+    "slug": "maple-finance-can-syrup-extend-its-14-rally-as-tvl-nears-3b",
+    "title": "Maple Finance – Can SYRUP extend its 14% rally as TVL nears $3B?",
+    "tags": [
+      "Maple Finance",
+      "SYRUP"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-03T01:00:00.000Z"
+  },
+  {
+    "id": "849741060bb90b2a",
+    "slug": "cftc-files-bid-to-dismiss-cme-suit-over-kalshi-s-bitcoin-perps",
+    "title": "CFTC files bid to dismiss CME suit over Kalshi’s Bitcoin perps",
+    "tags": [
+      "CFTC",
+      "CME",
+      "Kalshi",
+      "Bitcoin",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-03T00:51:59.000Z"
+  },
+  {
+    "id": "db2386e8e96809bf",
+    "slug": "doge-shib-pepe-or-something-else-which-meme-coin-can-make-history-in-september-3-ais-weigh-in",
+    "title": "DOGE, SHIB, PEPE, or Something Else: Which Meme Coin Can Make History in September? (3 AIs Weigh In)",
+    "tags": [
+      "Dogecoin",
+      "Shiba Inu",
+      "Pepe"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-03T00:41:21.000Z"
+  },
+  {
+    "id": "d04801bcaadc6249",
+    "title": "Most Banks Wait Six Years for AI Payback. Discovery Didn’t.",
+    "summary": "Banks have a lot of data on their customers, but most of it sits unused. The customer gets flooded the same generic offer everyone else gets, and the bank misses a warning sign of fraud its own systems could have caught earlier, simply because nothing connects the dots fast enough. Discovery Bank, the South African […]\nThe post Most Banks Wait Six Years for AI Payback. Discovery Didn’t. appeared first on PYMNTS.com.",
     "hasSummary": true,
-    "link": "https://www.finextra.com/newsarticle/48340/tabapay-closes-155m-financing-agrees-to-buy-a-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/most-banks-wait-six-years-for-ai-payback-discovery-didnt/",
+    "source": "PYMNTS",
+    "tags": [
+      "Discovery Bank"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-03T00:03:45.000Z",
+    "fetchedAt": "2026-09-03T03:01:21.090Z",
+    "isDuplicateOf": null,
+    "content": "While most banks reportedly wait several years to see a return on investment from artificial intelligence, Discovery Bank achieved faster payback. Traditional financial institutions often struggle to utilize vast amounts of customer data effectively, leading to missed opportunities in personalization and fraud detection. In contrast, South African institution Discovery implemented advanced approaches to accelerate the value derived from its technology systems.",
+    "slug": "most-banks-wait-six-years-for-ai-payback-discovery-didn-t"
+  },
+  {
+    "id": "e0a8061c832d983c",
+    "slug": "tabapay-closes-155m-financing-agrees-to-buy-a-bank",
+    "title": "TabaPay closes $155m financing; agrees to buy a bank",
     "tags": [
       "TabaPay",
       "FTV Capital",
       "Denver"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-09-03T00:01:00.000Z",
-    "fetchedAt": "2026-09-03T00:01:28.795Z",
-    "isDuplicateOf": null,
-    "content": "Money movement platform TabaPay has successfully closed $155 million in strategic growth financing. Following this major funding round led by FTV Capital, the company has also agreed to acquire a Denver-based bank to further expand its operations and strengthen its presence in the financial services sector.",
-    "slug": "tabapay-closes-155m-financing-agrees-to-buy-a-bank"
+    "hasContent": true,
+    "pubDate": "2026-09-03T00:01:00.000Z"
   },
   {
     "id": "71a34d554b2d643a",
+    "slug": "amazon-shopping-assistant-now-helps-users-check-if-a-message-is-a-scam",
     "title": "Amazon shopping assistant now helps users check if a message is a scam",
-    "summary": "Amazon has unveiled a new tool in the fight against fraudsters, enabling US customers to ask Alexa for Shopping to verify whether a message, email, phone call, or text actually came from the retail giant.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/newsarticle/48341/amazon-shopping-assistant-now-helps-users-check-if-a-message-is-a-scam?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
     "tags": [
       "Amazon",
       "United States"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-09-03T00:01:00.000Z",
-    "fetchedAt": "2026-09-03T00:01:28.795Z",
-    "isDuplicateOf": null,
-    "content": "Amazon has introduced a new feature allowing US customers to use its Alexa shopping assistant to verify if messages, emails, phone calls, or texts genuinely originated from the retail giant. This tool aims to help consumers combat fraudsters and protect themselves against deceptive communications by providing a quick way to authenticate suspicious outreach claiming to be from Amazon.",
-    "slug": "amazon-shopping-assistant-now-helps-users-check-if-a-message-is-a-scam"
+    "hasContent": true,
+    "pubDate": "2026-09-03T00:01:00.000Z"
   },
   {
     "id": "ecef34702ad99226",
@@ -623,189 +806,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-02T19:15:58.000Z"
-  },
-  {
-    "id": "bc9fb2ec048dbb5f",
-    "slug": "nvidia-now-accounts-for-8-of-the-entire-s-p-500",
-    "title": "Nvidia now accounts for 8% of the entire S&P 500",
-    "tags": [
-      "Nvidia",
-      "S&P 500"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-02T19:12:14.000Z"
-  },
-  {
-    "id": "7850186ce2cea3e7",
-    "slug": "segpay-picks-boca-raton-for-new-global-hq",
-    "title": "Segpay picks Boca Raton for new global HQ",
-    "tags": [
-      "Segpay",
-      "Boca Raton",
-      "Florida Atlantic University"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-02T19:10:00.000Z"
-  },
-  {
-    "id": "315b327d0f866605",
-    "slug": "aegis-trust-builds-tokenised-money-market-fund-focused-on-social-impact",
-    "title": "Aegis Trust builds tokenised money market fund focused on social impact",
-    "tags": [
-      "Aegis Trust"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-02T19:08:00.000Z"
-  },
-  {
-    "id": "a7a8840857bc5166",
-    "slug": "argentina-matches-to-pause-for-one-minute-tribute-to-lionel-messi",
-    "title": "Argentina matches to pause for one-minute tribute to Lionel Messi",
-    "tags": [
-      "Argentina",
-      "Lionel Messi"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-02T19:07:14.000Z"
-  },
-  {
-    "id": "64d56484e8646d5f",
-    "slug": "us-diesel-prices-near-record-levels-seen-during-april-conflict",
-    "title": "US diesel prices near record levels seen during April conflict",
-    "tags": [
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-02T19:01:54.000Z"
-  },
-  {
-    "id": "fadd55c8d07fcefb",
-    "slug": "fnbo-expands-westward-by-buying-denver-s-inbank",
-    "title": "FNBO Expands Westward by Buying Denver’s InBank",
-    "tags": [
-      "First National Bank of Omaha",
-      "InBank",
-      "Colorado",
-      "Denver"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-02T19:01:11.000Z"
-  },
-  {
-    "id": "da1b890044ef5e8d",
-    "slug": "uniswap-trading-volume-explodes-to-record-levels-over-7-million-per-day-but-actual-fees-lag-far",
-    "title": "Uniswap trading volume explodes to record levels over 7 million per day – but actual fees lag far behind",
-    "tags": [
-      "Uniswap"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-02T19:00:26.000Z"
-  },
-  {
-    "id": "d50763ce77833ae7",
-    "slug": "tennessee-bank-teller-accused-of-draining-60-000-from-customer-accounts-using-old-withdrawal-slips",
-    "title": "Tennessee Bank Teller Accused of Draining $60,000 From Customer Accounts Using Old Withdrawal Slips",
-    "tags": [
-      "First Bank",
-      "Memphis",
-      "Tennessee"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-02T18:59:46.000Z"
-  },
-  {
-    "id": "79c8a3170b96f96d",
-    "slug": "google-stock-gets-another-bullish-signal-from-us-courts",
-    "title": "Google Stock Gets Another Bullish Signal From US Courts",
-    "tags": [
-      "Google",
-      "Alphabet",
-      "United States"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-02T18:57:18.000Z"
-  },
-  {
-    "id": "5aa45692e8e0d8e2",
-    "slug": "new-jersey-officials-petition-us-supreme-court-over-prediction-markets",
-    "title": "New Jersey officials petition US Supreme Court over prediction markets",
-    "tags": [
-      "New Jersey",
-      "Supreme Court of the United States",
-      "Kalshi"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-02T18:55:41.000Z"
-  },
-  {
-    "id": "982c4696a2211b93",
-    "slug": "3-reasons-why-september-could-be-bullish-for-ethereum-eth",
-    "title": "3 Reasons Why September Could Be Bullish for Ethereum (ETH)",
-    "tags": [
-      "Ethereum"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-02T18:51:59.000Z"
-  },
-  {
-    "id": "8c8da1209576e49d",
-    "slug": "ukrainian-security-agencies-clash-in-kyiv-shootout-officers-wounded",
-    "title": "Ukrainian security agencies clash in Kyiv shootout, officers wounded",
-    "tags": [
-      "Ukraine",
-      "Kyiv",
-      "Russia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-02T18:48:02.000Z"
-  },
-  {
-    "id": "5bd5d514c1eb2dd0",
-    "slug": "grayscale-battles-sec-over-future-of-crypto-etfs-don-t-break-what-works",
-    "title": "Grayscale Battles SEC Over Future of Crypto ETFs: “Don’t Break What Works”",
-    "tags": [
-      "Grayscale",
-      "SEC"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-02T18:44:25.000Z"
-  },
-  {
-    "id": "1af9ca4e49a3189e",
-    "slug": "societe-generale-s-eurcv-gains-5-6m-second-fastest-growing-euro-stablecoin",
-    "title": "Societe Generale’s EURCV gains $5.6M, second-fastest-growing euro stablecoin",
-    "tags": [
-      "Societe Generale"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-02T18:43:59.000Z"
   }
 ]
