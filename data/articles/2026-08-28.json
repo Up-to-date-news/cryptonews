@@ -1554,12 +1554,16 @@
     "hasSummary": true,
     "link": "https://www.coindesk.com/business/2026/08/28/circle-s-usdc-takes-over-chelsea-s-jersey-in-premier-league-first",
     "source": "CoinDesk",
-    "tags": [],
+    "tags": [
+      "Chelsea",
+      "Circle",
+      "USDC"
+    ],
     "origin": "rss",
     "pubDate": "2026-08-28T11:09:27.000Z",
     "fetchedAt": "2026-08-28T12:01:08.453Z",
     "isDuplicateOf": null,
-    "content": null,
+    "content": "Chelsea Football Club has secured a sponsorship deal featuring Circle's USDC, marking a notable milestone as the first Premier League partnership of its kind. This collaboration highlights the growing presence of cryptocurrency within mainstream sports, demonstrating how digital assets are increasingly integrating into major global athletic organizations.",
     "slug": "circle-s-usdc-takes-over-chelsea-s-jersey-in-premier-league-first-sponsorship-deal"
   },
   {
@@ -4012,12 +4016,16 @@
     "hasSummary": true,
     "link": "https://decrypt.co/376813/bitcoin-traders-watch-fed-chair-warsh-for-clues-and-get-nothing",
     "source": "Decrypt",
-    "tags": [],
+    "tags": [
+      "Bitcoin",
+      "Federal Reserve",
+      "Jackson Hole"
+    ],
     "origin": "rss",
     "pubDate": "2026-08-28T15:14:11.000Z",
     "fetchedAt": "2026-08-28T18:01:07.106Z",
     "isDuplicateOf": null,
-    "content": null,
+    "content": "Federal Reserve Chair Warsh delivered a keynote speech at the Jackson Hole symposium, offering no hints regarding future interest rate cuts. As inflation remains high, Bitcoin traders were left waiting for clarity ahead of the upcoming September policy decision, receiving no guidance from the central bank leadership.",
     "slug": "bitcoin-traders-watch-fed-chair-warsh-for-clues-and-get-nothing"
   },
   {

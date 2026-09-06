@@ -2044,12 +2044,16 @@
     "hasSummary": true,
     "link": "https://cryptonews.com/news/ripple-news-xrp-price-prediction-bis-xrpl/",
     "source": "CryptoNews",
-    "tags": [],
+    "tags": [
+      "Bank for International Settlements",
+      "XRP",
+      "Ripple"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-03T11:30:00.000Z",
     "fetchedAt": "2026-09-03T12:01:26.886Z",
     "isDuplicateOf": null,
-    "content": null,
+    "content": "The Bank for International Settlements has tested the XRP Ledger to anchor tamper-evident data hashes, achieving data verification in three to five seconds. Meanwhile, XRP is trading around $1.37 amid a period of market consolidation as traders monitor key price levels for future direction.",
     "slug": "ripple-news-bis-turns-to-xrp-ledger-for-3-5-second-data-verification"
   },
   {
@@ -6081,12 +6085,15 @@
     "hasSummary": true,
     "link": "https://decrypt.co/377340/bernie-sanders-ban-advanced-ai",
     "source": "Decrypt",
-    "tags": [],
+    "tags": [
+      "Bernie Sanders",
+      "United States"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-03T20:16:04.000Z",
     "fetchedAt": "2026-09-03T21:01:22.917Z",
     "isDuplicateOf": null,
-    "content": null,
+    "content": "Senator Bernie Sanders has introduced a legislative proposal aimed at halting the advancement of sophisticated artificial intelligence systems. The proposed measure includes the establishment of a dedicated federal regulatory agency to oversee the technology. Furthermore, the legislation introduces severe potential legal consequences, proposing prison sentences of up to 20 years for individuals or entities that violate the restrictions.",
     "slug": "bernie-sanders-pushes-bill-to-ban-advanced-ai-development"
   },
   {
