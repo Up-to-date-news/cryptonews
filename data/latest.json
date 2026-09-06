@@ -1,181 +1,444 @@
 [
   {
-    "id": "75a72d8b315af192",
-    "title": "Strategy and Robinhood now lead a $4.5 billion large-cap ETF that was not built for crypto",
-    "summary": "Their 6.01% combined weight shows how crypto-linked volatility can reach a generalist stock portfolio.\nThe post Strategy and Robinhood now lead a $4.5 billion large-cap ETF that was not built for crypto appeared first on CryptoSlate.",
+    "id": "68f6bdf7f015f590",
+    "slug": "vitality-evaluates-justinas-jl-lekavicius-performance-as-stand-in",
+    "title": "Vitality evaluates Justinas ‘jL’ Lekavicius’ performance as stand-in",
+    "tags": [
+      "Vitality",
+      "Justinas Lekavicius"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-06T11:52:08.000Z"
+  },
+  {
+    "id": "6b9ff727884efcc5",
+    "slug": "traders-bet-2m-against-clarity-act-ahead-of-senate-vote-on-september-15",
+    "title": "Traders bet $2M against CLARITY Act ahead of Senate vote on September 15",
+    "tags": [
+      "United States",
+      "Senate",
+      "CLARITY Act"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-06T11:39:04.000Z"
+  },
+  {
+    "id": "d089622ce60e5c43",
+    "slug": "elon-musk-fires-back-at-bernie-sanders-over-his-900-billion-fortune",
+    "title": "Elon Musk Fires Back at Bernie Sanders Over His $900 Billion Fortune",
+    "tags": [
+      "Elon Musk",
+      "Bernie Sanders",
+      "SpaceX",
+      "Tesla"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-06T11:38:53.000Z"
+  },
+  {
+    "id": "3442f0b3ce56fe3e",
+    "slug": "opec-maintains-oil-production-quotas-amid-middle-east-tensions",
+    "title": "OPEC+ maintains oil production quotas amid Middle East tensions",
+    "tags": [
+      "OPEC+"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-06T11:33:28.000Z"
+  },
+  {
+    "id": "6f35c7d2619c3061",
+    "slug": "altcoin-open-interest-rises-as-zec-bnb-arb-xrp-and-sol-gain-momentum",
+    "title": "Altcoin open interest rises as ZEC, BNB, ARB, XRP, and SOL gain momentum",
+    "tags": [
+      "ZEC",
+      "BNB",
+      "ARB",
+      "XRP",
+      "SOL"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-06T11:28:18.000Z"
+  },
+  {
+    "id": "b10bd996c7b58ba7",
+    "slug": "netanyahu-labels-qatar-hostile-amid-iran-conflict-tensions",
+    "title": "Netanyahu labels Qatar ‘hostile’ amid Iran conflict tensions",
+    "tags": [
+      "Benjamin Netanyahu",
+      "Qatar",
+      "Iran",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-06T11:19:30.000Z"
+  },
+  {
+    "id": "da7da02a21a8cbb7",
+    "title": "DOJ Expands Beef Price Probe to Walmart, Amazon, Costco and Other Major Retailers",
+    "summary": "The U.S. Department of Justice has expanded its antitrust investigation into beef prices by requesting six years of pricing and margin data from eight major retailers including Walmart, Amazon, and Costco.\nThe post DOJ Expands Beef Price Probe to Walmart, Amazon, Costco and Other Major Retailers appeared first on The Daily Hodl.",
     "hasSummary": true,
-    "link": "https://cryptoslate.com/strategy-and-robinhood-now-lead-a-4-5-billion-large-cap-etf-that-was-not-built-for-crypto/",
+    "link": "https://dailyhodl.com/2026/09/06/doj-expands-beef-price-probe-to-walmart-amazon-costco-and-other-major-retailers/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "Department of Justice",
+      "Walmart",
+      "Amazon",
+      "Costco",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-06T11:15:45.000Z",
+    "fetchedAt": "2026-09-06T12:01:14.859Z",
+    "isDuplicateOf": null,
+    "content": "The U.S. Department of Justice has expanded its antitrust investigation into beef pricing. Regulators requested six years of detailed pricing and margin data from eight major retail companies, including Walmart, Amazon, and Costco. This move marks a significant escalation in the ongoing federal probe into potential market manipulation within the beef industry.",
+    "slug": "doj-expands-beef-price-probe-to-walmart-amazon-costco-and-other-major-retailers"
+  },
+  {
+    "id": "f1ecdd6270b1ea69",
+    "slug": "nike-exits-the-s-p-100-index-4-tech-stocks-move-in",
+    "title": "Nike Exits the S&P 100 Index. 4 Tech Stocks Move In",
+    "tags": [
+      "Nike",
+      "Dell",
+      "Palo Alto Networks",
+      "Arista Networks",
+      "Sandisk"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-06T11:14:50.000Z"
+  },
+  {
+    "id": "4f906c6888ddc0e3",
+    "title": "US hyperscalers race to build multibillion-dollar AI data centers, but China controls critical parts",
+    "summary": "US reliance on Chinese components for AI data centers could hinder growth, escalate costs, and necessitate costly domestic manufacturing shifts.\nThe post US hyperscalers race to build multibillion-dollar AI data centers, but China controls critical parts appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/us-hyperscalers-ai-data-centers-china-supply-chain/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "United States",
+      "China"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-06T11:05:04.000Z",
+    "fetchedAt": "2026-09-06T12:01:14.859Z",
+    "isDuplicateOf": null,
+    "content": "Major technology companies in the United States are investing heavily in building expensive artificial intelligence data centers. However, reports highlight that China controls critical parts needed for this infrastructure. This reliance on Chinese components could potentially hinder industry growth, increase operational costs, and force a costly shift toward domestic manufacturing.",
+    "slug": "us-hyperscalers-race-to-build-multibillion-dollar-ai-data-centers-but-china-controls-critical-parts"
+  },
+  {
+    "id": "7b767e0faf901f5e",
+    "slug": "poland-s-crypto-law-fails-a-third-time-leaving-the-only-gap-in-europe",
+    "title": "Poland's Crypto Law Fails a Third Time, Leaving the Only Gap in Europe",
+    "tags": [
+      "Poland",
+      "Europe"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-06T11:04:39.000Z"
+  },
+  {
+    "id": "406378bb9b388bc1",
+    "slug": "inside-the-15-minute-trading-pulse-that-moves-14-billion-in-bitcoin-perpetual-futures",
+    "title": "Inside the 15-minute trading pulse that moves $14 billion in Bitcoin perpetual futures",
+    "tags": [
+      "Bitcoin"
+    ],
     "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-06T11:00:27.000Z"
+  },
+  {
+    "id": "13028a57c75b195d",
+    "slug": "crypto-scams-surge-as-4-threats-surface-in-12-hours-what-happened",
+    "title": "Crypto scams surge as 4 threats surface in 12 hours – What happened?",
+    "tags": [],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-06T11:00:05.000Z"
+  },
+  {
+    "id": "4e808d4871ab4117",
+    "slug": "two-hot-new-cryptos-from-robinhood-and-bnb-officially-listed-on-binance-futures-full-details",
+    "title": "Two Hot New Cryptos From Robinhood and BNB Officially Listed on Binance Futures: Full Details",
+    "tags": [
+      "Binance",
+      "Robinhood",
+      "BNB"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-06T10:37:45.000Z"
+  },
+  {
+    "id": "3c91f56838978238",
+    "slug": "arbitrum-arb-rockets-by-42-daily-bitcoin-btc-fights-for-80k-weekend-watch",
+    "title": "Arbitrum (ARB) Rockets by 42% Daily, Bitcoin (BTC) Fights for $80K: Weekend Watch",
+    "tags": [
+      "Arbitrum",
+      "Bitcoin",
+      "ZEC"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-06T10:35:48.000Z"
+  },
+  {
+    "id": "aab775adaf23b882",
+    "title": "Mikel Arteta endorses Chelsea as title contenders in Premier League",
+    "summary": "Arteta's endorsement of Chelsea as title contenders highlights the competitive landscape shift, emphasizing tactical evolution and managerial impact.\nThe post Mikel Arteta endorses Chelsea as title contenders in Premier League appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/arteta-endorses-chelsea-title-contenders/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Mikel Arteta",
+      "Chelsea",
+      "Arsenal",
+      "Premier League"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-06T10:28:16.000Z",
+    "fetchedAt": "2026-09-06T12:01:14.859Z",
+    "isDuplicateOf": null,
+    "content": "Arsenal manager Mikel Arteta has publicly endorsed Chelsea as genuine title contenders in the ongoing Premier League season. This recognition reflects a notable tactical evolution within Chelsea and highlights a shifting competitive landscape at the top of English football. Arteta's comments underline the growing managerial impact and strength of their rivals as the race for the championship intensifies.",
+    "slug": "mikel-arteta-endorses-chelsea-as-title-contenders-in-premier-league"
+  },
+  {
+    "id": "44d1b8348f78ff0c",
+    "title": "Major US Bank Sued Over Alleged Privacy Violations From Website Tracking Pixels",
+    "summary": "A California plaintiff accuses Citigroup of embedding third-party tracking pixels on citi.com to intercept users' electronic communications in real time without consent for commercial purposes like targeted advertising.\nThe post Major US Bank Sued Over Alleged Privacy Violations From Website Tracking Pixels appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/09/06/major-us-bank-sued-over-alleged-privacy-violations-from-website-tracking-pixels/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "Citigroup",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-06T10:15:13.000Z",
+    "fetchedAt": "2026-09-06T12:01:14.859Z",
+    "isDuplicateOf": null,
+    "content": "A California plaintiff has filed a lawsuit against a major US bank, accusing the institution of embedding third-party tracking pixels on its website. The complaint alleges that these tools intercepted users' electronic communications in real time without consent for commercial purposes, including targeted advertising.",
+    "slug": "major-us-bank-sued-over-alleged-privacy-violations-from-website-tracking-pixels"
+  },
+  {
+    "id": "da7bc7bf47fc11c8",
+    "title": "NS RedForce wins first map at VCT 2026 Pacific Stage 2 grand final",
+    "summary": "NS RedForce's momentum in the grand final highlights their dominance and sets a strong precedent for their performance at Champions 2026.\nThe post NS RedForce wins first map at VCT 2026 Pacific Stage 2 grand final appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/ns-redforce-vct-2026-pacific-stage-2/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "NS RedForce"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-06T10:14:45.000Z",
+    "fetchedAt": "2026-09-06T12:01:14.859Z",
+    "isDuplicateOf": null,
+    "content": "NS RedForce secured a victory on the first map during the VCT 2026 Pacific Stage 2 grand final. This strong opening performance highlights the team's momentum and sets a high standard as they aim for continued success at Champions 2026.",
+    "slug": "ns-redforce-wins-first-map-at-vct-2026-pacific-stage-2-grand-final"
+  },
+  {
+    "id": "c83e79e197810548",
+    "title": "Everton faces Manchester United in Premier League clash as both sides chase early-season momentum",
+    "summary": "This match could redefine early-season trajectories, impacting managerial tenures and setting the tone for both clubs' campaigns.\nThe post Everton faces Manchester United in Premier League clash as both sides chase early-season momentum appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/everton-manchester-united-premier-league-clash/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Everton",
+      "Manchester United",
+      "Premier League"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-06T10:09:26.000Z",
+    "fetchedAt": "2026-09-06T12:01:14.859Z",
+    "isDuplicateOf": null,
+    "content": "Everton is set to face Manchester United in an upcoming Premier League match. Both clubs are looking to secure a crucial victory to build early-season momentum. This fixture serves as an important test for the respective sides as they attempt to shape their campaigns and establish consistency in the standings.",
+    "slug": "everton-faces-manchester-united-in-premier-league-clash-as-both-sides-chase-early-season-momentum"
+  },
+  {
+    "id": "0a8b7518300df55a",
+    "title": "Xi Jinping promotes China as stable alternative to US under Trump",
+    "summary": "Xi's diplomatic strategy may enhance China's global influence, potentially reshaping international alliances and economic partnerships.\nThe post Xi Jinping promotes China as stable alternative to US under Trump appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/xi-jinping-promotes-china-as-stable-alternative-to-us-under-trump/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "China",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-06T10:07:41.000Z",
+    "fetchedAt": "2026-09-06T12:01:14.859Z",
+    "isDuplicateOf": null,
+    "content": "Chinese leader Xi Jinping has positioned China as a stable global alternative to the United States under Donald Trump. This diplomatic strategy could significantly enhance China's international influence, potentially reshaping critical global alliances and economic partnerships as nations navigate shifting geopolitical dynamics.",
+    "slug": "xi-jinping-promotes-china-as-stable-alternative-to-us-under-trump"
+  },
+  {
+    "id": "8c3bb70d6d7e9cc7",
+    "title": "Tether aims to become a top 5 buyer of US Treasuries",
+    "summary": "Tether's growing role in US Treasuries could stabilize demand but risks market disruption if rapid redemptions occur, impacting financial systems.\nThe post Tether aims to become a top 5 buyer of US Treasuries appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/tether-top-5-us-treasury-buyer/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Tether",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-06T10:05:25.000Z",
+    "fetchedAt": "2026-09-06T12:01:14.859Z",
+    "isDuplicateOf": null,
+    "content": "Stablecoin issuer Tether has announced plans to become one of the top five buyers of United States Treasuries. While this growing role could help stabilize overall demand for government debt, experts warn that it also carries potential risks. Specifically, rapid redemptions of the stablecoin could cause market disruptions and impact broader financial systems.",
+    "slug": "tether-aims-to-become-a-top-5-buyer-of-us-treasuries"
+  },
+  {
+    "id": "75a72d8b315af192",
+    "slug": "strategy-and-robinhood-now-lead-a-4-5-billion-large-cap-etf-that-was-not-built-for-crypto",
+    "title": "Strategy and Robinhood now lead a $4.5 billion large-cap ETF that was not built for crypto",
     "tags": [
       "MicroStrategy",
       "Robinhood"
     ],
+    "source": "CryptoSlate",
     "origin": "rss",
-    "pubDate": "2026-09-06T10:00:43.000Z",
-    "fetchedAt": "2026-09-06T10:01:58.359Z",
-    "isDuplicateOf": null,
-    "content": "MicroStrategy and Robinhood have gained a combined weight of over six percent in a major large-cap ETF that was not originally designed for cryptocurrency exposure. This development highlights how crypto-linked market volatility can increasingly impact generalist stock portfolios and broad investment funds.",
-    "slug": "strategy-and-robinhood-now-lead-a-4-5-billion-large-cap-etf-that-was-not-built-for-crypto"
+    "hasContent": true,
+    "pubDate": "2026-09-06T10:00:43.000Z"
   },
   {
     "id": "b99e31da5637739e",
+    "slug": "iran-has-30-million-barrels-of-oil-left-for-china-says-treasury-secretary-bessent",
     "title": "Iran has 30 million barrels of oil left for China, says Treasury Secretary Bessent",
-    "summary": "US sanctions on Iran could destabilize global oil markets, strain Iran's economy, and test US-China relations amid geopolitical tensions.\nThe post Iran has 30 million barrels of oil left for China, says Treasury Secretary Bessent appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/iran-30m-barrels-oil-china-bessent/",
-    "source": "CryptoBriefing",
     "tags": [
       "Iran",
       "China",
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-06T09:53:07.000Z",
-    "fetchedAt": "2026-09-06T10:01:58.359Z",
-    "isDuplicateOf": null,
-    "content": "US Treasury Secretary Bessent stated that Iran has a limited supply of thirty million barrels of oil remaining for delivery to China. This development highlights ongoing geopolitical tensions involving strict US sanctions on Iranian oil exports, which analysts warn could strain international markets and influence diplomatic relations between Washington and Beijing.",
-    "slug": "iran-has-30-million-barrels-of-oil-left-for-china-says-treasury-secretary-bessent"
+    "hasContent": true,
+    "pubDate": "2026-09-06T09:53:07.000Z"
   },
   {
     "id": "d89364f6005191f7",
+    "slug": "regional-powers-condemn-israeli-ministers-over-gaza-displacement-remarks",
     "title": "Regional powers condemn Israeli ministers over Gaza displacement remarks",
-    "summary": "Regional condemnation may heighten diplomatic pressure on Israel, potentially influencing international policies on Palestinian statehood.\nThe post Regional powers condemn Israeli ministers over Gaza displacement remarks appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/regional-powers-condemn-israeli-ministers-over-gaza-displacement-remarks/",
-    "source": "CryptoBriefing",
     "tags": [
       "Israel",
       "Gaza"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-06T09:47:05.000Z",
-    "fetchedAt": "2026-09-06T10:01:58.359Z",
-    "isDuplicateOf": null,
-    "content": "Regional powers have strongly condemned recent remarks by Israeli ministers regarding the displacement of people in Gaza. This widespread criticism is expected to increase diplomatic pressure on Israel and could potentially influence international policies concerning Palestinian statehood as global leaders react to the controversial statements.",
-    "slug": "regional-powers-condemn-israeli-ministers-over-gaza-displacement-remarks"
+    "hasContent": true,
+    "pubDate": "2026-09-06T09:47:05.000Z"
   },
   {
     "id": "c279aa65941d9a8d",
+    "slug": "china-s-two-largest-banks-plan-to-raise-39b-through-private-placements-to-shore-up-capital-buffers",
     "title": "China’s two largest banks plan to raise $39B through private placements to shore up capital buffers",
-    "summary": "China's strategic capital infusion into major banks highlights its commitment to stabilizing the financial sector amid economic pressures.\nThe post China’s two largest banks plan to raise $39B through private placements to shore up capital buffers appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/agbank-icbc-39b-private-placements-capital/",
-    "source": "CryptoBriefing",
     "tags": [
       "China"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-06T09:38:34.000Z",
-    "fetchedAt": "2026-09-06T10:01:58.359Z",
-    "isDuplicateOf": null,
-    "content": "China's two largest banks are planning to raise thirty-nine billion dollars through private placements. This strategic capital infusion aims to shore up their capital buffers, highlighting the nation's commitment to stabilizing its financial sector amidst ongoing economic pressures.",
-    "slug": "china-s-two-largest-banks-plan-to-raise-39b-through-private-placements-to-shore-up-capital-buffers"
+    "hasContent": true,
+    "pubDate": "2026-09-06T09:38:34.000Z"
   },
   {
     "id": "3bb6499dbd25b362",
+    "slug": "7-satoshi-era-bitcoin-btc-miners-wake-up-after-16-5-years",
     "title": "7 Satoshi-Era Bitcoin (BTC) Miners Wake Up After 16.5 Years",
-    "summary": "The market witnesses a substantial increase in selling pressure after Bitcoin came closer to $80,000.",
-    "hasSummary": true,
-    "link": "https://u.today/7-satoshi-era-bitcoin-btc-miners-wake-up-after-165-years",
-    "source": "U.Today",
     "tags": [
       "Bitcoin"
     ],
+    "source": "U.Today",
     "origin": "rss",
-    "pubDate": "2026-09-06T09:23:00.000Z",
-    "fetchedAt": "2026-09-06T10:01:58.359Z",
-    "isDuplicateOf": null,
-    "content": "Seven Satoshi-era Bitcoin miners have suddenly become active after remaining dormant for 16.5 years. This unexpected reactivation coincides with the cryptocurrency market experiencing a substantial increase in selling pressure as Bitcoin's price approaches the significant milestone of $80,000, drawing close attention from market observers tracking early coin movements.",
-    "slug": "7-satoshi-era-bitcoin-btc-miners-wake-up-after-16-5-years"
+    "hasContent": true,
+    "pubDate": "2026-09-06T09:23:00.000Z"
   },
   {
     "id": "05152f47ebadb35d",
+    "slug": "president-trump-pledges-up-to-500-000-000-from-super-pac-for-midterms",
     "title": "President Trump Pledges Up to $500,000,000 from Super PAC for Midterms",
-    "summary": "President Donald Trump said his super PAC MAGA Inc. will allocate $400-500 million to help Republican candidates in the November midterms, claiming close to a billion dollars available.\nThe post President Trump Pledges Up to $500,000,000 from Super PAC for Midterms appeared first on The Daily Hodl.",
-    "hasSummary": true,
-    "link": "https://dailyhodl.com/2026/09/06/president-trump-pledges-up-to-500000000-from-super-pac-for-midterms/",
-    "source": "The Daily Hodl",
     "tags": [
       "Donald Trump",
       "United States"
     ],
+    "source": "The Daily Hodl",
     "origin": "rss",
-    "pubDate": "2026-09-06T09:15:34.000Z",
-    "fetchedAt": "2026-09-06T10:01:58.359Z",
-    "isDuplicateOf": null,
-    "content": "President Donald Trump announced that his super PAC, MAGA Inc., plans to allocate between $400 million and $500 million to support Republican candidates in the upcoming November midterms. During the announcement, Trump stated that the organization has close to a billion dollars available for these political efforts, aiming to heavily influence the midterm elections.",
-    "slug": "president-trump-pledges-up-to-500-000-000-from-super-pac-for-midterms"
+    "hasContent": true,
+    "pubDate": "2026-09-06T09:15:34.000Z"
   },
   {
     "id": "f3d80a8e4641ab74",
+    "slug": "opec-set-to-maintain-oil-output-policy-unchanged-at-sunday-meeting",
     "title": "OPEC+ set to maintain oil output policy unchanged at Sunday meeting",
-    "summary": "OPEC+'s unchanged policy stabilizes short-term oil supply, but 2027's quota decisions could disrupt markets amid geopolitical tensions.\nThe post OPEC+ set to maintain oil output policy unchanged at Sunday meeting appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/opec-plus-oil-output-policy-unchanged/",
-    "source": "CryptoBriefing",
     "tags": [
       "OPEC+"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-06T09:14:52.000Z",
-    "fetchedAt": "2026-09-06T10:01:58.359Z",
-    "isDuplicateOf": null,
-    "content": "OPEC+ is expected to keep its current oil output policy unchanged during its upcoming Sunday meeting. While this decision provides stability for short-term oil supplies, upcoming quota decisions in later years could create disruptions in global markets, particularly as geopolitical tensions continue to affect the energy sector.",
-    "slug": "opec-set-to-maintain-oil-output-policy-unchanged-at-sunday-meeting"
+    "hasContent": true,
+    "pubDate": "2026-09-06T09:14:52.000Z"
   },
   {
     "id": "7da9ec33c7671b81",
+    "slug": "aivres-acquires-us-ai-chips-despite-parent-company-s-blacklisting",
     "title": "Aivres acquires US AI chips despite parent company’s blacklisting",
-    "summary": "Aivres' operations highlight loopholes in US export controls, potentially undermining efforts to restrict sensitive tech access globally.\nThe post Aivres acquires US AI chips despite parent company’s blacklisting appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/aivres-acquires-ai-chips-despite-blacklisting/",
-    "source": "CryptoBriefing",
     "tags": [
       "Aivres",
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-06T09:07:36.000Z",
-    "fetchedAt": "2026-09-06T10:01:58.359Z",
-    "isDuplicateOf": null,
-    "content": "Aivres has successfully acquired US artificial intelligence chips despite its parent company facing blacklisting. This situation exposes significant loopholes within existing US export controls, raising concerns that current regulations may fail to effectively restrict global access to sensitive technology. Observers note this development could undermine ongoing efforts to regulate high-tech hardware distribution.",
-    "slug": "aivres-acquires-us-ai-chips-despite-parent-company-s-blacklisting"
+    "hasContent": true,
+    "pubDate": "2026-09-06T09:07:36.000Z"
   },
   {
     "id": "e0eee58934d2cbcc",
+    "slug": "tether-backed-orionx-to-shut-down-after-audit-flags-7m-custody-gap",
     "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
-    "summary": "The closure of Orionx highlights the critical need for stringent regulatory oversight and robust internal controls in the crypto industry.\nThe post Orionx shuts down after audit reveals $7M custody gap appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph",
     "tags": [
       "Orionx",
       "Tether"
     ],
+    "source": "Cointelegraph",
     "origin": "rss",
-    "pubDate": "2026-09-06T09:07:08.000Z",
-    "fetchedAt": "2026-09-06T10:01:58.359Z",
-    "isDuplicateOf": null,
-    "content": "Crypto platform Orionx, which is backed by Tether, has announced it will shut down operations. The decision follows an audit that uncovered a significant custody gap of approximately seven million dollars. This closure underscores growing concerns regarding internal financial controls and regulatory oversight within the digital asset industry as companies face increasing scrutiny over asset management and security practices.",
-    "slug": "tether-backed-orionx-to-shut-down-after-audit-flags-7m-custody-gap"
+    "hasContent": true,
+    "pubDate": "2026-09-06T09:07:08.000Z"
   },
   {
     "id": "98f259bc37e3059d",
+    "slug": "iran-s-attacks-keep-strait-of-hormuz-in-lethal-stalemate",
     "title": "Iran’s attacks keep Strait of Hormuz in lethal stalemate",
-    "summary": "The ongoing stalemate in the Strait of Hormuz exacerbates regional instability, impacting global energy markets and hindering diplomatic resolutions.\nThe post Iran’s attacks keep Strait of Hormuz in lethal stalemate appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/irans-attacks-keep-strait-of-hormuz-in-lethal-stalemate/",
-    "source": "CryptoBriefing",
     "tags": [
       "Iran",
       "Strait of Hormuz"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-06T09:05:40.000Z",
-    "fetchedAt": "2026-09-06T10:01:58.359Z",
-    "isDuplicateOf": null,
-    "content": "Iran's ongoing attacks have maintained a lethal stalemate in the Strait of Hormuz. This critical regional blockage continues to create instability, negatively affecting global energy markets and preventing diplomatic resolutions from moving forward in the area.",
-    "slug": "iran-s-attacks-keep-strait-of-hormuz-in-lethal-stalemate"
+    "hasContent": true,
+    "pubDate": "2026-09-06T09:05:40.000Z"
   },
   {
     "id": "d1ee6f484515a101",
@@ -569,265 +832,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-06T02:53:04.000Z"
-  },
-  {
-    "id": "cb7df58f6880eae9",
-    "slug": "us-envoys-head-to-kyiv-after-three-hour-putin-meeting-as-72-hour-ceasefire-takes-hold",
-    "title": "US envoys head to Kyiv after three-hour Putin meeting as 72-hour ceasefire takes hold",
-    "tags": [
-      "United States",
-      "Kyiv",
-      "Russia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-06T02:33:34.000Z"
-  },
-  {
-    "id": "ae0950badcd16008",
-    "slug": "putin-and-trump-agree-to-keep-communication-channels-open-amid-ukraine-tensions",
-    "title": "Putin and Trump agree to keep communication channels open amid Ukraine tensions",
-    "tags": [
-      "Russia",
-      "Ukraine",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-06T02:19:19.000Z"
-  },
-  {
-    "id": "64a9fd684c009873",
-    "slug": "alpine-f1-fan-token-rises-after-italian-gp-drama",
-    "title": "Alpine F1 Fan Token Rises After Italian GP Drama",
-    "tags": [
-      "Alpine F1 Team",
-      "Italy"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-06T02:00:00.000Z"
-  },
-  {
-    "id": "70ae33a5c922a393",
-    "slug": "iran-claims-it-damaged-uss-george-washington-with-missile-strike-pentagon-denies-any-hit",
-    "title": "Iran claims it damaged USS George Washington with missile strike, Pentagon denies any hit",
-    "tags": [
-      "Iran",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-06T01:21:35.000Z"
-  },
-  {
-    "id": "fb3a1f0bb30d5256",
-    "slug": "traders-shift-focus-to-chinese-equity-derivatives-for-ai-exposure-as-korean-and-japanese-plays-get",
-    "title": "Traders shift focus to Chinese equity derivatives for AI exposure as Korean and Japanese plays get crowded",
-    "tags": [
-      "China",
-      "South Korea",
-      "Japan"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-06T01:18:12.000Z"
-  },
-  {
-    "id": "4b520f6d13804cf1",
-    "slug": "bitcoin-etfs-see-770m-in-inflows-is-september-breaking-its-curse",
-    "title": "Bitcoin ETFs see $770M in inflows – Is September breaking its curse?",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-06T01:00:38.000Z"
-  },
-  {
-    "id": "d7761c6e1ab06317",
-    "slug": "us-central-command-confirms-striking-and-sinking-iranian-oil-tanker-m-t-kylo-in-gulf-of-oman",
-    "title": "US Central Command confirms striking and sinking Iranian oil tanker M/T Kylo in Gulf of Oman",
-    "tags": [
-      "United States",
-      "Iran",
-      "Gulf of Oman"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-06T00:52:44.000Z"
-  },
-  {
-    "id": "060d634a87526bc0",
-    "slug": "arthur-hayes-buys-244-406-uni-for-1-73m-in-quiet-otc-deal",
-    "title": "Arthur Hayes buys 244,406 UNI for $1.73M in quiet OTC deal",
-    "tags": [
-      "Arthur Hayes",
-      "Uniswap"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-06T00:47:16.000Z"
-  },
-  {
-    "id": "2b9af1ea75561e9f",
-    "slug": "escalating-air-threats-in-ukraine-risk-triggering-broader-conflict",
-    "title": "Escalating air threats in Ukraine risk triggering broader conflict",
-    "tags": [
-      "Ukraine"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-06T00:43:04.000Z"
-  },
-  {
-    "id": "06bbc2494dabbec8",
-    "slug": "four-russian-cruise-missiles-reportedly-detected-over-ukraine-two-heading-toward-kyiv-oblast",
-    "title": "Four Russian cruise missiles reportedly detected over Ukraine, two heading toward Kyiv Oblast",
-    "tags": [
-      "Russia",
-      "Ukraine"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-06T00:39:56.000Z"
-  },
-  {
-    "id": "9244148f4de908ca",
-    "slug": "sapient-open-sources-hrm-text-model-advancing-recurrent-reasoning-on-a-1-500-budget",
-    "title": "Sapient open-sources HRM-Text model, advancing recurrent reasoning on a $1,500 budget",
-    "tags": [
-      "Sapient"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-06T00:29:19.000Z"
-  },
-  {
-    "id": "40c0cc8fa008300f",
-    "slug": "bridge-s-euro-stablecoin-eurr-gains-665k-in-market-cap-days-after-launch",
-    "title": "Bridge’s euro stablecoin EURR gains $665K in market cap days after launch",
-    "tags": [
-      "Bridge",
-      "EURR",
-      "European Union"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-06T00:03:21.000Z"
-  },
-  {
-    "id": "0a62ccc46fd53d1a",
-    "slug": "amc-memecoin-drops-over-55-in-24-hours-after-wild-launch-on-robinhood-chain",
-    "title": "AMC memecoin drops over 55% in 24 hours after wild launch on Robinhood Chain",
-    "tags": [
-      "AMC",
-      "Robinhood"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-05T22:33:57.000Z"
-  },
-  {
-    "id": "91dc5a418fe802d1",
-    "slug": "texas-gold-scam-drains-over-250-000-000-from-elderly-victims-report",
-    "title": "Texas Gold Scam Drains Over $250,000,000 From Elderly Victims: Report",
-    "tags": [
-      "Texas"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-05T22:16:41.000Z"
-  },
-  {
-    "id": "f54e428e273afd7b",
-    "slug": "banksy-star-wars-and-jpmorgan-meet-in-a-1-billion-museum",
-    "title": "Banksy, Star Wars and JPMorgan Meet in a $1 Billion Museum",
-    "tags": [
-      "JPMorgan",
-      "George Lucas"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-05T22:13:54.000Z"
-  },
-  {
-    "id": "6e39b73281d2366b",
-    "slug": "google-s-gemini-business-adds-support-for-custom-mcp-server-connections",
-    "title": "Google’s Gemini Business adds support for custom MCP server connections",
-    "tags": [
-      "Google",
-      "Gemini Business"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-05T22:05:04.000Z"
-  },
-  {
-    "id": "c6cf515c5bac5253",
-    "slug": "polymarket-signs-lebron-james-as-first-athlete-partner",
-    "title": "Polymarket signs LeBron James as first athlete partner",
-    "tags": [
-      "Polymarket",
-      "LeBron James"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-05T21:57:50.000Z"
-  },
-  {
-    "id": "5f5e4e07a8b44df0",
-    "slug": "qqqb-leads-tokenized-stocks-with-1-7b-in-dex-trading-volume-over-30-days",
-    "title": "QQQb leads tokenized stocks with $1.7B in DEX trading volume over 30 days",
-    "tags": [
-      "QQQb"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-05T21:54:08.000Z"
-  },
-  {
-    "id": "2242adc81750de97",
-    "slug": "bis-tests-xrp-ledger-to-anchor-official-statistics-on-chain-in-proof-of-concept-paper",
-    "title": "BIS Tests XRP Ledger to Anchor Official Statistics On-Chain in Proof-of-Concept Paper",
-    "tags": [
-      "Bank for International Settlements",
-      "XRP Ledger",
-      "Ripple"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-05T21:52:49.000Z"
-  },
-  {
-    "id": "a43c80c5c61c27c3",
-    "slug": "bitcoin-contributor-fixes-wallet-crash-bug-using-ai-tools-exposing-both-promise-and-friction-in-ai",
-    "title": "Bitcoin contributor fixes wallet crash bug using AI tools, exposing both promise and friction in AI-powered security",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-05T21:42:54.000Z"
   }
 ]
