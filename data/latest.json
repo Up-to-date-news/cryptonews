@@ -1,21 +1,584 @@
 [
   {
-    "id": "f7d5aa8f138cd7bd",
-    "title": "Nvidia Stock Nears Price Peak After OpenAI’s GPT-6 Astra Launch",
-    "summary": "Nvidia (NVDA) stock seems to be experiencing an upward surge after OpenAI launched its GPT-6 Astra model. In…",
+    "id": "b8aebde9c4542f15",
+    "slug": "singaporean-pleads-guilty-in-240m-bitcoin-theft-case-involving-gemini-impersonation",
+    "title": "Singaporean pleads guilty in $240M Bitcoin theft case involving Gemini impersonation",
+    "tags": [
+      "Singapore",
+      "Bitcoin",
+      "Gemini"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T17:32:29.000Z"
+  },
+  {
+    "id": "21b016c5e8724f43",
+    "slug": "bitcoin-fund-flows-show-investors-trading-fed-rate-path-not-exiting-market-coinshares",
+    "title": "Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares",
+    "tags": [
+      "Bitcoin",
+      "CoinShares"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T17:29:27.000Z"
+  },
+  {
+    "id": "b94a86227eea80e5",
+    "title": "$1,800,000,000 in Iran-Linked Funds Transferred To Unnamed U.S. Banks From UAE, Treasury Says",
+    "summary": "The Treasury Department is restricting an Emirati branch of Banque Misr over its role in routing up to $1.8 billion in transactions linked to Iranian entities. This action forms part of broader efforts to limit Iran's access to the U.S. financial system through correspondent banking.\nThe post $1,800,000,000 in Iran-Linked Funds Transferred To Unnamed U.S. Banks From UAE, Treasury Says appeared first on The Daily Hodl.",
     "hasSummary": true,
-    "link": "https://watcher.guru/news/nvidia-stock-nears-price-peak-after-openais-gpt-6-astra-launch",
-    "source": "Watcher.Guru",
+    "link": "https://dailyhodl.com/2026/09/07/1800000000-in-iran-linked-funds-transferred-to-unnamed-u-s-banks-from-uae-treasury-says/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "Banque Misr",
+      "Iran",
+      "United Arab Emirates",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-07T17:25:48.000Z",
+    "fetchedAt": "2026-09-07T17:39:58.068Z",
+    "isDuplicateOf": null,
+    "content": "The U.S. Treasury Department is restricting an Emirati branch of Banque Misr for routing up to $1.8 billion in transactions connected to Iranian entities. This measure aims to restrict Iran's access to the American financial system via correspondent banking channels.",
+    "slug": "1-800-000-000-in-iran-linked-funds-transferred-to-unnamed-u-s-banks-from-uae-treasury-says"
+  },
+  {
+    "id": "e28d465b98be35d1",
+    "slug": "anthropic-adds-usage-details-button-and-customization-section-to-claude-for-ios",
+    "title": "Anthropic adds usage details button and customization section to Claude for iOS",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T17:20:39.000Z"
+  },
+  {
+    "id": "5ebf506cb7f7c577",
+    "slug": "mayan-facilitates-over-20b-in-cross-chain-swaps-via-wormhole",
+    "title": "Mayan facilitates over $20B in cross-chain swaps via Wormhole",
+    "tags": [
+      "Mayan",
+      "Wormhole"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T17:15:45.000Z"
+  },
+  {
+    "id": "d7f5d1991838e7a6",
+    "slug": "wormhole-connects-dogecoin-to-solana-via-sunrise-project",
+    "title": "Wormhole connects Dogecoin to Solana via Sunrise project",
+    "tags": [
+      "Wormhole",
+      "Dogecoin",
+      "Solana"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T17:06:58.000Z"
+  },
+  {
+    "id": "5f9bbb87710af268",
+    "title": "SUI Price Eyes $1.60 as Buybacks Cross 600K",
+    "summary": "The post SUI Price Eyes $1.60 as Buybacks Cross 600K appeared first on Coinpedia Fintech News\nSUI price is stuck between two major EMA bands, while the Sui Foundation’s buyback program has crossed 609,800 tokens. The setup offers a potential recovery, but the chart still needs convincing evidence. SUI Price Needs To Clear $0.9650 SUI price is trading between the 200-day EMA near $0.9650 and the 50-day EMA around $0.7455. That …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/price-analysis/sui-price-eyes-1-60-as-buybacks-cross-600k/",
+    "source": "Coinpedia",
+    "tags": [
+      "Sui"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-07T17:05:13.000Z",
+    "fetchedAt": "2026-09-07T17:39:58.068Z",
+    "isDuplicateOf": null,
+    "content": "The SUI token price is trading between major EMA bands, facing resistance near $0.9650 while holding support around $0.7455. Amidst this technical consolidation, the Sui Foundation's ongoing buyback program has successfully crossed 609,800 tokens. Analysts note that while this activity signals potential for a market recovery toward $1.60, the chart still requires more decisive bullish evidence before a confirmed breakout can occur.",
+    "slug": "sui-price-eyes-1-60-as-buybacks-cross-600k"
+  },
+  {
+    "id": "bb9a4fd854835345",
+    "title": "President Trump Suggests Moon Belongs To USA on Truth Social",
+    "summary": "President Trump posted on Truth Social declaring U.S. ownership of the moon alongside new Space Force uniform designs. The remarks revive a claim that violates the Outer Space Treaty.\nThe post President Trump Suggests Moon Belongs To USA on Truth Social appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/09/07/president-trump-suggests-moon-belongs-to-usa-on-truth-social/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-07T17:04:52.000Z",
+    "fetchedAt": "2026-09-07T17:39:58.068Z",
+    "isDuplicateOf": null,
+    "content": "Former President Donald Trump recently took to Truth Social to claim ownership of the moon for the United States. Along with the controversial statement, Trump shared new uniform designs for the United States Space Force. The remarks have drawn attention because such territorial claims directly conflict with the foundational Outer Space Treaty, which prohibits nations from claiming celestial bodies.",
+    "slug": "president-trump-suggests-moon-belongs-to-usa-on-truth-social"
+  },
+  {
+    "id": "c17a44be9f293b7f",
+    "slug": "xrp-prints-10-535-liquidation-imbalance-in-mere-hour-as-price-dips-to-1-38",
+    "title": "XRP Prints 10,535% Liquidation Imbalance in Mere Hour as Price Dips to $1.38",
+    "tags": [
+      "XRP"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T17:01:05.000Z"
+  },
+  {
+    "id": "81c8c60a5e15291d",
+    "slug": "solana-spot-volume-for-zec-hits-64m-ranks-fourth-among-centralized-exchanges",
+    "title": "Solana spot volume for ZEC hits $64M, ranks fourth among centralized exchanges",
+    "tags": [
+      "Solana",
+      "Zcash"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T17:00:23.000Z"
+  },
+  {
+    "id": "aabb5ddce80fc930",
+    "slug": "viral-tiktok-meme-coin-bipolar-launches-tomorrow-but-there-s-a-trap",
+    "title": "Viral TikTok Meme Coin BIPOLAR Launches Tomorrow. But There’s a Trap",
+    "tags": [
+      "TikTok"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T16:58:46.000Z"
+  },
+  {
+    "id": "77c4aabd4b2e579e",
+    "slug": "oil-climbs-on-hormuz-risks-and-rising-chinese-buying",
+    "title": "Oil climbs on Hormuz risks and rising Chinese buying",
+    "tags": [
+      "China",
+      "Strait of Hormuz"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T16:55:29.000Z"
+  },
+  {
+    "id": "17785c372d15f4ac",
+    "slug": "hdfc-bank-and-icici-bank-buy-india-s-first-tokenized-bond-from-rec",
+    "title": "HDFC Bank and ICICI Bank buy India’s first tokenized bond from REC",
+    "tags": [
+      "HDFC Bank",
+      "ICICI Bank",
+      "REC",
+      "India"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T16:47:10.000Z"
+  },
+  {
+    "id": "cd0be8453bd65e74",
+    "slug": "micron-stock-tops-s-p-500-as-best-performer-over-past-5-years",
+    "title": "Micron stock tops S&P 500 as best performer over past 5 years",
+    "tags": [
+      "Micron"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T16:39:56.000Z"
+  },
+  {
+    "id": "8ff79658f113ffba",
+    "slug": "manchester-united-ranked-10th-in-uefa-champions-league-this-season",
+    "title": "Manchester United ranked 10th in UEFA Champions League this season",
+    "tags": [
+      "Manchester United",
+      "UEFA"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T16:34:12.000Z"
+  },
+  {
+    "id": "d8a470d3ae79d4b9",
+    "slug": "could-ai-cut-bitcoin-s-value-in-half-vitalik-buterin-says-the-odds-are-tiny",
+    "title": "Could AI Cut Bitcoin’s Value in Half? Vitalik Buterin Says the Odds Are ‘Tiny’",
+    "tags": [
+      "Vitalik Buterin",
+      "Bitcoin"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T16:32:37.000Z"
+  },
+  {
+    "id": "c628374f2783936c",
+    "slug": "openai-hires-jessica-schumer-for-senior-policy-role-ahead-of-midterms",
+    "title": "OpenAI hires Jessica Schumer for senior policy role ahead of midterms",
+    "tags": [
+      "OpenAI",
+      "Jessica Schumer"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T16:32:11.000Z"
+  },
+  {
+    "id": "1b63dd4c596a9e4e",
+    "title": "Copper Prices Today Hit Record High Above $14,500 A Ton",
+    "summary": "The post Copper Prices Today Hit Record High Above $14,500 A Ton appeared first on Coinpedia Fintech News\nCopper just notched its highest price ever, breaking past $14,530 a ton on the London Metal Exchange. The metal has now climbed over 16% since January and nearly 47% across the last twelve months. Behind the spike there are worries that Trump could widen tariffs on refined copper coming into the US, plus a wave …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/crypto-live-news/copper-prices-today-hit-record-high-above-14500-a-ton/",
+    "source": "Coinpedia",
+    "tags": [
+      "London Metal Exchange",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-07T16:25:59.000Z",
+    "fetchedAt": "2026-09-07T17:39:58.068Z",
+    "isDuplicateOf": null,
+    "content": "Copper prices reached a record high, breaking past $14,500 a ton on the London Metal Exchange. The industrial metal has surged significantly over the past year, driven by market concerns that potential tariffs on refined copper entering the United States could widen supply pressures and impact global trade dynamics.",
+    "slug": "copper-prices-today-hit-record-high-above-14-500-a-ton"
+  },
+  {
+    "id": "a2c9c3c00dd87e72",
+    "slug": "ethereum-s-privacy-push-hits-a-numbers-problem-one-proof-needs-nearly-twice-the-proposed-gas",
+    "title": "Ethereum’s privacy push hits a numbers problem: one proof needs nearly twice the proposed gas allowance",
+    "tags": [
+      "Ethereum"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T16:25:19.000Z"
+  },
+  {
+    "id": "6d9a9153145eb413",
+    "title": "SHIB’s Spot ETF Dream Is Getting Closer, Longtime Shiba Inu Figure Hints — Could This Send the Memecoin Flying?",
+    "summary": "A longtime SHIB community figure suggests that the project’s long-awaited spot ETF ambitions may be closer to becoming reality.",
+    "hasSummary": true,
+    "link": "https://zycrypto.com/shibs-spot-etf-dream-is-getting-closer-longtime-shiba-inu-figure-hints-could-this-send-the-memecoin-flying/",
+    "source": "ZyCrypto",
+    "tags": [
+      "Shiba Inu"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-07T16:19:57.000Z",
+    "fetchedAt": "2026-09-07T17:39:58.068Z",
+    "isDuplicateOf": null,
+    "content": "A prominent Shiba Inu community figure has hinted that the project's aspirations for a spot exchange-traded fund are progressing. This development has sparked speculation within the cryptocurrency market regarding a potential surge in value for the memecoin, reflecting growing interest in expanding mainstream investment products for alternative digital assets.",
+    "slug": "shib-s-spot-etf-dream-is-getting-closer-longtime-shiba-inu-figure-hints-could-this-send-the"
+  },
+  {
+    "id": "8f76b48dcbfa0202",
+    "slug": "morgan-rogers-rayan-cherki-lead-premier-league-with-10-chances-created",
+    "title": "Morgan Rogers, Rayan Cherki lead Premier League with 10+ chances created",
+    "tags": [
+      "Morgan Rogers",
+      "Rayan Cherki",
+      "Premier League"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T16:19:12.000Z"
+  },
+  {
+    "id": "8f7f645c52becaff",
+    "title": "Why Are US Markets Closed September 7?",
+    "summary": "The post Why Are US Markets Closed September 7? appeared first on Coinpedia Fintech News\nWall Street is closed Monday, September 7, for Labor Day, giving investors a three-day weekend. The NYSE, Nasdaq and US bond markets resume trading Tuesday at 9:30 a.m. ET. Stocks ended last week lower after a stronger-than-expected August jobs report reshaped Fed rate expectations. Payrolls rose 162,000, well above forecasts, while unemployment held at 4.1%, …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/crypto-live-news/why-are-us-markets-closed-september-7/",
+    "source": "Coinpedia",
+    "tags": [
+      "New York Stock Exchange",
+      "Nasdaq",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-07T16:17:47.000Z",
+    "fetchedAt": "2026-09-07T17:39:58.068Z",
+    "isDuplicateOf": null,
+    "content": "US markets, including the NYSE, Nasdaq, and bond markets, are closed on Monday for Labor Day, creating a three-day weekend for investors. Regular trading will resume on Tuesday morning. This closure follows a week where stocks ended lower following the release of an August jobs report that impacted Federal Reserve rate expectations, with stronger-than-forecast payroll growth and steady unemployment.",
+    "slug": "why-are-us-markets-closed-september-7"
+  },
+  {
+    "id": "36c9fbabafe518b2",
+    "slug": "bitget-wallet-launches-assetback-rewards-in-bitcoin-and-tokenized-assets",
+    "title": "Bitget Wallet Launches Assetback Rewards In Bitcoin And Tokenized Assets",
+    "tags": [
+      "Bitget Wallet",
+      "Bitcoin"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T16:15:00.000Z"
+  },
+  {
+    "id": "c30ef3c661014f02",
+    "title": "Stablecoins, Crypto Dominate Digital Assets Thoughts of the Week",
+    "summary": "Stablecoin consortium “Twenty-one banks backing a stablecoin is the clearest sign yet that the growth in blockchain rails is coming from TradFi now, not crypto. Nobody’s debating whether public chains work for settlement anymore, just who gets to own the issuer. “The real losers here... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/09/306236-stablecoins-crypto-dominate-digital-assets-thoughts-of-the-week/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "TradFi"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-07T16:07:43.000Z",
+    "fetchedAt": "2026-09-07T17:39:58.068Z",
+    "isDuplicateOf": null,
+    "content": "Recent commentary highlights that stablecoins and digital assets are dominating current market discussions. A notable development involves twenty-one banks backing a stablecoin initiative, signaling that growth in blockchain settlement rails is increasingly driven by traditional finance rather than native crypto entities. Analysts note that while the effectiveness of public chains for settlement is widely accepted, the primary debate now centers on who will ultimately control the issuers.",
+    "slug": "stablecoins-crypto-dominate-digital-assets-thoughts-of-the-week"
+  },
+  {
+    "id": "97a00b0c76b84237",
+    "slug": "manchester-united-returns-to-champions-league-after-seven-year-absence-with-blockbuster-signings",
+    "title": "Manchester United returns to Champions League after seven-year absence with blockbuster signings",
+    "tags": [
+      "Manchester United"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T16:06:06.000Z"
+  },
+  {
+    "id": "13377daa186d8200",
+    "slug": "oil-nears-100-amid-supply-disruptions-declining-inventories",
+    "title": "Oil nears $100 amid supply disruptions, declining inventories",
+    "tags": [
+      "Oil"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T16:05:22.000Z"
+  },
+  {
+    "id": "af39282c6e462f71",
+    "slug": "trump-invests-10m-in-texas-senate-race-to-boost-ken-paxton",
+    "title": "Trump invests $10M in Texas Senate race to boost Ken Paxton",
+    "tags": [
+      "Donald Trump",
+      "Ken Paxton",
+      "Texas",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T16:03:38.000Z"
+  },
+  {
+    "id": "71cc4cf6673eca73",
+    "slug": "bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance",
+    "title": "Bitcoin chips away at weekend upside as $80K hangs in the balance",
+    "tags": [
+      "Bitcoin",
+      "United States"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T15:57:47.000Z"
+  },
+  {
+    "id": "7f84f797a13328ef",
+    "slug": "wintermute-accumulates-over-3m-in-pons-tokens-arkham-intelligence-reveals",
+    "title": "Wintermute accumulates over $3M in PONS tokens, Arkham Intelligence reveals",
+    "tags": [
+      "Wintermute",
+      "Arkham Intelligence",
+      "PONS"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T15:55:13.000Z"
+  },
+  {
+    "id": "259a1645e541bdbf",
+    "slug": "30-billion-ai-pivot-causes-bitcoin-miners-to-freeze-all-sales",
+    "title": "$30 Billion AI Pivot Causes Bitcoin Miners to Freeze All Sales",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T15:54:45.000Z"
+  },
+  {
+    "id": "f49a97e0c86e3e30",
+    "title": "Can ZEC Price Reach $2,500 After Its $1,250 Peak?",
+    "summary": "The post Can ZEC Price Reach $2,500 After Its $1,250 Peak? appeared first on Coinpedia Fintech News\nZEC price could face a serious test if a whale’s short position gets liquidated near $2,540.28. The trade is large enough to attract attention, but the bigger question is whether Zcash can break its previous $1,250 peak and enter price discovery again. ZEC Price Now Faces A Whale-Sized Bet Garrett Jin reportedly closed his entire …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/price-analysis/can-zec-price-reach-2500-after-its-1250-peak/",
+    "source": "Coinpedia",
+    "tags": [
+      "Zcash"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-07T15:51:47.000Z",
+    "fetchedAt": "2026-09-07T17:39:58.068Z",
+    "isDuplicateOf": null,
+    "content": "Zcash faces a significant market test as a large short position nears liquidation around $2,540. Market analysts are questioning whether the cryptocurrency can surpass its previous peak of $1,250 and re-enter a phase of price discovery. The notable trade has drawn considerable attention from observers watching the asset's next potential price movements.",
+    "slug": "can-zec-price-reach-2-500-after-its-1-250-peak"
+  },
+  {
+    "id": "161b5f2116899186",
+    "slug": "hunter-biden-debuts-laptop-memecoin-targeting-trump-holders",
+    "title": "Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders",
+    "tags": [
+      "Hunter Biden",
+      "Base",
+      "TRUMP"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T15:44:30.000Z"
+  },
+  {
+    "id": "9502da15240f232d",
+    "slug": "bitcoin-starts-the-week-flat-but-chainlink-is-flying-here-s-why",
+    "title": "Bitcoin Starts the Week Flat, But Chainlink Is Flying—Here's Why",
+    "tags": [
+      "Bitcoin",
+      "Chainlink",
+      "Bottomline",
+      "SWIFT"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T15:42:34.000Z"
+  },
+  {
+    "id": "1f6cb15e6799682e",
+    "slug": "markets-are-underpricing-fed-and-ecb-rate-hikes-deutsche-bank-strategist-says",
+    "title": "Markets are underpricing Fed and ECB rate hikes, Deutsche Bank strategist says",
+    "tags": [
+      "Deutsche Bank",
+      "Federal Reserve",
+      "European Central Bank"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T15:36:25.000Z"
+  },
+  {
+    "id": "866c6143fe0d41c1",
+    "slug": "polymarket-ukraine-odds-for-russia-ceasefire-slashed-to-13",
+    "title": "Polymarket Ukraine Odds for Russia Ceasefire Slashed to 13%",
+    "tags": [
+      "Polymarket",
+      "Russia",
+      "Ukraine"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T15:35:31.000Z"
+  },
+  {
+    "id": "191df370405b7088",
+    "slug": "xrp-ledger-to-get-major-amendment-this-month",
+    "title": "XRP Ledger to Get Major Amendment This Month",
+    "tags": [
+      "XRP Ledger"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T15:34:33.000Z"
+  },
+  {
+    "id": "61b52c9fbe5b7bb1",
+    "slug": "shiba-inu-prints-bullish-signal-with-40-billion-shib-moved-off-exchanges",
+    "title": "Shiba Inu Prints Bullish Signal With 40 Billion SHIB Moved off Exchanges",
+    "tags": [
+      "Shiba Inu"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T15:31:11.000Z"
+  },
+  {
+    "id": "8a299bbeca7504af",
+    "title": "UBS and Jane Street Among Early Holders as Institutions Disclose $75 Million in Hyperliquid ETFs",
+    "summary": "The first public look at institutional ownership of US Hyperliquid exchange-traded funds arrived with the latest round of 13F filings. Bloomberg Intelligence ETF analyst James Seyffart compiled the reports and found that 30 firms disclosed combined holdings of about $74.9 million as of June 30.... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/09/306874-ubs-and-jane-street-among-early-holders-as-institutions-disclose-75-million-in-hyperliquid-etfs/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "UBS",
+      "Jane Street",
+      "Hyperliquid",
+      "Bloomberg"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-07T15:30:47.000Z",
+    "fetchedAt": "2026-09-07T17:39:58.068Z",
+    "isDuplicateOf": null,
+    "content": "Institutional ownership of US Hyperliquid exchange-traded funds has been revealed through recent 13F filings. Bloomberg Intelligence analyst James Seyffart reported that 30 firms, including UBS and Jane Street, held a combined total of approximately $74.9 million in these ETFs as of June 30, providing the first public insight into institutional backing for the funds.",
+    "slug": "ubs-and-jane-street-among-early-holders-as-institutions-disclose-75-million-in-hyperliquid-etfs"
+  },
+  {
+    "id": "a10c61cc16875990",
+    "slug": "xrp-lending-model-leaves-depositors-with-90-of-a-bad-loan-s-loss-despite-reserves-twice-its-size",
+    "title": "XRP lending model leaves depositors with 90% of a bad loan’s loss despite reserves twice its size",
+    "tags": [
+      "XRP"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T15:30:40.000Z"
+  },
+  {
+    "id": "cd72a08051a9c854",
+    "slug": "polish-prosecutors-charge-fifth-suspect-in-a-massive-crypto-probe",
+    "title": "Polish prosecutors charge fifth suspect in a massive crypto probe",
+    "tags": [
+      "Poland",
+      "BitBay",
+      "Zondacrypto"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T15:28:43.000Z"
+  },
+  {
+    "id": "f7d5aa8f138cd7bd",
+    "slug": "nvidia-stock-nears-price-peak-after-openai-s-gpt-6-astra-launch",
+    "title": "Nvidia Stock Nears Price Peak After OpenAI’s GPT-6 Astra Launch",
     "tags": [
       "Nvidia",
       "OpenAI"
     ],
+    "source": "Watcher.Guru",
     "origin": "rss",
-    "pubDate": "2026-09-07T15:01:00.000Z",
-    "fetchedAt": "2026-09-07T15:01:24.588Z",
-    "isDuplicateOf": null,
-    "content": "Nvidia stock is approaching a price peak following the launch of OpenAI's GPT-6 Astra model. The stock, traded under the ticker NVDA, experienced an upward surge in market activity driven by excitement surrounding the new artificial intelligence release. Investors are closely monitoring market reactions to this major technology development.",
-    "slug": "nvidia-stock-nears-price-peak-after-openai-s-gpt-6-astra-launch"
+    "hasContent": true,
+    "pubDate": "2026-09-07T15:01:00.000Z"
   },
   {
     "id": "a05c8c5de67fc69a",
@@ -264,562 +827,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-07T14:01:59.000Z"
-  },
-  {
-    "id": "720e30e982e7810a",
-    "slug": "ethereum-set-to-enable-gas-fee-payments-without-holding-eth-in-2027-upgrade",
-    "title": "Ethereum set to enable gas fee payments without holding ETH in 2027 upgrade",
-    "tags": [
-      "Ethereum"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T14:01:46.000Z"
-  },
-  {
-    "id": "0df71113a50ef670",
-    "title": "Google Stock Faces Longest Monthly Losing Streak In Over a Decade",
-    "summary": "Alphabet’s Google stock (NASDAQ: GOOG) entered September with its longest monthly losing streak in over a decade. The…",
-    "hasSummary": true,
-    "link": "https://watcher.guru/news/google-stock-faces-longest-monthly-losing-streak-in-over-a-decade",
-    "source": "Watcher.Guru",
-    "tags": [
-      "Alphabet",
-      "Google"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-09-07T14:00:00.000Z",
-    "fetchedAt": "2026-09-07T15:01:24.588Z",
-    "isDuplicateOf": null,
-    "content": "Alphabet's Google stock experienced a significant downturn, entering September with its longest monthly losing streak in over a decade. The prolonged decline reflects growing market pressures and investor caution surrounding the technology giant. While specific financial figures and quarterly targets remain general in this context, the downward trend marks a notable milestone for the NASDAQ-listed company as it navigates challenging economic conditions.",
-    "slug": "google-stock-faces-longest-monthly-losing-streak-in-over-a-decade"
-  },
-  {
-    "id": "548be6b57cee3e6b",
-    "slug": "us-gasoline-prices-hit-record-high-over-labor-day-weekend",
-    "title": "US gasoline prices hit record high over Labor Day weekend",
-    "tags": [
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:54:55.000Z"
-  },
-  {
-    "id": "8f99497cd3cb036f",
-    "slug": "ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
-    "title": "Ethereum commits to letting users pay gas fees without having to hold ETH",
-    "tags": [
-      "Ethereum",
-      "Vitalik Buterin"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:54:07.000Z"
-  },
-  {
-    "id": "8a533f5708a4c2f5",
-    "slug": "former-federal-prosecutor-says-as-clarity-is-dead-after-congress-talks",
-    "title": "Former Federal Prosecutor Says as “CLARITY Is Dead,” After Congress Talks",
-    "tags": [
-      "United States"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:52:34.000Z"
-  },
-  {
-    "id": "71656e5a7a516485",
-    "slug": "ukrainians-expect-russia-conflict-to-extend-beyond-2026-optimism-wanes",
-    "title": "Ukrainians expect Russia conflict to extend beyond 2026, optimism wanes",
-    "tags": [
-      "Ukraine",
-      "Russia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:50:41.000Z"
-  },
-  {
-    "id": "f194d9c2fc524c29",
-    "slug": "putin-reaffirms-commitment-to-continuing-war-in-ukraine-after-talks-with-us-envoys",
-    "title": "Putin reaffirms commitment to continuing war in Ukraine after talks with US envoys",
-    "tags": [
-      "Russia",
-      "Ukraine",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:48:19.000Z"
-  },
-  {
-    "id": "7453d78364e203e6",
-    "slug": "cardano-major-milestones-coming-in-months-ahead-what-to-expect",
-    "title": "Cardano Major Milestones Coming in Months Ahead: What to Expect",
-    "tags": [
-      "Cardano"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:45:52.000Z"
-  },
-  {
-    "id": "a2614c9689661937",
-    "slug": "vct-pacific-stage-2-2026-week-8-opens-with-nongshim-redforce-facing-global-esports",
-    "title": "VCT Pacific Stage 2 2026 Week 8 opens with Nongshim RedForce facing Global Esports",
-    "tags": [
-      "Nongshim RedForce",
-      "Global Esports",
-      "VCT Pacific"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:45:06.000Z"
-  },
-  {
-    "id": "286edaa31d03cdba",
-    "slug": "uae-vows-energy-exports-won-t-be-held-hostage-by-iran-war",
-    "title": "UAE vows energy exports won’t be held hostage by Iran war",
-    "tags": [
-      "UAE",
-      "Iran"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:44:50.000Z"
-  },
-  {
-    "id": "b6c9485d5ee58237",
-    "title": "PayTabs to acquire Amazon Payments Mena operations",
-    "summary": "Amazon has agreed a $100 million deal to transfer its Middle East and North Africa payments operations to Saudi Arabia's PayTabs.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/newsarticle/48356/paytabs-to-acquire-amazon-payments-mena-operations?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "tags": [
-      "PayTabs",
-      "Amazon",
-      "Saudi Arabia",
-      "Middle East",
-      "North Africa"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-09-07T13:44:00.000Z",
-    "fetchedAt": "2026-09-07T15:01:24.588Z",
-    "isDuplicateOf": null,
-    "content": "PayTabs has agreed to a $100 million deal to acquire the Middle East and North Africa payments operations of Amazon. This strategic acquisition will transfer Amazon Payments Mena operations to Saudi Arabia-based PayTabs, significantly expanding its footprint and capabilities within the regional digital payments sector.",
-    "slug": "paytabs-to-acquire-amazon-payments-mena-operations"
-  },
-  {
-    "id": "4d75df17c27a72a4",
-    "slug": "openbmb-s-minicpm5-2b-tops-open-models-under-4b-parameters-on-artificial-analysis-index-v4-2",
-    "title": "OpenBMB’s MiniCPM5-2B tops open models under 4B parameters on Artificial Analysis Index v4.2",
-    "tags": [
-      "OpenBMB"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:42:38.000Z"
-  },
-  {
-    "id": "ef709feb884234cc",
-    "slug": "bitcoin-holds-near-80-000-despite-renewed-fed-rate-hike-fears-as-cpi-test-looms",
-    "title": "Bitcoin holds near $80,000 despite renewed Fed rate hike fears as CPI test looms",
-    "tags": [
-      "Bitcoin",
-      "Federal Reserve",
-      "United States"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:41:02.000Z"
-  },
-  {
-    "id": "a1b31e304fce2c78",
-    "slug": "kucoin-launches-kcusd-with-up-to-4-base-apr-on-stablecoins",
-    "title": "KuCoin launches KCUSD with up to 4% base APR on Stablecoins",
-    "tags": [
-      "KuCoin",
-      "KCUSD"
-    ],
-    "source": "CoinJournal",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:36:04.000Z"
-  },
-  {
-    "id": "cf0d3df4a919d004",
-    "slug": "mcdonald-s-india-intern-says-memecoins-left-them-starving",
-    "title": "McDonald’s India ‘intern’ says memecoins left them starving",
-    "tags": [
-      "McDonald's",
-      "India"
-    ],
-    "source": "Protos",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:31:15.000Z"
-  },
-  {
-    "id": "ad9dc3a979754872",
-    "slug": "bitcoin-s-90-day-correlation-with-gold-hits-nine-year-high",
-    "title": "Bitcoin’s 90-day correlation with gold hits nine-year high",
-    "tags": [
-      "Bitcoin",
-      "United States"
-    ],
-    "source": "Protos",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:30:04.000Z"
-  },
-  {
-    "id": "989d7a7a751cf95d",
-    "slug": "ethereum-may-have-a-simpler-way-to-ease-the-computing-burden-of-its-growing-rollup-ecosystem",
-    "title": "Ethereum may have a simpler way to ease the computing burden of its growing rollup ecosystem",
-    "tags": [
-      "Ethereum"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:30:00.000Z"
-  },
-  {
-    "id": "c89b555d0debb85c",
-    "slug": "trump-crypto-news-btc-81-000-rejection-puts-september-fed-meeting-in-focus",
-    "title": "Trump Crypto News: BTC $81,000 Rejection Puts September Fed Meeting in Focus",
-    "tags": [
-      "Bitcoin",
-      "Federal Reserve"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:27:09.000Z"
-  },
-  {
-    "id": "e1750fd6d4a9b7c0",
-    "slug": "white-house-crypto-advisor-witt-confident-clarity-act-skeptics-will-be-proven-wrong",
-    "title": "White House crypto advisor Witt confident Clarity Act skeptics will be proven wrong",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-09-07T13:27:03.000Z"
-  },
-  {
-    "id": "2f1eb82e85b53609",
-    "slug": "us-labs-benefit-from-chinese-ai-advancements-in-reinforcement-learning",
-    "title": "US labs benefit from Chinese AI advancements in reinforcement learning",
-    "tags": [
-      "United States",
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:25:24.000Z"
-  },
-  {
-    "id": "ed34d7b5593f1e09",
-    "slug": "japan-plans-60b-investment-in-data-centers-as-it-races-to-become-global-ai-infrastructure-leader",
-    "title": "Japan plans $60B investment in data centers as it races to become global AI infrastructure leader",
-    "tags": [
-      "Japan"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:23:46.000Z"
-  },
-  {
-    "id": "a457308e5e4e11a2",
-    "title": "Can AI write better PR? Hyundai Card puts it to the test",
-    "summary": "South Korea's Hyundai Card has put its media communications team under the AI micrososcope, running head-to-tests to determine the differences between human and AI-generated content.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/newsarticle/48355/can-ai-write-better-pr-hyundai-card-puts-it-to-the-test?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "tags": [
-      "Hyundai Card",
-      "South Korea"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-09-07T13:22:00.000Z",
-    "fetchedAt": "2026-09-07T15:01:24.588Z",
-    "isDuplicateOf": null,
-    "content": "South Korea's Hyundai Card is testing the capabilities of artificial intelligence by pitting its media communications team against AI-generated content. The head-to-head tests aim to determine the practical differences and effectiveness of press releases written by humans compared to those produced by machines.",
-    "slug": "can-ai-write-better-pr-hyundai-card-puts-it-to-the-test"
-  },
-  {
-    "id": "5327f0d542ce58e2",
-    "slug": "is-the-bitcoin-bottom-in-2-analysts-say-yes-from-separate-charts",
-    "title": "Is the Bitcoin Bottom In? 2 Analysts Say Yes From Separate Charts",
-    "tags": [
-      "Bitcoin",
-      "BeInCrypto"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:21:08.000Z"
-  },
-  {
-    "id": "2980880c6d445889",
-    "title": "Socure and Aeropay Reduce Onboarding Friction to Only a Phone Number and Two Clicks",
-    "summary": "Socure today announced an integration with Aeropay that enables consumers to verify their identity and connect a bank account with just a phone number and two clicks. The integration combines Socure’s identity verification technology with Aeropay’s bank-linking capabilities to create a faster, more streamlined onboarding experience. For one joint customer using both solutions, the integration increased approved-customer conversion by 50%+.\nOnce Socure verifies a customer’s identity with merely their phone number, Aeropay’s Aerosync technology uses that verified identity to prefill and confirm the linked bank account. The customer moves straight into payment facilitation, or into cash flow underwriting based on aggregated bank transactions, without typing account details or any additional personal information.\nThat sequence, identity first via a phone number and bank connection derived from it, is what makes this integration a first-of-its-kind. Open banking has been used to support identity verification before; Socure and Aeropay invert it, using the verified identity to establish the bank connection, and run both inside one decisioning platform rather than two stitched-together vendors.\nThe gap between those systems is also where fraud lives. As AI drives down the cost of running sophisticated attacks for fraudsters, organizations on non-integrated legacy stacks are absorbing ACH returns, account takeover, first-party fraud and stolen bank credentials. These losses occur precisely because the system that verifies the person cannot see the system that moves the money. Socure and Aeropay close that gap: Aerosync handles bank verification using Socure’s identity signals, and Aeropay’s AI risk models use a decade of intelligence to screen each transaction before settlement.\n“Every customer that I talk to about onboarding and ongoing authentication is struggling with the same challenge: how do they increase conversion rates while decreasing friction and simultaneously reducing fraud exposure,” said Johnny Ayers, Founder and CEO of Socure.\n“Our integration with Aeropay helps our customers achieve this objective by streamlining the entire onboarding experience to one data point and two clicks, while decreasing identity and payment fraud, and increasing authentication accuracy.”\nThis integration advances Socure’s vision for RiskOS as the operating system for fraud, risk, identity and compliance decisions across every business unit and use case. With Aeropay in the RiskOS network, businesses can apply risk controls across the full payment lifecycle through one integration rather than three.\n“Identity and payment risk can’t be treated as separate decisions,” said Dan Muller, Founder and CEO of Aeropay.\n“By bringing our bank account verification and transaction risk capabilities into Socure’s RiskOS platform, businesses get a more complete understanding of both the person and the payment behind every transaction.”\nNoYesInfrastructure07 Sep, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/infrastructure/socure-and-aeropay-reduce-onboarding-friction-only-phone-number-and-two-clicks",
-    "source": "Financial IT",
-    "tags": [],
-    "origin": "rss",
-    "pubDate": "2026-09-07T13:17:30.000Z",
-    "fetchedAt": "2026-09-07T15:01:24.588Z",
-    "isDuplicateOf": null,
-    "content": null,
-    "slug": "socure-and-aeropay-reduce-onboarding-friction-to-only-a-phone-number-and-two-clicks"
-  },
-  {
-    "id": "abceb07fa14294da",
-    "slug": "openai-plans-to-unveil-managed-agents-at-devday-2026",
-    "title": "OpenAI plans to unveil Managed Agents at DevDay 2026",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:16:01.000Z"
-  },
-  {
-    "id": "c5a237e299b74913",
-    "title": "Concryt deploys agentic AI to monitor live payment operations",
-    "summary": "Global payments technology company CONCRYT has deployed agentic AI across its live payment operations, moving the technology beyond a chatbot interface and into the day-to-day monitoring of its gateway.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/pressarticle/110820/concryt-deploys-agentic-ai-to-monitor-live-payment-operations?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "tags": [
-      "Concryt"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-09-07T13:16:00.000Z",
-    "fetchedAt": "2026-09-07T15:01:24.588Z",
-    "isDuplicateOf": null,
-    "content": "Global payments technology company Concryt has deployed agentic artificial intelligence to monitor its live payment operations. This move shifts the technology away from a traditional chatbot interface, integrating it directly into the day-to-day oversight of the company's payment gateway to support live transaction processes.",
-    "slug": "concryt-deploys-agentic-ai-to-monitor-live-payment-operations"
-  },
-  {
-    "id": "987c26f3bd49c859",
-    "title": "DNA Payments links up with iwoca",
-    "summary": "DNA Payments, one of the UK’s largest independent payment companies, has expanded its merchant\r\nThrough this partnership, DNA Payments’ clients can now easily apply for an iwoca Flexi Loan of between £1,000 and £1 million, directly from their Merchant Portal and App.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/pressarticle/110819/dna-payments-links-up-with-iwoca?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "tags": [
-      "DNA Payments",
-      "iwoca",
-      "United Kingdom"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-09-07T13:14:00.000Z",
-    "fetchedAt": "2026-09-07T15:01:24.588Z",
-    "isDuplicateOf": null,
-    "content": "DNA Payments has announced a partnership with iwoca to expand its merchant services. Through this collaboration, clients of DNA Payments can now directly apply for iwoca Flexi Loans ranging from £1,000 to £1 million. Eligible merchants can complete their loan applications conveniently through their dedicated Merchant Portal and App.",
-    "slug": "dna-payments-links-up-with-iwoca"
-  },
-  {
-    "id": "763b3f07f1c9fc14",
-    "slug": "bitcoin-traders-are-surprisingly-calm-ahead-of-cpi-and-the-fed-is-a-big-move-coming",
-    "title": "Bitcoin Traders Are Surprisingly Calm Ahead of CPI and the Fed: Is a Big Move Coming?",
-    "tags": [
-      "Bitcoin",
-      "Federal Reserve"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:13:33.000Z"
-  },
-  {
-    "id": "a93d78661e3ac96e",
-    "title": "QIB Introduces New Features to Its Mobile App to Enhance Customer Experience",
-    "summary": "Qatar Islamic Bank (QIB), Qatar’s leading digital bank, has announced the introduction of a new suite of features across the QIB Mobile App, reinforcing its commitment to continuously enhancing customers’ digital banking experience through practical, customer-centric innovation.\nThe latest enhancements are designed to provide customers with greater convenience, faster access to services, and more intuitive digital interactions, further strengthening QIB’s position as a leader in digital banking innovation in Qatar.\nAs part of the updates, QIB has introduced an Advanced Search feature within the QIB Mobile App, enabling customers to quickly locate services and functionalities using keywords or category names. The new capability significantly improves navigation within the app, allowing users to access the 320+ offered features more efficiently while saving time.\nThe Bank has further introduced a redesigned Credit Card Overview section, offering customers a clearer and more engaging way to explore the benefits and features associated with their QIB Credit Cards. The enhanced section provides cardholders with easier access to their card benefits and offers, helping them make the most of their cards locally and internationally.\nIn line with its customer-centric approach, QIB has introduced an in-app Customer Survey capability, enabling customers to conveniently share satisfaction ratings and feedback directly through the QIB Mobile App. The new feature supports the Bank’s ongoing efforts to gather customer insights, continuously improve digital services, and further enhance the overall banking experience.\nCommenting on the launch, Mr. D. Anand, QIB’s General Manager – Personal Banking Group, said: “At QIB, we remain focused on continuously enhancing our digital banking ecosystem through solutions that are practical, accessible, and aligned with our customers’ evolving expectations. These latest enhancements to the QIB Mobile App further simplify everyday banking, provide customers with greater convenience and control, and reinforce our commitment to delivering an easy and innovative digital banking experience.”\nQIB continues to advance its digital strategy by expanding the features of its award-winning Mobile App, which today offers more than 320 integrated features and services. The QIB Mobile App enables customers to conveniently manage accounts, cards, transfers, financing, and a wide range of banking services remotely through a secure, easy, and fully digital experience.\n \nNoYesBanking07 Sep, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/banking/qib-introduces-new-features-its-mobile-app-enhance-customer-experience",
-    "source": "Financial IT",
-    "tags": [
-      "Qatar Islamic Bank",
-      "Qatar"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-09-07T13:13:30.000Z",
-    "fetchedAt": "2026-09-07T15:01:24.588Z",
-    "isDuplicateOf": null,
-    "content": "Qatar Islamic Bank has introduced new features to its mobile app to enhance customer experience. The updates include an advanced search function, a redesigned credit card overview section, and an in-app customer survey capability. These additions aim to provide greater convenience and more intuitive digital interactions for users managing their accounts remotely.",
-    "slug": "qib-introduces-new-features-to-its-mobile-app-to-enhance-customer-experience"
-  },
-  {
-    "id": "a759a9620da09ea9",
-    "title": "Xpate releases API-based tool for embedded money management",
-    "summary": "xpate, the all-in-one payments and banking hub, has launched xpate Pro, a new API-based capability that enables businesses to manage accounts, initiate transfers, and access financial reporting through their own systems, turning traditional banking operations into automated workflows embedded within their products or internal platforms.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/pressarticle/110818/xpate-releases-api-based-tool-for-embedded-money-management?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "tags": [
-      "Xpate"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-09-07T13:12:00.000Z",
-    "fetchedAt": "2026-09-07T15:01:24.588Z",
-    "isDuplicateOf": null,
-    "content": "Payments and banking hub Xpate has launched a new API-based solution called Xpate Pro. The tool is designed to allow businesses to manage accounts, initiate financial transfers, and access reporting directly through their own systems. By turning traditional banking operations into automated workflows, the platform enables companies to seamlessly embed financial management into their internal platforms and products.",
-    "slug": "xpate-releases-api-based-tool-for-embedded-money-management"
-  },
-  {
-    "id": "1ffb17ff735b59a0",
-    "slug": "ethereum-price-holds-as-another-layer-1-moves-to-eth",
-    "title": "Ethereum Price Holds as Another Layer-1 Moves to ETH",
-    "tags": [],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-09-07T13:09:44.000Z"
-  },
-  {
-    "id": "81a9e13ffcbbb233",
-    "slug": "crypto-theft-ringleader-malone-lam-set-to-appear-in-court-over-230-million-bitcoin-theft",
-    "title": "Crypto theft ringleader Malone Lam set to appear in court over $230 million Bitcoin theft",
-    "tags": [
-      "Malone Lam",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:09:06.000Z"
-  },
-  {
-    "id": "c659c03e024aaac8",
-    "title": "Ramp Announces Strategic Collaboration Agreement with AWS to Provide AI-Enabled Finance Operations",
-    "summary": "Ramp today announced a strategic collaboration agreement (SCA) with Amazon Web Services (AWS) and its availability in AWS Marketplace. Together, these give AWS customers a faster path to modernize finance operations with Ramp's AI-powered platform, including corporate cards, expense management, bill payments, procurement, travel, banking, automated bookkeeping, and AI-powered controls.\n\"Enterprise finance teams are ready for AI to take manual work out of the back office, but they need a practical path to adoption,\" said Guy Cartwright, VP, Channel Sales at Ramp. \"This collaboration helps customers bring more automation and control into finance operations without adding friction for their procurement or IT teams.\"\nAI-enabled finance for the agentic era\nThe collaboration puts Ramp's AI agents to work inside that platform, coding expenses, enforcing policy, and processing invoices around the clock, so finance teams get continuous automation without losing oversight. Every action remains auditable, reversible, and bound by enforceable financial guardrails.\nTwo capabilities are particularly relevant for customers scaling AI workloads. Ramp Stack is an AI platform for accounting firms that encodes a firm's methodology into repeatable, agent-driven workflows, enabling faster closes with a complete audit trail. Ramp AI Token Spend Management gives finance and engineering \nNoYesArtificial Intelligence07 Sep, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/artificial-intelligence/ramp-announces-strategic-collaboration-agreement-aws-provide-ai-enabled",
-    "source": "Financial IT",
-    "tags": [
-      "Ramp",
-      "Amazon Web Services"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-09-07T13:07:11.000Z",
-    "fetchedAt": "2026-09-07T15:01:24.588Z",
-    "isDuplicateOf": null,
-    "content": "Ramp has announced a strategic collaboration agreement with Amazon Web Services and its availability in the AWS Marketplace. The partnership aims to help customers modernize their finance operations using Ramp's AI-powered platform and autonomous agents. The integration supports automated expense coding, policy enforcement, and invoice processing while maintaining strict financial guardrails and auditable workflows.",
-    "slug": "ramp-announces-strategic-collaboration-agreement-with-aws-to-provide-ai-enabled-finance-operations"
-  },
-  {
-    "id": "1e73d4f288d49d0e",
-    "slug": "tokens-created-out-of-thin-air-may-explain-how-320-million-in-bitcoin-left-the-liquid-sidechain",
-    "title": "Tokens created out of thin air may explain how $320 million in Bitcoin left the Liquid sidechain",
-    "tags": [],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-09-07T13:05:17.000Z"
-  },
-  {
-    "id": "760a3ea06c018223",
-    "slug": "xrp-whales-hold-1-40-as-lummis-warns-no-clarity-now-means-2030-main-crypto-news-this-morning",
-    "title": "XRP Whales Hold $1.40 as Lummis Warns: 'No CLARITY Now Means 2030' - Main Crypto News This Morning",
-    "tags": [
-      "XRP",
-      "Cynthia Lummis"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:01:45.000Z"
-  },
-  {
-    "id": "07a726c1f12015db",
-    "slug": "spacex-rival-claims-10-billion-pipeline-after-first-orbit-how-will-stock-react",
-    "title": "SpaceX Rival Claims €10 Billion Pipeline After First Orbit. How Will Stock React?",
-    "tags": [
-      "Isar Aerospace",
-      "SpaceX"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:00:58.000Z"
-  },
-  {
-    "id": "2f23443457a9fa74",
-    "title": "Ecommpay Joins PayControl as Direct Acquirer on Orchestration Layer",
-    "summary": "Ecommpay is now live as a payment connector within PayControl's enterprise orchestration platform, giving merchants direct acquiring across multiple regions.\nThe post Ecommpay Joins PayControl as Direct Acquirer on Orchestration Layer appeared first on The Fintech Times.",
-    "hasSummary": true,
-    "link": "https://thefintechtimes.com/ecommpay-joins-paycontrol-as-direct-acquirer-on-orchestration-layer/",
-    "source": "The Fintech Times",
-    "tags": [
-      "Ecommpay",
-      "PayControl"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-09-07T13:00:42.000Z",
-    "fetchedAt": "2026-09-07T15:01:24.588Z",
-    "isDuplicateOf": null,
-    "content": "Ecommpay has integrated with PayControl to serve as a direct acquirer on the enterprise payment orchestration platform. This integration allows merchants to access direct acquiring capabilities across multiple regions. The partnership strengthens PayControl's orchestration layer, providing businesses with enhanced connectivity for their payment operations.",
-    "slug": "ecommpay-joins-paycontrol-as-direct-acquirer-on-orchestration-layer"
-  },
-  {
-    "id": "2b4b88d780e18d20",
-    "slug": "dbs-citi-say-they-completed-first-weekend-usd-payment-between-singapore-and-us-via-tokenized",
-    "title": "DBS, Citi say they completed first weekend USD payment between Singapore and US via tokenized deposits",
-    "tags": [
-      "DBS",
-      "Citi",
-      "Singapore",
-      "United States"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:00:40.000Z"
-  },
-  {
-    "id": "72c3546eff3d9f2b",
-    "slug": "solana-is-catching-memecoin-liquidity-can-sol-turn-it-into-a-bull-rally",
-    "title": "Solana is catching memecoin liquidity – Can SOL turn it into a bull rally?",
-    "tags": [
-      "Solana"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T13:00:08.000Z"
-  },
-  {
-    "id": "43a1aa49cc7f9511",
-    "slug": "united-arab-emirates-develops-alternative-energy-export-routes-amid-us-iran-tensions",
-    "title": "United Arab Emirates develops alternative energy export routes amid US-Iran tensions",
-    "tags": [
-      "United Arab Emirates",
-      "United States",
-      "Iran"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T12:57:52.000Z"
   }
 ]
