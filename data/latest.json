@@ -1,107 +1,518 @@
 [
   {
-    "id": "9fdc2027cb82eac0",
-    "title": "Flex for Good: The Rent Rails that Became Emergency Aid Rails",
-    "summary": "Flex VP of Public Affairs Ryan Metcalf on how rent-payment rails delivered more than $1million in emergency assistance, and what changed to do it.\nThe post Flex for Good: The Rent Rails that Became Emergency Aid Rails appeared first on The Fintech Times.",
+    "id": "aa3f17ddc499bb13",
+    "title": "Daon’s Conor White on Where a Passkey Stops Being the Defence",
+    "summary": "Daon's Conor White on why phishing resistance protects only the credential, and where regulated firms have to layer identity checks around a passkey.\nThe post Daon’s Conor White on Where a Passkey Stops Being the Defence appeared first on The Fintech Times.",
     "hasSummary": true,
-    "link": "https://thefintechtimes.com/flex-for-good-the-rent-rails-that-became-emergency-aid-rails/",
+    "link": "https://thefintechtimes.com/daons-conor-white-on-here-a-passkey-stops-being-the-defence/",
     "source": "The Fintech Times",
+    "tags": [
+      "Daon",
+      "Conor White"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-07T20:00:12.000Z",
+    "fetchedAt": "2026-09-07T20:01:58.273Z",
+    "isDuplicateOf": null,
+    "content": "Conor White of Daon discusses the limitations of passkeys in cybersecurity. While phishing resistance protects the credential itself, regulated firms must implement additional identity verification layers around passkeys to ensure robust security and maintain compliance standards across their digital platforms.",
+    "slug": "daon-s-conor-white-on-where-a-passkey-stops-being-the-defence"
+  },
+  {
+    "id": "ed7ac14e6c3f5932",
+    "slug": "bitwise-amends-ethereum-etf-filing-to-include-staking-mechanics",
+    "title": "Bitwise Amends Ethereum ETF Filing To Include Staking Mechanics",
+    "tags": [
+      "Bitwise",
+      "Ethereum"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T20:00:00.000Z"
+  },
+  {
+    "id": "283119aa37bcf60b",
+    "title": "Mastercard and Flowcart Team to Promote Social Commerce in Africa",
+    "summary": "Mastercard launched a partnership with Kenya-based social commerce company Flowcart, according to a Monday (Sept. 7) news release. The collaboration centers on embedding “secure, seamless card payments directly within social and conversational commerce journeys,” the release said. “Social commerce is redefining how consumers discover and engage with brands,” Shehryar Ali, senior vice president and country […]\nThe post Mastercard and Flowcart Team to Promote Social Commerce in Africa appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/commerce/social-commerce/2026/mastercard-flowcart-team-promote-social-commerce-africa/",
+    "source": "PYMNTS",
+    "tags": [
+      "Mastercard",
+      "Flowcart",
+      "Kenya",
+      "Africa"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-07T19:57:06.000Z",
+    "fetchedAt": "2026-09-07T20:01:58.273Z",
+    "isDuplicateOf": null,
+    "content": "Mastercard has partnered with Kenya-based social commerce company Flowcart to promote social commerce across Africa. The collaboration aims to integrate secure and seamless card payments directly into social and conversational shopping experiences, reflecting the growing trend of social commerce redefining consumer engagement with brands.",
+    "slug": "mastercard-and-flowcart-team-to-promote-social-commerce-in-africa"
+  },
+  {
+    "id": "7add3e37583b6581",
+    "slug": "bhutan-transfers-400-btc-to-unlabelled-address-leaving-sovereign-holdings-at-518-btc",
+    "title": "Bhutan transfers 400 BTC to unlabelled address, leaving sovereign holdings at 518 BTC",
+    "tags": [
+      "Bhutan",
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T19:52:14.000Z"
+  },
+  {
+    "id": "b2edc9ddc0197e8a",
+    "slug": "real-sociedad-beats-elche-3-1-as-job-ochieng-makes-la-liga-debut",
+    "title": "Real Sociedad beats Elche 3-1 as Job Ochieng makes La Liga debut",
+    "tags": [
+      "Real Sociedad",
+      "Elche",
+      "Job Ochieng",
+      "La Liga"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T19:47:59.000Z"
+  },
+  {
+    "id": "75fb437685ade16b",
+    "slug": "nvidia-ceo-jensen-huang-invited-to-king-charles-ai-meeting-as-uk-courts-big-tech-billions",
+    "title": "Nvidia CEO Jensen Huang invited to King Charles’ AI meeting as UK courts Big Tech billions",
+    "tags": [
+      "Nvidia",
+      "Jensen Huang",
+      "King Charles",
+      "United Kingdom"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T19:47:49.000Z"
+  },
+  {
+    "id": "3e385d879b0e88e6",
+    "slug": "will-the-crypto-trenches-show-up-for-hunter-biden-s-meme-coin",
+    "title": "Will the Crypto Trenches Show Up for Hunter Biden's Meme Coin?",
+    "tags": [
+      "Hunter Biden"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T19:47:27.000Z"
+  },
+  {
+    "id": "3e55586d69af300b",
+    "title": "JPMorgan Chase Considering Launch of New Stablecoin As Rival Big Banks Build Dollar-Pegged Token: Report",
+    "summary": "JPMorgan Chase is now reviewing whether to launch its own stablecoin. The bank is doing that work on a separate track from a group of 21 banks and financial firms that plan to build a dollar stablecoin for business payments across borders, reports The Wall Street Journal. That group includes Bank of America, Wells Fargo, Citigroup, […]\nThe post JPMorgan Chase Considering Launch of New Stablecoin As Rival Big Banks Build Dollar-Pegged Token: Report appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/09/07/jpmorgan-chase-considering-launch-of-new-stablecoin-as-rival-big-banks-build-dollar-pegged-token-report/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "JPMorgan Chase",
+      "Bank of America",
+      "Wells Fargo",
+      "Citigroup"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-07T19:38:49.000Z",
+    "fetchedAt": "2026-09-07T20:01:58.273Z",
+    "isDuplicateOf": null,
+    "content": "JPMorgan Chase is reportedly considering the launch of its own stablecoin. This development comes as a separate group of major financial institutions, including Bank of America, Wells Fargo, and Citigroup, works on building a dollar-pegged token for cross-border business payments.",
+    "slug": "jpmorgan-chase-considering-launch-of-new-stablecoin-as-rival-big-banks-build-dollar-pegged-token"
+  },
+  {
+    "id": "881a4e4cba9f2062",
+    "slug": "first-bitcoin-rico-case-charges-18-defendants-over-263m-crypto-heist",
+    "title": "First Bitcoin RICO case charges 18 defendants over $263M crypto heist",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T19:36:49.000Z"
+  },
+  {
+    "id": "fed20308e824211e",
+    "slug": "andreessen-horowitz-s-ai-bets-yield-over-8b-in-value",
+    "title": "Andreessen Horowitz’s AI bets yield over $8B in value",
+    "tags": [
+      "Andreessen Horowitz"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T19:35:15.000Z"
+  },
+  {
+    "id": "51cd47c492777cd3",
+    "slug": "securitize-expands-blackrock-buidl-collateral-use-across-prime-brokers",
+    "title": "Securitize Expands BlackRock BUIDL Collateral Use Across Prime Brokers",
+    "tags": [
+      "Securitize",
+      "BlackRock",
+      "BUIDL"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T19:15:00.000Z"
+  },
+  {
+    "id": "d0634b6f692d6216",
+    "slug": "near-crypto-approaches-2-55-will-profit-taking-stop-the-breakout",
+    "title": "NEAR crypto approaches $2.55 – Will profit-taking stop the breakout?",
+    "tags": [
+      "NEAR"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T19:00:46.000Z"
+  },
+  {
+    "id": "ba55420486c209c4",
+    "slug": "solana-beats-bitcoin-on-one-key-metric-but-a-single-software-bug-could-still-take-down-the-network",
+    "title": "Solana beats Bitcoin on one key metric, but a single software bug could still take down the network",
+    "tags": [
+      "Solana",
+      "Bitcoin",
+      "CryptoSlate"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T19:00:42.000Z"
+  },
+  {
+    "id": "2e72f32903239201",
+    "slug": "leon-goretzka-sidelined-with-knee-injury-until-october",
+    "title": "Leon Goretzka sidelined with knee injury until October",
+    "tags": [
+      "Leon Goretzka"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T19:00:41.000Z"
+  },
+  {
+    "id": "b2bfe5b153ccbd4c",
+    "title": "Charlotte Nimmo on Why Prediction Markets Disagree on Price",
+    "summary": "iPredicta founder Charlotte Nimmo on why Kalshi and Polymarket price one outcome differently, where betting ends, and why her AI writes words, not numbers.\nThe post Charlotte Nimmo on Why Prediction Markets Disagree on Price appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/charlotte-nimmo-on-why-prediction-markets-disagree-on-price/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Charlotte Nimmo",
+      "iPredicta",
+      "Kalshi",
+      "Polymarket",
+      "The Fintech Times"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-07T19:00:22.000Z",
+    "fetchedAt": "2026-09-07T20:01:58.273Z",
+    "isDuplicateOf": null,
+    "content": "Charlotte Nimmo, founder of iPredicta, recently discussed why prediction platforms such as Kalshi and Polymarket often price the same outcomes differently. In an interview published by The Fintech Times, Nimmo explored the boundaries where traditional betting concludes and examined her artificial intelligence approach, emphasizing that her technology is designed to generate text rather than numerical financial figures.",
+    "slug": "charlotte-nimmo-on-why-prediction-markets-disagree-on-price"
+  },
+  {
+    "id": "3595c987b1344064",
+    "slug": "russia-closes-german-consulate-in-saint-petersburg-amid-rising-tensions",
+    "title": "Russia closes German consulate in Saint Petersburg amid rising tensions",
+    "tags": [
+      "Russia",
+      "Germany",
+      "Saint Petersburg",
+      "Ukraine"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T18:55:19.000Z"
+  },
+  {
+    "id": "db4d2d9b6bfe4dd5",
+    "slug": "solana-labs-co-founder-toly-highlights-irs-tax-changes-over-network-tweaks",
+    "title": "Solana Labs co-founder Toly highlights IRS tax changes over network tweaks",
+    "tags": [
+      "Solana Labs",
+      "Internal Revenue Service",
+      "Solana"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T18:55:18.000Z"
+  },
+  {
+    "id": "dd5c94f5f8f40ada",
+    "slug": "trump-touts-intel-s-stock-surge-from-20-to-95-amid-government-stake",
+    "title": "Trump touts Intel’s stock surge from $20 to $95 amid government stake",
+    "tags": [
+      "Donald Trump",
+      "Intel",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T18:53:23.000Z"
+  },
+  {
+    "id": "d612d1333a2a8005",
+    "slug": "mstr-stock-price-rebounds-60-can-it-really-reach-435",
+    "title": "MSTR stock price rebounds 60%—Can it really reach $435?",
+    "tags": [
+      "MicroStrategy"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T18:50:00.000Z"
+  },
+  {
+    "id": "600f7be8f6757782",
+    "slug": "us-new-home-listings-rise-2-to-highest-level-since-august-2022",
+    "title": "US new home listings rise 2% to highest level since August 2022",
+    "tags": [
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T18:42:24.000Z"
+  },
+  {
+    "id": "7ee1aefa6d302a5a",
+    "slug": "kraken-files-for-cftc-regulated-u-s-perpetual-futures-product",
+    "title": "Kraken Files For CFTC-Regulated U.S. Perpetual Futures Product",
+    "tags": [
+      "Kraken",
+      "CFTC",
+      "United States"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T18:30:00.000Z"
+  },
+  {
+    "id": "a7e869d764803151",
+    "slug": "trump-threatens-to-block-bombardier-jet-sales-in-us-amid-trade-dispute",
+    "title": "Trump threatens to block Bombardier jet sales in US amid trade dispute",
+    "tags": [
+      "Bombardier",
+      "United States",
+      "Canada"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T18:29:21.000Z"
+  },
+  {
+    "id": "f47bf5fd63e77768",
+    "slug": "middle-east-crypto-activity-triples-to-350-billion-amid-ongoing-conflict-report-finds",
+    "title": "Middle East Crypto Activity Triples to $350 Billion Amid Ongoing Conflict, Report Finds",
+    "tags": [
+      "Middle East",
+      "Iran",
+      "Bitcoin Policy Institute"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T18:16:04.000Z"
+  },
+  {
+    "id": "2ce455067f1c52ee",
+    "slug": "redteam-transforms-bittensor-miners-into-ethical-hacking-network",
+    "title": "RedTeam transforms Bittensor miners into ethical hacking network",
+    "tags": [
+      "RedTeam",
+      "Bittensor"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T18:14:37.000Z"
+  },
+  {
+    "id": "d30d32a1492df53f",
+    "slug": "unitree-unveils-first-world-model-powered-autonomous-humanoid-robot",
+    "title": "Unitree unveils first world model-powered autonomous humanoid robot",
+    "tags": [
+      "Unitree"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T18:09:05.000Z"
+  },
+  {
+    "id": "81528fc78e75c5bf",
+    "title": "China injects billions into major insurers amid low bond yields",
+    "summary": "China's financial intervention in insurers highlights a strategic shift towards stabilizing the broader economy, impacting market dynamics.\nThe post China injects billions into major insurers amid low bond yields appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/china-injects-billions-insurers-bond-yields/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "China"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-07T18:09:03.000Z",
+    "fetchedAt": "2026-09-07T20:01:58.273Z",
+    "isDuplicateOf": null,
+    "content": "China has injected billions of dollars into major insurance companies to help stabilize the broader economy. This financial intervention comes amid a challenging environment of low bond yields. The move highlights a strategic shift by authorities to support the domestic financial sector and influence ongoing market dynamics, reflecting broader economic intervention measures in the region.",
+    "slug": "china-injects-billions-into-major-insurers-amid-low-bond-yields"
+  },
+  {
+    "id": "c01cf912d6c49652",
+    "title": "Tom Lee highlights Intel and Micron as key plays on automation and the labor shortage",
+    "summary": "Automation's rise amid labor shortages underscores the strategic importance of semiconductor firms, impacting long-term economic structures.\nThe post Tom Lee highlights Intel and Micron as key plays on automation and the labor shortage appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/tom-lee-intel-micron-automation-labor-shortage/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Intel",
+      "Micron"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-07T18:07:15.000Z",
+    "fetchedAt": "2026-09-07T20:01:58.273Z",
+    "isDuplicateOf": null,
+    "content": "Tom Lee has highlighted Intel and Micron as key investment plays benefiting from the rise of automation and ongoing labor shortages. This trend underscores the growing strategic importance of semiconductor firms within modern economic structures, as industries increasingly turn to technology to offset workforce challenges.",
+    "slug": "tom-lee-highlights-intel-and-micron-as-key-plays-on-automation-and-the-labor-shortage"
+  },
+  {
+    "id": "464d6e8643cd2a67",
+    "slug": "australia-cancels-registration-of-crypto-provider-getcoins-following-customer-scam-complaints",
+    "title": "Australia cancels registration of crypto provider GetCoins following customer scam complaints",
+    "tags": [
+      "Australia",
+      "GetCoins",
+      "AUSTRAC"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T18:05:54.000Z"
+  },
+  {
+    "id": "c6eb5227446252d3",
+    "title": "Spot CEX trading volume rises 15% to $811B in August as Coinbase and KuCoin lead gains",
+    "summary": "The rise in spot CEX trading volume highlights a market recovery, yet challenges persist as institutional capital diversifies away from CEXs.\nThe post Spot CEX trading volume rises 15% to $811B in August as Coinbase and KuCoin lead gains appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/spot-cex-trading-volume-811b-august/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Coinbase",
+      "KuCoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-07T18:05:32.000Z",
+    "fetchedAt": "2026-09-07T20:01:58.273Z",
+    "isDuplicateOf": null,
+    "content": "Spot CEX trading volume increased by 15% to reach $811 billion in August, driven largely by gains at Coinbase and KuCoin. This growth indicates signs of a market recovery. However, challenges remain as institutional capital continues to diversify away from centralized exchanges, according to recent reports.",
+    "slug": "spot-cex-trading-volume-rises-15-to-811b-in-august-as-coinbase-and-kucoin-lead-gains"
+  },
+  {
+    "id": "41d6019468043257",
+    "title": "US university endowments set to match stock market gains with massive tech bets",
+    "summary": "University endowments' tech investments may redefine asset allocation strategies, influencing future educational funding and financial models.\nThe post US university endowments set to match stock market gains with massive tech bets appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/university-endowments-tech-investments-spacex-openai/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-07T18:05:08.000Z",
+    "fetchedAt": "2026-09-07T20:01:58.273Z",
+    "isDuplicateOf": null,
+    "content": "US university endowments are positioning themselves to match broader stock market gains through significant investments in the technology sector. These heavy tech bets could alter traditional asset allocation strategies, potentially reshaping future educational funding models and long-term financial planning for academic institutions.",
+    "slug": "us-university-endowments-set-to-match-stock-market-gains-with-massive-tech-bets"
+  },
+  {
+    "id": "9fdc2027cb82eac0",
+    "slug": "flex-for-good-the-rent-rails-that-became-emergency-aid-rails",
+    "title": "Flex for Good: The Rent Rails that Became Emergency Aid Rails",
     "tags": [
       "Flex"
     ],
+    "source": "The Fintech Times",
     "origin": "rss",
-    "pubDate": "2026-09-07T18:00:43.000Z",
-    "fetchedAt": "2026-09-07T18:01:20.365Z",
-    "isDuplicateOf": null,
-    "content": "Ryan Metcalf, VP of Public Affairs at Flex, discussed how the company's rent-payment infrastructure was utilized to deliver over $1 million in emergency financial assistance. This repurposing of payment rails highlights a significant shift in how fintech platforms can pivot their core technology to provide critical aid during times of urgent need.",
-    "slug": "flex-for-good-the-rent-rails-that-became-emergency-aid-rails"
+    "hasContent": true,
+    "pubDate": "2026-09-07T18:00:43.000Z"
   },
   {
     "id": "39827567dd12295c",
+    "slug": "starcloud-wants-to-mine-bitcoin-in-space-what-could-go-wrong",
     "title": "Starcloud wants to mine bitcoin in space — what could go wrong?",
-    "summary": "Starcloud, which has received nearly half a billion dollars in funding and a $2B+ valuation, has decided to begin mining BTC in space.\nThe post Starcloud wants to mine bitcoin in space — what could go wrong? appeared first on Protos.",
-    "hasSummary": true,
-    "link": "https://protos.com/starcloud-wants-to-mine-bitcoin-in-space-what-could-go-wrong/",
-    "source": "Protos",
     "tags": [
       "Starcloud",
       "Bitcoin"
     ],
+    "source": "Protos",
     "origin": "rss",
-    "pubDate": "2026-09-07T17:59:39.000Z",
-    "fetchedAt": "2026-09-07T18:01:20.365Z",
-    "isDuplicateOf": null,
-    "content": "Starcloud, a company backed by nearly half a billion dollars in funding and valued at over two billion dollars, has announced plans to begin mining Bitcoin in space. This ambitious project raises various questions about the feasibility, security, and potential risks of operating cryptocurrency mining hardware in an orbital environment.",
-    "slug": "starcloud-wants-to-mine-bitcoin-in-space-what-could-go-wrong"
+    "hasContent": true,
+    "pubDate": "2026-09-07T17:59:39.000Z"
   },
   {
     "id": "37b92341322bd8b6",
+    "slug": "qatar-pushes-phased-approach-to-gulf-crisis-eyes-sustainable-settlement",
     "title": "Qatar pushes phased approach to Gulf crisis, eyes sustainable settlement",
-    "summary": "Qatar's phased strategy may foster long-term Gulf stability, enhancing diplomatic engagement prospects amid complex regional dynamics.\nThe post Qatar pushes phased approach to Gulf crisis, eyes sustainable settlement appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/qatar-pushes-phased-approach-to-gulf-crisis-eyes-sustainable-settlement/",
-    "source": "CryptoBriefing",
     "tags": [
       "Qatar"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-07T17:56:39.000Z",
-    "fetchedAt": "2026-09-07T18:01:20.365Z",
-    "isDuplicateOf": null,
-    "content": "Qatar is advocating for a phased approach to resolve the ongoing Gulf crisis, aiming for a sustainable and long-term settlement. This diplomatic strategy seeks to foster regional stability and improve engagement among involved parties amidst complex geopolitical dynamics in the region.",
-    "slug": "qatar-pushes-phased-approach-to-gulf-crisis-eyes-sustainable-settlement"
+    "hasContent": true,
+    "pubDate": "2026-09-07T17:56:39.000Z"
   },
   {
     "id": "cc8166c91bcbf0bb",
+    "slug": "paris-saint-germain-sets-record-with-10-players-on-ballon-d-or-shortlist",
     "title": "Paris Saint-Germain sets record with 10 players on Ballon d’Or shortlist",
-    "summary": "PSG's dominance in the Ballon d'Or shortlist underscores a strategic shift in team-building, highlighting their growing influence in global football.\nThe post Paris Saint-Germain sets record with 10 players on Ballon d’Or shortlist appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/psg-record-10-players-ballon-dor-shortlist/",
-    "source": "CryptoBriefing",
     "tags": [
       "Paris Saint-Germain"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-07T17:50:34.000Z",
-    "fetchedAt": "2026-09-07T18:01:20.365Z",
-    "isDuplicateOf": null,
-    "content": "Paris Saint-Germain has established a new record by placing ten players on the Ballon d’Or shortlist. This remarkable achievement reflects the club's growing prominence and strategic influence in the landscape of global football, showcasing the high caliber of talent currently representing the organization.",
-    "slug": "paris-saint-germain-sets-record-with-10-players-on-ballon-d-or-shortlist"
+    "hasContent": true,
+    "pubDate": "2026-09-07T17:50:34.000Z"
   },
   {
     "id": "c4911d7f49dbd493",
+    "slug": "qatari-official-us-forces-in-gulf-insufficient-for-regional-security",
     "title": "Qatari official: US forces in Gulf insufficient for regional security",
-    "summary": "The call for regional cooperation may foster dialogue, potentially enhancing diplomatic relations and stability in the Gulf region.\nThe post Qatari official: US forces in Gulf insufficient for regional security appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/qatari-official-us-forces-in-gulf-insufficient-for-regional-security/",
-    "source": "CryptoBriefing",
     "tags": [
       "Qatar",
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-07T17:47:26.000Z",
-    "fetchedAt": "2026-09-07T18:01:20.365Z",
-    "isDuplicateOf": null,
-    "content": "A Qatari official stated that United States military forces stationed in the Gulf region are insufficient to guarantee regional security independently. The official emphasized the necessity of broader regional cooperation and dialogue to address ongoing security challenges and enhance diplomatic stability. These remarks highlight discussions surrounding defense strategies and alliances within the Middle East.",
-    "slug": "qatari-official-us-forces-in-gulf-insufficient-for-regional-security"
+    "hasContent": true,
+    "pubDate": "2026-09-07T17:47:26.000Z"
   },
   {
     "id": "3eb94271fe0aa314",
+    "slug": "philippines-central-bank-weighs-freeze-on-new-payment-operator-licenses",
     "title": "Philippines Central Bank Weighs Freeze On New Payment Operator Licenses",
-    "summary": "Read the latest update on Philippines Central Bank Weighs Freeze On New Payment Operator Licenses.",
-    "hasSummary": true,
-    "link": "https://www.newsbtc.com/news/philippines-central-bank-weighs-freeze-on-new-payment-operator-licenses/",
-    "source": "NewsBTC",
     "tags": [
       "Philippines"
     ],
+    "source": "NewsBTC",
     "origin": "rss",
-    "pubDate": "2026-09-07T17:45:00.000Z",
-    "fetchedAt": "2026-09-07T18:01:20.365Z",
-    "isDuplicateOf": null,
-    "content": "The central bank of the Philippines is considering a temporary freeze on issuing new licenses for payment operators. This potential regulatory move aims to evaluate the rapidly growing digital payment sector and ensure stability within the financial system. Authorities are reviewing existing policies to better manage emerging risks and strengthen oversight of electronic transaction providers operating across the region.",
-    "slug": "philippines-central-bank-weighs-freeze-on-new-payment-operator-licenses"
+    "hasContent": true,
+    "pubDate": "2026-09-07T17:45:00.000Z"
   },
   {
     "id": "b8aebde9c4542f15",
@@ -413,406 +824,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-07T16:07:43.000Z"
-  },
-  {
-    "id": "97a00b0c76b84237",
-    "slug": "manchester-united-returns-to-champions-league-after-seven-year-absence-with-blockbuster-signings",
-    "title": "Manchester United returns to Champions League after seven-year absence with blockbuster signings",
-    "tags": [
-      "Manchester United"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T16:06:06.000Z"
-  },
-  {
-    "id": "13377daa186d8200",
-    "slug": "oil-nears-100-amid-supply-disruptions-declining-inventories",
-    "title": "Oil nears $100 amid supply disruptions, declining inventories",
-    "tags": [
-      "Oil"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T16:05:22.000Z"
-  },
-  {
-    "id": "af39282c6e462f71",
-    "slug": "trump-invests-10m-in-texas-senate-race-to-boost-ken-paxton",
-    "title": "Trump invests $10M in Texas Senate race to boost Ken Paxton",
-    "tags": [
-      "Donald Trump",
-      "Ken Paxton",
-      "Texas",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T16:03:38.000Z"
-  },
-  {
-    "id": "71cc4cf6673eca73",
-    "slug": "bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance",
-    "title": "Bitcoin chips away at weekend upside as $80K hangs in the balance",
-    "tags": [
-      "Bitcoin",
-      "United States"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T15:57:47.000Z"
-  },
-  {
-    "id": "7f84f797a13328ef",
-    "slug": "wintermute-accumulates-over-3m-in-pons-tokens-arkham-intelligence-reveals",
-    "title": "Wintermute accumulates over $3M in PONS tokens, Arkham Intelligence reveals",
-    "tags": [
-      "Wintermute",
-      "Arkham Intelligence",
-      "PONS"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T15:55:13.000Z"
-  },
-  {
-    "id": "259a1645e541bdbf",
-    "slug": "30-billion-ai-pivot-causes-bitcoin-miners-to-freeze-all-sales",
-    "title": "$30 Billion AI Pivot Causes Bitcoin Miners to Freeze All Sales",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T15:54:45.000Z"
-  },
-  {
-    "id": "f49a97e0c86e3e30",
-    "slug": "can-zec-price-reach-2-500-after-its-1-250-peak",
-    "title": "Can ZEC Price Reach $2,500 After Its $1,250 Peak?",
-    "tags": [
-      "Zcash"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T15:51:47.000Z"
-  },
-  {
-    "id": "161b5f2116899186",
-    "slug": "hunter-biden-debuts-laptop-memecoin-targeting-trump-holders",
-    "title": "Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders",
-    "tags": [
-      "Hunter Biden",
-      "Base",
-      "TRUMP"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T15:44:30.000Z"
-  },
-  {
-    "id": "9502da15240f232d",
-    "slug": "bitcoin-starts-the-week-flat-but-chainlink-is-flying-here-s-why",
-    "title": "Bitcoin Starts the Week Flat, But Chainlink Is Flying—Here's Why",
-    "tags": [
-      "Bitcoin",
-      "Chainlink",
-      "Bottomline",
-      "SWIFT"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T15:42:34.000Z"
-  },
-  {
-    "id": "1f6cb15e6799682e",
-    "slug": "markets-are-underpricing-fed-and-ecb-rate-hikes-deutsche-bank-strategist-says",
-    "title": "Markets are underpricing Fed and ECB rate hikes, Deutsche Bank strategist says",
-    "tags": [
-      "Deutsche Bank",
-      "Federal Reserve",
-      "European Central Bank"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T15:36:25.000Z"
-  },
-  {
-    "id": "866c6143fe0d41c1",
-    "slug": "polymarket-ukraine-odds-for-russia-ceasefire-slashed-to-13",
-    "title": "Polymarket Ukraine Odds for Russia Ceasefire Slashed to 13%",
-    "tags": [
-      "Polymarket",
-      "Russia",
-      "Ukraine"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T15:35:31.000Z"
-  },
-  {
-    "id": "191df370405b7088",
-    "slug": "xrp-ledger-to-get-major-amendment-this-month",
-    "title": "XRP Ledger to Get Major Amendment This Month",
-    "tags": [
-      "XRP Ledger"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T15:34:33.000Z"
-  },
-  {
-    "id": "61b52c9fbe5b7bb1",
-    "slug": "shiba-inu-prints-bullish-signal-with-40-billion-shib-moved-off-exchanges",
-    "title": "Shiba Inu Prints Bullish Signal With 40 Billion SHIB Moved off Exchanges",
-    "tags": [
-      "Shiba Inu"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T15:31:11.000Z"
-  },
-  {
-    "id": "8a299bbeca7504af",
-    "slug": "ubs-and-jane-street-among-early-holders-as-institutions-disclose-75-million-in-hyperliquid-etfs",
-    "title": "UBS and Jane Street Among Early Holders as Institutions Disclose $75 Million in Hyperliquid ETFs",
-    "tags": [
-      "UBS",
-      "Jane Street",
-      "Hyperliquid",
-      "Bloomberg"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T15:30:47.000Z"
-  },
-  {
-    "id": "a10c61cc16875990",
-    "slug": "xrp-lending-model-leaves-depositors-with-90-of-a-bad-loan-s-loss-despite-reserves-twice-its-size",
-    "title": "XRP lending model leaves depositors with 90% of a bad loan’s loss despite reserves twice its size",
-    "tags": [
-      "XRP"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T15:30:40.000Z"
-  },
-  {
-    "id": "cd72a08051a9c854",
-    "slug": "polish-prosecutors-charge-fifth-suspect-in-a-massive-crypto-probe",
-    "title": "Polish prosecutors charge fifth suspect in a massive crypto probe",
-    "tags": [
-      "Poland",
-      "BitBay",
-      "Zondacrypto"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T15:28:43.000Z"
-  },
-  {
-    "id": "f7d5aa8f138cd7bd",
-    "slug": "nvidia-stock-nears-price-peak-after-openai-s-gpt-6-astra-launch",
-    "title": "Nvidia Stock Nears Price Peak After OpenAI’s GPT-6 Astra Launch",
-    "tags": [
-      "Nvidia",
-      "OpenAI"
-    ],
-    "source": "Watcher.Guru",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T15:01:00.000Z"
-  },
-  {
-    "id": "a05c8c5de67fc69a",
-    "slug": "j-p-morgan-binance-coinbase-robinhood-and-revolut-are-reshaping-the-tokenized-rwa-market",
-    "title": "J.P. Morgan, Binance, Coinbase, Robinhood, and Revolut are reshaping the tokenized RWA market",
-    "tags": [
-      "J.P. Morgan",
-      "Binance",
-      "Coinbase",
-      "Robinhood",
-      "Revolut"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T14:58:20.000Z"
-  },
-  {
-    "id": "92ca2832f502d1be",
-    "slug": "bitcoin-price-analysis-btc-bulls-need-to-break-this-key-level-to-regain-momentum",
-    "title": "Bitcoin Price Analysis: BTC Bulls Need to Break This Key Level to Regain Momentum",
-    "tags": [],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-09-07T14:50:54.000Z"
-  },
-  {
-    "id": "cb4223cd60072bb2",
-    "slug": "bitcoin-etfs-add-3-8b-over-three-weeks-as-ibit-and-fbtc-lead",
-    "title": "Bitcoin ETFs Add $3.8B Over Three Weeks As IBIT And FBTC Lead",
-    "tags": [
-      "Bitcoin",
-      "IBIT",
-      "FBTC"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T14:45:00.000Z"
-  },
-  {
-    "id": "b35cb216168d67ea",
-    "slug": "ledger-and-trezor-urge-responsible-disclosure-of-security-vulnerabilities-as-ai-threats-mount",
-    "title": "Ledger and Trezor urge responsible disclosure of security vulnerabilities as AI threats mount",
-    "tags": [
-      "Ledger",
-      "Trezor"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T14:41:23.000Z"
-  },
-  {
-    "id": "41427e2cf8fc134e",
-    "slug": "kremlin-open-to-trilateral-talks-with-us-ukraine-amid-ongoing-conflict",
-    "title": "Kremlin open to trilateral talks with US, Ukraine amid ongoing conflict",
-    "tags": [
-      "Kremlin",
-      "United States",
-      "Ukraine"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T14:39:43.000Z"
-  },
-  {
-    "id": "5a16c54564987bd2",
-    "slug": "inter-s-federico-dimarco-ruled-out-for-champions-league-clash-vs-real-madrid",
-    "title": "Inter’s Federico Dimarco ruled out for Champions League clash vs Real Madrid",
-    "tags": [
-      "Inter Milan",
-      "Real Madrid",
-      "Federico Dimarco"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T14:37:16.000Z"
-  },
-  {
-    "id": "6116e86f061084b9",
-    "slug": "solana-reclaims-memecoin-trading-volume-lead-from-robinhood-chain",
-    "title": "Solana reclaims memecoin trading volume lead from Robinhood Chain",
-    "tags": [
-      "Solana",
-      "Robinhood"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T14:37:04.000Z"
-  },
-  {
-    "id": "6276580af6fa4c94",
-    "slug": "1win-expands-crypto-offering-with-usdc-on-solana-and-new-ecosystem-developments",
-    "title": "1win Expands Crypto Offering With USDC on Solana and New Ecosystem Developments",
-    "tags": [
-      "1win",
-      "USDC",
-      "Solana",
-      "Sona",
-      "Nepal"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T14:36:45.000Z"
-  },
-  {
-    "id": "83b3d09cb1c5f8e8",
-    "slug": "sk-hynix-accelerates-1c-dram-ramp-aims-for-34-share-by-q4-2026",
-    "title": "SK Hynix accelerates 1c DRAM ramp, aims for 34% share by Q4 2026",
-    "tags": [
-      "SK Hynix"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T14:30:08.000Z"
-  },
-  {
-    "id": "58d2e63a361cfc8b",
-    "slug": "one-crypto-sector-is-up-213-while-the-rest-struggles",
-    "title": "One Crypto Sector Is Up 213% While the Rest Struggles",
-    "tags": [
-      "Bitcoin",
-      "Zcash"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T14:29:49.000Z"
-  },
-  {
-    "id": "a84edbbfb19b8fd1",
-    "slug": "eu-invests-200m-in-greenland-to-strengthen-ties-amid-us-claims",
-    "title": "EU invests €200M in Greenland to strengthen ties amid US claims",
-    "tags": [
-      "European Union",
-      "Greenland",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T14:24:26.000Z"
-  },
-  {
-    "id": "2d0ea87e0a220bc8",
-    "slug": "aave-activates-usde-rewards-in-ethena-ecosystem-market-on-ethereum",
-    "title": "AAVE activates USDe rewards in Ethena ecosystem market on Ethereum",
-    "tags": [
-      "Aave",
-      "Ethena",
-      "Ethereum"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T14:24:23.000Z"
-  },
-  {
-    "id": "5bc00d20ee0e9f50",
-    "slug": "victor-osimhen-faces-three-week-absence-after-adductor-strain-in-galatasaray-win",
-    "title": "Victor Osimhen faces three-week absence after adductor strain in Galatasaray win",
-    "tags": [
-      "Victor Osimhen",
-      "Galatasaray"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T14:22:26.000Z"
   }
 ]
