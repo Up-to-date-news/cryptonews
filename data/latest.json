@@ -1,817 +1,825 @@
 [
   {
-    "id": "12da7cde91abafac",
-    "slug": "ubs-projects-fed-rate-hikes-in-september-and-december-2026",
-    "title": "UBS projects Fed rate hikes in September and December 2026",
+    "id": "f7d5aa8f138cd7bd",
+    "title": "Nvidia Stock Nears Price Peak After OpenAI’s GPT-6 Astra Launch",
+    "summary": "Nvidia (NVDA) stock seems to be experiencing an upward surge after OpenAI launched its GPT-6 Astra model. In…",
+    "hasSummary": true,
+    "link": "https://watcher.guru/news/nvidia-stock-nears-price-peak-after-openais-gpt-6-astra-launch",
+    "source": "Watcher.Guru",
     "tags": [
-      "UBS",
-      "Federal Reserve",
+      "Nvidia",
+      "OpenAI"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-07T15:01:00.000Z",
+    "fetchedAt": "2026-09-07T15:01:24.588Z",
+    "isDuplicateOf": null,
+    "content": "Nvidia stock is approaching a price peak following the launch of OpenAI's GPT-6 Astra model. The stock, traded under the ticker NVDA, experienced an upward surge in market activity driven by excitement surrounding the new artificial intelligence release. Investors are closely monitoring market reactions to this major technology development.",
+    "slug": "nvidia-stock-nears-price-peak-after-openai-s-gpt-6-astra-launch"
+  },
+  {
+    "id": "a05c8c5de67fc69a",
+    "slug": "j-p-morgan-binance-coinbase-robinhood-and-revolut-are-reshaping-the-tokenized-rwa-market",
+    "title": "J.P. Morgan, Binance, Coinbase, Robinhood, and Revolut are reshaping the tokenized RWA market",
+    "tags": [
+      "J.P. Morgan",
+      "Binance",
+      "Coinbase",
+      "Robinhood",
+      "Revolut"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T14:58:20.000Z"
+  },
+  {
+    "id": "92ca2832f502d1be",
+    "slug": "bitcoin-price-analysis-btc-bulls-need-to-break-this-key-level-to-regain-momentum",
+    "title": "Bitcoin Price Analysis: BTC Bulls Need to Break This Key Level to Regain Momentum",
+    "tags": [],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-09-07T14:50:54.000Z"
+  },
+  {
+    "id": "cb4223cd60072bb2",
+    "slug": "bitcoin-etfs-add-3-8b-over-three-weeks-as-ibit-and-fbtc-lead",
+    "title": "Bitcoin ETFs Add $3.8B Over Three Weeks As IBIT And FBTC Lead",
+    "tags": [
+      "Bitcoin",
+      "IBIT",
+      "FBTC"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T14:45:00.000Z"
+  },
+  {
+    "id": "b35cb216168d67ea",
+    "slug": "ledger-and-trezor-urge-responsible-disclosure-of-security-vulnerabilities-as-ai-threats-mount",
+    "title": "Ledger and Trezor urge responsible disclosure of security vulnerabilities as AI threats mount",
+    "tags": [
+      "Ledger",
+      "Trezor"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T14:41:23.000Z"
+  },
+  {
+    "id": "41427e2cf8fc134e",
+    "slug": "kremlin-open-to-trilateral-talks-with-us-ukraine-amid-ongoing-conflict",
+    "title": "Kremlin open to trilateral talks with US, Ukraine amid ongoing conflict",
+    "tags": [
+      "Kremlin",
+      "United States",
+      "Ukraine"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T14:39:43.000Z"
+  },
+  {
+    "id": "5a16c54564987bd2",
+    "slug": "inter-s-federico-dimarco-ruled-out-for-champions-league-clash-vs-real-madrid",
+    "title": "Inter’s Federico Dimarco ruled out for Champions League clash vs Real Madrid",
+    "tags": [
+      "Inter Milan",
+      "Real Madrid",
+      "Federico Dimarco"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T14:37:16.000Z"
+  },
+  {
+    "id": "6116e86f061084b9",
+    "slug": "solana-reclaims-memecoin-trading-volume-lead-from-robinhood-chain",
+    "title": "Solana reclaims memecoin trading volume lead from Robinhood Chain",
+    "tags": [
+      "Solana",
+      "Robinhood"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T14:37:04.000Z"
+  },
+  {
+    "id": "6276580af6fa4c94",
+    "slug": "1win-expands-crypto-offering-with-usdc-on-solana-and-new-ecosystem-developments",
+    "title": "1win Expands Crypto Offering With USDC on Solana and New Ecosystem Developments",
+    "tags": [
+      "1win",
+      "USDC",
+      "Solana",
+      "Sona",
+      "Nepal"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T14:36:45.000Z"
+  },
+  {
+    "id": "83b3d09cb1c5f8e8",
+    "slug": "sk-hynix-accelerates-1c-dram-ramp-aims-for-34-share-by-q4-2026",
+    "title": "SK Hynix accelerates 1c DRAM ramp, aims for 34% share by Q4 2026",
+    "tags": [
+      "SK Hynix"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T14:30:08.000Z"
+  },
+  {
+    "id": "58d2e63a361cfc8b",
+    "slug": "one-crypto-sector-is-up-213-while-the-rest-struggles",
+    "title": "One Crypto Sector Is Up 213% While the Rest Struggles",
+    "tags": [
+      "Bitcoin",
+      "Zcash"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T14:29:49.000Z"
+  },
+  {
+    "id": "a84edbbfb19b8fd1",
+    "slug": "eu-invests-200m-in-greenland-to-strengthen-ties-amid-us-claims",
+    "title": "EU invests €200M in Greenland to strengthen ties amid US claims",
+    "tags": [
+      "European Union",
+      "Greenland",
       "United States"
     ],
     "source": "CryptoBriefing",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-09-07T12:43:44.000Z"
+    "pubDate": "2026-09-07T14:24:26.000Z"
   },
   {
-    "id": "0a954c59e856d6b5",
-    "title": "Sompo Japan and ICEYE collaborate on flood risk modelling",
-    "summary": "Sompo Japan Insurance Inc., a leading provider of property and casualty insurance services in Japan, has signed a contract with ICEYE, the world leader in sovereign intelligence from space, to use its Flood Insights solution to enhance its response to flood events and support customers affected by natural disasters.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/pressarticle/110817/sompo-japan-and-iceye-collaborate-on-flood-risk-modelling?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
+    "id": "2d0ea87e0a220bc8",
+    "slug": "aave-activates-usde-rewards-in-ethena-ecosystem-market-on-ethereum",
+    "title": "AAVE activates USDe rewards in Ethena ecosystem market on Ethereum",
     "tags": [
-      "Sompo Japan",
-      "ICEYE",
-      "Japan"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-09-07T12:42:00.000Z",
-    "fetchedAt": "2026-09-07T12:44:38.566Z",
-    "isDuplicateOf": null,
-    "content": "Sompo Japan Insurance Inc. has partnered with ICEYE to utilize its Flood Insights solution. The collaboration aims to enhance Sompo Japan's response capabilities during flood events and improve support for customers impacted by natural disasters in Japan.",
-    "slug": "sompo-japan-and-iceye-collaborate-on-flood-risk-modelling"
-  },
-  {
-    "id": "1463256d6a3bef8c",
-    "slug": "hyperliquid-tests-allowlists-that-let-operators-restrict-access-to-their-own-markets",
-    "title": "Hyperliquid tests allowlists that let operators restrict access to their own markets",
-    "tags": [
-      "Hyperliquid",
-      "CryptoSlate"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T12:40:21.000Z"
-  },
-  {
-    "id": "c72f76d0584dfee1",
-    "slug": "harmony-plans-to-sunset-network-and-move-one-token-to-ethereum",
-    "title": "Harmony plans to sunset network and move ONE token to Ethereum",
-    "tags": [
-      "Harmony",
+      "Aave",
+      "Ethena",
       "Ethereum"
     ],
     "source": "CryptoBriefing",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-09-07T12:39:43.000Z"
+    "pubDate": "2026-09-07T14:24:23.000Z"
   },
   {
-    "id": "20141b7ec8c6a402",
-    "slug": "bytedance-prepares-ai-model-for-real-time-spatial-video-generation",
-    "title": "ByteDance prepares AI model for real-time spatial video generation",
+    "id": "5bc00d20ee0e9f50",
+    "slug": "victor-osimhen-faces-three-week-absence-after-adductor-strain-in-galatasaray-win",
+    "title": "Victor Osimhen faces three-week absence after adductor strain in Galatasaray win",
     "tags": [
-      "ByteDance"
+      "Victor Osimhen",
+      "Galatasaray"
     ],
     "source": "CryptoBriefing",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-09-07T12:38:50.000Z"
+    "pubDate": "2026-09-07T14:22:26.000Z"
   },
   {
-    "id": "247f9c61435a0b4d",
-    "slug": "dangote-group-advances-ipo-preparations-for-refinery-business",
-    "title": "Dangote Group advances IPO preparations for refinery business",
+    "id": "3ab5f5271e17d6df",
+    "slug": "solana-s-million-payments-a-second-ai-system-can-leave-sellers-unpaid-even-after-they-deliver",
+    "title": "Solana’s “million-payments-a-second” AI system can leave sellers unpaid even after they deliver",
+    "tags": [],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-09-07T14:20:31.000Z"
+  },
+  {
+    "id": "c95c5795d9d130ca",
+    "slug": "stablecoin-wallets-challenge-traditional-bank-accounts-as-main-consumer-money-hub",
+    "title": "Stablecoin wallets challenge traditional bank accounts as main consumer money hub",
     "tags": [
-      "Dangote Group",
-      "Nigeria"
+      "Stablecoins"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T14:12:15.000Z"
+  },
+  {
+    "id": "89c4c9beda461ec5",
+    "slug": "privacy-coins-rise-213-leading-crypto-sector-gains-glassnode",
+    "title": "Privacy coins rise 213%, leading crypto sector gains: Glassnode",
+    "tags": [
+      "Glassnode"
     ],
     "source": "CryptoBriefing",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-09-07T12:35:16.000Z"
+    "pubDate": "2026-09-07T14:05:48.000Z"
   },
   {
-    "id": "8b0300346e1b53cc",
-    "slug": "woo-x-under-scrutiny-after-3-day-withdrawal-crisis-are-we-getting-rug",
-    "title": "WOO X under scrutiny after 3-day withdrawal crisis: ‘Are we getting rug?’",
+    "id": "3753a5f906e86852",
+    "slug": "commodity-trading-houses-report-soaring-profits-amid-iran-war",
+    "title": "Commodity trading houses report soaring profits amid Iran war",
     "tags": [
-      "WOO X",
-      "BitMart"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T12:30:13.000Z"
-  },
-  {
-    "id": "dcb43395ce133eef",
-    "title": "European wealthtech funding drops amid investor caution",
-    "summary": "Caution among investors led to a 46% reduction in wealthtech funding in Q2 this year.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/newsarticle/48354/european-wealthtech-funding-drops-amid-investor-caution?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "tags": [
-      "Europe"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-09-07T12:28:00.000Z",
-    "fetchedAt": "2026-09-07T12:44:38.566Z",
-    "isDuplicateOf": null,
-    "content": "Caution among investors has led to a significant 46% reduction in wealthtech funding across Europe during the second quarter of this year. The sharp decline reflects a broader trend of market hesitation within the financial technology sector as venture capital backers exercise greater restraint.",
-    "slug": "european-wealthtech-funding-drops-amid-investor-caution"
-  },
-  {
-    "id": "af83a45216947b5c",
-    "title": "FE Fundinfo Extends Nexus for Financial Advisers into Face-to-Face Client Meetings With New Mobile App",
-    "summary": "FE fundinfo today launched a mobile app for Nexus for Financial Advisers, opening up its AI-powered meeting support to face-to-face client meetings for the first time.\nNexus for Financial Advisers brings together the data, technology and workflows advisers use across the advice journey in one connected platform, and the mobile app extends that same approach to another part of how advisers work. Information captured during an in-person conversation becomes part of the same connected client record used across the wider advice process, rather than sitting in a separate, standalone tool.\nRecorded on a phone or tablet and assigned to a client, the meeting follows the same workflow as a video meeting, including transcription, structured note generation, extraction of client data, as well as adviser review and approval, before information is transferred into Nexus for Financial Advisers or a connected CRM. AI-generated outputs are attributed to their source, while adviser actions remain auditable.\nUntil now, that workflow stopped at the meeting room door. A significant proportion of adviser-client meetings happen face-to-face, and that data has sat apart from the rest of the advice process, resulting in a gap in an otherwise connected workflow. \nThat fragmentation creates a significant administrative burden for advisers. Research from FE fundinfo’s Financial Adviser Survey 2026 found that 95% of advisers say they use too many software applications, and reconciling data between them costs the average adviser 192 hours a year, nearly five working weeks that could otherwise go to clients. \nChristian Wynne, Financial Planner at Factor Financial Planning, commented:\n\"Nexus and Nexus Assistant have significantly reduced the amount of time we spend on meeting admin. The mobile app means face-to-face meetings will now sit in the same place as everything else I do for a client on Nexus for Financial Advisers, not a separate note I have to catch up on later, but part of the one record I already work from.”\nThe mobile app forms part of FE fundinfo’s accelerated investment in Nexus for Financial Advisers, with more than 25 new capabilities planned by the end of 2026. The platform combines FE fundinfo’s financial data, research and analytics with AI-powered workflows, reducing the time advisers spend moving between systems and manually managing information throughout the client journey. \nFurther developments this autumn include AI-generated suitability reporting, automated client vulnerability assessment, expanded back-office integrations, a consolidated client profile and AI-powered fund research and cashflow modelling. \nIshaan Sethi, Head of UK Wealth Products at FE fundinfo, said:\n“Advisers should not have to change the way they work with clients to accommodate their technology. Whether a conversation happens over video or face-to-face, the information captured should be able to support what happens next without creating another manual process for the adviser. As we continue to add new capabilities to Nexus, our focus is on connecting those individual workflows so advisers spend less time managing systems and more time with their clients.\" \nNoYesInfrastructure07 Sep, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/infrastructure/fe-fundinfo-extends-nexus-financial-advisers-face-face-client-meetings-new",
-    "source": "Financial IT",
-    "tags": [
-      "FE fundinfo"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-09-07T12:27:11.000Z",
-    "fetchedAt": "2026-09-07T12:44:38.566Z",
-    "isDuplicateOf": null,
-    "content": "FE fundinfo has launched a mobile app for its Nexus for Financial Advisers platform, extending its AI-powered meeting support into face-to-face client meetings. The new tool allows advisers to record in-person conversations on a phone or tablet to generate transcriptions and structured notes, helping to reduce administrative burdens and connect offline meetings with existing CRM workflows.",
-    "slug": "fe-fundinfo-extends-nexus-for-financial-advisers-into-face-to-face-client-meetings-with-new-mobile"
-  },
-  {
-    "id": "24c1a76e35d84549",
-    "title": "HSBC's AutoFX Hopes to Solve the T-1 Settlement Headache",
-    "summary": "Euroclear and HSBC announced a new automated FX service last week called AutoFX, built for a settlem...",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/blogposting/32759/hsbcs-autofx-hopes-to-solve-the-t-1-settlement-headache?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "tags": [
-      "HSBC",
-      "Euroclear"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-09-07T12:25:10.000Z",
-    "fetchedAt": "2026-09-07T12:44:38.566Z",
-    "isDuplicateOf": null,
-    "content": "Euroclear and HSBC have announced a new automated foreign exchange service named AutoFX. Designed to address settlement challenges following recent market changes, the service aims to streamline processes for financial institutions. The partnership reflects ongoing efforts within the industry to improve operational efficiency and modernise post-trade workflows through automation.",
-    "slug": "hsbc-s-autofx-hopes-to-solve-the-t-1-settlement-headache"
-  },
-  {
-    "id": "c27385bb8f64ad82",
-    "slug": "how-4-000-btc-walked-out-of-blockstream-s-liquid-network",
-    "title": "How 4,000 BTC walked out of Blockstream’s Liquid Network",
-    "tags": [
-      "Bitcoin",
-      "Blockstream",
-      "Liquid Network"
-    ],
-    "source": "Protos",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T12:20:26.000Z"
-  },
-  {
-    "id": "7268c211c10ff52c",
-    "slug": "bittensor-commons-confirms-exploit-summit-2026-for-montreal-september-28-29",
-    "title": "Bittensor Commons Confirms Exploit Summit 2026 for Montreal, September 28-29",
-    "tags": [
-      "Bittensor",
-      "Montreal"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T12:19:05.000Z"
-  },
-  {
-    "id": "50cfd34b706fd0e1",
-    "title": "Open Banking Delivered by Ecommpay Brings 17% Increase in Payments Settled on Time for Bill Management Innovator – Bill.me",
-    "summary": "Working with inclusive global payments platform, Ecommpay, bill management provider, Bill.me has seen on-time payments rise 17% in just three months as a result of adding open banking as a payment option. Across Europe, Bill.me enables its 200,000+ users to receive and manage recurring bills from more than 300 companies and pay multiple bills in a single transaction. The addition of open banking as a payment option has been quickly embraced by Bill.me users, with around 70% of payments now made through open banking in countries where it is available.\nBill.me customers have been paying their bills by card using payment functionality delivered through Ecommpay since 2017. The addition of open banking as a payment option has allowed customers another secure and reliable payment option, and lower processing costs for the business. Customers can now pay directly through any of the major local banks used across Bill.me markets.\nThe new option allows customers to pay directly through their bank, with their identity verified using Strong Customer Authentication. Secure bank APIs, encrypted data transmission, user consent controls and real-time fraud monitoring help protect each transaction while supporting Bill.me’s security and compliance requirements.\nFor Bill.me, open banking was not simply another button on the payment page. It offered a way to reduce payment costs compared with card transactions, encourage more people to pay through the app and create a stronger foundation for future growth.\n“As we look to enter new territories, the international coverage and scalability Ecommpay offers is critical,” explained Andrey Nemchikov, Chief Operating Officer of Bill.me. “We built Bill.me to make it easier to pay bills, to provide everyone with access to convenient and modern bill management capabilities, and the addition of open banking means it is now easier and more accessible than ever. Ecommpay supports the local banking options our users expect and since launching the additional payment option we have seen an increase payment activity, helping us to deliver greater value to our service-provider partners and future-proof our app.”\n“To make its payment experience even stronger, Bill.me wanted to give users more choice while supporting greater payment activity and continued commercial growth,” added Roy Blokker, Head of Strategic Sales at Ecommpay. “Our team worked closely with Bill.me to ensure our open banking solution met their needs and those of their customers. We continue that collaboration to develop the solution as new capabilities become available in future\n\nNoYesPayments07 Sep, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/payments/open-banking-delivered-ecommpay-brings-17-increase-payments-settled-time-bill",
-    "source": "Financial IT",
-    "tags": [
-      "Ecommpay",
-      "Bill.me",
-      "Europe"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-09-07T12:19:03.000Z",
-    "fetchedAt": "2026-09-07T12:44:38.566Z",
-    "isDuplicateOf": null,
-    "content": "Bill management provider Bill.me has reported a 17 percent increase in on-time payments within three months of introducing open banking through global payments platform Ecommpay. Approximately 70 percent of payments are now made via open banking in supported European markets. The integration reduces processing costs, enhances security with Strong Customer Authentication, and gives users a direct way to settle recurring bills using major local banks.",
-    "slug": "open-banking-delivered-by-ecommpay-brings-17-increase-in-payments-settled-on-time-for-bill"
-  },
-  {
-    "id": "20c3651d9be0be69",
-    "slug": "blockstream-confirms-bridge-nodes-patched-funds-safe-to-return-after-320m-liquid-network-exploit",
-    "title": "Blockstream confirms bridge nodes patched, funds safe to return after $320M Liquid Network exploit",
-    "tags": [
-      "Blockstream",
-      "Liquid Network"
+      "Iran"
     ],
     "source": "CryptoBriefing",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-09-07T12:18:45.000Z"
+    "pubDate": "2026-09-07T14:05:25.000Z"
   },
   {
-    "id": "73a9aa74121c562d",
-    "slug": "real-madrid-faces-selection-crisis-ahead-of-champions-league-opener-against-inter-milan",
-    "title": "Real Madrid faces selection crisis ahead of Champions League opener against Inter Milan",
+    "id": "a767597358435284",
+    "slug": "raydium-generates-440k-in-daily-revenue-highest-since-july-2025",
+    "title": "Raydium generates $440K in daily revenue, highest since July 2025",
     "tags": [
-      "Real Madrid",
-      "Inter Milan"
+      "Raydium"
     ],
     "source": "CryptoBriefing",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-09-07T12:14:23.000Z"
+    "pubDate": "2026-09-07T14:03:43.000Z"
   },
   {
-    "id": "dcce494d92e84884",
-    "title": "Miles & More, Currensea and Mastercard Launch Rewards Debit Card for UK Frequent Flyers",
-    "summary": "Miles & More, the Lufthansa Group’s loyalty programme, has partnered with Currensea, the market-leading payments technology platform for co-branded multi-bank debit cards, and Mastercard, to launch the new Miles & More Debit Card for UK customers.\nAvailable now, the card gives members a simple way to earn miles on everyday debit spending at home and abroad while enjoying travel benefits across Lufthansa Group airlines. It links directly to customers’ existing bank accounts and works wherever Mastercard is accepted, so there’s no need to open a new bank account, keep a separate card topped up or change the way they normally pay. \nMiles earned through the card can be redeemed for Award Flights, upgrades and other rewards across Lufthansa Group airlines, including Lufthansa, SWISS, Austrian Airlines, Eurowings and Brussels Airlines. By using the card, members can ensure their miles never expire, including those they’ve already earned. Together, the Group’s airlines serve 330 destinations in around 100 countries, giving members extensive choice when it comes to turning everyday spending into journeys around the world.\nTo mark the launch, the cooperation partners are doubling the standard earn rate on UK spend for the card's first year. Cardholders will therefore earn 1 mile for every £1 spent in the UK - matching the permanent earn rate for spending in Europe and the rest of the world, where cardholders will earn 1 mile for every £1 equivalent while benefitting from some of the best foreign exchange rates available to UK travellers. Purchases made directly with Lufthansa Group airlines will earn an enhanced rate of 2 miles per £1 equivalent. Miles earned through card spending can also be exchanged for Points and Qualifying Points once per year, helping members progress through the Miles & More status levels. \nMore ways to earn miles with everyday spending\nCardholders can earn up to 15,000 bonus miles in their first year: a 10,000-mile Welcome Bonus after spending £2,000 in foreign currency, plus a 5,000-mile Launch Bonus after their first eligible purchase. The Launch Bonus is a limited-time offer available to the first 500 customers. After renewal, cardholders who spend over £15,000 annually can earn a further 5,000-mile Anniversary Bonus.\nBeyond earning miles, further cardholder benefits include priority check-in at the Lufthansa Business Class desk at London Heathrow; an annual Lufthansa Group Business Lounge voucher; 6GB of global travel data; and a one-time 15% discount on eligible Worldshop purchases. \nGerald Schlögl, Managing Director of Miles & More GmbH, said: “Our vision is to shape loyalty for generations to come. With this new card, we are making Miles & More more accessible to a broader audience in the UK, enabling them to turn everyday spending into meaningful travel rewards. Together with Currensea and Mastercard, we are creating a simple, flexible and rewarding experience that helps members get closer to their next journey with Lufthansa Group.”\nJames Lynn, Co-Founder and CEO of Currensea, said: “We’re delighted to be working with Miles & More and the Lufthansa Group, the market-leading loyalty programme for one of Europe’s largest airline groups, to meet members in more moments of their everyday lives, not just when they fly. This new card turns the debit spending that Miles & More members are already doing into real progress towards their next trip. Crucially, it does all of this through the bank account they already use. With double miles on UK spend during the launch period and some of the most competitive foreign exchange rates on the market, it delivers outstanding value both at home and abroad.”\nDarren Deal, Senior Vice President - Fintech, Government & Digital Partnerships, UKI at Mastercard, said: “Mastercard is proud to support the launch of the new Miles & More Debit Card with Currensea. Bringing together Europe’s largest frequent flyer and awards programme, one of the UK’s most innovative fintechs and Mastercard’s global payments network demonstrates the value of strong partnerships. The result is greater choice and value for UK consumers and a rewarding way to turn everyday purchases into future travel.”\nNoYesPayments07 Sep, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/payments/miles-more-currensea-and-mastercard-launch-rewards-debit-card-uk-frequent-flyers",
-    "source": "Financial IT",
+    "id": "ff63536ad0684f19",
+    "slug": "psg-extends-willian-pacho-s-contract-to-2031-amid-premier-league-interest",
+    "title": "PSG extends Willian Pacho’s contract to 2031 amid Premier League interest",
     "tags": [
-      "Miles & More",
-      "Currensea",
-      "Mastercard",
-      "Lufthansa Group",
-      "United Kingdom"
+      "Paris Saint-Germain",
+      "Willian Pacho",
+      "Premier League"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T14:01:59.000Z"
+  },
+  {
+    "id": "720e30e982e7810a",
+    "slug": "ethereum-set-to-enable-gas-fee-payments-without-holding-eth-in-2027-upgrade",
+    "title": "Ethereum set to enable gas fee payments without holding ETH in 2027 upgrade",
+    "tags": [
+      "Ethereum"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T14:01:46.000Z"
+  },
+  {
+    "id": "0df71113a50ef670",
+    "title": "Google Stock Faces Longest Monthly Losing Streak In Over a Decade",
+    "summary": "Alphabet’s Google stock (NASDAQ: GOOG) entered September with its longest monthly losing streak in over a decade. The…",
+    "hasSummary": true,
+    "link": "https://watcher.guru/news/google-stock-faces-longest-monthly-losing-streak-in-over-a-decade",
+    "source": "Watcher.Guru",
+    "tags": [
+      "Alphabet",
+      "Google"
     ],
     "origin": "rss",
-    "pubDate": "2026-09-07T12:13:42.000Z",
-    "fetchedAt": "2026-09-07T12:44:38.566Z",
+    "pubDate": "2026-09-07T14:00:00.000Z",
+    "fetchedAt": "2026-09-07T15:01:24.588Z",
     "isDuplicateOf": null,
-    "content": "Miles & More, Currensea, and Mastercard have launched a new rewards debit card for UK frequent flyers. The card allows members to earn miles on everyday spending at home and abroad without opening a new bank account. Users benefit from competitive foreign exchange rates, travel perks across Lufthansa Group airlines, and opportunities to accelerate their loyalty status.",
-    "slug": "miles-more-currensea-and-mastercard-launch-rewards-debit-card-for-uk-frequent-flyers"
+    "content": "Alphabet's Google stock experienced a significant downturn, entering September with its longest monthly losing streak in over a decade. The prolonged decline reflects growing market pressures and investor caution surrounding the technology giant. While specific financial figures and quarterly targets remain general in this context, the downward trend marks a notable milestone for the NASDAQ-listed company as it navigates challenging economic conditions.",
+    "slug": "google-stock-faces-longest-monthly-losing-streak-in-over-a-decade"
   },
   {
-    "id": "72760f8ee9da9d6e",
-    "slug": "north-korea-and-russia-complete-first-road-bridge-linking-countries",
-    "title": "North Korea and Russia complete first road bridge linking countries",
+    "id": "548be6b57cee3e6b",
+    "slug": "us-gasoline-prices-hit-record-high-over-labor-day-weekend",
+    "title": "US gasoline prices hit record high over Labor Day weekend",
     "tags": [
-      "North Korea",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T13:54:55.000Z"
+  },
+  {
+    "id": "8f99497cd3cb036f",
+    "slug": "ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
+    "title": "Ethereum commits to letting users pay gas fees without having to hold ETH",
+    "tags": [
+      "Ethereum",
+      "Vitalik Buterin"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T13:54:07.000Z"
+  },
+  {
+    "id": "8a533f5708a4c2f5",
+    "slug": "former-federal-prosecutor-says-as-clarity-is-dead-after-congress-talks",
+    "title": "Former Federal Prosecutor Says as “CLARITY Is Dead,” After Congress Talks",
+    "tags": [
+      "United States"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T13:52:34.000Z"
+  },
+  {
+    "id": "71656e5a7a516485",
+    "slug": "ukrainians-expect-russia-conflict-to-extend-beyond-2026-optimism-wanes",
+    "title": "Ukrainians expect Russia conflict to extend beyond 2026, optimism wanes",
+    "tags": [
+      "Ukraine",
       "Russia"
     ],
     "source": "CryptoBriefing",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-09-07T12:10:42.000Z"
+    "pubDate": "2026-09-07T13:50:41.000Z"
   },
   {
-    "id": "ed1cb6edcccb0b9b",
-    "slug": "yen-intervention-meets-us-inflation-data-five-things-to-know-in-bitcoin-this-week",
-    "title": "Yen intervention meets US inflation data: Five things to know in Bitcoin this week",
+    "id": "f194d9c2fc524c29",
+    "slug": "putin-reaffirms-commitment-to-continuing-war-in-ukraine-after-talks-with-us-envoys",
+    "title": "Putin reaffirms commitment to continuing war in Ukraine after talks with US envoys",
     "tags": [
-      "Bitcoin",
+      "Russia",
+      "Ukraine",
       "United States"
     ],
-    "source": "Cointelegraph",
+    "source": "CryptoBriefing",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-09-07T12:10:22.000Z"
+    "pubDate": "2026-09-07T13:48:19.000Z"
   },
   {
-    "id": "3ae3560a99efad59",
-    "slug": "solana-to-triple-transaction-size-as-apps-get-room-for-more-complex-trades",
-    "title": "Solana to triple transaction size as apps get room for more complex trades",
+    "id": "7453d78364e203e6",
+    "slug": "cardano-major-milestones-coming-in-months-ahead-what-to-expect",
+    "title": "Cardano Major Milestones Coming in Months Ahead: What to Expect",
     "tags": [
-      "Solana"
+      "Cardano"
     ],
-    "source": "CoinDesk",
+    "source": "U.Today",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-09-07T12:08:11.000Z"
+    "pubDate": "2026-09-07T13:45:52.000Z"
   },
   {
-    "id": "21987e8ae9d6fe2d",
-    "slug": "uruguay-small-country-big-fintech-ambitions",
-    "title": "Uruguay: Small Country, Big Fintech Ambitions",
+    "id": "a2614c9689661937",
+    "slug": "vct-pacific-stage-2-2026-week-8-opens-with-nongshim-redforce-facing-global-esports",
+    "title": "VCT Pacific Stage 2 2026 Week 8 opens with Nongshim RedForce facing Global Esports",
     "tags": [
-      "Uruguay"
+      "Nongshim RedForce",
+      "Global Esports",
+      "VCT Pacific"
     ],
-    "source": "The Fintech Times",
+    "source": "CryptoBriefing",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-09-07T12:00:39.000Z"
+    "pubDate": "2026-09-07T13:45:06.000Z"
   },
   {
-    "id": "d07f4c3782ca0480",
-    "slug": "ethereum-breakout-incoming-300m-in-eth-leaves-exchanges-as-analyst-eyes-next-big-target",
-    "title": "Ethereum Breakout Incoming? $300M in ETH Leaves Exchanges as Analyst Eyes Next Big Target",
+    "id": "286edaa31d03cdba",
+    "slug": "uae-vows-energy-exports-won-t-be-held-hostage-by-iran-war",
+    "title": "UAE vows energy exports won’t be held hostage by Iran war",
     "tags": [
-      "Ethereum"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:59:23.000Z"
-  },
-  {
-    "id": "8a98b8f41b8f1d88",
-    "slug": "protests-erupt-in-iran-amid-deepening-economic-crisis",
-    "title": "Protests erupt in Iran amid deepening economic crisis",
-    "tags": [
+      "UAE",
       "Iran"
     ],
     "source": "CryptoBriefing",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-09-07T11:57:14.000Z"
+    "pubDate": "2026-09-07T13:44:50.000Z"
   },
   {
-    "id": "9713e186e46de42f",
-    "slug": "ethereum-s-vitalik-buterin-puts-60-odds-on-a-cryptography-breakthrough-that-could-weaken-wall",
-    "title": "Ethereum’s Vitalik Buterin puts 60% odds on a cryptography breakthrough that could weaken Wall Street middlemen",
+    "id": "b6c9485d5ee58237",
+    "title": "PayTabs to acquire Amazon Payments Mena operations",
+    "summary": "Amazon has agreed a $100 million deal to transfer its Middle East and North Africa payments operations to Saudi Arabia's PayTabs.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/newsarticle/48356/paytabs-to-acquire-amazon-payments-mena-operations?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
     "tags": [
-      "Ethereum",
-      "Vitalik Buterin",
-      "Wall Street"
+      "PayTabs",
+      "Amazon",
+      "Saudi Arabia",
+      "Middle East",
+      "North Africa"
     ],
-    "source": "CryptoSlate",
     "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:55:13.000Z"
+    "pubDate": "2026-09-07T13:44:00.000Z",
+    "fetchedAt": "2026-09-07T15:01:24.588Z",
+    "isDuplicateOf": null,
+    "content": "PayTabs has agreed to a $100 million deal to acquire the Middle East and North Africa payments operations of Amazon. This strategic acquisition will transfer Amazon Payments Mena operations to Saudi Arabia-based PayTabs, significantly expanding its footprint and capabilities within the regional digital payments sector.",
+    "slug": "paytabs-to-acquire-amazon-payments-mena-operations"
   },
   {
-    "id": "65053a143fa76182",
-    "slug": "iran-war-drives-100-billion-in-extra-energy-costs-for-u-s-consumers",
-    "title": "Iran war drives $100 billion in extra energy costs for U.S. consumers",
+    "id": "4d75df17c27a72a4",
+    "slug": "openbmb-s-minicpm5-2b-tops-open-models-under-4b-parameters-on-artificial-analysis-index-v4-2",
+    "title": "OpenBMB’s MiniCPM5-2B tops open models under 4B parameters on Artificial Analysis Index v4.2",
     "tags": [
-      "Iran",
-      "United States"
+      "OpenBMB"
     ],
     "source": "CryptoBriefing",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-09-07T11:47:05.000Z"
+    "pubDate": "2026-09-07T13:42:38.000Z"
   },
   {
-    "id": "fddd541c41f82623",
-    "slug": "ubs-calls-for-ai-literacy-from-new-recruits",
-    "title": "UBS calls for AI literacy from new recruits",
+    "id": "ef709feb884234cc",
+    "slug": "bitcoin-holds-near-80-000-despite-renewed-fed-rate-hike-fears-as-cpi-test-looms",
+    "title": "Bitcoin holds near $80,000 despite renewed Fed rate hike fears as CPI test looms",
     "tags": [
-      "UBS",
-      "Switzerland"
+      "Bitcoin",
+      "Federal Reserve",
+      "United States"
     ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T13:41:02.000Z"
+  },
+  {
+    "id": "a1b31e304fce2c78",
+    "slug": "kucoin-launches-kcusd-with-up-to-4-base-apr-on-stablecoins",
+    "title": "KuCoin launches KCUSD with up to 4% base APR on Stablecoins",
+    "tags": [
+      "KuCoin",
+      "KCUSD"
+    ],
+    "source": "CoinJournal",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T13:36:04.000Z"
+  },
+  {
+    "id": "cf0d3df4a919d004",
+    "slug": "mcdonald-s-india-intern-says-memecoins-left-them-starving",
+    "title": "McDonald’s India ‘intern’ says memecoins left them starving",
+    "tags": [
+      "McDonald's",
+      "India"
+    ],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T13:31:15.000Z"
+  },
+  {
+    "id": "ad9dc3a979754872",
+    "slug": "bitcoin-s-90-day-correlation-with-gold-hits-nine-year-high",
+    "title": "Bitcoin’s 90-day correlation with gold hits nine-year high",
+    "tags": [
+      "Bitcoin",
+      "United States"
+    ],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T13:30:04.000Z"
+  },
+  {
+    "id": "989d7a7a751cf95d",
+    "slug": "ethereum-may-have-a-simpler-way-to-ease-the-computing-burden-of-its-growing-rollup-ecosystem",
+    "title": "Ethereum may have a simpler way to ease the computing burden of its growing rollup ecosystem",
+    "tags": [
+      "Ethereum"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T13:30:00.000Z"
+  },
+  {
+    "id": "c89b555d0debb85c",
+    "slug": "trump-crypto-news-btc-81-000-rejection-puts-september-fed-meeting-in-focus",
+    "title": "Trump Crypto News: BTC $81,000 Rejection Puts September Fed Meeting in Focus",
+    "tags": [
+      "Bitcoin",
+      "Federal Reserve"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T13:27:09.000Z"
+  },
+  {
+    "id": "e1750fd6d4a9b7c0",
+    "slug": "white-house-crypto-advisor-witt-confident-clarity-act-skeptics-will-be-proven-wrong",
+    "title": "White House crypto advisor Witt confident Clarity Act skeptics will be proven wrong",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-09-07T13:27:03.000Z"
+  },
+  {
+    "id": "2f1eb82e85b53609",
+    "slug": "us-labs-benefit-from-chinese-ai-advancements-in-reinforcement-learning",
+    "title": "US labs benefit from Chinese AI advancements in reinforcement learning",
+    "tags": [
+      "United States",
+      "China"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T13:25:24.000Z"
+  },
+  {
+    "id": "ed34d7b5593f1e09",
+    "slug": "japan-plans-60b-investment-in-data-centers-as-it-races-to-become-global-ai-infrastructure-leader",
+    "title": "Japan plans $60B investment in data centers as it races to become global AI infrastructure leader",
+    "tags": [
+      "Japan"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T13:23:46.000Z"
+  },
+  {
+    "id": "a457308e5e4e11a2",
+    "title": "Can AI write better PR? Hyundai Card puts it to the test",
+    "summary": "South Korea's Hyundai Card has put its media communications team under the AI micrososcope, running head-to-tests to determine the differences between human and AI-generated content.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/newsarticle/48355/can-ai-write-better-pr-hyundai-card-puts-it-to-the-test?utm_medium=rssfinextra&utm_source=finextrafeed",
     "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:47:00.000Z"
-  },
-  {
-    "id": "623bf01e5b09d780",
-    "slug": "embedded-payments-offer-strategic-value-but-uk-businesses-face-a-fragmented-reality",
-    "title": "Embedded Payments Offer Strategic Value, but UK Businesses Face a Fragmented Reality",
     "tags": [
-      "Edenred Payment Solutions",
-      "United Kingdom"
+      "Hyundai Card",
+      "South Korea"
     ],
-    "source": "Financial IT",
     "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:45:59.000Z"
+    "pubDate": "2026-09-07T13:22:00.000Z",
+    "fetchedAt": "2026-09-07T15:01:24.588Z",
+    "isDuplicateOf": null,
+    "content": "South Korea's Hyundai Card is testing the capabilities of artificial intelligence by pitting its media communications team against AI-generated content. The head-to-head tests aim to determine the practical differences and effectiveness of press releases written by humans compared to those produced by machines.",
+    "slug": "can-ai-write-better-pr-hyundai-card-puts-it-to-the-test"
   },
   {
-    "id": "310f5137bdf97a58",
-    "slug": "openai-s-astra-model-launch-boosts-semiconductor-sector-recovery",
-    "title": "OpenAI’s Astra model launch boosts semiconductor sector recovery",
+    "id": "5327f0d542ce58e2",
+    "slug": "is-the-bitcoin-bottom-in-2-analysts-say-yes-from-separate-charts",
+    "title": "Is the Bitcoin Bottom In? 2 Analysts Say Yes From Separate Charts",
+    "tags": [
+      "Bitcoin",
+      "BeInCrypto"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T13:21:08.000Z"
+  },
+  {
+    "id": "2980880c6d445889",
+    "title": "Socure and Aeropay Reduce Onboarding Friction to Only a Phone Number and Two Clicks",
+    "summary": "Socure today announced an integration with Aeropay that enables consumers to verify their identity and connect a bank account with just a phone number and two clicks. The integration combines Socure’s identity verification technology with Aeropay’s bank-linking capabilities to create a faster, more streamlined onboarding experience. For one joint customer using both solutions, the integration increased approved-customer conversion by 50%+.\nOnce Socure verifies a customer’s identity with merely their phone number, Aeropay’s Aerosync technology uses that verified identity to prefill and confirm the linked bank account. The customer moves straight into payment facilitation, or into cash flow underwriting based on aggregated bank transactions, without typing account details or any additional personal information.\nThat sequence, identity first via a phone number and bank connection derived from it, is what makes this integration a first-of-its-kind. Open banking has been used to support identity verification before; Socure and Aeropay invert it, using the verified identity to establish the bank connection, and run both inside one decisioning platform rather than two stitched-together vendors.\nThe gap between those systems is also where fraud lives. As AI drives down the cost of running sophisticated attacks for fraudsters, organizations on non-integrated legacy stacks are absorbing ACH returns, account takeover, first-party fraud and stolen bank credentials. These losses occur precisely because the system that verifies the person cannot see the system that moves the money. Socure and Aeropay close that gap: Aerosync handles bank verification using Socure’s identity signals, and Aeropay’s AI risk models use a decade of intelligence to screen each transaction before settlement.\n“Every customer that I talk to about onboarding and ongoing authentication is struggling with the same challenge: how do they increase conversion rates while decreasing friction and simultaneously reducing fraud exposure,” said Johnny Ayers, Founder and CEO of Socure.\n“Our integration with Aeropay helps our customers achieve this objective by streamlining the entire onboarding experience to one data point and two clicks, while decreasing identity and payment fraud, and increasing authentication accuracy.”\nThis integration advances Socure’s vision for RiskOS as the operating system for fraud, risk, identity and compliance decisions across every business unit and use case. With Aeropay in the RiskOS network, businesses can apply risk controls across the full payment lifecycle through one integration rather than three.\n“Identity and payment risk can’t be treated as separate decisions,” said Dan Muller, Founder and CEO of Aeropay.\n“By bringing our bank account verification and transaction risk capabilities into Socure’s RiskOS platform, businesses get a more complete understanding of both the person and the payment behind every transaction.”\nNoYesInfrastructure07 Sep, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/infrastructure/socure-and-aeropay-reduce-onboarding-friction-only-phone-number-and-two-clicks",
+    "source": "Financial IT",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-09-07T13:17:30.000Z",
+    "fetchedAt": "2026-09-07T15:01:24.588Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "socure-and-aeropay-reduce-onboarding-friction-to-only-a-phone-number-and-two-clicks"
+  },
+  {
+    "id": "abceb07fa14294da",
+    "slug": "openai-plans-to-unveil-managed-agents-at-devday-2026",
+    "title": "OpenAI plans to unveil Managed Agents at DevDay 2026",
     "tags": [
       "OpenAI"
     ],
     "source": "CryptoBriefing",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-09-07T11:42:57.000Z"
+    "pubDate": "2026-09-07T13:16:01.000Z"
   },
   {
-    "id": "1525729dd99cad0c",
-    "slug": "viva-com-connects-directly-to-multibanco-portugal-s-payment-network",
-    "title": "Viva.com Connects Directly to Multibanco, Portugal’s Payment Network",
+    "id": "c5a237e299b74913",
+    "title": "Concryt deploys agentic AI to monitor live payment operations",
+    "summary": "Global payments technology company CONCRYT has deployed agentic AI across its live payment operations, moving the technology beyond a chatbot interface and into the day-to-day monitoring of its gateway.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/110820/concryt-deploys-agentic-ai-to-monitor-live-payment-operations?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
     "tags": [
-      "Viva.com",
-      "Multibanco",
-      "Portugal"
+      "Concryt"
     ],
+    "origin": "rss",
+    "pubDate": "2026-09-07T13:16:00.000Z",
+    "fetchedAt": "2026-09-07T15:01:24.588Z",
+    "isDuplicateOf": null,
+    "content": "Global payments technology company Concryt has deployed agentic artificial intelligence to monitor its live payment operations. This move shifts the technology away from a traditional chatbot interface, integrating it directly into the day-to-day oversight of the company's payment gateway to support live transaction processes.",
+    "slug": "concryt-deploys-agentic-ai-to-monitor-live-payment-operations"
+  },
+  {
+    "id": "987c26f3bd49c859",
+    "title": "DNA Payments links up with iwoca",
+    "summary": "DNA Payments, one of the UK’s largest independent payment companies, has expanded its merchant\r\nThrough this partnership, DNA Payments’ clients can now easily apply for an iwoca Flexi Loan of between £1,000 and £1 million, directly from their Merchant Portal and App.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/110819/dna-payments-links-up-with-iwoca?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "DNA Payments",
+      "iwoca",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-07T13:14:00.000Z",
+    "fetchedAt": "2026-09-07T15:01:24.588Z",
+    "isDuplicateOf": null,
+    "content": "DNA Payments has announced a partnership with iwoca to expand its merchant services. Through this collaboration, clients of DNA Payments can now directly apply for iwoca Flexi Loans ranging from £1,000 to £1 million. Eligible merchants can complete their loan applications conveniently through their dedicated Merchant Portal and App.",
+    "slug": "dna-payments-links-up-with-iwoca"
+  },
+  {
+    "id": "763b3f07f1c9fc14",
+    "slug": "bitcoin-traders-are-surprisingly-calm-ahead-of-cpi-and-the-fed-is-a-big-move-coming",
+    "title": "Bitcoin Traders Are Surprisingly Calm Ahead of CPI and the Fed: Is a Big Move Coming?",
+    "tags": [
+      "Bitcoin",
+      "Federal Reserve"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-07T13:13:33.000Z"
+  },
+  {
+    "id": "a93d78661e3ac96e",
+    "title": "QIB Introduces New Features to Its Mobile App to Enhance Customer Experience",
+    "summary": "Qatar Islamic Bank (QIB), Qatar’s leading digital bank, has announced the introduction of a new suite of features across the QIB Mobile App, reinforcing its commitment to continuously enhancing customers’ digital banking experience through practical, customer-centric innovation.\nThe latest enhancements are designed to provide customers with greater convenience, faster access to services, and more intuitive digital interactions, further strengthening QIB’s position as a leader in digital banking innovation in Qatar.\nAs part of the updates, QIB has introduced an Advanced Search feature within the QIB Mobile App, enabling customers to quickly locate services and functionalities using keywords or category names. The new capability significantly improves navigation within the app, allowing users to access the 320+ offered features more efficiently while saving time.\nThe Bank has further introduced a redesigned Credit Card Overview section, offering customers a clearer and more engaging way to explore the benefits and features associated with their QIB Credit Cards. The enhanced section provides cardholders with easier access to their card benefits and offers, helping them make the most of their cards locally and internationally.\nIn line with its customer-centric approach, QIB has introduced an in-app Customer Survey capability, enabling customers to conveniently share satisfaction ratings and feedback directly through the QIB Mobile App. The new feature supports the Bank’s ongoing efforts to gather customer insights, continuously improve digital services, and further enhance the overall banking experience.\nCommenting on the launch, Mr. D. Anand, QIB’s General Manager – Personal Banking Group, said: “At QIB, we remain focused on continuously enhancing our digital banking ecosystem through solutions that are practical, accessible, and aligned with our customers’ evolving expectations. These latest enhancements to the QIB Mobile App further simplify everyday banking, provide customers with greater convenience and control, and reinforce our commitment to delivering an easy and innovative digital banking experience.”\nQIB continues to advance its digital strategy by expanding the features of its award-winning Mobile App, which today offers more than 320 integrated features and services. The QIB Mobile App enables customers to conveniently manage accounts, cards, transfers, financing, and a wide range of banking services remotely through a secure, easy, and fully digital experience.\n \nNoYesBanking07 Sep, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/banking/qib-introduces-new-features-its-mobile-app-enhance-customer-experience",
     "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:42:30.000Z"
-  },
-  {
-    "id": "5bb1cdcfe8fa4910",
-    "slug": "bilibili-gaming-reaches-fifth-straight-lpl-final-boosting-2026-title-prospects",
-    "title": "Bilibili Gaming reaches fifth straight LPL final, boosting 2026 title prospects",
     "tags": [
-      "Bilibili Gaming",
-      "LPL"
+      "Qatar Islamic Bank",
+      "Qatar"
     ],
-    "source": "CryptoBriefing",
     "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:36:44.000Z"
+    "pubDate": "2026-09-07T13:13:30.000Z",
+    "fetchedAt": "2026-09-07T15:01:24.588Z",
+    "isDuplicateOf": null,
+    "content": "Qatar Islamic Bank has introduced new features to its mobile app to enhance customer experience. The updates include an advanced search function, a redesigned credit card overview section, and an in-app customer survey capability. These additions aim to provide greater convenience and more intuitive digital interactions for users managing their accounts remotely.",
+    "slug": "qib-introduces-new-features-to-its-mobile-app-to-enhance-customer-experience"
   },
   {
-    "id": "52174475ce2f9fdc",
-    "slug": "new-hyperliquid-wallet-opens-700k-deposit-6x-long-on-5m-pump-token",
-    "title": "New Hyperliquid wallet opens $700K deposit, 6x long on $5M PUMP token",
+    "id": "a759a9620da09ea9",
+    "title": "Xpate releases API-based tool for embedded money management",
+    "summary": "xpate, the all-in-one payments and banking hub, has launched xpate Pro, a new API-based capability that enables businesses to manage accounts, initiate transfers, and access financial reporting through their own systems, turning traditional banking operations into automated workflows embedded within their products or internal platforms.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/110818/xpate-releases-api-based-tool-for-embedded-money-management?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
     "tags": [
-      "Hyperliquid",
-      "PUMP"
+      "Xpate"
     ],
-    "source": "CryptoBriefing",
     "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:34:51.000Z"
+    "pubDate": "2026-09-07T13:12:00.000Z",
+    "fetchedAt": "2026-09-07T15:01:24.588Z",
+    "isDuplicateOf": null,
+    "content": "Payments and banking hub Xpate has launched a new API-based solution called Xpate Pro. The tool is designed to allow businesses to manage accounts, initiate financial transfers, and access reporting directly through their own systems. By turning traditional banking operations into automated workflows, the platform enables companies to seamlessly embed financial management into their internal platforms and products.",
+    "slug": "xpate-releases-api-based-tool-for-embedded-money-management"
   },
   {
-    "id": "f3ef6c2fb63d1c42",
-    "slug": "money20-20-middle-east-returns-to-riyadh-as-global-fintech-leaders-gather-to-shape-the-future-of",
-    "title": "Money20/20 Middle East Returns to Riyadh as Global Fintech Leaders Gather to Shape the Future of Finance",
-    "tags": [
-      "Saudi Arabia",
-      "Riyadh",
-      "Visa",
-      "Tamara",
-      "Citi",
-      "BlackRock",
-      "Deutsche Bank",
-      "Tabby"
-    ],
-    "source": "Financial IT",
+    "id": "1ffb17ff735b59a0",
+    "slug": "ethereum-price-holds-as-another-layer-1-moves-to-eth",
+    "title": "Ethereum Price Holds as Another Layer-1 Moves to ETH",
+    "tags": [],
+    "source": "CryptoNews",
     "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:30:44.000Z"
+    "hasContent": false,
+    "pubDate": "2026-09-07T13:09:44.000Z"
   },
   {
-    "id": "7809068b8a4e9b9a",
-    "slug": "bitcoin-shows-weaker-correlation-to-treasury-yields-than-gold-positioning-it-as-a-more-resilient",
-    "title": "Bitcoin shows weaker correlation to Treasury yields than gold, positioning it as a more resilient hard asset",
+    "id": "81a9e13ffcbbb233",
+    "slug": "crypto-theft-ringleader-malone-lam-set-to-appear-in-court-over-230-million-bitcoin-theft",
+    "title": "Crypto theft ringleader Malone Lam set to appear in court over $230 million Bitcoin theft",
     "tags": [
+      "Malone Lam",
       "Bitcoin"
     ],
     "source": "CryptoBriefing",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-09-07T11:30:06.000Z"
+    "pubDate": "2026-09-07T13:09:06.000Z"
   },
   {
-    "id": "4c58d222489f02a7",
-    "slug": "harmony-price-prediction-2026-2027-2030-one-token-outlook-and-future-targets",
-    "title": "Harmony Price Prediction 2026, 2027-2030: ONE Token Outlook and Future Targets",
+    "id": "c659c03e024aaac8",
+    "title": "Ramp Announces Strategic Collaboration Agreement with AWS to Provide AI-Enabled Finance Operations",
+    "summary": "Ramp today announced a strategic collaboration agreement (SCA) with Amazon Web Services (AWS) and its availability in AWS Marketplace. Together, these give AWS customers a faster path to modernize finance operations with Ramp's AI-powered platform, including corporate cards, expense management, bill payments, procurement, travel, banking, automated bookkeeping, and AI-powered controls.\n\"Enterprise finance teams are ready for AI to take manual work out of the back office, but they need a practical path to adoption,\" said Guy Cartwright, VP, Channel Sales at Ramp. \"This collaboration helps customers bring more automation and control into finance operations without adding friction for their procurement or IT teams.\"\nAI-enabled finance for the agentic era\nThe collaboration puts Ramp's AI agents to work inside that platform, coding expenses, enforcing policy, and processing invoices around the clock, so finance teams get continuous automation without losing oversight. Every action remains auditable, reversible, and bound by enforceable financial guardrails.\nTwo capabilities are particularly relevant for customers scaling AI workloads. Ramp Stack is an AI platform for accounting firms that encodes a firm's methodology into repeatable, agent-driven workflows, enabling faster closes with a complete audit trail. Ramp AI Token Spend Management gives finance and engineering \nNoYesArtificial Intelligence07 Sep, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/artificial-intelligence/ramp-announces-strategic-collaboration-agreement-aws-provide-ai-enabled",
+    "source": "Financial IT",
     "tags": [
-      "Harmony",
-      "ONE"
+      "Ramp",
+      "Amazon Web Services"
     ],
-    "source": "Coinpedia",
     "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:28:42.000Z"
+    "pubDate": "2026-09-07T13:07:11.000Z",
+    "fetchedAt": "2026-09-07T15:01:24.588Z",
+    "isDuplicateOf": null,
+    "content": "Ramp has announced a strategic collaboration agreement with Amazon Web Services and its availability in the AWS Marketplace. The partnership aims to help customers modernize their finance operations using Ramp's AI-powered platform and autonomous agents. The integration supports automated expense coding, policy enforcement, and invoice processing while maintaining strict financial guardrails and auditable workflows.",
+    "slug": "ramp-announces-strategic-collaboration-agreement-with-aws-to-provide-ai-enabled-finance-operations"
   },
   {
-    "id": "2c2b085b79f7ea0b",
-    "slug": "philippines-proposes-12-month-freeze-on-new-payment-operators-tightens-crypto-rules",
-    "title": "Philippines proposes 12-month freeze on new payment operators, tightens crypto rules",
-    "tags": [
-      "Philippines"
-    ],
-    "source": "CryptoBriefing",
+    "id": "1e73d4f288d49d0e",
+    "slug": "tokens-created-out-of-thin-air-may-explain-how-320-million-in-bitcoin-left-the-liquid-sidechain",
+    "title": "Tokens created out of thin air may explain how $320 million in Bitcoin left the Liquid sidechain",
+    "tags": [],
+    "source": "CryptoSlate",
     "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:28:36.000Z"
+    "hasContent": false,
+    "pubDate": "2026-09-07T13:05:17.000Z"
   },
   {
-    "id": "e33d6c4b3312c1c1",
-    "slug": "ripple-returns-to-korea-as-major-xrp-company-awaits-nasdaq-listing",
-    "title": "Ripple Returns to Korea as Major XRP Company Awaits Nasdaq Listing",
+    "id": "760a3ea06c018223",
+    "slug": "xrp-whales-hold-1-40-as-lummis-warns-no-clarity-now-means-2030-main-crypto-news-this-morning",
+    "title": "XRP Whales Hold $1.40 as Lummis Warns: 'No CLARITY Now Means 2030' - Main Crypto News This Morning",
     "tags": [
-      "Ripple",
       "XRP",
-      "Nasdaq",
-      "South Korea"
+      "Cynthia Lummis"
     ],
-    "source": "CryptoNews",
+    "source": "U.Today",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-09-07T11:28:32.000Z"
+    "pubDate": "2026-09-07T13:01:45.000Z"
   },
   {
-    "id": "6b461591e07ec31b",
-    "slug": "genlayer-labs-introduces-ai-court-system-with-up-to-1-000-validators-to-settle-disputes-in-minutes",
-    "title": "GenLayer Labs introduces AI court system with up to 1,000 validators to settle disputes in minutes",
+    "id": "07a726c1f12015db",
+    "slug": "spacex-rival-claims-10-billion-pipeline-after-first-orbit-how-will-stock-react",
+    "title": "SpaceX Rival Claims €10 Billion Pipeline After First Orbit. How Will Stock React?",
     "tags": [
-      "GenLayer Labs"
+      "Isar Aerospace",
+      "SpaceX"
     ],
-    "source": "CryptoBriefing",
+    "source": "BeInCrypto",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-09-07T11:28:20.000Z"
+    "pubDate": "2026-09-07T13:00:58.000Z"
   },
   {
-    "id": "ed4c8939c283406e",
-    "slug": "ineffable-intelligence-hires-six-cofounders-from-google-deepmind-instadeep-flying-fish",
-    "title": "Ineffable Intelligence hires six cofounders from Google DeepMind, InstaDeep, Flying Fish",
+    "id": "2f23443457a9fa74",
+    "title": "Ecommpay Joins PayControl as Direct Acquirer on Orchestration Layer",
+    "summary": "Ecommpay is now live as a payment connector within PayControl's enterprise orchestration platform, giving merchants direct acquiring across multiple regions.\nThe post Ecommpay Joins PayControl as Direct Acquirer on Orchestration Layer appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/ecommpay-joins-paycontrol-as-direct-acquirer-on-orchestration-layer/",
+    "source": "The Fintech Times",
     "tags": [
-      "Ineffable Intelligence",
-      "Google DeepMind",
-      "InstaDeep",
-      "Flying Fish"
+      "Ecommpay",
+      "PayControl"
     ],
-    "source": "CryptoBriefing",
     "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:26:05.000Z"
+    "pubDate": "2026-09-07T13:00:42.000Z",
+    "fetchedAt": "2026-09-07T15:01:24.588Z",
+    "isDuplicateOf": null,
+    "content": "Ecommpay has integrated with PayControl to serve as a direct acquirer on the enterprise payment orchestration platform. This integration allows merchants to access direct acquiring capabilities across multiple regions. The partnership strengthens PayControl's orchestration layer, providing businesses with enhanced connectivity for their payment operations.",
+    "slug": "ecommpay-joins-paycontrol-as-direct-acquirer-on-orchestration-layer"
   },
   {
-    "id": "7c3e4301c124fd7d",
-    "slug": "zcash-price-garrett-jin-adds-to-47m-losing-short-position",
-    "title": "Zcash Price: Garrett Jin Adds to $47M Losing Short Position",
+    "id": "2b4b88d780e18d20",
+    "slug": "dbs-citi-say-they-completed-first-weekend-usd-payment-between-singapore-and-us-via-tokenized",
+    "title": "DBS, Citi say they completed first weekend USD payment between Singapore and US via tokenized deposits",
     "tags": [
-      "Zcash",
-      "Hyperliquid"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:25:23.000Z"
-  },
-  {
-    "id": "2640f2f000294e6b",
-    "slug": "ukraine-strikes-oil-processing-plants-in-russia-s-perm-region-and-tatarstan",
-    "title": "Ukraine strikes oil-processing plants in Russia’s Perm region and Tatarstan",
-    "tags": [
-      "Ukraine",
-      "Russia",
-      "Perm",
-      "Tatarstan"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:24:02.000Z"
-  },
-  {
-    "id": "e6b07a5965505452",
-    "slug": "l-g-names-group-cto",
-    "title": "L&G names group CTO",
-    "tags": [
-      "Legal & General",
-      "Schroders",
-      "Jamie Ovenden"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:24:00.000Z"
-  },
-  {
-    "id": "237febb457835706",
-    "slug": "harmony-plans-to-shut-down-mainnet-after-7-years-move-one-to-ethereum",
-    "title": "Harmony Plans to Shut Down Mainnet After 7 Years, Move ONE to Ethereum",
-    "tags": [
-      "Harmony",
-      "Ethereum",
-      "ONE"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:19:47.000Z"
-  },
-  {
-    "id": "dd081b5bb9a75896",
-    "slug": "deutsche-bank-expands-use-of-synthetic-risk-transfers-for-ai-projects",
-    "title": "Deutsche Bank expands use of synthetic risk transfers for AI projects",
-    "tags": [
-      "Deutsche Bank"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:17:44.000Z"
-  },
-  {
-    "id": "e8c4e6a7a6f4bea5",
-    "slug": "us-payrolls-beat-forecasts-easing-recession-fears-but-complicating-fed-strategy",
-    "title": "US payrolls beat forecasts, easing recession fears but complicating Fed strategy",
-    "tags": [
-      "Federal Reserve",
+      "DBS",
+      "Citi",
+      "Singapore",
       "United States"
     ],
-    "source": "CryptoBriefing",
+    "source": "The Block",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-09-07T11:17:12.000Z"
+    "pubDate": "2026-09-07T13:00:40.000Z"
   },
   {
-    "id": "37b11781f1f663ea",
-    "slug": "fut-esports-tops-vct-emea-championship-points-table-secures-third-straight-champions-berth",
-    "title": "FUT Esports tops VCT EMEA Championship Points table, secures third straight Champions berth",
+    "id": "72c3546eff3d9f2b",
+    "slug": "solana-is-catching-memecoin-liquidity-can-sol-turn-it-into-a-bull-rally",
+    "title": "Solana is catching memecoin liquidity – Can SOL turn it into a bull rally?",
     "tags": [
-      "FUT Esports",
-      "VCT EMEA"
+      "Solana"
     ],
-    "source": "CryptoBriefing",
+    "source": "AMBCrypto",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-09-07T11:16:14.000Z"
+    "pubDate": "2026-09-07T13:00:08.000Z"
   },
   {
-    "id": "0501e758400a73eb",
-    "slug": "bitcoin-blinks-less-than-gold-when-treasury-yields-move",
-    "title": "Bitcoin blinks less than gold when Treasury yields move",
+    "id": "43a1aa49cc7f9511",
+    "slug": "united-arab-emirates-develops-alternative-energy-export-routes-amid-us-iran-tensions",
+    "title": "United Arab Emirates develops alternative energy export routes amid US-Iran tensions",
     "tags": [
-      "Bitcoin",
-      "United States"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:15:00.000Z"
-  },
-  {
-    "id": "a47a0c38ea065220",
-    "slug": "ai-surpassing-human-tasks-no-longer-seen-as-key-milestone-bloomberg",
-    "title": "AI surpassing human tasks no longer seen as key milestone: Bloomberg",
-    "tags": [
-      "Bloomberg"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:08:17.000Z"
-  },
-  {
-    "id": "12cfcc11c34d959f",
-    "slug": "terawulf-s-lake-mariner-data-center-fire-raises-safety-concerns",
-    "title": "TeraWulf’s Lake Mariner data center fire raises safety concerns",
-    "tags": [
-      "TeraWulf"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:06:50.000Z"
-  },
-  {
-    "id": "4d1c7eed38a06450",
-    "slug": "chair-warsh-contrasts-views-on-economic-policy-with-new-york-fed-s-williams",
-    "title": "Chair Warsh contrasts views on economic policy with New York Fed’s Williams",
-    "tags": [
-      "Federal Reserve",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:06:37.000Z"
-  },
-  {
-    "id": "01510f26b8c3c0f5",
-    "slug": "saudi-aramco-facility-hit-in-new-strikes-amid-regional-tensions",
-    "title": "Saudi Aramco facility hit in new strikes amid regional tensions",
-    "tags": [
-      "Saudi Aramco",
+      "United Arab Emirates",
+      "United States",
       "Iran"
     ],
     "source": "CryptoBriefing",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-09-07T11:04:43.000Z"
-  },
-  {
-    "id": "0e8e752d8e916265",
-    "slug": "quebec-s-french-only-election-materials-spark-legal-challenges-ahead-of-2026-vote",
-    "title": "Quebec’s French-only election materials spark legal challenges ahead of 2026 vote",
-    "tags": [
-      "Quebec"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:03:42.000Z"
-  },
-  {
-    "id": "39e3b70cdc9e3121",
-    "slug": "global-billionaire-wealth-reaches-15-1t-driven-by-ai-industry",
-    "title": "Global billionaire wealth reaches $15.1T, driven by AI industry",
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:02:05.000Z"
-  },
-  {
-    "id": "5c9bb3447b8d23c9",
-    "slug": "tao-goes-live-on-raydium-price-hits-3-month-high-what-s-next-for-bittensor",
-    "title": "TAO goes live on Raydium, price hits 3-month high: What’s next for Bittensor?",
-    "tags": [
-      "Bittensor",
-      "Raydium",
-      "TAO"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T11:00:18.000Z"
-  },
-  {
-    "id": "d21d0632a8786b68",
-    "slug": "shib-clears-key-japan-hurdle-as-massive-market-door-opens",
-    "title": "SHIB Clears Key Japan Hurdle as Massive Market Door Opens",
-    "tags": [
-      "Shiba Inu",
-      "Japan"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T10:57:40.000Z"
-  },
-  {
-    "id": "0d2d32e919e2bee9",
-    "slug": "sam-altman-says-the-idea-guy-is-finally-getting-the-last-laugh",
-    "title": "Sam Altman says the ‘idea guy’ is finally getting the last laugh",
-    "tags": [
-      "Sam Altman",
-      "OpenAI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T10:56:51.000Z"
-  },
-  {
-    "id": "3dab0d303ebceaff",
-    "slug": "monero-xmr-overtakes-chainlink-link-despite-15-surge",
-    "title": "Monero (XMR) Overtakes Chainlink (LINK) Despite 15% Surge",
-    "tags": [
-      "Monero",
-      "Chainlink"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T10:54:00.000Z"
-  },
-  {
-    "id": "e8266ca589cb8a6f",
-    "slug": "federal-reserve-bank-of-new-york-study-finds-dollar-reserve-decline-driven-by-handful-of-countries",
-    "title": "Federal Reserve Bank of New York study finds dollar reserve decline driven by handful of countries, not global trend",
-    "tags": [
-      "Federal Reserve Bank of New York"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T10:45:56.000Z"
-  },
-  {
-    "id": "9f8c5889fd4222b1",
-    "slug": "cz-s-kyrgyzstan-visit-highlights-why-state-backing-cannot-guarantee-a-stablecoin-exit",
-    "title": "CZ’s Kyrgyzstan visit highlights why state backing cannot guarantee a stablecoin exit",
-    "tags": [
-      "Kyrgyzstan",
-      "United Kingdom"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T10:45:22.000Z"
-  },
-  {
-    "id": "30cd1f16fe0583dc",
-    "slug": "uk-regulator-weighs-easing-financial-prediction-market-ban-times",
-    "title": "UK regulator weighs easing financial prediction market ban: Times",
-    "tags": [
-      "United Kingdom"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T10:42:58.000Z"
-  },
-  {
-    "id": "e9bdde5d99932e05",
-    "slug": "3-historical-reasons-cited-for-avoiding-anthropic-s-potentially-record-breaking-ipo",
-    "title": "3 historical reasons cited for avoiding Anthropic’s potentially record-breaking IPO",
-    "tags": [
-      "Anthropic",
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T10:39:11.000Z"
-  },
-  {
-    "id": "1654f2daa6c089c7",
-    "slug": "a-two-key-breach-could-hand-control-of-91-billion-in-usdt-to-hackers-report-finds",
-    "title": "A two-key breach could hand control of $91 billion in USDT to hackers, report finds",
-    "tags": [
-      "USDT"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T10:35:23.000Z"
+    "pubDate": "2026-09-07T12:57:52.000Z"
   }
 ]
