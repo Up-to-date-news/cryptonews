@@ -1,5 +1,383 @@
 [
   {
+    "id": "c2d8f8662333aad7",
+    "slug": "chainalysis-estimates-crypto-tax-non-compliance-may-exceed-90",
+    "title": "Chainalysis estimates crypto tax non-compliance may exceed 90%",
+    "tags": [
+      "Chainalysis"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T02:37:23.000Z"
+  },
+  {
+    "id": "3d74865354e52be1",
+    "slug": "china-s-state-backed-iron-ore-buyer-directs-mills-to-pause-rio-tinto-purchases",
+    "title": "China’s state-backed iron ore buyer directs mills to pause Rio Tinto purchases",
+    "tags": [
+      "China",
+      "Rio Tinto"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T02:35:27.000Z"
+  },
+  {
+    "id": "f5966a104dfe15f0",
+    "slug": "iran-plans-new-gulf-exclusion-zone-threatens-us-with-missiles",
+    "title": "Iran plans new Gulf exclusion zone, threatens US with missiles",
+    "tags": [
+      "Iran",
+      "United States",
+      "Persian Gulf"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T02:26:11.000Z"
+  },
+  {
+    "id": "ddd366d47b48dad4",
+    "slug": "samsung-sds-expands-partnerships-with-openai-anthropic-for-ai-transformation",
+    "title": "Samsung SDS expands partnerships with OpenAI, Anthropic for AI transformation",
+    "tags": [
+      "Samsung SDS",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T02:18:28.000Z"
+  },
+  {
+    "id": "65881ea53f962844",
+    "slug": "samsung-sk-hynix-lead-kospi-higher-as-wall-street-faces-tough-opening-after-labor-day",
+    "title": "Samsung, SK Hynix Lead Kospi Higher as Wall Street Faces Tough Opening After Labor Day",
+    "tags": [
+      "Samsung",
+      "SK Hynix",
+      "Kospi",
+      "Wall Street",
+      "Middle East"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T02:06:59.000Z"
+  },
+  {
+    "id": "f6537dc56554c048",
+    "slug": "vitol-ceo-warns-of-unsustainable-5-6m-bpd-gap-in-china-s-crude-imports",
+    "title": "Vitol CEO warns of unsustainable 5-6M bpd gap in China’s crude imports",
+    "tags": [
+      "Vitol",
+      "China"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T02:01:58.000Z"
+  },
+  {
+    "id": "64f11b1cdcf2b4ae",
+    "title": "Philippine SEC Approves GCash Operator Mynt’s Up To $1.6b IPO",
+    "summary": "The Philippine Securities and Exchange Commission (SEC) has approved an initial public offering (IPO) by Mynt Inc., operator of the GCash mobile wallet, that could raise up to 92.32 billion pesos ($1.6 billion), potentially making it one of the country’s largest-ever listings. The regulator approved... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/09/306547-philippine-sec-approves-gcash-operator-mynts-up-to-1-6b-ipo/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Philippine Securities and Exchange Commission",
+      "Mynt",
+      "GCash",
+      "Philippines"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-08T02:01:08.000Z",
+    "fetchedAt": "2026-09-08T02:41:09.737Z",
+    "isDuplicateOf": null,
+    "content": "The Philippine Securities and Exchange Commission has reportedly approved an initial public offering by Mynt Inc., the operator of the popular mobile wallet GCash. The potential listing could raise up to $1.6 billion, making it one of the largest public offerings in the country's history.",
+    "slug": "philippine-sec-approves-gcash-operator-mynt-s-up-to-1-6b-ipo"
+  },
+  {
+    "id": "bf74bf213f88c531",
+    "slug": "worldcoin-up-13-as-ai-coins-awaken-can-wld-stay-above-0-45",
+    "title": "Worldcoin up 13% as AI coins awaken – Can WLD stay above $0.45?",
+    "tags": [
+      "Worldcoin"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T02:00:24.000Z"
+  },
+  {
+    "id": "28056929daf7e863",
+    "slug": "the-cure-for-cancer-is-becoming-an-investable-opportunity-analyst-sees-600-million-for-tempus-ai",
+    "title": "The Cure for Cancer is Becoming an Investable Opportunity: Analyst Sees $600 Million for Tempus AI",
+    "tags": [
+      "Tempus AI",
+      "Moderna",
+      "Merck"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T01:49:14.000Z"
+  },
+  {
+    "id": "fa8419880b8650f8",
+    "slug": "china-imposes-anti-dumping-measures-on-japanese-semiconductor-chemicals",
+    "title": "China imposes anti-dumping measures on Japanese semiconductor chemicals",
+    "tags": [
+      "China",
+      "Japan"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T01:48:54.000Z"
+  },
+  {
+    "id": "c8ad937fc6389b61",
+    "slug": "nec-halts-quantum-computer-project-after-decades-of-research",
+    "title": "NEC halts quantum computer project after decades of research",
+    "tags": [
+      "NEC",
+      "Fujitsu",
+      "Japan"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T01:44:55.000Z"
+  },
+  {
+    "id": "06d8a30128789fb9",
+    "slug": "anthropic-walks-away-from-6b-decart-acquisition-talks",
+    "title": "Anthropic walks away from $6B Decart acquisition talks",
+    "tags": [
+      "Anthropic",
+      "Decart",
+      "Nvidia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T01:36:15.000Z"
+  },
+  {
+    "id": "b6773800f9324a15",
+    "slug": "goldman-sachs-says-oil-could-hit-120-as-trump-dismisses-diplomacy-with-iran",
+    "title": "Goldman Sachs Says Oil Could Hit $120 as Trump Dismisses Diplomacy with Iran",
+    "tags": [
+      "Goldman Sachs",
+      "Iran",
+      "United States"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T01:33:40.000Z"
+  },
+  {
+    "id": "011e4595d4d107c7",
+    "slug": "data-center-construction-in-america-hits-record-75b-pace-as-homes-and-offices-stall",
+    "title": "Data center construction in America hits record $75B pace as homes and offices stall",
+    "tags": [
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T01:18:04.000Z"
+  },
+  {
+    "id": "101c9e289c3db246",
+    "slug": "celestia-hits-4-month-high-can-tia-reclaim-0-48-despite-selling-pressure",
+    "title": "Celestia hits 4-month high – Can TIA reclaim $0.48 despite selling pressure?",
+    "tags": [
+      "Celestia"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T01:00:24.000Z"
+  },
+  {
+    "id": "14831f98146632cf",
+    "slug": "arm-s-ceo-warns-chip-shortage-hampers-ai-cancer-research",
+    "title": "Arm’s CEO warns chip shortage hampers AI cancer research",
+    "tags": [
+      "Arm"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T00:48:47.000Z"
+  },
+  {
+    "id": "5b34782121357fcf",
+    "slug": "japan-july-real-wages-rise-2-4-biggest-gain-since-2021",
+    "title": "Japan July real wages rise 2.4%, biggest gain since 2021",
+    "tags": [
+      "Japan"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T00:45:21.000Z"
+  },
+  {
+    "id": "3a6d02265008bc52",
+    "slug": "interactive-brokers-faces-potential-cash-shift-with-anthropic-ipo-in-october",
+    "title": "Interactive Brokers faces potential cash shift with Anthropic IPO in October",
+    "tags": [
+      "Interactive Brokers",
+      "Anthropic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T00:30:30.000Z"
+  },
+  {
+    "id": "411fccbd9e4ae3e4",
+    "slug": "bank-of-america-estimates-50b-rise-in-t-bill-interest-costs-from-fed-rate-hikes",
+    "title": "Bank of America estimates $50B rise in T-bill interest costs from Fed rate hikes",
+    "tags": [
+      "Bank of America",
+      "Federal Reserve"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T00:30:24.000Z"
+  },
+  {
+    "id": "71447956b98ac866",
+    "slug": "aave-governance-weighs-emergency-freeze-powers-for-active-exploits",
+    "title": "Aave Governance Weighs Emergency Freeze Powers For Active Exploits",
+    "tags": [
+      "Aave"
+    ],
+    "source": "Bitcoinist",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T00:30:00.000Z"
+  },
+  {
+    "id": "601574ad407ba714",
+    "title": "Reg CF: Investor Count Drops But Commitments Jump by 9% in August",
+    "summary": "The Reg CF securities exemption has had a choppy 2026 so far. The smallest exemption for issuers raising funds online, the numbers are off versus their peak but activity continues to generate funds for smaller, private firms in need of growth capital. Crowdfund Capital Advisors... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/09/307620-reg-cf-investor-count-drops-but-commitments-jump-by-9-in-august/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Crowdfund Capital Advisors"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-08T00:29:04.000Z",
+    "fetchedAt": "2026-09-08T02:41:09.737Z",
+    "isDuplicateOf": null,
+    "content": "The Reg CF securities exemption experienced a choppy 2026 as investor counts dropped, yet total commitments still managed to jump by 9% in August. As the smallest exemption for issuers raising funds online, current metrics remain off compared to previous peaks. Nonetheless, ongoing activity continues to generate vital growth capital for smaller private firms.",
+    "slug": "reg-cf-investor-count-drops-but-commitments-jump-by-9-in-august"
+  },
+  {
+    "id": "a38c317b4876fcae",
+    "slug": "tether-backed-crypto-exchange-freezes-withdrawals-after-7-million-leaves-custody",
+    "title": "Tether-backed crypto exchange freezes withdrawals after $7 million leaves custody",
+    "tags": [
+      "Tether"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T00:20:52.000Z"
+  },
+  {
+    "id": "2fcf748822b0ebae",
+    "slug": "iran-test-fired-hypersonic-missile-over-us-carrier-as-ukraine-ceasefire-ends-with-kyiv-attacks",
+    "title": "Iran test-fired hypersonic missile over US carrier as Ukraine ceasefire ends with Kyiv attacks",
+    "tags": [
+      "Iran",
+      "United States",
+      "Ukraine",
+      "Kyiv"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T00:19:20.000Z"
+  },
+  {
+    "id": "859cf1c5db0bde3c",
+    "slug": "china-s-north-and-northwest-already-hold-majority-of-computing-capacity-to-surpass-beijing-by-2028",
+    "title": "China’s north and northwest already hold majority of computing capacity, to surpass Beijing by 2028",
+    "tags": [
+      "China",
+      "Beijing"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T00:14:14.000Z"
+  },
+  {
+    "id": "01469551c3e7eede",
+    "slug": "tether-ceo-outlines-strategy-to-expand-dollar-network-buy-bitcoin-and-gold",
+    "title": "Tether CEO outlines strategy to expand dollar network, buy Bitcoin and gold",
+    "tags": [
+      "Tether",
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-08T00:08:09.000Z"
+  },
+  {
+    "id": "50fe0c004e2693b0",
+    "title": "Robinhood Chain’s Fee Fight Widens as Solana, Arbitrum, and BNB Chain Clash Over How Blockchains Should Make Money",
+    "summary": "A fight over Robinhood Chain’s fee design has moved past a two-person argument and now includes voices from Solana, Arbitrum, and BNB Chain. The issue is no longer only how much a single transfer costs. It is who should earn money from network activity, and... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/09/307282-robinhood-chains-fee-fight-widens-as-solana-arbitrum-and-bnb-chain-clash-over-how-blockchains-should-make-money/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Robinhood",
+      "Solana",
+      "Arbitrum",
+      "BNB Chain"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-08T00:05:52.000Z",
+    "fetchedAt": "2026-09-08T02:41:09.737Z",
+    "isDuplicateOf": null,
+    "content": "A dispute concerning the fee design for Robinhood Chain has expanded significantly. What began as a smaller disagreement now involves participants from Solana, Arbitrum, and BNB Chain. The central debate focuses on transaction costs and determining which entities should earn revenue from ongoing network activity, highlighting broader disagreements over economic models in blockchain infrastructure.",
+    "slug": "robinhood-chain-s-fee-fight-widens-as-solana-arbitrum-and-bnb-chain-clash-over-how-blockchains"
+  },
+  {
+    "id": "debf991c4b4641c9",
+    "title": "EQT To Acquire Majority Stake in McGill and Partners for $2 billion",
+    "summary": "Swedish private equity firm EQT has agreed to acquire a majority stake in specialty insurance and reinsurance broker McGill and Partners from Warburg Pincus for $2 billion, the companies said. The transaction will see Warburg Pincus sell its equity stake in full, while McGill and... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/09/306550-eqt-to-acquire-majority-stake-in-mcgill-and-partners-for-2-billion/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "EQT",
+      "McGill and Partners",
+      "Warburg Pincus"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-08T00:03:52.000Z",
+    "fetchedAt": "2026-09-08T02:41:09.737Z",
+    "isDuplicateOf": null,
+    "content": "Swedish private equity firm EQT has agreed to acquire a majority stake in specialty insurance and reinsurance broker McGill and Partners for $2 billion. The transaction involves Warburg Pincus selling its entire equity stake in the firm. The deal highlights ongoing consolidation and private equity investment within the specialized insurance sector.",
+    "slug": "eqt-to-acquire-majority-stake-in-mcgill-and-partners-for-2-billion"
+  },
+  {
     "id": "fd1e6378e1e5feb1",
     "slug": "solana-s-tokenized-equity-share-drops-from-71-to-30-as-memecoins-surge-on-rival-chains",
     "title": "Solana’s tokenized equity share drops from 71% to 30% as memecoins surge on rival chains",
@@ -13,20 +391,15 @@
   },
   {
     "id": "19d61ca685ae7045",
+    "slug": "2016-bitcoin-wallet-moves-1-260-btc-as-dozens-of-casascius-coins-are-redeemed",
     "title": "2016 Bitcoin Wallet Moves 1,260 BTC as Dozens of Casascius Coins Are Redeemed",
-    "summary": "A long-quiet Bitcoin address that first received coins in mid-2016 moved more than a thousand coins in a single transaction, while holders of early physical Bitcoin collectibles also began unlocking a cluster of coins after years of inactivity. The sending wallet used the older P2PKH... Read More",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/09/307294-2016-bitcoin-wallet-moves-1260-btc-as-dozens-of-casascius-coins-are-redeemed/",
-    "source": "Crowdfund Insider",
     "tags": [
       "Bitcoin"
     ],
+    "source": "Crowdfund Insider",
     "origin": "rss",
-    "pubDate": "2026-09-07T22:35:20.000Z",
-    "fetchedAt": "2026-09-07T22:38:44.527Z",
-    "isDuplicateOf": null,
-    "content": "An inactive Bitcoin wallet holding coins from mid-2016 recently transferred over one thousand BTC in a single transaction. Alongside this movement, holders of early physical Casascius coins began redeeming and unlocking a cluster of digital assets after years of inactivity. The wallet utilized an older transaction format to complete the transfer, drawing attention to dormant early-era cryptocurrency holdings.",
-    "slug": "2016-bitcoin-wallet-moves-1-260-btc-as-dozens-of-casascius-coins-are-redeemed"
+    "hasContent": true,
+    "pubDate": "2026-09-07T22:35:20.000Z"
   },
   {
     "id": "3e1ad766edd304b4",
@@ -125,41 +498,31 @@
   },
   {
     "id": "d3422624af70f1b0",
+    "slug": "uk-government-to-ban-trade-with-israeli-settlements-on-tuesday",
     "title": "UK government to ban trade with Israeli settlements on Tuesday",
-    "summary": "The UK's ban on trade with Israeli settlements may influence other nations to adopt similar policies, impacting international trade dynamics.\nThe post UK government to ban trade with Israeli settlements on Tuesday appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/uk-bans-trade-israeli-settlements/",
-    "source": "CryptoBriefing",
     "tags": [
       "United Kingdom",
       "Israel"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-07T21:42:56.000Z",
-    "fetchedAt": "2026-09-07T22:38:44.527Z",
-    "isDuplicateOf": null,
-    "content": "The UK government is reportedly set to implement a ban on trade with Israeli settlements. This policy shift could influence international trade dynamics, potentially encouraging other nations to adopt similar measures in the future. The announcement highlights ongoing discussions surrounding international trade and regional policies.",
-    "slug": "uk-government-to-ban-trade-with-israeli-settlements-on-tuesday"
+    "hasContent": true,
+    "pubDate": "2026-09-07T21:42:56.000Z"
   },
   {
     "id": "4d75e29d05dd3c89",
+    "slug": "kamino-launches-zec-backed-borrowing-on-solana-letting-users-borrow-usdc-against-zcash",
     "title": "Kamino launches ZEC-backed borrowing on Solana, letting users borrow USDC against Zcash",
-    "summary": "Kamino's ZEC-backed borrowing on Solana could enhance DeFi's appeal by integrating privacy-focused assets, potentially reshaping market dynamics.\nThe post Kamino launches ZEC-backed borrowing on Solana, letting users borrow USDC against Zcash appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/kamino-zec-backed-borrowing-solana-usdc/",
-    "source": "CryptoBriefing",
     "tags": [
       "Kamino",
       "Solana",
       "Zcash",
       "USDC"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-07T21:25:09.000Z",
-    "fetchedAt": "2026-09-07T22:38:44.527Z",
-    "isDuplicateOf": null,
-    "content": "Kamino has launched ZEC-backed borrowing on the Solana blockchain. This new feature allows users to use Zcash as collateral to borrow USDC. The integration brings privacy-focused digital assets into Solana's decentralized finance ecosystem, potentially reshaping market dynamics and increasing appeal for users seeking flexible borrowing options.",
-    "slug": "kamino-launches-zec-backed-borrowing-on-solana-letting-users-borrow-usdc-against-zcash"
+    "hasContent": true,
+    "pubDate": "2026-09-07T21:25:09.000Z"
   },
   {
     "id": "8058407ba6d4d8d7",
@@ -188,77 +551,57 @@
   },
   {
     "id": "6322de73f09dbb7f",
+    "slug": "elche-levels-match-2-2-against-real-sociedad-with-fer-nino-s-late-equalizer",
     "title": "Elche levels match 2-2 against Real Sociedad with Fer Niño’s late equalizer",
-    "summary": "Elche's comeback highlights resilience, but their struggle for wins persists; Real Sociedad's missed opportunity underscores defensive fragility.\nThe post Elche levels match 2-2 against Real Sociedad with Fer Niño’s late equalizer appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/elche-real-sociedad-2-2-draw-nino/",
-    "source": "CryptoBriefing",
     "tags": [
       "Elche",
       "Real Sociedad",
       "Fer Niño"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-07T21:13:34.000Z",
-    "fetchedAt": "2026-09-07T22:38:44.527Z",
-    "isDuplicateOf": null,
-    "content": "Elche secured a 2-2 draw against Real Sociedad thanks to a late equalizer scored by Fer Niño. The dramatic comeback highlights Elche's ongoing resilience, though their struggles to secure wins continue. Meanwhile, Real Sociedad missed a valuable opportunity to claim victory, exposing lingering defensive vulnerabilities as the match ended in a stalemate.",
-    "slug": "elche-levels-match-2-2-against-real-sociedad-with-fer-nino-s-late-equalizer"
+    "hasContent": true,
+    "pubDate": "2026-09-07T21:13:34.000Z"
   },
   {
     "id": "56d8b5427eeec13f",
+    "slug": "mexican-national-admits-to-laundering-4-000-000-worth-of-us-drug-trafficking-proceeds-via-crypto",
     "title": "Mexican National Admits to Laundering $4,000,000 Worth of US Drug Trafficking Proceeds via Crypto",
-    "summary": "A Mexican national could spend up to two decades in prison after pleading guilty to laundering $4 million worth of drug trafficking proceeds via crypto. The U.S. Department of Justice (DOJ) says Carlos Erick Vazquez Gonzalez, 48, earned $40,000 by working with various “money brokers” who had him collect drug profits earned in cities throughout […]\nThe post Mexican National Admits to Laundering $4,000,000 Worth of US Drug Trafficking Proceeds via Crypto appeared first on The Daily Hodl.",
-    "hasSummary": true,
-    "link": "https://dailyhodl.com/2026/09/07/mexican-national-admits-to-laundering-4000000-worth-of-us-drug-trafficking-proceeds-via-crypto/",
-    "source": "The Daily Hodl",
     "tags": [
       "United States",
       "Mexico",
       "United States Department of Justice"
     ],
+    "source": "The Daily Hodl",
     "origin": "rss",
-    "pubDate": "2026-09-07T21:11:05.000Z",
-    "fetchedAt": "2026-09-07T22:38:44.527Z",
-    "isDuplicateOf": null,
-    "content": "A Mexican national has pleaded guilty to laundering $4 million in drug trafficking proceeds using cryptocurrency. According to the U.S. Department of Justice, the individual earned $40,000 by working with money brokers to collect drug profits from various cities. The defendant now faces up to twenty years in prison for his role in the international money laundering scheme.",
-    "slug": "mexican-national-admits-to-laundering-4-000-000-worth-of-us-drug-trafficking-proceeds-via-crypto"
+    "hasContent": true,
+    "pubDate": "2026-09-07T21:11:05.000Z"
   },
   {
     "id": "434b5f80e4532078",
+    "slug": "yemen-fighting-escalates-at-bab-al-mandeb-strait-impacting-us-iran-talks",
     "title": "Yemen fighting escalates at Bab al-Mandeb Strait, impacting US-Iran talks",
-    "summary": "The escalation at Bab al-Mandeb Strait heightens regional instability, complicating US-Iran diplomacy and impacting maritime security.\nThe post Yemen fighting escalates at Bab al-Mandeb Strait, impacting US-Iran talks appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/yemen-fighting-escalates-at-bab-al-mandeb-strait-impacting-us-iran-talks/",
-    "source": "CryptoBriefing",
     "tags": [
       "Yemen",
       "United States",
       "Iran"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-07T21:09:07.000Z",
-    "fetchedAt": "2026-09-07T22:38:44.527Z",
-    "isDuplicateOf": null,
-    "content": "Fighting has escalated significantly at the strategic Bab al-Mandeb Strait in Yemen, raising regional instability concerns. This flare-up threatens crucial maritime security in the area and complicates ongoing diplomatic talks between the United States and Iran, casting a shadow over international efforts to ease tensions in the Middle East.",
-    "slug": "yemen-fighting-escalates-at-bab-al-mandeb-strait-impacting-us-iran-talks"
+    "hasContent": true,
+    "pubDate": "2026-09-07T21:09:07.000Z"
   },
   {
     "id": "dbe1ebbf89755160",
+    "slug": "millennium-management-doubles-assets-to-97b-as-izzy-englander-bets-on-further-growth",
     "title": "Millennium Management doubles assets to $97B as Izzy Englander bets on further growth",
-    "summary": "Millennium's growth and innovative structure highlight the evolving landscape of asset management, emphasizing diversification and succession planning.\nThe post Millennium Management doubles assets to $97B as Izzy Englander bets on further growth appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/millennium-management-doubles-assets-97-billion/",
-    "source": "CryptoBriefing",
     "tags": [
       "Millennium Management"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-07T21:08:43.000Z",
-    "fetchedAt": "2026-09-07T22:38:44.527Z",
-    "isDuplicateOf": null,
-    "content": "Millennium Management has reportedly doubled its assets to $97 billion. Led by Izzy Englander, the firm is positioning itself for continued expansion. This growth reflects changing trends in asset management, with a strong focus on strategic diversification and long-term succession planning as the firm scales its operations.",
-    "slug": "millennium-management-doubles-assets-to-97b-as-izzy-englander-bets-on-further-growth"
+    "hasContent": true,
+    "pubDate": "2026-09-07T21:08:43.000Z"
   },
   {
     "id": "b41b739f3222a371",
@@ -462,368 +805,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-07T20:00:00.000Z"
-  },
-  {
-    "id": "283119aa37bcf60b",
-    "slug": "mastercard-and-flowcart-team-to-promote-social-commerce-in-africa",
-    "title": "Mastercard and Flowcart Team to Promote Social Commerce in Africa",
-    "tags": [
-      "Mastercard",
-      "Flowcart",
-      "Kenya",
-      "Africa"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T19:57:06.000Z"
-  },
-  {
-    "id": "7add3e37583b6581",
-    "slug": "bhutan-transfers-400-btc-to-unlabelled-address-leaving-sovereign-holdings-at-518-btc",
-    "title": "Bhutan transfers 400 BTC to unlabelled address, leaving sovereign holdings at 518 BTC",
-    "tags": [
-      "Bhutan",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T19:52:14.000Z"
-  },
-  {
-    "id": "b2edc9ddc0197e8a",
-    "slug": "real-sociedad-beats-elche-3-1-as-job-ochieng-makes-la-liga-debut",
-    "title": "Real Sociedad beats Elche 3-1 as Job Ochieng makes La Liga debut",
-    "tags": [
-      "Real Sociedad",
-      "Elche",
-      "Job Ochieng",
-      "La Liga"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T19:47:59.000Z"
-  },
-  {
-    "id": "75fb437685ade16b",
-    "slug": "nvidia-ceo-jensen-huang-invited-to-king-charles-ai-meeting-as-uk-courts-big-tech-billions",
-    "title": "Nvidia CEO Jensen Huang invited to King Charles’ AI meeting as UK courts Big Tech billions",
-    "tags": [
-      "Nvidia",
-      "Jensen Huang",
-      "King Charles",
-      "United Kingdom"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T19:47:49.000Z"
-  },
-  {
-    "id": "3e385d879b0e88e6",
-    "slug": "will-the-crypto-trenches-show-up-for-hunter-biden-s-meme-coin",
-    "title": "Will the Crypto Trenches Show Up for Hunter Biden's Meme Coin?",
-    "tags": [
-      "Hunter Biden"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T19:47:27.000Z"
-  },
-  {
-    "id": "3e55586d69af300b",
-    "slug": "jpmorgan-chase-considering-launch-of-new-stablecoin-as-rival-big-banks-build-dollar-pegged-token",
-    "title": "JPMorgan Chase Considering Launch of New Stablecoin As Rival Big Banks Build Dollar-Pegged Token: Report",
-    "tags": [
-      "JPMorgan Chase",
-      "Bank of America",
-      "Wells Fargo",
-      "Citigroup"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T19:38:49.000Z"
-  },
-  {
-    "id": "881a4e4cba9f2062",
-    "slug": "first-bitcoin-rico-case-charges-18-defendants-over-263m-crypto-heist",
-    "title": "First Bitcoin RICO case charges 18 defendants over $263M crypto heist",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T19:36:49.000Z"
-  },
-  {
-    "id": "fed20308e824211e",
-    "slug": "andreessen-horowitz-s-ai-bets-yield-over-8b-in-value",
-    "title": "Andreessen Horowitz’s AI bets yield over $8B in value",
-    "tags": [
-      "Andreessen Horowitz"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T19:35:15.000Z"
-  },
-  {
-    "id": "51cd47c492777cd3",
-    "slug": "securitize-expands-blackrock-buidl-collateral-use-across-prime-brokers",
-    "title": "Securitize Expands BlackRock BUIDL Collateral Use Across Prime Brokers",
-    "tags": [
-      "Securitize",
-      "BlackRock",
-      "BUIDL"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T19:15:00.000Z"
-  },
-  {
-    "id": "d0634b6f692d6216",
-    "slug": "near-crypto-approaches-2-55-will-profit-taking-stop-the-breakout",
-    "title": "NEAR crypto approaches $2.55 – Will profit-taking stop the breakout?",
-    "tags": [
-      "NEAR"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T19:00:46.000Z"
-  },
-  {
-    "id": "ba55420486c209c4",
-    "slug": "solana-beats-bitcoin-on-one-key-metric-but-a-single-software-bug-could-still-take-down-the-network",
-    "title": "Solana beats Bitcoin on one key metric, but a single software bug could still take down the network",
-    "tags": [
-      "Solana",
-      "Bitcoin",
-      "CryptoSlate"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T19:00:42.000Z"
-  },
-  {
-    "id": "2e72f32903239201",
-    "slug": "leon-goretzka-sidelined-with-knee-injury-until-october",
-    "title": "Leon Goretzka sidelined with knee injury until October",
-    "tags": [
-      "Leon Goretzka"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T19:00:41.000Z"
-  },
-  {
-    "id": "b2bfe5b153ccbd4c",
-    "slug": "charlotte-nimmo-on-why-prediction-markets-disagree-on-price",
-    "title": "Charlotte Nimmo on Why Prediction Markets Disagree on Price",
-    "tags": [
-      "Charlotte Nimmo",
-      "iPredicta",
-      "Kalshi",
-      "Polymarket",
-      "The Fintech Times"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T19:00:22.000Z"
-  },
-  {
-    "id": "3595c987b1344064",
-    "slug": "russia-closes-german-consulate-in-saint-petersburg-amid-rising-tensions",
-    "title": "Russia closes German consulate in Saint Petersburg amid rising tensions",
-    "tags": [
-      "Russia",
-      "Germany",
-      "Saint Petersburg",
-      "Ukraine"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T18:55:19.000Z"
-  },
-  {
-    "id": "db4d2d9b6bfe4dd5",
-    "slug": "solana-labs-co-founder-toly-highlights-irs-tax-changes-over-network-tweaks",
-    "title": "Solana Labs co-founder Toly highlights IRS tax changes over network tweaks",
-    "tags": [
-      "Solana Labs",
-      "Internal Revenue Service",
-      "Solana"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T18:55:18.000Z"
-  },
-  {
-    "id": "dd5c94f5f8f40ada",
-    "slug": "trump-touts-intel-s-stock-surge-from-20-to-95-amid-government-stake",
-    "title": "Trump touts Intel’s stock surge from $20 to $95 amid government stake",
-    "tags": [
-      "Donald Trump",
-      "Intel",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T18:53:23.000Z"
-  },
-  {
-    "id": "d612d1333a2a8005",
-    "slug": "mstr-stock-price-rebounds-60-can-it-really-reach-435",
-    "title": "MSTR stock price rebounds 60%—Can it really reach $435?",
-    "tags": [
-      "MicroStrategy"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T18:50:00.000Z"
-  },
-  {
-    "id": "600f7be8f6757782",
-    "slug": "us-new-home-listings-rise-2-to-highest-level-since-august-2022",
-    "title": "US new home listings rise 2% to highest level since August 2022",
-    "tags": [
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T18:42:24.000Z"
-  },
-  {
-    "id": "7ee1aefa6d302a5a",
-    "slug": "kraken-files-for-cftc-regulated-u-s-perpetual-futures-product",
-    "title": "Kraken Files For CFTC-Regulated U.S. Perpetual Futures Product",
-    "tags": [
-      "Kraken",
-      "CFTC",
-      "United States"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T18:30:00.000Z"
-  },
-  {
-    "id": "a7e869d764803151",
-    "slug": "trump-threatens-to-block-bombardier-jet-sales-in-us-amid-trade-dispute",
-    "title": "Trump threatens to block Bombardier jet sales in US amid trade dispute",
-    "tags": [
-      "Bombardier",
-      "United States",
-      "Canada"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T18:29:21.000Z"
-  },
-  {
-    "id": "f47bf5fd63e77768",
-    "slug": "middle-east-crypto-activity-triples-to-350-billion-amid-ongoing-conflict-report-finds",
-    "title": "Middle East Crypto Activity Triples to $350 Billion Amid Ongoing Conflict, Report Finds",
-    "tags": [
-      "Middle East",
-      "Iran",
-      "Bitcoin Policy Institute"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T18:16:04.000Z"
-  },
-  {
-    "id": "2ce455067f1c52ee",
-    "slug": "redteam-transforms-bittensor-miners-into-ethical-hacking-network",
-    "title": "RedTeam transforms Bittensor miners into ethical hacking network",
-    "tags": [
-      "RedTeam",
-      "Bittensor"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T18:14:37.000Z"
-  },
-  {
-    "id": "d30d32a1492df53f",
-    "slug": "unitree-unveils-first-world-model-powered-autonomous-humanoid-robot",
-    "title": "Unitree unveils first world model-powered autonomous humanoid robot",
-    "tags": [
-      "Unitree"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T18:09:05.000Z"
-  },
-  {
-    "id": "81528fc78e75c5bf",
-    "slug": "china-injects-billions-into-major-insurers-amid-low-bond-yields",
-    "title": "China injects billions into major insurers amid low bond yields",
-    "tags": [
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T18:09:03.000Z"
-  },
-  {
-    "id": "c01cf912d6c49652",
-    "slug": "tom-lee-highlights-intel-and-micron-as-key-plays-on-automation-and-the-labor-shortage",
-    "title": "Tom Lee highlights Intel and Micron as key plays on automation and the labor shortage",
-    "tags": [
-      "Intel",
-      "Micron"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T18:07:15.000Z"
-  },
-  {
-    "id": "464d6e8643cd2a67",
-    "slug": "australia-cancels-registration-of-crypto-provider-getcoins-following-customer-scam-complaints",
-    "title": "Australia cancels registration of crypto provider GetCoins following customer scam complaints",
-    "tags": [
-      "Australia",
-      "GetCoins",
-      "AUSTRAC"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T18:05:54.000Z"
-  },
-  {
-    "id": "c6eb5227446252d3",
-    "slug": "spot-cex-trading-volume-rises-15-to-811b-in-august-as-coinbase-and-kucoin-lead-gains",
-    "title": "Spot CEX trading volume rises 15% to $811B in August as Coinbase and KuCoin lead gains",
-    "tags": [
-      "Coinbase",
-      "KuCoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-07T18:05:32.000Z"
   }
 ]
