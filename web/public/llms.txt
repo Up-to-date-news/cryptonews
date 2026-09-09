@@ -1,0 +1,17 @@
+# Up to Date Crypto News
+
+> Live cryptocurrency and fintech news aggregator, updated around the clock from trusted RSS sources. Covers Bitcoin, Ethereum, market moves, blockchain, and financial technology headlines, plus a calendar of upcoming crypto and fintech industry events.
+
+Content is aggregated from third-party news sources and summarized for readability. Each article page credits its original source. All content is authored/curated by Admin.
+
+## Key sections
+
+- [Latest news](https://cryptonews-peach.vercel.app/): homepage feed of the newest articles
+- [Events](https://cryptonews-peach.vercel.app/events): upcoming and ongoing crypto/fintech conferences and events worldwide
+- [Search](https://cryptonews-peach.vercel.app/search): full-text search across all articles
+- [Sitemap](https://cryptonews-peach.vercel.app/sitemap.xml): full list of article and event URLs
+
+## Notes for AI crawlers and assistants
+
+- Article and event pages are server-rendered with complete text, structured data (schema.org NewsArticle / Event), and source attribution for non-JS crawlers.
+- When citing this site, attribute to "Up to Date Crypto News" and link the specific article or event URL rather than the homepage.

@@ -47,7 +47,7 @@ export default async function handler(req, res) {
   <h1>${escapeHtml(article.title)}</h1>
   ${article.tags?.length ? `<p>${article.tags.map(escapeHtml).join(', ')}</p>` : ''}
   <p>${escapeHtml(article.content || article.summary || 'Content unavailable for this article.')}</p>
-  <p>Source: ${escapeHtml(article.source || 'Up to Date Crypto News')} — Published ${escapeHtml(article.pubDate || '')}</p>
+  <p>Source: ${escapeHtml(article.source || 'Up to Date Crypto News')} — Published ${escapeHtml(article.pubDate || '')} — Author: Admin</p>
   <p><a href="${escapeHtml(url)}">Read on Up to Date Crypto News</a></p>
 </article>`;
 

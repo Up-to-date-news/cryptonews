@@ -6,7 +6,7 @@
         {
           "type": "header",
           "key": "user-agent",
-          "value": ".*(Googlebot|Bingbot|DuckDuckBot|Baiduspider|YandexBot|Applebot|GPTBot|ChatGPT-User|OAI-SearchBot|CCBot|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Perplexity-User|facebookexternalhit|Twitterbot|LinkedInBot|Slackbot|WhatsApp|TelegramBot|Discordbot|redditbot|Bytespider|PetalBot|Amazonbot|meta-externalagent).*"
+          "value": ".*(Googlebot|Google-Extended|Bingbot|DuckDuckBot|Baiduspider|YandexBot|Applebot|Applebot-Extended|GPTBot|ChatGPT-User|OAI-SearchBot|CCBot|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Perplexity-User|AI2Bot|cohere-ai|Diffbot|YouBot|Timpibot|ImagesiftBot|omgili|facebookexternalhit|meta-externalfetcher|Twitterbot|LinkedInBot|Slackbot|WhatsApp|TelegramBot|Discordbot|redditbot|Bytespider|PetalBot|Amazonbot|meta-externalagent).*"
         }
       ],
       "destination": "/api/prerender-article?slug=:slug"
@@ -17,7 +17,7 @@
         {
           "type": "header",
           "key": "user-agent",
-          "value": ".*(Googlebot|Bingbot|DuckDuckBot|Baiduspider|YandexBot|Applebot|GPTBot|ChatGPT-User|OAI-SearchBot|CCBot|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Perplexity-User|facebookexternalhit|Twitterbot|LinkedInBot|Slackbot|WhatsApp|TelegramBot|Discordbot|redditbot|Bytespider|PetalBot|Amazonbot|meta-externalagent).*"
+          "value": ".*(Googlebot|Google-Extended|Bingbot|DuckDuckBot|Baiduspider|YandexBot|Applebot|Applebot-Extended|GPTBot|ChatGPT-User|OAI-SearchBot|CCBot|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Perplexity-User|AI2Bot|cohere-ai|Diffbot|YouBot|Timpibot|ImagesiftBot|omgili|facebookexternalhit|meta-externalfetcher|Twitterbot|LinkedInBot|Slackbot|WhatsApp|TelegramBot|Discordbot|redditbot|Bytespider|PetalBot|Amazonbot|meta-externalagent).*"
         }
       ],
       "destination": "/api/prerender-event?slug=:slug"
