@@ -115,7 +115,7 @@ export default function ArticlePage() {
       )}
       <p className="article-content">{article.content ?? 'Content unavailable for this article.'}</p>
       <p className="article-pubdate">
-        Published {article.pubDate ? new Date(article.pubDate).toLocaleString() : 'date unknown'}
+        Published {article.pubDate ? new Date(article.pubDate).toLocaleString() : 'date unknown'} · Author: Admin
       </p>
 
       {nextArticle && (
