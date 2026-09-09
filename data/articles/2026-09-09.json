@@ -1107,5 +1107,519 @@
     "isDuplicateOf": null,
     "content": "Fintech in Zimbabwe is evolving rapidly alongside shifts in the nation's currency. As the digital economy adapts to new financial conditions, technology providers are creating innovative solutions to address unique economic challenges within the African country.",
     "slug": "zimbabwe-fintech-develops-alongside-a-changing-currency"
+  },
+  {
+    "id": "3f83230b6efcc3b4",
+    "title": "India’s financial intelligence unit flags 15 crypto platforms for AML lapses",
+    "summary": "The Financial Intelligence Unit-India (FIU-IND) issued non-compliance notices to what it calls virtual digital asset service providers.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/policy/2026/09/09/india-s-financial-intelligence-unit-flags-15-crypto-platforms-for-aml-lapses",
+    "source": "CoinDesk",
+    "tags": [
+      "Financial Intelligence Unit-India",
+      "India"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T08:17:54.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "India’s Financial Intelligence Unit has issued non-compliance notices to 15 virtual digital asset service providers. The regulatory action was taken due to alleged lapses in anti-money laundering regulations. These notices highlight increased scrutiny by Indian authorities on the digital asset sector to ensure compliance with financial laws and prevent illicit activities.",
+    "slug": "india-s-financial-intelligence-unit-flags-15-crypto-platforms-for-aml-lapses"
+  },
+  {
+    "id": "065df0818163c476",
+    "title": "Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin",
+    "summary": "Builders Bank would consolidate custody work Block now runs under more than 50 state money transmitter licenses.",
+    "hasSummary": true,
+    "link": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin",
+    "source": "Decrypt",
+    "tags": [
+      "Block",
+      "Bitcoin",
+      "Builders Bank",
+      "Jack Dorsey"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T08:26:08.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "Jack Dorsey's company Block has applied for a bank charter to handle Bitcoin custody. The proposed entity, Builders Bank, aims to streamline custody operations that are currently managed under numerous state money transmitter licenses across the United States, simplifying regulatory compliance for the financial technology firm's digital asset services.",
+    "slug": "jack-dorsey-s-block-applies-for-bank-charter-to-custody-bitcoin"
+  },
+  {
+    "id": "7933a8adc713b36c",
+    "title": "Bitcoin Core Lightning Docker bug leaves node operators exposed despite showing updated version",
+    "summary": "Four tags served images that reported v26.06.7 without its fixes, prompting digest checks before planned source disclosure.\nThe post Bitcoin Core Lightning Docker bug leaves node operators exposed despite showing updated version appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/bitcoin-core-lightning-docker-bug-leaves-node-operators-exposed-despite-showing-updated-version/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T08:30:48.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "A software bug in Bitcoin Core Lightning Docker images has left node operators exposed to security risks. Certain Docker images incorrectly reported running a patched version while still lacking crucial fixes. Affected operators are advised to perform digest checks to verify their software versions before the full source disclosure.",
+    "slug": "bitcoin-core-lightning-docker-bug-leaves-node-operators-exposed-despite-showing-updated-version"
+  },
+  {
+    "id": "8389a4b51ab0f029",
+    "title": "Coinbase CLARITY Act Optimistic as Cloture Vote Faces Ethics Fight",
+    "summary": "The CLARITY Act faces a September 15 Senate cloture vote as ethics, stablecoin and Democratic support disputes threaten its path to passage.\nThe post Coinbase CLARITY Act Optimistic as Cloture Vote Faces Ethics Fight appeared first on Cryptonews.",
+    "hasSummary": true,
+    "link": "https://cryptonews.com/news/clarity-act-cloture-vote/",
+    "source": "CryptoNews",
+    "tags": [
+      "Coinbase",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T08:23:33.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "The CLARITY Act faces a crucial Senate cloture vote on September 15. Although Coinbase remains optimistic, the legislative path forward encounters significant hurdles. Ongoing disputes involving ethics concerns, stablecoin regulations, and a lack of unified Democratic support threaten the passage of the bill in the United States Senate.",
+    "slug": "coinbase-clarity-act-optimistic-as-cloture-vote-faces-ethics-fight"
+  },
+  {
+    "id": "3220dfea5da1320e",
+    "title": "Elon Musk Grok AI Predicts $250K Bitcoin Price by 2027",
+    "summary": "The Elon Musk-backed Grok AI predicts BTC could hit a quarter of a million dollars by January 1, 2027, a figure sure to excite the Bitcoin community. The model predicts BTC could reach between $200,000 and $ 250,000 by the end of 2026.Grok AI points to prior cycles showing diminishing percentage returns as market cap […]\nThe post Elon Musk Grok AI Predicts $250K Bitcoin Price by 2027 appeared first on Cryptonews.",
+    "hasSummary": true,
+    "link": "https://cryptonews.com/news/elon-musk-grok-ai-predicts-250k-bitcoin-2027/",
+    "source": "CryptoNews",
+    "tags": [
+      "Bitcoin",
+      "Elon Musk",
+      "Grok"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T08:12:18.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "The Elon Musk-backed Grok AI has predicted that the price of Bitcoin could reach between $200,000 and $250,000 by late 2026 or early 2027. The forecast, which highlights diminishing percentage returns based on historical market cycles, has generated significant excitement within the cryptocurrency community as market participants look ahead to potential future price milestones.",
+    "slug": "elon-musk-grok-ai-predicts-250k-bitcoin-price-by-2027"
+  },
+  {
+    "id": "9776dfbbd96ed6b8",
+    "title": "Ripple’s XRP Rebounds Swiftly, Bitcoin (BTC) Reclaims $79K: Market Watch",
+    "summary": "VVV has rocketed the most over the past 24 hours, jumping by more than 50%. LIT, ATOM, and DOT follow suit.",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/ripples-xrp-rebounds-swiftly-bitcoin-btc-reclaims-79k-market-watch/",
+    "source": "CryptoPotato",
+    "tags": [
+      "Ripple",
+      "XRP",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T07:44:32.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "The cryptocurrency market experienced a swift recovery as Ripple’s XRP rebounded strongly and Bitcoin successfully reclaimed the $79,000 price level. In the broader market, tokens like VVV saw massive gains, surging over fifty percent in a twenty-four-hour period. Other altcoins including LIT, ATOM, and DOT also followed with notable upward momentum during this recent market watch.",
+    "slug": "ripple-s-xrp-rebounds-swiftly-bitcoin-btc-reclaims-79k-market-watch"
+  },
+  {
+    "id": "b3318f290b1abdcc",
+    "title": "Tokenization grows 2,500% since May 2025: Will this fuel crypto’s 2024-style rally?",
+    "summary": "Tokenization and ETF demand are creating a stronger institutional setup for crypto.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/tokenization-grows-2500-since-may-2025-will-this-fuel-cryptos-2024-style-rally/",
+    "source": "AMBCrypto",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-09-09T08:00:02.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "Tokenization has experienced remarkable growth, surging 2,500 percent since May 2025. This rapid expansion, combined with increasing demand for exchange-traded funds, is helping to build a much stronger institutional foundation for the broader cryptocurrency market. Industry observers are now questioning whether this significant rise in tokenized assets will act as a catalyst to spark a major market rally reminiscent of previous strong cycle periods.",
+    "slug": "tokenization-grows-2-500-since-may-2025-will-this-fuel-crypto-s-2024-style-rally"
+  },
+  {
+    "id": "bf6d225cc0100018",
+    "title": "Liquidity Arena 2026 Enters Dual-Track Main Competition on September 9, Bringing AI Agents and Professional Quant Traders Into One Live Trading Arena",
+    "summary": "HONG KONG, September 8th, 2026 — Liquidity Arena 2026, an AI quantitative trading competition organized by global institutional prime broker LTP, will enter its dual-track main competition on September 9, bringing together AI developers, research teams, hedge funds, proprietary trading firms, high-frequency trading teams, and professional traders. The competition has attracted more than hundreds of\nThe post Liquidity Arena 2026 Enters Dual-Track Main Competition on September 9, Bringing AI Agents and Professional Quant Traders Into One Live Trading Arena appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/liquidity-arena-2026-dual-track-main-competition/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Liquidity Arena 2026",
+      "LTP",
+      "Hong Kong"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T07:57:56.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "The Liquidity Arena 2026 AI quantitative trading competition is set to begin its dual-track main competition on September 9. Organized by institutional prime broker LTP, the live trading event brings together AI developers, research teams, hedge funds, proprietary trading firms, and professional traders to compete in a unified trading arena.",
+    "slug": "liquidity-arena-2026-enters-dual-track-main-competition-on-september-9-bringing-ai-agents-and"
+  },
+  {
+    "id": "8747ec469fdf6a6d",
+    "title": "EU court rejects Hungary’s bid to block Russian asset profits for Ukraine",
+    "summary": "The EU court's decision underscores a strategic commitment to economic measures, potentially prolonging the Russia-Ukraine conflict.\nThe post EU court rejects Hungary’s bid to block Russian asset profits for Ukraine appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/eu-court-rejects-hungarys-bid-to-block-russian-asset-profits-for-ukraine/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "European Union",
+      "Hungary",
+      "Russia",
+      "Ukraine"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T08:03:33.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "The European Union court has rejected a legal challenge by Hungary attempting to block the use of profits generated from frozen Russian assets to aid Ukraine. This decision reinforces the bloc's ongoing economic strategy concerning the ongoing conflict, highlighting continued political tensions among member states regarding financial support mechanisms.",
+    "slug": "eu-court-rejects-hungary-s-bid-to-block-russian-asset-profits-for-ukraine"
+  },
+  {
+    "id": "bfa91d8ae14d8cc3",
+    "title": "Anthropic researcher warns of >10% chance AI could cause human extinction in 10 years",
+    "summary": "The warning could reshape AI investment strategies, influence market valuations, and intensify debates on AI safety and regulatory measures.\nThe post Anthropic researcher warns of >10% chance AI could cause human extinction in 10 years appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/anthropic-researcher-warns-of-10-chance-ai-could-cause-human-extinction-in-10/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Anthropic"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T07:52:59.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "An Anthropic researcher has warned of a greater than ten percent chance that artificial intelligence could cause human extinction within ten years. This stark warning is expected to influence market valuations, reshape AI investment strategies, and intensify ongoing debates regarding regulatory measures and artificial intelligence safety.",
+    "slug": "anthropic-researcher-warns-of-10-chance-ai-could-cause-human-extinction-in-10-years"
+  },
+  {
+    "id": "cd74775c4f9ca7d4",
+    "title": "Ordinals (ORDI) Price Prediction 2026, 2027-2030: Can ORDI Surge 100x Again?",
+    "summary": "The post Ordinals (ORDI) Price Prediction 2026, 2027-2030: Can ORDI Surge 100x Again? appeared first on Coinpedia Fintech News\nStory Highlights The live price of the Ordi token is . ORDI price is consolidating in the $1–$5 demand zone after a 95% drop from $95. A breakout above $5 could trigger a rally toward $10 and possibly $30 if market sentiment turns bullish. Ordinals (ORDI) may be forming a bottom in 2026. If bulls …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/price-prediction/ordi-price-prediction/",
+    "source": "Coinpedia",
+    "tags": [
+      "Ordinals",
+      "ORDI"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T08:03:00.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "The Ordinals token is currently consolidating in the demand zone after dropping significantly from its previous highs. Market analysis suggests that a potential bottom could be forming in 2026. If a breakout occurs above the resistance level, analysts indicate that market sentiment could turn bullish, potentially triggering a significant rally toward higher price targets.",
+    "slug": "ordinals-ordi-price-prediction-2026-2027-2030-can-ordi-surge-100x-again"
+  },
+  {
+    "id": "b9c6bc4a19545aff",
+    "title": "Pennsylvania Man ‘Mr. Satan’ Gets 4 Years for YouTube Threats Against Trump, ICE Agents",
+    "summary": "Shawn Monper was sentenced to four years in federal prison plus three years supervised release after pleading guilty to threatening President Trump and ICE agents online.\nThe post Pennsylvania Man ‘Mr. Satan’ Gets 4 Years for YouTube Threats Against Trump, ICE Agents appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/09/09/pennsylvania-man-mr-satan-gets-4-years-for-youtube-threats-against-trump-ice-agents/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "Pennsylvania",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T08:15:31.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "A Pennsylvania man who went by the online moniker \"Mr. Satan\" was sentenced to four years in federal prison. He pleaded guilty to making online threats on YouTube against the president and immigration enforcement agents. Following his prison term, he will serve three years of supervised release.",
+    "slug": "pennsylvania-man-mr-satan-gets-4-years-for-youtube-threats-against-trump-ice-agents"
+  },
+  {
+    "id": "26d9f736e6eadf07",
+    "title": "Pi recovers above $0.098 as developer push supports utility",
+    "summary": "Key takeaways Pi Network is trading above $0.098 after rebounding from the 50-day EMA near $0.094. PI has gained more than 3% this week after advancing 5.2% during the previous week. The Pi Core Team is prioritizing developer tools and documentation to encourage more applications within the ecosystem. Pi Network extended its recovery on Wednesday, […]\nThe post Pi recovers above $0.098 as developer push supports utility appeared first on CoinJournal.",
+    "hasSummary": true,
+    "link": "https://coinjournal.net/news/pi-recovers-above-0-098-as-developer-push-supports-utility/",
+    "source": "CoinJournal",
+    "tags": [
+      "Pi Network"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T08:22:26.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "Pi Network recovered above $0.098, rebounding from the 50-day EMA near $0.094 and extending its recent gains. The cryptocurrency has risen over the past two weeks. The upward movement is supported by a push from the Pi Core Team, which is prioritizing developer tools and documentation to encourage the creation of new applications within the ecosystem.",
+    "slug": "pi-recovers-above-0-098-as-developer-push-supports-utility"
+  },
+  {
+    "id": "d26a26fbc97c21f3",
+    "title": "Chainlink surges 51% as bullish breakout points to $18",
+    "summary": "Key takeaways Chainlink has gained 51% over seven days amid improving regulatory sentiment and project-specific developments. Chainlink’s total value secured rose from $43 billion in June to nearly $57 billion by the end of August—an increase of approximately 33%. A partnership with Bottomline could connect payment infrastructure serving more than 600 banks to multiple blockchains. […]\nThe post Chainlink surges 51% as bullish breakout points to $18 appeared first on CoinJournal.",
+    "hasSummary": true,
+    "link": "https://coinjournal.net/news/chainlink-surges-51-as-bullish-breakout-points-to-18/",
+    "source": "CoinJournal",
+    "tags": [
+      "Chainlink",
+      "Bottomline"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T08:15:48.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "Chainlink has surged 51 percent over a seven-day period following a bullish breakout, with projections pointing toward an $18 target. The notable gains are supported by positive regulatory sentiment, project developments, and a partnership with Bottomline aimed at connecting payment infrastructure for numerous banks to multiple blockchains. Additionally, the network's total value secured saw a significant increase of approximately 33 percent over the summer months.",
+    "slug": "chainlink-surges-51-as-bullish-breakout-points-to-18"
+  },
+  {
+    "id": "aeeab8ac07a4a95d",
+    "title": "Backbase embeds Mastercard toolkit into Bank OS",
+    "summary": "Mastercard and Backbase are collaborating to help financial institutions strengthen customer engagement, enhance decision-making and advance their digital transformation ambitions through a combination of data insights, cybersecurity and banking technology capabilities.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/110835/backbase-embeds-mastercard-toolkit-into-bank-os?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Backbase",
+      "Mastercard"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T08:00:00.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "Backbase has integrated Mastercard's toolkit into its Bank OS platform. This collaboration is designed to help financial institutions improve customer engagement, upgrade decision-making processes, and accelerate digital transformation efforts. By combining advanced banking technology with data insights and cybersecurity capabilities, the partnership aims to support banks in advancing their strategic technology initiatives.",
+    "slug": "backbase-embeds-mastercard-toolkit-into-bank-os"
+  },
+  {
+    "id": "571bd90406d99862",
+    "title": "London Stock Exchange Partners with Payward to Launch Tokenized Public Equity Architecture",
+    "summary": "The London Stock Exchange is exploring tokenised UK equities with Payward, combining regulated market infrastructure with on-chain access, digital settlement and 24-hour trading.\nThe post London Stock Exchange Partners with Payward to Launch Tokenized Public Equity Architecture appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/london-stock-exchange-partners-with-payward-to-launch-tokenized-public-equity-architecture/",
+    "source": "The Fintech Times",
+    "tags": [
+      "London Stock Exchange",
+      "Payward",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T09:00:23.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "The London Stock Exchange has partnered with Payward to explore tokenized public equity architecture. This initiative aims to combine traditional regulated market infrastructure with on-chain access, enabling digital settlement and 24-hour trading for UK equities.",
+    "slug": "london-stock-exchange-partners-with-payward-to-launch-tokenized-public-equity-architecture"
+  },
+  {
+    "id": "ff7a5a6cac694dd6",
+    "title": "AI Can Help Banking – But Customers Still Want a Person",
+    "summary": "COLIBRIX ONE blends AI and human support to simplify merchant onboarding, payments, and business banking for online and subscription businesses worldwide.\nThe post AI Can Help Banking – But Customers Still Want a Person appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/ai-can-help-banking-but-customers-still-want-a-person/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Colibrix One",
+      "The Fintech Times"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T08:54:07.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "While artificial intelligence continues to transform the banking sector by streamlining processes and improving efficiency, customers still prefer human interaction for their financial needs. Companies like Colibrix One are addressing this balance by combining advanced AI automation with dedicated human support. This hybrid approach aims to simplify complex tasks such as merchant onboarding and business banking for global online enterprises.",
+    "slug": "ai-can-help-banking-but-customers-still-want-a-person"
+  },
+  {
+    "id": "c040fd6878fc5a32",
+    "title": "Surprise Bills Test the Value of Subprime Credit",
+    "summary": "Watch more: Need to Know With Concora Credit’s Jason Tinurelli An emergency expense doesn’t need to overwhelm a household budget to create a credit problem. For subprime consumers, a medical bill, car repair or veterinary expense can redirect enough cash to jeopardize a payment, putting hard-won credit progress at risk. Credit issuers are, in those […]\nThe post Surprise Bills Test the Value of Subprime Credit appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/consumer-finance/2026/surprise-bills-test-the-value-of-subprime-credit/",
+    "source": "PYMNTS",
+    "tags": [
+      "Concora Credit",
+      "PYMNTS.com"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T08:02:14.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "Unexpected emergency expenses, such as medical bills, car repairs, or veterinary costs, can easily overwhelm subprime household budgets. For vulnerable consumers, redirecting cash toward these sudden bills often jeopardizes routine credit payments, putting hard-won financial progress at risk as credit issuers closely monitor the situation.",
+    "slug": "surprise-bills-test-the-value-of-subprime-credit"
+  },
+  {
+    "id": "e05c3c008cc1b699",
+    "title": "Card Issuers Speed Upgrades as Fraud Threats Grow",
+    "summary": "Card platform upgrade calendars are getting shorter. The next major deadline may arrive before issuers finish planning for the last one. Card issuers face pressure from several directions. Fraud keeps changing, customers expect faster digital services and AI is creating new ways to manage accounts. Older platforms can make each improvement harder to deliver. Issuers […]\nThe post Card Issuers Speed Upgrades as Fraud Threats Grow appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/digital-payments/2026/card-issuers-speed-upgrades-as-fraud-threats-grow/",
+    "source": "PYMNTS",
+    "tags": [
+      "PYMNTS.com"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T08:02:04.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "Card issuers are accelerating their platform upgrade cycles as evolving fraud threats and growing demands for digital services put pressure on older systems. Artificial intelligence is also driving changes in account management, leaving issuers with shorter planning windows and increasing urgency to modernize their card platforms.",
+    "slug": "card-issuers-speed-upgrades-as-fraud-threats-grow"
+  },
+  {
+    "id": "8b7f16686f840788",
+    "title": "Banks Turn Card Replacement Into a Single AI Workflow",
+    "summary": "Banks have spent the past several years asking whether artificial intelligence can make better decisions. The more important question is becoming whether their infrastructure can execute those decisions. While 52% of banks have piloted agentic AI, just 16% have fully deployed production use cases, according to data cited in the September edition of the AI-Ready […]\nThe post Banks Turn Card Replacement Into a Single AI Workflow appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-turn-card-replacement-into-a-single-ai-workflow/",
+    "source": "PYMNTS",
+    "tags": [
+      "PYMNTS.com"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T08:00:55.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "Banks are increasingly focusing on whether their underlying infrastructure can execute artificial intelligence decisions rather than just making them. While more than half of banks have piloted agentic AI, only a small fraction have fully deployed these use cases in production. Recent developments highlight how institutions are streamlining complex processes, such as card replacement, into unified automated workflows powered by advanced technology.",
+    "slug": "banks-turn-card-replacement-into-a-single-ai-workflow"
+  },
+  {
+    "id": "6d82f9f8340f11d7",
+    "title": "Paycheck-to-Paycheck Consumers Have Already Cut the Lattes",
+    "summary": "Meet Tom and Elaine. (Our names, not theirs.) Both report household income between $65,000 and $70,000. Both are married, live in a city and say day-to-day spending is why they live paycheck to paycheck. For both, the next paycheck is critical to meeting their monthly financial obligations. On paper, they’re the same consumer. A bank, […]\nThe post Paycheck-to-Paycheck Consumers Have Already Cut the Lattes appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/consumer-finance/2026/paycheck-to-paycheck-consumers-have-already-cut-the-lattes/",
+    "source": "PYMNTS",
+    "tags": [
+      "PYMNTS.com"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T08:00:23.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "Middle-income consumers living paycheck to paycheck have already reduced discretionary spending, such as daily coffee purchases. Day-to-day living costs strain household budgets, making upcoming paychecks critical for meeting basic financial obligations despite moderate income levels. This spending shift highlights the financial pressures currently facing urban households in a challenging economic environment.",
+    "slug": "paycheck-to-paycheck-consumers-have-already-cut-the-lattes"
+  },
+  {
+    "id": "338a526a869433aa",
+    "title": "62% of Businesses Make ERP Integration the Top AP Test",
+    "summary": "For accounts payable software buyers, the quality of the connections now carries more weight than the size of the price tag. That shift runs through “Who Decides Now,” the July edition of the Business Payments Tracker from PYMNTS Intelligence and WEX. The report finds that developers, IT teams and implementation specialists are gaining influence as […]\nThe post 62% of Businesses Make ERP Integration the Top AP Test appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/back-office/accounts-payable/2026/62percent-of-businesses-make-erp-integration-the-top-ap-test/",
+    "source": "PYMNTS",
+    "tags": [
+      "PYMNTS Intelligence",
+      "WEX"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T08:00:02.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "A recent report from PYMNTS Intelligence and WEX reveals that 62 percent of businesses now prioritize ERP integration above price when evaluating accounts payable software. As connection quality gains importance, technical teams including developers and IT specialists are playing a much larger role in software selection decisions, according to the July edition of the Business Payments Tracker.",
+    "slug": "62-of-businesses-make-erp-integration-the-top-ap-test"
+  },
+  {
+    "id": "9add74efa075cce6",
+    "title": "Fundcraft Secures €12m Strategic Growth Financing to Scale Digital Fund Operations Infrastructure for European Alternative Investment Funds",
+    "summary": "Fundcraft, Europe’s digital fund operations provider for alternative investment funds, today announced that it has secured €12 million in strategic growth financing co-led by Riverside Acceleration Capital (“RAC”) and CCAP Investments (“CCAP”), with participation from existing investors including 3VC, MiddleGame Ventures and Aperture Capital. The new financing brings fundcraft’s total capital secured since its founding to €40 million, reinforcing its position among Europe’s best-capitalised digital fund operations providers for alternative investment funds.\nThe financing further deepens fundcraft’s existing partnership with Riverside Acceleration Capital, the growth-stage investment strategy of The Riverside Company, following RAC’s earlier support for fundcraft’s expansion into France. RAC brings growth capital and operational resources to support the company’s next phase of international scale.\nThe round follows a period of strong and accelerating execution, as fund operations reach a clear digital inflection point. Nearly four in every five asset servicers identify manual workflows and lack of standardisation as their main operational hurdle, underscoring the pressure on legacy operating models as fund structures, investor volumes and regulatory requirements become more complex. Fundcraft is addressing this shift through a digital operating model underpinned by workflow automation and AI, designed to deliver greater control, transparency and service quality at scale. The platform today supports more than 20,000 LP subscriptions across nearly 300 funds.\nIn the first half of 2026, fundcraft signed as many new clients as in the whole of 2025. This momentum has been supported by successful large-scale fund migrations and continued up-market traction. Over half of new clients were mid-to-large alternative asset managers modernising their operating models or complex, multi-jurisdictional private market access platforms. \nThe financing will support fundcraft’s next phase of growth: accelerating momentum across its existing European client base and core markets, while expanding into additional jurisdictions and deepening capabilities in institutional private equity Buyout strategies. It will also support the continued execution of fundcraft’s AI strategy, building on data foundations already put in place and AI-enabled workflows currently deployed across selected processes. These capabilities are being embedded across investor, fund and portfolio operations to improve operating leverage and make increasingly complex private markets strategies more scalable, transparent and economically viable.\nFundcraft’s expansion into France has moved rapidly from regulatory approval to commercial execution. After a successful implementation in Luxembourg, fundcraft Group obtained a separate AIFM license in France. This new AIFM was granted by the AMF authorisation in June 2026, and fundcraft has since been mandated to support several French fund launches, representing ambitions of more than €1 billion in combined commitments and subscription targets. Its French platform is also supporting high-volume Private Markets Access structures, including ELTIF 2.0, evergreen and open-ended funds for multi-distributor and cross-border distribution, while fundcraft increasingly supports multi-jurisdiction parallel fund setups across Luxembourg, France, the US and Spain. \nJulien De Mayer, Co-Founder and Chief Executive Officer at fundcraft, said:\n\n\n\nChristian Stein, Senior Partner at Riverside Acceleration Capital, added:\n\n\n\nOlga Porro, Co-Founder and Chief Product Officer at fundcraft, said:\n\n\n\nChristopher Caesar, Founding and Managing Partner at CCAP, added:\n\n\nNoYesFundraising News09 Sep, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/fundraising-news/fundcraft-secures-eu12m-strategic-growth-financing-scale-digital-fund",
+    "source": "Financial IT",
+    "tags": [
+      "Fundcraft",
+      "Riverside Acceleration Capital",
+      "CCAP Investments",
+      "Europe",
+      "France"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T08:48:08.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "Fundcraft has secured €12 million in strategic growth financing co-led by Riverside Acceleration Capital and CCAP Investments, with participation from existing investors. The new funding brings the company's total capital raised to €40 million. Fundcraft plans to use the investment to scale its digital fund operations infrastructure, accelerate European expansion including its presence in France, and deepen its capabilities in institutional private equity strategies and artificial intelligence workflow automation.",
+    "slug": "fundcraft-secures-12m-strategic-growth-financing-to-scale-digital-fund-operations-infrastructure"
+  },
+  {
+    "id": "7b19d31893a4e05b",
+    "title": "Mastercard and Backbase Announce Strategic Collaboration to Accelerate AI-Native Banking Transformation",
+    "summary": "Mastercard and Backbase are collaborating to help financial institutions strengthen customer engagement, enhance decision-making and advance their digital transformation ambitions through a combination of data insights, cybersecurity and banking technology capabilities.\nThrough the collaboration, financial institutions will be able to access Mastercard capabilities that support personalization, analytics, customer engagement and cyber resilience alongside the Backbase AI-native Banking Operating System, helping them deliver more connected banking experiences and drive business growth.\nAs financial institutions continue to modernize their operations and customer experiences, the collaboration provides access to capabilities that support personalization, analytics, customer engagement, and cyber resilience. Together, Mastercard and Backbase are helping banks simplify access to these capabilities while supporting their broader transformation objectives.\nKey capabilities available through the collaboration include:\nDynamic Yield by Mastercard, which can support personalization and customer engagement across digital banking journeys.\nTest & Learn, which can help financial institutions assess the commercial impact of product, pricing, campaign, and customer experience changes.\nSpendingPulse, which can provide macroeconomic and sector-level spending insights to support business decision-making.\nCyber Quant, which can support cyber risk assessment and resilience conversations with financial institutions.\n“By deepening our collaboration with Mastercard, we're accelerating our ability to help banks worldwide harness the full potential of AI. This collaboration goes beyond technology integration - it brings together two ecosystems that, combined, give banks a faster, more trusted path from AI experimentation to real business outcomes. Together, we are helping financial institutions access capabilities that support more personalized customer engagement, stronger decision-making and greater operational resilience,\" Ricardo Ribelles, VP Collaborations and Alliances at Backbase.\n\"Banks are moving from AI experimentation to AI execution and the infrastructure underneath that shift matters enormously. Through this collaboration, financial institutions can access Mastercard capabilities that support personalization, analytics, cyber resilience, and customer engagement as they advance their digital transformation journeys. This is how agentic banking moves from proof of concept to production,\" said Selin Bahadirli, Executive Vice President, Services, EEMEA at Mastercard.\nBoth organizations share a conviction: Agentic AI - where trusted AI systems act on behalf of customers within defined consent parameters - will define the next generation of banking. \nThe collaboration builds on Mastercard's broader work to support innovation in digital banking and payments. In late 2025, the company demonstrated a live Agent Pay transaction in the UAE, marking an early milestone for agentic commerce in EEMEA. \nMore recently, the company introduced Mastercard Agent Suite to help enterprises build secure, trusted AI-powered experiences across the payments ecosystem.\nTogether, the companies are working to ensure that agentic banking is not merely a technology experiment, but a governed, secure, and commercially viable capability that financial institutions can deploy with confidence - anywhere in the world.\nNoYesArtificial Intelligence09 Sep, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/artificial-intelligence/mastercard-and-backbase-announce-strategic-collaboration-accelerate-ai",
+    "source": "Financial IT",
+    "tags": [
+      "Mastercard",
+      "Backbase"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T08:35:31.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "Mastercard and Backbase have announced a strategic collaboration to accelerate AI-native banking transformation for financial institutions. The partnership combines Mastercard's data insights, analytics, cybersecurity, and personalization tools with the Backbase AI-native Banking Operating System. Together, the companies aim to help banks enhance customer engagement, improve decision-making, and advance digital transformation securely and efficiently.",
+    "slug": "mastercard-and-backbase-announce-strategic-collaboration-to-accelerate-ai-native-banking"
+  },
+  {
+    "id": "9b990a183219eedd",
+    "title": "AXON Expands to North America With FINTRAC Registration",
+    "summary": "AXON, a financial infrastructure company building an orchestration layer for banks, fintechs and businesses, announced today that its Canadian entity, AXON TECHNOLOGY INC., is registered with the Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) as a Money Services Business (MSB). \nThe registration establishes a regulatory foundation for AXON’s operations in Canada as the company develops its international financial infrastructure. \nFINTRAC’s public registry lists foreign exchange, money transferring, virtual currency and payment service provider activities. As a registered MSB, AXON’s Canadian entity operates within Canada’s federal anti-money laundering and anti-terrorist financing framework, including applicable compliance, identification, monitoring, reporting and record-keeping obligations. \nBuilding infrastructure for a multi-rail financial system \nTraditional banking now operates alongside card and local payment networks, instant payment systems, stablecoins and digital-asset infrastructure. While financial institutions have more ways to move and settle money, operating across multiple providers, systems and markets creates additional complexity. \nAXON is building a single orchestration layer through which banks, fintechs and businesses can connect to and manage these different financial operations. \nRather than requiring institutions to integrate and manage separate infrastructure for each provider or financial rail, AXON gives customers one environment to build, route, settle and control financial operations across markets, networks and technologies. The platform is designed to work with existing financial infrastructure without requiring institutions to adopt a single blockchain, stablecoin or proprietary payment network. \n“Banks don’t need to become crypto companies to access the benefits of digital assets or new financial rails,” said Malek Alzubi, Co-Founder & CEO of AXON. “They need infrastructure that lets them connect to these systems compliantly, while preserving the controls, relationships and operating models they already rely on. Our Canadian Money Services Business registration strengthens the regulatory foundation needed to connect traditional and digital finance across markets.”\nBuilding infrastructure across markets \nThe Canadian registration forms part of AXON’s broader strategy to build financial infrastructure capable of operating across jurisdictions while accommodating the regulatory, banking and liquidity requirements of individual markets. \nAXON has also signed Pulsar Money as its first Neobank Design Partner and designated banking partner covering the UAE and European markets, providing an additional foundation for the company’s expansion across multiple jurisdictions. \nAXON’s platform is designed to allow institutions to add new providers, financial rails and jurisdictions through one operating layer, helping them launch products, expand into new markets, and manage fragmented financial infrastructure without rebuilding their operational stack market by market. \nThe milestone comes as AXON moves from platform development toward commercial deployment, expanding its regulatory footprint and institutional partnerships across multiple markets. The company is currently completing a $5 million Seed round to support its next phase of growth. \nNoYesPayments09 Sep, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/payments/axon-expands-north-america-fintrac-registration",
+    "source": "Financial IT",
+    "tags": [
+      "AXON",
+      "FINTRAC",
+      "Canada",
+      "Pulsar Money",
+      "UAE"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T08:05:04.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "Financial infrastructure company AXON announced that its Canadian entity is now registered with FINTRAC as a Money Services Business, establishing a regulatory foundation for operations in Canada. The company is building an orchestration layer to help banks and businesses connect traditional and digital financial systems across markets without overhauling their existing infrastructure.",
+    "slug": "axon-expands-to-north-america-with-fintrac-registration"
+  },
+  {
+    "id": "ee7ffc5b5852b3d3",
+    "title": "MoonPay Obtains Electronic Money Institution Licence in the Netherlands",
+    "summary": "MoonPay Europe has received its Electronic Money Institution (EMI) license from the Dutch Central Bank in the Netherlands.\nWhy this matters\nThe EMI license opens up significant new ground for MoonPay in Europe:\nCustodial payment flows. MoonPay can offer payment accounts and related payment services to consumers and business customers.\nStablecoin issuance. The license allows MoonPay to issue stablecoins, which enables MoonPay to enter the euro-denominated stablecoins market.\nThis also places MoonPay among a small group of Dutch-based companies that can issue open-loop stablecoins from the Netherlands, alongside Quantoz. It makes MoonPay the third Netherlands-based company to hold both a MiCA Crypto-Asset Service Provider (CASP) authorization and an EMI license within a single entity. More notably, MoonPay is the first of these companies to combine both licenses in one entity while also holding open-loop stablecoin issuance capabilities, giving us broader options from the Netherlands than others in this category.\nThis is not MoonPay's first regulatory milestone in Europe. MoonPay was also one of the first companies to obtain a MiCAR CASP license, back in 2024, giving us one of the longest track records of any stablecoin issuer operating under Europe's regulatory framework.\nWhat's next\nNoYesPayments09 Sep, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/payments/moonpay-obtains-electronic-money-institution-licence-netherlands",
+    "source": "Financial IT",
+    "tags": [
+      "MoonPay",
+      "Dutch Central Bank",
+      "Quantoz",
+      "Netherlands"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T07:57:56.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "MoonPay Europe has secured an Electronic Money Institution license from the Dutch Central Bank in the Netherlands. The regulatory approval enables the company to provide custodial payment accounts and issue euro-denominated stablecoins. This milestone combines open-loop stablecoin issuance capabilities with existing MiCA Crypto-Asset Service Provider authorization within a single entity, expanding the firm's compliance footprint across the European market.",
+    "slug": "moonpay-obtains-electronic-money-institution-licence-in-the-netherlands"
+  },
+  {
+    "id": "d7a3295f6f60ef85",
+    "title": "Rimes Appoints Amir Mirza as Chief Financial Officer to Support Next Phase of Growth",
+    "summary": "Rimes, a leading provider of enterprise data management and investment intelligence solutions to the global investment community, today announced the appointment of Amir Mirza as Chief Financial Officer, strengthening its executive leadership team as the company enters its next phase of growth.\nThe appointment follows the recent launch of Rimes’ Intelligence Fabric for Capital Markets, the company’s unified data and intelligence architecture designed to help asset owners, asset managers and asset servicers make better decisions and scale faster with AI-enabled data and workflows.\n“Rimes is at an important inflection point as we build on the Intelligence Fabric for Capital Markets and expand the role we play in the financial services industry which is being rapidly transformed through AI” said Vijay Mayadas, President and Chief Executive Officer, Rimes. “Amir brings the experience and leadership we need for our next chapter. His background helping technology businesses scale rapidly, combined with his strong financial and operational expertise, will be a tremendous asset as we accelerate investment in innovation, supporting the increasing demands of our global clients, and scale the business.”\nAs Chief Financial Officer, Mirza will lead Rimes’ global finance organization, with responsibility spanning growth strategy, capital allocation and operational performance. He brings more than 25 years of experience working with technology and data-driven businesses, including venture capital- and private equity-backed companies across technology-enabled services, marketplaces, and software. He has also led operational transformations, M&A, and has driven AI adoption within finance teams.\n“I am happy to be joining Rimes at a time of exceptional growth and large global customer wins that validate our strategic direction. Rimes has built a strong position at the intersection of investment data, technology and finance, and the Intelligence Fabric creates an exciting foundation for the company’s next phase,” said Mirza. “I’m looking forward to working with Vijay and the leadership team to build on that momentum, invest behind the opportunities with the greatest potential and help scale the business for continued long-term growth.”\nPrior to joining Rimes, Mirza served as CFO of Loadsmart and before that as CFO of Datalot. Earlier in his career, Mirza spent nearly two decades in Investment Banking at Bank of America Merrill Lynch, advising Technology, Media, and Telecom clients on over $500 billion of M&A and financing transactions. He holds an MBA in Finance from the UCLA Anderson School of Management, and a postgraduate degree from the Indian Institute of Management Ahmedabad. He is based in New York.\nNoYesPeople Moves09 Sep, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/people-moves/rimes-appoints-amir-mirza-chief-financial-officer-support-next-phase-growth",
+    "source": "Financial IT",
+    "tags": [
+      "Rimes",
+      "Amir Mirza",
+      "Loadsmart",
+      "Datalot",
+      "Bank of America Merrill Lynch"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T07:51:50.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "Rimes has appointed Amir Mirza as its new Chief Financial Officer to support the company through its next phase of growth. Mirza brings over 25 years of experience in technology and data-driven businesses, having previously served as CFO at Loadsmart and Datalot, as well as holding an investment banking background at Bank of America Merrill Lynch. He will lead Rimes' global finance organization, focusing on growth strategy, capital allocation, and operational performance.",
+    "slug": "rimes-appoints-amir-mirza-as-chief-financial-officer-to-support-next-phase-of-growth"
+  },
+  {
+    "id": "189e7366fcfa7c92",
+    "title": "Checkout.com Supports Best Buy Marketplace With the Next Phase of Its Payments Infrastructure",
+    "summary": "Checkout.com, a leading global digital payments company, today announced it will support Best Buy with the next phase of the retailer’s Marketplace payments infrastructure.\nBest Buy has evolved its strategy to meet more of customers’ technology needs by expanding its assortment with the launch of Best Buy Marketplace, which allows third-party sellers to seamlessly integrate their products into BestBuy.com and the Best Buy App.  \nAs Best Buy continues to advance its digital commerce business, the company is modernizing the payments infrastructure behind it. Teaming up with Checkout.com gives Best Buy a flexible foundation to extend its reach to a broader seller base.\nThrough this work, Checkout.com will provide card acquiring and debit routing capabilities, supported by flexible payments technology built to adapt as Best Buy’s needs evolve. This will support Best Buy Marketplace’s current payment flows while giving its team a foundation for future payment methods, geographies, and commerce models.\nCheckout.com will deliver dedicated enterprise support and industry expertise to help Best Buy navigate the complexities of various digital channels and settlement flows.\nAntoine Nougué, Chief Revenue Officer at Checkout.com, comments: “Best Buy has built a trusted experience to help customers navigate increasingly complex technology purchases. We’re proud to support the next phase of that evolution with modular technology, AI-powered payment optimization, and a hands-on approach to continued innovation and growth.”\nNoYesPayments09 Sep, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/payments/checkoutcom-supports-best-buy-marketplace-next-phase-its-payments-infrastructure",
+    "source": "Financial IT",
+    "tags": [
+      "Checkout.com",
+      "Best Buy"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-09T07:49:07.000Z",
+    "fetchedAt": "2026-09-09T09:01:19.686Z",
+    "isDuplicateOf": null,
+    "content": "Checkout.com has announced it is partnering with Best Buy to support the next phase of the retailer's Marketplace payments infrastructure. By teaming up with Checkout.com, Best Buy aims to modernize its digital commerce business, enabling flexible card acquiring and debit routing capabilities. The collaboration provides a foundation to help Best Buy adapt as its marketplace needs evolve and expand its reach to a broader seller base.",
+    "slug": "checkout-com-supports-best-buy-marketplace-with-the-next-phase-of-its-payments-infrastructure"
   }
 ]
