@@ -50,6 +50,20 @@ body {
   color: var(--fg);
 }
 
+/* Google's Website Translator widget shows this "Translated into: X /
+   Show original" status bar itself once active — separate from (and not
+   controlled by) the autoDisplay:false we set on the widget, which only
+   suppresses its "Translate this page?" prompt. We already have our own
+   header language switcher, so hide it; Google also shoves `body` down
+   with an inline top offset to make room for that bar, which this
+   !important reclaims. */
+.goog-te-banner-frame.skiptranslate {
+  display: none !important;
+}
+body {
+  top: 0 !important;
+}
+
 a {
   color: inherit;
   text-decoration: none;
