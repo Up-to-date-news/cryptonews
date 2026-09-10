@@ -10,6 +10,11 @@ const LanguageContext = createContext(null);
 // autoDisplay is false, so this must be done explicitly. The select
 // mounts asynchronously (translate.google.com's script loads and runs
 // after our own bundle), so retry briefly instead of assuming it exists.
+// Tamil goes through this too now (not just Tier 2) — it gives Tamil
+// readers a fully-translated nav/chrome/event pages, while ArticlePage
+// marks its curated `content_ta` paragraph `translate="no"` so the
+// widget doesn't re-translate (and potentially mangle) text that's
+// already Tamil.
 function applyWidgetLanguage(widgetCode, attempt = 0) {
   const select = document.querySelector('.goog-te-combo');
   if (!select) {
@@ -38,6 +43,10 @@ const AUTO_APPLIED_KEY = 'langAutoApplied';
 export function LanguageProvider({ children }) {
   const [language, setLanguageState] = useState(() => getSavedLanguage() ?? 'en');
   const [autoDetected, setAutoDetected] = useState(false);
+  // The geo-guessed language for this visitor, independent of what they
+  // currently have selected — used by the switcher to surface a
+  // "suggested for your region" option even after a manual override.
+  const [regionLanguage, setRegionLanguage] = useState(null);
   const location = useLocation();
 
   // React Router swaps in fresh DOM on every client-side navigation, which
@@ -47,22 +56,20 @@ export function LanguageProvider({ children }) {
   // stays stuck in the previous language. Re-firing the same selection
   // makes the widget re-scan and translate the page's current DOM.
   useEffect(() => {
-    if (language !== 'en' && language !== 'ta') applyWidgetLanguage(language);
+    if (language !== 'en') applyWidgetLanguage(language);
   }, [location.pathname, language]);
 
-  // A saved Tier-2 language is re-applied to the widget by the effect
-  // above (it also runs on mount, since `language` already holds it by
-  // then). This effect only handles a genuinely fresh visitor: geo-detect
-  // a default once per session so repeated re-renders don't re-fetch.
   useEffect(() => {
-    if (getSavedLanguage() || sessionStorage.getItem(AUTO_APPLIED_KEY)) return;
-
     fetch('/api/geo')
       .then((res) => (res.ok ? res.json() : null))
       .then((geo) => {
         if (!geo) return;
         const guess = detectLanguageFromGeo(geo.country, geo.region);
-        if (guess === 'en') return;
+        setRegionLanguage(guess);
+
+        // Only auto-apply as the active language for a genuinely fresh
+        // visitor (no saved choice yet), once per session.
+        if (getSavedLanguage() || sessionStorage.getItem(AUTO_APPLIED_KEY) || guess === 'en') return;
         sessionStorage.setItem(AUTO_APPLIED_KEY, '1');
         sessionStorage.setItem('langAutoDetectedNote', '1');
         setLanguageState(guess);
@@ -80,15 +87,9 @@ export function LanguageProvider({ children }) {
     sessionStorage.removeItem('langAutoDetectedNote');
     setAutoDetected(false);
 
-    const wasWidgetActive = language !== 'en' && language !== 'ta';
     if (code === 'en') {
-      if (wasWidgetActive) reloadToEnglish();
+      if (language !== 'en') reloadToEnglish();
       else setLanguageState('en');
-      return;
-    }
-    if (code === 'ta') {
-      if (wasWidgetActive) reloadToEnglish(); // then user re-picks ta; simplest clean path
-      else setLanguageState('ta');
       return;
     }
     setLanguageState(code);
@@ -101,8 +102,8 @@ export function LanguageProvider({ children }) {
   }
 
   const value = useMemo(
-    () => ({ language, changeLanguage, autoDetected, dismissAutoNote }),
-    [language, autoDetected]
+    () => ({ language, changeLanguage, autoDetected, dismissAutoNote, regionLanguage }),
+    [language, autoDetected, regionLanguage]
   );
 
   return <LanguageContext.Provider value={value}>{children}</LanguageContext.Provider>;

@@ -220,6 +220,21 @@ h1, h2, h3 {
   font-weight: 500;
 }
 
+.language-switcher-group-label {
+  padding: 0.4rem 0.65rem 0.2rem;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+}
+
+.language-switcher-divider {
+  margin: 0.35rem 0.2rem;
+  border-top: 1px solid var(--border);
+  list-style: none;
+}
+
 .auto-language-note {
   display: flex;
   align-items: center;

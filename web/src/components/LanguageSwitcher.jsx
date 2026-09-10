@@ -4,7 +4,7 @@ import { useLanguage } from '../lib/LanguageContext.jsx';
 import { GlobeIcon } from './icons.jsx';
 
 export default function LanguageSwitcher() {
-  const { language, changeLanguage } = useLanguage();
+  const { language, changeLanguage, regionLanguage } = useLanguage();
   const [isOpen, setIsOpen] = useState(false);
   const containerRef = useRef(null);
 
@@ -17,6 +17,10 @@ export default function LanguageSwitcher() {
   }, []);
 
   const current = LANGUAGES.find((l) => l.code === language) ?? LANGUAGES[0];
+  const suggested = regionLanguage && regionLanguage !== 'en' && regionLanguage !== language
+    ? LANGUAGES.find((l) => l.code === regionLanguage)
+    : null;
+  const rest = suggested ? LANGUAGES.filter((l) => l.code !== suggested.code) : LANGUAGES;
 
   return (
     <div className="language-switcher" ref={containerRef}>
@@ -33,7 +37,25 @@ export default function LanguageSwitcher() {
 
       {isOpen && (
         <ul className="language-switcher-dropdown">
-          {LANGUAGES.map((lang) => (
+          {suggested && (
+            <>
+              <li className="language-switcher-group-label">Suggested for your region</li>
+              <li>
+                <button
+                  type="button"
+                  className="language-switcher-option"
+                  onClick={() => {
+                    setIsOpen(false);
+                    changeLanguage(suggested.code);
+                  }}
+                >
+                  {suggested.name}
+                </button>
+              </li>
+              <li className="language-switcher-divider" role="separator" />
+            </>
+          )}
+          {rest.map((lang) => (
             <li key={lang.code}>
               <button
                 type="button"
