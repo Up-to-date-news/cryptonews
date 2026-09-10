@@ -59,9 +59,10 @@ const RESPONSE_SCHEMA = {
   type: 'object',
   properties: {
     content: { type: 'string' },
+    content_ta: { type: 'string' },
     tags: { type: 'array', items: { type: 'string' } },
   },
-  required: ['content', 'tags'],
+  required: ['content', 'content_ta', 'tags'],
 };
 
 function buildPrompt(item) {
@@ -70,9 +71,11 @@ function buildPrompt(item) {
 
 Research and write a factual news content piece of 50-80 words covering the main points. Do not invent specific numbers, quotes, or names you are not given — keep it accurate and general where details are uncertain.
 
+Also translate that same content piece into natural, accurate Tamil (not a literal word-for-word translation) — keep proper nouns (company names, cryptocurrency names/tickers, people's names) in their original English/Latin script within the Tamil text, as is standard practice in Tamil news writing.
+
 Also identify 2-5 tags for this article: the specific companies, organizations, cryptocurrencies/tickers, and countries/regions named or clearly central to the story. Use the commonly recognized short name for each (e.g. "Bitcoin" not "BTC/USD", "United States" not "the U.S. government"). Do not include generic topic words like "crypto", "fintech", "finance", or "news" as tags — only concrete named entities.
 
-Return JSON matching the schema: { "content": string, "tags": string[] }.`;
+Return JSON matching the schema: { "content": string, "content_ta": string, "tags": string[] }.`;
 }
 
 async function logUsage(countsByModel) {
@@ -137,6 +140,7 @@ async function generateContent(item, modelName) {
   const parsed = JSON.parse(result.response.text());
   return {
     content: parsed.content?.trim() ?? '',
+    content_ta: parsed.content_ta?.trim() ?? '',
     tags: Array.isArray(parsed.tags) ? parsed.tags.map((t) => t.trim()).filter(Boolean) : [],
   };
 }
@@ -186,6 +190,7 @@ export async function enrichItems(dedupedItems) {
       try {
         const result = await generateContentWithRetry(item, modelName);
         item.content = result.content;
+        item.content_ta = result.content_ta;
         item.tags = result.tags;
         successCountByModel[modelName] = (successCountByModel[modelName] ?? 0) + 1;
         break;

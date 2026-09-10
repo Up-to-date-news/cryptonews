@@ -16,6 +16,7 @@ import deleteEvent from '../api/delete-event.js';
 import contact from '../api/contact.js';
 import prerenderArticle from '../api/prerender-article.js';
 import prerenderEvent from '../api/prerender-event.js';
+import geo from '../api/geo.js';
 
 const PORT = 3001;
 
@@ -31,6 +32,7 @@ const routes = {
   '/api/contact': contact,
   '/api/prerender-article': prerenderArticle,
   '/api/prerender-event': prerenderEvent,
+  '/api/geo': geo,
 };
 
 function adaptResponse(res) {

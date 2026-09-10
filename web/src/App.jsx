@@ -9,7 +9,22 @@ import ListPage from './pages/ListPage.jsx';
 import ArticlePage from './pages/ArticlePage.jsx';
 import ThemeToggle from './components/ThemeToggle.jsx';
 import Footer from './components/Footer.jsx';
+import LanguageSwitcher from './components/LanguageSwitcher.jsx';
+import { LanguageProvider, useLanguage } from './lib/LanguageContext.jsx';
+import { LANGUAGES } from './lib/language.js';
 import { SearchIcon, MoreIcon } from './components/icons.jsx';
+
+function AutoLanguageNote() {
+  const { language, autoDetected, dismissAutoNote } = useLanguage();
+  if (!autoDetected) return null;
+  const name = LANGUAGES.find((l) => l.code === language)?.name ?? language;
+  return (
+    <div className="auto-language-note">
+      <span>Showing in {name} based on your location — change anytime using the language menu.</span>
+      <button type="button" onClick={dismissAutoNote} aria-label="Dismiss">✕</button>
+    </div>
+  );
+}
 
 const SearchPage = lazy(() => import('./pages/SearchPage.jsx'));
 const EventsPage = lazy(() => import('./pages/EventsPage.jsx'));
@@ -52,6 +67,7 @@ function PublicLayout() {
         </nav>
         <div className="site-header-right">
           <Link to="/search" className="search-link" aria-label="Search"><SearchIcon size={18} /></Link>
+          <LanguageSwitcher />
           <ThemeToggle />
           <button type="button" className="mobile-menu-toggle" aria-label="Menu" onClick={() => setMenuOpen(true)}>
             <MoreIcon size={20} />
@@ -70,6 +86,8 @@ function PublicLayout() {
         </div>
       )}
 
+      <AutoLanguageNote />
+
       <main>
         <Outlet />
       </main>
@@ -80,33 +98,35 @@ function PublicLayout() {
 
 export default function App() {
   return (
-    <Suspense fallback={<p className="status-message">Loading…</p>}>
-      <Routes>
-        <Route element={<PublicLayout />}>
-          <Route path="/" element={<ListPage />} />
-          <Route path="/article/:slug" element={<ArticlePage />} />
-          <Route path="/search" element={<SearchPage />} />
-          <Route path="/events" element={<EventsPage />} />
-          <Route path="/event/:slug" element={<EventDetailPage />} />
-          <Route path="/terms" element={<TermsPage />} />
-          <Route path="/contact" element={<ContactPage />} />
-        </Route>
+    <LanguageProvider>
+      <Suspense fallback={<p className="status-message">Loading…</p>}>
+        <Routes>
+          <Route element={<PublicLayout />}>
+            <Route path="/" element={<ListPage />} />
+            <Route path="/article/:slug" element={<ArticlePage />} />
+            <Route path="/search" element={<SearchPage />} />
+            <Route path="/events" element={<EventsPage />} />
+            <Route path="/event/:slug" element={<EventDetailPage />} />
+            <Route path="/terms" element={<TermsPage />} />
+            <Route path="/contact" element={<ContactPage />} />
+          </Route>
 
-        <Route path="/admin/login" element={<AdminLoginPage />} />
-        <Route path="/admin" element={<AdminGuard><AdminLayout /></AdminGuard>}>
-          <Route index element={<Navigate to="dashboard" replace />} />
-          <Route path="dashboard" element={<AdminDashboardPage />} />
-          <Route path="posts" element={<AdminPostsListPage />} />
-          <Route path="posts/new" element={<AdminCreatePostPage />} />
-          <Route path="ai-posts" element={<AdminAIPostsListPage />} />
-          <Route path="posts/:id/edit" element={<AdminEditPostPage />} />
-          <Route path="events" element={<AdminEventsListPage />} />
-          <Route path="events/new" element={<AdminCreateEventPage />} />
-          <Route path="events/:id/edit" element={<AdminEditEventPage />} />
-          <Route path="tags" element={<AdminTagsPage />} />
-          <Route path="needs-content" element={<AdminNeedsContentPage />} />
-        </Route>
-      </Routes>
-    </Suspense>
+          <Route path="/admin/login" element={<AdminLoginPage />} />
+          <Route path="/admin" element={<AdminGuard><AdminLayout /></AdminGuard>}>
+            <Route index element={<Navigate to="dashboard" replace />} />
+            <Route path="dashboard" element={<AdminDashboardPage />} />
+            <Route path="posts" element={<AdminPostsListPage />} />
+            <Route path="posts/new" element={<AdminCreatePostPage />} />
+            <Route path="ai-posts" element={<AdminAIPostsListPage />} />
+            <Route path="posts/:id/edit" element={<AdminEditPostPage />} />
+            <Route path="events" element={<AdminEventsListPage />} />
+            <Route path="events/new" element={<AdminCreateEventPage />} />
+            <Route path="events/:id/edit" element={<AdminEditEventPage />} />
+            <Route path="tags" element={<AdminTagsPage />} />
+            <Route path="needs-content" element={<AdminNeedsContentPage />} />
+          </Route>
+        </Routes>
+      </Suspense>
+    </LanguageProvider>
   );
 }

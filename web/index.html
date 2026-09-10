@@ -44,6 +44,24 @@
   </head>
   <body>
     <div id="root"></div>
+    <!--
+      Google's free client-side Website Translator widget — no API key,
+      no signup, no per-request cost. Kept hidden; the header's language
+      switcher drives it indirectly by setting the `googtrans` cookie and
+      reloading (see web/src/lib/LanguageContext.jsx), which this script
+      reads on load. Tamil is handled separately via a curated
+      pipeline-generated translation, not this widget.
+    -->
+    <div id="google_translate_element" style="display:none;"></div>
+    <script type="text/javascript">
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement(
+          { pageLanguage: 'en', autoDisplay: false },
+          'google_translate_element'
+        );
+      }
+    </script>
+    <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
