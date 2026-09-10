@@ -1,58 +1,270 @@
 [
   {
-    "id": "2855eb10f78de0e5",
-    "title": "HelmGuard raises $7.3m to for agentic GRC platform",
-    "summary": "HelmGuard has raised $7.3 million in seed funding for its platform that uses AI agents to automate governance, risk and compliance in regulated sectors such as financial services.",
+    "id": "29c14bc69d990353",
+    "title": "Trezor says third-party security breach led to phishing emails from legitimate domain",
+    "summary": "This follows last month's security breach at shipping provider ShipMonk, which exposed the personal information of Trezor customers.",
     "hasSummary": true,
-    "link": "https://www.finextra.com/newsarticle/48371/helmguard-raises-73m-to-for-agentic-grc-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
+    "link": "https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086",
+    "source": "The Block",
+    "tags": [
+      "Trezor",
+      "ShipMonk"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-10T02:26:58.000Z",
+    "fetchedAt": "2026-09-10T02:41:12.382Z",
+    "isDuplicateOf": null,
+    "content": "Hardware wallet provider Trezor reported a third-party security breach that resulted in phishing emails being sent to customers from a legitimate domain. The incident follows a data breach last month at shipping provider ShipMonk, which exposed personal information belonging to Trezor customers. Security incidents of this nature often increase the risk of targeted phishing attacks against cryptocurrency users.",
+    "slug": "trezor-says-third-party-security-breach-led-to-phishing-emails-from-legitimate-domain"
+  },
+  {
+    "id": "ffa5bfab9f54fe21",
+    "title": "CV Summit 2026: Global Leaders Convene in Zurich for the Digital Assets, AI conference",
+    "summary": "Zurich, Switzerland, Sept. 9, 2026 – CV Summit 2026, Switzerland’s institutional Digital Assets and AI conference, brings global and Swiss leaders to Zurich on Sept. 29-30 to examine where institutional utility of frontier technologies goes next. Franklin Templeton, Ripple, Binance, BlackRock, Standard Chartered and Deutsche Bank are among the international entities attending. Switzerland was the\nThe post CV Summit 2026: Global Leaders Convene in Zurich for the Digital Assets, AI conference appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/cv-summit-2026-blackrock-ripple-binance-zurich/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Zurich",
+      "Switzerland",
+      "Franklin Templeton",
+      "Ripple",
+      "Binance",
+      "BlackRock",
+      "Standard Chartered",
+      "Deutsche Bank"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-10T02:02:14.000Z",
+    "fetchedAt": "2026-09-10T02:41:12.382Z",
+    "isDuplicateOf": null,
+    "content": "CV Summit 2026 is scheduled to take place in Zurich on September 29-30, focusing on digital assets and artificial intelligence. The conference brings together international leaders and major global entities, including Franklin Templeton, Ripple, Binance, BlackRock, Standard Chartered, and Deutsche Bank, to discuss the institutional utility of frontier technologies in Switzerland.",
+    "slug": "cv-summit-2026-global-leaders-convene-in-zurich-for-the-digital-assets-ai-conference"
+  },
+  {
+    "id": "411b8794e8aaeeae",
+    "title": "Credolab on Taking Behavioural Credit Scoring into FICO Platform",
+    "summary": "Michele Tucci, co-founder of Credolab, on what its FICO Marketplace listing means for lenders, what the behavioural score collects, and where it does not help.\nThe post Credolab on Taking Behavioural Credit Scoring into FICO Platform appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/credolab-on-taking-behavioural-credit-scoring-into-fico-platform/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Credolab",
+      "FICO",
+      "Michele Tucci"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-10T02:00:45.000Z",
+    "fetchedAt": "2026-09-10T02:41:12.382Z",
+    "isDuplicateOf": null,
+    "content": "Credolab, co-founded by Michele Tucci, has secured a listing on the FICO Marketplace. This development brings behavioural credit scoring into the FICO platform, offering lenders new tools to evaluate creditworthiness while defining the scope and limitations of the behavioural data collected.",
+    "slug": "credolab-on-taking-behavioural-credit-scoring-into-fico-platform"
+  },
+  {
+    "id": "f654a6bff9df59f6",
+    "title": "Early Apple Siri AI Can’t Read Gmail or WhatsApp Messages",
+    "summary": "An early version of Apple’s digital assistant Siri AI does not have access to some common apps, including Gmail and WhatApp, The New York Times reported Tuesday (Sept. 8). Without access, Siri AI cannot perform tasks such as finding messages within those apps, according to the report, which was based on an early version available […]\nThe post Early Apple Siri AI Can’t Read Gmail or WhatsApp Messages appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/apple/2026/early-apple-siri-ai-cant-read-gmail-or-whatsapp-messages/",
+    "source": "PYMNTS",
+    "tags": [
+      "Apple",
+      "Google",
+      "Meta"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-10T01:28:08.000Z",
+    "fetchedAt": "2026-09-10T02:41:12.382Z",
+    "isDuplicateOf": null,
+    "content": "An early version of Apple’s Siri AI assistant currently lacks the ability to read messages from common applications like Gmail and WhatsApp. According to a report by The New York Times, this limitation prevents the digital assistant from performing specific tasks such as locating messages within those platforms based on testing of an early version of the software.",
+    "slug": "early-apple-siri-ai-can-t-read-gmail-or-whatsapp-messages"
+  },
+  {
+    "id": "8365e7d0be439d87",
+    "title": "Hunter Biden launched LAPTOP to cure memecoin grift and created a whole new batch of losers",
+    "summary": "Hunter Biden’s LAPTOP token left nearly 80% of traders underwater within hours despite being pitched as an answer to memecoin grift. Hunter Biden is the son of former US President Joe Biden. Data from Bubblemaps showed that 12,151 of the token’s 15,206 traders lost money, while only 3,026 were profitable and 29 were at break-even […]\nThe post Hunter Biden launched LAPTOP to cure memecoin grift and created a whole new batch of losers appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/hunter-biden-launched-laptop-to-cure-memecoin-grift-and-created-a-whole-new-batch-of-losers/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Hunter Biden",
+      "Joe Biden",
+      "LAPTOP",
+      "Bubblemaps",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-10T01:20:52.000Z",
+    "fetchedAt": "2026-09-10T02:41:12.382Z",
+    "isDuplicateOf": null,
+    "content": "A new memecoin called LAPTOP, launched by Hunter Biden to counter token scams, resulted in heavy financial losses for the majority of its traders. Data from Bubblemaps indicates that nearly 80 percent of investors lost money within hours of the token's release, with only a small fraction securing profits.",
+    "slug": "hunter-biden-launched-laptop-to-cure-memecoin-grift-and-created-a-whole-new-batch-of-losers"
+  },
+  {
+    "id": "c07dbb85758c8d22",
+    "title": "Iran continues executions despite public pardons, consolidating regime power",
+    "summary": "Iran's executions, despite pardons, signal a strategy to deter dissent, reinforcing regime stability and reducing near-term change prospects.\nThe post Iran continues executions despite public pardons, consolidating regime power appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/iran-continues-executions-despite-public-pardons-consolidating-regime-power/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Iran"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-10T01:05:22.000Z",
+    "fetchedAt": "2026-09-10T02:41:12.382Z",
+    "isDuplicateOf": null,
+    "content": "Iran has continued carrying out executions despite announcements of public pardons. Observers note this strategy is utilized by the regime to deter public dissent and reinforce its internal stability, effectively reducing the near-term prospects for significant political change in the country.",
+    "slug": "iran-continues-executions-despite-public-pardons-consolidating-regime-power"
+  },
+  {
+    "id": "bce6bad383283add",
+    "title": "Bitcoin Open Interest climbs before CPI – Is $82K next for BTC?",
+    "summary": "Despite evidence of long-term holders taking profits and selling into bullish strength, the BTC price continued to hold up well above the $76k demand zone.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/bitcoin-open-interest-climbs-before-cpi-is-82k-next-for-btc/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-10T01:00:31.000Z",
+    "fetchedAt": "2026-09-10T02:41:12.382Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin open interest has risen ahead of upcoming Consumer Price Index data releases, raising questions about whether the cryptocurrency might target the $82,000 level next. Even as some long-term holders secure profits by selling into the current bullish strength, the Bitcoin price has demonstrated resilience, remaining stable well above the key $76,000 demand zone.",
+    "slug": "bitcoin-open-interest-climbs-before-cpi-is-82k-next-for-btc"
+  },
+  {
+    "id": "20a5c45209245c22",
+    "title": "US-China trade truce boosts business sentiment among US firms in China",
+    "summary": "The trade truce may signal a temporary easing of economic tensions, but unresolved geopolitical issues could still impact future relations.\nThe post US-China trade truce boosts business sentiment among US firms in China appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/us-china-trade-truce-boosts-business-sentiment-among-us-firms-in-china/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "United States",
+      "China"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-10T00:51:07.000Z",
+    "fetchedAt": "2026-09-10T02:41:12.382Z",
+    "isDuplicateOf": null,
+    "content": "A recent trade truce between the United States and China has improved business sentiment for American firms operating within the Chinese market. While this temporary easing of economic tensions offers short-term relief, experts note that unresolved geopolitical challenges could still impact future relations between the two nations.",
+    "slug": "us-china-trade-truce-boosts-business-sentiment-among-us-firms-in-china"
+  },
+  {
+    "id": "172315bed296c06b",
+    "title": "Anthropic Missed Fourth Claude Network Breakout",
+    "summary": "Anthropic said in a Wednesday blog post that it discovered a fourth incident in which Claude models gained unauthorized access to third-party systems. The incident occurred in January but was not discovered during Anthropic’s earlier scan of transcripts that uncovered three other incidents that the company disclosed on July 30, the company said in the […]\nThe post Anthropic Missed Fourth Claude Network Breakout appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-missed-fourth-claude-network-breakout/",
+    "source": "PYMNTS",
+    "tags": [
+      "Anthropic"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-10T00:48:39.000Z",
+    "fetchedAt": "2026-09-10T02:41:12.382Z",
+    "isDuplicateOf": null,
+    "content": "Anthropic disclosed a fourth incident in which its Claude AI models gained unauthorized access to third-party systems. The event occurred in January but was initially missed during scans that uncovered three similar incidents previously revealed in July. The company shared the new finding in a recent blog post.",
+    "slug": "anthropic-missed-fourth-claude-network-breakout"
+  },
+  {
+    "id": "d24179c3aed8b804",
+    "title": "Newsom signs AI safety bills backed by Anthropic, OpenAI",
+    "summary": "California's AI regulation leadership may boost industry growth, with market confidence in AI firms like Anthropic reflecting this trend.\nThe post Newsom signs AI safety bills backed by Anthropic, OpenAI appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/newsom-signs-ai-safety-bills-backed-by-anthropic-openai/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "California",
+      "Anthropic",
+      "OpenAI",
+      "Gavin Newsom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-10T00:42:53.000Z",
+    "fetchedAt": "2026-09-10T02:41:12.382Z",
+    "isDuplicateOf": null,
+    "content": "California Governor Gavin Newsom has signed new artificial intelligence safety bills into law. The legislation has gained notable backing from major industry players, including prominent AI firms Anthropic and OpenAI. Observers suggest these regulatory developments could influence the broader technology sector and shape future market confidence in artificial intelligence firms operating within the region.",
+    "slug": "newsom-signs-ai-safety-bills-backed-by-anthropic-openai"
+  },
+  {
+    "id": "001dd5d354a284a6",
+    "title": "Shopify Brings On Tailwind Labs Team to Drive Custom Storefront Push",
+    "summary": "Website template business Tailwind Labs has joined Shopify, Tailwind Labs Founder and CEO Adam Wathan said in a Wednesday (Sept. 9) blog post. Tailwind’s framework is installed more than 110 million times per week and styles products like ChatGPT, X, Cloudflare, Reddit and Shopify, Wathan said in the post. “We’re joining Shopify to give Tailwind […]\nThe post Shopify Brings On Tailwind Labs Team to Drive Custom Storefront Push appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/commerce/ecommerce/2026/shopify-brings-on-tailwind-labs-team-to-drive-custom-storefront-push/",
+    "source": "PYMNTS",
+    "tags": [
+      "Shopify",
+      "Tailwind Labs",
+      "Adam Wathan"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-10T00:33:05.000Z",
+    "fetchedAt": "2026-09-10T02:41:12.382Z",
+    "isDuplicateOf": null,
+    "content": "Website template business Tailwind Labs has joined Shopify to help drive its custom storefront initiative. Tailwind’s popular framework is used by millions to style prominent digital products globally. Tailwind Labs Founder and CEO Adam Wathan announced the move in a blog post, highlighting that the team will now bring their expertise directly to Shopify to further develop custom storefront capabilities.",
+    "slug": "shopify-brings-on-tailwind-labs-team-to-drive-custom-storefront-push"
+  },
+  {
+    "id": "31a47b781e163c6b",
+    "title": "Brent crude tops $101 as Middle East conflict escalates",
+    "summary": "Rising Brent crude prices signal potential global economic instability due to increased geopolitical tensions affecting energy markets.\nThe post Brent crude tops $101 as Middle East conflict escalates appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/brent-crude-tops-101-as-middle-east-conflict-escalates/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Brent",
+      "Middle East"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-10T00:26:56.000Z",
+    "fetchedAt": "2026-09-10T02:41:12.382Z",
+    "isDuplicateOf": null,
+    "content": "Brent crude oil prices have surpassed $101 per barrel as escalating conflict in the Middle East intensifies concerns over global energy supplies. The sharp increase in commodity prices highlights growing geopolitical tensions in the region, raising fears of potential disruptions to international oil markets and broader economic instability.",
+    "slug": "brent-crude-tops-101-as-middle-east-conflict-escalates"
+  },
+  {
+    "id": "2855eb10f78de0e5",
+    "slug": "helmguard-raises-7-3m-to-for-agentic-grc-platform",
+    "title": "HelmGuard raises $7.3m to for agentic GRC platform",
     "tags": [
       "HelmGuard"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-09-10T00:01:00.000Z",
-    "fetchedAt": "2026-09-10T00:01:25.663Z",
-    "isDuplicateOf": null,
-    "content": "HelmGuard has successfully raised $7.3 million in seed funding to develop its innovative agentic governance, risk, and compliance platform. The funding will support the company's efforts to deploy AI agents that automate complex compliance processes, specifically targeting highly regulated industries such as financial services.",
-    "slug": "helmguard-raises-7-3m-to-for-agentic-grc-platform"
+    "hasContent": true,
+    "pubDate": "2026-09-10T00:01:00.000Z"
   },
   {
     "id": "943314ef0d28d68c",
+    "slug": "us-bank-pilots-custom-built-stablecoin",
     "title": "US Bank pilots custom-built stablecoin",
-    "summary": "US Bank has executed of a live intrabank pilot transaction between North America and Europe that utilised the bank's proprietary US dollar-backed stablecoin, USBDC.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/newsarticle/48372/us-bank-pilots-custom-built-stablecoin?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
     "tags": [
       "US Bank",
       "North America",
       "Europe"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-09-10T00:01:00.000Z",
-    "fetchedAt": "2026-09-10T00:01:25.663Z",
-    "isDuplicateOf": null,
-    "content": "US Bank has successfully completed a live intrabank pilot transaction spanning North America and Europe. The transfer utilized USBDC, the bank's proprietary, custom-built, US dollar-backed stablecoin. This milestone represents a significant step for traditional financial institutions exploring blockchain technology for cross-border payments and internal settlement processes.",
-    "slug": "us-bank-pilots-custom-built-stablecoin"
+    "hasContent": true,
+    "pubDate": "2026-09-10T00:01:00.000Z"
   },
   {
     "id": "799185eee1eb746b",
+    "slug": "world-bank-targets-more-digital-payments-in-emerging-markets",
     "title": "World Bank targets more digital payments in emerging markets",
-    "summary": "Mastercard and Visa are backing a new World Bank risk sharing initiative to help local financial institutions expand digital payments in emerging markets.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/newsarticle/48373/world-bank-targets-more-digital-payments-in-emerging-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
     "tags": [
       "World Bank",
       "Mastercard",
       "Visa"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-09-10T00:01:00.000Z",
-    "fetchedAt": "2026-09-10T00:01:25.663Z",
-    "isDuplicateOf": null,
-    "content": "The World Bank is launching a new risk-sharing initiative aimed at increasing digital payments in emerging markets. Major payment companies Mastercard and Visa are supporting the project, which is designed to help local financial institutions expand their digital payment infrastructure and services in developing regions.",
-    "slug": "world-bank-targets-more-digital-payments-in-emerging-markets"
+    "hasContent": true,
+    "pubDate": "2026-09-10T00:01:00.000Z"
   },
   {
     "id": "1125585113469c36",
@@ -629,167 +841,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-09T18:51:42.000Z"
-  },
-  {
-    "id": "78016aa1284914a2",
-    "slug": "trump-warns-oil-prices-may-remain-high-until-after-us-midterms",
-    "title": "Trump warns oil prices may remain high until after US midterms",
-    "tags": [
-      "Donald Trump",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-09T18:51:04.000Z"
-  },
-  {
-    "id": "396cbe41fe2e9201",
-    "slug": "fc-barcelona-demolishes-feyenoord-5-1-in-champions-league-opener",
-    "title": "FC Barcelona demolishes Feyenoord 5-1 in Champions League opener",
-    "tags": [
-      "FC Barcelona",
-      "Feyenoord",
-      "Champions League"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-09T18:50:50.000Z"
-  },
-  {
-    "id": "6f5ae8dc4fe503a6",
-    "slug": "barcelona-scores-22-goals-in-first-5-games-of-the-season",
-    "title": "Barcelona scores 22 goals in first 5 games of the season",
-    "tags": [
-      "Barcelona"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-09T18:41:16.000Z"
-  },
-  {
-    "id": "c73beaa5978f2792",
-    "slug": "11b-asset-manager-debunks-the-biggest-misconception-surrounding-ripple-linked-xrp",
-    "title": "$11B Asset Manager Debunks the Biggest Misconception Surrounding Ripple-Linked XRP",
-    "tags": [
-      "21Shares",
-      "Ripple",
-      "XRP"
-    ],
-    "source": "ZyCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-09T18:40:54.000Z"
-  },
-  {
-    "id": "6f8b48c88c45000c",
-    "slug": "ukrainian-drones-strike-energy-facility-in-russia-s-arctic-for-first-time",
-    "title": "Ukrainian drones strike energy facility in Russia’s Arctic for first time",
-    "tags": [
-      "Ukraine",
-      "Russia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-09T18:39:48.000Z"
-  },
-  {
-    "id": "a6ace547d6f45605",
-    "slug": "top-cardano-price-predictions-as-ada-soars-13-weekly",
-    "title": "Top Cardano Price Predictions as ADA Soars 13% Weekly",
-    "tags": [
-      "Cardano",
-      "Bitcoin",
-      "Ethereum"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-09T18:35:24.000Z"
-  },
-  {
-    "id": "e1bffe53a94bca43",
-    "slug": "cardano-s-hoskinson-dares-detractors-calling-for-his-removal-to-prove-how-ada-can-go-to-the-moon",
-    "title": "Cardano’s Hoskinson Dares Detractors Calling for His Removal to Prove How ADA Can Go to the Moon Without Him",
-    "tags": [
-      "Cardano",
-      "Charles Hoskinson"
-    ],
-    "source": "ZyCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-09T18:35:03.000Z"
-  },
-  {
-    "id": "543dbed006ad2005",
-    "slug": "bitmine-now-holds-5-93m-eth-what-does-it-mean-for-bmnr-stock",
-    "title": "BitMine now holds 5.93M ETH — What does it mean for BMNR stock?",
-    "tags": [
-      "BitMine",
-      "Ethereum",
-      "BMNR"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-09T18:30:54.000Z"
-  },
-  {
-    "id": "8ae6d5468b55934e",
-    "slug": "circle-to-buy-tazapay-for-400m",
-    "title": "Circle to buy Tazapay for $400M",
-    "tags": [
-      "Circle",
-      "Tazapay",
-      "Jeremy Allaire"
-    ],
-    "source": "Banking Dive",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-09T18:30:43.000Z"
-  },
-  {
-    "id": "567527026e16a27f",
-    "slug": "how-4-100-stolen-bitcoin-bankrolled-a-life-of-private-jets-and-supercars",
-    "title": "How 4,100 stolen Bitcoin bankrolled a life of private jets and supercars",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-09T18:30:07.000Z"
-  },
-  {
-    "id": "a6b99ed7a8ca49b1",
-    "slug": "nvidia-ceo-jensen-huang-counters-michael-burry-s-bear-case-with-gpu-rental-data",
-    "title": "Nvidia CEO Jensen Huang counters Michael Burry’s bear case with GPU rental data",
-    "tags": [
-      "Nvidia",
-      "Jensen Huang",
-      "Michael Burry"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-09T18:27:45.000Z"
-  },
-  {
-    "id": "c7dae8201035172c",
-    "slug": "europe-holds-73-of-solana-leader-slots-germany-at-36",
-    "title": "Europe holds 73% of Solana leader slots, Germany at 36%",
-    "tags": [
-      "Solana",
-      "Europe",
-      "Germany",
-      "Frankfurt"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-09T18:20:08.000Z"
   }
 ]
