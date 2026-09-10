@@ -54,6 +54,23 @@ function reloadToEnglish() {
   window.location.reload();
 }
 
+// Hiding the banner iframe via CSS doesn't stop Google's script from also
+// pushing `body` down with an inline `top` offset to make room for it —
+// and that inline style can be (re)applied after our stylesheet loads, so
+// a CSS override alone isn't reliable against it. Watch for it and reset
+// it directly instead of fighting a cascade-order race.
+function watchBodyTopOffset() {
+  const reset = () => {
+    if (document.body.style.top && document.body.style.top !== '0px') {
+      document.body.style.top = '0px';
+    }
+  };
+  reset();
+  const observer = new MutationObserver(reset);
+  observer.observe(document.body, { attributes: true, attributeFilter: ['style'] });
+  return observer;
+}
+
 const AUTO_APPLIED_KEY = 'langAutoApplied';
 
 export function LanguageProvider({ children }) {
@@ -74,6 +91,11 @@ export function LanguageProvider({ children }) {
   useEffect(() => {
     if (language !== 'en') applyWidgetLanguage(language);
   }, [location.pathname, language]);
+
+  useEffect(() => {
+    const observer = watchBodyTopOffset();
+    return () => observer.disconnect();
+  }, []);
 
   useEffect(() => {
     fetch('/api/geo')

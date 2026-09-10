@@ -54,14 +54,17 @@ body {
    Show original" status bar itself once active — separate from (and not
    controlled by) the autoDisplay:false we set on the widget, which only
    suppresses its "Translate this page?" prompt. We already have our own
-   header language switcher, so hide it; Google also shoves `body` down
-   with an inline top offset to make room for that bar, which this
-   !important reclaims. */
-.goog-te-banner-frame.skiptranslate {
+   header language switcher, so hide it. Targets `iframe.skiptranslate`
+   specifically (not the bare `.skiptranslate` class, which Google also
+   puts on inline text wrappers throughout already-translated content —
+   hiding those would delete real page text). The obfuscated per-version
+   class Google assigns the banner itself (something like
+   `VIpgJd-ZVi9od-ORHb-OEVmcd`) isn't targeted directly since it isn't
+   stable across their deployments; `iframe.skiptranslate` is. The body
+   top-offset this banner pushes in is corrected in JS (LanguageContext),
+   since Google's own script can re-apply it after this stylesheet loads. */
+iframe.skiptranslate {
   display: none !important;
-}
-body {
-  top: 0 !important;
 }
 
 a {
