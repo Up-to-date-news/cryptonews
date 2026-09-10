@@ -95,10 +95,10 @@ export default function AdminPostsList({
     if (!window.confirm(`Delete "${postTitle}"? This can't be undone.`)) return;
     setDeletingId(id);
     try {
-      const res = await authFetch('/api/delete-news', {
+      const res = await authFetch('/api/delete', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ id }),
+        body: JSON.stringify({ type: 'news', id }),
       });
       const data = await res.json().catch(() => null);
       if (!res.ok) throw new Error(data?.error ?? `Request failed: ${res.status}`);
@@ -122,10 +122,10 @@ export default function AdminPostsList({
 
     setBulkDeleting(true);
     try {
-      const res = await authFetch('/api/delete-news', {
+      const res = await authFetch('/api/delete', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ ids }),
+        body: JSON.stringify({ type: 'news', ids }),
       });
       const data = await res.json().catch(() => null);
       if (!res.ok) throw new Error(data?.error ?? `Request failed: ${res.status}`);

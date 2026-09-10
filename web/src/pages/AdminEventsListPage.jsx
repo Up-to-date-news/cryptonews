@@ -99,10 +99,10 @@ export default function AdminEventsListPage() {
     if (!window.confirm(`Delete "${title}"? This can't be undone.`)) return;
     setDeletingId(id);
     try {
-      const res = await authFetch('/api/delete-event', {
+      const res = await authFetch('/api/delete', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ id }),
+        body: JSON.stringify({ type: 'event', id }),
       });
       const data = await res.json().catch(() => null);
       if (!res.ok) throw new Error(data?.error ?? `Request failed: ${res.status}`);
@@ -126,10 +126,10 @@ export default function AdminEventsListPage() {
 
     setBulkDeleting(true);
     try {
-      const res = await authFetch('/api/delete-event', {
+      const res = await authFetch('/api/delete', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ ids }),
+        body: JSON.stringify({ type: 'event', ids }),
       });
       const data = await res.json().catch(() => null);
       if (!res.ok) throw new Error(data?.error ?? `Request failed: ${res.status}`);

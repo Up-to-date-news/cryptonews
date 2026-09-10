@@ -10,9 +10,8 @@ import createNews from '../api/create-news.js';
 import addTag from '../api/add-tag.js';
 import createEvent from '../api/create-event.js';
 import updateNews from '../api/update-news.js';
-import deleteNews from '../api/delete-news.js';
 import updateEvent from '../api/update-event.js';
-import deleteEvent from '../api/delete-event.js';
+import deleteHandler from '../api/delete.js';
 import contact from '../api/contact.js';
 import prerenderArticle from '../api/prerender-article.js';
 import prerenderEvent from '../api/prerender-event.js';
@@ -26,9 +25,8 @@ const routes = {
   '/api/add-tag': addTag,
   '/api/create-event': createEvent,
   '/api/update-news': updateNews,
-  '/api/delete-news': deleteNews,
   '/api/update-event': updateEvent,
-  '/api/delete-event': deleteEvent,
+  '/api/delete': deleteHandler,
   '/api/contact': contact,
   '/api/prerender-article': prerenderArticle,
   '/api/prerender-event': prerenderEvent,

@@ -1,4 +1,5 @@
 import { createContext, useContext, useEffect, useMemo, useState } from 'react';
+import { useLocation } from 'react-router-dom';
 import { detectLanguageFromGeo, getSavedLanguage, saveLanguage } from './language.js';
 
 const LanguageContext = createContext(null);
@@ -37,20 +38,24 @@ const AUTO_APPLIED_KEY = 'langAutoApplied';
 export function LanguageProvider({ children }) {
   const [language, setLanguageState] = useState(() => getSavedLanguage() ?? 'en');
   const [autoDetected, setAutoDetected] = useState(false);
+  const location = useLocation();
 
-  // Re-apply a saved (or geo-guessed) Tier-2 language on every load, since
-  // the widget itself has no memory of a prior visit.
+  // React Router swaps in fresh DOM on every client-side navigation, which
+  // the widget never sees (it only translates on its own combo-box
+  // change event) — left alone, a translated view reverts to English for
+  // whatever the new route just rendered while old chrome (header/nav)
+  // stays stuck in the previous language. Re-firing the same selection
+  // makes the widget re-scan and translate the page's current DOM.
   useEffect(() => {
-    const saved = getSavedLanguage();
-    if (saved && saved !== 'en' && saved !== 'ta') {
-      applyWidgetLanguage(saved);
-      return;
-    }
-    if (saved) return; // 'en' or 'ta' — nothing for the widget to do
+    if (language !== 'en' && language !== 'ta') applyWidgetLanguage(language);
+  }, [location.pathname, language]);
 
-    // Fresh visitor: no saved choice yet. Geo-detect a default once per
-    // session so repeated re-renders don't re-fetch/re-apply.
-    if (sessionStorage.getItem(AUTO_APPLIED_KEY)) return;
+  // A saved Tier-2 language is re-applied to the widget by the effect
+  // above (it also runs on mount, since `language` already holds it by
+  // then). This effect only handles a genuinely fresh visitor: geo-detect
+  // a default once per session so repeated re-renders don't re-fetch.
+  useEffect(() => {
+    if (getSavedLanguage() || sessionStorage.getItem(AUTO_APPLIED_KEY)) return;
 
     fetch('/api/geo')
       .then((res) => (res.ok ? res.json() : null))
@@ -62,7 +67,6 @@ export function LanguageProvider({ children }) {
         sessionStorage.setItem('langAutoDetectedNote', '1');
         setLanguageState(guess);
         setAutoDetected(true);
-        if (guess !== 'ta') applyWidgetLanguage(guess);
       })
       .catch(() => {
         // Geo lookup failing just means no auto-detected default — the
