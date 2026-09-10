@@ -22,6 +22,22 @@ function applyWidgetLanguage(widgetCode, attempt = 0) {
     setTimeout(() => applyWidgetLanguage(widgetCode, attempt + 1), 200);
     return;
   }
+
+  // If the select is already on this language (e.g. re-applying after a
+  // client-side route change to a new page the widget hasn't seen yet),
+  // setting the same value and dispatching 'change' is a silent no-op —
+  // Google's own listener only reacts to an actual value transition.
+  // Bounce through the blank "Select Language" option first to force one.
+  if (select.value === widgetCode) {
+    select.value = '';
+    select.dispatchEvent(new Event('change'));
+    setTimeout(() => {
+      select.value = widgetCode;
+      select.dispatchEvent(new Event('change'));
+    }, 50);
+    return;
+  }
+
   select.value = widgetCode;
   select.dispatchEvent(new Event('change'));
 }

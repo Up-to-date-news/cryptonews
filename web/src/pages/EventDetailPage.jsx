@@ -98,7 +98,7 @@ export default function EventDetailPage() {
 
   return (
     <article className="event-detail-page">
-      <Link to="/events" className="back-link">← Back to events</Link>
+      <Link to="/events" className="back-link" translate="no">← Back to events</Link>
 
       {event.imagePath && (
         <img src={`/${event.imagePath}`} alt={event.title} className="event-detail-image" fetchpriority="high" decoding="async" />
@@ -106,24 +106,24 @@ export default function EventDetailPage() {
 
       <h1>{event.title}</h1>
 
-      <div className="tag-list">
+      <div className="tag-list" translate="no">
         <span className="tag-pill-sm">{formatModeLabel(event.mode)}</span>
         <span className="tag-pill-sm">{formatPricingLabel(event.pricing)}</span>
       </div>
 
-      <p className="event-detail-meta">{formatDateRange(event.startDate, event.endDate, event.timezone)}</p>
-      {event.location && <p className="event-detail-meta">{event.location}</p>}
+      <p className="event-detail-meta" translate="no">{formatDateRange(event.startDate, event.endDate, event.timezone)}</p>
+      {event.location && <p className="event-detail-meta" translate="no">{event.location}</p>}
 
       {event.description && <p className="article-content">{event.description}</p>}
 
       {event.link && (
-        <a href={event.link} target="_blank" rel="noopener noreferrer" className="read-full-link">
+        <a href={event.link} target="_blank" rel="noopener noreferrer" className="read-full-link" translate="no">
           Event link →
         </a>
       )}
 
       {nextEvent && (
-        <Link to={`/event/${nextEvent.slug}`} className="sticky-next-button">
+        <Link to={`/event/${nextEvent.slug}`} className="sticky-next-button" translate="no">
           Next Event <ChevronRightIcon size={16} />
         </Link>
       )}

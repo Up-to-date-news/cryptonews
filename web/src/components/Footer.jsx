@@ -5,7 +5,7 @@ export default function Footer() {
   const year = new Date().getFullYear();
 
   return (
-    <footer className="site-footer">
+    <footer className="site-footer" translate="no">
       <div className="site-footer-social">
         <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
           <InstagramIcon size={19} />

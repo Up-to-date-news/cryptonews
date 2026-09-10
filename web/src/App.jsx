@@ -55,7 +55,7 @@ function PublicLayout() {
 
   return (
     <div className="app">
-      <header className="site-header">
+      <header className="site-header" translate="no">
         <Link to="/" className="site-logo" aria-label="Up to Date Crypto News">
           <img src="/logos/logo-web.svg" alt="Up to Date Crypto News" className="site-logo-img site-logo-img-web" />
           <img src="/logos/logo-mobile.svg" alt="Up to Date Crypto News" className="site-logo-img site-logo-img-mobile" />
@@ -76,7 +76,7 @@ function PublicLayout() {
       </header>
 
       {menuOpen && (
-        <div className="mobile-menu-overlay">
+        <div className="mobile-menu-overlay" translate="no">
           <button type="button" className="mobile-menu-back" onClick={() => setMenuOpen(false)}>← Back</button>
           <nav className="mobile-menu-nav">
             <NavLink to="/" end className={({ isActive }) => (isActive ? 'active' : '')}>News</NavLink>

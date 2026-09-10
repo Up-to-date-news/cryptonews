@@ -112,13 +112,13 @@ export default function ArticlePage() {
 
   return (
     <article className="article-page">
-      <Link to="/" className="back-link">← Back</Link>
+      <Link to="/" className="back-link" translate="no">← Back</Link>
       {article.imagePath && (
         <img src={`/${article.imagePath}`} alt="" className="article-detail-image" fetchpriority="high" decoding="async" />
       )}
       <h1>{article.title}</h1>
       {article.tags?.length > 0 && (
-        <div className="tag-list">
+        <div className="tag-list" translate="no">
           {article.tags.map((tag) => (
             <span key={tag} className="tag-pill">{tag}</span>
           ))}
@@ -127,12 +127,12 @@ export default function ArticlePage() {
       <p className="article-content" translate={isCuratedTamil ? 'no' : undefined}>
         {displayContent ?? 'Content unavailable for this article.'}
       </p>
-      <p className="article-pubdate">
+      <p className="article-pubdate" translate="no">
         Published {article.pubDate ? new Date(article.pubDate).toLocaleString() : 'date unknown'} · Author: Admin
       </p>
 
       {nextArticle && (
-        <Link to={`/article/${nextArticle.slug}`} state={{ pubDate: nextArticle.pubDate }} className="sticky-next-button">
+        <Link to={`/article/${nextArticle.slug}`} state={{ pubDate: nextArticle.pubDate }} className="sticky-next-button" translate="no">
           Next Post <ChevronRightIcon size={16} />
         </Link>
       )}
