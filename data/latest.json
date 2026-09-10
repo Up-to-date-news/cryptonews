@@ -1,98 +1,795 @@
 [
   {
-    "id": "7631c7ee8c4a5261",
-    "title": "Payments Fraud is an Identity Problem, Not a Transaction Problem",
-    "summary": "Payments firms spend billions watching what users do once inside the system. DCG chief technology officer Paul Twigg says the real gap is knowing who they are.\nThe post Payments Fraud is an Identity Problem, Not a Transaction Problem appeared first on The Fintech Times.",
+    "id": "e75491dd43052953",
+    "slug": "visa-s-2-5-billion-crypto-credit-bet-puts-card-settlement-financing-onchain",
+    "title": "Visa’s $2.5 billion crypto credit bet puts card settlement financing onchain",
+    "tags": [
+      "Visa",
+      "CryptoSlate"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T20:00:19.000Z"
+  },
+  {
+    "id": "34017a3e0861b0aa",
+    "slug": "aerodrome-locks-171k-aero-amid-price-drop-can-buybacks-help-bulls",
+    "title": "Aerodrome locks 171K AERO amid price drop – Can buybacks help bulls?",
+    "tags": [
+      "Aerodrome",
+      "AERO"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T20:00:13.000Z"
+  },
+  {
+    "id": "f09ebbba6c7c5e82",
+    "slug": "altera-prepares-ipo-with-silver-lake-backing-could-raise-over-2b",
+    "title": "Altera prepares IPO with Silver Lake backing, could raise over $2B",
+    "tags": [
+      "Altera",
+      "Silver Lake"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:52:54.000Z"
+  },
+  {
+    "id": "b3872596d2ec8f1b",
+    "slug": "kalshi-gets-cftc-ok-to-list-precious-metals-futures",
+    "title": "Kalshi Gets CFTC OK to List Precious Metals Futures",
+    "tags": [
+      "Kalshi",
+      "Commodity Futures Trading Commission"
+    ],
+    "source": "PYMNTS",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:51:30.000Z"
+  },
+  {
+    "id": "d7a9fedce50188ce",
+    "slug": "anthropic-ai-safety-concerns-spark-debate-with-nvidia-s-huang",
+    "title": "Anthropic AI safety concerns spark debate with Nvidia’s Huang",
+    "tags": [
+      "Anthropic",
+      "Nvidia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:49:27.000Z"
+  },
+  {
+    "id": "7e263a6b564af0cd",
+    "slug": "wyoming-bank-shuts-down-systems-limits-account-access-after-cybersecurity-incident",
+    "title": "Wyoming Bank Shuts Down Systems, Limits Account Access After Cybersecurity Incident",
+    "tags": [
+      "Hilltop Bank",
+      "Wyoming"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:46:14.000Z"
+  },
+  {
+    "id": "18999ee543d3c750",
+    "slug": "tron-expands-dapp-access-through-metamask-connectivity",
+    "title": "TRON expands dApp access through MetaMask connectivity",
+    "tags": [
+      "TRON",
+      "MetaMask"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:46:02.000Z"
+  },
+  {
+    "id": "5d92a90b1ef9528c",
+    "slug": "saudi-arabia-considers-merging-electronic-arts-with-savvy-games-group-to-build-gaming-superpower",
+    "title": "Saudi Arabia considers merging Electronic Arts with Savvy Games Group to build gaming superpower",
+    "tags": [
+      "Saudi Arabia",
+      "Electronic Arts",
+      "Savvy Games Group"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:42:59.000Z"
+  },
+  {
+    "id": "4740d01f024ba516",
+    "slug": "bitwise-cio-says-bitcoin-solana-hyperliquid-and-uniswap-are-benefiting-from-the-600-trillion",
+    "title": "Bitwise CIO says Bitcoin, Solana, Hyperliquid, and Uniswap are benefiting from the $600 trillion tokenization boom; here’s why",
+    "tags": [
+      "Bitwise",
+      "Matt Hougan",
+      "Bitcoin",
+      "Solana",
+      "Hyperliquid",
+      "Uniswap"
+    ],
+    "source": "ZyCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:37:45.000Z"
+  },
+  {
+    "id": "507d6b5a196baf97",
+    "slug": "intermezzo-raises-10-million-for-payroll-automation-platform",
+    "title": "Intermezzo Raises $10 Million for Payroll Automation Platform",
+    "tags": [
+      "Intermezzo",
+      "Intuit"
+    ],
+    "source": "PYMNTS",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:35:50.000Z"
+  },
+  {
+    "id": "50697f2fd7184a43",
+    "title": "PayPal, MoonPay and M0 Take PYUSDx Live as Devs Launch PYUSD backed Stablecoins",
+    "summary": "PayPal (NASDAQ: PYPL), M0, and MoonPay have taken PYUSDx from a February preview to a live developer platform. The stack lets companies issue custom on-chain dollars that sit on top of PayPal USD (PYUSD), rather than forcing each team to build reserves, issuance, and liquidity... Read More",
     "hasSummary": true,
-    "link": "https://thefintechtimes.com/payments-fraud-is-an-identity-problem-not-a-transaction-problem/",
-    "source": "The Fintech Times",
+    "link": "https://www.crowdfundinsider.com/2026/09/308714-paypal-moonpay-and-m0-take-pyusdx-live-as-devs-launch-pyusd-backed-stablecoins/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "PayPal",
+      "MoonPay",
+      "M0",
+      "PYUSD"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-10T19:35:15.000Z",
+    "fetchedAt": "2026-09-10T20:02:06.126Z",
+    "isDuplicateOf": null,
+    "content": "PayPal, M0, and MoonPay have officially launched PYUSDx as a live developer platform. The new stack allows companies to issue custom on-chain digital currencies backed by PayPal USD (PYUSD). Instead of requiring individual teams to manage complex reserves, issuance, and liquidity, the platform streamlines the creation of custom stablecoins anchored to existing PayPal reserves.",
+    "content_ta": "PayPal, M0 மற்றும் MoonPay நிறுவனங்கள் இணைந்து PYUSDx தளத்தை அதிகாரப்பூர்வமாக நேரலைக்கு கொண்டு வந்துள்ளன. இந்த புதிய தொழில்நுட்பத்தின் மூலம் நிறுவனங்கள் PayPal USD (PYUSD) ஆதரவுடன் தங்களது சொந்த ஆன்-சயின் டிஜிட்டல் நாணயங்களை வெளியிட முடியும். தனிப்பட்ட அணிகள் தங்களுடைய சொந்த இருப்பு மற்றும் பணப்புழக்கத்தை நிர்வகிப்பதற்கு பதிலாக, ஏற்கனவே உள்ள PayPal இருப்புகளை அடிப்படையாகக் கொண்டு எளிதாக ஸ்டேபிள்காயின்களை உருவாக்க இந்த தளம் உதவுகிறது.",
+    "slug": "paypal-moonpay-and-m0-take-pyusdx-live-as-devs-launch-pyusd-backed-stablecoins"
+  },
+  {
+    "id": "d3af492251175a00",
+    "slug": "sergino-dest-scores-first-ucl-goal-in-6-years-for-psv-eindhoven",
+    "title": "Sergiño Dest scores first UCL goal in 6 years for PSV Eindhoven",
+    "tags": [
+      "Sergiño Dest",
+      "PSV Eindhoven"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:32:27.000Z"
+  },
+  {
+    "id": "38d14b8c564ffbcf",
+    "slug": "xrp-price-prediction-bearish-futures-data-casts-doubt-on-xrp-s-recovery",
+    "title": "XRP Price Prediction: Bearish Futures Data Casts Doubt on XRP’s Recovery",
+    "tags": [
+      "XRP"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:30:00.000Z"
+  },
+  {
+    "id": "87161a9b1daf938c",
+    "slug": "soap-and-deodorant-company-paying-9-000-000-to-customers-attorneys-and-administrator-over-natural",
+    "title": "Soap and Deodorant Company Paying $9,000,000 To Customers, Attorneys and Administrator Over Natural Product Labeling Claims",
+    "tags": [
+      "Dr. Squatch",
+      "United States"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:26:23.000Z"
+  },
+  {
+    "id": "30ab98d44f259169",
+    "slug": "como-scores-first-champions-league-goal-baturina-nets-historic-strike",
+    "title": "Como scores first Champions League goal, Baturina nets historic strike",
+    "tags": [
+      "Como",
+      "Baturina",
+      "Champions League",
+      "Serie B"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:23:16.000Z"
+  },
+  {
+    "id": "5eb1831d0461bf79",
+    "slug": "nubank-accelerates-us-market-entry-with-lead-bank-partnership",
+    "title": "Nubank accelerates US market entry with Lead Bank partnership",
+    "tags": [
+      "Nubank",
+      "Lead Bank",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:20:10.000Z"
+  },
+  {
+    "id": "1c3fc4983ee176e3",
+    "slug": "iran-us-war-threatens-to-raise-uk-consumer-prices-and-rates",
+    "title": "Iran-US war threatens to raise UK consumer prices and rates",
+    "tags": [
+      "Iran",
+      "United States",
+      "United Kingdom"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:14:20.000Z"
+  },
+  {
+    "id": "9a1494903e58ec52",
+    "title": "Experian Deploys Real-Time AI Decisioning Across Lending Marketplaces",
+    "summary": "Experian has added an artificial intelligence-enabled decisioning engine called Experian Activate to its consumer comparison shopping platform for credit cards, personal loans and car insurance, Experian Marketplace, the company said in a Thursday (Sept. 10) press release. Experian Activate combines credit data, advanced analytics, AI capabilities, consumer-permissioned financial information and lender-specific underwriting criteria, according to […]\nThe post Experian Deploys Real-Time AI Decisioning Across Lending Marketplaces appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/experian-deploys-real-time-ai-decisioning-across-lending-marketplaces/",
+    "source": "PYMNTS",
+    "tags": [
+      "Experian",
+      "Experian Activate",
+      "Experian Marketplace"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-10T19:13:56.000Z",
+    "fetchedAt": "2026-09-10T20:02:06.126Z",
+    "isDuplicateOf": null,
+    "content": "Experian has introduced a new artificial intelligence-enabled decisioning engine called Experian Activate to its consumer comparison shopping platform, Experian Marketplace. Announced in a press release, the tool integrates credit data, advanced analytics, AI capabilities, consumer-permissioned financial information, and lender-specific underwriting criteria to enhance lending marketplaces for credit cards, personal loans, and car insurance.",
+    "content_ta": "Experian Marketplace என்ற நுகர்வோர் ஒப்பீட்டு ஷாப்பிங் தளத்தில் Experian Activate எனப்படும் புதிய செயற்கை நுண்ணறிவு அடிப்படையிலான முடிவெடுக்கும் இன்ஜினை Experian அறிமுகப்படுத்தியுள்ளது. கிரெடிட் கார்டுகள், தனிநபர் கடன்கள் மற்றும் கார் காப்பீட்டுக்கான கடன் சந்தைகளை மேம்படுத்த, கிரெடிட் தரவு, மேம்பட்ட பகுப்பாய்வு, AI திறன்கள் மற்றும் கடன் வழங்குநர் சார்ந்த வரம்புகளை இந்த கருவி ஒருங்கிணைக்கிறது.",
+    "slug": "experian-deploys-real-time-ai-decisioning-across-lending-marketplaces"
+  },
+  {
+    "id": "77940ab62c88a753",
+    "title": "Apple Brings Free AI Note-Taking to the Watch",
+    "summary": "Remembering what happened in a meeting has historically meant taking handwritten notes or downloading an app like Otter, Fireflies or Granola. This week, Apple announced a version of that idea built into the Apple Watch. Siri Recap is coming in beta later this year to the Apple Watch Series 12 and Ultra 4, according to […]\nThe post Apple Brings Free AI Note-Taking to the Watch appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/apple-brings-free-ai-note-taking-watch/",
+    "source": "PYMNTS",
+    "tags": [
+      "Apple",
+      "Apple Watch",
+      "Siri"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-10T19:13:32.000Z",
+    "fetchedAt": "2026-09-10T20:02:06.126Z",
+    "isDuplicateOf": null,
+    "content": "Apple has announced a new free artificial intelligence note-taking feature for the Apple Watch. Called Siri Recap, the tool aims to help users remember meeting details without needing to download third-party applications like Otter, Fireflies, or Granola. The feature is scheduled to arrive in beta later this year for compatible Apple Watch models.",
+    "content_ta": "Apple Watch-ல் இலவச செயற்கை நுண்ணறிவு (AI) குறிப்பு எடுக்கும் புதிய அம்சத்தை Apple நிறுவனம் அறிவித்துள்ளது. Siri Recap என அழைக்கப்படும் இந்த புதிய வசதியானது, மூன்றாம் தரப்பு செயலிகளைப் பயன்படுத்தாமல் கூட்டங்களின் விவரங்களை நினைவில் வைத்துக் கொள்ள பயனர்களுக்கு உதவும். இந்த அம்சம் இந்த ஆண்டு இறுதியில் பீட்டா பதிப்பாக வெளியிடப்பட உள்ளது.",
+    "slug": "apple-brings-free-ai-note-taking-to-the-watch"
+  },
+  {
+    "id": "f52c1c8e6fb8aca9",
+    "slug": "galaxy-digital-expands-into-fireblocks-trust-company-for-regulated-custody",
+    "title": "Galaxy Digital expands into Fireblocks Trust Company for regulated custody",
+    "tags": [
+      "Galaxy Digital",
+      "Fireblocks Trust Company"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:12:23.000Z"
+  },
+  {
+    "id": "5c080b6e2c7e93aa",
+    "slug": "suspects-in-california-and-florida-accused-of-paying-homeless-in-los-angeles-to-sign-ballot",
+    "title": "Suspects in California and Florida Accused of Paying Homeless in Los Angeles To Sign Ballot Petitions Using Stolen Identities of Registered Voters",
+    "tags": [
+      "California",
+      "Florida",
+      "Los Angeles",
+      "Victorville",
+      "Skid Row"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:10:29.000Z"
+  },
+  {
+    "id": "f820d742e222dfed",
+    "slug": "us-treasury-buyback-falls-short-of-wall-street-expectations-pushing-yields-to-highest-since",
+    "title": "US Treasury buyback falls short of Wall Street expectations, pushing yields to highest since November 2023",
+    "tags": [
+      "Wall Street",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:08:48.000Z"
+  },
+  {
+    "id": "a17c134c9365aa0b",
+    "slug": "ripple-burns-15-million-rlusd-in-major-treasury-move",
+    "title": "Ripple Burns 15 Million RLUSD in Major Treasury Move",
+    "tags": [
+      "Ripple",
+      "RLUSD"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:08:01.000Z"
+  },
+  {
+    "id": "c7e92fd9b971f08e",
+    "slug": "moonwell-governance-submits-proposal-to-rebalance-liquidity-incentives-on-ethereum-and-base",
+    "title": "Moonwell Governance submits proposal to rebalance liquidity incentives on Ethereum and Base",
+    "tags": [
+      "Moonwell",
+      "Ethereum",
+      "Base",
+      "Crypto Briefing"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:05:10.000Z"
+  },
+  {
+    "id": "bce459720d9f2dd5",
+    "slug": "nu-integrates-circle-stablecoins-usdc-and-eurc-into-new-global-account-with-fee-free-transfers",
+    "title": "Nu integrates Circle stablecoins USDC and EURC into new global account with fee-free transfers",
+    "tags": [
+      "Nu",
+      "Circle",
+      "USDC",
+      "EURC"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:04:40.000Z"
+  },
+  {
+    "id": "9c21bb385f68b6ca",
+    "slug": "investors-demand-ai-transparency-from-apollo-blackstone-after-35b-deals",
+    "title": "Investors demand AI transparency from Apollo, Blackstone after $35B deals",
+    "tags": [
+      "Apollo",
+      "Blackstone"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:03:42.000Z"
+  },
+  {
+    "id": "104dcbee56f0d203",
+    "slug": "why-a-new-sec-plan-could-ease-a-legal-headache-for-tokenized-securities",
+    "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
+    "tags": [
+      "Securities and Exchange Commission"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:01:30.000Z"
+  },
+  {
+    "id": "5b94521fb45f1542",
+    "slug": "kraken-s-khype-expands-hyperliquid-utility-whale-stakes-entire-159m-position",
+    "title": "Kraken’s kHYPE expands Hyperliquid utility – Whale stakes entire $159M position",
+    "tags": [
+      "Kraken",
+      "Hyperliquid",
+      "HYPE"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:00:28.000Z"
+  },
+  {
+    "id": "fd3e69e92b958d0a",
+    "slug": "wall-street-s-altcoin-etf-rotation-is-not-producing-an-altseason-and-the-old-playbook-may-be",
+    "title": "Wall Street’s altcoin ETF rotation is not producing an altseason, and the old playbook may be breaking",
+    "tags": [
+      "Ethereum",
+      "Solana",
+      "Wall Street"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T19:00:11.000Z"
+  },
+  {
+    "id": "a26765a609a07e49",
+    "slug": "there-s-a-500-penalty-on-hyperliquid-oil-short-selling",
+    "title": "There’s a 500% penalty on Hyperliquid oil short-selling",
+    "tags": [
+      "Hyperliquid"
+    ],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:56:19.000Z"
+  },
+  {
+    "id": "a68609c7e797bce2",
+    "slug": "finix-unveils-android-enabled-payment-devices",
+    "title": "Finix unveils Android-enabled payment devices",
+    "tags": [
+      "Finix"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:54:00.000Z"
+  },
+  {
+    "id": "1feaa2b5f7862360",
+    "slug": "nydf-issues-cybersecurity-guidance",
+    "title": "NYDF issues cybersecurity guidance",
+    "tags": [
+      "New York State Department of Financial Services",
+      "Kaitlin Asrow"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:53:00.000Z"
+  },
+  {
+    "id": "99b8a26f057d5e42",
+    "slug": "adobe-set-to-report-earnings-today-with-ai-tools-performance-in-the-spotlight",
+    "title": "Adobe set to report earnings today with AI tools performance in the spotlight",
+    "tags": [
+      "Adobe"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:51:23.000Z"
+  },
+  {
+    "id": "a97ff147e4a167fd",
+    "slug": "coinbase-wallet-rebrands-to-chase-anything-anywhere-trading-as-robinhood-chain-heats-up",
+    "title": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
+    "tags": [
+      "Coinbase",
+      "Robinhood",
+      "Ryan Kass"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:51:04.000Z"
+  },
+  {
+    "id": "a43069b1f2006028",
+    "slug": "bitcoin-rally-cools-but-a-golden-cross-is-coming",
+    "title": "Bitcoin Rally Cools, But a Golden Cross Is Coming",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:46:04.000Z"
+  },
+  {
+    "id": "7d8f3f01ff235cc3",
+    "slug": "us-container-imports-reach-third-highest-level-ever-at-2-6m-teus",
+    "title": "US container imports reach third-highest level ever at 2.6M TEUs",
+    "tags": [
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:45:32.000Z"
+  },
+  {
+    "id": "c4c6c553c309c0d7",
+    "title": "Macy’s Raises Outlook as Premium Goods Drive Sales Growth",
+    "summary": "Adding higher-priced products and catering to middle- and high-income consumers helped drive sales growth across the Macy’s, Inc. brands in the second quarter, executives said Thursday (Sept. 10) during an earnings call. Macy’s, Inc. saw growth across all its brands, including Macy’s, Bloomingdale’s and Bluemercury, as it earned year-over-year increases of 1.1% in net sales, […]\nThe post Macy’s Raises Outlook as Premium Goods Drive Sales Growth appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/earnings/2026/macys-raises-outlook-premium-goods-drive-sales-growth/",
+    "source": "PYMNTS",
+    "tags": [
+      "Macy’s",
+      "Bloomingdale’s",
+      "Bluemercury"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-10T18:42:37.000Z",
+    "fetchedAt": "2026-09-10T20:02:06.126Z",
+    "isDuplicateOf": null,
+    "content": "Macy’s raised its financial outlook after reporting sales growth across its brands, including Macy’s, Bloomingdale’s, and Bluemercury. Executives stated that offering higher-priced products and appealing to middle- and high-income consumers helped drive the positive results during the second quarter, leading to a year-over-year increase in net sales.",
+    "content_ta": "Macy’s, Bloomingdale’s மற்றும் Bluemercury உள்ளிட்ட தனது பிராண்டுகளில் விற்பனை வளர்ச்சியைப் பதிவு செய்ததைத் தொடர்ந்து, Macy’s தனது நிதிநிலை கணிப்பை உயர்த்தியுள்ளது. உயர்தரப் பொருட்களை வழங்குவதும், நடுத்தர மற்றும் உயர் வருமான வாடிக்கையாளர்களை ஈர்ப்பதும் இரண்டாம் காலாண்டில் விற்பனை வளர்ச்சிக்கு உதவியதாக நிறுவனத்தின் உயர் அதிகாரத் தலைவர்கள் தெரிவித்தனர்.",
+    "slug": "macy-s-raises-outlook-as-premium-goods-drive-sales-growth"
+  },
+  {
+    "id": "a0d5104d0d404d9a",
+    "slug": "ecb-hikes-rates-to-2-5-but-euro-stablecoins-still-pay-zero",
+    "title": "ECB Hikes Rates to 2.5%, But Euro Stablecoins Still Pay Zero",
+    "tags": [
+      "European Central Bank",
+      "MiCA"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:41:28.000Z"
+  },
+  {
+    "id": "3ed5b05a059cd3a4",
+    "slug": "united-states-issues-new-round-of-iran-related-sanctions-targeting-aviation-sector",
+    "title": "United States issues new round of Iran-related sanctions targeting aviation sector",
+    "tags": [
+      "United States",
+      "Iran"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:39:04.000Z"
+  },
+  {
+    "id": "d9cd68dacd834f79",
+    "slug": "scammers-drain-18-750-from-indiana-woman-s-bank-account-in-sophisticated-scam-report",
+    "title": "Scammers Drain $18,750 From Indiana Woman’s Bank Account in Sophisticated Scam: Report",
+    "tags": [
+      "Regions Bank",
+      "Indiana"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:37:13.000Z"
+  },
+  {
+    "id": "7a86999f749a4c4f",
+    "slug": "nvidia-ceo-jensen-huang-highlights-ai-s-role-in-cybersecurity",
+    "title": "Nvidia CEO Jensen Huang highlights AI’s role in cybersecurity",
+    "tags": [
+      "Nvidia",
+      "Jensen Huang"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:31:25.000Z"
+  },
+  {
+    "id": "e6ca71ab3d4a58fa",
+    "slug": "bnb-price-falls-6-in-two-sessions-as-700-support-comes-into-view",
+    "title": "BNB price falls 6% in two sessions as $700 support comes into view",
+    "tags": [
+      "BNB"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:30:52.000Z"
+  },
+  {
+    "id": "ddee9bccf074ae00",
+    "slug": "jito-bam-preconfirmations-go-live-boosting-revenue-for-solana-validators",
+    "title": "Jito BAM preconfirmations go live, boosting revenue for Solana validators",
+    "tags": [
+      "Jito",
+      "Solana"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:30:52.000Z"
+  },
+  {
+    "id": "4453e616aec386af",
+    "slug": "valinor-digital-launches-tokenized-bdc-fund-on-superstate-s-blockchain-platform",
+    "title": "Valinor Digital launches tokenized BDC fund on Superstate’s blockchain platform",
+    "tags": [
+      "Valinor Digital",
+      "Superstate"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:29:28.000Z"
+  },
+  {
+    "id": "20453f10ac1333d3",
+    "slug": "sam-altman-discusses-grid-security-with-power-utilities-eyes-ai-cybersecurity-role",
+    "title": "Sam Altman discusses grid security with power utilities, eyes AI cybersecurity role",
+    "tags": [
+      "OpenAI",
+      "Sam Altman"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:28:07.000Z"
+  },
+  {
+    "id": "2963eece1f375d91",
+    "title": "DOJ’s New Fraud Division Puts Data at Center of Corporate Enforcement",
+    "summary": "The Justice Department’s new National Fraud Enforcement Division is preparing to use vast government and commercial datasets to identify suspected fraud before receiving a whistleblower complaint, agency referral or corporate disclosure, potentially changing how businesses assess and manage enforcement risk. The division’s first comprehensive statement of priorities, issued Aug. 13, covers familiar areas including government […]\nThe post DOJ’s New Fraud Division Puts Data at Center of Corporate Enforcement appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/legal/2026/dojs-new-fraud-division-puts-data-at-center-of-corporate-enforcement/",
+    "source": "PYMNTS",
+    "tags": [
+      "Department of Justice"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-10T18:22:35.000Z",
+    "fetchedAt": "2026-09-10T20:02:06.126Z",
+    "isDuplicateOf": null,
+    "content": "The U.S. Department of Justice has established a new National Fraud Enforcement Division that places data analysis at the core of corporate investigations. By leveraging vast government and commercial datasets, the division aims to proactively identify suspected fraud before relying on traditional tips, agency referrals, or corporate self-disclosures. This data-driven strategy represents a significant shift in how businesses must evaluate and manage regulatory enforcement risks.",
+    "content_ta": "கார்ப்பரேட் விசாரணைகளில் தரவு பகுப்பாய்வை மையமாகக் கொண்டு DOJ ஒரு புதிய National Fraud Enforcement Division அமைப்பை உருவாக்கியுள்ளது. பலதரப்பட்ட அரசு மற்றும் வணிகத் தரவுகளைப் பயன்படுத்தி, முறைகேடுகளை முன்கூட்டியே கண்டறிய இந்த பிரிவு திட்டமிட்டுள்ளது. நிறுவனங்கள் தங்கள் சட்ட அமலாக்க அபாயங்களை எதிர்கொள்ளும் முறையை இந்த புதிய தரவு சார்ந்த உத்தி மாற்றக்கூடும்.",
+    "slug": "doj-s-new-fraud-division-puts-data-at-center-of-corporate-enforcement"
+  },
+  {
+    "id": "0d97dfc866f8ba2f",
+    "slug": "us-oil-prices-surpass-103-barrel-up-20-this-month",
+    "title": "US oil prices surpass $103/barrel, up 20% this month",
+    "tags": [
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:19:32.000Z"
+  },
+  {
+    "id": "0c2693537d2c9450",
+    "slug": "banks-have-minutes-not-weeks-to-fix-flaws-as-ai-speeds-up-attacks-bis",
+    "title": "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS",
+    "tags": [
+      "Bank for International Settlements"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:13:13.000Z"
+  },
+  {
+    "id": "7210594c705e4556",
+    "slug": "jpmorgan-warns-of-muni-market-pressures-as-yields-hit-highest-since-april-2025",
+    "title": "JPMorgan warns of muni market pressures as yields hit highest since April 2025",
+    "tags": [
+      "JPMorgan"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:13:11.000Z"
+  },
+  {
+    "id": "c35d6f7fcbf2cf67",
+    "slug": "bitcoin-declines-for-fourth-consecutive-session-falls-below-80-000",
+    "title": "Bitcoin declines for fourth consecutive session, falls below $80,000",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:09:52.000Z"
+  },
+  {
+    "id": "31983d4ceb7faefa",
+    "slug": "uk-house-of-lords-backs-mandatory-digital-asset-strategy",
+    "title": "UK House of Lords backs mandatory digital asset strategy",
+    "tags": [
+      "UK House of Lords",
+      "United States",
+      "European Union"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:08:50.000Z"
+  },
+  {
+    "id": "4037520efa3db1d5",
+    "title": "Walmart Expands Tap to Pay as Amazon Builds Its AI Capacity",
+    "summary": "Today’s most consequential retail technology investments have little to do with making things better, and more to do with redesigning them entirely. Walmart is rolling out tap-to-pay across its U.S. stores, opening checkout to Apple Pay, Google Pay, Samsung Pay, contactless cards and wearables after years of steering shoppers toward its own payments ecosystem. Amazon, […]\nThe post Walmart Expands Tap to Pay as Amazon Builds Its AI Capacity appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/news/retail/2026/walmart-expands-tap-to-pay-as-amazon-builds-its-ai-capacity/",
+    "source": "PYMNTS",
+    "tags": [
+      "Walmart",
+      "Amazon",
+      "Apple Pay",
+      "Google Pay",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-10T18:05:38.000Z",
+    "fetchedAt": "2026-09-10T20:02:06.126Z",
+    "isDuplicateOf": null,
+    "content": "Walmart is expanding its payment options by rolling out tap-to-pay across its U.S. stores, now accepting services like Apple Pay and Google Pay. Meanwhile, tech giant Amazon is actively building its artificial intelligence capacity, highlighting major technological investments by top retailers aimed at redesigning their operations entirely.",
+    "content_ta": "Walmart தனது அமெரிக்க ஸ்டோர்களில் tap-to-pay வசதியை விரிவுபடுத்துகிறது. இதன் மூலம் Apple Pay மற்றும் Google Pay போன்ற சேவைகளை வாடிக்கையாளர்கள் பயன்படுத்தலாம். இதற்கிடையில், Amazon தனது செயற்கை நுண்ணறிவு திறனை அதிகரித்து வருகிறது. சில்லறை வர்த்தக நிறுவனங்கள் தங்கள் செயல்பாடுகளை முழுமையாக மாற்றியமைக்க இந்த தொழில்நுட்ப முதலீடுகளைச் செய்கின்றன.",
+    "slug": "walmart-expands-tap-to-pay-as-amazon-builds-its-ai-capacity"
+  },
+  {
+    "id": "7631c7ee8c4a5261",
+    "slug": "payments-fraud-is-an-identity-problem-not-a-transaction-problem",
+    "title": "Payments Fraud is an Identity Problem, Not a Transaction Problem",
     "tags": [
       "DCG",
       "Paul Twigg"
     ],
+    "source": "The Fintech Times",
     "origin": "rss",
-    "pubDate": "2026-09-10T18:00:42.000Z",
-    "fetchedAt": "2026-09-10T18:01:26.151Z",
-    "isDuplicateOf": null,
-    "content": "Payments companies currently spend billions of dollars monitoring user activity within their systems. However, DCG chief technology officer Paul Twigg argues that the primary issue is not transaction behavior, but rather identity verification. According to Twigg, the real gap in preventing payments fraud lies in accurately knowing the identities of the users before they enter the system.",
-    "content_ta": "பெமண்ட்ஸ் நிறுவனங்கள் தங்கள் சிஸ்டம்க içல் பயனர்களின் நடவடிக்கைகளைக் கண்காணிக்க பல பில்லியன் டாலர்களைச் செலவிடுகின்றன. எவ்வாறாயினும், பரிவர்த்தனை நடத்தை அல்ல, மாறாக அடையாளம் காண்பதுதான் உண்மையான சிக்கல் என்று DCG chief technology officer Paul Twigg வாதிடுகிறார். Twigg-இன் கூற்றுப்படி, பெமண்ட்ஸ் மோசடியைத் தடுப்பதில் உள்ள உண்மையான இடைவெளி, பயனர்கள் சிஸ்டமிற்குள் நுழைவதற்கு முன்பு அவர்களின் அடையாளங்களைத் துல்லியமாக அறிந்துகொள்வதில்தான் உள்ளது.",
-    "slug": "payments-fraud-is-an-identity-problem-not-a-transaction-problem"
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:00:42.000Z"
   },
   {
     "id": "2f16cdfa66a7a103",
+    "slug": "uniswap-whale-accumulation-grows-despite-correction-can-uni-bulls-reclaim-7-48",
     "title": "Uniswap whale accumulation grows despite correction: Can UNI bulls reclaim $7.48?",
-    "summary": "UNI whale accumulation persisted during the correction as the Fibonacci golden zone emerged as key support.",
-    "hasSummary": true,
-    "link": "https://ambcrypto.com/uniswap-whale-accumulation-grows-despite-correction-can-uni-bulls-reclaim-7-48/",
-    "source": "AMBCrypto",
     "tags": [
       "Uniswap",
       "UNI"
     ],
+    "source": "AMBCrypto",
     "origin": "rss",
-    "pubDate": "2026-09-10T18:00:24.000Z",
-    "fetchedAt": "2026-09-10T18:01:26.151Z",
-    "isDuplicateOf": null,
-    "content": "Uniswap whale accumulation has continued to grow despite recent market corrections, as the Fibonacci golden zone emerged as a critical support level. Investors and market watchers are now watching closely to see if UNI bulls can successfully mount a recovery and reclaim the $7.48 price level amidst ongoing volatility.",
-    "content_ta": "சந்தை சரிவு ஏற்பட்ட போதிலும், UNI வேல்ஸ் எனப்படும் பெரிய முதலீட்டாளர்களின் சேமிப்பு தொடர்ந்து அதிகரித்து வருகிறது. ஃபைப் பினோச்சி கோல்டன் பகுதி முக்கிய ஆதரவு நிலையாக உருவெடுத்துள்ளதால், UNI காப்பாளர்கள் மீண்டும் $7.48 விலையை மீட்டெடுக்க முடியுமா என்ற எதிர்பார்ப்பு சந்தையில் எழுந்துள்ளது.",
-    "slug": "uniswap-whale-accumulation-grows-despite-correction-can-uni-bulls-reclaim-7-48"
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:00:24.000Z"
   },
   {
     "id": "d9c4b5492d243624",
+    "slug": "coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment",
     "title": "Coinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short",
-    "summary": "The wallet now supports more than 10 networks, including Robinhood Chain and Monad, plus perps, prediction markets, and tokenized stocks.",
-    "hasSummary": true,
-    "link": "https://www.theblock.co/news/defi/2026-09-10-coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment-falls-short-414115",
-    "source": "The Block",
     "tags": [
       "Coinbase",
       "Base App",
       "Robinhood Chain",
       "Monad"
     ],
+    "source": "The Block",
     "origin": "rss",
-    "pubDate": "2026-09-10T18:00:00.000Z",
-    "fetchedAt": "2026-09-10T18:01:26.151Z",
-    "isDuplicateOf": null,
-    "content": "Coinbase has rebranded the Base App back to Coinbase Wallet following a period as a social experiment. The updated wallet now supports over 10 networks, including Robinhood Chain and Monad. Additionally, the platform has expanded its offerings to include perpetuals, prediction markets, and tokenized stocks, enhancing its utility for users after slightly more than a year of the experiment.",
-    "content_ta": "Coinbase தனது Base App-ஐ மீண்டும் Coinbase Wallet என்று பெயர் மாற்றம் செய்துள்ளது. சமூக பரிசோதனை முயற்சி எதிர்பார்த்த அளவுக்கு வெற்றி பெறாததை அடுத்து இந்த முடிவு எடுக்கப்பட்டுள்ளது. இந்த வாலட் இப்போது Robinhood Chain மற்றும் Monad உள்ளிட்ட 10-க்கும் மேற்பட்ட நெட்வொர்க்குகளை ஆதரிக்கிறது. மேலும், பெர்பச்சுவல்ஸ், பிரடிக்ஷன் மார்க்கெட்ஸ் மற்றும் டோக்கனைஸ்டு ஸ்டாக்ஸ் போன்ற வசதிகளையும் இது கொண்டு வந்துள்ளது.",
-    "slug": "coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment"
+    "hasContent": true,
+    "pubDate": "2026-09-10T18:00:00.000Z"
   },
   {
     "id": "8402e247b6a2b8cb",
+    "slug": "nuclear-stocks-slide-as-piper-sandler-splits-the-sector-with-divergent-ratings",
     "title": "Nuclear stocks slide as Piper Sandler splits the sector with divergent ratings",
-    "summary": "Analyst divergence highlights the volatility and uncertainty in nuclear sector investments, impacting investor confidence and market stability.\nThe post Nuclear stocks slide as Piper Sandler splits the sector with divergent ratings appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/nuclear-stocks-slide-piper-sandler-oklo-x-energy/",
-    "source": "CryptoBriefing",
     "tags": [
       "Piper Sandler"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-10T17:54:58.000Z",
-    "fetchedAt": "2026-09-10T18:01:26.151Z",
-    "isDuplicateOf": null,
-    "content": "Nuclear stocks experienced a decline after Piper Sandler issued divergent ratings for companies within the sector. This analyst split underscores the ongoing volatility and uncertainty surrounding investments in nuclear energy, which has consequently impacted overall investor confidence and market stability.",
-    "content_ta": "Piper Sandler நிறுவனம் nuclear துறையைச் சேர்ந்த நிறுவனங்களுக்கு மாறுபட்ட மதிப்பீடுகளை வழங்கியதை அடுத்து, nuclear stocks சரிவைச் சந்தித்தன. இந்த ஆய்வாளர் கருத்து வேறுபாடு, nuclear energy முதலீடுகளில் நிலவும் நிலையற்ற தன்மையையும் நிச்சயமற்ற தன்மையையும் வெளிப்படுத்துகிறது, இது முதலீட்டாளர்களின் நம்பிக்கையையும் சந்தை ஸ்திரத்தன்மையையும் பாதித்துள்ளது.",
-    "slug": "nuclear-stocks-slide-as-piper-sandler-splits-the-sector-with-divergent-ratings"
+    "hasContent": true,
+    "pubDate": "2026-09-10T17:54:58.000Z"
   },
   {
     "id": "44967e09d764d1d4",
+    "slug": "a-crypto-project-paying-nearly-1-million-people-a-daily-income-just-had-its-reserves-looted",
     "title": "A crypto project paying nearly 1 million people a daily income just had its reserves looted",
-    "summary": "A malicious Super App bypassed stream liquidations before a Sept. 4 hotfix restored whitelisting and closed detected insolvent accounts.\nThe post A crypto project paying nearly 1 million people a daily income just had its reserves looted appeared first on CryptoSlate.",
-    "hasSummary": true,
-    "link": "https://cryptoslate.com/a-crypto-project-paying-nearly-1-million-people-a-daily-income-just-had-its-reserves-looted/",
-    "source": "CryptoSlate",
     "tags": [
       "CryptoSlate"
     ],
+    "source": "CryptoSlate",
     "origin": "rss",
-    "pubDate": "2026-09-10T17:50:26.000Z",
-    "fetchedAt": "2026-09-10T18:01:26.151Z",
-    "isDuplicateOf": null,
-    "content": "A crypto project that provides a daily income to nearly one million users recently suffered a reserve breach. A malicious Super App bypassed stream liquidations before a hotfix was deployed on September 4 to restore whitelisting and close insolvent accounts.",
-    "content_ta": "சுமார் 1 மில்லியன் பயனர்களுக்கு தினசரி வருமானம் வழங்கும் ஒரு crypto திட்டம் சமீபத்தில் அதன் இருப்புகளில் திருட்டைக் சந்தித்துள்ளது. செப்டம்பர் 4 அன்று ஒரு hotfix வெளியிடப்பட்டு whitelisting மீட்டமைக்கப்பட்டு insolvent கணக்குகள் மூடப்படுவதற்கு முன்பு, ஒரு தீங்கிழைக்கும் Super App stream liquidations-ஐத் தவிர்த்தது.",
-    "slug": "a-crypto-project-paying-nearly-1-million-people-a-daily-income-just-had-its-reserves-looted"
+    "hasContent": true,
+    "pubDate": "2026-09-10T17:50:26.000Z"
   },
   {
     "id": "65409116575feaba",
@@ -131,710 +828,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-10T17:32:49.000Z"
-  },
-  {
-    "id": "3c71d7fcf3562a67",
-    "slug": "as-roma-beats-fenerbahce-1-0-as-bryan-cristante-s-goal-seals-champions-league-return",
-    "title": "AS Roma beats Fenerbahce 1-0 as Bryan Cristante’s goal seals Champions League return",
-    "tags": [
-      "AS Roma",
-      "Fenerbahce",
-      "Bryan Cristante",
-      "Champions League"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T17:31:05.000Z"
-  },
-  {
-    "id": "b36913d6fbe82009",
-    "slug": "taiwan-semiconductor-revenue-surges-53-tsmc-to-follow",
-    "title": "Taiwan Semiconductor Revenue Surges 53%, TSMC to Follow?",
-    "tags": [
-      "Taiwan Semiconductor",
-      "TSMC",
-      "Taiwan"
-    ],
-    "source": "Watcher.Guru",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T17:30:12.000Z"
-  },
-  {
-    "id": "aee597bf06ee69bc",
-    "slug": "stanley-druckenmiller-says-us-borrowing-costs-are-still-low-predicts-10-year-yield-will-hit-5-50",
-    "title": "Stanley Druckenmiller says US borrowing costs are still low, predicts 10-year yield will hit 5.50%",
-    "tags": [
-      "Stanley Druckenmiller",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T17:30:07.000Z"
-  },
-  {
-    "id": "5894ac4afcb644d1",
-    "slug": "156m-in-leveraged-ether-positions-sit-near-liquidation-risk-as-eth-trades-around-2-444",
-    "title": "$156M in leveraged Ether positions sit near liquidation risk as ETH trades around $2,444",
-    "tags": [
-      "Ether"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T17:25:37.000Z"
-  },
-  {
-    "id": "d31bf3a33dda7e87",
-    "slug": "barclays-traders-flying-blind-as-internal-risk-platform-beowulf-keeps-crashing-during-peak-markets",
-    "title": "Barclays traders flying blind as internal risk platform Beowulf keeps crashing during peak markets",
-    "tags": [
-      "Barclays",
-      "Beowulf",
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T17:24:11.000Z"
-  },
-  {
-    "id": "cbf471f4fe5092f0",
-    "slug": "stellar-xlm-to-power-new-moneygram-stablecoin-visa-card-in-this-latin-american-country",
-    "title": "Stellar (XLM) to Power New MoneyGram Stablecoin Visa Card in This Latin American Country",
-    "tags": [
-      "MoneyGram",
-      "Stellar",
-      "Visa",
-      "Latin America"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T17:23:30.000Z"
-  },
-  {
-    "id": "d26109876d72e5ab",
-    "slug": "openai-targets-wall-street-junior-bankers-with-chatgpt-for-financial-services",
-    "title": "OpenAI targets Wall Street junior bankers with ChatGPT for Financial Services",
-    "tags": [
-      "OpenAI",
-      "Wall Street",
-      "ChatGPT"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T17:20:27.000Z"
-  },
-  {
-    "id": "6d29de0db831175a",
-    "slug": "august-cpi-report-crucial-for-fed-rate-decision-in-september",
-    "title": "August CPI report crucial for Fed rate decision in September",
-    "tags": [
-      "Federal Reserve",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T17:17:40.000Z"
-  },
-  {
-    "id": "71bacccd5612e39e",
-    "slug": "openai-cuts-off-rivals-ads-on-chatgpt",
-    "title": "OpenAI Cuts Off Rivals’ Ads on ChatGPT",
-    "tags": [
-      "OpenAI",
-      "ChatGPT",
-      "Adobe"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T17:15:22.000Z"
-  },
-  {
-    "id": "be00a1a84584eda2",
-    "slug": "sec-chairman-paul-atkins-to-keynote-solana-summit-on-sept-14",
-    "title": "SEC Chairman Paul Atkins to keynote Solana Summit on Sept. 14",
-    "tags": [
-      "SEC",
-      "Paul Atkins",
-      "Solana"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T17:15:11.000Z"
-  },
-  {
-    "id": "1d1b6c8816fb2f08",
-    "slug": "skild-ai-reaches-100m-revenue-run-rate-within-10-months-of-first-commercial-deployment",
-    "title": "Skild AI reaches $100M revenue run rate within 10 months of first commercial deployment",
-    "tags": [
-      "Skild AI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T17:14:08.000Z"
-  },
-  {
-    "id": "51bc77ab5fefeafe",
-    "slug": "is-coin-stock-truly-ready-to-reclaim-225",
-    "title": "Is COIN Stock Truly Ready To Reclaim $225?",
-    "tags": [
-      "Coinbase",
-      "Moov"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T17:12:56.000Z"
-  },
-  {
-    "id": "a5344a40973e2139",
-    "slug": "anthropic-accuses-moonshot-ai-of-misusing-claude-models-bloomberg",
-    "title": "Anthropic accuses Moonshot AI of misusing Claude models: Bloomberg",
-    "tags": [
-      "Anthropic",
-      "Moonshot AI",
-      "Bloomberg"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T17:10:37.000Z"
-  },
-  {
-    "id": "a3a765ca4a3eedbe",
-    "slug": "brila-s-brla-token-launches-on-robinhood-chain-expanding-defi-reach-to-retail-investors",
-    "title": "Brila’s $BRLA token launches on Robinhood Chain, expanding DeFi reach to retail investors",
-    "tags": [
-      "Brila",
-      "Robinhood Chain"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T17:08:07.000Z"
-  },
-  {
-    "id": "e7bcbe80ba0f3c3a",
-    "slug": "this-guy-cloned-sam-altman-elon-musk-and-zuckerberg-into-ai-bots-they-immediately-started-fighting",
-    "title": "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting",
-    "tags": [
-      "Sam Altman",
-      "Elon Musk",
-      "Mark Zuckerberg",
-      "SpaceXAI"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T17:07:50.000Z"
-  },
-  {
-    "id": "5265ba1b0e0d908a",
-    "slug": "bitcoin-op-return-usage-surges-toward-700k-codes-as-data-embedding-protocols-reshape-the-network",
-    "title": "Bitcoin OP_RETURN usage surges toward 700K codes as data-embedding protocols reshape the network",
-    "tags": [
-      "Bitcoin",
-      "Runes"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T17:05:55.000Z"
-  },
-  {
-    "id": "dd6402a9eaf35155",
-    "slug": "us-treasury-30-year-yield-hits-5-33-ahead-of-22b-auction",
-    "title": "US Treasury 30-year yield hits 5.33% ahead of $22B auction",
-    "tags": [
-      "United States",
-      "US Treasury"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T17:05:08.000Z"
-  },
-  {
-    "id": "8ae3c036d3123c45",
-    "slug": "europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
-    "title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
-    "tags": [
-      "Polymarket",
-      "Kalshi",
-      "European Securities and Markets Authority",
-      "European Union",
-      "Europe"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T17:03:34.000Z"
-  },
-  {
-    "id": "466692f33ed077b5",
-    "slug": "top-solana-price-predictions-as-sol-bulls-battle-to-hold-the-100-line",
-    "title": "Top Solana Price Predictions as SOL Bulls Battle to Hold the $100 Line",
-    "tags": [
-      "Solana",
-      "SOL"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T17:02:28.000Z"
-  },
-  {
-    "id": "cb35b47d3b65e012",
-    "slug": "why-raydium-s-3-1m-transactions-matter-for-ray-s-next-breakout",
-    "title": "Why Raydium’s 3.1M transactions matter for RAY’s next breakout",
-    "tags": [
-      "RAY",
-      "Raydium"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T17:00:24.000Z"
-  },
-  {
-    "id": "fc5cdc3bef0ca33e",
-    "slug": "us-tech-firms-post-record-24-profit-margins-amid-ai-surge-outpacing-non-tech-companies-by-wide",
-    "title": "US Tech Firms Post Record 24% Profit Margins Amid AI Surge, Outpacing Non-Tech Companies by Wide Margin",
-    "tags": [
-      "United States"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:55:40.000Z"
-  },
-  {
-    "id": "5b1d25e4dac3eedf",
-    "slug": "liquid-network-resumes-block-production-after-320m-bitcoin-drain",
-    "title": "Liquid Network resumes block production after $320M Bitcoin drain",
-    "tags": [
-      "Liquid Network",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:53:43.000Z"
-  },
-  {
-    "id": "69c319e4bb28b5a8",
-    "slug": "houthis-seize-key-red-sea-city-with-iranian-support-threatening-global-shipping-chokepoint",
-    "title": "Houthis seize key Red Sea city with Iranian support, threatening global shipping chokepoint",
-    "tags": [
-      "Houthis",
-      "Iran",
-      "Mokha",
-      "Red Sea"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:49:21.000Z"
-  },
-  {
-    "id": "aeb62778ae155074",
-    "slug": "21b-raised-year-to-date-in-bitcoin-bear-market-signals-industry-maturation",
-    "title": "$21B raised year-to-date in Bitcoin bear market signals industry maturation",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:48:54.000Z"
-  },
-  {
-    "id": "61b90e85ac2dce54",
-    "slug": "wall-street-eyes-divided-congress-as-most-likely-midterm-outcome",
-    "title": "Wall Street eyes divided Congress as most likely midterm outcome",
-    "tags": [
-      "Wall Street",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:40:44.000Z"
-  },
-  {
-    "id": "8caba308252d3cfe",
-    "slug": "india-moves-to-block-15-crypto-apps-leaving-users-facing-sudden-account-lockout",
-    "title": "India moves to block 15 crypto apps, leaving users facing sudden account lockout",
-    "tags": [
-      "India"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:40:32.000Z"
-  },
-  {
-    "id": "53be6053dea361c9",
-    "slug": "iran-resumes-ballistic-missile-production-reports-wsj",
-    "title": "Iran resumes ballistic missile production, reports WSJ",
-    "tags": [
-      "Iran"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:40:06.000Z"
-  },
-  {
-    "id": "315a7dd5904fafbf",
-    "slug": "liquid-network-resumes-block-production-after-320m-exploit",
-    "title": "Liquid Network resumes block production after $320M exploit",
-    "tags": [
-      "Liquid Network"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:38:16.000Z"
-  },
-  {
-    "id": "584b47383272046b",
-    "slug": "vantage-data-centers-seeks-2b-in-loans-from-pimco-pgim-as-ai-infrastructure-financing-boom",
-    "title": "Vantage Data Centers seeks $2B in loans from Pimco, PGIM as AI infrastructure financing boom accelerates",
-    "tags": [
-      "Vantage Data Centers",
-      "Pimco",
-      "PGIM"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:37:06.000Z"
-  },
-  {
-    "id": "52be65d83f2c232d",
-    "slug": "the-us-dollar-is-stuck-americans-could-feel-the-pain-soon",
-    "title": "The US Dollar Is Stuck. Americans Could Feel the Pain Soon",
-    "tags": [
-      "United States",
-      "Federal Reserve",
-      "European Central Bank"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:33:06.000Z"
-  },
-  {
-    "id": "de3b0326ed4873f3",
-    "slug": "ferran-torres-departs-fc-barcelona-for-paris-saint-germain-in-50-million-deal",
-    "title": "Ferran Torres departs FC Barcelona for Paris Saint-Germain in €50 million deal",
-    "tags": [
-      "Ferran Torres",
-      "FC Barcelona",
-      "Paris Saint-Germain"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:29:09.000Z"
-  },
-  {
-    "id": "84848f01ac8bea21",
-    "slug": "injective-usdc-becomes-canonical-usdc-standard-across-cosmos-ecosystem-including-dydx",
-    "title": "Injective USDC becomes canonical USDC standard across Cosmos ecosystem including dYdX",
-    "tags": [
-      "Injective",
-      "USDC",
-      "Cosmos",
-      "dYdX"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:26:45.000Z"
-  },
-  {
-    "id": "3b374729049eee03",
-    "slug": "cloudpay-invests-in-intermezzo",
-    "title": "CloudPay invests in Intermezzo",
-    "tags": [
-      "CloudPay",
-      "Intermezzo"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:24:00.000Z"
-  },
-  {
-    "id": "7c30af8f3f00c6f4",
-    "slug": "google-launches-gemini-app-on-windows-for-desktop-users",
-    "title": "Google launches Gemini app on Windows for desktop users",
-    "tags": [
-      "Google",
-      "Windows",
-      "Gemini"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:19:21.000Z"
-  },
-  {
-    "id": "607a248b70bf026e",
-    "slug": "bank-of-america-flags-163b-risk-looming-over-stocks",
-    "title": "Bank of America flags $163B risk looming over stocks",
-    "tags": [
-      "Bank of America"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:18:16.000Z"
-  },
-  {
-    "id": "8b158d0fdbb3c683",
-    "slug": "ark-investment-management-increases-meta-holdings-reduces-alphabet-stake",
-    "title": "ARK Investment Management increases Meta holdings, reduces Alphabet stake",
-    "tags": [
-      "ARK Investment Management",
-      "Meta",
-      "Alphabet"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:17:46.000Z"
-  },
-  {
-    "id": "e66b4f2e69ac9693",
-    "slug": "tag-markets-names-craig-lund-chief-executive-officer",
-    "title": "Tag Markets Names Craig Lund Chief Executive Officer",
-    "tags": [
-      "Tag Markets",
-      "Craig Lund",
-      "Dubai",
-      "United Arab Emirates"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:16:24.000Z"
-  },
-  {
-    "id": "4514a9f3c5b08ac0",
-    "slug": "xrp-healthcare-goes-offline-after-top-ex-ripple-engineers-call-out-red-flags",
-    "title": "XRP Healthcare Goes Offline After Top Ex-Ripple Engineers Call Out 'Red Flags'",
-    "tags": [
-      "XRP Healthcare",
-      "Ripple"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:15:45.000Z"
-  },
-  {
-    "id": "c8b9045d158d2af6",
-    "slug": "kas-price-eyes-0-076-as-kaspa-activity-picks-up",
-    "title": "KAS Price Eyes $0.076 as Kaspa Activity Picks Up",
-    "tags": [
-      "Kaspa",
-      "Kaspaunchained"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:14:30.000Z"
-  },
-  {
-    "id": "932e7816b606369a",
-    "slug": "kingscrowd-executive-shares-what-he-believes-needs-to-be-changed-to-improve-reg-cf-and-reg-a",
-    "title": "Kingscrowd Executive Shares What He Believes Needs to be Changed to Improve Reg CF and Reg A",
-    "tags": [
-      "Kingscrowd"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:10:13.000Z"
-  },
-  {
-    "id": "0caa78b68472aaf9",
-    "slug": "polymarket-names-former-amazon-finance-chief-warren-jenson-as-its-first-cfo",
-    "title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
-    "tags": [
-      "Polymarket",
-      "Amazon",
-      "Warren Jenson",
-      "United States"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:10:03.000Z"
-  },
-  {
-    "id": "4fd324a7a40d96b7",
-    "slug": "hsbc-cfo-pam-kaur-to-step-down",
-    "title": "HSBC CFO Pam Kaur to step down",
-    "tags": [
-      "HSBC",
-      "Pam Kaur",
-      "United Kingdom"
-    ],
-    "source": "Banking Dive",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:08:44.000Z"
-  },
-  {
-    "id": "40c549ecf17fdf99",
-    "slug": "ripple-adds-new-ai-capabilities-to-treasury-offering",
-    "title": "Ripple Adds New AI Capabilities to Treasury Offering",
-    "tags": [
-      "Ripple"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:08:02.000Z"
-  },
-  {
-    "id": "5942ecb8533f932e",
-    "slug": "tron-expands-metamask-connectivity-across-b-ai-sun-io-justlend-dao-and-bittorrent",
-    "title": "TRON Expands MetaMask Connectivity Across B.AI, SUN.io, JustLend DAO and BitTorrent",
-    "tags": [
-      "TRON",
-      "MetaMask",
-      "SUN.io",
-      "JustLend DAO",
-      "BitTorrent",
-      "Geneva",
-      "Switzerland"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T16:00:00.000Z"
-  },
-  {
-    "id": "ad255994f343acd4",
-    "slug": "moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand",
-    "title": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
-    "tags": [
-      "MoneyGram",
-      "Visa",
-      "Western Union"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T15:59:37.000Z"
-  },
-  {
-    "id": "25d34096de29efef",
-    "slug": "monument-bank-delays-retail-tokenized-deposits-cites-regulatory-issues-in-the-uk",
-    "title": "Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK",
-    "tags": [
-      "Monument Bank",
-      "Financial Conduct Authority",
-      "United Kingdom",
-      "Canada"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T15:53:24.000Z"
-  },
-  {
-    "id": "99930a260a5c97c5",
-    "slug": "consumers-see-tougher-job-market-as-household-finances-weaken",
-    "title": "Consumers See Tougher Job Market as Household Finances Weaken",
-    "tags": [
-      "Federal Reserve Bank of New York",
-      "United States"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T15:52:11.000Z"
-  },
-  {
-    "id": "e16002eb6a44c0de",
-    "slug": "eu-finance-groups-push-to-remove-tokenized-securities-cap",
-    "title": "EU finance groups push to remove tokenized securities cap",
-    "tags": [
-      "European Union"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T15:49:22.000Z"
-  },
-  {
-    "id": "d592b4ce3cf7657a",
-    "slug": "what-will-happen-to-bitcoin-btc-if-trump-distributes-5-000-to-each-american-3-ais-speculate",
-    "title": "What Will Happen to Bitcoin (BTC) if Trump Distributes $5,000 to Each American: 3 AIs Speculate",
-    "tags": [
-      "Bitcoin",
-      "ChatGPT",
-      "United States"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T15:41:23.000Z"
-  },
-  {
-    "id": "4a93ff3017f65e2f",
-    "slug": "anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
-    "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
-    "tags": [
-      "Anthropic",
-      "Claude"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T15:33:11.000Z"
-  },
-  {
-    "id": "851a5da322f69e8f",
-    "slug": "how-100-million-cfos-are-setting-their-neocloud-budgets",
-    "title": "How $100 Million CFOs Are Setting Their Neocloud Budgets",
-    "tags": [
-      "Amazon Web Services",
-      "Microsoft Azure",
-      "Google Cloud",
-      "CoreWeave",
-      "Crusoe"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T15:29:12.000Z"
-  },
-  {
-    "id": "0a98dd69b9583390",
-    "slug": "us-stocks-continue-dip-as-bond-yields-jump",
-    "title": "US Stocks Continue Dip as Bond Yields Jump",
-    "tags": [
-      "United States"
-    ],
-    "source": "Watcher.Guru",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-10T15:29:00.000Z"
   }
 ]
