@@ -1,135 +1,530 @@
 [
   {
-    "id": "36d288f13c1106c6",
-    "title": "Stablecoin Proliferation is a Treasury Policy Problem",
-    "summary": "Accepting many stablecoins and deciding what reaches the balance sheet are separate decisions. Rhino.fi founder Will Harborne on settlement policy.\nThe post Stablecoin Proliferation is a Treasury Policy Problem appeared first on The Fintech Times.",
+    "id": "0fa6ff666319d83b",
+    "slug": "ethfi-s-3x-volume-surge-fuels-breakout-but-ether-fi-s-10-rally-has-this-hurdle",
+    "title": "ETHFI’s 3x volume surge fuels breakout – But ether.fi’s 10% rally has THIS hurdle",
+    "tags": [
+      "ether.fi",
+      "ETHFI"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T20:00:48.000Z"
+  },
+  {
+    "id": "4efa549089983879",
+    "slug": "ether-rallies-as-bearish-liquidations-drive-market-surge",
+    "title": "Ether rallies as bearish liquidations drive market surge",
+    "tags": [
+      "Ether"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T19:58:51.000Z"
+  },
+  {
+    "id": "ae789e484c756b05",
+    "title": "European Financial Groups Warn EU Caps Will Stifle Tokenized Assets",
+    "summary": "The Association for the Development of Digital Assets (ADAN) and 27 partners across Europe are calling on European Union policymakers to authorize higher transaction volumes under the DLT Pilot Regime (DLTPR) within the European Commission’s Market Integration and Supervision Package (MISP), ADAN said in a Tuesday (Sept. 8) press release. The DLT Pilot Regime provides […]\nThe post European Financial Groups Warn EU Caps Will Stifle Tokenized Assets appeared first on PYMNTS.com.",
     "hasSummary": true,
-    "link": "https://thefintechtimes.com/stablecoin-proliferation-is-a-treasury-policy-problem/",
-    "source": "The Fintech Times",
+    "link": "https://www.pymnts.com/cryptocurrency/2026/european-financial-groups-warn-eu-caps-will-stifle-tokenized-assets/",
+    "source": "PYMNTS",
+    "tags": [
+      "Association for the Development of Digital Assets",
+      "European Union"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-11T19:58:34.000Z",
+    "fetchedAt": "2026-09-11T20:02:14.964Z",
+    "isDuplicateOf": null,
+    "content": "The Association for the Development of Digital Assets (ADAN) and several European partners are urging EU policymakers to increase transaction volume limits under the DLT Pilot Regime. Industry groups warn that current caps risk stifling the growth and adoption of tokenized assets across Europe.",
+    "content_ta": "டிஜிட்டல் அசெட்ஸின் வளர்ச்சிக்கான சங்கம் (ADAN) மற்றும் ஐரோப்பாவிலுள்ள பல கூட்டாளர்கள், DLT Pilot Regime-ன் கீழ் பரிவர்த்தனை அளவு வரம்புகளை அதிகரிக்க வேண்டும் என ஐரோப்பிய ஒன்றிய கொள்கை வகுப்பாளர்களிடம் கோரிக்கை விடுத்துள்ளனர். தற்போதைய கட்டுப்பாடுகள் ஐரோப்பாவில் டோக்கனைஸ்டு அசெட்ஸின் வளர்ச்சியைப் பாதிக்கும் என்று தொழில்முறை குழுக்கள் எச்சரித்துள்ளன.",
+    "slug": "european-financial-groups-warn-eu-caps-will-stifle-tokenized-assets"
+  },
+  {
+    "id": "7bf9af4310e86e18",
+    "slug": "barcelona-signs-top-attacker-to-contract-through-2030",
+    "title": "Barcelona signs top attacker to contract through 2030",
+    "tags": [
+      "Barcelona"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T19:57:20.000Z"
+  },
+  {
+    "id": "60702fef65807009",
+    "slug": "elversberg-coach-cleared-to-face-bayern-munich-after-referee-admits-mistake",
+    "title": "Elversberg coach cleared to face Bayern Munich after referee admits mistake",
+    "tags": [
+      "Elversberg",
+      "Bayern Munich"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T19:45:27.000Z"
+  },
+  {
+    "id": "2548fe809f17f12b",
+    "slug": "gmo-z-com-trust-company-winds-down-gyen-stablecoin-coinbase-to-convert-holdings-to-usdc",
+    "title": "GMO-Z.com Trust Company winds down GYEN stablecoin, Coinbase to convert holdings to USDC",
+    "tags": [
+      "GMO-Z.com Trust Company",
+      "GYEN",
+      "Coinbase",
+      "USDC"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T19:43:32.000Z"
+  },
+  {
+    "id": "15b4e48d3c53effa",
+    "slug": "trump-defends-iran-campaign-at-9-11-pentagon-ceremony-aligns-with-war-on-terror",
+    "title": "Trump defends Iran campaign at 9/11 Pentagon ceremony, aligns with war on terror",
+    "tags": [
+      "Donald Trump",
+      "Iran",
+      "Pentagon"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T19:42:41.000Z"
+  },
+  {
+    "id": "7f8a03b120bbd1eb",
+    "slug": "twenty-five-fields-medal-winners-warn-of-misalignment-between-ai-and-mathematics",
+    "title": "Twenty-five Fields Medal winners warn of misalignment between AI and mathematics",
+    "tags": [
+      "Terence Tao"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T19:29:54.000Z"
+  },
+  {
+    "id": "62879583109b5203",
+    "title": "Rivian’s AI Agents Cut 15 Days From Every Close",
+    "summary": "Electric vehicle manufacturer Rivian automated one of the more tedious jobs in corporate finance: tracking how much to set aside for custom manufacturing tools it has ordered but not yet received a bill for. Rivian built an artificial intelligence system on Amazon Bedrock and eliminated more than 15 days of manual work per close cycle, […]\nThe post Rivian’s AI Agents Cut 15 Days From Every Close appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/rivian-ai-agents-cut-15-days-from-every-close/",
+    "source": "PYMNTS",
+    "tags": [
+      "Rivian",
+      "Amazon Bedrock"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-11T19:18:16.000Z",
+    "fetchedAt": "2026-09-11T20:02:14.964Z",
+    "isDuplicateOf": null,
+    "content": "Electric vehicle maker Rivian has successfully automated a tedious corporate finance task using artificial intelligence. By building an AI system on Amazon Bedrock, the company now tracks unbilled manufacturing tool expenses automatically. This innovative solution has eliminated more than 15 days of manual work during every financial close cycle, significantly improving efficiency for the corporate finance team.",
+    "content_ta": "எலக்ட்ரிக்கல் வாகன தயாரிப்பு நிறுவனமான Rivian, செயற்கை நுண்ணறிவைப் பயன்படுத்தி தனது நிறுவன நிதிப் பணியை எளிதாக்கியுள்ளது. Amazon Bedrock-ஐப் பயன்படுத்தி உருவாக்கப்பட்ட இந்த AI அமைப்பு மூலம், இன்னும் பில் பெறப்படாத உற்பத்தி கருவிகளுக்கான செலவுகளை கணக்கிடும் பணி தானியங்குபடுத்தப்பட்டுள்ளது. இந்த புதுமையான தீர்வு மூலம் ஒவ்வொரு நிதி மூடல் சுழற்சியிலும் 15 நாட்களுக்கு மேலான மனித உழைப்பு மிச்சப்படுத்தப்பட்டுள்ளது.",
+    "slug": "rivian-s-ai-agents-cut-15-days-from-every-close"
+  },
+  {
+    "id": "cb535ceb59614100",
+    "slug": "xai-delays-grok-4-7-release-for-additional-refinements",
+    "title": "xAI delays Grok 4.7 release for additional refinements",
+    "tags": [
+      "xAI",
+      "Meta",
+      "OpenAI"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T19:15:54.000Z"
+  },
+  {
+    "id": "181c5c913a639ccd",
+    "slug": "allbridge-processes-1-64b-in-stablecoins-on-tron-with-nearly-80-000-transfers",
+    "title": "Allbridge processes $1.64B in stablecoins on TRON with nearly 80,000 transfers",
+    "tags": [
+      "Allbridge",
+      "TRON"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T19:10:09.000Z"
+  },
+  {
+    "id": "63e799f8fa896b5d",
+    "slug": "meta-faces-class-action-over-ai-training-data-and-secret-face-recognition-feature",
+    "title": "Meta faces class action over AI training data and secret face recognition feature",
+    "tags": [
+      "Meta"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T19:08:05.000Z"
+  },
+  {
+    "id": "123d953b874ff15f",
+    "slug": "why-circle-is-spending-400m-to-fix-the-last-mile-holding-stablecoins-back-from-real-world-payouts",
+    "title": "Why Circle is spending $400M to fix the last mile holding stablecoins back from real-world payouts",
+    "tags": [
+      "Circle"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T19:05:03.000Z"
+  },
+  {
+    "id": "8fa6b5ab26aa5eb2",
+    "title": "MoonPay Buys Rhythm in Latest Strategic Acquisition Move",
+    "summary": "MoonPay has acquired Rhythm, an on-chain trading signals platform, to promote the adoption of online trading, MoonPay said in a press release emailed to PYMNTS. Rhythm’s technology and its three co-founders, including Joseph Murphy, James Miller and Lincoln Barnett III, have joined MoonPay, according to the release. Miller said in a Friday post on LinkedIn: […]\nThe post MoonPay Buys Rhythm in Latest Strategic Acquisition Move appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/news/acquiring/2026/moonpay-buys-rhythm-in-latest-strategic-acquisition-move/",
+    "source": "PYMNTS",
+    "tags": [
+      "MoonPay",
+      "Rhythm",
+      "Joseph Murphy",
+      "James Miller",
+      "Lincoln Barnett III"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-11T19:03:25.000Z",
+    "fetchedAt": "2026-09-11T20:02:14.964Z",
+    "isDuplicateOf": null,
+    "content": "MoonPay has acquired Rhythm, an on-chain trading signals platform, in a strategic move aimed at promoting online trading adoption. Rhythm's technology and its co-founders have joined the MoonPay team as part of the acquisition.",
+    "content_ta": "ஆன்லைன் வர்த்தகத்தைப் பரப்பும் நோக்கில், ஆன்-செயின் டிரேடிங் சிக்னல்ஸ் தளமான Rhythm நிறுவனத்தை MoonPay வாங்கியுள்ளது. இந்த ஒப்பந்தத்தின் மூலம் Rhythm நிறுவனத்தின் தொழில்நுட்பமும் அதன் இணை நிறுவனர்களும் MoonPay அணியில் இணைந்துள்ளனர்.",
+    "slug": "moonpay-buys-rhythm-in-latest-strategic-acquisition-move"
+  },
+  {
+    "id": "a1fa7d4a8f26b22e",
+    "slug": "cftc-proposes-rule-on-whistleblower-awards-creating-presumption-of-maximum-payouts-on-smaller-claims",
+    "title": "CFTC proposes rule on whistleblower awards, creating presumption of maximum payouts on smaller claims",
+    "tags": [
+      "CFTC"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T18:54:27.000Z"
+  },
+  {
+    "id": "bfffde326a052f4b",
+    "slug": "anthropic-s-1-cover-page-leaked-ahead-of-potential-ipo",
+    "title": "Anthropic S-1 cover page leaked ahead of potential IPO",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T18:54:02.000Z"
+  },
+  {
+    "id": "d316ca18c7498664",
+    "slug": "quarter-point-hike-leads-polymarket-s-september-fed-pricing-at-62",
+    "title": "Quarter-Point Hike Leads Polymarket’s September Fed Pricing at 62%",
+    "tags": [
+      "Polymarket",
+      "Federal Reserve"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T18:47:00.000Z"
+  },
+  {
+    "id": "9c7b76200b81ebd8",
+    "slug": "hyperliquid-s-biggest-risk-is-regulation-says-ran-neuner",
+    "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
+    "tags": [
+      "Hyperliquid",
+      "Ran Neuner",
+      "Crypto Banter"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T18:45:15.000Z"
+  },
+  {
+    "id": "5f0bef910d9619fc",
+    "slug": "could-elon-musk-s-x-money-use-xrp-xrpl-foundation-cto-weighs-in",
+    "title": "Could Elon Musk’s X Money Use XRP? XRPL Foundation CTO Weighs In",
+    "tags": [
+      "X Money",
+      "XRP",
+      "XRPL Foundation",
+      "Elon Musk"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T18:39:56.000Z"
+  },
+  {
+    "id": "e96f2510c6ea3248",
+    "slug": "white-house-weighs-invoking-defense-production-act-to-boost-us-oil-refining-capacity",
+    "title": "White House weighs invoking Defense Production Act to boost US oil refining capacity",
+    "tags": [
+      "White House",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T18:39:42.000Z"
+  },
+  {
+    "id": "9eca1466bd642bd7",
+    "slug": "heyanon-token-triples-after-deployment-of-equilibra-on-robinhood-chain",
+    "title": "HeyAnon token triples after deployment of Equilibra on Robinhood Chain",
+    "tags": [
+      "HeyAnon",
+      "Equilibra",
+      "Robinhood Chain"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T18:32:56.000Z"
+  },
+  {
+    "id": "ef3f76d9af637e52",
+    "slug": "bitcoin-hit-by-another-blockchain-reorg",
+    "title": "Bitcoin Hit by Another Blockchain Reorg",
+    "tags": [
+      "Bitcoin",
+      "SpiderPool",
+      "AntPool"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T18:31:18.000Z"
+  },
+  {
+    "id": "01b944b5aac22784",
+    "slug": "oracle-proposes-2-gw-of-renewables-for-stargate-data-center-emissions",
+    "title": "Oracle proposes 2 GW of renewables for Stargate data center emissions",
+    "tags": [
+      "Oracle"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T18:25:46.000Z"
+  },
+  {
+    "id": "e677e59eea0d1631",
+    "slug": "ripple-news-xrp-uses-ai-agents-in-1-billion-treasury-push",
+    "title": "Ripple News: XRP Uses AI Agents in $1 Billion Treasury Push",
+    "tags": [
+      "Ripple",
+      "XRP"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T18:23:00.000Z"
+  },
+  {
+    "id": "5c68e5883884603a",
+    "slug": "crypto-exchange-recovery-rules-split-nes-holders-into-winners-and-losers-after-286m-exploit-fallout",
+    "title": "Crypto exchange recovery rules split NES holders into winners and losers after $286M exploit fallout",
+    "tags": [
+      "Binance Alpha",
+      "Kraken",
+      "NES"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T18:15:55.000Z"
+  },
+  {
+    "id": "45b80be322717786",
+    "slug": "us-senate-s-russia-sanctions-bill-heads-to-house-vote-next-week",
+    "title": "US Senate’s Russia sanctions bill heads to House vote next week",
+    "tags": [
+      "United States",
+      "Russia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-11T18:14:16.000Z"
+  },
+  {
+    "id": "200b6a2172f623d5",
+    "title": "JD Vance confronts heckler at GOP convention, sparking political debate",
+    "summary": "Vance's confrontation may signal growing political challenges, impacting his vice presidency prospects amid heightened scrutiny and debate.\nThe post JD Vance confronts heckler at GOP convention, sparking political debate appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/jd-vance-confronts-heckler-at-gop-convention-sparking-political-debate/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "JD Vance",
+      "GOP"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-11T18:10:31.000Z",
+    "fetchedAt": "2026-09-11T20:02:14.964Z",
+    "isDuplicateOf": null,
+    "content": "JD Vance recently confronted a heckler during an appearance at a GOP convention, sparking a notable political debate. This tense interaction has drawn widespread attention and raised discussions regarding the political challenges and ongoing scrutiny surrounding his vice presidency prospects within the current political landscape.",
+    "content_ta": "சமீபத்தில் நடைபெற்ற GOP convention-ல் JD Vance ஒரு heckler-ஐ எதிர்கொண்டது பெரும் அரசியல் விவாதத்தை ஏற்படுத்தியுள்ளது. இந்த நிகழ்வு அவரது vice presidency எதிர்காலம் குறித்த அரசியல் சவால்கள் மற்றும் விவாதங்களை மீண்டும் கவனத்திற்கு கொண்டு வந்துள்ளது.",
+    "slug": "jd-vance-confronts-heckler-at-gop-convention-sparking-political-debate"
+  },
+  {
+    "id": "66b9f94e931c0d13",
+    "title": "CFTC Approves Final Rule Concerning Whistleblower Awards",
+    "summary": "WASHINGTON — The Commodity Futures Trading Commission today approved a final rule that incorporates a 30 percent presumption for whistleblower awards of $5 million or less, subject to Commission discretion and its analysis of relevant regulatory factors.The final rule is modeled on the Securities and Exchange Commission’s rule 21F-6(c), further",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/09/309565-cftc-approves-final-rule-concerning-whistleblower-awards/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Commodity Futures Trading Commission",
+      "Securities and Exchange Commission",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-11T18:08:58.000Z",
+    "fetchedAt": "2026-09-11T20:02:14.964Z",
+    "isDuplicateOf": null,
+    "content": "The Commodity Futures Trading Commission has approved a final rule regarding whistleblower awards. The regulation establishes a 30 percent presumption for awards of $5 million or less, subject to the agency's discretion and analysis of regulatory factors. This final rule is modeled on existing regulations used by the Securities and Exchange Commission, aiming to enhance the whistleblower program.",
+    "content_ta": "Commodity Futures Trading Commission நிறுவனம் விசிலப்ளோவர் விருதுகள் தொடர்பான இறுதி விதியை ஒப்புதல் அளித்துள்ளது. இந்த ஒழுங்குமுறை 5 மில்லியன் டாலர் அல்லது அதற்கும் குறைவான விருதுகளுக்கு 30 சதவீத அனுமானத்தை நிறுவுகிறது. இந்த இறுதி விதி Securities and Exchange Commission இன் விதிமுறைகளின் அடிப்படையில் வடிவமைக்கப்பட்டுள்ளது.",
+    "slug": "cftc-approves-final-rule-concerning-whistleblower-awards"
+  },
+  {
+    "id": "60d8ae8d9204f7ed",
+    "title": "Google DeepMind and Harvard propose vision-first path to AGI",
+    "summary": "A vision-first approach to AGI could redefine AI development, emphasizing visual learning and multimodal integration for broader intelligence.\nThe post Google DeepMind and Harvard propose vision-first path to AGI appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/deepmind-harvard-visual-general-intelligence-agi/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Google DeepMind",
+      "Harvard"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-11T18:08:13.000Z",
+    "fetchedAt": "2026-09-11T20:02:14.964Z",
+    "isDuplicateOf": null,
+    "content": "Google DeepMind and Harvard researchers have proposed a vision-first approach toward achieving Artificial General Intelligence (AGI). This strategy emphasizes visual learning and multimodal integration, suggesting that prioritizing visual processing could significantly advance broader machine intelligence and redefine traditional AI development pathways.",
+    "content_ta": "Google DeepMind மற்றும் Harvard ஆராய்ச்சியாளர்கள் AGI-ஐ அடைவதற்கான ஒரு பார்வை-முதல் அணுகுமுறையை முன்மொழிந்துள்ளனர். இந்த வியூகம் காட்சி கற்றல் மற்றும் பன்முடிகளின் ஒருங்கிணைப்பை வலியுறுத்துகிறது, மேலும் இது பரந்த இயந்திர நுண்ணறிவை மேம்படுத்தி பாரம்பரிய AI வளர்ச்சி வழிகளை மாற்றி அமைக்கக்கூடும்.",
+    "slug": "google-deepmind-and-harvard-propose-vision-first-path-to-agi"
+  },
+  {
+    "id": "bf059c72535fb9c9",
+    "title": "California wealth tax backer threatened labor officials, report reveals",
+    "summary": "The report's findings may undermine the wealth tax initiative's support, affecting its prospects in the 2026 election and market confidence.\nThe post California wealth tax backer threatened labor officials, report reveals appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/california-wealth-tax-backer-threatened-labor-officials-report-reveals/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "California"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-11T18:03:24.000Z",
+    "fetchedAt": "2026-09-11T20:02:14.964Z",
+    "isDuplicateOf": null,
+    "content": "A recent report reveals that a prominent backer of the California wealth tax initiative allegedly threatened labor officials. This damaging revelation could significantly undermine support for the proposed wealth tax, impacting its future prospects leading up to the 2026 election as well as broader market confidence in the region.",
+    "content_ta": "California wealth tax திட்டத்தின் முக்கிய ஆதரவாளர் ஒருவர் தொழிலாளர் துறை அதிகாரிகளை மிரட்டியதாக ஒரு புதிய அறிக்கை வெளிப்படுத்தியுள்ளது. இந்தச் செய்தி இந்த செல்வ வரி முயற்சிக்கு அளிக்கப்படும் ஆதரவை வெகுவாகக் குறைக்கக்கூடும். மேலும், இது 2026 தேர்தல் மற்றும் சந்தை நம்பிக்கையிலும் தாக்கத்தை ஏற்படுத்தலாம்.",
+    "slug": "california-wealth-tax-backer-threatened-labor-officials-report-reveals"
+  },
+  {
+    "id": "36d288f13c1106c6",
+    "slug": "stablecoin-proliferation-is-a-treasury-policy-problem",
+    "title": "Stablecoin Proliferation is a Treasury Policy Problem",
     "tags": [
       "Rhino.fi",
       "Will Harborne"
     ],
+    "source": "The Fintech Times",
     "origin": "rss",
-    "pubDate": "2026-09-11T18:00:19.000Z",
-    "fetchedAt": "2026-09-11T18:01:17.654Z",
-    "isDuplicateOf": null,
-    "content": "The proliferation of stablecoins has become a significant treasury policy challenge for organizations. According to Rhino.fi founder Will Harborne, businesses must carefully distinguish between accepting multiple stablecoins and deciding which assets ultimately reach their balance sheets. Establishing a clear settlement policy is crucial for navigating this complex financial landscape effectively.",
-    "content_ta": "ஸ்டேபிள்காயின்களின் பெருக்கம் நிறுவனங்களுக்கு ஒரு பெரிய பொக்கிஷ கொள்கை சவாலாக மாறியுள்ளது. Rhino.fi நிறுவனத்தின் நிறுவனர் Will Harborne இன் கூற்றுப்படி, பல ஸ்டேபிள்காயின்களை ஏற்றுக்கொள்வதற்கும், எந்த சொத்துகள் இறுதியில் தங்கள் இருப்புநிலைக் குறிப்பை எட்டுகின்றன என்பதைத் தீர்மானிப்பதற்கும் வணிகங்கள் கவனமாகப் பிரித்தறிய வேண்டும். இந்த சிக்கலான நிதி நிலப்பரப்பை திறம்பட வழிநடத்த தெளிவான தீர்வு கொள்கையை நிறுவுவது முக்கியமானது.",
-    "slug": "stablecoin-proliferation-is-a-treasury-policy-problem"
+    "hasContent": true,
+    "pubDate": "2026-09-11T18:00:19.000Z"
   },
   {
     "id": "68e2b9a254e11e91",
+    "slug": "palantir-partners-with-nvidia-to-build-secure-ai-systems-the-government-can-actually-trust",
     "title": "Palantir partners with Nvidia to build secure AI systems the government can actually trust",
-    "summary": "This partnership could redefine data sovereignty in AI, enhancing national security and operational autonomy for government agencies.\nThe post Palantir partners with Nvidia to build secure AI systems the government can actually trust appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/palantir-nvidia-secure-ai-partnership/",
-    "source": "CryptoBriefing",
     "tags": [
       "Palantir",
       "Nvidia"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-11T17:59:36.000Z",
-    "fetchedAt": "2026-09-11T18:01:17.654Z",
-    "isDuplicateOf": null,
-    "content": "Palantir has announced a partnership with Nvidia to develop secure artificial intelligence systems designed for government use. This collaboration aims to enhance national security and improve operational autonomy for government agencies, potentially redefining data sovereignty in the deployment of artificial intelligence technologies.",
-    "content_ta": "அரசாங்க பயன்பாட்டிற்காக பாதுகாப்பான செயற்கை நுண்ணறிவு அமைப்புகளை உருவாக்க Palantir நிறுவனம் Nvidia உடன் கூட்டு சேர்ந்துள்ளதாக அறிவித்துள்ளது. இந்த ஒத்துழைப்பு தேசிய பாதுகாப்பை மேம்படுத்துவதையும், அரசாங்க நிறுவனங்களின் செயல்பாட்டு சுயாட்சியை அதிகரிப்பதையும் நோக்கமாகக் கொண்டுள்ளது.",
-    "slug": "palantir-partners-with-nvidia-to-build-secure-ai-systems-the-government-can-actually-trust"
+    "hasContent": true,
+    "pubDate": "2026-09-11T17:59:36.000Z"
   },
   {
     "id": "b8e435c0fb933793",
+    "slug": "navar-capital-launches-new-investment-platform-for-accredited-investors-link-below-in-the-comments",
     "title": "Navar Capital Launches New Investment Platform for Accredited Investors  * link below in the comments  #Investment #WealthManagement #FinancialIT",
-    "summary": "Navar Capital, LLC today announced the launch of its investment management platform, powered by its proprietary QRI™ (Quant-Real-Intelligence) framework, and the introduction of the Navar Capital Income Fund, LP and Navar Capital Growth Fund, LP available exclusively to verified accredited investors under SEC Rule 506(c).\nFounded by technology entrepreneur and investor Rajesh Navar, Navar Capital combines artificial intelligence, quantitative modeling, technical and fundamental research, and disciplined risk management to identify high-growth and income-generating investment opportunities. The firm integrates advanced data analytics with real-world market insight to support active portfolio management and long-term investment decision-making.\n“Successful investing requires disciplined analysis, sound judgment, and experience,\" said Rajesh Navar, Founder and CEO of Navar Capital. “Our unique approach combines quantitative research with decades of investing experience to identify compelling opportunities while maintaining a disciplined focus on risk management, transparency, and long-term value creation.”\nRajesh brings more than 35 years of experience spanning technology, investing, and entrepreneurship. After helping build eBay before its 1998 IPO, he founded LiveDeal.com, which merged with YP.com and became a publicly traded Nasdaq company. An early artificial intelligence pioneer whose research was published by IEEE, he has invested in more than 20 technology startups and successfully navigated multiple market cycles.\nThe Navar Capital Income Fund is designed for investors seeking current income together with long-term capital appreciation through a disciplined covered-call and dividend-focused strategy. The Navar Capital Growth Fund seeks long-term capital appreciation through an actively managed portfolio. As a matter of investment policy, both Funds operate on a non-margin basis and do not utilize leverage.\nSince implementing its QRI™ framework in 2024, the Navar Capital Growth Fund has generated cumulative returns exceeding 120%, equivalent to an annualized net return of approximately 34%. This includes a 14.80% year-to-date net return through August 31, 2026. Since its inception in May 2026, the Navar Capital Income Fund has declared cumulative cash distributions equal to 7.39% of invested capital through August 31, 2026, representing an annualized distribution rate of approximately 22.18%. Performance results for 2024 and 2025 have been audited, while all 2026 performance and distribution figures are unaudited. All figures are presented net of applicable fees and expenses.\nBuilt on the principles of performance, trust, and transparency, Navar Capital is supported by independent institutional service providers for fund administration, custody, and auditing. Investors also benefit from secure online reporting, daily Net Asset Value (NAV) updates, and a General Partner that maintains a significant personal capital commitment alongside investors.\nNoYesInvestment11 Sep, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/investment/navar-capital-launches-new-investment-platform-accredited-investors-link-below",
-    "source": "Financial IT",
     "tags": [
       "Navar Capital",
       "Rajesh Navar"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-09-11T17:59:32.000Z",
-    "fetchedAt": "2026-09-11T18:01:17.654Z",
-    "isDuplicateOf": null,
-    "content": "Navar Capital has launched a new investment management platform and two funds exclusively for accredited investors, founded by technology entrepreneur Rajesh Navar. The firm utilizes its proprietary QRI framework, combining artificial intelligence and quantitative modeling for risk-managed portfolio strategies. The growth fund has reported strong cumulative returns since its 2024 implementation, while the income fund offers dividend-focused strategies, both operating entirely on a non-margin basis without leverage.",
-    "content_ta": "டெக்னாலஜி entrepreneur Rajesh Navar என்பவரால் தொடங்கப்பட்ட Navar Capital நிறுவனம், accredited முதலீட்டாளர்களுக்காக புதிய முதலீட்டு மேலாண்மை தளத்தையும் இரண்டு ஃபண்டுகளையும் அறிமுகப்படுத்தியுள்ளது. இந்நிறுவனம் செயற்கை நுண்ணறிவு மற்றும் அளவுக் கணிப்பு முறைகளைக் கொண்ட QRI ஃபிரேம்வொர்க்கைப் பயன்படுத்தி முதலீட்டு உத்திகளை நிர்வகிக்கிறது.",
-    "slug": "navar-capital-launches-new-investment-platform-for-accredited-investors-link-below-in-the-comments"
+    "hasContent": true,
+    "pubDate": "2026-09-11T17:59:32.000Z"
   },
   {
     "id": "5290d7d047fbfc44",
+    "slug": "us-convertible-bond-sales-hit-record-high-as-ai-spending-devours-capital-markets",
     "title": "US convertible bond sales hit record high as AI spending devours capital markets",
-    "summary": "The surge in convertible bond sales highlights the intense capital demands of AI development, potentially reshaping investment strategies and market dynamics.\nThe post US convertible bond sales hit record high as AI spending devours capital markets appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/us-convertible-bond-record-ai-spending/",
-    "source": "CryptoBriefing",
     "tags": [
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-11T17:59:27.000Z",
-    "fetchedAt": "2026-09-11T18:01:17.654Z",
-    "isDuplicateOf": null,
-    "content": "US convertible bond sales have reached a record high driven by massive AI spending that is absorbing capital in the markets. This significant surge underscores the intense financial demands required for ongoing artificial intelligence development, which is actively reshaping current investment strategies and overall market dynamics.",
-    "content_ta": "US-ல் convertible bond விற்பனை சாதனை அளவை எட்டியுள்ளது. AI துறையின் அதிகப்படியான செலவினங்களால் மூலதன சந்தைகள் பாதிக்கப்பட்டுள்ளன. இந்த எழுச்சி செயற்கை நுண்ணறிவு வளர்ச்சிக்கான தீவிர நிதித் தேவைகளை எடுத்துக்காட்டுகிறது.",
-    "slug": "us-convertible-bond-sales-hit-record-high-as-ai-spending-devours-capital-markets"
+    "hasContent": true,
+    "pubDate": "2026-09-11T17:59:27.000Z"
   },
   {
     "id": "c3d3a04bf0effa37",
+    "slug": "altimeter-s-gerstner-criticizes-ai-extinction-warnings-questions-motives",
     "title": "Altimeter’s Gerstner criticizes AI extinction warnings, questions motives",
-    "summary": "The debate over AI extinction risks highlights tensions between innovation and regulation, potentially reshaping industry dynamics and policies.\nThe post Altimeter’s Gerstner criticizes AI extinction warnings, questions motives appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/gerstner-criticizes-ai-extinction-warnings/",
-    "source": "CryptoBriefing",
     "tags": [
       "Altimeter",
       "Brad Gerstner"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-11T17:58:43.000Z",
-    "fetchedAt": "2026-09-11T18:01:17.654Z",
-    "isDuplicateOf": null,
-    "content": "Brad Gerstner of Altimeter has criticized warnings regarding AI extinction risks, raising questions about the underlying motives behind such claims. This debate underscores the growing tension between pushing technological innovation forward and implementing strict regulatory policies, which could ultimately impact future industry standards and governance.",
-    "content_ta": "Altimeter நிறுவனத்தைச் சேர்ந்த Gerstner, AI அழிவு அபாயங்கள் குறித்த எச்சரிக்கைகளை விமர்சித்துள்ளார் மற்றும் அத்தகைய கூற்றுக்களுக்குப் பின்னால் உள்ள உள்நோக்கங்கள் குறித்து கேள்வி எழுப்பியுள்ளார். இந்த விவாதமானது தொழில்நுட்ப கண்டுபிடிப்புகளை மேம்படுத்துவதற்கும் கடுமையான ஒழுங்குமுறை கொள்கைகளை நடைமுறைப்படுத்துவதற்கும் இடையிலான வளர்ந்து வரும் பதற்றத்தை எடுத்துக்காட்டுகிறது.",
-    "slug": "altimeter-s-gerstner-criticizes-ai-extinction-warnings-questions-motives"
+    "hasContent": true,
+    "pubDate": "2026-09-11T17:58:43.000Z"
   },
   {
     "id": "44b43ebd9f59e8e5",
+    "slug": "ai-competition-and-distrust-among-leaders-raise-humanity-risk-ft",
     "title": "AI competition and distrust among leaders raise humanity risk: FT",
-    "summary": "Intense AI competition and distrust among leaders may undermine investor confidence, affecting market valuations and innovation trajectories.\nThe post AI competition and distrust among leaders raise humanity risk: FT appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/ai-competition-and-distrust-among-leaders-raise-humanity-risk-ft/",
-    "source": "CryptoBriefing",
     "tags": [
       "Financial Times"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-11T17:57:14.000Z",
-    "fetchedAt": "2026-09-11T18:01:17.654Z",
-    "isDuplicateOf": null,
-    "content": "Intense competition in the artificial intelligence sector and a lack of trust among industry leaders are raising significant risks for humanity. According to the Financial Times, these growing tensions could undermine investor confidence, negatively impacting global market valuations and shaping future innovation trajectories. Observers note that without cooperation, the rapid advancement of AI poses broader systemic challenges that require immediate attention from key stakeholders.",
-    "content_ta": "AI துறையில் நிலவும் தீவிர போட்டியும், தலைவர்களிடையே நிலவும் அவநம்பிக்கையும் மனித குலத்திற்கு பெரும் அச்சுறுத்தலாக மாறுவதாக Financial Times எச்சரித்துள்ளது. இந்த பதட்டங்கள் முதலீட்டாளர்களின் நம்பிக்கையை குலைத்து, சந்தை மதிப்பீடுகளையும் புதிய கண்டுபிடிப்புகளையும் பாதிக்கலாம் என்று கூறப்படுகிறது. முறையான ஒத்துழைப்பு இல்லாவிட்டால் AI வளர்ச்சியானது பெரிய சவால்களை ஏற்படுத்தும் என அவதானிக்கப்படுகிறது.",
-    "slug": "ai-competition-and-distrust-among-leaders-raise-humanity-risk-ft"
+    "hasContent": true,
+    "pubDate": "2026-09-11T17:57:14.000Z"
   },
   {
     "id": "18fcea26abd99621",
+    "slug": "white-house-downplays-concerns-over-trump-s-5-000-checks-proposal",
     "title": "White House downplays concerns over Trump’s $5,000 checks proposal",
-    "summary": "Trump's proposal risks exacerbating national debt issues, potentially impacting US fiscal sustainability and credit ratings long-term.\nThe post White House downplays concerns over Trump’s $5,000 checks proposal appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/white-house-trump-dividend-5000-checks/",
-    "source": "CryptoBriefing",
     "tags": [
       "White House",
       "Donald Trump",
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-11T17:49:38.000Z",
-    "fetchedAt": "2026-09-11T18:01:17.654Z",
-    "isDuplicateOf": null,
-    "content": "The White House has downplayed concerns surrounding a recent proposal by Donald Trump regarding $5,000 checks. Critics warn that such a measure could exacerbate the national debt and pose long-term risks to United States fiscal sustainability and credit ratings. Despite these economic warnings, administration officials have minimized the potential negative impacts associated with the policy discussion.",
-    "content_ta": "Donald Trump-ன் $5,000 checks proposal தொடர்பான கவலைகளை White House குறைத்து மதிப்பிட்டுள்ளது. இத்தகைய நடவடிக்கை தேசிய கடனை மேலும் அதிகரிக்கும் என்றும், United States நாட்டின் நீண்டகால நிதி நிலைத்தன்மை மற்றும் கிரெடிட் ரேட்டிங்குகளுக்கு ஆபத்தை ஏற்படுத்தக்கூடும் என்றும் விமர்சகர்கள் எச்சரிக்கின்றனர்.",
-    "slug": "white-house-downplays-concerns-over-trump-s-5-000-checks-proposal"
+    "hasContent": true,
+    "pubDate": "2026-09-11T17:49:38.000Z"
   },
   {
     "id": "e82f2dfa57f733d0",
@@ -432,407 +827,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-11T16:39:17.000Z"
-  },
-  {
-    "id": "325fb3156a2e49a4",
-    "slug": "anthropic-warns-iran-used-us-ai-models-to-target-us-naval-ships",
-    "title": "Anthropic warns Iran used US AI models to target US naval ships",
-    "tags": [
-      "Anthropic",
-      "Iran",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T16:38:10.000Z"
-  },
-  {
-    "id": "33741c758048be84",
-    "slug": "anthropic-s-ai-safety-evaluations-criticized-for-design-flaws-and-incentives",
-    "title": "Anthropic’s AI safety evaluations criticized for design flaws and incentives",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T16:37:21.000Z"
-  },
-  {
-    "id": "165cf50688539343",
-    "slug": "saudi-oil-pipeline-hit-by-projectiles-raising-supply-concerns-cnn",
-    "title": "Saudi oil pipeline hit by projectiles, raising supply concerns: CNN",
-    "tags": [
-      "Saudi Arabia",
-      "CNN"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T16:36:50.000Z"
-  },
-  {
-    "id": "e68682d5c87e04cb",
-    "slug": "us-commerce-secretary-lutnick-cites-intel-stake-when-pressed-on-5-000-payment-plan",
-    "title": "US Commerce Secretary Lutnick cites Intel stake when pressed on $5,000 payment plan",
-    "tags": [
-      "Intel",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T16:36:47.000Z"
-  },
-  {
-    "id": "ace3542e2c1bd0bb",
-    "slug": "higher-housing-and-gas-costs-squeeze-what-s-left-for-shopping",
-    "title": "Higher Housing and Gas Costs Squeeze What’s Left for Shopping",
-    "tags": [
-      "Bureau of Labor Statistics"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T16:34:44.000Z"
-  },
-  {
-    "id": "251edb7262cd1342",
-    "slug": "solana-dex-volume-crosses-3t-as-sol-eyes-150",
-    "title": "Solana DEX Volume Crosses $3T as SOL Eyes $150",
-    "tags": [
-      "Solana",
-      "SOL"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T16:34:30.000Z"
-  },
-  {
-    "id": "004e45837f99c6b5",
-    "slug": "anthropic-disrupts-massive-distillation-attack-from-chinese-ai-labs-targeting-claude",
-    "title": "Anthropic disrupts massive distillation attack from Chinese AI labs targeting Claude",
-    "tags": [
-      "Anthropic",
-      "Claude",
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T16:26:17.000Z"
-  },
-  {
-    "id": "22c8fd61c29357ec",
-    "slug": "bitcoin-suisse-to-cut-up-to-50-of-swiss-staff-in-major-restructuring-push",
-    "title": "Bitcoin Suisse to cut up to 50% of Swiss staff in major restructuring push",
-    "tags": [
-      "Bitcoin Suisse",
-      "Switzerland"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T16:25:20.000Z"
-  },
-  {
-    "id": "b4f7515b2f7cd430",
-    "slug": "fed-bowman-sued-over-capital-requirements-process",
-    "title": "Fed, Bowman sued over capital-requirements process",
-    "tags": [
-      "Federal Reserve",
-      "Better Markets",
-      "Michael Bowman"
-    ],
-    "source": "Banking Dive",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T16:22:46.000Z"
-  },
-  {
-    "id": "53a9fcfdd4b6336d",
-    "slug": "xrp-news-is-ripple-xrp-s-tokenization-ranking-missing-the-real-story",
-    "title": "XRP News: Is Ripple XRP’s Tokenization Ranking Missing the Real Story?",
-    "tags": [
-      "XRP",
-      "Ripple",
-      "Apex Crypto"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T16:14:10.000Z"
-  },
-  {
-    "id": "8ba8b8c3c74125e2",
-    "slug": "fed-reports-us-household-net-worth-rises-12-8t-in-second-quarter",
-    "title": "Fed reports US household net worth rises $12.8T in second quarter",
-    "tags": [
-      "Federal Reserve",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T16:10:04.000Z"
-  },
-  {
-    "id": "f49a8ba14123eb63",
-    "slug": "us-gasoline-prices-may-hit-5-per-gallon-before-midterms-strategist",
-    "title": "US gasoline prices may hit $5 per gallon before midterms: strategist",
-    "tags": [
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T16:07:37.000Z"
-  },
-  {
-    "id": "b462ed762b42a286",
-    "slug": "pi-network-pi-keeps-struggling-under-0-10-3-ais-predict-its-maximum-price-for-2026",
-    "title": "Pi Network (PI) Keeps Struggling Under $0.10: 3 AIs Predict Its Maximum Price for 2026",
-    "tags": [
-      "Pi Network",
-      "ChatGPT"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T16:05:52.000Z"
-  },
-  {
-    "id": "1080ad0f8c358916",
-    "slug": "oracle-secures-billions-from-ai-customers-for-data-center-expansion",
-    "title": "Oracle secures billions from AI customers for data center expansion",
-    "tags": [
-      "Oracle"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T16:05:52.000Z"
-  },
-  {
-    "id": "828a9116d4c7a226",
-    "slug": "anchorage-digital-adds-institutional-access-to-frgmnt-s-fusd-stablecoin",
-    "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
-    "tags": [
-      "Anchorage Digital",
-      "Frgmnt"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T16:05:15.000Z"
-  },
-  {
-    "id": "6acb918988a8af1d",
-    "slug": "banco-santander-bnp-paribas-barclays-push-for-faster-eu-banking-reforms",
-    "title": "Banco Santander, BNP Paribas, Barclays push for faster EU banking reforms",
-    "tags": [
-      "Banco Santander",
-      "BNP Paribas",
-      "Barclays",
-      "European Union"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T16:04:38.000Z"
-  },
-  {
-    "id": "7f9e7381f14b2769",
-    "slug": "admiral-cooper-in-saudi-arabia-for-talks-on-houthi-advances-in-yemen",
-    "title": "Admiral Cooper in Saudi Arabia for talks on Houthi advances in Yemen",
-    "tags": [
-      "Saudi Arabia",
-      "Yemen",
-      "Houthi",
-      "Admiral Cooper"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T16:00:52.000Z"
-  },
-  {
-    "id": "ec2e17a6559b198f",
-    "slug": "cpi-and-ppi-climb-crushing-hopes-for-cheap-money-and-leaving-bitcoin-traders-with-an-expensive",
-    "title": "CPI and PPI climb, crushing hopes for cheap money and leaving Bitcoin traders with an expensive dilemma",
-    "tags": [
-      "Bitcoin",
-      "Federal Reserve",
-      "United States"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T16:00:02.000Z"
-  },
-  {
-    "id": "7cf374da28f99437",
-    "slug": "osmosis-took-74-days-to-discover-40-btc-nomic-exploit",
-    "title": "Osmosis took 74 days to discover 40-BTC Nomic exploit",
-    "tags": [
-      "Osmosis",
-      "Nomic",
-      "Cosmos",
-      "Bitcoin"
-    ],
-    "source": "Protos",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T15:59:39.000Z"
-  },
-  {
-    "id": "5658e7c83aaff559",
-    "slug": "britain-confirms-use-of-spacex-s-starshield-for-military-communications",
-    "title": "Britain confirms use of SpaceX’s Starshield for military communications",
-    "tags": [
-      "Britain",
-      "SpaceX",
-      "Europe"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T15:58:29.000Z"
-  },
-  {
-    "id": "c6cf78d742c87d0c",
-    "slug": "blackrock-buys-250-million-of-ethereum-despite-price-correction",
-    "title": "BlackRock Buys $250 Million of Ethereum Despite Price Correction",
-    "tags": [
-      "BlackRock",
-      "Ethereum"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T15:48:18.000Z"
-  },
-  {
-    "id": "22e03b60c8df11ce",
-    "slug": "kroger-slashes-sales-growth-outlook-as-strained-consumers-pivot-to-essentials",
-    "title": "Kroger Slashes Sales Growth Outlook as Strained Consumers Pivot to Essentials",
-    "tags": [
-      "Kroger"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T15:46:13.000Z"
-  },
-  {
-    "id": "b6d53b7256d86e5a",
-    "slug": "with-fed-rate-hike-all-but-assured-here-s-how-markets-might-react",
-    "title": "With Fed rate hike all but assured, here's how markets might react",
-    "tags": [
-      "Federal Reserve",
-      "United States"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T15:45:56.000Z"
-  },
-  {
-    "id": "5e6693006b2cc9f0",
-    "slug": "samsung-gets-250-for-every-iphone-duo-you-buy",
-    "title": "Samsung Gets $250 For Every iPhone Duo You Buy",
-    "tags": [
-      "Apple",
-      "Samsung"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T15:45:16.000Z"
-  },
-  {
-    "id": "87ae272666ee1465",
-    "slug": "why-buy-xrp-now-21shares-names-4-exact-reasons-including-sec-verdict",
-    "title": "Why Buy XRP Now? 21Shares Names 4 Exact Reasons, Including SEC Verdict",
-    "tags": [
-      "21Shares",
-      "XRP",
-      "SEC",
-      "United States"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T15:37:15.000Z"
-  },
-  {
-    "id": "f5f6056a80209549",
-    "slug": "bitcoin-rises-as-markets-digest-inflation-data-ahead-of-fed-rate-decision",
-    "title": "Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision",
-    "tags": [
-      "Bitcoin",
-      "Federal Reserve"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T15:32:08.000Z"
-  },
-  {
-    "id": "993416a297a578d8",
-    "slug": "what-a-13-million-doj-case-reveals-about-b2b-s-kyb-problem",
-    "title": "What a $13 Million DOJ Case Reveals About B2B’s KYB Problem",
-    "tags": [
-      "DOJ"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T15:28:44.000Z"
-  },
-  {
-    "id": "aea02d631e0d3fb3",
-    "slug": "crypto-speed-bump-scenario-predicted-by-grayscale-head-of-research",
-    "title": "Crypto 'Speed Bump' Scenario Predicted by Grayscale Head of Research",
-    "tags": [
-      "Grayscale",
-      "Zach Pandl",
-      "United States"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T15:19:48.000Z"
-  },
-  {
-    "id": "86c2dd7e3d0db18b",
-    "slug": "india-s-richest-state-is-exploring-tokenizing-its-own-assets-to-fund-new-infrastructure",
-    "title": "India's richest state is exploring tokenizing its own assets to fund new infrastructure",
-    "tags": [
-      "Maharashtra",
-      "India"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T15:17:08.000Z"
-  },
-  {
-    "id": "243a5e52086bc530",
-    "slug": "modi-pezeshkian-discuss-regional-peace-amid-us-iran-tensions",
-    "title": "Modi, Pezeshkian discuss regional peace amid US-Iran tensions",
-    "tags": [
-      "India",
-      "Iran",
-      "United States",
-      "Narendra Modi",
-      "Masoud Pezeshkian"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-11T14:57:37.000Z"
   }
 ]
