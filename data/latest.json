@@ -1,153 +1,224 @@
 [
   {
-    "id": "8a5703d6341df961",
-    "title": "Hyperliquid burns 32.77K HYPE as TVL nears $7B – Can bulls recover?",
-    "summary": "Hyperliquid’s growing burns tighten HYPE supply, while weakening price structure puts $78.50 support under pressure.",
-    "hasSummary": true,
-    "link": "https://ambcrypto.com/hyperliquid-burns-32-77k-hype-as-tvl-nears-7b-can-bulls-recover/",
+    "id": "6586ceca44671add",
+    "slug": "uniswap-processes-over-70b-in-monthly-volume-surpassing-next-three-dexs-combined",
+    "title": "Uniswap processes over $70B in monthly volume, surpassing next three DEXs combined",
+    "tags": [
+      "Uniswap"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-12T22:01:15.000Z"
+  },
+  {
+    "id": "cd6d5c19d01ba2bd",
+    "slug": "polkadot-s-35-rally-meets-a-9-flush-rebound-or-leverage-reset",
+    "title": "Polkadot’s 35% rally meets a 9% flush – Rebound or leverage reset?",
+    "tags": [
+      "Polkadot"
+    ],
     "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-12T22:00:04.000Z"
+  },
+  {
+    "id": "2bdbe0d8124af78e",
+    "title": "Singapore Central Bank Urges Financial Sector to Prepare for AI-Driven Transformation",
+    "summary": "Singapore’s central bank is urging financial institutions to prepare for a rapid transformation driven by artificial intelligence, tokenisation, and quantum computing, while strengthening governance and cybersecurity as increasingly autonomous AI systems reshape the financial system. Chia Der Jiun, managing director of the Monetary Authority of... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/09/309795-singapore-central-bank-urges-financial-sector-to-prepare-for-ai-driven-transformation/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Singapore"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-12T21:54:15.000Z",
+    "fetchedAt": "2026-09-12T22:40:24.681Z",
+    "isDuplicateOf": null,
+    "content": "Singapore's central bank has urged financial institutions to prepare for significant transformation driven by artificial intelligence, tokenisation, and quantum computing. Speaking on the need to strengthen governance and cybersecurity, officials highlighted that increasingly autonomous AI systems are reshaping the financial sector. Institutions are encouraged to proactively adapt to these emerging technologies while maintaining robust operational resilience.",
+    "content_ta": "சிங்கப்பூரின் மத்திய வங்கி, ஆர்ட்டிஃபிஷியல் இன்டெலிஜென்ஸ், டோக்கனைசேஷன் மற்றும் குவாண்டம் கம்ப்யூட்டிங் போன்ற தொழில்நுட்பங்களால் ஏற்படும் மாற்றங்களுக்கு நிதி நிறுவனங்கள் தயாராக வேண்டும் என வலியுறுத்தியுள்ளது. ஆளுமை மற்றும் சைபர் பாதுகாப்பை பலப்படுத்துவதன் அவசியத்தை வலியுறுத்திய அதிகாரிகள், தன்னாட்சி பெற்ற AI அமைப்புகள் நிதித்துறையை மாற்றி வருவதாகத் தெரிவித்தனர். நிறுவனங்கள் இந்த புதிய தொழில்நுட்பங்களுக்கு ஏற்ப தங்களை தகவமைத்துக் கொள்ள வேண்டும்.",
+    "slug": "singapore-central-bank-urges-financial-sector-to-prepare-for-ai-driven-transformation"
+  },
+  {
+    "id": "7365ea2282c1ad13",
+    "slug": "openai-ai-agents-attempted-rubygems-hack-in-may-2026-the-verge",
+    "title": "OpenAI AI agents attempted RubyGems hack in May 2026: The Verge",
+    "tags": [
+      "OpenAI",
+      "RubyGems"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-12T21:44:21.000Z"
+  },
+  {
+    "id": "0c79690a6b937328",
+    "slug": "cryptoquant-says-bitcoin-must-clear-resistance-at-81-700-to-confirm-new-bull-market",
+    "title": "CryptoQuant says bitcoin must clear resistance at $81,700 to confirm new bull market",
+    "tags": [
+      "CryptoQuant",
+      "Bitcoin"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-12T21:39:49.000Z"
+  },
+  {
+    "id": "7cb6eb60e22e44ba",
+    "slug": "thailand-s-stablecoin-proposal-would-block-transfers-to-other-people-s-wallets",
+    "title": "Thailand’s stablecoin proposal would block transfers to other people’s wallets",
+    "tags": [
+      "Thailand"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-12T21:25:29.000Z"
+  },
+  {
+    "id": "3ff6338b760cd816",
+    "slug": "why-hyperliquid-is-rallying-and-why-bitwise-cio-predicts-the-market-to-hit-200-trillion",
+    "title": "Why Hyperliquid is Rallying and Why Bitwise CIO Predicts the Market to Hit $200 Trillion",
+    "tags": [
+      "Hyperliquid",
+      "Bitwise",
+      "Matt Hougan"
+    ],
+    "source": "ZyCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-12T21:22:37.000Z"
+  },
+  {
+    "id": "6d93cfbb3f7ff59f",
+    "slug": "arsenal-extends-winning-streak-to-six-matches-with-2-0-victory-over-sunderland",
+    "title": "Arsenal extends winning streak to six matches with 2-0 victory over Sunderland",
+    "tags": [
+      "Arsenal",
+      "Sunderland"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-12T21:05:10.000Z"
+  },
+  {
+    "id": "dd2dc7a61847f8fe",
+    "slug": "lawmakers-push-for-ai-safety-legislation-amid-extinction-fears",
+    "title": "Lawmakers push for AI safety legislation amid extinction fears",
+    "tags": [
+      "AI safety"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-12T21:04:34.000Z"
+  },
+  {
+    "id": "8a5703d6341df961",
+    "slug": "hyperliquid-burns-32-77k-hype-as-tvl-nears-7b-can-bulls-recover",
+    "title": "Hyperliquid burns 32.77K HYPE as TVL nears $7B – Can bulls recover?",
     "tags": [
       "Hyperliquid",
       "HYPE"
     ],
+    "source": "AMBCrypto",
     "origin": "rss",
-    "pubDate": "2026-09-12T21:00:18.000Z",
-    "fetchedAt": "2026-09-12T21:01:37.369Z",
-    "isDuplicateOf": null,
-    "content": "Hyperliquid has burned 32.77K HYPE tokens as its Total Value Locked approaches the $7 billion milestone. Despite the tightening supply driven by these growing burns, a weakening price structure has put the $78.50 support level under intense pressure. Market participants are now watching closely to see if the bulls can mount a recovery.",
-    "content_ta": "Hyperliquid தனது TVL $7 பில்லியன் மதிப்பை நெருங்கி வரும் வேளையில், 32.77K HYPE டோக்கன்களை எரித்துள்ளது. இந்த எறிப்பு நடவடிக்கைகளால் HYPE சப்ளை குறைந்து வந்தாலும், பலவீனமான விலை கட்டமைப்பு காரணமாக $78.50 ஆதரவு நிலை கடுமையான அழுத்தத்திற்கு உள்ளாகியுள்ளது. காளைகள் மீண்டு வர முடியுமா என்பதை சந்தை பார்வையாளர்கள் உன்னிப்பாக கவனித்து வருகின்றனர்.",
-    "slug": "hyperliquid-burns-32-77k-hype-as-tvl-nears-7b-can-bulls-recover"
+    "hasContent": true,
+    "pubDate": "2026-09-12T21:00:18.000Z"
   },
   {
     "id": "76462902e95a5221",
+    "slug": "iraqi-authorities-seize-15-drone-launch-platforms-after-strikes-on-saudi-pipeline",
     "title": "Iraqi authorities seize 15 drone launch platforms after strikes on Saudi pipeline",
-    "summary": "Iraq's decisive actions highlight regional tensions and underscore the vulnerability of global oil supply chains to geopolitical conflicts.\nThe post Iraqi authorities seize 15 drone launch platforms after strikes on Saudi pipeline appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/iraq-seizes-drone-platforms-saudi-pipeline/",
-    "source": "CryptoBriefing",
     "tags": [
       "Iraq",
       "Saudi Arabia"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-12T20:53:53.000Z",
-    "fetchedAt": "2026-09-12T21:01:37.369Z",
-    "isDuplicateOf": null,
-    "content": "Iraqi authorities have seized 15 drone launch platforms following recent strikes targeting a major Saudi pipeline. This decisive action highlights ongoing regional security tensions and underscores the vulnerability of global oil supply chains to escalating geopolitical conflicts.",
-    "content_ta": "Saudi pipeline மீதான தாக்குதல்களை தொடர்ந்து, Iraqi authorities 15 drone launch platforms-ஐ கைப்பற்றியுள்ளனர். இந்த அதிரடி நடவடிக்கை பிராந்திய பாதுகாப்பு மோதல்களையும், உலகளாவிய oil supply chains-ன் உடையக்கூடிய தன்மையையும் வெளிக்காட்டுகிறது.",
-    "slug": "iraqi-authorities-seize-15-drone-launch-platforms-after-strikes-on-saudi-pipeline"
+    "hasContent": true,
+    "pubDate": "2026-09-12T20:53:53.000Z"
   },
   {
     "id": "36e4fb2c98f81245",
+    "slug": "larry-ellison-cancels-plan-to-sell-7-5-billion-in-oracle-stock",
     "title": "Larry Ellison cancels plan to sell $7.5 billion in Oracle stock",
-    "summary": "Ellison's reversal alleviates market pressure, signaling confidence in Oracle's valuation and stabilizing investor sentiment amid strategic shifts.\nThe post Larry Ellison cancels plan to sell $7.5 billion in Oracle stock appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/larry-ellison-cancels-oracle-stock-sale/",
-    "source": "CryptoBriefing",
     "tags": [
       "Larry Ellison",
       "Oracle"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-12T20:39:30.000Z",
-    "fetchedAt": "2026-09-12T21:01:37.369Z",
-    "isDuplicateOf": null,
-    "content": "Larry Ellison has canceled his plans to sell $7.5 billion worth of Oracle stock. This reversal helps alleviate market pressure and signals strong confidence in the company's valuation. By halting the planned sale, the decision aims to stabilize investor sentiment as the organization navigates ongoing strategic shifts.",
-    "content_ta": "Oracle நிறுவனத்தின் $7.5 பில்லியன் மதிப்புள்ள பங்குகளை விற்பனை செய்யும் திட்டத்தை Larry Ellison ரத்து செய்துள்ளார். இந்த முடிவு சந்தை அழுத்தத்தைக் குறைக்க உதவுவதுடன், நிறுவனத்தின் மதிப்பீட்டின் மீதுள்ள வலுவான நம்பிக்கையையும் வெளிப்படுத்துகிறது. இந்த விற்பனை நிறுத்தமானது முதலீட்டாளர்களின் நம்பிக்கையை நிலைநிறுத்த உதவும்.",
-    "slug": "larry-ellison-cancels-plan-to-sell-7-5-billion-in-oracle-stock"
+    "hasContent": true,
+    "pubDate": "2026-09-12T20:39:30.000Z"
   },
   {
     "id": "564b20867dc118ff",
+    "slug": "coinbase-exec-traditional-finance-shifting-focus-to-crypto-integration",
     "title": "Coinbase exec: Traditional finance shifting focus to crypto integration",
-    "summary": "The integration of crypto into traditional finance could accelerate institutional adoption, potentially boosting Ethereum's market value and innovation.\nThe post Coinbase exec: Traditional finance shifting focus to crypto integration appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/coinbase-exec-traditional-finance-shifting-focus-to-crypto-integration/",
-    "source": "CryptoBriefing",
     "tags": [
       "Coinbase",
       "Ethereum"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-12T20:32:42.000Z",
-    "fetchedAt": "2026-09-12T21:01:37.369Z",
-    "isDuplicateOf": null,
-    "content": "A Coinbase executive noted that traditional finance institutions are increasingly shifting their focus toward cryptocurrency integration. This growing adoption of digital assets within conventional financial systems could accelerate institutional involvement. Industry experts suggest this trend has the potential to boost market value and drive further innovation, particularly for Ethereum, as the gap between traditional banking and the blockchain sector continues to narrow.",
-    "content_ta": "पारம்பரிய நிதி நிறுவனங்கள் cryptocurrency ஒருங்கிணைப்பில் அதிக கவனம் செலுத்தி வருவதாக Coinbase நிர்வாகி தெரிவித்துள்ளார். பாரம்பரிய நிதி அமைப்புகளில் டிஜிட்டல் சொத்துக்களின் இந்த அதிகரிப்பு நிறுவனங்களின் ஈடுபாட்டை துரிதப்படுத்தலாம். இந்த போக்கு Ethereum-இன் சந்தை மதிப்பை உயர்த்தவும், மேலும் புதுமைகளை உருவாக்கவும் வாய்ப்புள்ளதாக நிபுணர்கள் குறிப்பிடுகின்றனர்.",
-    "slug": "coinbase-exec-traditional-finance-shifting-focus-to-crypto-integration"
+    "hasContent": true,
+    "pubDate": "2026-09-12T20:32:42.000Z"
   },
   {
     "id": "f8362900fced45f6",
+    "slug": "ai-firms-boost-hiring-funding-amid-sector-boom-anthropic-eyes-valuation-rise",
     "title": "AI firms boost hiring, funding amid sector boom; Anthropic eyes valuation rise",
-    "summary": "The AI sector's growth in hiring and funding signals a potential rise in valuations, reflecting increased market confidence and competition.\nThe post AI firms boost hiring, funding amid sector boom; Anthropic eyes valuation rise appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/ai-firms-boost-hiring-funding-amid-sector-boom-anthropic-eyes-valuation-rise/",
-    "source": "CryptoBriefing",
     "tags": [
       "Anthropic"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-12T20:32:41.000Z",
-    "fetchedAt": "2026-09-12T21:01:37.369Z",
-    "isDuplicateOf": null,
-    "content": "Artificial intelligence firms are significantly increasing their hiring and securing new funding amidst a broader sector boom. This rapid growth in the industry highlights rising market confidence and intensifying competition among tech developers. Notably, Anthropic is among the prominent companies looking toward a substantial valuation increase as investor interest continues to surge across the market.",
-    "content_ta": "செயற்கை நுண்ணறிவு நிறுவனங்கள் துறையின் மிகப்பெரிய எழுச்சியைத் தொடர்ந்து வேலைவாய்ப்புகளையும் புதிய முதலீடுகளையும் அதிகரித்து வருகின்றன. இந்த விரைவான வளர்ச்சி சந்தை நம்பிக்கையையும் போட்டியையும் காட்டுகிறது. குறிப்பாக, Anthropic நிறுவனம் தனது மதிப்பை உயர்த்தும் முயற்சியில் ஈடுபட்டுள்ளது.",
-    "slug": "ai-firms-boost-hiring-funding-amid-sector-boom-anthropic-eyes-valuation-rise"
+    "hasContent": true,
+    "pubDate": "2026-09-12T20:32:41.000Z"
   },
   {
     "id": "33ced3f46b5aec47",
+    "slug": "bitcoin-s-80-000-ceiling-looks-fragile-after-stocks-shrugged-off-near-5-treasury-yields",
     "title": "Bitcoin’s $80,000 ceiling looks fragile after stocks shrugged off near-5% Treasury yields",
-    "summary": "With Bitcoin near $77,743 and weekend options volatility elevated, Wednesday’s Fed decision will test whether the gap persists.\nThe post Bitcoin’s $80,000 ceiling looks fragile after stocks shrugged off near-5% Treasury yields appeared first on CryptoSlate.",
-    "hasSummary": true,
-    "link": "https://cryptoslate.com/bitcoins-80000-ceiling-looks-different-after-stocks-shrugged-off-near-5-treasury-yields/",
-    "source": "CryptoSlate",
     "tags": [
       "Bitcoin",
       "Federal Reserve"
     ],
+    "source": "CryptoSlate",
     "origin": "rss",
-    "pubDate": "2026-09-12T20:20:10.000Z",
-    "fetchedAt": "2026-09-12T21:01:37.368Z",
-    "isDuplicateOf": null,
-    "content": "Bitcoin is facing pressure near the $80,000 level as markets react to Treasury yields staying near 5%. With Bitcoin trading around $77,743 and options volatility remaining elevated over the weekend, an upcoming Federal Reserve decision on Wednesday will test the sustainability of current price levels.",
-    "content_ta": "டிரஷரி ஈல்டுகள் கிட்டத்தட்ட 5% என்ற அளவில் தொடர்ந்துள்ளதால், Bitcoin-ன் $80,000 விலை எல்லைக்கு சவால் ஏற்பட்டுள்ளது. Bitcoin சுமார் $77,743-ல் வர்த்தகமாகும் நிலையில், வார இறுதி ஆப்ஷன்ஸ் கொலாடிலிட்டி உயர்ந்துள்ளது. புதன்கிழமை வரவிருக்கும் Fed-ன் முடிவு தற்போதைய விலை நிலவரத்தை சோதிக்கும்.",
-    "slug": "bitcoin-s-80-000-ceiling-looks-fragile-after-stocks-shrugged-off-near-5-treasury-yields"
+    "hasContent": true,
+    "pubDate": "2026-09-12T20:20:10.000Z"
   },
   {
     "id": "efd16fe650332a9c",
+    "slug": "revolut-customers-sensitive-data-exposed-in-phishing-attack-that-fooled-email-security-checks",
     "title": "Revolut customers’ sensitive data exposed in phishing attack that fooled email security checks",
-    "summary": "This incident highlights vulnerabilities in email authentication protocols, posing significant risks to fintech firms' regulatory compliance and trust.\nThe post Revolut customers’ sensitive data exposed in phishing attack that fooled email security checks appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/revolut-phishing-attack-customer-data-exposed/",
-    "source": "CryptoBriefing",
     "tags": [
       "Revolut",
       "Crypto Briefing"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-12T20:14:39.000Z",
-    "fetchedAt": "2026-09-12T21:01:37.369Z",
-    "isDuplicateOf": null,
-    "content": "Revolut customers have experienced a data exposure following a sophisticated phishing attack that successfully bypassed email security checks. This incident underscores critical vulnerabilities in current email authentication protocols, posing serious risks to regulatory compliance and customer trust within the digital financial sector.",
-    "content_ta": "மின்னஞ்சல் பாதுகாப்பு சோதனைகளை ஏமாற்றிய ஒரு ஃபிஷிங் தாக்குதலில் Revolut வாடிக்கையாளர்களின் முக்கியமான தரவுகள் வெளிப்படுத்தப்பட்டுள்ளன. இந்தச் சம்பவம் மின்னஞ்சல் அங்கீகார நெறிமுறைகளில் உள்ள குறைபாடுகளை எடுத்துக்காட்டுகிறது, இது நிறுவனங்களின் ஒழுங்குமுறை இணக்கத்திற்கும் வாடிக்கையாளர்களின் நம்பிக்கைக்கும் குறிப்பிடத்தக்க ஆபத்துகளை ஏற்படுத்துகிறது.",
-    "slug": "revolut-customers-sensitive-data-exposed-in-phishing-attack-that-fooled-email-security-checks"
+    "hasContent": true,
+    "pubDate": "2026-09-12T20:14:39.000Z"
   },
   {
     "id": "a3cb7671d3d0a0e4",
+    "slug": "xrp-price-analysis-3-major-catalysts-set-to-shape-september",
     "title": "XRP Price Analysis: 3 Major Catalysts Set to Shape September",
-    "summary": "XRP trades near $1.32 as key support at $1.35 faces a critical test. Explore three catalysts — technical, regulatory, and whale-driven — shaping September.\nThe post XRP Price Analysis: 3 Major Catalysts Set to Shape September appeared first on Cryptonews.",
-    "hasSummary": true,
-    "link": "https://cryptonews.com/news/xrp-price-analysis-september-catalysts/",
-    "source": "CryptoNews",
     "tags": [
       "XRP"
     ],
+    "source": "CryptoNews",
     "origin": "rss",
-    "pubDate": "2026-09-12T20:13:00.000Z",
-    "fetchedAt": "2026-09-12T21:01:37.368Z",
-    "isDuplicateOf": null,
-    "content": "XRP is trading near $1.32 as it faces a critical test of key support at $1.35. Analysts are examining three major catalysts that could shape the market in September, encompassing technical, regulatory, and whale-driven developments.",
-    "content_ta": "XRP விலை தற்போது $1.32 அருகில் வர்த்தகமாகி வருகிறது, மேலும் $1.35 முக்கிய ஆதரவு நிலை கடுமையான சோதனையை எதிர்கொள்கிறது. தொழில்நுட்பம், ஒழுங்குமுறை மற்றும் பெரிய முதலீட்டாளர்கள் சார்ந்த நகர்வுகள் உள்ளிட்ட செப்டம்பர் மாத சந்தையை வடிவமைக்கக்கூடிய மூன்று முக்கிய காரணிகளை ஆய்வாளர்கள் ஆராய்ந்து வருகின்றனர்.",
-    "slug": "xrp-price-analysis-3-major-catalysts-set-to-shape-september"
+    "hasContent": true,
+    "pubDate": "2026-09-12T20:13:00.000Z"
   },
   {
     "id": "993637ae80e563dc",
@@ -714,127 +785,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-12T16:00:00.000Z"
-  },
-  {
-    "id": "ecb0e5966d62d161",
-    "slug": "ditching-bonds-for-bitcoin-how-crypto-can-tackle-the-ai-heavy-portfolio-dilemma",
-    "title": "Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-12T16:00:00.000Z"
-  },
-  {
-    "id": "e8b3c53ac6f9ff82",
-    "slug": "liverpool-draws-with-fulham-at-anfield-in-third-consecutive-home-stalemate",
-    "title": "Liverpool draws with Fulham at Anfield in third consecutive home stalemate",
-    "tags": [
-      "Liverpool",
-      "Fulham",
-      "Anfield"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-12T15:54:25.000Z"
-  },
-  {
-    "id": "12ecf7faee67ba48",
-    "slug": "nottingham-forest-beats-aston-villa-2-1-with-late-igor-jesus-winner",
-    "title": "Nottingham Forest beats Aston Villa 2-1 with late Igor Jesus winner",
-    "tags": [
-      "Nottingham Forest",
-      "Aston Villa",
-      "Igor Jesus"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-12T15:53:14.000Z"
-  },
-  {
-    "id": "445e20069ca8f7b1",
-    "slug": "farage-s-reform-uk-gets-97m-from-two-crypto-billionaires",
-    "title": "Farage’s Reform UK gets $97M from two crypto billionaires",
-    "tags": [
-      "Reform UK",
-      "BitMEX",
-      "Ben Delo",
-      "Christopher Harborne",
-      "Nigel Farage"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-12T15:50:14.000Z"
-  },
-  {
-    "id": "3145935d97f4dc8d",
-    "slug": "as-iran-proxies-activate-in-yemen-and-iraq-trump-s-mideast-morass-deepens",
-    "title": "As Iran proxies activate in Yemen and Iraq, Trump’s Mideast morass deepens",
-    "tags": [
-      "Iran",
-      "Yemen",
-      "Iraq",
-      "Donald Trump"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-12T15:46:33.000Z"
-  },
-  {
-    "id": "4d544d9041d66b16",
-    "slug": "openai-s-valuation-surges-766-over-the-last-two-years",
-    "title": "OpenAI’s valuation surges 766% over the last two years",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-12T15:41:07.000Z"
-  },
-  {
-    "id": "baaf076d84b30436",
-    "slug": "aave-price-eyes-160-after-v4-deposits-top-900m",
-    "title": "AAVE Price Eyes $160 After V4 Deposits Top $900M",
-    "tags": [
-      "AAVE"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-12T15:39:08.000Z"
-  },
-  {
-    "id": "721a7317bde98698",
-    "slug": "solana-mobile-warns-users-of-phishing-risks-after-brevo-breach",
-    "title": "Solana Mobile warns users of phishing risks after Brevo breach",
-    "tags": [
-      "Solana Mobile",
-      "Brevo"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-12T15:35:59.000Z"
-  },
-  {
-    "id": "b264f2bc9f9fd2e6",
-    "slug": "zelenskyy-open-to-meeting-putin-at-g20-summit-in-miami-this-december",
-    "title": "Zelenskyy open to meeting Putin at G20 summit in Miami this December",
-    "tags": [
-      "Volodymyr Zelenskyy",
-      "Vladimir Putin",
-      "G20"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-12T15:35:25.000Z"
   }
 ]
