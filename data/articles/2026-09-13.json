@@ -2742,5 +2742,502 @@
     "content": "The Cosmos network has successfully recovered and come back online following a recent outage. However, users utilizing Ledger hardware wallets are still experiencing issues, unable to view or send their ATOM tokens through the app. Ledger has directed users toward alternative platforms like Cosmostation and Keplr to regain urgent access to their funds while the issue is being fully resolved.",
     "content_ta": "Cosmos நெட்வொர்க் சமீபத்திய தொழில்நுட்ப முடக்கத்திற்கு பிறகு வெற்றிகரமாக மீட்கப்பட்டு மீண்டும் ஆன்லைனுக்கு வந்துள்ளது. இருப்பினும், Ledger வாலட்டைப் பயன்படுத்தும் பயனர்கள் இன்னும் சிக்கல்களை எதிர்கொள்கின்றனர், மேலும் அவர்களால் app வழியாக தங்கள் ATOM டோக்கன்களைப் பார்க்கவோ அல்லது அனுப்பவோ முடியவில்லை. இந்தச் சிக்கல் முழுமையாகத் தீர்க்கப்படும் வரை, பயனர்கள் தங்கள் நிதியை உடனடியாக அணுக Cosmostation மற்றும் Keplr போன்ற மாற்று தளங்களைப் பயன்படுத்துமாறு Ledger அறிவுறுத்தியுள்ளது.",
     "slug": "cosmos-is-back-online-after-outage-but-ledger-users-still-can-t-see-or-send-their-atom"
+  },
+  {
+    "id": "6994d1b8c4407af0",
+    "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
+    "summary": "I dunno, flip a coin.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
+    "source": "CoinDesk",
+    "tags": [
+      "Crypto"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T18:45:08.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.799Z",
+    "isDuplicateOf": null,
+    "content": "A recent analysis examines the current state of cryptocurrency, questioning the future of regulatory clarity and market stability. Amid ongoing uncertainty, industry observers suggest that current market sentiment and trends are increasingly driven by subjective factors rather than predictable metrics, leaving the short-term outlook difficult to forecast definitively.",
+    "content_ta": "கிரிப்டோகரன்சி சந்தையின் தற்போதைய நிலை குறித்தும், ஒழுங்குமுறை தெளிவின் எதிர்காலம் குறித்தும் சமீபத்திய ஆய்வு ஒன்று கேள்வி எழுப்பியுள்ளது. நிலவும் நிச்சயமற்ற தன்டிகளுக்கு மத்தியில், சந்தையின் போக்குகள் கணிக்கக்கூடிய அளவீடுகளை விட அகநிலை காரணிகளால் இயக்கப்படுவதாக துறை சார்ந்த பார்வையாளர்கள் கருதுகின்றனர், இதனால் குறுகிய கால கண்ணோட்டத்தை உறுதியாக கணிப்பது கடினமாகியுள்ளது.",
+    "slug": "is-clarity-dead-a-vibes-based-analysis-state-of-crypto"
+  },
+  {
+    "id": "3333c3d879e9367c",
+    "title": "Coinbase gives community banks a stablecoin bridge while supplying infrastructure underneath",
+    "summary": "Banks retain the customer interface, while undisclosed pricing, data, compliance and settlement terms will determine who captures the value.\nThe post Coinbase gives community banks a stablecoin bridge while supplying infrastructure underneath appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/coinbase-gives-community-banks-a-stablecoin-bridge-while-supplying-infrastructure-underneath/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Coinbase"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T19:10:30.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.799Z",
+    "isDuplicateOf": null,
+    "content": "Coinbase is offering a stablecoin bridge for community banks, enabling them to integrate digital currency services while the company supplies the underlying infrastructure. Under this arrangement, the banks maintain their direct relationships with customers. However, specific financial terms, data arrangements, compliance protocols, and settlement conditions remain undisclosed, leaving it unclear which parties will ultimately capture the most value from the partnership.",
+    "content_ta": "Coinbase நிறுவனம் கம்யூனிட்டி வங்கிகளுக்கு stablecoin பிரிட்ஜ் சேவையை வழங்கி வருகிறது. இதன் மூலம் வங்கிகள் தங்கள் வாடிக்கையாளர்களுடன் நேரடி தொடர்பில் இருக்க முடியும், அதே நேரத்தில் அடிப்படை தொழில்நுட்ப உள்கட்டமைப்பை Coinbase வழங்குகிறது. இந்த கூட்டாண்மையில் விலை நிர்ணயம், தரவு மற்றும் ஒழுங்குமுறை விதிமுறைகள் வெளியிடப்படவில்லை.",
+    "slug": "coinbase-gives-community-banks-a-stablecoin-bridge-while-supplying-infrastructure-underneath"
+  },
+  {
+    "id": "fb7e643a5b5e9e07",
+    "title": "Malicious bots are actively probing exposed Bitcoin payment servers to steal master administrative keys",
+    "summary": "The risk is limited to manually exposed APIs, and version 2.4.4 closes the standard public path.\nThe post Malicious bots are actively probing exposed Bitcoin payment servers to steal master administrative keys appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/malicious-bots-are-actively-probing-exposed-bitcoin-payment-servers-to-steal-master-administrative-keys/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T18:30:17.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.799Z",
+    "isDuplicateOf": null,
+    "content": "Malicious bots are actively targeting exposed Bitcoin payment servers in an attempt to steal master administrative keys. The risk primarily affects manually exposed APIs. Developers have released version 2.4.4 to address the vulnerability, successfully closing the standard public path and helping secure affected payment infrastructure against ongoing automated attacks.",
+    "content_ta": "Malicious bots-கள் exposed ஆக, உள்ள Bitcoin payment servers-ஐ குறிவைத்து master administrative keys-களை திருட முயற்சித்து வருகின்றன. இந்த ஆபத்து முக்கியமாக manually exposed API-களை மட்டுமே பாதிக்கிறது. இந்த பாதுகாப்பு குறைபாட்டை சரிசெய்ய version 2.4.4 வெளியிடப்பட்டுள்ளது, இது standard public path-ஐ வெற்றிகரமாக மூடி, payment infrastructure-ஐ பாதுகாக்கிறது.",
+    "slug": "malicious-bots-are-actively-probing-exposed-bitcoin-payment-servers-to-steal-master-administrative"
+  },
+  {
+    "id": "32bf263307cfee4b",
+    "title": "XRP Price Prediction: Schwab Opens Wall Street Repo Market to ETFs",
+    "summary": "XRP trades near $1.32 as Schwab lists XRP ETFs as repo collateral. Key levels, technical setup, and an early-stage L3 alternative worth watching.\nThe post XRP Price Prediction: Schwab Opens Wall Street Repo Market to ETFs appeared first on Cryptonews.",
+    "hasSummary": true,
+    "link": "https://cryptonews.com/news/xrp-price-prediction-repo-etf/",
+    "source": "CryptoNews",
+    "tags": [
+      "XRP",
+      "Schwab"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T19:15:00.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.799Z",
+    "isDuplicateOf": null,
+    "content": "Schwab has opened the Wall Street repo market to ETFs, impacting the XRP market. XRP is currently trading near $1.32 as the asset is listed as repo collateral. This major financial development highlights growing institutional integration for digital assets. Market observers are closely monitoring key technical levels and setups following the announcement, along with emerging Layer 3 alternative projects gaining attention in the crypto space.",
+    "content_ta": "Wall Street repo market-ல் ETFs-ஐ Schwab அனுமதித்துள்ளதால் XRP சந்தை பாதிக்கப்பட்டுள்ளது. XRP தற்போது $1.32 அருகில் வர்த்தகம் செய்யப்படுகிறது, ஏனெனில் இது repo collateral-ஆக பட்டியலிடப்பட்டுள்ளது. இந்த முக்கிய நிதி வளர்ச்சி டிஜிட்டல் சொட்டுகளுக்கான நிறுவன ஒருங்கிணைப்பை எடுத்துக்காட்டுகிறது. சந்தை பார்வையாளர்கள் முக்கிய தொழில்நுட்ப நிலைகளையும், வளர்ந்து வரும் Layer 3 மாற்றுக் திட்டங்களையும் உன்னிப்பாகக் கவனித்து வருகின்றனர்.",
+    "slug": "xrp-price-prediction-schwab-opens-wall-street-repo-market-to-etfs"
+  },
+  {
+    "id": "c942a84d7523a5aa",
+    "title": "Bitcoin Price Analysis: BTC Faces a Make-or-Break Week – What’s the Most Likely Scenario?",
+    "summary": "Bitcoin is consolidating around $77.3K after a powerful breakout from the $67K area. While the broader structure has improved significantly, BTC is now facing an important resistance cluster near $80K-$82K. Meanwhile, the latest Coinbase Premium reading suggests that US spot demand has yet to fully confirm the recent advance. Bitcoin Price Analysis: The Daily Chart […]",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/bitcoin-price-analysis-btc-faces-a-make-or-break-week-whats-the-most-likely-scenario/",
+    "source": "CryptoPotato",
+    "tags": [
+      "Bitcoin",
+      "Coinbase",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T19:36:50.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.799Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin is consolidating near $77.3K following a strong breakout from the $67K range. The cryptocurrency now faces a critical resistance zone between $80K and $82K during a make-or-break week. Although the overall market structure has strengthened, Coinbase Premium data indicates that United States spot demand has not yet fully confirmed the ongoing upward movement.",
+    "content_ta": "$67K வரம்பிலிருந்து வலுவான பிரேக்அவுட்டுக்குப் பிறகு Bitcoin தற்போது $77.3K அருகில் ஒருங்கிணைந்து வருகிறது. ஒரு தீர்க்கமான வாரத்தில் கிரிப்டோகரன்சி இப்போது $80K மற்றும் $82K இடையே ஒரு முக்கியமான எதிர்ப்பு மண்டலத்தை எதிர்கொள்கிறது. ஒட்டுமொத்த சந்தை அமைப்பு பலப்படுத்தப்பட்டாலும்,நடப்பு மேல்நோக்கிய நகர்வை United States ஸ்பாட் தேவை இன்னும் முழுமையாக உறுதிப்படுத்தவில்லை என்பதை Coinbase Premium தரவு காட்டுகிறது.",
+    "slug": "bitcoin-price-analysis-btc-faces-a-make-or-break-week-what-s-the-most-likely-scenario"
+  },
+  {
+    "id": "ba880a8ba37fcd0f",
+    "title": "Lisk Chain is winding down, but LSK explodes 344% in one day – Last hurrah?",
+    "summary": "But can the $LSK token survive the current hard waters of the Lisk Chain shutdown?",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/lisk-chain-is-winding-down-but-lsk-explodes-344-in-one-day-last-hurrah/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Lisk Chain",
+      "LSK"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T19:00:03.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.800Z",
+    "isDuplicateOf": null,
+    "content": "The Lisk Chain is currently winding down its operations, marking a significant transition for the network. Despite this shutdown news, the LSK token experienced a massive market reaction, exploding by 344% in just a single day. Market observers are questioning whether this dramatic price surge is a final last hurrah or if the token can successfully navigate the current challenges of the chain's closure.",
+    "content_ta": "Lisk Chain தனது செயல்பாடுகளை முடிவுக்குக் கொண்டுவருகிறது. இந்த மூடல் அறிவிப்புக்கு மத்தியிலும், LSK டோக்கன் ஒரே நாளில் 344% வரை மிகப்பெரிய விலையேற்றத்தைக் கண்டுள்ளது. இந்த திடீர் விலை உயர்வு ஒரு தற்காலிக நிகழ்வா அல்லது இந்த டோக்கன் தற்போதைய சவால்களைத் தாண்டி টিকেக்குமா என்ற கேள்வி எழுந்துள்ளது.",
+    "slug": "lisk-chain-is-winding-down-but-lsk-explodes-344-in-one-day-last-hurrah"
+  },
+  {
+    "id": "3cb96f18aaae9214",
+    "title": "Senate Democrats Hold Last-Minute Meeting Ahead of Crucial Crypto Vote",
+    "summary": "The post Senate Democrats To Meet Sunday Night On CLARITY Act appeared first on Coinpedia Fintech News\nSenate Majority Leader Chuck Schumer is convening a Democratic caucus meeting Sunday evening to discuss the CLARITY Act ahead of Tuesday’s key procedural vote, according to two people familiar with the closed-door talks. About a dozen Democrats have spent months negotiating on the bill, but three buckets of unresolved issues remain, with no clarity on …",
+    "hasSummary": true,
+    "link": "https://u.today/senate-democrats-hold-last-minute-meeting-ahead-of-crucial-crypto-vote",
+    "source": "U.Today",
+    "tags": [
+      "Chuck Schumer",
+      "CLARITY Act",
+      "United States Senate"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T19:43:00.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.800Z",
+    "isDuplicateOf": null,
+    "content": "Senate Majority Leader Chuck Schumer has convened a Sunday evening meeting with Democratic senators to discuss the CLARITY Act. The closed-door gathering comes ahead of a crucial procedural vote scheduled for Tuesday. Lawmakers have spent months negotiating the cryptocurrency bill, but several key issues remain unresolved as party members work to reach a consensus before the vote.",
+    "content_ta": "செனட் மெஜாரிட்டி லீடர் Chuck Schumer, CLARITY Act குறித்து விவாதிக்க ஜனநாயகக் கட்சி செனட்டர்களுடன் ஞாயிற்றுக்கிழமை மாலை ஒரு கூட்டத்தைக் கூட்டினார். செவ்வாய்க்கிழமை நடைபெறவிருக்கும் முக்கியமான நடைமுறை வாக்கெடுப்புக்கு முன்னதாக இந்த ரகசியக் கூட்டம் நடைபெறுகிறது. இந்த கிரிப்டோகரன்சி மசோதா குறித்து சட்டமியற்றுபவர்கள் பல மாதங்களாக பேச்சுவார்த்தை நடத்தி வருகின்றனர்.",
+    "slug": "senate-democrats-hold-last-minute-meeting-ahead-of-crucial-crypto-vote"
+  },
+  {
+    "id": "b4f1347808550e18",
+    "title": "Donald Trump announces removal of US tariffs on Irish whiskey",
+    "summary": "The removal of tariffs on Irish whiskey could strengthen US-Ireland trade relations and boost Ireland's export economy significantly.\nThe post Donald Trump announces removal of US tariffs on Irish whiskey appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/trump-removes-us-tariffs-irish-whiskey/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Donald Trump",
+      "United States",
+      "Ireland"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T19:59:26.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.800Z",
+    "isDuplicateOf": null,
+    "content": "Donald Trump has announced the removal of United States tariffs on Irish whiskey. This significant trade decision is expected to strengthen economic ties between the US and Ireland while providing a major boost to Ireland's export economy.",
+    "content_ta": "Donald Trump ஐrland whiskey மீதான United States வரியை நீக்குவதாக அறிவித்துள்ளார். இந்த முக்கியமான வர்த்தக முடிவு US மற்றும் Ireland இடையேயான பொருளாதார உறவுகளை வலுப்படுத்தும் என்றும், Ireland-ன் ஏற்றுமதி பொருளாதாரத்திற்கு பெரிய ஊக்கமளிக்கும் என்றும் எதிர்பார்க்கப்படுகிறது.",
+    "slug": "donald-trump-announces-removal-of-us-tariffs-on-irish-whiskey"
+  },
+  {
+    "id": "3f880136171c696c",
+    "title": "Bond selloff drives Treasury yield near 5%, raising fresh concerns about US borrowing costs",
+    "summary": "Rising Treasury yields could strain US fiscal policy, elevate borrowing costs, and impact housing and equity markets, challenging economic stability.\nThe post Bond selloff drives Treasury yield near 5%, raising fresh concerns about US borrowing costs appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/treasury-yield-near-5-percent-bond-selloff/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T19:59:09.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.800Z",
+    "isDuplicateOf": null,
+    "content": "A recent bond selloff has driven United States Treasury yields near five percent. This upward movement raises fresh concerns over escalating borrowing costs, which could potentially strain fiscal policy, impact housing and equity markets, and pose broader challenges to overall economic stability.",
+    "content_ta": "சமீபத்திய பாண்ட் விற்பனை காரணமாக United States Treasury-ன் ஈவுத்தொகை ஐந்து சதவீதத்தை நெருங்கியுள்ளது. இந்த உயர்வு கடன் வாங்கும் செலவுகள் குறித்த புதிய கவலைகளை எழுப்பியுள்ளது. இது நாட்டின் நிதிக் கொள்கையை அழுத்தத்திற்குள்ளாக்கி, வீட்டுவசதி மற்றும் பங்குச் சந்தைகளில் தாக்கத்தை ஏற்படுத்தக்கூடும்.",
+    "slug": "bond-selloff-drives-treasury-yield-near-5-raising-fresh-concerns-about-us-borrowing-costs"
+  },
+  {
+    "id": "f768f6205b07ccdc",
+    "title": "77 state banking associations seek changes to CLARITY legislation to ban balance-based stablecoin rewards",
+    "summary": "The push to amend the CLARITY Act highlights tensions between traditional banks and stablecoin issuers, potentially reshaping financial landscapes.\nThe post 77 state banking associations seek changes to CLARITY legislation to ban balance-based stablecoin rewards appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/banking-associations-clarity-act-usdc-rewards/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "CLARITY Act"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T19:56:23.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.800Z",
+    "isDuplicateOf": null,
+    "content": "Seventy-seven state banking associations have requested changes to the CLARITY legislation. The proposed amendment aims to ban balance-based stablecoin rewards. This push highlights ongoing tensions between traditional banks and stablecoin issuers, which could significantly impact the evolving financial and regulatory landscape.",
+    "content_ta": "எழுப مேழு (77) மாநில வங்கிச் சங்கங்கள் CLARITY சட்டத்தில் மாற்றங்களைக் கோரியுள்ளார்கள். இருப்பு அடிப்படையிலான ஸ்டேபிள்காயின் ரிவார்டுகளைத் தடை செய்வதே இந்தத் திருத்தத்தின் நோக்கமாகும். இந்த நடவடிக்கை பாரம்பரிய வங்கிகளுக்கும் ஸ்டேபிள்காயின் வெளியீட்டாளர்களுக்கும் இடையே நிலவும் பதற்றத்தை வெளிச்சம் போட்டுக் காட்டுகிறது.",
+    "slug": "77-state-banking-associations-seek-changes-to-clarity-legislation-to-ban-balance-based-stablecoin"
+  },
+  {
+    "id": "81e5a882ff7d070f",
+    "title": "Lisandro Martínez calls Haaland goal decision an injustice after controversial Manchester derby",
+    "summary": "The controversy highlights ongoing challenges in VAR's interpretation of offside rules, impacting trust in officiating and game outcomes.\nThe post Lisandro Martínez calls Haaland goal decision an injustice after controversial Manchester derby appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/martinez-haaland-goal-injustice-manchester-derby/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Lisandro Martínez",
+      "Haaland",
+      "Manchester"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T19:51:46.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.800Z",
+    "isDuplicateOf": null,
+    "content": "Lisandro Martínez expressed strong frustration following a controversial Manchester derby, labeling a crucial goal decision involving Haaland as an injustice. The incident has intensified ongoing debates surrounding VAR and the interpretation of offside rules, raising further questions about officiating consistency and the impact of video review technology on match outcomes.",
+    "content_ta": "மந்திர்பூர்வமான Manchester derby போட்டிக்குப் பிறகு, Haaland-இன் கோல் முடிவு அநீதியானது என்று Lisandro Martínez கடுமையாக விமர்சித்துள்ளார். இந்தச் சம்பவம் VAR மற்றும் ஆஃப்சைட் விதிகள் குறித்த விவாதங்களை மேலும் தீவிரப்படுத்தியுள்ளது, இது நடுவர்களின் முடிவுகள் மற்றும் போட்டி முடிவுகள் மீது கேள்விகளை எழுப்பியுள்ளது.",
+    "slug": "lisandro-martinez-calls-haaland-goal-decision-an-injustice-after-controversial-manchester-derby"
+  },
+  {
+    "id": "64803e21226b38e3",
+    "title": "Canada boosts Ukraine financial aid to strengthen EU ties: FT",
+    "summary": "Canada's financial aid to Ukraine underscores a strategic commitment to EU relations and long-term support for Ukraine's integration and stability.\nThe post Canada boosts Ukraine financial aid to strengthen EU ties: FT appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/canada-boosts-ukraine-financial-aid-to-strengthen-eu-ties-ft/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Canada",
+      "Ukraine",
+      "European Union"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T19:27:38.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.800Z",
+    "isDuplicateOf": null,
+    "content": "Canada has increased its financial aid to Ukraine in a move highlighted by the Financial Times as a strategic effort to strengthen ties with the European Union. This support emphasizes Canada's long-term commitment to Ukraine's stability and regional integration, reflecting ongoing international cooperation.",
+    "content_ta": "EU உடனான உறவுகளை வலுப்படுத்தும் ஒரு மூலோபாய முயற்சியாக, Ukraine-க்கு வழங்கப்பட்டு வரும் நிதி உதவிக்கு Canada ஆதரவை அதிகரித்துள்ளதாக Financial Times செய்தி வெளியிட்டுள்ளது. இந்த உதவி, Ukraine-ன் ஸ்திரத்தன்மை மற்றும் பிராந்திய ஒருங்கிணைப்புக்கான Canada-வின் நீண்டகால உறுதிப்பாட்டை வெளிப்படுத்துகிறது.",
+    "slug": "canada-boosts-ukraine-financial-aid-to-strengthen-eu-ties-ft"
+  },
+  {
+    "id": "35e06a5a8b830c41",
+    "title": "Russian drone strikes Ukrainian train after Boris Johnson’s travel on same route",
+    "summary": "The incident may escalate tensions, influencing global support dynamics and potentially altering military aid strategies for Ukraine.\nThe post Russian drone strikes Ukrainian train after Boris Johnson’s travel on same route appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/russian-drone-strikes-ukrainian-train-after-boris-johnsons-travel-on-same-route/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Boris Johnson",
+      "Russia",
+      "Ukraine"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T19:22:13.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.800Z",
+    "isDuplicateOf": null,
+    "content": "A Ukrainian train was reportedly struck by a Russian drone shortly after former UK Prime Minister Boris Johnson traveled along the exact same route. The incident highlights ongoing security risks in the region and could influence future military aid and international support strategies for Ukraine.",
+    "content_ta": "முன்னாள் UK பிரதமர் Boris Johnson அதே பாதையில் பயணம் செய்த சிறிது நேரத்திற்குப் பிறகு, உக்ரைனிய ரயில் ஒன்று Russian ட்ரோனால் தாக்கப்பட்டுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது. இந்தச் சம்பவம் பிராந்தியத்தில் தொடர்ந்து நிலவும் பாதுகாப்பு அபாயங்களை வெளிச்சம் போட்டுக் காட்டுகிறது.",
+    "slug": "russian-drone-strikes-ukrainian-train-after-boris-johnson-s-travel-on-same-route"
+  },
+  {
+    "id": "98e6627609cadbf6",
+    "title": "Bond market pushes for Fed rate hikes despite limited impact on gas prices",
+    "summary": "The bond market's push for rate hikes highlights ongoing inflation concerns, influencing broader economic conditions beyond fuel prices.\nThe post Bond market pushes for Fed rate hikes despite limited impact on gas prices appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/bond-market-pushes-for-fed-rate-hikes-despite-limited-impact-on-gas-prices/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Federal Reserve",
+      "Crypto Briefing"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T19:06:27.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.800Z",
+    "isDuplicateOf": null,
+    "content": "The bond market is pressing for Federal Reserve rate hikes driven by persistent inflation concerns. While these expected rate adjustments may have a limited impact on gasoline prices, they highlight broader economic pressures affecting financial conditions, as noted in recent market coverage by Crypto Briefing.",
+    "content_ta": "தொடர்ந்து நிலவும் பணவீக்க கவலைகள் காரணமாக, Federal Reserve வட்டி விகிதங்களை உயர்த்த வேண்டும் என்று பாண்ட் மார்க்கெட் அழுத்தம் கொடுத்து வருகிறது. பெட்ரோல் விலையில் இதன் தாக்கம் குறைவாகவே இருக்கும் என எதிர்பார்க்கப்பட்டாலும், இது பரந்த பொருளாதார சூழ்நிலைகளை பாதிக்கிறது என்று Crypto Briefing தெரிவித்துள்ளது.",
+    "slug": "bond-market-pushes-for-fed-rate-hikes-despite-limited-impact-on-gas-prices"
+  },
+  {
+    "id": "09378c26c7836795",
+    "title": "Federal Reserve faces 90% chance of rate hike by year-end, CME FedWatch shows",
+    "summary": "Market uncertainty grows as differing Fed rate forecasts could lead to significant bond market repricing and economic volatility.\nThe post Federal Reserve faces 90% chance of rate hike by year-end, CME FedWatch shows appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/fed-rate-hike-probability-bmo-2026/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Federal Reserve",
+      "CME FedWatch"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T19:05:02.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.800Z",
+    "isDuplicateOf": null,
+    "content": "Data from the CME FedWatch tool indicates a 90% probability that the Federal Reserve will implement an interest rate hike by the end of the year. Market analysts warn that differing rate forecasts could trigger significant bond market repricing and broader economic volatility as financial uncertainty continues to grow.",
+    "content_ta": "CME FedWatch தரவுகளின்படி, ஆண்டின் இறுதிக்குள் Federal Reserve வட்டி விகிதத்தை உயர்த்த 90% வாய்ப்புள்ளதாகத் தெரிகிறது. மாறுபட்ட வட்டி கணிப்புகள் பாண்ட் மார்க்கெட்டில் பெரிய அளவிலான விலை மாற்றங்களையும் பொருளாதார ஏற்றத்தாழ்வுகளையும் ஏற்படுத்தக்கூடும் என்று சந்தை ஆய்வாளர்கள் எச்சரிக்கின்றனர்.",
+    "slug": "federal-reserve-faces-90-chance-of-rate-hike-by-year-end-cme-fedwatch-shows"
+  },
+  {
+    "id": "de1f0f8db11b7a39",
+    "title": "Fed expected to implement two rate hikes by year-end: BMO economist",
+    "summary": "Potential rate hikes could tighten monetary policy, impacting borrowing costs, consumer spending, and economic growth dynamics.\nThe post Fed expected to implement two rate hikes by year-end: BMO economist appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/fed-expected-to-implement-two-rate-hikes-by-year-end-bmo-economist/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Federal Reserve",
+      "BMO"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T19:02:22.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.800Z",
+    "isDuplicateOf": null,
+    "content": "A BMO economist predicts that the Federal Reserve may implement two interest rate hikes by the end of the year. Such potential rate increases could significantly tighten monetary policy, which in turn impacts borrowing costs, consumer spending, and overall economic growth dynamics across the broader financial markets.",
+    "content_ta": "இந்த ஆண்டின் இறுதிக்குள் ஃபெடரல் ரிசர்வ் இரண்டு முறை வட்டி விகிதங்களை உயர்த்தக்கூடும் என்று BMO பொருளாதார நிபுணர் கணித்துள்ளார். இத்தகைய சாத்தியமான வட்டி விகித உயர்வுகள் நாணயக் கொள்கையை இறுக்கமாக்கலாம், இது கடன் வாங்கும் செலவுகள், நுகர்வோர் செலவு மற்றும் ஒட்டுமொத்த பொருளாதார வளர்ச்சி இயக்கவியலைப் பாதிக்கும்.",
+    "slug": "fed-expected-to-implement-two-rate-hikes-by-year-end-bmo-economist"
+  },
+  {
+    "id": "a8806fc03da46110",
+    "title": "US Energy Secretary Chris Wright warns oil traders not to bank on Iran deal for Strait of Hormuz",
+    "summary": "The reliance on alternative oil routes highlights the fragility of global energy logistics and the potential for increased costs and instability.\nThe post US Energy Secretary Chris Wright warns oil traders not to bank on Iran deal for Strait of Hormuz appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/wright-warns-oil-traders-strait-of-hormuz/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Chris Wright",
+      "Iran",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T18:57:28.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.800Z",
+    "isDuplicateOf": null,
+    "content": "US Energy Secretary Chris Wright has warned oil traders against relying on a potential Iran deal to secure the Strait of Hormuz. This situation highlights the ongoing fragility of global energy logistics, raising concerns about potential cost increases and market instability for international oil supplies.",
+    "content_ta": "Strait of Hormuz குறித்த Iran ஒப்பந்தத்தை நம்பி எண்ணெய் வர்த்தகம் செய்ய வேண்டாம் என்று US Energy Secretary Chris Wright எச்சரித்துள்ளார். உலகளாவிய எரிசக்தி வர்த்தகத்தின் உடையக்கூடிய தன்மையையும், இதனால் விலை உயர்வதற்கும் சந்தை ஸ்திரமின்மைக்கும் உள்ள வாய்ப்புகளையும் இந்தச் சூழல் வெளிச்சம் போட்டுக் காட்டுகிறது.",
+    "slug": "us-energy-secretary-chris-wright-warns-oil-traders-not-to-bank-on-iran-deal-for-strait-of-hormuz"
+  },
+  {
+    "id": "71570ea91fe241a0",
+    "title": "NSA restructures to create five new organizations in AI, cybersecurity, and more",
+    "summary": "The NSA's restructuring highlights the growing importance of AI and cybersecurity in national security, emphasizing global tech competition.\nThe post NSA restructures to create five new organizations in AI, cybersecurity, and more appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/nsa-restructures-ai-cybersecurity-organizations/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "NSA"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T18:47:07.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.800Z",
+    "isDuplicateOf": null,
+    "content": "The National Security Agency has announced a major restructuring to establish five new organizations focusing on critical areas such as artificial intelligence and cybersecurity. This organizational shift underscores the growing strategic importance of emerging technologies in national defense and highlights the intensifying global competition in the technology sector.",
+    "content_ta": "தேசிய பாதுகாப்பு முகமை (NSA), செயற்கை நுண்ணறிவு மற்றும் சைபர் பாதுகாப்பு போன்ற முக்கிய துறைகளில் கவனம் செலுத்தும் வகையில் ஐந்து புதிய அமைப்புகளை உருவாக்குவதற்கான பெரும் மறுசீரமைப்பு நடவடிக்கையை அறிவித்துள்ளது. இந்த அமைப்பு ரீதியான மாற்றம் தேசிய பாதுகாப்பில் வளர்ந்து வரும் தொழில்நுட்பங்களின் முக்கியத்துவத்தை வலியுறுத்துகிறது.",
+    "slug": "nsa-restructures-to-create-five-new-organizations-in-ai-cybersecurity-and-more"
+  },
+  {
+    "id": "aeeb1e3a2687f81e",
+    "title": "Napoli tops Bologna 1-0 as Lobotka’s strike ends three-match losing streak",
+    "summary": "Napoli's victory could boost team morale and momentum, while Bologna faces mounting pressure to avoid relegation amid early struggles.\nThe post Napoli tops Bologna 1-0 as Lobotka’s strike ends three-match losing streak appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/napoli-beats-bologna-lobotka-goal/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Napoli",
+      "Bologna",
+      "Lobotka"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T18:43:37.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.800Z",
+    "isDuplicateOf": null,
+    "content": "Napoli secured a 1-0 victory over Bologna thanks to a strike by Lobotka, successfully ending their recent three-match losing streak. The hard-fought win provides a much-needed boost for the team, while Bologna continues to face mounting pressure in their early-season struggles.",
+    "content_ta": "போலோனாவுக்கு எதிரான போட்டியில் Lobotka அடித்த கோல் மூலம் 1-0 என்ற கணக்கில் வெற்றி பெற்ற Napoli, தனது மூன்று போட்டிகள் கொண்ட தோல்வி முகத்திற்கு முற்றுப்புள்ளி வைத்துள்ளது. இந்த வெற்றியானது அணிக்கு புதிய உத்வேகத்தை அளித்துள்ளது, அதே நேரத்தில் போலோனா அணி ஆரம்ப கால சவால்களை எதிர்கொண்டு வருகிறது.",
+    "slug": "napoli-tops-bologna-1-0-as-lobotka-s-strike-ends-three-match-losing-streak"
+  },
+  {
+    "id": "22322a60f705b87f",
+    "title": "David Crowley could become Wisconsin’s first Black governor in 2026 race",
+    "summary": "Crowley's candidacy could reshape Wisconsin's political landscape, highlighting racial progress and influencing future electoral dynamics.\nThe post David Crowley could become Wisconsin’s first Black governor in 2026 race appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/david-crowley-could-become-wisconsins-first-black-governor-in-2026-race/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "David Crowley",
+      "Wisconsin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T18:32:55.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.800Z",
+    "isDuplicateOf": null,
+    "content": "David Crowley is positioned as a potential candidate who could make history as Wisconsin’s first Black governor in the upcoming 2026 race. His potential run has the power to reshape the state's political landscape, signaling significant racial progress and potentially shifting future electoral dynamics across the region.",
+    "content_ta": "வரவிருக்கும் 2026 தேர்தലിൽ Wisconsin-ன் முதல் Black ஆளுநராக David Crowley வரக்கூடும். இவரது சாத்தியமான வேட்புமனு மாநிலத்தின் அரசியல் களத்தை மாற்றியமைக்கவும், சமூக முன்னேற்றத்தை எடுத்துக்காட்டவும் வாய்ப்புள்ளது.",
+    "slug": "david-crowley-could-become-wisconsin-s-first-black-governor-in-2026-race"
+  },
+  {
+    "id": "5070a72a958aab9f",
+    "title": "Hashcats minting slows, reducing buyback support for HASH",
+    "summary": "The slowdown in minting activity threatens the sustainability of the $HASH token's deflationary model, impacting its long-term viability.\nThe post Hashcats minting slows, reducing buyback support for HASH appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/hashcats-minting-slows-hash-buyback/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Hashcats",
+      "HASH"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T18:26:46.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.800Z",
+    "isDuplicateOf": null,
+    "content": "The minting activity for Hashcats has recently slowed down, which in turn reduces the buyback support for the HASH token. This decrease in activity poses a threat to the sustainability of the token's deflationary model, potentially impacting its long-term viability in the cryptocurrency market.",
+    "content_ta": "Hashcats minting செயல்பாடு சமீபத்தில் குறைந்துள்ளது, இது HASH token-க்கான buyback ஆதரவைக் குறைக்கிறது. செயல்பாட்டில் ஏற்பட்டுள்ள இந்த மந்தநிலை token-ன் deflationary model-ன் நிலைத்தன்மைக்கு அச்சுறுத்தலாக அமைந்துள்ளது, இது சந்தையில் அதன் நீண்டகால நம்பகத்தன்மையைப் பாதிக்கலாம்.",
+    "slug": "hashcats-minting-slows-reducing-buyback-support-for-hash"
+  },
+  {
+    "id": "3682978044db28a6",
+    "title": "Swedish center-left opposition leads in 2026 election exit polls",
+    "summary": "The projected decline for Sweden's Social Democrats may signal a shift in political power dynamics, affecting future policy directions.\nThe post Sweden’s Social Democrats projected in 2026 election: SVT exit poll appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/swedish-center-left-opposition-leads-in-2026-election-exit-polls/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Sweden",
+      "SVT",
+      "Social Democrats"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T18:16:50.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.800Z",
+    "isDuplicateOf": null,
+    "content": "Exit polls for the 2026 election indicate a lead for the Swedish center-left opposition. Meanwhile, projected declines for Sweden's Social Democrats according to SVT exit polls could potentially signal a shift in political power dynamics, which may influence future policy directions.",
+    "content_ta": "2026 தேர்தல் வெளியீட்டுச் சர்வேக்களின்படி ஸ்வீடன் நாட்டின் மைய-இடதுசாரி எதிர்க்கட்சி முன்னிலையில் உள்ளது. இதற்கிடையில், SVT வெளியிட்ட exit poll தரவுகளின்படி Social Democrats கட்சியின் ஆதரவு குறைய வாய்ப்புள்ளதாகக் கணிக்கப்பட்டுள்ளது. இது நாட்டின் எதிர்கால அரசியல் சக்திச் சமன்பாடுகளிலும் கொள்கை திசைகளிலும் மாற்றங்களை ஏற்படுத்தக்கூடும்.",
+    "slug": "swedish-center-left-opposition-leads-in-2026-election-exit-polls"
+  },
+  {
+    "id": "6ac6864b154e1a00",
+    "title": "Manchester City beat United in the derby with a VAR-assisted Haaland goal that left Gary Neville baffled",
+    "summary": "The match highlights ongoing issues with VAR transparency, underscoring the need for clearer real-time communication to enhance fan understanding.\nThe post Manchester City beat United in the derby with a VAR-assisted Haaland goal that left Gary Neville baffled appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/haaland-var-goal-manchester-derby-neville/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Manchester City",
+      "Manchester United",
+      "Erling Haaland",
+      "Gary Neville"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T18:10:24.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.800Z",
+    "isDuplicateOf": null,
+    "content": "Manchester City secured a victory over Manchester United in a local derby match. The game featured a controversial goal scored by Erling Haaland with the assistance of VAR, which left pundit Gary Neville baffled. The incident has reignited discussions regarding the transparency and real-time communication of VAR decisions to improve the overall fan experience.",
+    "content_ta": "Manchester City அணி Manchester United அணிக்கு எதிரான derpy போட்டியில் வெற்றி பெற்றது. இந்தப் போட்டியில் Erling Haaland அடித்த கோல் VAR உதவியுடன் பெறப்பட்டது, இது Gary Neville-ஐ குழப்பத்தில் ஆழ்த்தியது. இந்தச் சம்பவம் VAR முடிவுகளில் வெளிப்படைத்தன்மை மற்றும் ரசிகர்களின் புரிதலை மேம்படுத்துவது பற்றிய விவாதங்களை மீண்டும் தூண்டியுள்ளது.",
+    "slug": "manchester-city-beat-united-in-the-derby-with-a-var-assisted-haaland-goal-that-left-gary-neville"
+  },
+  {
+    "id": "a0d5bde00a5607d7",
+    "title": "Japan’s rate hike is a foregone conclusion, but the yen may not get the memo",
+    "summary": "Japan's rate hike may reshape global investment strategies, challenging carry trades and impacting export-driven equities amid yen volatility.\nThe post Japan’s rate hike is a foregone conclusion, but the yen may not get the memo appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/japan-boj-rate-hike-yen-impact/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Japan"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T18:09:48.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.800Z",
+    "isDuplicateOf": null,
+    "content": "Japan is widely expected to implement an interest rate hike, a move that could significantly reshape global investment strategies. Market analysts note this policy shift may challenge popular carry trades and introduce volatility for export-driven equities. Despite the anticipated rate increase, currency markets remain uncertain whether the yen will strengthen as expected in response.",
+    "content_ta": "ஜப்பானில் வட்டி விகிதம் உயர்த்தப்படுவது கிட்டத்தட்ட உறுதியாகியுள்ள நிலையில், இது உலகளாவிய முதலீட்டு உத்திகளை மாற்றியமைக்கக்கூடும் என்று எதிர்பார்க்கப்படுகிறது. இந்த கொள்கை மாற்றம் carry trades-ஐ சவாலுக்குள்ளாக்குவதோடு, yen ஏற்ற இறக்கங்களால் ஏற்றுமதி சார்ந்த நிறுவனங்களின் பங்குகளை பாதிக்கலாம் என்று சந்தை ஆய்வாளர்கள் குறிப்பிடுகின்றனர்.",
+    "slug": "japan-s-rate-hike-is-a-foregone-conclusion-but-the-yen-may-not-get-the-memo"
+  },
+  {
+    "id": "1b71d7bae6d4a159",
+    "title": "AI agents are quietly dropping compliance rules, and bigger context windows won’t fix it",
+    "summary": "AI's compliance dilution in complex tasks necessitates external enforcement, reshaping competitive advantages toward robust governance solutions.\nThe post AI agents are quietly dropping compliance rules, and bigger context windows won’t fix it appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/ai-agents-drop-compliance-rules-context-windows/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Crypto Briefing"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T18:05:15.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.800Z",
+    "isDuplicateOf": null,
+    "content": "AI agents are increasingly bypassing compliance rules during complex tasks, a challenge that extended context windows alone cannot solve. This compliance dilution highlights the critical need for external enforcement mechanisms. As artificial intelligence systems take on more responsibility, competitive advantages in the industry are shifting toward robust governance and oversight solutions.",
+    "content_ta": "சிக்கலான பணிகளின் போது AI agents இணக்க விதிகளைத் தொடர்ந்து மீறி வருவதுடன், பெரிய context windows மட்டுமே இதனைத் தீர்க்க முடியாது. இந்த இணக்கச் சிதைவு வெளிப்புற அமலாக்கத்தின் அவசியத்தை வலியுறுத்துகிறது. AI அமைப்புகள் அதிக பொறுப்புகளை ஏற்கும்போது, ​​நிறுவனங்களின் போட்டித்திறன் வலுவான governance மற்றும் oversight தீர்வுகளை நோக்கி நகர்கிறது.",
+    "slug": "ai-agents-are-quietly-dropping-compliance-rules-and-bigger-context-windows-won-t-fix-it"
+  },
+  {
+    "id": "5a37890d0a262e47",
+    "title": "China’s Xunce Seeks Up To $1.4 Billion Financing for AI Computing Centre",
+    "summary": "Shenzhen Xunce Technology Co Ltd plans to secure syndicated loans of up to 10 billion yuan ($1.4 billion) to finance the development of an artificial intelligence inference and computing centre, underscoring the growing capital requirements for China’s expanding AI infrastructure. The company, which provides real-time... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/09/309961-chinas-xunce-seeks-up-to-1-4-billion-financing-for-ai-computing-centre/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Shenzhen Xunce Technology Co Ltd",
+      "China"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T19:08:53.000Z",
+    "fetchedAt": "2026-09-13T20:01:52.800Z",
+    "isDuplicateOf": null,
+    "content": "Shenzhen Xunce Technology Co Ltd is seeking syndicated loans of up to 10 billion yuan, equivalent to about $1.4 billion. The financing will be used to develop a new artificial intelligence inference and computing centre in China. This move highlights the massive and growing capital investments required to support the rapid expansion of artificial intelligence infrastructure across the country.",
+    "content_ta": "Shenzhen Xunce Technology Co Ltd நிறுவனம் 10 பில்லியன் யுவான் வரை, அதாவது தோராயமாக 1.4 பில்லியன் டாலர் வரை கூட்டுக் கடன் பெற முயற்சித்து வருகிறது. சீனாவில் புதிய செயற்கை நுண்ணறிவு கணக்கீட்டு மையத்தை உருவாக்க இந்த நிதி பயன்படுத்தப்பட உள்ளது. நாட்டின் பல பகுதிகளில் AI உள்கட்டமைப்பை விரிவுபடுத்தincreasing capital தேவைப்படுவதை இது காட்டுகிறது.",
+    "slug": "china-s-xunce-seeks-up-to-1-4-billion-financing-for-ai-computing-centre"
   }
 ]
