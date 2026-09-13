@@ -1982,5 +1982,743 @@
     "content": "Specialist UK lender Castle Trust Bank has been acquired by global alternative asset managers Sixth Street and Bayview. Previously owned by J.C. Flowers, the bank brings significant loans and savings portfolios to its new owners. This acquisition marks a notable shift in ownership for the financial institution, which operates within the United Kingdom banking sector.",
     "content_ta": "UK நாட்டைச் சேர்ந்த Castle Trust Bank நிறுவனத்தை உலகளாவிய சொத்து மேலாண்மை நிறுவனங்களான Sixth Street மற்றும் Bayview ஆகியவை வாங்கியுள்ளன. J.C. Flowers வசம் இருந்த இந்த வங்கி, தனது புதிய உரிமையாளர்களிடம் குறிப்பிடத்தக்க அளவில் கடன்கள் மற்றும் சேமிப்புத் தொகைகளைக் கொண்டுவருகிறது.",
     "slug": "castle-trust-bank-acquired-by-sixth-street-and-bayview"
+  },
+  {
+    "id": "05a4efd040a0d24f",
+    "title": "Quantum-proof blockchain: why math, not machines, holds the key",
+    "summary": "lockchains don’t need quantum computers to be quantum-safe, argues Optimum co-founder and MIT professor Muriel Médard. Classic math already gives us the tools.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
+    "source": "CoinDesk",
+    "tags": [
+      "Optimum",
+      "MIT"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T17:00:00.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Blockchains can achieve quantum safety without relying on quantum computers, according to MIT professor and Optimum co-founder Muriel Médard. Instead of waiting for advanced hardware, the industry can utilize classic mathematics to build security frameworks capable of withstanding future threats.",
+    "content_ta": "குவாண்டம் கம்ப்யூட்டர்கள் இல்லாமலேயே பிளாக்செயின் தொழில்நுட்பத்தை குவாண்டம் பாதுகாப்பானதாக மாற்ற முடியும் என்று MIT பேராசிரியர் மற்றும் Optimum இணை நிறுவனர் Muriel Médard தெரிவித்தார். மேம்பட்ட வன்பொருளுக்காகக் காத்திருப்பதற்குப் பதிலாக, எதிர்கால அச்சுறுத்தல்களைத் தாங்கக்கூடிய பாதுகாப்பு கட்டமைப்புகளை உருவாக்க கிளாசிக் கணிதத்தைப் பயன்படுத்தலாம்.",
+    "slug": "quantum-proof-blockchain-why-math-not-machines-holds-the-key"
+  },
+  {
+    "id": "3dc0702be68f7258",
+    "title": "Why AI faces an immediately difficult choice: Nationalize or decentralize – AI’s 2026 slowdown dilemma",
+    "summary": "His three-stage proposal points toward binding cross-lab limits, a narrow public brake and independently distributed scrutiny.\nThe post Why AI faces an immediately difficult choice: Nationalize or decentralize – AI’s 2026 slowdown dilemma appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/does-ai-face-an-immediately-difficult-choice-nationalize-or-decentralize-ais-2026-slowdown-dilemma/",
+    "source": "CryptoSlate",
+    "tags": [
+      "AI",
+      "CryptoSlate"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T16:55:14.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Artificial intelligence faces a major strategic choice by 2026, weighing whether to nationalize or decentralize amid potential slowdowns. A proposed three-stage framework suggests implementing binding cross-lab limits, a public brake system, and independently distributed scrutiny to address these upcoming industry dilemmas.",
+    "content_ta": "2026-ஆம் ஆண்டிற்குள் AI துறை தேசியமயமாக்கல் அல்லது பரவலாக்கம் என்ற மிக முக்கியமான சவாலை எதிர்கொள்ளவுள்ளது. இந்தத் துறை சார்ந்த சிக்கல்களைத் தீர்க்க, ஆய்வகங்களுக்கு இடையேயான எல்லைகள், பொதுவான தடுப்பு முறை மற்றும் சுதந்திரமான தணிக்கை ஆகிய மூன்று கட்டங்களைக் கொண்ட திட்டத்தை ஒரு புதிய ஆய்வு பரிந்துரைக்கிறது.",
+    "slug": "why-ai-faces-an-immediately-difficult-choice-nationalize-or-decentralize-ai-s-2026-slowdown-dilemma"
+  },
+  {
+    "id": "769806a51857febf",
+    "title": "Critical Bitcoin Lightning bugs exposed nodes to fund theft and restart failure",
+    "summary": "LDK v0.2.6 addresses small splice-related fund losses and a payment-handling flaw that could prevent saved channel state from loading.\nThe post Critical Bitcoin Lightning bugs exposed nodes to fund theft and restart failure appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/critical-bitcoin-lightning-bugs-exposed-nodes-to-fund-theft-and-restart-failure/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Bitcoin",
+      "Lightning Network",
+      "LDK"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T15:55:14.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Critical security bugs in the Bitcoin Lightning Development Kit could have exposed nodes to fund theft and restart failures. The LDK v0.2.6 update addresses these vulnerabilities, which involved splice-related fund losses and a payment-handling flaw that prevented saved channel states from loading properly. Users are advised to update their software to protect their nodes.",
+    "content_ta": "Bitcoin Lightning-ல் கண்டறியப்பட்ட முக்கியமான பாதுகாப்பு குறைபாடுகள் மூலம் நோடுகள் நிதி திருட்டு மற்றும் ரீஸ்டார்ட் கோளாறுகளுக்கு ஆளாகக்கூடும். LDK v0.2.6 அப்டேட் இந்த குறைபாடுகளை நிவர்த்தி செய்கிறது. ஸ்பிளிஸ்-தொடர்புடைய நிதி இழப்புகள் மற்றும் பேமெண்ட் கையாளுதல் பிழைகளை இது சரிசெய்கிறது. பயனர்கள் தங்கள் நோடுகளைப் பாதுகாக்க மென்பொருளை அப்டேட் செய்யுமாறு அறிவுறுத்தப்படுகிறார்கள்.",
+    "slug": "critical-bitcoin-lightning-bugs-exposed-nodes-to-fund-theft-and-restart-failure"
+  },
+  {
+    "id": "e40682ecdd490db6",
+    "title": "Bitcoin’s slide below $77,000 sets up a Monday tech test as AI leaders sound warning",
+    "summary": "Sunday’s 0.8% decline extends earlier weakness, while AI slowdown calls and the coming Fed meeting pose separate risks.\nThe post Bitcoin’s slide below $77,000 sets up a Monday tech test as AI leaders sound warning appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/bitcoins-slide-below-77000-sets-up-a-monday-tech-test-as-ai-leaders-sound-warning/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Bitcoin",
+      "Federal Reserve"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T15:20:10.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin dropped below $77,000 following a 0.8% decline, setting up a critical market test for the technology sector. The downward trend coincides with warnings from artificial intelligence leaders regarding potential industry slowdowns. Additionally, investors are preparing for an upcoming Federal Reserve meeting, creating a cautious environment across global financial markets.",
+    "content_ta": "Bitcoin மதிப்பு 0.8% சரிந்து $77,000-க்கு கீழே சென்றது, இது தொழில்நுட்ப துறைக்கு ஒரு முக்கியமான சந்தை சோதனையாக அமைந்துள்ளது. AI துறையின் மந்தநிலை குறித்த தலைவர்களின் எச்சரிக்கைகளைத் தொடர்ந்து இந்த வீழ்ச்சி ஏற்பட்டுள்ளது. மேலும், வரவிருக்கும் Federal Reserve கூட்டத்திற்காக முதலீட்டாளர்கள் தயாராகி வருகின்றனர்.",
+    "slug": "bitcoin-s-slide-below-77-000-sets-up-a-monday-tech-test-as-ai-leaders-sound-warning"
+  },
+  {
+    "id": "c8e43a6c044036ff",
+    "title": "US Bond Market Is Flashing a Major Warning: Is This the Setup Bitcoin Was Built For?",
+    "summary": "The US bond market is sending increasingly uncomfortable signals. How does BTC fit into this?",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/us-bond-market-is-flashing-a-major-warning-is-this-the-setup-bitcoin-was-built-for/",
+    "source": "CryptoPotato",
+    "tags": [
+      "United States",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T15:44:34.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "The US bond market is currently sending concerning signals, prompting questions about the broader economic outlook. As traditional financial markets experience growing uncertainty and pressure, analysts are increasingly examining how alternative assets might react. This situation has led many to wonder whether Bitcoin, designed as a decentralized hedge against traditional financial system vulnerabilities, is positioned to benefit from these macroeconomic headwinds.",
+    "content_ta": "அமெரிக்காவின் பாண்ட் மார்க்கெட் தற்போது கவலைக்கிடமான சமிச்சகங்களை வழங்கி வருவதுடன், பரந்த பொருளாதார நிலைப்பாடு குறித்த கேள்விகளையும் எழுப்பியுள்ளது. பாரம்பரிய நிதி சந்தைகள் அதிகரித்து வரும் நிச்சயமற்ற தன்மையையும் அழுத்தத்தையும் சந்தித்து வருவதால், மாற்று சொத்துக்கள் எவ்வாறு எதிர்வினையாற்றலாம் என்பதை ஆய்வாளர்கள் ஆராய்ந்து வருகின்றனர். பாரம்பரிய நிதி முறைமைகளின் பலவீனங்களுக்கு எதிரான ஒரு பரவலாக்கப்பட்ட பாதுகாப்பாக உருவாக்கப்பட்ட Bitcoin, இந்த பெருமளவிலான பொருளாதார சவால்களிலிருந்து பயன்பெறத் தகுதியுள்ளதா என்ற கேள்வியை இது பலரிடையே எழுப்பியுள்ளது.",
+    "slug": "us-bond-market-is-flashing-a-major-warning-is-this-the-setup-bitcoin-was-built-for"
+  },
+  {
+    "id": "fb0ececd469693ab",
+    "title": "XPR Network suffers $9M proton.swaps exploit – Can confidence recover?",
+    "summary": "XPR’s sharp sell-off eased after producers patched the exploit and secured most of the affected funds.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/xpr-network-suffers-9m-proton-swaps-exploit-can-confidence-recover/",
+    "source": "AMBCrypto",
+    "tags": [
+      "XPR Network",
+      "proton.swaps"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T17:00:30.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "XPR Network experienced a major $9 million exploit involving proton.swaps, leading to a sharp sell-off in XPR tokens. The incident sparked concerns about market confidence in the network. However, the sell-off eased after network producers successfully patched the security vulnerability and managed to secure a significant portion of the affected funds, helping stabilize the situation.",
+    "content_ta": "XPR Network-ல் உள்ள proton.swaps தளத்தில் சுமார் $9 மில்லியன் மதிப்பிலான ஃபண்டுகள் ஹேக் செய்யப்பட்டன. இதனால் XPR டோக்கன்களின் விலை அதிரடியாகக் சரிந்தது. நெட்வொர்க் தயாரிப்பாளர்கள் உடனடியாகப் பாதுகாப்புப் பிழையைச் சரிசெய்து, பாதிக்கப்பட்ட நிதியில் பெரும்பகுதியைப் பாதுகாத்ததால் விலை சரிவு சற்று குறைந்து நிலைபெற்றது.",
+    "slug": "xpr-network-suffers-9m-proton-swaps-exploit-can-confidence-recover"
+  },
+  {
+    "id": "5ffc9c162c6bf5df",
+    "title": "Bitcoin May Never Trade Below $65,000 Again",
+    "summary": "Bitcoin locks in a historic $65,000 long-term support floor, as cycle mathematics may prevent future drops below this key threshold.",
+    "hasSummary": true,
+    "link": "https://u.today/bitcoin-may-never-trade-below-65000-again",
+    "source": "U.Today",
+    "tags": [
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T16:22:15.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin has established a historic long-term support floor at the $65,000 level. According to recent market analysis, current cycle mathematics and strong price support suggest that the cryptocurrency may never trade below this crucial threshold again in future market dips.",
+    "content_ta": "Bitcoin தனது வரலாற்றுச் சிறப்புமிக்க நீண்டகால ஆதரவு எல்லையை $65,000 விலையில் நிலைநிறுத்தியுள்ளது. தற்போதைய சந்தை கணிப்புகளின்படி, தற்போதைய சைக்கிள் கணித முறைகள் மற்றும் வலுவான விலை ஆதரவு ஆகியவை, எதிர்கால சந்தை சரிவுகளில் இந்த முக்கிய எல்லைக்கு கீழே இந்த கிரிப்டோகரன்சி இனி ஒருபோதும் வர்த்தகமாகாமல் தடுக்கக்கூடும் என்பதைக் காட்டுகின்றன.",
+    "slug": "bitcoin-may-never-trade-below-65-000-again"
+  },
+  {
+    "id": "779849fc8e3856a8",
+    "title": "From 'Digital Gold' to $10,000: Bloomberg Strategist Flags Crucial Bitcoin Sell Signals",
+    "summary": "Bloomberg's Mike McGlone warns Bitcoin's tight correlation with S&P 500 and pending Fed hikes spark sell signals targeting a potential drop to $10,000.",
+    "hasSummary": true,
+    "link": "https://u.today/from-digital-gold-to-10000-bloomberg-strategist-flags-crucial-bitcoin-sell-signals",
+    "source": "U.Today",
+    "tags": [
+      "Bitcoin",
+      "Bloomberg",
+      "Federal Reserve",
+      "S&P 500"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T15:46:30.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Bloomberg strategist Mike McGlone warns that Bitcoin is facing critical sell signals. Highlighting a tight correlation with the S&P 500 and upcoming Federal Reserve interest rate hikes, the analyst cautions that the leading cryptocurrency could see a steep downward correction towards the $10,000 level.",
+    "content_ta": "Bloomberg-ன் மூத்த வியூக நிபுணர் Mike McGlone, Bitcoin-க்கு கடுமையான விற்பனை சமிக்ஞைகள் இருப்பதாக எச்சரித்துள்ளார். S&P 500 குறியீட்டுடன் உள்ள வலுவான தொடர்பு மற்றும் வரவிருக்கும் Federal Reserve வட்டி விகித உயர்வுகள் காரணமாக, முன்னணி cryptocurrency விலை சரிந்து $10,000 வரை வீழ்ச்சியடைய வாய்ப்புள்ளதாக அவர் குறிப்பிட்டுள்ளார்.",
+    "slug": "from-digital-gold-to-10-000-bloomberg-strategist-flags-crucial-bitcoin-sell-signals"
+  },
+  {
+    "id": "04fb14dca17dbbcf",
+    "title": "Analysts Think Bitcoin is Less Than $5,000 Away From a Bull Market",
+    "summary": "Bitcoin sits $4,500 below a bull market confirmation as whales sell the rally and US funds stay out.\nThe post Analysts Think Bitcoin is Less Than $5,000 Away From a Bull Market appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/bitcoin-below-bull-market-whales/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Bitcoin",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T17:05:11.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Market analysts suggest that Bitcoin is currently less than $5,000 away from confirming a new bull market. However, the leading cryptocurrency sits thousands of dollars below this key threshold as large holders, known as whales, continue to sell off during the rally. Additionally, participation from United States funds remains low, which could influence the digital asset's near-term price movement.",
+    "content_ta": "மார்க்கெட் אנаலிஸ்ட்கள் கருத்துப்படி, Bitcoin புதிய புல் மார்க்கெட்டை உறுதிப்படுத்த $5,000-க்கும் குறைவான தொலைவிலேயே உள்ளது. இருப்பினும், பெரிய முதலீட்டாளர்கள் தொடர்ந்து விற்பனை செய்வதாலும் மற்றும் United States ஃபண்டுகளின் பங்களிப்பு குறைவாக இருப்பதாலும், முன்னணி கிரிப்டோகரன்சி இந்த முக்கிய எல்லைக்கு கீழே உள்ளது.",
+    "slug": "analysts-think-bitcoin-is-less-than-5-000-away-from-a-bull-market"
+  },
+  {
+    "id": "2c15b7df1a1aa417",
+    "title": "Aerodrome leads in USDC transfer volume, says Circle CEO",
+    "summary": "Circle's endorsement of Aerodrome underscores DeFi's growing role in financial systems, but centralization risks could impact network stability.\nThe post Aerodrome leads in USDC transfer volume, says Circle CEO appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/aerodrome-leads-usdc-transfer-volume/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Aerodrome",
+      "Circle",
+      "USDC"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T17:32:06.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Circle's CEO highlighted that Aerodrome is leading in USDC transfer volume. This endorsement emphasizes the expanding significance of decentralized finance within current financial frameworks, while also prompting discussions regarding potential centralization risks that might influence overall network stability.",
+    "content_ta": "USDC பரிமாற்ற அளவில் Aerodrome முன்னணியில் இருப்பதாக Circle நிறுவனத்தின் CEO தெரிவித்துள்ளார். இந்த பாராட்டு நிதி அமைப்புகளில் DeFi-ன் வளர்ந்து வரும் பங்கை அடிக்கோடிட்டுக் காட்டுகிறது, அதே நேரத்தில் நெட்வொர்க் ஸ்திரத்தன்மையை பாதிக்கக்கூடிய மையப்படுத்தல் அபாயங்கள் குறித்தும் விவாதங்களை எழுப்புகிறது.",
+    "slug": "aerodrome-leads-in-usdc-transfer-volume-says-circle-ceo"
+  },
+  {
+    "id": "8073b3300939de66",
+    "title": "AMD and Intel’s AI Compute Extensions integrated into GCC, setting stage for x86 AI acceleration",
+    "summary": "The collaboration between AMD and Intel on AI Compute Extensions could redefine x86's role in AI, enhancing competitiveness against Arm-based designs.\nThe post AMD and Intel’s AI Compute Extensions integrated into GCC, setting stage for x86 AI acceleration appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/amd-intel-ai-compute-extensions-gcc/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "AMD",
+      "Intel"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T17:13:53.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "AMD and Intel have integrated their AI Compute Extensions into the GNU Compiler Collection. This collaboration aims to enhance x86 architecture performance for artificial intelligence workloads. By improving acceleration capabilities, the initiative sets the stage for x86 systems to better compete with emerging Arm-based designs in the rapidly evolving AI hardware landscape.",
+    "content_ta": "AMD மற்றும் Intel நிறுவனங்களின் AI Compute Extensions GCC-ல் ஒருங்கிணைக்கப்பட்டுள்ளன. இந்த ஒத்துழைப்பு ஆர்டிபிஷியல் இன்டலிஜென்ஸ் பணிகளுக்கான x86 கட்டமைப்பின் செயல்திறனை மேம்படுத்துவதை நோக்கமாகக் கொண்டுள்ளது. இது Arm-அடிப்படையிலான வடிவமைப்புகளுக்கு எதிராக போட்டியிட x86 அமைப்புகளுக்கு உதவுகிறது.",
+    "slug": "amd-and-intel-s-ai-compute-extensions-integrated-into-gcc-setting-stage-for-x86-ai-acceleration"
+  },
+  {
+    "id": "de699681b8a7877d",
+    "title": "Houthi advance in Yemen challenges Gulf states’ strategic decisions",
+    "summary": "The Houthi advance may reshape regional power dynamics, affecting global shipping and oil flow, while influencing U.S. and Gulf state policies.\nThe post Houthi advance in Yemen challenges Gulf states’ strategic decisions appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/houthi-advance-in-yemen-challenges-gulf-states-strategic-decisions/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Houthi",
+      "Yemen",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T17:11:58.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "The recent advance by Houthi forces in Yemen is challenging the strategic decisions of Gulf states. This development could reshape regional power dynamics and potentially impact global shipping and oil flows, while also prompting a reevaluation of policies by regional and international actors, including the United States.",
+    "content_ta": "யேமனில் Houthi படைகளின் தற்போதைய முன்னேற்றம் வளைகுடா நாடுகளின் மூலோபாய முடிவுகளுக்கு சவாலாக உள்ளது. இந்த வளர்ச்சி பிராந்திய அதிகார சமன்பாடுகளை மாற்றியமைக்கக்கூடும். மேலும், உலகளாவிய கப்பல் போக்குவரத்து மற்றும் எண்ணெய் விநியோகத்தை பாதிக்க வாய்ப்புள்ளதுடன், United States உள்ளிட்ட நாடுகளின் கொள்கைகளிலும் தாக்கத்தை ஏற்படுத்தும்.",
+    "slug": "houthi-advance-in-yemen-challenges-gulf-states-strategic-decisions"
+  },
+  {
+    "id": "4029621acb78c2dd",
+    "title": "Boris Johnson and Carl Bildt narrowly escape Russian drone strike near Polish border",
+    "summary": "The incident underscores the escalating risks to civilian infrastructure and potential NATO involvement due to proximity to its borders.\nThe post Boris Johnson and Carl Bildt narrowly escape Russian drone strike near Polish border appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/johnson-bildt-escape-russian-drone-strike-poland/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Boris Johnson",
+      "Carl Bildt",
+      "Russia",
+      "Poland",
+      "NATO"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T17:08:09.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Boris Johnson and Carl Bildt narrowly escaped a Russian drone strike near the Polish border. The incident highlights the growing risks to civilian infrastructure and the potential for wider regional tensions due to the proximity of military actions to NATO borders.",
+    "content_ta": "Polish border அருகே நடந்த Russian drone தாக்குதலில் இருந்து Boris Johnson மற்றும் Carl Bildt ஆகியோர் அதிர்ஷ்டவசமாக தப்பினார். NATO எல்லைகளுக்கு அருகில் நடைபெறும் ராணுவ நடவடிக்கைகள் காரணமாக, பொதுமட்ட உள்கட்டமைப்புக்கும் பிராந்திய பாதுகாப்புக்கும் ஏற்பட்டுள்ள ஆபத்தை இந்தச் சம்பவம் வெளிச்சம் போட்டுக் காட்டுகிறது.",
+    "slug": "boris-johnson-and-carl-bildt-narrowly-escape-russian-drone-strike-near-polish-border"
+  },
+  {
+    "id": "6275d7a0d383795d",
+    "title": "Solana generates 16.9 times more daily app revenue than Base, and the gap keeps widening",
+    "summary": "Solana's app revenue dominance highlights the potential advantages of monolithic chains in app monetization, impacting Layer-1 vs. Layer-2 debates.\nThe post Solana generates 16.9 times more daily app revenue than Base, and the gap keeps widening appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/solana-app-revenue-base-comparison/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Solana",
+      "Base"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T17:07:54.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Solana has reportedly generated significantly more daily application revenue compared to Base, with the gap between the two continuing to grow. This dominance in app revenue highlights potential advantages for monolithic chains in application monetization, adding new insights to ongoing debates between Layer-1 and Layer-2 blockchain networks.",
+    "content_ta": "Base நெட்வொர்க்கை விட Solana நிறுவனம் தினமும் கணிசமாக அதிக அளவிலான பயன்பாட்டு வருவாயை ஈட்டி வருவதாகவும், இந்த இடைவெளி தொடர்ந்து அதிகரித்து வருவதாகவும் கூறப்படுகிறது. ஆப் வருவாயில் உள்ள இந்த ஆதிக்கம், அப்ளிகேஷன் மானிடைசேஷனில் monolithic சங்கிலிகளின் சாத்தியமான நன்மைகளை வெளிச்சம் போட்டுக் காட்டுகிறது, இது Layer-1 மற்றும் Layer-2 பிளாக்செயின் நெட்வொர்க்குகளுக்கு இடையேயான விவாதங்களுக்கு புதிய பரிமாணத்தை அளிக்கிறது.",
+    "slug": "solana-generates-16-9-times-more-daily-app-revenue-than-base-and-the-gap-keeps-widening"
+  },
+  {
+    "id": "1231566bfc73cfdf",
+    "title": "Erling Haaland ties Premier League Manchester derby scoring record with dominant run against United",
+    "summary": "Haaland's rapid scoring prowess in derbies underscores a shifting power dynamic in Manchester, highlighting City's growing dominance.\nThe post Erling Haaland ties Premier League Manchester derby scoring record with dominant run against United appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/haaland-premier-league-manchester-derby-record/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Erling Haaland",
+      "Manchester United",
+      "Manchester City"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T17:06:29.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Erling Haaland has tied the Premier League scoring record for the Manchester derby following a dominant performance against United. His rapid scoring prowess highlights Manchester City's growing dominance and a shifting power dynamic in the city.",
+    "content_ta": "Manchester United அணிக்கு எதிரான போட்டியில் த_னது ஆதி_க்கத்_தை வெளிப்படுத்தியதன் மூலம் Premier League Manchester derby ஸ்கோரிங் சாதனையை எட்டியுள்ளார் Erling Haaland. இவரின் அதிரடியான கோல் அடிக்கும் திறன், Manchester City அணியின் வளர்ந்து வரும் ஆதிக்கத்தையும், சக்தியின் திசை மாறுதலையும் காட்டுகிறது.",
+    "slug": "erling-haaland-ties-premier-league-manchester-derby-scoring-record-with-dominant-run-against-united"
+  },
+  {
+    "id": "3a796478a660b7df",
+    "title": "Yamal brace leads Barcelona to 4-2 victory over Levante",
+    "summary": "Barcelona's strong start under Flick highlights their title ambitions, but defensive lapses could pose challenges in maintaining dominance.\nThe post Yamal brace leads Barcelona to 4-2 victory over Levante appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/yamal-brace-barcelona-beat-levante-4-2/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Barcelona",
+      "Levante",
+      "Lamine Yamal",
+      "Hansi Flick"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T16:55:56.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "A strong performance led by Lamine Yamal secured a 4-2 victory for Barcelona against Levante, highlighting the team's title ambitions under manager Hansi Flick. Despite the impressive start and offensive success, defensive vulnerabilities were noted, which could pose challenges for the squad in maintaining their dominance throughout the rest of the season.",
+    "content_ta": "Lamine Yamal-ன் சிறப்பான ஆட்டத்தால் Levante அணிக்கு எதிரான போட்டியில் Barcelona 4-2 என்ற கணக்கில் வெற்றி பெற்றது. Hansi Flick-ன் பயிற்சியின் கீழ் அணியின் பட்டத்தை வெல்லும் லட்சியத்தை இந்த வெற்றி வெளிக்காட்டுகிறது. எனினும், அணியின் தற்காப்பு பலவீனங்கள் குறித்து கவலைகள் எழுந்துள்ளன.",
+    "slug": "yamal-brace-leads-barcelona-to-4-2-victory-over-levante"
+  },
+  {
+    "id": "f44241ec7ea1ea8a",
+    "title": "Federal Reserve faces scrutiny over potential rate hike based on soon-to-be-revised PCE data",
+    "summary": "The Fed's reliance on soon-to-be-revised data for rate decisions could undermine policy credibility and prompt market volatility.\nThe post Federal Reserve faces scrutiny over potential rate hike based on soon-to-be-revised PCE data appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/fed-rate-hike-scrutiny-pce-revision/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Federal Reserve"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T16:55:07.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "The Federal Reserve is facing scrutiny regarding its potential interest rate hikes, which are reportedly based on personal consumption expenditures data that is soon to be revised. Analysts warn that relying on preliminary economic data could undermine the central bank's policy credibility and trigger unnecessary market volatility.",
+    "content_ta": "Federal Reserve-ன் வட்டி விகித உயர்வு நடவடிக்கைகள் குறித்து விமர்சனங்கள் எழுந்துள்ளன. விரைவில் திருத்தப்பட உள்ள PCE தரவுகளின் அடிப்படையில் இந்த முடிவுகள் எடுக்கப்படுவது அதன் நம்பகத்தன்மையை கேள்விக்குள்ளாக்குவதோடு, சந்தையில் தேவையற்ற ஏற்றத்தாழ்வுகளை ஏற்படுத்தக்கூடும் என்று எச்சரிக்கப்படுகிறது.",
+    "slug": "federal-reserve-faces-scrutiny-over-potential-rate-hike-based-on-soon-to-be-revised-pce-data"
+  },
+  {
+    "id": "9e87d37f636b6e5c",
+    "title": "Trump suggests US could maintain presence in Iran for oil access",
+    "summary": "Trump's proposal could heighten geopolitical tensions, impacting global oil markets and influencing US foreign policy and election dynamics.\nThe post Trump suggests US could maintain presence in Iran for oil access appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/trump-iran-oil-presence-venezuela-model/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Donald Trump",
+      "United States",
+      "Iran"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T16:44:29.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Donald Trump has suggested that the United States could maintain a presence in Iran to secure access to oil resources. This proposal has raised concerns about potential geopolitical tensions, broader impacts on global oil markets, and significant implications for United States foreign policy.",
+    "content_ta": "எண்ணெய் வளங்களை அணுகுவதற்காக Iran-ல் தனது இருப்பைத் தொடரலாம் என்று Donald Trump பரிந்துரைத்துள்ளார். இந்த முன்மொழிவு புவிசார் அரசியல் பதட்டங்களை அதிகரிக்கக்கூடும் என்றும், உலகளாவிய எண்ணெய் சந்தைகளில் தாக்கத்தை ஏற்படுத்தும் என்றும் கவலைகளை எழுப்பியுள்ளது.",
+    "slug": "trump-suggests-us-could-maintain-presence-in-iran-for-oil-access"
+  },
+  {
+    "id": "0506956912e4b12c",
+    "title": "Costco limits motor oil sales amid US-Iran conflict shipping disruptions",
+    "summary": "Rationing highlights vulnerabilities in global supply chains, potentially leading to increased costs and economic instability amid geopolitical tensions.\nThe post Costco limits motor oil sales amid US-Iran conflict shipping disruptions appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/costco-limits-motor-oil-sales-amid-us-iran-conflict-shipping-disruptions/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Costco",
+      "United States",
+      "Iran"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T16:42:47.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Costco has placed limits on motor oil sales due to shipping disruptions stemming from the ongoing US-Iran conflict. This rationing highlights growing vulnerabilities in global supply chains caused by geopolitical tensions, which threaten to increase operational costs and bring economic instability to markets worldwide.",
+    "content_ta": "US-Iran மோதல் காரணமாக ஏற்பட்ட கப்பல் போக்குவரத்து தடைகள் காரணமாக, Costco நிறுவனம் மோட்டார் ஆயில் விற்பனை மீது கட்டுப்பாடுகளை விதித்துள்ளது. புவிசார் அரசியல் மோதல்களால் உலகளாவிய விநியோகச் சங்கிலியில் ஏற்பட்டுள்ள பலவீனங்களை இந்த நடவடிக்கை வெளிக்காட்டுவதுடன், செலவுகள் அதிகரிக்கவும் பொருளாதார ஸ்திரமின்மை ஏற்படவும் வழிவகுக்கலாம்.",
+    "slug": "costco-limits-motor-oil-sales-amid-us-iran-conflict-shipping-disruptions"
+  },
+  {
+    "id": "002607f270909f1f",
+    "title": "Bill Ackman trims Big Tech position to invest in AI contenders",
+    "summary": "Ackman's shift highlights a strategic pivot towards AI, emphasizing the potential for sustainable growth and competitive advantage in tech investments.\nThe post Bill Ackman trims Big Tech position to invest in AI contenders appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/ackman-trims-big-tech-ai-contenders/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Bill Ackman"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T16:35:14.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Bill Ackman has reduced his holdings in major technology companies to reallocate capital into emerging artificial intelligence contenders. This strategic shift reflects a growing investor focus on the long-term growth potential and competitive advantages offered by artificial intelligence innovations within the technology sector.",
+    "content_ta": "Bill Ackman தனது Big Tech பங்குகenக் குறைத்து, புதிய AI நிறுவனங்களில் முதலீடு செய்துள்ளார். இந்த உத்தி ரீதியான மாற்றம் தொழில்நுட்பத் துறையில் sustainable growth மற்றும் competitive advantage மீதான முதலீட்டாளர்களின் கவனத்தை வெளிப்படுத்துகிறது.",
+    "slug": "bill-ackman-trims-big-tech-position-to-invest-in-ai-contenders"
+  },
+  {
+    "id": "203e6ea9322bb59a",
+    "title": "S&P 500 CAPE ratio hits 41, its highest level since the dot-com bubble",
+    "summary": "The elevated CAPE ratio suggests potential for weak long-term equity returns, echoing past market overvaluation concerns and economic risks.\nThe post S&P 500 CAPE ratio hits 41, its highest level since the dot-com bubble appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/sp500-cape-ratio-41-highest-since-2000/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "S&P 500"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T16:34:23.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "The S&P 500 CAPE ratio has reached 41, marking its highest level since the dot-com bubble. This elevated valuation points to potential risks for weak long-term equity returns, reflecting historical concerns over market overvaluation and broader economic conditions.",
+    "content_ta": "S&P 500-ன் CAPE விகிதம் 41-ஐ எட்டியுள்ளது. இது டாட்-காம் குமிழிக்குப் பிறகு பதிவாகும் மிக உயர்ந்த நிலையாகும். இந்த உயர்வானது நீண்ட கால பங்குகளின் வருவாயில் பலவீனமான சாத்தியக்கூறுகளைச் சுட்டிக்காட்டுகிறது, இது கடந்த கால சந்தை மிகமதிப்பீடு மற்றும் பொருளாதார அபாயங்கள் பற்றிய கவலைகளை எதிரொலிக்கிறது.",
+    "slug": "s-p-500-cape-ratio-hits-41-its-highest-level-since-the-dot-com-bubble"
+  },
+  {
+    "id": "518f594573fd79fd",
+    "title": "Ukrainian drone evades Russian helicopter fire, strikes sanctioned oil tanker near Sochi",
+    "summary": "Ukraine's drone strikes on Russia's shadow fleet highlight the growing impact of low-cost unmanned systems in disrupting global oil logistics.\nThe post Ukrainian drone evades Russian helicopter fire, strikes sanctioned oil tanker near Sochi appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/ukrainian-drone-strikes-russian-oil-tanker/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Ukraine",
+      "Russia",
+      "Sochi"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T16:26:31.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "A Ukrainian drone successfully evaded Russian helicopter fire and struck a sanctioned oil tanker near Sochi. This incident highlights the growing strategic impact of low-cost unmanned systems in disrupting maritime oil logistics and targeting Russia's shadow fleet.",
+    "content_ta": "சோச்சி நகருக்கு அருகில் உள்ள sanctioned oil tanker மீது உக்ரைன் drone தாக்குதல் நடத்தியது. இந்தத் தாக்குதல் Russian ஹெலிகாப்டரின் தாக்குதலில் இருந்து தப்பியது. குறைந்த செலவிலான unmanned systems மூலம் கடல்வழி oil logistics மற்றும் Russia-வின் நிழல் கப்பற்படையை சீர்குலைப்பதில் உக்ரைனின் அதிகரித்து வரும் செல்வாக்கை இந்தச் சம்பவம் எடுத்துக்காட்டுகிறது.",
+    "slug": "ukrainian-drone-evades-russian-helicopter-fire-strikes-sanctioned-oil-tanker-near-sochi"
+  },
+  {
+    "id": "8344707545b51fe4",
+    "title": "Youri Tielemans covers 6.2km in first half vs. Man City for Man United",
+    "summary": "Tielemans' dynamic playmaking and endurance could redefine United's midfield synergy, enhancing both defensive stability and offensive creativity.\nThe post Youri Tielemans covers 6.2km in first half vs. Man City for Man United appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/tielemans-manchester-united-derby-performance/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Youri Tielemans",
+      "Man United",
+      "Man City"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T16:24:45.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "In a recent match, Youri Tielemans delivered a notable performance for Man United against Man City, covering 6.2 kilometers in the first half alone. This impressive display of endurance and playmaking highlights his potential to strengthen the team's midfield, offering a balance of defensive stability and creative support.",
+    "content_ta": "சமீபத்திய போட்டியில் Man United அணிக்காக விளையாடிய Youri Tielemans, Man City அணிக்கு எதிரான ஆட்டத்தின் முதல் பாதியில் மட்டும் 6.2 கிலோமீட்டர் தூரம் ஓடி அசத்தினார். இவரது இந்த அற்புதமான அர்ப்பணிப்பும் ஆட்டத்திறனும் அணியின் நடுவரிசையை மேலும் பலப்படுத்தும் என்று எதிர்பார்க்கப்படுகிறது.",
+    "slug": "youri-tielemans-covers-6-2km-in-first-half-vs-man-city-for-man-united"
+  },
+  {
+    "id": "5e8130335834f33b",
+    "title": "CME Group faces unusual position amid $93T trading boom",
+    "summary": "CME's legal battle could reshape regulatory landscapes, influencing the future of crypto derivatives and competitive dynamics in global markets.\nThe post CME Group faces unusual position amid $93T trading boom appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/cme-group-93-trillion-trading-boom/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "CME Group"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T16:23:43.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "CME Group is currently facing an unusual market position during a massive $93 trillion trading boom. This situation highlights ongoing legal battles and regulatory challenges that could significantly impact the future of crypto derivatives and shape competitive dynamics across global financial markets as trading volumes continue to surge.",
+    "content_ta": "CME Group நிறுவனமானது $93 டிரில்லியன் வர்த்தக எழுச்சியின் போது ஒரு அசாதாரண நிலைப்பாட்டை எதிர்கொள்கிறது. கிரிப்டோ டெரிவேட்டிவ்களின் எதிர்காலம் மற்றும் உலகளாவிய சந்தைகளில் போட்டித் தன்மையை வடிவமைக்கக்கூடிய சட்டப் போராட்டங்கள் மற்றும் ஒழுங்குமுறை சவால்களை இந்தச் சூழல் வெளிச்சம் போட்டுக் காட்டுகிறது.",
+    "slug": "cme-group-faces-unusual-position-amid-93t-trading-boom"
+  },
+  {
+    "id": "d4ab208f17da230c",
+    "title": "Anthropic selects Nasdaq for IPO listing, targeting $2 trillion valuation",
+    "summary": "Anthropic's IPO could set a new benchmark for AI valuations, influencing investor expectations and market dynamics in the tech sector.\nThe post Anthropic selects Nasdaq for IPO listing, targeting $2 trillion valuation appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/anthropic-nasdaq-ipo-listing-2026/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Anthropic",
+      "Nasdaq"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T16:20:37.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Anthropic has reportedly selected Nasdaq as the venue for its upcoming initial public offering, aiming for a massive two trillion dollar valuation. This anticipated move could establish a major benchmark for artificial intelligence company valuations, significantly impacting broader investor expectations and market dynamics across the technology sector.",
+    "content_ta": "Anthropic நிறுவனம் தனது வரவிருக்கும் IPO-விற்காக Nasdaq பங்கை தேர்வு செய்துள்ளதாகத் தகவல்கள் வெளியாகியுள்ளன. இந்த நடவடிக்கை AI துறை சார்ந்த நிறுவனங்களின் மதிப்பில் ஒரு புதிய மைல்கல்லாக அமையும் என்றும், தொழில்நுட்பத் துறையில் முதலீட்டாளர்களின் எதிர்பார்ப்புகளை இது பெரிதும் பாதிக்கும் என்றும் எதிர்பார்க்கப்படுகிறது.",
+    "slug": "anthropic-selects-nasdaq-for-ipo-listing-targeting-2-trillion-valuation"
+  },
+  {
+    "id": "d1561942ddd4a2b0",
+    "title": "Trump urged to address AI risks in meeting with Xi Jinping, drawing parallels to nuclear arms talks",
+    "summary": "AI cooperation between the US and China could mitigate global risks, but enforcement challenges complicate achieving a robust framework.\nThe post Trump urged to address AI risks in meeting with Xi Jinping, drawing parallels to nuclear arms talks appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/trump-ai-risks-xi-jinping-coons/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Donald Trump",
+      "Xi Jinping",
+      "United States",
+      "China"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T16:20:19.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Donald Trump has been urged to address artificial intelligence risks during a meeting with Xi Jinping, with discussions drawing parallels to historical nuclear arms talks. Experts suggest that cooperation between the United States and China on AI could help mitigate global risks, though significant enforcement challenges remain in establishing a robust international framework.",
+    "content_ta": "Donald Trump மற்றும் Xi Jinping இடையேயான சந்திப்பின் போது செயற்கை நுண்ணறிவு (AI) ஆபத்துகள் குறித்து விவாதிக்க வேண்டும் என வலியுறுத்தப்பட்டுள்ளது. இது வரலாற்று சிறப்புமிக்க அணு ஆயுதப் பேச்சுவார்த்தைகளுடன் ஒப்பிடப்படுகிறது. AI விவகாரத்தில் United States மற்றும் China ஆகிய நாடுகள் ஒத்துழைப்பது உலகளாவிய அபாயங்களைக் குறைக்க உதவும் என்றாலும், உறுதியான கட்டமைப்பை உருவாக்குவதில் கடுமையான சவால்கள் உள்ளன.",
+    "slug": "trump-urged-to-address-ai-risks-in-meeting-with-xi-jinping-drawing-parallels-to-nuclear-arms-talks"
+  },
+  {
+    "id": "54f19e7e52023723",
+    "title": "Trump says Iran is seeking a deal and the war could end soon",
+    "summary": "The potential resolution of the conflict could stabilize global energy markets, impacting economic conditions and political dynamics significantly.\nThe post Trump says Iran is seeking a deal and the war could end soon appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/trump-iran-deal-war-end-midterms/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Trump",
+      "Iran"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T16:13:25.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Former U.S. President Trump stated that Iran is actively seeking a deal, suggesting that the ongoing conflict could come to an end soon. This potential diplomatic resolution could have significant positive implications for global energy markets, easing economic pressures and shifting geopolitical dynamics in the region.",
+    "content_ta": "முன்னாள் U.S. அதிபர் Trump, Iran ஒரு ஒப்பந்தத்தை நாடி வருவதாகவும், நடந்து வரும் போர் விரைவில் முடிவுக்கு வரக்கூடும் என்றும் தெரிவித்துள்ளார். இந்த சாத்தியமான ராஜீத தீர்வு உலகளாவிய எரிசக்தி சந்தைகளில் குறிப்பிடத்தக்க தாக்கத்தை ஏற்படுத்தி, பொருளாதார அழுத்தங்களைக் குறைத்து, பிராந்தியத்தில் புவிசார் அரசியல் இயக்கவியலை மாற்றியமைக்கக்கூடும்.",
+    "slug": "trump-says-iran-is-seeking-a-deal-and-the-war-could-end-soon"
+  },
+  {
+    "id": "0d6888943cb1ac6a",
+    "title": "Lyft enters robotaxi market with Waymo partnership launching in Nashville",
+    "summary": "Lyft's partnership with Waymo in Nashville could reshape urban mobility, intensifying competition with Uber and influencing future city expansions.\nThe post Lyft enters robotaxi market with Waymo partnership launching in Nashville appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/lyft-waymo-robotaxi-partnership-nashville/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Lyft",
+      "Waymo",
+      "Nashville",
+      "Uber"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T16:11:13.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Lyft is entering the robotaxi market through a new partnership with Waymo, starting with a launch in Nashville. This collaboration marks a significant step for Lyft in autonomous vehicle integration and intensifies competition in the urban mobility sector, potentially paving the way for future expansions into other cities.",
+    "content_ta": "Nashville நகரில் Waymo நிறுவனத்துடனான புதிய கூட்டுச்சேர்க்கை மூலம் Lyft நிறுவனம் ரோபோடாக்ஸி சந்தையில் நுழைந்துள்ளது. இந்த ஒத்துழைப்பு தன்னாட்சி வாகன ஒருங்கிணைப்பில் Lyft நிறுவனத்திற்கு ஒரு முக்கிய படியாகும் மற்றும் நகர்ப்புற போக்குவரத்து துறையில் போட்டிய தீவிரப்படுத்துகிறது.",
+    "slug": "lyft-enters-robotaxi-market-with-waymo-partnership-launching-in-nashville"
+  },
+  {
+    "id": "0abc3492095fb755",
+    "title": "Fed reaffirms 2% inflation target amid speculation of rate hikes",
+    "summary": "The Fed's stance may lead to sustained restrictive monetary policy, impacting economic growth and market expectations for future rate cuts.\nThe post Fed reaffirms 2% inflation target amid speculation of rate hikes appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/fed-reaffirms-2-inflation-target-amid-speculation-of-rate-hikes/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Federal Reserve",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T16:07:04.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "The Federal Reserve has reaffirmed its commitment to the two percent inflation target despite ongoing market speculation regarding potential interest rate hikes. This firm stance suggests that monetary policy may remain restrictive for a longer period, which could influence broader economic growth and alter market expectations surrounding future interest rate reductions.",
+    "content_ta": "வட்டி விகித உயர்வு குறித்த சந்தை யூகங்களுக்கு மத்தியில், Federal Reserve தனது இரண்டு சதவீத பணவீக்க இலக்கை மீண்டும் உறுதிப்படுத்தியுள்ளது. இந்த கடுமையான நிலைப்பாடு, பணவியல் கொள்கை நீண்ட காலத்திற்கு கட்டுப்பாட்டுடன் இருக்கக்கூடும் என்பதைக் காட்டுகிறது, இது பொருளாதார வளர்ச்சியையும் எதிர்கால வட்டி விகிதக் குறைப்பு குறித்த சந்தையின் எதிர்பார்ப்புகளையும் பாதிக்கலாம்.",
+    "slug": "fed-reaffirms-2-inflation-target-amid-speculation-of-rate-hikes"
+  },
+  {
+    "id": "2b3b3b5188f357b3",
+    "title": "JPMorgan notes Tesla to capture nearly all robotaxi revenue",
+    "summary": "Tesla's dominance in robotaxi revenue could reshape urban transport, but regulatory and safety challenges may impact its growth trajectory.\nThe post JPMorgan notes Tesla to capture nearly all robotaxi revenue appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/jpmorgan-tesla-robotaxi-revenue-projection/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "JPMorgan",
+      "Tesla"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T16:03:50.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "JPMorgan reports that Tesla is positioned to capture nearly all revenue in the emerging robotaxi market. While this dominance could significantly transform urban transportation, the company still faces notable regulatory and safety hurdles that may affect its future growth trajectory in the sector.",
+    "content_ta": "எமர்ஜிங் ரோபோடாக்ஸி சந்தையில் கிட்டத்தட்ட அனைத்து வருவாயையும் கைப்பற்ற Tesla தயாராக இருப்பதாக JPMorgan தெரிவித்துள்ளது. இந்த ஆதிக்கம் நகர்ப்புற போக்குவரத்தை கணிசமாக மாற்றக்கூடும் என்றாலும், அதன் எதிர்கால வளர்ச்சிப் பாதையை பாதிக்கக்கூடிய குறிப்பிடத்தக்க ஒழுங்குமுறை மற்றும் பாதுகாப்பு சவால்களை நிறுவனம் இன்னும் எதிர்கொள்கிறது.",
+    "slug": "jpmorgan-notes-tesla-to-capture-nearly-all-robotaxi-revenue"
+  },
+  {
+    "id": "3a8dc58ede125553",
+    "title": "Base invites projects to tokenize non-US equities from global markets",
+    "summary": "Base's initiative could democratize global equity access, enhance DeFi integration, and challenge traditional market barriers for investors.\nThe post Base invites projects to tokenize non-US equities from global markets appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/base-tokenize-non-us-equities-global-markets/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Base"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T16:01:35.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Base has invited blockchain projects to tokenize non-US equities from global markets. This initiative aims to expand access to global financial assets, improve decentralized finance integration, and help investors overcome traditional market barriers. By bridging traditional equities with blockchain technology, the platform seeks to open up new opportunities for global market participants.",
+    "content_ta": "குளோபல் மார்க்கெட்டுகளில் உள்ள நான்-US ஈக்விட்டிகளை டோக்கனைஸ் செய்ய பிளாக்செயின் ப்ராஜெக்ட்டுகளுக்கு Base அழைப்பு விடுத்துள்ளது. இந்த புதிய முயற்சியானது உலகளாவிய நிதி சொத்துக்களுக்கான அணுகலை விரிவுபடுத்துவதையும், டிசென்ட்ரலைஸ்டு ஃபைனான்ஸ் ஒருங்கிணைப்பை மேம்படுத்துவதையும் நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "base-invites-projects-to-tokenize-non-us-equities-from-global-markets"
+  },
+  {
+    "id": "ecfad3c65682f5a1",
+    "title": "Valencia sacks head coach Carlos Corberan and CEO Ron Gourlay after winless La Liga start",
+    "summary": "Valencia's leadership overhaul highlights ongoing instability, risking further disruption and challenges in achieving long-term success.\nThe post Valencia sacks head coach Carlos Corberan and CEO Ron Gourlay after winless La Liga start appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/valencia-sacks-corberan-gourlay-la-liga/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Valencia",
+      "Carlos Corberan",
+      "Ron Gourlay"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T15:29:22.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Valencia has dismissed head coach Carlos Corberan and CEO Ron Gourlay following a winless start to the La Liga season. This leadership overhaul highlights ongoing instability at the club, risking further disruption and challenges in achieving long-term success.",
+    "content_ta": "லெ லீகா தொடக்க ஆட்டங்களில் வெற்றி பெறாததைத் தொடர்ந்து, Valencia தனது தலைமைப் பயிற்சியாளர் Carlos Corberan மற்றும் CEO Ron Gourlay ஆகியோரைப் பணிநீக்கம் செய்துள்ளது. இந்த நிர்வாக மாற்றமானது கிளப்பில் நிலவும் தொடர்ச்சியான உறுதியற்ற தன்மையை வெளிப்படுத்துவதோடு, நீண்டகால வெற்றியை அடைவதில் மேலும் பல சவால்களை உருவாக்குகிறது.",
+    "slug": "valencia-sacks-head-coach-carlos-corberan-and-ceo-ron-gourlay-after-winless-la-liga-start"
+  },
+  {
+    "id": "cfab525c3a805c39",
+    "title": "TRATON selects Ripple Treasury to replace spreadsheet-based forecasting across Volkswagen’s truck division",
+    "summary": "The integration of Ripple Treasury in TRATON signifies a broader trend towards AI-driven financial management, enhancing efficiency and compliance.\nThe post TRATON selects Ripple Treasury to replace spreadsheet-based forecasting across Volkswagen’s truck division appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/traton-selects-ripple-treasury-forecasting/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "TRATON",
+      "Ripple Treasury",
+      "Volkswagen"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T15:26:52.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "TRATON has chosen Ripple Treasury to modernize and replace its spreadsheet-based financial forecasting across Volkswagen’s truck division. This integration highlights the growing adoption of advanced financial management solutions within major automotive and industrial sectors to improve operational efficiency and compliance.",
+    "content_ta": "Volkswagen-ன் டிரக் பிரிவில் ஸ்பிரெட்ஷீட் அடிப்படையிலான நிதி முன்னறிவிப்புகளை மாற்றி நவீனமயமாக்க TRATON நிறுவனம் Ripple Treasury-ஐ தேர்ந்தெடுத்துள்ளது. இந்த ஒருங்கிணைப்பு, பெரிய வாகன மற்றும் தொழில்துறை துறைகளில் செயல்பாட்டு திறனை மேம்படுத்த மேம்பட்ட நிதி மேலாண்மை தீர்வுகளின் வளர்ந்து வரும் ஏற்றுக்கொள்ளலைக் காட்டுகிறது.",
+    "slug": "traton-selects-ripple-treasury-to-replace-spreadsheet-based-forecasting-across-volkswagen-s-truck"
+  },
+  {
+    "id": "d9aed2952db6aafb",
+    "title": "FC Barcelona leads 2-0 at halftime against Levante as La Masia graduates shine",
+    "summary": "Barcelona's reliance on La Masia talent ensures sustained success and competitive edge, highlighting the club's strategic youth development focus.\nThe post FC Barcelona leads 2-0 at halftime against Levante as La Masia graduates shine appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/barcelona-leads-levante-halftime-la-liga/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "FC Barcelona",
+      "Levante",
+      "La Masia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T15:14:27.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "FC Barcelona secured a strong 2-0 lead at halftime against Levante, driven by the impressive performances of several La Masia academy graduates. This match underscores the club's ongoing strategic focus on youth development, which continues to provide a vital competitive edge and ensure sustained success on the field for the team.",
+    "content_ta": "Levante அணிக்கு எதிரான போட்டியில் halftime-ல் FC Barcelona 2-0 என்ற கணக்கில் முன்னிலையில் உள்ளது. La Masia அகாடமி வீரர்களின் சிறப்பான ஆட்டம் அணியின் வெற்றிக்கு பெரிதும் உதவுகிறது. இது klub-ன் இளையோர் வளர்ச்சித் திட்டத்தின் முக்கியத்துவத்தை மீண்டும் நிரூபிக்கிறது.",
+    "slug": "fc-barcelona-leads-2-0-at-halftime-against-levante-as-la-masia-graduates-shine"
+  },
+  {
+    "id": "1bfed4be5624975a",
+    "title": "Alibaba and Amazon are spending billions on AI infrastructure, and the bills are coming due",
+    "summary": "The massive AI infrastructure investments by Alibaba and Amazon could reshape market dynamics, but they risk financial strain if returns falter.\nThe post Alibaba and Amazon are spending billions on AI infrastructure, and the bills are coming due appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/alibaba-amazon-ai-spending-efficiency/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Alibaba",
+      "Amazon"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T15:10:56.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Alibaba and Amazon are investing billions of dollars into artificial intelligence infrastructure. While these massive financial commitments are positioned to reshape technology markets, experts note that the mounting costs could create significant financial strain for both companies if their anticipated returns on investment fail to materialize in the near future.",
+    "content_ta": "Alibaba மற்றும் Amazon நிறுவனங்கள் AI உள்கட்டமைப்புக்காக பல பில்லியன் டாலர்களை முதலீடு செய்து வருகின்றன. இந்த மிகப்பெரிய நிதி ஒதுக்கீடுகள் தொழில்நுட்ப சந்தைகளை மாற்றியமைக்கக் கூடும் என்றாலும், எதிர்பார்த்த வருமானம் கிடைக்கவில்லை என்றால் இந்த நிறுவனங்களுக்கு கடுமையான நிதிச்சுமை ஏற்படக்கூடும் என்று நிபுணர்கள் குறிப்பிடுகின்றனர்.",
+    "slug": "alibaba-and-amazon-are-spending-billions-on-ai-infrastructure-and-the-bills-are-coming-due"
+  },
+  {
+    "id": "2c66d1d95a6822f0",
+    "title": "XRP Price Prediction: Bulls vs. Bears Ahead Of FOMC Week",
+    "summary": "The post XRP Price Prediction: Bulls vs. Bears Ahead Of FOMC Week appeared first on Coinpedia Fintech News\nXRP is trading near $1.35, down 1.9% today though still up 4.7% over the past week. The token is testing a level that mattered heading into the weekend, last week’s key support zone around $1.355, and slipping below it now, though not decisively enough yet to call the setup broken. According to a crypto analyst …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/news/xrp-price-prediction-bulls-vs-bears-ahead-of-fomc-week/",
+    "source": "Coinpedia",
+    "tags": [
+      "XRP",
+      "FOMC"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T17:07:26.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "XRP is trading near $1.35, experiencing a slight decline of 1.9% for the day while maintaining a 4.7% gain over the past week. The cryptocurrency is currently testing a crucial support zone around $1.355. Market participants are closely watching the price action as bulls and bears battle for control ahead of the upcoming FOMC week.",
+    "content_ta": "XRP விலை தற்போது $1.35 அருகில் வர்த்தகமாகி வருகிறது. இன்று 1.9% சரிவைக் கண்டாலும், கடந்த வாரத்தில் 4.7% லாபத்தைத் ধরে রেখেছে. இந்த கிரிப்டோகரன்சி தற்போது $1.355 என்ற முக்கியமான ஆதரவு எல்லையைச் சோதித்து வருகிறது. வரவிருக்கும் FOMC வாரத்திற்கு முன்பாக சந்தை நிலவரத்தை புல்களும் பியர்களும் உன்னிப்பாக கவனித்து வருகின்றன.",
+    "slug": "xrp-price-prediction-bulls-vs-bears-ahead-of-fomc-week"
+  },
+  {
+    "id": "9c791d390c767a09",
+    "title": "Solana Mobile Suspends Marketing Email Account After Unauthorized Access",
+    "summary": "Solana Mobile disabled its Brevo marketing email account after unauthorized access in a third-party breach. No emails appear to have been sent from the account, and the company says it never asks for seed phrases or private keys.\nThe post Solana Mobile Suspends Marketing Email Account After Unauthorized Access appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/09/13/solana-mobile-suspends-marketing-email-account-after-unauthorized-access/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "Solana Mobile",
+      "Brevo"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T16:55:10.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Solana Mobile suspended its Brevo marketing email account following an unauthorized access incident linked to a third-party breach. The company confirmed that no emails appear to have been sent from the compromised account. Solana Mobile also reminded users that it never requests sensitive information such as seed phrases or private keys.",
+    "content_ta": "Solana Mobile தனது Brevo மார்க்கெட்டிங் ஈமெயில் கணக்கில் அனுமதியின்றி நுழைந்ததை அடுத்து அதை தற்காலிகமாக முடக்கியுள்ளது. மூன்றாம் தரப்பு தரவு மீறல் காரணமாக இந்த சம்பவம் நடந்துள்ளது. பாதிக்கப்பட்ட கணக்கிலிருந்து எந்தவொரு ஈமெயிலும் அனுப்பப்படவில்லை என்பதை நிறுவனம் உறுதிப்படுத்தியுள்ளது. மேலும், பயனர்கள் எப்போதுமே தங்கள் seed phrases அல்லது private keys போன்ற ரகசிய தகவல்களைப் பகிர்ந்துகொள்ளும்படி தாங்கள் கேட்க மாட்டோம் என்றும் Solana Mobile தெரிவித்துள்ளது.",
+    "slug": "solana-mobile-suspends-marketing-email-account-after-unauthorized-access"
+  },
+  {
+    "id": "d902394820a6daf9",
+    "title": "Zcash Miners Quietly Crushing Bitcoin on Profitability",
+    "summary": "Amidst the ongoing price appreciation of ZCash (ZEC), the privacy coin’s miners are also experiencing a major redemption arc.",
+    "hasSummary": true,
+    "link": "https://zycrypto.com/zcash-miners-quietly-crushing-bitcoin-on-profitability/",
+    "source": "ZyCrypto",
+    "tags": [
+      "Zcash",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-13T15:56:09.000Z",
+    "fetchedAt": "2026-09-13T17:38:06.476Z",
+    "isDuplicateOf": null,
+    "content": "Zcash miners are experiencing a major boost in profitability amid the ongoing price appreciation of the privacy cryptocurrency ZEC. As market conditions improve, miners focusing on Zcash are seeing significant gains, quietly outperforming their counterparts in the Bitcoin mining sector in terms of relative profitability.",
+    "content_ta": "தொடர்ந்து உயர்ந்துவரும் ZEC விலை காரணமாக Zcash மைனர்களின் லாபம் கணிசமாக அதிகரித்து வருகிறது. சந்தை நிலைமைகள் மேம்பட்டு வருவதால், Zcash மைனர்கள் மிகப்பெரிய லாபத்தை ஈட்டி வருகின்றனர். இது Bitcoin மைனர்களின் லாபத்திறனுடன் ஒப்பிடும்போது அவர்களுக்கு குறிப்பிடத்தக்க முன்னிலையை அளித்துள்ளது.",
+    "slug": "zcash-miners-quietly-crushing-bitcoin-on-profitability"
   }
 ]
