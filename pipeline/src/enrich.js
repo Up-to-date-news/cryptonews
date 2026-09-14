@@ -123,6 +123,21 @@ function isDailyQuotaError(err) {
   return /PerDay/i.test(err.message ?? '');
 }
 
+// Observed in production at a low but real rate (~3% of translated
+// articles): Gemini occasionally leaks a stray character from a
+// different Indic script (Bengali, Devanagari) or a lone Latin letter
+// fused directly into a Tamil word — e.g. "சmத்திக" instead of
+// "சமீபத்திய". Neither ever belongs in real Tamil output (unlike
+// intentional English proper nouns, which the prompt asks for as whole
+// words), so treat either as a bad generation worth retrying rather than
+// silently publishing corrupted text.
+const WRONG_SCRIPT_RE = /[ঀ-৿ऀ-ॿ]/;
+const FUSED_LATIN_LETTER_RE = /[஀-௿][a-zA-Z](?![a-zA-Z])|(?<![a-zA-Z])[a-zA-Z][஀-௿]/;
+
+function isCorruptedTamil(text) {
+  return Boolean(text) && (WRONG_SCRIPT_RE.test(text) || FUSED_LATIN_LETTER_RE.test(text));
+}
+
 async function generateContent(item, modelName) {
   const client = getClient();
   const model = client.getGenerativeModel({
@@ -138,9 +153,13 @@ async function generateContent(item, modelName) {
     `generateContent for "${item.title}"`
   );
   const parsed = JSON.parse(result.response.text());
+  const contentTa = parsed.content_ta?.trim() ?? '';
+  if (isCorruptedTamil(contentTa)) {
+    throw new Error(`Corrupted Tamil output for "${item.title}": ${contentTa.slice(0, 80)}`);
+  }
   return {
     content: parsed.content?.trim() ?? '',
-    content_ta: parsed.content_ta?.trim() ?? '',
+    content_ta: contentTa,
     tags: Array.isArray(parsed.tags) ? parsed.tags.map((t) => t.trim()).filter(Boolean) : [],
   };
 }

@@ -1,5 +1,245 @@
 [
   {
+    "id": "a1313e12-c24c-4181-bc47-a97c8301dba9",
+    "slug": "data-insights-viral-fomo-app-climbs-the-app-store-ranking",
+    "title": "Data & Insights: Viral fomo app climbs the App Store Ranking",
+    "tags": [
+      "The Block",
+      "fomo",
+      "Robinhood",
+      "Raydium",
+      "StonkFun"
+    ],
+    "source": "The Block",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-14T21:15:00.000Z"
+  },
+  {
+    "id": "ea49adaf-0c87-4270-85dc-87f6753ec082",
+    "slug": "tldr-ai-amodei-slows-frontier-arc-agi-4-cursor-projects",
+    "title": "TLDR AI: Amodei slows frontier, ARC-AGI-4, Cursor Projects",
+    "tags": [
+      "Anthropic",
+      "Cursor",
+      "OpenAI",
+      "SoftBank"
+    ],
+    "source": "TLDR AI",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-14T19:44:00.000Z"
+  },
+  {
+    "id": "ca489203-1344-404e-982b-380e3136280e",
+    "slug": "pump-strikes-back",
+    "title": "Pump Strikes Back",
+    "tags": [
+      "Trump",
+      "Solana",
+      "StonkFun",
+      "Pump.fun",
+      "Clarity Act"
+    ],
+    "source": "0xResearch",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-14T19:30:00.000Z"
+  },
+  {
+    "id": "c1cd6314-00ff-4610-a983-d40758ab658b",
+    "slug": "tldr-hardware-tesla-roadster-apple-neural-engine-and-more",
+    "title": "TLDR Hardware: Tesla Roadster, Apple Neural Engine, and More",
+    "tags": [
+      "Tesla",
+      "Apple",
+      "IonQ",
+      "Georgia Tech"
+    ],
+    "source": "TLDR Hardware",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-14T19:13:00.000Z"
+  },
+  {
+    "id": "579e4b1b-d3a2-48d0-beb6-5d608a2516ff",
+    "slug": "tldr-fintech-openai-chatgpt-for-financial-services-robinhood-in-oura-ipo",
+    "title": "TLDR Fintech: OpenAI ChatGPT for Financial Services & Robinhood in Oura IPO",
+    "tags": [
+      "OpenAI",
+      "Robinhood",
+      "Oura",
+      "Chime",
+      "Stride Bank",
+      "Nubank",
+      "Lead Bank",
+      "Nasdaq",
+      "Kraken"
+    ],
+    "source": "TLDR Fintech",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-14T19:10:00.000Z"
+  },
+  {
+    "id": "2e73ae3d-a613-4058-95e2-2a8c9a4123bc",
+    "slug": "tldr-information-security",
+    "title": "TLDR Information Security",
+    "tags": [
+      "Trezor",
+      "Brevo",
+      "GitLab",
+      "Revolut",
+      "Cloudflare"
+    ],
+    "source": "TLDR InfoSec",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-14T19:04:00.000Z"
+  },
+  {
+    "id": "55b45f92-7885-4c31-ac9e-06a9533fd51c",
+    "slug": "tldr-it-newsletter-ai-control-plane-windows-audio-bugs-and-agents-api",
+    "title": "TLDR IT Newsletter - AI Control Plane, Windows Audio Bugs, and Agents API",
+    "tags": [
+      "Salesforce",
+      "Microsoft",
+      "OpenAI",
+      "Boomi",
+      "Claude"
+    ],
+    "source": "TLDR IT",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-14T18:16:00.000Z"
+  },
+  {
+    "id": "a14874c7-811f-411b-b1e4-959383708d63",
+    "slug": "tldr-founders-newsletter-compounding-capital-and-startup-strategies",
+    "title": "TLDR Founders Newsletter: Compounding Capital and Startup Strategies",
+    "tags": [
+      "Paul Graham",
+      "Evernote",
+      "Bending Spoons"
+    ],
+    "source": "TLDR Founders",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-14T18:02:00.000Z"
+  },
+  {
+    "id": "9c2e25a7-4b4f-4e37-b7db-019204cbdc12",
+    "slug": "tldr-crypto-nasdaq-invests-100m-in-payward-moneygram-stablecoin-card-more",
+    "title": "TLDR Crypto: Nasdaq Invests $100M in Payward, MoneyGram Stablecoin Card & More",
+    "tags": [
+      "Nasdaq",
+      "Payward",
+      "Kraken",
+      "Coinbase",
+      "MoneyGram"
+    ],
+    "source": "TLDR Crypto",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-14T17:49:00.000Z"
+  },
+  {
+    "id": "4ae8b0d7-91b5-4907-86ea-68801cac3bda",
+    "slug": "revolut-data-leak-and-crypto-market-updates",
+    "title": "Revolut Data Leak and Crypto Market Updates",
+    "tags": [
+      "Bitcoin",
+      "Revolut",
+      "Federal Reserve",
+      "North Korea",
+      "United States",
+      "Anthropic",
+      "OpenAI"
+    ],
+    "source": "CMC Spotlight",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-14T17:27:00.000Z"
+  },
+  {
+    "id": "f64478b2-7df4-40d5-bee2-56c66589ee5a",
+    "slug": "tldr-dev-newsletter-smart-model-routing-agent-harnesses-and-code-sloppiness",
+    "title": "TLDR Dev Newsletter: Smart Model Routing, Agent Harnesses, and Code Sloppiness",
+    "tags": [
+      "monday.com",
+      "TLDR Dev"
+    ],
+    "source": "TLDR Dev",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-14T17:11:00.000Z"
+  },
+  {
+    "id": "44a10ed5-cc1c-445f-b252-84d6050bd8ba",
+    "slug": "tldr-devops-spacelift-flows-ai-evals-and-kubernetes-updates",
+    "title": "TLDR DevOps: Spacelift Flows, AI Evals, and Kubernetes Updates",
+    "tags": [
+      "AWS",
+      "Spacelift",
+      "Kubernetes",
+      "OpenAI",
+      "RubyGems"
+    ],
+    "source": "TLDR DevOps",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-14T17:01:00.000Z"
+  },
+  {
+    "id": "d7fb49e2-70d8-44fe-b55f-457487525b2e",
+    "slug": "tldr-marketing-2026-09-14",
+    "title": "TLDR Marketing 2026-09-14",
+    "tags": [
+      "Google",
+      "LinkedIn"
+    ],
+    "source": "TLDR Marketing",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-14T16:59:00.000Z"
+  },
+  {
+    "id": "121457cc-abb7-4a3e-8d69-ae08eb0c14d5",
+    "title": "Bitcoin Empire (BEM) Listed on MEXC",
+    "summary": "Bitcoin Empire (BEM) has been officially listed on the MEXC cryptocurrency exchange.",
+    "link": null,
+    "source": "Cryptocurrency Alerting",
+    "origin": "manual",
+    "isDuplicateOf": null,
+    "pubDate": "2026-09-14T16:38:00.000Z",
+    "fetchedAt": "2026-09-14T16:06:55.711Z",
+    "content": "Cryptocurrency project Bitcoin Empire, represented by the ticker BEM, has officially been listed on the MEXC cryptocurrency exchange. This new listing expands the accessibility and trading options for BEM token holders and the broader digital asset community on the exchange platform.",
+    "content_ta": "கிரிப்டோகரன்சி திட்டமான Bitcoin Empire, அதன் BEM என்ற குறியீட்டுடன், அதிகாரப்பூர்வமாக MEXC கிரிப்டோகரன்சி பரிமாற்ற தளத்தில் பட்டியலிடப்பட்டுள்ளது. இந்த புதிய பட்டியலிடல் மூலம் BEM டோக்கன் வைத்திருப்பவர்களுக்கும் மற்றும் பரந்த டிஜிட்டல் சொத்து சமூகத்திற்கும் வர்த்தக வாய்ப்புகள் விரிவடைந்துள்ளன.",
+    "tags": [
+      "Bitcoin Empire",
+      "MEXC"
+    ],
+    "slug": "bitcoin-empire-bem-listed-on-mexc"
+  },
+  {
+    "id": "99983b08-111a-4984-a969-e82e86fcd272",
+    "title": "USDG (USDG) Listed on Bitrue",
+    "summary": "USDG (USDG) has been officially listed on the Bitrue cryptocurrency exchange.",
+    "link": null,
+    "source": "Cryptocurrency Alerting",
+    "origin": "manual",
+    "isDuplicateOf": null,
+    "pubDate": "2026-09-14T15:34:00.000Z",
+    "fetchedAt": "2026-09-14T16:06:55.711Z",
+    "content": "USDG (USDG) has officially been listed on the Bitrue cryptocurrency exchange. This new listing expands the accessibility and trading options for USDG holders on the platform, allowing users to trade the token alongside various other digital assets currently supported by the exchange.",
+    "content_ta": "USDG (USDG) கிரிப்டோகரன்சி பரிமாற்ற தளமான Bitrue-ல் அதிகாரப்பூர்வமாக பட்டியலிடப்பட்டுள்ளது. இந்த புதிய பட்டியலிடலானது பிளாட்ஃபார்மில் உள்ள USDG வைத்திருப்பவர்களுக்கான அணுகல் மற்றும் வர்த்தக விருப்பங்களை விரிவுபடுத்துகிறது.",
+    "tags": [
+      "USDG",
+      "Bitrue"
+    ],
+    "slug": "usdg-usdg-listed-on-bitrue"
+  },
+  {
     "id": "d866b934f63900fb",
     "slug": "irs-issues-roughly-10-000-letters-per-month-for-crypto-audit-trump-allegedly-exempt",
     "title": "IRS issues ‘roughly 10,000 letters per month’ for crypto audit – Trump allegedly exempt",
@@ -40,21 +280,15 @@
   },
   {
     "id": "98644bf024fa1863",
+    "slug": "opentable-reports-diners-reached-through-ai-tools-spend-20-more",
     "title": "OpenTable Reports Diners Reached Through AI Tools Spend 20% More",
-    "summary": "Integrations of OpenTable’s restaurant technology with artificial intelligence models drove 17 times more seated diners year over year for restaurant operators, the company said in an Aug. 26 press release. The diners brought in by those model integrations spent on average 20% more than those reached through other channels, according to the release. OpenTable’s integrations […]\nThe post OpenTable Reports Diners Reached Through AI Tools Spend 20% More appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/opentable-reports-diners-reached-through-ai-tools-spend-20percent-more/",
-    "source": "PYMNTS",
     "tags": [
       "OpenTable"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-09-14T14:52:32.000Z",
-    "fetchedAt": "2026-09-14T15:02:48.078Z",
-    "isDuplicateOf": null,
-    "content": "OpenTable reported that restaurant diners reached through artificial intelligence tools spent 20% more than those acquired via other channels. According to the company, integrations with AI models also drove significantly more seated diners year over year for restaurant operators, highlighting the growing impact of artificial intelligence technologies in the hospitality and dining industry.",
-    "content_ta": "OpenTable-ன் செயற்கை நுண்ணறிவு கருவிகள் மூலம் ஈர்க்கப்படும் வாடிக்கையாளர்கள் மற்ற வழிகள் மூலம் வருபவர்களை விட 20% அதிகமாக செலவிடுவதாக நிறுவனம் தெரிவித்துள்ளது. AI மாடல்களுடனான இணைப்புகள் உணவகங்களுக்கு குறிப்பிடத்தக்க அளவில் அதிக வாடிக்கையாளர்களை ஈர்த்துள்ளதாகவும் அந்நிறுவனம் குறிப்பிட்டுள்ளது.",
-    "slug": "opentable-reports-diners-reached-through-ai-tools-spend-20-more"
+    "hasContent": true,
+    "pubDate": "2026-09-14T14:52:32.000Z"
   },
   {
     "id": "e68c8671ccba4920",
@@ -72,22 +306,16 @@
   },
   {
     "id": "48d7f055eedcd030",
+    "slug": "klarna-expands-nordics-anti-fraud-toolkit-with-new-live-call-verification-tool",
     "title": "Klarna expands Nordics anti-fraud toolkit with new live call verification tool",
-    "summary": "Klarna, the global digital bank and flexible payments provider, today announced in-app Call Status Detection is live in the Nordics, giving consumers a reliable and simple way to check whether someone calling them is genuinely from Klarna.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/pressarticle/110900/klarna-expands-nordics-anti-fraud-toolkit-with-new-live-call-verification-tool?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
     "tags": [
       "Klarna",
       "Nordics"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-09-14T14:52:00.000Z",
-    "fetchedAt": "2026-09-14T15:02:48.078Z",
-    "isDuplicateOf": null,
-    "content": "Global digital bank and payments provider Klarna has launched a new in-app Call Status Detection tool in the Nordics. This feature aims to combat fraud by giving consumers a simple and reliable way to verify if an incoming phone call is genuinely from Klarna, enhancing security for its users in the region.",
-    "content_ta": "சர்வதேச டிஜிட்டல் வங்கி மற்றும் கட்டண சேவை நிறுவனமான Klarna, Nordics பகுதியில் புதிய இன்-ஆப் கால் ஸ்டேட்டஸ் டிடெக்ஷன் (Call Status Detection) டூலை அறிமுகப்படுத்தியுள்ளது. பயனர்களுக்கு வரும் போன் கால் உண்மையாகவே Klarna-விலிருந்து வருகிறதா என்பதை எளிதாகவும் நம்பகத்தன்மையுடனும் சரிபார்க்க இந்த அம்சம் உதவுகிறது.",
-    "slug": "klarna-expands-nordics-anti-fraud-toolkit-with-new-live-call-verification-tool"
+    "hasContent": true,
+    "pubDate": "2026-09-14T14:52:00.000Z"
   },
   {
     "id": "0f61ef651dddeb35",
@@ -143,21 +371,15 @@
   },
   {
     "id": "018fb595aba56001",
+    "slug": "premier-payment-solutions-ltd-enters-liquidation",
     "title": "Premier Payment Solutions Ltd enters liquidation",
-    "summary": "You should proceed with caution if you are approached by a CMC or a law firm. For the vast majority of clients, there is no benefit in involving a third party in reclaiming your assets. If you use a firm such as this to assist... Read More",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/09/310197-premier-payment-solutions-ltd-enters-liquidation/",
-    "source": "Crowdfund Insider",
     "tags": [
       "Premier Payment Solutions Ltd"
     ],
+    "source": "Crowdfund Insider",
     "origin": "rss",
-    "pubDate": "2026-09-14T14:46:07.000Z",
-    "fetchedAt": "2026-09-14T15:02:48.078Z",
-    "isDuplicateOf": null,
-    "content": "Premier Payment Solutions Ltd has entered liquidation. Clients have been advised to proceed with caution if contacted by claims management companies or law firms offering assistance. Authorities note that for the vast majority of clients, involving a third party provides no benefit in the process of reclaiming assets, and individuals should be wary of external firms offering to help.",
-    "content_ta": "Premier Payment Solutions Ltd நிறுவனம் liquidation-il ஈடுபட்டுள்ளது. Claims management companies அல்லது law firms-மிடAn இருந்து உதவி கோரி உங்களைத் தொடர்பு கொண்டால் எச்சரிக்கையுடன் இருக்க அறிவுறுத்தப்படுகிறார்கள். பெரும்பான்மையான வாடிக்கையாளர்களுக்கு, சொத்துக்களை மீட்பதில் மூன்றாம் தரப்பினரை ஈடுபடுத்துவதால் எந்த நன்மையும் இல்லை என்று அதிகாரிகள் தெரிவிக்கின்றனர்.",
-    "slug": "premier-payment-solutions-ltd-enters-liquidation"
+    "hasContent": true,
+    "pubDate": "2026-09-14T14:46:07.000Z"
   },
   {
     "id": "56c1168a0dff70ce",
@@ -171,6 +393,24 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-14T14:44:19.000Z"
+  },
+  {
+    "id": "4c8fc876-8640-4e60-977c-f4c381811840",
+    "title": "LONGXIA (LONGXIA) Listed on Bybit Futures",
+    "summary": "LONGXIA (LONGXIA) has been listed on Bybit Futures, enabling futures trading for the token.",
+    "link": null,
+    "source": "Cryptocurrency Alerting",
+    "origin": "manual",
+    "isDuplicateOf": null,
+    "pubDate": "2026-09-14T14:44:00.000Z",
+    "fetchedAt": "2026-09-14T16:06:55.711Z",
+    "content": "LONGXIA (LONGXIA) has officially been listed on Bybit Futures. This new listing allows traders and cryptocurrency enthusiasts to engage in futures trading for the LONGXIA token directly on the platform, expanding its market accessibility and trading opportunities.",
+    "content_ta": "LONGXIA (LONGXIA) அதிகாரப்பூர்வமாக Bybit Futures-ல் பட்டியலிடப்பட்டுள்ளது. இந்த புதிய பட்டியலிடலின் மூலம், வர்த்தகர்கள் மற்றும் கிரிப்டோகரன்சி ஆர்வலர்கள் LONGXIA டோக்கனுக்கான பியூச்சர்ஸ் வர்த்தகத்தில் நேரடியாக ஈடுபட முடியும், இது அதன் சந்தை அணுகல்தன்மையை விரிவுபடுத்துகிறது.",
+    "tags": [
+      "LONGXIA",
+      "Bybit"
+    ],
+    "slug": "longxia-longxia-listed-on-bybit-futures"
   },
   {
     "id": "ed33495a3a9aaeec",
@@ -267,22 +507,16 @@
   },
   {
     "id": "2c8a43fbb78e2753",
+    "slug": "amodei-s-ai-safety-plan-comes-with-a-catch",
     "title": "Amodei’s AI Safety Plan Comes With a Catch",
-    "summary": "Anthropic CEO and Co-Founder Dario Amodei said he wants independent evaluators inside leading artificial intelligence companies and governments to slow the race toward more powerful models. Amodei’s three-part proposal, published in a Saturday (Sept. 12) essay titled “We Must Pace the Frontier,” called for embedded independent evaluators, coordination among companies in democratic countries and eventually […]\nThe post Amodei’s AI Safety Plan Comes With a Catch appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-ceo-dario-amodei-ai-safety-plan-comes-with-catch/",
-    "source": "PYMNTS",
     "tags": [
       "Anthropic",
       "Dario Amodei"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-09-14T14:27:33.000Z",
-    "fetchedAt": "2026-09-14T15:02:48.078Z",
-    "isDuplicateOf": null,
-    "content": "Anthropic CEO and Co-Founder Dario Amodei has proposed a three-part AI safety plan titled \"We Must Pace the Frontier.\" The proposal calls for independent evaluators inside leading artificial intelligence companies and governments to help slow the rapid race toward building more powerful AI models, while also encouraging coordination among companies based in democratic countries.",
-    "content_ta": "Anthropic-யின் CEO மற்றும் Co-Founder ஆன Dario Amodei, \"We Must Pace the Frontier\" என்ற தலைப்பில் மூன்று பகுதிகளைக் கொண்ட AI பாதுகாப்புத் திட்டத்தை வெளியிட்டுள்ளார். சக்திவாய்ந்த AI மாடல்களை உருவாக்கும் அவசரப் போட்டியை மெதுவாக்க முன்னணி நிறுவனங்கள் மற்றும் அரசாங்களுக்குள் சுயாதீன மதிப்பீட்டாளர்களை நியமிக்க வேண்டும் என்றும், ஜனநாயக நாடுகளின் நிறுவனங்களுக்கு இடையே ஒருங்கிணைப்பு இருக்க வேண்டும் என்றும் இத்திட்டம் கோருகிறது.",
-    "slug": "amodei-s-ai-safety-plan-comes-with-a-catch"
+    "hasContent": true,
+    "pubDate": "2026-09-14T14:27:33.000Z"
   },
   {
     "id": "12d6a5ead2ad0af5",
@@ -492,24 +726,18 @@
   },
   {
     "id": "a49cf16d21cfbfc1",
+    "slug": "ai-helps-make-fraud-4-5-times-as-profitable-for-scammers",
     "title": "AI Helps Make Fraud 4.5 Times as Profitable for Scammers",
-    "summary": "Fraudsters are reportedly trading massive scam operations for smaller and more profitable schemes using artificial intelligence (AI). That’s according to Giles Thomson, president of the Financial Action Task Force (FATF), who outlined the fraud landscape in a Monday (Sept. 14) interview with the Financial Times. As the report notes, fraudsters have for years used giant compounds housing hundreds of workers […]\nThe post AI Helps Make Fraud 4.5 Times as Profitable for Scammers appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-helps-make-fraud-4-5-times-as-profitable-for-scammers/",
-    "source": "PYMNTS",
     "tags": [
       "Financial Action Task Force",
       "Giles Thomson",
       "Financial Times",
       "PYMNTS.com"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-09-14T13:57:55.000Z",
-    "fetchedAt": "2026-09-14T15:02:48.078Z",
-    "isDuplicateOf": null,
-    "content": "Artificial intelligence is making fraud significantly more profitable for scammers. According to the Financial Action Task Force, criminals are shifting away from massive scam compounds toward smaller, highly efficient operations powered by AI technologies, increasing profitability dramatically.",
-    "content_ta": "செயற்கை நுண்ணறிவு (AI) மூலம் மோசடி செய்பவர்களுக்கு மோசடிகள் முன்பைவிட பல மடங்கு லாபகரமானதாக மாறியுள்ளன. Financial Action Task Force அமைப்பின் கூற்றுப்படி, குற்றவாளிகள் பெரிய அளவிலான மோசடி மையங்களிலிருந்து விலகி, AI தொழில்நுட்பங்களைப் பயன்படுத்தி சிறிய மற்றும் அதிக லாபம் தரும் முறைகளுக்கு மாறி வருகின்றனர்.",
-    "slug": "ai-helps-make-fraud-4-5-times-as-profitable-for-scammers"
+    "hasContent": true,
+    "pubDate": "2026-09-14T13:57:55.000Z"
   },
   {
     "id": "01b83b82dc7367af",
@@ -527,11 +755,8 @@
   },
   {
     "id": "522ed2611662a6c1",
+    "slug": "tokenovate-executes-intra-day-repo-transaction-on-canton-network",
     "title": "Tokenovate executes intra-day repo transaction on Canton Network",
-    "summary": "Tokenovate shares that it has completed an intra-day repurchase agreement (Repo) on the Canton Network using the FINOS Common Domain Model (CDM), utilzing USDC. Tokenovate is a UK-based Fintech enabling post-trade lifecycle automation and digital settlement solutions. Canton is  a privacy-enabled blockchain network built for... Read More",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/pressarticle/110898/tokenovate-executes-intra-day-repo-transaction-on-canton-network?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
     "tags": [
       "Tokenovate",
       "Canton Network",
@@ -539,13 +764,10 @@
       "USDC",
       "United Kingdom"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-09-14T13:52:00.000Z",
-    "fetchedAt": "2026-09-14T15:02:48.078Z",
-    "isDuplicateOf": null,
-    "content": "UK-based fintech company Tokenovate has completed an intra-day repurchase agreement transaction on the Canton Network. The trade utilized the FINOS Common Domain Model and was settled using USDC. Tokenovate focuses on post-trade lifecycle automation and digital settlement solutions, while Canton provides a privacy-enabled blockchain network designed for institutional financial markets.",
-    "content_ta": "UK-ஐச் சேர்ந்த ஃபின்டெக் நிறுவனமான Tokenovate, Canton Network-ல் ஒரு intra-day repurchase agreement பரிவர்த்தனையை வெற்றிகரமாக முடித்துள்ளது. இந்த வர்த்தகம் FINOS Common Domain Model-ஐப் பயன்படுத்தியது மற்றும் USDC மூலமாக தீர்வு காணப்பட்டது. Tokenovate பிந்தைய வர்த்தக வாழ்க்கைச் சுழற்சி ஆட்டோமேஷன் மற்றும் டிஜிட்டல் தீர்வு தீர்வுகளில் கவனம் செலுத்துகிறது.",
-    "slug": "tokenovate-executes-intra-day-repo-transaction-on-canton-network"
+    "hasContent": true,
+    "pubDate": "2026-09-14T13:52:00.000Z"
   },
   {
     "id": "70e2590ca099bb2f",
@@ -561,22 +783,16 @@
   },
   {
     "id": "774f20ecb3bb01f4",
+    "slug": "smarttrade-launches-post-trade-platform",
     "title": "SmartTrade launches post-trade platform",
-    "summary": "SmartTrade Technologies, the global leader in AI-powered multi-asset electronic trading and payments solutions, today announced the launch of smartTrade Flow, a comprehensive post-trade platform that takes trades from front-office execution through middle-office controls to back-office fulfillment.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/pressarticle/110897/smarttrade-launches-post-trade-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
     "tags": [
       "SmartTrade Technologies",
       "smartTrade Flow"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-09-14T13:51:00.000Z",
-    "fetchedAt": "2026-09-14T15:02:48.078Z",
-    "isDuplicateOf": null,
-    "content": "SmartTrade Technologies has announced the launch of smartTrade Flow, a new comprehensive post-trade platform. The solution is designed to manage trades seamlessly, taking them from front-office execution through middle-office controls and all the way to back-office fulfillment. As a global leader in AI-powered multi-asset electronic trading and payments solutions, SmartTrade aims to streamline operational workflows for its clients through this advanced platform offering.",
-    "content_ta": "SmartTrade Technologies நிறுவனம் smartTrade Flow என்ற புதிய போஸ்ட்-ட்ரேட் பிளாட்ஃபார்மை அறிமுகப்படுத்துவதாக அறிவித்துள்ளது. இந்த சொலுஷன் வர்த்தகங்களை முனைய செயலாக்கம் முதல் மிடில்-ஆபீஸ் கட்டுப்பாடுகள் மற்றும் பேக்-ஆபீஸ் பூர்த்தி வரை சீராக நிர்வகிக்க வடிவமைக்கப்பட்டுள்ளது. AI-சார்ந்த மல்டி-அசெட் எலக்ட்ரானிக் வர்த்தகம் மற்றும் பேமெண்ட் சொலுஷன்களில் உலகளாவிய முன்னணி நிறுவனமான SmartTrade, இந்த மேம்பட்ட பிளாட்ஃபார்ம் மூலம் தனது வாடிக்கையாளர்களின் செயல்பாட்டு பணிப்பாய்வுகளை எளிமைப்படுத்த இலக்கு கொண்டுள்ளது.",
-    "slug": "smarttrade-launches-post-trade-platform"
+    "hasContent": true,
+    "pubDate": "2026-09-14T13:51:00.000Z"
   },
   {
     "id": "bf2d83097a7653b1",
@@ -621,237 +837,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-14T13:49:00.000Z"
-  },
-  {
-    "id": "3c07b12fdc33ae80",
-    "slug": "finastra-forms-trade-finance-partnership-with-komgo",
-    "title": "Finastra forms trade finance partnership with Komgo",
-    "tags": [
-      "Finastra",
-      "Komgo"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T13:48:00.000Z"
-  },
-  {
-    "id": "8ba608fb35b40b9d",
-    "slug": "public-company-insider-sells-outweighed-buys-10-to-1-in-august",
-    "title": "Public company insider sells outweighed buys 10-to-1 in August",
-    "tags": [
-      "United States"
-    ],
-    "source": "Protos",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T13:46:49.000Z"
-  },
-  {
-    "id": "f9e91db2c4a8e976",
-    "slug": "sokin-launches-mcp-connector",
-    "title": "Sokin launches MCP connector",
-    "tags": [
-      "Sokin"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T13:46:00.000Z"
-  },
-  {
-    "id": "9e86cb335c1100c2",
-    "slug": "fluxifi-integrates-twenty7tec-mortgage-sourcing",
-    "title": "Fluxifi integrates Twenty7tec mortgage sourcing",
-    "tags": [
-      "Fluxifi",
-      "Twenty7tec"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T13:46:00.000Z"
-  },
-  {
-    "id": "c509687c08a6a377",
-    "slug": "another-bitcoin-liquidity-test-arrives-with-tuesday-s-us-tax-deadline",
-    "title": "Another Bitcoin liquidity test arrives with Tuesday’s US tax deadline",
-    "tags": [
-      "Bitcoin",
-      "United States",
-      "Federal Reserve",
-      "Treasury"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T13:45:51.000Z"
-  },
-  {
-    "id": "4e602d5e28fe0ee2",
-    "title": "Upper Tribunal upholds Crispin Odey ban",
-    "summary": "Mr Odey was the founder and majority owner of Odey Asset Management (OAM). He faced an internal disciplinary process for breaching a final written warning relating to repeated and persistent inappropriate behaviour towards female employees. In response, Mr Odey bullied and threatened his executive directors.... Read More",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/09/310190-upper-tribunal-upholds-crispin-odey-ban/",
-    "source": "Crowdfund Insider",
-    "tags": [
-      "Crispin Odey",
-      "Odey Asset Management",
-      "Upper Tribunal"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-09-14T13:45:09.000Z",
-    "fetchedAt": "2026-09-14T15:02:48.078Z",
-    "isDuplicateOf": null,
-    "content": "The Upper Tribunal has upheld a ban imposed on Crispin Odey, the founder and majority owner of Odey Asset Management. The decision follows an internal disciplinary process regarding inappropriate behaviour towards female employees and subsequent bullying of executive directors.",
-    "content_ta": "Odey Asset Management நிறுவனத்தின் நிறுவனரும் பெரும்பான்மை பங்குதாரருமான Crispin Odey மீதான தடையை Upper Tribunal உறுதி செய்துள்ளது. பெண் ஊழியர்களிடம் முறையற்ற நடந்து கொண்டது மற்றும் நிர்வாக இயக்குநர்களை மிரட்டியது தொடர்பான ஒழுங்கு நடவடிக்கையைத் தொடர்ந்து இந்த முடிவு எடுக்கப்பட்டுள்ளது.",
-    "slug": "upper-tribunal-upholds-crispin-odey-ban"
-  },
-  {
-    "id": "f770c45f20701601",
-    "slug": "ez-britton-appointed-to-steer-uk-open-finance-blueprint",
-    "title": "Ez Britton appointed to steer UK open finance blueprint",
-    "tags": [
-      "Ez Britton",
-      "Future Entity Design Steering Group",
-      "Open Banking Limited",
-      "United Kingdom"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T13:41:00.000Z"
-  },
-  {
-    "id": "81f43d8908941e76",
-    "title": "The U.S. Is 200x Behind on Fast-Payment Adoption. And that's not a problem.",
-    "summary": "Author: A finextra community member",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/blogposting/32841/the-us-is-200x-behind-on-fast-payment-adoption-and-thats-not-a-problem?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "tags": [
-      "United States",
-      "Finextra"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-09-14T13:36:01.000Z",
-    "fetchedAt": "2026-09-14T15:02:48.078Z",
-    "isDuplicateOf": null,
-    "content": "A recent commentary published by a Finextra community member examines the slow adoption of fast-payment systems in the United States compared to other nations. The analysis suggests that despite the U.S. lagging significantly behind global peers in instant payment infrastructure, this gap may not necessarily pose a critical problem for the country's broader financial ecosystem.",
-    "content_ta": "United States-ல் fast-payment முறைகளை ஏற்கும் வேகம் மற்ற நாடுகளை விட மிகக் குறைவாக உள்ளதாக Finextra சமூக உறுப்பினர் ஒருவர் எழுதியுள்ள கட்டுரை விவரிக்கிறது. உடனடி பணப்பரிமாற்ற உள்கட்டமைப்பில் உலகளாவிய நாடுகளை விட பின்தங்கியிருந்தாலும், இந்த இடைவெளி நாட்டின் ஒட்டுமொத்த நிதி அமைப்பிற்கு ஒரு பெரிய பிரச்சினையாக இருக்காது என்று அந்த ஆய்வு குறிப்பிடுகிறது.",
-    "slug": "the-u-s-is-200x-behind-on-fast-payment-adoption-and-that-s-not-a-problem"
-  },
-  {
-    "id": "311c897b531daad4",
-    "slug": "the-weekly-ma50-is-holding-bitcoin-btc-back-here-are-the-levels-to-watch",
-    "title": "The Weekly MA50 Is Holding Bitcoin (BTC) Back – Here Are the Levels to Watch",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T13:35:03.000Z"
-  },
-  {
-    "id": "184d2fb10eba2cd7",
-    "slug": "tesla-enters-vietnam-with-a-3-million-sales-unit-and-no-announcement",
-    "title": "Tesla Enters Vietnam With a $3 Million Sales Unit — and No Announcement",
-    "tags": [
-      "Tesla",
-      "Vietnam",
-      "VinFast"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T13:34:27.000Z"
-  },
-  {
-    "id": "c904ad4ea07f168d",
-    "slug": "peter-brandt-breaks-down-market-speculation-with-warning-to-retail-crypto-traders",
-    "title": "Peter Brandt Breaks Down Market Speculation With Warning to Retail Crypto Traders",
-    "tags": [
-      "Peter Brandt"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T13:30:31.000Z"
-  },
-  {
-    "id": "1ab3366413df409b",
-    "slug": "fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-head",
-    "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
-    "tags": [
-      "World Trade Organization"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T13:30:00.000Z"
-  },
-  {
-    "id": "f15f8944c40b8682",
-    "slug": "hype-price-could-suffer-as-binance-takes-its-revenue-alice-liu",
-    "title": "HYPE price could suffer as Binance takes its revenue: Alice Liu",
-    "tags": [
-      "Hyperliquid",
-      "HYPE",
-      "Binance",
-      "CoinMarketCap",
-      "Alice Liu"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T13:30:00.000Z"
-  },
-  {
-    "id": "1d752f131a270f70",
-    "slug": "fxstreet-reaches-20-broker-reviews-milestone-in-one-year",
-    "title": "FXStreet reaches 20 Broker Reviews milestone in one year",
-    "tags": [
-      "FXStreet"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T13:29:54.000Z"
-  },
-  {
-    "id": "42a538335a588c95",
-    "slug": "from-concrete-to-compute-why-clichmont-is-building-ai-infrastructure-instead-of-renting-it",
-    "title": "From Concrete to Compute: Why Clichmont Is Building AI Infrastructure Instead of Renting It",
-    "tags": [
-      "Clichmont",
-      "CoreWeave",
-      "Crusoe",
-      "Lambda",
-      "Alicante",
-      "Bodø"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T13:28:11.000Z"
-  },
-  {
-    "id": "4b6e456ccc86280d",
-    "title": "The Businesses That Win With AI Connect the Workflow First",
-    "summary": "Author: A finextra community member",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/blogposting/32836/the-businesses-that-win-with-ai-connect-the-workflow-first?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "tags": [
-      "AI"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-09-14T13:22:57.000Z",
-    "fetchedAt": "2026-09-14T15:02:48.078Z",
-    "isDuplicateOf": null,
-    "content": "Successful AI implementation in business relies on connecting the workflow first before deploying advanced technology. Rather than adopting artificial intelligence tools in isolation, organizations achieve the best results by integrating them directly into existing operational processes. This approach ensures that AI enhances productivity, streamlines daily tasks, and delivers measurable value across the entire enterprise.",
-    "content_ta": "வணிகங்களில் AI தொழில்நுட்பத்தை வெற்றிகரமாகப் பயன்படுத்த, மேம்பட்ட கருவிகளைச் செயல்படுத்துவதற்கு முன்பு பணிப்பாய்வை இணைப்பது அவசியமாகும். செயற்கை நுண்ணறிவு கருவிகளைத் தனித்தனியாகப் பயன்படுத்துவதற்குப் பதிலாக, அவற்றை ஏற்கனவே உள்ள செயல்பாட்டு முறைகளுடன் நேரடியாக இணைப்பதன் மூலம் நிறுவனங்கள் சிறந்த பலன்களைப் பெறுகின்றன.",
-    "slug": "the-businesses-that-win-with-ai-connect-the-workflow-first"
   }
 ]
