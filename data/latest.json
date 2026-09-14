@@ -1,24 +1,723 @@
 [
   {
-    "id": "a2981242d639bb18",
-    "title": "DC Advisory expands tech team in Ireland",
-    "summary": "US-based investment bank DC Advisory has appointed Mark Jennings to lead its technology team in Dublin.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/newsarticle/48392/dc-advisory-expands-tech-team-in-ireland?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "id": "0e4464df8e1542cb",
+    "slug": "revolut-hack-escalates-as-attackers-threaten-more-and-more-data-leaks",
+    "title": "Revolut hack escalates as attackers threaten ‘more and more data’ leaks",
+    "tags": [
+      "Revolut",
+      "Shevchenko",
+      "Römer",
+      "Gamdom",
+      "Skinscom"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T12:00:12.000Z"
+  },
+  {
+    "id": "9fe7340bfc1c6226",
+    "slug": "pave-raises-14m-for-ai-powered-portfolio-management-platform",
+    "title": "Pave raises $14m for AI-powered portfolio management platform",
+    "tags": [
+      "Pave Finance"
+    ],
     "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T12:00:00.000Z"
+  },
+  {
+    "id": "fb78768590dcc621",
+    "slug": "eu-mandates-24-hour-reporting-for-crypto-wallet-vulnerabilities-under-cyber-resilience-act",
+    "title": "EU mandates 24-hour reporting for crypto wallet vulnerabilities under Cyber Resilience Act",
+    "tags": [
+      "European Union"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:58:12.000Z"
+  },
+  {
+    "id": "8e0853a2de67aa6f",
+    "slug": "kaiko-expands-funding-round-to-110m-led-by-s-p-global",
+    "title": "Kaiko expands funding round to $110M led by S&P Global",
+    "tags": [
+      "Kaiko",
+      "S&P Global"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:57:03.000Z"
+  },
+  {
+    "id": "bada1066521abef5",
+    "slug": "global-esports-pulls-off-historic-3-2-reverse-sweep-to-win-vct-pacific-stage-2-grand-final",
+    "title": "Global Esports pulls off historic 3-2 reverse sweep to win VCT Pacific Stage 2 Grand Final",
+    "tags": [
+      "Global Esports",
+      "VCT Pacific",
+      "India"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:55:23.000Z"
+  },
+  {
+    "id": "9f5646b0f0ccff43",
+    "slug": "psg-equity-raises-4-4b-for-new-european-tech-fund",
+    "title": "PSG Equity raises €4.4B for new European tech fund",
+    "tags": [
+      "PSG Equity",
+      "Europe"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:50:53.000Z"
+  },
+  {
+    "id": "a33f3f4596fbbd84",
+    "slug": "iran-missile-attack-on-us-base-kills-3-soldiers-chinese-satellite-aid-alleged",
+    "title": "Iran missile attack on US base kills 3 soldiers, Chinese satellite aid alleged",
+    "tags": [
+      "Iran",
+      "United States",
+      "China"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:48:35.000Z"
+  },
+  {
+    "id": "c0d966fec71c934e",
+    "slug": "leveraged-funds-rebuilt-1-669-btc-of-bitcoin-futures-shorts-before-fed",
+    "title": "Leveraged funds rebuilt 1,669 BTC of Bitcoin futures shorts before Fed",
+    "tags": [
+      "Bitcoin",
+      "Federal Reserve"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:45:32.000Z"
+  },
+  {
+    "id": "1dd41edc5cf6def7",
+    "slug": "live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges",
+    "title": "Live updates: Bitcoin manages small gains as stocks drop on AI concern, oil surges",
+    "tags": [
+      "Bitcoin",
+      "Federal Reserve"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:44:21.000Z"
+  },
+  {
+    "id": "4531fbbeaf8205b8",
+    "slug": "uk-government-bets-on-evidence-over-mandates-for-ai-risk",
+    "title": "UK government bets on evidence over mandates for AI risk",
+    "tags": [
+      "UK"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:42:44.000Z"
+  },
+  {
+    "id": "6f91d5eb9e02fd40",
+    "slug": "ethereum-solana-and-base-dominate-euro-stablecoin-market-with-92-share",
+    "title": "Ethereum, Solana, and Base dominate euro stablecoin market with 92% share",
+    "tags": [
+      "Ethereum",
+      "Solana",
+      "Base"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:42:31.000Z"
+  },
+  {
+    "id": "d30cfa9f0c4a2701",
+    "slug": "buildots-raises-166m-in-cumulative-funding-to-bring-ai-to-construction-sites",
+    "title": "Buildots raises $166M in cumulative funding to bring AI to construction sites",
+    "tags": [
+      "Buildots"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:42:25.000Z"
+  },
+  {
+    "id": "ef942b3a3c0fa817",
+    "slug": "texas-capital-etfs-move-to-texas-stock-exchange-as-fifth-listing-in-a-week",
+    "title": "Texas Capital ETFs move to Texas Stock Exchange as fifth listing in a week",
+    "tags": [
+      "Texas Capital ETFs",
+      "Texas Stock Exchange",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:38:45.000Z"
+  },
+  {
+    "id": "b3a1cb04cb67bf11",
+    "slug": "morgan-stanley-bitcoin-holdings-cross-609-million-after-aggressive-buy",
+    "title": "Morgan Stanley Bitcoin Holdings Cross $609 Million After Aggressive Buy",
+    "tags": [
+      "Morgan Stanley",
+      "Bitcoin"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:34:28.000Z"
+  },
+  {
+    "id": "b9ad75ffdef1e9ac",
+    "slug": "china-s-spy-agency-warns-ai-poses-risks-to-political-security",
+    "title": "China’s spy agency warns AI poses risks to political security",
+    "tags": [
+      "China"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:33:29.000Z"
+  },
+  {
+    "id": "75214a439a1ac3f5",
+    "title": "NVIDIA bought Hugging Face. What happens to banks when AI models become open?",
+    "summary": "Weekly 10-Q The weekly 10-Q newsletter is part of the Tearsheet Pro subscription, where I unpack the recent moves and strategies of leading banks and fintechs in the public space, coupled with stock market analysis. In your inbox every Friday! Message Sara NVIDIA bought Hugging Face. What happens to banks when AI models become open? What … \nContinue reading \"NVIDIA bought Hugging Face. What happens to banks when AI models become open?\"\nThe post NVIDIA bought Hugging Face. What happens to banks when AI models become open? appeared first on Tearsheet.",
+    "hasSummary": true,
+    "link": "https://tearsheet.co/10-q/nvidia-bought-hugging-face-what-happens-to-banks-when-ai-models-become-open/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-bought-hugging-face-what-happens-to-banks-when-ai-models-become-open",
+    "source": "Tearsheet",
+    "tags": [
+      "NVIDIA",
+      "Hugging Face"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-14T11:30:00.000Z",
+    "fetchedAt": "2026-09-14T12:01:39.095Z",
+    "isDuplicateOf": null,
+    "content": "NVIDIA has acquired Hugging Face, raising important questions about the future of banking as open-source AI models become more prevalent. This industry shift explores how traditional financial institutions will adapt and compete in a rapidly evolving technological landscape driven by widespread artificial intelligence advancements.",
+    "content_ta": "NVIDIA நிறுவனம் Hugging Face-ஐ வாங்கியுள்ளது. திறந்த மூல AI மாடல்கள் பரவலாகி வருவதால், வங்கிகளின் எதிர்காலம் குறித்து இது முக்கிய கேள்விகளை எழுப்புகிறது. பரவலான செயற்கை நுண்ணறிவு வளர்ச்சியால் இயக்கப்படும் வேகமாக மாறிவரும் தொழில்நுட்பச் சூழலில், பாரம்பரிய நிதி நிறுவனங்கள் எவ்வாறு தகவமைத்துக் கொண்டு போட்டியிடும் என்பதை இந்தத் துறை மாற்றம் ஆராய்கிறது.",
+    "slug": "nvidia-bought-hugging-face-what-happens-to-banks-when-ai-models-become-open"
+  },
+  {
+    "id": "df756aeebd952dea",
+    "slug": "communist-party-of-china-calls-for-stricter-ai-oversight-requiring-ideological-compliance-tests",
+    "title": "Communist Party of China calls for stricter AI oversight, requiring ideological compliance tests",
+    "tags": [
+      "Communist Party of China",
+      "China"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:25:31.000Z"
+  },
+  {
+    "id": "14fac0a31e4bb231",
+    "slug": "treasury-chief-scott-bessent-opposes-pause-in-ai-development-warns-china-cannot-be-allowed-to-lead",
+    "title": "Treasury chief Scott Bessent opposes pause in AI development, warns China cannot be allowed to lead",
+    "tags": [
+      "Scott Bessent",
+      "United States",
+      "China"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:23:02.000Z"
+  },
+  {
+    "id": "2ed9132ed490928c",
+    "slug": "diesel-prices-hit-record-high-after-key-pipeline-shutdown-amid-g20-protests",
+    "title": "Diesel prices hit record high after key pipeline shutdown amid G20 protests",
+    "tags": [
+      "G20"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:22:41.000Z"
+  },
+  {
+    "id": "41aab4bd7ccda648",
+    "slug": "citigroup-warns-ai-slowdown-could-pressure-stock-market-gains-built-on-earnings-optimism",
+    "title": "Citigroup warns AI slowdown could pressure stock market gains built on earnings optimism",
+    "tags": [
+      "Citigroup"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:21:44.000Z"
+  },
+  {
+    "id": "6fbe477f7fefe73e",
+    "slug": "uk-watchdog-weighs-tokenized-gold-reforms-to-bolster-financial-market-efficiency",
+    "title": "UK watchdog weighs tokenized gold reforms to bolster financial market efficiency",
+    "tags": [
+      "UK",
+      "London"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:20:25.000Z"
+  },
+  {
+    "id": "d9ff698b54f4bca8",
+    "slug": "solana-news-tokenized-stock-footprint-passes-800-000-addresses",
+    "title": "Solana News: Tokenized-Stock Footprint Passes 800,000 Addresses",
+    "tags": [
+      "Solana"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:18:44.000Z"
+  },
+  {
+    "id": "c5cc087bf61b0298",
+    "slug": "bank-of-ireland-and-stripe-strike-digital-transformation-deal",
+    "title": "Bank of Ireland and Stripe strike digital transformation deal",
+    "tags": [
+      "Bank of Ireland",
+      "Stripe"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:18:00.000Z"
+  },
+  {
+    "id": "0f0fa141293ccc42",
+    "slug": "crypto-market-outperforms-as-call-for-slower-ai-development-weighs-on-tech-stocks",
+    "title": "Crypto market outperforms as call for slower AI development weighs on tech stocks",
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:15:00.000Z"
+  },
+  {
+    "id": "18a68808e7959be8",
+    "slug": "galaxy-hires-taylor-reinhardt-as-head-of-investor-relations",
+    "title": "Galaxy hires Taylor Reinhardt as head of investor relations",
+    "tags": [
+      "Galaxy",
+      "Taylor Reinhardt"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:14:34.000Z"
+  },
+  {
+    "id": "21506f753ff2ee32",
+    "slug": "apple-introduces-iphone-duo-to-reshape-foldable-smartphone-market",
+    "title": "Apple introduces iPhone Duo to reshape foldable smartphone market",
+    "tags": [
+      "Apple"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:14:03.000Z"
+  },
+  {
+    "id": "ca4c4bc105e252af",
+    "slug": "avalanche-s-role-in-uae-s-national-digital-identity-system-remains-unverified-despite-growing",
+    "title": "Avalanche’s role in UAE’s national digital identity system remains unverified despite growing regional presence",
+    "tags": [
+      "Avalanche",
+      "United Arab Emirates"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:12:53.000Z"
+  },
+  {
+    "id": "68da6e842fe32f30",
+    "slug": "centrifuge-assets-go-live-on-x-layer-expanding-defi-access-to-tokenized-treasuries-and-clos",
+    "title": "Centrifuge assets go live on X Layer, expanding DeFi access to tokenized Treasuries and CLOs",
+    "tags": [
+      "Centrifuge",
+      "X Layer"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:10:59.000Z"
+  },
+  {
+    "id": "cb5ca28868ba0e42",
+    "slug": "sam-altman-warns-ai-could-lose-control-of-the-future-crypto-could-be-a-target",
+    "title": "Sam Altman Warns AI Could ‘Lose Control of the Future’ – Crypto Could Be a Target",
+    "tags": [
+      "OpenAI",
+      "Sam Altman"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:10:32.000Z"
+  },
+  {
+    "id": "7838d256fb127565",
+    "slug": "bank-of-korea-says-the-ai-chip-trade-is-now-a-financial-stability-problem",
+    "title": "Bank of Korea Says the AI Chip Trade Is Now a Financial Stability Problem",
+    "tags": [
+      "Bank of Korea",
+      "South Korea",
+      "Samsung Electronics",
+      "KOSPI"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:05:18.000Z"
+  },
+  {
+    "id": "7aeacdcb97c0c1f4",
+    "slug": "gam-esports-parts-ways-with-jungler-draktharr-ahead-of-demacia-cup-global-invitational",
+    "title": "GAM Esports parts ways with jungler Draktharr ahead of Demacia Cup Global Invitational",
+    "tags": [
+      "GAM Esports",
+      "Draktharr",
+      "Demacia Cup Global Invitational"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:03:00.000Z"
+  },
+  {
+    "id": "e15ceee057ba2682",
+    "slug": "bitcoin-price-prediction-ai-falls-oil-jumps-as-crypto-awaits-tomorrow-s-clarity-act",
+    "title": "Bitcoin Price Prediction: AI Falls, Oil Jumps as Crypto Awaits Tomorrow’s Clarity Act",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:02:23.000Z"
+  },
+  {
+    "id": "d8f19088ef348625",
+    "title": "Amazon Is Becoming a Gateway to ChatGPT Ads",
+    "summary": "Amazon Ads has announced a partnership with OpenAI, letting select U.S. advertisers extend their existing Amazon campaigns directly into ChatGPT, Amazon said. How does it work? Advertisers buy the placements through Amazon DSP, Amazon’s programmatic ad platform, without having to negotiate directly with OpenAI, and Delta Vacations is among the first brands testing the pilot. […]\nThe post Amazon Is Becoming a Gateway to ChatGPT Ads appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-is-becoming-a-gateway-to-chatgpt-ads/",
+    "source": "PYMNTS",
+    "tags": [
+      "Amazon",
+      "OpenAI",
+      "ChatGPT",
+      "Delta Vacations",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-14T11:00:40.000Z",
+    "fetchedAt": "2026-09-14T12:01:39.095Z",
+    "isDuplicateOf": null,
+    "content": "Amazon Ads has launched a partnership with OpenAI, allowing select U.S. advertisers to extend their Amazon campaigns into ChatGPT. Advertisers can purchase these ad placements directly through Amazon DSP without needing separate negotiations with OpenAI. Brands like Delta Vacations are already participating in this new pilot program.",
+    "content_ta": "Amazon Ads நிறுவனம் OpenAI உடன் ஒரு புதிய கூட்டாண்மையை அறிவித்துள்ளது. இதன் மூலம் அமெரிக்காவில் உள்ள சில விளம்பரதாரர்கள் தங்கள் Amazon விளம்பரப் பிரச்சாரங்களை ChatGPT-விலும் விரிவுபடுத்த முடியும். விளம்பரதாரர்கள் OpenAI உடன் நேரடியாகப் பேச்சுவார்த்தை நடத்தாமல், Amazon DSP மூலமாகவே இந்த விளம்பர இடங்களை வாங்கிக் கொள்ளலாம். Delta Vacations போன்ற சில முன்னணி பிராண்டுகள் இந்த சோதனைக் முயற்சியில் ஈடுபட்டுள்ளன.",
+    "slug": "amazon-is-becoming-a-gateway-to-chatgpt-ads"
+  },
+  {
+    "id": "0b949f75278206fe",
+    "slug": "eth-btc-ratio-up-25-in-q3-ethereum-eyes-strongest-quarter-on-record",
+    "title": "ETH/BTC ratio up 25% in Q3 – Ethereum eyes strongest quarter on record",
+    "tags": [
+      "Ethereum",
+      "Bitcoin"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T11:00:25.000Z"
+  },
+  {
+    "id": "db210ad325d61782",
+    "slug": "ripple-on-the-move-is-xrp-ready-for-a-double-digit-pump",
+    "title": "Ripple on the Move: Is XRP Ready for a Double-Digit Pump?",
+    "tags": [
+      "Ripple",
+      "XRP"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T10:58:08.000Z"
+  },
+  {
+    "id": "af29095ddaee69b3",
+    "slug": "worldline-to-accept-agentic-ai-payments",
+    "title": "Worldline to accept agentic AI payments",
+    "tags": [
+      "Worldline",
+      "France",
+      "Europe"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T10:52:00.000Z"
+  },
+  {
+    "id": "18dabc7d5ee4686f",
+    "slug": "kioxia-considers-raising-10b-through-us-listing-as-ai-fueled-stock-surge-continues",
+    "title": "KIOXIA considers raising $10B through US listing as AI-fueled stock surge continues",
+    "tags": [
+      "KIOXIA",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T10:51:41.000Z"
+  },
+  {
+    "id": "b55ef4b33db1243d",
+    "slug": "asia-s-oil-traders-bullish-on-prices-amid-middle-east-conflict",
+    "title": "Asia’s oil traders bullish on prices amid Middle East conflict",
+    "tags": [
+      "Asia",
+      "Middle East"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T10:51:22.000Z"
+  },
+  {
+    "id": "403c9c513294287b",
+    "slug": "margrethe-vestager-calls-for-balanced-eu-ai-funding-model-to-close-compute-gap-with-us-and-china",
+    "title": "Margrethe Vestager calls for balanced EU AI funding model to close compute gap with US and China",
+    "tags": [
+      "Margrethe Vestager",
+      "European Union",
+      "United States",
+      "China"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T10:51:05.000Z"
+  },
+  {
+    "id": "0909c521fe17493e",
+    "slug": "another-public-company-has-abandoned-its-bitcoin-treasury-after-selling-the-last-764-btc",
+    "title": "Another public company has abandoned its Bitcoin treasury after selling the last 764 BTC",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T10:50:32.000Z"
+  },
+  {
+    "id": "a290895e37d83cae",
+    "slug": "saudi-stocks-extend-decline-as-energy-attacks-shake-investor-sentiment",
+    "title": "Saudi stocks extend decline as energy attacks shake investor sentiment",
+    "tags": [
+      "Saudi Arabia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T10:45:03.000Z"
+  },
+  {
+    "id": "0deb5265c37c331b",
+    "slug": "bernstein-says-ethics-and-stablecoin-changes-could-boost-support-for-clarity-act",
+    "title": "Bernstein says ethics and stablecoin changes could boost support for CLARITY Act",
+    "tags": [
+      "Bernstein",
+      "CLARITY Act"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T10:44:30.000Z"
+  },
+  {
+    "id": "21a3455248b57a75",
+    "title": "Google, OpenAI and Anthropic Float Idea of AI Standards Body",
+    "summary": "Anthropic, Google and OpenAI have reportedly held talks about establishing an AI industry standards body. That’s according to a report Sunday (Sept. 13) from The Information, citing sources familiar with the matter. These sources said the discussions began even before Anthropic CEO Dario Amodei’s weekend call for artificial intelligence (AI) companies to work together on […]\nThe post Google, OpenAI and Anthropic Float Idea of AI Standards Body appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/google-openai-and-anthropic-float-idea-of-ai-standards-body/",
+    "source": "PYMNTS",
+    "tags": [
+      "Google",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-14T10:39:58.000Z",
+    "fetchedAt": "2026-09-14T12:01:39.095Z",
+    "isDuplicateOf": null,
+    "content": "Tech companies Google, OpenAI, and Anthropic have reportedly discussed creating an industry standards body for artificial intelligence. Sources indicate these conversations took place as leading AI firms explore ways to collaborate on safety and industry guidelines.",
+    "content_ta": "செயற்கை நுண்ணறிவுத் துறைக்கான தரநிலைக் குழு ஒன்றை உருவாக்குவது குறித்து Google, OpenAI மற்றும் Anthropic நிறுவனங்கள் விவாதித்துள்ளதாகத் தகவல்கள் வெளியாகியுள்ளன. பாதுகாப்பு மற்றும் துறைசார் வழிகாட்டுதல்களில் இணைந்து செயல்படுவதற்கான வழிகளை முன்னணி AI நிறுவனங்கள் ஆராய்ந்து வருவதாகத் தகவல்கள் தெரிவிக்கின்றன.",
+    "slug": "google-openai-and-anthropic-float-idea-of-ai-standards-body"
+  },
+  {
+    "id": "f541c5ee4cc5b4a8",
+    "slug": "cardano-price-holds-0-20-but-this-level-could-decide-ada-s-recovery",
+    "title": "Cardano price holds $0.20 – But THIS level could decide ADA’s recovery",
+    "tags": [
+      "Cardano"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T10:30:44.000Z"
+  },
+  {
+    "id": "821f6b2bdee04bdc",
+    "slug": "data-center-boom-reshapes-commercial-mortgage-backed-securities-risks",
+    "title": "Data center boom reshapes commercial mortgage backed securities risks",
+    "tags": [
+      "Crypto Briefing"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T10:29:10.000Z"
+  },
+  {
+    "id": "a56debf569e564b5",
+    "title": "Inspiren Raises $70 Million to Expand AI-Powered Senior Living Platform",
+    "summary": "AI-powered senior living technology company Inspiren has raised $70 million in a Series C funding round at a valuation of more than $500 million, as it looks to expand the use of artificial intelligence to help care teams monitor residents and identify potential emergencies. The... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/09/309964-inspiren-raises-70-million-to-expand-ai-powered-senior-living-platform/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Inspiren"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-14T10:26:34.000Z",
+    "fetchedAt": "2026-09-14T12:01:39.095Z",
+    "isDuplicateOf": null,
+    "content": "Inspiren, an AI-powered senior living technology company, has raised $70 million in a Series C funding round. The company achieved a valuation of more than $500 million following this investment. Inspiren plans to use the fresh capital to expand its artificial intelligence platform, which helps care teams monitor residents and identify potential emergencies more effectively in senior living facilities.",
+    "content_ta": "AI-powered senior living technology நிறுவனமான Inspiren, தனது Series C நிதி திரட்டல் சுற்றில் 70 மில்லியன் டாலர்களை திரட்டியுள்ளது. இந்த முதலீட்டின் மூலம் இந்நிறுவனம் 500 மில்லியன் டாலருக்கும் அதிகமான மதிப்பீட்டை எட்டியுள்ளது. முதுமைப் பராமரிப்பு மையங்களில் வசிப்பவர்களைக் கண்காணிக்கவும், அவசரகால சூழ்நிலைகளைக் கண்டறியவும் பராமரிப்புக் குழுக்களுக்கு உதவும் தனது செயற்கை நுண்ணறிவு தளத்தை விரிவுபடுத்த இந்த புதிய நிதியைப் பயன்படுத்த Inspiren திட்டமிட்டுள்ளது.",
+    "slug": "inspiren-raises-70-million-to-expand-ai-powered-senior-living-platform"
+  },
+  {
+    "id": "ea7e3e2f895863a4",
+    "slug": "worried-ai-will-kill-everyone-a-former-ftc-commissioner-says-ignore-the-doomers",
+    "title": "Worried AI Will Kill Everyone? A Former FTC Commissioner Says Ignore the Doomers",
+    "tags": [
+      "Federal Trade Commission",
+      "United States"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T10:21:26.000Z"
+  },
+  {
+    "id": "0903ef4341f2b6f0",
+    "slug": "mexc-reports-21-mom-growth-in-new-token-traders-and-31-increase-in-tokenized-stock-trading-volume",
+    "title": "MEXC Reports 21% MoM Growth in New-Token Traders and 31% Increase in Tokenized Stock Trading Volume in August",
+    "tags": [
+      "MEXC",
+      "CRCL",
+      "NBIS",
+      "SPCX",
+      "Vugar Usi",
+      "Comoros"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T10:15:34.000Z"
+  },
+  {
+    "id": "6ea43505db7e6c86",
+    "slug": "65-on-chainlink-link-volume-in-24-hours-can-it-help-the-price-break-12",
+    "title": "+65% on Chainlink (LINK) Volume in 24 Hours: Can It Help the Price Break $12?",
+    "tags": [
+      "Chainlink"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T10:15:00.000Z"
+  },
+  {
+    "id": "8aec04d3f98adf38",
+    "slug": "one-appoints-group-chief-commercial-officer",
+    "title": "ONE appoints group chief commercial officer",
+    "tags": [
+      "ONE group solutions",
+      "Frederic Van Ingelgom"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T10:11:00.000Z"
+  },
+  {
+    "id": "d90a14eb2d3079a6",
+    "slug": "seven-assets-enter-kraken-liquidation-window-after-withdrawals-close-monday",
+    "title": "Seven assets enter Kraken liquidation window after withdrawals close Monday",
+    "tags": [
+      "Kraken"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T10:10:51.000Z"
+  },
+  {
+    "id": "4700392f8016f7a0",
+    "slug": "bank-of-japan-set-to-hike-to-1-25-highest-since-1995-bitcoin-isn-t-flinching-yet",
+    "title": "Bank of Japan Set to Hike to 1.25%, Highest Since 1995. Bitcoin Isn't Flinching Yet",
+    "tags": [
+      "Bank of Japan",
+      "Bitcoin",
+      "Japan"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-14T10:09:26.000Z"
+  },
+  {
+    "id": "a2981242d639bb18",
+    "slug": "dc-advisory-expands-tech-team-in-ireland",
+    "title": "DC Advisory expands tech team in Ireland",
     "tags": [
       "DC Advisory",
       "Mark Jennings",
       "Dublin",
       "Ireland"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-09-14T10:06:00.000Z",
-    "fetchedAt": "2026-09-14T10:02:59.341Z",
-    "isDuplicateOf": null,
-    "content": "US-based investment bank DC Advisory is expanding its technology team in Ireland. As part of this growth, the firm has appointed Mark Jennings to lead the technology team based in Dublin. This strategic move highlights the company's commitment to strengthening its presence and expanding its specialized services in the Irish market.",
-    "content_ta": "அமெரிக்காவைச் சேர்ந்த முதலீட்டு வங்கியான DC Advisory தனது தொழில்நுட்பக் குழுவை Ireland-ல் விரிவுபடுத்துகிறது. இந்த வளர்ச்சியின் ஒரு பகுதியாக, Dublin-ஐ தளமாகக் கொண்ட தொழில்நுட்பக் குழுவை வழிநடத்த Mark Jennings நியமிக்கப்பட்டுள்ளார். இந்த மூலோபாய நடவடிக்கை, ஐரிஷ் சந்தையில் தனது இருப்பை வலுப்படுத்தவும் சிறப்பு சேவைகளை விரிவுபடுத்தவும் இந்நிறுவனம் கொண்டுள்ள அர்ப்பணிப்பை வெளிப்படுத்துகிறது.",
-    "slug": "dc-advisory-expands-tech-team-in-ireland"
+    "hasContent": true,
+    "pubDate": "2026-09-14T10:06:00.000Z"
   },
   {
     "id": "267f3b8f46418897",
@@ -49,22 +748,16 @@
   },
   {
     "id": "5e3802ef26d57eb8",
+    "slug": "youlend-and-dojo-partnership-reaches-2bn-funding-milestone",
     "title": "YouLend and Dojo partnership reaches $2bn funding milestone",
-    "summary": "YouLend, the leading global embedded financing platform, and Dojo, a payments technology provider, today announce a major milestone in their long-standing partnership.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/pressarticle/110888/youlend-and-dojo-partnership-reaches-2bn-funding-milestone?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
     "tags": [
       "YouLend",
       "Dojo"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-09-14T09:52:00.000Z",
-    "fetchedAt": "2026-09-14T10:02:59.341Z",
-    "isDuplicateOf": null,
-    "content": "YouLend and Dojo have announced a major milestone, reaching $2 billion in funding through their ongoing partnership. YouLend operates as a global embedded financing platform, while Dojo serves as a payments technology provider. The collaboration has achieved significant success in supporting businesses with financial services.",
-    "content_ta": "YouLend மற்றும் Dojo நிறுவனங்களின் கூட்டு முயற்சி புதிய மைல்கல்லை எட்டியுள்ளது. இதன் மூலம் $2 பில்லியன் நிதியுதவி வழங்கப்பட்டுள்ளது. YouLend ஒரு முக்கிய உலகளாவிய நிதி வழங்கும் தளமாகவும், Dojo ஒரு பணப்பரிமாற்ற தொழில்நுட்ப நிறுவனமாகவும் செயல்பட்டு வருகின்றன.",
-    "slug": "youlend-and-dojo-partnership-reaches-2bn-funding-milestone"
+    "hasContent": true,
+    "pubDate": "2026-09-14T09:52:00.000Z"
   },
   {
     "id": "46779ef44c0c8054",
@@ -118,681 +811,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-14T09:40:24.000Z"
-  },
-  {
-    "id": "857b3543bc136389",
-    "slug": "bnb-chain-surpasses-solana-in-defi-tvl-as-race-for-second-place-tightens",
-    "title": "BNB Chain surpasses Solana in DeFi TVL as race for second place tightens",
-    "tags": [
-      "BNB Chain",
-      "Solana"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T09:40:02.000Z"
-  },
-  {
-    "id": "af90a4ffaf81d097",
-    "slug": "bernstein-sees-more-clarity-act-progress-than-markets-expected-says-any-positive-surprise-is",
-    "title": "Bernstein sees more Clarity Act progress than markets expected, says ‘any positive surprise is definitely not priced in’",
-    "tags": [
-      "Bernstein",
-      "Federal Reserve",
-      "Clarity Act"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T09:36:08.000Z"
-  },
-  {
-    "id": "1a47d54a66701b0b",
-    "slug": "solana-is-about-to-make-transactions-3-3-bigger-that-matters-more-than-the-number",
-    "title": "Solana is about to make transactions 3.3× bigger. That matters more than the number",
-    "tags": [
-      "Solana",
-      "Solana Foundation"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T09:35:13.000Z"
-  },
-  {
-    "id": "1d3fa3214b381bf1",
-    "slug": "finland-joins-france-s-nuclear-deterrence-initiative-to-bolster-european-defense",
-    "title": "Finland joins France’s nuclear deterrence initiative to bolster European defense",
-    "tags": [
-      "Finland",
-      "France"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T09:34:25.000Z"
-  },
-  {
-    "id": "b3f6d8631cd46bda",
-    "slug": "jpmorgan-warns-retirement-wave-threatening-american-dream-as-millions-of-small-businesses-face",
-    "title": "JPMorgan warns retirement wave threatening American Dream as millions of small businesses face uncertain futures",
-    "tags": [
-      "JPMorgan",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T09:32:11.000Z"
-  },
-  {
-    "id": "cbf75bb0c554d046",
-    "slug": "fed-boe-boj-interest-rate-decisions-crypto-week-ahead",
-    "title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
-    "tags": [
-      "Federal Reserve",
-      "Bank of England",
-      "Bank of Japan"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T09:29:57.000Z"
-  },
-  {
-    "id": "9f50101142c61317",
-    "slug": "td-cowen-sees-90-upside-for-bitcoin-treasury-firm-smarter-web-following-proposed-more-preferred-ipo",
-    "title": "TD Cowen sees 90% upside for bitcoin treasury firm Smarter Web following proposed ‘MORE’ preferred IPO",
-    "tags": [
-      "TD Cowen",
-      "Smarter Web",
-      "Bitcoin",
-      "United Kingdom"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T09:29:39.000Z"
-  },
-  {
-    "id": "f0ff79e0104ef084",
-    "slug": "manchester-united-drops-points-after-controversial-var-decision-hands-derby-to-manchester-city",
-    "title": "Manchester United drops points after controversial VAR decision hands derby to Manchester City",
-    "tags": [
-      "Manchester United",
-      "Manchester City"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T09:26:20.000Z"
-  },
-  {
-    "id": "1571dc7f5dc4a8ac",
-    "slug": "xrp-price-prediction-what-if-the-clarity-act-passes-on-tuesday",
-    "title": "XRP Price Prediction: What If the CLARITY Act Passes on Tuesday?",
-    "tags": [
-      "XRP",
-      "CLARITY Act"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T09:25:40.000Z"
-  },
-  {
-    "id": "e72e969dcb44f2c4",
-    "slug": "hype-etfs-see-26m-in-net-outflows-last-week-as-investor-sentiment-cools",
-    "title": "HYPE ETFs see $26M in net outflows last week as investor sentiment cools",
-    "tags": [
-      "HYPE ETFs"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T09:24:17.000Z"
-  },
-  {
-    "id": "18c102557242bfd8",
-    "slug": "buying-tokenized-gold-in-the-uk-might-get-easier-here-s-what-the-fca-is-weighing",
-    "title": "Buying Tokenized Gold in the UK Might Get Easier. Here's What the FCA Is Weighing",
-    "tags": [
-      "FCA",
-      "United Kingdom"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T09:20:20.000Z"
-  },
-  {
-    "id": "9e6188d34a0e65d2",
-    "slug": "plinko-free-for-beginners-can-users-figure-it-out-without-reading-the-rules",
-    "title": "Plinko.free for beginners: Can users figure it out without reading the rules?",
-    "tags": [
-      "Plinko.free"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T09:20:08.000Z"
-  },
-  {
-    "id": "5c32d079acb9cd3d",
-    "slug": "amundi-buys-two-year-us-treasuries-to-hedge-against-growth-slowdown",
-    "title": "Amundi buys two-year US Treasuries to hedge against growth slowdown",
-    "tags": [
-      "Amundi",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T09:13:59.000Z"
-  },
-  {
-    "id": "68f7e9123290f678",
-    "slug": "blockchain-week-bulgaria-unveils-agenda",
-    "title": "Blockchain Week Bulgaria Unveils Agenda",
-    "tags": [
-      "Blockchain Week Bulgaria",
-      "ETHSofia",
-      "F3: Future Finance Forum",
-      "Ethereum",
-      "Sofia"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T09:10:16.000Z"
-  },
-  {
-    "id": "78350ef681b80e75",
-    "slug": "xrp-price-rallies-can-the-clarity-act-trigger-another-2024-style-run",
-    "title": "XRP price rallies – Can the CLARITY Act trigger another 2024-style run?",
-    "tags": [
-      "XRP",
-      "CLARITY Act"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T09:00:11.000Z"
-  },
-  {
-    "id": "e4931796ccce7475",
-    "slug": "uk-payments-leaders-favour-evolution-over-a-clean-sheet-rebuild",
-    "title": "UK Payments Leaders Favour Evolution Over a Clean-Sheet Rebuild",
-    "tags": [
-      "CI&T",
-      "United Kingdom"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T09:00:11.000Z"
-  },
-  {
-    "id": "5752ed357a995179",
-    "slug": "revolut-bundles-chatgpt-go-into-paid-plans-via-openai-deal",
-    "title": "Revolut Bundles ChatGPT Go Into Paid Plans via OpenAI Deal",
-    "tags": [
-      "Revolut",
-      "OpenAI"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T09:00:07.000Z"
-  },
-  {
-    "id": "04e9c3aa881ec2f0",
-    "slug": "the-cost-of-friction-what-1-500-merchants-told-us-about-payments-in-2026",
-    "title": "The cost of friction: What 1,500 merchants told us about payments in 2026",
-    "tags": [],
-    "source": "Payments Dive",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T09:00:00.000Z"
-  },
-  {
-    "id": "728407eb81261773",
-    "slug": "uk-fca-considers-bespoke-rules-and-fund-exemptions-for-tokenized-gold-ft",
-    "title": "UK FCA considers bespoke rules and fund exemptions for tokenized gold: FT",
-    "tags": [
-      "UK",
-      "FCA"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:57:00.000Z"
-  },
-  {
-    "id": "4ea3d0b92efaabee",
-    "slug": "pi-network-s-latest-solohost-update-skips-the-one-thing-pi-still-needs",
-    "title": "Pi Network's Latest SoloHost Update Skips the One Thing PI Still Needs",
-    "tags": [
-      "Pi Network",
-      "Pi"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:56:33.000Z"
-  },
-  {
-    "id": "fbb8e967eb227327",
-    "slug": "kucoin-spotlight-returns-with-a-gno-land-gnot-pre-listing-subscription-featuring-pro-rata",
-    "title": "KuCoin Spotlight Returns With a Gno.land (GNOT) Pre-Listing Subscription, Featuring Pro-Rata Allocation, KCS Holder Benefits, and Conditional Buyback Mechanism",
-    "tags": [
-      "KuCoin",
-      "Gno.land",
-      "GNOT",
-      "KCS"
-    ],
-    "source": "ZyCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:53:39.000Z"
-  },
-  {
-    "id": "043d580c4169da77",
-    "slug": "anthropic-s-confidential-ipo-filing-targets-2t-valuation-amid-tempered-enthusiasm",
-    "title": "Anthropic’s confidential IPO filing targets $2T valuation amid tempered enthusiasm",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:51:58.000Z"
-  },
-  {
-    "id": "11e735c800ab0101",
-    "slug": "uae-faces-economic-strain-amid-regional-tensions-bloomberg-markets-reports",
-    "title": "UAE faces economic strain amid regional tensions, Bloomberg Markets reports",
-    "tags": [
-      "UAE",
-      "Bloomberg"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:47:59.000Z"
-  },
-  {
-    "id": "bded2b6bcc1beb6e",
-    "slug": "luis-enrique-calls-psg-s-performance-at-brest-worst-of-the-season",
-    "title": "Luis Enrique calls PSG’s performance at Brest worst of the season",
-    "tags": [
-      "Luis Enrique",
-      "Paris Saint-Germain"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:47:57.000Z"
-  },
-  {
-    "id": "5af0aa95926aa637",
-    "slug": "bayern-munich-monitors-florian-wirtz-s-situation-at-liverpool-as-adaptation-struggles-continue",
-    "title": "Bayern Munich monitors Florian Wirtz’s situation at Liverpool as adaptation struggles continue",
-    "tags": [
-      "Bayern Munich",
-      "Florian Wirtz",
-      "Liverpool"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:37:35.000Z"
-  },
-  {
-    "id": "96a3995aa4000d4c",
-    "slug": "bnb-smart-chain-prepares-for-validator-upgrades-by-september-15",
-    "title": "BNB Smart Chain prepares for validator upgrades by September 15",
-    "tags": [
-      "BNB Smart Chain"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:35:53.000Z"
-  },
-  {
-    "id": "2d62868711902676",
-    "slug": "trump-concession-sends-clarity-act-odds-above-32-before-make-or-break-senate-vote",
-    "title": "Trump concession sends CLARITY Act odds above 32% before make-or-break Senate vote",
-    "tags": [
-      "Polymarket",
-      "United States"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:34:58.000Z"
-  },
-  {
-    "id": "5fe0c5a303af91c3",
-    "slug": "semiconductor-stocks-slide-after-anthropic-ceo-calls-for-ai-development-slowdown",
-    "title": "Semiconductor stocks slide after Anthropic CEO calls for AI development slowdown",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:32:46.000Z"
-  },
-  {
-    "id": "65d9068c9dd8854b",
-    "slug": "south-korean-investors-push-for-fourth-crypto-tax-delay-as-regulators-stand-firm",
-    "title": "South Korean investors push for fourth crypto tax delay as regulators stand firm",
-    "tags": [
-      "South Korea"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:31:06.000Z"
-  },
-  {
-    "id": "37815ce2a68a4d23",
-    "slug": "ethereum-price-eyes-3-000-as-supply-tightens-can-eth-break-out",
-    "title": "Ethereum price eyes $3,000 as supply tightens – Can ETH break out?",
-    "tags": [
-      "Ethereum"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:30:05.000Z"
-  },
-  {
-    "id": "45ba389228447002",
-    "slug": "dp-world-expands-overland-logistics-network-amid-us-iran-tensions",
-    "title": "DP World expands overland logistics network amid US-Iran tensions",
-    "tags": [
-      "DP World",
-      "United States",
-      "Iran"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:26:27.000Z"
-  },
-  {
-    "id": "1960a4757e73aee2",
-    "slug": "drone-attack-on-saudi-pipeline-spikes-oil-prices-hits-stock-futures",
-    "title": "Drone attack on Saudi pipeline spikes oil prices, hits stock futures",
-    "tags": [
-      "Saudi Arabia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:26:02.000Z"
-  },
-  {
-    "id": "760e5ec51ad3ce9c",
-    "slug": "us-china-trade-tensions-see-firms-returning-manufacturing-to-china",
-    "title": "US-China trade tensions see firms returning manufacturing to China",
-    "tags": [
-      "United States",
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:24:03.000Z"
-  },
-  {
-    "id": "99cb38f39f02cdd9",
-    "slug": "ecb-s-kazimir-sounds-alarm-on-surging-gas-and-power-prices-as-inflation-risks-mount",
-    "title": "ECB’s Kazimir sounds alarm on surging gas and power prices as inflation risks mount",
-    "tags": [
-      "European Central Bank",
-      "Kazimir",
-      "Europe"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:21:06.000Z"
-  },
-  {
-    "id": "c584bf56721e575d",
-    "slug": "bank-of-japan-rate-hike-pace-under-the-microscope-as-september-decision-looms",
-    "title": "Bank of Japan rate hike pace under the microscope as September decision looms",
-    "tags": [
-      "Bank of Japan",
-      "Japan"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:20:33.000Z"
-  },
-  {
-    "id": "7fc96486f82723b4",
-    "slug": "michigan-residents-receive-driver-s-licenses-with-stranger-s-face-and-fake-birthday",
-    "title": "Michigan Residents Receive Driver’s Licenses With Stranger’s Face and Fake Birthday",
-    "tags": [
-      "Michigan"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:15:30.000Z"
-  },
-  {
-    "id": "202f6c9c8cb78967",
-    "slug": "pi-network-extends-recovery-above-0-097-as-ecosystem-utility-grows",
-    "title": "Pi Network extends recovery above $0.097 as ecosystem utility grows",
-    "tags": [
-      "Pi Network"
-    ],
-    "source": "CoinJournal",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:11:56.000Z"
-  },
-  {
-    "id": "2cdf7ca7c01e35af",
-    "slug": "bitcoin-holds-steady-as-tech-stocks-decline-on-ai-safety-concerns",
-    "title": "Bitcoin holds steady as tech stocks decline on AI safety concerns",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:11:12.000Z"
-  },
-  {
-    "id": "0da5c55332bebc10",
-    "slug": "hyperliquid-becomes-third-largest-crypto-exchange-by-open-interest-surpasses-11b",
-    "title": "Hyperliquid becomes third-largest crypto exchange by open interest, surpasses $11B",
-    "tags": [
-      "Hyperliquid"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:11:08.000Z"
-  },
-  {
-    "id": "8341d674ba7471c7",
-    "slug": "bitcoin-bucks-tech-selloff-as-ai-safety-concerns-weigh-on-stocks",
-    "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:07:16.000Z"
-  },
-  {
-    "id": "fd11c81a5fa1f319",
-    "slug": "latvian-pm-urges-eu-unity-against-russian-hybrid-threats-amid-ongoing-tensions",
-    "title": "Latvian PM urges EU unity against Russian hybrid threats amid ongoing tensions",
-    "tags": [
-      "Latvia",
-      "European Union",
-      "Russia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:06:17.000Z"
-  },
-  {
-    "id": "8a858d98a262d267",
-    "slug": "dfo-management-leads-7-7b-take-private-deal-for-baldwin-insurance-group",
-    "title": "DFO Management leads $7.7B take-private deal for Baldwin Insurance Group",
-    "tags": [
-      "DFO Management",
-      "Baldwin Insurance Group"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:04:38.000Z"
-  },
-  {
-    "id": "3d826da0ad1fcedd",
-    "slug": "cardano-holds-0-20-support-as-bearish-derivatives-signals-limit-recovery",
-    "title": "Cardano holds $0.20 support as bearish derivatives signals limit recovery",
-    "tags": [
-      "Cardano"
-    ],
-    "source": "CoinJournal",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:04:31.000Z"
-  },
-  {
-    "id": "4f56cf924f6a1069",
-    "slug": "study-finds-credit-card-loyalty-is-more-fragile-than-it-looks",
-    "title": "Study Finds Credit Card Loyalty Is More Fragile Than It Looks",
-    "tags": [
-      "PYMNTS Intelligence",
-      "Elan"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:03:14.000Z"
-  },
-  {
-    "id": "5f7d1dbbb7a8c14c",
-    "slug": "late-b2b-payments-tax-4-1-of-corporate-revenue",
-    "title": "Late B2B Payments Tax 4.1% of Corporate Revenue",
-    "tags": [
-      "PYMNTS Intelligence",
-      "Growth Corporates Working Capital Index"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:00:34.000Z"
-  },
-  {
-    "id": "de0700934c928f38",
-    "slug": "77-would-choose-their-existing-financial-app-for-a-digital-asset-wallet",
-    "title": "77% Would Choose Their Existing Financial App for a Digital Asset Wallet",
-    "tags": [
-      "PYMNTS.com"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:00:07.000Z"
-  },
-  {
-    "id": "f1ff789ad627f15e",
-    "slug": "healthcare-ai-agents-help-patients-get-care-faster",
-    "title": "Healthcare AI Agents Help Patients Get Care Faster",
-    "tags": [
-      "PYMNTS.com"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:00:06.000Z"
-  },
-  {
-    "id": "d9f0fba90dd88f34",
-    "slug": "chift-raises-10-5m-to-build-financial-connectivity-layer-for-the-ai-era",
-    "title": "Chift raises €10.5m to build financial connectivity layer for the AI era",
-    "tags": [
-      "Chift",
-      "BlackFin Capital Partners"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T08:00:00.000Z"
-  },
-  {
-    "id": "a55dc275b62d7dd4",
-    "slug": "btc-xrp-and-eth-recover-as-crypto-bill-achieves-huge-breakthrough",
-    "title": "BTC, XRP and ETH Recover as Crypto Bill Achieves Huge Breakthrough",
-    "tags": [
-      "Bitcoin",
-      "XRP",
-      "Ethereum",
-      "White House",
-      "United States Senate"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T07:48:55.000Z"
-  },
-  {
-    "id": "9a972fc0dad00a2b",
-    "slug": "israel-accused-of-eliminating-palestinian-living-conditions-in-west-bank",
-    "title": "Israel accused of eliminating Palestinian living conditions in West Bank",
-    "tags": [
-      "Israel",
-      "West Bank",
-      "Palestine"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T07:39:21.000Z"
-  },
-  {
-    "id": "02304cd196a30645",
-    "slug": "trump-urges-ukraine-to-halt-attacks-on-russian-refineries-amid-us-diesel-spike",
-    "title": "Trump urges Ukraine to halt attacks on Russian refineries amid US diesel spike",
-    "tags": [
-      "Trump",
-      "Ukraine",
-      "Russia",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T07:29:28.000Z"
-  },
-  {
-    "id": "6e7281d966b6dda4",
-    "slug": "dollar-firms-yen-wobbles-ahead-of-fed-and-boj-decisions",
-    "title": "Dollar firms, yen wobbles ahead of Fed and BOJ decisions",
-    "tags": [
-      "Federal Reserve",
-      "Bank of Japan"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-14T07:23:40.000Z"
   }
 ]
