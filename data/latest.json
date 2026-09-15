@@ -1,214 +1,711 @@
 [
   {
-    "id": "0902256d41958904",
-    "title": "Your Customers Don’t See Your Technology, They Feel It",
-    "summary": "Customers now judge banks by execution, not products, writes Finastra chief Chris Walters, and that makes the payments and lending stack a brand call.\nThe post Your Customers Don’t See Your Technology, They Feel It appeared first on The Fintech Times.",
+    "id": "edef3c587a7a0aac",
+    "slug": "ex-synapse-partner-lineage-bank-rebrands-as-harpeth-in-community-banking-pivot",
+    "title": "Ex-Synapse Partner Lineage Bank Rebrands as Harpeth in Community Banking Pivot",
+    "tags": [
+      "Lineage Bank",
+      "Harpeth Bank & Trust",
+      "Synapse",
+      "Tennessee"
+    ],
+    "source": "PYMNTS",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T20:01:45.000Z"
+  },
+  {
+    "id": "f64013d6a9b8d343",
+    "title": "Cloture Vote on the CLARITY Act Fails in the Senate",
+    "summary": "The cloture vote on the CLARITY Act failed in the Senate, as supporters fell short of the 60 votes needed to open debate on the legislation. The final tally was disappointing as several Republican senators, including Senators Hawley, Collins, and Moran, typically more supportive of... Read More",
     "hasSummary": true,
-    "link": "https://thefintechtimes.com/your-customers-dont-see-your-technology-they-feel-it/",
-    "source": "The Fintech Times",
+    "link": "https://www.crowdfundinsider.com/2026/09/310435-cloture-vote-on-the-clarity-act-fails-in-the-senate/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "CLARITY Act",
+      "United States Senate"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-15T19:54:54.000Z",
+    "fetchedAt": "2026-09-15T20:02:16.159Z",
+    "isDuplicateOf": null,
+    "content": "A cloture vote on the CLARITY Act failed in the Senate after supporters fell short of the required 60 votes to open debate on the legislation. Several senators, including some previously seen as more supportive, did not vote in favor, resulting in a disappointing final tally for the bill's backers.",
+    "content_ta": "Senate-ல் CLARITY Act மீதான cloture வாக்கெடுப்பு தோல்வியடைந்தது. இந்த மசோதா மீதான விவாதத்தைத் தொடங்க தேவையான 60 வாக்குகளை ஆதரவாளர்களால் பெற முடியவில்லை. சில செனட்டர்கள் ஆதரவளிக்காததால், மசோதாவின் ஆதரவாளர்களுக்கு இந்த இறுதி முடிவு ஏமாற்றத்தை அளித்துள்ளது.",
+    "slug": "cloture-vote-on-the-clarity-act-fails-in-the-senate"
+  },
+  {
+    "id": "8c75d5fb60eb987a",
+    "title": "Split Pay Raises $125 Million to Bring BNPL to Big Expenses",
+    "summary": "Lending startup Split Pay raised $125 million in new funding, Axios reported Sept. 8. The company’s Series A and Series B rounds were led by Khosla Ventures, and there was participation from Thrive Capital and Affirm CEO Max Levchin, according to the report. Split Pay’s venture is an effort to make the consumer economy function […]\nThe post Split Pay Raises $125 Million to Bring BNPL to Big Expenses appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/bnpl/2026/split-pay-raises-125-million-dollars-bring-bnpl-big-expenses/",
+    "source": "PYMNTS",
+    "tags": [
+      "Split Pay",
+      "Khosla Ventures",
+      "Thrive Capital",
+      "Affirm",
+      "Max Levchin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-15T19:54:08.000Z",
+    "fetchedAt": "2026-09-15T20:02:16.159Z",
+    "isDuplicateOf": null,
+    "content": "Lending startup Split Pay has raised $125 million in new funding. The funding rounds were led by Khosla Ventures, with participation from Thrive Capital and Affirm CEO Max Levchin. The company aims to bring Buy Now, Pay Later services to larger consumer expenses.",
+    "content_ta": "லெண்டிங் startup- ஆன Split Pay புதிய funding-ஆக $125 மில்லியன் திரட்டியுள்ளது. Khosla Ventures தலைமையில் நடைபெற்ற இந்த funding rounds-ல், Thrive Capital மற்றும் Affirm CEO Max Levchin ஆகியோர் பங்கேற்றனர். Consumer expenses-களுக்கு Buy Now, Pay Later சேவைகளை கொண்டுவருவதை இந்நிறுவனம் நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "split-pay-raises-125-million-to-bring-bnpl-to-big-expenses"
+  },
+  {
+    "id": "5a8e2255ab28c32b",
+    "slug": "waymo-partners-to-launch-tokyo-s-first-autonomous-robotaxi-service-by-2027",
+    "title": "Waymo partners to launch Tokyo’s first autonomous robotaxi service by 2027",
+    "tags": [
+      "Waymo",
+      "Tokyo"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T19:52:20.000Z"
+  },
+  {
+    "id": "466743e0854d0505",
+    "slug": "oranjebtc-launches-world-s-first-bitcoin-backed-digital-credit-etf-on-brazil-s-b3-exchange",
+    "title": "OranjeBTC launches world’s first Bitcoin-backed digital credit ETF on Brazil’s B3 exchange",
+    "tags": [
+      "OranjeBTC",
+      "Bitcoin",
+      "Brazil",
+      "B3"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T19:52:10.000Z"
+  },
+  {
+    "id": "913df3c78a62c384",
+    "slug": "major-bitcoin-core-update-changes-default-wallet-protocols-risking-temporary-disruption-across",
+    "title": "Major Bitcoin Core update changes default wallet protocols, risking temporary disruption across popular apps",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T19:50:39.000Z"
+  },
+  {
+    "id": "60c4c0845d5f1db6",
+    "slug": "wells-fargo-cuts-s-p-500-target-to-7-700-and-warns-of-a-10-pullback",
+    "title": "Wells Fargo cuts S&P 500 target to 7,700 and warns of a 10% pullback",
+    "tags": [
+      "Wells Fargo",
+      "S&P 500"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T19:50:13.000Z"
+  },
+  {
+    "id": "a2ff2e5dc01bf3d2",
+    "slug": "bernie-sanders-steve-bannon-unite-to-call-for-ai-restrictions",
+    "title": "Bernie Sanders, Steve Bannon unite to call for AI restrictions",
+    "tags": [
+      "Bernie Sanders",
+      "Steve Bannon"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T19:42:05.000Z"
+  },
+  {
+    "id": "a943f6e6e0c32a6a",
+    "slug": "russia-holds-early-voting-in-occupied-ukraine-ahead-of-national-election",
+    "title": "Russia holds early voting in occupied Ukraine ahead of national election",
+    "tags": [
+      "Russia",
+      "Ukraine"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T19:41:44.000Z"
+  },
+  {
+    "id": "84002f762d463d22",
+    "slug": "bologna-sacks-manager-domenico-tedesco-with-immediate-effect",
+    "title": "Bologna sacks manager Domenico Tedesco with immediate effect",
+    "tags": [
+      "Bologna",
+      "Domenico Tedesco"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T19:40:03.000Z"
+  },
+  {
+    "id": "c894437ca8eca1bf",
+    "slug": "fomc-meeting-expected-to-result-in-first-rate-hike-since-2023-bloomberg",
+    "title": "FOMC meeting expected to result in first rate hike since 2023: Bloomberg",
+    "tags": [
+      "FOMC",
+      "Bloomberg"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T19:36:09.000Z"
+  },
+  {
+    "id": "d42265334dd1dd3e",
+    "slug": "is-the-president-blocking-america-s-last-chance-to-control-superintelligence",
+    "title": "Is the President Blocking America’s Last Chance to Control Superintelligence?",
+    "tags": [
+      "Donald Trump",
+      "United States"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T19:34:00.000Z"
+  },
+  {
+    "id": "0ccf36018bc7673e",
+    "slug": "fulham-s-cesar-palacios-restores-lead-against-west-ham-in-premier-league-clash",
+    "title": "Fulham’s Cesar Palacios restores lead against West Ham in Premier League clash",
+    "tags": [
+      "Fulham",
+      "West Ham",
+      "Cesar Palacios",
+      "Premier League"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T19:31:07.000Z"
+  },
+  {
+    "id": "ffe77b141c10aa25",
+    "slug": "spacex-plans-starship-s-first-orbital-flight-next-week",
+    "title": "SpaceX plans Starship’s first orbital flight next week",
+    "tags": [
+      "SpaceX",
+      "Starship"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T19:27:51.000Z"
+  },
+  {
+    "id": "6922e48f55bed8b2",
+    "slug": "scott-bessent-testifies-on-international-financial-system-before-congress",
+    "title": "Scott Bessent testifies on international financial system before Congress",
+    "tags": [
+      "Scott Bessent",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T19:20:09.000Z"
+  },
+  {
+    "id": "43ca9d514b1264c1",
+    "slug": "diego-simeone-calls-atletico-madrid-a-work-in-progress-amid-criticism",
+    "title": "Diego Simeone calls Atletico Madrid a work in progress amid criticism",
+    "tags": [
+      "Atletico Madrid",
+      "Diego Simeone"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T19:18:56.000Z"
+  },
+  {
+    "id": "3f08a9187fe3e720",
+    "slug": "elon-musk-lives-in-airstream-trailer-to-oversee-xai-s-memphis-expansion",
+    "title": "Elon Musk lives in Airstream trailer to oversee xAI’s Memphis expansion",
+    "tags": [
+      "Elon Musk",
+      "xAI",
+      "Memphis"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T19:17:50.000Z"
+  },
+  {
+    "id": "9b7925ba8f269103",
+    "slug": "mastercard-just-added-cardano-to-its-9-2-trillion-payment-network-could-this-be-the-catalyst-that",
+    "title": "Mastercard Just Added Cardano to its $9.2 Trillion Payment Network — Could This Be the Catalyst That Sends ADA Parabolic?",
+    "tags": [
+      "Cardano",
+      "Mastercard",
+      "Cardano Foundation"
+    ],
+    "source": "ZyCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T19:15:29.000Z"
+  },
+  {
+    "id": "d5d869f28414f0f6",
+    "slug": "hyperliquid-eyes-us-market-with-potential-perpetual-futures-launch",
+    "title": "Hyperliquid eyes US market with potential perpetual futures launch",
+    "tags": [
+      "Hyperliquid",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T19:07:21.000Z"
+  },
+  {
+    "id": "ee008ac32f479a68",
+    "slug": "viral-report-alleges-anthropic-s-ai-safety-watchdog-conflicted",
+    "title": "Viral report alleges Anthropic’s AI safety watchdog conflicted",
+    "tags": [
+      "Anthropic",
+      "METR"
+    ],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T19:06:52.000Z"
+  },
+  {
+    "id": "1379e081e5d1b8b2",
+    "slug": "hyperliquid-s-319-target-hinges-on-token-dilution-analyst",
+    "title": "Hyperliquid’s $319 Target Hinges on Token Dilution: Analyst",
+    "tags": [
+      "Hyperliquid",
+      "HYPE"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T19:02:24.000Z"
+  },
+  {
+    "id": "ce59bb2867718538",
+    "slug": "mark-zuckerberg-meta-ai-predicts-an-explosive-end-to-2026-for-bitcoin",
+    "title": "Mark Zuckerberg Meta AI Predicts an Explosive End to 2026 for Bitcoin",
+    "tags": [
+      "Meta",
+      "Bitcoin",
+      "Washington"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T19:00:00.000Z"
+  },
+  {
+    "id": "65d464b6e34dded6",
+    "slug": "germany-backs-new-eu-measures-against-china-s-trade-practices",
+    "title": "Germany backs new EU measures against China’s trade practices",
+    "tags": [
+      "Germany",
+      "China",
+      "European Union"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T18:59:45.000Z"
+  },
+  {
+    "id": "04b52b44444f7b36",
+    "slug": "jpmorgan-co-president-expects-q3-investment-banking-and-trading-fees-to-rise-by-mid-to-high-teens",
+    "title": "JPMorgan co-president expects Q3 investment banking and trading fees to rise by mid-to-high teens",
+    "tags": [
+      "JPMorgan"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T18:59:10.000Z"
+  },
+  {
+    "id": "0bf738bd22816352",
+    "slug": "jensen-huang-criticizes-hyperscalers-for-slow-infrastructure-planning-says-neoclouds-will-eat-their",
+    "title": "Jensen Huang criticizes hyperscalers for slow infrastructure planning, says neoclouds will eat their lunch",
+    "tags": [
+      "Jensen Huang"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T18:57:58.000Z"
+  },
+  {
+    "id": "334b76d1f50f0e75",
+    "slug": "claude-desktop-gets-a-sessions-hub-for-juggling-local-and-cloud-work",
+    "title": "Claude desktop gets a sessions hub for juggling local and cloud work",
+    "tags": [
+      "Claude"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T18:57:16.000Z"
+  },
+  {
+    "id": "dc8b67e6eb8d0278",
+    "slug": "scammers-hit-wells-fargo-customer-wipe-woman-s-accounts-down-to-13",
+    "title": "Scammers Hit Wells Fargo Customer, Wipe Woman’s Accounts Down to $13",
+    "tags": [
+      "Wells Fargo",
+      "Alabama"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T18:56:09.000Z"
+  },
+  {
+    "id": "f7df3daeac684bcc",
+    "slug": "uae-seeks-removal-from-travel-advisories-as-dubai-hotel-occupancy-rebounds",
+    "title": "UAE seeks removal from travel advisories as Dubai hotel occupancy rebounds",
+    "tags": [
+      "UAE",
+      "Dubai"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T18:53:30.000Z"
+  },
+  {
+    "id": "0b502a1388d3946f",
+    "slug": "ai-stocks-rise-despite-broader-market-downturn-as-spending-fears-ease",
+    "title": "AI stocks rise despite broader market downturn as spending fears ease",
+    "tags": [
+      "AI"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T18:48:44.000Z"
+  },
+  {
+    "id": "8d4d47efba6284f3",
+    "slug": "nvidia-ceo-jensen-huang-urges-ai-companies-to-release-products-only-when-confident-the-market-will",
+    "title": "Nvidia CEO Jensen Huang urges AI companies to release products only when confident the market will accept them",
+    "tags": [
+      "Nvidia",
+      "Jensen Huang"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T18:47:27.000Z"
+  },
+  {
+    "id": "d01ac9d39ef5887d",
+    "title": "Waystar Considers Sale of Healthcare Payments Software Firm",
+    "summary": "Healthcare industry payments management software company Waystar is reportedly considering a potential sale. Such a deal could return Waystar to private ownership two years after the company went public, according to a Tuesday (Sept. 15) Reuters report citing seven sources familiar with the matter. Sources say the company has hired bankers to advise on a possible sale, though the […]\nThe post Waystar Considers Sale of Healthcare Payments Software Firm appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/healthcare/2026/waystar-considers-sale-of-healthcare-payments-software-firm/",
+    "source": "PYMNTS",
+    "tags": [
+      "Waystar",
+      "Reuters"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-15T18:47:15.000Z",
+    "fetchedAt": "2026-09-15T20:02:16.159Z",
+    "isDuplicateOf": null,
+    "content": "Healthcare payments software company Waystar is reportedly exploring a potential sale that could return the firm to private ownership. According to reports citing sources familiar with the matter, the company has hired financial advisors to guide the process. This potential move comes roughly two years after Waystar initially became a public company.",
+    "content_ta": "Healthcare payments software நிறுவனமான Waystar, மீண்டும் தனியார்டைவதற்கான சாத்தியமான விற்பனை குறித்து பரிசீலித்து வருவதாக தகவல்கள் வெளியாகியுள்ளன. இந்த விவகாரம் குறித்து அறிந்த வட்டாரங்களின்படி, இந்நிறுவனம் இந்த விற்பனை செயல்முறைக்கு வழிகாட்ட நிதி ஆலோசகர்களை நியமித்துள்ளது. Waystar பொது நிறுவனமாக மாறிய ஏறக்குறைய இரண்டு ஆண்டுகளுக்குப் பிறகு இந்த நடவடிக்கை எடுக்கப்படலாம் என்று கூறப்படுகிறது.",
+    "slug": "waystar-considers-sale-of-healthcare-payments-software-firm"
+  },
+  {
+    "id": "1b3e4150a6ed20d6",
+    "slug": "us-senate-fails-to-advance-clarity-act",
+    "title": "US Senate fails to advance CLARITY Act",
+    "tags": [
+      "United States"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T18:46:51.000Z"
+  },
+  {
+    "id": "7e65cbd69b288f86",
+    "slug": "us-attorney-general-todd-blanche-signals-hands-off-doj-approach-to-ai-enforcement",
+    "title": "US Attorney General Todd Blanche signals hands-off DOJ approach to AI enforcement",
+    "tags": [
+      "Todd Blanche",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T18:40:08.000Z"
+  },
+  {
+    "id": "1511513a2d936a3b",
+    "slug": "stargate-updates-token-conversion-process-transitions-to-taxi-transactions",
+    "title": "Stargate updates token conversion process, transitions to Taxi transactions",
+    "tags": [
+      "Stargate",
+      "LayerZero"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T18:39:41.000Z"
+  },
+  {
+    "id": "13d9f38c81d7581d",
+    "slug": "new-york-fed-probes-risks-as-hedge-funds-fill-void-left-by-pension-funds-in-treasurys",
+    "title": "New York Fed probes risks as hedge funds fill void left by pension funds in Treasurys",
+    "tags": [
+      "New York Fed",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T18:36:36.000Z"
+  },
+  {
+    "id": "a1fb6b156b1041dc",
+    "slug": "iran-conflict-costs-us-2b-monthly-cbo-estimates",
+    "title": "Iran conflict costs US $2B monthly, CBO estimates",
+    "tags": [
+      "Iran",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T18:35:49.000Z"
+  },
+  {
+    "id": "778ab10ad9747c1d",
+    "slug": "myx-finance-price-prediction-2026-2027-2030-is-myx-the-next-big-decentralized-futures-play",
+    "title": "MYX Finance Price Prediction 2026, 2027-2030: Is MYX the Next Big Decentralized Futures Play?",
+    "tags": [
+      "MYX Finance",
+      "MYX"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T18:26:21.000Z"
+  },
+  {
+    "id": "188478b514419432",
+    "slug": "did-crypto-s-20-billion-defi-surge-just-get-stolen-by-price-inflation",
+    "title": "Did crypto’s $20 Billion DeFi surge just get stolen by price inflation?",
+    "tags": [
+      "ETH",
+      "SOL"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T18:15:37.000Z"
+  },
+  {
+    "id": "317c025446aeb87f",
+    "slug": "xrp-news-deeper-liquidity-leaves-traders-waiting-for-conviction",
+    "title": "XRP News: Deeper Liquidity Leaves Traders Waiting for Conviction",
+    "tags": [
+      "XRP",
+      "Binance"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T18:13:00.000Z"
+  },
+  {
+    "id": "b19b4870747e17d4",
+    "title": "Physical AI’s Biggest Market Is 280,000 Aging US Factories",
+    "summary": "The physical AI boom is easy to picture as a new factory filled with humanoid robots and autonomous machines. The bigger opportunity may be much less futuristic. It’s making factories built decades ago smarter without replacing the equipment already inside them. That market is taking shape as manufacturers layer artificial intelligence, sensors, digital twins and, […]\nThe post Physical AI’s Biggest Market Is 280,000 Aging US Factories appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/physical-ais-biggest-market-is-280000-aging-us-factories/",
+    "source": "PYMNTS",
+    "tags": [
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-15T18:07:11.000Z",
+    "fetchedAt": "2026-09-15T20:02:16.159Z",
+    "isDuplicateOf": null,
+    "content": "The physical AI boom is often envisioned as new factories filled with humanoid robots. However, the larger market lies in upgrading hundreds of thousands of aging US factories. Instead of replacing existing equipment, manufacturers are integrating artificial intelligence, sensors, and digital twins to make older facilities smarter and more efficient.",
+    "content_ta": "Physical AI-ன் மிகப்பெரிய சந்தை புதிய ரோபோக்கள் கொண்ட தொழிற்சாலைகள் மட்டுமல்ல, பல தசாப்தங்களாக இயங்கி வரும் US-ல் உள்ள ஆயிரக்கணக்கான பழைய தொழிற்சாலைகளை மேம்படுத்துவதாகும். ஏற்கனவே உள்ள உபகரணங்களை மாற்றாமல், செயற்கை நுண்ணறிவு மற்றும் சென்சார்களைப் பயன்படுத்தி அவற்றை ஸ்மார்ட்டாக மாற்றுவதே இப்போதைய முக்கிய வாய்ப்பாக உள்ளது.",
+    "slug": "physical-ai-s-biggest-market-is-280-000-aging-us-factories"
+  },
+  {
+    "id": "ee4274223c94f29c",
+    "slug": "wells-fargo-brings-international-money-transfers-to-mobile-app",
+    "title": "Wells Fargo brings international money transfers to mobile app",
+    "tags": [
+      "Wells Fargo",
+      "ExpressSend"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T18:05:00.000Z"
+  },
+  {
+    "id": "0902256d41958904",
+    "slug": "your-customers-don-t-see-your-technology-they-feel-it",
+    "title": "Your Customers Don’t See Your Technology, They Feel It",
     "tags": [
       "Finastra",
       "Chris Walters"
     ],
+    "source": "The Fintech Times",
     "origin": "rss",
-    "pubDate": "2026-09-15T18:00:54.000Z",
-    "fetchedAt": "2026-09-15T18:01:26.014Z",
-    "isDuplicateOf": null,
-    "content": "Finastra chief Chris Walters emphasizes that customers today judge banks based on execution and overall experience rather than traditional products. As a result, the payments and lending technology stack has become a crucial brand statement for financial institutions, directly shaping how consumers perceive and interact with their bank.",
-    "content_ta": "Finastra-யின் தலைவர் Chris Walters, வாடிக்கையாளர்கள் இன்று பாரம்பரிய தயாரிப்புகளை விட செயல்பாடுகள் மற்றும் அனுபவத்தின் அடிப்படையில் மட்டுமே வங்கிகளை மதிப்பிடுகின்றனர் என்று குறிப்பிடுகிறார். இதன் விளைவாக, கட்டணங்கள் மற்றும் கடன் வழங்கும் தொழில்நுட்பக் கட்டமைப்பு நிதி நிறுவனங்களின் பிராண்ட் அடையாளத்தை நிர்ணயிக்கும் முக்கிய காரணியாக மாறியுள்ளது.",
-    "slug": "your-customers-don-t-see-your-technology-they-feel-it"
+    "hasContent": true,
+    "pubDate": "2026-09-15T18:00:54.000Z"
   },
   {
     "id": "03656a620233bebb",
+    "slug": "cap-crypto-jumps-38-yet-bulls-should-be-cautious-here-s-why",
     "title": "CAP crypto jumps 38%, yet bulls should be cautious – Here’s why",
-    "summary": "CAP crosses $100 million in market cap: Sentiment drives rally, but weak flows threaten price sustainability.",
-    "hasSummary": true,
-    "link": "https://ambcrypto.com/cap-crypto-jumps-38-yet-bulls-should-be-cautious-heres-why/",
-    "source": "AMBCrypto",
     "tags": [
       "CAP"
     ],
+    "source": "AMBCrypto",
     "origin": "rss",
-    "pubDate": "2026-09-15T18:00:36.000Z",
-    "fetchedAt": "2026-09-15T18:01:26.013Z",
-    "isDuplicateOf": null,
-    "content": "The CAP cryptocurrency recently surged by 38 percent, pushing its total market valuation past the milestone of $100 million. While market sentiment and enthusiasm have successfully driven this impressive price rally, analysts warn that weak capital inflows could threaten the long-term sustainability of these gains, suggesting that investors should exercise caution.",
-    "content_ta": "CAP கிரிப்டோகரன்சியின் விலை அண்மையில் 38 சதவீதம் உயர்ந்துள்ளது. இதன் மூலம் அதன் மொத்த மார்க்கெட் மதிப்பு $100 மில்லியனைத் தாண்டியுள்ளது. சந்தையின் சாதகமான மனநிலை இந்த விலை உயர்வுக்கு முக்கியக் காரணமாக இருந்தாலும், பலவீனமான மூலதனப் பணவாட்டம் இதன் விலை நிலைத்தன் அச்சுறுத்தலாக அமையலாம் என எச்சரிக்கப்பட்டுள்ளது.",
-    "slug": "cap-crypto-jumps-38-yet-bulls-should-be-cautious-here-s-why"
+    "hasContent": true,
+    "pubDate": "2026-09-15T18:00:36.000Z"
   },
   {
     "id": "3c41fc8959cf9558",
+    "slug": "hackers-breach-italian-state-email-to-target-revolut-crypto-users",
     "title": "Hackers breach Italian state email to target Revolut crypto users",
-    "summary": "This breach highlights vulnerabilities in emergency data request protocols, emphasizing the need for stricter verification to protect user data.\nThe post Hackers breach Italian state email to target Revolut crypto users appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/hackers-breach-italian-email-revolut-crypto/",
-    "source": "CryptoBriefing",
     "tags": [
       "Revolut",
       "Italy"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-15T17:58:14.000Z",
-    "fetchedAt": "2026-09-15T18:01:26.013Z",
-    "isDuplicateOf": null,
-    "content": "Hackers breached an Italian state email system in a targeted campaign against Revolut crypto users. This security incident exposes significant vulnerabilities within emergency data request protocols. Cybersecurity experts emphasize the urgent need for stricter verification processes to better protect sensitive user data from ongoing digital threats.",
-    "content_ta": "Revolut crypto பயனர்களை குறிவைத்து நடத்தப்பட்ட சைபர் தாக்குதலில் Italian state email அமைப்பு ஹேக்கர்களால் ஊடுருவப்பட்டுள்ளது. இந்த பாதுகாப்பு மீறல் அவசர தரவு கோரிக்கை நெறிமுறைகளில் உள்ள பலவீனங்களை வெளிச்சம் போட்டுக் காட்டுகிறது. உணர்திறன் வாய்ந்த பயனர் தரவைப் பாதுகாக்க கடுமையான சரிபார்ப்பு நடைமுறைகள் அவசியమని நிபுணர்கள் வலியுறுத்துகின்றனர்.",
-    "slug": "hackers-breach-italian-state-email-to-target-revolut-crypto-users"
+    "hasContent": true,
+    "pubDate": "2026-09-15T17:58:14.000Z"
   },
   {
     "id": "31b2d2b7ce100b1d",
+    "slug": "thomas-massie-files-impeachment-articles-against-defense-secretary-pete-hegseth-over-iran-operations",
     "title": "Thomas Massie files impeachment articles against Defense Secretary Pete Hegseth over Iran operations",
-    "summary": "Rep. Thomas Massie filed eight impeachment articles against Defense Secretary Pete Hegseth, alleging unauthorized military operations in Iran\nThe post Thomas Massie files impeachment articles against Defense Secretary Pete Hegseth over Iran operations appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/massie-impeachment-articles-hegseth-iran/",
-    "source": "CryptoBriefing",
     "tags": [
       "Thomas Massie",
       "Pete Hegseth",
       "Iran"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-15T17:57:05.000Z",
-    "fetchedAt": "2026-09-15T18:01:26.013Z",
-    "isDuplicateOf": null,
-    "content": "Representative Thomas Massie has filed eight impeachment articles against Defense Secretary Pete Hegseth. The filing centers on allegations involving unauthorized military operations in Iran, raising significant political and constitutional questions regarding executive power and military engagement in the region.",
-    "content_ta": "Defense Secretary Pete Hegseth மீது பிரதிநிதி Thomas Massie எட்டு கண்டன தீர்மானங்களை (impeachment articles) தாக்கல் செய்துள்ளார். Iran-ல் முறையான அனுமதியின்றி நடத்தப்பட்ட ராணுவ நடவடிக்கைகள் குறித்த குற்றச்சாட்டுகளின் அடிப்படையில் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.",
-    "slug": "thomas-massie-files-impeachment-articles-against-defense-secretary-pete-hegseth-over-iran-operations"
+    "hasContent": true,
+    "pubDate": "2026-09-15T17:57:05.000Z"
   },
   {
     "id": "fd890bd5065b2ed9",
+    "slug": "arsenal-hands-16-year-old-max-dowman-a-league-cup-start-against-ipswich-as-arteta-rings-the-changes",
     "title": "Arsenal hands 16-year-old Max Dowman a league cup start against Ipswich as Arteta rings the changes",
-    "summary": "Arteta's strategic squad rotation highlights Arsenal's depth and commitment to nurturing young talent, potentially reshaping future team dynamics.\nThe post Arsenal hands 16-year-old Max Dowman a league cup start against Ipswich as Arteta rings the changes appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/arsenal-dowman-nine-changes-ipswich-efl-cup/",
-    "source": "CryptoBriefing",
     "tags": [
       "Arsenal",
       "Ipswich",
       "Max Dowman",
       "Mikel Arteta"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-15T17:56:05.000Z",
-    "fetchedAt": "2026-09-15T18:01:26.014Z",
-    "isDuplicateOf": null,
-    "content": "Arsenal manager Mikel Arteta made significant changes to his squad, handing a league cup start to 16-year-old Max Dowman in a match against Ipswich. This strategic rotation showcases the club's squad depth and highlights their ongoing commitment to developing young talent, which could influence future team selections and dynamics.",
-    "content_ta": "Arsenal அணியின் மேலாளர் Mikel Arteta தனது அணியில் முக்கிய மாற்றங்களைச் செய்தார், Ipswich அணிக்கு எதிரான லீக் கோப்பை போட்டியில் 16 வயது Max Dowman-க்கு வாய்ப்பளித்தார். இந்த வியூக மாற்றம் அணியின் ஆழத்தையும், இளம் திறமைகளை வளர்ப்பதில் உள்ள ஈடுபாட்டையும் காட்டுகிறது.",
-    "slug": "arsenal-hands-16-year-old-max-dowman-a-league-cup-start-against-ipswich-as-arteta-rings-the-changes"
+    "hasContent": true,
+    "pubDate": "2026-09-15T17:56:05.000Z"
   },
   {
     "id": "c16cc5b3207fbaf1",
+    "slug": "stablecoin-growth-could-boost-dollar-dominance-us-treasury-demand-boe-official",
     "title": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
-    "summary": "A Bank of England policy maker said digital dollars could expand access to the US currency while turning stablecoin issuers into bigger buyers of government debt.",
-    "hasSummary": true,
-    "link": "https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph",
     "tags": [
       "Bank of England",
       "United States"
     ],
+    "source": "Cointelegraph",
     "origin": "rss",
-    "pubDate": "2026-09-15T17:53:04.000Z",
-    "fetchedAt": "2026-09-15T18:01:26.013Z",
-    "isDuplicateOf": null,
-    "content": "A Bank of England official stated that the growth of stablecoins could strengthen the dominance of the US dollar globally. According to the official, digital currencies may expand access to the US currency and simultaneously transform stablecoin issuers into major purchasers of US government debt.",
-    "content_ta": "Stablecoin-களின் வளர்ச்சி US dollar-ன் ஆதிக்கத்தை உலகளவில் பலப்படுத்தக்கூடும் என்று Bank of England அதிகாரி ஒருவர் தெரிவித்துள்ளார். இந்த டிஜிட்டல் நாணயங்கள் US currency-க்கான அணுகலை விரிவுபடுத்துவதோடு, stablecoin வெளியீட்டாளர்களை US government debt-ன் முக்கிய வாங்குபவர்களாக மாற்றக்கூடும் என்று அவர் கூறினார்.",
-    "slug": "stablecoin-growth-could-boost-dollar-dominance-us-treasury-demand-boe-official"
+    "hasContent": true,
+    "pubDate": "2026-09-15T17:53:04.000Z"
   },
   {
     "id": "c6edc79a43badb7b",
+    "slug": "melania-trump-unveils-nvidia-education-partnership-urges-kids-to-embrace-ai",
     "title": "Melania Trump unveils Nvidia education partnership, urges kids to embrace AI",
-    "summary": "The initiative highlights AI's growing role in education, aiming to empower rural students and bolster U.S. competitiveness in technology.\nThe post Melania Trump unveils Nvidia education partnership, urges kids to embrace AI appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/melania-trump-nvidia-ai-education-partnership/",
-    "source": "CryptoBriefing",
     "tags": [
       "Melania Trump",
       "Nvidia",
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-15T17:51:59.000Z",
-    "fetchedAt": "2026-09-15T18:01:26.014Z",
-    "isDuplicateOf": null,
-    "content": "Melania Trump has announced a new educational partnership with Nvidia aimed at encouraging children to embrace artificial intelligence. The initiative focuses on expanding AI access for rural students while strengthening technological competitiveness in the United States, highlighting the growing significance of digital education in modern classrooms.",
-    "content_ta": "Nvidia உடன் இணைந்து புதிய கல்விசார் கூட்டு முயற்சியை Melania Trump அறிவித்துள்ளார். இது குழந்தைகள் AI தொழில்நுட்பத்தை ஏற்றுக்கொள்ள ஊக்குவிப்பதை நோக்கமாகக் கொண்டுள்ளது. கிராமப்புற மாணவர்களுக்கு AI அணுகலை விரிவுபடுத்துவதோடு, United States நாட்டின் தொழில்நுட்ப போட்டித்தன்மையை வலுப்படுத்துவதையும் இந்தத் திட்டம் இலக்காகக் கொண்டுள்ளது.",
-    "slug": "melania-trump-unveils-nvidia-education-partnership-urges-kids-to-embrace-ai"
+    "hasContent": true,
+    "pubDate": "2026-09-15T17:51:59.000Z"
   },
   {
     "id": "49477108378c147c",
+    "slug": "doj-charges-robinhood-engineers-with-front-running-crypto-listings-on-hyperliquid",
     "title": "DOJ charges Robinhood engineers with front-running crypto listings on Hyperliquid",
-    "summary": "According to prosecutors, the two took positions in tokens ahead of Robinhood’s public listing announcements between 2025 and 2026.",
-    "hasSummary": true,
-    "link": "https://www.theblock.co/news/regulation/2026-09-15-doj-charges-robinhood-engineers-front-running-crypto-listings-hyperliquid-414865",
-    "source": "The Block",
     "tags": [
       "Robinhood",
       "Hyperliquid",
       "United States"
     ],
+    "source": "The Block",
     "origin": "rss",
-    "pubDate": "2026-09-15T17:50:23.000Z",
-    "fetchedAt": "2026-09-15T18:01:26.013Z",
-    "isDuplicateOf": null,
-    "content": "The U.S. Department of Justice has charged Robinhood engineers with front-running cryptocurrency listings on the Hyperliquid platform. According to federal prosecutors, the individuals took financial positions in specific tokens ahead of public listing announcements made by Robinhood between 2025 and 2026, exploiting confidential internal information for personal gain.",
-    "content_ta": "Hyperliquid பளாட்ஃபார்மில் உள்ள cryptocurrency listings-ஐ முன்வைத்து, Robinhood இன்ஜினியர்கள் மீது U.S. Department of Justice குற்றச்சாட்டு பதிவு செய்துள்ளது. ஃபெடரல் ப்ராசிகியூட்டர்களின் கூற்றுப்படி, 2025 மற்றும் 2026-க்கு இடையில் Robinhood பொது அறிவிப்புகளை வெளியிடுவதற்கும் முன்பாகவே, சம்பந்தப்பட்ட நபர்கள் குறிப்பிட்ட சில டோக்கன்களில் முதலீடு செய்து முறைகேடான லாபம் ஈட்டியுள்ளனர்.",
-    "slug": "doj-charges-robinhood-engineers-with-front-running-crypto-listings-on-hyperliquid"
+    "hasContent": true,
+    "pubDate": "2026-09-15T17:50:23.000Z"
   },
   {
     "id": "2ce897f372551470",
+    "slug": "sen-elizabeth-warren-says-she-wants-a-crypto-bill-but-the-clarity-act-just-isn-t-it",
     "title": "Sen. Elizabeth Warren says she wants a crypto bill, but the Clarity Act just isn’t it",
-    "summary": "Sen. Elizabeth Warren says she remains determined to get a crypto bill signed into law — even if she doesn’t support the current Clarity Act.",
-    "hasSummary": true,
-    "link": "https://www.theblock.co/news/regulation/2026-09-15-sen-elizabeth-warren-says-she-wants-a-crypto-bill-but-the-clarity-act-just-isnt-it-414869",
-    "source": "The Block",
     "tags": [
       "Elizabeth Warren"
     ],
+    "source": "The Block",
     "origin": "rss",
-    "pubDate": "2026-09-15T17:49:30.000Z",
-    "fetchedAt": "2026-09-15T18:01:26.013Z",
-    "isDuplicateOf": null,
-    "content": "Senator Elizabeth Warren has stated her continued commitment to passing cryptocurrency legislation into law. However, she made it clear that she does not support the currently proposed Clarity Act, arguing that it is not the right vehicle for regulating the digital asset industry.",
-    "content_ta": "Crypto bill-ஐ சட்டமாக்குவதில் உறுதியாக இருப்பதாக Sen. Elizabeth Warren தெரிவித்துள்ளார். இருப்பினும், தற்போதுproposed செய்யப்பட்டுள்ள Clarity Act தனக்கு உடன்பாடில்லை என்றும், அது சரியான மசோதா அல்ல என்றும் அவர் தெளிவுபடுத்தியுள்ளார்.",
-    "slug": "sen-elizabeth-warren-says-she-wants-a-crypto-bill-but-the-clarity-act-just-isn-t-it"
+    "hasContent": true,
+    "pubDate": "2026-09-15T17:49:30.000Z"
   },
   {
     "id": "561588e0d0034557",
+    "slug": "robinhood-engineers-charged-with-fraud-over-alleged-crypto-listing-trades",
     "title": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
-    "summary": "Two employees allegedly earned more than $50,000 each by trading Hyperliquid perpetual futures before Robinhood announced new token listings.",
-    "hasSummary": true,
-    "link": "https://decrypt.co/378267/robinhood-engineers-charged-fraud-over-crypto-listing-trades",
-    "source": "Decrypt",
     "tags": [
       "Robinhood",
       "Hyperliquid"
     ],
+    "source": "Decrypt",
     "origin": "rss",
-    "pubDate": "2026-09-15T17:49:23.000Z",
-    "fetchedAt": "2026-09-15T18:01:26.013Z",
-    "isDuplicateOf": null,
-    "content": "Two Robinhood engineers have been charged with fraud for allegedly trading Hyperliquid perpetual futures ahead of official token listings announced by the company. The employees reportedly made over $50,000 each by capitalizing on advanced knowledge of upcoming platform additions before they became public.",
-    "content_ta": "Robinhood நிறுவனத்தின் இரண்டு இன்ஜினியர்கள் மீது மோசடி வழக்குப்பதிவு செய்யப்பட்டுள்ளது. நிறுவனம் அதிகாரப்பூர்வமாக டோக்கன் பட்டியல்களை வெளியிடுவதற்கு முன்பு, Hyperliquid பெர்பெச்சுவல் ஃபியூச்சர்ஸ் வர்த்தகத்தில் ஈடுபட்டு இவர்கள் ஒவ்வொருவரும் தலா $50,000-க்கும் அதிகமான லாபம் ஈட்டியதாகக் கூறப்படுகிறது.",
-    "slug": "robinhood-engineers-charged-with-fraud-over-alleged-crypto-listing-trades"
+    "hasContent": true,
+    "pubDate": "2026-09-15T17:49:23.000Z"
   },
   {
     "id": "4d537702e587c70a",
+    "slug": "bill-gates-warns-ai-will-be-built-for-the-richest-without-rules",
     "title": "Bill Gates Warns AI Will Be Built for the Richest Without Rules",
-    "summary": "Bill Gates warns AI will be built for the richest without government rules, and pledges $1 billion to widen access.\nThe post Bill Gates Warns AI Will Be Built for the Richest Without Rules appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/bill-gates-ai-warning-goalkeepers-pledge/",
-    "source": "BeInCrypto",
     "tags": [
       "Bill Gates"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-09-15T17:47:48.000Z",
-    "fetchedAt": "2026-09-15T18:01:26.013Z",
-    "isDuplicateOf": null,
-    "content": "Bill Gates has warned that artificial intelligence technology will largely be developed to benefit the wealthiest people if proper government rules and regulations are not put in place. To help address this issue and widen access to the technology, Gates has pledged a significant investment of $1 billion toward expanding access for underserved populations.",
-    "content_ta": "Appropriate government rules மற்றும் regulations இல்லாமல் உருவாக்கப்பட்டால் AI தொழில்நுட்பம் உலகின் மிக செல்வந்தர்களுக்கு மட்டுமே பயன்படும் வகையில் அமையும் என்று Bill Gates எச்சரித்துள்ளார். இந்த சிக்கலைத் தீர்க்கவும், தொழில்நுட்பத்திற்கான அணுகலை விரிவுபடுத்தவும் Bill Gates $1 billion நிதி உதவியை வழங்குவதாக உறுதியளித்துள்ளார்.",
-    "slug": "bill-gates-warns-ai-will-be-built-for-the-richest-without-rules"
+    "hasContent": true,
+    "pubDate": "2026-09-15T17:47:48.000Z"
   },
   {
     "id": "38a7ac647dc56743",
@@ -317,547 +814,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-15T17:09:52.000Z"
-  },
-  {
-    "id": "683811beba16b554",
-    "slug": "russia-boosts-oil-exports-by-most-since-may-as-oil-prices-spike-past-108",
-    "title": "Russia boosts oil exports by most since May as oil prices spike past $108",
-    "tags": [
-      "Russia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T17:09:08.000Z"
-  },
-  {
-    "id": "76dbc69d094a807c",
-    "slug": "2-robinhood-engineers-charged-in-hyperliquid-insider-trading-case-what-comes-next",
-    "title": "2 Robinhood Engineers Charged in Hyperliquid Insider Trading Case: What Comes Next?",
-    "tags": [
-      "Robinhood",
-      "Hyperliquid"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T17:06:03.000Z"
-  },
-  {
-    "id": "0da8246a3320c423",
-    "slug": "why-a-clarity-victory-may-still-leave-bitcoin-trapped-at-76-000",
-    "title": "Why a CLARITY victory may still leave Bitcoin trapped at $76,000",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T17:00:53.000Z"
-  },
-  {
-    "id": "ddfd08c38851167c",
-    "slug": "350m-in-ethereum-exits-exchanges-as-q4-battle-with-bitcoin-begins",
-    "title": "$350M in Ethereum exits exchanges as Q4 battle with Bitcoin begins",
-    "tags": [
-      "Ethereum",
-      "Bitcoin"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T17:00:21.000Z"
-  },
-  {
-    "id": "d72600788205b967",
-    "slug": "foreign-investors-shift-focus-to-us-stocks-over-treasuries-in-historic-reallocation",
-    "title": "Foreign investors shift focus to US stocks over Treasuries in historic reallocation",
-    "tags": [
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:55:33.000Z"
-  },
-  {
-    "id": "15c62c9c05152739",
-    "slug": "massachusetts-debt-collector-barred-after-alleged-car-seizures-consumers-get-52-000-000-in-relief",
-    "title": "Massachusetts Debt Collector Barred After Alleged Car Seizures; Consumers Get $52,000,000 in Relief",
-    "tags": [
-      "Massachusetts",
-      "Andrea Joy Campbell",
-      "Avon"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:55:23.000Z"
-  },
-  {
-    "id": "5664b26f07572ec1",
-    "slug": "white-house-stablecoin-yield-ban-would-boost-bank-lending-by-just-0-02",
-    "title": "White House: Stablecoin yield ban would boost bank lending by just 0.02%",
-    "tags": [
-      "White House"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:52:46.000Z"
-  },
-  {
-    "id": "c4112e9fc91f9e16",
-    "slug": "ethsecurity-initiatives-launches-round-two-with-600k-vyper-grant-and-sharper-funding-focus",
-    "title": "ETHSecurity Initiatives launches Round Two with $600K Vyper grant and sharper funding focus",
-    "tags": [
-      "ETHSecurity Initiatives",
-      "Vyper",
-      "Ethereum"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:48:48.000Z"
-  },
-  {
-    "id": "9b3149de5d91e321",
-    "slug": "us-israel-arab-states-hold-military-talks-in-germany-amid-iran-tensions",
-    "title": "US, Israel, Arab states hold military talks in Germany amid Iran tensions",
-    "tags": [
-      "United States",
-      "Israel",
-      "Germany",
-      "Iran"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:42:55.000Z"
-  },
-  {
-    "id": "70777fc8a4e684d7",
-    "slug": "anthropic-is-profitable-if-you-ignore-the-cost-of-building-claude",
-    "title": "Anthropic is Profitable — If You Ignore the Cost of Building Claude",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:42:02.000Z"
-  },
-  {
-    "id": "f86e966845c9b6cf",
-    "slug": "factory-raises-200m-at-5b-valuation-tripling-in-five-months",
-    "title": "Factory raises $200M at $5B valuation, tripling in five months",
-    "tags": [
-      "Factory"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:41:46.000Z"
-  },
-  {
-    "id": "dc1117e7cd16e420",
-    "slug": "nhl-star-ovechkin-backs-putin-s-party-in-campaign-video-ahead-of-elections",
-    "title": "NHL star Ovechkin backs Putin’s party in campaign video ahead of elections",
-    "tags": [
-      "Alex Ovechkin",
-      "Vladimir Putin",
-      "United Russia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:40:24.000Z"
-  },
-  {
-    "id": "df7d2dd0ff008f8d",
-    "slug": "x-expands-cashtags-with-trading-access-through-coinbase-kraken-and-interactive-brokers",
-    "title": "X expands cashtags with trading access through Coinbase, Kraken and Interactive Brokers",
-    "tags": [
-      "X",
-      "Coinbase",
-      "Kraken",
-      "Interactive Brokers"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:39:31.000Z"
-  },
-  {
-    "id": "2f847a244f17818f",
-    "slug": "us-house-to-consider-crypto-tax-exemption-bill-stablecoin-regulations",
-    "title": "US House to consider crypto tax exemption bill, stablecoin regulations",
-    "tags": [
-      "United States",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:38:21.000Z"
-  },
-  {
-    "id": "7e436063f5ff2ddd",
-    "slug": "federal-reserve-s-15-6-billion-in-reinvestment-purchases-over-three-weeks-is-not-the-liquidity",
-    "title": "Federal Reserve’s $15.6 billion in reinvestment purchases over three weeks is not the liquidity event you think it is",
-    "tags": [
-      "Federal Reserve"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:36:34.000Z"
-  },
-  {
-    "id": "79f7e96d54371d3c",
-    "slug": "crypto-s-long-sought-de-minimis-tax-break-gets-a-house-markup-this-week",
-    "title": "Crypto's Long-Sought 'De Minimis' Tax Break Gets a House Markup This Week",
-    "tags": [
-      "United States Congress"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:34:35.000Z"
-  },
-  {
-    "id": "ddcc3e9c0aa5b35a",
-    "slug": "arc-names-metamask-as-default-wallet-for-seamless-onboarding",
-    "title": "Arc names MetaMask as default wallet for seamless onboarding",
-    "tags": [
-      "Arc",
-      "MetaMask"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:33:58.000Z"
-  },
-  {
-    "id": "a8288a0721b7a05c",
-    "slug": "defi-governance-gap-allows-one-wallet-to-request-98-of-ampleforth-treasury-s-usdc-balance",
-    "title": "DeFi governance gap allows one wallet to request 98% of Ampleforth treasury’s USDC balance",
-    "tags": [
-      "Ampleforth",
-      "USDC",
-      "FORTH"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:30:02.000Z"
-  },
-  {
-    "id": "2058d1bdede4bee1",
-    "slug": "expensify-integrates-claude-ai-from-anthropic-for-small-businesses",
-    "title": "Expensify integrates Claude AI from Anthropic for small businesses",
-    "tags": [
-      "Expensify",
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:25:59.000Z"
-  },
-  {
-    "id": "ade2bbb731390a9e",
-    "slug": "france-backs-klaas-knot-for-ecb-president-seeks-chief-economist-role-in-return",
-    "title": "France backs Klaas Knot for ECB president, seeks chief economist role in return",
-    "tags": [
-      "France",
-      "European Central Bank",
-      "Klaas Knot",
-      "Eurozone"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:25:41.000Z"
-  },
-  {
-    "id": "c9d8c6df0463c82c",
-    "slug": "strike-strk-price-prediction-2026-2027-2030-future-outlook-and-long-term-forecast",
-    "title": "Strike (STRK) Price Prediction 2026, 2027–2030: Future Outlook and Long-Term Forecast",
-    "tags": [
-      "Strike"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:20:30.000Z"
-  },
-  {
-    "id": "0f140e69e67ccfce",
-    "slug": "is-your-multi-bureau-strategy-commercially-resilient",
-    "title": "Is your multi-bureau strategy commercially resilient?",
-    "tags": [],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:20:27.000Z"
-  },
-  {
-    "id": "36ec02620f5a73d0",
-    "slug": "social-media-shapes-gen-z-credit-card-switching",
-    "title": "Social Media Shapes Gen Z Credit Card Switching",
-    "tags": [
-      "Gen Z",
-      "PYMNTS.com"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:19:48.000Z"
-  },
-  {
-    "id": "75d1f9caf93265fc",
-    "slug": "spot-btc-eth-and-sol-etfs-see-record-inflows-amid-macro-pressures",
-    "title": "Spot BTC, ETH, and SOL ETFs see record inflows amid macro pressures",
-    "tags": [
-      "Bitcoin",
-      "Ethereum",
-      "Solana"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:19:22.000Z"
-  },
-  {
-    "id": "747c8bca78c691d6",
-    "slug": "preparing-for-a-post-clarity-crash-whale-opens-massive-btc-eth-and-zec-shorts",
-    "title": "Preparing for a Post-CLARITY Crash? Whale Opens Massive BTC, ETH, and ZEC Shorts",
-    "tags": [
-      "Bitcoin",
-      "Ethereum",
-      "Zcash"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:16:53.000Z"
-  },
-  {
-    "id": "73d4a905133176e2",
-    "slug": "rep-stephen-f-lynch-urges-treasury-secretary-bessent-to-investigate-ai-risks",
-    "title": "Rep. Stephen F. Lynch urges Treasury Secretary Bessent to investigate AI risks",
-    "tags": [
-      "Stephen F. Lynch",
-      "Bessent",
-      "United States Department of the Treasury"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:16:35.000Z"
-  },
-  {
-    "id": "fd764bd97c3d769f",
-    "slug": "california-tests-whether-ai-can-cross-professional-licensing-lines",
-    "title": "California Tests Whether AI Can Cross Professional Licensing Lines",
-    "tags": [
-      "California",
-      "Business and Consumer Services Agency"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:16:02.000Z"
-  },
-  {
-    "id": "43a97c55e19940c9",
-    "slug": "bipartisan-house-duo-welcomes-industry-support-for-ai-safety-proposal",
-    "title": "Bipartisan House duo welcomes industry support for AI safety proposal",
-    "tags": [
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:15:04.000Z"
-  },
-  {
-    "id": "988d803edd96a713",
-    "slug": "xrp-defies-851-liquidation-imbalance-with-2-million-short-squeeze",
-    "title": "XRP Defies 851% Liquidation Imbalance With $2 Million Short Squeeze",
-    "tags": [
-      "XRP",
-      "Washington"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:11:45.000Z"
-  },
-  {
-    "id": "4a87a6ef9632d0c5",
-    "slug": "long-term-bitcoin-holders-just-stopped-selling-after-a-260-000-btc-dump",
-    "title": "Long-Term Bitcoin Holders Just Stopped Selling After a 260,000 BTC Dump",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:03:37.000Z"
-  },
-  {
-    "id": "06a2f5d8d0128853",
-    "slug": "fomc-odds-a-42m-prediction-market-splits-the-september-fed-outlook",
-    "title": "FOMC Odds: A $42M Prediction Market Splits the September Fed Outlook",
-    "tags": [
-      "FOMC",
-      "Bitcoin",
-      "Federal Reserve"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:03:09.000Z"
-  },
-  {
-    "id": "bfc4130f08070396",
-    "slug": "bitcoin-price-falls-to-75-6k-september-low-as-global-bonds-hit-multidecade-highs",
-    "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
-    "tags": [
-      "Bitcoin",
-      "United States Senate"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:02:01.000Z"
-  },
-  {
-    "id": "6d5f3ae72f77b6a0",
-    "slug": "michigan-couple-wins-136-660-after-husband-plays-wrong-club-keno-ticket",
-    "title": "Michigan Couple Wins $136,660 After Husband Plays Wrong Club Keno Ticket",
-    "tags": [
-      "Michigan",
-      "Washtenaw County",
-      "Club Keno"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:00:36.000Z"
-  },
-  {
-    "id": "697065c722e76b72",
-    "slug": "solana-s-blockchain-gaming-debate-is-shifting-web3-opportunity-may-be-moving-around-the-game",
-    "title": "Solana’s blockchain gaming debate is shifting: Web3 opportunity may be moving around the game",
-    "tags": [
-      "Solana",
-      "Solana Foundation",
-      "Lily Liu"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:00:26.000Z"
-  },
-  {
-    "id": "64a308d9a236c81d",
-    "slug": "uniswap-eyes-7-50-but-crowded-longs-raise-uni-s-risk",
-    "title": "Uniswap eyes $7.50, but crowded longs raise UNI’s risk",
-    "tags": [
-      "Uniswap",
-      "UNI"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T16:00:21.000Z"
-  },
-  {
-    "id": "1a1cc43801743951",
-    "slug": "enova-scraps-grasshopper-deal",
-    "title": "Enova scraps Grasshopper deal",
-    "tags": [
-      "Enova",
-      "Grasshopper",
-      "OCC",
-      "Federal Reserve"
-    ],
-    "source": "Banking Dive",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T15:57:59.000Z"
-  },
-  {
-    "id": "3314c2abde1577c7",
-    "slug": "vista-equity-explores-strategic-options-for-finastra-reuters",
-    "title": "Vista Equity explores strategic options for Finastra - Reuters",
-    "tags": [
-      "Vista Equity Partners",
-      "Finastra"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T15:51:00.000Z"
-  },
-  {
-    "id": "43c10c79ec01ea3e",
-    "slug": "standard-chartered-says-arbitrum-could-outperform-bitcoin-ether-through-2030",
-    "title": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
-    "tags": [
-      "Standard Chartered",
-      "Arbitrum",
-      "Bitcoin",
-      "Ether",
-      "ARB",
-      "Robinhood Chain"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T15:50:49.000Z"
-  },
-  {
-    "id": "611fda5fdce1b9b9",
-    "slug": "agentic-payments-are-growing-but-most-x402-payments-aren-t-from-ai-agents",
-    "title": "Agentic Payments Are Growing, but Most x402 Payments Aren’t From AI Agents",
-    "tags": [
-      "TRM Labs",
-      "x402"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T15:45:27.000Z"
-  },
-  {
-    "id": "c6e3b36f263f2774",
-    "slug": "visa-and-circle-back-stablecoin-payments-platform-velocity",
-    "title": "Visa and Circle Back Stablecoin Payments Platform Velocity",
-    "tags": [
-      "Velocity",
-      "Circle Ventures",
-      "Ripple"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T15:45:02.000Z"
-  },
-  {
-    "id": "d14bf29e413120b1",
-    "slug": "what-to-build-vs-buy-lessons-from-ai-agents-in-production-at-a-major-insurer",
-    "title": "What to Build vs Buy: Lessons from AI Agents in Production at a Major Insurer",
-    "tags": [
-      "ElevenLabs",
-      "Finovate"
-    ],
-    "source": "Finovate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T15:42:40.000Z"
   }
 ]
