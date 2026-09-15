@@ -1,5 +1,784 @@
 [
   {
+    "id": "a1ee82007d3cdf45",
+    "slug": "are-banks-actually-ready-for-digital-money",
+    "title": "Are banks actually ready for digital money?",
+    "tags": [
+      "stablecoins",
+      "CBDCs"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T15:00:00.000Z"
+  },
+  {
+    "id": "9ae39265a9f5fdb0",
+    "slug": "bitcoin-sinks-as-the-senate-s-clarity-act-showdown-looms",
+    "title": "Bitcoin Sinks as the Senate's Clarity Act Showdown Looms",
+    "tags": [
+      "Bitcoin",
+      "United States Senate",
+      "Federal Reserve"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:58:57.000Z"
+  },
+  {
+    "id": "e31ab50490a26c9c",
+    "slug": "ethereum-crypto-price-tests-2-434-support-as-sellers-return",
+    "title": "Ethereum crypto price tests $2,434 support as sellers return",
+    "tags": [
+      "Ethereum"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:56:48.000Z"
+  },
+  {
+    "id": "c48c97b8ecfea43b",
+    "slug": "china-s-bond-yields-hover-near-record-lows-as-uk-gilts-surge-past-levels-not-seen-since-1998",
+    "title": "China’s bond yields hover near record lows as UK gilts surge past levels not seen since 1998",
+    "tags": [
+      "China",
+      "United Kingdom"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:55:10.000Z"
+  },
+  {
+    "id": "0f91229acbbfea6c",
+    "slug": "spark-liquidity-layer-ranks-as-largest-on-chain-capital-allocator-with-2-5b-tvl",
+    "title": "Spark Liquidity Layer ranks as largest on-chain capital allocator with $2.5B TVL",
+    "tags": [
+      "Spark Liquidity Layer"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:50:08.000Z"
+  },
+  {
+    "id": "9939aa3ce0d7f85a",
+    "slug": "john-thune-open-to-exploring-diesel-export-ban-as-pump-prices-hit-record-highs",
+    "title": "John Thune open to exploring diesel export ban as pump prices hit record highs",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-09-15T14:49:00.000Z"
+  },
+  {
+    "id": "e8cb37131870ecad",
+    "slug": "everyone-is-talking-about-how-silly-the-banking-industry-looks-for-the-fud-on-stablecoin-yield",
+    "title": "Everyone is Talking About How Silly the Banking Industry Looks for the FUD on Stablecoin Yield",
+    "tags": [
+      "Stablecoin"
+    ],
+    "source": "Crowdfund Insider",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:47:08.000Z"
+  },
+  {
+    "id": "39423ea6ade78ad7",
+    "slug": "top-6-crypto-exchanges-to-trade-on-in-september-2026",
+    "title": "Top 6 crypto exchanges to trade on in September 2026",
+    "tags": [],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:45:27.000Z"
+  },
+  {
+    "id": "2ea4ae571c654f8d",
+    "slug": "tsmc-executive-calls-ai-a-three-year-old-superman-as-chipmaker-takes-cautious-internal-stance",
+    "title": "TSMC executive calls AI a ‘three-year-old superman’ as chipmaker takes cautious internal stance",
+    "tags": [
+      "TSMC"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:42:11.000Z"
+  },
+  {
+    "id": "87b73d7afd0a361a",
+    "slug": "scott-bessent-to-meet-china-s-he-lifeng-this-weekend-as-trade-talks-intensify",
+    "title": "Scott Bessent to meet China’s He Lifeng this weekend as trade talks intensify",
+    "tags": [
+      "Scott Bessent",
+      "He Lifeng",
+      "China",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:41:23.000Z"
+  },
+  {
+    "id": "7ae8765cd7029e8d",
+    "slug": "united-states-confirms-deployment-of-space-weapons-to-protect-military-forces",
+    "title": "United States confirms deployment of space weapons to protect military forces",
+    "tags": [
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:40:00.000Z"
+  },
+  {
+    "id": "8ce1d5067d61732e",
+    "slug": "manchester-united-faces-impasse-in-bruno-fernandes-contract-negotiations",
+    "title": "Manchester United faces impasse in Bruno Fernandes contract negotiations",
+    "tags": [
+      "Manchester United",
+      "Bruno Fernandes"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:39:20.000Z"
+  },
+  {
+    "id": "e797a9e542d918db",
+    "slug": "nvidia-eyes-10b-investment-in-anthropic-to-boost-ai-infrastructure-demand",
+    "title": "Nvidia eyes $10B investment in Anthropic to boost AI infrastructure demand",
+    "tags": [
+      "Nvidia",
+      "Anthropic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:38:02.000Z"
+  },
+  {
+    "id": "c7a248dcc7baae62",
+    "slug": "carlyle-group-s-jason-thomas-warns-ai-financing-mirrors-pre-crisis-mortgages",
+    "title": "Carlyle Group’s Jason Thomas warns AI financing mirrors pre-crisis mortgages",
+    "tags": [
+      "Carlyle Group",
+      "Jason Thomas"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:37:08.000Z"
+  },
+  {
+    "id": "24c2bddeda0a3484",
+    "slug": "pentagon-reports-184m-damage-from-iranian-strikes-on-us-facilities-across-the-middle-east",
+    "title": "Pentagon reports $184M damage from Iranian strikes on US facilities across the Middle East",
+    "tags": [
+      "Pentagon",
+      "United States",
+      "Iran",
+      "Middle East"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:36:31.000Z"
+  },
+  {
+    "id": "fa909649bd393765",
+    "slug": "coinbase-criticizes-senators-for-opposing-clarity-act-warns-us-risks-losing-digital-finance-race",
+    "title": "Coinbase criticizes senators for opposing Clarity Act, warns US risks losing digital finance race",
+    "tags": [
+      "Coinbase",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:35:47.000Z"
+  },
+  {
+    "id": "da3d889af370177c",
+    "slug": "bitcoin-etf-inflows-are-back-but-blackrock-is-carrying-the-market-into-the-fed-meeting",
+    "title": "Bitcoin ETF inflows are back, but BlackRock is carrying the market into the Fed meeting",
+    "tags": [
+      "Bitcoin",
+      "BlackRock",
+      "IBIT",
+      "FBTC",
+      "ARKB"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:35:35.000Z"
+  },
+  {
+    "id": "ebf7b3ed2bedd386",
+    "slug": "bessent-to-meet-chinese-official-he-lifeng-amid-us-iran-tensions",
+    "title": "Bessent to meet Chinese official He Lifeng amid US-Iran tensions",
+    "tags": [
+      "United States",
+      "Iran",
+      "China",
+      "Bessent",
+      "He Lifeng"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:34:58.000Z"
+  },
+  {
+    "id": "2747089a917cb357",
+    "slug": "profound-hits-1-8b-valuation-as-brands-scramble-to-show-up-in-ai-search-results",
+    "title": "Profound hits $1.8B valuation as brands scramble to show up in AI search results",
+    "tags": [
+      "Profound"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:34:36.000Z"
+  },
+  {
+    "id": "e0d8c110705dd537",
+    "slug": "truist-sells-5-5-billion-auto-loan-portfolio-to-pursue-higher-profits",
+    "title": "Truist Sells $5.5 Billion Auto Loan Portfolio to Pursue Higher Profits",
+    "tags": [
+      "Truist Financial",
+      "Regional Acceptance Corporation",
+      "United States"
+    ],
+    "source": "PYMNTS",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:32:20.000Z"
+  },
+  {
+    "id": "c1404c43ba80f473",
+    "slug": "fin-com-raises-20m-seed-round-to-turn-stablecoins-into-local-currency-across-30-countries",
+    "title": "Fin.com raises $20M seed round to turn stablecoins into local currency across 30 countries",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-09-15T14:31:25.000Z"
+  },
+  {
+    "id": "cb73f766026a6171",
+    "slug": "president-trump-dismisses-ai-doomsday-warnings-as-hoax-says-strong-president-provides-enough",
+    "title": "President Trump Dismisses AI Doomsday Warnings as Hoax, Says Strong President Provides Enough Oversight",
+    "tags": [
+      "President Trump",
+      "United States",
+      "China"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:30:26.000Z"
+  },
+  {
+    "id": "3266fb5807a89d01",
+    "slug": "us-poverty-rate-falls-to-10-as-median-income-hits-87-460",
+    "title": "US poverty rate falls to 10% as median income hits $87,460",
+    "tags": [
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:30:13.000Z"
+  },
+  {
+    "id": "d72b053ca1b74623",
+    "slug": "smes-want-more-digital-tools-mastercard-survey",
+    "title": "SMEs want more digital tools - Mastercard survey",
+    "tags": [
+      "Mastercard"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:30:00.000Z"
+  },
+  {
+    "id": "40884fc6ee05f911",
+    "slug": "inter-milan-s-hakan-calhanoglu-to-miss-match-against-roma-due-to-injury",
+    "title": "Inter Milan’s Hakan Çalhanoglu to miss match against Roma due to injury",
+    "tags": [
+      "Inter Milan",
+      "Roma",
+      "Hakan Çalhanoglu"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:29:32.000Z"
+  },
+  {
+    "id": "58ef77d5ce0d1fc8",
+    "slug": "ramp-brings-corporate-finance-platform-to-uk-businesses",
+    "title": "Ramp Brings Corporate Finance Platform to UK Businesses",
+    "tags": [
+      "Ramp",
+      "United Kingdom",
+      "Canada",
+      "North America"
+    ],
+    "source": "PYMNTS",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:28:18.000Z"
+  },
+  {
+    "id": "f969f96bd2660d7b",
+    "slug": "centrifuge-partners-with-compass-labs-to-streamline-dejaaa-transactions",
+    "title": "Centrifuge partners with Compass Labs to streamline deJAAA transactions",
+    "tags": [
+      "Centrifuge",
+      "Compass Labs"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:25:21.000Z"
+  },
+  {
+    "id": "e42ebce7eb251fe9",
+    "slug": "avax-price-eyes-15-as-korean-won-stablecoin-goes-onchain",
+    "title": "AVAX Price Eyes $15 as Korean Won Stablecoin Goes Onchain",
+    "tags": [
+      "AVAX",
+      "Avalanche",
+      "BDACS",
+      "Rain",
+      "Visa",
+      "South Korea"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:23:50.000Z"
+  },
+  {
+    "id": "ef51da06fb653929",
+    "slug": "us-senate-to-vote-on-pivotal-crypto-bill-impacting-bitcoin-s-future",
+    "title": "US Senate to vote on pivotal crypto bill impacting Bitcoin’s future",
+    "tags": [
+      "United States",
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:23:44.000Z"
+  },
+  {
+    "id": "d35c6e933d032fe4",
+    "slug": "vistashares-artificial-intelligence-supercycle-etf-surpasses-1-billion-in-assets-under-management",
+    "title": "VistaShares Artificial Intelligence Supercycle ETF surpasses $1 billion in assets under management",
+    "tags": [
+      "VistaShares Artificial Intelligence Supercycle ETF"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:23:39.000Z"
+  },
+  {
+    "id": "9dbd4a77e04cc4d5",
+    "slug": "trump-commits-to-respecting-federal-reserve-s-decision-on-interest-rates",
+    "title": "Trump commits to respecting Federal Reserve’s decision on interest rates",
+    "tags": [
+      "Trump",
+      "Federal Reserve"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:22:53.000Z"
+  },
+  {
+    "id": "71f0a8089e5e8a09",
+    "slug": "kyberswap-launches-reality-issued-rtokens-for-eligible-users",
+    "title": "KyberSwap launches Reality-issued rTokens for eligible users",
+    "tags": [
+      "KyberSwap",
+      "Reality"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:17:33.000Z"
+  },
+  {
+    "id": "193c40edcd741e84",
+    "slug": "ubs-reiterates-buy-rating-on-palantir-raises-price-target-to-250",
+    "title": "UBS reiterates buy rating on Palantir, raises price target to $250",
+    "tags": [
+      "UBS",
+      "Palantir"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:16:23.000Z"
+  },
+  {
+    "id": "0e326b75b2dd834f",
+    "slug": "european-central-bank-calls-for-merchants-to-participate-in-digital-euro-pilot",
+    "title": "European Central Bank calls for merchants to participate in digital euro pilot",
+    "tags": [],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-09-15T14:15:06.000Z"
+  },
+  {
+    "id": "adf6cc410a72c5cd",
+    "slug": "clarity-act-s-odds-of-passing-plunge-as-republicans-reject-democrats-counter-proposal",
+    "title": "Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal",
+    "tags": [
+      "CLARITY Act",
+      "Senate"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:13:44.000Z"
+  },
+  {
+    "id": "29b996b27a51ced6",
+    "slug": "ark-invest-dumps-65-million-in-crypto-stocks-while-the-market-rips-higher",
+    "title": "ARK Invest dumps $65 million in crypto stocks while the market rips higher",
+    "tags": [
+      "ARK Invest"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:12:33.000Z"
+  },
+  {
+    "id": "79812ed10b040751",
+    "slug": "uk-payments-delivery-company-embarks-on-equity-raise-for-new-retail-infrastructure",
+    "title": "UK Payments Delivery Company embarks on equity raise for new retail infrastructure",
+    "tags": [
+      "UK Payments Delivery Company",
+      "United Kingdom"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T14:11:00.000Z"
+  },
+  {
+    "id": "2694dc359cf02e52",
+    "slug": "payments-executive-says-no-more-pilots-uk-needs-to-advance-tokenized-markets-or-risk-being-left",
+    "title": "Payments Executive Says No More Pilots, UK Needs to Advance Tokenized Markets or Risk Being Left Behind",
+    "tags": [
+      "UK Finance",
+      "Oliver Wyman",
+      "United Kingdom"
+    ],
+    "source": "Crowdfund Insider",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T13:49:32.000Z"
+  },
+  {
+    "id": "b8ac1bb6a524a4fb",
+    "slug": "bitcoin-price-analysis-btc-tests-key-support-ahead-of-crucial-fomc-decision",
+    "title": "Bitcoin Price Analysis: BTC Tests Key Support Ahead of Crucial FOMC Decision",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T13:46:50.000Z"
+  },
+  {
+    "id": "6f35606e72b77d55",
+    "slug": "a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
+    "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
+    "tags": [
+      "Bitcoin",
+      "Symbiosis"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T13:43:50.000Z"
+  },
+  {
+    "id": "d150df1be30bc09b",
+    "slug": "us-seizes-61m-of-iranian-crypto-profits-allegedly-laundered-through-binance",
+    "title": "US seizes $61M of Iranian crypto profits allegedly laundered through Binance",
+    "tags": [
+      "United States",
+      "Iran",
+      "Binance"
+    ],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T13:41:59.000Z"
+  },
+  {
+    "id": "2164b8f948d5b37d",
+    "slug": "usdt-payments-feature-in-polish-energy-giant-s-failed-230m-oil-deal-ft",
+    "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
+    "tags": [
+      "Tether",
+      "USDT",
+      "Poland",
+      "Financial Times"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T13:37:31.000Z"
+  },
+  {
+    "id": "707c11a1f304f930",
+    "slug": "aster-aster-price-prediction-2026-2027-2030-will-aster-price-reach-new-highs-in-the-coming-years",
+    "title": "Aster (ASTER) Price Prediction 2026, 2027 – 2030: Will ASTER Price Reach New Highs In the Coming Years?",
+    "tags": [
+      "Aster",
+      "Aster DEX"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T13:35:50.000Z"
+  },
+  {
+    "id": "31676a8daebb412f",
+    "slug": "a-10-billion-bank-collapse-is-now-shaking-brazil-s-election",
+    "title": "A $10 Billion Bank Collapse Is Now Shaking Brazil’s Election",
+    "tags": [
+      "Banco Master",
+      "Daniel Vorcaro",
+      "Brazil"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T13:27:43.000Z"
+  },
+  {
+    "id": "557552cb27a75c1b",
+    "slug": "five-binance-margin-pairs-face-delisting-this-september-here-s-full-list",
+    "title": "Five Binance Margin Pairs Face Delisting This September: Here's Full List",
+    "tags": [],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-09-15T13:21:00.000Z"
+  },
+  {
+    "id": "ae300f396987e1d8",
+    "slug": "bitcoin-price-prediction-100m-liquidated-as-traders-brace-for-clarity-vote",
+    "title": "Bitcoin Price Prediction: $100M Liquidated As Traders Brace For CLARITY Vote",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T13:19:41.000Z"
+  },
+  {
+    "id": "0aa2990ba7589d0b",
+    "slug": "tabby-raises-233-million-at-6-5-billion-valuation",
+    "title": "Tabby Raises $233 Million at $6.5 Billion Valuation",
+    "tags": [
+      "Tabby",
+      "Blue Pool Capital",
+      "Saudi Arabia",
+      "UAE"
+    ],
+    "source": "Financial IT",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T13:15:34.000Z"
+  },
+  {
+    "id": "f1689dc15b990d38",
+    "slug": "richard-teng-says-binance-is-not-accused-so-why-the-61-million-seizure",
+    "title": "Richard Teng Says Binance Is Not Accused: So Why the $61 Million Seizure?",
+    "tags": [
+      "Binance",
+      "Richard Teng",
+      "Iran",
+      "United States Department of Justice"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T13:14:27.000Z"
+  },
+  {
+    "id": "8c9dd83389c179cc",
+    "slug": "xrp-fakeout-ruins-landmark-xrp-ledger-momentum-main-crypto-news-this-morning",
+    "title": "XRP Fakeout Ruins Landmark XRP Ledger Momentum: Main Crypto News This Morning",
+    "tags": [
+      "XRP",
+      "XRP Ledger"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T13:10:05.000Z"
+  },
+  {
+    "id": "b06b4f7e36bacdae",
+    "title": "TreviPay Partners With Dynatos to Add e-Invoicing Capabilities to Its B2B Payments Infrastructure",
+    "summary": "TreviPay, a global B2B payments infrastructure partner, today announced a partnership with Dynatos to expand e-invoicing capabilities for TreviPay clients operating across Europe and other markets. Through the partnership, Dynatos Routty Cloud proposition will provide embedded e-invoicing technology and compliance support, helping TreviPay clients exchange invoices across different formats, networks and country requirements in Europe and other global markets.\nE-invoicing requirements continue to expand across Europe and other global markets, adding complexity for businesses managing invoices across more than 60 countries with mandates announced or already in place. At the same time, invoicing has become an increasingly important part of the B2B buyer experience. TreviPay research found 68% of B2B buyers are more likely to choose a supplier offering invoice terms, up from 51% in 2023. As businesses expand across markets, delivering the invoicing experience buyers expect also requires navigating different formats, networks and country-specific requirements.\nDynatos specializes in source-to-pay processes and invoice processing, with Routty Cloud supporting e-invoicing across both accounts receivable and accounts payable. The platform helps organizations exchange invoices through relevant e-invoicing channels while managing different formats, networks and country mandates. Combined with TreviPay’s B2B payments and order-to-cash capabilities, Routty Cloud allows e-invoicing to sit within a connected commercial and accounting workflow rather than operate as a separate compliance process.\n“E-invoicing is becoming an increasingly important part of the order-to-cash process as mandates expand across Europe and beyond,” said Inez Berkhof-Hollander, Managing Director, EMEA, TreviPay. “TreviPay delivers end-to-end order-to-cash solutions, and our partnership with Dynatos brings its e-invoicing expertise through Routty into that experience. This helps our clients navigate evolving invoicing requirements while keeping e-invoicing connected to the broader order-to-cash process.\"\nThe partnership combines TreviPay’s expertise in B2B payments, order-to-cash, credit risk and working capital with Dynatos’ e-invoicing technology, compliance knowledge and implementation experience.\n“As e-invoicing requirements continue to evolve, businesses need a way to manage compliance without adding complexity to invoicing and payment processes,” said Marcel Leeflang, Director Partnerships & Alliances at Dynatos. “Our partnership with TreviPay embeds Routty Cloud’s e-invoicing capabilities within TreviPay’s B2B payments infrastructure, helping customers meet changing requirements while keeping e-invoicing connected to the broader order-to-cash process and manage compliance at the same time.”\nNoYesPayments15 Sep, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/payments/trevipay-partners-dynatos-add-e-invoicing-capabilities-its-b2b-payments-infrastructure",
+    "source": "Financial IT",
+    "tags": [
+      "TreviPay",
+      "Dynatos",
+      "Europe"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-15T13:04:49.000Z",
+    "fetchedAt": "2026-09-15T15:01:56.136Z",
+    "isDuplicateOf": null,
+    "content": "TreviPay has partnered with Dynatos to integrate e-invoicing capabilities into its B2B payments infrastructure. The collaboration utilizes the Dynatos Routty Cloud platform to help clients navigate complex e-invoicing mandates and compliance requirements across Europe and other global markets. By combining TreviPay's order-to-cash solutions with Dynatos' e-invoicing expertise, businesses can streamline commercial workflows and meet evolving cross-border invoicing expectations.",
+    "content_ta": "TreviPay நிறுவனம் Dynatos-டன் இணைந்து தனது B2B பேமெண்ட்ஸ் உள்கட்டமைப்பில் இ-இன்வாய்ஸிங் வசதியை சேர்த்துள்ளது. இந்த கூட்டாண்மையானது ஐரோப்பா மற்றும் பிற உலகளாவிய சந்தைகளில் இ-இன்வாய்ஸிங் மற்றும் இணக்க தேவைகளை சமாளிக்க Dynatos Routty Cloud தளத்தை பயன்படுத்துகிறது. TreviPay-யின் ஆர்டர்-டு-கேஷ் தீர்வுகளை Dynatos-ன் இ-இன்வாய்ஸிங் நிபுணத்துவத்துடன் இணைப்பதன் மூலம், வணிகங்கள் தங்கள் வர்த்தக பணிகளை எளிமைப்படுத்த முடியும்.",
+    "slug": "trevipay-partners-with-dynatos-to-add-e-invoicing-capabilities-to-its-b2b-payments-infrastructure"
+  },
+  {
+    "id": "f4b2aacfa16c0cc4",
+    "slug": "cardano-news-hoskinson-warns-criticism-could-drive-builders-away",
+    "title": "Cardano News: Hoskinson Warns Criticism Could Drive Builders Away",
+    "tags": [
+      "Cardano",
+      "Charles Hoskinson",
+      "Midnight"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T13:02:00.000Z"
+  },
+  {
+    "id": "78a01f8c43323f1c",
+    "title": "Chile Turns Its Strengths – Stability and Growth – Into New Investment Opportunities",
+    "summary": "Banco Santander is Chile’s leading bank, with over 4.5 million customers and 10% growth year on year. It holds Chile’s largest loan portfolio, with 40 billion euros granted. What’s more, Santander has some 30 billion euros in deposits there. Santander Chile is the leading bank in retail credit, with market shares of 24.6% in consumer loans and 20.9% in mortgages.\nSantander has consistently proven its commitment to Chile since arriving in 1978. This year, it acquired Santander Rentas Vitalicias, a pensions company with over 4 billion euros in assets.\nChile has significant strengths: strategic resources, openness to the world and robust institutions. The opportunity lies in transforming these advantages into investment, growth and employment, with technology and Artificial Intelligence playing a key role in boosting productivity. As an investor in Chile for decades, Santander knows that the country has everything it needs to make this a reality, and we will continue to invest in its future\nAna Botín, Executive Chair of Banco Santander\nThe bank is also demonstrating the potential of Chile’s economy through other initiatives, such as the announcement of an 800-million-dollar investment over the next three years. This figure includes the acquisition of the pensions business, as well as projects to ramp up technology transformation, revamp the branch network, and make headway with its new headquarters, Campus Santander. This investment will enable Santander to delve deeper into the use of technology, data and artificial intelligence to enhance customer experience, simplify processes, and boost its capacity to respond.\nIn addition, the bank will invest in its branches under a strategy that combines digital services with in-person care at WorkCafés, an innovative take on traditional branches. They provide customers and non-customers with financial services, co-working areas and meeting rooms free of charge, and specialty coffee. As the brainchild of Santander Chile in 2016, there are now 250 WorkCafés in eight of the Group’s markets: Argentina, Brazil, Chile, Mexico, Portugal, Spain, the UK, and the US.\nAgainst this backdrop, Andrés Trautmann, CEO and Country Head of Santander Chile, highlighted the country’s “resources, talent, and abilities. Our challenge is to use them positively through partnerships, long-term norms, and inclusion”.\nOpportunity knocks\nBanco Santander Executive Chair Ana Botín took part in Chile Day by sharing the bank’s vision of the market in an interview with Chilean reporter Mónica Pérez Marín. According to Botín, \"those of us who understand Chile well invest here. Santander’s success story in the country demonstrates that sound long-term investments can be made in Chile. Chile has everything it needs to enjoy many years of further growth ahead”.\nChile arrives at Chile Day Madrid 2026 with substantial confidence from outside the country. In 2025, it received 14.513 billion dollars in foreign direct investment, up 10.8% on the previous year. Reinvestment of profits accounted for the lion’s share, which shows how overseas-based companies continue to commit to Chile. Add to that a portfolio of 95.149 billion dollars for 2026-2030, which will be primarily private and boast a significant share of foreign capital.\nThe main challenge will be to strengthen competitiveness and turn Chile’s potential into investment and growth. Investment in energy is expected to reach over 20 billion dollars by 2030, with key projects such as the HVDC Kimal-Lo Aguirre transmission line (1.275 billion dollars), Volta I hydrogen and green ammonia project (1.235 billion dollars), and the Cabo Negro carbon neutral power station (808 million dollars).\nMoreover, Chile’s attractiveness also comes from other sectors. The InvestChile portfolio accounts for over 5.6 billion dollars in global, technology and data centre services, not to mention a further 5.572 billion dollars in infrastructure and concessions. And the capital market reform seeks to ease access for international investors and bolster the financing of smaller-cap enterprises.\nNoYesInfrastructure15 Sep, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/infrastructure/chile-turns-its-strengths-stability-and-growth-new-investment-opportunities",
+    "source": "Financial IT",
+    "tags": [
+      "Banco Santander",
+      "Ana Botín",
+      "Chile",
+      "Chile Day Madrid"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-15T13:01:04.000Z",
+    "fetchedAt": "2026-09-15T15:01:56.136Z",
+    "isDuplicateOf": null,
+    "content": "Banco Santander is deepening its commitment to Chile by announcing an 800 million dollar investment over the next three years. Executive Chair Ana Botín highlighted Chile's stability and growth potential during Chile Day Madrid 2026. The investment will focus on technology transformation, Artificial Intelligence, and expanding the WorkCafé branch network. Chile continues to attract strong foreign direct investment, driven by robust institutions and strategic sectors.",
+    "content_ta": "Banco Santander Chile-வில் தனது முதலீட்டை தீவிரப்படுத்தியுள்ளது, அடுத்த மூன்று ஆண்டுகளில் 800 மில்லியன் டாலர் முதலீட்டை அறிவித்துள்ளது. Chile Day Madrid 2026 நிகழ்வின் போது, Executive Chair Ana Botín Chile-வின் ஸ்திரத்தன்மை மற்றும் வளர்ச்சி திறனை எடுத்துரைத்தார். இந்த முதலீடு தொழில்நுட்ப மாற்றம், செயற்கை நுண்ணறிவு மற்றும் WorkCafé கிளை வலைப்பின்னலை விரிவுபடுத்துவதில் கவனம் செலுத்தும். வலுவான நிறுவனங்கள் மற்றும் மூலோபாய துறைகளால் தூண்டப்பட்டு, Chile தொடர்ந்து வலுவான வெளிநாட்டு நேரடி முதலீட்டை ஈர்த்து வருகிறது.",
+    "slug": "chile-turns-its-strengths-stability-and-growth-into-new-investment-opportunities"
+  },
+  {
+    "id": "bf091654875945aa",
+    "slug": "why-an-ai-slowdown-could-collapse-under-commercial-and-us-china-pressure",
+    "title": "Why an AI Slowdown Could Collapse Under Commercial and US-China Pressure",
+    "tags": [
+      "Atlantic Council",
+      "United States",
+      "China"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T13:00:05.000Z"
+  },
+  {
+    "id": "63047ef4c8e45643",
+    "slug": "iota-price-prediction-2026-2027-2030-will-iota-price-achieve-0-1",
+    "title": "IOTA Price Prediction 2026, 2027 – 2030: Will IOTA Price Achieve $0.1?",
+    "tags": [
+      "IOTA"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-15T12:59:36.000Z"
+  },
+  {
+    "id": "9aa4dde72cbad115",
+    "title": "Perk Brings Its Award-Winning Spend Platform to the US, Already One of the Company's Fastest-Growing Markets",
+    "summary": "Perk, the AI-native platform for travel and spend management, today expanded its award-winning fintech product Perk Spend into the United States, where customers already spend over $1 billion a year on work travel and team events. This reflects Perk’s ambition to become the single solution for every global team’s rapidly-changing travel and spend needs.\nToday’s announcement follows Perk’s successful launch of Perk Spend in Europe, where up to 40% of new deals are for the combined Travel and Spend offering. The company expects the same in the US, a region which already drives 30% of new business globally. That momentum is built on real product depth, one data layer across travel, spend and events, an MCP server that lets customers book and manage it all from Claude and ChatGPT, and automation already handling 96% of travel bookings and 90% of expense reports with zero human touch.\nCommissioned Perk research surveying 2,000 US employees found that 1 in 4 US companies still have no formal tool for managing spend and nearly a third of workers still submit expenses manually. As work travel keeps rising, so does the number of trips employees need to expense, and fragmented systems are making it harder for finance teams to handle the entire workflow. This launch is another way Perk is tackling shadow work: travel and spend in one platform. Perk’s intelligent proprietary data shows that bookings from US companies traveling domestically from January to August 2026 are up by 28% year on year, and international return flights departing the US are up 14%.\nAvi Meir, Co-Founder and CEO at Perk said, “US companies are spending more on travel every year, but the tools to manage  it aren't keeping up. We've built one AI-native travel and spend platform with agentic capabilities for how American companies actually work.”\nWhat Perk Spend offers:\nBring Your Own Corporate Card (BYOC): Use an existing corporate card program and connect to Perk Spend, fully integrated with Perk Travel, so every transaction reconciles through one system. \nDirect Reimbursement: Employees who pay out of pocket get reimbursed straight to their bank account, no payroll wait. Perk captures the receipt, matches it, codes it, and pays out automatically once approved.\nGlobal, customizable per-diems: Smart limits pull in country and city-level per diem rates, adjusting automatically on multi-country trips to keep teams tax compliant.\nNative Integrations with leading ERPs: Perk connects directly with leading ERPs, including NetSuite, Microsoft Dynamics, QuickBooks, and SAP S4, for a smooth path from card swipe to export.\nPerk Card: Coming soon, Perk will bring an industry-leading corporate charge card to the US that allows customers to manage spend controls, earn cashback, and pay securely around the globe.\nPay and earn rewards with personal cards: Travelers gain their crucial loyalty and credit card points by paying travel providers directly on Perk for their flights and hotels. \nNikita Miller, President of Product and Technology at Perk said, \"Finance leaders don't want to choose between control and flexibility, they want both. Perk Spend gives them real-time visibility into every dollar spent, while letting employees keep the corporate card, the personal card, or the points they've already earned.”\n \nNoYesInfrastructure15 Sep, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/infrastructure/perk-brings-its-award-winning-spend-platform-us-already-one-companys-fastest",
+    "source": "Financial IT",
+    "tags": [
+      "Perk",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-15T12:54:43.000Z",
+    "fetchedAt": "2026-09-15T15:01:56.136Z",
+    "isDuplicateOf": null,
+    "content": "Perk, the AI-native platform for travel and spend management, has expanded its Perk Spend product into the United States. The company aims to provide a unified solution for global teams, combining travel, spend, and events. With significant existing demand and rapid growth in the US market, Perk offers features like direct reimbursement, native ERP integrations, and smart spending controls to streamline corporate financial workflows.",
+    "content_ta": "Travel மற்றும் spend management-க்கான AI-native platform ஆன Perk, தனது Perk Spend product-ஐ United States-ல் அறிமுகப்படுத்தியுள்ளது. Travel, spend மற்றும் events-ஐ இணைத்து global team-களுக்கு ஒரே solution வழங்குவதை இந்நிறுவனம் நோக்கமாகக் கொண்டுள்ளது. US market-ல் அதிகரித்து வரும் தேவையை கருத்தில் கொண்டு, direct reimbursement, ERP integrations மற்றும் smart spending controls போன்ற feature-களை Perk வழங்குகிறது.",
+    "slug": "perk-brings-its-award-winning-spend-platform-to-the-us-already-one-of-the-company-s-fastest-growing"
+  },
+  {
+    "id": "0ba44350a19a9b7d",
+    "title": "TS Imagine Launches TSIQ, an AI Platform for Capital Markets",
+    "summary": "TS Imagine, a leading global multi-asset provider of cloud-native trading, wealth, portfolio, risk management and prime brokerage solutions, today announced the launch of TSIQ.\n \nTSIQ is the first broadly available AI platform to enable financial institutions to move beyond information retrieval and analysis to explain, recommend, and act while maintaining human oversight and control at every stage. \n \nTSIQ is the culmination of TS Imagine’s five-year, $100 million investment in the data, infrastructure, and financial context required to bring reliable AI into capital markets workflows. At its core is the TSIQ ontology, TS Imagine’s proprietary semantic layer. Developed by quantitative modelers and data experts, the TSIQ ontology connects the data, products, financial concepts, relationships, and business logic required to deliver grounded and auditable answers. \n \nTSIQ clients can apply TS Imagine’s unified data foundation to their own data in a secure environment, with confidence that every output is grounded in transparent logic and verifiable sources. TSIQ will be available across TS Imagine’s platform, placing AI at the point of decision making as clients execute trades, manage risk and portfolios, manage wealth, service capital, and much more. \n \n“TSIQ allows our institutional clients to rethink financial workflows from first principles, resulting in immediate productivity dividends,” said Rob Flatley, Founder and Chief Executive Officer. “By pairing trusted data that supports agentic workflows with TSIQ ontology, we are empowering our clients to transform capital markets workflows and the future of the industry.”\n \n“The nature of the financial industry mandates that capital markets AI is built on auditable frameworks that can explain the context behind the output. Five years ago, we began building that framework, and now we are thrilled to bring it to our clients,” said Thomas Bodenski, COO and Chief Data & AI Officer.\nNoYesArtificial Intelligence15 Sep, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/artificial-intelligence/ts-imagine-launches-tsiq-ai-platform-capital-markets",
+    "source": "Financial IT",
+    "tags": [
+      "TS Imagine",
+      "TSIQ"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-15T12:50:43.000Z",
+    "fetchedAt": "2026-09-15T15:01:56.136Z",
+    "isDuplicateOf": null,
+    "content": "TS Imagine has launched TSIQ, an artificial intelligence platform designed for capital markets. Backed by a significant multi-year investment, the platform aims to help financial institutions move beyond basic information retrieval to actionable, explainable workflows. Featuring a proprietary semantic layer, TSIQ securely integrates unified data to support trading, risk management, and portfolio operations while maintaining strict human oversight and transparent, auditable logic.",
+    "content_ta": "Capital markets-க்காக வடிவமைக்கப்பட்ட ஒரு புதிய AI பிளாட்ஃபார்மான TSIQ-ஐ TS Imagine நிறுவனம் அறிமுகப்படுத்தியுள்ளது. பல ஆண்டு முதலீட்டில் உருவாக்கப்பட்டுள்ள இந்த பிளாட்ஃபார்ம், நிதி நிறுவனங்கள் தகவல்களை சேகரிப்பதோடு நின்றுவிடாமல், துல்லியமான முடிவுகளை எடுக்கவும், வர்த்தகம் மற்றும் ரிஸ்க் மேனேஜ்மென்ட் பணிகளை எளிதாக்கவும் உதவுகிறது. மனிதர்களின் மேற்பார்வையுடன் இயங்கும் இந்த அமைப்பு, வெளிப்படையான மற்றும் நம்பகமான தரவு கட்டமைப்பை வழங்குகிறது.",
+    "slug": "ts-imagine-launches-tsiq-an-ai-platform-for-capital-markets"
+  },
+  {
+    "id": "68bdf0e7dc846159",
+    "title": "Thredd Selected by iPayLinks to Power New Virtual Commercial Debit Card Programme",
+    "summary": "Thredd, the AI-first issuer processing platform, today announced that iPayLinks, a leading cross-border payment and capital settlement platform, has selected Thredd to power its new Mastercard virtual commercial debit card programme.\nThe programme, expected to launch by the end of Q3, extends iPayLinks’ cross-border proposition into card issuing, giving its customers a fast, secure way to move and spend funds across markets. Through the partnership, iPayLinks acts as the self-issuer and retains control of its card programme and spend controls, while Thredd delivers the processing layer, including: BIN and programme set-up, 3D Secure, and fraud and transaction monitoring, all through a single, cloud-native platform built for speed to market and scale.\n“iPayLinks has built a comprehensive platform that helps businesses simplify the movement and management of funds across borders,” said Damien Gough, Head of APAC, at Thredd. “The addition of virtual commercial debit cards represents a natural extension of that proposition, giving iPayLinks and its customers another secure and efficient payment option. We are pleased to support the launch with the scalable processing infrastructure, fraud monitoring and payments expertise needed to operate a modern commercial card programme.”\n“Businesses operating internationally need payment solutions that are secure, flexible and designed around the realities of cross-border commerce,” said Gunther Zhen, Founder and CEO at iPayLinks. “By working with Thredd, we are expanding the capabilities available through the iPayLinks platform and creating a more complete payment experience for our customers.”\nThe partnership also reinforces Thredd’s continued growth across Asia Pacific, where it supports fintechs and payment providers seeking to launch card propositions designed for regional and international use cases. Through its global platform, scheme connectivity and local payments expertise, Thredd enables clients to bring debit, prepaid, credit and virtual card programmes to market and scale them across multiple geographies.\nNoYesPayments15 Sep, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/payments/thredd-selected-ipaylinks-power-new-virtual-commercial-debit-card-programme",
+    "source": "Financial IT",
+    "tags": [
+      "Thredd",
+      "iPayLinks",
+      "Mastercard",
+      "Asia Pacific"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-15T12:47:47.000Z",
+    "fetchedAt": "2026-09-15T15:01:56.136Z",
+    "isDuplicateOf": null,
+    "content": "Thredd has been selected by iPayLinks to power its new Mastercard virtual commercial debit card programme. Set to launch by the end of Q3, the partnership enables iPayLinks to expand its cross-border payment proposition into card issuing. Thredd will provide the cloud-native processing infrastructure, including BIN setup, 3D Secure, and fraud monitoring, supporting iPayLinks as it scales its modern commercial card offerings internationally.",
+    "content_ta": "புதிய Mastercard விர்ச்சுவல் வணிக டெபிட் கார்டு திட்டத்தைச் செயல்படுத்த iPayLinks நிறுவனத்தால் Thredd தேர்ந்தெடுக்கப்பட்டுள்ளது. Q3 இறுதிக்குள் தொடங்கப்படவுள்ள இந்தக் கூட்டாண்மை மூலம், iPayLinks தனது எல்லை தாண்டிய கட்டணச் சேவைகளை கார்டு வழங்கும் சேவையாக விரிவுபடுத்துகிறது. BIN அமைப்பு, 3D Secure மற்றும் மோசடி கண்காணிப்பு உள்ளிட்ட கிளவுட் அடிப்படையிலான செயலாக்க வசதிகளை Thredd வழங்கும்.",
+    "slug": "thredd-selected-by-ipaylinks-to-power-new-virtual-commercial-debit-card-programme"
+  },
+  {
     "id": "6b3002a7dec5f329",
     "slug": "russian-drone-attack-near-polish-border-raises-nato-security-concerns",
     "title": "Russian drone attack near Polish border raises NATO security concerns",
@@ -16,23 +795,17 @@
   },
   {
     "id": "336d028e92911170",
+    "slug": "finqware-integrates-visa-direct-capabilities-into-finqtreasury-to-modernise-global-money-movement",
     "title": "Finqware Integrates Visa Direct Capabilities Into FinqTreasury to Modernise Global Money Movement",
-    "summary": "Finqware today announced a collaboration with Visa, a world leader in digital payments, designed to help mid-sized and large businesses manage global money movement more efficiently within the treasury workflows they already use every day.\nCorporate finance teams often rely on multiple banking platforms, payment systems and FX providers to manage liquidity, payments and international money movement. Through this collaboration, Finqware will launch FX Hub, integrating cross-border payments and FX capabilities provided by Currencycloud, a Visa Direct offering, directly into FinqTreasury, enabling European corporates to manage these activities within a more connected treasury environment.\nBy leveraging FinqTreasury FX Hub-powered Currencycloud capabilities, businesses will be able to collect, hold, convert and send funds domestically and across borders from within the same platform used to oversee treasury operations. This enables finance teams to manage liquidity, payments and foreign exchange through a single workflow, helping reduce operational complexity and reliance on fragmented banking portals and payment systems.\nWithin FinqTreasury, corporate finance teams can manage multi-bank liquidity, execute domestic and cross-border payments, and access competitive FX capabilities while benefiting from greater visibility and control over how money moves across their organisation.\n“Businesses increasingly need faster, more integrated ways to manage liquidity and move money around the world. Through this partnership, Finqware is integrating Currencycloud directly within the treasury workflows corporate finance teams already use every day. Together, we are helping businesses simplify international money movement, reduce operational friction and gain greater control over global cash management.” Zeynep Sayin, Head of Visa Direct Partnerships\nThe collaboration reflects a shared focus on helping businesses simplify treasury operations by bringing account information, payment initiation, FX and cross-border payment capabilities together within a single treasury environment.\nBy embedding Currencycloud, Finqware extends its treasury capabilities beyond domestic multi-bank operations into global money movement. Finance teams can access cross-border payments and FX capabilities alongside existing treasury processes, helping streamline day-to-day operations and improve efficiency.\n“This partnership extends the capabilities available through FinqTreasury and helps simplify how businesses manage cross-border payments and FX. By combining Visa's global payment capabilities with Finqware's treasury management platform, we are helping businesses access international payments and FX capabilities within existing workflows. Together, we are making it easier for CFOs and Treasurers to manage liquidity across multiple banks and move money internationally from the same environment — with speed, low complexity and control.” Cosmin Cosma, CEO & Co-founder, Finqware\nNoYesPayments15 Sep, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/payments/finqware-integrates-visa-direct-capabilities-finqtreasury-modernise-global-money",
-    "source": "Financial IT",
     "tags": [
       "Finqware",
       "Visa",
       "Currencycloud"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-09-15T12:36:18.000Z",
-    "fetchedAt": "2026-09-15T12:44:19.918Z",
-    "isDuplicateOf": null,
-    "content": "Finqware has partnered with Visa to integrate Visa Direct and Currencycloud capabilities into its FinqTreasury platform. This collaboration introduces the FX Hub, allowing European corporate finance teams to manage multi-bank liquidity, cross-border payments, and foreign exchange within a single, unified workflow. The integration aims to reduce operational complexity and streamline global money movement for businesses.",
-    "content_ta": "Finqware நிறுவனம் Visa உடன் இணைந்து, தனது FinqTreasury தளத்தில் Visa Direct மற்றும் Currencycloud வசதிகளைச் சேர்த்துள்ளது. இந்த ஒத்துழைப்பின் மூலம் FX Hub அறிமுகப்படுத்தப்பட்டுள்ளது, இது ஐரோப்பிய நிறுவனங்களின் நிதிக்குழுக்கள் ஒரே தளத்தில் பல வங்கி பணப்புழக்கங்கள், எல்லை தாண்டிய செலுத்துதல்கள் மற்றும் அந்நிய செலாவணியை நிர்வகிக்க உதவுகிறது. வணிகங்களுக்கான உலகளாவிய பணப் பரிமாற்றத்தை எளிதாக்குவதே இதன் நோக்கமாகும்.",
-    "slug": "finqware-integrates-visa-direct-capabilities-into-finqtreasury-to-modernise-global-money-movement"
+    "hasContent": true,
+    "pubDate": "2026-09-15T12:36:18.000Z"
   },
   {
     "id": "c62d3157e679e9da",
@@ -46,767 +819,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-15T12:35:40.000Z"
-  },
-  {
-    "id": "d9a39ac8daf82169",
-    "slug": "hunter-biden-makes-bold-plea-to-elon-musk-after-laptop-coin-crash",
-    "title": "Hunter Biden Makes Bold Plea to Elon Musk After LAPTOP Coin Crash",
-    "tags": [
-      "Hunter Biden",
-      "Elon Musk",
-      "Bitcoin"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T12:35:28.000Z"
-  },
-  {
-    "id": "ebc2a0d75447c44d",
-    "slug": "buzz-hpc-appoints-capital-markets-veteran-hubert-marleau-as-director",
-    "title": "BUZZ HPC appoints capital markets veteran Hubert Marleau as director",
-    "tags": [
-      "BUZZ HPC",
-      "Hubert Marleau",
-      "Canada"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T12:35:14.000Z"
-  },
-  {
-    "id": "148d451f1c6cb7cd",
-    "slug": "tom-lee-sees-ai-debt-as-growth-opportunity-not-bubble-risk",
-    "title": "Tom Lee sees AI debt as growth opportunity, not bubble risk",
-    "tags": [
-      "Tom Lee",
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T12:34:54.000Z"
-  },
-  {
-    "id": "f6bc0c92737fd2f1",
-    "title": "Strategy copycat Satsuma crashed 99%, liquidated treasury",
-    "summary": "Mark Moss’ Satsuma Technology sold all 669 of its BTC and will return £30.7M after the company crashed 99% from its 2025 peak.\nThe post Strategy copycat Satsuma crashed 99%, liquidated treasury appeared first on Protos.",
-    "hasSummary": true,
-    "link": "https://protos.com/strategy-copycat-satsuma-crashed-99-liquidated-treasury/",
-    "source": "Protos",
-    "tags": [
-      "Satsuma Technology",
-      "Mark Moss",
-      "Bitcoin",
-      "MicroStrategy"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-09-15T12:32:24.000Z",
-    "fetchedAt": "2026-09-15T12:44:19.918Z",
-    "isDuplicateOf": null,
-    "content": "Satsuma Technology, inspired by MicroStrategy, saw its stock crash 99% from its 2025 peak. Led by Mark Moss, the company liquidated its entire treasury, selling all 669 Bitcoin. The firm announced plans to return £30.7 million to stakeholders following the dramatic collapse of its crypto-focused corporate strategy.",
-    "content_ta": "MicroStrategy-ஐப் பின்பற்றி உருவாக்கப்பட்ட Satsuma Technology நிறுவனத்தின் பங்குகள் 2025 உச்சத்திலிருந்து 99% சரிவைச் சந்தித்துள்ளன. Mark Moss தலைமையிலான இந்நிறுவனம் தனது முழுமையான Bitcoin இருப்பையும் விற்றுள்ளது. இந்த கடுமையான வீழ்ச்சியைத் தொடர்ந்து, பங்குதாரர்களுக்கு £30.7 மில்லியன் தொகையைத் திருப்பப் போவதாக நிறுவனம் அறிவித்துள்ளது.",
-    "slug": "strategy-copycat-satsuma-crashed-99-liquidated-treasury"
-  },
-  {
-    "id": "2942c95f878880ae",
-    "title": "Adyen Joins Guidewire Marketplace as an Approved Global Payment Partner for Insurers",
-    "summary": "Adyen, the financial technology platform of choice for leading businesses, today announced that it has been approved as a Global Payment Partner for Guidewire. The integration will be launched through the Guidewire Marketplace, offering property and casualty (P&C) insurers a seamless way to connect Adyen’s payment capabilities with their Guidewire core systems.\nThe launch on the Guidewire Marketplace productizes the significant commercial momentum Adyen has already established within the insurance vertical. By choosing the Adyen integration, insurers can eliminate fragmented regional setups and manage the entire flow of funds throughout the policy lifecycle through a single global platform.\nEnhancing the Insurer and Policyholder Experience\nThe Adyen integration functions as a vetted choice within the Guidewire Marketplace, allowing insurers to optimize front-end payment channels and back-end financial routing. Through this single integration, insurance leaders can seamlessly manage automated premium collections (including cards, ACH, and local payment methods), recurring billing retries, and efficient claims payouts utilizing bank transfers and virtual cards.\nDifferentiating with Intelligent Money Movement and Existing Market Traction\nUnlike traditional payment processors or software-only layers that rely on third-party banks and fragmented regional networks, Adyen operates as a single platform with its own banking licenses. This allows the integration to handle the entire lifecycle of a transaction—from front-end acceptance to back-end clearing and settling—ensuring higher payout speeds, reduced transaction failure, and institutional-grade resilience.\n“By launching our exciting integration on the Guidewire Marketplace, we are building upon the strong market leadership in the Insurance market that we’ve scaled in recent years,” said Adrian Davis, Managing Director Financial Services & Insurance at Adyen. “What differentiates Adyen is that we aren't just a software connection; we own the underlying financial infrastructure. As a global platform with our own banking licenses, we manage the full money movement stack end-to-end which ensures Guidewire’s customers easily offer whatever payment method their policyholders prefer, effectively turning payments from a legacy hurdle into a strategic advantage for growth.”\nAdvanced Security and Operational Efficiency\nInsurers utilizing the marketplace integration will be able to leverage Adyen’s full money movement stack across Guidewire’s customer base of more than 570 insurers across 43 countries. Key features of the integrated solution include:\nTrue End-to-End Processing: Eliminates third-party banking intermediaries, resulting in faster financial routing and reduced operational costs.\nUnified Reporting: Access to centralized transaction data and automated reconciliation to streamline back-office operations.\nBuilt-in Fraud Protection: Utilization of Adyen's machine learning risk engine to identify and mitigate fraudulent insurance activity.\nData Security: Advanced tokenization capabilities to keep card-on-file data continuously secure and compliant.\nThe integration is available globally, allowing insurers across North America, Europe, LATAM, and APAC to leverage the solution after launch in 2027 . Because the integration is standardized for the Guidewire Marketplace, it can be implemented by any Global Systems Integrator (GSI) or an insurer’s internal IT team, ensuring maximum flexibility during deployment.\nNoYesPayments15 Sep, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/payments/adyen-joins-guidewire-marketplace-approved-global-payment-partner-insurers",
-    "source": "Financial IT",
-    "tags": [
-      "Adyen",
-      "Guidewire"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-09-15T12:31:32.000Z",
-    "fetchedAt": "2026-09-15T12:44:19.918Z",
-    "isDuplicateOf": null,
-    "content": "Adyen has joined the Guidewire Marketplace as an approved Global Payment Partner for insurers. The integration allows property and casualty insurers to connect Adyen’s payment capabilities directly with their Guidewire core systems. Operating on a single global platform, the solution streamlines automated premium collections, recurring billing, and claims payouts while reducing fragmented regional setups and enhancing overall operational efficiency.",
-    "content_ta": "இன்சூரன்ஸ் நிறுவனங்களுக்கான அங்கீகரிக்கப்பட்ட குளோபல் பேமெண்ட் பார்ட்னராக Adyen நிறுவனம் Guidewire Marketplace-ல் இணைந்துள்ளது. இந்த ஒருங்கிணைப்பின் மூலம், ப்ராப்பர்ட்டி மற்றும் கேஷுவல் இன்சூரன்ஸ் நிறுவனங்கள் Adyen-ன் பேமெண்ட் வசதிகளை தங்கள் Guidewire கோர் சிஸ்டம்களுடன் இணைத்துக் கொள்ளலாம். ஒரே உலகளாவிய பிளாட்ஃபார்ம் மூலம் செயல்படும் இந்த தீர்வு, பிரிந்து கிடக்கும் பிராந்திய அமைப்புகளைக் குறைத்து, பிரீமியம் வசூல் மற்றும் கிளைம் பேமெண்ட்டுகளை எளிதாக்குகிறது.",
-    "slug": "adyen-joins-guidewire-marketplace-as-an-approved-global-payment-partner-for-insurers"
-  },
-  {
-    "id": "a67d246a77bf5914",
-    "slug": "a-defi-giant-that-once-held-3-billion-is-now-proposing-to-wind-itself-down",
-    "title": "A DeFi giant that once held $3 billion is now proposing to wind itself down",
-    "tags": [
-      "BAL"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T12:30:43.000Z"
-  },
-  {
-    "id": "8c5b87df018a345c",
-    "slug": "trump-administration-plans-interactive-tool-to-counter-bank-concerns-over-stablecoins-report",
-    "title": "Trump administration plans interactive tool to counter bank concerns over stablecoins: Report",
-    "tags": [
-      "Trump administration",
-      "White House"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T12:28:07.000Z"
-  },
-  {
-    "id": "c9cd5ca962b01381",
-    "slug": "amazon-web-services-struggles-to-restore-cloud-access-in-bahrain-and-uae-after-military-strikes",
-    "title": "Amazon Web Services struggles to restore cloud access in Bahrain and UAE after military strikes",
-    "tags": [
-      "Amazon Web Services",
-      "Bahrain",
-      "UAE"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T12:28:01.000Z"
-  },
-  {
-    "id": "5aac62e31443844d",
-    "slug": "crusoe-signs-multiyear-cloud-deal-with-perplexity-for-ai-models",
-    "title": "Crusoe signs multiyear cloud deal with Perplexity for AI models",
-    "tags": [
-      "Crusoe",
-      "Perplexity"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T12:26:00.000Z"
-  },
-  {
-    "id": "575898d68e4e982a",
-    "slug": "ajax-set-to-sign-midfielder-yves-bissouma-on-free-transfer",
-    "title": "Ajax set to sign midfielder Yves Bissouma on free transfer",
-    "tags": [
-      "Ajax",
-      "Yves Bissouma"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T12:23:40.000Z"
-  },
-  {
-    "id": "d1c3563c2a63d057",
-    "title": "GISEC GLOBAL 2026 Opens Tomorrow in Dubai as Global Cyber Leaders Converge to Shape the Next Digital Era",
-    "summary": "GISEC Global 2026, the Middle East and Africa’s largest cybersecurity event, opens tomorrow at Dubai Exhibition Centre (DEC), Expo City, at a time when artificial intelligence, geopolitical tensions and increasingly sophisticated attacks on critical infrastructure are driving unprecedented demand for international cybersecurity collaboration.\nNow in its 15th edition, GISEC Global is positioning Dubai as a key meeting point for the cybersecurity community, as governments and businesses confront a rapidly evolving threat landscape shaped by artificial intelligence, geopolitical tensions and accelerating digital transformation. The continued growth of GISEC Global reflects increasing international demand for collaboration, with governments, regulators and technology leaders choosing Dubai as the platform to shape the next generation of cyber resilience.\nHeld under the theme Cyber First: The New Digital Order, GISEC Global 2026 is hosted by the UAE Cyber Security Council, with the Dubai Electronic Security Center (DESC) participating as the event's official Government Cybersecurity Partner. The event is also supported by the Ministry of Interior and Dubai Police. Running until September 18, GISEC Global welcomes participants from 182 countries, serving as a global convergence point for government leaders, national cyber authorities, enterprise CISOs, technology innovators, ethical hackers and the next generation of cybersecurity professionals.\nGlobal Cyber Leadership Converges in Dubai\nA defining new addition to this year’s edition is the Cyber First Global Summit, where ministers, central bank governors, national cybersecurity authorities, CEOs and global institutions will examine the growing interdependence between cybersecurity, economic stability and national security. The summit will craft the future of cyber-first economies, where secure digital infrastructure and technological sovereignty are becoming essential to long-term resilience and economic continuity.\nThe show will also feature prominent cybersecurity leaders from across government and industry, including H.E. Dr Mohamed Al Kuwaiti, Head of UAE Cyber Security Council; H.E. Amer Sharaf, CEO of Cyber Security Systems and Services Sector at Dubai Electronic Security Center (DESC); Subra Kumaraswamy, Senior Vice President and Chief Information Security Officer at Visa; Alex Attumalil, Global Chief Information Security Officer at Under Armour; and Roeland Delrue, Co-Founder and COO of Aikido Security. Their participation reflects the progressively global and cross-sector nature of cyber challenges facing governments and businesses.\nFrom AI-enabled Cybercrime to Identity Fraud\nThe cybersecurity landscape is evolving faster than traditional defence models can adapt. AI is giving cybercriminals new ways to scale and refine attacks, with 60 per cent of ransomware campaigns now reported to be fully AI-assisted. Polymorphic malware further complicates the threat landscape by continuously altering its code, making it harder for traditional security systems to identify and contain malicious activity. \nDeepfakes are emerging as a critical dimension of AI-enabled cybercrime, blurring the line between legitimate and fraudulent digital identities. The Entrust 2026 Identity Fraud Report, based on more than one billion identity verification events across 195 countries, found that deepfakes accounted for one in five biometric fraud attempts. \nAs organisations grapple with the implications of AI-powered identity fraud and digital manipulation, GISEC Global will bring the issue into sharp focus through a keynote session featuring Michael Kelly, the four-time Emmy Award-nominated actor best known for his role as Doug Stamper in House of Cards. His session will explore the growing threat posed by deepfakes, digital identity and AI-powered impersonation, examining how technology is reshaping trust in an increasingly digital world.\nTechnology, Talent, and Readiness Take Centre Stage\nGISEC Global 2026 will showcase emerging technologies across AI, quantum computing and OT/ICS, alongside live cyber drills and international cooperation forums that put cyber readiness to the test. The event will also place a strong emphasis on the people shaping cyber defence through programs including Women in Cyber, North Star Startups, Mentorship Labs.\nThe programme will also feature the Dubai Cyber Challenge, held under the patronage of His Highness Sheikh Mansoor bin Mohammed bin Rashid Al Maktoum, Chairman of the Dubai Ports and Borders Security Council, with DESC supporting the School of Cyber Defense in collaboration with its programme partners. Meanwhile the GISEC CISO Circle will gather more than 250 cybersecurity leaders for closed-door briefings and collaboration.\nBuilding Sovereign Resilience in a Fragmented Digital World\nAs geopolitical tensions and cyber-driven threats reshape digital borders, governments are prioritising sovereign capabilities to protect national data, critical infrastructure and technological independence. From sovereign cloud environments and localised AI to post-quantum readiness, the next phase of AI preparedness will largely depend on a country’s ability to secure the technologies and systems supporting its economy.\nGISEC Global 2026 will accelerate the world’s shift from reactive cybersecurity to ecosystem-wide resilience, uniting policymakers, security leaders and technology innovators to strengthen critical infrastructure, advance responsible AI governance and build digital trust. As governments and industry confront increasingly complex cyber threats, \nGISEC Global 2026 reinforces Dubai's position as a leading international hub for cybersecurity collaboration, innovation and digital resilience.\nNoYesFinTech StartUps15 Sep, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/fintech-startups/gisec-global-2026-opens-tomorrow-dubai-global-cyber-leaders-converge-shape",
-    "source": "Financial IT",
-    "tags": [
-      "GISEC Global",
-      "Dubai",
-      "UAE Cyber Security Council",
-      "Dubai Electronic Security Center"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-09-15T12:21:18.000Z",
-    "fetchedAt": "2026-09-15T12:44:19.918Z",
-    "isDuplicateOf": null,
-    "content": "GISEC Global 2026 opens tomorrow at the Dubai Exhibition Centre, uniting global cyber leaders, government officials, and technology innovators. Now in its 15th edition and hosted under the theme 'Cyber First: The New Digital Order', the event addresses rising threats from AI-enabled cybercrime, deepfakes, and attacks on critical infrastructure. The gathering highlights international cooperation, sovereign resilience, and cutting-edge security solutions to shape the next digital era.",
-    "content_ta": "GISEC Global 2026 நாளை Dubai Exhibition Centre-ல் தொடங்குகிறது. இது உலகளாவிய cyber தலைவர்கள், அரசு அதிகாரிகள் மற்றும் technology கண்டுபிடிப்பாளர்களை ஒன்றிணைக்கிறது. அதன் 15வது பதிப்பாகவும் 'Cyber First: The New Digital Order' என்ற கருப்பொருளின் கீழும் நடைபெறும் இந்நிகழ்வு, AI-அடிப்படையிலான cybercrime, deepfakes மற்றும் முக்கிய கட்டமைப்புகள் மீதான தாக்குதல்களிலிருந்து எழுந்துவரும் அச்சுறுத்தல்களை எதிர்கொள்கிறது.",
-    "slug": "gisec-global-2026-opens-tomorrow-in-dubai-as-global-cyber-leaders-converge-to-shape-the-next"
-  },
-  {
-    "id": "59a003fd60837f2e",
-    "slug": "digital-realty-ceo-says-ai-slowdown-won-t-halt-data-center-demand",
-    "title": "Digital Realty CEO says AI slowdown won’t halt data center demand",
-    "tags": [
-      "Digital Realty"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T12:18:52.000Z"
-  },
-  {
-    "id": "fa8f3717aa373102",
-    "slug": "bank-of-america-survey-shows-fading-exuberance-around-risk-assets",
-    "title": "Bank of America survey shows fading exuberance around risk assets",
-    "tags": [
-      "Bank of America"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T12:17:20.000Z"
-  },
-  {
-    "id": "78fb01ce66b1439f",
-    "slug": "bitget-wallet-adds-reality-s-tokenized-us-stocks-starting-sept-15",
-    "title": "Bitget Wallet adds Reality’s tokenized US stocks starting Sept. 15",
-    "tags": [
-      "Bitget Wallet",
-      "Reality",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T12:15:30.000Z"
-  },
-  {
-    "id": "e39fef5460469b29",
-    "slug": "huge-day-for-xrp-clarity-act-vote-could-spark-the-next-big-move",
-    "title": "Huge Day for XRP: CLARITY Act Vote Could Spark the Next Big Move",
-    "tags": [
-      "XRP"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T12:13:59.000Z"
-  },
-  {
-    "id": "f60a9c52c8366222",
-    "slug": "bytedance-h1-profit-falls-as-revenue-surges-30-to-120b",
-    "title": "ByteDance H1 profit falls as revenue surges 30% to $120B",
-    "tags": [
-      "ByteDance"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T12:13:45.000Z"
-  },
-  {
-    "id": "bf8a0d67e8ee5132",
-    "slug": "paynearme-acquires-ai-company-marr-labs",
-    "title": "PayNearMe acquires AI company Marr Labs",
-    "tags": [
-      "PayNearMe",
-      "Marr Labs"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T12:05:00.000Z"
-  },
-  {
-    "id": "767262d2cbe3e568",
-    "slug": "model-ml-seeks-to-raise-over-100m-at-1b-valuation-to-automate-wall-street-workflows",
-    "title": "Model ML seeks to raise over $100M at $1B valuation to automate Wall Street workflows",
-    "tags": [
-      "Model ML",
-      "Wall Street"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T12:00:49.000Z"
-  },
-  {
-    "id": "052ab4cbf8e5442d",
-    "slug": "pons-jumps-13-hits-105m-in-volume-these-levels-define-its-breakout",
-    "title": "PONS jumps 13%, hits $105M in volume – THESE levels define its breakout",
-    "tags": [
-      "PONS"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T12:00:40.000Z"
-  },
-  {
-    "id": "88d4ecae1a5c8dd7",
-    "slug": "to-ensure-permanent-economic-innovation-we-must-pass-the-clarity-act-now",
-    "title": "To ensure permanent economic innovation, we must pass the Clarity Act now",
-    "tags": [
-      "Shri Thanedar",
-      "United States"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T12:00:06.000Z"
-  },
-  {
-    "id": "2ea898e93b995822",
-    "slug": "clearpool-expands-to-xrpl-with-first-institutional-credit-product-using-rlusd",
-    "title": "Clearpool expands to XRPL with first institutional credit product using RLUSD",
-    "tags": [
-      "Clearpool",
-      "XRPL",
-      "RLUSD"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:59:44.000Z"
-  },
-  {
-    "id": "8c581320da5d55fd",
-    "slug": "financial-regulator-bans-former-law-firm-owner-from-financial-services",
-    "title": "Financial regulator bans former law firm owner from financial services",
-    "tags": [
-      "FCA",
-      "Solicitors Regulation Authority",
-      "Kingly Solicitors Limited"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:58:07.000Z"
-  },
-  {
-    "id": "80016065ea07dc6f",
-    "slug": "house-committee-releases-sweeping-crypto-tax-bill-ahead-of-wednesday-markup",
-    "title": "House committee releases sweeping crypto tax bill ahead of Wednesday markup",
-    "tags": [
-      "United States"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:52:36.000Z"
-  },
-  {
-    "id": "a7691f5fac71a26c",
-    "slug": "palantir-technologies-ceo-highlights-ai-sovereignty-as-key-opportunity",
-    "title": "Palantir Technologies CEO highlights AI sovereignty as key opportunity",
-    "tags": [
-      "Palantir Technologies"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:51:14.000Z"
-  },
-  {
-    "id": "e9d690534c2e2b92",
-    "slug": "qupital-raises-300m-eyes-overseas-markets-and-ipo",
-    "title": "Qupital raises $300M; eyes overseas markets and IPO",
-    "tags": [
-      "Qupital",
-      "Asia"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:51:00.000Z"
-  },
-  {
-    "id": "5aaa2ce256eac5c2",
-    "slug": "standard-chartered-sees-arbitrum-at-10-by-end-2030-up-70-fold",
-    "title": "Standard Chartered sees Arbitrum at $10 by end-2030, up 70-fold",
-    "tags": [
-      "Standard Chartered",
-      "Arbitrum"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:50:30.000Z"
-  },
-  {
-    "id": "fafe70b8676b3ed0",
-    "slug": "analysts-estimate-10m-paying-meta-muse-users-could-mean-2-4b-a-year",
-    "title": "Analysts estimate 10M paying Meta Muse users could mean $2.4B a year",
-    "tags": [
-      "Meta"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:45:44.000Z"
-  },
-  {
-    "id": "9488e9693eecb978",
-    "slug": "defi-protocol-balancer-proposes-orderly-shutdown-plans-to-return-9m-treasury-to-bal-token-holders",
-    "title": "DeFi Protocol Balancer Proposes Orderly Shutdown, Plans to Return $9M Treasury to BAL Token Holders",
-    "tags": [
-      "Balancer",
-      "BAL"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:45:20.000Z"
-  },
-  {
-    "id": "c1178344f3ccf723",
-    "slug": "donald-trump-to-announce-350-billion-south-korean-investment-details-on-friday",
-    "title": "Donald Trump to announce $350 billion South Korean investment details on Friday",
-    "tags": [
-      "Donald Trump",
-      "South Korea",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:43:50.000Z"
-  },
-  {
-    "id": "13122fb9d23d81ce",
-    "slug": "binance-launches-etf-wealth-management-on-binance-earn-bridging-crypto-and-traditional-finance",
-    "title": "Binance launches ETF Wealth Management on Binance Earn, bridging crypto and traditional finance",
-    "tags": [
-      "Binance"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:42:43.000Z"
-  },
-  {
-    "id": "55d250afedfdacf4",
-    "slug": "envestnet-to-acquire-vestmark",
-    "title": "Envestnet to acquire Vestmark",
-    "tags": [
-      "Envestnet",
-      "Vestmark"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:42:00.000Z"
-  },
-  {
-    "id": "7e4e63bd62b2b80c",
-    "slug": "shlomit-wagman-argues-us-china-ai-cooperation-possible-without-trust",
-    "title": "Shlomit Wagman argues US-China AI cooperation possible without trust",
-    "tags": [
-      "United States",
-      "China",
-      "Shlomit Wagman"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:38:27.000Z"
-  },
-  {
-    "id": "82f6d508cec711c2",
-    "slug": "bond-market-pressures-treasury-secretary-scott-bessent-ahead-of-congressional-testimony",
-    "title": "Bond market pressures Treasury Secretary Scott Bessent ahead of congressional testimony",
-    "tags": [
-      "Scott Bessent"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:37:51.000Z"
-  },
-  {
-    "id": "884451e9ba5e6474",
-    "slug": "uc-investments-seeds-2-5b-into-new-etf-as-proshares-launches-genius-act-compliant-fund",
-    "title": "UC Investments seeds $2.5B into new ETF as ProShares launches GENIUS Act-compliant fund",
-    "tags": [
-      "UC Investments",
-      "ProShares"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:35:20.000Z"
-  },
-  {
-    "id": "8a4c0afe4e6a3a16",
-    "slug": "xrp-ledger-s-batch-v1-1-is-one-vote-away-can-8-transactions-change-xrpl",
-    "title": "XRP Ledger’s Batch V1.1 is one vote away – Can 8 transactions change XRPL?",
-    "tags": [
-      "XRP Ledger",
-      "XRP"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:30:54.000Z"
-  },
-  {
-    "id": "45bd6ecded8f5613",
-    "slug": "bnp-paribas-expands-wero-uptake-with-merchants-and-retail-customers",
-    "title": "BNP Paribas expands Wero uptake with merchants and retail customers",
-    "tags": [
-      "BNP Paribas",
-      "Wero",
-      "France"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:30:00.000Z"
-  },
-  {
-    "id": "c989cfdf2fd9648d",
-    "slug": "banks-are-giving-ai-agents-more-work-while-keeping-a-close-eye-on-how-far-they-can-go",
-    "title": "Banks are giving AI agents more work while keeping a close eye on how far they can go",
-    "tags": [],
-    "source": "Tearsheet",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:30:00.000Z"
-  },
-  {
-    "id": "cfa5e0c82589b982",
-    "slug": "reimagining-finance-difc-to-convene-global-leaders-across-banking-private-markets-asset-management",
-    "title": "Reimagining Finance: DIFC to Convene Global Leaders Across Banking, Private Markets, Asset Management, FinTech, Public Policy and Sustainability at Dubai Future Finance Week",
-    "tags": [
-      "Dubai International Financial Centre",
-      "Dubai",
-      "Middle East, Africa and South Asia"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:29:37.000Z"
-  },
-  {
-    "id": "910551b7b1535796",
-    "slug": "bitcoin-price-drops-below-77k-ahead-of-tomorrow-s-fomc-meeting",
-    "title": "Bitcoin Price Drops Below $77K Ahead of Tomorrow’s FOMC Meeting",
-    "tags": [
-      "Bitcoin",
-      "Federal Reserve"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:24:32.000Z"
-  },
-  {
-    "id": "75ff093753637f09",
-    "slug": "zscaler-reports-25-arr-growth-but-fiscal-2027-guidance-slows-to-mid-teens",
-    "title": "Zscaler reports 25% ARR growth, but fiscal 2027 guidance slows to mid-teens",
-    "tags": [
-      "Zscaler"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:21:35.000Z"
-  },
-  {
-    "id": "8b3f187e0ffaa7a4",
-    "slug": "top-8-dexs-every-crypto-trader-should-know-about-in-september-2026",
-    "title": "Top 8 DEXs every crypto trader should know about in September 2026",
-    "tags": [
-      "DEX",
-      "CEX"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:20:41.000Z"
-  },
-  {
-    "id": "945a7f5b0de5cb02",
-    "slug": "bitcoin-needs-to-reach-82-900-to-outrun-a-looming-miner-margin-squeeze",
-    "title": "Bitcoin needs to reach $82,900 to outrun a looming miner margin squeeze",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:20:30.000Z"
-  },
-  {
-    "id": "6ce98f523461b37a",
-    "slug": "bingx-evolves-into-a-multi-asset-trading-platform-connecting-users-to-global-opportunities",
-    "title": "BingX Evolves into a Multi-Asset Trading Platform, Connecting Users to Global Opportunities",
-    "tags": [
-      "BingX",
-      "Panama"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:19:54.000Z"
-  },
-  {
-    "id": "46c4fd485da58af0",
-    "slug": "ether-solana-xrp-likely-to-gain-if-clarity-act-progresses",
-    "title": "Ether, solana, XRP likely to gain if Clarity Act progresses",
-    "tags": [
-      "Ether",
-      "solana",
-      "XRP"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:15:44.000Z"
-  },
-  {
-    "id": "1ba1c6c453d63c2a",
-    "slug": "alliance-for-a-better-future-invests-millions-to-support-gop-ai-candidates",
-    "title": "Alliance for a Better Future invests millions to support GOP AI candidates",
-    "tags": [
-      "Alliance for a Better Future",
-      "GOP"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:08:02.000Z"
-  },
-  {
-    "id": "9c4b36a2f9ef192b",
-    "slug": "totalenergies-partners-with-mistral-ai-in-deal-worth-over-100-million-to-enhance-oil-exploration",
-    "title": "TotalEnergies partners with Mistral AI in deal worth over €100 million to enhance oil exploration",
-    "tags": [
-      "TotalEnergies",
-      "Mistral AI",
-      "Europe"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:06:26.000Z"
-  },
-  {
-    "id": "c6974497c06e5505",
-    "slug": "top-6-solana-apis-to-use-in-september-2026",
-    "title": "Top 6 Solana APIs to use in September 2026",
-    "tags": [
-      "Solana"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:05:50.000Z"
-  },
-  {
-    "id": "0e3b846908c88a3f",
-    "slug": "lng-demand-in-china-india-pakistan-to-rebound-post-us-iran-conflict-reuters",
-    "title": "LNG demand in China, India, Pakistan to rebound post US-Iran conflict: Reuters",
-    "tags": [
-      "China",
-      "India",
-      "Pakistan",
-      "Reuters"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:00:49.000Z"
-  },
-  {
-    "id": "496800f78c6b95c4",
-    "slug": "is-solana-undervalued-sol-up-35-in-q3-but-still-trails-ethereum",
-    "title": "Is Solana undervalued? SOL up 35% in Q3, but still trails Ethereum",
-    "tags": [
-      "Solana",
-      "Ethereum"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:00:18.000Z"
-  },
-  {
-    "id": "d069411d76c58790",
-    "slug": "why-banks-should-stop-worrying-and-learn-to-love-the-clarity-act",
-    "title": "Why banks should stop worrying and learn to love the Clarity Act",
-    "tags": [
-      "Alex Tapscott",
-      "CMCC Global Capital Markets"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:00:00.000Z"
-  },
-  {
-    "id": "bbb87175d4864c24",
-    "slug": "velocity-extends-series-a-to-48m-at-200m-valuation-with-backing-from-visa-circle-and-ripple",
-    "title": "Velocity extends Series A to $48M at $200M valuation with backing from Visa, Circle, and Ripple",
-    "tags": [
-      "Velocity",
-      "Visa",
-      "Circle",
-      "Ripple",
-      "London"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:00:00.000Z"
-  },
-  {
-    "id": "bebeb484264e13a0",
-    "slug": "financial-counselling-australia-and-nab-foundation-commence-community-id-cards-pilot",
-    "title": "Financial Counselling Australia and NAB Foundation commence Community ID Cards pilot",
-    "tags": [
-      "Financial Counselling Australia",
-      "NAB Foundation"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:00:00.000Z"
-  },
-  {
-    "id": "e985265a105b8821",
-    "slug": "how-the-future-of-ai-may-lie-in-informed-revenue-maximisation",
-    "title": "How the Future of AI May Lie in Informed Revenue Maximisation",
-    "tags": [
-      "Communify Intelligence Experience"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T11:00:00.000Z"
-  },
-  {
-    "id": "77b0669529b55cba",
-    "slug": "defi-stalwart-balancer-mulls-shutdown-after-130m-hack",
-    "title": "DeFi stalwart Balancer mulls shutdown after $130M hack",
-    "tags": [
-      "Balancer"
-    ],
-    "source": "Protos",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T10:59:00.000Z"
-  },
-  {
-    "id": "6349178e63676bb9",
-    "slug": "bitcoin-price-wobbles-as-leverage-falls-ahead-of-clarity-vote-and-fed-decision",
-    "title": "Bitcoin Price Wobbles as Leverage Falls Ahead of CLARITY Vote and Fed Decision",
-    "tags": [
-      "Bitcoin",
-      "Federal Reserve"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T10:50:29.000Z"
-  },
-  {
-    "id": "b8a0e26127fdad4b",
-    "slug": "mastercard-launches-wallet-pay-to-scale-digital-wallets-worldwide",
-    "title": "Mastercard Launches Wallet Pay to Scale Digital Wallets Worldwide",
-    "tags": [
-      "Mastercard",
-      "Alipay+"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T10:50:27.000Z"
-  },
-  {
-    "id": "4e557993156687ac",
-    "slug": "nvidia-micron-technology-and-otc-markets-declare-dividend-raises-of-30-or-more",
-    "title": "Nvidia, Micron Technology, and OTC Markets declare dividend raises of 30% or more",
-    "tags": [
-      "Nvidia",
-      "Micron Technology",
-      "OTC Markets"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-15T10:49:24.000Z"
   }
 ]
