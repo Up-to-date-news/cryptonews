@@ -1,36 +1,23 @@
 [
   {
     "id": "b874913f-b559-45bc-b0d6-018a2fc8773e",
+    "slug": "circle-s-missing-funnel-and-market-updates",
     "title": "Circle's Missing Funnel and Market Updates",
-    "summary": "This newsletter covers the crypto market reaction to the Senate's failed cloture vote on the Digital Asset Market Clarity (CLARITY) Act, which resulted in a 49-50 defeat and subsequent price drops across crypto indices, including a 3.2% fall in BTC to near $75.9k. It also examines Circle opening Arc's public mainnet with day-one support from major wallets and trading apps, contrasting its rented distribution model with Robinhood Chain's integrated brokerage funnel. Additional updates include USD.AI's scaling loan book moving CHIP to Neutral, and Blockchain Capital's warnings on the AI trade mirroring crypto's alt-L1 cycle.",
-    "link": null,
-    "source": "Crypto Briefing",
-    "origin": "manual",
-    "isDuplicateOf": null,
-    "pubDate": "2026-09-16T21:00:00.000Z",
-    "fetchedAt": "2026-09-16T16:06:34.032Z",
-    "content": "The crypto market declined after the Senate's failed cloture vote on the CLARITY Act, causing BTC and other indices to drop. Meanwhile, Circle launched Arc's public mainnet with major wallet and trading app support, though questions remain about its distribution model compared to integrated platforms like Robinhood Chain. Other updates feature USD.AI adjusting its loan book and Blockchain Capital noting similarities between the AI trade and past crypto cycles.",
-    "content_ta": "செனட்டில் CLARITY Act மீதான தோல்வியடைந்த வாக்கெடுப்பைத் தொடர்ந்து கிரிப்டோ சந்தை சரிந்தது, இதனால் BTC மற்றும் பிற குறியீடுகள் விலை குறைந்தன. இதற்கிடையில், Circle நிறுவனம் முக்கிய வாலட்கள் மற்றும் டிரேடிங் ஆப்ஸ்களின் ஆதரவுடன் Arc-ன் பப்ளிக் மெயின்நெட்டைத் தொடங்கியது. மேலும், USD.AI தனது லோன் புக்கை மாற்றியமைத்துள்ளதுடன், AI வர்த்தகத்திற்கும் முந்தைய கிரிப்டோ சுழற்சிகளுக்கும் உள்ள ஒற்றுமைகளை Blockchain Capital சுட்டிக்காட்டியுள்ளது.",
     "tags": [
       "Circle",
       "Bitcoin",
       "Robinhood",
       "Blockchain Capital"
     ],
-    "slug": "circle-s-missing-funnel-and-market-updates"
+    "source": "Crypto Briefing",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-16T21:00:00.000Z"
   },
   {
     "id": "5b5c4865-07b1-4ff5-8123-157ab819fe8f",
+    "slug": "tldr-ai-jev-periodic-neon-gemini-3-8-live",
     "title": "TLDR AI: Jev, Periodic Neon, Gemini 3.8 Live",
-    "summary": "This newsletter covers recent developments in artificial intelligence, including new models, research papers, and industry announcements. Key highlights feature Periodic Neon, a model outperforming GPT-6 Astra and Claude Fable 5.1 in scientific analysis, and Jev, a fast System One Model available in early access. Google released Gemini 3.8 Live and Gemini 3.5 Transcribe for real-time voice applications. Meta introduced Meta One, a subscription service offering enhanced AI and self-expression features across Instagram, Facebook, and WhatsApp starting at $2.99/month.",
-    "link": null,
-    "source": "TLDR AI",
-    "origin": "manual",
-    "isDuplicateOf": null,
-    "pubDate": "2026-09-16T20:40:00.000Z",
-    "fetchedAt": "2026-09-16T16:06:34.032Z",
-    "content": "Recent artificial intelligence updates highlight major model releases and industry announcements. Periodic Neon emerged as a top-performing model for scientific analysis, while early access opened for Jev, a fast System One Model. Google launched Gemini 3.8 Live and Gemini 3.5 Transcribe for real-time voice tools. Meanwhile, Meta introduced Meta One, a new subscription service providing enhanced AI features across Instagram, Facebook, and WhatsApp.",
-    "content_ta": "செயற்கை நுண்ணறிவுத் துறையில் புதிய மாதிரி வெளியீடுகள் மற்றும் அறிவிப்புகள் வெளியாகியுள்ளன. அறிவியல் பகுப்பாய்வில் சிறப்பாகச் செயல்படும் Periodic Neon மற்றும் Jev போன்ற புதிய மாடல்கள் அறிமுகப்படுத்தப்பட்டுள்ளன. நிகழ்நேர குரல் பயன்பாடுகளுக்காக Google நிறுவனம் Gemini 3.8 Live மற்றும் Gemini 3.5 Transcribe சேவைகளை வெளியிட்டுள்ளது. மேலும், Instagram, Facebook மற்றும் WhatsApp செயலிகளுக்காக மேம்பட்ட AI வசதிகளை வழங்கும் Meta One சந்தா சேவையை Meta அறிமுகப்படுத்தியுள்ளது.",
     "tags": [
       "Google",
       "Meta",
@@ -38,20 +25,15 @@
       "Facebook",
       "WhatsApp"
     ],
-    "slug": "tldr-ai-jev-periodic-neon-gemini-3-8-live"
+    "source": "TLDR AI",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-16T20:40:00.000Z"
   },
   {
     "id": "9d4a80d9-fc91-4277-9c99-9751b43cdcde",
+    "slug": "tldr-hardware-spacex-starship-orbital-flight-agility-digit-5-meta-ai-chips",
     "title": "TLDR Hardware: SpaceX Starship Orbital Flight, Agility Digit 5, Meta AI Chips",
-    "summary": "This newsletter covers major hardware and robotics news. Key updates include SpaceX targeting September 22 for Starship Flight 14's first full orbital mission with next-gen Starlink V3 payloads. Agility Robotics introduced the Digit 5 humanoid robot featuring a 50-pound payload capacity and rapid nine-minute recharging. NVIDIA open-sourced OSMO, a Kubernetes-native physical AI orchestrator, and Waymo expanded fully autonomous public rides to Las Vegas. Meta reported plans to deploy its third-generation MTIA chips in early 2027 to rival Nvidia on efficiency.",
-    "link": null,
-    "source": "TLDR Hardware",
-    "origin": "manual",
-    "isDuplicateOf": null,
-    "pubDate": "2026-09-16T20:20:00.000Z",
-    "fetchedAt": "2026-09-16T16:06:34.032Z",
-    "content": "Recent hardware and robotics developments feature significant industry updates. SpaceX is preparing for upcoming Starship orbital mission milestones carrying next-generation payloads. Agility Robotics launched the Digit 5 humanoid robot with enhanced payload capacity and fast recharging capabilities. Meanwhile, NVIDIA open-sourced its OSMO physical AI orchestrator, Waymo expanded its fully autonomous public ride services to Las Vegas, and Meta announced plans to deploy its third-generation MTIA chips to improve efficiency.",
-    "content_ta": "சமீபத்திய வன்பொருள் மற்றும் ரோபாட்டிக்ஸ் துறையில் முக்கிய முன்னேற்றங்கள் ஏற்பட்டுள்ளன. அடுத்த தலைமுறை பேலோடுகளுடன் Starship ஆர்பிட்டல் மிஷன் மைல்கற்களை நோக்கி SpaceX தயாராகி வருகிறது. மேம்பட்ட பேலோடு திறன் மற்றும் விரைவான ரீசார்ஜிங் வசதியுடன் கூடிய Digit 5 ஹியூமனாய்டு ரோபோவை Agility Robotics அறிமுகப்படுத்தியது. இதற்கிடையில், NVIDIA தனது OSMO பிசிகல் AI ஆர்ட்வெஸ்டிரேட்டரை ஓப்பன் சோர்ஸ் செய்தது, Waymo தனது தன்னாட்சி பொது சவாரி சேவைகளை Las Vegas-க்கு விரிவுபடுத்தியது, மேலும் Meta தனது மூன்றாவது தலைமுறை MTIA சிப்களை வெளியிட திட்டமிட்டுள்ளது.",
     "tags": [
       "SpaceX",
       "Agility Robotics",
@@ -59,40 +41,30 @@
       "Waymo",
       "Meta"
     ],
-    "slug": "tldr-hardware-spacex-starship-orbital-flight-agility-digit-5-meta-ai-chips"
+    "source": "TLDR Hardware",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-16T20:20:00.000Z"
   },
   {
     "id": "ac087971-1e30-4bd4-842f-c20556a0dcdc",
+    "slug": "tldr-information-security-logi-options-bug-clickfix-ads-cursor-cli-sandbox-escape",
     "title": "TLDR Information Security: Logi Options+ Bug, ClickFix Ads, Cursor CLI Sandbox Escape",
-    "summary": "This newsletter covers recent cybersecurity attacks, vulnerabilities, strategies, and tools. Key topics include a privilege escalation vulnerability in Logi Options+ tracked as CVE-2026-12518, ClickFix attacks targeting Mac and Windows users via compromised HBO Max ads on Reddit, and a Vite server flaw exploited to extract cloud credentials. Additional reports analyze a sandbox escape vulnerability in Cursor CLI and widespread internet exposure of Mythic C2 frameworks. Apple’s macOS updates patching over 200 vulnerabilities are also highlighted.",
-    "link": null,
-    "source": "TLDR InfoSec",
-    "origin": "manual",
-    "isDuplicateOf": null,
-    "pubDate": "2026-09-16T20:00:00.000Z",
-    "fetchedAt": "2026-09-16T16:06:34.032Z",
-    "content": "Recent cybersecurity reports highlight multiple vulnerabilities and attacks, including a privilege escalation flaw in Logi Options+ and a sandbox escape in Cursor CLI. Mac and Windows users faced ClickFix attacks through compromised ads, while a Vite server flaw was exploited for cloud credentials. Additionally, widespread internet exposure of Mythic C2 frameworks and Apple macOS updates patching over 200 vulnerabilities were reported.",
-    "content_ta": "சமீபத்திய சைபர் பாதுகாப்பு அறிக்கைகள் Logi Options+ மற்றும் Cursor CLI-ல் உள்ள குறைபாடுகள் உட்பட பல தாக்குதல்களை வெளிப்படுத்தியுள்ளன. சமரசம் செய்யப்பட்ட விளம்பரங்கள் மூலம் Mac மற்றும் Windows பயனர்கள் ClickFix தாக்குதல்களை எதிர்கொண்டனர். மேலும், Mythic C2 கட்டமைப்புகள் இணையத்தில் வெளிப்பட்டதும், 200-க்கும் மேற்பட்ட குறைபாடுகளை சரிசெய்யும் Apple macOS புதுப்பிப்புகளும் வெளியிடப்பட்டுள்ளன.",
     "tags": [
       "Logi Options+",
       "Cursor CLI",
       "Apple",
       "Mythic C2"
     ],
-    "slug": "tldr-information-security-logi-options-bug-clickfix-ads-cursor-cli-sandbox-escape"
+    "source": "TLDR InfoSec",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-16T20:00:00.000Z"
   },
   {
     "id": "e309da6b-ea8a-49a7-aa36-1b6dac7f8a29",
+    "slug": "tldr-it-slack-updates-windows-patch-and-enterprise-ai-trends",
     "title": "TLDR IT: Slack Updates, Windows Patch, and Enterprise AI Trends",
-    "summary": "This newsletter covers major IT and software development news, including Slack's new AI-powered workspaces and Slack Code. Microsoft released an out-of-band Windows 11 update, KB5129195, following bugs in the September update. Articles discuss why AI software is becoming more expensive despite efficiency gains, the CIO's role in the agentic SaaS era, and Salesforce's Dreamforce announcements. Quick links highlight newly patched JFrog Artifactory vulnerabilities and Anthropic Claude cost controls.",
-    "link": null,
-    "source": "TLDR IT",
-    "origin": "manual",
-    "isDuplicateOf": null,
-    "pubDate": "2026-09-16T19:40:00.000Z",
-    "fetchedAt": "2026-09-16T16:06:34.032Z",
-    "content": "Recent IT updates highlight major developments in software and enterprise technology. Slack introduced new AI-powered features, while Microsoft rolled out a Windows 11 patch to address recent system bugs. Industry discussions focus on rising AI software costs, the shifting role of CIOs, and major announcements from Salesforce. Additionally, experts point to newly patched vulnerabilities in JFrog Artifactory and new cost-control options for Anthropic Claude.",
-    "content_ta": "சமீபத்திய IT புதுப்பிப்புகள் மென்பொருள் மற்றும் நிறுவன தொழில்நுட்பத்தில் முக்கிய முன்னேற்றங்களை முன்னிலைப்படுத்துகின்றன. Slack புதிய AI அடிப்படையிலான அம்சங்களை அறிமுகப்படுத்தியது, அதே நேரத்தில் Microsoft சமீபத்திய கணினி பிழைகளை சரிசெய்ய ஒரு Windows 11 பேட்சை வெளியிட்டது. AI மென்பொருள் செலவுகள் அதிகரிப்பு மற்றும் Salesforce இன் அறிவிப்புகள் குறித்து விவாதிக்கப்படுகின்றன. மேலும், JFrog Artifactory பாதிப்புகள் மற்றும் Anthropic Claude செலவுக் கட்டுப்பாடுகள் சுட்டிக்காட்டப்பட்டுள்ளன.",
     "tags": [
       "Slack",
       "Microsoft",
@@ -100,60 +72,45 @@
       "JFrog",
       "Anthropic"
     ],
-    "slug": "tldr-it-slack-updates-windows-patch-and-enterprise-ai-trends"
+    "source": "TLDR IT",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-16T19:40:00.000Z"
   },
   {
     "id": "fe8c0188-e684-478c-877e-2d948573ffd2",
+    "slug": "tldr-founders-software-moats-safes-and-salesforce-in-claude",
     "title": "TLDR Founders: Software Moats, SAFEs, and Salesforce in Claude",
-    "summary": "This newsletter digest covers various founder and startup topics. Key items include discussions on how AI erodes traditional software moats, insights into building reliable company brains, understanding SAFEs and cap tables, and managing momentum versus defensibility. Tools and updates featured include WorkOS Radar for preventing AI credit and free-tier abuse, and the launch of Salesforce in Claude in beta on paid plans. Additional articles examine the consumerization of US healthcare and venture capital fundraising speed runs.",
-    "link": null,
-    "source": "TLDR Founders",
-    "origin": "manual",
-    "isDuplicateOf": null,
-    "pubDate": "2026-09-16T19:20:00.000Z",
-    "fetchedAt": "2026-09-16T16:06:34.032Z",
-    "content": "A recent startup digest highlights major industry discussions, including how AI impacts traditional software moats and the importance of reliable company brains. Key topics also cover SAFEs, cap tables, and balancing momentum with defensibility. New updates feature WorkOS Radar for preventing abuse and the beta launch of Salesforce in Claude. Other pieces explore US healthcare consumerization and venture capital fundraising trends.",
-    "content_ta": "சமீபத்திய ஸ்டார்ட்அப் செய்திமடல், பாரம்பரிய மென்பொருள் பாதுகாப்பு அரண்களை AI எவ்வாறு பாதிக்கிறது மற்றும் நம்பகமான நிறுவன மூளையின் முக்கியத்துவம் குறித்து விவாதிக்கிறது. SAFEs, காப் டேபிள்கள் மற்றும் வெல்லும் வேகத்தை பாதுகாப்பானதாக மாற்றுவது பற்றியும் இதில் விவரிக்கப்பட்டுள்ளது. WorkOS Radar மற்றும் Salesforce in Claude ஆகியவை புதிய அம்சங்களாக அறிமுகப்படுத்தப்பட்டுள்ளன. அமெரிக்க சுகாதாரத்துறை மாற்றங்கள் மற்றும் வெஞ்சூர் கேப்பிடல் நிதி திரட்டும் போக்குகள் பற்றியும் இதில் ஆராயப்பட்டுள்ளது.",
     "tags": [
       "WorkOS",
       "Salesforce",
       "Claude",
       "United States"
     ],
-    "slug": "tldr-founders-software-moats-safes-and-salesforce-in-claude"
+    "source": "TLDR Founders",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-16T19:20:00.000Z"
   },
   {
     "id": "a74e9b71-2f05-4007-87bb-55a9768a3319",
+    "slug": "tldr-design-meta-muse-canva-prosuite-and-ios-27",
     "title": "TLDR Design: Meta Muse, Canva ProSuite, and iOS 27",
-    "summary": "This newsletter edition covers major design and tech news, including Meta launching Muse, an AI consumer agent that navigates websites and makes payments, and Canva releasing ProSuite, unifying Affinity, Cavalry, Flourish, and Leonardo with 100 new features. Apple released iOS 27 featuring Siri AI integration and updated iPhone tools. Additional articles discuss the shift from UI/UX to AI UX and Figma enabling designers to build plugins using plain-language AI prompts.",
-    "link": null,
-    "source": "TLDR Design",
-    "origin": "manual",
-    "isDuplicateOf": null,
-    "pubDate": "2026-09-16T19:00:00.000Z",
-    "fetchedAt": "2026-09-16T16:06:34.032Z",
-    "content": "Recent tech updates highlight major developments across the industry. Meta launched Muse, an AI consumer agent designed to navigate websites and handle payments. Canva introduced ProSuite, combining multiple creative tools with numerous new features. Additionally, Apple released iOS 27 with advanced Siri AI integration and updated iPhone tools. Industry discussions also focus on the evolution from traditional UI/UX toward AI UX, alongside new AI-powered plugin development capabilities in Figma.",
-    "content_ta": "தொழில்நுட்ப உலகில் பல முக்கிய அறிவிப்புகள் வெளியாகியுள்ளன. வெப்சைட்களில் உலாவி பணம் செலுத்தும் வகையில் Meta தனது புதிய AI ஏஜென்டான Muse-ஐ அறிமுகப்படுத்தியுள்ளது. Canva நிறுவனம் பல்வேறு படைப்பாக்க கருவிகளை இணைத்து ProSuite-ஐ வெளியிட்டுள்ளது. மேலும், மேம்படுத்தப்பட்ட Siri AI வசதியுடன் Apple நிறுவனம் iOS 27-ஐ வெளியிட்டுள்ளது. பாரம்பரிய UI/UX முறை AI UX ஆக மாறுவது குறித்தும், Figma-வில் எளிய AI கட்டளைகள் மூலம் பிளக்கின்களை உருவாக்கும் வசதி குறித்தும் விவாதிக்கப்பட்டு வருகிறது.",
     "tags": [
       "Meta",
       "Canva",
       "Apple",
       "Figma"
     ],
-    "slug": "tldr-design-meta-muse-canva-prosuite-and-ios-27"
+    "source": "TLDR Design",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-16T19:00:00.000Z"
   },
   {
     "id": "758749eb-beda-4224-9bda-59f976d37059",
+    "slug": "tldr-crypto-clarity-act-fails-aave-v4-collateral-lending-more",
     "title": "TLDR Crypto: Clarity Act Fails, Aave V4 Collateral Lending, & More",
-    "summary": "The Senate failed a cloture vote on the Clarity Act, leaving digital asset market regulation without a congressional mandate. The DOJ charged two Robinhood engineers with fraud for front-running crypto listings using perpetual futures. Aave Labs proposed an Isolated Hub and Spoke for Aave V4 enabling institutional borrowers to use Anchorage-custodied collateral for stablecoin loans. The EU Cyber Resilience Act enforced strict 24-hour vulnerability reporting for crypto wallet makers. Robinhood Chain achieved significant TVL and DEX volume growth driven by viral brand recognition and permissionless token launches.",
-    "link": null,
-    "source": "TLDR Crypto",
-    "origin": "manual",
-    "isDuplicateOf": null,
-    "pubDate": "2026-09-16T18:40:00.000Z",
-    "fetchedAt": "2026-09-16T16:06:34.032Z",
-    "content": "The US Senate failed to pass the Clarity Act, leaving digital asset regulation without a congressional mandate. Meanwhile, the DOJ charged two Robinhood engineers with fraud involving crypto listings. Aave Labs proposed an Isolated Hub and Spoke for Aave V4 to allow institutional borrowing with Anchorage-custodied collateral. Additionally, the EU enforced strict 24-hour vulnerability reporting rules for crypto wallet makers, while Robinhood Chain saw notable growth in TVL and DEX volume.",
-    "content_ta": "US Senate-ல் Clarity Act மீதான வாக்கெடுப்பு தோல்வியடைந்ததால், டிஜிட்டல் சொத்து ஒழுங்குமுறைக்கான நாடாளுமன்ற ஒப்புதல் கிடைக்காமல் போனது. இதற்கிடையில், கிரிப்டோ பட்டியல்களை முன்வைத்து மோசடியில் ஈடுபட்டதாக இரண்டு Robinhood பொறியாளர்கள் மீது DOJ வழக்குப்பதிவு செய்துள்ளது. Anchorage-custodied பிணையத்தைப் பயன்படுத்தி நிறுவனங்கள் கடன் பெற ஏதுவாக Aave V4-க்காக Isolated Hub and Spoke முறையை Aave Labs பரிந்துரைத்துள்ளது. மேலும், கிரிப்டோ வாலட் தயாரிப்பாளர்களுக்கான கடுமையான 24 மணி நேர பாதிப்பு அறிக்கையிடல் விதிகளையும் EU அமல்படுத்தியுள்ளது.",
     "tags": [
       "Senate",
       "DOJ",
@@ -162,20 +119,15 @@
       "Anchorage",
       "European Union"
     ],
-    "slug": "tldr-crypto-clarity-act-fails-aave-v4-collateral-lending-more"
+    "source": "TLDR Crypto",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-16T18:40:00.000Z"
   },
   {
     "id": "a126e3eb-f0f3-42bd-8a77-081d1f106f60",
+    "slug": "standard-chartered-sets-10-arb-target-amid-senate-crypto-bill-defeat",
     "title": "Standard Chartered Sets $10 ARB Target Amid Senate Crypto Bill Defeat",
-    "summary": "The Digital Asset Market Clarity Act failed 49-50 in the Senate, leaving regulatory direction to the SEC and CFTC and causing Bitcoin to hold just above $76,000 as the Fed prepares a rate decision. CoinShares reported that at least 35 EH/s of computing power is leaving the publicly listed Bitcoin mining sector for AI infrastructure deals. Standard Chartered initiated coverage of Arbitrum with a $10 price target by end-2030, noting traditional finance firms are adopting its tech stack.",
-    "link": null,
-    "source": "Crypto Briefing",
-    "origin": "manual",
-    "isDuplicateOf": null,
-    "pubDate": "2026-09-16T18:20:00.000Z",
-    "fetchedAt": "2026-09-16T16:06:34.032Z",
-    "content": "Standard Chartered has issued a $10 price target for ARB by 2030, highlighting traditional finance adoption. This follows the Senate defeat of the Digital Asset Market Clarity Act, which left regulatory oversight with the SEC and CFTC. Meanwhile, CoinShares reported that massive computing power is shifting from public Bitcoin mining to AI infrastructure, while Bitcoin prices hold near $76,000 ahead of a Federal Reserve decision.",
-    "content_ta": "2030-ற்குள் ARB-ன் விலை $10-ஐ எட்டும் என Standard Chartered நிறுவனம் கணித்துள்ளது. பாரம்பரிய நிதி நிறுவனங்கள் இதன் தொழில்நுட்பத்தை ஏற்பதை இது சுட்டிக்காட்டுகிறது. இதற்கிடையில், செனட் சபையில் Digital Asset Market Clarity Act தோல்வியடைந்ததால், ஒழுங்குமுறை பொறுப்பு SEC மற்றும் CFTC வசம் உள்ளது. மேலும், பெருமளவிலான கம்ப்யூட்டிங் சக்தி Bitcoin மைனிங்கிலிருந்து AI உள்கட்டமைப்புக்கு மாறுவதாக CoinShares தெரிவித்துள்ளது. பெடரல் ரிசர்வ் வட்டி விகித முடிவுக்கு முன்பு Bitcoin விலை $76,000-க்கு மேல் வர்த்தகமாகிறது.",
     "tags": [
       "Standard Chartered",
       "ARB",
@@ -186,59 +138,151 @@
       "Bitcoin",
       "Federal Reserve"
     ],
-    "slug": "standard-chartered-sets-10-arb-target-amid-senate-crypto-bill-defeat"
+    "source": "Crypto Briefing",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-16T18:20:00.000Z"
   },
   {
     "id": "00467f2b-5591-47ad-a75a-c7859e1ec4c4",
+    "slug": "tldr-dev-agent-testing-voice-ai-and-inference-hardware",
     "title": "TLDR Dev: Agent Testing, Voice AI, and Inference Hardware",
-    "summary": "This newsletter issue covers articles, tutorials, opinions, and launches regarding software development and AI. Key topics include agentic coding processes and verification, engineering AI infrastructure using scientific judgment at Airbnb, and ongoing skepticism around LLM capabilities for knowledge work. New tool and model announcements feature Jev from Typesafe, Google’s Gemini 3.8 Live models with extended thinking, and Dragonfly as a multi-threaded data store alternative to Redis. Additional pieces discuss security vulnerabilities involving leaked GitHub tokens.",
-    "link": null,
-    "source": "TLDR Dev",
-    "origin": "manual",
-    "isDuplicateOf": null,
-    "pubDate": "2026-09-16T18:00:00.000Z",
-    "fetchedAt": "2026-09-16T16:06:34.032Z",
-    "content": "The latest software development newsletter highlights major advancements in AI infrastructure, voice models, and inference hardware. Key updates include agent testing and verification, engineering insights from Airbnb, and skepticism over LLM knowledge work capabilities. New releases feature tools and models like Google Gemini 3.8 Live, Jev, and Dragonfly. Additionally, the issue addresses security concerns regarding leaked GitHub tokens in software development.",
-    "content_ta": "ச recent சாஃப்ட்வேர் டெவலப்மெண்ட் நியூஸ்லெட்டர் AI இன்ஃப்ராஸ்ட்ரக்சர், வாய்ஸ் மாடல்கள் மற்றும் இன்ஃபரன்ஸ் ஹார்டுவேர் ஆகியவற்றில் உள்ள முக்கிய முன்னேற்றங்களை எடுத்துரைக்கிறது. ஏஜென்ட் டெஸ்டிங், Airbnb இன் இன்ஜினியரிங் நுண்ணறிவுகள் மற்றும் LLM திறன்கள் குறித்த சந்தேகங்கள் இதில் அடங்கும். Google Gemini 3.8 Live, Jev மற்றும் Dragonfly போன்ற புதிய கருவிகள் வெளியிடப்பட்டுள்ளன. கூடுதலாக, லீக் ஆன GitHub டோக்கன்கள் தொடர்பான பாதுகாப்புப் பிரச்சினைகளும் விவாதிக்கப்பட்டுள்ளன.",
     "tags": [
       "Airbnb",
       "Google",
       "GitHub"
     ],
-    "slug": "tldr-dev-agent-testing-voice-ai-and-inference-hardware"
+    "source": "TLDR Dev",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-16T18:00:00.000Z"
   },
   {
     "id": "e8b1867a-5f1a-4562-8435-d19b81bfd7a0",
+    "slug": "tldr-devops-kubernetes-v1-37-cilium-1-20-and-cloudflare-ai-training-controls",
     "title": "TLDR DevOps: Kubernetes v1.37, Cilium 1.20, and Cloudflare AI Training Controls",
-    "summary": "This newsletter covers recent DevOps and cloud-native developments, including the graduation of Memory QoS to Beta in Kubernetes v1.37 and the release of Cilium 1.20 with IPv6 support for AWS ENI IPAM. Cloudflare introduced a new setting allowing website owners to block AI training while remaining indexed in search results. Articles discuss how container runtime insights assist with security and why native CI/CD integration scales internal developer portals.",
-    "link": null,
-    "source": "TLDR DevOps",
-    "origin": "manual",
-    "isDuplicateOf": null,
-    "pubDate": "2026-09-16T17:40:00.000Z",
-    "fetchedAt": "2026-09-16T16:06:34.032Z",
-    "content": "Recent DevOps updates feature Kubernetes v1.37 advancing Memory QoS to Beta, and Cilium 1.20 introducing IPv6 support for AWS ENI IPAM. Additionally, Cloudflare launched a new setting enabling website owners to block AI training while preserving search engine indexing. Other discussions highlight how container runtime insights improve security and why native CI/CD integration enhances internal developer portals.",
-    "content_ta": "சமீபத்திய DevOps புதுப்பிப்புகளில், Kubernetes v1.37-ல் Memory QoS பீட்டா நிலைக்கு முன்னேறியுள்ளது மற்றும் Cilium 1.20 பதிப்பில் AWS ENI IPAM-க்கான IPv6 ஆதரவு அறிமுகப்படுத்தப்பட்டுள்ளது. கூடுதலாக, வலைத்தள உரிமையாளர்கள் தேடுபொறி குறியீட்டு முறையைத் தக்க வைத்துக் கொண்டு AI பயிற்சியைத் தடுக்க அனுமதிக்கும் புதிய அமைப்பை Cloudflare அறிமுகப்படுத்தியுள்ளது. கண்டெய்னர் ரன்டைம் நுண்ணறிவுகள் பாதுகாப்பை எவ்வாறு மேம்படுத்துகின்றன மற்றும் சொந்த CI/CD ஒருங்கிணைப்பு உள் டெவலப்பர் போர்ட்டல்களை எவ்வாறு அளவிடுகிறது என்பது குறித்தும் விவாதிக்கப்பட்டுள்ளது.",
     "tags": [
       "Kubernetes",
       "Cilium",
       "Cloudflare",
       "AWS"
     ],
-    "slug": "tldr-devops-kubernetes-v1-37-cilium-1-20-and-cloudflare-ai-training-controls"
+    "source": "TLDR DevOps",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:40:00.000Z"
+  },
+  {
+    "id": "e97435b20d47e8ca",
+    "slug": "microsoft-ai-chief-criticizes-anthropic-s-approach-to-ai-consciousness",
+    "title": "Microsoft AI chief criticizes Anthropic’s approach to AI consciousness",
+    "tags": [
+      "Microsoft",
+      "Anthropic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:38:47.000Z"
+  },
+  {
+    "id": "11fb00fe168fadb7",
+    "slug": "bank-of-canada-eyes-rate-hikes-as-gas-prices-fuel-inflation-concerns",
+    "title": "Bank of Canada eyes rate hikes as gas prices fuel inflation concerns",
+    "tags": [
+      "Bank of Canada",
+      "Canada"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:38:02.000Z"
+  },
+  {
+    "id": "2bc0cedc7985c28d",
+    "slug": "intel-shares-could-hit-200-in-two-years-says-melius-research-analyst",
+    "title": "Intel shares could hit $200 in two years, says Melius Research analyst",
+    "tags": [
+      "Intel",
+      "Melius Research"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:36:34.000Z"
+  },
+  {
+    "id": "9a8935df0d2eedef",
+    "slug": "iran-s-surprise-win-over-us-at-un-atomic-watchdog-complicates-diplomacy",
+    "title": "Iran’s surprise win over US at UN atomic watchdog complicates diplomacy",
+    "tags": [
+      "Iran",
+      "United States",
+      "IAEA"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:34:55.000Z"
+  },
+  {
+    "id": "096d1f1ee34bd5b0",
+    "slug": "blue-energy-files-for-nuclear-reactor-at-texas-power-plant-to-fuel-crusoe-s-ai-data-center",
+    "title": "Blue Energy files for nuclear reactor at Texas power plant to fuel Crusoe’s AI data center",
+    "tags": [
+      "Blue Energy",
+      "Crusoe",
+      "Texas"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:28:56.000Z"
+  },
+  {
+    "id": "77e69ba7f24b789a",
+    "slug": "chase-lets-cardholders-invest-reward-points-with-jpmorgan",
+    "title": "Chase Lets Cardholders Invest Reward Points With JPMorgan",
+    "tags": [
+      "Chase",
+      "JPMorgan",
+      "J.P. Morgan Wealth Management"
+    ],
+    "source": "PYMNTS",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:21:35.000Z"
+  },
+  {
+    "id": "2174ad54676ee1e3",
+    "slug": "opencode-launches-union-alpha-model-for-free-use-on-openrouter",
+    "title": "OpenCode launches Union Alpha model for free use on OpenRouter",
+    "tags": [
+      "OpenCode",
+      "OpenRouter"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:21:33.000Z"
+  },
+  {
+    "id": "44ed7999fe78f36f",
+    "slug": "house-energy-and-commerce-committee-chair-doubts-ai-risk-bill-will-advance-this-year",
+    "title": "House Energy and Commerce Committee chair doubts AI risk bill will advance this year",
+    "tags": [
+      "House Energy and Commerce Committee",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:21:02.000Z"
   },
   {
     "id": "e3c46e07-2950-4493-909a-388033080e8f",
+    "slug": "tldr-marketing-2026-09-16",
     "title": "TLDR Marketing 2026-09-16",
-    "summary": "This edition of TLDR Marketing covers industry trends and strategies, including companies hiring senior editors for thought leadership measured on revenue pipeline, Gen Z driving a library revival through TikTok and Instagram, and a 4-week LinkedIn audit highlighting that conversation-starting posts and relatable humor drive follower growth. Additional articles discuss avoiding question-based headlines based on Stanford research, using geo webinars to improve AI search visibility, and Salesforce and Nvidia’s new Koa reasoning model for sales and support.",
-    "link": null,
-    "source": "TLDR Marketing",
-    "origin": "manual",
-    "isDuplicateOf": null,
-    "pubDate": "2026-09-16T17:20:00.000Z",
-    "fetchedAt": "2026-09-16T16:06:34.032Z",
-    "content": "The latest TLDR Marketing edition highlights key industry strategies, including hiring senior editors for revenue-focused thought leadership and Gen Z driving a library revival via TikTok and Instagram. A LinkedIn audit shows conversation-starters and relatable humor boost growth. Other insights cover avoiding question-based headlines based on Stanford research, improving AI search visibility with geo webinars, and Salesforce and Nvidia's new Koa reasoning model.",
-    "content_ta": "சlin-இன் புதிய TLDR Marketing பதிப்பு முக்கிய தொழில்துறை உத்திகளை எடுத்துரைக்கிறது. இதில் வருவாய் சார்ந்த சிந்தனைத் தலைமைக்காக மூத்த எடிட்டர்களை பணியமர்த்துவது மற்றும் TikTok மற்றும் Instagram மூலம் Gen Z லைப்ரரி மீெழுர்ச்சியை ஏற்படுத்துவது ஆகியவை அடங்கும். ஒரு LinkedIn தணிக்கை, உரையாடலைத் தொடங்கும் பதிவுகள் மற்றும் நகைச்சுவை வளர்ச்சிக்கு உதவுவதைக் காட்டுகிறது. Stanford ஆராய்ச்சியின் அடிப்படையில் கேள்வி வடிவ தலைப்புகளைத் தவிர்ப்பது, geo webinars மூலம் AI தேடல் தெரிவுநிலையை மேம்படுத்துவது மற்றும் Salesforce மற்றும் Nvidia-வின் புதிய Koa மாடல் ஆகியவை குறித்த தகவல்களும் இதில் இடம்பெற்றுள்ளன.",
     "tags": [
       "Stanford University",
       "TikTok",
@@ -247,20 +291,220 @@
       "Salesforce",
       "Nvidia"
     ],
-    "slug": "tldr-marketing-2026-09-16"
+    "source": "TLDR Marketing",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:20:00.000Z"
+  },
+  {
+    "id": "bb687da8657b3d8f",
+    "slug": "joao-pedro-omitted-from-brazil-world-cup-squad-by-ancelotti",
+    "title": "Joao Pedro omitted from Brazil World Cup squad by Ancelotti",
+    "tags": [
+      "Joao Pedro",
+      "Brazil",
+      "Ancelotti"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:18:12.000Z"
+  },
+  {
+    "id": "1108afe80a9d8a87",
+    "slug": "cftc-and-sec-double-down-on-crypto-after-clarity-act-defeat",
+    "title": "CFTC and SEC Double Down on Crypto After Clarity Act Defeat",
+    "tags": [
+      "CFTC",
+      "SEC",
+      "Michael Selig",
+      "Paul Atkins",
+      "United States Senate"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:17:03.000Z"
+  },
+  {
+    "id": "73b9233e4d7ed961",
+    "slug": "andy-burnham-faces-calls-for-clarity-on-uk-ai-policy-from-labour-mps",
+    "title": "Andy Burnham faces calls for clarity on UK AI policy from Labour MPs",
+    "tags": [
+      "Andy Burnham",
+      "Labour Party",
+      "United Kingdom"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:13:54.000Z"
+  },
+  {
+    "id": "aa569774542e06ca",
+    "slug": "morgan-stanley-raises-1-3b-for-inaugural-growth-equity-fund-backing-databricks-anduril-and-ramp",
+    "title": "Morgan Stanley raises $1.3B for inaugural growth equity fund backing Databricks, Anduril, and Ramp",
+    "tags": [
+      "Morgan Stanley",
+      "Databricks",
+      "Anduril",
+      "Ramp"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:13:08.000Z"
+  },
+  {
+    "id": "49b5dd623f7225b8",
+    "slug": "anthropic-s-sarah-heck-highlights-ai-safety-as-key-voter-concern-ahead-of-midterms",
+    "title": "Anthropic’s Sarah Heck highlights AI safety as key voter concern ahead of midterms",
+    "tags": [
+      "Anthropic",
+      "Sarah Heck"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:11:33.000Z"
+  },
+  {
+    "id": "b8bf725e15f3af79",
+    "slug": "costco-and-uber-eats-scale-delivery-across-47-states",
+    "title": "Costco and Uber Eats Scale Delivery Across 47 States",
+    "tags": [
+      "Costco",
+      "Uber Eats",
+      "Uber Technologies",
+      "United States"
+    ],
+    "source": "PYMNTS",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:09:07.000Z"
+  },
+  {
+    "id": "7309e6baae17f6aa",
+    "slug": "aave-founder-pitches-uber-path-for-defi-after-clarity-act-fails-senate-vote",
+    "title": "Aave founder pitches ‘Uber path’ for DeFi after Clarity Act fails Senate vote",
+    "tags": [
+      "Aave",
+      "United States"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:08:29.000Z"
+  },
+  {
+    "id": "0b106b92e2c7839e",
+    "slug": "house-ways-and-means-committee-advances-digital-asset-tax-certainty-act-with-overwhelming",
+    "title": "House Ways and Means Committee advances Digital Asset Tax Certainty Act with overwhelming bipartisan vote",
+    "tags": [
+      "House Ways and Means Committee",
+      "Digital Asset Tax Certainty Act"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:06:22.000Z"
+  },
+  {
+    "id": "1a18aa7da9251684",
+    "slug": "hackers-hijack-hbo-max-s-reddit-account-to-spread-crypto-stealing-malware",
+    "title": "Hackers Hijack HBO Max’s Reddit Account to Spread Crypto-Stealing Malware",
+    "tags": [
+      "HBO Max",
+      "Reddit"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:06:02.000Z"
+  },
+  {
+    "id": "3a799f01ee81b4bc",
+    "slug": "germany-sends-eurofighter-jets-to-latvia-amid-drone-threat-during-election",
+    "title": "Germany sends Eurofighter jets to Latvia amid drone threat during election",
+    "tags": [
+      "Germany",
+      "Latvia",
+      "NATO"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:05:33.000Z"
+  },
+  {
+    "id": "0ef7c6230a72110b",
+    "slug": "daler-com-launches-crypto-casino-with-collectible-reward-packs-and-player-configurable-loyalty",
+    "title": "Daler.com Launches Crypto Casino With Collectible Reward Packs and Player-Configurable Loyalty System",
+    "tags": [
+      "Daler.com"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:05:10.000Z"
+  },
+  {
+    "id": "e9f9c5e46d8594a3",
+    "slug": "google-opens-home-ecosystem-to-third-party-ai-agents-through-mcp",
+    "title": "Google opens Home ecosystem to third party AI agents through MCP",
+    "tags": [
+      "Google",
+      "Crypto Briefing"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:05:08.000Z"
+  },
+  {
+    "id": "bb61a3238cf2aeb7",
+    "slug": "kas-price-risks-0-025-as-clarity-act-shock-hits-market",
+    "title": "KAS Price Risks $0.025 as CLARITY Act Shock Hits Market",
+    "tags": [
+      "KAS",
+      "Kaspa",
+      "CLARITY Act"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:03:54.000Z"
+  },
+  {
+    "id": "950cab9bbbe4683c",
+    "slug": "jpmorgan-says-clarity-act-not-fully-dead-but-passage-window-extremely-narrow",
+    "title": "JPMorgan says Clarity Act ‘not fully dead,’ but passage window ‘extremely narrow’",
+    "tags": [
+      "JPMorgan",
+      "Clarity Act"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:01:22.000Z"
+  },
+  {
+    "id": "644b43f4d0eeaeea",
+    "slug": "aave-s-anchorage-proposal-bridges-institutional-custody-and-defi-explained",
+    "title": "Aave’s Anchorage proposal bridges institutional custody and DeFi – Explained",
+    "tags": [
+      "Aave",
+      "Anchorage"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:00:38.000Z"
   },
   {
     "id": "13d192f7-8412-4ecf-82da-a3700a042b91",
+    "slug": "openai-funding-spacex-starship-launch-and-tech-updates",
     "title": "OpenAI Funding, SpaceX Starship Launch, and Tech Updates",
-    "summary": "OpenAI has discussed a pre-IPO financing round valuing the company at over $1.2 trillion, amid concerns about AI safety. SpaceX has readied its 14th Starship mission for September 22, planning its first orbital flight carrying 26 V3 Starlink satellites. Agility Robotics debuted a humanoid robot designed to stop or squat to avoid harming human coworkers. Google released Gemini 3.8 Live and Extended Thinking speech-to-speech models. Mark Zuckerberg weighed in on AI development debates, while the US Senate blocked the Clarity Act cryptocurrency bill.",
-    "link": null,
-    "source": "Crypto Briefing",
-    "origin": "manual",
-    "isDuplicateOf": null,
-    "pubDate": "2026-09-16T17:00:00.000Z",
-    "fetchedAt": "2026-09-16T16:06:34.032Z",
-    "content": "OpenAI has discussed a new financing round, while SpaceX prepared its latest Starship mission for launch. Agility Robotics introduced a new humanoid robot designed to avoid harming human workers. Google released new speech-to-speech AI models, and Mark Zuckerberg commented on AI development. Meanwhile, the US Senate blocked the Clarity Act cryptocurrency bill.",
-    "content_ta": "OpenAI நிறுவனத்தின் புதிய நிதி திரட்டல் குறித்து விவாதிக்கப்பட்டுள்ளது, அதே நேரத்தில் SpaceX தனது புதிய Starship மிஷனை ஏவுவதற்கு தயார்படுத்தியுள்ளது. மனித தொழிலாளர்களுக்கு தீங்கு விளைவிப்பதைத் தவிர்க்கும் வகையில் வடிவமைக்கப்பட்ட புதிய ஹூமனாய்டு ரோபோவை Agility Robotics அறிமுகப்படுத்தியது. Google புதிய ஸ்பீச்-டு-ஸ்பீச் AI மாடல்களை வெளியிட்டது, மேலும் Mark Zuckerberg AI வளர்ச்சி குறித்து கருத்து தெரிவித்தார். இதற்கிடையில், US செனட் Clarity Act கிரிப்டோகரன்சி மசோதாவை தடுத்து நிறுத்தியது.",
     "tags": [
       "OpenAI",
       "SpaceX",
@@ -269,20 +513,199 @@
       "Mark Zuckerberg",
       "United States"
     ],
-    "slug": "openai-funding-spacex-starship-launch-and-tech-updates"
+    "source": "Crypto Briefing",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-16T17:00:00.000Z"
+  },
+  {
+    "id": "45307b669118a0c9",
+    "slug": "us-crypto-tax-bill-advances-38-5-but-staking-question-remains",
+    "title": "US crypto tax bill advances 38–5, but staking question remains",
+    "tags": [
+      "United States"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T16:58:39.000Z"
+  },
+  {
+    "id": "804af3cdd7e6d640",
+    "slug": "ultra-rich-americans-widen-wealth-gap-as-top-0-1-gains-average-9-600-000-per-household-report",
+    "title": "Ultra-Rich Americans Widen Wealth Gap as Top 0.1% Gains Average $9,600,000 Per Household: Report",
+    "tags": [
+      "Center for American Progress",
+      "Federal Reserve",
+      "United States"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T16:55:05.000Z"
+  },
+  {
+    "id": "d562a58691ab55b6",
+    "slug": "google-deepmind-co-founder-shane-legg-joins-safety-first-camp-in-ai-debate",
+    "title": "Google DeepMind Co-Founder Shane Legg Joins Safety-First Camp in AI Debate",
+    "tags": [
+      "Google DeepMind",
+      "Shane Legg"
+    ],
+    "source": "PYMNTS",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T16:53:25.000Z"
+  },
+  {
+    "id": "7d6e953f5074d020",
+    "slug": "sec-to-set-crypto-rules-with-or-without-new-laws-says-chair-atkins",
+    "title": "SEC to set crypto rules with or without new laws, says Chair Atkins",
+    "tags": [
+      "SEC",
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T16:52:41.000Z"
+  },
+  {
+    "id": "deaed50433607a42",
+    "slug": "novo-nordisk-and-anthropic-join-forces-on-ai-driven-drug-research",
+    "title": "Novo Nordisk and Anthropic join forces on AI-driven drug research",
+    "tags": [
+      "Novo Nordisk",
+      "Anthropic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T16:51:16.000Z"
+  },
+  {
+    "id": "eaeb1f79e5b1eaf5",
+    "slug": "your-bitcoin-payments-can-reveal-more-than-you-bargained-for",
+    "title": "Your Bitcoin Payments Can Reveal More Than You Bargained For",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T16:51:03.000Z"
+  },
+  {
+    "id": "88e865d789736c3e",
+    "slug": "bitgo-opens-brazilian-subsidiary-as-tokenization-reshapes-the-country-s-capital-markets",
+    "title": "BitGo opens Brazilian subsidiary as tokenization reshapes the country’s capital markets",
+    "tags": [
+      "BitGo",
+      "Brazil"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T16:50:06.000Z"
+  },
+  {
+    "id": "aff72dd1f1a563af",
+    "slug": "jpmorgan-and-goldman-sachs-are-betting-billions-on-european-ai-infrastructure-debt",
+    "title": "JPMorgan and Goldman Sachs are betting billions on European AI infrastructure debt",
+    "tags": [
+      "JPMorgan",
+      "Goldman Sachs",
+      "Europe"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T16:49:55.000Z"
+  },
+  {
+    "id": "1dba010fe4b21aea",
+    "slug": "blueprint-infrastructure-integrates-full-coinbase-prime-suite-for-funds",
+    "title": "Blueprint Infrastructure integrates full Coinbase Prime suite for funds",
+    "tags": [
+      "Blueprint Infrastructure",
+      "Coinbase Prime"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T16:48:02.000Z"
+  },
+  {
+    "id": "fbcb5f17692bcc7b",
+    "slug": "phoenix-trade-introduces-sol-as-collateral-for-perpetual-positions",
+    "title": "Phoenix Trade introduces SOL as collateral for perpetual positions",
+    "tags": [
+      "Phoenix Trade",
+      "SOL"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T16:44:19.000Z"
+  },
+  {
+    "id": "fdd6def2296e1a07",
+    "slug": "circle-s-x402-facilitator-service-goes-live-on-arc-supports-base-and-polygon-pos",
+    "title": "Circle’s x402 Facilitator Service goes live on Arc, supports Base and Polygon PoS",
+    "tags": [
+      "Circle",
+      "Arc",
+      "Base",
+      "Polygon"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T16:43:34.000Z"
+  },
+  {
+    "id": "e5ca573241a86658",
+    "slug": "apollo-warns-of-rising-credit-risk-for-hyperscalers-amid-ai-investment-concerns",
+    "title": "Apollo warns of rising credit risk for hyperscalers amid AI investment concerns",
+    "tags": [
+      "Apollo"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T16:43:33.000Z"
+  },
+  {
+    "id": "2b5bc8ece36d0736",
+    "slug": "aws-peter-desantis-says-next-trainium-chip-will-be-very-differentiated",
+    "title": "AWS’ Peter DeSantis says next Trainium chip will be ‘very differentiated’",
+    "tags": [
+      "AWS",
+      "Peter DeSantis"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T16:43:23.000Z"
+  },
+  {
+    "id": "866145babe777dfb",
+    "slug": "bitcoin-is-on-sale-and-should-be-accumulated-says-morgan-creek-capital-ceo",
+    "title": "Bitcoin Is on Sale and Should Be Accumulated, Says Morgan Creek Capital CEO",
+    "tags": [
+      "Bitcoin",
+      "Morgan Creek Capital",
+      "Mark Yusko"
+    ],
+    "source": "Bitcoin Magazine",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T16:40:06.000Z"
   },
   {
     "id": "47c938d8-6880-472a-84e7-ce5eb43886e6",
+    "slug": "arc-mainnet-is-live",
     "title": "Arc Mainnet Is Live",
-    "summary": "Arc Mainnet is now live as an open internet platform for global financial markets, real-time value movement, and agentic economic activity. Launched by Arc Network Services LLC, Arc operates as an open Layer-1 network with gas fees denominated in USDC. It features live DeFi markets powered by Aave, Morpho, and Uniswap, fiat stablecoins from over 20 currencies, tokenized funds from BlackRock and Janus Henderson, and programmable Bitcoin via cirBTC. A founding validator cohort includes BlackRock, DTCC, Galaxy, Global Payments, ICE, Mastercard, MoneyGram, SBI Group, Standard Chartered, Sumitomo Corporation, and Visa.",
-    "link": null,
-    "source": "Circle",
-    "origin": "manual",
-    "isDuplicateOf": null,
-    "pubDate": "2026-09-16T16:40:00.000Z",
-    "fetchedAt": "2026-09-16T16:06:34.032Z",
-    "content": "Arc Network Services LLC has launched the Arc Mainnet, an open Layer-1 network for global financial markets and real-time value movement using USDC for gas fees. Supported by a prominent founding validator cohort including BlackRock, Mastercard, and Visa, the platform integrates live DeFi markets, multi-currency fiat stablecoins, tokenized funds, and programmable Bitcoin to facilitate agentic economic activity.",
-    "content_ta": "Arc Network Services LLC நிறுவனம் Arc Mainnet-ஐ வெளியிட்டுள்ளது. இது USDC-ஐ காஸ் கட்டணமாகப் பயன்படுத்தும் உலகளாவிய நிதி சந்தைகளுக்கான திறந்த Layer-1 நெட்வொர்க் ஆகும். BlackRock, Mastercard, Visa உள்ளிட்ட முக்கிய நிறுவனங்களின் ஆதரவுடன், இந்த தளம் நேரலை DeFi சந்தைகள், பல்வேறு கரன்சி ஸ்டேபிள்காயின்கள், டோக்கன் செய்யப்பட்ட நிதிகள் மற்றும் புரோகிராம் செய்யக்கூடிய Bitcoin ஆகியவற்றை உள்ளடக்கியுள்ளது.",
     "tags": [
       "Arc Network Services",
       "BlackRock",
@@ -295,20 +718,131 @@
       "Bitcoin",
       "USDC"
     ],
-    "slug": "arc-mainnet-is-live"
+    "source": "Circle",
+    "origin": "manual",
+    "hasContent": true,
+    "pubDate": "2026-09-16T16:40:00.000Z"
+  },
+  {
+    "id": "ab9a7d826183a820",
+    "slug": "when-is-the-fomc-meeting-today",
+    "title": "When Is The FOMC Meeting Today?",
+    "tags": [
+      "Federal Reserve",
+      "FOMC"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T16:39:46.000Z"
+  },
+  {
+    "id": "44deea4995fc7d32",
+    "slug": "the-quantum-issue-to-freeze-coins-or-not",
+    "title": "The Quantum Issue: To Freeze Coins Or Not",
+    "tags": [
+      "Bitcoin Magazine",
+      "Jameson Lopp",
+      "Bitcoin"
+    ],
+    "source": "Bitcoin Magazine",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T16:39:01.000Z"
+  },
+  {
+    "id": "01fa5853ab45f589",
+    "slug": "ripple-joins-velocity-targets-payment-back-end-with-10-million-extension",
+    "title": "Ripple Joins Velocity, Targets Payment Back End With $10 Million Extension",
+    "tags": [
+      "Velocity",
+      "Ripple"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T16:34:00.000Z"
+  },
+  {
+    "id": "5f81ebebe9d2b7a2",
+    "slug": "zuckerberg-pushes-back-on-coordinated-ai-slowdown-says-labs-can-act-alone",
+    "title": "Zuckerberg Pushes Back on Coordinated AI Slowdown, Says Labs Can Act Alone",
+    "tags": [
+      "Meta",
+      "Mark Zuckerberg",
+      "Muse"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T16:31:03.000Z"
+  },
+  {
+    "id": "c5af2cf46f2d0909",
+    "slug": "nvidia-and-google-launch-energy-alliance-to-prevent-ai-grid-overload",
+    "title": "Nvidia and Google Launch Energy Alliance to Prevent AI Grid Overload",
+    "tags": [
+      "Nvidia",
+      "Google",
+      "Emerald AI",
+      "AI Energy Management Alliance"
+    ],
+    "source": "PYMNTS",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T16:28:54.000Z"
+  },
+  {
+    "id": "bb60c0e9f8ffc786",
+    "slug": "russian-spies-using-crypto-and-telegram-to-incite-chaos-across-europe",
+    "title": "Russian spies using crypto and Telegram to incite chaos across Europe",
+    "tags": [
+      "Telegram",
+      "Russia",
+      "Europe"
+    ],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T16:27:22.000Z"
+  },
+  {
+    "id": "54ace69973dc5001",
+    "title": "Crypto’s Clarity Act stumbles",
+    "summary": "A hotly debated measure to regulate digital assets failed in the Senate amid conflict-of-interest concerns related to President Trump. Regulators now may have to forge the blueprint for the sector.",
+    "hasSummary": true,
+    "link": "https://www.bankingdive.com/news/clarity-act-fails-senate-trump-crypto-conflict-of-interest-sec-cftc/830563/",
+    "source": "Banking Dive",
+    "tags": [
+      "President Trump",
+      "Senate"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-16T16:25:20.000Z",
+    "fetchedAt": "2026-09-16T17:39:57.944Z",
+    "isDuplicateOf": null,
+    "content": "A highly anticipated measure aimed at regulating digital assets has stumbled in the Senate. The legislation failed to advance amid growing conflict-of-interest concerns involving President Trump. As a result, regulators may now be forced to independently forge the necessary blueprint for overseeing the growing sector.",
+    "content_ta": "டிஜிட்டல் சொத்துக்களை ஒழுங்குபடுத்தும் நோக்கில் உருவாக்கப்பட்ட ஒரு முக்கிய மசோதா Senate-ல் பின்னடைவை சந்தித்துள்ளது. President Trump தொடர்பான நலன் சார்ந்த மோதல் கவலைகளுக்கு இடையே இந்த சட்டம் தோல்வியடைந்துள்ளது. இதன் காரணமாக, ஒழுங்குமுறை ஆணையங்கள் இனி இந்தத் துறைக்கான வழிகாட்டுதலை தாங்களாகவே உருவாக்க வேண்டிய கட்டாயத்திற்கு தள்ளப்படலாம்.",
+    "slug": "crypto-s-clarity-act-stumbles"
+  },
+  {
+    "id": "47108bb7a0210cc7",
+    "slug": "spacex-stock-jumps-6-after-starship-milestone-will-the-rally-hold",
+    "title": "SpaceX Stock Jumps 6% After Starship Milestone. Will the Rally Hold?",
+    "tags": [
+      "SpaceX",
+      "Starship",
+      "Starlink"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-16T16:21:13.000Z"
   },
   {
     "id": "e1a85284-1374-40f4-8256-cce9644dd73a",
+    "slug": "senate-blocks-clarity-act-and-bitcoin-market-updates",
     "title": "Senate Blocks Clarity Act and Bitcoin Market Updates",
-    "summary": "The U.S. Senate blocked the Clarity Act in a procedural cloture vote, with lawmakers and administration figures like Treasury Secretary Scott Bessent and Senator Cynthia Lummis weighing in on the legislative defeat for the digital asset industry. Strike CEO Jack Mallers discussed the inflation outlook, bond stress, and Bitcoin versus gold, warning that both Fed hiking and cutting paths lead to inflation amid a U.S. debt-to-GDP ratio surpassing 120%. Additional stories cover the DOJ seeking $61 million in Iranian oil proceeds laundered through Binance.",
-    "link": null,
-    "source": "Crypto Briefing",
-    "origin": "manual",
-    "isDuplicateOf": null,
-    "pubDate": "2026-09-16T16:20:00.000Z",
-    "fetchedAt": "2026-09-16T16:06:34.032Z",
-    "content": "The U.S. Senate blocked the Clarity Act in a procedural vote, marking a legislative setback for the digital asset industry. Key figures including Treasury Secretary Scott Bessent and Senator Cynthia Lummis weighed in on the outcome. Meanwhile, Strike CEO Jack Mallers discussed inflation and Bitcoin, and the DOJ sought millions in Iranian oil proceeds tied to Binance.",
-    "content_ta": "U.S. Senate-ல் நடைமுறை வாக்கெடுப்பு மூலம் Clarity Act தடுக்கப்பட்டது, இது டிஜிட்டல் சொத்து துறைக்கு பின்னடைவாக கருதப்படுகிறது. Treasury Secretary Scott Bessent மற்றும் Senator Cynthia Lummis ஆகியோர் இந்த முடிவு குறித்து கருத்து தெரிவித்துள்ளனர். இதற்கிடையில், Strike CEO Jack Mallers பணவீக்கம் மற்றும் Bitcoin குறித்து விவாதித்தார், மேலும் DOJ Binance உடன் தொடர்புடைய ஈரானிய எண்ணெய் வருவாயை கோரியுள்ளது.",
     "tags": [
       "Senate",
       "Treasury Department",
@@ -316,655 +850,9 @@
       "Binance",
       "United States"
     ],
-    "slug": "senate-blocks-clarity-act-and-bitcoin-market-updates"
-  },
-  {
-    "id": "74cf1bbb-1cb1-4897-8cf0-de6641e76bc0",
-    "title": "AI Without the Data Center",
-    "summary": "The newsletter explores the concept and feasibility of decentralized AI training as an alternative to centralized data centers, driven by potential future government regulations on AI. Researchers at Pluralis.ai recently demonstrated a breakthrough by training an 8.6-billion-parameter model across 330 geographically dispersed, consumer-grade computers in just five weeks using a novel data-compression technique. Advocates argue that blockchain and crypto coordination mechanisms could eventually help incentivize and sustain decentralized computing networks.",
-    "link": null,
-    "source": "The Breakdown",
-    "origin": "manual",
-    "isDuplicateOf": null,
-    "pubDate": "2026-09-16T16:00:00.000Z",
-    "fetchedAt": "2026-09-16T16:06:34.032Z",
-    "content": "A recent newsletter explores decentralized AI training as an alternative to centralized data centers, driven by potential future government regulations. Researchers at Pluralis.ai successfully trained an 8.6-billion-parameter model across 330 consumer-grade computers over five weeks using a new data-compression technique. Advocates suggest that blockchain and crypto coordination tools could help incentivize and sustain these decentralized computing networks in the future.",
-    "content_ta": "மத்தியமயமாக்கப்பட்ட டேட்டா சென்டர்களுக்கு மாற்றாக, பரவலாக்கப்பட்ட AI பயிற்சி முறைகள் குறித்த சாத்தியக்கூறுகளை ஒரு புதிய செய்திமடல் ஆராய்கிறது. எதிர்கால அரசாங்க ஒழுங்குமுறைகளைக் கருத்தில் கொண்டு, Pluralis.ai ஆராய்ச்சியாளர்கள் புதிய டேட்டா-கம்ப்ரஷன் நுட்பத்தைப் பயன்படுத்தி, 330 நுகர்வோர் தர கணினிகள் மூலம் ஐந்து வாரங்களில் 8.6 பில்லியன் அளவுள்ள மாடலை வெற்றிகரமாகப் பயிற்சி செய்துள்ளனர். பிளாக்செயின் மற்றும் கிரிப்டோ ஒருங்கிணைப்பு கருவிகள் எதிர்காலத்தில் இத்தகைய பரவலாக்கப்பட்ட கணினி நெட்வொர்க்குகளை ஊக்குவிக்க உதவும் என்று ஆதரவாளர்கள் வாதிடுகின்றனர்.",
-    "tags": [
-      "Pluralis.ai"
-    ],
-    "slug": "ai-without-the-data-center"
-  },
-  {
-    "id": "24125f74-cc2c-4e73-bed6-c518479ee738",
-    "title": "Clarity's Vote Failed. Now What?",
-    "summary": "The highly anticipated CLARITY crypto bill vote failed in the Senate after senators voted against moving it out of negotiations onto the Senate floor, falling short of the required votes. Despite a final draft featuring over 100 changes, including a stronger ethics package restricting certain officials from digital assets, negotiations stalled following Democratic counterproposals regarding children's coverage and asset liquidation. Crypto rulemaking by agencies like the CFTC and SEC will continue, though comprehensive legislative certainty must wait.",
-    "link": null,
     "source": "Crypto Briefing",
     "origin": "manual",
-    "isDuplicateOf": null,
-    "pubDate": "2026-09-16T15:40:00.000Z",
-    "fetchedAt": "2026-09-16T16:06:34.032Z",
-    "content": "The highly anticipated CLARITY crypto bill vote failed in the Senate after falling short of the required support to move to the floor. Negotiations stalled following counterproposals regarding children's coverage and asset liquidation, despite numerous changes in the final draft. Without comprehensive legislative certainty, crypto rulemaking by agencies such as the SEC and CFTC will continue.",
-    "content_ta": "அதிகளவு எதிர்பார்க்கப்பட்ட CLARITY கிரிப்டோ மசோதா மீதான வாக்கெடுப்பு செனட்டில் தோல்வியடைந்துள்ளது. குழந்தைகள் பாதுகாப்பு மற்றும் சொத்து likidation தொடர்பான மாற்றுத் திட்டங்களால் பேச்சுவார்த்தைகள் தடைபட்டன. முறையான சட்ட உறுதிப்பாடு கிடைக்கும் வரை SEC மற்றும் CFTC போன்ற அமைப்புகளின் மூலமாகவே கிரிப்டோ ஒழுங்குமுறை தொடரும்.",
-    "tags": [
-      "Senate",
-      "SEC",
-      "CFTC"
-    ],
-    "slug": "clarity-s-vote-failed-now-what"
-  },
-  {
-    "id": "35628b0d-7edc-4b8c-99fb-897b8bdea63c",
-    "title": "ETHGlobal Tokyo Hackathon: T-10 Days",
-    "summary": "ETHGlobal Tokyo features 36 hours of building and over $75,000 in prizes, with the hackathon application deadline extended to Sunday, September 20. The event takes place September 25-27 alongside Pragma Tokyo on September 26, which features talks and panels. Additional events during ETHTokyo Week include the Agentic Summit, Builder Nights Tokyo, and the Ethereum Institutional Summit. New dates were also announced for ETHGlobal Mumbai, taking place November 5-7, 2026.",
-    "link": null,
-    "source": "ETHGlobal",
-    "origin": "manual",
-    "isDuplicateOf": null,
-    "pubDate": "2026-09-16T15:20:00.000Z",
-    "fetchedAt": "2026-09-16T16:06:34.032Z",
-    "content": "The ETHGlobal Tokyo hackathon is approaching in ten days, featuring 36 hours of building and over $75,000 in prizes. The application deadline has been extended to Sunday, September 20. The event runs from September 25 to 27 alongside Pragma Tokyo. Additional events include the Agentic Summit, Builder Nights Tokyo, and the Ethereum Institutional Summit. Furthermore, new dates were announced for ETHGlobal Mumbai, scheduled for November 2026.",
-    "content_ta": "ETHGlobal Tokyo hackathon இன்னும் பத்து நாட்களில் தொடங்க உள்ளது. இதில் 36 மணிநேர செயற்திட்ட உருவாக்கமும் $75,000-க்கும் அதிகமான பரிசுகளும் வழங்கப்படுகின்றன. இதற்கான விண்ணப்பக் கெடு செப்டம்பர் 20-ம் தேதி ஞாயிற்றுக்கிழமை வரை நீட்டிக்கப்பட்டுள்ளது. இந்த நிகழ்வு செப்டம்பர் 25 முதல் 27 வரை Pragma Tokyo-வுடன் இணைந்து நடைபெறுகிறது. மேலும், Agentic Summit, Builder Nights Tokyo மற்றும் Ethereum Institutional Summit போன்ற நிகழ்வுகளும் நடைபெறவுள்ளன. கூடுதலாக, ETHGlobal Mumbai நிகழ்வுக்கான புதிய தேதிகளும் அறிவிக்கப்பட்டுள்ளன.",
-    "tags": [
-      "ETHGlobal",
-      "Ethereum",
-      "Tokyo",
-      "Mumbai"
-    ],
-    "slug": "ethglobal-tokyo-hackathon-t-10-days"
-  },
-  {
-    "id": "4c07919eb90cb271",
-    "slug": "embedded-accounting-for-mid-corporate-businesses-addressing-the-complexity",
-    "title": "Embedded accounting for mid-corporate businesses: Addressing the complexity",
-    "tags": [],
-    "source": "Finextra",
-    "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-09-16T15:00:00.000Z"
-  },
-  {
-    "id": "46965f10-b671-4377-a800-ce22e158cfda",
-    "title": "Senate Fails To Pass CLARITY Act and Other Ethereum News",
-    "summary": "A Senate procedural vote halted the Digital Asset Market Clarity (CLARITY) Act after a 49-51 tally fell short of the 60 votes required to overcome a filibuster. The bill aimed to divide crypto oversight between the CFTC and SEC while codifying self-custody rights and protecting non-custodial developers. An Aave DAO proposal introduced Custodied Collateral Lending via Aave V4, allowing institutional borrowers to draw stablecoins against assets held offchain with custodian Anchorage using Chainlink infrastructure. Miscellaneous updates included the opening of the Bread privacy wallet waitlist and Nethermind’s release of version 2.0.0-rc2.",
-    "link": null,
-    "source": "Crypto Briefing",
-    "origin": "manual",
-    "isDuplicateOf": null,
-    "pubDate": "2026-09-16T15:00:00.000Z",
-    "fetchedAt": "2026-09-16T16:06:34.032Z",
-    "content": "The U.S. Senate failed to pass the Digital Asset Market Clarity Act after a 49-51 vote fell short of the 60 votes needed to overcome a filibuster. The legislation sought to define crypto oversight between the SEC and CFTC and protect self-custody rights. In other developments, Aave DAO proposed Custodied Collateral Lending via Aave V4 using Anchorage and Chainlink, the Bread privacy wallet opened its waitlist, and Nethermind released version 2.0.0-rc2.",
-    "content_ta": "Digital Asset Market Clarity Act மசோதாவை நிறைவேற்ற US Senate எடுத்த முயற்சி 49-51 என்ற வாக்கு வித்தியாசத்தில் தோல்வியடைந்தது. ஃபிலிபஸ்டரைத் தாண்டிச் செல்லத் தேவையான 60 வாக்குகள் கிடைக்காததால் இந்த procedural vote தோல்வியைச் சந்தித்தது. SEC மற்றும் CFTC இடையேயான கிரிப்டோ மேற்பார்வைப் பிரிப்பதே இந்த மசோதாவின் நோக்கமாகும். இதற்கிடையில், Aave V4 மூலம் Custodied Collateral Lending-ஐ அறிமுகப்படுத்த Aave DAO ஒரு தீர்மானத்தைக் கொண்டுவந்துள்ளது. மேலும், Bread பிரைவசி வாலட் வெயிட்டிங் லிஸ்டைத் திறந்துள்ளதுடன், Nethermind நிறுவனம் பதிப்பு 2.0.0-rc2-ஐ வெளியிட்டுள்ளது.",
-    "tags": [
-      "Senate",
-      "SEC",
-      "CFTC",
-      "Aave",
-      "Anchorage",
-      "Chainlink",
-      "Nethermind"
-    ],
-    "slug": "senate-fails-to-pass-clarity-act-and-other-ethereum-news"
-  },
-  {
-    "id": "8d738d7a5548b61e",
-    "slug": "crypto-long-short-six-signs-a-crypto-winter-is-ending",
-    "title": "Crypto Long & Short: Six signs a crypto winter is ending",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:59:34.000Z"
-  },
-  {
-    "id": "d559adad8db2a0e3",
-    "slug": "kick-korea-semiconductor-index-etf-launches-on-nyse-arca-giving-us-investors-direct-access-to",
-    "title": "KICK Korea Semiconductor Index ETF launches on NYSE Arca, giving US investors direct access to Korean chip giants",
-    "tags": [
-      "KICK Korea Semiconductor Index ETF",
-      "NYSE Arca",
-      "South Korea",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:59:03.000Z"
-  },
-  {
-    "id": "d3d2888e8e0a0a5d",
-    "slug": "salesforce-evolves-ai-agent-performance-to-93-with-darwinx-framework",
-    "title": "Salesforce evolves AI agent performance to 93% with DarwinX framework",
-    "tags": [
-      "Salesforce",
-      "DarwinX"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:58:22.000Z"
-  },
-  {
-    "id": "0fa1448e975125f9",
-    "slug": "mbappe-vinicius-and-konate-spark-controversy-over-ceuta-solidarity-shirts",
-    "title": "Mbappe, Vinicius, and Konate spark controversy over Ceuta solidarity shirts",
-    "tags": [
-      "Mbappe",
-      "Vinicius",
-      "Konate",
-      "Ceuta"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:56:50.000Z"
-  },
-  {
-    "id": "65e2f167a9eda87f",
-    "slug": "house-passes-resolution-urging-trump-to-halt-military-action-against-iran",
-    "title": "House passes resolution urging Trump to halt military action against Iran",
-    "tags": [
-      "United States",
-      "Iran",
-      "Donald Trump"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:52:42.000Z"
-  },
-  {
-    "id": "7d0c4e75661f5814",
-    "slug": "circle-launches-arc-mainnet-an-economic-operating-system-for-the-internet",
-    "title": "Circle Launches Arc Mainnet, an Economic Operating System for the Internet",
-    "tags": [
-      "Circle",
-      "Arc",
-      "USDC"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:52:42.000Z"
-  },
-  {
-    "id": "74dbe432b43e6473",
-    "slug": "retail-sales-rise-as-consumers-make-room-for-bigger-purchases",
-    "title": "Retail Sales Rise as Consumers Make Room for Bigger Purchases",
-    "tags": [
-      "PYMNTS.com"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:52:06.000Z"
-  },
-  {
-    "id": "5560902de975a45a",
-    "slug": "fis-acquires-ai-native-opencoreos-as-core-banking-consolidation-continues",
-    "title": "FIS Acquires AI-Native OpenCoreOS as Core Banking Consolidation Continues",
-    "tags": [
-      "FIS",
-      "OpenCoreOS"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:47:23.000Z"
-  },
-  {
-    "id": "b8fa572149275391",
-    "slug": "ice-launches-private-credit-reference-data-service",
-    "title": "ICE launches private credit reference data service",
-    "tags": [
-      "Intercontinental Exchange"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:47:00.000Z"
-  },
-  {
-    "id": "5c2185ce9b68654f",
-    "slug": "us-mortgage-rates-climb-to-highest-level-in-over-a-year-as-geopolitical-tensions-fuel-inflation",
-    "title": "US mortgage rates climb to highest level in over a year as geopolitical tensions fuel inflation fears",
-    "tags": [
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:46:24.000Z"
-  },
-  {
-    "id": "bbf8ff4dcbd576b4",
-    "slug": "xrp-and-reddit-in-quant-out-binance-announces-new-wave-of-listings-and-delistings",
-    "title": "XRP and Reddit In, Quant Out: Binance Announces New Wave of Listings and Delistings",
-    "tags": [
-      "Binance",
-      "XRP",
-      "Reddit",
-      "Quant",
-      "USDC"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:45:15.000Z"
-  },
-  {
-    "id": "0850f0b9726f5cc0",
-    "slug": "2-269-bitcoin-transferred-from-unknown-wallet-to-coinbase-institutional-in-171m-move",
-    "title": "2,269 Bitcoin transferred from unknown wallet to Coinbase Institutional in $171M move",
-    "tags": [
-      "Bitcoin",
-      "Coinbase Institutional"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:44:10.000Z"
-  },
-  {
-    "id": "9db691a16e7896c5",
-    "slug": "iris-raises-40m-plus-to-scale-alva-financial-services-on-avalanche",
-    "title": "Iris raises $40M-plus to scale ALVA financial services on Avalanche",
-    "tags": [
-      "Iris",
-      "Avalanche"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:40:46.000Z"
-  },
-  {
-    "id": "adcd9a39d131dda2",
-    "slug": "altimeter-capital-s-brad-gerstner-criticizes-ai-negativity-as-political-agenda",
-    "title": "Altimeter Capital’s Brad Gerstner criticizes AI negativity as political agenda",
-    "tags": [
-      "Altimeter Capital",
-      "Brad Gerstner"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:40:01.000Z"
-  },
-  {
-    "id": "a58d6635-8499-4c86-85fd-f91499f056ff",
-    "title": "SecurityWeek Briefing: Cisco Zero-Day, AI Agent Supply Chain Risks, and More",
-    "summary": "This cybersecurity briefing covers active exploits including a root RCE zero-day in Cisco Secure Email Gateway and vulnerabilities in JFrog Artifactory, Fortinet, and Tencent software. It also highlights an OpenAI investigation linking AI agents to a RubyGems attack, a data breach at Japan's Digital Agency affecting 240,000 individuals, and CenterPoint Energy's confirmation of a breach. Additional topics include Microsoft's AI code of conduct and insights on managing AI agent access following the Hugging Face incident.",
-    "link": null,
-    "source": "SecurityWeek",
-    "origin": "manual",
-    "isDuplicateOf": null,
-    "pubDate": "2026-09-16T14:40:00.000Z",
-    "fetchedAt": "2026-09-16T16:06:34.032Z",
-    "content": "The latest cybersecurity briefing highlights active exploits, including a root RCE zero-day vulnerability in Cisco Secure Email Gateway, alongside software flaws in JFrog Artifactory, Fortinet, and Tencent. Investigations revealed AI agents linked to a RubyGems attack, and significant data breaches were confirmed by Japan's Digital Agency and CenterPoint Energy. Additionally, experts discussed Microsoft's AI code of conduct and managing AI agent access following a Hugging Face security incident.",
-    "content_ta": "சமீபத்திய சைபர் செக்யூரிட்டி பிரீஃபிங், Cisco Secure Email Gateway-ல் உள்ள root RCE zero-day குறைபாடு மற்றும் JFrog Artifactory, Fortinet, மற்றும் Tencent போன்ற மென்பொருட்களில் உள்ள பாதுகாப்பு குறைபாடுகளை வெளிச்சம் போட்டுக் காட்டுகிறது. மேலும், RubyGems தாக்குதலுடன் AI agents-ன் தொடர்பு, Japan-ன் Digital Agency மற்றும் CenterPoint Energy நிறுவனங்களின் டேட்டா பிரீச் போன்ற முக்கிய சம்பவங்களும் இதில் விவரிக்கப்பட்டுள்ளன. கூடுதலாக, Microsoft-ன் AI code of conduct மற்றும் Hugging Face சம்பவத்திற்குப் பிறகு AI agent அணுகலை நிர்வகிப்பது குறித்து விவாதிக்கப்பட்டுள்ளது.",
-    "tags": [
-      "Cisco",
-      "JFrog",
-      "Fortinet",
-      "Tencent",
-      "OpenAI",
-      "Microsoft",
-      "Hugging Face",
-      "Japan",
-      "CenterPoint Energy"
-    ],
-    "slug": "securityweek-briefing-cisco-zero-day-ai-agent-supply-chain-risks-and-more"
-  },
-  {
-    "id": "93e40ebdc3421494",
-    "slug": "ondo-finance-joins-dtcc-s-fund-serv-putting-tokenized-funds-on-the-same-rails-as-85-of-us-mutual",
-    "title": "ONDO Finance joins DTCC’s Fund/SERV, putting tokenized funds on the same rails as 85% of US mutual fund transactions",
-    "tags": [
-      "Ondo Finance",
-      "DTCC",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:39:52.000Z"
-  },
-  {
-    "id": "44bfa98cf7faf929",
-    "slug": "nist-push-could-give-banks-a-common-test-for-ai-vendors",
-    "title": "NIST Push Could Give Banks a Common Test for AI Vendors",
-    "tags": [
-      "NIST",
-      "PYMNTS.com"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:39:31.000Z"
-  },
-  {
-    "id": "de94cf2907548a75",
-    "slug": "dogecoin-is-growing-beyond-the-meme-as-payment-utility-takes-center-stage",
-    "title": "Dogecoin is growing beyond the meme as payment utility takes center stage",
-    "tags": [
-      "Dogecoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:38:25.000Z"
-  },
-  {
-    "id": "1698149324f82893",
-    "slug": "ai-pause-would-help-dominant-firms-not-safety-think-tank-warns",
-    "title": "AI Pause Would Help Dominant Firms, Not Safety, Think Tank Warns",
-    "tags": [
-      "Cato Institute",
-      "Block",
-      "Jack Dorsey"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:36:29.000Z"
-  },
-  {
-    "id": "7f7065541c5f1c68",
-    "slug": "silicon-valley-companies-face-tensions-over-ai-slowdown-promises",
-    "title": "Silicon Valley companies face tensions over AI slowdown promises",
-    "tags": [
-      "Silicon Valley",
-      "Anthropic",
-      "OpenAI",
-      "xAI",
-      "DeepMind"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:36:14.000Z"
-  },
-  {
-    "id": "3f6e186d775cddc8",
-    "slug": "google-deepmind-expands-globally-as-ai-research-race-intensifies",
-    "title": "Google DeepMind expands globally as AI research race intensifies",
-    "tags": [
-      "Google DeepMind"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:34:59.000Z"
-  },
-  {
-    "id": "b1631d402a196e1a",
-    "slug": "sk-hynix-explores-options-to-enhance-competitiveness-may-partner-with-intel",
-    "title": "SK Hynix explores options to enhance competitiveness, may partner with Intel",
-    "tags": [
-      "SK Hynix",
-      "Intel",
-      "Samsung",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:34:06.000Z"
-  },
-  {
-    "id": "a733a8f68d22d14a",
-    "slug": "sec-proposes-to-rescind-rule-14a-8-shifting-shareholder-proposal-power-back-to-states",
-    "title": "SEC proposes to rescind Rule 14a-8, shifting shareholder proposal power back to states",
-    "tags": [
-      "SEC"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:33:59.000Z"
-  },
-  {
-    "id": "03458dc5cf787e8f",
-    "slug": "north-dakota-woman-seeking-10-000-000-after-ai-facial-recognition-error-led-to-jail",
-    "title": "North Dakota Woman Seeking $10,000,000 After AI Facial Recognition Error Led to Jail",
-    "tags": [
-      "City of Fargo",
-      "North Dakota",
-      "Tennessee"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:30:35.000Z"
-  },
-  {
-    "id": "806e617c5942ea2b",
-    "slug": "uk-opens-a-major-loophole-for-stablecoin-payments-while-clamping-down-on-crypto-lending",
-    "title": "UK opens a major loophole for stablecoin payments while clamping down on crypto lending",
-    "tags": [
-      "UK",
-      "stablecoin",
-      "crypto"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:30:12.000Z"
-  },
-  {
-    "id": "a06596aacb53a449",
-    "slug": "bitcoin-ethereum-tron-transfers-can-vary-significantly-depending-on-how-they-re-counted-bis",
-    "title": "Bitcoin, Ethereum, Tron Transfers Can Vary Significantly Depending on How They’re Counted : BIS",
-    "tags": [
-      "Bank for International Settlements",
-      "Bitcoin",
-      "Ethereum",
-      "Tron"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:29:52.000Z"
-  },
-  {
-    "id": "2e4b19ff639f9874",
-    "slug": "india-brings-merchant-fees-to-popular-upi-payment-system",
-    "title": "India Brings Merchant Fees to Popular UPI Payment System",
-    "tags": [
-      "India",
-      "UPI"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:28:58.000Z"
-  },
-  {
-    "id": "ec7d55ef8779b517",
-    "slug": "microsoft-issues-ai-warning-shot-that-appears-aimed-at-anthropic",
-    "title": "Microsoft issues AI warning shot that appears aimed at Anthropic",
-    "tags": [
-      "Microsoft",
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:27:30.000Z"
-  },
-  {
-    "id": "ce553ed46f73dcec",
-    "slug": "revolut-ceo-buys-350m-superyacht-after-finding-owner-via-chatgpt",
-    "title": "Revolut CEO buys €350M superyacht after finding owner via ChatGPT",
-    "tags": [
-      "Revolut",
-      "ChatGPT"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:26:19.000Z"
-  },
-  {
-    "id": "6a732fd5273f4911",
-    "slug": "bitcoin-s-next-fed-test-is-today-s-fomc-meeting-will-75k-hold",
-    "title": "Bitcoin’s Next Fed Test Is Today’s FOMC Meeting: Will $75K Hold?",
-    "tags": [
-      "Bitcoin",
-      "Federal Reserve"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:26:06.000Z"
-  },
-  {
-    "id": "23127b632e5d20c8",
-    "slug": "btig-reiterates-coinbase-at-buy-with-240-price-target-citing-institutional-growth-runway",
-    "title": "BTIG reiterates Coinbase at Buy with $240 price target, citing institutional growth runway",
-    "tags": [
-      "BTIG",
-      "Coinbase"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:24:06.000Z"
-  },
-  {
-    "id": "9dc16ce6af953bac",
-    "slug": "crypto-payments-are-going-mainstream-23-000-merchants-now-accept-bitcoin",
-    "title": "Crypto Payments Are Going Mainstream: 23,000+ Merchants Now Accept Bitcoin",
-    "tags": [
-      "Bitcoin",
-      "Ethereum",
-      "Litecoin",
-      "Bitcoin Cash",
-      "Dogecoin",
-      "United States"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:23:09.000Z"
-  },
-  {
-    "id": "724ff7ac7aec8ae0",
-    "slug": "ex-deepmind-safety-researchers-warn-ai-must-not-outrun-safety-controls",
-    "title": "Ex-DeepMind safety researchers warn AI must not outrun safety controls",
-    "tags": [
-      "DeepMind"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:22:03.000Z"
-  },
-  {
-    "id": "b735d239ebafcef0",
-    "slug": "amazon-plans-same-day-delivery-hubs-near-80-of-us-prime-members",
-    "title": "Amazon Plans Same-Day Delivery Hubs Near 80% of US Prime Members",
-    "tags": [
-      "Amazon",
-      "United States"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:20:53.000Z"
-  },
-  {
-    "id": "26a15cc1-d8a0-4108-a7dd-62ff7d8a81d1",
-    "title": "The Daily: Republicans Reject Democrats' Offer Ahead of Clarity Act Vote",
-    "summary": "Senate Republicans rejected a Democratic counteroffer on the Clarity Act ahead of an initial procedural vote, leaving the crypto bill in limbo. Standard Chartered set a $10 end-2030 price target for Arbitrum, crypto exchange CoinEx announced it will shut down after nine years due to a market slump and regulatory costs, and Zama expanded its confidential Morpho vault lineup while launching private swaps on Ethereum. The U.S. DOJ filed a civil forfeiture complaint seeking $61 million in crypto proceeds tied to illicit Iranian oil sales laundered via Binance.",
-    "link": null,
-    "source": "Crypto Briefing",
-    "origin": "manual",
-    "isDuplicateOf": null,
-    "pubDate": "2026-09-16T14:20:00.000Z",
-    "fetchedAt": "2026-09-16T16:06:34.032Z",
-    "content": "Senate Republicans rejected a Democratic counteroffer on the Clarity Act ahead of a procedural vote, leaving the crypto bill uncertain. Meanwhile, Standard Chartered issued a price target for Arbitrum, and crypto exchange CoinEx announced its upcoming closure due to market conditions and regulatory pressures. Additionally, Zama expanded its confidential vault lineup, and the U.S. DOJ filed a civil forfeiture complaint over millions in crypto tied to Iranian oil sales laundered through Binance.",
-    "content_ta": "Clarity Act மீதான நடைமுறை வாக்களிப்புக்கு முன்பு குடியரசு கட்சியினர் ஜனநாயக கட்சியினரின் சலுகையை நிராகரித்தனர். இதற்கிடையில், Standard Chartered நிறுவனம் Arbitrum-க்கான விலை இலக்கை நிர்ணயித்தது. மேலும், சந்தை சரிவு மற்றும் ஒழுங்குமுறை அழுத்தங்கள் காரணமாக CoinEx கிரிப்டோ பரிமாற்றம் மூடப்படுவதாக அறிவித்தது. Zama தனது ரகசிய vault சேவையை விரிவுபடுத்தியதுடன், U.S. DOJ நிறுவனம் Binance மூலம் பண மோசடி செய்யப்பட்ட கிரிப்டோ வருமானம் தொடர்பாக சிவில் சொத்து பறிமுதல் புகாரைத் தாக்கல் செய்தது.",
-    "tags": [
-      "Clarity Act",
-      "Standard Chartered",
-      "Arbitrum",
-      "CoinEx",
-      "Zama",
-      "Binance",
-      "United States"
-    ],
-    "slug": "the-daily-republicans-reject-democrats-offer-ahead-of-clarity-act-vote"
-  },
-  {
-    "id": "7b92b7e54ba7d776",
-    "slug": "wirex-one-launches-publicly-on-arc-bringing-stablecoin-private-banking-to-the-mass-affluent-market",
-    "title": "Wirex One Launches Publicly on Arc, Bringing Stablecoin Private Banking to the Mass Affluent Market",
-    "tags": [
-      "Wirex",
-      "Wirex One",
-      "Arc",
-      "London"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:17:22.000Z"
-  },
-  {
-    "id": "54c99faf28ce5a07",
-    "slug": "cnbc-host-criticizes-senator-angela-alsobrooks-for-stalling-the-clarity-act-over-trump-crypto",
-    "title": "CNBC host criticizes Senator Angela Alsobrooks for stalling the Clarity Act over Trump crypto concerns",
-    "tags": [
-      "CNBC",
-      "Angela Alsobrooks",
-      "Donald Trump"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:17:05.000Z"
-  },
-  {
-    "id": "326d7b616a314333",
-    "slug": "top-5-rpc-providers-for-arc-in-2026",
-    "title": "Top 5 RPC providers for Arc in 2026",
-    "tags": [
-      "Arc"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:16:15.000Z"
-  },
-  {
-    "id": "874926b0c78c31cd",
-    "slug": "gop-rep-guthrie-warns-against-strict-ai-regulations-at-decoded-summit",
-    "title": "GOP Rep. Guthrie warns against strict AI regulations at Decoded Summit",
-    "tags": [
-      "Guthrie",
-      "Decoded Summit",
-      "GOP"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:16:06.000Z"
-  },
-  {
-    "id": "c9f2be51668d333a",
-    "slug": "air-products-locks-in-long-term-contract-to-supply-high-purity-gases-for-semiconductor-expansion",
-    "title": "Air Products locks in long-term contract to supply high-purity gases for semiconductor expansion",
-    "tags": [
-      "Air Products"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-16T14:15:20.000Z"
+    "pubDate": "2026-09-16T16:20:00.000Z"
   }
 ]
