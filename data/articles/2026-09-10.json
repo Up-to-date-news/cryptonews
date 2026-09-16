@@ -870,13 +870,19 @@
     "hasSummary": true,
     "link": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green",
     "source": "CoinDesk",
-    "tags": [],
+    "tags": [
+      "Bitcoin",
+      "Ether",
+      "XRP",
+      "Solana"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-10T07:45:46.000Z",
     "fetchedAt": "2026-09-10T09:01:26.438Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-other-major-funds-turns-green"
+    "content": "Bitcoin exchange-traded funds recorded a second consecutive day of outflows, shedding $120 million on Wednesday, which more than doubled the losses seen on Tuesday. Meanwhile, other major cryptocurrency funds focused on assets such as Ether, XRP, and Solana experienced positive inflows during the same period, turning green as investor interest shifted across the digital asset market.",
+    "slug": "live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-other-major-funds-turns-green",
+    "content_ta": "Bitcoin ETF-களில் தொடர்ச்சியாக இரண்டாவது நாளாக முதலீடுகள் வெளியேறியுள்ளன. புதன்கிழமை அன்று இந்த ஃபண்டுகளில் இருந்து 120 மில்லியன் டாலர் வெளியேறியுள்ளது, இது செவ்வாய்க்கிழமையின் இழப்பைப் போல இரு மடங்காகும். இதற்கிடையில், Ether, XRP மற்றும் Solana போன்ற பிற முக்கிய கிரிப்டோ ஃபண்டுகள் நேர்மறையான முதலீடுகளைப் பெற்று பச்சை நிறத்திற்கு மாறியுள்ளன."
   },
   {
     "id": "061d766a7c127f49",
@@ -885,13 +891,17 @@
     "hasSummary": true,
     "link": "https://cointelegraph.com/news/unicoin-sues-uniswap-court-cancel-uni-trademark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "source": "Cointelegraph",
-    "tags": [],
+    "tags": [
+      "Unicoin",
+      "Uniswap"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-10T08:55:11.000Z",
     "fetchedAt": "2026-09-10T09:01:26.438Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "unicoin-sues-uniswap-labs-seeks-to-cancel-uni-registration"
+    "content": "Unicoin has filed a lawsuit against Uniswap Labs, seeking to cancel the registration of the UNI trademark. The legal complaint follows prior legal communications sent by Uniswap's counsel ahead of Unicoin's launch in late September. Unicoin is now seeking formal declarations regarding its own marks and domain names amidst the ongoing trademark dispute.",
+    "slug": "unicoin-sues-uniswap-labs-seeks-to-cancel-uni-registration",
+    "content_ta": "UNI டிரேட்மார்க் பதிவை ரத்து செய்யக் கோரி Uniswap Labs மீது Unicoin வழக்குத் தொடர்ந்துள்ளது. செப்டம்பர் இறுதியில் Unicoin தொடங்குவதற்கு முன்பு Uniswap தரப்பில் இருந்து வழக்கறிஞர் கடிதங்கள் அனுப்பப்பட்டதை அடுத்து இந்த வழக்கு தொடுக்கப்பட்டுள்ளது. இந்த டிரேட்மார்க் மோதலுக்கு மத்தியில், தனது சொந்த பெயர்கள் மற்றும் டொமைன் பெயர்கள் குறித்து முறையான அறிவிப்புகளை வழங்கும்படி Unicoin கோரியுள்ளது."
   },
   {
     "id": "aabdf5509b0f0858",
@@ -939,13 +949,18 @@
     "hasSummary": true,
     "link": "https://cryptonews.com/news/best-crypto-to-buy-bitcoin-drops-to-78k/",
     "source": "CryptoNews",
-    "tags": [],
+    "tags": [
+      "Bitcoin",
+      "LAPTOP",
+      "Bitcoin Hyper"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-10T08:42:00.000Z",
     "fetchedAt": "2026-09-10T09:01:26.438Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "best-crypto-to-buy-today-as-bitcoin-tumbles-to-78-000"
+    "content": "Bitcoin recently defended the 78,000 dollar support level as the wider market experienced a tumble. Meanwhile, the LAPTOP memecoin crashed significantly by 99 percent. Amidst this market volatility, attention has shifted toward various price analyses and emerging opportunities, including the Bitcoin Hyper presale which is currently drawing interest from investors.",
+    "slug": "best-crypto-to-buy-today-as-bitcoin-tumbles-to-78-000",
+    "content_ta": "Bitcoin சமீபում 78,000 டாலர் ஆதரவு நிலையைக் காப்பாற்றியுள்ளது, அதே நேரத்தில் பரந்த சந்தை வீழ்ச்சியை சந்தித்துள்ளது. இதற்கிடையில், LAPTOP memecoin 99 சதவீதம் சரிந்துள்ளது. இந்த சந்தை ஏற்றத்தாழ்வுக்கு மத்தியில், விலை பகுப்பாய்வுகள் மற்றும் Bitcoin Hyper presale உள்ளிட்ட புதிய வாய்ப்புகள் மீது முதலீட்டாளர்களின் கவனம் திரும்பியுள்ளது."
   },
   {
     "id": "cd8b8d5d13f5e89e",
@@ -994,13 +1009,18 @@
     "hasSummary": true,
     "link": "https://cryptonews.com/news/clarity-act-coinbase-capital/",
     "source": "CryptoNews",
-    "tags": [],
+    "tags": [
+      "Coinbase",
+      "SEC",
+      "CFTC"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-10T08:25:24.000Z",
     "fetchedAt": "2026-09-10T09:01:26.438Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "coinbase-links-clarity-act-passage-to-institutional-capital"
+    "content": "Coinbase leadership highlights that the CLARITY Act could unlock significant institutional capital for the digital asset sector. While discussions around the legislation continue, existing regulatory frameworks from agencies like the SEC and CFTC serve as a fallback option if the legislative process stalls. Industry observers are closely watching these developments for their potential impact on market structure and compliance.",
+    "slug": "coinbase-links-clarity-act-passage-to-institutional-capital",
+    "content_ta": "டிஜிட்டல் சொத்து துறைக்கு கணிசமான நிறுவன முதலீடுகளை CLARITY Act திறக்கக்கூடும் என்று Coinbase தலைமைத்துவம் தெரிவித்துள்ளது. சட்டம் தொடர்பான விவாதங்கள் தொடரும் அதேவேளையில், சட்டமியற்றும் செயல்முறை தாமதமானால் SEC மற்றும் CFTC போன்ற ஏஜென்சிகளின் தற்போதைய ஒழுங்குமுறை கட்டமைப்புகள் மாற்று வழிகளாகச் செயல்படும். சந்தை கட்டமைப்பு மற்றும் இணக்கத்தன்மையின் மீது இவை ஏற்படுத்தக்கூடிய தாக்கத்தை துறைசார் வல்லுநர்கள் உன்னிப்பாகக் கவனித்து வருகின்றனர்."
   },
   {
     "id": "4c661c9de355bc2b",
@@ -1009,13 +1029,17 @@
     "hasSummary": true,
     "link": "https://ambcrypto.com/treasury-yields-hit-4-85-despite-6b-buyback-crypto-faces-fresh-pressure-ahead-of-fomc/",
     "source": "AMBCrypto",
-    "tags": [],
+    "tags": [
+      "United States",
+      "FOMC"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-10T09:00:15.000Z",
     "fetchedAt": "2026-09-10T09:01:26.438Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "treasury-yields-hit-4-85-despite-6b-buyback-crypto-faces-fresh-pressure-ahead-of-fomc"
+    "content": "U.S. Treasury yields climbed to 4.85% even after a $6 billion buyback operation by the government. This increase in the 10-year Treasury yields highlights ongoing economic risks and puts renewed downward pressure on the cryptocurrency market as investors cautiously await the upcoming FOMC meeting.",
+    "slug": "treasury-yields-hit-4-85-despite-6b-buyback-crypto-faces-fresh-pressure-ahead-of-fomc",
+    "content_ta": "அமெரிக்க அரசு மேற்கொண்ட ஆறு பில்லியன் டாலர் பைபேக் நடவடிக்கைக்குப் பிறகும், U.S. Treasury yields 4.85% ஆக உயர்ந்துள்ளது. 10-year Treasury yields-ன் இந்த அதிகரிப்பு பொருளாதார அபாயங்களை வெளிக்காட்டுவதுடன், FOMC கூட்டத்தை எதிர்நோக்கி காத்திருக்கும் Crypto சந்தையின் மீது புதிய அழுத்தத்தை ஏற்படுத்தியுள்ளது."
   },
   {
     "id": "f9113eefed3e0b1d",
@@ -1041,13 +1065,17 @@
     "hasSummary": true,
     "link": "https://u.today/binance-delists-29-million-fdv-usd-stablecoin",
     "source": "U.Today",
-    "tags": [],
+    "tags": [
+      "Binance",
+      "Pax Dollar"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-10T08:28:00.000Z",
     "fetchedAt": "2026-09-10T09:01:26.438Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "binance-delisting-100-million-fdv-usd-stablecoin-removed"
+    "content": "Cryptocurrency exchange Binance has announced the delisting of Pax Dollar, a once major stablecoin that previously commanded a valuation of 100 million dollars. This move marks another step by the platform in streamlining its digital asset offerings and adjusting its supported stablecoin lineup amidst evolving market conditions and regulatory scrutiny within the broader cryptocurrency industry.",
+    "slug": "binance-delisting-100-million-fdv-usd-stablecoin-removed",
+    "content_ta": "Pax Dollar என்ற ஒரு முக்கிய stablecoin-ஐ Binance தளத்தில் இருந்து நீக்குவதாக கிரிப்டோகரன்சி பரிவர்த்தனை நிறுவனமான Binance அறிவித்துள்ளது. ஒரு காலத்தில் 100 மில்லியன் டாலர் மதிப்பைக் கொண்டிருந்த இந்த டிஜிட்டல் நாணயம் நீக்கப்படுவது, கிரிப்டோ சந்தை சூழலுக்கேற்ப நிறுவனம் தனது சேவைகளை சீரமைக்கும் நடவடிக்கையாக பார்க்கப்படுகிறது."
   },
   {
     "id": "3c0d499a06983abe",
@@ -1075,13 +1103,18 @@
     "hasSummary": true,
     "link": "https://beincrypto.com/lawmakers-ai-pause-superintelligence-ban-congress/",
     "source": "BeInCrypto",
-    "tags": [],
+    "tags": [
+      "Anthropic",
+      "OpenAI",
+      "United States"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-10T08:02:13.000Z",
     "fetchedAt": "2026-09-10T09:01:26.438Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "why-an-anthropic-exit-has-congress-talking-about-pausing-ai"
+    "content": "An Anthropic researcher's recent resignation has sparked new discussions in the US Congress regarding a pause in advanced artificial intelligence development. Lawmakers responded to the exit by pushing for halted AI progress, including a proposed Senate bill aimed at banning superintelligence. The researcher warned that major AI firms are gambling with human lives.",
+    "slug": "why-an-anthropic-exit-has-congress-talking-about-pausing-ai",
+    "content_ta": "Anthropic நிறுவனத்தின் ஆராய்ச்சியாளர் ஒருவர் சமீபத்தில் ராஜினாமா செய்ததை அடுத்து, மேம்பட்ட செயற்கை நுண்ணறிவு வளர்ச்சியை தற்காலிகமாக நிறுத்துவது குறித்து அமெரிக்க Congress-ல் புதிய விவாதங்கள் எழுந்துள்ளன. சூப்பரிட்டெல்லிஜன்ஸ் எனப்படும் அதிநவீன AI தொழில்நுட்பத்திற்கு தடை விதிக்கும் மசோதா உட்பட கடுமையான நடவடிக்கைகளை எடுக்க சட்டமன்ற உறுப்பினர்கள் வலியுறுத்தி வருகின்றனர்."
   },
   {
     "id": "7d52419cf6e943ab",
@@ -1125,13 +1158,18 @@
     "hasSummary": true,
     "link": "https://zycrypto.com/zamanat-targets-the-gccs-250-billion-sme-financing-gap-with-a-tokenized-private-credit-fund-of-up-to-100-million/",
     "source": "ZyCrypto",
-    "tags": [],
+    "tags": [
+      "Zamanat",
+      "DIFC",
+      "GCC"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-10T07:48:14.000Z",
     "fetchedAt": "2026-09-10T09:01:26.438Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "zamanat-targets-the-gcc-s-250-billion-sme-financing-gap-with-a-tokenized-private-credit-fund-of-up"
+    "content": "Zamanat has announced the launch of Zamanat Fund CEIC Limited, a DIFC-domiciled tokenized private credit fund targeting up to $100 million. The fund aims to address the GCC's estimated $250 billion SME financing gap, offering a technology-driven solution to expand credit access for small and medium-sized enterprises in the region.",
+    "slug": "zamanat-targets-the-gcc-s-250-billion-sme-financing-gap-with-a-tokenized-private-credit-fund-of-up",
+    "content_ta": "Zamanat நிறுவனம் Zamanat Fund CEIC Limited என்ற DIFC-ஐ அடிப்படையாகக் கொண்ட டோக்கன் செய்யப்பட்ட தனியார் கடன் நிதியைத் தொடங்குவதாக அறிவித்துள்ளது. இந்த நிதி $100 மில்லியன் வரை இலக்காகக் கொண்டுள்ளது. GCC பிராந்தியத்தில் உள்ள சிறு மற்றும் நடுத்தர வணிகங்களின் $250 பில்லியன் கடன் இடைவெளியைக் குறைக்க இந்த நிதி உதவும்."
   },
   {
     "id": "b005f432c89637d1",
@@ -1140,13 +1178,16 @@
     "hasSummary": true,
     "link": "https://www.finextra.com/newsarticle/48376/mastercard-to-boost-digital-wallet-uptake-with-wallet-pay?utm_medium=rssfinextra&utm_source=finextrafeed",
     "source": "Finextra",
-    "tags": [],
+    "tags": [
+      "Mastercard"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-10T09:00:00.000Z",
     "fetchedAt": "2026-09-10T09:01:26.438Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "mastercard-to-boost-digital-wallet-uptake-with-wallet-pay"
+    "content": "Mastercard has introduced a new portfolio of products called Wallet Pay, aimed at boosting the adoption of digital wallets. This initiative is designed to support greater interoperability and expand the reach of mobile wallet payments globally, helping streamline digital transactions for users and merchants alike.",
+    "slug": "mastercard-to-boost-digital-wallet-uptake-with-wallet-pay",
+    "content_ta": "டிஜிட்டல் வாலட் பயன்பாட்டை அதிகரிக்கும் நோக்கில் Wallet Pay என்ற புதிய தயாரிப்பு தொகுப்பை Mastercard அறிமுகப்படுத்தியுள்ளது. இந்த புதிய முயற்சி மொபைல் வாலட் செலுத்துதல்களின் வரம்பை விரிவுபடுத்தவும், அவற்றின் செயல்பாட்டுத் திறனை மேம்படுத்தவும் உதவும் வகையில் வடிவமைக்கப்பட்டுள்ளது."
   },
   {
     "id": "e4bee763bc01d517",
@@ -1174,13 +1215,18 @@
     "hasSummary": true,
     "link": "https://www.pymnts.com/consumer-insights/2026/for-labor-economy-workers-sick-days-quickly-become-spending-cuts/",
     "source": "PYMNTS",
-    "tags": [],
+    "tags": [
+      "United States",
+      "PYMNTS Intelligence",
+      "WorkWhile"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-10T08:01:34.000Z",
     "fetchedAt": "2026-09-10T09:01:26.438Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "for-labor-economy-workers-sick-days-quickly-become-spending-cuts"
+    "content": "For millions of workers in the United States, taking a sick day often results in lost employment income and subsequent spending cuts. Research by PYMNTS Intelligence and WorkWhile shows that a significant portion of Labor Economy workers lose income due to illness, directly impacting their personal financial stability and household spending.",
+    "slug": "for-labor-economy-workers-sick-days-quickly-become-spending-cuts",
+    "content_ta": "United States-ல் உள்ள லட்சக்கணக்கான தொழிலாளர்களுக்கு, ஒரு நாள் விடுப்பு எடுப்பது என்பது பெரும்பாலும் வேலைவாய்ப்பு வருமான இழப்பு மற்றும் அதைத் தொடர்ந்து செலவுக் குறைப்புக்களுக்கு வழிவகுக்கிறது. PYMNTS Intelligence மற்றும் WorkWhile நடத்திய ஆய்வில், Labor Economy தொழிலாளர்களில் குறிப்பிடத்தக்க பகுதியினர் நோய்வாய்ப்படுவதால் வருமானத்தை இழக்கின்றனர் என்பது தெரியவந்துள்ளது, இது அவர்களின் தனிப்பட்ட நிதி ஸ்திரத்தன்மை மற்றும் குடும்பச் செலவுகளை நேரடியாக பாதிக்கிறது."
   },
   {
     "id": "50ef56046dde565d",
@@ -2777,13 +2823,16 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/arsenal-tzolis-four-assists-five-matches/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Arsenal"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-10T12:30:30.000Z",
     "fetchedAt": "2026-09-10T12:45:25.011Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "arsenal-s-tzolis-records-4-assists-in-first-5-matches"
+    "content": "Arsenal player Tzolis has made a strong start to the season, recording four assists in his first five matches. This impressive early performance highlights his potential to make a significant and transformative impact on the team's attacking dynamics and contribute to future success.",
+    "slug": "arsenal-s-tzolis-records-4-assists-in-first-5-matches",
+    "content_ta": "Arsenal அணியின் Tzolis தனது முதல் ஐந்து போட்டிகளில் நான்கு அசிஸ்ட்களை பதிவு செய்து சீசனில் வலுவான தொடக்கத்தை அளித்துள்ளார். இந்த ஈர்க்கக்கூடிய ஆரம்பகால செயல்பாடு அணியின் தாக்குதல் திறனை மாற்றுவதற்கும் எதிர்கால வெற்றிக்கு பங்களிப்பதற்கும் அவரது திறனை எடுத்துக்காட்டுகிறது."
   },
   {
     "id": "0c1cf8ff3f4727f3",
