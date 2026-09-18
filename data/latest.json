@@ -1,22 +1,213 @@
 [
   {
-    "id": "55cd7bb76c57d1d0",
-    "title": "Who is building the modern bank?",
-    "summary": "The “Letter from the Editor” is a biweekly series of exclusive insight and opinion-driven analysis from Tearsheet’s Managing Editor Sara Khairi, connecting ideas, questioning assumptions, and tracking shifts across both mature and emerging trends in financial services. This is now PRO-only content. Subscribe to PRO so you never miss a Letter from the Editor exclusive. … \nContinue reading \"Who is building the modern bank?\"\nThe post Who is building the modern bank? appeared first on Tearsheet.",
+    "id": "55938792455624a9",
+    "title": "Why APIs Are Becoming Critical Infrastructure for Forex Brokers",
+    "summary": "Author: A finextra community member",
     "hasSummary": true,
-    "link": "https://tearsheet.co/opinion/who-is-building-the-modern-bank/?utm_source=rss&utm_medium=rss&utm_campaign=who-is-building-the-modern-bank",
-    "source": "Tearsheet",
+    "link": "https://www.finextra.com/blogposting/32910/why-apis-are-becoming-critical-infrastructure-for-forex-brokers?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Forex"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-18T12:45:14.000Z",
+    "fetchedAt": "2026-09-18T12:43:17.234Z",
+    "isDuplicateOf": null,
+    "content": "APIs are rapidly becoming critical infrastructure for Forex brokers in the financial industry. As technological demands grow, these interfaces allow brokers to streamline operations, enhance connectivity, and deliver faster services to their clients. This integration helps firms remain competitive in a fast-paced market environment.",
+    "content_ta": "ஃபாரெக்ஸ் பிரோக்கர்களுக்கு API-கள் மிக முக்கியமான கட்டமைப்பு வசதியாக மாறி வருகின்றன. தொழில்நுட்பத் தேவைகள் அதிகரிக்கும் நிலையில், இந்த வசதிகள் பிரோக்கர்கள் தங்கள் சேவைகளை விரைவுபடுத்தவும், வாடிக்கையாளர்களுடன் எளிதாகத் தொடர்பு கொள்ளவும் உதவுகின்றன.",
+    "slug": "why-apis-are-becoming-critical-infrastructure-for-forex-brokers"
+  },
+  {
+    "id": "f4d944ba4f672197",
+    "slug": "mike-penders-called-up-to-belgian-national-team-for-nations-league-matches-against-italy-france-and",
+    "title": "Mike Penders called up to Belgian national team for Nations League matches against Italy, France, and Turkey",
+    "tags": [
+      "Mike Penders",
+      "Belgium",
+      "Italy",
+      "France",
+      "Turkey"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-18T12:39:26.000Z"
+  },
+  {
+    "id": "74d3cf3d92094158",
+    "slug": "onchain-finance-challenges-wall-street-as-tokenized-assets-cross-17b",
+    "title": "Onchain finance challenges Wall Street as tokenized assets cross $17B",
+    "tags": [
+      "Wall Street"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-18T12:36:31.000Z"
+  },
+  {
+    "id": "0d903c736b091676",
+    "slug": "anthropic-targets-5gw-ai-compute-capacity-by-end-of-2026-ny-times",
+    "title": "Anthropic targets 5GW AI compute capacity by end of 2026: NY Times",
+    "tags": [
+      "Anthropic",
+      "New York Times"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-18T12:35:10.000Z"
+  },
+  {
+    "id": "78456a75a426fb81",
+    "slug": "morning-minute-sec-approves-innovation-exemption-moving-tokenized-stocks-forward",
+    "title": "Morning Minute: SEC Approves ‘Innovation Exemption’ Moving Tokenized Stocks Forward",
+    "tags": [
+      "SEC",
+      "S&P Global",
+      "OpenZeppelin"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-18T12:34:50.000Z"
+  },
+  {
+    "id": "207dce194bc361d2",
+    "slug": "tunica-biloxi-tribe-partners-with-kalshi-to-launch-prediction-market-app",
+    "title": "Tunica-Biloxi Tribe partners with Kalshi to launch prediction market app",
+    "tags": [
+      "Tunica-Biloxi Tribe",
+      "Kalshi"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-18T12:32:20.000Z"
+  },
+  {
+    "id": "0a6573250518e0c1",
+    "slug": "traders-adapt-to-low-currency-volatility-as-the-new-normal",
+    "title": "Traders adapt to low currency volatility as the new normal",
+    "tags": [
+      "Crypto Briefing"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-18T12:30:40.000Z"
+  },
+  {
+    "id": "5771f0ba6b3fd876",
+    "slug": "7t-quad-witching-marks-second-largest-event-ever",
+    "title": "$7T quad-witching marks second largest event ever",
+    "tags": [
+      "Crypto Briefing"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-18T12:28:48.000Z"
+  },
+  {
+    "id": "0ba249422322ea85",
+    "slug": "macron-considers-options-to-release-strategic-energy-reserves-as-french-fuel-shortages-worsen",
+    "title": "Macron considers options to release strategic energy reserves as French fuel shortages worsen",
+    "tags": [
+      "Emmanuel Macron",
+      "France"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-18T12:25:19.000Z"
+  },
+  {
+    "id": "1dfac44219f57c74",
+    "slug": "mantic-raises-25m-to-build-ai-that-predicts-the-future-better-than-humans",
+    "title": "Mantic raises $25M to build AI that predicts the future better than humans",
+    "tags": [
+      "Mantic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-18T12:24:53.000Z"
+  },
+  {
+    "id": "21d7c8f74e64e26f",
+    "slug": "lithuania-plans-evacuation-routes-through-poland-amid-military-threat-concerns",
+    "title": "Lithuania plans evacuation routes through Poland amid military threat concerns",
+    "tags": [
+      "Lithuania",
+      "Poland",
+      "NATO",
+      "Russia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-18T12:24:36.000Z"
+  },
+  {
+    "id": "55303ebb71a83758",
+    "slug": "giorgetti-critiques-european-central-bank-rate-hikes-as-ineffective-against-supply-driven-inflation",
+    "title": "Giorgetti critiques European Central Bank rate hikes as ineffective against supply-driven inflation",
+    "tags": [
+      "European Central Bank",
+      "Giorgetti",
+      "eurozone"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-18T12:20:56.000Z"
+  },
+  {
+    "id": "823d5bb8ae7433f2",
+    "slug": "macron-reveals-russia-s-hybrid-attacks-on-france-in-recent-weeks",
+    "title": "Macron reveals Russia’s hybrid attacks on France in recent weeks",
+    "tags": [
+      "Emmanuel Macron",
+      "France",
+      "Russia",
+      "NATO"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-18T12:17:48.000Z"
+  },
+  {
+    "id": "2686b26e587ef2a7",
+    "title": "Hyperliquid’s Next Challenge Is Keeping Control of Its Growing Market",
+    "summary": "Author: A finextra community member",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/blogposting/32909/hyperliquids-next-challenge-is-keeping-control-of-its-growing-market?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Hyperliquid"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-18T12:13:30.000Z",
+    "fetchedAt": "2026-09-18T12:43:17.234Z",
+    "isDuplicateOf": null,
+    "content": "Hyperliquid faces a significant challenge in maintaining control over its rapidly expanding market presence. As community interest and trading activity grow, the platform must navigate new operational and strategic hurdles to sustain its competitive edge in the decentralized finance sector and manage its scaling ecosystem effectively.",
+    "content_ta": "விரைவாக வளர்ந்து வரும் சந்தையில் தனது கட்டுப்பாட்டைப் பேணுவதில் Hyperliquid ஒரு முக்கிய சவாலை எதிர்கொள்கிறது. சமூகத்தின் ஆர்வம் மற்றும் வர்த்தக நடவடிக்கைகள் அதிகரிக்கும் போது, பரவலாக்கப்பட்ட நிதித் துறையில் தனது போட்டித் திறனைத் தக்கவைத்துக் கொள்ளவும், தனது வளர்ந்து வரும் சுற்றுச்சூழல் அமைப்பை திறம்பட நிர்வகிக்கவும் புதிய செயல்பாட்டு மற்றும் மூலோபாய சவால்களை இந்த தளம் எதிர்கொள்ள வேண்டியுள்ளது.",
+    "slug": "hyperliquid-s-next-challenge-is-keeping-control-of-its-growing-market"
+  },
+  {
+    "id": "55cd7bb76c57d1d0",
+    "slug": "who-is-building-the-modern-bank",
+    "title": "Who is building the modern bank?",
     "tags": [
       "Tearsheet",
       "Sara Khairi"
     ],
+    "source": "Tearsheet",
     "origin": "rss",
-    "pubDate": "2026-09-18T12:00:00.000Z",
-    "fetchedAt": "2026-09-18T12:01:19.762Z",
-    "isDuplicateOf": null,
-    "content": "Tearsheet's Managing Editor Sara Khairi examines the entities and strategies shaping the future of financial institutions in a recent editorial piece. Titled 'Who is building the modern bank?', the analysis explores emerging trends and shifts in the financial services sector. This exclusive insight is part of a biweekly series now restricted to Tearsheet PRO subscribers.",
-    "content_ta": "Tearsheet-ன் Managing Editor Sara Khairi, நிதி நிறுவனங்களின் எதிர்காலத்தை உருவாக்கும் அமைப்புகள் மற்றும் உத்திகள் குறித்து சமீபத்திய தலையங்கத்தில் ஆராய்ந்துள்ளார். 'Who is building the modern bank?' என்ற தலைப்பில் வெளிவந்துள்ள இந்த ஆய்வானது, நிதிச் சேவைத் துறையில் ஏற்பட்டுள்ள புதிய போக்குகள் மற்றும் மாற்றங்களை ஆராய்கிறது. இந்த பிரத்யேகக் கட்டுரை Tearsheet PRO சந்தாதாரர்களுக்கு மட்டுமே கிடைக்கும் biweekly தொடரின் ஒரு பகுதியாகும்.",
-    "slug": "who-is-building-the-modern-bank"
+    "hasContent": true,
+    "pubDate": "2026-09-18T12:00:00.000Z"
   },
   {
     "id": "34af36f064b64b27",
@@ -125,21 +316,15 @@
   },
   {
     "id": "cd525c8ae6805f5d",
+    "slug": "crypto-s-elite-explodes-as-290-people-now-hold-100m-fortunes",
     "title": "Crypto’s Elite Explodes as 290 People Now Hold $100M+ Fortunes",
-    "summary": "The top crypto investor list is growing with more people breaking into the million-dollar fold despite long periods in the doldrums.",
-    "hasSummary": true,
-    "link": "https://zycrypto.com/cryptos-elite-explodes-as-290-people-now-hold-100m-fortunes/",
-    "source": "ZyCrypto",
     "tags": [
       "Crypto"
     ],
+    "source": "ZyCrypto",
     "origin": "rss",
-    "pubDate": "2026-09-18T11:49:39.000Z",
-    "fetchedAt": "2026-09-18T12:01:19.762Z",
-    "isDuplicateOf": null,
-    "content": "The elite cryptocurrency wealth bracket is expanding rapidly as recent data reveals that nearly 300 individuals now hold fortunes exceeding 100 million dollars. This notable growth highlights an increasing concentration of wealth among top investors, even as the broader market has experienced prolonged periods of stagnation and uncertainty in recent times.",
-    "content_ta": "கிரிப்டோகரன்சி துறையில் மிகப்பெரிய செல்வந்தர்களின் எண்ணிக்கை வேகமாக அதிகரித்து வருகிறது. சமீபத்திய தரவுகளின்படி, கிட்டத்தட்ட 300 நபர்கள் இப்போது 100 மில்லியன் டாலருக்கும் அதிகமான சொத்துக்களை கொண்டுள்ளனர். சந்தை நீண்ட காலமாக மந்தநிலையை எதிர்கொண்டிருந்தாலும், முன்னணி முதலீட்டாளர்கள் மத்தியில் செல்வம் பெருகி வருவதை இந்த வளர்ச்சி காட்டுகிறது.",
-    "slug": "crypto-s-elite-explodes-as-290-people-now-hold-100m-fortunes"
+    "hasContent": true,
+    "pubDate": "2026-09-18T11:49:39.000Z"
   },
   {
     "id": "09e482a09039d410",
@@ -168,23 +353,17 @@
   },
   {
     "id": "54cfce5412279475",
+    "slug": "veteran-financial-adviser-ric-edelman-predicts-500-000-bitcoin-by-2030-says-btc-resembles-amazon-in",
     "title": "Veteran Financial Adviser Ric Edelman Predicts $500,000 Bitcoin by 2030, Says BTC Resembles Amazon in 1999",
-    "summary": "Bitcoin’s long-term trajectory continues to draw ambitious price forecasts, with veteran financial adviser Ric Edelman putting a striking number on the table.",
-    "hasSummary": true,
-    "link": "https://zycrypto.com/veteran-financial-adviser-ric-edelman-predicts-500000-bitcoin-by-2030-says-btc-resembles-amazon-in-1999/",
-    "source": "ZyCrypto",
     "tags": [
       "Ric Edelman",
       "Bitcoin",
       "Amazon"
     ],
+    "source": "ZyCrypto",
     "origin": "rss",
-    "pubDate": "2026-09-18T11:41:02.000Z",
-    "fetchedAt": "2026-09-18T12:01:19.762Z",
-    "isDuplicateOf": null,
-    "content": "Veteran financial adviser Ric Edelman has made a bold prediction, forecasting that Bitcoin could reach $500,000 by 2030. Edelman compared the cryptocurrency's current position to that of Amazon back in 1999, highlighting significant long-term growth potential. This ambitious price target highlights the ongoing bullish sentiment surrounding Bitcoin's future trajectory among industry veterans.",
-    "content_ta": "மூத்த நிதி ஆலோசகர் Ric Edelman ஒரு தைரியமான கணிப்பை வெளியிட்டுள்ளார். அதன்படி, 2030-ம் ஆண்டுக்குள் Bitcoin விலை 500,000 டாலரை எட்டக்கூடும் என்று அவர் கணித்துள்ளார். 1999-ம் ஆண்டில் இருந்த Amazon நிறுவனத்துடன் இந்த கிரிப்டோகரன்சியின் தற்போதைய நிலையை அவர் ஒப்பிட்டுள்ளார். இது Bitcoin-ன் நீண்டகால வளர்ச்சி மற்றும் எதிர்கால பயணம் குறித்த நம்பிக்கையை வெளிப்படுத்துகிறது.",
-    "slug": "veteran-financial-adviser-ric-edelman-predicts-500-000-bitcoin-by-2030-says-btc-resembles-amazon-in"
+    "hasContent": true,
+    "pubDate": "2026-09-18T11:41:02.000Z"
   },
   {
     "id": "3c1b3ede1878995c",
@@ -319,22 +498,16 @@
   },
   {
     "id": "3897e8a106499488",
+    "slug": "74-of-top-50-north-american-investors-are-assessing-climate-risks-ceres",
     "title": "74% of top 50 North American investors are assessing climate risks - Ceres",
-    "summary": "Data from non-profit sustainability-focused organisation Ceres found that the top 50 North American investors are continuing with climate action quietly.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/newsarticle/48430/74-of-top-50-north-american-investors-are-assessing-climate-risks---ceres?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
     "tags": [
       "Ceres",
       "North America"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-09-18T11:17:00.000Z",
-    "fetchedAt": "2026-09-18T12:01:19.762Z",
-    "isDuplicateOf": null,
-    "content": "A recent study by the non-profit organization Ceres reveals that 74% of the top 50 North American investors are actively assessing climate risks. Despite a shifting political and economic landscape, these major institutional investors are quietly continuing their focus on sustainability and climate action.",
-    "content_ta": "லாப நோக்கற்ற அமைப்பான Ceres நடத்திய புதிய ஆய்வின்படி, வட அமெரிக்காவின் டாப் 50 முதலீட்டாளர்களில் 74% பேர் பருவநிலை அபாயங்களை தீவிரமாக மதிப்பிட்டு வருகின்றனர். மாறிவரும் சூழலுக்கு மத்தியிலும், இந்த முக்கிய முதலீட்டாளர்கள் நிலைத்தன்மை மற்றும் பருவநிலை நடவடிக்கைளில் தொடர்ந்து கவனம் செலுத்தி வருகின்றனர்.",
-    "slug": "74-of-top-50-north-american-investors-are-assessing-climate-risks-ceres"
+    "hasContent": true,
+    "pubDate": "2026-09-18T11:17:00.000Z"
   },
   {
     "id": "afdd7a977e6e934a",
@@ -436,23 +609,17 @@
   },
   {
     "id": "50d5126d508b634d",
+    "slug": "natwest-adopts-equifax-verification-exchange-for-mortgage-income-checks",
     "title": "NatWest Adopts Equifax Verification Exchange for Mortgage Income Checks",
-    "summary": "NatWest becomes the first UK high street bank to use Equifax's digital income and employment verification tool for mortgage applications.\nThe post NatWest Adopts Equifax Verification Exchange for Mortgage Income Checks appeared first on The Fintech Times.",
-    "hasSummary": true,
-    "link": "https://thefintechtimes.com/natwest-adopts-equifax-verification-exchange-for-mortgage-income-checks/",
-    "source": "The Fintech Times",
     "tags": [
       "NatWest",
       "Equifax",
       "United Kingdom"
     ],
+    "source": "The Fintech Times",
     "origin": "rss",
-    "pubDate": "2026-09-18T11:00:15.000Z",
-    "fetchedAt": "2026-09-18T12:01:19.762Z",
-    "isDuplicateOf": null,
-    "content": "NatWest has become the first UK high street bank to adopt the Equifax Verification Exchange. The digital tool will be used to streamline income and employment checks for mortgage applications, enhancing the speed and efficiency of the lending process for customers.",
-    "content_ta": "NatWest நிறுவனம் UK-ல் Equifax Verification Exchange-ஐப் பயன்படுத்தும் முதல் முன்னணி வங்கி என்ற பெருையைப் பெற்றுள்ளது. வாடிக்கையாளர்களின் அடமானக் கடன் (mortgage) விண்ணப்பங்களுக்கு வருமானம் மற்றும் வேலைவாய்ப்பு சரிபார்ப்புப் பணிகளை விரைவுபடுத்த இந்த டிஜிட்டல் கருவி பயன்படுத்தப்படவுள்ளது.",
-    "slug": "natwest-adopts-equifax-verification-exchange-for-mortgage-income-checks"
+    "hasContent": true,
+    "pubDate": "2026-09-18T11:00:15.000Z"
   },
   {
     "id": "74fb2a3ed68a01ac",
@@ -613,23 +780,17 @@
   },
   {
     "id": "d1b5e06e0baa924e",
+    "slug": "ex-monzo-execs-sync-savings-completes-funding-round",
     "title": "Ex-Monzo execs’ Sync Savings completes funding round",
-    "summary": "UK payroll savings platform Sync Savings has been backed by leading female investors to make saving easier and more accessible to consumers.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/newsarticle/48429/ex-monzo-execs-sync-savings-completes-funding-round?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
     "tags": [
       "Sync Savings",
       "Monzo",
       "United Kingdom"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-09-18T10:26:00.000Z",
-    "fetchedAt": "2026-09-18T12:01:19.762Z",
-    "isDuplicateOf": null,
-    "content": "Sync Savings, a UK-based payroll savings platform founded by former Monzo executives, has successfully completed its latest funding round. The company received backing from prominent female investors. The new capital will be used to further develop its platform, which is designed to make saving simpler and more accessible for everyday consumers across the United Kingdom.",
-    "content_ta": "முன்னாள் Monzo அதிகாரிகளால் தொடங்கப்பட்ட UK-ஐச் சேர்ந்த சம்பள சேமிப்பு தளமான Sync Savings, தனது புதிய நிதி திரட்டும்rounds-ஐ வெற்றிகரமாக நிறைவு செய்துள்ளது. நுகர்வோருக்கு சேமிப்பை எளிதாக்கும் வகையில் முன்னணி பெண் முதலீட்டாளர்கள் இந்த நிறுவனத்திற்கு ஆதரவு அளித்துள்ளனர்.",
-    "slug": "ex-monzo-execs-sync-savings-completes-funding-round"
+    "hasContent": true,
+    "pubDate": "2026-09-18T10:26:00.000Z"
   },
   {
     "id": "3483d3151cfb5146",
@@ -642,194 +803,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-18T10:25:38.000Z"
-  },
-  {
-    "id": "6a34689114fe1471",
-    "title": "Westpac Becomes First NZ Bank Accredited to Issue Digital ID Credentials",
-    "summary": "Westpac NZ’s business customers will soon be able to receive trusted digital credentials and share them with their customers and other third parties, making for easier and more secure banking experiences.\nWestpac has become the first New Zealand bank accredited to issue digital credentials under the Government’s Digital Identity Services Trust Framework, and these credentials will be held in the Govt.nz app wallet.\nOnce digital ID is rolled out for Westpac One Business customers, they’ll be able to show digital proof of their bank account to customers who ask for it when they make a payment. \n“This means businesses don’t need to download a bank statement, redact information by hand or send documents using less secure methods such as email – saving them time and reducing the risk of fraud and scams,” says Westpac NZ Chief Data, Digital and AI Officer Russell Jones.\n“We know trust and control are very important to New Zealanders when sharing personal information online. Digital ID provides a modern, trusted and simple way to share it while keeping you in control.\n“Digital ID and its benefits have been talked about for a long time but it needs positive action to make it a reality.  We’ve invested heavily to become the first bank and only the third organisation to reach this milestone because we’re keen to help lead the rollout.”\nSeamless customer journey\nDigital ID will give people buying from a Westpac business customer more confidence that they’re paying into the correct bank account.\nFor example, someone buying a car from a dealer who banks with Westpac might ask for proof of the dealer’s bank account details.  After downloading the Govt.nz app wallet, the dealer can log in to Westpac One Business, choose an account and generate a QR code.\nThe dealer scans the Westpac QR code in the wallet, then enters a code sent by text message.  They now have a Westpac Business Bank Account credential, valid for 72 hours, to show the buyer as proof of the account.\nThe credential can also be shown to other organisations that need to verify it, including through platforms such as NZ Verify.\n“Teams across the bank have worked hard to make us the first to gain this government accreditation, and we look forward to helping customers save time and effort from today,” Mr Jones says.\n“We’re also grateful to Kiwi-based tech solutions company Mattr for their expertise and insight in supporting us on the rollout.”\n“Exciting future ahead”\nMr Jones says digital ID has a wide range of possible uses and Westpac’s issuer accreditation is just the first step.\n“We’ll be working hard over the coming years to broaden the scope of digital ID.  For instance, rolling out credential issuance via the Westpac One online banking platform will simplify online verification for our retail customers, allowing them to apply for loans or open new accounts by sharing digital credentials rather than physical copies of sensitive documents.\n“Digital ID’s potential goes well beyond banking.  Imagine the convenience of having a digital version of your driver’s licence, Kiwi Access Card or passport in your phone. \n“Everything from proving your age to setting up utilities to travelling overseas could be simplified without compromising on security.\n“There’s an exciting future ahead, with more choice, convenience and customer control.\n“At the same time, digital ID will only succeed if there’s large scale adoption of credential verification.  That means a wide range of sectors including banking, hospitality and telecommunications working with local and central government to make digital ID part of the everyday customer experience.\n“As we continue to invest in our rollout, we’re keen to share our experiences with organisations who are at the start of their digital ID journey.”\n\nNoYesBanking18 Sep, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/banking/westpac-becomes-first-nz-bank-accredited-issue-digital-id-credentials",
-    "source": "Financial IT",
-    "tags": [
-      "Westpac",
-      "New Zealand",
-      "Govt.nz",
-      "Mattr"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-09-18T10:20:33.000Z",
-    "fetchedAt": "2026-09-18T12:01:19.762Z",
-    "isDuplicateOf": null,
-    "content": "Westpac has become the first New Zealand bank accredited to issue digital ID credentials under the Government's Digital Identity Services Trust Framework. Business customers will soon be able to securely share digital proof of their bank accounts using the Govt.nz app wallet. The initiative aims to save time, simplify verification processes, and reduce the risk of fraud and scams by eliminating the need for traditional paper-based documents and less secure email methods.",
-    "content_ta": "Government-ன் Digital Identity Services Trust Framework-ன் கீழ் டிஜிட்டல் ஐடி சான்றுகளை வழங்க அங்கீகாரம் பெற்ற முதல் New Zealand வங்கி என்ற பெருமையை Westpac பெற்றுள்ளது. Govt.nz ஆப் வாலட்டைப் பயன்படுத்தி வணிக வாடிக்கையாளர்கள் தங்கள் வங்கிக் கணக்குகளின் டிஜிட்டல் ஆதாரத்தைப் பாதுகாப்பாகப் பகிரலாம். பாரம்பரிய காகித ஆவணங்கள் மற்றும் பாதுகாப்பற்ற மின்னஞ்சல் முறைகளின் தேவையை நீக்குவதன் மூலம், நேரத்தைச் சேமிக்கவும், மோசடி அபாயத்தைக் குறைக்கவும் இந்த முயற்சி உதவுகிறது.",
-    "slug": "westpac-becomes-first-nz-bank-accredited-to-issue-digital-id-credentials"
-  },
-  {
-    "id": "e3342cc56a320a77",
-    "slug": "new-android-malware-uses-ai-to-steal-banking-logins-and-control-phones-report",
-    "title": "New Android Malware Uses AI to Steal Banking Logins and Control Phones: Report",
-    "tags": [
-      "Zimperium"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-18T10:15:50.000Z"
-  },
-  {
-    "id": "9e0200978fb20627",
-    "slug": "kevin-o-leary-is-buying-crypto-again-says-major-stock-exchange-adoption-is-the-watershed-moment-to",
-    "title": "Kevin O’Leary is buying crypto again, says major stock exchange adoption is the ‘watershed moment’ to watch",
-    "tags": [
-      "Kevin O'Leary"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-18T10:08:42.000Z"
-  },
-  {
-    "id": "f2913933e4fa5183",
-    "slug": "anthropic-establishes-biology-lab-for-claude-s-drug-r-d-experiments",
-    "title": "Anthropic establishes biology lab for Claude’s drug R&D experiments",
-    "tags": [
-      "Anthropic",
-      "Claude"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-18T10:08:35.000Z"
-  },
-  {
-    "id": "1d238c8612921837",
-    "slug": "bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
-    "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-18T10:07:33.000Z"
-  },
-  {
-    "id": "f4b260c8ad4111be",
-    "slug": "ascory-bank-ag-partners-with-mount-street-to-enhance-monitoring-and-credit-management",
-    "title": "Ascory Bank AG partners with Mount Street to enhance monitoring and credit management",
-    "tags": [
-      "Ascory Bank AG",
-      "Mount Street"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-18T10:02:00.000Z"
-  },
-  {
-    "id": "549af44c91793397",
-    "slug": "hitpay-launches-cfo-stack-to-simplify-sme-finance-operations",
-    "title": "HitPay launches CFO Stack to simplify SME finance operations",
-    "tags": [
-      "HitPay",
-      "Southeast Asia"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-18T09:58:00.000Z"
-  },
-  {
-    "id": "bfbec06423550517",
-    "slug": "uae-sweden-arrest-seven-over-7-1m-crypto-laundering-ring-linked-to-contract-killings",
-    "title": "UAE, Sweden Arrest Seven Over $7.1M Crypto Laundering Ring Linked to Contract Killings",
-    "tags": [
-      "UAE",
-      "Sweden"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-18T09:57:33.000Z"
-  },
-  {
-    "id": "3430e2a7077afcd4",
-    "slug": "openai-anthropic-eye-20-30-mw-ai-clusters-in-uk-nordics-for-expansion",
-    "title": "OpenAI, Anthropic eye 20-30 MW AI clusters in UK, Nordics for expansion",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "United Kingdom",
-      "Nordics"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-18T09:51:47.000Z"
-  },
-  {
-    "id": "81de45857cd2b06c",
-    "slug": "building-a-stronger-uk-investment-culture",
-    "title": "Building a stronger UK investment culture",
-    "tags": [
-      "United Kingdom"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-18T09:37:30.000Z"
-  },
-  {
-    "id": "c33833a1de8148f6",
-    "slug": "ethereum-price-prediction-what-to-expect-from-the-glamsterdam-upgrade",
-    "title": "Ethereum Price Prediction: What to Expect From the Glamsterdam Upgrade?",
-    "tags": [
-      "Ethereum"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-18T09:32:59.000Z"
-  },
-  {
-    "id": "8b57166f78409ba3",
-    "slug": "another-raid-on-xrp-ripple-veteran-david-schwartz-personally-exposes-fake-airdrop",
-    "title": "Another Raid on XRP: Ripple Veteran David Schwartz Personally Exposes Fake Airdrop",
-    "tags": [
-      "Ripple",
-      "David Schwartz",
-      "XRP",
-      "Xaman"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-18T09:26:20.000Z"
-  },
-  {
-    "id": "4339e484afd4c476",
-    "slug": "openai-s-gpt-6-astra-cracked-a-nazi-enigma-message-in-10-hours-is-bitcoin-next",
-    "title": "OpenAI's GPT-6 Astra Cracked a Nazi Enigma Message in 10 Hours: Is Bitcoin Next?",
-    "tags": [
-      "OpenAI",
-      "Bitcoin"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-18T09:22:17.000Z"
-  },
-  {
-    "id": "13bcf6e84f1773a1",
-    "slug": "eu-to-deliver-3-3b-aid-to-ukraine-on-september-18-boosting-defense-efforts",
-    "title": "EU to deliver €3.3B aid to Ukraine on September 18, boosting defense efforts",
-    "tags": [
-      "European Union",
-      "Ukraine"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-18T09:20:04.000Z"
   }
 ]
