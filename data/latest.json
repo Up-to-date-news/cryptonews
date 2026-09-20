@@ -1,116 +1,326 @@
 [
   {
-    "id": "5889bfc039645d50",
-    "title": "Cathie Wood Says Bitcoin Is 'Not a Dead Cat'",
-    "summary": "ARK Invest CEO Cathie Wood pushed back against Jason Calacanis after the venture capitalist dismissed Bitcoin’s latest rebound as a \"dead cat bounce\" and argued that the cryptocurrency has lost its technological edge.",
+    "id": "a31e3c932d57dd9a",
+    "title": "BlackRock Adds Tokenised Share Classes to European UCITS MMFs",
+    "summary": "BlackRock is bringing on-chain share classes to its ICS money market funds across 15 markets, using J.P. Morgan's Kinexys tokenisation platform on\nThe post BlackRock Adds Tokenised Share Classes to European UCITS MMFs appeared first on The Fintech Times.",
     "hasSummary": true,
-    "link": "https://u.today/cathie-wood-says-bitcoin-is-not-a-dead-cat",
-    "source": "U.Today",
+    "link": "https://thefintechtimes.com/blackrock-adds-okenised-share-classes-to-european-ucits-mmfs/",
+    "source": "The Fintech Times",
+    "tags": [
+      "BlackRock",
+      "J.P. Morgan"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-20T09:00:48.000Z",
+    "fetchedAt": "2026-09-20T09:01:25.426Z",
+    "isDuplicateOf": null,
+    "content": "BlackRock has expanded its tokenised share classes to European UCITS money market funds. The initiative brings on-chain share classes to its ICS funds across 15 markets, utilizing J.P. Morgan's Kinexys tokenisation platform to modernize financial operations and improve asset management efficiency.",
+    "content_ta": "BlackRock நிறுவனம் தனது ஐரோப்பிய UCITS money market funds-ல் tokenised share classes-ஐ விரிவுபடுத்தியுள்ளது. இந்த நடவடிக்கை ICS funds-ஐ 15 சந்தைகளில் on-chain share classes-க்கு கொண்டுவருகிறது. நிதி செயல்பாடுகளை நவீனமாக்கவும், asset management திறனை மேம்படுத்தவும் J.P. Morgan-ன் Kinexys tokenisation platform பயன்படுத்தப்படுகிறது.",
+    "slug": "blackrock-adds-tokenised-share-classes-to-european-ucits-mmfs"
+  },
+  {
+    "id": "3c6cb99624dad9a4",
+    "slug": "at-least-one-person-wounded-in-shooting-attack-near-neveh-tzuf-idf-opens-manhunt-for-terrorist",
+    "title": "At least one person wounded in shooting attack near Neveh Tzuf, IDF opens manhunt for terrorist",
+    "tags": [
+      "Neveh Tzuf",
+      "IDF"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-20T08:59:09.000Z"
+  },
+  {
+    "id": "54ae570325e2338a",
+    "slug": "strategy-s-mstr-tops-nasdaq-100-with-48-gain-over-the-past-month",
+    "title": "Strategy’s MSTR tops NASDAQ-100 with 48% gain over the past month",
+    "tags": [
+      "Strategy",
+      "NASDAQ-100"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-20T08:55:17.000Z"
+  },
+  {
+    "id": "53563605ddbf773c",
+    "slug": "binance-wallet-launches-pre-access-campaigns-for-tokenized-pre-ipo-exposure-via-pancakeswap",
+    "title": "Binance Wallet launches Pre-Access campaigns for tokenized pre-IPO exposure via PancakeSwap",
+    "tags": [
+      "Binance Wallet",
+      "PancakeSwap"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-20T08:54:22.000Z"
+  },
+  {
+    "id": "972cff1374690f56",
+    "slug": "bybit-taker-buy-sell-ratio-spikes-above-25-as-traders-aggressively-long-the-pullback",
+    "title": "Bybit taker buy/sell ratio spikes above 25 as traders aggressively long the pullback",
+    "tags": [
+      "Bybit"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-20T08:39:20.000Z"
+  },
+  {
+    "id": "cb3730f86590ba81",
+    "slug": "btc-price-slides-toward-80k-avax-defies-market-correction-weekend-watch",
+    "title": "BTC Price Slides Toward $80K, AVAX Defies Market Correction: Weekend Watch",
+    "tags": [
+      "Bitcoin",
+      "Avalanche",
+      "STX",
+      "ENA"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-20T08:31:57.000Z"
+  },
+  {
+    "id": "5af186bb77e89a2e",
+    "slug": "europe-reclassifies-russia-s-actions-as-coordinated-war-campaign",
+    "title": "Europe reclassifies Russia’s actions as coordinated war campaign",
+    "tags": [
+      "Europe",
+      "Russia",
+      "NATO"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-20T08:24:25.000Z"
+  },
+  {
+    "id": "c84b8425d11eb20e",
+    "slug": "turkey-signals-military-support-for-saudi-arabia-against-houthis-under-new-mecca-defense-pact",
+    "title": "Turkey signals military support for Saudi Arabia against Houthis under new Mecca defense pact",
+    "tags": [
+      "Turkey",
+      "Saudi Arabia",
+      "Mecca",
+      "Houthis"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-20T08:23:45.000Z"
+  },
+  {
+    "id": "1cab52d6d10ba386",
+    "slug": "yen-faces-vulnerability-as-japan-s-holiday-thins-trading-liquidity",
+    "title": "Yen faces vulnerability as Japan’s holiday thins trading liquidity",
+    "tags": [
+      "Japan",
+      "Japanese yen"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-20T08:18:49.000Z"
+  },
+  {
+    "id": "e4c2605068133c1c",
+    "slug": "israeli-ukrainian-visitor-in-uman-conscripted-into-ukrainian-military",
+    "title": "Israeli-Ukrainian visitor in Uman conscripted into Ukrainian military",
+    "tags": [
+      "Israel",
+      "Ukraine",
+      "Uman"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-20T08:15:21.000Z"
+  },
+  {
+    "id": "6d4521e3d345d1f2",
+    "title": "Wells Fargo Refuses To Reimburse Customer After Nearly $10,000 Disappears in Allegedly Unauthorized Wire Transfer: Report",
+    "summary": "A 50-year Wells Fargo customer in Bozeman, Montana, says nearly $10,000 left his account in an unauthorized wire. After the bank denied his fraud claim and sent a hold-harmless agreement, he is seeking legal help.\nThe post Wells Fargo Refuses To Reimburse Customer After Nearly $10,000 Disappears in Allegedly Unauthorized Wire Transfer: Report appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/09/20/wells-fargo-refuses-to-reimburse-customer-after-nearly-10000-disappears-in-allegedly-unauthorized-wire-transfer-report/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "Wells Fargo",
+      "Bozeman",
+      "Montana"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-20T08:15:14.000Z",
+    "fetchedAt": "2026-09-20T09:01:25.426Z",
+    "isDuplicateOf": null,
+    "content": "A long-time Wells Fargo customer in Bozeman, Montana, is seeking legal assistance after nearly $10,000 vanished from his account in an unauthorized wire transfer. The major bank reportedly denied his fraud claim and subsequently sent him a hold-harmless agreement. The customer is now fighting to recover the lost funds as the incident draws attention to security and liability concerns regarding bank wire transfers.",
+    "content_ta": "போஸ்மேன், Montana-வைச் சேர்ந்த நீண்டகால Wells Fargo வாடிக்கையாளர் ஒருவர், தனது கணக்கிலிருந்து அங்கீகரிக்கப்படாத பணப்பரிமாற்றம் மூலம் கிட்டத்தட்ட $10,000 மாயமானதை அடுத்து சட்ட உதவியை நாடியுள்ளார். இந்த முன்னணி வங்கி அவரது மோசடி கோரிக்கையை நிராகரித்துவிட்டு, அவருக்குப் பொறுப்புவிலகல் ஒப்பந்தத்தை அனுப்பியுள்ளதாகத் தகவல்கள் தெரிவிக்கின்றன.",
+    "slug": "wells-fargo-refuses-to-reimburse-customer-after-nearly-10-000-disappears-in-allegedly-unauthorized"
+  },
+  {
+    "id": "033ff8f7e6631291",
+    "slug": "hong-kong-plans-to-expand-dim-sum-bond-market-and-yuan-denominated-gold-trading",
+    "title": "Hong Kong plans to expand dim sum bond market and yuan-denominated gold trading",
+    "tags": [
+      "Hong Kong",
+      "China"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-20T08:14:40.000Z"
+  },
+  {
+    "id": "fd7c97d276ac3524",
+    "slug": "cxmt-s-fifth-generation-memory-chip-platform-enters-mass-production-shaking-up-global-dram-hierarchy",
+    "title": "CXMT’s fifth-generation memory chip platform enters mass production, shaking up global DRAM hierarchy",
+    "tags": [
+      "CXMT",
+      "China"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-20T08:13:38.000Z"
+  },
+  {
+    "id": "33e818338fb22062",
+    "slug": "ukraine-uses-pelican-ballistic-missile-in-massive-strike-on-moscow-refinery",
+    "title": "Ukraine uses Pelican ballistic missile in massive strike on Moscow refinery",
+    "tags": [
+      "Ukraine",
+      "Moscow",
+      "Pelican"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-20T08:09:48.000Z"
+  },
+  {
+    "id": "7606ff94b5bdd5f4",
+    "slug": "x-brings-crypto-trading-closer-to-your-social-feed",
+    "title": "X brings crypto trading closer to your social feed",
+    "tags": [
+      "X",
+      "Kraken"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-20T08:00:39.000Z"
+  },
+  {
+    "id": "75d8bc7401706486",
+    "slug": "fetch-ai-exploit-drains-2m-as-ntx-crashes-95-what-went-wrong",
+    "title": "Fetch.ai exploit drains $2M as NTX crashes 95% – What went wrong?",
+    "tags": [
+      "Fetch.ai",
+      "NuNet"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-20T08:00:30.000Z"
+  },
+  {
+    "id": "d7c7c8b35c12adcf",
+    "title": "NATO prepared for Russian escalation amid eastern tensions",
+    "summary": "NATO's readiness underscores the potential for prolonged geopolitical instability, impacting regional security dynamics and global diplomatic relations.\nThe post NATO prepared for Russian escalation amid eastern tensions appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/nato-prepared-for-russian-escalation-amid-eastern-tensions/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "NATO",
+      "Russia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-20T07:54:16.000Z",
+    "fetchedAt": "2026-09-20T09:01:25.426Z",
+    "isDuplicateOf": null,
+    "content": "NATO remains on high alert amid escalating tensions with Russia in the eastern region. The alliance's readiness highlights ongoing geopolitical instability, which continues to impact regional security and international diplomatic relations as global observers monitor the situation closely.",
+    "content_ta": "கிழக்குப் பகுதியில் ரஷ்யாவுடனான பதற்றங்கள் அதிகரித்து வருவதால் NATO உயர் எச்சரிக்கை நிலையில் உள்ளது. இந்தக் கூட்டமைப்பின் தயார்நிலை தொடர்ச்சியான புவிசார் அரசியல் உறுதியற்ற தன்மையை வெளிப்படுத்துகிறது, இது பிராந்திய பாதுகாப்பு மற்றும் சர்வதேச ராஜதந்திர உறவுகளைத் தொடர்ந்து பாதிக்கிறது.",
+    "slug": "nato-prepared-for-russian-escalation-amid-eastern-tensions"
+  },
+  {
+    "id": "5889bfc039645d50",
+    "slug": "cathie-wood-says-bitcoin-is-not-a-dead-cat",
+    "title": "Cathie Wood Says Bitcoin Is 'Not a Dead Cat'",
     "tags": [
       "Cathie Wood",
       "Jason Calacanis",
       "Bitcoin",
       "ARK Invest"
     ],
+    "source": "U.Today",
     "origin": "rss",
-    "pubDate": "2026-09-20T07:36:35.000Z",
-    "fetchedAt": "2026-09-20T07:52:07.747Z",
-    "isDuplicateOf": null,
-    "content": "ARK Invest CEO Cathie Wood defended Bitcoin following remarks by venture capitalist Jason Calacanis. Calacanis had described Bitcoin's recent market rebound as a \"dead cat bounce\" and claimed the cryptocurrency lost its technological advantage. Wood disagreed with this assessment, offering strong support for Bitcoin's ongoing market position and resilience amid fluctuating industry debates.",
-    "content_ta": "ARK Invest CEO Cathie Wood, venture capitalist Jason Calacanis-ன் கருத்துக்களுக்கு பதிலடி கொடுத்துள்ளார். Bitcoin-ன் சமீபத்திய விலை உயர்வை \"dead cat bounce\" என்று Calacanis குறிப்பிட்டதோடு, அந்த cryptocurrency தனது தொழில்நுட்ப நன்மையை இழந்துவிட்டதாகவும் கூறினார். இந்த கருத்தை மறுத்த Wood, Bitcoin-ன் தற்போதைய சந்தை நிலைத்தன்மைக்கு ஆதரவு தெரிவித்துள்ளார்.",
-    "slug": "cathie-wood-says-bitcoin-is-not-a-dead-cat"
+    "hasContent": true,
+    "pubDate": "2026-09-20T07:36:35.000Z"
   },
   {
     "id": "53c0b09b6a8246d0",
+    "slug": "indiana-staffing-agency-executive-embezzles-more-than-400-000-through-secret-account-scheme",
     "title": "Indiana Staffing Agency Executive Embezzles More Than $400,000 Through Secret Account Scheme",
-    "summary": "A healthcare staffing agency chief operations officer in Indiana has been sentenced to nearly five years in federal prison after embezzling more than $400,000 from her employer.\nThe post Indiana Staffing Agency Executive Embezzles More Than $400,000 Through Secret Account Scheme appeared first on The Daily Hodl.",
-    "hasSummary": true,
-    "link": "https://dailyhodl.com/2026/09/20/indiana-staffing-agency-executive-embezzles-more-than-400000-through-secret-account-scheme/",
-    "source": "The Daily Hodl",
     "tags": [
       "Indiana",
       "The Daily Hodl"
     ],
+    "source": "The Daily Hodl",
     "origin": "rss",
-    "pubDate": "2026-09-20T07:04:49.000Z",
-    "fetchedAt": "2026-09-20T07:52:07.748Z",
-    "isDuplicateOf": null,
-    "content": "An Indiana healthcare staffing agency executive has been sentenced to nearly five years in federal prison. The former chief operations officer embezzled more than $400,000 from her employer through a secret account scheme. Following the investigation and prosecution, she will serve her prison term under federal guidelines.",
-    "content_ta": "இண்டியானாவில் உள்ள ஒரு ஹெல்த்கேர் ஸ்டாஃபிங் ஏஜென்சியின் நிர்வாகிக்கு கிட்டத்தட்ட ஐந்து ஆண்டுகள் ஃபெடரல் சிறைத்தண்டனை விதிக்கப்பட்டுள்ளது. முன்னாள் சீஃப் ஆபரேஷன்ஸ் ஆபீசர், ரகசிய கணக்கு திட்டம் மூலம் தனது நிறுவனத்திடம் இருந்து 400,000 டாலருக்கும் அதிகமான தொகையை கையாடல் செய்துள்ளார். விசாரணை மற்றும் வழக்கின் முடிவில், அவர் ஃபெடரல் விதிகளின்படி தனது சிறைத்தண்டனையை அனுபவிப்பார்.",
-    "slug": "indiana-staffing-agency-executive-embezzles-more-than-400-000-through-secret-account-scheme"
+    "hasContent": true,
+    "pubDate": "2026-09-20T07:04:49.000Z"
   },
   {
     "id": "d8183defd19df67f",
+    "slug": "interpolitan-money-warns-banks-are-misreading-complexity-as-risk",
     "title": "Interpolitan Money Warns Banks are Misreading Complexity as Risk",
-    "summary": "Interpolitan Money's CEO says legacy banks are losing international corporate clients by confusing multi-jurisdictional complexity with elevated risk.\nThe post Interpolitan Money Warns Banks are Misreading Complexity as Risk appeared first on The Fintech Times.",
-    "hasSummary": true,
-    "link": "https://thefintechtimes.com/interpolitan-money-warns-banks-are-misreading-complexity-as-risk/",
-    "source": "The Fintech Times",
     "tags": [
       "Interpolitan Money"
     ],
+    "source": "The Fintech Times",
     "origin": "rss",
-    "pubDate": "2026-09-20T07:00:14.000Z",
-    "fetchedAt": "2026-09-20T07:52:07.748Z",
-    "isDuplicateOf": null,
-    "content": "Interpolitan Money warns that legacy banking institutions are increasingly misinterpreting multi-jurisdictional business complexity as heightened financial risk. According to the company, this misunderstanding is leading to the unnecessary loss of international corporate clients who struggle to maintain traditional banking relationships due to overly stringent compliance practices by established financial providers.",
-    "content_ta": "Interpolitan Money நிறுவனம், பல நாடுகளுக்கு இடையிலான வணிகச் சிக்கலான தன்மையை பாரம்பரிய வங்கிகள் அதிகப்படியான நிதி அபாயமாக தவறாகப் புரிந்துகொள்வதாக எச்சரித்துள்ளது. நிறுவனத்தின்படி, இந்தத் தவறான புரிதலால் பல சர்வதேச கார்ப்பரேட் வாடிக்கையாளர்கள் தங்கள் வங்கி சேவைகளை இழந்து வருவதாகக் கூறப்படுகிறது.",
-    "slug": "interpolitan-money-warns-banks-are-misreading-complexity-as-risk"
+    "hasContent": true,
+    "pubDate": "2026-09-20T07:00:14.000Z"
   },
   {
     "id": "ce8ef12ba6c10cde",
+    "slug": "akedo-set-to-unlock-2-11b-tokens-sell-pressure-fears-cloud-epic-300-weekly-run",
     "title": "Akedo set to unlock 2.11B tokens: Sell pressure fears cloud epic 300% weekly run",
-    "summary": "Akedo has drawn enormous trading volume in recent days and was up 300% over just the past week.",
-    "hasSummary": true,
-    "link": "https://ambcrypto.com/akedo-set-to-unlock-2-11b-tokens-sell-pressure-fears-cloud-epic-300-weekly-run/",
-    "source": "AMBCrypto",
     "tags": [
       "Akedo"
     ],
+    "source": "AMBCrypto",
     "origin": "rss",
-    "pubDate": "2026-09-20T07:00:12.000Z",
-    "fetchedAt": "2026-09-20T07:52:07.747Z",
-    "isDuplicateOf": null,
-    "content": "Akedo recently experienced a massive 300 percent weekly price surge, drawing enormous trading volume from the market. However, this impressive rally is now facing concerns as the project prepares to unlock 2.11 billion tokens. Many market participants fear this large token release could introduce significant sell pressure and impact the cryptocurrency's future price stability.",
-    "content_ta": "Akedo சமீபத்தில் ஒரு வாரத்தில் 300 சதவீத விலை உயர்வை சந்தித்து, சந்தையில் பெரும் வர்த்தக அளவை ஈர்த்தது. இருப்பினும், 2.11 பில்லியன் tokens-களை திறக்கத் தயாராகி வருவதால், இந்த எழுச்சி இப்போது கவலைகளை எதிர்கொள்கிறது. இந்த பெரிய token வெளியீடு குறிப்பிடத்தக்க விற்பனை அழுத்தத்தை ஏற்படுத்தலாம் மற்றும் cryptocurrency-யின் எதிர்கால விலை ஸ்திரத்தன்மையை பாதிக்கலாம் என்று பல சந்தை பங்கேற்பாளர்கள் அஞ்சுகின்றனர்.",
-    "slug": "akedo-set-to-unlock-2-11b-tokens-sell-pressure-fears-cloud-epic-300-weekly-run"
+    "hasContent": true,
+    "pubDate": "2026-09-20T07:00:12.000Z"
   },
   {
     "id": "5409ee42e2875cea",
+    "slug": "i-m-not-giving-up-ethereum-s-buterin-doubles-down-on-privacy",
     "title": "'I'm Not Giving Up': Ethereum's Buterin Doubles Down on Privacy",
-    "summary": "Vitalik Buterin says he is \"doubling down\" on privacy as Ethereum developers work on private reads, private transactions, and stronger censorship resistance across the network.",
-    "hasSummary": true,
-    "link": "https://u.today/im-not-giving-up-ethereums-buterin-doubles-down-on-privacy",
-    "source": "U.Today",
     "tags": [
       "Ethereum",
       "Vitalik Buterin"
     ],
+    "source": "U.Today",
     "origin": "rss",
-    "pubDate": "2026-09-20T06:48:03.000Z",
-    "fetchedAt": "2026-09-20T07:52:07.747Z",
-    "isDuplicateOf": null,
-    "content": "Ethereum co-founder Vitalik Buterin has reaffirmed his commitment to privacy within the blockchain network. Developers are currently working on implementing private transactions, private reads, and enhanced censorship resistance to improve user security and data protection across the entire Ethereum ecosystem.",
-    "content_ta": "Ethereum நெட்வொர்க்கில் தனியுரிமைக்கான தனது உறுதிப்பாட்டை அதன் இணை நிறுவனர் Vitalik Buterin மீண்டும் வலியுறுத்தியுள்ளார். முழு Ethereum சுற்றுச்சூழல் அமைப்பிலும் பயனர் பாதுகாப்பு மற்றும் தரவு பாதுகாப்பை மேம்படுத்தும் வகையில், டெவலப்பர்கள் தற்போது தனிப்பட்ட பரிவர்த்தனைகள், தனிப்பட்ட வாசிப்புகள் மற்றும் மேம்பட்ட தணிக்கை எதிர்ப்பை செயல்படுத்தும் பணியில் ஈடுபட்டுள்ளனர்.",
-    "slug": "i-m-not-giving-up-ethereum-s-buterin-doubles-down-on-privacy"
+    "hasContent": true,
+    "pubDate": "2026-09-20T06:48:03.000Z"
   },
   {
     "id": "0f7570cec4a43f2b",
+    "slug": "why-bitcoin-s-63-hodl-wave-isn-t-the-mega-bull-signal-everyone-thinks-it-is",
     "title": "Why Bitcoin’s 63% HODL wave isn’t the mega bull signal everyone thinks it is",
-    "summary": "The one-year share rose 0.98 percentage points in a month while adjacent age bands shifted around the threshold.\nThe post Why Bitcoin’s 63% HODL wave isn’t the mega bull signal everyone thinks it is appeared first on CryptoSlate.",
-    "hasSummary": true,
-    "link": "https://cryptoslate.com/why-bitcoins-63-3-hodl-wave-isnt-the-mega-bull-signal-everyone-thinks-it-is/",
-    "source": "CryptoSlate",
     "tags": [
       "Bitcoin"
     ],
+    "source": "CryptoSlate",
     "origin": "rss",
-    "pubDate": "2026-09-20T06:30:40.000Z",
-    "fetchedAt": "2026-09-20T07:52:07.747Z",
-    "isDuplicateOf": null,
-    "content": "Recent analysis of Bitcoin suggests that a 63% HODL wave may not be as strong of a bullish signal as many market participants believe. Data shows the one-year share rose slightly by 0.98 percentage points over a month, while adjacent age bands shifted around the critical threshold, indicating a more nuanced market reality.",
-    "content_ta": "Bitcoin-ன் 63% HODL அலை பலரும் நினைப்பது போல் ஒரு பெரிய புல்லிஷ் சிக்னல் இல்லை என்று சமீபத்திய பகுப்பாய்வு கூறுகிறது. ஒரு வருட பங்கு ஒரு மாதத்தில் சற்று 0.98 சதவீதம் உயர்ந்துள்ளது, அதே நேரத்தில் சுற்றியுள்ள வயதுப் பிரிவுகள் மாறிவிட்டன, இது மிகவும் நுணுக்கமான சந்தை யதார்த்தத்தைக் குறிக்கிறது.",
-    "slug": "why-bitcoin-s-63-hodl-wave-isn-t-the-mega-bull-signal-everyone-thinks-it-is"
+    "hasContent": true,
+    "pubDate": "2026-09-20T06:30:40.000Z"
   },
   {
     "id": "d8381ee295495cef",
@@ -593,237 +803,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-19T21:00:18.000Z"
-  },
-  {
-    "id": "3772ab9dcb1a7cf4",
-    "slug": "raphinha-scores-hat-trick-as-fc-barcelona-demolishes-racing-santander-7-2",
-    "title": "Raphinha scores hat-trick as FC Barcelona demolishes Racing Santander 7-2",
-    "tags": [
-      "FC Barcelona",
-      "Racing Santander",
-      "Raphinha"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-19T20:37:28.000Z"
-  },
-  {
-    "id": "f76e22bfaf8bed8d",
-    "slug": "switchboard-shuts-down-operations-urges-users-to-migrate-by-september-25",
-    "title": "Switchboard shuts down operations, urges users to migrate by September 25",
-    "tags": [
-      "Switchboard",
-      "DeFi"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-19T20:18:14.000Z"
-  },
-  {
-    "id": "3822f240862aa160",
-    "slug": "ark-invest-sells-palantir-and-amd-boosts-stake-in-archer-aviation",
-    "title": "Ark Invest sells Palantir and AMD, boosts stake in Archer Aviation",
-    "tags": [
-      "ARK Invest",
-      "Palantir",
-      "AMD",
-      "Archer Aviation"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-19T20:10:32.000Z"
-  },
-  {
-    "id": "6be62e802abbf9dd",
-    "slug": "here-why-avax-s-rally-must-pass-this-structural-test-on-the-charts",
-    "title": "Here why AVAX’s rally must pass THIS ‘structural test’ on the charts",
-    "tags": [
-      "Avalanche"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-19T20:00:19.000Z"
-  },
-  {
-    "id": "8dc95aba74a81d5b",
-    "slug": "blink-wallet-pauses-services-after-attacker-drains-custodial-accounts",
-    "title": "Blink Wallet pauses services after attacker drains custodial accounts",
-    "tags": [
-      "Blink Wallet"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-19T19:51:56.000Z"
-  },
-  {
-    "id": "30648c0f1f6e2271",
-    "slug": "s-p-500-slips-as-fed-hikes-rates-for-first-time-since-2023-cybersecurity-stocks-buck-the-trend",
-    "title": "S&P 500 slips as Fed hikes rates for first time since 2023, cybersecurity stocks buck the trend",
-    "tags": [
-      "S&P 500",
-      "Federal Reserve"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-19T19:40:47.000Z"
-  },
-  {
-    "id": "1a2abbb3c460c257",
-    "slug": "crude-oil-shipping-costs-surge-258-in-two-months-to-23-59-per-barrel",
-    "title": "Crude oil shipping costs surge 258% in two months to $23.59 per barrel",
-    "tags": [
-      "Crude Oil"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-19T19:35:33.000Z"
-  },
-  {
-    "id": "9a511833c74d6c33",
-    "slug": "coventry-city-earns-first-top-flight-win-in-25-years-beats-nottingham-forest-1-0",
-    "title": "Coventry City earns first top-flight win in 25 years, beats Nottingham Forest 1-0",
-    "tags": [
-      "Coventry City",
-      "Nottingham Forest"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-19T19:32:17.000Z"
-  },
-  {
-    "id": "7bdf7d7a2b9ec1dc",
-    "slug": "aston-villa-secures-first-premier-league-win-defeating-spurs-3-2",
-    "title": "Aston Villa secures first Premier League win, defeating Spurs 3-2",
-    "tags": [
-      "Aston Villa",
-      "Tottenham Hotspur",
-      "Premier League"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-19T19:08:27.000Z"
-  },
-  {
-    "id": "1a3676baa1d17b38",
-    "slug": "bitgo-bank-trust-powers-toyosa-s-stablecoin-payments-for-toyota-vehicles-in-bolivia",
-    "title": "BitGo Bank & Trust powers TOYOSA’s stablecoin payments for Toyota vehicles in Bolivia",
-    "tags": [
-      "BitGo Bank & Trust",
-      "TOYOSA",
-      "Toyota",
-      "Bolivia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-19T19:06:38.000Z"
-  },
-  {
-    "id": "c966e124fb0d2328",
-    "slug": "circle-wants-you-to-love-usdc-a-little-like-you-love-chelsea",
-    "title": "Circle wants you to love USDC a little like you love Chelsea",
-    "tags": [
-      "Circle",
-      "USDC",
-      "Chelsea"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-19T19:00:16.000Z"
-  },
-  {
-    "id": "704ce119cafc05fe",
-    "slug": "us-expands-military-presence-in-greenland-under-new-agreement-with-denmark",
-    "title": "US expands military presence in Greenland under new agreement with Denmark",
-    "tags": [
-      "United States",
-      "Denmark",
-      "Greenland",
-      "Arctic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-19T18:50:54.000Z"
-  },
-  {
-    "id": "4446f2b014a7faa0",
-    "slug": "warren-buffett-steps-down-after-60-years-and-his-bitcoin-views-are-unforgettable",
-    "title": "Warren Buffett Steps Down After 60 Years – And His Bitcoin Views Are Unforgettable",
-    "tags": [
-      "Warren Buffett",
-      "Bitcoin",
-      "Berkshire Hathaway"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-19T18:47:00.000Z"
-  },
-  {
-    "id": "2f749ee5e353c876",
-    "slug": "turkish-foreign-minister-proposes-ceasefire-to-ukraine-russia-in-black-sea",
-    "title": "Turkish Foreign Minister proposes ceasefire to Ukraine, Russia in Black Sea",
-    "tags": [
-      "Turkey",
-      "Ukraine",
-      "Russia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-19T18:42:32.000Z"
-  },
-  {
-    "id": "b7b2d58ea424f82e",
-    "slug": "kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures",
-    "title": "Kalshi joins Coinbase with filing for US stock perpetual futures",
-    "tags": [
-      "Kalshi",
-      "Coinbase",
-      "Bitnomial",
-      "United States"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-19T18:35:16.000Z"
-  },
-  {
-    "id": "6c2fccede7b56ff7",
-    "slug": "trump-warns-us-must-accelerate-ai-development-to-compete-with-china",
-    "title": "Trump warns US must accelerate AI development to compete with China",
-    "tags": [
-      "Trump",
-      "United States",
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-19T18:05:12.000Z"
-  },
-  {
-    "id": "82c6ea435299722a",
-    "slug": "iran-backed-proxies-strike-saudi-arabia-s-oil-pipeline-and-military-bases",
-    "title": "Iran-backed proxies strike Saudi Arabia’s oil pipeline and military bases",
-    "tags": [
-      "Iran",
-      "Saudi Arabia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-19T18:04:46.000Z"
   }
 ]
