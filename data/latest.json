@@ -1,58 +1,488 @@
 [
   {
-    "id": "7d797e1b2b0386e8",
-    "title": "AI-driven cashback-to-mortgage app Sprive raises $10 million",
-    "summary": "Mortgage overpayment app Sprive has closed a $10m Series A funding round.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/newsarticle/48437/ai-driven-cashback-to-mortgage-app-sprive-raises-10-million?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "id": "bdb54fec28f40052",
+    "slug": "trump-administration-s-venezuela-oil-deal-faces-steep-odds-from-aging-neglected-oil-fields",
+    "title": "Trump administration’s Venezuela oil deal faces steep odds from aging, neglected oil fields",
+    "tags": [
+      "Trump",
+      "Venezuela",
+      "Latin America"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T10:14:22.000Z"
+  },
+  {
+    "id": "21daea4c0e80d4f5",
+    "slug": "kremlin-trump-s-sanctions-won-t-improve-us-russia-ties-or-ukraine-peace",
+    "title": "Kremlin: Trump’s sanctions won’t improve US-Russia ties or Ukraine peace",
+    "tags": [
+      "Kremlin",
+      "Donald Trump",
+      "United States",
+      "Russia",
+      "Ukraine"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T10:14:10.000Z"
+  },
+  {
+    "id": "db64b309bacd1559",
+    "slug": "bundesbank-forecasts-german-economy-to-regain-momentum-by-year-end",
+    "title": "Bundesbank forecasts German economy to regain momentum by year-end",
+    "tags": [
+      "Bundesbank",
+      "Germany"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T10:13:11.000Z"
+  },
+  {
+    "id": "c04f7ceb533fbb6f",
+    "slug": "eu-fines-google-463m-for-violating-gdpr-privacy-rules",
+    "title": "EU fines Google $463M for violating GDPR privacy rules",
+    "tags": [
+      "Google",
+      "Ireland",
+      "EU"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T10:12:26.000Z"
+  },
+  {
+    "id": "7334e2e4e23383c1",
+    "slug": "bethune-prosecutor-s-office-investigates-kidnapping-of-crypto-worker-s-family-in-wrench-attack",
+    "title": "Béthune prosecutor’s office investigates kidnapping of crypto worker’s family in wrench attack",
+    "tags": [
+      "France",
+      "Béthune"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T10:10:02.000Z"
+  },
+  {
+    "id": "5c729a44592bd073",
+    "slug": "wallester-on-why-b2b-fintech-s-3-per-cent-problem-is-trust",
+    "title": "Wallester on Why B2B Fintech’s 3 per cent Problem is Trust",
+    "tags": [
+      "Wallester",
+      "Karine Martinez"
+    ],
+    "source": "The Fintech Times",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T10:00:12.000Z"
+  },
+  {
+    "id": "edf12c92c744876b",
+    "slug": "jupiter-s-15-rally-tokenized-stocks-on-solana-fuel-jup-s-jump",
+    "title": "Jupiter’s 15% rally – Tokenized stocks on Solana fuel JUP’s jump",
+    "tags": [
+      "Jupiter",
+      "Solana",
+      "JUP"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T10:00:07.000Z"
+  },
+  {
+    "id": "7a85755e3654720f",
+    "slug": "hyperliquid-hype-hits-all-time-high-3-continuation-scenarios",
+    "title": "Hyperliquid (HYPE) Hits All-Time High: 3 Continuation Scenarios",
+    "tags": [
+      "Hyperliquid"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T10:00:00.000Z"
+  },
+  {
+    "id": "707f2e79f164bb34",
+    "slug": "google-study-shows-procedural-graphs-enhance-llm-agent-performance",
+    "title": "Google study shows procedural graphs enhance LLM agent performance",
+    "tags": [
+      "Google"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:59:44.000Z"
+  },
+  {
+    "id": "6859d3ab2d764606",
+    "slug": "rothschild-redburn-initiates-terawulf-at-neutral-with-15-price-target",
+    "title": "Rothschild Redburn initiates TeraWulf at Neutral with $15 price target",
+    "tags": [
+      "Rothschild Redburn",
+      "TeraWulf"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:56:23.000Z"
+  },
+  {
+    "id": "73a3368556ef0a7d",
+    "slug": "european-central-bank-s-piero-cipollone-highlights-role-of-public-money-in-digital-finance",
+    "title": "European Central Bank’s Piero Cipollone highlights role of public money in digital finance",
+    "tags": [
+      "European Central Bank",
+      "Piero Cipollone"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:53:12.000Z"
+  },
+  {
+    "id": "e0b80d0813c5170a",
+    "slug": "barclays-invests-in-branch-network",
+    "title": "Barclays invests in branch network",
+    "tags": [
+      "Barclays",
+      "UK"
+    ],
     "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:53:00.000Z"
+  },
+  {
+    "id": "c300b9bb45f7bfd3",
+    "slug": "crypto-worker-s-children-held-hostage-in-latest-french-wrench-attack-46-000-taken",
+    "title": "Crypto Worker's Children Held Hostage in Latest French ‘Wrench Attack,’ $46,000 Taken",
+    "tags": [
+      "France"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:51:24.000Z"
+  },
+  {
+    "id": "5ea97a29d21e9186",
+    "slug": "congress-failure-leaves-crypto-industry-in-regulatory-limbo",
+    "title": "Congress failure leaves crypto industry in regulatory limbo",
+    "tags": [
+      "United States",
+      "Congress"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:48:32.000Z"
+  },
+  {
+    "id": "674ea42c71f035dc",
+    "slug": "highmarkets-review-2026-a-cfd-trading-platform-for-beginners-and-experienced-traders",
+    "title": "HighMarkets Review 2026: A CFD Trading Platform for Beginners and Experienced Traders",
+    "tags": [
+      "HighMarkets"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:45:36.000Z"
+  },
+  {
+    "id": "0186d564bef13ca2",
+    "slug": "arkham-unveils-transaction-explorer-v2-with-enhanced-swap-detection",
+    "title": "Arkham unveils Transaction Explorer V2 with enhanced swap detection",
+    "tags": [
+      "Arkham"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:44:50.000Z"
+  },
+  {
+    "id": "089584ba18a0c021",
+    "slug": "russian-finance-ministry-expects-10-million-new-crypto-users-by-2027",
+    "title": "Russian Finance Ministry expects 10 million new crypto users by 2027",
+    "tags": [
+      "Russia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:36:39.000Z"
+  },
+  {
+    "id": "8f2d0fc8c2d96e87",
+    "slug": "paymob-garners-35-million-in-pre-series-c",
+    "title": "Paymob garners $35 million in pre-Series C",
+    "tags": [
+      "Paymob",
+      "Mubadala Investment Company",
+      "European Bank for Reconstruction and Development",
+      "Egypt"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:35:00.000Z"
+  },
+  {
+    "id": "ce0022355b7966cc",
+    "slug": "united-russia-projected-to-secure-over-75-of-state-duma-seats-amid-ukraine-conflict",
+    "title": "United Russia projected to secure over 75% of State Duma seats amid Ukraine conflict",
+    "tags": [
+      "United Russia",
+      "State Duma",
+      "Ukraine",
+      "Russia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:32:45.000Z"
+  },
+  {
+    "id": "69b142651b0aa5b2",
+    "slug": "reward-appoints-former-lloyds-executive-enrique-del-rio-as-president-uk-europe",
+    "title": "Reward appoints former Lloyds executive Enrique Del Rio as president, UK & Europe",
+    "tags": [
+      "Reward",
+      "Lloyds",
+      "Enrique Del Rio",
+      "Rezolve Ai",
+      "UK",
+      "Europe"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:31:00.000Z"
+  },
+  {
+    "id": "43e814d5e607aeba",
+    "slug": "kamino-names-yieldstreet-co-founder-michael-weisz-ceo-for-us-expansion",
+    "title": "Kamino Names Yieldstreet Co-Founder Michael Weisz CEO For US Expansion",
+    "tags": [
+      "Kamino",
+      "Yieldstreet",
+      "Michael Weisz",
+      "United States"
+    ],
+    "source": "Bitcoinist",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:30:00.000Z"
+  },
+  {
+    "id": "4be6eb5e61553153",
+    "slug": "bitcoin-price-pumps-above-80-000-jason-calacanis-challenges-michael-saylor-and-cathie-wood",
+    "title": "Bitcoin Price Pumps Above $80,000: Jason Calacanis Challenges Michael Saylor and Cathie Wood",
+    "tags": [
+      "Bitcoin",
+      "Jason Calacanis",
+      "Michael Saylor",
+      "Cathie Wood"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:29:44.000Z"
+  },
+  {
+    "id": "f496866c4ea65187",
+    "slug": "amazon-blocks-meta-s-muse-ai-agent-from-shopping-on-its-platform",
+    "title": "Amazon blocks Meta’s Muse AI agent from shopping on its platform",
+    "tags": [
+      "Amazon",
+      "Meta"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:25:44.000Z"
+  },
+  {
+    "id": "a0d7118e26501fc3",
+    "slug": "french-diesel-prices-hit-record-2-40-per-litre-amid-middle-east-tensions",
+    "title": "French diesel prices hit record €2.40 per litre amid Middle East tensions",
+    "tags": [
+      "France",
+      "Middle East"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:22:24.000Z"
+  },
+  {
+    "id": "39fcad4e54270753",
+    "slug": "01f-group-invest-in-indonesian-fintech-dana",
+    "title": "01F Group invest in Indonesian fintech Dana",
+    "tags": [
+      "01F Group",
+      "01Fintech",
+      "DANA",
+      "Indonesia"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:21:00.000Z"
+  },
+  {
+    "id": "d8e4537c0a9fab61",
+    "slug": "reap-release-managed-graud-and-risk-servive-for-card-programmes",
+    "title": "Reap release managed graud and risk servive for card programmes",
+    "tags": [
+      "Reap"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:18:00.000Z"
+  },
+  {
+    "id": "00bbfc56c9fcdc29",
+    "title": "FCA and partners join forces to help improve financial security for millions",
+    "summary": "While the market is working well for consumers who have protection insurance, millions of people remain unprotected. Around 58% of adults have no life insurance, critical illness cover or income protection – and 59% of that group has never considered it. This means that millions... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/09/311757-fca-and-partners-join-forces-to-help-improve-financial-security-for-millions/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "FCA"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-21T09:17:41.000Z",
+    "fetchedAt": "2026-09-21T10:16:09.475Z",
+    "isDuplicateOf": null,
+    "content": "The FCA and its partners are teaming up to improve financial security for millions of people. Data shows that a significant portion of adults currently lack critical protection products such as life insurance, income protection, or critical illness cover, with many having never considered getting covered. This collaborative effort aims to address the protection gap and help consumers better secure their financial futures.",
+    "content_ta": "மில்லியன் கணக்கான மக்களின் நிதிப் பாதுகாப்பை மேம்படுத்த FCA மற்றும் அதன் கூட்டாளிகள் இணைந்து செயல்பட்டு வருகின்றனர். பல பெரிய அளவிலான மக்களுக்கு வாழ்க்கை காப்பீடு அல்லது வருமான பாதுகாப்பு போன்ற முக்கியமான காப்பீடுகள் இல்லை புள்ளிவிவரங்கள் காட்டுகின்றன. இந்த கூட்டு முயற்சியானது பாதுகாப்பு இடைவெளியை நிவர்த்தி செய்வதை நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "fca-and-partners-join-forces-to-help-improve-financial-security-for-millions"
+  },
+  {
+    "id": "7ac67900a34bab0f",
+    "slug": "north-korean-hackers-infect-30-000-pcs-steal-10-700-000-in-crypto-through-fake-it-jobs-fbi",
+    "title": "North Korean Hackers Infect 30,000 PCs, Steal $10,700,000 in Crypto Through Fake IT Jobs: FBI",
+    "tags": [
+      "FBI",
+      "North Korea",
+      "WaterPlum"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:15:05.000Z"
+  },
+  {
+    "id": "c9e0aca9bcfcc3d6",
+    "slug": "terra-luna-price-prediction-2026-2027-2030-how-high-will-luna-2-0-go-in-2026",
+    "title": "TERRA LUNA Price Prediction 2026, 2027 – 2030: How High Will LUNA 2.0 Go In 2026?",
+    "tags": [
+      "Terra LUNA",
+      "LUNA"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:14:00.000Z"
+  },
+  {
+    "id": "1665882850f28e68",
+    "slug": "aegis-trace-and-intersystems-team-to-strengthen-ai-decision-traceability-for-regulated-organisations",
+    "title": "Aegis Trace and InterSystems team to strengthen AI decision traceability for regulated organisations",
+    "tags": [],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-09-21T09:14:00.000Z"
+  },
+  {
+    "id": "fd99e129a8e76b05",
+    "slug": "bitcoin-shattered-80-000-after-a-148-billion-us-liquidity-shock-failed-to-break-markets",
+    "title": "Bitcoin shattered $80,000 after a $148 billion US liquidity shock failed to break markets",
+    "tags": [
+      "Bitcoin",
+      "Federal Reserve",
+      "United States"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:10:21.000Z"
+  },
+  {
+    "id": "3d207fd04235c85c",
+    "slug": "cardano-news-dreps-pogun-vote-opens-a-new-chapter-for-ada",
+    "title": "Cardano News: DReps’ Pogun Vote Opens a New Chapter for ADA",
+    "tags": [
+      "Cardano",
+      "ADA",
+      "IOG"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:10:00.000Z"
+  },
+  {
+    "id": "7171fac651508b2a",
+    "slug": "binance-deploys-25-new-stock-listings-as-rwa-platform-nears-754-million-milestone",
+    "title": "Binance Deploys 25 New Stock Listings as RWA Platform Nears $754 Million Milestone",
+    "tags": [
+      "Binance",
+      "Tesla",
+      "SK Hynix"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:04:15.000Z"
+  },
+  {
+    "id": "7d797e1b2b0386e8",
+    "slug": "ai-driven-cashback-to-mortgage-app-sprive-raises-10-million",
+    "title": "AI-driven cashback-to-mortgage app Sprive raises $10 million",
     "tags": [
       "Sprive"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-09-21T09:03:00.000Z",
-    "fetchedAt": "2026-09-21T09:01:27.603Z",
-    "isDuplicateOf": null,
-    "content": "Sprive, an AI-driven cashback-to-mortgage application, has successfully closed a $10 million Series A funding round. The UK-based platform helps homeowners manage and accelerate their mortgage payments using automated savings and cashback rewards. This new capital injection will allow the company to further develop its technology and expand its services to a broader audience.",
-    "content_ta": "AI-driven cashback-to-mortgage app ஆன Sprive, $10 மில்லியன் Series A நிதி திரட்டலை வெற்றிகரமாக நிறைவு செய்துள்ளது. ஹோம் ஓனர்கள் தங்கள் மார்ட்கேஜ் பேமெண்ட்டுகளை நிர்வகிக்கவும் துரிதப்படுத்தவும் இந்த பிளாட்ஃபார்ம் உதவுகிறது. இந்த புதிய நிதி மூலதனம் நிறுவனம் தனது தொழில்நுட்பத்தை மேலும் மேம்படுத்தவும், தனது சேவைகளை விரிவுபடுத்தவும் உதவும்.",
-    "slug": "ai-driven-cashback-to-mortgage-app-sprive-raises-10-million"
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:03:00.000Z"
   },
   {
     "id": "d0b4a3e9be5a9e93",
+    "slug": "news-views-podcast-the-dangerous-myth-that-technology-alone-can-fix-a-bank",
     "title": "News & Views Podcast: The Dangerous Myth That Technology Alone Can Fix a Bank",
-    "summary": "Gada ElKenani’s bridge, build, offload approach shows how distressed community banks can be rebuilt through regulatory discipline, phased capital deployment, and human-led technology rather than quick-fix cost cuts.\nThe post News & Views Podcast: The Dangerous Myth That Technology Alone Can Fix a Bank appeared first on The Fintech Times.",
-    "hasSummary": true,
-    "link": "https://thefintechtimes.com/news-views-podcast-the-dangerous-myth-that-technology-alone-can-fix-a-bank/",
-    "source": "The Fintech Times",
     "tags": [
       "Gada ElKenani",
       "The Fintech Times"
     ],
+    "source": "The Fintech Times",
     "origin": "rss",
-    "pubDate": "2026-09-21T09:00:02.000Z",
-    "fetchedAt": "2026-09-21T09:01:27.603Z",
-    "isDuplicateOf": null,
-    "content": "A recent podcast episode explores why technology alone cannot rescue a struggling bank. Gada ElKenani highlights a comprehensive approach focusing on regulatory discipline, phased capital deployment, and human-led strategies. This method emphasizes that distressed community banks require careful rebuilding rather than relying on quick-fix cost cuts or standalone technological solutions.",
-    "content_ta": "Gada ElKenani பங்கேற்ற சமீபத்திய பாட்காஸ்ட் அவுட்ஃபாஸ்ட், தொழில்நுட்பம் மட்டுமே ஒரு வங்கியின் வீழ்ச்சியைத் தடுக்க முடியாது என்பதை விளக்குகிறது. ஒழுங்குமுறை ஒழுக்கம், மூலதனப் பங்கீடு மற்றும் மனிதர்களால் இயக்கப்படும் உத்திகள் மூலம் மட்டுமே சிரமப்படும் சமூக வங்கிகளை மீட்க முடியும் என்பதை இந்த அணுகுமுறை வலியுறுத்துகிறது.",
-    "slug": "news-views-podcast-the-dangerous-myth-that-technology-alone-can-fix-a-bank"
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:00:02.000Z"
   },
   {
     "id": "1aa18e7d2d0ab869",
+    "slug": "tokenization-transforming-the-future-of-digital-payments",
     "title": "Tokenization: Transforming the future of digital payments",
-    "summary": "Tokenization can help merchants enable smarter, safer and more seamless digital payments—while positioning their business for what comes next.",
-    "hasSummary": true,
-    "link": "https://www.paymentsdive.com/spons/tokenization-transforming-the-future-of-digital-payments/830491/",
-    "source": "Payments Dive",
     "tags": [
       "Tokenization"
     ],
+    "source": "Payments Dive",
     "origin": "rss",
-    "pubDate": "2026-09-21T09:00:00.000Z",
-    "fetchedAt": "2026-09-21T09:01:27.603Z",
-    "isDuplicateOf": null,
-    "content": "Tokenization is rapidly transforming the future of digital payments by replacing sensitive card data with unique digital identifiers. This process helps merchants enable smarter, safer, and more seamless transactions for consumers. By adopting tokenization, businesses can enhance security against fraud while positioning themselves to adapt and thrive in the evolving landscape of modern digital commerce.",
-    "content_ta": "Tokenization-ஆனது டிஜிட்டல் பரிவர்த்தனைகளின் எதிர்காலத்தை வேகமாக மாற்றி வருகிறது. இது முக்கியமான கார்டு விவரங்களை தனித்துவமான டிஜிட்டல் குறியீடுகளாக மாற்றுகிறது. இந்த செயல்முறை வணிகர்கள் பாதுகாப்பான மற்றும் தடையற்ற பரிவர்த்தனைகளை வழங்க உதவுகிறது. இதன் மூலம் வணிகங்கள் மோசடிகளைத் தடுத்து, நவீன டிஜிட்டல் வர்த்தக சூழலில் தங்களை மேம்படுத்திக் கொள்ள முடியும்.",
-    "slug": "tokenization-transforming-the-future-of-digital-payments"
+    "hasContent": true,
+    "pubDate": "2026-09-21T09:00:00.000Z"
   },
   {
     "id": "faf1e185cc68eab5",
@@ -180,24 +610,18 @@
   },
   {
     "id": "035397dff89091b5",
+    "slug": "man-sues-chase-after-bank-freezes-account-over-12-000-zelle-transfer-report",
     "title": "Man Sues Chase After Bank Freezes Account Over $12,000 Zelle Transfer: Report",
-    "summary": "A Pennsylvania man sued JPMorgan Chase after the bank froze his account and withheld nearly $12,000 despite affidavits saying the Zelle transfers were authorized.\nThe post Man Sues Chase After Bank Freezes Account Over $12,000 Zelle Transfer: Report appeared first on The Daily Hodl.",
-    "hasSummary": true,
-    "link": "https://dailyhodl.com/2026/09/21/chase-allegedly-freezes-nearly-12000-after-friends-mistaken-zelle-dispute",
-    "source": "The Daily Hodl",
     "tags": [
       "JPMorgan Chase",
       "Zelle",
       "Pennsylvania",
       "United States"
     ],
+    "source": "The Daily Hodl",
     "origin": "rss",
-    "pubDate": "2026-09-21T08:15:55.000Z",
-    "fetchedAt": "2026-09-21T09:01:27.603Z",
-    "isDuplicateOf": null,
-    "content": "A Pennsylvania man has filed a lawsuit against JPMorgan Chase after the bank froze his account and withheld nearly $12,000. Despite the account holder providing affidavits confirming that his Zelle transfers were entirely authorized, the banking institution refused to release the funds. The incident highlights growing customer frustrations regarding frozen accounts and compliance procedures related to digital peer-to-peer payment platforms.",
-    "content_ta": "பென்சில்வேனியாவைச் சேர்ந்த ஒருவர் JPMorgan Chase வங்கி மீது வழக்கு தொடர்ந்துள்ளார். வங்கி தனது கணக்கை முடக்கி சுமார் 12,000 டாலர்களை நிறுத்தி வைத்துள்ளதாக அவர் குற்றம் சாட்டியுள்ளார். Zelle பரிமாற்றங்கள் அனைத்தும் முறையானவை என்று உறுதிப்படுத்தும் பிரமாணப் பத்திரங்களை வழங்கிய போதிலும், வங்கி அந்தத் தொகையை விடுவிக்க மறுத்துவிட்டது.",
-    "slug": "man-sues-chase-after-bank-freezes-account-over-12-000-zelle-transfer-report"
+    "hasContent": true,
+    "pubDate": "2026-09-21T08:15:55.000Z"
   },
   {
     "id": "ac5517ce485a5566",
@@ -381,448 +805,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-21T07:18:31.000Z"
-  },
-  {
-    "id": "6cadaa675cc382df",
-    "slug": "moderna-s-bob-langer-and-yann-lecun-join-cellular-intelligence-advisory-board-to-advance-ai-in",
-    "title": "Moderna’s Bob Langer and Yann LeCun join Cellular Intelligence advisory board to advance AI in medicine",
-    "tags": [
-      "Moderna",
-      "Cellular Intelligence",
-      "Bob Langer",
-      "Yann LeCun"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T07:12:11.000Z"
-  },
-  {
-    "id": "b629064b1c4ac982",
-    "slug": "stolen-debit-cards-used-in-10-000-000-polymarket-scheme-report",
-    "title": "Stolen Debit Cards Used in $10,000,000 Polymarket Scheme: Report",
-    "tags": [
-      "Polymarket"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T07:04:47.000Z"
-  },
-  {
-    "id": "778e6d51dbefc5ac",
-    "slug": "0g-expands-wrapped-token-to-ethereum-solana-base-and-robinhood-chain",
-    "title": "0G expands wrapped token to Ethereum, Solana, Base, and Robinhood Chain",
-    "tags": [
-      "0G",
-      "Ethereum",
-      "Solana",
-      "Base",
-      "Robinhood Chain"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T07:01:53.000Z"
-  },
-  {
-    "id": "15c208c99e78cb6e",
-    "slug": "sui-crypto-surges-14-why-traders-must-watch-1-05-closely",
-    "title": "Sui crypto surges 14% – Why traders must watch $1.05 closely",
-    "tags": [
-      "Sui"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T07:00:27.000Z"
-  },
-  {
-    "id": "6b5bf3adba109fb7",
-    "slug": "societe-generale-bets-on-ai-to-slash-costs-by-hundreds-of-millions-in-sweeping-2029-plan",
-    "title": "Societe Generale bets on AI to slash costs by hundreds of millions in sweeping 2029 plan",
-    "tags": [
-      "Societe Generale"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T06:48:48.000Z"
-  },
-  {
-    "id": "5353fe2c54ca45f8",
-    "slug": "uniswap-founder-reveals-sam-bankman-fried-paid-7-figures-for-uniswap-com-and-lost-it",
-    "title": "Uniswap Founder Reveals Sam-Bankman Fried Paid 7 Figures for Uniswap.com and Lost It",
-    "tags": [
-      "Uniswap",
-      "Sam Bankman-Fried",
-      "Hayden Adams"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T06:43:49.000Z"
-  },
-  {
-    "id": "c342361eaac2ae10",
-    "slug": "bank-of-korea-launches-24-hour-won-settlement-pilot-for-foreign-investors",
-    "title": "Bank of Korea launches 24-hour won settlement pilot for foreign investors",
-    "tags": [
-      "Bank of Korea",
-      "South Korea"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T06:41:23.000Z"
-  },
-  {
-    "id": "bdf1dd486a4c8d1f",
-    "slug": "pendle-adjusts-pt-looping-fees-to-reduce-costs-for-users",
-    "title": "Pendle adjusts PT Looping fees to reduce costs for users",
-    "tags": [
-      "Pendle"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T06:40:59.000Z"
-  },
-  {
-    "id": "82cde52469398796",
-    "slug": "what-is-sovereign-ai-inside-wall-street-s-next-big-ai-trade",
-    "title": "What Is Sovereign AI? Inside Wall Street's Next Big AI Trade",
-    "tags": [
-      "Nvidia",
-      "Palantir",
-      "Wall Street"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T06:40:44.000Z"
-  },
-  {
-    "id": "cb75c9d926b021da",
-    "slug": "bitwise-collaborates-with-lido-on-ethereum-validator-consolidation-in-landmark-cmv2-rollout",
-    "title": "Bitwise collaborates with Lido on Ethereum validator consolidation in landmark CMv2 rollout",
-    "tags": [
-      "Bitwise",
-      "Lido",
-      "Ethereum"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T06:36:46.000Z"
-  },
-  {
-    "id": "4a24203cd8b879c7",
-    "slug": "cl207-takes-4m-long-position-on-hyperliquid-boosting-market-confidence",
-    "title": "CL207 takes $4M long position on Hyperliquid, boosting market confidence",
-    "tags": [
-      "CL207",
-      "Hyperliquid"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T06:36:43.000Z"
-  },
-  {
-    "id": "83992505255e8fbc",
-    "slug": "3-events-that-could-shake-up-bitcoin-and-crypto-markets-this-week",
-    "title": "3 Events That Could Shake Up Bitcoin and Crypto Markets This Week",
-    "tags": [
-      "Bitcoin",
-      "Federal Reserve",
-      "Donald Trump",
-      "Xi Jinping"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T06:34:20.000Z"
-  },
-  {
-    "id": "eeb26c1e1c30a43f",
-    "slug": "hyperliquid-launches-manual-borrowing-with-hype-and-bitcoin-collateral",
-    "title": "Hyperliquid Launches Manual Borrowing With HYPE And Bitcoin Collateral",
-    "tags": [
-      "Hyperliquid",
-      "HYPE",
-      "Bitcoin"
-    ],
-    "source": "Bitcoinist",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T06:30:00.000Z"
-  },
-  {
-    "id": "1b46a4fc45cc2d6f",
-    "slug": "dan-ives-puts-tesla-spacex-merger-at-80-odds-will-it-become-the-world-s-biggest-company",
-    "title": "Dan Ives Puts Tesla-SpaceX Merger at 80% Odds: Will It Become the World's Biggest Company?",
-    "tags": [
-      "Tesla",
-      "SpaceX",
-      "Dan Ives"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T06:27:52.000Z"
-  },
-  {
-    "id": "6a9e4090ca1fecc8",
-    "slug": "kalshi-faces-fake-crypto-volume-allegations-as-critic-flags-identical-5-500-trades",
-    "title": "Kalshi faces ‘fake crypto volume’ allegations as critic flags identical $5,500 trades",
-    "tags": [
-      "Kalshi"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T06:20:47.000Z"
-  },
-  {
-    "id": "4a90210dbfccd97b",
-    "slug": "x-sues-bitcoin-influencers-over-alleged-207-384-creator-revenue-fraud",
-    "title": "X Sues Bitcoin Influencers Over Alleged £207,384 Creator Revenue Fraud",
-    "tags": [
-      "X",
-      "Bitcoin",
-      "Vivek Kumar Sen",
-      "Zamyang Sherpa",
-      "United Kingdom"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T06:20:31.000Z"
-  },
-  {
-    "id": "a8651507fb8a0f6b",
-    "slug": "is-the-trump-xi-summit-now-an-iran-summit-bitcoin-stocks-and-oil-are-trading-like-it",
-    "title": "Is the Trump-Xi Summit Now an Iran Summit? Bitcoin, Stocks and Oil Are Trading Like It",
-    "tags": [
-      "Bitcoin",
-      "United States",
-      "China",
-      "Iran"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T06:07:53.000Z"
-  },
-  {
-    "id": "806c99806888dd4f",
-    "slug": "mastercard-and-afs-launch-corporate-cards-in-uae-and-egypt",
-    "title": "Mastercard and AFS Launch Corporate Cards in UAE and Egypt",
-    "tags": [
-      "Mastercard",
-      "AFS",
-      "UAE",
-      "Egypt"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T05:29:31.000Z"
-  },
-  {
-    "id": "ecd97a41bcca76a9",
-    "slug": "bitcoin-reclaims-key-weekly-level-for-first-time-in-45-weeks",
-    "title": "Bitcoin Reclaims Key Weekly Level for First Time in 45 Weeks",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T05:29:18.000Z"
-  },
-  {
-    "id": "b8041c46a23b27b6",
-    "slug": "irgc-spokesman-claims-us-military-bases-near-iran-disabled-by-missile-and-drone-attacks",
-    "title": "IRGC spokesman claims US military bases near Iran disabled by missile and drone attacks",
-    "tags": [
-      "IRGC",
-      "United States",
-      "Iran"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T05:05:11.000Z"
-  },
-  {
-    "id": "58e0adc60eefe388",
-    "slug": "neutrl-opens-nusd-redemptions-as-on-chain-rate-sits-near-0-51",
-    "title": "Neutrl Opens NUSD Redemptions As On-Chain Rate Sits Near $0.51",
-    "tags": [
-      "Neutrl",
-      "NUSD"
-    ],
-    "source": "Bitcoinist",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T05:00:00.000Z"
-  },
-  {
-    "id": "1ef7108b382f0b7e",
-    "slug": "carlyle-s-22b-lukoil-deal-stalls-as-us-approval-drags-on-for-nearly-10-months-leaving-european",
-    "title": "Carlyle’s $22B Lukoil deal stalls as US approval drags on for nearly 10 months, leaving European refineries idle",
-    "tags": [
-      "Carlyle",
-      "Lukoil",
-      "United States",
-      "Europe"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T04:44:24.000Z"
-  },
-  {
-    "id": "85ee376f7c1ed6e7",
-    "slug": "saudi-arabia-s-oil-exports-recover-to-4m-bpd-in-september-after-hitting-decade-low",
-    "title": "Saudi Arabia’s oil exports recover to 4M bpd in September after hitting decade low",
-    "tags": [
-      "Saudi Arabia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T04:43:23.000Z"
-  },
-  {
-    "id": "2cb538444fa908e5",
-    "slug": "latvian-fintech-platforms-draw-800-000-investors-13bn-in-investments",
-    "title": "Latvian Fintech Platforms Draw 800,000 investors, €13bn in Investments",
-    "tags": [
-      "Latvia",
-      "Germany",
-      "Berlin"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T04:41:24.000Z"
-  },
-  {
-    "id": "a0db6fb2506d62a7",
-    "slug": "ant-international-says-merchants-using-ai-for-payment-integration-quadrupled",
-    "title": "Ant International Says Merchants Using AI for Payment Integration Quadrupled",
-    "tags": [
-      "Ant International"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T04:40:35.000Z"
-  },
-  {
-    "id": "9b631a04f2fc474f",
-    "slug": "ukraine-is-approaching-what-intelligence-says-will-be-the-most-critical-moment-of-the-war-with",
-    "title": "Ukraine is approaching what intelligence says will be the most critical moment of the war with Russia",
-    "tags": [
-      "Ukraine",
-      "Russia",
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T04:37:27.000Z"
-  },
-  {
-    "id": "aaf5091c6e7155ab",
-    "slug": "t-rowe-price-fund-increases-investments-in-greater-china-ai-supply-chain",
-    "title": "T. Rowe Price fund increases investments in Greater China AI supply chain",
-    "tags": [
-      "T. Rowe Price",
-      "Greater China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T04:34:11.000Z"
-  },
-  {
-    "id": "aafc03dbc0e7069c",
-    "slug": "apple-and-google-are-hiring-stablecoin-experts-as-big-tech-eyes-crypto-payments",
-    "title": "Apple and Google are hiring stablecoin experts as Big Tech eyes crypto payments",
-    "tags": [
-      "Apple",
-      "Google"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T04:33:35.000Z"
-  },
-  {
-    "id": "d3e6a3ef164e3997",
-    "slug": "bitcoin-reclaims-50-week-moving-average-as-analysts-eye-end-of-bear-market",
-    "title": "Bitcoin reclaims 50-week moving average as analysts eye end of bear market",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T04:29:59.000Z"
-  },
-  {
-    "id": "121ad59fdb37f718",
-    "slug": "korea-investment-corp-seeks-to-offload-over-1b-in-private-equity-stakes",
-    "title": "Korea Investment Corp. seeks to offload over $1B in private equity stakes",
-    "tags": [
-      "Korea Investment Corp."
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T04:29:25.000Z"
-  },
-  {
-    "id": "7b78a22c45007e80",
-    "slug": "hana-bank-taps-euroclear-blockchain-for-100m-bond-issuance-report",
-    "title": "Hana Bank taps Euroclear blockchain for $100M bond issuance: Report",
-    "tags": [
-      "Hana Bank",
-      "Euroclear"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T04:27:32.000Z"
-  },
-  {
-    "id": "77493e3cfc0d2fdc",
-    "slug": "ethereum-near-protocol-or-remittix-why-this-payfi-challenger-could-be-the-best-crypto-to-buy-now",
-    "title": "Ethereum, Near Protocol or Remittix: Why This PayFi Challenger Could Be the Best Crypto to Buy Now Before Launch",
-    "tags": [
-      "Ethereum",
-      "Near Protocol",
-      "Remittix"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T04:23:49.000Z"
-  },
-  {
-    "id": "8db59bc95682793d",
-    "slug": "federal-reserve-s-hiking-cycle-raises-concerns-for-ai-financing-as-sector-carries-320-billion-in",
-    "title": "Federal Reserve’s hiking cycle raises concerns for AI financing as sector carries $320 billion in debt",
-    "tags": [
-      "Federal Reserve"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T04:19:07.000Z"
   }
 ]
