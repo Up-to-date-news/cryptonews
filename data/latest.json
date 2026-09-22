@@ -1,157 +1,473 @@
 [
   {
-    "id": "51be0995480c1d8a",
-    "title": "Ethereum just had the best Q3 since 2016 – ‘ETH is ready to explode!’",
-    "summary": "Can ETH flip $2,500 to a strong support level, or will bears once again turn it into the strongest resistance level to date?",
-    "hasSummary": true,
-    "link": "https://ambcrypto.com/ethereum-just-had-the-best-q3-since-2016-eth-is-ready-to-explode/",
+    "id": "ebf0eac001541444",
+    "slug": "onchain-prediction-market-trueo-migrates-to-ethereum-vitalik-buterin-welcomes-ethical-market",
+    "title": "Onchain prediction market Trueo migrates to Ethereum; Vitalik Buterin welcomes ‘ethical’ market contender",
+    "tags": [
+      "Trueo",
+      "Ethereum",
+      "Vitalik Buterin"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-22T06:01:24.000Z"
+  },
+  {
+    "id": "0dc11380d9cd55c7",
+    "slug": "inside-strategy-s-latest-purchase-and-how-10b-in-losses-turned-to-8b-in-profits",
+    "title": "Inside Strategy’s latest purchase and how $10B in losses turned to $8B in profits!",
+    "tags": [
+      "Strategy"
+    ],
     "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-22T06:00:43.000Z"
+  },
+  {
+    "id": "f71272c812ac364a",
+    "title": "Broadridge Extends Proxy Voting to xStocks Tokenised Equity Holders",
+    "summary": "Broadridge's governance platform will let eligible xStocks holders submit proxy votes for underlying shares, bridging tokenised and traditional shareholder rights.\nThe post Broadridge Extends Proxy Voting to xStocks Tokenised Equity Holders appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/broadridge-extends-proxy-voting-to-xstocks-tokenised-equity-holders/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Broadridge",
+      "xStocks"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-22T06:00:11.000Z",
+    "fetchedAt": "2026-09-22T06:02:02.662Z",
+    "isDuplicateOf": null,
+    "content": "Broadridge has integrated proxy voting into its governance platform for eligible xStocks tokenised equity holders. This development allows investors in tokenised shares to submit proxy votes for underlying company assets. By connecting tokenised assets with traditional financial systems, the initiative helps bridge the gap between digital token ownership and conventional shareholder voting rights.",
+    "content_ta": "Broadridge நிறுவனம் தங்களது governance platform-ல் xStocks tokenised equity holders-க்காக proxy voting வசதியை அறிமுகப்படுத்தியுள்ளது. இதன் மூலம் tokenised shares வைத்திருப்பவர்கள் underlying shares-க்கு proxy votes சமர்ப்பிக்க முடியும். இந்த நடவடிக்கை digital token ownership மற்றும் conventional shareholder rights ஆகியவற்றுக்கு இடையேயான இடைவெளியைக் குறைக்க உதவுகிறது.",
+    "slug": "broadridge-extends-proxy-voting-to-xstocks-tokenised-equity-holders"
+  },
+  {
+    "id": "ad1861966d1bfe70",
+    "slug": "lithuania-ready-to-respond-to-potential-russian-aggression-pm-says",
+    "title": "Lithuania ready to respond to potential Russian aggression, PM says",
+    "tags": [
+      "Lithuania",
+      "Russia",
+      "NATO"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-22T05:58:14.000Z"
+  },
+  {
+    "id": "9a2e9df8886b5e3f",
+    "slug": "rangers-fc-star-olwethu-makhanya-poised-to-break-transfer-fee-record",
+    "title": "Rangers FC star Olwethu Makhanya poised to break transfer fee record",
+    "tags": [
+      "Rangers FC",
+      "Olwethu Makhanya"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-22T05:35:08.000Z"
+  },
+  {
+    "id": "a9bbf7f420d8f363",
+    "slug": "hayden-adams-claims-sbf-bought-uniswap-com-to-flex-on-the-company",
+    "title": "Hayden Adams Claims SBF Bought Uniswap.com to ‘Flex’ on the Company",
+    "tags": [
+      "Hayden Adams",
+      "Sam Bankman-Fried",
+      "Uniswap",
+      "WIPO"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-22T05:34:28.000Z"
+  },
+  {
+    "id": "874eaedde8288222",
+    "slug": "australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto",
+    "title": "Australian 40-year economic outlook recognizes ‘AI revolution,’ omits crypto",
+    "tags": [
+      "Australia",
+      "Coinbase",
+      "Treasury"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-22T05:29:31.000Z"
+  },
+  {
+    "id": "39650b1982e381fc",
+    "title": "Apeing’s $102K+ Presale Raise Puts the Best Crypto Presales in Focus as Ethereum Climbs and BNB’s RWA Growth Tops $3.6B",
+    "summary": "The post Apeing’s $102K+ Presale Raise Puts the Best Crypto Presales in Focus as Ethereum Climbs and BNB’s RWA Growth Tops $3.6B  appeared first on Coinpedia Fintech News\nWhy did the crypto market bring a calculator to a meme fight? BNB is climbing toward fresh territory, Ethereum is pushing higher, and tokenized real-world assets are becoming one of the biggest narratives in crypto. Recent ETH news and Ethereum developments are putting renewed attention on blockchain infrastructure, while BNB Chain’s RWA expansion adds another …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/press-release/apeings-102k-presale-raise-puts-the-best-crypto-presales-in-focus/",
+    "source": "Coinpedia",
+    "tags": [
+      "Apeing",
+      "Ethereum",
+      "BNB"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-22T05:14:30.000Z",
+    "fetchedAt": "2026-09-22T06:02:02.662Z",
+    "isDuplicateOf": null,
+    "content": "Apeing has raised over $102,000 in its ongoing presale, drawing attention to top crypto presales. Meanwhile, Ethereum is climbing higher, and BNB Chain's real-world asset growth has surpassed $3.6 billion. These developments highlight a growing focus on strong blockchain infrastructure and expanding tokenized real-world assets across the broader cryptocurrency market.",
+    "content_ta": "Apeing தனது நடப்பு presale-ல் $102,000-க்கும் அதிகமான தொகையை திரட்டி கவனம் ஈர்த்துள்ளது. இதற்கிடையில், Ethereum விலை உயர்ந்து வருகிறது, மேலும் BNB சங்கிலியின் உண்மையான உலக சொத்து (RWA) வளர்ச்சி $3.6 பில்லியனைத் தாண்டியுள்ளது. இந்த வளர்ச்சிகள் வலுவான பிளாக்செயின் உள்கட்டமைப்பு மற்றும் டோக்கன் செய்யப்பட்ட சொத்துக்களில் முதலீட்டாளர்களின் ஆர்வத்தை அதிகரித்துள்ளன.",
+    "slug": "apeing-s-102k-presale-raise-puts-the-best-crypto-presales-in-focus-as-ethereum-climbs-and-bnb-s-rwa"
+  },
+  {
+    "id": "9953613aa0ae6cb6",
+    "slug": "silicon-data-ceo-carmen-li-wants-to-turn-gpu-prices-into-a-futures-market",
+    "title": "Silicon Data CEO Carmen Li wants to turn GPU prices into a futures market",
+    "tags": [
+      "Silicon Data",
+      "Carmen Li"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-22T05:04:53.000Z"
+  },
+  {
+    "id": "9c86cc889d77b629",
+    "slug": "ai-driven-growth-sustains-investor-risk-appetite-in-2026-citic-clsa",
+    "title": "AI-driven growth sustains investor risk appetite in 2026: CITIC CLSA",
+    "tags": [
+      "CITIC CLSA"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-22T05:01:54.000Z"
+  },
+  {
+    "id": "ce8d52fc8719c43b",
+    "slug": "sei-surges-25-as-canary-s-90-staking-plan-tightens-supply-can-the-rally-hold",
+    "title": "SEI surges 25% as Canary’s 90% staking plan tightens supply – Can the rally hold?",
+    "tags": [
+      "SEI",
+      "Canary"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-22T05:00:50.000Z"
+  },
+  {
+    "id": "c26836022f9a2590",
+    "slug": "armenia-emerges-as-a-top-hub-for-us-ai-infrastructure",
+    "title": "Armenia emerges as a top hub for US AI infrastructure",
+    "tags": [
+      "Armenia",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-22T04:44:49.000Z"
+  },
+  {
+    "id": "abb882cacbcd8c43",
+    "slug": "dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-85-000",
+    "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
+    "tags": [
+      "Dogecoin",
+      "Bitcoin",
+      "ZEC"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-22T04:33:11.000Z"
+  },
+  {
+    "id": "73c859eab3d91f98",
+    "slug": "shredpay-joins-jack-henry-network-to-bring-stablecoin-infrastructure-to-banks",
+    "title": "ShredPay Joins Jack Henry Network To Bring Stablecoin Infrastructure To Banks",
+    "tags": [
+      "ShredPay",
+      "Jack Henry"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-22T04:30:00.000Z"
+  },
+  {
+    "id": "c30278051488c56f",
+    "slug": "meta-jumps-11-as-muse-shines-and-investors-show-an-appetite-for-advancing-ai",
+    "title": "Meta Jumps 11% As Muse Shines and Investors Show an Appetite for Advancing AI",
+    "tags": [
+      "Meta",
+      "Wells Fargo"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-22T04:30:00.000Z"
+  },
+  {
+    "id": "d0c80474f3c45dd2",
+    "slug": "cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
+    "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
+    "tags": [
+      "Cardano",
+      "Solana",
+      "XRP Ledger",
+      "ADA"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-22T04:15:45.000Z"
+  },
+  {
+    "id": "4e1f9cabda836440",
+    "title": "Paymob Secures $35 Million Pre-Series C Co-Led by Mubadala and EBRD to Accelerate MENA Expansion",
+    "summary": "Paymob has raised $35 million in Pre-Series C funding, co-led by Mubadala and EBRD, to scale SME products across MENA and advance its agentic commerce roadmap.\nThe post Paymob Secures $35 Million Pre-Series C Co-Led by Mubadala and EBRD to Accelerate MENA Expansion appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/paymob-secures-35-million-pre-series-c-co-led-by-mubadala-and-ebrd-to-accelerate-mena-expansion/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Paymob",
+      "Mubadala",
+      "EBRD",
+      "MENA"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-22T04:09:28.000Z",
+    "fetchedAt": "2026-09-22T06:02:02.662Z",
+    "isDuplicateOf": null,
+    "content": "Paymob has raised $35 million in a Pre-Series C funding round co-led by Mubadala and EBRD. The fresh capital will be used to scale the company's small and medium-sized enterprise products across the MENA region and to advance its agentic commerce roadmap, supporting its ongoing regional growth and expansion strategy in the financial technology sector.",
+    "content_ta": "Paymob நிறுவனம் Mubadala மற்றும் EBRD ஆகியவற்றின் கூட்டுத் தலைமையில் Pre-Series C சுற்றில் $35 மில்லியன் நிதியை திரட்டியுள்ளது. இந்த புதிய முதலீடு MENA பிராந்தியத்தில் SME தயாரிப்புகளை விரிவுபடுத்துவதற்கும், அதன் வர்த்தக திட்டங்களை மேம்படுத்துவதற்கும் பயன்படுத்தப்படவுள்ளது.",
+    "slug": "paymob-secures-35-million-pre-series-c-co-led-by-mubadala-and-ebrd-to-accelerate-mena-expansion"
+  },
+  {
+    "id": "7affa2294106e469",
+    "slug": "ethereum-investors-are-pulling-eth-off-binance-at-a-pace-not-seen-in-3-years",
+    "title": "Ethereum Investors Are Pulling ETH Off Binance at a Pace Not Seen in 3 Years",
+    "tags": [
+      "Ethereum",
+      "Binance",
+      "Bitcoin"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-22T04:05:43.000Z"
+  },
+  {
+    "id": "df97806c5e72d8a4",
+    "slug": "us-bans-iranian-airlines-starting-sept-23-amid-regional-tensions",
+    "title": "US bans Iranian airlines starting Sept. 23 amid regional tensions",
+    "tags": [
+      "United States",
+      "Iran"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-22T04:04:33.000Z"
+  },
+  {
+    "id": "be3928fe934d19c1",
+    "title": "Alibaba plans AI model with 5-10 trillion parameters, unveils Zhenwu V900 chip",
+    "summary": "Alibaba's ambitious AI and chip advancements could significantly bolster China's tech independence amid global trade tensions.\nThe post Alibaba plans AI model with 5-10 trillion parameters, unveils Zhenwu V900 chip appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/alibaba-ai-model-zhenwu-v900-chip/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Alibaba",
+      "China"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-22T04:03:26.000Z",
+    "fetchedAt": "2026-09-22T06:02:02.662Z",
+    "isDuplicateOf": null,
+    "content": "Alibaba has announced plans to develop a massive artificial intelligence model featuring five to ten trillion parameters. Alongside this ambitious AI initiative, the company also unveiled its new Zhenwu V900 chip. These significant technological advancements highlight Alibaba's ongoing efforts to expand its capabilities in artificial intelligence and hardware development.",
+    "content_ta": "Alibaba நிறுவனம் 5 முதல் 10 டிரில்லியன் அளவுருக்கள் கொண்ட ஒரு பெரிய செயற்கை நுண்ணறிவு (AI) மாதிரியை உருவாக்க திட்டமிட்டுள்ளதாக அறிவித்துள்ளது. இந்த லட்சிய AI திட்டத்துடன், நிறுவனம் தனது புதிய Zhenwu V900 சிப்பையும் வெளியிட்டுள்ளது. இந்த தொழில்நுட்ப முன்னேற்றங்கள் Alibaba-வின் AI மற்றும் வன்பொருள் மேம்பாட்டு முயற்சிகளை வெளிப்படுத்துகின்றன.",
+    "slug": "alibaba-plans-ai-model-with-5-10-trillion-parameters-unveils-zhenwu-v900-chip"
+  },
+  {
+    "id": "b7acebc260d4f706",
+    "slug": "trueo-prediction-market-moves-from-base-to-ethereum",
+    "title": "Trueo prediction market moves from Base to Ethereum",
+    "tags": [
+      "Trueo",
+      "Base",
+      "Ethereum"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-22T04:03:00.000Z"
+  },
+  {
+    "id": "adeaa7ee5ca93069",
+    "slug": "circle-launches-bitcoin-backed-usdc-borrowing-leaving-liquidation-risk-with-morpho-protocol",
+    "title": "Circle launches Bitcoin-backed USDC borrowing, leaving liquidation risk with Morpho protocol",
+    "tags": [
+      "Circle",
+      "Bitcoin",
+      "USDC",
+      "Morpho"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-22T03:40:51.000Z"
+  },
+  {
+    "id": "559f55438b09997f",
+    "slug": "coinbase-opens-ipo-allocations-to-us-retail-traders-starting-with-oura",
+    "title": "Coinbase Opens IPO Allocations To US Retail Traders Starting With Oura",
+    "tags": [
+      "Coinbase",
+      "Oura",
+      "United States"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-22T03:30:00.000Z"
+  },
+  {
+    "id": "a13b95d3eade502e",
+    "slug": "arthur-hayes-says-us-insurers-are-insolvent-over-ai-debt-what-if-he-s-right",
+    "title": "Arthur Hayes Says US Insurers Are Insolvent Over AI Debt: What if He's Right?",
+    "tags": [
+      "Arthur Hayes",
+      "Bitcoin",
+      "United States"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-22T03:20:00.000Z"
+  },
+  {
+    "id": "9e5fe013a1068c77",
+    "slug": "governor-abbott-freezes-texas-data-center-permits-as-trump-pushes-ai-buildout",
+    "title": "Governor Abbott Freezes Texas Data Center Permits as Trump Pushes AI Buildout",
+    "tags": [
+      "Texas",
+      "Greg Abbott"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-22T03:12:19.000Z"
+  },
+  {
+    "id": "51be0995480c1d8a",
+    "slug": "ethereum-just-had-the-best-q3-since-2016-eth-is-ready-to-explode",
+    "title": "Ethereum just had the best Q3 since 2016 – ‘ETH is ready to explode!’",
     "tags": [
       "Ethereum"
     ],
+    "source": "AMBCrypto",
     "origin": "rss",
-    "pubDate": "2026-09-22T03:00:54.000Z",
-    "fetchedAt": "2026-09-22T03:01:28.991Z",
-    "isDuplicateOf": null,
-    "content": "Ethereum recently completed its strongest third quarter since 2016, sparking bullish sentiment and speculation that ETH is poised for significant growth. Analysts are closely watching whether ETH can successfully convert the $2,500 price level into a reliable support zone, or if bearish pressure will reestablish it as a formidable resistance barrier.",
-    "content_ta": "Ethereum சமீபத்தில் 2016-க்குப் பிறகு தனது வலுவான மூன்றாவது காலாண்டை நிறைவு செய்துள்ளது, இது ETH குறிப்பிடத்தக்க வளர்ச்சியை நோக்கி தயாராக இருப்பதாக சாதகமான கணிப்புகளைத் தூண்டியுள்ளது. ETH ஆனது $2,500 விலை நிலθை நம்பகமான ஆதரவு மண்டலமாக வெற்றிகரமாக மாற்ற முடியுமா அல்லது கரடிகளின் அழுத்தம் அதனை மீண்டும் ஒரு வலுவான தடைச் சுவராக மாற்றுமா என்பதை ஆய்வாளர்கள் தீவிரமாக கண்காணித்து வருகின்றனர்.",
-    "slug": "ethereum-just-had-the-best-q3-since-2016-eth-is-ready-to-explode"
+    "hasContent": true,
+    "pubDate": "2026-09-22T03:00:54.000Z"
   },
   {
     "id": "3f79d87892a1edcf",
+    "slug": "animoca-brands-suspends-merger-deal-that-would-have-taken-it-public",
     "title": "Animoca Brands suspends merger deal that would have taken it public",
-    "summary": "Animoca Chairman Yat Siu says that the 'corporate agility must take precedence' over pursuing the Currenc merger.",
-    "hasSummary": true,
-    "link": "https://www.theblock.co/news/business/2026-09-21-animoca-brands-suspends-merger-deal-415991",
-    "source": "The Block",
     "tags": [
       "Animoca Brands",
       "Yat Siu",
       "Currenc"
     ],
+    "source": "The Block",
     "origin": "rss",
-    "pubDate": "2026-09-22T02:46:02.000Z",
-    "fetchedAt": "2026-09-22T03:01:28.990Z",
-    "isDuplicateOf": null,
-    "content": "Animoca Brands has officially suspended a merger deal that would have allowed the company to go public. Chairman Yat Siu stated that maintaining corporate agility is currently more important than pursuing the planned transaction with Currenc, halting the public listing process for now.",
-    "content_ta": "Animoca Brands நிறுவனம் தனது பப்ளிக் நிறுவனமாகும் திட்டத்தை நிறுத்தி வைத்துள்ளது. Currenc நிறுவனத்துடனான இணைப்பை விட கார்ப்பரேட் சுறுசுறுப்பு மற்றும் நெகிழ்வுத்தன்மை தற்போது மிகவும் முக்கியமானது என்று சேர்மன் Yat Siu தெரிவித்துள்ளார்.",
-    "slug": "animoca-brands-suspends-merger-deal-that-would-have-taken-it-public"
+    "hasContent": true,
+    "pubDate": "2026-09-22T02:46:02.000Z"
   },
   {
     "id": "cf2b44f5c4ba8919",
+    "slug": "how-tim-cook-set-up-apple-stock-s-next-growth-era-explains-jim-cramer",
     "title": "How Tim Cook Set Up Apple Stock's Next Growth Era, Explains Jim Cramer",
-    "summary": "Jim Cramer explains how Tim Cook's capital strategy and AI positioning set up Apple stock for its next growth phase.\nThe post How Tim Cook Set Up Apple Stock's Next Growth Era, Explains Jim Cramer appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/tim-cook-apple-stock-growth-cramer/",
-    "source": "BeInCrypto",
     "tags": [
       "Apple",
       "Tim Cook",
       "Jim Cramer"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-09-22T02:35:28.000Z",
-    "fetchedAt": "2026-09-22T03:01:28.991Z",
-    "isDuplicateOf": null,
-    "content": "Jim Cramer recently discussed how Apple CEO Tim Cook has positioned the tech giant for its next major growth era. According to Cramer, thoughtful capital management strategies and strategic developments in artificial intelligence are key factors driving the future potential of Apple stock, setting the stage for sustained long-term market success.",
-    "content_ta": "Apple நிறுவனத்தின் அடுத்த வளர்ச்சி சகாப்தத்தை CEO Tim Cook எவ்வாறு கட்டமைத்துள்ளார் என்பது குறித்து Jim Cramer விளக்கியுள்ளார். Apple பங்குகளின் எதிர்கால வளர்ச்சியை மேம்படுத்துவதில் மூலதன உத்திகள் மற்றும் செயற்கை நுண்ணறிவு துறையின் பங்களிப்பு முக்கியமானது என்று அவர் குறிப்பிட்டுள்ளார்.",
-    "slug": "how-tim-cook-set-up-apple-stock-s-next-growth-era-explains-jim-cramer"
+    "hasContent": true,
+    "pubDate": "2026-09-22T02:35:28.000Z"
   },
   {
     "id": "22193600e45f6b5f",
+    "slug": "tesla-registers-local-entity-in-vietnam-eyes-ev-market-entry",
     "title": "Tesla registers local entity in Vietnam, eyes EV market entry",
-    "summary": "Tesla's entry into Vietnam's EV market could intensify competition, challenging VinFast's dominance and potentially reshaping regional dynamics.\nThe post Tesla registers local entity in Vietnam, eyes EV market entry appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/tesla-registers-entity-vietnam-ev-market/",
-    "source": "CryptoBriefing",
     "tags": [
       "Tesla",
       "Vietnam",
       "VinFast"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-22T02:35:02.000Z",
-    "fetchedAt": "2026-09-22T03:01:28.991Z",
-    "isDuplicateOf": null,
-    "content": "Tesla has registered a local entity in Vietnam, marking a significant step toward entering the country's growing electric vehicle market. This move could increase competition in the region and challenge local market leader VinFast, potentially reshaping the competitive landscape for electric vehicles in Southeast Asia as major manufacturers expand their global footprint.",
-    "content_ta": "Vietnam-ல் Tesla ஒரு உள்ளூர் நிறுவனத்தை பதிவு செய்துள்ளது, இது நாட்டின் வளர்ந்து வரும் எலக்ட்ரிக் வாகன சந்தையில் நுழைவதற்கான ஒரு முக்கியமான படியைக் குறிக்கிறது. இந்த நடவடிக்கை அப்பகுதியில் போட்டியை அதிகரிக்கக்கூடும் மற்றும் உள்ளூர் சந்தை தலைவரான VinFast-க்கு சவால் விடும், இது தென்கிழக்கு ஆசியாவில் மின்சார வாகனங்களின் போட்டி நிலப்பரப்பை மாற்றக்கூடும்.",
-    "slug": "tesla-registers-local-entity-in-vietnam-eyes-ev-market-entry"
+    "hasContent": true,
+    "pubDate": "2026-09-22T02:35:02.000Z"
   },
   {
     "id": "0d8aa59d654b06f1",
+    "slug": "alibaba-rolls-out-china-s-most-powerful-ai-chip-to-boost-data-centers",
     "title": "Alibaba rolls out China’s most powerful AI chip to boost data centers",
-    "summary": "Alibaba's AI chip development could reshape global tech dynamics, enhancing China's self-reliance and challenging US tech dominance.\nThe post Alibaba rolls out China’s most powerful AI chip to boost data centers appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/alibaba-zhenwu-m890-ai-chip-launch/",
-    "source": "CryptoBriefing",
     "tags": [
       "Alibaba",
       "China",
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-22T02:34:22.000Z",
-    "fetchedAt": "2026-09-22T03:01:28.991Z",
-    "isDuplicateOf": null,
-    "content": "Alibaba has introduced its most powerful artificial intelligence chip to date, designed to enhance data center capabilities. This major development highlights China's growing self-reliance in advanced technology and could potentially challenge United States dominance in the global tech sector, marking a significant step forward in the region's semiconductor capabilities.",
-    "content_ta": "டேட்டா சென்டர் திறன்களை மேம்படுத்தும் வகையில் தனது மிகவும் சக்திவாய்ந்த AI சிப்பை Alibaba வெளியிட்டுள்ளது. இந்த முக்கிய முன்னேற்றமானது மேம்பட்ட தொழில்நுட்பத்தில் சீனாவின் வளர்ந்து வரும் சுயச்சார்பை எடுத்துக்காட்டுவதுடன், உலகளாவிய தொழில்நுட்பத் துறையில் United States-ன் ஆதிக்கத்திற்கு சவால் விடும் வகையில் அமைந்துள்ளது.",
-    "slug": "alibaba-rolls-out-china-s-most-powerful-ai-chip-to-boost-data-centers"
+    "hasContent": true,
+    "pubDate": "2026-09-22T02:34:22.000Z"
   },
   {
     "id": "cf546bb77a379fb3",
+    "slug": "elon-musk-said-grok-4-7-would-exceed-every-model-did-it-deliver",
     "title": "Elon Musk Said Grok 4.7 Would Exceed Every Model. Did It Deliver?",
-    "summary": "SpaceXAI shipped Grok 4.7, and independent scores place it fourth among frontier AI labs.  Artificial Analysis, an independent benchmarking firm, scored the model at 46 on its Intelligence Index, 2 points above Grok 4.6. Claude Fable 5.1, GPT-6 Astra, and Claude Opus 5 all rank higher. Grok 4.7 Pushes SpaceXAI Into the Top Four AI\nThe post Elon Musk Said Grok 4.7 Would Exceed Every Model. Did It Deliver? appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/grok-4-7-spacexai-benchmark-ranking/",
-    "source": "BeInCrypto",
     "tags": [
       "SpaceXAI",
       "Elon Musk",
       "Artificial Analysis"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-09-22T02:23:00.000Z",
-    "fetchedAt": "2026-09-22T03:01:28.991Z",
-    "isDuplicateOf": null,
-    "content": "SpaceXAI recently released Grok 4.7, which independent benchmarking firm Artificial Analysis scored at 46 on its Intelligence Index. While Elon Musk predicted the new model would exceed every other model, independent scores place it fourth among frontier AI labs. Competing models from other major labs currently rank higher on the index, putting Grok 4.7 in the top four.",
-    "content_ta": "SpaceXAI நிறுவனம் சமீபத்தில் Grok 4.7-ஐ வெளியிட்டது. இதன் Intelligence Index மதிப்பெண்ணை ஆராய்ந்த சுயாதீன நிறுவனமான Artificial Analysis, இதற்கு 46 மதிப்பெண் வழங்கி உள்ளது. இந்த புதிய மாடல் மற்ற அனைத்து மாடல்களையும் தாண்டிச் செல்லும் என்று Elon Musk முன்னறிவித்திருந்தாலும், சுயாதீன மதிப்பீடுகளின்படி இது முன்னணி AI நிறுவனங்களில் நான்காவது இடத்தையே பிடித்துள்ளது.",
-    "slug": "elon-musk-said-grok-4-7-would-exceed-every-model-did-it-deliver"
+    "hasContent": true,
+    "pubDate": "2026-09-22T02:23:00.000Z"
   },
   {
     "id": "611c76dd3ee78a45",
+    "slug": "bitcoin-rises-trader-0xc3ed-liquidated-four-times-in-14-hours-and-loses-32-5m-in-shorts",
     "title": "Bitcoin rises, trader 0xc3ed liquidated four times in 14 hours and loses $32.5M in shorts",
-    "summary": "Leveraged trading's volatility underscores the precarious balance between skill and risk, highlighting the potential for significant financial loss.\nThe post Bitcoin rises, trader 0xc3ed liquidated four times in 14 hours and loses $32.5M in shorts appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/bitcoin-rises-trader-0xc3ed-liquidated-four-times/",
-    "source": "CryptoBriefing",
     "tags": [
       "Bitcoin"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-22T02:20:34.000Z",
-    "fetchedAt": "2026-09-22T03:01:28.991Z",
-    "isDuplicateOf": null,
-    "content": "A prominent crypto trader faced massive losses after Bitcoin prices rose. The trader, identified as 0xc3ed, suffered four liquidations within a 14-hour period. These failed short positions resulted in a total financial loss of 32.5 million dollars, highlighting the extreme volatility and high risks associated with leveraged trading in the digital asset market.",
-    "content_ta": "Bitcoin விலை உயர்ந்ததால் ஒரு முக்கிய crypto trader பெருத்த நஷ்டத்தை சந்தித்தனர். 0xc3ed என அடையாளம் காணப்பட்ட இந்த வர்த்தகர், 14 மணி நேரத்திற்குள் நான்கு முறை liquidated செய்யப்பட்டார். இந்தத் தோல்வியுற்ற short நிலைகள் மூலம் மொத்தம் 32.5 மில்லியன் டாலர் நிதி இழப்பு ஏற்பட்டுள்ளது, இது டிஜிட்டல் சொத்து சந்தையில் leverage வர்த்தகத்துடன் தொடர்புடைய தீவிர கொந்தளிப்பையும் அதிக ஆபத்துகளையும் காட்டுகிறது.",
-    "slug": "bitcoin-rises-trader-0xc3ed-liquidated-four-times-in-14-hours-and-loses-32-5m-in-shorts"
+    "hasContent": true,
+    "pubDate": "2026-09-22T02:20:34.000Z"
   },
   {
     "id": "d78cc8f2e1605ac3",
+    "slug": "republican-senators-complicate-clarity-act-with-stablecoin-yield-support",
     "title": "Republican senators complicate Clarity Act with stablecoin yield support",
-    "summary": "The legislative gridlock over stablecoin yields underscores the broader challenge of achieving consensus on U.S. crypto regulation.\nThe post Republican senators complicate Clarity Act with stablecoin yield support appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/republican-senators-complicate-clarity-act-with-stablecoin-yield-support/",
-    "source": "CryptoBriefing",
     "tags": [
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-22T02:11:07.000Z",
-    "fetchedAt": "2026-09-22T03:01:28.991Z",
-    "isDuplicateOf": null,
-    "content": "Republican senators are complicating discussions around the Clarity Act by supporting stablecoin yields. This disagreement over how to handle yields on stablecoins highlights the ongoing legislative gridlock and the broader challenges lawmakers face in reaching a consensus on cryptocurrency regulation within the United States.",
-    "content_ta": "Republican senators-கள் stablecoin yield-களுக்கு ஆதரவு அளிப்பதன் மூலம் Clarity Act தொடர்பான விவாதங்களைச் சிக்கலாக்கியுள்ளனர். stablecoin yield-களை எவ்வாறு கையாள்வது என்பது குறித்த இந்த கருத்து வேறுபாடு, அமெரிக்காவில் cryptocurrency ஒழுங்குமுறை மீதான ஒருமித்த கருத்தை எட்டுவதில் உள்ள சவால்களையும் சட்டமியற்றும் முடக்கத்தையும் காட்டுகிறது.",
-    "slug": "republican-senators-complicate-clarity-act-with-stablecoin-yield-support"
+    "hasContent": true,
+    "pubDate": "2026-09-22T02:11:07.000Z"
   },
   {
     "id": "154047a0716577d6",
@@ -503,340 +819,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-21T21:47:36.000Z"
-  },
-  {
-    "id": "f4a05f7ebe19b17f",
-    "slug": "us-lawmakers-consider-slowing-china-investment-amid-security-concerns",
-    "title": "US lawmakers consider slowing China investment amid security concerns",
-    "tags": [
-      "United States",
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T21:46:58.000Z"
-  },
-  {
-    "id": "fec5ad2483f6c3f9",
-    "slug": "bitgo-rolls-out-quantum-risk-management-tools-to-shield-institutional-bitcoin-wallets",
-    "title": "BitGo rolls out quantum-risk management tools to shield institutional Bitcoin wallets",
-    "tags": [
-      "BitGo",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T21:46:28.000Z"
-  },
-  {
-    "id": "6f34e6ef8c0b32b6",
-    "slug": "x-partners-with-gemini-kraken-coinbase-and-others-to-bring-crypto-trading-to-your-timeline",
-    "title": "X partners with Gemini, Kraken, Coinbase, and others to bring crypto trading to your timeline",
-    "tags": [
-      "X",
-      "Gemini",
-      "Kraken",
-      "Coinbase"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T21:43:51.000Z"
-  },
-  {
-    "id": "5a582e93206d58ca",
-    "slug": "charles-hoskinson-says-cardano-funding-decisions-hurt-ada-price-and-growth-shares-solution",
-    "title": "Charles Hoskinson Says Cardano Funding Decisions Hurt ADA Price And Growth, Shares Solution",
-    "tags": [
-      "Cardano",
-      "Charles Hoskinson",
-      "Bitcoin",
-      "ADA"
-    ],
-    "source": "ZyCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T21:41:32.000Z"
-  },
-  {
-    "id": "53def424ed71f193",
-    "slug": "chutes-ai-and-harvard-release-public-dataset-of-6-12-billion-llm-requests",
-    "title": "Chutes AI and Harvard release public dataset of 6.12 billion LLM requests",
-    "tags": [
-      "Chutes AI",
-      "Harvard"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T21:39:53.000Z"
-  },
-  {
-    "id": "664ffaf688d281c6",
-    "slug": "bitcoin-reclaims-85-000-for-first-time-in-eight-months",
-    "title": "Bitcoin Reclaims $85,000 For First Time In Eight Months",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T21:30:00.000Z"
-  },
-  {
-    "id": "cf5745eae5928da3",
-    "slug": "britain-to-provide-aerial-refueling-support-to-saudi-arabia-amid-houthi-attacks",
-    "title": "Britain to provide aerial refueling support to Saudi Arabia amid Houthi attacks",
-    "tags": [
-      "Britain",
-      "Saudi Arabia",
-      "Houthi"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T21:25:10.000Z"
-  },
-  {
-    "id": "d4ddea706dfe7f84",
-    "slug": "military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat",
-    "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
-    "tags": [
-      "Ukraine",
-      "Russia",
-      "Black Sea"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T21:09:20.000Z"
-  },
-  {
-    "id": "beecc76b0de66c28",
-    "slug": "trump-opts-out-of-joint-military-strikes-with-saudi-arabia-in-yemen",
-    "title": "Trump opts out of joint military strikes with Saudi Arabia in Yemen",
-    "tags": [
-      "Donald Trump",
-      "Saudi Arabia",
-      "Yemen",
-      "United States",
-      "Middle East"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T21:05:28.000Z"
-  },
-  {
-    "id": "89003a699de3be10",
-    "slug": "bitcoin-news-how-high-can-btc-go-after-hitting-87000",
-    "title": "Bitcoin News: How High Can BTC Go After Hitting $87000?",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T21:04:05.000Z"
-  },
-  {
-    "id": "d21f9b4ee2e334a0",
-    "slug": "from-payment-tools-to-payment-infrastructure-rethinking-the-b2b-order-to-cash-model",
-    "title": "From Payment Tools to Payment Infrastructure: Rethinking the B2B Order-to-Cash Model",
-    "tags": [
-      "B2B"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T21:00:44.000Z"
-  },
-  {
-    "id": "1ace6ac8e34b8c92",
-    "slug": "ai-enabling-goods-drive-42-global-trade-growth-in-q1-2026",
-    "title": "AI-enabling goods drive 42% global trade growth in Q1 2026",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T20:56:41.000Z"
-  },
-  {
-    "id": "c346e4a6828896d5",
-    "slug": "former-xai-staffer-seeks-50-million-for-deepfake-defense-startup",
-    "title": "Former xAI Staffer Seeks $50 Million for Deepfake Defense Startup",
-    "tags": [
-      "xAI",
-      "Moir",
-      "Tina Oberoi",
-      "Google"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T20:55:37.000Z"
-  },
-  {
-    "id": "19e95fc7bc276d4d",
-    "slug": "the-best-enterprise-ai-system-is-one-cfos-are-allowed-to-use",
-    "title": "The Best Enterprise AI System Is One CFOs Are Allowed to Use",
-    "tags": [
-      "Nvidia",
-      "Palantir",
-      "Booz Allen Hamilton",
-      "Novo Nordisk"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T20:52:57.000Z"
-  },
-  {
-    "id": "03349252d60e6c72",
-    "slug": "bitcoin-reclaims-87-000-as-short-sellers-get-wiped-out",
-    "title": "Bitcoin reclaims $87,000 as short sellers get wiped out",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T20:41:41.000Z"
-  },
-  {
-    "id": "c5149aa3bd762fbb",
-    "slug": "bitcoin-could-test-90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
-    "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T20:39:39.000Z"
-  },
-  {
-    "id": "a35a59c40fa46f0b",
-    "slug": "saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft",
-    "title": "Saudi Arabia exits China-backed mBridge CBDC project: FT",
-    "tags": [
-      "Saudi Arabia",
-      "China",
-      "mBridge",
-      "Financial Times",
-      "United States"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T20:37:15.000Z"
-  },
-  {
-    "id": "5b65b4a5556b6aaf",
-    "slug": "michael-saylor-s-strategy-restarts-bitcoin-purchases-adding-76-000-000-worth-of-btc",
-    "title": "Michael Saylor’s Strategy Restarts Bitcoin Purchases, Adding $76,000,000 Worth of BTC",
-    "tags": [
-      "Strategy",
-      "Bitcoin"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T20:33:07.000Z"
-  },
-  {
-    "id": "af362408ccc69678",
-    "slug": "2-million-ai-crypto-exploit-8-72m-fet-drained-408-5m-ntx-minted",
-    "title": "$2 Million AI-Crypto Exploit : 8.72M FET Drained, 408.5M NTX Minted",
-    "tags": [
-      "Fetch.ai",
-      "NuNet",
-      "FET",
-      "NTX"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T20:18:51.000Z"
-  },
-  {
-    "id": "fb7567e0d12b186f",
-    "slug": "nasdaq-closes-at-record-high-as-s-p-500-nears-milestone",
-    "title": "NASDAQ closes at record high as S&P 500 nears milestone",
-    "tags": [
-      "NASDAQ",
-      "S&P 500"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T20:16:36.000Z"
-  },
-  {
-    "id": "5b278f26f5804400",
-    "slug": "deel-launches-akai-an-automation-platform-that-reduces-need-for-about-600-employees",
-    "title": "Deel launches Akai, an automation platform that reduces need for about 600 employees",
-    "tags": [
-      "Deel",
-      "Akai"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T20:14:25.000Z"
-  },
-  {
-    "id": "385c9a485db22f8f",
-    "slug": "diamonds-crash-to-lowest-prices-this-century-as-bitcoin-surges-past-them",
-    "title": "Diamonds crash to lowest prices this century as Bitcoin surges past them",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T20:06:09.000Z"
-  },
-  {
-    "id": "00fd46e2580247c5",
-    "slug": "openai-considers-repackaging-agent-technology-as-spacexai-meta-advance-in-personal-assistants",
-    "title": "OpenAI considers repackaging agent technology as SpaceXAI, Meta advance in personal assistants",
-    "tags": [
-      "OpenAI",
-      "SpaceXAI",
-      "Meta"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T20:05:30.000Z"
-  },
-  {
-    "id": "afc4d049a5896bb0",
-    "slug": "talos-adds-sts-digital-for-institutional-crypto-options-access",
-    "title": "Talos adds STS Digital for Institutional Crypto Options Access",
-    "tags": [
-      "Talos",
-      "STS Digital",
-      "Bermuda"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T20:00:53.000Z"
-  },
-  {
-    "id": "ab34405bae91c8f6",
-    "slug": "california-billionaire-tax-support-drops-in-latest-ppic-poll",
-    "title": "California billionaire tax support drops in latest PPIC poll",
-    "tags": [
-      "California"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-21T19:44:35.000Z"
   }
 ]
