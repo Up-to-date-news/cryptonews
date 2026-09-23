@@ -1,0 +1,46 @@
+name: Cleanup Vercel Deployments
+
+on:
+  # Vercel's GitHub integration posts these after each deployment finishes.
+  deployment_status:
+  # Fallback in case a deployment_status event is ever missed — matches
+  # the same belt-and-suspenders pattern used for fetch-cycle.yml.
+  schedule:
+    - cron: '30 2 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (log only, delete nothing)'
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+# Two cleanups racing against the Vercel API at once serves no purpose
+# and risks double-counting/rate-limit noise — queue instead.
+concurrency:
+  group: vercel-cleanup
+  cancel-in-progress: false
+
+jobs:
+  cleanup:
+    if: github.event_name != 'deployment_status' || (github.event.deployment_status.state == 'success' && github.event.deployment_status.environment == 'Production')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run cleanup
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+          VERCEL_TEAM_ID: ${{ secrets.VERCEL_TEAM_ID }}
+          KEEP_LATEST: '5'
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || 'false' }}
+        run: node scripts/cleanup-deployments.mjs
