@@ -1,52 +1,374 @@
 [
   {
-    "id": "eef0170d5c4b7909",
-    "title": "Bloomberg: Crypto regulatory war ends as SEC, CFTC reach mutual acceptance",
-    "summary": "The resolution of regulatory conflicts may enhance market stability, potentially boosting investor confidence and fostering Bitcoin's growth prospects.\nThe post Bloomberg: Crypto regulatory war ends as SEC, CFTC reach mutual acceptance appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/bloomberg-crypto-regulatory-war-ends-as-sec-cftc-reach-mutual-acceptance/",
-    "source": "CryptoBriefing",
-    "tags": [],
+    "id": "ceac1a92c6a488a3",
+    "slug": "bybit-adds-24-7-uranium-etf-perpetual-with-urnmusdt-listing",
+    "title": "Bybit Adds 24/7 Uranium ETF Perpetual With URNMUSDT Listing",
+    "tags": [
+      "Bybit",
+      "Sprott Uranium Miners ETF"
+    ],
+    "source": "Bitcoinist",
     "origin": "rss",
-    "pubDate": "2026-09-23T20:58:41.000Z",
-    "fetchedAt": "2026-09-23T21:01:32.417Z",
+    "hasContent": true,
+    "pubDate": "2026-09-23T22:30:00.000Z"
+  },
+  {
+    "id": "b82c9cdfdd0d255a",
+    "slug": "altman-and-amodei-call-for-global-ai-guardrails-at-un",
+    "title": "Altman and Amodei Call for Global AI Guardrails at UN",
+    "tags": [
+      "Anthropic",
+      "OpenAI",
+      "United Nations"
+    ],
+    "source": "PYMNTS",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-23T22:27:30.000Z"
+  },
+  {
+    "id": "9c571349e0d19b41",
+    "slug": "us-considers-plan-to-promote-dollar-backed-crypto-stablecoins-globally",
+    "title": "US considers plan to promote dollar-backed crypto stablecoins globally",
+    "tags": [
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-23T22:23:38.000Z"
+  },
+  {
+    "id": "2e8636d7ec846249",
+    "slug": "kevin-o-leary-questions-whether-ethereum-will-stay-the-industry-standard-names-solana-and-avalanche",
+    "title": "Kevin O’Leary Questions Whether Ethereum Will Stay the Industry Standard, Names Solana and Avalanche as Top Alternatives",
+    "tags": [
+      "Ethereum",
+      "Solana",
+      "Avalanche"
+    ],
+    "source": "ZyCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-23T22:19:43.000Z"
+  },
+  {
+    "id": "732f34c39b1c6a3b",
+    "slug": "the-chinese-government-takes-possession-of-sensitive-f-35-parts-diverted-to-hong-kong",
+    "title": "The Chinese government takes possession of sensitive F-35 parts diverted to Hong Kong",
+    "tags": [
+      "China",
+      "Hong Kong",
+      "F-35"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-23T22:18:12.000Z"
+  },
+  {
+    "id": "f261ca5c4f56be92",
+    "slug": "anthropic-s-ai-model-projected-to-lead-by-2026-after-claude-opus-5-5-launch",
+    "title": "Anthropic’s AI model projected to lead by 2026 after Claude Opus 5.5 launch",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-23T22:12:25.000Z"
+  },
+  {
+    "id": "6ad6e4f051bca546",
+    "slug": "openai-gives-ukraine-access-to-daybreak-ai-cyber-defense-tool",
+    "title": "OpenAI Gives Ukraine Access to Daybreak AI Cyber-Defense Tool",
+    "tags": [
+      "OpenAI",
+      "Ukraine",
+      "Daybreak AI"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-23T22:06:04.000Z"
+  },
+  {
+    "id": "8cca8755b85dcc72",
+    "slug": "bitcoin-s-100-1-000-btc-wallets-accumulate-113-950-btc-since-july-15",
+    "title": "Bitcoin’s 100-1,000 BTC wallets accumulate 113,950 BTC since July 15",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-09-23T22:01:32.000Z"
+  },
+  {
+    "id": "d5a93c83f0914296",
+    "slug": "uniswap-rallies-15-how-spot-demand-could-fuel-uni-s-11-breakout",
+    "title": "Uniswap rallies 15% – How Spot demand could fuel UNI’s $11 breakout",
+    "tags": [
+      "Uniswap",
+      "UNI",
+      "CME"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-23T22:00:43.000Z"
+  },
+  {
+    "id": "730520894e36c654",
+    "slug": "circle-launches-24-7-stablecoin-fx-engine-as-it-chases-a-slice-of-the-10-trillion-currency-market",
+    "title": "Circle launches 24/7 stablecoin FX engine as it chases a slice of the $10 trillion currency market",
+    "tags": [
+      "Circle"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-23T22:00:28.000Z"
+  },
+  {
+    "id": "bf14fea62b8894a4",
+    "slug": "britain-s-bank-lobby-kicks-out-coinbase-are-lenders-shutting-crypto-out",
+    "title": "Britain's Bank Lobby Kicks Out Coinbase: Are Lenders Shutting Crypto Out?",
+    "tags": [
+      "UK Finance",
+      "Coinbase",
+      "United Kingdom"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-23T22:00:00.000Z"
+  },
+  {
+    "id": "7eb8085ff6e2245f",
+    "slug": "dollar-general-expands-same-day-delivery-through-instacart",
+    "title": "Dollar General Expands Same-Day Delivery Through Instacart",
+    "tags": [
+      "Dollar General",
+      "Instacart"
+    ],
+    "source": "PYMNTS",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-23T21:59:34.000Z"
+  },
+  {
+    "id": "1fdfd6808aeecf98",
+    "slug": "ex-sec-acting-chair-agency-dropped-crypto-cases-to-avoid-issues-with-credibility",
+    "title": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
+    "tags": [
+      "SEC",
+      "Mark Uyeda"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-23T21:47:52.000Z"
+  },
+  {
+    "id": "c2a7ff7c6fb916a5",
+    "slug": "coreweave-earns-semianalysis-platinum-clustermax-rating-for-third-consecutive-time",
+    "title": "CoreWeave earns SemiAnalysis’ Platinum ClusterMAX rating for third consecutive time",
+    "tags": [
+      "CoreWeave",
+      "SemiAnalysis"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-23T21:38:47.000Z"
+  },
+  {
+    "id": "80913303e1dd3a6d",
+    "title": "Kremlin Linked Fintech A7 Reportedly Moved Billions via Global Banks Using Forged Invoices",
+    "summary": "A recent investigation has revealed how a Kremlin-linked payments company allegedly moved more than $6.9 billion through major international banks by exploiting gaps in compliance controls and using a large-scale document-forgery operation. The reporting from the FT is said to be based on hundreds of... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/09/312299-kremlin-linked-fintech-a7-reportedly-moved-billions-via-global-banks-using-forged-invoices/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "A7",
+      "Kremlin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-23T21:38:43.000Z",
+    "fetchedAt": "2026-09-23T22:30:57.923Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "bloomberg-crypto-regulatory-war-ends-as-sec-cftc-reach-mutual-acceptance"
+    "content": "A recent investigation has exposed a Kremlin-linked fintech company, A7, for allegedly laundering billions of dollars through major global banks. The scheme reportedly involved a sophisticated document-forgery operation designed to bypass international compliance protocols. By exploiting vulnerabilities in banking controls, the firm successfully moved substantial capital across borders. These findings highlight significant weaknesses in current anti-money laundering frameworks and have prompted concerns regarding the involvement of international financial institutions in facilitating illicit transactions.",
+    "content_ta": "கிரெம்ளின் உடன் தொடர்புடைய A7 என்ற பின்டெக் நிறுவனம், போலி ஆவணங்களைப் பயன்படுத்தி பில்லியன் கணக்கான டாலர்களை முக்கிய சர்வதேச வங்கிகள் வழியாக பரிமாற்றம் செய்ததாக சமீபத்திய விசாரணை ஒன்றில் அம்பலமாகியுள்ளது. வங்கி நடைமுறைகளில் உள்ள ஓட்டைகளை சாதகமாகப் பயன்படுத்தி, முறையான கட்டுப்பாடுகளைத் தவிர்த்து இந்த நிறுவனம் பணப் பரிமாற்றங்களை மேற்கொண்டதாகக் கூறப்படுகிறது. இந்தச் சம்பவம் சர்வதேச நிதி நிறுவனங்களின் செயல்பாடுகள் மற்றும் பணமோசடி தடுப்பு நடவடிக்கைகள் குறித்த கடுமையான கேள்விகளை எழுப்பியுள்ளது.",
+    "slug": "kremlin-linked-fintech-a7-reportedly-moved-billions-via-global-banks-using-forged-invoices"
+  },
+  {
+    "id": "0432f683441fce6b",
+    "title": "FomoPeek App Store App Tied to $580K Crypto Theft After Sandbox Escape : SlowMist",
+    "summary": "An iOS whale-watching app that never asked users for a seed phrase has been tied to nearly $580,000 in stolen cryptocurrency after researchers found it could reach secrets stored by other apps on the same iPhone. Blockchain security firm SlowMist, working with OKX’s security team,... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/09/312310-fomopeek-app-store-app-tied-to-580k-crypto-theft-after-sandbox-escape-slowmist/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "FomoPeek",
+      "SlowMist",
+      "OKX"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-23T21:37:50.000Z",
+    "fetchedAt": "2026-09-23T22:30:57.923Z",
+    "isDuplicateOf": null,
+    "content": "A security investigation has linked the FomoPeek app to the theft of nearly $580,000 in cryptocurrency. Researchers from SlowMist and OKX discovered that the iOS application utilized a sandbox escape vulnerability to access sensitive data stored by other apps on the same device. This incident highlights significant security risks, as users were unaware that the application could compromise private information despite not requesting seed phrases.",
+    "content_ta": "FomoPeek செயலி மூலம் சுமார் $580,000 மதிப்பிலான கிரிப்டோகரன்சி திருடப்பட்டுள்ளதாக பாதுகாப்பு ஆய்வில் தெரியவந்துள்ளது. SlowMist மற்றும் OKX ஆகிய நிறுவனங்களின் ஆய்வாளர்கள், இந்த iOS செயலி 'sandbox escape' பாதிப்பைப் பயன்படுத்தி ஒரே சாதனத்தில் உள்ள பிற செயலிகளின் தரவுகளைத் திருடியதைக் கண்டறிந்துள்ளனர். பயனர்கள் எந்த விதமான ரகசிய குறியீடுகளையும் (seed phrases) வழங்காத நிலையிலும், அவர்களின் தனிப்பட்ட தகவல்கள் திருடப்பட்டிருப்பது பெரும் பாதுகாப்பு அச்சுறுத்தலை ஏற்படுத்தியுள்ளது.",
+    "slug": "fomopeek-app-store-app-tied-to-580k-crypto-theft-after-sandbox-escape-slowmist"
+  },
+  {
+    "id": "b6729aef34ad9855",
+    "title": "Hashed Commits as Anchor Backer to $300M Digital Asset Credit Fund",
+    "summary": "Hashed, the global crypto venture firm, has agreed to serve as the anchor investor in a new private credit vehicle aimed at digital-asset institutions. The fund is targeting $300 million and will be managed by Thoro Capital Management, a platform set up by Abu Dhabi-based... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/09/312311-hashed-commits-as-anchor-backer-to-300m-digital-asset-credit-fund/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Hashed",
+      "Thoro Capital Management",
+      "Abu Dhabi"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-23T21:36:46.000Z",
+    "fetchedAt": "2026-09-23T22:30:57.923Z",
+    "isDuplicateOf": null,
+    "content": "Global cryptocurrency venture firm Hashed has officially committed to serve as the anchor investor for a new $300 million private credit fund. Managed by Thoro Capital Management, the vehicle is specifically designed to provide capital to digital-asset institutions. The fund aims to support the evolving infrastructure needs of the digital asset sector through its base in Abu Dhabi.",
+    "content_ta": "உலகளாவிய கிரிப்டோகரன்சி நிறுவனமான Hashed, $300 மில்லியன் மதிப்பிலான புதிய தனியார் கடன் நிதிக்கான முதன்மை முதலீட்டாளராக செயல்பட ஒப்புக்கொண்டுள்ளது. Thoro Capital Management மூலம் நிர்வகிக்கப்படும் இந்த நிதி, டிஜிட்டல் சொத்து நிறுவனங்களுக்கு கடன் வழங்குவதை நோக்கமாகக் கொண்டுள்ளது. அபுதாபியை தளமாகக் கொண்ட இந்த முயற்சி, டிஜிட்டல் சொத்து துறையின் உள்கட்டமைப்பு தேவைகளை பூர்த்தி செய்ய உதவும்.",
+    "slug": "hashed-commits-as-anchor-backer-to-300m-digital-asset-credit-fund"
+  },
+  {
+    "id": "0a739f8230986dff",
+    "title": "Numeral Raises $100 Million for Sales Tax Solution",
+    "summary": "Sales tax compliance platform Numeral has raised $100 million in Series C funding, boosting its total raised to $157.5 million since it was founded in 2023. Insight Partners led the round, which saw participation from Salesforce Ventures, Geodesic, Benchmark, Mayfield, FCVC, Y Combinator, and Uncork. San Francisco-based Numeral aims to simplify sales tax compliance details such Read more...\nThe post Numeral Raises $100 Million for Sales Tax Solution appeared first on Finovate.",
+    "hasSummary": true,
+    "link": "https://finovate.com/numeral-raises-100-million-for-sales-tax-solution/",
+    "source": "Finovate",
+    "tags": [
+      "Numeral",
+      "Insight Partners",
+      "Salesforce Ventures",
+      "Benchmark",
+      "Y Combinator"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-23T21:32:20.000Z",
+    "fetchedAt": "2026-09-23T22:30:57.923Z",
+    "isDuplicateOf": null,
+    "content": "Sales tax compliance platform Numeral has successfully secured $100 million in a Series C funding round. Led by Insight Partners, the investment included participation from several notable firms, including Salesforce Ventures, Benchmark, and Y Combinator. This latest capital injection brings the San Francisco-based company's total funding to $157.5 million since its 2023 inception, supporting its mission to simplify the complexities of global sales tax compliance for businesses.",
+    "content_ta": "Sales tax compliance தளமான Numeral, தனது Series C நிதிச்சுற்றில் $100 மில்லியன் நிதியைத் திரட்டியுள்ளது. Insight Partners தலைமையில் நடைபெற்ற இந்த முதலீட்டுச் சுற்றில் Salesforce Ventures, Benchmark மற்றும் Y Combinator உள்ளிட்ட பல முன்னணி நிறுவனங்கள் பங்கேற்றன. 2023-ல் தொடங்கப்பட்டதிலிருந்து, சான் பிரான்சிஸ்கோவை மையமாகக் கொண்ட இந்நிறுவனம் இதுவரை மொத்தம் $157.5 மில்லியன் நிதியைத் திரட்டியுள்ளது. வணிகங்களுக்கான விற்பனை வரி தொடர்பான சிக்கல்களை எளிமையாக்குவதே இந்நிறுவனத்தின் முக்கிய நோக்கமாகும்.",
+    "slug": "numeral-raises-100-million-for-sales-tax-solution"
+  },
+  {
+    "id": "56e20e09b58fbcd7",
+    "slug": "xrp-ledger-upgrade-enters-14-day-countdown-what-happens-on-oct-5",
+    "title": "XRP Ledger upgrade enters 14-day countdown — What happens on Oct. 5?",
+    "tags": [
+      "XRP Ledger"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-23T21:30:54.000Z"
+  },
+  {
+    "id": "038c32f25d16c698",
+    "slug": "binance-extends-tokenized-stock-utility-with-soxl-dividend-support",
+    "title": "Binance Extends Tokenized Stock Utility With SOXL Dividend Support",
+    "tags": [
+      "Binance",
+      "SOXL"
+    ],
+    "source": "Bitcoinist",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-23T21:30:00.000Z"
+  },
+  {
+    "id": "2b41bb1217c762d4",
+    "slug": "dan-ives-launches-closed-end-fund-targeting-private-ai-companies-with-200m-raise",
+    "title": "Dan Ives launches closed-end fund targeting private AI companies with $200M raise",
+    "tags": [
+      "Dan Ives"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-23T21:19:55.000Z"
+  },
+  {
+    "id": "e4caaa4d321cb1ff",
+    "slug": "anthropic-s-top-1-customers-now-contribute-46-of-revenue-report",
+    "title": "Anthropic’s top 1% customers now contribute 46% of revenue: report",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-23T21:18:47.000Z"
+  },
+  {
+    "id": "9fe45fa02356ad27",
+    "slug": "bitcoin-price-slips-while-us-treasury-yields-soar-oil-prices-climb",
+    "title": "Bitcoin Price Slips While US Treasury Yields Soar, Oil Prices Climb",
+    "tags": [
+      "Bitcoin",
+      "United States"
+    ],
+    "source": "Bitcoin Magazine",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-23T21:08:27.000Z"
+  },
+  {
+    "id": "4153905f843b875d",
+    "slug": "xaman-wallet-s-growth-triggers-xrpl-node-capacity-fix",
+    "title": "Xaman wallet’s growth triggers XRPL node capacity fix",
+    "tags": [
+      "Xaman",
+      "XRP Ledger"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-23T21:07:28.000Z"
+  },
+  {
+    "id": "eef0170d5c4b7909",
+    "slug": "bloomberg-crypto-regulatory-war-ends-as-sec-cftc-reach-mutual-acceptance",
+    "title": "Bloomberg: Crypto regulatory war ends as SEC, CFTC reach mutual acceptance",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-09-23T20:58:41.000Z"
   },
   {
     "id": "c32f8527c9293ae9",
+    "slug": "s-p-global-data-shows-fastest-us-business-growth-since-post-covid-reopening",
     "title": "S&P Global Data Shows Fastest US Business Growth Since Post-COVID Reopening",
-    "summary": "U.S. business activity grew in September at the fastest rate for over five years, according to the S&P Global US Flash PMI released Wednesday (Sept. 23). The flash S&P Global US PMI Composite Output Index rose from 56.0 in August to 58.4 in September, marking the fourth consecutive month of accelerating growth as well as the fastest […]\nThe post S&P Global Data Shows Fastest US Business Growth Since Post-COVID Reopening appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/economy/2026/sp-global-data-shows-fastest-us-business-growth-since-post-covid-reopening/",
-    "source": "PYMNTS",
     "tags": [
       "S&P Global",
       "United States"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-09-23T20:58:32.000Z",
-    "fetchedAt": "2026-09-23T21:01:32.417Z",
-    "isDuplicateOf": null,
-    "content": "Recent S&P Global data indicates that U.S. business activity reached its fastest growth rate in over five years during September. The latest PMI Composite Output Index reflects a steady trend of accelerating economic expansion for the fourth consecutive month. This significant upward movement highlights a robust performance for American businesses, marking the strongest period of growth observed since the initial recovery phase following the COVID-19 pandemic.",
-    "content_ta": "சமீபத்திய S&P Global தரவுகளின்படி, செப்டம்பர் மாதத்தில் அமெரிக்காவின் வணிக நடவடிக்கை கடந்த ஐந்து ஆண்டுகளில் இல்லாத அளவிற்கு அதிவேக வளர்ச்சியை எட்டியுள்ளது. PMI Composite Output Index குறியீட்டின் படி, தொடர்ச்சியாக நான்காவது மாதமாக பொருளாதார வளர்ச்சி அதிகரித்துள்ளது. COVID-19 தொற்றுநோய்க்கு பிந்தைய மீட்சி காலத்திற்குப் பிறகு, அமெரிக்க வணிகங்கள் தற்போது மிக வலுவான வளர்ச்சியைப் பதிவு செய்துள்ளதாக இந்த அறிக்கை சுட்டிக்காட்டுகிறது.",
-    "slug": "s-p-global-data-shows-fastest-us-business-growth-since-post-covid-reopening"
+    "hasContent": true,
+    "pubDate": "2026-09-23T20:58:32.000Z"
   },
   {
     "id": "7f0810d8b6a16f26",
+    "slug": "sofi-bets-25-billion-on-putting-stablecoins-behind-the-card-swipe",
     "title": "SoFi Bets $25 Billion on Putting Stablecoins Behind the Card Swipe",
-    "summary": "Consumers and merchants were supposed to be the silver bullet driving scalable digital asset adoption. The cryptocurrency industry is mature enough for that to have already happened by now, and it hasn’t. However, news from Mastercard and SoFi Technologies announced Tuesday (Sept. 22) showed that the FinTech and payments industry isn’t giving up on digital […]\nThe post SoFi Bets $25 Billion on Putting Stablecoins Behind the Card Swipe appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/cryptocurrency/2026/sofi-bets-25-billion-dollars-putting-stablecoins-behind-card-swipe/",
-    "source": "PYMNTS",
     "tags": [],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-09-23T20:47:41.000Z",
-    "fetchedAt": "2026-09-23T21:01:32.417Z",
-    "isDuplicateOf": null,
-    "content": null,
-    "slug": "sofi-bets-25-billion-on-putting-stablecoins-behind-the-card-swipe"
+    "hasContent": false,
+    "pubDate": "2026-09-23T20:47:41.000Z"
   },
   {
     "id": "e63bc644b0b79fe4",
@@ -438,306 +760,5 @@
     "origin": "rss",
     "hasContent": false,
     "pubDate": "2026-09-23T18:53:00.000Z"
-  },
-  {
-    "id": "5c443f42c0c99135",
-    "slug": "deribit-sees-16b-in-bitcoin-options-expire-friday",
-    "title": "Deribit sees $16B in Bitcoin options expire Friday",
-    "tags": [
-      "Deribit",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-23T18:52:43.000Z"
-  },
-  {
-    "id": "ffdcb8c2bd3835cd",
-    "slug": "nearly-20-million-in-xrp-drained-from-6-678-wallets-across-six-attack-waves",
-    "title": "Nearly $20 million in XRP drained from 6,678 wallets across six attack waves",
-    "tags": [
-      "XRP",
-      "XRPL.to",
-      "DCENT"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-23T18:50:05.000Z"
-  },
-  {
-    "id": "ad487f932ccb0db7",
-    "slug": "microsoft-alphabet-executives-defend-data-center-expansion-at-climate-meetings-as-emissions-surge",
-    "title": "Microsoft, Alphabet executives defend data center expansion at climate meetings as emissions surge",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-09-23T18:39:51.000Z"
-  },
-  {
-    "id": "cd45c97750e2b972",
-    "slug": "blockchain-com-inks-deal-to-offer-access-to-nyse-tokenized-stocks",
-    "title": "Blockchain.com Inks Deal to Offer Access to NYSE Tokenized Stocks",
-    "tags": [
-      "Blockchain.com",
-      "NYSE Group",
-      "United States"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-23T18:32:48.000Z"
-  },
-  {
-    "id": "59e0d47f4106393e",
-    "slug": "zelenskyy-urges-global-leaders-to-choke-russia-s-revenues-to-weaken-war-efforts",
-    "title": "Zelenskyy urges global leaders to choke Russia’s revenues to weaken war efforts",
-    "tags": [
-      "Ukraine",
-      "Russia",
-      "Zelenskyy"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-23T18:31:18.000Z"
-  },
-  {
-    "id": "cacde6f0dc69c77c",
-    "slug": "avalanche-crypto-falls-8-after-helicon-launch-can-avax-hold-10",
-    "title": "Avalanche crypto falls 8% after Helicon launch—can AVAX hold $10?",
-    "tags": [
-      "Avalanche",
-      "AVAX"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-23T18:30:21.000Z"
-  },
-  {
-    "id": "abcaf592c5d0a267",
-    "slug": "defi-development-corp-adds-101-381-sol-to-corporate-treasury",
-    "title": "DeFi Development Corp Adds 101,381 SOL To Corporate Treasury",
-    "tags": [
-      "DeFi Development Corp",
-      "Solana"
-    ],
-    "source": "Bitcoinist",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-23T18:30:00.000Z"
-  },
-  {
-    "id": "19c5b107e2e4b9ba",
-    "slug": "ledger-finally-adds-private-zcash-balances-will-it-extend-zec-rally",
-    "title": "Ledger Finally Adds Private Zcash Balances: Will It Extend ZEC Rally?",
-    "tags": [
-      "Ledger",
-      "Zcash"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-23T18:25:35.000Z"
-  },
-  {
-    "id": "83d328bbaa76a19a",
-    "slug": "triton-explores-sale-or-ipo-of-trench-group-as-ai-power-demand-heats-up",
-    "title": "Triton explores sale or IPO of Trench Group as AI power demand heats up",
-    "tags": [
-      "Triton",
-      "Trench Group"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-23T18:24:30.000Z"
-  },
-  {
-    "id": "55f25507665f4a92",
-    "slug": "hack-vc-deletes-x-post-after-disgruntled-former-employee-found-dead",
-    "title": "Hack VC deletes X post after disgruntled former employee found dead",
-    "tags": [
-      "Hack VC",
-      "Hsin-Ju Chuang"
-    ],
-    "source": "Protos",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-23T18:24:06.000Z"
-  },
-  {
-    "id": "7556c04525538646",
-    "slug": "israel-slams-jordan-s-king-after-un-speech-criticizing-gaza-policies",
-    "title": "Israel slams Jordan’s king after UN speech criticizing Gaza policies",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-09-23T18:20:48.000Z"
-  },
-  {
-    "id": "877745322387f14b",
-    "slug": "peruvians-security-concerns-impact-lima-mayoral-race-dynamics",
-    "title": "Peruvians’ security concerns impact Lima mayoral race dynamics",
-    "tags": [
-      "Peru",
-      "Lima"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-23T18:14:37.000Z"
-  },
-  {
-    "id": "32504238440c99e1",
-    "slug": "fintech-avant-applies-for-occ-charter",
-    "title": "Fintech Avant applies for OCC charter",
-    "tags": [
-      "Avant",
-      "Office of the Comptroller of the Currency"
-    ],
-    "source": "Banking Dive",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-23T18:05:52.000Z"
-  },
-  {
-    "id": "b16cb6f39109e598",
-    "slug": "anthropic-s-claude-identifies-novel-biological-system-with-crispr-like-features",
-    "title": "Anthropic’s Claude identifies novel biological system with CRISPR like features",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-23T18:04:55.000Z"
-  },
-  {
-    "id": "17022b7a2a880322",
-    "slug": "russia-continues-military-operations-in-ukraine-amid-peace-talks-lavrov",
-    "title": "Russia continues military operations in Ukraine amid peace talks: Lavrov",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-09-23T18:04:22.000Z"
-  },
-  {
-    "id": "9adad887da557b7a",
-    "slug": "white-house-adviser-defends-president-trump-s-crypto-ties-in-wake-of-clarity-act-defeat",
-    "title": "White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat",
-    "tags": [],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-09-23T18:04:11.000Z"
-  },
-  {
-    "id": "cca851fca705bf0b",
-    "slug": "citi-launches-media-platform-for-advertisers",
-    "title": "Citi launches media platform for advertisers",
-    "tags": [
-      "Citi"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-23T18:04:00.000Z"
-  },
-  {
-    "id": "32d4512c885a9d08",
-    "slug": "hut-8-wins-bidding-for-poolin-s-texas-data-centers-with-140-million-offer",
-    "title": "Hut 8 wins bidding for Poolin’s Texas data centers with $140 million offer",
-    "tags": [
-      "Hut 8",
-      "Poolin",
-      "Texas",
-      "United States"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-23T18:01:58.000Z"
-  },
-  {
-    "id": "53a3b85ec747b3f3",
-    "slug": "dan-ives-departs-wedbush-to-co-found-yorkville-ives-co-a-merchant-bank-for-the-ai-era",
-    "title": "Dan Ives departs Wedbush to co-found Yorkville Ives & Co., a merchant bank for the AI era",
-    "tags": [
-      "Dan Ives",
-      "Wedbush",
-      "Yorkville Ives & Co."
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-23T17:20:52.000Z"
-  },
-  {
-    "id": "d2cfb1f55f68a72f",
-    "slug": "legal-context-protocol-logs-the-terms-ai-agents-accept",
-    "title": "Legal Context Protocol Logs the Terms AI Agents Accept",
-    "tags": [
-      "Legal Context Protocol",
-      "PYMNTS.com"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-23T17:18:15.000Z"
-  },
-  {
-    "id": "ef68c3be249740c4",
-    "slug": "cosmos-hub-restarts-after-25-hour-halt-moves-2m-in-stolen-tokens-from-attacker-s-wallet",
-    "title": "Cosmos Hub restarts after 25-hour halt, moves $2M in stolen tokens from attacker’s wallet",
-    "tags": [
-      "Cosmos Hub"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-23T17:16:41.000Z"
-  },
-  {
-    "id": "362615f4a076e551",
-    "slug": "chatgpt-voice-rolls-out-global-update-with-plugin-support-and-gpt-6-models",
-    "title": "ChatGPT Voice rolls out global update with plugin support and GPT-6 models",
-    "tags": [
-      "ChatGPT",
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-23T17:14:28.000Z"
-  },
-  {
-    "id": "1a1923aaacde8adf",
-    "slug": "us-considers-90-day-diesel-export-ban-to-tackle-high-fuel-prices-bloomberg",
-    "title": "US considers 90-day diesel export ban to tackle high fuel prices: Bloomberg",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-09-23T17:13:10.000Z"
-  },
-  {
-    "id": "6330a43e48d19474",
-    "slug": "black-forest-labs-debuts-flux-3-action-tops-robolab-leaderboard",
-    "title": "Black Forest Labs debuts FLUX 3 Action, tops RoboLab leaderboard",
-    "tags": [
-      "Black Forest Labs",
-      "FLUX 3 Action",
-      "RoboLab"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-23T17:06:58.000Z"
   }
 ]
