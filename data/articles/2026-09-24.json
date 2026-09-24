@@ -1861,5 +1861,329 @@
     "content": "Equifax has launched two new fraud prevention solutions, Signal Score for Email and Signal Score for Device, designed to help businesses mitigate automated threats and digital fraud. Utilizing proprietary data, these tools evaluate email addresses and devices in real time during transactions. The solutions integrate easily via APIs, allowing e-commerce, financial, and telecom companies to detect sophisticated fraud networks early without disrupting legitimate customers.",
     "content_ta": "Equifax நிறுவனம், தானியங்கி மோசடிகளைத் தடுக்க உதவும் வகையில் Signal Score for Email மற்றும் Signal Score for Device ஆகிய இரண்டு புதிய பாதுகாப்புத் தீர்வுகளை அறிமுகப்படுத்தியுள்ளது. இந்த புதிய கருவிகள் வாடிக்கையாளர்களின் மின்னஞ்சல் முகவரிகளையும் சாதனங்களையும் நிகழ்நேரத்தில் மதிப்பீடு செய்து, டிஜிட்டல் பரிவர்த்தனைகளின் போது ஏற்படும் மோசடிகளைக் கண்டறிய உதவுகின்றன.",
     "slug": "equifax-launches-two-new-intelligence-solutions-to-help-businesses-mitigate-automated-fraud"
+  },
+  {
+    "id": "7d79ce3c32b171e9",
+    "title": "EU financial watchdogs warn quantum computing poses imminent threat to blockchain encryption",
+    "summary": "The warning brings renewed urgency to the debate over how bitcoin should deal with legacy addresses whose public keys are already exposed onchain.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/tech/2026/09/24/eu-financial-watchdogs-warn-quantum-computing-poses-imminent-threat-to-blockchain-encryption",
+    "source": "CoinDesk",
+    "tags": [
+      "European Union",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T09:32:48.000Z",
+    "fetchedAt": "2026-09-24T09:36:07.549Z",
+    "isDuplicateOf": null,
+    "content": "European Union financial watchdogs have warned that advancements in quantum computing pose an imminent threat to blockchain encryption. This stark warning has renewed urgency within the crypto community regarding how Bitcoin and other networks should secure legacy addresses whose public keys are already exposed onchain against future technological breakthroughs.",
+    "content_ta": "குவாண்டம் கம்ப்யூட்டிங் தொழில்நுட்பம் பிளாக்செயின் குறியாக்கத்திற்கு உடனடி அச்சுறுத்தலை ஏற்படுத்துவதாக ஐரோப்பிய யூனியன் நிதி கண்காணிப்பாளர்கள் எச்சரித்துள்ளனர். இந்த எச்சரிக்கையானது, பிப்காயின் மற்றும் பிற நெட்வொர்க்குகள் தங்களது பழைய முகவரிகளை எவ்வாறு பாதுகாக்க வேண்டும் என்பது குறித்த விவாதத்திற்கு புதிய அவசரத்தை ஏற்படுத்தியுள்ளது.",
+    "slug": "eu-financial-watchdogs-warn-quantum-computing-poses-imminent-threat-to-blockchain-encryption"
+  },
+  {
+    "id": "20393b824a624709",
+    "title": "Institutions held crypto through 50% drawdown, Bitwise finds",
+    "summary": "Every institution interviewed that owned crypto held Bitcoin, usually as its largest asset; some set exit conditions for Ether and Solana.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Bitwise",
+      "Bitcoin",
+      "Ether",
+      "Solana"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T09:18:16.000Z",
+    "fetchedAt": "2026-09-24T09:36:07.549Z",
+    "isDuplicateOf": null,
+    "content": "A recent study by Bitwise reveals that institutional investors maintained their cryptocurrency holdings despite experiencing a severe 50 percent market drawdown. Among the institutions interviewed that held digital assets, every single one owned Bitcoin, which typically served as their largest holding. Additionally, some organizations established specific exit conditions for other major tokens including Ether and Solana.",
+    "content_ta": "50 சதவிகித சந்தை வீழ்ச்சியடைந்த நிலையிலும் கூட, நிறுவன முதலீட்டாளர்கள் தங்கள் கிரிப்டோகரன்சி முதலீடுகளைத் தக்க வைத்துக் கொண்டுள்ளதாக Bitwise நடத்திய ஆய்வு ஒன்றில் தெரியவந்துள்ளது. டிஜிட்டல் சொத்துக்களை வைத்துள்ளதாக நேர்காணல் செய்யப்பட்ட அனைத்து நிறுவனங்களும் Bitcoin-ஐ வைத்துள்ளன, இது பொதுவாக அவற்றின் மிகப்பெரிய சொத்தாக இருந்தது. கூடுதலாக, சில நிறுவனங்கள் Ether மற்றும் Solana போன்ற பிற முக்கிய டோக்கன்களுக்கு குறிப்பிட்ட வெளியேறும் நிபந்தனைகளை நிர்ணயித்தன.",
+    "slug": "institutions-held-crypto-through-50-drawdown-bitwise-finds"
+  },
+  {
+    "id": "d235b7ce3dde3503",
+    "title": "Bitget Wallet Says Global Downloads Have Passed 40 Million",
+    "summary": "TL;DR Bitget says cumulative downloads of Bitget Wallet have surpassed 40 million worldwide. The figure refers to total app downloads, not monthly active users or active trading accounts. The milestone reflects distribution growth as the wallet adds more trading and tokenized-asset features. Bitget says its self-custody wallet has crossed 40 million cumulative downloads, giving the company another headline growth number as it tries to expand beyond the traditional exchange model. The figure is notable, but it needs to be read correctly. Forty Million Downloads Is Not Forty Million Active Users App-download milestones are useful for measuring distribution. They are not the same thing as monthly active users, funded wallets or people who transact every day. A single user can also download an app on more than one device or reinstall it over time. So the 40 million figure should be understood as cumulative distribution rather than a direct measure of current engagement. Even with that caveat, scale matters for a wallet business. A large installed base gives Bitget more room to distribute swaps, tokenized-stock products, DeFi access and other financial services directly through the wallet interface. Wallets Are Becoming Full Trading Platforms The line between an exchange app and a self-custody wallet keeps getting thinner. Modern wallets increasingly include integrated trading, token discovery, yield products, cross-chain transfers and access to tokenized traditional assets. That makes user distribution strategically important. If a wallet can turn a large download base into repeat activity, it becomes a direct gateway to onchain financial products rather than simply a place to store keys. Bitget’s milestone does not tell us how many of those 40 million downloads are active today. It does show the size of the top of the funnel. The next useful metrics would be active wallets, transaction frequency and the share of users adopting the newer financial products inside the app. For now, the company can point to 40 million cumulative downloads as evidence that its wallet has reached a meaningfully global audience. The milestone also gives Bitget a useful benchmark against which future engagement can be judged. If the wallet keeps growing but trading, swaps and onchain activity do not rise with it, downloads will matter less. If newer features convert those installs into repeat use, the distribution advantage becomes much more valuable. Wallets are one of the few crypto products that can sit between users and multiple chains at once, so the companies that win distribution may eventually have more influence over where liquidity, trades and tokenized assets are routed than the headline download number suggests today. This article was written by the News Desk and edited by Samuel Rae.",
+    "hasSummary": true,
+    "link": "https://www.newsbtc.com/technology/bitget-wallet-says-global-downloads-have-passed-40-million/",
+    "source": "NewsBTC",
+    "tags": [
+      "Bitget Wallet"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T09:30:00.000Z",
+    "fetchedAt": "2026-09-24T09:36:07.549Z",
+    "isDuplicateOf": null,
+    "content": "Bitget Wallet has announced that its global cumulative downloads have surpassed 40 million worldwide. While this figure represents total app installations rather than active daily users, the milestone highlights the self-custody wallet's growing distribution. As modern wallets expand to include integrated trading and financial services, the large installed base provides Bitget with a significant foundation to drive further onchain engagement and user activity.",
+    "content_ta": "Bitget Wallet-ன் உலகளாவிய மொத்த டவுன்லோடுகள் 40 மில்லியனைத் தாண்டியுள்ளதாக அறிவிக்கப்பட்டுள்ளது. இந்த எண்ணிக்கை தினசரி செயலில் உள்ள பயனர்களை விட மொத்த ஆப் நிறுவல்களையே குறிக்கிறது என்றாலும், இது சுய-கஸ்டடி வாலட்டின் வளர்ச்சியை வெளிப்படுத்துகிறது. நவீன வாலட்டுகள் வர்த்தக சேவைகளை விரிவுபடுத்தி வருவதால், இந்த பெரிய பயனர் தளம் Bitget-க்கு மேலும் பல ஆன்செயின் நடவடிக்கைகளை ஈர்க்க உதவியாக இருக்கும்.",
+    "slug": "bitget-wallet-says-global-downloads-have-passed-40-million"
+  },
+  {
+    "id": "410be1b08c9b42d9",
+    "title": "US 10-year Treasury yield, Bitcoin declines amid risk-off shift",
+    "summary": "Rising Treasury yields signal tighter financial conditions, potentially reducing demand for risk assets and impacting broader market stability.\nThe post US 10-year Treasury yield, Bitcoin declines amid risk-off shift appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/us-10-year-treasury-yield-bitcoin-declines-amid-risk-off-shift/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "United States",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T09:34:42.000Z",
+    "fetchedAt": "2026-09-24T09:36:07.549Z",
+    "isDuplicateOf": null,
+    "content": "Global financial markets experienced a risk-off shift as the US 10-year Treasury yield and Bitcoin both declined. Rising Treasury yields often signal tighter financial conditions, which can reduce investor demand for risk assets like cryptocurrencies and impact broader market stability.",
+    "content_ta": "உலகளாவிய நிதி சந்தைகளில் risk-off மாற்றம் ஏற்பட்டதால், US 10-year Treasury yield மற்றும் Bitcoin இரண்டும் சரிந்தன. உயர்ந்துவரும் Treasury yields இறுக்கமான நிதி நிலைமைகளைக் குறிக்கின்றன, இது cryptocurrencies போன்ற risk assets மீதான முதலீட்டாளர்களின் தேவையைக் குறைத்து சந்தை ஸ்திரத்தன்மையைப் பாதிக்கலாம்.",
+    "slug": "us-10-year-treasury-yield-bitcoin-declines-amid-risk-off-shift"
+  },
+  {
+    "id": "f9274c5f2b956459",
+    "title": "Nick Clegg dismisses fears of AI’s godlike powers, urges focus on real threats",
+    "summary": "Clegg's stance highlights the urgent need to address AI power concentration and geopolitical dynamics, rather than hypothetical superintelligence.\nThe post Nick Clegg dismisses fears of AI’s godlike powers, urges focus on real threats appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/nick-clegg-ai-fears-real-threats/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Nick Clegg"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T09:34:04.000Z",
+    "fetchedAt": "2026-09-24T09:36:07.549Z",
+    "isDuplicateOf": null,
+    "content": "Nick Clegg has dismissed fears regarding the hypothetical godlike powers of artificial intelligence, urging instead a focus on real and immediate threats. His perspective emphasizes the importance of addressing the current concentration of AI power and pressing geopolitical dynamics rather than getting distracted by speculative superintelligence scenarios.",
+    "content_ta": "Nick Clegg செயற்கை நுண்ணறிவின் கற்பனையான கடவுள் போன்ற சக்திகள் குறித்த அச்சங்களை நிராகரித்துள்ளார், அதற்கு பதிலாக உண்மையான மற்றும் உடனடியான அச்சுறுத்தல்களில் கவனம் செலுத்த வலியுறுத்தியுள்ளார். அனுமானமான சூப்பர் இன்டெலிஜென்ஸ் சூழ்நிலைகளால் திசைதிருப்பப்படுவதற்குப் பதிலாக, தற்போதைய AI அதிகாரக் குவிப்பு மற்றும் புவிசார் அரசியல் இயக்கவியலைக் கையாள்வதன் முக்கியத்துவத்தை அவரது கருத்து வலியுறுத்துகிறது.",
+    "slug": "nick-clegg-dismisses-fears-of-ai-s-godlike-powers-urges-focus-on-real-threats"
+  },
+  {
+    "id": "841875a506cd476b",
+    "title": "Kremlin considers US invitation to Putin amid Ukraine tensions",
+    "summary": "Potential US-Russia diplomatic engagement could influence global markets and geopolitical dynamics amid ongoing Ukraine conflict tensions.\nThe post Kremlin considers US invitation to Putin amid Ukraine tensions appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/kremlin-considers-us-invitation-to-putin-amid-ukraine-tensions/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Kremlin",
+      "Putin",
+      "United States",
+      "Ukraine"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T09:28:17.000Z",
+    "fetchedAt": "2026-09-24T09:36:07.549Z",
+    "isDuplicateOf": null,
+    "content": "The Kremlin is currently reviewing an invitation from the United States for President Putin to engage in diplomatic discussions. This potential meeting comes amid ongoing geopolitical tensions surrounding the Ukraine conflict. Such high-level international engagement could have significant implications for global markets and diplomatic relations as world leaders seek ways to address the ongoing crisis.",
+    "content_ta": "உக்ரைன் மோதல் தொடர்பான பதற்றங்களுக்கு மத்தியில், Putin-க்கு US விடுத்துள்ள அழைப்பை Kremlin பரிசீலித்து வருகிறது. இந்த சாத்தியமான இராஜதந்திர ஈடுபாடு உலகளாவிய சந்தைகளிலும் புவிசார் அரசியல் இயக்கவியலிலும் தாக்கத்தை ஏற்படுத்தக்கூடும்.",
+    "slug": "kremlin-considers-us-invitation-to-putin-amid-ukraine-tensions"
+  },
+  {
+    "id": "7fbc2c58e6348951",
+    "title": "Brookings Institution projects $10.3T investment in AI infrastructure by 2032",
+    "summary": "Massive AI infrastructure investment could reshape economic priorities, influence global tech leadership, and introduce financial complexities.\nThe post Brookings Institution projects $10.3T investment in AI infrastructure by 2032 appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/brookings-ai-infrastructure-10-trillion-2032/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Brookings Institution"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T09:25:53.000Z",
+    "fetchedAt": "2026-09-24T09:36:07.549Z",
+    "isDuplicateOf": null,
+    "content": "The Brookings Institution projects that global investment in artificial intelligence infrastructure could reach $10.3 trillion by 2032. This massive financial commitment has the potential to significantly reshape economic priorities, influence international technology leadership, and introduce new financial complexities as the adoption and scale of artificial intelligence continue to grow worldwide.",
+    "content_ta": "2032-க்குள் AI உள்கட்டமைப்பில் 10.3 டிரில்லியன் டாலர் முதலீடு செய்யப்படலாம் என்று Brookings Institution கணித்துள்ளது. இந்த மிகப்பெரிய நிதி முதலீடு பொருளாதார முன்னுரிமைகளை மாற்றியமைக்கவும், சர்வதேச தொழில்நுட்பத் தலைமையைப் பாதிக்கவும், புதிய நிதிச் சிக்கல்களை உருவாக்கவும் வாய்ப்புள்ளது.",
+    "slug": "brookings-institution-projects-10-3t-investment-in-ai-infrastructure-by-2032"
+  },
+  {
+    "id": "fc81708a60d503bc",
+    "title": "Benjamin Netanyahu’s government seizing Palestinian land under pretext of preserving ancient West Bank sites",
+    "summary": "Netanyahu's actions may hinder Palestinian statehood recognition, affecting geopolitical dynamics and international support perceptions.\nThe post Benjamin Netanyahu’s government seizing Palestinian land under pretext of preserving ancient West Bank sites appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/benjamin-netanyahus-government-seizing-palestinian-land-under-pretext-of/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Benjamin Netanyahu",
+      "West Bank"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T09:15:55.000Z",
+    "fetchedAt": "2026-09-24T09:36:07.549Z",
+    "isDuplicateOf": null,
+    "content": "Benjamin Netanyahu's government is reportedly seizing Palestinian land in the West Bank under the pretext of preserving ancient sites. Analysts suggest these actions could significantly hinder future Palestinian statehood recognition, while also impacting broader geopolitical dynamics and shifting international support and perceptions in the region.",
+    "content_ta": "Benjamin Netanyahu-வின் அரசாங்கம் பழங்கால West Bank தளங்களைப் பாதுகாப்பதாகக் கூறி பாலஸ்தீனிய நிலங்களைக் கைப்பற்றுவதாகத் தெரிவிக்கப்பட்டுள்ளது. இந்த நடவடிக்கைகள் எதிர்கால பாலஸ்தீனிய மாநில அந்தஸ்து அங்கீகாரத்தைத் தடைய செய்யக்கூடும் என்றும், புவிசார் அரசியல் இயக்கவியலையும் சர்வதேச ஆதரவையும் பாதிக்கும் என்றும் பகுப்பாய்வாளர்கள் குறிப்பிடுகின்றனர்.",
+    "slug": "benjamin-netanyahu-s-government-seizing-palestinian-land-under-pretext-of-preserving-ancient-west"
+  },
+  {
+    "id": "dc389ee9c953a167",
+    "title": "Moscow firm aids Russian businesses in evading Western sanctions: NYT",
+    "summary": "The exposure of Russia's sanction-evasion tactics may intensify global scrutiny, potentially affecting its economic resilience and military strategies.\nThe post Moscow firm aids Russian businesses in evading Western sanctions: NYT appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/moscow-firm-aids-russian-businesses-in-evading-western-sanctions-nyt/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Russia",
+      "Moscow"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T09:07:52.000Z",
+    "fetchedAt": "2026-09-24T09:36:07.549Z",
+    "isDuplicateOf": null,
+    "content": "A Moscow-based firm is reportedly helping Russian businesses bypass Western economic sanctions, according to a recent New York Times report. This exposure highlights ongoing efforts to circumvent international restrictions. Such tactics could draw increased global scrutiny and potentially impact Russia's broader economic resilience and strategic planning amidst ongoing geopolitical tensions.",
+    "content_ta": "மேற்கத்திய நாடுகளின் பொருளாதாரத் தடைகளை ரஷ்ய வணிகங்கள் தவிர்க்க ஒரு Moscow firm உதவி வருவதாக New York Times செய்தி வெளியிட்டுள்ளது. இந்தத் தகவல் சர்வதேச அளவில் கூடுதல் கவனத்தை ஈர்த்துள்ளதுடன், ரஷ்யாவின் பொருளாதார மற்றும் மூலோபாய திட்டமிடலில் தாக்கத்தை ஏற்படுத்தக்கூடும்.",
+    "slug": "moscow-firm-aids-russian-businesses-in-evading-western-sanctions-nyt"
+  },
+  {
+    "id": "15a10c31060a2c80",
+    "title": "RWA perpetual DEX trading volume hits $365B in Q3, up 32% from Q2",
+    "summary": "The surge in RWA perpetual DEX trading highlights the growing shift towards decentralized finance, potentially inviting increased regulatory scrutiny.\nThe post RWA perpetual DEX trading volume hits $365B in Q3, up 32% from Q2 appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/rwa-perpetual-dex-volume-365b-q3/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "RWA"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T09:07:10.000Z",
+    "fetchedAt": "2026-09-24T09:36:07.549Z",
+    "isDuplicateOf": null,
+    "content": "Real-world asset perpetual decentralized exchange trading volume reached $365 billion in the third quarter, representing a 32 percent increase compared to the previous quarter. This significant growth highlights the ongoing expansion of decentralized finance markets and could potentially attract heightened attention from financial regulators as activity continues to scale across the sector.",
+    "content_ta": "மூன்றாம் காலாண்டில் RWA perpetual DEX வர்த்தகப் נפி அளவு 365 பில்லியன் டாலர்களை எட்டியுள்ளது, இது இரண்டாம் காலாண்டுடன் ஒப்பிடும்போது 32 சதவீதம் அதிகமாகும். இந்த குறிப்பிடத்தக்க வளர்ச்சி, பரவலாக்கப்பட்ட நிதி சந்தைகளின் தொடர்ச்சியான விரிவாக்கத்தை எடுத்துக்காட்டுகிறது மற்றும் இது ஒழுங்குமுறை அதிகாரிகளின் கவனத்தை ஈர்க்கக்கூடும்.",
+    "slug": "rwa-perpetual-dex-trading-volume-hits-365b-in-q3-up-32-from-q2"
+  },
+  {
+    "id": "8510fc7894aecbcc",
+    "title": "Democrats lead in Michigan, New Hampshire Senate races; Maine remains tight",
+    "summary": "Democratic leads in key states may shift Senate control dynamics, while Maine's tight race underscores potential volatility in political outcomes.\nThe post Democrats lead in Michigan, New Hampshire Senate races; Maine remains tight appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/democrats-lead-in-michigan-new-hampshire-senate-races-maine-remains-tight/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Michigan",
+      "New Hampshire",
+      "Maine"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T09:07:03.000Z",
+    "fetchedAt": "2026-09-24T09:36:07.549Z",
+    "isDuplicateOf": null,
+    "content": "Recent political developments show Democrats taking the lead in key Senate races in Michigan and New Hampshire. Meanwhile, the race in Maine remains notably tight. These shifts could play a significant role in determining overall Senate control, though the tight margins in certain states highlight the ongoing volatility of the political landscape as elections approach.",
+    "content_ta": "சமீபத்திய அரசியல் நிலவரப்படி, Michigan மற்றும் New Hampshire செனட் தேர்தல்களில் Democrats முன்னிலை பெற்றுள்ளனர். இதற்கிடையில், Maine மாநிலத்திலான போட்டி மிகவும் கடுமையாக தொடர்கிறது. இந்த மாற்றங்கள் செனட் கட்டுப்பாட்டை தீர்மானிப்பதில் முக்கிய பங்கு வகிக்கக்கூடும், இருப்பினும் சில மாநிலங்களில் உள்ள கடுமையான போட்டி தேர்தல் முடிவுகளில் நிலவும் நிச்சயமற்ற தன்மையை வெளிப்படுத்துகிறது.",
+    "slug": "democrats-lead-in-michigan-new-hampshire-senate-races-maine-remains-tight"
+  },
+  {
+    "id": "87f468bd38236c61",
+    "title": "Susan Collins leads in Maine Senate race, NYT poll shows",
+    "summary": "The poll's divergence highlights the uncertainty in predicting electoral outcomes, emphasizing the need for cautious interpretation of polling data.\nThe post Susan Collins leads in Maine Senate race, NYT poll shows appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/susan-collins-leads-in-maine-senate-race-nyt-poll-shows/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Susan Collins",
+      "Maine",
+      "New York Times"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T09:06:54.000Z",
+    "fetchedAt": "2026-09-24T09:36:07.549Z",
+    "isDuplicateOf": null,
+    "content": "A recent New York Times poll shows Susan Collins leading in the Maine Senate race. This development highlights the ongoing uncertainty in predicting electoral outcomes and emphasizes the importance of cautious interpretation when analyzing polling data as the election approaches.",
+    "content_ta": "புதிய New York Times கருத்துக்கணிப்பின்படி, Maine Senate தேர்தலில் Susan Collins முன்னிலையில் உள்ளார். தேர்தல் முடிவுகளை முன்கூட்டியே கணிப்பதிலுள்ள நிச்சயமற்ற தன்மையை இந்த முடிவுகள் காட்டுகின்றன.",
+    "slug": "susan-collins-leads-in-maine-senate-race-nyt-poll-shows"
+  },
+  {
+    "id": "15877f7138fb3885",
+    "title": "AI Agents Steal 488,372 Valid US Credit Card Records, Plant Skimmers on 119 Retail Sites",
+    "summary": "Autonomous AI tools have stolen more than 600,000 credit cards from two firms and installed skimmers on at least 119 websites, at roughly $25 per target.\nThe post AI Agents Steal 488,372 Valid US Credit Card Records, Plant Skimmers on 119 Retail Sites appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/09/24/ai-agents-steal-488372-valid-us-credit-card-records-plant-skimmers-on-119-retail-sites/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T09:15:56.000Z",
+    "fetchedAt": "2026-09-24T09:36:07.549Z",
+    "isDuplicateOf": null,
+    "content": "Autonomous AI tools have compromised two firms, stealing hundreds of thousands of valid US credit card records and installing digital skimmers across dozens of retail websites. The malicious operations were carried out efficiently by automated agents, highlighting growing cybersecurity threats from advanced artificial intelligence technologies deployed by bad actors against online retail platforms.",
+    "content_ta": "தன்னியக்க AI கருவிகள் இரண்டு நிறுவனங்களை குறிவைத்து, நூறாயிரக்கணக்கான US கிரெடிட் கார்டு பதிவுகளைத் திருடி, பல சில்லறை விற்பனை வலைத்தளங்களில் டிஜிட்டல் ஸ்கிம்மர்களை நிறுவியுள்ளன. மோசடி நபர்களால் பயன்படுத்தப்படும் மேம்பட்ட செயற்கை நுண்ணறிவு தொழில்நுட்பங்கள் மூலம் இந்தத் தாக்குதல்கள் நடத்தப்பட்டுள்ளதாக சைபர் பாதுகாப்புத் தகவல்கள் தெரிவிக்கின்றன.",
+    "slug": "ai-agents-steal-488-372-valid-us-credit-card-records-plant-skimmers-on-119-retail-sites"
+  },
+  {
+    "id": "b5d0857a286ec6dd",
+    "title": "Revolut trials Pay with Smile",
+    "summary": "Revolut customers can now pay for coffee with their face at three Kiss the Hippo cafés in Bloomsbury, Chelsea and Soho.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/newsarticle/48466/revolut-trials-pay-with-smile?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Revolut",
+      "Kiss the Hippo"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T09:13:00.000Z",
+    "fetchedAt": "2026-09-24T09:36:07.549Z",
+    "isDuplicateOf": null,
+    "content": "Digital banking platform Revolut is trialing a new biometric payment feature called Pay with Smile. Customers can now purchase coffee using only their facial recognition at three Kiss the Hippo cafés located in Bloomsbury, Chelsea, and Soho. This pilot program explores the convenience and security of facial verification for everyday retail transactions, allowing customers to complete purchases quickly without using physical cards or smartphones.",
+    "content_ta": "டிஜிட்டல் வங்கி தளமான Revolut, Pay with Smile என்ற புதிய பயோமெட்ரிக் கட்டண முறையைச் சோதனை செய்து வருகிறது. Bloomsbury, Chelsea மற்றும் Soho ஆகிய பகுதிகளில் உள்ள மூன்று Kiss the Hippo கஃபேக்களில் வாடிக்கையாளர்கள் இப்போது தங்கள் முக அடையாளத்தைப் பயன்படுத்தி காபி வாங்கலாம். இயற்பியல் அட்டைகள் அல்லது ஸ்மார்ட்போன்களைப் பயன்படுத்தாமல், வாடிக்கையாளர்கள் தங்கள் வாங்குதல்களை விரைவாக முடிக்க இந்த சோதனை முயற்சி உதவுகிறது.",
+    "slug": "revolut-trials-pay-with-smile"
+  },
+  {
+    "id": "5e78381a0338bc7d",
+    "title": "Silverflow connects to Hypergate",
+    "summary": "Cloud-native payment processing company Silverflow and payment gateway provider Hypergate have partnered to deliver an integrated payment infrastructure offering, aimed at acquirers, payment providers and modern financial institutions.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111005/silverflow-connects-to-hypergate?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Silverflow",
+      "Hypergate"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T09:08:00.000Z",
+    "fetchedAt": "2026-09-24T09:36:07.549Z",
+    "isDuplicateOf": null,
+    "content": "Cloud-native payment processing company Silverflow and payment gateway provider Hypergate have partnered to deliver an integrated payment infrastructure offering. This collaboration is designed for acquirers, payment service providers, and modern financial institutions looking to streamline and enhance their payment operations through advanced technology.",
+    "content_ta": "கிளவுட்-நேட்டிவ் கட்டண செயலாக்க நிறுவனமான Silverflow மற்றும் கட்டண நுழைவாயில் வழங்குநரான Hypergate ஆகியவை இணைந்து ஒருங்கிணைந்த கட்டண உள்கட்டமைப்பு சேவையை வழங்க கூட்டு சேர்ந்துள்ளன. இந்தக் கூட்டுமுயற்சியானது, மேம்பட்ட தொழில்நுட்பம் மூலம் தங்கள் கட்டண நடவடிக்கைகளை மேம்படுத்த விரும்பும் கையகப்படுத்துபவர்கள், கட்டண வழங்குநர்கள் மற்றும் நவீன நிதி நிறுவனங்களை இலக்காகக் கொண்டுள்ளது.",
+    "slug": "silverflow-connects-to-hypergate"
+  },
+  {
+    "id": "717627d7c2271bdb",
+    "title": "Ebanx expands to Pakistan",
+    "summary": "At its annual Payments Summit, EBANX, a global technology company specialising in payment services for emerging markets, unveiled a new wave of product launches and geographic roadmap expansions, doubling down on its drive to solve payment complexity and unlock merchant growth.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111006/ebanx-expands-to-pakistan?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "EBANX",
+      "Pakistan"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T09:10:00.000Z",
+    "fetchedAt": "2026-09-24T09:36:07.549Z",
+    "isDuplicateOf": null,
+    "content": "Global technology company EBANX has announced its expansion into Pakistan during its annual Payments Summit. The firm, known for specializing in payment services for emerging markets, revealed this geographic roadmap expansion as part of a new wave of product launches aimed at solving payment complexities and unlocking growth for merchants.",
+    "content_ta": "Emerging markets-களில் payment services வழங்குவதில் நிபுணத்துவம் பெற்ற உலகளாவிய technology நிறுவனமான EBANX, தனது வருடாந்திர Payments Summit-ல் Pakistan-கிற்கு தனது சேவையை விரிவுபடுத்துவதாக அறிவித்துள்ளது. Merchant-களின் வளர்ச்சியை ஊக்குவிப்பதற்கும் payment சிக்கல்களைத் தீர்ப்பதற்கான தயாரிப்பு வெளியீடுகளின் ஒரு பகுதியாக இந்த விரிவாக்கம் அறிவிக்கப்பட்டுள்ளது.",
+    "slug": "ebanx-expands-to-pakistan"
+  },
+  {
+    "id": "ff0dad2a4d7d0bf4",
+    "title": "TransUnion FCA FOI Finds High Proportion of Individuals Scammed Twice Through Recovery Rooms",
+    "summary": "A Freedom of Information (FOI) request submitted to the FCA by TransUnion found that almost one in five (17%) of all scams reported in 2025 mentioned a form of recovery room scam. This percentage remains stubbornly high, underlining how many people who have already been targeted by a scam continue to be targeted again.\n \nRecovery room scams, where criminals falsely promise to help recover money lost to a previous scam in exchange for an upfront fee, continue to cause significant harm. As many as 70% of these recovery room scams were associated with cryptocurrencies in 2025, with cryptocurrency scams themselves (14%) the third most reported scam type in that year, after FCA impersonation (26%) and recovery room scams (17%).\n \nMadhu Kejriwal, chief executive officer of TransUnion UK and Europe said: “Unfortunately, there is a whole market of scams that target people who have already been defrauded. Once you’ve been a victim, fraudsters can seize the opportunity to target you a second time, and in a lot of cases, this can be effective because they hold verified information on the individual from the original scam.\n \n“In the case of cryptocurrency scams, there is often no obvious route to recover lost funds, unlike traditional banking fraud, where customers can seek assistance from their bank. This naturally opens up an opportunity for criminals to pose as recovery agents.”\n \nTransUnion's Tips for Protecting Against Fraud\n \nPause before you pay. Fraudsters rely on urgency. Any request to transfer money, share a one-time passcode, or act \"immediately\" to avoid a penalty should be treated as a red flag, whatever channel it comes through. \n \nVerify independently. If you receive a call, email or message claiming to be from your bank, a government body or a company you deal with, contact them directly using a number or website you already trust, never one provided in the message itself. When contacting your bank you can use the 159 service, which provides direct connection to official bank contact numbers. If you have received an email which you’re not quite sure about, forward it to the Suspicious Email Reporting Service (SERS): report@phishing.gov.uk   \n \nBe sceptical of unexpected contact, even if it looks or sounds convincing. Always be cautious of an out of the blue contact offering to help recover money. Ask how the caller has the information. Reports of fraud can only be exchanged between law enforcement agencies and cannot be shared with private businesses that operate ‘so called’ recovery room services. Most phone providers are part of an initiative that allows customers to report suspicious text messages for free by forwarding them to 7726. \n \nProtect personal information. Fraudsters increasingly use small pieces of publicly available data to build convincing, personalised scams. Limiting what is shared on social media and being cautious about who you share personal details with can reduce exposure. \n \nUse multi-factor authentication wherever it's offered, particularly for banking, email, and any account linked to payments, as this remains one of the most effective barriers against account takeover.        \n \nReport suspected fraud promptly, both to your bank and to Report Fraud. Early reporting improves the chance of recovering losses and helps build the intelligence picture used to stop similar scams reaching others. \n \nFor businesses, review fraud controls regularly, particularly around payment authorisation and identity verification, given how quickly criminal tactics are evolving alongside the technology. \n \nUnderstand tools available: Use FCA firm checker to check a financial firm is authorised and has regulatory permissions to provide the relevant service.\nNoYesSecurity24 Sep, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/security/transunion-fca-foi-finds-high-proportion-individuals-scammed-twice-through-recovery",
+    "source": "Financial IT",
+    "tags": [
+      "TransUnion",
+      "FCA"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T09:17:40.000Z",
+    "fetchedAt": "2026-09-24T09:36:07.549Z",
+    "isDuplicateOf": null,
+    "content": "A Freedom of Information request found that nearly one in five scams reported in 2025 involved recovery room scams, where fraudsters charge upfront fees to help victims recover lost funds. TransUnion noted that cryptocurrency scams are frequently linked to these schemes, as victims often lack traditional bank protections. Experts advise consumers to independently verify communications and remain highly sceptical of unexpected offers promising fund recovery.",
+    "content_ta": "2025-ல் பதிவான மோசடிகளில் ஐந்தில் ஒன்று recovery room மோசடிகளுடன் தொடர்புடையது என்று Freedom of Information தகவல் கோரிக்கை மூலம் தெரியவந்துள்ளது. இழந்த பணத்தை மீட்டுத் தருவதாகக் கூறி மோசடி செய்பவர்கள் முன்கூட்டியே கட்டணம் வசூலிக்கின்றனர். வழக்கமான வங்கிப் பாதுகாப்பு இல்லாததால் cryptocurrency மோசடிகள் இதுபோன்ற திட்டங்களுடன் அடிக்கடி இணைக்கப்பட்டுள்ளதாக TransUnion குறிப்பிட்டுள்ளது. தகவல் தொடர்புகளைச் சரிபார்த்து, எதிர்பாராத பண மீட்பு சலுகைகள் குறித்து எச்சரிக்கையுடன் இருக்குமாறு நிபுணர்கள் அறிவுறுத்துகின்றனர்.",
+    "slug": "transunion-fca-foi-finds-high-proportion-of-individuals-scammed-twice-through-recovery-rooms"
   }
 ]
