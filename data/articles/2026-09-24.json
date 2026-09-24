@@ -815,5 +815,411 @@
     "content": "As the U.S. midterm elections approach, the potential shift in control of the House of Representatives is sparking discussions regarding future financial regulations. Experts are analyzing how a potential change in leadership could influence policymaking for banking and financial services. Industry stakeholders are preparing for these legislative shifts, as the outcome of the elections remains a critical factor for the regulatory landscape in the coming Congress.",
     "content_ta": "அமெரிக்க இடைத்தேர்தல்கள் நெருங்கி வரும் நிலையில், பிரதிநிதிகள் சபையின் கட்டுப்பாட்டில் ஏற்படக்கூடிய மாற்றங்கள் நிதித்துறை ஒழுங்குமுறைகளில் தாக்கத்தை ஏற்படுத்தக்கூடும் என்று எதிர்பார்க்கப்படுகிறது. புதிய தலைமையின் கீழ் வங்கி மற்றும் நிதிச் சேவைத் துறைகளுக்கான கொள்கைகள் எவ்வாறு அமையும் என்பது குறித்து வல்லுநர்கள் ஆய்வு செய்து வருகின்றனர். வரவிருக்கும் நாடாளுமன்றத்தின் செயல்பாடுகள் மற்றும் ஒழுங்குமுறை மாற்றங்கள் குறித்து நிதித்துறை நிறுவனங்கள் தங்களை தயார்படுத்தி வருகின்றன.",
     "slug": "fintech-after-the-midterms-3-thoughts-on-how-politics-might-impact-policy"
+  },
+  {
+    "id": "d4ced41d935ff972",
+    "title": "MoonPay targets $8.7B trading venue, but the features remain unrevealed",
+    "summary": "The proposed acquisition includes PPEX, an existing private-securities venue. Regulatory approvals and other closing conditions still stand before ownership changes.\nThe post MoonPay targets $8.7B trading venue, but the features remain unrevealed appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/moonpay-targets-8-7b-trading-venue-but-the-features-remain-unrevealed/",
+    "source": "CryptoSlate",
+    "tags": [
+      "MoonPay",
+      "PPEX"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T06:10:05.000Z",
+    "fetchedAt": "2026-09-24T07:44:17.909Z",
+    "isDuplicateOf": null,
+    "content": "MoonPay is reportedly targeting a private-securities trading venue valued at a significant sum in a proposed acquisition deal. The transaction includes the platform PPEX. However, the specific features of the planned venue remain unrevealed. The completion of the deal still depends on obtaining necessary regulatory approvals and satisfying other closing conditions before ownership officially changes.",
+    "content_ta": "MoonPay ஒரு புதிய private-securities வர்த்தக தளத்தை கையகப்படுத்த திட்டமிட்டுள்ளதாக தகவல்கள் வெளியாகியுள்ளன. இந்த ஒப்பந்தத்தில் PPEX தளமும் அடங்கும். எனினும், இதன் சிறப்பம்சங்கள் குறித்த விவரங்கள் இன்னும் வெளியிடப்படவில்லை. இந்த ஒப்பந்தம் முழுமையடைய தேவையான ஒழுங்குமுறை ஒப்புதல்களும் இதர நிபந்தனைகளும் பூர்த்தி செய்யப்பட வேண்டும்.",
+    "slug": "moonpay-targets-8-7b-trading-venue-but-the-features-remain-unrevealed"
+  },
+  {
+    "id": "d4b4736224549afa",
+    "title": "Sui Testnet v1.80.1 Expands Protocol 137 Features For Node Operators",
+    "summary": "TL;DR Mysten Labs has released Sui testnet v1.80.1 using protocol version 137. The build includes updates across protocol logic, GraphQL, JSON-RPC and archival services. This is a testnet release and should not be described as a live Sui mainnet upgrade. Mysten Labs has published Sui testnet v1.80.1, giving developers and infrastructure operators an early look at protocol version 137 changes before they move further through the release process. The build touches several parts of the stack, from Move execution and RPC behavior to archival services. Protocol 137 Adds Several Developer-Facing Changes The release expands what can be tested around cryptographic verification, package visibility and data services. Among the changes, Ristretto255 range-proof verification becomes cheaper and supports larger batches, while the GraphQL subscription root moves into the production schema for operators that choose to enable it. Archival infrastructure also gets broader package-query support through the Bigtable-backed gRPC service. Those are not the kinds of changes most SUI holders will notice directly, but they matter to teams building wallets, indexers, trading systems and applications that depend on reliable network data. The update also changes some execution and gas-accounting behavior under protocol version 137. Testnet Means Exactly That The important caveat is deployment status. v1.80.1 is a testnet build. It should not be described as a completed Sui mainnet upgrade, and any performance or behavior observed in the test environment should not automatically be treated as live mainnet behavior. That is precisely why testnet releases exist. They give operators and developers time to identify compatibility issues before a version becomes part of the production network. For Sui, the release shows continued movement across the infrastructure stack without requiring users to take any immediate action. The more interesting question comes later: which of these protocol 137 changes graduate into mainnet, and how smoothly the ecosystem absorbs them when they do. Developers will also be watching compatibility rather than just new features. Changes to GraphQL, JSON-RPC and execution behavior can affect tooling even when no user-facing migration is required, so testnet gives indexers and application teams a place to catch assumptions before they become production incidents. Sui’s release cadence has been fast, which makes that staging process particularly important. A protocol version can look impressive in a changelog, but the real test is whether wallets, RPC services and applications continue working cleanly once the same code path reaches a busier environment. This article was written by the News Desk and edited by Samuel Rae.",
+    "hasSummary": true,
+    "link": "https://www.newsbtc.com/altcoins/sui-testnet-v1-80-1-expands-protocol-137-features-for-node-operators/",
+    "source": "NewsBTC",
+    "tags": [
+      "Mysten Labs",
+      "Sui"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T07:30:00.000Z",
+    "fetchedAt": "2026-09-24T07:44:17.909Z",
+    "isDuplicateOf": null,
+    "content": "Mysten Labs has released Sui testnet v1.80.1, introducing protocol version 137 to give node operators and developers an early look at new features. The update includes updates to Move execution, GraphQL, JSON-RPC, and archival services. It features cheaper Ristretto255 range-proof verification and broader package-query support. As this is strictly a testnet release, users and developers should test compatibility before any potential mainnet deployment.",
+    "content_ta": "Mysten Labs நிறுவனம் Sui டெஸ்ட்நெட் v1.80.1 பதிப்பை வெளியிட்டுள்ளது. இது நோட் ஆபரேட்டர்கள் மற்றும் டெவலப்பர்களுக்கு புரோட்டோகால் பதிப்பு 137 இன் புதிய அம்சங்களை முன்கூட்டியே பரிசோதிக்க உதவுகிறது. இந்த அப்டேட்டில் மூவ் எக்ஸிகியூஷன், GraphQL, JSON-RPC மற்றும் ஆர்ச்சிவல் சேவைகளுக்கான மேம்பாடுகள் அடங்கியுள்ளன. இது டெஸ்ட்நெட் வெளியீடு மட்டுமே என்பதால், மெயின்நெட்டில் வெளியிடப்படுவதற்கு முன்பு டெவலப்பர்கள் இணக்கத்தன்மையை சோதிக்க வேண்டும்.",
+    "slug": "sui-testnet-v1-80-1-expands-protocol-137-features-for-node-operators"
+  },
+  {
+    "id": "3b3c7b521dab551b",
+    "title": "Ondo Pushes USDY Deeper Into Solana DeFi",
+    "summary": "TL;DR Ondo Finance says its USDY tokenized yield product is expanding across Solana DeFi venues. USDY is a yield-bearing tokenized note backed by short-term US Treasuries and bank deposits, not a conventional $1 stablecoin. The expansion builds on Ondo’s wider effort to make tokenized real-world assets usable inside DeFi rather than leaving them as passive holdings. Ondo Finance is pushing its tokenized US dollar yield product further into the Solana ecosystem, adding more places where USDY can be used rather than simply held. The move matters because tokenized real-world assets are increasingly being judged on utility, not just issuance volume. USDY Is A Yield Product, Not A Standard Stablecoin USDY is designed to represent exposure to short-term US Treasury and bank-deposit assets while accruing yield over time. That makes it structurally different from a conventional stablecoin such as USDC or USDT, which aims to stay close to a fixed $1 redemption value. As USDY integrates with Solana lending, liquidity and trading venues, holders can potentially use the asset as productive collateral or liquidity while still retaining exposure to the underlying yield profile. For Ondo, that is an important step. A tokenized Treasury product becomes much more useful when it can move through the same DeFi workflows as crypto-native collateral. Solana Is Becoming A Bigger RWA Distribution Layer Solana’s appeal for tokenized assets is straightforward: fast settlement, low transaction costs and an active DeFi ecosystem. Those characteristics make it easier for institutional-style assets to circulate rather than sitting in isolated wallets. The challenge is preserving the compliance and redemption structure of a regulated asset while making it composable enough to be useful onchain. Ondo has been steadily working on that bridge. The company’s recent product expansion has included tokenized equities and new institutional minting routes. Bringing USDY into more Solana applications extends the same strategy to yield-bearing dollar assets. The key distinction is that USDY should not be described as a bank-issued stablecoin. It is a tokenized note with a yield component. That difference affects how users should think about price behavior, eligibility and redemption — even as the asset becomes increasingly integrated with DeFi. For Solana applications, the attraction is that USDY brings a different type of collateral into the ecosystem. A lending market that accepts a yield-bearing Treasury-linked token can potentially offer users a lower-volatility building block alongside SOL and crypto-native stablecoins. That can broaden what DeFi protocols are able to construct, especially for users who want onchain liquidity without taking the full price risk of a volatile token. The harder part will be keeping liquidity deep enough that those integrations remain useful during redemptions and periods of market stress. This article was written by the News Desk and edited by Samuel Rae.",
+    "hasSummary": true,
+    "link": "https://www.newsbtc.com/altcoins/ondo-pushes-usdy-deeper-into-solana-defi/",
+    "source": "NewsBTC",
+    "tags": [
+      "Ondo Finance",
+      "Solana",
+      "USDY"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T06:30:00.000Z",
+    "fetchedAt": "2026-09-24T07:44:17.909Z",
+    "isDuplicateOf": null,
+    "content": "Ondo Finance is expanding its USDY tokenized yield product across Solana DeFi venues. USDY is a yield-bearing note backed by short-term US Treasuries and bank deposits, differing from conventional stablecoins. The integration aims to increase the utility of tokenized real-world assets within Solana by allowing USDY to be used as productive collateral or liquidity.",
+    "content_ta": "Ondo Finance தனது USDY tokenized yield product-ஐ Solana DeFi தளங்களில் விரிவுபடுத்துகிறது. USDY என்பது short-term US Treasuries மற்றும் bank deposits மூலம் ஆதரிக்கப்படும் yield-bearing note ஆகும். இது conventional stablecoins-லிருந்து மாறுபட்டது. இந்த integration மூலம் USDY-ஐ productive collateral அல்லது liquidity-ஆக பயன்படுத்தி, Solana-வில் tokenized real-world assets-ன் utility-ஐ அதிகரிப்பதை நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "ondo-pushes-usdy-deeper-into-solana-defi"
+  },
+  {
+    "id": "391667f6c52afe00",
+    "title": "Bitcoin Whales Bought the Dip – Now They’re Doubling Down on the Rally",
+    "summary": "Bitcoin breaks higher as large holders accumulate, but Wall Street money has also emerged as a major force behind the rally.",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/bitcoin-whales-bought-the-dip-now-theyre-doubling-down-on-the-rally/",
+    "source": "CryptoPotato",
+    "tags": [
+      "Bitcoin",
+      "Wall Street"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T07:08:23.000Z",
+    "fetchedAt": "2026-09-24T07:44:17.909Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin prices have moved higher as large holders, often called whales, actively accumulated the cryptocurrency during recent market dips. These major investors are now doubling down on their positions as the current market rally strengthens. Additionally, growing institutional investment from Wall Street has emerged as a significant driving force behind the upward price movement.",
+    "content_ta": "சமீபத்திய சந்தை சரிவின் போது பெரிய முதலீட்டாளர்கள் எனப்படும் வேல்ஸ் தொடர்ந்து Bitcoin-ஐ சேகரித்ததால், அதன் விலை உயர்ந் துள்ளது. தற்போதைய சந்தை எழுச்சி வலுப்பெற்று வருவதால், இந்த முக்கிய முதலீட்டாளர்கள் தங்கள் முதலீடுகளை மேலும் இரட்டிப்பாக்கி வருகின்றனர். கூடுதலாக, Wall Street-இன் நிறுவன முதலீடுகளும் இந்த விலை உயர்வுக்கு முக்கியக் காரணமாக மாறியுள்ளன.",
+    "slug": "bitcoin-whales-bought-the-dip-now-they-re-doubling-down-on-the-rally"
+  },
+  {
+    "id": "86b0cdee14fd156e",
+    "title": "Why is XCN up today? Onyxcoin’s Chain.com deal, rising users & more…",
+    "summary": "The XCN crypto rally started in August, when a year-long trendline resistance was breached.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/why-is-xcn-up-today-onyxcoins-chain-com-deal-rising-users-more/",
+    "source": "AMBCrypto",
+    "tags": [
+      "XCN",
+      "Onyxcoin",
+      "Chain.com"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T07:30:54.000Z",
+    "fetchedAt": "2026-09-24T07:44:17.909Z",
+    "isDuplicateOf": null,
+    "content": "XCN surged recently following a strategic deal by Onyxcoin involving Chain.com, alongside a growing user base. The cryptocurrency's upward momentum began in August after breaking through a long-term trendline resistance that had persisted for a year, driving renewed market interest and higher trading activity.",
+    "content_ta": "Onyxcoin மற்றும் Chain.com இடையேயான ஒப்பந்தம் மற்றும் அதிகரித்து வரும் பயனர்களின் எண்ணிக்கை காரணமாக XCN விலை கணிசமாக உயர்ந்துள்ளது. கடந்த ஆகஸ்ட் மாதத்தில் நீண்ட கால எதிர்ப்புக் கோட்டை (trendline resistance) வெற்றிகரமாகத் தாண்டியதைத் தொடர்ந்து இந்த கிரிப்டோகரன்சியின் விலை உயர்வு தொடங்கியது.",
+    "slug": "why-is-xcn-up-today-onyxcoin-s-chain-com-deal-rising-users-more"
+  },
+  {
+    "id": "217c52df302fdbce",
+    "title": "Coinbase Scammer Gets Jail Time After Stealing Nearly $16 Million From Users",
+    "summary": "The case highlights the persistent vulnerabilities in crypto security and the challenges of recovering stolen assets despite legal victories.\nThe post Brooklyn man sentenced to 12 years for stealing $16M from Coinbase users appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://u.today/coinbase-scammer-gets-jail-time-after-stealing-nearly-16-million-from-users",
+    "source": "U.Today",
+    "tags": [
+      "Coinbase",
+      "Brooklyn"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T06:29:04.000Z",
+    "fetchedAt": "2026-09-24T07:44:17.909Z",
+    "isDuplicateOf": null,
+    "content": "A Brooklyn man has been sentenced to 12 years in prison after stealing nearly $16 million from Coinbase users. This case highlights ongoing vulnerabilities in crypto security and underscores the severe legal consequences for cyber criminals, even as recovering stolen digital assets remains a significant challenge for victims.",
+    "content_ta": "Coinbase யூசர்களிடமிருந்து கிட்டத்தட்ட 16 மில்லியன் டாலர்களைத் திருடிய ப்ராக்குலினைச் சேர்ந்த நபருக்கு 12 ஆண்டுகள் சிறை தண்டனை விதிக்கப்பட்டுள்ளது. கிரிப்டோ பாதுகாப்பு முறைகளில் உள்ள குறைபாடுகளையும், பாதிக்கப்பட்டவர்கள் தங்கள் இழந்த சொத்துக்களை மீட்பதில் உள்ள சவால்களையும் இந்தச் சம்பவம் வெளிச்சம் போட்டுக் காட்டுகிறது.",
+    "slug": "coinbase-scammer-gets-jail-time-after-stealing-nearly-16-million-from-users"
+  },
+  {
+    "id": "810ba57026641180",
+    "title": "Claude Found a Novel Enzyme System Experts Missed, and Nobody Knows What It Does",
+    "summary": "Anthropic says Claude has discovered a previously unknown enzyme system in the DNA of viruses that infect bacteria. Earlier studies had recorded the enzyme at its core but appear to have missed what surrounds it. Anthropic published the findings on September 23. The findings stand as key evidence that AI can now spot patterns human\nThe post Claude Found a Novel Enzyme System Experts Missed, and Nobody Knows What It Does appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/claude-novel-enzyme-system-viral-dna/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Anthropic"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T07:20:26.000Z",
+    "fetchedAt": "2026-09-24T07:44:17.909Z",
+    "isDuplicateOf": null,
+    "content": "Anthropic reports that its Claude AI has discovered a previously unknown enzyme system within virus DNA that infects bacteria. While previous studies noted parts of the enzyme, they missed the surrounding system. Published on September 23, these findings serve as significant evidence that artificial intelligence can successfully identify complex patterns that human researchers have overlooked.",
+    "content_ta": "பாக்டீரியாக்களைத் தாக்கும் வைரஸ்களின் DNA-வில் முன்பு அறியப்படாத புதிய என்சைம் அமைப்பைக் கண்டுபிடித்துள்ளதாக Anthropic நிறுவனம் தெரிவித்துள்ளது. இந்த என்சைமின் மையப் பகுதியைக் கடந்த கால ஆய்வுகள் பதிவு செய்திருந்தாலும், அதைச் சுற்றியுள்ள பகுதிகளை அவை தவறவிட்டுள்ளன. செப்டம்பர் 23 அன்று வெளியிடப்பட்ட இந்த முடிவுகள், மனித ஆராய்ச்சியாளர்கள் கவனிக்க தவறிய சிக்கலான வடிவங்களை AI வெற்றிகரமாகக் கண்டறிய முடியும் என்பதற்கு முக்கியச் சான்றாக அமைகின்றன.",
+    "slug": "claude-found-a-novel-enzyme-system-experts-missed-and-nobody-knows-what-it-does"
+  },
+  {
+    "id": "7d96c707957d6a90",
+    "title": "XT Exchange Marks Eight Years With a Standard That Has to Be Met Again Every Day",
+    "summary": "Digital assets have moved from a speculative curiosity to an infrastructure that touches payments, portfolios, and everyday spending for millions of people across very different regulatory environments. Platforms that operated through that shift did not earn a permanent reputation on day one. They earned it, or lost it, one market cycle, one product decision and\nThe post XT Exchange Marks Eight Years With a Standard That Has to Be Met Again Every Day appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/xt-exchange-marks-eight-years/",
+    "source": "BeInCrypto",
+    "tags": [
+      "XT Exchange"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T06:37:53.000Z",
+    "fetchedAt": "2026-09-24T07:44:17.909Z",
+    "isDuplicateOf": null,
+    "content": "XT Exchange is celebrating its eighth anniversary in the digital asset industry. As the crypto sector evolved from speculative trading into a global financial infrastructure, the platform emphasized that maintaining its reputation requires continuous effort through changing market cycles and product decisions.",
+    "content_ta": "XT Exchange தனது எட்டாவது ஆண்டு நிறைவைக் கொண்டாடுகிறது. கிரிப்டோ துறை ஊக வணிகத்திலிருந்து உலகளாவிய நிதி உள்கட்டமைப்பாக மாறியுள்ள நிலையில், சந்தை சுழற்சிகள் மற்றும் தயாரிப்பு முடிவுகள் மூலம் தனது நற்பெயரைத் தக்கவைக்க தொடர்ந்து முயற்சிக்க வேண்டும் என்று இந்த தளம் வலியுறுத்தியுள்ளது.",
+    "slug": "xt-exchange-marks-eight-years-with-a-standard-that-has-to-be-met-again-every-day"
+  },
+  {
+    "id": "01882416955275c4",
+    "title": "Hyperliquid’s native token listed for spot trading on Binance",
+    "summary": "The Binance listing of HYPE could enhance its global liquidity and market presence, but also introduces volatility risks for new investors.\nThe post Hyperliquid’s native token listed for spot trading on Binance appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/hyperliquid-hype-spot-trading-binance/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Binance",
+      "Hyperliquid"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T07:39:16.000Z",
+    "fetchedAt": "2026-09-24T07:44:17.909Z",
+    "isDuplicateOf": null,
+    "content": "Binance has listed Hyperliquid’s native token, HYPE, for spot trading. This major listing is expected to boost the cryptocurrency's global liquidity and market visibility. However, analysts warn that new investors should also anticipate potential price volatility following the launch on the exchange.",
+    "content_ta": "Binance-ல் Hyperliquid-ன் சொந்த டோக்கனான HYPE ஸ்பாட் வர்த்தகத்திற்காக பட்டியலிடப்பட்டுள்ளது. இந்த முக்கிய பட்டியலிடுதல் கிரிப்டோகரன்சியின் உலகளாவிய பணப்புழக்கம் மற்றும் சந்தை பார்வையை அதிகரிக்கும் என்று எதிர்பார்க்கப்படுகிறது. இருப்பினும், இந்த பரிமாற்ற தொடக்கத்தைத் தொடர்ந்து புதிய முதலீட்டாளர்கள் சாத்தியமான விலை ஏற்ற இறக்கங்களையும் எதிர்பார்க்க வேண்டும் என்று ஆய்வாளர்கள் எச்சரிக்கின்றனர்.",
+    "slug": "hyperliquid-s-native-token-listed-for-spot-trading-on-binance"
+  },
+  {
+    "id": "88643ae4b39b8866",
+    "title": "UniX AI expands globally as Unitree Robotics prepares for IPO",
+    "summary": "UniX AI's rapid global expansion and Unitree's IPO highlight the growing investor confidence and competitive dynamics in the robotics sector.\nThe post UniX AI expands globally as Unitree Robotics prepares for IPO appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/unix-ai-global-expansion-ipo/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "UniX AI",
+      "Unitree Robotics"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T07:35:58.000Z",
+    "fetchedAt": "2026-09-24T07:44:17.909Z",
+    "isDuplicateOf": null,
+    "content": "UniX AI is expanding its presence globally, coinciding with Unitree Robotics preparing for an initial public offering. These developments underscore growing investor confidence and evolving competitive dynamics within the robotics sector, reflecting increased momentum and commercial interest in advanced automation technologies as both companies scale their operations and market reach.",
+    "content_ta": "UniX AI நிறுவனத்தின் உலகளாவிய விரிவாக்கமும், Unitree Robotics நிறுவனத்தின் ஐபிஓ (IPO) தயாரிப்புகளும் ரோபாட்டிக்ஸ் துறையில் முதலீட்டாளர்களின் நம்பிக்கையையும் போட்டித்திறனையும் காட்டுகின்றன.",
+    "slug": "unix-ai-expands-globally-as-unitree-robotics-prepares-for-ipo"
+  },
+  {
+    "id": "6029754b2ca79bc9",
+    "title": "Trump and Xi discuss AI superpower ambitions amid global rivalry",
+    "summary": "The US-China AI talks highlight the delicate balance between competition and cooperation, influencing global tech policies and market dynamics.\nThe post Trump and Xi discuss AI superpower ambitions amid global rivalry appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/trump-xi-ai-superpower-rivalry/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Donald Trump",
+      "Xi Jinping",
+      "United States",
+      "China"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T07:20:57.000Z",
+    "fetchedAt": "2026-09-24T07:44:17.909Z",
+    "isDuplicateOf": null,
+    "content": "Donald Trump and Xi Jinping recently discussed artificial intelligence superpower ambitions amidst ongoing global rivalry. The talks between the US and China highlight the delicate balance between technological competition and cooperation, which is expected to significantly influence global tech policies and market dynamics moving forward.",
+    "content_ta": "Donald Trump மற்றும் Xi Jinping இருவரும் உலகளாவிய போட்டிக்கு மத்தியில் செயற்கை நுண்ணறிவு (AI) துறையில் வல்லரசு ஆவதற்கான லட்சியங்கள் குறித்து விவாதித்தனர். US மற்றும் China இடையேயான இந்த பேச்சுவார்த்தைகள் தொழில்நுட்ப போட்டிக்கும் ஒத்துழைப்புக்கும் இடையிலான நுட்பமான சமநிலையை எடுத்துக்காட்டுகின்றன, இது உலகளாவிய தொழில்நுட்ப கொள்கைகளையும் சந்தை இயக்கவியலையும் கணிசமாக பாதிக்கும் என்று எதிர்பார்க்கப்படுகிறது.",
+    "slug": "trump-and-xi-discuss-ai-superpower-ambitions-amid-global-rivalry"
+  },
+  {
+    "id": "68a39bf6d3df629f",
+    "title": "BlackRock and IFM in exclusive talks for $25B data center deal",
+    "summary": "The deal underscores the growing trend of major asset managers investing heavily in AI infrastructure, reshaping the data center landscape.\nThe post BlackRock and IFM in exclusive talks for $25B data center deal appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/blackrock-ifm-25b-data-center-deal/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "BlackRock",
+      "IFM"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T07:07:49.000Z",
+    "fetchedAt": "2026-09-24T07:44:17.909Z",
+    "isDuplicateOf": null,
+    "content": "Asset management giants BlackRock and IFM are reportedly in exclusive discussions regarding a massive 25 billion dollar data center deal. This potential agreement highlights the accelerating trend of major financial institutions pouring substantial capital into artificial intelligence infrastructure, which is significantly transforming the global data center landscape.",
+    "content_ta": "அசெட் மேனேஜ்மெண்ட் நிறுவனங்களான BlackRock மற்றும் IFM ஆகியவை 25 பில்லியன் டாலர் மதிப்பிலான டேட்டா சென்டர் ஒப்பந்தம் குறித்து பிரத்தியேக பேச்சுவார்த்தைகளில் ஈடுபட்டுள்ளதாகத் தகவல்கள் வெளியாகியுள்ளன. இந்த ஒப்பந்தம் AI உள்கட்டமைப்பில் நிறுவனங்கள் அதிகளவில் முதலீடு செய்யும் போக்கைக் காட்டுகிறது.",
+    "slug": "blackrock-and-ifm-in-exclusive-talks-for-25b-data-center-deal"
+  },
+  {
+    "id": "ca54ed11c88a99b5",
+    "title": "Brahma AI valued at $2B after $150M fundraise from Multiples",
+    "summary": "Brahma AI's valuation surge highlights the growing demand for AI-driven content solutions, potentially reshaping industries like media and healthcare.\nThe post Brahma AI valued at $2B after $150M fundraise from Multiples appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/brahma-ai-2b-valuation-150m-fundraise/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Brahma AI",
+      "Multiples"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T06:17:50.000Z",
+    "fetchedAt": "2026-09-24T07:44:17.909Z",
+    "isDuplicateOf": null,
+    "content": "Brahma AI has achieved a valuation of $2 billion following a successful $150 million funding round led by Multiples. This substantial investment underscores the increasing global demand for artificial intelligence-driven content solutions, which are rapidly transforming and reshaping major industries such as media and healthcare.",
+    "content_ta": "Multiples நிறுவனத்திடமிருந்து $150 மில்லியன் நிதி திரட்டியதைத் தொடர்ந்து Brahma AI நிறுவனத்தின் மதிப்பு $2 பில்லியனாக உயர்ந்துள்ளது. மீடியா மற்றும் ஹெல்த்கேர் போன்ற முக்கிய துறைகளை வேகமாக மாற்றி வரும் AI அடிப்படையிலான கன்டென்ட் தீர்வுகளுக்கான தேவையின் அதிகரிப்பை இந்த முதலீடு காட்டுகிறது.",
+    "slug": "brahma-ai-valued-at-2b-after-150m-fundraise-from-multiples"
+  },
+  {
+    "id": "33e6f9880a946767",
+    "title": "OECD cuts Turkey’s 2026 growth forecast amid Iran war, rising prices",
+    "summary": "Turkey's downgraded growth forecast highlights vulnerabilities to geopolitical tensions and inflation, potentially impacting regional stability.\nThe post OECD cuts Turkey’s 2026 growth forecast amid Iran war, rising prices appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/oecd-cuts-turkeys-2026-growth-forecast-amid-iran-war-rising-prices/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "OECD",
+      "Turkey",
+      "Iran"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T06:16:25.000Z",
+    "fetchedAt": "2026-09-24T07:44:17.909Z",
+    "isDuplicateOf": null,
+    "content": "The OECD has lowered Turkey's growth forecast for 2026, pointing to pressures from rising prices and regional conflict involving Iran. This downgrade underscores the nation's economic vulnerabilities amid ongoing geopolitical tensions and inflationary challenges, which could have broader implications for regional stability.",
+    "content_ta": "ஈரான் போர் மற்றும் அதிகரித்து வரும் விலைவாசி உயர்வை சுட்டிக்காட்டி, Turkey-ன் 2026-ஆம் ஆண்டுக்கான வளர்ச்சி மதிப்பீட்டை OECD குறைத்துள்ளது. புவிசார் அரசியல் பதட்டங்கள் மற்றும் பணவீக்க சவால்களுக்கு மத்தியில் நாட்டின் பொருளாதார பாதிப்புகளை இந்த தரவிறக்கம் அடிக்கோடிட்டுக் காட்டுகிறது.",
+    "slug": "oecd-cuts-turkey-s-2026-growth-forecast-amid-iran-war-rising-prices"
+  },
+  {
+    "id": "b205334963ab04ca",
+    "title": "Crypto ETF Expansion: How to Understand Fund Flow Signals Beyond Catcrs",
+    "summary": "The post Crypto ETF Expansion: How to Understand Fund Flow Signals Beyond Catcrs appeared first on Coinpedia Fintech News\nWhenever news of inflows into crypto ETFs appears, a familiar discussion often emerges in the market: is a new round of market momentum about to begin? For users following Catcrs, this type of information is certainly worth watching. However, rather than rushing to convert the figures into expectations of price increases, it is better to …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/guest-post/crypto-etf-expansion-how-to-understand-fund-flow-signals-beyond-catcrs/",
+    "source": "Coinpedia",
+    "tags": [
+      "Catcrs",
+      "Crypto ETF"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T07:18:03.000Z",
+    "fetchedAt": "2026-09-24T07:44:17.909Z",
+    "isDuplicateOf": null,
+    "content": "Recent news about inflows into Crypto ETFs often sparks discussions regarding potential market momentum. While followers of Catcrs closely monitor these fund flow signals, experts suggest that investors should look beyond surface-level figures rather than automatically expecting immediate price increases.",
+    "content_ta": "Crypto ETF-களில் பணவரவு குறித்த சமீபத்திய செய்திகள் சந்தையின் உத்வேகம் குறித்த விவாதங்களைத் தூண்டுகின்றன. Catcrs-ஐப் பின்பற்றுபவர்கள் இந்த நிதிப் பாய்வு சமிக்ஞைகளைக் கவனித்தாலும், முதலீட்டாளர்கள் உடனடியாக விலை உயர்வை எதிர்பார்ப்பதை விட ஆழமாகப் பார்க்க வேண்டும் என்று நிபுணர்கள் பரிந்துரைக்கின்றனர்.",
+    "slug": "crypto-etf-expansion-how-to-understand-fund-flow-signals-beyond-catcrs"
+  },
+  {
+    "id": "89f75aa26cbea34b",
+    "title": "UK Banks Make History With First Interbank Transactions Using Tokenized Deposits",
+    "summary": "The post UK Banks Make History With First Interbank Transactions Using Tokenized Deposits appeared first on Coinpedia Fintech News\nUK Finance has announced the first interbank transactions using blockchain-based tokenized deposits. Britain’s biggest banks, including Lloyds, NatWest, Barclays and HSBC, completed real-world tests across mortgage and online payments.The move could now open the door to faster bank payments, a new way to use digital money and tokenized bonds. UK Banks Test Tokenized Deposits in …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/news/uk-banks-make-history-with-first-interbank-transactions-using-tokenized-deposits/",
+    "source": "Coinpedia",
+    "tags": [
+      "UK Finance",
+      "Lloyds",
+      "NatWest",
+      "Barclays",
+      "HSBC",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T07:15:14.000Z",
+    "fetchedAt": "2026-09-24T07:44:17.909Z",
+    "isDuplicateOf": null,
+    "content": "UK Finance has announced the completion of the first interbank transactions using blockchain-based tokenized deposits. Major British banks, including Lloyds, NatWest, Barclays, and HSBC, successfully tested the technology across real-world use cases like mortgage and online payments. This milestone development paves the way for potentially faster banking operations, advanced digital money solutions, and the wider adoption of tokenized bonds across the financial sector.",
+    "content_ta": "UK Finance அமைப்பு பிளாக்செயின் அடிப்படையிலான டோக்கன் செய்யப்பட்ட டெபாசிட்டுகளைப் பயன்படுத்தி முதல் இன்டர்பேங்க் பரிவர்த்தனைகள் வெற்றிகரமாக முடிக்கப்பட்டுள்ளதாக அறிவித்துள்ளது. Lloyds, NatWest, Barclays மற்றும் HSBC உள்ளிட்ட பெரிய பிரிட்டிஷ் வங்கிகள், அடமானம் மற்றும் ஆன்லைன் பேமெண்ட்கள் போன்ற நிஜ உலக பயன்பாடுகளில் இந்த தொழில்நுட்பத்தை வெற்றிகரமாக பரிசோதித்துள்ளன. இந்த முக்கிய மைல்கல் நடவடிக்கை மூலம் எதிர்காலத்தில் வங்கி பேமெண்ட்கள் மிகவும் வேகமாகவும், புதிய டிஜிட்டல் பண முறைகளும் பயன்பாட்டுக்கு வர வாய்ப்புள்ளது.",
+    "slug": "uk-banks-make-history-with-first-interbank-transactions-using-tokenized-deposits"
+  },
+  {
+    "id": "a80941a09b9cf454",
+    "title": "Beyond Holding: How PrimeXBT Supports Every Stage of the Crypto Trader Journey",
+    "summary": "The post Beyond Holding: How PrimeXBT Supports Every Stage of the Crypto Trader Journey appeared first on Coinpedia Fintech News\nFor many people, the crypto journey begins with buying an asset and holding it. As their knowledge and confidence develop, however, some users begin looking beyond long-term ownership. They may trade shorter-term price movements, explore derivatives or follow the wider macroeconomic forces influencing digital assets. PrimeXBT, a global multi-asset broker and crypto assets service provider, …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/information/how-primexbt-supports-every-stage-of-the-crypto-trader-journey/",
+    "source": "Coinpedia",
+    "tags": [
+      "PrimeXBT"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T07:02:12.000Z",
+    "fetchedAt": "2026-09-24T07:44:17.909Z",
+    "isDuplicateOf": null,
+    "content": "PrimeXBT is a global multi-asset broker and crypto assets service provider designed to support users at every stage of their trading journey. While many individuals start by buying and holding assets, PrimeXBT caters to evolving needs by offering tools for short-term trading, derivatives, and tracking wider macroeconomic forces influencing the digital asset market.",
+    "content_ta": "PrimeXBT என்பது ஒரு உலகளாவிய பல சொத்து தரகர் மற்றும் கிரிப்டோ சொத்து சேவை வழங்குநராகும், இது பயனர்களின் வர்த்தகப் பயணத்தின் ஒவ்வொரு நிலையிலும் அவர்களுக்கு உதவ வடிவமைக்கப்பட்டுள்ளது. பல நபர்கள் சொத்துகளை வாங்கி வைத்திருப்பதன் மூலம் தொடங்கினாலும், PrimeXBT ஆனது குறுகிய கால வர்த்தகம், டெரிவேட்டிவ்கள் மற்றும் பரந்த பொருளாதார சக்திகளைக் கண்டறியும் கருவிகளை வழங்குவதன் மூலம் அவர்களின் வளர்ந்து வரும் தேவைகளைப் பூர்த்தி செய்கிறது.",
+    "slug": "beyond-holding-how-primexbt-supports-every-stage-of-the-crypto-trader-journey"
+  },
+  {
+    "id": "a94ce6ac807c0bbd",
+    "title": "Could BTC Reach $300K? Bitcoin Price Prediction 2027–2030 as Apeing’s 1,718% Potential ROI Puts Best Crypto to Buy in Focus",
+    "summary": "The post Could BTC Reach $300K? Bitcoin Price Prediction 2027–2030 as Apeing’s 1,718% Potential ROI Puts Best Crypto to Buy in Focus appeared first on Coinpedia Fintech News\nBitcoin remains the largest cryptocurrency by market capitalization, with the current BTC price at $86,199.37 and a market capitalization of approximately $1.73 trillion. With 20.08 million BTC circulating against a maximum supply of 21 million, Bitcoin continues to dominate discussions around the best crypto to buy as the market looks toward the next several years. …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/press-release/bitcoin-price-prediction-apeings-potential-roi-puts-best-crypto-to-buy-in-focus/",
+    "source": "Coinpedia",
+    "tags": [
+      "Bitcoin",
+      "Apeing"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T06:05:11.000Z",
+    "fetchedAt": "2026-09-24T07:44:17.909Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin currently trades at $86,199.37 with a market capitalization of approximately $1.73 trillion, maintaining its position as the largest cryptocurrency. With over 20 million BTC circulating out of a 21 million maximum supply, Bitcoin remains central to long-term price predictions and market discussions stretching toward 2030, alongside emerging high-yield altcoin investment opportunities like Apeing.",
+    "content_ta": "Bitcoin தற்போது $86,199.37 விலையில் வர்த்தகம் செய்யப்படுகிறது மற்றும் இதன் சந்தை மதிப்பு சுமார் $1.73 டிரில்லியன் ஆகும். இது மிகப்பெரிய கிரிப்டோகரன்சியாக தனது நிலையைத் தொடர்கிறது. 21 மில்லியன் மொத்த விநியோகத்தில் 20 மில்லியனுக்கும் அதிகமான BTC சுழற்சியில் உள்ள நிலையில், 2030 ஆம் ஆண்டு வரை நீளும் நீண்ட கால விலை கணிப்புகளில் Bitcoin முக்கிய பங்கு வகிக்கிறது.",
+    "slug": "could-btc-reach-300k-bitcoin-price-prediction-2027-2030-as-apeing-s-1-718-potential-roi-puts-best"
+  },
+  {
+    "id": "e4b003ae7cb8510a",
+    "title": "Trump Gearing Up for 90-Day Diesel Export Ban – But Energy Secretary Wright Says Idea Would Not Work",
+    "summary": "Politico says the White House is preparing a short diesel export halt to cool record prices, as diesel futures fall and officials debate voluntary limits instead of a flat ban.\nThe post Trump Gearing Up for 90-Day Diesel Export Ban – But Energy Secretary Wright Says Idea Would Not Work appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/09/24/trump-gearing-up-for-90-day-diesel-export-ban-but-energy-secretary-wright-says-idea-would-not-work/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "White House",
+      "Wright",
+      "Politico"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T07:04:26.000Z",
+    "fetchedAt": "2026-09-24T07:44:17.909Z",
+    "isDuplicateOf": null,
+    "content": "The White House is reportedly preparing a temporary 90-day ban on diesel exports aimed at cooling record prices amid falling futures. However, Energy Secretary Wright has publicly stated that the proposed idea would not work, as officials debate implementing voluntary limits rather than enforcing a flat export ban.",
+    "content_ta": "டீசல் விலையைக் கட்டுப்படுத்த வெள்ளை மாளிகை 90 நாட்களுக்கு டீசல் ஏற்றுமதிக்கு தற்காலிக தடை விதிக்க தயாராகி வருவதாகத் தகவல்கள் வெளியாகியுள்ளன. இருப்பினும், இந்த யோசனை பலனளிக்காது என்று Energy Secretary Wright தெரிவித்துள்ளார். மேலும், கடுமையான தடைக்குப் பதிலாக தன்னார்வ வரம்புகளை அமல்படுத்துவது குறித்து அதிகாரிகள் விவாதித்து வருகின்றனர்.",
+    "slug": "trump-gearing-up-for-90-day-diesel-export-ban-but-energy-secretary-wright-says-idea-would-not-work"
+  },
+  {
+    "id": "3a49f96ee565e449",
+    "title": "Why You Shouldn’t Miss The Next Cryptocurrency Bull Run",
+    "summary": "The cryptocurrency market market could enter another bull run by the end of this year. Bitcoin (BTC) is…",
+    "hasSummary": true,
+    "link": "https://watcher.guru/news/why-you-shouldnt-miss-the-next-cryptocurrency-bull-run",
+    "source": "Watcher.Guru",
+    "tags": [
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T07:02:00.000Z",
+    "fetchedAt": "2026-09-24T07:44:17.909Z",
+    "isDuplicateOf": null,
+    "content": "The cryptocurrency market could experience another major bull run by the end of this year. Analysts and market observers are closely watching digital assets, particularly Bitcoin, as market conditions suggest a potential upward trend. Investors who missed previous market surges are paying attention to the evolving economic landscape and signals pointing toward renewed growth in the digital currency sector.",
+    "content_ta": "இந்த ஆண்டின் இறுதிக்குள் Cryptocurrency சந்தை மீண்டும் ஒரு முக்கிய bull run-ஐ சந்திக்கக்கூடும். சந்தை சூழ்நிலைகள் சாத்தியமான மேல்நோக்கிய போக்கைக் காட்டுவதால், ஆய்வாளர்களும் சந்தை பார்வையாளர்களும் Digital assets-களை, குறிப்பாக Bitcoin-ஐ உன்னிப்பாகக் கவனித்து வருகின்றனர். முந்தைய சந்தை உயர்வுகளைத் தவறவிட்ட முதலீட்டாளர்கள், வளர்ந்து வரும் பொருளாதார சூழல் மற்றும் Digital currency துறையில் மீண்டும் வளர்ச்சி ஏற்படுவதைக் குறிக்கும் அறிகுறிகள் மீது கவனம் செலுத்தி வருகின்றனர்.",
+    "slug": "why-you-shouldn-t-miss-the-next-cryptocurrency-bull-run"
+  },
+  {
+    "id": "fdf61502696d2b81",
+    "title": "Standard Chartered and QNB Türkiye Structure Landmark $25M Gender-Focused Repo",
+    "summary": "Standard Chartered and QNB Türkiye have completed a $25 million gender equality-focused repo, directing short-term financing toward women-led SMEs across Türkiye.\nThe post Standard Chartered and QNB Türkiye Structure Landmark $25M Gender-Focused Repo appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/standard-chartered-and-qnb-turkiye-structure-landmark-25m-gender-focused-repo/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Standard Chartered",
+      "QNB Türkiye",
+      "Türkiye"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T07:00:13.000Z",
+    "fetchedAt": "2026-09-24T07:44:17.909Z",
+    "isDuplicateOf": null,
+    "content": "Standard Chartered and QNB Türkiye have successfully structured a landmark $25 million gender-focused repo transaction. This short-term financing aims to support and empower women-led small and medium-sized enterprises across Türkiye, promoting gender equality and financial inclusion within the region's business ecosystem.",
+    "content_ta": "Standard Chartered மற்றும் QNB Türkiye நிறுவனங்கள் இணைந்து 25 மில்லியன் அமெரிக்க டாலர் மதிப்பிலான பாலின சமத்துவத்தை மையமாகக் கொண்ட ரெப்போ ஒப்பந்தத்தை மேற்கொண்டுள்ளன. இந்த குறுகிய கால நிதியுதவியானது Türkiye முழுவதும் உள்ள பெண்கள் தலைமையிலான சிறு மற்றும் நடுத்தர வணிக நிறுவனங்களை ஆதரித்து மேம்படுத்துவதை நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "standard-chartered-and-qnb-turkiye-structure-landmark-25m-gender-focused-repo"
   }
 ]
