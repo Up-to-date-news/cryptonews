@@ -466,5 +466,354 @@
     "content": "Analyst Ran Neuer predicts that an upcoming bull market will be driven by altcoins rather than Bitcoin. He suggests that Bitcoin’s growth potential has historically diminished with each cycle. Instead, he believes the next major phase will be catalyzed by the widespread integration of AI agents, potentially leading to significant returns for alternative cryptocurrencies as the market evolves beyond Bitcoin's traditional dominance.",
     "content_ta": "எதிர்வரும் காளைச் சந்தை (bull market) Bitcoin-ஐ விட altcoins மூலமாகவே அதிகம் உந்தப்படும் என்று ஆய்வாளர் Ran Neuer கணித்துள்ளார். ஒவ்வொரு சுழற்சியிலும் Bitcoin-ன் வளர்ச்சி வேகம் குறைந்து வருவதால், அடுத்த கட்ட வளர்ச்சிக்கு AI agents முக்கிய காரணமாக இருக்கும் என்று அவர் கூறுகிறார். இந்த தொழில்நுட்ப மாற்றங்கள் சந்தையில் மிகப்பெரிய தாக்கத்தை ஏற்படுத்தி, altcoins-ன் மதிப்பை உயர்த்தக்கூடும் என்று எதிர்பார்க்கப்படுகிறது.",
     "slug": "14x-altseason-soon-100-billion-ai-agents-could-trigger-crypto-s-first-real-bull-market"
+  },
+  {
+    "id": "b4619a04a2f2327a",
+    "title": "A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66",
+    "summary": "StarkWare, which conducted the research, says contest participants using AI tools made the computation about five times faster, though the $66 figure has not yet been demonstrated in another transaction mined on Bitcoin.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/tech/2026/09/24/a-week-of-ai-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-usd320-to-usd66",
+    "source": "CoinDesk",
+    "tags": [
+      "StarkWare",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T05:24:56.000Z",
+    "fetchedAt": "2026-09-24T06:01:24.414Z",
+    "isDuplicateOf": null,
+    "content": "A research project by StarkWare utilized AI coding tools over a week, reducing the estimated cost of a quantum-safe Bitcoin transaction from $320 to $66. Participants in the contest completed the computations about five times faster using these tools. However, the significantly lower cost figure has not yet been demonstrated in an actual mined transaction on the Bitcoin network.",
+    "content_ta": "StarkWare நடத்திய ஒரு ஆராய்ச்சி திட்டத்தில் AI கோடிங் டூல்களைப் பயன்படுத்தி, குவாண்டம்-பாதுகாப்பான Bitcoin பரிவர்த்தனைக்கான மதிப்பிடப்பட்ட செலவு $320-லிருந்து $66 ஆகக் குறைக்கப்பட்டுள்ளது. இந்த போட்டியில் பங்கேற்றவர்கள் இந்த டூல்களைப் பயன்படுத்தி கணக்கீடுகளை சுமார் ஐந்து மடங்கு வேகமாக முடித்தனர். எனினும், இந்த குறைந்த கட்டணத் தொகை Bitcoin நெட்வொர்க்கில் உண்மையான பரிவர்த்தனை மூலம் இன்னும் சோதித்துக் காட்டப்படவில்லை.",
+    "slug": "a-week-of-ai-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-320-to-66"
+  },
+  {
+    "id": "3dad7172d27dfbc0",
+    "title": "Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare",
+    "summary": "A weeklong optimization challenge cut the estimated GPU cost of preparing an experimental quantum-resistant Bitcoin transaction to under $67, potentially making the “last-resort measure” a little easier on the wallet.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Bitcoin",
+      "StarkWare"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T04:52:40.000Z",
+    "fetchedAt": "2026-09-24T06:01:24.414Z",
+    "isDuplicateOf": null,
+    "content": "StarkWare announced a significant cost reduction for an experimental quantum-resistant Bitcoin transaction method. Following a weeklong optimization challenge, the estimated GPU cost to prepare this quantum-safe measure dropped by 79 percent, bringing the total expense down to under $67. This development makes the potential last-resort security measure much more affordable for the cryptocurrency network.",
+    "content_ta": "Bitcoin-கான குவாண்டம்-பாதுகாப்பான பரிவர்த்தனை முறையின் செலவு கணிசமாக குறைக்கப்பட்டுள்ளதாக StarkWare அறிவித்துள்ளது. ஒரு வார கால உகப்பாக்க சவாலை தொடர்ந்து, இந்த குவாண்டம்-பாதுகாப்பு நடவடிக்கையை தயாரிக்கத் தேவையான GPU செலவு 79 சதவீதம் குறைந்துள்ளது. இதன் மூலம் மொத்த செலவு 67 டாலருக்கும் குறைவாக குறைந்துள்ளது. இந்த முன்னேற்றம் இந்த பாதுகாப்பு நடவடிக்கையை மிகவும் மலிவு விலையில் அணுக உதவுகிறது.",
+    "slug": "bitcoin-s-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware"
+  },
+  {
+    "id": "92d7db514660df0f",
+    "title": "Chainlink Releases Node v2.65.0 With Confidential Workflow Monitoring Fix",
+    "summary": "TL;DR Aptos Labs has released mainnet node software v1.49.1 for validators and fullnode operators. The release follows the earlier v1.49.1 hotfix path and rolls a wider set of execution, consensus and state-sync changes into the public mainnet build. End users do not need to migrate tokens or take wallet action. Aptos node operators have a new production release to work through after the project published mainnet node software v1.49.1. The release is aimed squarely at infrastructure operators rather than ordinary APT holders. It packages a broad set of changes across execution, consensus, storage and state sync, while also rolling forward fixes that had previously appeared in the v1.49 hotfix path. Validators Get A Broader Mainnet Build The v1.49.1 release is more than a cosmetic version bump. The change log includes work around state sync, validator recovery, execution consistency, database handling and the Move environment. It also incorporates fixes that arrived during the v1.49 release cycle, giving operators a more complete public build rather than relying indefinitely on an emergency hotfix branch. That distinction matters for validators. A private or narrowly distributed hotfix can keep a network stable in the short term, but operators eventually need a standard release they can deploy and maintain in a predictable way. For fullnode providers, indexers and RPC operators, the release also gives a common software target as the network moves beyond the earlier patch. This Is Infrastructure Work, Not A User-Facing Fork Nothing in the release requires APT holders to swap tokens, update wallet balances or interact with a migration contract. The practical work sits with validators and node operators. That is an important distinction because blockchain software releases are often described as network “upgrades” even when the user experience changes very little. In this case, the value is operational: keeping validator software aligned, tightening execution behavior and carrying fixes into the mainline release path. Aptos has been moving quickly through its 1.49 series, and v1.49.1 gives operators a cleaner production baseline after the hotfix cycle. For users, the best outcome is almost invisible — a network that continues running without asking them to do anything at all. The release also gives infrastructure providers a better point from which to plan the next maintenance window. Operators that delayed moving onto the private hotfix now have a public release path with a broader changelog behind it. That can reduce version fragmentation across the network, which matters when validators, RPC providers and indexers are trying to reproduce bugs against the same software baseline. Aptos still has more work to do around stability under load, but consolidating emergency fixes into a standard mainnet release is a necessary part of getting there. This article was written by the News Desk and edited by Samuel Rae.",
+    "hasSummary": true,
+    "link": "https://www.newsbtc.com/technology/chainlink-releases-node-v2-65-0-with-confidential-workflow-monitoring-fix/",
+    "source": "NewsBTC",
+    "tags": [
+      "Aptos Labs",
+      "Aptos"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T04:30:00.000Z",
+    "fetchedAt": "2026-09-24T06:01:24.414Z",
+    "isDuplicateOf": null,
+    "content": "Aptos Labs has released mainnet node software v1.49.1 for validators and fullnode operators. This update consolidates various fixes and performance improvements across execution, consensus, and state synchronization into a single production build. The release is primarily aimed at infrastructure providers rather than general APT token holders. No user action, token migration, or wallet updates are required. This maintenance release helps standardize software versions across the network to enhance operational stability.",
+    "content_ta": "Aptos Labs நிறுவனம், தனது mainnet-க்காக node மென்பொருள் v1.49.1-ஐ வெளியிட்டுள்ளது. இந்த அப்டேட், execution, consensus மற்றும் state synchronization போன்ற பல்வேறு பணிகளில் ஏற்பட்டுள்ள சிக்கல்களைச் சரிசெய்து, ஒட்டுமொத்த செயல்பாட்டுத் திறனை மேம்படுத்துகிறது. இது முக்கியமாக infrastructure நடத்துபவர்களுக்கானது. APT வைத்திருக்கும் பயனர்கள் எந்தவொரு token மாற்றத்தையோ அல்லது wallet அப்டேட்டுகளையோ செய்ய வேண்டிய அவசியமில்லை. இந்த மென்பொருள் வெளியீடு, நெட்வொர்க்கின் செயல்பாட்டு நிலைத்தன்மையை உறுதி செய்ய உதவும்.",
+    "slug": "chainlink-releases-node-v2-65-0-with-confidential-workflow-monitoring-fix"
+  },
+  {
+    "id": "d5d6f206a395ccee",
+    "title": "Ripple (XRP) vs Pi Network (PI): Which Will Perform Better in Q4? (3 AIs Weigh in)",
+    "summary": "\"PI has the higher lottery-ticket upside,\" Perplexity stated.",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/ripple-xrp-vs-pi-network-pi-which-will-perform-better-in-q4-3-ais-weigh-in/",
+    "source": "CryptoPotato",
+    "tags": [
+      "Ripple",
+      "XRP",
+      "Pi Network",
+      "PI"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T04:01:19.000Z",
+    "fetchedAt": "2026-09-24T06:01:24.414Z",
+    "isDuplicateOf": null,
+    "content": "Recent market analysis comparing Ripple (XRP) and Pi Network (PI) evaluates their potential performance for the fourth quarter. While Ripple maintains its established market presence, AI-based insights suggest that Pi Network presents a higher speculative upside for investors. Analysts remain divided on which asset offers better growth, as XRP relies on its regulatory progress and utility, while PI continues to build its ecosystem amid significant community interest and volatile market expectations.",
+    "content_ta": "Ripple (XRP) மற்றும் Pi Network (PI) ஆகியவற்றின் நான்காம் காலாண்டு செயல்பாடுகளை ஒப்பிட்டு சந்தை ஆய்வாளர்கள் கருத்து தெரிவித்துள்ளனர். Ripple ஏற்கனவே சந்தையில் நிலையான இடத்தைப் பிடித்துள்ள நிலையில், Pi Network முதலீட்டாளர்களுக்கு அதிக லாபத்தை ஈட்டித் தரும் வாய்ப்பு உள்ளதாக AI ஆய்வுகள் தெரிவிக்கின்றன. XRP தனது ஒழுங்குமுறை முன்னேற்றங்களைச் சார்ந்துள்ள வேளையில், PI தனது சமூக ஆதரவு மற்றும் வளர்ந்து வரும் சுற்றுச்சூழல் அமைப்பால் கவனத்தை ஈர்க்கிறது. இந்த இரண்டில் எது சிறந்தது என்பதில் நிபுணர்களிடையே மாறுபட்ட கருத்துகள் நிலவுகின்றன.",
+    "slug": "ripple-xrp-vs-pi-network-pi-which-will-perform-better-in-q4-3-ais-weigh-in"
+  },
+  {
+    "id": "275433462bfa9bcd",
+    "title": "Ethereum Classic price prediction — Why bullish structure is still in play despite 11% correction",
+    "summary": "Ethereum Classic rallied by 36.5% in under a week, before correcting on the charts.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/ethereum-classic-price-prediction-why-bullish-structure-is-still-in-play-despite-11-correction/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Ethereum Classic"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T06:00:40.000Z",
+    "fetchedAt": "2026-09-24T06:01:24.414Z",
+    "isDuplicateOf": null,
+    "content": "Ethereum Classic recently experienced a significant rally, gaining 36.5% in less than a week. Despite a subsequent 11% market correction, analysts suggest that the overall bullish structure remains intact for the cryptocurrency. While recent price volatility has tested the asset, the underlying trend continues to show positive momentum for investors monitoring the current market cycle.",
+    "content_ta": "Ethereum Classic சமீபத்தில் ஒரு வாரத்திற்குள் 36.5% உயர்ந்து குறிப்பிடத்தக்க லாபத்தை பதிவு செய்தது. இதனைத் தொடர்ந்து 11% விலை சரிவு ஏற்பட்ட போதிலும், இந்த கிரிப்டோகரன்சியின் ஒட்டுமொத்த வளர்ச்சிப் போக்கு இன்னும் வலுவாகவே இருப்பதாக நிபுணர்கள் கருதுகின்றனர். சமீபத்திய விலை ஏற்ற இறக்கங்கள் இருந்தபோதிலும், தற்போதைய சந்தை சூழலில் முதலீட்டாளர்களுக்கு சாதகமான அறிகுறிகளே தென்படுகின்றன.",
+    "slug": "ethereum-classic-price-prediction-why-bullish-structure-is-still-in-play-despite-11-correction"
+  },
+  {
+    "id": "52c9adbcad3be2f8",
+    "title": "RedotPay builds U.S lending footprint as crypto credit market reaches $56.16B",
+    "summary": "RedotPay’s U.S lending approvals open a path towards regulated crypto-backed credit.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/redotpay-builds-u-s-lending-footprint-as-crypto-credit-market-reaches-56-16b/",
+    "source": "AMBCrypto",
+    "tags": [
+      "RedotPay",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T05:00:30.000Z",
+    "fetchedAt": "2026-09-24T06:01:24.414Z",
+    "isDuplicateOf": null,
+    "content": "RedotPay is expanding its lending operations into the United States, positioning itself within a rapidly growing global crypto-backed credit market. This strategic move marks a significant step for the platform as it seeks to offer regulated credit services. By gaining approvals for U.S. lending, RedotPay aims to broaden its financial footprint and provide users with increased access to borrowing options secured by digital assets.",
+    "content_ta": "RedotPay நிறுவனம் தனது கடன் வழங்கும் சேவைகளை அமெரிக்காவில் விரிவுபடுத்தியுள்ளது. உலகளவில் கிரிப்டோ அடிப்படையிலான கடன் சந்தை வேகமாக வளர்ந்து வரும் நிலையில், இந்த நடவடிக்கை முக்கியத்துவம் பெறுகிறது. முறைப்படுத்தப்பட்ட கடன் சேவைகளை வழங்குவதை நோக்கமாகக் கொண்டு, அமெரிக்காவில் இதற்கான அனுமதிகளை RedotPay பெற்றுள்ளது. இதன் மூலம் தனது நிதிச் செயல்பாடுகளை வலுப்படுத்துவதோடு, டிஜிட்டல் சொத்துக்களைப் பிணையமாக வைத்து கடன் பெறும் வசதியை பயனர்களுக்கு வழங்க இந்நிறுவனம் திட்டமிட்டுள்ளது.",
+    "slug": "redotpay-builds-u-s-lending-footprint-as-crypto-credit-market-reaches-56-16b"
+  },
+  {
+    "id": "1fffb30975823577",
+    "title": "Bitcoin ETFs Add $347 Million as BlackRock Leads Fresh Inflow Wave",
+    "summary": "Bitcoin ETFs are refusing to lose momentum even as the cryptocurrency itself comes under renewed pressure.",
+    "hasSummary": true,
+    "link": "https://u.today/bitcoin-etfs-add-347-million-as-blackrock-leads-fresh-inflow-wave",
+    "source": "U.Today",
+    "tags": [
+      "Bitcoin",
+      "BlackRock"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T05:28:08.000Z",
+    "fetchedAt": "2026-09-24T06:01:24.414Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin ETFs have maintained strong momentum, recording $347 million in new inflows despite ongoing downward pressure on the cryptocurrency's market price. BlackRock is spearheading this latest wave of investor interest, demonstrating continued institutional demand for Bitcoin investment products even amidst recent market volatility. Investors remain focused on long-term accumulation strategies despite the broader asset's performance challenges.",
+    "content_ta": "Bitcoin-ன் விலை சந்தையில் சரிவைச் சந்தித்தாலும், Bitcoin ETF-களில் முதலீடுகள் தொடர்ந்து அதிகரித்து வருகின்றன. இந்த புதிய முதலீட்டு அலை மூலம் மொத்தம் 347 மில்லியன் டாலர்கள் ஈர்க்கப்பட்டுள்ளன. இதில் BlackRock நிறுவனம் முன்னணியில் உள்ளது. சந்தையில் நிலவும் ஏற்ற இறக்கங்களுக்கு மத்தியிலும், Bitcoin மீதான நிறுவன முதலீட்டாளர்களின் ஆர்வம் குறையாமல் இருப்பது இந்தத் தரவுகள் மூலம் தெளிவாகிறது.",
+    "slug": "bitcoin-etfs-add-347-million-as-blackrock-leads-fresh-inflow-wave"
+  },
+  {
+    "id": "c106ed24ebcbe9ca",
+    "title": "Jim Cramer Preaches Discipline, So Why Do ‘Inverse Cramer' Traders Doubt Him?",
+    "summary": "Jim Cramer's own investing rules line up with what the Inverse Cramer trade has wagered against him for years.\nThe post Jim Cramer Preaches Discipline, So Why Do ‘Inverse Cramer' Traders Doubt Him? appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/jim-cramer-rules-inverse-cramer-trade/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Jim Cramer"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T05:24:46.000Z",
+    "fetchedAt": "2026-09-24T06:01:24.414Z",
+    "isDuplicateOf": null,
+    "content": "Jim Cramer continues to advocate for disciplined investing strategies, emphasizing long-term stability and caution. However, many traders remain skeptical of his market commentary, fueling the growth of the 'Inverse Cramer' trading trend. This strategy involves betting against his public recommendations, reflecting a clear disconnect between Cramer's personal investing philosophy and the market sentiment held by those who view his advice as a reliable indicator to trade in the opposite direction.",
+    "content_ta": "Jim Cramer தனது முதலீட்டு உத்திகளில் ஒழுக்கத்தை கடைபிடிக்க வலியுறுத்தி வருகிறார். இருப்பினும், பல வர்த்தகர்கள் அவரது சந்தை கருத்துக்களை நம்ப மறுக்கின்றனர். இதனால் 'Inverse Cramer' என்ற வர்த்தக உத்தி பிரபலமடைந்து வருகிறது. Cramer பரிந்துரைக்கும் முதலீடுகளுக்கு எதிராக வர்த்தகம் செய்வதே இந்த உத்தியின் அடிப்படை. Cramer-இன் முதலீட்டு தத்துவத்திற்கும், அவரை ஒரு தவறான வழிகாட்டியாகக் கருதும் வர்த்தகர்களின் சந்தை உணர்விற்கும் இடையே உள்ள பெரிய இடைவெளியை இது காட்டுகிறது.",
+    "slug": "jim-cramer-preaches-discipline-so-why-do-inverse-cramer-traders-doubt-him"
+  },
+  {
+    "id": "36d7623860e56eff",
+    "title": "Judge orders Trump White House to reinstate press access for CNN, MS NOW, Politico",
+    "summary": "The ruling underscores the judiciary's role in upholding press freedom, potentially influencing future media access and government transparency.\nThe post Judge orders Trump White House to reinstate press access for CNN, MS NOW, Politico appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/judge-orders-trump-white-house-to-reinstate-press-access-for-cnn-ms-now-politico/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Trump White House",
+      "CNN",
+      "MS NOW",
+      "Politico"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T05:14:13.000Z",
+    "fetchedAt": "2026-09-24T06:01:24.414Z",
+    "isDuplicateOf": null,
+    "content": "A judge has ruled that the Trump White House must restore press credentials for CNN, MS NOW, and Politico. This legal decision highlights the judiciary's commitment to protecting press freedom. By ordering the administration to reinstate media access, the ruling reinforces transparency standards and could set a significant precedent for how future government administrations manage media relations and public information access.",
+    "content_ta": "Trump White House நிர்வாகம் CNN, MS NOW, மற்றும் Politico ஆகிய ஊடகங்களின் செய்தியாளர் அனுமதியை மீண்டும் வழங்க வேண்டும் என்று நீதிபதி உத்தரவிட்டுள்ளார். இந்தத் தீர்ப்பு ஊடக சுதந்திரத்தைப் பாதுகாப்பதில் நீதித்துறையின் முக்கியத்துவத்தை அடிக்கோடிட்டுக் காட்டுகிறது. நிர்வாகத்தை ஊடக அணுகலை மீண்டும் வழங்க உத்தரவிட்டதன் மூலம், இந்தத் தீர்ப்பு வெளிப்படைத்தன்மை தரநிலைகளை உறுதிப்படுத்துவதுடன், எதிர்கால அரசாங்கங்கள் ஊடக உறவுகளை எவ்வாறு கையாள வேண்டும் என்பதற்கு ஒரு முக்கிய முன்னுதாரணமாக அமையக்கூடும்.",
+    "slug": "judge-orders-trump-white-house-to-reinstate-press-access-for-cnn-ms-now-politico"
+  },
+  {
+    "id": "0ac5235abca0b8ab",
+    "title": "China sends 1,300 drone, missile shipments to Iran amid US-Iran conflict",
+    "summary": "China's military support to Iran could heighten regional tensions and influence Iran's strategic decisions amid U.S.-Iran conflict.\nThe post China sends 1,300 drone, missile shipments to Iran amid US-Iran conflict appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/china-sends-1300-drone-missile-shipments-to-iran-amid-us-iran-conflict/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "China",
+      "Iran",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T05:12:20.000Z",
+    "fetchedAt": "2026-09-24T06:01:24.414Z",
+    "isDuplicateOf": null,
+    "content": "China has reportedly dispatched numerous drone and missile shipments to Iran. This military support occurs during a period of escalating conflict between Iran and the United States, raising concerns about potential regional instability. Analysts suggest that this development could significantly influence Iran's strategic positioning and decision-making processes in the Middle East, further complicating the ongoing geopolitical tension involving the United States.",
+    "content_ta": "சீனா பல ட்ரோன் மற்றும் ஏவுகணை தளவாடங்களை ஈரான் நாட்டுக்கு அனுப்பி வைத்துள்ளதாக தகவல்கள் தெரிவிக்கின்றன. ஈரான் மற்றும் United States நாடுகளுக்கு இடையே பதற்றம் நிலவும் சூழலில், இந்த ராணுவ உதவி பிராந்திய ஸ்திரத்தன்மைக்கு சவாலாக அமையலாம் என அஞ்சப்படுகிறது. இந்த நடவடிக்கை மத்திய கிழக்கில் ஈரானின் மூலோபாய முடிவுகளை பாதிக்கும் என்றும், நிலவும் புவிசார் அரசியல் சிக்கலை மேலும் தீவிரப்படுத்தும் என்றும் ஆய்வாளர்கள் கருதுகின்றனர்.",
+    "slug": "china-sends-1-300-drone-missile-shipments-to-iran-amid-us-iran-conflict"
+  },
+  {
+    "id": "14952b3433f1ecff",
+    "title": "Global bond rout deepens with oil prices above $100: FT",
+    "summary": "Rising oil prices and bond market volatility may lead to increased borrowing costs and heightened economic uncertainty globally.\nThe post Global bond rout deepens with oil prices above $100: FT appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/global-bond-rout-deepens-with-oil-prices-above-100-ft/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Financial Times"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T04:16:43.000Z",
+    "fetchedAt": "2026-09-24T06:01:24.414Z",
+    "isDuplicateOf": null,
+    "content": "Global bond markets are facing a significant sell-off as oil prices surge above $100 per barrel. This trend has triggered widespread market volatility and investor concern regarding potential spikes in global borrowing costs. Analysts warn that sustained high energy prices may deepen economic uncertainty, putting additional pressure on international financial stability as investors adjust to a more volatile inflationary environment.",
+    "content_ta": "எண்ணெய் விலை பீப்பாய் ஒன்றுக்கு $100-ஐத் தாண்டியதால், உலகளாவிய கடன் சந்தைகளில் (bond markets) பெரும் சரிவு ஏற்பட்டுள்ளது. இந்த போக்கு சந்தையில் அதிக ஏற்ற இறக்கத்தை உருவாக்கியுள்ளதுடன், உலகளவில் கடன் வாங்கும் செலவுகள் அதிகரிக்கும் என்ற அச்சத்தையும் முதலீட்டாளர்களிடையே ஏற்படுத்தியுள்ளது. எரிசக்தி விலைகள் தொடர்ந்து உயர்ந்து வருவதால் பொருளாதார நிச்சயமற்ற சூழல் மேலும் மோசமடையக்கூடும் என்று சந்தை ஆய்வாளர்கள் எச்சரிக்கின்றனர்.",
+    "slug": "global-bond-rout-deepens-with-oil-prices-above-100-ft"
+  },
+  {
+    "id": "623b82075fb88308",
+    "title": "BlackRock’s IBIT leads US spot Bitcoin ETFs with hundreds of millions in inflows",
+    "summary": "BlackRock's IBIT dominance signals a shift in institutional confidence towards Bitcoin, potentially reshaping the competitive landscape of crypto ETFs.\nThe post BlackRock’s IBIT leads US spot Bitcoin ETFs with hundreds of millions in inflows appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/blackrock-ibit-leads-bitcoin-etf-inflows-2/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "BlackRock",
+      "Bitcoin",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T04:11:41.000Z",
+    "fetchedAt": "2026-09-24T06:01:24.414Z",
+    "isDuplicateOf": null,
+    "content": "BlackRock's IBIT fund has emerged as a leader among United States spot Bitcoin ETFs, consistently attracting significant capital inflows. This trend highlights a growing institutional preference for the fund, marking a pivotal shift in the competitive cryptocurrency investment market. As BlackRock continues to capture substantial investor interest, the dynamics of Bitcoin-related financial products are undergoing a notable transformation, signaling increased mainstream adoption and market influence for institutional spot ETFs.",
+    "content_ta": "United States-இல் உள்ள spot Bitcoin ETF-களில் BlackRock-இன் IBIT நிதி முன்னணியில் உள்ளது. இது அதிக அளவிலான முதலீடுகளை ஈர்த்து வருகிறது. இந்த போக்கு நிறுவன முதலீட்டாளர்கள் மத்தியில் Bitcoin மீதான நம்பிக்கையை வெளிப்படுத்துகிறது. சந்தையில் நிலவும் கடும் போட்டிகளுக்கு மத்தியில், BlackRock-இன் இந்த ஆதிக்கம், Bitcoin சார்ந்த முதலீட்டுத் துறையில் ஒரு முக்கிய மாற்றத்தை ஏற்படுத்தியுள்ளது. இது mainstream முதலீட்டாளர்கள் மத்தியில் Bitcoin-இன் செல்வாக்கு அதிகரித்து வருவதைக் காட்டுகிறது.",
+    "slug": "blackrock-s-ibit-leads-us-spot-bitcoin-etfs-with-hundreds-of-millions-in-inflows"
+  },
+  {
+    "id": "96a0333809c70956",
+    "title": "Iran defies US threats, supports diplomacy in UN speech",
+    "summary": "Iran's dual approach of defiance and diplomacy may prolong tensions, complicating prospects for a U.S.-Iran deal and regional stability.\nThe post Iran defies US threats, supports diplomacy in UN speech appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/iran-defies-us-threats-supports-diplomacy-in-un-speech/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Iran",
+      "United States",
+      "United Nations"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T03:44:29.000Z",
+    "fetchedAt": "2026-09-24T06:01:24.414Z",
+    "isDuplicateOf": null,
+    "content": "In a recent UN speech, Iran maintained a defiant stance against United States threats while simultaneously advocating for diplomacy. This mixed message highlights a complex geopolitical strategy that continues to challenge international relations. Analysts suggest that this dual approach may prolong ongoing tensions, potentially complicating future negotiations and hindering efforts to achieve regional stability between Iran and the United States.",
+    "content_ta": "சமீபத்திய UN உரையில், Iran தனது நாட்டுக்கு எதிராக விடுக்கப்பட்ட United States மிரட்டல்களை எதிர்த்த அதே வேளையில், இராஜதந்திர உறவுகளுக்கும் ஆதரவு தெரிவித்துள்ளது. இத்தகைய முரண்பாடான அணுகுமுறை, இரு நாடுகளுக்கும் இடையிலான தற்போதைய பதற்றத்தை நீட்டிக்கச் செய்யும் என்று கருதப்படுகிறது. இந்த இரட்டை நிலைப்பாடு, வருங்கால பேச்சுவார்த்தைகளில் சிக்கல்களை உருவாக்கி, பிராந்திய ஸ்திரத்தன்மையை அடைவதில் சவால்களை ஏற்படுத்தக்கூடும் என ஆய்வாளர்கள் தெரிவிக்கின்றனர்.",
+    "slug": "iran-defies-us-threats-supports-diplomacy-in-un-speech"
+  },
+  {
+    "id": "4eb4935a27670241",
+    "title": "Circle National Trust enhances Bitcoin programmability with custody services",
+    "summary": "Circle's federally regulated custody services could enhance Bitcoin's integration into DeFi, potentially increasing institutional trust and adoption.\nThe post Circle National Trust enhances Bitcoin programmability with custody services appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/circle-national-trust-bitcoin-custody-cirbtc/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Circle",
+      "Circle National Trust",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T03:39:11.000Z",
+    "fetchedAt": "2026-09-24T06:01:24.414Z",
+    "isDuplicateOf": null,
+    "content": "Circle National Trust has launched new custody services designed to improve Bitcoin programmability. By providing a regulated infrastructure, the firm aims to bridge the gap between traditional institutional oversight and decentralized finance. This development is expected to foster greater institutional adoption of Bitcoin by offering secure and compliant custody solutions that integrate more effectively into the growing decentralized ecosystem, marking a significant step for institutional Bitcoin accessibility.",
+    "content_ta": "Circle National Trust நிறுவனம் Bitcoin நிரலாக்கத்தை (programmability) மேம்படுத்தும் நோக்கில் புதிய பாதுகாப்புக் காப்பக சேவைகளை அறிமுகப்படுத்தியுள்ளது. முறைப்படுத்தப்பட்ட உள்கட்டமைப்பை வழங்குவதன் மூலம், பாரம்பரிய நிறுவனக் கண்காணிப்பு மற்றும் பரவலாக்கப்பட்ட நிதி (DeFi) ஆகியவற்றுக்கு இடையேயான இடைவெளியைக் குறைக்க இந்த முயற்சி வழிவகுக்கிறது. பாதுகாப்பான மற்றும் இணக்கமான சேவைகளை வழங்குவதன் மூலம், நிறுவனங்கள் Bitcoin-ஐ அதிகளவில் ஏற்றுக்கொள்வதை ஊக்குவிப்பதோடு, பரவலாக்கப்பட்ட சுற்றுச்சூழல் அமைப்பில் அதன் ஒருங்கிணைப்பை இந்தச் சேவை வலுப்படுத்தும்.",
+    "slug": "circle-national-trust-enhances-bitcoin-programmability-with-custody-services"
+  },
+  {
+    "id": "6c889d07c4d402ff",
+    "title": "Fortitude raises credit facility to $50M to fuel Zcash mining expansion",
+    "summary": "Fortitude's strategic expansion in Zcash mining could influence market dynamics, potentially impacting ZEC's valuation and mining competition.\nThe post Fortitude raises credit facility to $50M to fuel Zcash mining expansion appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/fortitude-raises-credit-facility-50m-zcash-mining/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Fortitude",
+      "Zcash"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T03:13:50.000Z",
+    "fetchedAt": "2026-09-24T06:01:24.414Z",
+    "isDuplicateOf": null,
+    "content": "Fortitude has increased its credit facility to $50 million to support the expansion of its Zcash mining operations. This strategic financial move is aimed at scaling infrastructure and strengthening the company's position within the Zcash network. By securing additional funding, Fortitude seeks to enhance its mining capabilities, which may influence competitive dynamics and network participation in the broader cryptocurrency mining sector.",
+    "content_ta": "Fortitude நிறுவனம் தனது Zcash சுரங்க செயல்பாடுகளை விரிவுபடுத்துவதற்காக தனது கடன் வசதியை $50 மில்லியனாக உயர்த்தியுள்ளது. இந்த நிதி நடவடிக்கை, உள்கட்டமைப்பை மேம்படுத்துவதையும் Zcash வலையமைப்பில் நிறுவனத்தின் நிலையை வலுப்படுத்துவதையும் நோக்கமாகக் கொண்டுள்ளது. கூடுதல் நிதியைப் பெறுவதன் மூலம், தனது சுரங்கத் திறனை அதிகரிக்க Fortitude திட்டமிட்டுள்ளது. இந்த விரிவாக்கம், கிரிப்டோகரன்சி சுரங்கத் துறையில் போட்டியை அதிகரிக்கக்கூடும்.",
+    "slug": "fortitude-raises-credit-facility-to-50m-to-fuel-zcash-mining-expansion"
+  },
+  {
+    "id": "806e812e62c4828e",
+    "title": "Nephos Group to Provide Proof of Reserves for Agant’s GBPA Stablecoin",
+    "summary": "The UK accountancy firm will deliver ISAE 3000 attestation services for Agant's FCA-registered sterling stablecoin as regulated frameworks near.\nThe post Nephos Group to Provide Proof of Reserves for Agant’s GBPA Stablecoin appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/nephos-group-to-provide-proof-of-reserves-for-agants-gbpa-stablecoin/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Nephos Group",
+      "Agant",
+      "GBPA",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T06:00:16.000Z",
+    "fetchedAt": "2026-09-24T06:01:24.414Z",
+    "isDuplicateOf": null,
+    "content": "UK-based accountancy firm Nephos Group has been appointed to provide Proof of Reserves attestation services for Agant’s GBPA stablecoin. The firm will deliver ISAE 3000 assurance reports for the FCA-registered sterling-backed digital asset. This collaboration arrives as the industry prepares for upcoming regulatory frameworks governing stablecoins in the United Kingdom, ensuring greater transparency and compliance for Agant’s financial operations.",
+    "content_ta": "UK-ஐச் சேர்ந்த கணக்கியல் நிறுவனமான Nephos Group, Agant நிறுவனத்தின் GBPA stablecoin-க்கான Proof of Reserves தணிக்கை சேவைகளை வழங்க ஒப்பந்தம் செய்துள்ளது. FCA-வில் பதிவு செய்யப்பட்ட இந்த sterling-backed டிஜிட்டல் சொத்திற்கு, Nephos Group தனது ISAE 3000 சான்றிதழ் அறிக்கைகளை வழங்கும். United Kingdom-இல் stablecoin-கள் தொடர்பான புதிய கட்டுப்பாட்டு விதிமுறைகள் அமலுக்கு வரவுள்ள நிலையில், இந்த நடவடிக்கை Agant நிறுவனத்தின் நிதிச் செயல்பாடுகளில் வெளிப்படைத்தன்மையை உறுதிப்படுத்தும்.",
+    "slug": "nephos-group-to-provide-proof-of-reserves-for-agant-s-gbpa-stablecoin"
+  },
+  {
+    "id": "b25ae6ce8de8d943",
+    "title": "Dubai South Business Hub Free Zone Partners with Sony MEA",
+    "summary": "DSBH will offer startups exclusive Sony technology access and expert-led workshops on content creation, branding and business growth.\nThe post Dubai South Business Hub Free Zone Partners with Sony MEA appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/dubai-south-business-hub-free-zone-partners-with-sony-mea/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Dubai South Business Hub",
+      "Sony MEA",
+      "Dubai"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T05:00:46.000Z",
+    "fetchedAt": "2026-09-24T06:01:24.414Z",
+    "isDuplicateOf": null,
+    "content": "Dubai South Business Hub Free Zone has officially partnered with Sony MEA to bolster support for local startups. Through this collaboration, entrepreneurs within the free zone will gain access to Sony’s advanced technology and expert-led workshops. These resources are designed to help emerging businesses improve their content creation, branding strategies, and overall commercial growth, further strengthening Dubai’s position as a dynamic business ecosystem for innovation.",
+    "content_ta": "Dubai South Business Hub Free Zone, Sony MEA உடன் இணைந்து ஸ்டார்ட்அப்களுக்கு ஆதரவளிக்க ஒப்பந்தம் செய்துள்ளது. இந்த கூட்டணியின் மூலம், அப்பகுதியில் உள்ள தொழில்முனைவோர்கள் Sony-யின் நவீன தொழில்நுட்பங்கள் மற்றும் நிபுணர்களின் வழிகாட்டுதல் கொண்ட பயிற்சிகளைப் பெற முடியும். இந்த வளங்கள், வளர்ந்து வரும் வணிகங்களின் கன்டென்ட் உருவாக்கம், பிராண்டிங் மற்றும் வணிக வளர்ச்சியை மேம்படுத்த உதவும் வகையில் வடிவமைக்கப்பட்டுள்ளன. இது துபாயின் வணிக சூழலை மேலும் வலுப்படுத்தும்.",
+    "slug": "dubai-south-business-hub-free-zone-partners-with-sony-mea"
+  },
+  {
+    "id": "3d0164af6adcf2a9",
+    "title": "Fintech After the Midterms: 3 Thoughts on How Politics Might Impact Policy",
+    "summary": "With the midterm elections only six-odd weeks away, control of the US House is one of the questions that will shape the next Congress. I wanted to think a little about what a future Democratic House might mean in terms of policymaking for banking, fintech, and financial services. New Sheriffs with Old Badges The biggest Read more...\nThe post Fintech After the Midterms: 3 Thoughts on How Politics Might Impact Policy appeared first on Finovate.",
+    "hasSummary": true,
+    "link": "https://finovate.com/fintech-after-the-midterms-3-thoughts-on-how-politics-might-impact-policy/",
+    "source": "Finovate",
+    "tags": [
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-24T05:32:22.000Z",
+    "fetchedAt": "2026-09-24T06:01:24.414Z",
+    "isDuplicateOf": null,
+    "content": "As the U.S. midterm elections approach, the potential shift in control of the House of Representatives is sparking discussions regarding future financial regulations. Experts are analyzing how a potential change in leadership could influence policymaking for banking and financial services. Industry stakeholders are preparing for these legislative shifts, as the outcome of the elections remains a critical factor for the regulatory landscape in the coming Congress.",
+    "content_ta": "அமெரிக்க இடைத்தேர்தல்கள் நெருங்கி வரும் நிலையில், பிரதிநிதிகள் சபையின் கட்டுப்பாட்டில் ஏற்படக்கூடிய மாற்றங்கள் நிதித்துறை ஒழுங்குமுறைகளில் தாக்கத்தை ஏற்படுத்தக்கூடும் என்று எதிர்பார்க்கப்படுகிறது. புதிய தலைமையின் கீழ் வங்கி மற்றும் நிதிச் சேவைத் துறைகளுக்கான கொள்கைகள் எவ்வாறு அமையும் என்பது குறித்து வல்லுநர்கள் ஆய்வு செய்து வருகின்றனர். வரவிருக்கும் நாடாளுமன்றத்தின் செயல்பாடுகள் மற்றும் ஒழுங்குமுறை மாற்றங்கள் குறித்து நிதித்துறை நிறுவனங்கள் தங்களை தயார்படுத்தி வருகின்றன.",
+    "slug": "fintech-after-the-midterms-3-thoughts-on-how-politics-might-impact-policy"
   }
 ]
