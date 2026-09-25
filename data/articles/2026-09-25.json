@@ -299,5 +299,422 @@
     "content": "The cryptocurrency PEPE recently experienced a significant price decline of 12 percent. This downward movement followed reports of large-scale selling activities linked to the StonkFun reward system, which liquidated approximately $2.84 million worth of tokens. Investors are now closely monitoring market activity to determine the asset's future trajectory following this sudden sell-off pressure.",
     "content_ta": "PEPE கிரிப்டோகரன்சியின் விலை சமீபத்தில் 12 சதவீதம் சரிவைச் சந்தித்தது. StonkFun ரிவார்டு சிஸ்டம் மூலம் சுமார் $2.84 மில்லியன் மதிப்புள்ள டோக்கன்கள் விற்கப்பட்டதே இந்த திடீர் விலை சரிவுக்குக் காரணமாகக் கருதப்படுகிறது. இந்த விற்பனை அழுத்தத்திற்குப் பிறகு, PEPE-ன் சந்தை மதிப்பு மற்றும் அதன் எதிர்கால நகர்வுகள் குறித்து முதலீட்டாளர்கள் மிகுந்த கவனத்துடன் கண்காணித்து வருகின்றனர்.",
     "slug": "pepe-drops-12-as-2-84m-reward-selling-hits-what-next"
+  },
+  {
+    "id": "3e4ee6f9e0c2c135",
+    "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gray Chen says",
+    "summary": "Bitget lost $351.6 million after attackers compromised a wallet backend, spoofed transaction data, Chen said on X.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
+    "source": "CoinDesk",
+    "tags": [
+      "Bitget",
+      "Gray Chen"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T04:29:34.000Z",
+    "fetchedAt": "2026-09-25T06:01:20.413Z",
+    "isDuplicateOf": null,
+    "content": "Bitget CEO Gray Chen revealed that a massive $352 million hack occurred due to spoofed transfers rather than compromised private keys. The breach happened after attackers compromised a wallet backend and manipulated transaction data. Chen shared these details in a public statement on X, clarifying how the security incident unfolded.",
+    "content_ta": "Bitget நிறுவனத்தின் CEO Gray Chen, $352 மில்லியன் மதிப்புள்ள திருட்டுத் தொகை பிரைவேட் கீகள் மூலம் அல்லாமல், போலியான பரிமாற்றங்கள் மூலம் நடைபெற்றதாகத் தெரிவித்துள்ளார். வாலட் பேக்எண்ட் சமரசம் செய்யப்பட்டு, பரிமாற்றத் தரவுகள் மாற்றப்பட்டதால் இந்தத் தாக்குதல் நடந்துள்ளது. இது குறித்த விவரங்களை Chen அவர்கள் X தளத்தில் பகிர்ந்துள்ளார்.",
+    "slug": "bitget-s-352-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says"
+  },
+  {
+    "id": "71b7cc03747aaa5f",
+    "title": "Australian PM warns of AI’s ‘furious pace’ after agent breached government site",
+    "summary": "Anthony Albanese said governments must help shape AI’s development, after revealing earlier that an OpenAI agent accessed non-public files on an Australian Medicare data portal.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/australia-pm-warns-of-ais-furious-pace-after-agent-breached-government-site?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Australia",
+      "OpenAI"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T05:06:22.000Z",
+    "fetchedAt": "2026-09-25T06:01:20.413Z",
+    "isDuplicateOf": null,
+    "content": "Australian Prime Minister Anthony Albanese has called for increased government oversight of artificial intelligence development. The warning follows a security incident where an OpenAI agent breached a government Medicare data portal, accessing private files. Albanese emphasized the need for a regulatory framework to manage the rapid advancement of AI technology and ensure public systems remain secure against unauthorized digital access.",
+    "content_ta": "Australia நாட்டின் பிரதமர் Anthony Albanese, செயற்கை நுண்ணறிவு (AI) தொழில்நுட்பத்தின் வேகமான வளர்ச்சியை முறைப்படுத்த அரசாங்கங்கள் உதவ வேண்டும் என்று வலியுறுத்தியுள்ளார். OpenAI-ன் AI முகவர் ஒன்று, Australia அரசாங்கத்தின் Medicare தரவுத் தளத்தில் இருந்த தனிப்பட்ட கோப்புகளை அணுகியது கண்டறியப்பட்டதைத் தொடர்ந்து இந்த எச்சரிக்கை விடுக்கப்பட்டுள்ளது. AI தொழில்நுட்ப வளர்ச்சியைக் கட்டுப்படுத்தவும், பொது அமைப்புகளின் பாதுகாப்பை உறுதிப்படுத்தவும் முறையான சட்ட விதிமுறைகள் தேவை என்று அவர் குறிப்பிட்டுள்ளார்.",
+    "slug": "australian-pm-warns-of-ai-s-furious-pace-after-agent-breached-government-site"
+  },
+  {
+    "id": "dbc191a1ee9f12a3",
+    "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
+    "summary": "Shielded Bitcoin would use zero-knowledge proofs and encrypted notes to hide transaction details without changing Bitcoin consensus, but researchers have raised questions about anonymity and quantum resistance.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Bitcoin",
+      "Zcash"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T04:41:06.000Z",
+    "fetchedAt": "2026-09-25T06:01:20.413Z",
+    "isDuplicateOf": null,
+    "content": "Researchers have proposed a method to enable Zcash-style private transactions on the Bitcoin network without requiring a soft fork. This approach utilizes zero-knowledge proofs and encrypted notes to obscure transaction details while maintaining current consensus rules. Despite the potential for improved privacy, experts are currently evaluating the proposal's overall effectiveness regarding anonymity guarantees and its long-term resistance to potential threats posed by future quantum computing developments.",
+    "content_ta": "Bitcoin நெட்வொர்க்கில் எந்தவொரு soft fork மாற்றமும் இன்றி, Zcash பாணியிலான தனிப்பட்ட பரிவர்த்தனைகளை மேற்கொள்வதற்கான புதிய முறையை ஆராய்ச்சியாளர்கள் முன்மொழிந்துள்ளனர். இந்த முறை zero-knowledge proofs மற்றும் encrypted notes மூலம் பரிவர்த்தனை விவரங்களை மறைக்கிறது. தனியுரிமையை மேம்படுத்துவதற்கான வாய்ப்புகள் இருந்தாலும், இந்த முறையின் அநாமதேய பாதுகாப்பு மற்றும் எதிர்கால quantum computing அச்சுறுத்தல்களை எதிர்கொள்ளும் திறன் குறித்து ஆராய்ச்சியாளர்கள் தற்போது கேள்விகளை எழுப்பி வருகின்றனர்.",
+    "slug": "researchers-propose-zcash-style-private-bitcoin-transfers-without-a-soft-fork"
+  },
+  {
+    "id": "da538b8f01dcf663",
+    "title": "Ondo unlocks BlackRock portfolio strategies, but only non-US traders benefit",
+    "summary": "BlackRock supplies the allocations; Ondo issues the securities and requires onboarding before direct minting or redemption.\nThe post Ondo unlocks BlackRock portfolio strategies, but only non-US traders benefit appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/ondo-unlocks-blackrock-portfolio-strategies-but-only-non-us-traders-benefit/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Ondo Finance",
+      "BlackRock",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T05:20:44.000Z",
+    "fetchedAt": "2026-09-25T06:01:20.414Z",
+    "isDuplicateOf": null,
+    "content": "Ondo Finance has introduced new investment strategies incorporating BlackRock portfolio allocations. This move allows users to access specific financial products, provided they complete the necessary onboarding process for minting or redemption. However, these services are currently restricted to non-US traders, excluding them from direct participation in these investment opportunities. The initiative represents a notable integration of traditional asset management strategies into the digital asset landscape.",
+    "content_ta": "Ondo Finance நிறுவனம் BlackRock போர்ட்ஃபோலியோ முதலீடுகளை உள்ளடக்கிய புதிய முதலீட்டு உத்திகளை அறிமுகப்படுத்தியுள்ளது. இந்த முதலீட்டுத் தயாரிப்புகளைப் பெற, பயனர்கள் கட்டாயமாக ஆன்-போர்டிங் (onboarding) செயல்முறையை முடிக்க வேண்டும். இருப்பினும், இந்த வசதி அமெரிக்காவிற்கு வெளியே உள்ள முதலீட்டாளர்களுக்கு மட்டுமே கிடைக்கிறது. அமெரிக்காவில் வசிக்கும் வர்த்தகர்கள் இந்த வாய்ப்பில் நேரடியாகப் பங்கேற்க முடியாது என்பது குறிப்பிடத்தக்கது.",
+    "slug": "ondo-unlocks-blackrock-portfolio-strategies-but-only-non-us-traders-benefit"
+  },
+  {
+    "id": "79e4d22c9d482412",
+    "title": "Two obscure pools fuel 2.8B XRPL volume, but only 185 trades caused it",
+    "summary": "Both pools trade issued tokens, and the feed does not reveal how it values each fill.\nThe post Two obscure pools fuel 2.8B XRPL volume, but only 185 trades caused it appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/two-obscure-pools-fuel-2-8b-xrpl-volume-but-only-185-trades-caused-it/",
+    "source": "CryptoSlate",
+    "tags": [
+      "XRPL"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T03:40:59.000Z",
+    "fetchedAt": "2026-09-25T06:01:20.414Z",
+    "isDuplicateOf": null,
+    "content": "A recent analysis of the XRPL network reveals that two obscure liquidity pools accounted for a massive 2.8 billion in trading volume. Surprisingly, this significant activity was driven by only 185 individual trades. Because the pools primarily trade issued tokens and the underlying price feed does not disclose the valuation method for each fill, the nature of these transactions remains unclear to market observers.",
+    "content_ta": "XRPL நெட்வொர்க்கில் உள்ள இரண்டு மர்மமான லிக்விடிட்டி பூல்கள் 2.8 பில்லியன் மதிப்பிலான வர்த்தகப் பரிமாற்றங்களைச் செய்துள்ளதாகத் தரவுகள் தெரிவிக்கின்றன. வெறும் 185 வர்த்தகங்கள் மூலம் இந்த பிரம்மாண்டமான பரிமாற்றம் நடந்துள்ளது ஆச்சரியத்தை ஏற்படுத்தியுள்ளது. இந்த பூல்கள் வெளியிட்ட டோக்கன்களை வர்த்தகம் செய்வதாலும், ஒவ்வொரு வர்த்தகத்தின் விலை மதிப்பீட்டு முறையைத் தெளிவுபடுத்தாததாலும், இந்த பரிமாற்றங்களின் பின்னணி குறித்து முதலீட்டாளர்கள் குழப்பமடைந்துள்ளனர்.",
+    "slug": "two-obscure-pools-fuel-2-8b-xrpl-volume-but-only-185-trades-caused-it"
+  },
+  {
+    "id": "2011d902c9050b3a",
+    "title": "Senate Democrats Demand Public Hearing On Prediction Markets",
+    "summary": "TL;DR All 11 Democrats on the U.S. Senate Banking Committee have called for a public hearing on prediction markets. The request followed a private meeting between Republican committee members and Kalshi CEO Tarek Mansour. The lawmakers say securities-linked prediction products could raise issues that fall within the Banking Committee’s oversight responsibilities. Prediction markets are becoming a bigger issue on Capitol Hill, and lawmakers are now arguing about how the industry itself should be examined. All 11 Democratic members of the Senate Banking Committee have asked Chairman Tim Scott to hold a public hearing on prediction markets, following a private Republican meeting with Kalshi CEO Tarek Mansour. Prediction Markets Are Crossing Regulatory Boundaries The Commodity Futures Trading Commission has traditionally been the federal regulator most closely associated with event contracts. But prediction markets are pushing into territory that does not fit neatly inside one box. Products tied to corporate earnings, securities or other company-specific outcomes could raise questions involving the Securities and Exchange Commission as well. That brings the Senate Banking Committee into the discussion. In their September 23 letter, committee Democrats argued that the full panel has an oversight role and called for the industry to be examined publicly and on a bipartisan basis. Scott separately said the Republican meeting with Kalshi covered innovation, retail-investor protection and regulatory questions surrounding securities-linked products. Washington Is Still Working Out Who Regulates What This is not simply another argument about sports betting. Prediction platforms are expanding into economic releases, corporate events, politics and financial-market outcomes. At the same time, states continue to challenge some sports event contracts while federal regulators argue over where jurisdiction starts and stops. That creates an awkward structure. A contract can look like a derivative, a prediction market, a gambling product or something resembling a securities-linked option depending on what event determines the payout. The request for a public Banking Committee hearing does not create a new law or change Kalshi’s regulatory status. It does show that prediction markets are becoming difficult for Congress to treat as a niche CFTC issue. As the products move closer to traditional financial markets, more committees and agencies are likely to want a say. For the industry, that could mean more legitimacy — but also a lot more scrutiny. This article was written by the News Desk and edited by Samuel Rae.",
+    "hasSummary": true,
+    "link": "https://www.newsbtc.com/technology/senate-democrats-demand-public-hearing-on-prediction-markets/",
+    "source": "NewsBTC",
+    "tags": [
+      "Senate Banking Committee",
+      "Kalshi",
+      "Commodity Futures Trading Commission",
+      "Securities and Exchange Commission",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T05:30:00.000Z",
+    "fetchedAt": "2026-09-25T06:01:20.414Z",
+    "isDuplicateOf": null,
+    "content": "All 11 Democratic members of the U.S. Senate Banking Committee have requested a public hearing regarding prediction markets. This push follows a private meeting between Republican members and Kalshi CEO Tarek Mansour. The lawmakers argue that securities-linked prediction products require broader oversight, as these platforms increasingly overlap with traditional financial regulations managed by agencies like the SEC and CFTC, moving beyond niche regulatory definitions.",
+    "content_ta": "U.S. Senate Banking Committee-யில் உள்ள 11 ஜனநாயகக் கட்சி உறுப்பினர்களும் கணிப்புச் சந்தைகள் (prediction markets) குறித்த பொது விசாரணையை நடத்த கோரிக்கை விடுத்துள்ளனர். குடியரசுக் கட்சி உறுப்பினர்களுக்கும் Kalshi CEO Tarek Mansour-க்கும் இடையே நடைபெற்ற தனியார் சந்திப்பைத் தொடர்ந்து இந்த கோரிக்கை எழுந்துள்ளது. பத்திரங்கள் தொடர்பான கணிப்பு தயாரிப்புகள் SEC மற்றும் CFTC போன்ற அமைப்புகளின் ஒழுங்குமுறை எல்லைக்குள் வருவதால், இது குறித்து முறையான நாடாளுமன்ற விசாரணை அவசியம் என்று சட்டமியற்றுபவர்கள் வாதிடுகின்றனர்.",
+    "slug": "senate-democrats-demand-public-hearing-on-prediction-markets"
+  },
+  {
+    "id": "9d51f18c7bf3f249",
+    "title": "Chainalysis Says Crypto Activity Barely Fell Despite $2.1T Market Rout",
+    "summary": "TL;DR Chainalysis says measured global crypto economic activity declined just 1.6% during the 12 months ended June 30, 2026. That happened while the wider crypto market lost roughly $2.1 trillion in capitalization. Domestic peer-to-peer and cross-border stablecoin activity both grew sharply during the period. Crypto prices took a beating over the past year, but the underlying economy did not shrink anything like as quickly. That is the central finding from Chainalysis’ 2026 Global Crypto Adoption Index, which measures activity across the 12 months ended June 30. The analytics firm estimates total crypto economic activity fell only 1.6%, from roughly $9.5 trillion to $9.4 trillion, even as the market lost around $2.1 trillion in capitalization. Stablecoins And P2P Activity Kept Moving That gap between price and activity is the interesting part. Chainalysis says domestic peer-to-peer crypto transfers rose 302.9% to $228.7 billion during the period. Cross-border stablecoin flows climbed 77.5% to $220.3 billion. Meanwhile, the value moving into centralized crypto services declined 4.3%. In other words, a painful bear market reduced asset prices far more dramatically than it reduced the amount of economic activity taking place on the rails themselves. That supports an increasingly important distinction in crypto. Market capitalization tells us what assets are worth at a particular moment. Transaction activity tells us whether people are still using them. A Bear Market No Longer Means The Network Goes Quiet Earlier crypto cycles tended to produce a much simpler pattern. Prices collapsed, speculative activity disappeared and usage often fell with it. Stablecoins have complicated that relationship. A dollar token can continue being useful for payments, savings or cross-border transfers whether Bitcoin is at an all-time high or halfway through a drawdown. The same is true for peer-to-peer transfers in markets where crypto is being used as financial infrastructure rather than a speculative investment. Chainalysis’ data does not mean the bear market was painless. A $2.1 trillion drop in capitalization represents a huge destruction of paper wealth, and some areas of the industry clearly contracted. But a 1.6% decline in measured economic activity against that backdrop suggests crypto usage has become more resilient than the headline price chart implies. That may be one of the more important signs of maturity in this cycle. This article was written by the News Desk and edited by Samuel Rae.",
+    "hasSummary": true,
+    "link": "https://www.newsbtc.com/technology/chainalysis-says-crypto-activity-barely-fell-despite-2-1t-market-rout/",
+    "source": "NewsBTC",
+    "tags": [
+      "Chainalysis"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T03:30:00.000Z",
+    "fetchedAt": "2026-09-25T06:01:20.414Z",
+    "isDuplicateOf": null,
+    "content": "Chainalysis reports that global crypto economic activity remained resilient during the recent market downturn. Despite a $2.1 trillion drop in market capitalization, overall activity fell by only 1.6% between July 2025 and June 2026. The data shows significant growth in peer-to-peer transfers and cross-border stablecoin usage, indicating that utility and network engagement are decoupling from volatile asset prices as the sector matures.",
+    "content_ta": "சமீபத்திய சந்தை சரிவின் போதும் உலகளாவிய கிரிப்டோ பொருளாதார செயல்பாடு வலுவாக இருந்ததாக Chainalysis தெரிவித்துள்ளது. சந்தை மூலதனத்தில் $2.1 டிரில்லியன் சரிவு ஏற்பட்டாலும், கடந்த ஆண்டு கிரிப்டோ பரிவர்த்தனைகள் வெறும் 1.6% மட்டுமே குறைந்துள்ளன. Peer-to-peer பரிமாற்றங்கள் மற்றும் சர்வதேச ஸ்டேபிள்காயின் பயன்பாடு அதிகரித்துள்ளதால், கிரிப்டோ சந்தையின் பயன்பாடு மற்றும் நெட்வொர்க் செயல்பாடு ஆகியவை விலை மாற்றங்களிலிருந்து விலகி முதிர்ச்சியடைந்து வருவதை இது காட்டுகிறது.",
+    "slug": "chainalysis-says-crypto-activity-barely-fell-despite-2-1t-market-rout"
+  },
+  {
+    "id": "54767d4c19855e74",
+    "title": "Bitget Reports $351M Hot Wallet Breach, Says User Funds Are Covered",
+    "summary": "Cold wallets, which hold most of Bitget's assets, were never touched at all, the exchange says, even as hot and warm layers took the hit.",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/bitget-reports-351m-hot-wallet-breach-says-user-funds-are-covered/",
+    "source": "CryptoPotato",
+    "tags": [
+      "Bitget"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T04:44:11.000Z",
+    "fetchedAt": "2026-09-25T06:01:20.414Z",
+    "isDuplicateOf": null,
+    "content": "Cryptocurrency exchange Bitget has confirmed a security breach affecting its hot and warm wallet layers, resulting in losses estimated at $351 million. Despite the incident, the platform stated that its cold storage wallets remain secure and unaffected. Bitget has reassured its users that all affected funds are covered, emphasizing that the majority of the exchange's assets were successfully protected from the compromise.",
+    "content_ta": "Cryptocurrency பரிமாற்ற தளமான Bitget, தனது hot மற்றும் warm வாலட் அடுக்குகளில் ஏற்பட்ட பாதுகாப்பு குறைபாட்டினால் சுமார் $351 மில்லியன் மதிப்பிலான இழப்பு ஏற்பட்டுள்ளதாக உறுதிப்படுத்தியுள்ளது. இருப்பினும், Bitget-ன் பெரும்பாலான சொத்துக்கள் சேமிக்கப்பட்டுள்ள cold வாலட்கள் பாதுகாப்பாக இருப்பதாக நிறுவனம் தெரிவித்துள்ளது. பாதிக்கப்பட்ட பயனர்களின் நிதி முழுமையாக ஈடு செய்யப்படும் என்றும், தனது வாடிக்கையாளர்களின் சொத்துக்களுக்கு எந்த ஆபத்தும் இல்லை என்றும் Bitget நிறுவனம் உறுதியளித்துள்ளது.",
+    "slug": "bitget-reports-351m-hot-wallet-breach-says-user-funds-are-covered"
+  },
+  {
+    "id": "21f09256119bc892",
+    "title": "Assessing Litecoin’s latest price breakout after bulls clear major $60.61 swing high",
+    "summary": "Despite a volume warning, Litecoin has maintained a bullish bias in the higher timeframes.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/assessing-litecoins-latest-price-breakout-after-bulls-clear-major-60-61-swing-high/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Litecoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T06:00:26.000Z",
+    "fetchedAt": "2026-09-25T06:01:20.414Z",
+    "isDuplicateOf": null,
+    "content": "Litecoin recently experienced a notable price breakout as bullish momentum pushed the asset past a significant swing high. While analysts are observing the price action closely, a warning regarding current trading volume suggests investors should remain cautious. Despite these volume concerns, Litecoin continues to demonstrate a strong bullish bias across higher timeframes, indicating sustained interest from market participants as the digital asset maintains its upward trajectory in the current market environment.",
+    "content_ta": "Litecoin சமீபத்தில் ஒரு குறிப்பிடத்தக்க விலை உயர்வைச் சந்தித்துள்ளது, இது காளைகளின் வேகத்தால் ஒரு முக்கிய உச்சத்தைத் தாண்டியுள்ளது. வர்த்தக அளவு குறித்த எச்சரிக்கை விடுக்கப்பட்டிருந்தாலும், முதலீட்டாளர்கள் கவனமாக இருக்குமாறு அறிவுறுத்தப்படுகிறார்கள். இந்த வர்த்தக அளவு கவலைகள் இருந்தபோதிலும், Litecoin நீண்ட கால அடிப்படையில் வலுவான ஏற்ற இறக்கத்தை வெளிப்படுத்துகிறது. இது தற்போதைய சந்தை சூழலில் டிஜிட்டல் சொத்தின் மீதான முதலீட்டாளர்களின் ஆர்வத்தைத் தொடர்ந்து காட்டுகிறது.",
+    "slug": "assessing-litecoin-s-latest-price-breakout-after-bulls-clear-major-60-61-swing-high"
+  },
+  {
+    "id": "546f63521dd91dd8",
+    "title": "‘Only hedge funds, retail sold’ — Will BTC sustain rally as Bitcoin ETF flows turn positive?",
+    "summary": "Will BTC hold above $80K ahead of another likely October Fed rate hike?",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/only-hedge-funds-retail-sold-will-btc-sustain-rally-as-bitcoin-etf-flows-turn-positive/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Bitcoin",
+      "Federal Reserve"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T05:00:21.000Z",
+    "fetchedAt": "2026-09-25T06:01:20.414Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin is facing critical market tests as it strives to maintain its recent price rally. While retail investors and hedge funds have reportedly offloaded positions, recent inflows into Bitcoin ETFs suggest renewed institutional interest. Analysts are now closely monitoring whether the asset can hold its current valuation amid speculation regarding upcoming interest rate decisions from the Federal Reserve, which could significantly impact market momentum in the coming weeks.",
+    "content_ta": "Bitcoin தனது சமீபத்திய விலை உயர்வை தக்கவைக்க முயற்சிப்பதன் மூலம் முக்கியமான சந்தை சோதனைகளை எதிர்கொள்கிறது. சில்லறை முதலீட்டாளர்கள் மற்றும் ஹெட் ஃபண்டுகள் பங்குகளை விற்று வரும் வேளையில், Bitcoin ETF-களில் முதலீடுகள் மீண்டும் அதிகரிக்கத் தொடங்கியுள்ளது. Federal Reserve-ன் வட்டி விகித மாற்றங்கள் குறித்த எதிர்பார்ப்புகளுக்கு மத்தியில், Bitcoin தற்போதைய விலையைத் தக்கவைத்துக் கொள்ளுமா என்பதை முதலீட்டாளர்கள் உன்னிப்பாகக் கவனித்து வருகின்றனர்.",
+    "slug": "only-hedge-funds-retail-sold-will-btc-sustain-rally-as-bitcoin-etf-flows-turn-positive"
+  },
+  {
+    "id": "0d9b212489de6f22",
+    "title": "Why TRUMP crypto’s recovery odds depend on the $1.93 support",
+    "summary": "TRUMP held crucial pennant support despite heavy selling, while overhead liquidity offered a potential recovery target.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/why-trump-cryptos-recovery-odds-depend-on-the-1-93-support/",
+    "source": "AMBCrypto",
+    "tags": [
+      "TRUMP"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T04:00:30.000Z",
+    "fetchedAt": "2026-09-25T06:01:20.414Z",
+    "isDuplicateOf": null,
+    "content": "The TRUMP cryptocurrency is currently facing a critical market juncture. Despite significant selling pressure in recent trading sessions, the asset has managed to maintain its position above a key pennant support level. Analysts are closely monitoring the $1.93 mark, as sustained stability at this level remains essential for a potential trend reversal. Market participants are now focused on overhead liquidity as a target for a meaningful price recovery.",
+    "content_ta": "TRUMP கிரிப்டோகரன்சி தற்போது சந்தையில் ஒரு முக்கியமான கட்டத்தில் உள்ளது. சமீபத்திய வர்த்தகத்தில் கடும் விற்பனை அழுத்தம் இருந்தபோதிலும், இந்த சொத்து ஒரு முக்கிய ஆதரவு நிலைக்கு மேலே தனது நிலையைத் தக்கவைத்துக் கொண்டுள்ளது. $1.93 என்ற விலை மட்டத்தை சந்தை ஆய்வாளர்கள் உன்னிப்பாக கவனித்து வருகின்றனர், ஏனெனில் விலை உயர்வுக்கு இந்த நிலைத்தன்மை மிகவும் அவசியமாகும். சந்தை முதலீட்டாளர்கள் தற்போது விலை மீட்சிக்கான வாய்ப்புகளை எதிர்பார்த்து காத்திருக்கின்றனர்.",
+    "slug": "why-trump-crypto-s-recovery-odds-depend-on-the-1-93-support"
+  },
+  {
+    "id": "dcd0bfe822bf20fd",
+    "title": "How TAO lost 10% after falling OI triggered three-day price correction",
+    "summary": "TAO extended its correction after a major resistance rejection coincided with a fall in Open Interest.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/how-tao-lost-10-after-falling-oi-triggered-three-day-price-correction/",
+    "source": "AMBCrypto",
+    "tags": [
+      "TAO"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T03:45:56.000Z",
+    "fetchedAt": "2026-09-25T06:01:20.414Z",
+    "isDuplicateOf": null,
+    "content": "TAO has experienced a significant downturn, losing 10% of its value over the past three days. This downward trend followed a major resistance rejection that coincided with a notable decline in Open Interest. Market participants observed that the combination of these technical factors intensified the selling pressure, leading to a prolonged correction for the cryptocurrency as momentum faded.",
+    "content_ta": "TAO கடந்த மூன்று நாட்களில் 10% மதிப்பைக் குறைந்து சரிவைச் சந்தித்துள்ளது. சந்தையில் முக்கிய எதிர்ப்பு நிலையைத் தாண்ட முடியாமல் போனதும், Open Interest குறைந்ததும் இந்த வீழ்ச்சிக்குக் காரணமாக அமைந்தன. தொழில்நுட்பக் காரணிகளின் ஒருங்கிணைப்பு விற்பனை அழுத்தத்தை அதிகரித்ததால், கிரிப்டோகரன்சியின் விலை சரிவு நீடித்தது.",
+    "slug": "how-tao-lost-10-after-falling-oi-triggered-three-day-price-correction"
+  },
+  {
+    "id": "e1d4d87f59970c84",
+    "title": "30-Year Mortgage Rate Hits 7.45%. What Does It Mean for Crypto?",
+    "summary": "The average 30-year fixed US mortgage rate jumped 19 basis points to 7.45% on Thursday. Mortgage News Daily recorded the move in its daily survey of brokers and lenders. The jump tracks a broader selloff in US government bonds. For crypto markets, the Treasury yield at the center of that selloff carries the clearer signal.\nThe post 30-Year Mortgage Rate Hits 7.45%. What Does It Mean for Crypto? appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/mortgage-rates-treasury-yield-bitcoin-crypto/",
+    "source": "BeInCrypto",
+    "tags": [
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T05:01:26.000Z",
+    "fetchedAt": "2026-09-25T06:01:20.414Z",
+    "isDuplicateOf": null,
+    "content": "The average 30-year fixed US mortgage rate climbed 19 basis points to reach 7.45%, driven by a broader selloff in US government bonds. According to Mortgage News Daily, this increase reflects rising Treasury yields, which are closely watched by investors for potential signals impacting broader financial markets, including crypto.",
+    "content_ta": "அமெரிக்காவின் சராசரி 30 ஆண்டு நிலையான மோர்கடேஜ் வட்டி விகிதம் 19 அடிப்படைப் புள்ளிகள் அதிகரித்து 7.45 சதவீதத்தை எட்டியுள்ளது. அமெரிக்க அரசுப் பத்திரங்களின் விற்பனை சரிவு இதற்குக் காரணமாகும். Mortgage News Daily தரவுகளின்படி, இந்த உயர்வு கருவூல ஈவுத்தொகை அதிகரிப்பைக் காட்டுகிறது, இது crypto சந்தைகள் உட்பட ஒட்டுமொத்த நிதிச் சந்தைகளிலும் தாக்கம் ஏற்படுத்தலாம்.",
+    "slug": "30-year-mortgage-rate-hits-7-45-what-does-it-mean-for-crypto"
+  },
+  {
+    "id": "33b6136da077f30c",
+    "title": "Securitize Stock Surges 15% as SEC's Tokenization Exemption Turns RWA Theory Into Trading Reality",
+    "summary": "Securitize stock jumped 15% after the SEC's Innovation Exemption cleared a legal path for tokenized stock trading venues.\nThe post Securitize Stock Surges 15% as SEC's Tokenization Exemption Turns RWA Theory Into Trading Reality appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/securitize-stock-surges-sec-tokenization/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Securitize",
+      "United States Securities and Exchange Commission"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T03:42:49.000Z",
+    "fetchedAt": "2026-09-25T06:01:20.414Z",
+    "isDuplicateOf": null,
+    "content": "Securitize stock rose 15% following a significant regulatory development from the U.S. Securities and Exchange Commission. The SEC's new innovation exemption has created a legal framework for tokenized stock trading platforms to operate. This move effectively transitions Real-World Asset (RWA) tokenization from theoretical concepts into practical market reality, boosting investor confidence and market performance for the company as it navigates this newly clarified regulatory environment.",
+    "content_ta": "Securitize நிறுவனத்தின் பங்குகள் 15% உயர்ந்துள்ளன. அமெரிக்காவின் SEC அமைப்பு வெளியிட்ட புதிய 'Innovation Exemption' விதிகளின் மூலம், டோக்கனைஸ் செய்யப்பட்ட பங்குகளை வர்த்தகம் செய்வதற்கான சட்டப்பூர்வ வழிமுறை தெளிவாகியுள்ளது. இது Real-World Asset (RWA) டோக்கனைசேஷன் முறையை வெறும் கோட்பாடாக மட்டும் இல்லாமல், நிஜ உலக வர்த்தகச் சூழலுக்குக் கொண்டுவந்துள்ளது. இந்தச் சாதகமான சூழலால், Securitize நிறுவனம் முதலீட்டாளர்களின் ஆதரவைப் பெற்றுள்ளது.",
+    "slug": "securitize-stock-surges-15-as-sec-s-tokenization-exemption-turns-rwa-theory-into-trading-reality"
+  },
+  {
+    "id": "fa81524a46a74623",
+    "title": "Elon Musk says SpaceX could have a Fable or GPT-6 level AI model within months",
+    "summary": "SpaceX's rapid AI development could intensify competition, strain resources, and shift industry dynamics, impacting innovation and talent allocation.\nThe post Elon Musk says SpaceX could have a Fable or GPT-6 level AI model within months appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/spacex-ai-model-gpt-6-level-musk/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "SpaceX",
+      "Elon Musk",
+      "GPT-6"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T05:07:38.000Z",
+    "fetchedAt": "2026-09-25T06:01:20.414Z",
+    "isDuplicateOf": null,
+    "content": "Elon Musk recently suggested that SpaceX is rapidly advancing its artificial intelligence capabilities, potentially reaching performance levels comparable to advanced models like GPT-6 within a few months. This development signals a significant pivot for the aerospace company. Industry analysts believe this aggressive push into AI could disrupt the broader tech sector, intensifying competition for specialized talent and influencing how aerospace resources are allocated toward future innovation.",
+    "content_ta": "SpaceX நிறுவனம் தனது செயற்கை நுண்ணறிவு தொழில்நுட்பத்தை மிக வேகமாக மேம்படுத்தி வருவதாகவும், வரும் மாதங்களில் GPT-6 அளவுக்கு திறன் கொண்ட AI மாடலை உருவாக்க வாய்ப்புள்ளதாகவும் Elon Musk தெரிவித்துள்ளார். விண்வெளித் துறையில் ஈடுபட்டுள்ள SpaceX-ன் இந்த அதிரடி மாற்றம், தொழில்நுட்ப உலகில் பெரும் தாக்கத்தை ஏற்படுத்தும் என எதிர்பார்க்கப்படுகிறது. மேலும், இது திறமையான பணியாளர்களை ஈர்ப்பதில் போட்டியை அதிகரிப்பதோடு, விண்வெளித் துறை சார்ந்த கண்டுபிடிப்புகளில் புதிய மாற்றங்களைக் கொண்டுவரும் என்று கருதப்படுகிறது.",
+    "slug": "elon-musk-says-spacex-could-have-a-fable-or-gpt-6-level-ai-model-within-months"
+  },
+  {
+    "id": "fd360b6cfe24b0a1",
+    "title": "Lightspeed targets $300–$350M for new early-stage AI fund in India",
+    "summary": "Lightspeed's strategic shift to early-stage AI investments in India reflects a broader industry trend prioritizing AI innovation and agility.\nThe post Lightspeed targets $300–$350M for new early-stage AI fund in India appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/lightspeed-india-ai-fund-early-stage/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Lightspeed",
+      "India"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T05:06:19.000Z",
+    "fetchedAt": "2026-09-25T06:01:20.414Z",
+    "isDuplicateOf": null,
+    "content": "Lightspeed is reportedly seeking to raise between $300 million and $350 million to launch a new venture capital fund focused on early-stage artificial intelligence startups in India. This strategic move highlights the company's commitment to supporting the growing AI innovation ecosystem in the region, signaling a shift toward prioritizing high-growth technology investments within the Indian market.",
+    "content_ta": "இந்தியாவில் ஆரம்பக்கட்ட செயற்கை நுண்ணறிவு (AI) ஸ்டார்ட்அப்களில் முதலீடு செய்வதற்காக, புதிய முதலீட்டு நிதியைத் திரட்ட Lightspeed நிறுவனம் திட்டமிட்டுள்ளது. இதற்காக சுமார் $300 மில்லியன் முதல் $350 மில்லியன் வரை திரட்ட நிறுவனம் இலக்கு நிர்ணயித்துள்ளது. இந்தியாவில் வளர்ந்து வரும் AI தொழில்நுட்பக் கண்டுபிடிப்புகளை ஊக்குவிப்பதிலும், அந்தச் சந்தையில் தனது முதலீட்டுச் செயல்பாடுகளை விரிவுபடுத்துவதிலும் இந்த நடவடிக்கை முக்கிய கவனம் செலுத்துகிறது.",
+    "slug": "lightspeed-targets-300-350m-for-new-early-stage-ai-fund-in-india"
+  },
+  {
+    "id": "da9a81e0c3476f6f",
+    "title": "DensityAI nears $10B valuation with hundreds of millions in funding and AWS deal",
+    "summary": "DensityAI's rapid rise highlights the growing demand for specialized AI chips, potentially reshaping the semiconductor industry landscape.\nThe post DensityAI nears $10B valuation with hundreds of millions in funding and AWS deal appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/densityai-10b-valuation-aws-deal/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "DensityAI",
+      "AWS"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T04:53:12.000Z",
+    "fetchedAt": "2026-09-25T06:01:20.414Z",
+    "isDuplicateOf": null,
+    "content": "DensityAI is approaching a $10 billion valuation following a successful fundraising round totaling hundreds of millions of dollars. The company also secured a strategic partnership with AWS to accelerate its growth. This milestone underscores the increasing industry demand for specialized artificial intelligence infrastructure and suggests significant shifts ahead for the competitive semiconductor landscape as the company continues to scale its operations.",
+    "content_ta": "DensityAI நிறுவனம் பல கோடி டாலர்கள் முதலீட்டைத் திரட்டியதைத் தொடர்ந்து, சுமார் $10 பில்லியன் மதிப்பீட்டை எட்டியுள்ளது. மேலும், தனது வளர்ச்சியை வேகப்படுத்த AWS உடன் ஒரு முக்கிய ஒப்பந்தத்தையும் இந்நிறுவனம் மேற்கொண்டுள்ளது. செயற்கை நுண்ணறிவுக்கான சிறப்புச் சில்லுகளின் தேவை அதிகரித்து வரும் நிலையில், இந்த முன்னேற்றம் குறைக்கடத்தித் துறையில் பெரிய மாற்றங்களை ஏற்படுத்தும் என்று எதிர்பார்க்கப்படுகிறது.",
+    "slug": "densityai-nears-10b-valuation-with-hundreds-of-millions-in-funding-and-aws-deal"
+  },
+  {
+    "id": "21030558fe26698c",
+    "title": "Elon Musk plans 660K GB300 GPUs for Colossus 2 by year-end",
+    "summary": "Musk's GPU expansion could redefine AI capabilities, but raises concerns over environmental impact and energy demands in tech infrastructure.\nThe post Elon Musk plans 660K GB300 GPUs for Colossus 2 by year-end appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/musk-660k-gb300-gpus-colossus-2/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Elon Musk",
+      "Colossus 2"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T04:40:43.000Z",
+    "fetchedAt": "2026-09-25T06:01:20.414Z",
+    "isDuplicateOf": null,
+    "content": "Elon Musk is significantly expanding the Colossus 2 computing cluster with plans to deploy 660,000 GB300 GPUs by the end of the year. This massive infrastructure upgrade aims to drastically enhance AI processing power. However, industry observers have raised critical questions regarding the environmental footprint and the substantial energy requirements needed to maintain such high-performance computing facilities as these technologies scale.",
+    "content_ta": "Elon Musk தனது Colossus 2 கணினி கட்டமைப்பை விரிவுபடுத்தும் முயற்சியாக, இந்த ஆண்டிற்குள் 660,000 GB300 GPU-களை நிறுவத் திட்டமிட்டுள்ளார். இந்த பிரம்மாண்டமான உள்கட்டமைப்பு மேம்பாடு, AI செயலாக்கத் திறனை வியத்தகு முறையில் அதிகரிக்கும் நோக்கம் கொண்டது. இருப்பினும், இத்தகைய உயர் செயல்திறன் கொண்ட தொழில்நுட்பங்களை பராமரிக்கத் தேவையான அதீத மின்சாரத் தேவை மற்றும் அதனால் ஏற்படும் சுற்றுச்சூழல் பாதிப்புகள் குறித்து நிபுணர்கள் கவலை தெரிவித்துள்ளனர்.",
+    "slug": "elon-musk-plans-660k-gb300-gpus-for-colossus-2-by-year-end"
+  },
+  {
+    "id": "f3bf5148fcf2c659",
+    "title": "Fed’s Rate Hike Sends Mortgage Rates To Highest Level Since 2023",
+    "summary": "The post Fed’s Rate Hike Sends Mortgage Rates To Highest Level Since 2023 appeared first on Coinpedia Fintech News\nThe Federal Reserve’s latest 25 basis point rate hike is rippling through markets far beyond what the size of the move suggests. According to The Kobeissi Letter, Fed Chair Kevin Warsh signaled the central bank remains firmly committed to its 2% inflation target regardless of political pressure, and markets are now pricing in a full …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/crypto-live-news/feds-rate-hike-sends-mortgage-rates-to-highest-level-since-2023/",
+    "source": "Coinpedia",
+    "tags": [
+      "Federal Reserve"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T03:31:32.000Z",
+    "fetchedAt": "2026-09-25T06:01:20.414Z",
+    "isDuplicateOf": null,
+    "content": "The Federal Reserve has implemented a 25 basis point interest rate hike, driving mortgage rates to their highest levels since 2023. This move underscores the central bank's ongoing commitment to its 2% inflation target. Markets are currently reacting to this shift in policy, with investors adjusting expectations as the Federal Reserve prioritizes long-term economic stability over immediate market pressure.",
+    "content_ta": "Federal Reserve-ன் 25 அடிப்படை புள்ளி வட்டி விகித உயர்வால், அடமான வட்டி விகிதங்கள் 2023-க்கு பிறகு மிக உயர்ந்த நிலையை எட்டியுள்ளன. பணவீக்கத்தை 2% ஆகக் குறைக்க வேண்டும் என்பதில் Federal Reserve உறுதியாக இருப்பதை இந்த நடவடிக்கை காட்டுகிறது. சந்தைகள் இந்த கொள்கை மாற்றத்திற்கு ஏற்ப செயல்பட்டு வருவதால், நீண்டகால பொருளாதார நிலைத்தன்மைக்கு Federal Reserve முன்னுரிமை அளித்து வருகிறது.",
+    "slug": "fed-s-rate-hike-sends-mortgage-rates-to-highest-level-since-2023"
+  },
+  {
+    "id": "51d6290829f89ba2",
+    "title": "Bitcoin Price Holds $84K, Yet Its Own Signals Are Fighting Each Other",
+    "summary": "The post Bitcoin Price Holds $84K, Yet Its Own Signals Are Fighting Each Other appeared first on Coinpedia Fintech News\nBitcoin is trading near $84,000, up from $76,500 a week ago, though a widely watched market model shows little conviction behind the move. According to Axel Adler Jr, the Bitcoin Regime Score briefly touched Strong Bull territory twice this week, hitting +52 on September 19 and +64 on September 22, before drifting back near zero …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/crypto-live-news/bitcoin-price-holds-84k-yet-its-own-signals-are-fighting-each-other/",
+    "source": "Coinpedia",
+    "tags": [
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T03:27:07.000Z",
+    "fetchedAt": "2026-09-25T06:01:20.414Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin is currently trading near $84,000, reflecting a significant rise from the $76,500 level seen last week. However, market analysts remain cautious as indicators show a lack of conviction in this upward trend. While the Bitcoin Regime Score briefly signaled a strong bullish sentiment, it has since shifted, indicating conflicting technical signals as investors monitor the price stability of the leading cryptocurrency.",
+    "content_ta": "Bitcoin தற்பொழுது சுமார் $84,000 விலையில் வர்த்தகமாகி வருகிறது. கடந்த வாரம் $76,500 ஆக இருந்த விலை உயர்ந்திருந்தாலும், சந்தை ஆய்வாளர்கள் இந்த உயர்வில் போதிய உறுதி இல்லை என எச்சரிக்கின்றனர். Bitcoin Regime Score குறுகிய காலத்திற்கு ஏற்றமான போக்கைக் காட்டினாலும், தற்போது சந்தையில் முரண்பட்ட சமிக்ஞைகள் நிலவுவதால், முதலீட்டாளர்கள் கவனத்துடன் செயல்பட்டு வருகின்றனர்.",
+    "slug": "bitcoin-price-holds-84k-yet-its-own-signals-are-fighting-each-other"
+  },
+  {
+    "id": "b8db731f2fc5cd5c",
+    "title": "Santander Wins Fed Approval to Acquire Webster Financial",
+    "summary": "The Federal Reserve has cleared Santander's takeover of Webster Bank, with the $80bn-asset deal expected to close on 20 August 2026.\nThe post Santander Wins Fed Approval to Acquire Webster Financial appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/santander-wins-fed-approval-to-acquire-webster-financial/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Santander",
+      "Webster Financial",
+      "Federal Reserve"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T06:00:11.000Z",
+    "fetchedAt": "2026-09-25T06:01:20.414Z",
+    "isDuplicateOf": null,
+    "content": "Santander has received official approval from the Federal Reserve to proceed with its acquisition of Webster Financial. The merger involving the significant banking entity is currently scheduled to be completed by August 20, 2026. This regulatory clearance marks a major step forward for the companies as they finalize the integration process outlined in their strategic agreement.",
+    "content_ta": "Santander நிறுவனம் Webster Financial-ஐ கையகப்படுத்துவதற்கு Federal Reserve அதிகாரப்பூர்வமாக அனுமதி அளித்துள்ளது. இந்த வங்கி இணைப்பு ஒப்பந்தம் ஆகஸ்ட் 20, 2026 அன்று நிறைவடையும் என்று எதிர்பார்க்கப்படுகிறது. நிறுவனங்கள் தங்கள் திட்டமிட்ட ஒருங்கிணைப்புப் பணிகளை முடிப்பதற்கான முக்கிய நடவடிக்கையாக இந்த ஒழுங்குமுறை அனுமதி கருதப்படுகிறது.",
+    "slug": "santander-wins-fed-approval-to-acquire-webster-financial"
+  },
+  {
+    "id": "06d761f6f7499e33",
+    "title": "ADX Posts 2.8trn Dirham Market Cap in H1 2026 Amid Infrastructure Push",
+    "summary": "Abu Dhabi's bourse added 30,000 new investors and welcomed HSBC and Morgan Stanley as its first foreign clearing and trading members.\nThe post ADX Posts 2.8trn Dirham Market Cap in H1 2026 Amid Infrastructure Push appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/adx-posts-2-8trn-dirham-market-cap-in-h1-2026-amid-infrastructure-push/",
+    "source": "The Fintech Times",
+    "tags": [
+      "ADX",
+      "HSBC",
+      "Morgan Stanley",
+      "Abu Dhabi"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T05:00:02.000Z",
+    "fetchedAt": "2026-09-25T06:01:20.414Z",
+    "isDuplicateOf": null,
+    "content": "Abu Dhabi Securities Exchange (ADX) achieved a market capitalization of 2.8 trillion dirhams during the first half of 2026. This growth coincides with a strategic push in infrastructure development. The exchange also expanded its reach by onboarding 30,000 new investors and welcoming HSBC and Morgan Stanley as its inaugural foreign clearing and trading members, marking a significant milestone for the bourse's international integration efforts.",
+    "content_ta": "2026-ஆம் ஆண்டின் முதல் பாதியில் ADX சந்தை மூலதனம் 2.8 டிரில்லியன் திர்ஹம்களை எட்டியுள்ளது. உள்கட்டமைப்பு மேம்பாட்டில் கவனம் செலுத்தி வரும் வேளையில், இந்த வளர்ச்சி ஏற்பட்டுள்ளது. மேலும், 30,000 புதிய முதலீட்டாளர்கள் இணைந்துள்ளனர். HSBC மற்றும் Morgan Stanley ஆகிய நிறுவனங்களை தனது முதல் வெளிநாட்டு வர்த்தக உறுப்பினர்களாக இணைத்ததன் மூலம், ADX தனது சர்வதேச வர்த்தக கட்டமைப்பை வலுப்படுத்தியுள்ளது.",
+    "slug": "adx-posts-2-8trn-dirham-market-cap-in-h1-2026-amid-infrastructure-push"
   }
 ]
