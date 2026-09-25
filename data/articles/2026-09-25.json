@@ -2448,5 +2448,956 @@
     "content": "Pure Interactive has partnered with cloud-based payment orchestration platform Gr4vy to support its scaling real money gaming platform in the United States. The integration enables Pure Interactive to add multiple payment processors for Apple Pay without needing separate engineering projects. By utilizing Gr4vy, the company can route transactions across different providers, manage payment capacity, and maintain smooth deposit continuity as its user base continues to grow rapidly.",
     "content_ta": "Pure Interactive நிறுவனம் அமெரிக்காவில் வளர்ந்து வரும் தனது கேமிங் பிளாட்ஃபார்மின் தேவைகளைப் பூர்த்தி செய்ய Gr4vy நிறுவனத்துடன் இணைந்துள்ளது. இந்த கட்டண அமைப்பு ஒருங்கிணைப்பு மூலம், Pure Interactive நிறுவனம் Apple Pay பரிவர்த்தனைகளுக்காக பல்வேறு பேமெண்ட் ப்ராசஸர்களை எளிதாக இணைக்க முடியும். மேலும், எந்தவித கூடுதல் இன்ஜினியரிங் பணிகளும் இன்றி, பரிவர்த்தனைகளை மாற்றி அமைத்து, பயனர்களின் டெபாசிட் சேவைகளை தடையின்றி வழங்க இந்த பிளாட்ஃபார்ம் உதவுகிறது.",
     "slug": "pure-interactive-chooses-gr4vy-to-add-processor-redundancy-as-its-real-money-gaming-platform-scales"
+  },
+  {
+    "id": "23db91397427f548",
+    "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
+    "summary": "The stablecoin issuer blacklisted a wallet holding about $318,000 in USDT and USDC. Most of the stolen funds sit in ether, which can't be frozen.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
+    "source": "CoinDesk",
+    "tags": [
+      "Circle",
+      "Tether",
+      "Bitget",
+      "USDT",
+      "USDC"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T14:41:53.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.526Z",
+    "isDuplicateOf": null,
+    "content": "Circle and Tether have intervened to freeze a hacker wallet containing roughly $318,000 in USDT and USDC following a massive cryptocurrency heist at Bitget. The stablecoin issuers successfully blacklisted the targeted wallet. However, the majority of the stolen funds remain in ether, which cannot be frozen due to the design of the asset.",
+    "content_ta": "Bitget-ல் நடந்த பெரிய கிரிப்டோ திருட்டைத் தொடர்ந்து, ஹேக்கரின் வாலட்டை முடக்க Circle மற்றும் Tether நிறுவனங்கள் நடவடிக்கை எடுத்துள்ளன. இந்த ஸ்டேபிள்காயின் நிறுவனங்கள் சுமார் $318,000 மதிப்பிலான USDT மற்றும் USDC கொண்ட வாலட்டை வெற்றிகரமாக முடக்கியுள்ளன. எனினும், திருடப்பட்ட நிதியில் பெரும்பகுதி ether-ஆகவே உள்ளது, அதனை முடக்க முடியாது.",
+    "slug": "circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist"
+  },
+  {
+    "id": "94596c67dd61e7d9",
+    "title": "Tokenization is moving faster than Washington",
+    "summary": "Regulatory clarity is not simply a legal or political issue, argues former New York Governor Andrew Cuomo. It is an economic one.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
+    "source": "CoinDesk",
+    "tags": [
+      "Andrew Cuomo",
+      "Washington",
+      "New York"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T14:37:32.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Tokenization is developing at a rapid pace, outpacing the regulatory efforts in Washington. Former New York Governor Andrew Cuomo emphasizes that achieving regulatory clarity is fundamentally an economic necessity rather than just a legal or political matter, as it directly impacts financial growth and market innovation in the evolving digital asset sector.",
+    "content_ta": "டோக்கனைசேஷன் மிக வேகமாக வளர்ந்து வருகிறது, இது Washington-ன் ஒழுங்குமுறை முயற்சிகளை விட முந்தியுள்ளது. முன்னாள் New York Governor Andrew Cuomo, ஒழுங்குமுறை தெளிவு என்பது ஒரு சட்ட அல்லது அரசியல் பிரச்சினை மட்டுமல்ல, அது ஒரு பொருளாதாரப் பிரச்சினை என்பதை வலியுறுத்துகிறார், ஏனெனில் இது வளர்ந்து வரும் டிஜிட்டல் சொத்துத் துறையில் நேரடி தாக்கத்தை ஏற்படுத்துகிறது.",
+    "slug": "tokenization-is-moving-faster-than-washington"
+  },
+  {
+    "id": "c0fab8d6fc45ff88",
+    "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
+    "summary": "While Tether's stated ceiling places its maximum exposure under $64 million, the incident underscores lingering counterparty risks in fiat gateway networks.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
+    "source": "CoinDesk",
+    "tags": [
+      "Tether",
+      "EQIBank",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T14:32:48.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Tether has confirmed it has minimal exposure to EQIBank following a major asset seizure by United States authorities. Although the incident highlights ongoing counterparty risks within fiat gateway networks, Tether maintains that its maximum exposure remains well below its stated ceiling.",
+    "content_ta": "United States அதிகாரிகளால் மேற்கொள்ளப்பட்ட சொத்து முடக்கத்திற்குப் பிறகு, EQIBank நிறுவனத்தில் தனக்கு மிகக் குறைவான முதலீட்டுத் தொடர்பு மட்டுமே உள்ளதாக Tether உறுதிப்படுத்தியுள்ளது. ஃபியட் கேட்வே நெட்வொர்க்குகளில் உள்ள எதிர் தரப்பு ஆபத்துகளை இந்தச் சம்பவம் சுட்டிக்காட்டினாலும், நிறுவனத்தின் அதிகபட்ச வெளிப்பாடு அதன் வரம்பிற்குள் தான் இருப்பதாக Tether தெரிவித்துள்ளது.",
+    "slug": "tether-confirms-minimal-eqibank-exposure-following-89m-us-asset-seizure"
+  },
+  {
+    "id": "df6ff4ca40b559e4",
+    "title": "Strategy proposes daily dividends to bring STRC back toward $100",
+    "summary": "STRC has remained below $100 since May, despite a 12% dividend rate and roughly $1 billion in preferred share buybacks.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/markets/2026/09/25/strategy-proposes-daily-dividends-to-bring-strc-back-toward-usd100",
+    "source": "CoinDesk",
+    "tags": [
+      "STRC"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T14:22:07.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "A new strategy proposes daily dividends to help STRC return toward the $100 price level. STRC has traded below this target since May. This comes despite the implementation of a twelve percent dividend rate and approximately one billion dollars spent on preferred share buybacks.",
+    "content_ta": "STRC-ன் விலையை மீண்டும் 100 டாலர் அளவுக்கு உயர்த்த தினசரி லாபப் பங்கீட்டு முறையை புதிய உத்தி பரிந்துரைக்கிறது. கடந்த மே மாதம் முதல் STRC இந்த இலக்குக்குக் கீழே வர்த்தகம் செய்யப்பட்டு வருகிறது. பன்னிரண்டு சதவீத லாபப் பங்கீட்டு விகிதம் மற்றும் சுமார் ஒரு பில்லியன் டாலர் மதிப்பிலான விருப்பப் பங்கு மீள்கொள்முதல் நடவடிக்கைகள் மேற்கொள்ளப்பட்ட போதிலும் இந்த நிலை தொடர்கிறது.",
+    "slug": "strategy-proposes-daily-dividends-to-bring-strc-back-toward-100"
+  },
+  {
+    "id": "c91a6aa7d1d32e6c",
+    "title": "Exchanges reporting crypto gains to IRS becomes tax nightmare",
+    "summary": "The IRS can now see your crypto gains, but has no idea about the cost-basis. That’s proving to be a big headache for some cryptocurrency investors.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "IRS",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T13:30:00.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Cryptocurrency exchanges are now reporting user gains directly to the IRS, creating a major headache for many investors. While tax authorities can easily see overall profits from digital asset sales, they often lack information regarding the original cost-basis. This mismatch has left investors struggling to accurately report their taxable income, turning annual tax preparation into a complicated nightmare.",
+    "content_ta": "Crypto exchanges இப்போது user-களின் gains-ஐ நேரடியாக IRS-க்கு report செய்வது பல investors-களுக்கு பெரிய தலைவலியை ஏற்படுத்தியுள்ளது. Tax authorities-ஆல் digital asset sales-ன் மூலம் கிடைக்கும் profits-ஐ எளிதில் பார்க்க முடிந்தாலும், original cost-basis பற்றிய தகவல்கள் அவர்களிடம் இருப்பதில்லை. இந்த குளறுபடியால் investors தங்கள் taxable income-ஐ சரியாக report செய்ய முடியாமல் திணறி வருகின்றனர்.",
+    "slug": "exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare"
+  },
+  {
+    "id": "436c7ab672c748dd",
+    "title": "CoinMarketCap buys CoinGlass to expand crypto derivatives data",
+    "summary": "CoinMarketCap's acquisition of CoinGlass strengthens its data offerings, potentially reshaping the competitive landscape in crypto analytics.\nThe post Binance-owned CoinMarketCap buys Coinglass to expand crypto market data offering appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/coinmarketcap-coinglass-expand-crypto-derivatives-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "CoinMarketCap",
+      "CoinGlass",
+      "Binance"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T12:44:30.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "CoinMarketCap, owned by Binance, has acquired CoinGlass to expand its crypto derivatives data and analytics offerings. This strategic acquisition enhances the platform's market data capabilities, potentially strengthening its position within the competitive cryptocurrency analytics sector by providing users with deeper insights into derivatives trading.",
+    "content_ta": "Binance-ஐச் சேர்ந்த CoinMarketCap நிறுவனம், தனது கிரிப்டோ டெரிவேட்டிவ்ஸ் தரவு மற்றும் பகுப்பாய்வு சேவைகளை விரிவுபடுத்தும் நோக்கில் CoinGlass நிறுவனத்தைக் கைப்பற்றியுள்ளது. இந்த மூலோபாய கையகப்படுத்தல் நிறுவனத்தின் சந்தைத் தரவு திறன்களை மேம்படுத்துவதோடு, கிரிப்டோகரன்சி பகுப்பாய்வு துறையில் அதன் நிலையை மேலும் பலப்படுத்தும்.",
+    "slug": "coinmarketcap-buys-coinglass-to-expand-crypto-derivatives-data"
+  },
+  {
+    "id": "42a13cfcabe4709b",
+    "title": "SlowMist has yet to confirm crypto theft from iPhone Safari attack",
+    "summary": "The analyzed Safari sample targets iOS 18.4–18.6.2 using previously patched flaws, while its effectiveness on iOS 26.5 remains unverified.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "SlowMist",
+      "Apple",
+      "Safari"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T12:19:34.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "SlowMist has not yet confirmed any cryptocurrency theft resulting from an ongoing iPhone Safari attack. Analysis of the Safari sample indicates it targets iOS versions 18.4 through 18.6.2 using previously patched vulnerabilities. However, its effectiveness on newer iOS software remains unverified.",
+    "content_ta": "ஐபோன் Safari தாக்குதல் மூலம் கிரிப்டோ திருட்டு நடந்துள்ளதா என்பதை SlowMist நிறுவனம் இன்னும் உறுதிப்படுத்தவில்லை. இந்த Safari மாதிரி பகுப்பாய்வு மூலம், இது முன்பு சரிசெய்யப்பட்ட குறைபாடுகளைப் பயன்படுத்தி iOS 18.4 முதல் 18.6.2 வரையிலான பதிப்புகளை குறிவைப்பது தெரியவந்துள்ளது. இருப்பினும், புதிய iOS மென்பொருளில் இதன் தாக்கம் இன்னும் உறுதிப்படுத்தப்படவில்லை.",
+    "slug": "slowmist-has-yet-to-confirm-crypto-theft-from-iphone-safari-attack"
+  },
+  {
+    "id": "3e7cd11a22d504fb",
+    "title": "Strategy Wants Its Preferred Stock Dividends to Accrue 365 Days a Year",
+    "summary": "The proposal could enhance investor confidence and market performance by improving liquidity and stability without altering dividend economics.\nThe post Strategy proposes daily dividends for STRF, STRC, STRK, STRD to boost stability appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://decrypt.co/379309/strategy-wants-its-preferred-stock-dividends-to-accrue-365-days-a-year",
+    "source": "Decrypt",
+    "tags": [
+      "Strategy",
+      "STRF",
+      "STRC",
+      "STRK",
+      "STRD"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T13:22:00.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Strategy has proposed that its preferred stock dividends accrue 365 days a year across products including STRF, STRC, STRK, and STRD. This initiative aims to enhance market liquidity, improve stability, and boost investor confidence without changing the fundamental economics of the dividends.",
+    "content_ta": "Strategy நிறுவனம் தனது preferred stock dividend-களை STRF, STRC, STRK மற்றும் STRD உள்ளிட்ட தயாரிப்புகளில் வருடத்தில் 365 நாட்களும் சேர்க்க திட்டமிட்டுள்ளது. இந்த முயற்சியானது dividend பொருளாதாரத்தை மாற்றாமல், சந்தை liquidity-ஐ மேம்படுத்தவும், stability-ஐ அதிகரிக்கவும், investor confidence-ஐ உயர்த்தவும் நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "strategy-wants-its-preferred-stock-dividends-to-accrue-365-days-a-year"
+  },
+  {
+    "id": "acd9d82b1e31ee42",
+    "title": "Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on 'More Institutional' Play",
+    "summary": "The bulk of prediction market trades are still sports bets, while valuations are predicated on rising institutional interest.",
+    "hasSummary": true,
+    "link": "https://decrypt.co/379218/morgan-stanley-joins-nextpredict-as-prediction-markets-bet-on-more-institutional-play",
+    "source": "Decrypt",
+    "tags": [
+      "Morgan Stanley",
+      "NEXTPredict"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T13:16:03.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Morgan Stanley has joined NEXTPredict, marking a significant development for prediction markets. While the majority of current prediction market activity remains focused on sports betting, industry valuations and growth are increasingly driven by expectations of rising institutional interest and participation in the space.",
+    "content_ta": "Morgan Stanley நிறுவனம் NEXTPredict-ல் இணைந்துள்ளது, இது கணிப்பு சந்தைகளுக்கு (prediction markets) ஒரு குறிப்பிடத்தக்க வளர்ச்சியாகும். தற்போதைய கணிப்பு சந்தை வர்த்தகங்களில் பெரும்பாலானவை இன்னும் விளையாட்டு பந்தயங்களையே மையமாகக் கொண்டுள்ள போதிலும், நிறுவனங்களின் ஆர்வம் அதிகரிக்கும் என்ற எதிர்பார்ப்பே இந்தத் துறையின் மதிப்பீடுகளையும் வளர்ச்சியையும் தூண்டுகிறது.",
+    "slug": "morgan-stanley-joins-nextpredict-as-prediction-markets-bet-on-more-institutional-play"
+  },
+  {
+    "id": "2294ca4001b3a861",
+    "title": "Magic Eden legacy approvals leave $5.7 million in NFTs exposed to exploit before rescue",
+    "summary": "Magic Eden legacy approvals exposed $5.7 million in NFTs to an exploit before whitehats rescued 23,155 tokens.",
+    "hasSummary": true,
+    "link": "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874",
+    "source": "The Block",
+    "tags": [
+      "Magic Eden"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T14:09:15.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Magic Eden legacy approvals recently left $5.7 million worth of NFTs exposed to a potential exploit. Fortunately, whitehat rescuers managed to intervene and secure 23,155 tokens before the vulnerability could be maliciously exploited, preventing significant losses for digital asset holders on the platform.",
+    "content_ta": "Magic Eden-ன் பழைய அனுமதிகள் காரணமாக 5.7 மில்லியன் டாலர் மதிப்பிலான NFT-கள் ஹேக்கர்களின் ஆபத்தில் சிக்கின. அதிர்ஷ்டவசமாக, தீங்கிழைக்கும் நபர்கள் தாக்கும் முன், ஒயிட்ஹேட் மீட்பர்கள் தலையிட்டு 23,155 டோக்கன்களை வெற்றிகரமாக மீட்டு பாதுகாத்தனர்.",
+    "slug": "magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue"
+  },
+  {
+    "id": "2f1db53736c08032",
+    "title": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
+    "summary": "Aave V4 added Apple, Nvidia, Tesla, and four more tokenized stocks as collateral for USDC loans for non-U.S. users.",
+    "hasSummary": true,
+    "link": "https://www.theblock.co/news/defi/2026-09-25-aave-v4-on-base-adds-coinbase-tokenized-stocks-as-collateral-for-usdc-loans-416372",
+    "source": "The Block",
+    "tags": [
+      "Aave",
+      "Base",
+      "Coinbase",
+      "Apple",
+      "Nvidia",
+      "Tesla"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T14:00:00.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Aave V4 on the Base network now allows non-U.S. users to use Coinbase tokenized stocks, including shares of Apple, Nvidia, and Tesla, as collateral to secure USDC loans. This integration bridges traditional equity markets with decentralized finance, expanding the range of assets available for borrowing and lending on the Aave platform.",
+    "content_ta": "Base நெட்வொர்க்கில் உள்ள Aave V4, அமெரிக்காவைச் சேர்ந்தவை அல்லாத பயனர்கள் Apple, Nvidia மற்றும் Tesla போன்ற நிறுவனங்களின் Coinbase டோக்கனைஸ்டு பங்குகளை USDC கடன்களுக்கான பிணையமாகப் பயன்படுத்த அனுமதிக்கிறது. இந்த ஒருங்கிணைப்பு பாரம்பரிய பங்குச் சந்தைகளை பரவலாக்கப்பட்ட நிதியுடன் இணைக்கிறது.",
+    "slug": "aave-v4-on-base-adds-coinbase-tokenized-stocks-as-collateral-for-usdc-loans"
+  },
+  {
+    "id": "deffede92fb527b8",
+    "title": "Bitcoin faces a new inflation test after diesel hits a nominal $6.53 record",
+    "summary": "Lower distillate stocks add to fuel pressure, while upcoming September price reports will test whether freight costs spread.\nThe post Bitcoin faces a new inflation test after diesel hits a nominal $6.53 record appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/bitcoin-faces-a-new-inflation-test-after-diesel-hits-a-nominal-6-53-record/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T14:00:08.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin is facing a fresh inflation test as diesel prices reached a record nominal level of $6.53. Lower distillate stocks have increased pressure on fuel costs. Upcoming September price reports will determine if these rising freight expenses spread further through the broader economy, impacting markets.",
+    "content_ta": "டீசல் விலை சாதனை அளவாக $6.53-ஐ எட்டியுள்ளதால், Bitcoin புதிய பணவீக்கச் சோதனையை எதிர்கொண்டுள்ளது. குறைந்த எரிபொருள் இருப்புகள் எரிபொருள் செலவுகள் மீதான அழுத்தத்தை அதிகரித்துள்ளன. வரவிருக்கும் செப்டம்பர் மாத விலை அறிக்கைகள், இந்த சரக்குக் கட்டண உயர்வு பரவுமா என்பதைத் தீர்மானிக்கும்.",
+    "slug": "bitcoin-faces-a-new-inflation-test-after-diesel-hits-a-nominal-6-53-record"
+  },
+  {
+    "id": "dc64a915cc018a45",
+    "title": "SEC’s Hester Peirce wants to end crypto’s KYC honeypots before stablecoin rules create more of them",
+    "summary": "Covered direct issuer customers would still provide identifying fields, while reliance on another institution remains conditional.\nThe post SEC’s Hester Peirce wants to end crypto’s KYC honeypots before stablecoin rules create more of them appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/secs-hester-peirce-wants-to-end-cryptos-kyc-honeypots-before-stablecoin-rules-create-more-of-them/",
+    "source": "CryptoSlate",
+    "tags": [
+      "SEC",
+      "Hester Peirce"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T13:00:23.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "SEC Commissioner Hester Peirce has expressed concerns regarding cryptocurrency KYC data collection practices. She argues that current regulatory frameworks create centralized data repositories, often referred to as honeypots. Peirce suggests addressing these vulnerabilities before upcoming stablecoin regulations potentially expand such risks, highlighting the ongoing debate between privacy and compliance in the digital asset sector.",
+    "content_ta": "SEC ஆணையரான Hester Peirce கிரிப்டோகரன்சி KYC தரவு சேகரிப்பு நடைமுறைகள் குறித்து கவலை தெரிவித்துள்ளார். தற்போதைய ஒழுங்குமுறை கட்டமைப்புகள் மையப்படுத்தப்பட்ட தரவு பெட்டகங்களை உருவாக்குகின்றன என்று அவர் வாதிடுகிறார். வரவிருக்கும் stablecoin விதிகள் இதுபோன்ற அபாயங்களை விரிவுபடுத்துவதற்கு முன்பு இந்த பாதிப்புகளை நிவர்த்தி செய்ய வேண்டும் என்று Peirce பரிந்துரைக்கிறார்.",
+    "slug": "sec-s-hester-peirce-wants-to-end-crypto-s-kyc-honeypots-before-stablecoin-rules-create-more-of-them"
+  },
+  {
+    "id": "d7893beaf318fb80",
+    "title": "Bitcoin Price Prediction: ETF Flows Turned Green After $5.8 Billion Outflow",
+    "summary": "Bitcoin ETFs reverse from $5.8B outflow to net inflows. Key levels, price targets, and what the flow shift means for BTC's next move.\nThe post Bitcoin Price Prediction: ETF Flows Turned Green After $5.8 Billion Outflow appeared first on Cryptonews.",
+    "hasSummary": true,
+    "link": "https://cryptonews.com/news/bitcoin-price-prediction-etf-flows/",
+    "source": "CryptoNews",
+    "tags": [
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T12:14:00.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin ETFs have experienced a notable shift, turning back to net inflows following a massive $5.8 billion outflow period. This reversal has sparked renewed interest in Bitcoin's price trajectory, with analysts closely watching key technical levels and potential price targets to determine the cryptocurrency's next major market move.",
+    "content_ta": "Bitcoin ETF-களில் குறிப்பிடத்தக்க மாற்றம் ஏற்பட்டுள்ளது. நீண்ட காலத்திற்குப் பிறகு $5.8 பில்லியன் வெளியேற்றத்திற்குப் பிறகு தற்போது மீண்டும் முதலீடுகள் உள்ளே வரத் தொடங்கியுள்ளன. இந்த மாற்றத்தால் Bitcoin-ன் விலை குறித்த எதிர்பார்ப்பு அதிகரித்துள்ளது.",
+    "slug": "bitcoin-price-prediction-etf-flows-turned-green-after-5-8-billion-outflow"
+  },
+  {
+    "id": "1cd7490ae9392d2b",
+    "title": "History Repeating? Cardano (ADA) Could be Gearing Up for a 1,000% Explosion",
+    "summary": "Here's why ADA can skyrocket to nearly $3.",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/history-repeating-cardano-ada-could-be-gearing-up-for-a-1000-explosion/",
+    "source": "CryptoPotato",
+    "tags": [
+      "Cardano"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T14:00:59.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Cardano (ADA) could be preparing for a massive price surge of up to 1,000%, according to recent market analysis. Observers note that historical patterns suggest the cryptocurrency might experience a significant breakout, potentially driving its value up to nearly $3. Investors are closely monitoring market movements to see if this bullish trend will materialize.",
+    "content_ta": "சமீபத்திய சந்தை பகுப்பாய்வின்படி Cardano (ADA) 1,000% வரை பெரிய விலை உயர்வுக்கு தயாராகலாம். கிரிப்டோகரன்சி குறிப்பிடத்தக்க உயர்வை அனுபவிக்கக்கூடும் என்றும், அதன் மதிப்பு கிட்டத்தட்ட $3 வரை உயரக்கூடும் என்றும் வரலாற்று வடிவங்கள்Suggest செய்வதாக பார்வையாளர்கள் குறிப்பிடுகின்றனர். இந்த காப்பீடு மற்றும் வளர்ச்சி போக்கு உறுதிப்படுமா என்பதை முதலீட்டாளர்கள் உன்னிப்பாக கவனித்து வருகின்றனர்.",
+    "slug": "history-repeating-cardano-ada-could-be-gearing-up-for-a-1-000-explosion"
+  },
+  {
+    "id": "6a90075edc7fbdc8",
+    "title": "This Trader Has Never Been Wrong and Now Bets Big on Ethereum (ETH): Details",
+    "summary": "Is this a clear signal that ETH is on the verge of a fresh upswing?",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/this-trader-has-never-been-wrong-and-now-bets-big-on-ethereum-eth-details/",
+    "source": "CryptoPotato",
+    "tags": [
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T13:05:54.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "A well-known trader with a flawless track record has reportedly placed a massive bet on Ethereum (ETH). Market observers are closely watching this move, wondering if it serves as a strong signal that the popular cryptocurrency is preparing for a significant upward price movement in the near future.",
+    "content_ta": "இதுவரை எந்த வர்த்தக முயற்சியிலும் தோல்வியடையாத ஒரு பிரபலமான வர்த்தகர், இப்போது Ethereum (ETH) மீது பெரிய அளவில் முதலீடு செய்துள்ளார். இந்த நடவடிக்கையானது, இந்த முன்னணி கிரிப்டோகரன்சி விரைவில் ஒரு புதிய எழுச்சிப் பாதையை நோக்கிச் செல்வதற்கான தெளிவான அறிகுறியா என்ற எதிர்பார்ப்பை சந்தையில் ஏற்படுத்தியுள்ளது.",
+    "slug": "this-trader-has-never-been-wrong-and-now-bets-big-on-ethereum-eth-details"
+  },
+  {
+    "id": "310c7cba702bfb8a",
+    "title": "Canadian-Dollar Stablecoin CADD Goes Live On Solana",
+    "summary": "TL;DR Tetra Digital Group has expanded its Canadian-dollar stablecoin CADD onto Solana. CADD is designed to maintain a 1:1 relationship with Canadian dollars held as reserves. The September 23 rollout is a Solana expansion; CADD had already launched on other blockchain networks earlier in 2026. Canada’s regulated stablecoin market now has a new Solana connection. […]",
+    "hasSummary": true,
+    "link": "https://bitcoinist.com/canadian-dollar-stablecoin-cadd-goes-live-on-solana/",
+    "source": "Bitcoinist",
+    "tags": [
+      "Tetra Digital Group",
+      "CADD",
+      "Solana",
+      "Canada"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T14:30:00.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Tetra Digital Group has expanded its Canadian-dollar stablecoin CADD onto the Solana blockchain network. Designed to maintain a 1:1 backing with Canadian dollar reserves, this rollout brings a new regulated stablecoin connection to Solana, following the token's initial launches on other blockchain networks earlier in the year.",
+    "content_ta": "Tetra Digital Group நிறுவனத்தின் கனடிய டாலர் ஸ்டேபிள்காயினான CADD, Solana பிளாக்செயின் நெட்வொர்க்கில் வெளியிடப்பட்டுள்ளது. கனடிய டாலர் காப்புத்தொகையுடன் 1:1 மதிப்பைப் பேண வடிவமைக்கப்பட்டுள்ள இந்த CADD, ஏற்கனவே பிற நெட்வொர்க்குகளில் வெளியானதைத் தொடர்ந்து தற்போது Solana-விலும் தனது சேவையை விரிவுபடுத்தியுள்ளது.",
+    "slug": "canadian-dollar-stablecoin-cadd-goes-live-on-solana"
+  },
+  {
+    "id": "9c738442433a3354",
+    "title": "Travala Creates Permanent AVA Reserve And Doubles Monthly Buybacks",
+    "summary": "TL;DR Travala has launched a permanent strategic reserve for its AVA token. The company says it will match AVA Foundation monthly open-market buybacks, effectively doubling the amount purchased each cycle. Travala says tokens placed into its reserve will not be sold or transferred. Crypto travel platform Travala is putting a new balance-sheet commitment behind its […]",
+    "hasSummary": true,
+    "link": "https://bitcoinist.com/travala-creates-permanent-ava-reserve-and-doubles-monthly-buybacks/",
+    "source": "Bitcoinist",
+    "tags": [
+      "Travala",
+      "AVA",
+      "AVA Foundation"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T12:30:00.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Crypto travel platform Travala has launched a permanent strategic reserve for its AVA token. The company announced it will match AVA Foundation monthly open-market buybacks, effectively doubling the amount of tokens purchased each cycle. Travala confirmed that all tokens placed into this new reserve will remain locked and will not be sold or transferred.",
+    "content_ta": "கிரிப்டோ பயண தளமான Travala தனது AVA டோக்கனுக்காக ஒரு நிரந்தர மூலோபாய காப்புப் fond-ஐத் தொடங்கியுள்ளது. AVA Foundation-இன் மாதாந்திர திறந்தவெளி சந்தை பைபேக்குகளை தாங்களும் பொருத்திச் செய்வதாகவும், இதன் மூலம் ஒவ்வொரு சுழற்சியிலும் வாங்கப்படும் டோக்கன்களின் எண்ணிக்கை இரட்டிப்பாகும் என்றும் நிறுவனம் அறிவித்துள்ளது. இந்த புதிய காப்புப் பகுதியில் வைக்கப்படும் டோக்கன்கள் விற்கப்படவோ அல்லது மாற்றப்படவோ மாட்டாது என்றும் Travala உறுதிப்படுத்தியுள்ளது.",
+    "slug": "travala-creates-permanent-ava-reserve-and-doubles-monthly-buybacks"
+  },
+  {
+    "id": "bb4dc275a1ad7055",
+    "title": "Humanity Protocol gains 15%, but 269M H tokens unlock looms – What now?",
+    "summary": "Here is why the Humanity Protocol rally may be short-lived.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/humanity-protocol-gains-15-but-269m-h-tokens-unlock-looms-what-now/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Humanity Protocol"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T14:00:47.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Humanity Protocol recently experienced a 15% price gain, capturing the attention of the cryptocurrency market. However, a massive token unlock involving 269 million H tokens is now looming on the horizon. Analysts and investors are questioning whether this upcoming supply increase will cut the recent market rally short, creating uncertainty about the asset's near-term price stability.",
+    "content_ta": "Humanity Protocol-ன் விலை சமீபத்தில் 15% உயர்ந்துள்ளது. இருப்பினும், 269 மில்லியன் H டோக்கன்கள் வெளியிடப்பட உள்ளதால், அதன் விலை உயர்வு குறுகிய காலத்திற்கு மட்டுமே நீடிக்கும் என்று அஞ்சப்படுகிறது.",
+    "slug": "humanity-protocol-gains-15-but-269m-h-tokens-unlock-looms-what-now"
+  },
+  {
+    "id": "41d4d2cf88b780c7",
+    "title": "Cardano (ADA) Eyes First Major Golden Cross of 2026: Potential Scenarios",
+    "summary": "Cardano setting up for what could become its first major golden cross of 2026.",
+    "hasSummary": true,
+    "link": "https://u.today/cardano-ada-eyes-first-major-golden-cross-of-2026-potential-scenarios",
+    "source": "U.Today",
+    "tags": [
+      "Cardano"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T14:00:02.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Cardano is setting up for what could become its first major golden cross of 2026. Market analysts are closely watching ADA as it approaches this potential technical milestone, evaluating various market scenarios that could unfold following the chart pattern formation.",
+    "content_ta": "கார்டானோ (ADA) அதன் 2026 ஆம் ஆண்டின் முதல் முக்கிய கோல்டன் கிராஸ் (golden cross) நிலையை நோக்கி முன்னேறி வருகிறது. இந்த தொழில்நுட்ப நகர்வு குறித்து சந்தை ஆய்வாளர்கள் தீவிரமாக கண்காணித்து வருகின்றனர், மேலும் இந்த சார்ட் பேட்டர்ன் உருவான பிறகு ஏற்படக்கூடிய பல்வேறு சந்தை சூழ்நிலைகளை அவர்கள் மதிப்பிட்டு வருகின்றனர்.",
+    "slug": "cardano-ada-eyes-first-major-golden-cross-of-2026-potential-scenarios"
+  },
+  {
+    "id": "8a13032397b94145",
+    "title": "Litecoin Hits 8-Month High as ETF Holdings Set Record — Can Bulls Clear $75?",
+    "summary": "Litecoin price hits an 8-month high as futures open interest nears its 2026 peak and ETF holdings set a record. Can LTC bulls clear $75?\nThe post Litecoin Hits 8-Month High as ETF Holdings Set Record — Can Bulls Clear $75? appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/litecoin-price-8-month-high-etf-record/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Litecoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T14:22:21.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Litecoin has reached an 8-month high, driven by rising futures open interest nearing its peak and record-breaking ETF holdings. As momentum builds across the market, analysts and traders are closely watching to see if bullish sentiment will be strong enough to help LTC successfully break and clear the key $75 resistance level.",
+    "content_ta": "Litecoin அதன் 8 மாத உச்சத்தை எட்டியுள்ளது, ஃபியூச்சர்ஸ் ஓப்பன் இன்ட்ரஸ்ட் அதன் உச்சத்தை நெருங்குவது மற்றும் ETF ஹோல்டிங்ஸ் சாதனைப் படைப்பது ஆகியவை இதற்கு முக்கியக் காரணமாகும். சந்தையில் வேகம் அதிகரிக்கும் நிலையில், புல்லிஷ் சென்டிமென்ட் வலுவாக இருந்து LTC ஆனது $75 முக்கிய எதிர்ப்பு நிலையைத் தாண்டி வெற்றிகரமாக முன்னேறுமா என்பதை வர்த்தகர்கள் உன்னிப்பாகக் கவனித்து வருகின்றனர்.",
+    "slug": "litecoin-hits-8-month-high-as-etf-holdings-set-record-can-bulls-clear-75"
+  },
+  {
+    "id": "e040664bf2dd3cec",
+    "title": "The Ultra-Rich Fear Inflation Now. What Are They Buying?",
+    "summary": "Inflation now tops family offices’ list of concerns, yet stocks remain their favorite destination for new capital. Some 46% raised public equity exposure over the past year, according to Citi Wealth’s 2026 Global Family Office Report. The survey covered 351 family offices in 41 countries. For the next year, 37% expect to add developed-market equities,\nThe post The Ultra-Rich Fear Inflation Now. What Are They Buying? appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/family-offices-stocks-inflation-citi-survey/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Citi Wealth"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T14:13:59.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Inflation has become a top concern for family offices globally, according to Citi Wealth’s 2026 Global Family Office Report. Despite these economic fears, stocks remain the preferred investment for new capital. Nearly half of the surveyed offices increased their public equity exposure over the past year, and many plan to continue adding developed-market equities in the coming year.",
+    "content_ta": "Citi Wealth வெளியிட்டுள்ள 2026 Global Family Office Report அறிக்கையின்படி, பணவீக்கம் உலகளாவிய குடும்ப அலுவலகங்களின் முக்கிய கவலையாக மாறியுள்ளது. இந்தப் பொருளாதார அச்சங்களுக்கு மத்தியிலும், புதிய முதலீடுகளுக்கு பங்குகளே விருப்பமான தேர்வாக உள்ளன. கடந்த ஆண்டில் ஆய்வுக்குட்படுத்தப்பட்ட அலுவலகங்களில் கிட்டத்தட்ட பாதியளவினர் பொதுப் பங்கு முதலீடுகளை அதிகரித்துள்ளனர்.",
+    "slug": "the-ultra-rich-fear-inflation-now-what-are-they-buying"
+  },
+  {
+    "id": "1f9d613585a420b1",
+    "title": "Trump Might Meet AI CEOs on September 29. Nobody Knows Who's Invited Yet",
+    "summary": "President Donald Trump, House Speaker Mike Johnson, and tech CEOs will reportedly meet on artificial intelligence (AI) on September 29, according to the latest reports.  The meeting comes at a time when the AI safety debate has gained traction. Leading AI companies have warned of the technology’s risks, while other industry leaders question calls to\nThe post Trump Might Meet AI CEOs on September 29. Nobody Knows Who's Invited Yet appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/trump-ai-meeting-tech-ceos-slowdown/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Donald Trump",
+      "Mike Johnson"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T13:34:58.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "President Donald Trump and House Speaker Mike Johnson are reportedly planning to meet with top artificial intelligence CEOs on September 29. The discussion will focus on the growing debate surrounding AI safety and technological risks. While leading industry figures have warned about potential dangers, others question the need for strict regulations. Specific attendee details remain unconfirmed as preparations for the high-profile meeting continue.",
+    "content_ta": "செப்டம்பர் 29 அன்று செயற்கை நுண்ணறிவு (AI) குறித்து விவாதிக்க President Donald Trump மற்றும் House Speaker Mike Johnson ஆகியோர் முன்னணி AI நிறுவனங்களின் CEO-க்களை சந்திக்க உள்ளதாக தகவல்கள் வெளியாகியுள்ளன. AI பாதுகாப்பு மற்றும் தொழில்நுட்ப ஆபத்துகள் குறித்த விவாதங்கள் தீவிரமடைந்துள்ள நிலையில் இந்த சந்திப்பு முக்கியத்துவம் பெறுகிறது. இந்த சந்திப்பில் கலந்துகொள்ளும் நபர்கள் குறித்த அதிகாரப்பூர்வ விவரங்கள் இதுவரை வெளியாகவில்லை.",
+    "slug": "trump-might-meet-ai-ceos-on-september-29-nobody-knows-who-s-invited-yet"
+  },
+  {
+    "id": "5cbabfcc24c25da5",
+    "title": "Hyperliquid Strategies Keeps Buying the Token That Drove Its $305.5 Million Profit",
+    "summary": "A wallet linked to Hyperliquid Strategies has purchased 494,200 Hyperliquid (HYPE) tokens, worth $45.8 million. The latest buy extends a month-long run. The token behind that treasury has also sharply outpaced Bitcoin (BTC) and Ethereum (ETH) this year. HYPE Did the Heavy Lifting in Fiscal 2026 According to Lookonchain, the wallet has bought 5.51 million\nThe post Hyperliquid Strategies Keeps Buying the Token That Drove Its $305.5 Million Profit appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/hyperliquid-strategies-buys-more-hype-tokens/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Hyperliquid Strategies",
+      "Hyperliquid",
+      "Bitcoin",
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T12:40:31.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Hyperliquid Strategies has continued its purchasing trend by acquiring nearly half a million more Hyperliquid tokens, valued at tens of millions of dollars. This latest acquisition follows a successful month-long buying streak. The HYPE token has significantly outperformed major digital assets like Bitcoin and Ethereum this year, serving as the primary driver behind the company's substantial multi-million dollar profits for the fiscal period.",
+    "content_ta": "Hyperliquid Strategies நிறுவனம் மேலும் லட்சக்கணக்கான HYPE டோக்கன்களை வாங்குவதன் மூலம் தனது முதலீட்டுப் பயணத்தைத் தொடர்ந்துள்ளது. இந்த புதிய கொள்முதல் ஒரு மாத கால வாங்கும் நடவடிக்கையின் தொடர்ச்சியாகும். இந்த ஆண்டு Bitcoin மற்றும் Ethereum போன்ற முக்கிய கிரிப்டோகரன்சிகளை விட HYPE டோக்கன் சிறப்பான லாபத்தை ஈட்டியுள்ளது.",
+    "slug": "hyperliquid-strategies-keeps-buying-the-token-that-drove-its-305-5-million-profit"
+  },
+  {
+    "id": "029e9c12b3d5d5e7",
+    "title": "Bitget raises breach estimate to $387.5M and launches recovery bounty",
+    "summary": "Bitget raised its breach estimate to $387.5 million, launched a recovery bounty and said the vulnerability has been identified and fixed.\nThe post Bitget raises breach estimate to $387.5M and launches recovery bounty appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/bitget-raises-breach-estimate-to-387-5m-and-launches-recovery-bounty/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Bitget"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T14:45:00.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Cryptocurrency exchange Bitget has increased its estimated losses following a security breach to $387.5 million. The company announced that the underlying vulnerability has been successfully identified and fixed. In response to the incident, Bitget has launched a recovery bounty to help track down the stolen funds and secure the platform for its users moving forward.",
+    "content_ta": "கிரிப்டோகரன்சி எக்ஸ்சேஞ்ச் ஆன Bitget, பாதுகாப்பு மீறல் காரணமாக ஏற்பட்ட இழப்பு மதிப்பீட்டை $387.5 மில்லியனாக உயர்த்தியுள்ளது. இந்தத் தாக்குதலுக்கான பலவீனம் கண்டறியப்பட்டு சரிசெய்யப்பட்டுள்ளதாக நிறுவனம் அறிவித்துள்ளது. இந்தச் சம்பவத்தைத் தொடர்ந்து, திருடப்பட்ட நிதியை மீட்கவும் தளத்தின் பாதுகாப்பை உறுதிப்படுத்தவும் Bitget மீட்பு சம்மனைக் (bounty) தொடங்கியுள்ளது.",
+    "slug": "bitget-raises-breach-estimate-to-387-5m-and-launches-recovery-bounty"
+  },
+  {
+    "id": "e37b3d172eef1174",
+    "title": "D’CENT app wallet attack drains 12.4M XRP from thousands of users over 10-day spree",
+    "summary": "The attack highlights the critical need for robust security measures and timely updates to prevent large-scale cryptocurrency thefts.\nThe post D’CENT app wallet attack drains 12.4M XRP from thousands of users over 10-day spree appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/dcent-wallet-attack-drains-xrp/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "D’CENT",
+      "XRP"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T14:27:18.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "A significant cyber attack targeting the D’CENT app wallet has resulted in the theft of 12.4 million XRP from thousands of users over a ten-day period. This incident underscores the urgent need for enhanced security protocols and prompt software updates within the cryptocurrency sector to protect digital assets from large-scale breaches and unauthorized access.",
+    "content_ta": "D’CENT ஆப் வாலட்டை குறிவைத்து நடத்தப்பட்ட ஒரு சைபர் தாக்குதலில், பத்தாம் நாட்களில் ஆயிரக்கணக்கான பயனர்களிடமிருந்து 12.4 மில்லியன் XRP திருடப்பட்டுள்ளது. டிஜிட்டல் சொத்துக்களை பெரிய அளவிலான திருட்டுகளிலிருந்து பாதுகாக்க மேம்பட்ட பாதுகாப்பு முறைகளும், உடனடி மென்பொருள் புதுப்பிப்புகளும் அவசியத்தை இந்தச் சம்பவம் காட்டுகிறது.",
+    "slug": "d-cent-app-wallet-attack-drains-12-4m-xrp-from-thousands-of-users-over-10-day-spree"
+  },
+  {
+    "id": "e9aa7ff5037e570b",
+    "title": "Tesla ramps up Optimus humanoid robot production tenfold, faces ‘extremely challenging’ supply chain hurdles",
+    "summary": "Tesla's ambitious robot production could redefine its market role, but supply chain challenges may impact timelines and investor confidence.\nThe post Tesla ramps up Optimus humanoid robot production tenfold, faces ‘extremely challenging’ supply chain hurdles appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/tesla-optimus-robot-production-ramp/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Tesla"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T13:09:05.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Tesla has significantly increased production for its Optimus humanoid robot, aiming for a tenfold boost. However, the company faces extremely challenging supply chain hurdles. These manufacturing ambitions could redefine Tesla's role in the market, though persistent logistical difficulties may impact delivery timelines and influence investor confidence moving forward.",
+    "content_ta": "Tesla தனது Optimus ஹியூமனாய்டு ரோபோ உற்பத்தியை கணிசமாக பலமடங்கு உயர்த்தியுள்ளது. இருப்பினும், நிறுவனம் மிகவும் சவாலான விநியோகச் சங்கிலி தடைகளை எதிர்கொள்கிறது. இந்த உற்பத்தி லட்சியங்கள் சந்தையில் Tesla-வின் பங்கை மறுவரையறை செய்யக்கூடும், என்றாலும் தொடர்ச்சியான லாஜிஸ்டிக்ஸ் சிக்கல்கள் டெலிவரி காலக்கெடுவை பாதிக்கலாம்.",
+    "slug": "tesla-ramps-up-optimus-humanoid-robot-production-tenfold-faces-extremely-challenging-supply-chain"
+  },
+  {
+    "id": "7a8fffdf343decc1",
+    "title": "Jev gains popularity as a faster, cheaper alternative to major AI models",
+    "summary": "Jev's rise highlights a shift towards specialized, cost-effective AI solutions, emphasizing speed and efficiency over complexity.\nThe post Jev gains popularity as a faster, cheaper alternative to major AI models appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/jev-ai-model-faster-cheaper-alternative/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Jev"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T13:07:01.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Jev has gained significant popularity as a faster and more cost-effective alternative to major artificial intelligence models. This rise highlights a growing market shift toward specialized and efficient AI solutions that prioritize speed and reduced operational costs over complex infrastructure.",
+    "content_ta": "முக்கிய AI மாடல்களுக்கு மாற்றாக, வேகமான மற்றும் குறைந்த செலவிலான தேர்வாக Jev பெரும் பிரபலத்தைப் பெற்றுள்ளது. சிக்கலான உள்கட்டமைப்புகளை விட வேகம் மற்றும் செயல்திறனுக்கு முன்னுரிமை அளிக்கும் சிறப்பு மற்றும் சிக்கனமான AI தீர்வுகளை நோக்கி சந்தை மாறுவதை இந்த எழுச்சி காட்டுகிறது.",
+    "slug": "jev-gains-popularity-as-a-faster-cheaper-alternative-to-major-ai-models"
+  },
+  {
+    "id": "1fe41a884970ab56",
+    "title": "Communications equipment new orders rise 40% year over year amid AI infrastructure boom",
+    "summary": "The surge in communications equipment orders highlights the critical role of AI infrastructure in reshaping tech investment priorities.\nThe post Communications equipment new orders rise 40% year over year amid AI infrastructure boom appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/communications-equipment-orders-rise-ai-demand/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "AI"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T12:59:39.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Communications equipment new orders have surged by 40% year over year, driven largely by the ongoing boom in artificial intelligence infrastructure. This significant growth underscores how rapidly expanding AI technologies are shifting tech investment priorities and accelerating demand for advanced networking and communication hardware.",
+    "content_ta": "கமனுக்கேஷன்ஸ் கருவிகளுக்கான புதிய ஆர்டர்கள் ஆண்டுதோறும் 40 சதவீதம் அதிகரித்துள்ளன. AI இன்ஃப்ராஸ்ட்ரக்சர் வளர்ச்சியே இந்த எழுச்சிக்கு முக்கிய காரணமாகும். வளர்ந்து வரும் AI தொழில்நுட்பங்கள் தொழில்நுட்ப முதலீட்டு முன்னுரிமைகளை எவ்வாறு மாற்றி அமைக்கின்றன என்பதை இந்த உயர்வு காட்டுகிறது.",
+    "slug": "communications-equipment-new-orders-rise-40-year-over-year-amid-ai-infrastructure-boom"
+  },
+  {
+    "id": "4c453c85a0005bcc",
+    "title": "Kuwait accuses Iran of illegal aggression at UN amid regional tensions",
+    "summary": "Kuwait's UN accusations against Iran could heighten regional instability, affecting Iran's political climate and market perceptions.\nThe post Kuwait accuses Iran of illegal aggression at UN amid regional tensions appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/kuwait-accuses-iran-of-illegal-aggression-at-un-amid-regional-tensions/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Kuwait",
+      "Iran",
+      "United Nations"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T12:54:00.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Kuwait has accused Iran of illegal aggression during a United Nations address, escalating regional tensions. This diplomatic dispute at the UN could potentially heighten instability in the area, impacting the broader political climate and market perceptions in the region.",
+    "content_ta": "ஐக்கிய நாடுகள் சபையில் ஈரானின் சட்டவிரோத ஆக்கிரமிப்பு குறித்து குவைத் குற்றம் சாட்டியுள்ளது, இது பிராந்தியத்தில் பதற்றத்தை அதிகரித்துள்ளது. ஐநா சபையில் ஏற்பட்டுள்ள இந்த ராஜதந்திர மோதல் பிராந்தியத்தில் உறுதியற்ற தன்மையை அதிகரிக்கக்கூடும்.",
+    "slug": "kuwait-accuses-iran-of-illegal-aggression-at-un-amid-regional-tensions"
+  },
+  {
+    "id": "488f0c994d0afaaf",
+    "title": "Whitehats rescue $5.7 million in NFTs after Limit Break Payment Processor exploit",
+    "summary": "The incident highlights the critical need for robust security measures in blockchain systems to prevent significant financial losses.\nThe post Whitehats rescue $5.7 million in NFTs after Limit Break Payment Processor exploit appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/whitehats-rescue-5-7-million-in-nfts-after-limit-break-payment-processor-exploit/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Limit Break"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T12:53:09.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Whitehat hackers successfully rescued $5.7 million worth of NFTs following a security exploit involving the Limit Break Payment Processor. The incident underscores the urgent necessity for stronger security frameworks within blockchain systems to prevent major financial losses and protect digital assets from similar vulnerabilities.",
+    "content_ta": "Limit Break Payment Processor-ல் ஏற்பட்ட பாதுகாப்பு குறைபாட்டைத் தொடர்ந்து, whitehat ஹேக்கர்கள் சுமார் $5.7 மில்லியன் மதிப்பاتலான NFT-களை வெற்றிகரமாக மீட்டுள்ளனர். பெரிய அளவிலான நிதி இழப்புகளைத் தவிர்க்கவும், டிஜிட்டல் சொத்துக்களைப் பாதுகாக்கவும blockchain அமைப்புகளில் வலுவான பாதுகாப்பு வழிமுறைகள் அவசியமாக இருப்பதை இந்தச் சம்பவம் எடுத்துக்காட்டுகிறது.",
+    "slug": "whitehats-rescue-5-7-million-in-nfts-after-limit-break-payment-processor-exploit"
+  },
+  {
+    "id": "68556a771804360c",
+    "title": "Goldman Sachs projects AI capital expenditures to reach $1.2T by 2027",
+    "summary": "The projected surge in AI capital expenditures could reshape tech infrastructure, driving economic shifts akin to past industrial revolutions.\nThe post Goldman Sachs projects AI capital expenditures to reach $1.2T by 2027 appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/goldman-sachs-ai-capex-1-2-trillion-2027/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Goldman Sachs"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T12:23:56.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Goldman Sachs has projected that artificial intelligence capital expenditures could reach $1.2 trillion by the year 2027. This massive anticipated surge in investment is expected to significantly reshape global technology infrastructure, potentially driving major economic shifts comparable to historical industrial revolutions.",
+    "content_ta": "2027-ம் ஆண்டிற்குள் AI மூலதனச் செலவினங்கள் 1.2 டிரில்லியன் டாலரை எட்டக்கூடும் என்று Goldman Sachs கணித்துள்ளது. தொழில்நுட்ப உள்கட்டமைப்பை கணிசமாக மாற்றியமைக்கக்கூடிய இந்த முதலீட்டு உயர்வு, வரலாற்றுச் சிறப்புமிக்க தொழில்துறைப் புரட்சிகளைப் போன்ற பொருளாதார மாற்றங்களை ஏற்படுத்தும் என்று எதிர்பார்க்கப்படுகிறது.",
+    "slug": "goldman-sachs-projects-ai-capital-expenditures-to-reach-1-2t-by-2027"
+  },
+  {
+    "id": "be535f3c8fb4ecfe",
+    "title": "South Korea’s retail investors become the lone backstop for chip and memory stocks",
+    "summary": "South Korean retail investors' bold moves in chip stocks highlight their growing influence and potential market volatility amid global shifts.\nThe post South Korea’s retail investors become the lone backstop for chip and memory stocks appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/south-korea-retail-investors-chip-memory-stocks/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "South Korea"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T12:23:48.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "South Korean retail investors are increasingly acting as the primary support for domestic chip and memory stocks. This trend highlights the growing influence of individual traders in the local market and underscores potential market volatility as global economic and industry shifts continue to unfold.",
+    "content_ta": "தென் கொரியாவின் சில்லறை முதலீட்டாளர்கள் உள்நாட்டு chip மற்றும் memory பங்குகளுக்கு முக்கிய ஆதரவாக மாறி வருகின்றனர். இந்தப் போக்கு உள்ளூர் சந்தையில் தனிப்பட்ட வர்த்தகர்களின் வளர்ந்து வரும் செல்வாக்கைக் காட்டுகிறது மற்றும் உலகளாவிய மாற்றங்களுக்கு மத்தியில் சந்தையில் ஏற்படக்கூடிய நிலையற்ற தன்மையை அடிக்கோடிட்டுக் காட்டுகிறது.",
+    "slug": "south-korea-s-retail-investors-become-the-lone-backstop-for-chip-and-memory-stocks"
+  },
+  {
+    "id": "25d23270cdffbc20",
+    "title": "New Solidity compilers arrive with major speed gains for Ethereum developers",
+    "summary": "The new compilers enhance Ethereum's development efficiency, signaling a shift towards more robust and secure blockchain applications.\nThe post New Solidity compilers arrive with major speed gains for Ethereum developers appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/solidity-compiler-slang-solx-ethereum/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Ethereum",
+      "Solidity"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T12:17:19.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "New Solidity compilers have been released, bringing major speed improvements for Ethereum developers. These updates enhance overall development efficiency and mark an important step toward creating more robust and secure blockchain applications within the Ethereum ecosystem.",
+    "content_ta": "Ethereum டெவலப்பர்களுக்கு பெரும் வேகம் மற்றும் மேம்பாடுகளை வழங்கும் புதிய Solidity கம்பைலர்கள் வெளியிடப்பட்டுள்ளன. இந்த புதிய அப்டேட்டுகள் Ethereum சுற்றுச்சூழல் அமைப்பில் மிகவும் வலுவான மற்றும் பாதுகாப்பான பிளாக்செயின் செயலிகளை உருவாக்குவதை எளிதாக்குகின்றன.",
+    "slug": "new-solidity-compilers-arrive-with-major-speed-gains-for-ethereum-developers"
+  },
+  {
+    "id": "b7b26a6bf4815f9f",
+    "title": "Microsoft unveils major Copilot update, integrating Office and more",
+    "summary": "Microsoft's Copilot update could redefine productivity tools, challenging smaller firms by integrating diverse AI capabilities into one platform.\nThe post Microsoft unveils major Copilot update, integrating Office and more appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/microsoft-copilot-update-office-integration/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Microsoft",
+      "Office",
+      "Copilot"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T12:15:12.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Microsoft has announced a major update to its Copilot platform, deeply integrating Office and other tools. This significant update aims to redefine everyday productivity software by combining various artificial intelligence capabilities into a single unified platform. Industry observers note that such robust integration by a major tech giant could pose new challenges for smaller software firms operating in the productivity and AI space.",
+    "content_ta": "Microsoft நிறுவனமானது தனது Copilot தளத்தில் Office மற்றும் பிற அம்சங்களை ஒருங்கிணைத்து ஒரு முக்கிய புதுப்பிப்பை வெளியிட்டுள்ளது. இந்த புதிய புதுப்பிப்பு பல்வேறு செயற்கை நுண்ணறிவு திறன்களை ஒரே தளத்தில் இணைப்பதன் மூலம் உற்பத்தித்திறன் கருவிகளை மறுவரையறை செய்ய இலக்கு கொண்டுள்ளது. தொழில்நுட்பத் துறையில் உள்ள சிறிய நிறுவனங்களுக்கு இது புதிய சவால்களை உருவாக்கலாம் என்று நிபுணர்கள் கருதுகின்றனர்.",
+    "slug": "microsoft-unveils-major-copilot-update-integrating-office-and-more"
+  },
+  {
+    "id": "2fa31b30d80fbdb7",
+    "title": "XRP Price Prediction: Dark Defender Sees $1,000 Target After Massive Cup-and-Handle",
+    "summary": "The post XRP Price Prediction: Dark Defender Sees $1,000 Target After Massive Cup-and-Handle appeared first on Coinpedia Fintech News\nCrypto analyst Dark Defender has pointed to a massive long term Cup-and-Handle pattern on XRP’s monthly chart, with the setup now moving toward a major breakout zone. The pattern has formed over several years, stretching from around 2017 to 2026 Based on this structure and larger Fibonacci targets, Dark Defender sees a potential XRP price …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/news/xrp-price-prediction-dark-defender-sees-1000-target-after-massive-cup-and-handle/",
+    "source": "Coinpedia",
+    "tags": [
+      "XRP",
+      "Dark Defender"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T13:18:08.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Crypto analyst Dark Defender has identified a massive long-term cup-and-handle pattern on the XRP monthly chart, spanning from 2017 to 2026. The setup is approaching a major breakout zone, leading the analyst to set an ambitious long-term price target of $1,000 based on the technical structure and Fibonacci extensions.",
+    "content_ta": "கிரிப்டோ ஆய்வாளர் Dark Defender, XRP-யின் மாதாந்திர சார்ட்டில் 2017 முதல் 2026 வரை நீடிக்கும் ஒரு பெரிய கப்-அண்ட்-ஹேண்டில் பேட்டர்னைக் கண்டறிந்துள்ளார். இந்த அமைப்பு ஒரு முக்கிய பிரேக்அவுட் மண்டலத்தை நெருங்கி வருவதால், தொழில்நுட்ப கட்டமைப்பு மற்றும் ஃபைப்ராச்சி இலக்குகளின் அடிப்படையில் $1,000 என்ற நீண்ட கால விலை இலக்கை ஆய்வாளர் நிர்ணயித்துள்ளார்.",
+    "slug": "xrp-price-prediction-dark-defender-sees-1-000-target-after-massive-cup-and-handle"
+  },
+  {
+    "id": "d16666056d3bacaa",
+    "title": "XRP escrow and the IMF: Old theory resurfaces with fresh claim, still no evidence",
+    "summary": "The post XRP escrow and the IMF: Old theory resurfaces with fresh claim, still no evidence appeared first on Coinpedia Fintech News\nA crypto commentator on X has claimed that the International Monetary Fund (IMF) is taking control of Ripple’s XRP escrow. Neither the IMF nor Ripple has confirmed any such arrangement. “We see the lender of last resort, The IMF, taking control of the XRP escrow. Ripple is too small to be so big to handle …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/crypto-live-news/xrp-escrow-and-the-imf-old-theory-resurfaces-with-fresh-claim-still-no-evidence/",
+    "source": "Coinpedia",
+    "tags": [
+      "Ripple",
+      "XRP",
+      "International Monetary Fund"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T12:40:29.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "A recent claim on social media suggests that the International Monetary Fund is taking control of Ripple's XRP escrow system. However, neither the International Monetary Fund nor Ripple has provided any evidence or confirmation to support this rumor. Industry observers have noted that this is an old theory resurfacing without any official backing from the involved organizations.",
+    "content_ta": "International Monetary Fund அமைப்பு Ripple நிறுவனத்தின் XRP escrow அமைப்பின் கட்டுப்பாட்டை எடுப்பதாக சமூக வலைதளங்களில் புதிய தகவல் பரவி வருகிறது. எனினும், இந்த வதட்சியை உறுதிப்படுத்தும் வகையில் International Monetary Fund அல்லது Ripple தரப்பில் எந்தவித அதிகாரப்பூர்வ ஆதாரமும் வெளியிடப்படவில்லை. இது எந்தவொரு அதிகாரப்பூர்வ ஆதரவுமின்றி மீண்டும் பரவும் பழைய கோட்பாடு என்று துறை சார்ந்த வல்லுநர்கள் குறிப்பிடுகின்றனர்.",
+    "slug": "xrp-escrow-and-the-imf-old-theory-resurfaces-with-fresh-claim-still-no-evidence"
+  },
+  {
+    "id": "0692fc6adcf60734",
+    "title": "Fed Plans To Ease Oversight For Large Banks",
+    "summary": "The post Fed Plans To Ease Oversight For Large Banks appeared first on Coinpedia Fintech News\nThe Fed is preparing to raise asset thresholds that trigger tougher bank regulation, according to Reuters. The highest threshold could rise from $700 billion to around $960 billion, while some requirements currently starting at $100 billion could shift closer to $150 billion. The changes would give regional banks more room to grow without added regulatory …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/crypto-live-news/fed-plans-to-ease-oversight-for-large-banks/",
+    "source": "Coinpedia",
+    "tags": [
+      "Federal Reserve",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T12:26:34.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "The Federal Reserve is preparing to raise asset thresholds that trigger tougher banking regulations. Reports indicate the changes could give regional banks more room to grow without facing additional regulatory burdens. Adjustments to these thresholds would alter when strict oversight applies to large financial institutions, potentially shifting the requirements for banks at multiple asset levels.",
+    "content_ta": "கடுமையான வங்கி ஒழுங்குமுறைகளைத் தூண்டும் சொத்து வரம்புகளை உயர்த்த Fed தயாராகி வருகிறது. இந்த மாற்றங்கள் பிராந்திய வங்கிகள் கூடுதல் ஒழுங்குமுறைச் சுமை இல்லாமல் வளர்ச்சி பெற அதிக வாய்ப்பளிக்கும் என்று அறிக்கைகள் குறிப்பிடுகின்றன. இந்த வரம்புகளில் செய்யப்படும் மாற்றங்கள் பெரிய நிதி நிறுவனங்களுக்கு எப்போது கடுமையான மேற்பார்வை பொருந்தும் என்பதை மாற்றியமைக்கும்.",
+    "slug": "fed-plans-to-ease-oversight-for-large-banks"
+  },
+  {
+    "id": "e1d1711f9cebe12f",
+    "title": "Bitget’s eighth birthday ends with a $352M hack",
+    "summary": "Bitget CEO Gracy Chen confirmed the crypto exchange lost $352M to the hack and that North Korea's Lazarus Group appears to be responsible.\nThe post Bitget’s eighth birthday ends with a $352M hack appeared first on Protos.",
+    "hasSummary": true,
+    "link": "https://protos.com/bitgets-eighth-birthday-ends-with-a-352m-hack/",
+    "source": "Protos",
+    "tags": [
+      "Bitget",
+      "Gracy Chen",
+      "Lazarus Group",
+      "North Korea"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T13:19:01.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Crypto exchange Bitget suffered a major $352 million security breach, concluding its eighth anniversary celebrations. Bitget CEO Gracy Chen confirmed the substantial financial loss resulting from the cyberattack. Preliminary investigations suggest that North Korea's notorious Lazarus Group may be responsible for the sophisticated breach.",
+    "content_ta": "Crypto exchange ஆன Bitget தனது எட்டாவது ஆண்டு நிறைவைக் கொண்டாடிய வேளையில், $352 மில்லியன் மதிப்புள்ள ஹேக் தாக்குதலை எதிர்கொண்டுள்ளது. இந்த சைபர் தாக்குதலில் பெருமளவு நிதி இழந்துவிட்டதாக Bitget CEO Gracy Chen உறுதிப்படுத்தியுள்ளார். மேலும், இந்தச் சம்பவத்திற்கு North Korea-வைச் சேர்ந்த Lazarus Group காரணமாக இருக்கலாம் என முதற்கட்ட விசாரணைகள் தெரிவிக்கின்றன.",
+    "slug": "bitget-s-eighth-birthday-ends-with-a-352m-hack"
+  },
+  {
+    "id": "3f816a940c36e02e",
+    "title": "Nearly $2,000 Abruptly Drained From California Woman’s Account via Zelle – But Bank of America Is Refusing To Reimburse",
+    "summary": "A California physical therapist says Bank of America will not reimburse nearly $2,000 lost to unauthorized Zelle transfers from her business account after the bank closed her fraud case.\nThe post Nearly $2,000 Abruptly Drained From California Woman’s Account via Zelle – But Bank of America Is Refusing To Reimburse appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/09/25/nearly-2000-abruptly-drained-from-california-womans-account-via-zelle-customer-says-bank-of-america-is-refusing-to-reimburse/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "Bank of America",
+      "Zelle",
+      "California"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T14:30:52.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "A California physical therapist lost nearly $2,000 from her business account due to unauthorized Zelle transfers. Despite her efforts, Bank of America closed her fraud claim and refused to reimburse the stolen funds, leaving the customer without recourse.",
+    "content_ta": "கலிபோர்னியாவைச் சேர்ந்த பிசிக்கல் தெரபிஸ்ட் ஒருவரின் பிசினஸ் அக்கவுண்டிலிருந்து Zelle மூலம் அனுமதியின்றி சுமார் $2,000 திருடப்பட்டது. தனது முயற்சிய மீறி, Bank of America மோசடி புகாரை முடித்து வைத்து, திருடப்பட்ட பணத்தைத் திருப்பித் தர மறுத்துவிட்டது.",
+    "slug": "nearly-2-000-abruptly-drained-from-california-woman-s-account-via-zelle-but-bank-of-america-is"
+  },
+  {
+    "id": "08e045e4b14deb04",
+    "title": "Donald Trump Owns $15.9 Million Worth of Google Stock",
+    "summary": "According to financial disclosures and recent 13F filings, US President Donald Trump holds a significant position in Alphabet’s…",
+    "hasSummary": true,
+    "link": "https://watcher.guru/news/donald-trump-owns-15-9-million-worth-of-google-stock",
+    "source": "Watcher.Guru",
+    "tags": [
+      "Donald Trump",
+      "Alphabet",
+      "Google",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T13:00:00.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Recent financial disclosures and 13F filings reveal that Donald Trump holds a significant investment in Google's parent company, Alphabet, valued at millions of dollars. The prominent asset holding highlights the financial portfolio details of the former US president, drawing attention from both financial analysts and political observers regarding major tech sector investments.",
+    "content_ta": "சமீபத்திய நிதிவெளிப்பாடுகள் மற்றும் 13F filings ஆவணங்களின்படி, Alphabet நிறுவனத்தில் Donald Trump கணிசமான முதலீடுகளைக் கொண்டுள்ளார் என்பது தெரியவந்துள்ளது. இந்த சொத்து மதிப்பு மில்லியன் கணக்கில் உள்ளதாகக் கூறப்படுகிறது. இந்த முக்கிய முதலீடு முன்னாள் US அதிபரின் நிதி விவரங்களை வெளிச்சம் போட்டுக் காட்டுவதுடன், தொழில்நுட்ப துறை முதலீடுகள் குறித்தும் கவனத்தை ஈர்த்துள்ளது.",
+    "slug": "donald-trump-owns-15-9-million-worth-of-google-stock"
+  },
+  {
+    "id": "8027663e7e539487",
+    "title": "US prosecutors seize Tether-linked payment firm's bank accounts - FT",
+    "summary": "US federal prosecutors have seized bank accounts belonging Capstone, a payments business working on behalf of stablecoin issuer Tether and its sister exchange Bitfinex, according to the Financial Times.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/newsarticle/48478/us-prosecutors-seize-tether-linked-payment-firms-bank-accounts---ft?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Tether",
+      "Bitfinex",
+      "Capstone",
+      "Financial Times",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T14:41:00.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "US federal prosecutors have seized bank accounts belonging to Capstone, a payments firm connected to stablecoin issuer Tether and its sister exchange Bitfinex. According to a report by the Financial Times, the legal action highlights ongoing scrutiny by American authorities into the financial networks supporting major cryptocurrency and stablecoin operations.",
+    "content_ta": "Stablecoin issuer-ரான Tether மற்றும் Bitfinex-ன் பணப் பரிவர்த்தனைகளைக் கையாண்ட Capstone என்ற நிறுவனத்தின் வங்கிக் கணக்குகளை US ஃபெடரல் வழக்கறிஞர்கள் முடக்கியுள்ளனர். Financial Times-ன் அறிக்கையின்படி, முக்கிய கிரிப்டோகரன்சி மற்றும் stablecoin நிறுவனங்களின் நிதிப் பரிமாற்றங்கள் மீது அமெரிக்க அதிகாரிகள் தொடர்ந்து கண்காணிப்பு நடத்தி வருவதை இந்த நடவடிக்கை காட்டுகிறது.",
+    "slug": "us-prosecutors-seize-tether-linked-payment-firm-s-bank-accounts-ft"
+  },
+  {
+    "id": "b1e14b8c1906ce1e",
+    "title": "DBS and Avaloq target wealth management across Asia",
+    "summary": "DBS and Avaloq have signed a memorandum of understanding (MoU) to expand their 18-year partnership and jointly develop the next generation of wealth management capabilities for clients and advisers across Asia.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111026/dbs-and-avaloq-target-wealth-management-across-asia?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "DBS",
+      "Avaloq",
+      "Asia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T13:16:00.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "DBS and Avaloq have signed a memorandum of understanding to expand their long-standing partnership across Asia. The collaboration aims to jointly develop next-generation wealth management capabilities tailored for both clients and advisers in the region, building upon their nearly two decades of cooperation.",
+    "content_ta": "ஆசியாவில் தங்கள் நீண்டகால கூட்டாண்மையை விரிவுபடுத்தும் நோக்கில் DBS மற்றும் Avaloq நிறுவனங்கள் ஒரு புரிந்துணர்வு ஒப்பந்தத்தில் கையெழுத்திட்டுள்ளன. இப்பகுதியில் உள்ள வாடிக்கையாளர்கள் மற்றும் ஆலோசகர்களுக்காக அடுத்த தலைமுறை செல்வ மேலாண்மை திறன்களை இணைந்து உருவாக்குவதை இந்த ஒத்துழைப்பு நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "dbs-and-avaloq-target-wealth-management-across-asia"
+  },
+  {
+    "id": "afd6a5c50ef73c62",
+    "title": "AG2R La Mondiale deploys Linedata Optima",
+    "summary": "Linedata (Euronext Paris: LIN), a global provider of credit and asset management technology, data, and services, extends its collaboration with AG2R La Mondiale in France and Luxembourg by five years. As partners for over 20 years, the two groups are taking a new step forward with the roll-out of Linedata Optima.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111027/ag2r-la-mondiale-deploys-linedata-optima?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "AG2R La Mondiale",
+      "Linedata",
+      "France",
+      "Luxembourg"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T13:18:00.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "AG2R La Mondiale has extended its partnership with Linedata for five years. The two groups, which have worked together for over two decades, are rolling out Linedata Optima in France and Luxembourg. Linedata provides credit and asset management technology, data, and services globally.",
+    "content_ta": "AG2R La Mondiale நிறுவனம் Linedata உடனான தனது கூட்டை ஐந்து ஆண்டுகளுக்கு நீட்டித்துள்ளது. இரண்டு தசாப்தங்களுக்கும் மேலாக இணைந்து செயல்பட்டு வரும் இவ்விரு குழுக்களும், France மற்றும் Luxembourg-ல் Linedata Optima-வை அறிமுகப்படுத்துகின்றன. Linedata உலகளாவிய அளவில் கடன் மற்றும் சொத்து மேலாண்மை தொழில்நுட்பம், தரவு மற்றும் சேவைகளை வழங்கி வருகிறது.",
+    "slug": "ag2r-la-mondiale-deploys-linedata-optima"
+  },
+  {
+    "id": "8b981056455d5093",
+    "title": "PayComplete gets new owners",
+    "summary": "PayComplete, a global provider of cash automation software, devices, and services, today announced that it has successfully completed a value-enhancing transaction with new investors, which now own a controlling interest in the company and have provided significant new capital to support its growth.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111028/paycomplete-gets-new-owners?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "PayComplete"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T13:23:00.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "PayComplete, a global provider of cash automation software, devices, and services, has announced a successful transaction with new investors. The new owners have acquired a controlling interest in the company and secured significant new capital to support its ongoing business growth and development.",
+    "content_ta": "Cash automation software, devices மற்றும் services வழங்கும் நிறுவனமான PayComplete, புதிய முதலீட்டாளர்களுடன் வெற்றிகரமாக ஒரு முதலீட்டுத் பரிவர்த்தனையை நிறைவு செய்துள்ளதாக அறிவித்துள்ளது. இந்த புதிய உரிமையாளர்கள் நிறுவனத்தில் பெரும்பான்மை பங்குகளைக் கைப்பற்றியுள்ளதுடன், அதன் வளர்ச்சிக்கு உதவக்கூடிய புதிய முதலீட்டு நிதியையும் வழங்கியுள்ளனர்.",
+    "slug": "paycomplete-gets-new-owners"
+  },
+  {
+    "id": "77d63d9a52c1f81d",
+    "title": "New York Attorney General (NYAG) James and Governor Hochul File Suit to Halt Polymarket’s Unlicensed Event Contracts",
+    "summary": "New York officials have opened a new front in their campaign against prediction-market platforms, accusing Polymarket’s US operation of conducting unlicensed wagering inside the state. On September 24, 2026, Attorney General Letitia James and Governor Kathy Hochul announced a civil action against QCX LLC, which... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/09/312901-new-york-attorney-general-nyag-james-and-governor-hochul-file-suit-to-halt-polymarkets-unlicensed-event-contracts/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "New York",
+      "Polymarket",
+      "Letitia James",
+      "Kathy Hochul"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T14:17:24.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "New York Attorney General Letitia James and Governor Kathy Hochul have filed a lawsuit against Polymarket's US operation. The state officials accuse the platform of conducting unlicensed event contracts and wagering within New York. The legal action marks a significant step by state authorities to crack down on unauthorized prediction-market platforms operating locally.",
+    "content_ta": "New York Attorney General Letitia James மற்றும் Governor Kathy Hochul ஆகியோர் Polymarket நிறுவனத்தின் US நடவடிக்கைகளுக்கு எதிராக வழக்கு தொடர்ந்துள்ளனர். இந்த மேடை நியூயார்க்கிற்குள் உரிமம் பெறாத நிகழ்வு ஒப்பந்தங்கள் மற்றும் பந்தயங்களை நடத்துவதாக மாநில அதிகாரிகள் குற்றம் சாட்டியுள்ளனர். இந்த சட்ட நடவடிக்கை உள்ளூரில் செயல்படும் அங்கீகரிக்கப்படாத கணிப்பு-சந்தை தளங்களுக்கு எதிராக மாநில அதிகாரிகளால் எடுக்கப்பட்ட ஒரு குறிப்பிடத்தக்கடியாகும்.",
+    "slug": "new-york-attorney-general-nyag-james-and-governor-hochul-file-suit-to-halt-polymarket-s-unlicensed"
+  },
+  {
+    "id": "bcbe962a5ca27e49",
+    "title": "Swedish Open Banking Fintech Trustly Trims 25% of Staff",
+    "summary": "Swedish open banking company Trustly is reducing its workforce by about a quarter, eliminating roughly 200 positions worldwide as it tries to simplify its structure and put more money behind a smaller set of priorities. The company, based in Stockholm, employs more than 800 people... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/09/312551-swedish-open-banking-fintech-trustly-trims-25-of-staff/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Trustly",
+      "Sweden",
+      "Stockholm"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T13:07:07.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "Swedish open banking company Trustly is reducing its workforce by approximately 25 percent. The Stockholm-based fintech firm is eliminating roughly 200 jobs globally. The downsizing aims to simplify the company's organizational structure and allow management to focus resources on a more streamlined set of strategic business priorities moving forward.",
+    "content_ta": "ஸ்வீடன் நாட்டைச் சேர்ந்த ஓப்பன் பேங்கிங் நிறுவனமான Trustly, தனது பணியாளர் எண்ணிக்கையில் சுமார் 25 சதவீதத்தை குறைக்கவுள்ளது. ஸ்டாக்ஹோமைத் தலைமையிடமாகக் கொண்ட இந்த ஃபின்டெக் நிறுவனம், உலகளவில் சுமார் 200 பணியிடங்களை நீக்குகிறது. நிறுவனத்தின் அமைப்பை எளிமைப்படுத்தவும், குறிப்பிட்ட சில முக்கிய முன்னுரிமைகளில் அதிக முதலீடு செய்யவும் இந்த ஆட்குறைப்பு நடவடிக்கை எடுக்கப்பட்டுள்ளது.",
+    "slug": "swedish-open-banking-fintech-trustly-trims-25-of-staff"
+  },
+  {
+    "id": "683b6aa353a94acc",
+    "title": "ITI Capital Ltd enters special administration",
+    "summary": "You should be cautious if you are approached by a claims management company (CMC) or a law firm. For most customers, there is no benefit in involving a third party in reclaiming your assets. If you use a firm such as this to assist in... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/09/312938-iti-capital-ltd-enters-special-administration/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "ITI Capital Ltd"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T12:14:00.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "ITI Capital Ltd has entered special administration. Customers are advised to exercise caution if approached by claims management companies or law firms offering assistance. For the majority of clients, involving third parties provides no advantage when attempting to reclaim assets, and individuals should carefully consider their options before proceeding with any external representation.",
+    "content_ta": "ITI Capital Ltd ஸ்பெஷல் அட்மினிஸ்ட்ரேஷன் முறையில் நுழைந்துள்ளது. க்ளைம்ஸ் மேனேஜ்மெண்ட் நிறுவனங்கள் அல்லது சட்ட நிறுவனங்கள் மூலம் உதவி கோரி உங்களை அணுகினால் வாடிக்கையாளர்கள் எச்சரிக்கையுடன் இருக்குமாறு அறிவுறுத்தப்படுகிறார்கள். பெரும்பாலான வாடிக்கையாளர்களைப் பொறுத்தவரை, தங்கள் சொத்துக்களை மீட்டெடுப்பதில் மூன்றாம் தரப்பினரை ஈடுபடுத்துவதால் எந்தவொரு பயனும் இல்லை.",
+    "slug": "iti-capital-ltd-enters-special-administration"
+  },
+  {
+    "id": "d7fe82138e3d0553",
+    "title": "OpenPayd Strengthens Position in the U.S. Market Through the Acquisition of 43 State Licences",
+    "summary": "OpenPayd, a leading provider of financial infrastructure, has announced a significant expansion of its regulatory footprint into the United States, positioning the company for accelerated growth in the critical North American market.  \nThe strategic expansion will see the integration of MSB USA Inc. (“MSB USA”), a U.S.-based, state-licensed money services business, into the OpenPayd group. This planned alignment, now finalised following regulatory approvals, will bring 43 state MTLs under the OpenPayd umbrella, providing a robust pathway for operations across a substantial portion of the U.S. market. This extensive licensing network offers increased geographic reach for OpenPayd’s global clients operating in or expanding into the U.S., providing a scalable foundation for growth.  \nOpenPayd’s U.S. licence expansion follows the recently announced authorisation under the E.U.’s Markets in Crypto-Assets framework, granted by the Malta Financial Services Authority.\nDr. Ozan Ozerk, Founder of OpenPayd, said: “Every era of finance has been defined by its infrastructure: correspondent banking wired together the twentieth-century economy; programmable money will power the twenty-first. The U.S. is at the forefront of this evolution, and with regulated foundations now spanning the U.S., U.K. and Europe – across both fiat and digital assets – OpenPayd has something few providers can claim: regulated infrastructure spanning both fiat and digital assets, on both sides of the Atlantic.”\nOpenPayd’s strong business momentum\nOpenPayd's regulatory expansion comes amid strong, sustained organic growth. As of 31 July 2026, Annual Recurring Revenue (“ARR”) exceeded $96 million and annualized transaction volume surpassed $300 billion. OpenPayd is profitable, has taken no external capital, and serves more than 1,200 clients globally, including Kraken, eToro, OKX and B2C2.\nThe milestones come as OpenPayd prepares to join the U.S. public markets. In June 2026, OpenPayd and Titan Acquisition Corp. (Nasdaq: TACH) (“Titan”) announced a definitive business combination agreement under which OpenPayd is expected to become a publicly listed company on Nasdaq under the ticker symbol “OP”, in a transaction valuing the company at an equity value up to $1.145 billion on a pro-forma basis. OpenPayd’s combination with Titan is expected to close in the fourth quarter of 2026, subject to customary closing conditions, including approval by Titan’s shareholders.\nIana Dimitrova, CEO at OpenPayd, said: “This entry to the U.S. market is a transformative next step for OpenPayd which builds on our multi-year growth. Our clients are increasingly global, and their demand for seamless, compliant payment infrastructure in key markets like the U.S. has driven this strategic move. By building out our regulatory presence in the U.S., we're not just expanding geographically but deepening our commitment to providing secure, reliable and compliant infrastructure that powers the growth of the digital economy for businesses worldwide.”\nThe licensed business, MSB USA, was founded by Dr. Ozan Ozerk and will continue to operate under its experienced leadership team. Bringing these licences under the OpenPayd group reflects a long-term strategic alignment, ensuring continuity, regulatory clarity and operational focus as OpenPayd prepares for its U.S. market entry. MSB USA will continue to deliver its established services while preparing for full integration into the OpenPayd platform.\nNoYesPayments25 Sep, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/payments/openpayd-strengthens-position-us-market-through-acquisition-43-state-licences",
+    "source": "Financial IT",
+    "tags": [
+      "OpenPayd",
+      "MSB USA Inc",
+      "Titan Acquisition Corp",
+      "Nasdaq",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-25T12:34:28.000Z",
+    "fetchedAt": "2026-09-25T14:49:27.527Z",
+    "isDuplicateOf": null,
+    "content": "OpenPayd has expanded its U.S. market presence by acquiring 43 state licenses through the integration of MSB USA Inc. This strategic move strengthens the financial infrastructure provider's regulatory footprint in North America, following recent regulatory authorization in Europe. The company also reported strong annual recurring revenue and transaction volumes as it prepares for a planned public listing on Nasdaq through a business combination with Titan Acquisition Corp.",
+    "content_ta": "MSB USA Inc நிறுவனத்தை இணைப்பதன் மூலம் 43 மாநில உரிமைகளைப் பெற்று OpenPayd நிறுவனம் அமெரிக்க சந்தையில் தனது இருப்பை விரிவுபடுத்தியுள்ளது. ஐரோப்பாவில் ஒழுங்குமுறை அனுமதியைப் பெற்றதைத் தொடர்ந்து, வட அமெரிக்காவில் தனது ஒழுங்குமுறை தளத்தை இந்த மூலோபாய நடவடிக்கை பலப்படுத்துகிறது. Titan Acquisition Corp உடன் வணிக இணைப்பு மூலம் Nasdaq பங்குகளின் வர்த்தகத்தில் இணையத் தயாராகி வரும் இந்நிறுவனம், தனது வலுவான வருடாந்திர வருவாய் மற்றும் பரிவர்த்தனை அளவுகளையும் அறிவித்துள்ளது.",
+    "slug": "openpayd-strengthens-position-in-the-u-s-market-through-the-acquisition-of-43-state-licences"
   }
 ]
