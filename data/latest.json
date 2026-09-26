@@ -1,23 +1,153 @@
 [
   {
-    "id": "572af04ce4be0d5f",
-    "title": "Inventi Becomes First Swift Business Connect Provider in the Baltics",
-    "summary": "The Lithuanian payments platform can now offer banks and EMIs managed Swift connectivity alongside SEPA and TARGET through a single integration.\nThe post Inventi Becomes First Swift Business Connect Provider in the Baltics appeared first on The Fintech Times.",
+    "id": "7e5486b649be84de",
+    "title": "Bitcoin Supply Shock: 81% of BTC Has Not Moved in Six Months",
+    "summary": "The post Bitcoin Supply Shock: 81% of BTC Has Not Moved in Six Months appeared first on Coinpedia Fintech News\nBitcoin supply is getting tighter as long-term holders continue to keep their coins off the market. Data from Bitcoin financial services firm River Financial shows that 81% of circulating BTC has not moved for at least six months, leaving fewer coins available for active trading. However, the supply shock has failed to push Bitcoin above …",
     "hasSummary": true,
-    "link": "https://thefintechtimes.com/inventi-becomes-first-swift-business-connect-provider-in-the-baltics/",
+    "link": "https://coinpedia.org/news/bitcoin-supply-shock-81-of-btc-has-not-moved-in-six-months/",
+    "source": "Coinpedia",
+    "tags": [
+      "Bitcoin",
+      "River Financial"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-26T07:37:09.000Z",
+    "fetchedAt": "2026-09-26T07:55:48.962Z",
+    "isDuplicateOf": null,
+    "content": "Recent data from Bitcoin financial services firm River Financial reveals that 81% of circulating Bitcoin has remained unmoved for at least six months. This trend indicates that long-term holders are keeping their coins off the market, resulting in a tightening supply and leaving fewer coins available for active trading. Despite this significant supply shock, the restricted availability has not yet pushed Bitcoin prices higher.",
+    "content_ta": "Bitcoin நிதி சேவை நிறுவனமான River Financial-ன் சமீபத்திய தரவுகளின்படி, புழக்கத்தில் உள்ள 81% Bitcoin குறைந்தபட்சம் ஆறு மாதங்களாக எந்த இடத்திற்கும் மாற்றப்படவில்லை. நீண்ட கால வைத்திருப்பவர்கள் தங்கள் காயின்களை சந்தையில் விற்காமல் வைத்திருப்பதைக் இந்த போக்கு காட்டுகிறது, இதனால் வர்த்தகத்திற்கு கிடைக்கும் காயின்களின் எண்ணிக்கை குறைகிறது. இந்த குறிப்பிடத்தக்க சப்ளை ஷாக் இருந்தபோதிலும், இந்த பற்றாக்குறை இன்னும் Bitcoin விலையை உயர்த்தவில்லை.",
+    "slug": "bitcoin-supply-shock-81-of-btc-has-not-moved-in-six-months"
+  },
+  {
+    "id": "63169a081df72354",
+    "title": "OpenZeppelin Brings Audited Smart Contract Toolkit To TRON",
+    "summary": "OpenZeppelin has launched TRON-specific versions of its smart contract libraries, upgrade tooling and Contracts Wizard. The stack supports TRC-20 tokens, upgradeable contracts, role-based permissions and passkey authentication. The tools are audited, but OpenZeppelin still recommends project-specific review and testing before production deployment. **ID:** B25-03 **Site:** Bitcoinist **Status:** READY **Author:** Bitcoinist Editorial Team **Focus Keyword:** OpenZeppelin […]",
+    "hasSummary": true,
+    "link": "https://bitcoinist.com/openzeppelin-brings-audited-smart-contract-toolkit-to-tron/",
+    "source": "Bitcoinist",
+    "tags": [
+      "OpenZeppelin",
+      "TRON",
+      "TRC-20"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-26T07:30:00.000Z",
+    "fetchedAt": "2026-09-26T07:55:48.962Z",
+    "isDuplicateOf": null,
+    "content": "OpenZeppelin has introduced TRON-specific versions of its smart contract libraries, upgrade tooling, and Contracts Wizard. The audited toolkit supports TRC-20 tokens, upgradeable contracts, role-based permissions, and passkey authentication. While the stack is audited, OpenZeppelin advises developers to conduct project-specific reviews and testing prior to deploying applications into production environments.",
+    "content_ta": "OpenZeppelin நிறுவனம் TRON-க்காக பிரத்யேகமாக ஸ்மார்ட் கான்ட்ராக்ட் லைப்ரரிகள், மேம்படுத்தும் கருவிகள் மற்றும் Contracts Wizard ஆகியவற்றை அறிமுகப்படுத்தியுள்ளது. இந்த தணிக்கை செய்யப்பட்ட தொகுப்பு TRC-20 டோக்கன்கள், மேம்படுத்தக்கூடிய கான்ட்ராக்ட்கள் மற்றும் பல்வேறு வசதிகளை ஆதரிக்கிறது. கருவிகள் தணிக்கை செய்யப்பட்டிருந்தாலும், தயாரிப்பு பயன்பாட்டிற்கு கொண்டு செல்வதற்கு முன் திட்ட அடிப்படையிலான பரிசோதனைகளை மேற்கொள்ளுமாறு OpenZeppelin அறிவுறுத்துகிறது.",
+    "slug": "openzeppelin-brings-audited-smart-contract-toolkit-to-tron"
+  },
+  {
+    "id": "b5bd41630f9f5948",
+    "title": "Singapore Tightens Disclosure Rules On Pay, Dividends, Investor Relations",
+    "summary": "Singapore Exchange Regulation (SGX RegCo) will require listed companies to provide more detailed disclosures on executive remuneration, dividend policies, and investor relations as it seeks to strengthen transparency and encourage a greater focus on long-term value creation. The changes will take effect on Jan. 1,... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/09/312531-singapore-tightens-disclosure-rules-on-pay-dividends-investor-relations/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Singapore Exchange Regulation",
+      "Singapore"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-26T07:27:58.000Z",
+    "fetchedAt": "2026-09-26T07:55:48.962Z",
+    "isDuplicateOf": null,
+    "content": "Singapore Exchange Regulation (SGX RegCo) has announced tighter disclosure rules for listed companies. The new mandates require greater transparency regarding executive remuneration, dividend policies, and investor relations practices. Designed to strengthen market integrity and foster long-term value creation, these regulatory changes are scheduled to take effect starting January 1.",
+    "content_ta": "சிங்கப்பூர் எக்ஸ்சேஞ்ச் ரெகுலேஷன் (SGX RegCo) பட்டியலிடப்பட்ட நிறுவனங்களுக்கான கடுமையான வெளிப்படைத்தன்மை விதிகளை அறிவித்துள்ளது. நிர்வாகிகளின் ஊதியம், லாப ஈவு கொள்கைகள் மற்றும் முதலீட்டாளர் உறவுகள் குறித்த கூடுதல் விவரங்களை நிறுவனங்கள் வழங்க வேண்டும். சந்தை நம்பகத்தன்மையை வலுப்படுத்தவும் நீண்ட கால மதிப்பு உருவாக்கத்தை ஊக்குவிக்கவும் நோக்கம் கொண்ட இந்த புதிய விதிகள் ஜனவரி 1 முதல் அமலுக்கு வருகின்றன.",
+    "slug": "singapore-tightens-disclosure-rules-on-pay-dividends-investor-relations"
+  },
+  {
+    "id": "7f1ff4a5a25e863e",
+    "title": "Alleged Fraudster Drains $800,000 From Iowa Firm in Business Email Scam, Feds Seize $372,583",
+    "summary": "Federal authorities have secured a court judgment forfeiting roughly $375,000 in proceeds from a business email compromise scam that hit an Iowa company in 2022. The U.S. District Court for the Northern District of Iowa issued the order Tuesday after tracing the funds to a Wells Fargo account in the names of Manuel and Ibrahim […]\nThe post Alleged Fraudster Drains $800,000 From Iowa Firm in Business Email Scam, Feds Seize $372,583 appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/09/26/federal-court-orders-forfeiture-of-372583-transferred-to-wells-fargo-account-in-iowa-business-email-scam/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "Iowa",
+      "Wells Fargo",
+      "U.S. District Court for the Northern District of Iowa",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-26T07:04:49.000Z",
+    "fetchedAt": "2026-09-26T07:55:48.962Z",
+    "isDuplicateOf": null,
+    "content": "Federal authorities have secured a court judgment forfeiting approximately $375,000 in proceeds linked to a business email compromise scam that targeted an Iowa firm in 2022. The U.S. District Court for the Northern District of Iowa issued the order after tracing the stolen funds to a specific bank account.",
+    "content_ta": "2022-ஆம் ஆண்டில் Iowa-வைச் சேர்ந்த ஒரு நிறுவனத்தை குறிவைத்து நடத்தப்பட்ட பிசினஸ் ஈமெயில் மோசடி வழக்கில், முறைகேடான முறையில் பெறப்பட்ட சுமார் $375,000 தொகையை பறிமுதல் செய்ய ஃபெடரல் அதிகாரிகள் நீதிமன்ற உத்தரவைப் பெற்றுள்ளனர். U.S. District Court for the Northern District of Iowa இந்த உத்தரவை வழங்கியுள்ளது.",
+    "slug": "alleged-fraudster-drains-800-000-from-iowa-firm-in-business-email-scam-feds-seize-372-583"
+  },
+  {
+    "id": "b44eaf6fc56290d4",
+    "title": "Magic Eden stopped using THIS contract in 2024, and it’s still causing trouble!",
+    "summary": "A Limit Break protocol bug put thousands of NFTs at risk.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/magic-eden-stopped-using-this-contract-in-2024-and-its-still-causing-trouble/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Magic Eden",
+      "Limit Break"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-26T07:00:51.000Z",
+    "fetchedAt": "2026-09-26T07:55:48.962Z",
+    "isDuplicateOf": null,
+    "content": "Magic Eden stopped using a specific contract in 2024, but it continues to cause trouble. A recent bug in the Limit Break protocol has put thousands of NFTs at risk, highlighting ongoing security concerns within the digital asset ecosystem as developers and platforms address legacy code vulnerabilities.",
+    "content_ta": "Magic Eden நிறுவனம் 2024-ல் ஒரு குறிப்பிட்ட ஒப்பந்தத்தைப் பயன்படுத்துவதை நிறுத்திய போதிலும், அது தொடர்ந்து சிக்கல்களை ஏற்படுத்தி வருகிறது. Limit Break ப்ரோட்டோகாலில் ஏற்பட்ட சமீபத்திய கோளாறு காரணமாக ஆயிரக்கணக்கான NFT-கள் ஆபத்தில் உள்ளன, இது டிஜிட்டல் சொத்து சந்தையில் பாதுகாப்புக் கவலைகளை எழுப்பியுள்ளது.",
+    "slug": "magic-eden-stopped-using-this-contract-in-2024-and-it-s-still-causing-trouble"
+  },
+  {
+    "id": "2b73e272eb7e86cc",
+    "title": "Corpay Research: UK Finance Teams Lose a Day a Week to Manual Admin",
+    "summary": "A Corpay survey of 300 UK CFOs found 86% of finance teams spend six or more hours weekly on manual administration tasks.\nThe post Corpay Research: UK Finance Teams Lose a Day a Week to Manual Admin appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/corpay-research-uk-finance-teams-lose-a-day-a-week-to-manual-admin/",
     "source": "The Fintech Times",
+    "tags": [
+      "Corpay",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-26T07:00:45.000Z",
+    "fetchedAt": "2026-09-26T07:55:48.962Z",
+    "isDuplicateOf": null,
+    "content": "Recent research by Corpay reveals that finance teams in the UK lose about a day every week to manual administration tasks. A survey of UK CFOs found that an overwhelming majority spend six hours or more weekly on paperwork and manual processes, highlighting a significant inefficiency in corporate finance departments.",
+    "content_ta": "Corpay நடத்திய புதிய ஆய்வின்படி, UK-ல் உள்ள ஃபைனான்ஸ் குழுவினர் கைமுறை நிர்வாகப் பணிகளுக்காக வாரத்தில் ஒரு நாளை இழக்கின்றனர். UK CFO-க்களிடம் நடத்தப்பட்ட ஆய்வில், பெரும்பான்மையானவர்கள் வாரத்திற்கு ஆறு மணி நேரத்திற்கும் மேலாக அலுவலகப் பணிகளுக்காகச் செலவிடுவது தெரியவந்துள்ளது.",
+    "slug": "corpay-research-uk-finance-teams-lose-a-day-a-week-to-manual-admin"
+  },
+  {
+    "id": "d0872ada67222715",
+    "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+    "summary": "The CFTC claimed that Cash FX engaged in minimal forex trading and misappropriated most of the participant funds.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "CFTC",
+      "Cash FX"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-26T06:59:29.000Z",
+    "fetchedAt": "2026-09-26T07:55:48.962Z",
+    "isDuplicateOf": null,
+    "content": "The U.S. Commodity Futures Trading Commission has filed a lawsuit against Cash FX, alleging the operation of a massive $950 million cryptocurrency-linked forex scheme. According to regulators, the company conducted very little actual forex trading and instead misappropriated the vast majority of funds provided by participants.",
+    "content_ta": "அமெரிக்காவின் Commodity Futures Trading Commission அமைப்பு Cash FX நிறுவனத்திற்கு எதிராக வழக்கு தொடர்ந்துள்ளது. 950 மில்லியன் டாலர் மதிப்பிலான கிரிப்டோ மற்றும் அந்நிய செலாவணி மோசடியில் இந்நடுவனம் ஈடுப்பட்டுள்ளதாக குற்றச்சாட்டு எழுந்துள்ளது. அந்நிறுவனம் உண்மையான வர்த்தகத்தை மிகக் குறைவாகவே செய்துவிட்டு, பங்கேற்பாளர்களின் பெரும்பான்மையான நிதியைத் தவறாகப் பயன்படுத்தியதாக ஒழுங்குமுறை அதிகாரிகள் தெரிவித்துள்ளனர்.",
+    "slug": "cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme"
+  },
+  {
+    "id": "572af04ce4be0d5f",
+    "slug": "inventi-becomes-first-swift-business-connect-provider-in-the-baltics",
+    "title": "Inventi Becomes First Swift Business Connect Provider in the Baltics",
     "tags": [
       "Inventi",
       "Baltics",
       "Lithuania"
     ],
+    "source": "The Fintech Times",
     "origin": "rss",
-    "pubDate": "2026-09-26T06:00:13.000Z",
-    "fetchedAt": "2026-09-26T06:01:19.431Z",
-    "isDuplicateOf": null,
-    "content": "Lithuanian payments platform Inventi has become the first Swift Business Connect provider in the Baltics. The company can now offer banks and electronic money institutions managed Swift connectivity alongside SEPA and TARGET through a single integration, enhancing regional financial services.",
-    "content_ta": "லித்துவேனியாவைச் சேர்ந்த கட்டண மேடையான Inventi, பால்டிக் பிராந்தியத்தில் முதல் Swift Business Connect வழங்குநராக மாறியுள்ளது. இந்நிறுவனம் இப்போது வங்கிகள் மற்றும் மின்னணு பண நிறுவனங்களுக்கு SEPA மற்றும் TARGET உடன் சேர்த்து நிர்வகிக்கப்பட்ட Swift இணைப்பை ஒற்றை ஒருங்கிணைப்பு மூலம் வழங்க முடியும்.",
-    "slug": "inventi-becomes-first-swift-business-connect-provider-in-the-baltics"
+    "hasContent": true,
+    "pubDate": "2026-09-26T06:00:13.000Z"
   },
   {
     "id": "e19f564b30779381",
@@ -35,22 +165,16 @@
   },
   {
     "id": "d1d83864777162a9",
+    "slug": "nigeria-s-firs-targets-crypto-with-transaction-taxes-and-vasp-levies",
     "title": "Nigeria’s FIRS Targets Crypto with Transaction Taxes and VASP Levies",
-    "summary": "New FIRS guidelines bring cryptocurrencies, stablecoins and virtual assets into Nigeria's tax net through transaction duties and withholding levies.\nThe post Nigeria’s FIRS Targets Crypto with Transaction Taxes and VASP Levies appeared first on The Fintech Times.",
-    "hasSummary": true,
-    "link": "https://thefintechtimes.com/nigerias-firs-targets-crypto-with-transaction-taxes-and-vasp-levies/",
-    "source": "The Fintech Times",
     "tags": [
       "Nigeria",
       "FIRS"
     ],
+    "source": "The Fintech Times",
     "origin": "rss",
-    "pubDate": "2026-09-26T05:00:33.000Z",
-    "fetchedAt": "2026-09-26T06:01:19.431Z",
-    "isDuplicateOf": null,
-    "content": "Nigeria's Federal Inland Revenue Service has introduced new guidelines aimed at bringing cryptocurrencies, stablecoins, and virtual assets into the country's tax net. The regulatory measures include transaction duties and withholding levies on virtual asset service providers, marking a significant step by the tax authority to monitor and generate revenue from digital asset activities within Nigeria.",
-    "content_ta": "நைஜீரியாவின் FIRS அமைப்பு, கிரிப்டோகரன்சிகள், stablecoins மற்றும் மெய்நிகர் சொத்துக்களை நாட்டின் வரி வலையமைப்பிற்குள் கொண்டுவருவதற்கான புதிய வழிகாட்டுதல்களை அறிமுகப்படுத்தியுள்ளது. VASP மீது பரிவர்த்தனை வரிகள் மற்றும் பிடிப்பு வரிகளை விதிக்கும் இந்த புதிய ஒழுங்குமுறை நடவடிக்கைகள், நைஜீரியாவில் டிஜிட்டல் சொத்து செயல்பாடுகளைக் கண்காணித்து வருவாய் ஈட்டுவதில் வரி அதிகாரிகளின் முக்கிய நடவடிக்கையாகக் கருதப்படுகிறத்து.",
-    "slug": "nigeria-s-firs-targets-crypto-with-transaction-taxes-and-vasp-levies"
+    "hasContent": true,
+    "pubDate": "2026-09-26T05:00:33.000Z"
   },
   {
     "id": "3472732b8965a74c",
@@ -78,23 +202,17 @@
   },
   {
     "id": "eba56f0e4ef19ecc",
+    "slug": "white-house-assures-no-us-diesel-export-ban-says-ted-cruz",
     "title": "White House assures no US diesel export ban, says Ted Cruz",
-    "summary": "The assurance against a diesel export ban suggests a focus on alternative strategies to boost domestic supply, impacting market expectations.\nThe post White House assures no US diesel export ban, says Ted Cruz appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/white-house-assures-no-us-diesel-export-ban-says-ted-cruz/",
-    "source": "CryptoBriefing",
     "tags": [
       "White House",
       "Ted Cruz",
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-26T03:58:19.000Z",
-    "fetchedAt": "2026-09-26T06:01:19.431Z",
-    "isDuplicateOf": null,
-    "content": "The White House has assured that there is no plan to implement a US diesel export ban, according to statements by Ted Cruz. This update indicates a reliance on alternative strategies to manage domestic energy supplies, shifting market expectations and addressing supply concerns without resorting to export restrictions.",
-    "content_ta": "Ted Cruz அவர்களின் கூற்றுப்படி, US-ல் diesel ஏற்றுமதி தடை எதுவும் விதிக்கப்படாது என White House உறுதி அளித்துள்ளது. இந்த முடிவு உள்நாட்டு எரிபொருள் விநியோகத்தை நிர்வகிக்க மாற்று உத்திகளைப் பயன்படுத்துவதைச் சுட்டிக்காட்டுகிறது.",
-    "slug": "white-house-assures-no-us-diesel-export-ban-says-ted-cruz"
+    "hasContent": true,
+    "pubDate": "2026-09-26T03:58:19.000Z"
   },
   {
     "id": "9a3f5262a1f9cdae",
@@ -141,23 +259,17 @@
   },
   {
     "id": "06915249fb709484",
+    "slug": "fintech-gcash-s-ipo-may-show-southeast-asia-can-deliver-scale-exits-warburg",
     "title": "Fintech GCash’s IPO May Show Southeast Asia Can Deliver Scale Exits: Warburg",
-    "summary": "GCash has evolved from a loss-making digital wallet into a highly profitable financial technology platform, illustrating the scale Southeast Asian fintech companies can reach, according to Warburg Pincus executive Vishal Mahadevia. The Philippine digital wallet had about 15 million monthly active users when Warburg Pincus... Read More",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/09/312350-fintech-gcashs-ipo-may-show-southeast-asia-can-deliver-scale-exits-warburg/",
-    "source": "Crowdfund Insider",
     "tags": [
       "GCash",
       "Warburg Pincus",
       "Southeast Asia"
     ],
+    "source": "Crowdfund Insider",
     "origin": "rss",
-    "pubDate": "2026-09-26T03:14:28.000Z",
-    "fetchedAt": "2026-09-26T06:01:19.431Z",
-    "isDuplicateOf": null,
-    "content": "Fintech platform GCash has transformed from a loss-making digital wallet into a highly profitable business, showcasing the growth potential of Southeast Asian technology companies. According to Warburg Pincus, a potential initial public offering by GCash could demonstrate that the region is capable of delivering major scale exits for investors.",
-    "content_ta": "நஷ்டத்தில் இயங்கிய டிஜிட்டல் வாலட் ஆக இருந்த ஃபின்டெக் பிளாட்ஃபார்ம் GCash, தற்போது அதிக லாபம் ஈட்டும் வணிகமாக மாறி, தென்கிழக்கு ஆசிய தொழில்நுட்ப நிறுவனங்களின் வளர்ச்சி திறனை வெளிப்படுத்தியுள்ளது. Warburg Pincus நிறுவனத்தின்படி, GCash-ன் சாத்தியமான ஐபிஓ (IPO), இப்பகுதி முதலீட்டாளர்களுக்கு பெரிய அளவிலான வெளியேற்றங்களை வழங்கக்கூடியது என்பதை நிரூபிக்கக்கூடும்.",
-    "slug": "fintech-gcash-s-ipo-may-show-southeast-asia-can-deliver-scale-exits-warburg"
+    "hasContent": true,
+    "pubDate": "2026-09-26T03:14:28.000Z"
   },
   {
     "id": "386024b9da2bea8a",
@@ -721,95 +833,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-25T21:10:07.000Z"
-  },
-  {
-    "id": "1dc3094871084111",
-    "slug": "microsoft-drops-copilot-pc-branding-for-new-surface-models",
-    "title": "Microsoft drops Copilot+ PC branding for new Surface models",
-    "tags": [
-      "Microsoft",
-      "Surface"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T20:59:12.000Z"
-  },
-  {
-    "id": "d360c86aeb32637c",
-    "slug": "google-deepmind-employees-explore-funding-for-ai-startup-at-london-breakfast-meeting",
-    "title": "Google DeepMind employees explore funding for AI startup at London breakfast meeting",
-    "tags": [
-      "Google DeepMind",
-      "London"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T20:57:17.000Z"
-  },
-  {
-    "id": "56085dad5a44282d",
-    "slug": "mbappe-scores-exits-with-knee-injury-in-france-s-nations-league-match",
-    "title": "Mbappé scores, exits with knee injury in France’s Nations League match",
-    "tags": [
-      "France",
-      "Kylian Mbappé"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T20:57:06.000Z"
-  },
-  {
-    "id": "e196116cbda75ad6",
-    "slug": "anthropic-s-claude-solves-nine-loop-amplitude-challenge-in-theoretical-physics",
-    "title": "Anthropic’s Claude solves nine-loop amplitude challenge in theoretical physics",
-    "tags": [
-      "Anthropic",
-      "Claude"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T20:48:14.000Z"
-  },
-  {
-    "id": "49a39a9b579c4361",
-    "slug": "why-ai-reporting-will-change-fintech-marketing-teams-before-ai-creatives-do",
-    "title": "Why AI reporting will change fintech marketing teams before AI creatives do",
-    "tags": [
-      "AI"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T20:44:06.000Z"
-  },
-  {
-    "id": "32c4457064030126",
-    "slug": "arbitrum-becomes-first-blockchain-to-reach-7-000-real-world-assets",
-    "title": "Arbitrum becomes first blockchain to reach 7,000 real-world assets",
-    "tags": [
-      "Arbitrum"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T20:42:05.000Z"
-  },
-  {
-    "id": "e61cdba4096045c1",
-    "slug": "aero-launches-october-21-2026-with-seven-chains-including-arbitrum-and-robinhood-chain",
-    "title": "Aero launches October 21, 2026, with seven chains including Arbitrum and Robinhood Chain",
-    "tags": [
-      "Aero",
-      "Arbitrum",
-      "Robinhood Chain"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T20:36:58.000Z"
   }
 ]

@@ -409,5 +409,141 @@
     "content": "Fintech platform GCash has transformed from a loss-making digital wallet into a highly profitable business, showcasing the growth potential of Southeast Asian technology companies. According to Warburg Pincus, a potential initial public offering by GCash could demonstrate that the region is capable of delivering major scale exits for investors.",
     "content_ta": "நஷ்டத்தில் இயங்கிய டிஜிட்டல் வாலட் ஆக இருந்த ஃபின்டெக் பிளாட்ஃபார்ம் GCash, தற்போது அதிக லாபம் ஈட்டும் வணிகமாக மாறி, தென்கிழக்கு ஆசிய தொழில்நுட்ப நிறுவனங்களின் வளர்ச்சி திறனை வெளிப்படுத்தியுள்ளது. Warburg Pincus நிறுவனத்தின்படி, GCash-ன் சாத்தியமான ஐபிஓ (IPO), இப்பகுதி முதலீட்டாளர்களுக்கு பெரிய அளவிலான வெளியேற்றங்களை வழங்கக்கூடியது என்பதை நிரூபிக்கக்கூடும்.",
     "slug": "fintech-gcash-s-ipo-may-show-southeast-asia-can-deliver-scale-exits-warburg"
+  },
+  {
+    "id": "d0872ada67222715",
+    "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+    "summary": "The CFTC claimed that Cash FX engaged in minimal forex trading and misappropriated most of the participant funds.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "CFTC",
+      "Cash FX"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-26T06:59:29.000Z",
+    "fetchedAt": "2026-09-26T07:55:48.962Z",
+    "isDuplicateOf": null,
+    "content": "The U.S. Commodity Futures Trading Commission has filed a lawsuit against Cash FX, alleging the operation of a massive $950 million cryptocurrency-linked forex scheme. According to regulators, the company conducted very little actual forex trading and instead misappropriated the vast majority of funds provided by participants.",
+    "content_ta": "அமெரிக்காவின் Commodity Futures Trading Commission அமைப்பு Cash FX நிறுவனத்திற்கு எதிராக வழக்கு தொடர்ந்துள்ளது. 950 மில்லியன் டாலர் மதிப்பிலான கிரிப்டோ மற்றும் அந்நிய செலாவணி மோசடியில் இந்நடுவனம் ஈடுப்பட்டுள்ளதாக குற்றச்சாட்டு எழுந்துள்ளது. அந்நிறுவனம் உண்மையான வர்த்தகத்தை மிகக் குறைவாகவே செய்துவிட்டு, பங்கேற்பாளர்களின் பெரும்பான்மையான நிதியைத் தவறாகப் பயன்படுத்தியதாக ஒழுங்குமுறை அதிகாரிகள் தெரிவித்துள்ளனர்.",
+    "slug": "cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme"
+  },
+  {
+    "id": "63169a081df72354",
+    "title": "OpenZeppelin Brings Audited Smart Contract Toolkit To TRON",
+    "summary": "OpenZeppelin has launched TRON-specific versions of its smart contract libraries, upgrade tooling and Contracts Wizard. The stack supports TRC-20 tokens, upgradeable contracts, role-based permissions and passkey authentication. The tools are audited, but OpenZeppelin still recommends project-specific review and testing before production deployment. **ID:** B25-03 **Site:** Bitcoinist **Status:** READY **Author:** Bitcoinist Editorial Team **Focus Keyword:** OpenZeppelin […]",
+    "hasSummary": true,
+    "link": "https://bitcoinist.com/openzeppelin-brings-audited-smart-contract-toolkit-to-tron/",
+    "source": "Bitcoinist",
+    "tags": [
+      "OpenZeppelin",
+      "TRON",
+      "TRC-20"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-26T07:30:00.000Z",
+    "fetchedAt": "2026-09-26T07:55:48.962Z",
+    "isDuplicateOf": null,
+    "content": "OpenZeppelin has introduced TRON-specific versions of its smart contract libraries, upgrade tooling, and Contracts Wizard. The audited toolkit supports TRC-20 tokens, upgradeable contracts, role-based permissions, and passkey authentication. While the stack is audited, OpenZeppelin advises developers to conduct project-specific reviews and testing prior to deploying applications into production environments.",
+    "content_ta": "OpenZeppelin நிறுவனம் TRON-க்காக பிரத்யேகமாக ஸ்மார்ட் கான்ட்ராக்ட் லைப்ரரிகள், மேம்படுத்தும் கருவிகள் மற்றும் Contracts Wizard ஆகியவற்றை அறிமுகப்படுத்தியுள்ளது. இந்த தணிக்கை செய்யப்பட்ட தொகுப்பு TRC-20 டோக்கன்கள், மேம்படுத்தக்கூடிய கான்ட்ராக்ட்கள் மற்றும் பல்வேறு வசதிகளை ஆதரிக்கிறது. கருவிகள் தணிக்கை செய்யப்பட்டிருந்தாலும், தயாரிப்பு பயன்பாட்டிற்கு கொண்டு செல்வதற்கு முன் திட்ட அடிப்படையிலான பரிசோதனைகளை மேற்கொள்ளுமாறு OpenZeppelin அறிவுறுத்துகிறது.",
+    "slug": "openzeppelin-brings-audited-smart-contract-toolkit-to-tron"
+  },
+  {
+    "id": "b44eaf6fc56290d4",
+    "title": "Magic Eden stopped using THIS contract in 2024, and it’s still causing trouble!",
+    "summary": "A Limit Break protocol bug put thousands of NFTs at risk.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/magic-eden-stopped-using-this-contract-in-2024-and-its-still-causing-trouble/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Magic Eden",
+      "Limit Break"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-26T07:00:51.000Z",
+    "fetchedAt": "2026-09-26T07:55:48.962Z",
+    "isDuplicateOf": null,
+    "content": "Magic Eden stopped using a specific contract in 2024, but it continues to cause trouble. A recent bug in the Limit Break protocol has put thousands of NFTs at risk, highlighting ongoing security concerns within the digital asset ecosystem as developers and platforms address legacy code vulnerabilities.",
+    "content_ta": "Magic Eden நிறுவனம் 2024-ல் ஒரு குறிப்பிட்ட ஒப்பந்தத்தைப் பயன்படுத்துவதை நிறுத்திய போதிலும், அது தொடர்ந்து சிக்கல்களை ஏற்படுத்தி வருகிறது. Limit Break ப்ரோட்டோகாலில் ஏற்பட்ட சமீபத்திய கோளாறு காரணமாக ஆயிரக்கணக்கான NFT-கள் ஆபத்தில் உள்ளன, இது டிஜிட்டல் சொத்து சந்தையில் பாதுகாப்புக் கவலைகளை எழுப்பியுள்ளது.",
+    "slug": "magic-eden-stopped-using-this-contract-in-2024-and-it-s-still-causing-trouble"
+  },
+  {
+    "id": "7e5486b649be84de",
+    "title": "Bitcoin Supply Shock: 81% of BTC Has Not Moved in Six Months",
+    "summary": "The post Bitcoin Supply Shock: 81% of BTC Has Not Moved in Six Months appeared first on Coinpedia Fintech News\nBitcoin supply is getting tighter as long-term holders continue to keep their coins off the market. Data from Bitcoin financial services firm River Financial shows that 81% of circulating BTC has not moved for at least six months, leaving fewer coins available for active trading. However, the supply shock has failed to push Bitcoin above …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/news/bitcoin-supply-shock-81-of-btc-has-not-moved-in-six-months/",
+    "source": "Coinpedia",
+    "tags": [
+      "Bitcoin",
+      "River Financial"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-26T07:37:09.000Z",
+    "fetchedAt": "2026-09-26T07:55:48.962Z",
+    "isDuplicateOf": null,
+    "content": "Recent data from Bitcoin financial services firm River Financial reveals that 81% of circulating Bitcoin has remained unmoved for at least six months. This trend indicates that long-term holders are keeping their coins off the market, resulting in a tightening supply and leaving fewer coins available for active trading. Despite this significant supply shock, the restricted availability has not yet pushed Bitcoin prices higher.",
+    "content_ta": "Bitcoin நிதி சேவை நிறுவனமான River Financial-ன் சமீபத்திய தரவுகளின்படி, புழக்கத்தில் உள்ள 81% Bitcoin குறைந்தபட்சம் ஆறு மாதங்களாக எந்த இடத்திற்கும் மாற்றப்படவில்லை. நீண்ட கால வைத்திருப்பவர்கள் தங்கள் காயின்களை சந்தையில் விற்காமல் வைத்திருப்பதைக் இந்த போக்கு காட்டுகிறது, இதனால் வர்த்தகத்திற்கு கிடைக்கும் காயின்களின் எண்ணிக்கை குறைகிறது. இந்த குறிப்பிடத்தக்க சப்ளை ஷாக் இருந்தபோதிலும், இந்த பற்றாக்குறை இன்னும் Bitcoin விலையை உயர்த்தவில்லை.",
+    "slug": "bitcoin-supply-shock-81-of-btc-has-not-moved-in-six-months"
+  },
+  {
+    "id": "7f1ff4a5a25e863e",
+    "title": "Alleged Fraudster Drains $800,000 From Iowa Firm in Business Email Scam, Feds Seize $372,583",
+    "summary": "Federal authorities have secured a court judgment forfeiting roughly $375,000 in proceeds from a business email compromise scam that hit an Iowa company in 2022. The U.S. District Court for the Northern District of Iowa issued the order Tuesday after tracing the funds to a Wells Fargo account in the names of Manuel and Ibrahim […]\nThe post Alleged Fraudster Drains $800,000 From Iowa Firm in Business Email Scam, Feds Seize $372,583 appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/09/26/federal-court-orders-forfeiture-of-372583-transferred-to-wells-fargo-account-in-iowa-business-email-scam/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "Iowa",
+      "Wells Fargo",
+      "U.S. District Court for the Northern District of Iowa",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-26T07:04:49.000Z",
+    "fetchedAt": "2026-09-26T07:55:48.962Z",
+    "isDuplicateOf": null,
+    "content": "Federal authorities have secured a court judgment forfeiting approximately $375,000 in proceeds linked to a business email compromise scam that targeted an Iowa firm in 2022. The U.S. District Court for the Northern District of Iowa issued the order after tracing the stolen funds to a specific bank account.",
+    "content_ta": "2022-ஆம் ஆண்டில் Iowa-வைச் சேர்ந்த ஒரு நிறுவனத்தை குறிவைத்து நடத்தப்பட்ட பிசினஸ் ஈமெயில் மோசடி வழக்கில், முறைகேடான முறையில் பெறப்பட்ட சுமார் $375,000 தொகையை பறிமுதல் செய்ய ஃபெடரல் அதிகாரிகள் நீதிமன்ற உத்தரவைப் பெற்றுள்ளனர். U.S. District Court for the Northern District of Iowa இந்த உத்தரவை வழங்கியுள்ளது.",
+    "slug": "alleged-fraudster-drains-800-000-from-iowa-firm-in-business-email-scam-feds-seize-372-583"
+  },
+  {
+    "id": "2b73e272eb7e86cc",
+    "title": "Corpay Research: UK Finance Teams Lose a Day a Week to Manual Admin",
+    "summary": "A Corpay survey of 300 UK CFOs found 86% of finance teams spend six or more hours weekly on manual administration tasks.\nThe post Corpay Research: UK Finance Teams Lose a Day a Week to Manual Admin appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/corpay-research-uk-finance-teams-lose-a-day-a-week-to-manual-admin/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Corpay",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-26T07:00:45.000Z",
+    "fetchedAt": "2026-09-26T07:55:48.962Z",
+    "isDuplicateOf": null,
+    "content": "Recent research by Corpay reveals that finance teams in the UK lose about a day every week to manual administration tasks. A survey of UK CFOs found that an overwhelming majority spend six hours or more weekly on paperwork and manual processes, highlighting a significant inefficiency in corporate finance departments.",
+    "content_ta": "Corpay நடத்திய புதிய ஆய்வின்படி, UK-ல் உள்ள ஃபைனான்ஸ் குழுவினர் கைமுறை நிர்வாகப் பணிகளுக்காக வாரத்தில் ஒரு நாளை இழக்கின்றனர். UK CFO-க்களிடம் நடத்தப்பட்ட ஆய்வில், பெரும்பான்மையானவர்கள் வாரத்திற்கு ஆறு மணி நேரத்திற்கும் மேலாக அலுவலகப் பணிகளுக்காகச் செலவிடுவது தெரியவந்துள்ளது.",
+    "slug": "corpay-research-uk-finance-teams-lose-a-day-a-week-to-manual-admin"
+  },
+  {
+    "id": "b5bd41630f9f5948",
+    "title": "Singapore Tightens Disclosure Rules On Pay, Dividends, Investor Relations",
+    "summary": "Singapore Exchange Regulation (SGX RegCo) will require listed companies to provide more detailed disclosures on executive remuneration, dividend policies, and investor relations as it seeks to strengthen transparency and encourage a greater focus on long-term value creation. The changes will take effect on Jan. 1,... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/09/312531-singapore-tightens-disclosure-rules-on-pay-dividends-investor-relations/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Singapore Exchange Regulation",
+      "Singapore"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-26T07:27:58.000Z",
+    "fetchedAt": "2026-09-26T07:55:48.962Z",
+    "isDuplicateOf": null,
+    "content": "Singapore Exchange Regulation (SGX RegCo) has announced tighter disclosure rules for listed companies. The new mandates require greater transparency regarding executive remuneration, dividend policies, and investor relations practices. Designed to strengthen market integrity and foster long-term value creation, these regulatory changes are scheduled to take effect starting January 1.",
+    "content_ta": "சிங்கப்பூர் எக்ஸ்சேஞ்ச் ரெகுலேஷன் (SGX RegCo) பட்டியலிடப்பட்ட நிறுவனங்களுக்கான கடுமையான வெளிப்படைத்தன்மை விதிகளை அறிவித்துள்ளது. நிர்வாகிகளின் ஊதியம், லாப ஈவு கொள்கைகள் மற்றும் முதலீட்டாளர் உறவுகள் குறித்த கூடுதல் விவரங்களை நிறுவனங்கள் வழங்க வேண்டும். சந்தை நம்பகத்தன்மையை வலுப்படுத்தவும் நீண்ட கால மதிப்பு உருவாக்கத்தை ஊக்குவிக்கவும் நோக்கம் கொண்ட இந்த புதிய விதிகள் ஜனவரி 1 முதல் அமலுக்கு வருகின்றன.",
+    "slug": "singapore-tightens-disclosure-rules-on-pay-dividends-investor-relations"
   }
 ]
