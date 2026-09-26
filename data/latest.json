@@ -1,81 +1,325 @@
 [
   {
-    "id": "65e222e3fb3872b2",
-    "title": "Louisiana Woman Arrested After Using Fake Social Security Numbers To Collect $41,000+ in Casino Jackpots",
-    "summary": "Louisiana State Police say a 43-year-old Alexandria woman used falsified Social Security numbers to collect more than $41,000 in casino jackpots and was booked on 18 counts of bank fraud and identity theft.\nThe post Louisiana Woman Arrested After Using Fake Social Security Numbers To Collect $41,000+ in Casino Jackpots appeared first on The Daily Hodl.",
+    "id": "9280aea5e71c769b",
+    "slug": "biggest-loophole-ever-a16z-challenges-sec-crypto-buyback-faq",
+    "title": "‘Biggest loophole ever?’ a16z challenges SEC crypto buyback FAQ",
+    "tags": [
+      "a16z",
+      "SEC"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-26T12:00:03.000Z"
+  },
+  {
+    "id": "a614ee336de9149b",
+    "slug": "xrp-news-ripple-s-multi-asset-payments-model-predates-resurfaced-xrp-remarks",
+    "title": "XRP News: Ripple’s Multi-Asset Payments Model Predates Resurfaced XRP Remarks",
+    "tags": [
+      "Ripple",
+      "XRP",
+      "Brad Garlinghouse"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-26T11:35:00.000Z"
+  },
+  {
+    "id": "b5c993fdcb60d975",
+    "title": "Bitget to Resume BTC, ETH, and XRP Withdrawals, With 10% Bounty Program",
+    "summary": "The post Bitget to Resume BTC, ETH, and XRP Withdrawals, With 10% Bounty Program appeared first on Coinpedia Fintech News\nBitget has annoucne to reopen crypto withdrawals after a $387.5 million security breach that forced the exchange to suspend the service. Bitcoin withdrawals will resume first on September 28, followed by Ethereum and USDT, while XRP and other assets are expected to return by October 2. Alongside the withdrawal restart, Bitget has also launched a …",
     "hasSummary": true,
-    "link": "https://dailyhodl.com/2026/09/26/louisiana-woman-arrested-after-using-fake-social-security-numbers-to-collect-41000-in-casino-jackpots/",
-    "source": "The Daily Hodl",
+    "link": "https://coinpedia.org/news/bitget-to-resume-btc-eth-and-xrp-withdrawals-with-10-bounty-program/",
+    "source": "Coinpedia",
+    "tags": [
+      "Bitget",
+      "Bitcoin",
+      "Ethereum",
+      "XRP"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-26T11:33:07.000Z",
+    "fetchedAt": "2026-09-26T12:01:15.780Z",
+    "isDuplicateOf": null,
+    "content": "Cryptocurrency exchange Bitget has announced plans to resume BTC, ETH, and XRP withdrawals following a security breach that temporarily halted services. Withdrawals will begin rolling out in phases starting with Bitcoin, followed by Ethereum and other digital assets. Alongside the service restoration, the platform is launching a 10 percent bounty program as part of its security and recovery efforts.",
+    "content_ta": "செக்யூரிட்டி பிரீச் காரணமாக முடக்கப்பட்டிருந்த BTC, ETH மற்றும் XRP வித்ராவல்களை மீண்டும் தொடங்கவுள்ளதாக Bitget கிரிப்டோகரன்சி எக்ஸ்சேஞ்ச் அறிவித்துள்ளது. Bitcoin வித்ராவல்கள் முதலில் தொடங்கப்பட்டு, அதனைத் தொடர்ந்து Ethereum மற்றும் பிற டிஜிட்டல் சொற்களுக்கான சேவைகள் படிப்படியாக வழங்கப்படும். இந்த வித்ராவல் தொடக்கத்துடன் சேர்ந்து, பாதுகாப்பு மற்றும் மீட்பு நடவடிக்கைகளின் ஒரு பகுதியாக 10 சதவீத பவுண்டி ப்ரோக்ராமையும் இந்நிறுவனம் அறிமுகப்படுத்துகிறது.",
+    "slug": "bitget-to-resume-btc-eth-and-xrp-withdrawals-with-10-bounty-program"
+  },
+  {
+    "id": "47909acca4fa1dad",
+    "slug": "bitcoin-to-hit-300-000-by-2029-fidelity-director-backs-target-with-pure-math",
+    "title": "Bitcoin to Hit $300,000 by 2029: Fidelity Director Backs Target With Pure Math",
+    "tags": [
+      "Bitcoin",
+      "Fidelity"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-26T11:20:45.000Z"
+  },
+  {
+    "id": "bdee2a968ca58f29",
+    "slug": "university-of-oxford-allows-openai-to-train-ai-models-on-bodleian-library-data",
+    "title": "University of Oxford allows OpenAI to train AI models on Bodleian library data",
+    "tags": [
+      "University of Oxford",
+      "OpenAI",
+      "Bodleian library"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-26T11:08:52.000Z"
+  },
+  {
+    "id": "9be18edf98820cc5",
+    "slug": "why-cash-hoarding-in-the-uk-proves-the-world-still-craves-permissionless-money",
+    "title": "Why cash hoarding in the UK proves the world still craves permissionless money",
+    "tags": [
+      "UK"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-26T11:05:05.000Z"
+  },
+  {
+    "id": "89db8c3fc8e09f3a",
+    "slug": "anthropic-delays-ipo-to-november-amid-market-anticipation",
+    "title": "Anthropic delays IPO to November amid market anticipation",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-26T11:04:29.000Z"
+  },
+  {
+    "id": "d7848db31b4efd6f",
+    "title": "ECC Broadens Beyond Timeshare Into Property Mis-Selling Claims",
+    "summary": "European Consumer Claims has expanded from timeshare disputes into holiday parks, retirement property and overseas mortgage mis-selling since its 2016 founding.\nThe post ECC Broadens Beyond Timeshare Into Property Mis-Selling Claims appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/ecc-broadens-beyond-timeshare-into-property-mis-selling-claims/",
+    "source": "The Fintech Times",
+    "tags": [
+      "European Consumer Claims",
+      "The Fintech Times"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-26T11:00:11.000Z",
+    "fetchedAt": "2026-09-26T12:01:15.780Z",
+    "isDuplicateOf": null,
+    "content": "European Consumer Claims has expanded its scope beyond timeshare disputes. Since its founding in 2016, the organization now handles property mis-selling claims involving holiday parks, retirement properties, and overseas mortgages, according to a report by The Fintech Times.",
+    "content_ta": "European Consumer Claims நிறுவனம் டைம்ஷேர் தகராறுகளைத் தாண்டி தனது சேவைகளை விரிவுபடுத்தியுள்ளது. 2016-ல் தொடங்கப்பட்டதிலிருந்து, ஹாலிடே பார்க்ஸ், ஓய்வூதிய சொத்துக்கள் மற்றும் வெளிநாட்டு அடமான முறைகேடு தொடர்பான சொத்து விற்பனை புகார்களையும் இந்நிறுவனம் கையாண்டு வருவதாக The Fintech Times செய்தி வெளியிட்டுள்ளது.",
+    "slug": "ecc-broadens-beyond-timeshare-into-property-mis-selling-claims"
+  },
+  {
+    "id": "70e6074f48079706",
+    "title": "Oracle faces land dispute that threatens AI data center project",
+    "summary": "Oracle's AI data center project delays highlight the complex interplay between environmental concerns, regulatory hurdles, and financial risks.\nThe post Oracle faces land dispute that threatens AI data center project appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/oracle-project-jupiter-data-center-dispute/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Oracle"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-26T10:44:24.000Z",
+    "fetchedAt": "2026-09-26T12:01:15.780Z",
+    "isDuplicateOf": null,
+    "content": "Oracle is facing a land dispute that poses a significant threat to its planned AI data center project. This potential delay underscores the intricate challenges tech companies face, including environmental worries, strict regulatory hurdles, and associated financial risks when expanding their infrastructure.",
+    "content_ta": "Oracle நிறுவனத்தின் AI டேட்டா சென்டர் திட்டத்திற்கு நிலப்பிரச்சினை காரணமாக அச்சுறுத்தல் ஏற்பட்டுள்ளது. சுற்றுச்சூழல் கவலைகள், கடுமையான ஒழுங்குமுறை தடைகள் மற்றும் நிதி சார்ந்த சவால்கள் போன்ற சிக்கல்களை இந்த தாமதம் வெளிக்காட்டுகிறது.",
+    "slug": "oracle-faces-land-dispute-that-threatens-ai-data-center-project"
+  },
+  {
+    "id": "4ee53c34adafefea",
+    "title": "Hackers hijack AI accounts and servers to fuel a booming cyber crime economy",
+    "summary": "The rise of AI account hijacking fuels a growing cybercrime economy, complicating detection and straining cybersecurity resources globally.\nThe post Hackers hijack AI accounts and servers to fuel a booming cyber crime economy appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/hackers-hijack-ai-accounts-cyber-crime/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Crypto Briefing"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-26T10:38:35.000Z",
+    "fetchedAt": "2026-09-26T12:01:15.780Z",
+    "isDuplicateOf": null,
+    "content": "Cybercriminals are increasingly hijacking artificial intelligence accounts and servers to drive a growing underground economy. This emerging threat poses significant challenges for cybersecurity professionals, as unauthorized access to advanced AI tools complicates threat detection and strains resources globally, according to a report by Crypto Briefing.",
+    "content_ta": "சைபர் குற்றவாளிகள் செயற்கை நுண்ணறிவு கணக்குகளையும் சர்வர்களையும் அதிகளவில் ஹேக் செய்து, வளர்ந்துவரும் ஆன்லைன் குற்றவியல் பொருளாதாரத்தை ஊக்கப்படுத்துகின்றனர். மேம்பட்ட AI கருவிகளுக்கான அங்கீகரிக்கப்படாத அணுகல் அச்சுறுத்தலைக் கண்டறிவதைச் சிக்கலாக்குவதாலும் உலகளவில் பாதுகாப்பு வளங்களைச் சுமைக்குள்ளாக்குவதாலும், இந்த அச்சுறுத்தல் சைபர் பாதுகாப்பு நிபுணர்களுக்குப் பெரிய சவால்களை ஏற்படுத்துகிறது என்று Crypto Briefing தெரிவித்துள்ளது.",
+    "slug": "hackers-hijack-ai-accounts-and-servers-to-fuel-a-booming-cyber-crime-economy"
+  },
+  {
+    "id": "581df6cbce855bd8",
+    "slug": "kraken-users-can-register-for-oura-ipo-access-through-xstocks",
+    "title": "Kraken Users Can Register For Ōura IPO Access Through xStocks",
+    "tags": [
+      "Kraken",
+      "Ōura",
+      "xStocks",
+      "Payward Services",
+      "Nasdaq"
+    ],
+    "source": "Bitcoinist",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-26T10:30:00.000Z"
+  },
+  {
+    "id": "50491dedc6cac521",
+    "title": "Bear market fears grow; Bitcoin faces pressure despite $80K support",
+    "summary": "Investor caution amid potential bear market could dampen Bitcoin's growth prospects, highlighting the interconnectedness of financial markets.\nThe post Bear market fears grow; Bitcoin faces pressure despite $80K support appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/bear-market-fears-grow-bitcoin-faces-pressure-despite-80k-support/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-26T10:08:20.000Z",
+    "fetchedAt": "2026-09-26T12:01:15.780Z",
+    "isDuplicateOf": null,
+    "content": "Investor caution is growing amid potential bear market fears, putting downward pressure on Bitcoin. Despite managing to hold key support levels around the $80,000 mark, the leading cryptocurrency faces broader market challenges. Analysts note that cautious sentiment across financial markets could impact short-term growth prospects for digital assets.",
+    "content_ta": "கரடி சந்தை அச்சம் காரணமாக முதலீட்டாளர்கள் எச்சரிக்கையுடன் செயல்பட்டு வருவதால், Bitcoin விலைக்கு அழுத்தம் ஏற்பட்டுள்ளது. $80,000 ஆதரவு நிலையைத் தக்கவைக்க முயன்றாலும், முன்னணி cryptocurrency பரந்த சந்தை சவால்களை எதிர்கொள்கிறது. நிதிச் சந்தைகளில் நிலவும் இந்த எச்சரிக்கை நிலை, டிஜிட்டல் சொத்துகளின் குறுகிய கால வளர்ச்சி வாய்ப்புகளைப் பாதிக்கலாம் என்று ஆய்வாளர்கள் குறிப்பிடுகின்றனர்.",
+    "slug": "bear-market-fears-grow-bitcoin-faces-pressure-despite-80k-support"
+  },
+  {
+    "id": "ae4428f8b4dc699f",
+    "title": "Can Shiba Inu Hit A New All-Time High By 2029?",
+    "summary": "Shiba Inu (SHIB) hit an all-time high of $0.00008616 in October 2021, nearly five years ago. The asset…",
+    "hasSummary": true,
+    "link": "https://watcher.guru/news/can-shiba-inu-hit-a-new-all-time-high-by-2029",
+    "source": "Watcher.Guru",
+    "tags": [
+      "Shiba Inu"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-26T10:05:00.000Z",
+    "fetchedAt": "2026-09-26T12:01:15.780Z",
+    "isDuplicateOf": null,
+    "content": "Shiba Inu previously reached its all-time high of $0.00008616 in October 2021. As the popular cryptocurrency approaches five years since that milestone, analysts and investors are questioning whether SHIB can achieve a new record price peak by the year 2029.",
+    "content_ta": "Shiba Inu தனது வரலாற்றுச் சிறப்புமிக்க உச்ச விலையான $0.00008616-ஐ அக்டோபர் 2021-ல் எட்டியது. இந்த மைல்கல்லை எட்டி கிட்டத்தட்ட ஐந்து ஆண்டுகள் நெருங்கும் நிலையில், SHIB 2029-ம் ஆண்டுக்குள் மீண்டும் ஒரு புதிய விலை உச்சத்தை அடைய முடியுமா என்ற கேள்வியை முதலீட்டாளர்களும் ஆய்வாளர்களும் எழுப்புகின்றனர்.",
+    "slug": "can-shiba-inu-hit-a-new-all-time-high-by-2029"
+  },
+  {
+    "id": "745985cc455d5365",
+    "slug": "massive-gains-from-these-altcoins-as-bitcoin-btc-stalls-at-84k-weekend-watch",
+    "title": "Massive Gains From These Altcoins as Bitcoin (BTC) Stalls at $84K: Weekend Watch",
+    "tags": [
+      "Bitcoin",
+      "ENA",
+      "Binance"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-26T10:02:28.000Z"
+  },
+  {
+    "id": "0e1fb3a3a6c06ba5",
+    "title": "Shawbrook Provides £11m Inventory Backed Facility To Glasgow Distillery",
+    "summary": "The asset-based lending deal, secured against maturing Scotch whisky stock, refinances existing debt and adds working capital headroom for Glasgow Distillery Company.\nThe post Shawbrook Provides £11m Inventory Backed Facility To Glasgow Distillery appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/shawbrook-provides-11m-inventory-backed-facility-to-glasgow-distillery/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Shawbrook",
+      "Glasgow Distillery Company"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-26T10:00:17.000Z",
+    "fetchedAt": "2026-09-26T12:01:15.780Z",
+    "isDuplicateOf": null,
+    "content": "Shawbrook has provided an 11 million pound inventory-backed facility to Glasgow Distillery Company. The asset-based lending agreement is secured against maturing Scotch whisky stock. This deal allows the distillery to refinance its existing debt while also generating additional working capital headroom to support its ongoing business operations and future growth.",
+    "content_ta": "Glasgow Distillery Company-க்கு Shawbrook நிறுவனம் 11 மில்லியன் பவுண்டு மதிப்பிலான சரக்கு ஆதரவு நிதியுதவியை வழங்கியுள்ளது. முதிர்ச்சியடையும் ஸ்காட்ச் விக்கி ஸ்டாக் மூலம் பாதுகாக்கப்பட்ட இந்த கடன் ஒப்பந்தம், நிறுவனத்தின் தற்போதைய கடனைத் திருப்பிச் செலுத்தவும், அதன் வணிக வளர்ச்சிக்கான கூடுதல் மூலதனத்தைப் பெறவும் உதவுகிறது.",
+    "slug": "shawbrook-provides-11m-inventory-backed-facility-to-glasgow-distillery"
+  },
+  {
+    "id": "aa6c6c21b2879351",
+    "slug": "trump-rejects-iran-ceasefire-expects-bombing-after-midterms-will-oil-and-bitcoin-hold",
+    "title": "Trump Rejects Iran Ceasefire, Expects Bombing After Midterms: Will Oil and Bitcoin Hold?",
+    "tags": [
+      "Trump",
+      "Iran",
+      "Bitcoin"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-26T09:52:55.000Z"
+  },
+  {
+    "id": "c470341dd3e645df",
+    "slug": "ripple-pioneer-approves-nik-bougalis-returns-to-rewrite-xrp-ledger-core",
+    "title": "Ripple Pioneer Approves: Nik Bougalis Returns to Rewrite XRP Ledger Core",
+    "tags": [
+      "Ripple",
+      "XRP",
+      "Nik Bougalis",
+      "David Schwartz"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-26T09:41:05.000Z"
+  },
+  {
+    "id": "65e222e3fb3872b2",
+    "slug": "louisiana-woman-arrested-after-using-fake-social-security-numbers-to-collect-41-000-in-casino",
+    "title": "Louisiana Woman Arrested After Using Fake Social Security Numbers To Collect $41,000+ in Casino Jackpots",
     "tags": [
       "Louisiana",
       "Alexandria"
     ],
+    "source": "The Daily Hodl",
     "origin": "rss",
-    "pubDate": "2026-09-26T09:15:18.000Z",
-    "fetchedAt": "2026-09-26T09:36:07.761Z",
-    "isDuplicateOf": null,
-    "content": "A 43-year-old woman from Alexandria, Louisiana, was arrested by state police after allegedly using fake Social Security numbers to claim more than $41,000 in casino jackpots. Authorities booked the suspect on 18 counts of bank fraud and identity theft following an investigation into the fraudulent transactions.",
-    "content_ta": "லூசியானா மாநிலம் Alexandria-வைச் சேர்ந்த 43 வயது பெண் ஒருவர், போலி Social Security numbers-களைப் பயன்படுத்தி சூதாட்டக் கூடங்களில் $41,000-க்கும் அதிகமான பணத்தை மோசடியாகப் பெற்றதாக மாநில காவல்துறையினரால் கைது செய்யப்பட்டுள்ளார். இத்தகைய மோசடிச் செயல்கள் தொடர்பான விசாரணையைத் தொடர்ந்து, அந்தப் பெண் மீது 18 வங்கிக் மோச மற்றும் அடையாளத் திருட்டு வழக்குகள் பதிவு செய்யப்பட்டுள்ளன.",
-    "slug": "louisiana-woman-arrested-after-using-fake-social-security-numbers-to-collect-41-000-in-casino"
+    "hasContent": true,
+    "pubDate": "2026-09-26T09:15:18.000Z"
   },
   {
     "id": "a9dfc8cc69b92864",
+    "slug": "votevets-spends-millions-to-elect-democrats-shaping-midterms",
     "title": "VoteVets spends millions to elect Democrats, shaping midterms",
-    "summary": "VoteVets' investment in Iowa's Senate race underscores the strategic focus on pivotal states, potentially altering midterm election dynamics.\nThe post VoteVets spends millions to elect Democrats, shaping midterms appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/votevets-spends-millions-to-elect-democrats-shaping-midterms/",
-    "source": "CryptoBriefing",
     "tags": [
       "VoteVets",
       "Iowa",
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-26T09:08:10.000Z",
-    "fetchedAt": "2026-09-26T09:36:07.761Z",
-    "isDuplicateOf": null,
-    "content": "VoteVets is investing millions of dollars to support Democratic candidates in the upcoming midterm elections. A notable focus of their campaign spending includes the competitive Senate race in Iowa, highlighting a strategic effort to influence the balance of power in pivotal states and potentially shape the broader political dynamics.",
-    "content_ta": "எதிர்வரும் இடைக்க்த தேர்தல்களில் ஜனநாயகக் கட்சி வேட்பாளர்களை ஆதரிக்க VoteVets அமைப்பு பல மில்லியன் டாலர்களை முதலீடு செய்கிறது. ஐவாவில் நடைபெறும் செனட் தேர்தல் போட்டி அவர்களின் பிரச்சாரச் செலவுகளின் முக்கிய இலக்காக உள்ளது, இது முக்கிய மாநிலங்களில் அதிகார சமநிலையை பாதிக்கக்கூடிய ஒரு மூலோபாய முயற்சியை வெளிப்படுத்துகிறது.",
-    "slug": "votevets-spends-millions-to-elect-democrats-shaping-midterms"
+    "hasContent": true,
+    "pubDate": "2026-09-26T09:08:10.000Z"
   },
   {
     "id": "27d527f0fb2b67e6",
+    "slug": "bitget-ceo-gracy-chen-affirms-ipo-plans-despite-387-5m-security-breach",
     "title": "Bitget CEO Gracy Chen affirms IPO plans despite $387.5M security breach",
-    "summary": "Bitget's IPO plans amid a major security breach highlight resilience but also underscore the critical need for robust cybersecurity measures.\nThe post Bitget CEO Gracy Chen affirms IPO plans despite $387.5M security breach appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/bitget-ipo-plans-security-breach/",
-    "source": "CryptoBriefing",
     "tags": [
       "Bitget",
       "Gracy Chen"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-09-26T09:06:55.000Z",
-    "fetchedAt": "2026-09-26T09:36:07.761Z",
-    "isDuplicateOf": null,
-    "content": "Bitget CEO Gracy Chen has affirmed the company's ongoing plans for an initial public offering, despite facing a major security breach resulting in significant financial losses. The incident highlights the resilience of the exchange while underscoring the critical importance of implementing robust cybersecurity measures to protect digital assets and maintain user trust moving forward.",
-    "content_ta": "Bitget CEO Gracy Chen, நிறுவனம் பெரும் நிதி இழப்பை ஏற்படுத்திய ஒரு பாதுகாப்பு மீறலை எதிர்கொண்ட போதிலும், ஐபிஓ (IPO) திட்டங்கள் தொடரும் என்று உறுதிப்படுத்தியுள்ளார். இந்தச் சம்பவம் நிறுவனத்தின் மீளும் திறனை வெளிப்படுத்துவதோடு, டிஜிட்டல் சொத்துக்களைப் பாதுகாப்பதற்கும் பயனர் நம்பிக்கையைப் பேணுவதற்கும் வலுவான சைபர் பாதுகாப்பு நடவடிக்கைகளின் அவசியத்தையும் அடிக்கோடிட்டுக் காட்டுகிறது.",
-    "slug": "bitget-ceo-gracy-chen-affirms-ipo-plans-despite-387-5m-security-breach"
+    "hasContent": true,
+    "pubDate": "2026-09-26T09:06:55.000Z"
   },
   {
     "id": "33495e285a7d12a8",
+    "slug": "bitcoin-posts-on-x-can-pay-even-when-bitcoin-doesn-t",
     "title": "Bitcoin posts on X can pay even when Bitcoin doesn’t",
-    "summary": "You don't have to own Bitcoin to make money from people getting excited about it. On X, just posting about it can be a business in itself, and the company now wants £207,384 back from people it alleges took that business a bit too far. In its Sept. 17 lawsuit, X accuses Vivek Kumar Sen, […]\nThe post Bitcoin posts on X can pay even when Bitcoin doesn’t appeared first on CryptoSlate.",
-    "hasSummary": true,
-    "link": "https://cryptoslate.com/bitcoin-posts-on-x-can-pay-even-when-bitcoin-doesnt/",
-    "source": "CryptoSlate",
     "tags": [
       "Bitcoin",
       "X",
       "Vivek Kumar Sen"
     ],
+    "source": "CryptoSlate",
     "origin": "rss",
-    "pubDate": "2026-09-26T09:05:19.000Z",
-    "fetchedAt": "2026-09-26T09:36:07.761Z",
-    "isDuplicateOf": null,
-    "content": "X is taking legal action regarding users allegedly exploiting Bitcoin discussions for profit. According to a lawsuit filed by the company, posting about the cryptocurrency on X can become a lucrative business, prompting the platform to seek financial recovery from individuals accused of taking this practice too far.",
-    "content_ta": "Bitcoin பற்றிய விவாதங்களை பயன்படுத்தி லாபம் ஈட்டியதாகக் கூறப்படும் பயனர்கள் மீது X நிறுவனம் சட்ட நடவடிக்கை எடுத்துள்ளது. நிறுவனத்தால் தாக்கல் செய்யப்பட்ட வழக்கின்படி, X-ல் கிரிப்டோகரன்சி பற்றி பதிவிடுவது லாபகரமான தொழிலாக மாறக்கூடும், இதனால் இந்த நடைமுறையை எல்லை மீறி பயன்படுத்தியதாகக் குற்றம் சாட்டப்பட்ட நபர்களிடமிருந்து நிதி மீட்பை அந்த தளம் கோருகிறது.",
-    "slug": "bitcoin-posts-on-x-can-pay-even-when-bitcoin-doesn-t"
+    "hasContent": true,
+    "pubDate": "2026-09-26T09:05:19.000Z"
   },
   {
     "id": "200bcccd56f4ac5c",
@@ -599,224 +843,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-25T22:34:37.000Z"
-  },
-  {
-    "id": "bb69531e6d66e9ad",
-    "slug": "ondo-puts-blackrock-designed-portfolios-into-single-onchain-tokens",
-    "title": "Ondo Puts BlackRock-Designed Portfolios Into Single Onchain Tokens",
-    "tags": [
-      "Ondo",
-      "BlackRock",
-      "Ondo Global Markets"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T22:30:00.000Z"
-  },
-  {
-    "id": "ca0dce0319b1ba44",
-    "slug": "86-of-real-world-asset-perp-volume-now-trades-onchain",
-    "title": "86% of real world asset perp volume now trades onchain",
-    "tags": [
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T22:18:48.000Z"
-  },
-  {
-    "id": "2d9fbfe5e61a00da",
-    "slug": "goldman-warns-declining-token-prices-may-hinder-investment-growth",
-    "title": "Goldman warns declining token prices may hinder investment growth",
-    "tags": [
-      "Goldman Sachs"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T22:17:53.000Z"
-  },
-  {
-    "id": "50ca63308185d7df",
-    "slug": "talis-launches-onchain-structured-markets-protocol-for-tokenized-stocks-on-robinhood-chain",
-    "title": "TALIS launches onchain structured markets protocol for tokenized stocks on Robinhood Chain",
-    "tags": [
-      "TALIS",
-      "Robinhood Chain"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T22:16:55.000Z"
-  },
-  {
-    "id": "2ce3afe533405cfd",
-    "slug": "claude-prepares-liquid-glass-ui-revamp-for-ios-app",
-    "title": "Claude prepares Liquid Glass UI revamp for iOS app",
-    "tags": [
-      "Claude",
-      "Apple"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T22:16:34.000Z"
-  },
-  {
-    "id": "40b97b4cc8fc7465",
-    "slug": "ben-ray-lujan-urges-senate-leadership-to-form-ai-select-committee",
-    "title": "Ben Ray Luján urges Senate leadership to form AI select committee",
-    "tags": [
-      "Ben Ray Luján",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T22:15:27.000Z"
-  },
-  {
-    "id": "397f3c7622bae6ef",
-    "slug": "goldman-sachs-calculates-the-revenue-hyperscalers-need-to-justify-1-7t-in-ai-capex",
-    "title": "Goldman Sachs calculates the revenue hyperscalers need to justify $1.7T in AI capex",
-    "tags": [
-      "Goldman Sachs"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T22:05:06.000Z"
-  },
-  {
-    "id": "61a23b4fcc0727e1",
-    "slug": "micron-investors-brace-for-revenue-shifts-amid-nvidia-product-ramp",
-    "title": "Micron investors brace for revenue shifts amid Nvidia product ramp",
-    "tags": [
-      "Micron",
-      "Nvidia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T22:03:15.000Z"
-  },
-  {
-    "id": "27d661a38485167f",
-    "slug": "zano-halts-economic-activity-due-to-inflation-bug-plans-rollback",
-    "title": "Zano halts economic activity due to inflation bug, plans rollback",
-    "tags": [
-      "Zano"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T22:00:46.000Z"
-  },
-  {
-    "id": "b35cc6282d76d48c",
-    "slug": "intesa-sanpaolo-s-fideuram-loses-95m-in-ai-messaging-scam",
-    "title": "Intesa Sanpaolo’s Fideuram loses €95M in AI messaging scam",
-    "tags": [
-      "Intesa Sanpaolo",
-      "Fideuram"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T21:54:27.000Z"
-  },
-  {
-    "id": "0e5aa28abef229a7",
-    "slug": "meta-s-muse-ai-agent-partners-with-plaid-to-access-12-000-financial-institutions",
-    "title": "Meta’s Muse AI agent partners with Plaid to access 12,000 financial institutions",
-    "tags": [
-      "Meta",
-      "Plaid"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T21:53:01.000Z"
-  },
-  {
-    "id": "f44f08cf94c54f48",
-    "slug": "strategy-surpasses-palantir-in-trading-volume-becomes-20th-most-traded-stock-in-us",
-    "title": "Strategy surpasses Palantir in trading volume, becomes 20th most-traded stock in US",
-    "tags": [
-      "Strategy",
-      "Palantir",
-      "Bitcoin",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T21:45:07.000Z"
-  },
-  {
-    "id": "c20ff4005e4bc218",
-    "slug": "former-australian-pm-kevin-rudd-criticizes-sam-altman-over-openai-breach",
-    "title": "Former Australian PM Kevin Rudd criticizes Sam Altman over OpenAI breach",
-    "tags": [
-      "Kevin Rudd",
-      "Sam Altman",
-      "OpenAI",
-      "Australia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T21:44:43.000Z"
-  },
-  {
-    "id": "e08e021e4ae6815a",
-    "slug": "nvidia-positions-itself-as-key-partner-in-quantum-computing-with-nvqlink",
-    "title": "Nvidia positions itself as key partner in quantum computing with NVQLink",
-    "tags": [
-      "Nvidia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T21:42:51.000Z"
-  },
-  {
-    "id": "3ed55357e08be297",
-    "slug": "openai-notifies-dozens-of-organizations-that-its-ai-models-disrupted-their-websites",
-    "title": "OpenAI notifies dozens of organizations that its AI models disrupted their websites",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T21:42:43.000Z"
-  },
-  {
-    "id": "1d5de175afbc7514",
-    "slug": "microsoft-stock-closes-at-highest-level-of-the-year-after-copilot-ai-expansion",
-    "title": "Microsoft stock closes at highest level of the year after Copilot AI expansion",
-    "tags": [
-      "Microsoft"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T21:35:29.000Z"
-  },
-  {
-    "id": "de2f213137a8fbaf",
-    "slug": "tesla-faces-employee-pushback-in-optimus-robot-training-efforts",
-    "title": "Tesla faces employee pushback in Optimus robot training efforts",
-    "tags": [
-      "Tesla",
-      "Optimus"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-25T21:34:07.000Z"
   }
 ]
