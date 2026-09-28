@@ -1,5 +1,447 @@
 [
   {
+    "id": "1c84bcc94769f3b7",
+    "slug": "nubank-in-talks-to-take-over-monzo",
+    "title": "Nubank in talks to take over Monzo",
+    "tags": [
+      "Nubank",
+      "Monzo",
+      "United Kingdom",
+      "Brazil"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-28T08:51:00.000Z"
+  },
+  {
+    "id": "62126569bed41eed",
+    "slug": "florida-resident-accused-of-draining-130-000-from-elderly-man-s-bank-account",
+    "title": "Florida Resident Accused of Draining $130,000 From Elderly Man’s Bank Account",
+    "tags": [
+      "Florida",
+      "Miami",
+      "Apple"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-28T08:39:24.000Z"
+  },
+  {
+    "id": "3d426ce8674b4d6a",
+    "title": "How SaaS Platforms Monetize Payments and Who Keeps the Margin",
+    "summary": "A few years ago, embedded payments differentiated vertical SaaS. Today, merchants expect to take payments inside the software they already run their business on. Offering payments is now the baseline, and platforms are competing on how much of each transaction they keep.\nThat share varies more than most founders expect. Toast, the reference case for SaaS payments, earned $5.04 billion in fintech revenue in 2025 but $1.15 billion in fintech gross profit. What separates the two numbers is control over pricing, providers, and risk.\nSo let's get into where SaaS payments money really comes from, the five ways platforms monetize payments and what each one costs in control, where a single-provider setup quietly caps your margin, and who needs to own all of this once it's live.\nFollow the fee: who gets paid before you do\nEvery card payment your merchants take is split several ways before anyone books it as revenue. Scheme fees go to Visa and Mastercard. The acquirer and processor take their cut. What's left between that cost stack and the rate your merchant pays is the only pool a platform ever earns from. Everything else is pass-through that shows up in your revenue line.\nThat's why Toast's numbers look the way they do. Gross payments revenue is large because it includes money that was never yours to keep. The margin is the spread, and three levers set the spread: who prices the merchant, who picks the provider, and who carries the risk.\nLet's put numbers on it. Imagine a vertical SaaS platform with 1,500 merchants, each processing $60,000 a month. That's $90 million a month, or $1.08 billion a year. On a referral agreement, the platforms we talk to usually see somewhere between 5 and 15 basis points — about $1.1 million a year at the midpoint. Once the platform sets merchant pricing itself, the take on card volume typically moves into the 30 to 100 basis point range. At 50 basis points, the same merchants are worth $5.4 million a year. Same customers, same software, five times the payments income. The only thing that changed is who owns the pricing decision. These ranges are a starting frame from what we see in the market, not a published tariff, but the gap between them holds up across verticals.\nFive ways to monetize payments, ranked by control\nPayments monetization works like a ladder. Every rung up gives you a bigger share of the margin and more of the responsibility that comes with it.\n\nHere's how I'd read it.\nReferral partnership. You send merchants to a processor and collect a fee. Nothing to build, nothing to underwrite, and almost nothing to keep. The processor owns onboarding, pricing, and the merchant relationship, which means it also owns the data you'd need to understand why merchants churn.\nEmbedded payments through a platform PSP. Checkout and onboarding live inside your product, and you earn a share of the processing fee or set a markup on top of the provider's price. This is where most vertical SaaS payments programs start, and for good reason: it launches in weeks. The catch is that the provider's price list becomes your floor. You can't negotiate against a second acquirer you don't have.\nPayFac-as-a-Service. A partner holds the registration and the sponsor bank relationship, while you control sub-merchant pricing and most of the onboarding experience. More margin, shared liability, and still one provider underneath.\nRegistered payment facilitator. You onboard sub-merchants under your own master merchant agreement. Full pricing control, full liability for fraud and chargebacks, and a compliance program to match. It only pays off at the volume where a risk team costs less than the margin you'd otherwise hand over.\nYour own payment gateway with multiple acquirers. You run the payment layer yourself: routing, provider selection, reconciliation, the merchant portal. Your cost base stops being one provider's price list and becomes the best available route for each transaction. This rung sits on top of a licensing model rather than replacing it, and it's the point where a platform stops reselling payments and starts operating them.\nWhere a single-provider setup caps your margin\nThe real limit of the embedded model is having one provider, because that provider sets your cost base, your approval rate, and your market coverage all at once.\nMerchants stopped accepting that trade-off a while ago. Our State of Payment Maturity research, built on 672 business assessments worldwide, found that single-provider setups dropped from 41.3% to 33.5% in a single year. Among businesses with a global footprint, only 12.1% still run on one provider, and 24.5% run on ten or more. If your vertical sells across borders, your merchants' own payment setups are already more diverse than the one you're offering them.\nSpeed is the second cap. In the same research, 27.8% of businesses said adding a new provider or payment method is either a significant project every time or takes several months. For a SaaS platform, that isn't an engineering inconvenience. It's the gap between signing a merchant in a new market and being able to accept their customers' local payment methods.\nFor platforms that already run on an embedded provider, there's a practical middle step: add routes next to it instead of ripping it out. That's the job of our https://corefy.com/solutions/products/payment-bridge\" style=\"text-decoration: none;\">Payment Bridge, which adds payment providers and local methods to an existing setup without a migration. It lets you test whether a second route actually moves approval rates and costs before you commit to a bigger infrastructure change.\nWhen the answer is yes, the next step is owning the layer. For a platform, the right payment gateway for SaaS is one that carries your brand and connects to whichever acquirers your merchants need. A https://corefy.com/white-label-payment-gateway\" style=\"text-decoration: none;\">white-label payment gateway with ready-made provider integrations gets you there without spending two years building one, and it puts you on a cost base you negotiate instead of one you inherit.\nWhat to sell on top of the processing fee\nProcessing is the base layer. The platforms with the strongest payments monetization build a second layer on the same flow of funds. Not all of it fits every vertical, so here's how I'd prioritize.\nPayouts. If your merchants pay anyone — contractors, sellers, hosts, drivers — payouts are a product, not a cost. Merchants will pay for faster settlement, and it runs on rails you already need.\nCurrency conversion. Multi-currency pricing and settlement earn on the spread and solve a real problem for merchants selling cross-border.\nRecurring billing and retries. In subscription-heavy verticals like fitness, education, and memberships, recovered renewals are revenue that both you and the merchant can see on the dashboard.\nChargeback and fraud tooling. Merchants in high-dispute categories value this more than a lower headline rate.\nCapital. Transaction history is a better underwriting signal than a bank statement. But lending needs a balance sheet or a funding partner, so it belongs later, once the payments base is stable.\nEach of these earns more than processing alone, and together they're what turns a payments feature into a financial product line. But they all depend on the same thing: owning the flow of funds first. A platform that can't see its merchants' transactions in one place can't price payouts, spot a failing renewal, or underwrite a cash advance.\nNobody earns margin on something nobody owns\nMost SaaS payments programs stall for an organizational reason: payments get launched by product, sold by sales, and owned by no one.\nOur research shows how common that is. Only 41% of businesses have a dedicated payment manager or team, and in the 500 to 5,000 monthly transactions bracket, 67.4% still treat payments as a side task. Our analysis of 112 payment management job descriptions points to what that owner should watch first: approval rate, the most cited KPI in the role. Without someone tracking it by provider, method, and market, a multi-provider stack is just a more expensive single-provider stack.\nBefore you move up the ladder, make sure you have:\nAn owner accountable for approval rate, cost per transaction, and dispute ratio.\nDaily data per merchant, not a monthly statement from your provider.\nA written risk policy covering who you board, who you refuse, and what triggers a reserve.\nPricing a merchant can understand in one sentence.\nWhere durable payments margin comes from\nEmbedded payments proved that software companies can earn more from moving money than from selling seats. The next phase is about keeping more of it. Platforms that treat payments as a revenue share will keep negotiating from one provider's price list. Platforms that run their own routing, provider mix, and pricing write that price list themselves.\nIf I were planning it from scratch, I'd start embedded and prove adoption. Then I'd hire the owner early, add a second route before I needed it, and move to my own gateway once the volume made the spread worth defending. The platforms that do well here are rarely the ones with the most merchants. They're the ones who know exactly how much of every transaction they keep, and why.\n#PaymentMonetizationOleg IshchenkoSales ManagerCorefy28 Sep, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/blog/paymentmonetization/how-saas-platforms-monetize-payments-and-who-keeps-margin",
+    "source": "Financial IT",
+    "tags": [
+      "Corefy",
+      "Toast",
+      "Visa",
+      "Mastercard"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-28T08:38:02.000Z",
+    "fetchedAt": "2026-09-28T08:52:29.469Z",
+    "isDuplicateOf": null,
+    "content": "SaaS platforms are increasingly monetizing payments to boost revenue beyond software subscriptions. While many start with referral partnerships or embedded payment providers, platforms can significantly increase their margin by taking control of pricing, routing, and risk management. Transitioning from a single-provider setup to multi-provider routing and white-layer gateways allows SaaS companies to capture a larger share of transaction fees and build advanced financial product lines.",
+    "content_ta": "SaaS பிளாட்ஃபார்ம்கள் மென்பொருள் சந்தாக்களுக்கு அப்பால் வருவாயை அதிகரிக்க கட்டண சேவைகளை monetize செய்கின்றன. பல நிறுவனங்கள் பரிந்துரை கூட்டாண்மை அல்லது எம்படெட் பேமெண்ட் வழங்குநர்களுடன் தொடங்கினாலும், பிளாட்ஃபார்ம்கள் விலை நிர்ணயம், ரூட்டிங் மற்றும் ரிஸ்க் மேனேஜ்மெண்ட் ஆகியவற்றைக் கட்டுப்படுத்துவதன் மூலம் தங்கள் மார்ஜினை கணிசமாக அதிகரிக்க முடியும். ஒற்றை வழங்குநர் அமைப்பிலிருந்து பல வழங்குநர் ரூட்டிங் மற்றும் ஒயிட்-லேபிள் கேட்வேக்களுக்கு மாறுவது SaaS நிறுவனங்கள் பரிவர்த்தனை கட்டணங்களில் பெரிய பங்கைப் பெற அனுமதிக்கிறது.",
+    "slug": "how-saas-platforms-monetize-payments-and-who-keeps-the-margin"
+  },
+  {
+    "id": "fb9c998c91940d87",
+    "title": "Friendly Fraud Could Be Twice as Big as Merchants Think, Warns Chargebacks911",
+    "summary": "Merchants could be significantly underestimating the proportion of chargebacks caused by friendly fraud, leaving businesses at risk of making fraud prevention and dispute management decisions based on an incomplete picture of where their losses originate, according to Chargebacks911, a global leader in dispute resolution and chargeback management.\nThe company's 2026 Chargeback Field Report found that merchants estimate friendly fraud accounts for an average of 43.8% of their chargebacks. Yet Visa data cited in the report suggests the figure could be as high as 75%, while Chargebacks911's own internal data puts it at 86%.\nThe figures are drawn from different datasets and should not be treated as a like-for-like comparison. But the scale of the gap points to a fundamental problem for merchants: identifying whether a chargeback stems from criminal fraud, legitimate customer dissatisfaction or first-party misuse remains extremely difficult and without that distinction, fraud prevention investment may be directed toward the wrong problems.\n\"If you think friendly fraud represents less than half your chargebacks when the real figure could be much higher, every decision built on that assumption is potentially miscalibrated,\" said Monica Eaton, Founder and CEO of Chargebacks911. \"You can spend more on fraud prevention and still spend it in the wrong places. You are not managing the problem you have but the problem you think you have.\"\nUnlike criminal fraud, friendly fraud often begins with a legitimate transaction made by the genuine cardholder. The problem emerges later, when that transaction is disputed because of confusion, buyer's remorse, refund frustration or deliberate abuse. That distinction makes first-party misuse particularly difficult to identify. A transaction can pass fraud checks precisely because the person, card and purchase are legitimate. When the chargeback subsequently arrives, the information available to merchants may still not clearly establish why it happened.\nChargebacks911's research found that 74.4% of merchants consider friendly fraud a moderate or significant concern. Among enterprise merchants, 83.4% of those reporting a change said they had observed an increase in friendly fraud over the past three years.\nThe issue is gaining wider attention across the industry. The British Retail Consortium's \"Tackling Customer Fraud: Progress to Date\" report found that when specialist bank teams at HSBC, Lloyds and Barclays reviewed cases that retailers suspected involved first-party fraud, banks confirmed evidence of first-party fraud or found sufficient evidence to warrant further investigation in 83% of cases reviewed.\nFor Eaton, the problem has significant consequences for how merchants allocate resources.\n\"Friendly fraud is not just being underestimated but completely misdiagnosed,\" Eaton said. \"Criminal fraud and first-party misuse can result in the same outcome for a merchant — lost revenue — but they do not begin in the same place and they cannot always be addressed in the same way. If businesses classify too much first-party misuse as criminal fraud, they risk investing more heavily in stopping the wrong threat while failing to challenge disputes they may have been able to prevent or contest.\"\nThe warning comes as merchants prepare for the peak holiday trading period, when higher transaction volumes can increase exposure to fraud, refunds and subsequent disputes. The challenge is particularly acute for online merchants, where legitimate purchases can later become chargebacks weeks after the original transaction.\nClosing the gap requires merchants to look beyond individual fraud decisions and build a clearer view of what is driving disputes over time. That means connecting transaction, customer and dispute data using AI and machine learning to identify patterns of first-party misuse that are invisible when cases are reviewed individually and continuously measuring outcomes across the full dispute lifecycle. Chargebacks911's Unified Dispute Management System (UDMS) is designed to provide exactly that integrated view, while ResolveLab delivers the continuous performance measurement merchants need to understand whether their fraud investments are being directed at the right problems.\n\"More fraud technology will not solve a visibility problem on its own,\" Eaton added. \"Before deciding where the next dollar of fraud investment should go, merchants need confidence that they understand the problem they are actually paying to solve.\"\nWith search interest in friendly fraud reaching an all-time high in 2026 and almost three-quarters of merchants now expressing moderate or significant concern, Eaton believes the industry has moved beyond debating whether first-party misuse is a serious problem.\n\"The question is whether businesses can see it accurately enough to respond,\" she said. \"You cannot invest intelligently against a problem you cannot measure.\"\nNoYesFraud Detection28 Sep, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/fraud-detection/friendly-fraud-could-be-twice-big-merchants-think-warns-chargebacks911",
+    "source": "Financial IT",
+    "tags": [
+      "Chargebacks911",
+      "Visa",
+      "HSBC",
+      "Lloyds",
+      "Barclays"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-28T08:29:24.000Z",
+    "fetchedAt": "2026-09-28T08:52:29.469Z",
+    "isDuplicateOf": null,
+    "content": "Merchants may be significantly underestimating friendly fraud, according to a report by Chargebacks911. While businesses estimate that friendly fraud accounts for under half of their chargebacks, internal data and industry figures suggest the actual rate could be much higher. Experts warn that misdiagnosing these disputes leads companies to invest in the wrong prevention tools, leaving them vulnerable to ongoing revenue losses.",
+    "content_ta": "Chargebacks911 வெளியிட்ட அறிக்கையின்படி, வணிகர்கள் friendly fraud எனப்படும் முதல் தரப்பு மோசடியை குறைவாக மதிப்பிடுவதாகக் கூறப்படுகிறது. வணிகர்கள் தங்களது chargebacks-ல் பாதிக்கும் குறைவான பங்கை மட்டுமே இந்த மோசடி குறிப்பதாக கருதுகின்றனர், ஆனால் உண்மையான விகிதம் மிகவும் அதிகமாக இருக்கலாம் என்று தரவுகள் தெரிவிக்கின்றன. இந்த சிக்கலை தவறாக புரிந்துகொள்வது நிறுவனங்களை தவறான தடுப்பு கருவிகளில் முதலீடு செய்ய தூண்டும் என்று நிபுணர்கள் எச்சரிக்கின்றனர்.",
+    "slug": "friendly-fraud-could-be-twice-as-big-as-merchants-think-warns-chargebacks911"
+  },
+  {
+    "id": "d0b150905c055c96",
+    "slug": "jumper-to-launch-jump-token-sale-on-legion-as-it-spins-out-to-build-the-super-app-for-onchain",
+    "title": "Jumper to Launch JUMP Token Sale on Legion as it Spins Out to Build the Super-App for Onchain Finance",
+    "tags": [
+      "Jumper",
+      "LI.FI",
+      "Legion",
+      "British Virgin Islands"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-28T08:17:12.000Z"
+  },
+  {
+    "id": "01295107a4296f85",
+    "slug": "is-crypto-uptober-coming-analyzing-history-of-most-bullish-month",
+    "title": "Is Crypto Uptober Coming? Analyzing History of Most Bullish Month",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-28T08:10:00.000Z"
+  },
+  {
+    "id": "c1851e622020f158",
+    "slug": "usepaid-pauses-x-money-payouts-after-1-54m-fee-surge-from-pump-fun-launches",
+    "title": "UsePaid Pauses X Money Payouts After $1.54M Fee Surge From Pump.fun Launches",
+    "tags": [
+      "UsePaid",
+      "Pump.fun"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-28T08:05:52.000Z"
+  },
+  {
+    "id": "9dd197fcd3072048",
+    "slug": "dogecoin-etfs-hit-record-2-89m-inflows-are-doge-bulls-in-control",
+    "title": "Dogecoin ETFs hit record $2.89M inflows – Are DOGE bulls in control?",
+    "tags": [
+      "Dogecoin"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-28T08:00:44.000Z"
+  },
+  {
+    "id": "c516473fdf0eee66",
+    "slug": "uk-parliament-presses-bank-ceos-on-crypto-banking-access",
+    "title": "UK Parliament Presses Bank CEOs on Crypto Banking Access",
+    "tags": [
+      "UK Parliament"
+    ],
+    "source": "The Fintech Times",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-28T08:00:12.000Z"
+  },
+  {
+    "id": "ae2230a11dfef28a",
+    "slug": "iranian-president-criticized-by-beigi-s-brother-over-protester-crackdown",
+    "title": "Iranian president criticized by Beigi’s brother over protester crackdown",
+    "tags": [
+      "Iran"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-28T07:55:59.000Z"
+  },
+  {
+    "id": "4351fceac037c9e2",
+    "slug": "gold-and-silver-lose-1-trillion-in-a-day-as-fed-rate-hike-bets-rise",
+    "title": "Gold and Silver Lose $1 Trillion in a Day as Fed Rate Hike Bets Rise",
+    "tags": [
+      "Federal Reserve",
+      "Gold",
+      "Silver"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-28T07:53:49.000Z"
+  },
+  {
+    "id": "d725aafa2d2092dd",
+    "slug": "redotpay-completes-financial-audit-as-it-presses-ahead-with-u-s-ipo-plans",
+    "title": "RedotPay completes financial audit as it presses ahead with U.S. IPO plans",
+    "tags": [
+      "RedotPay",
+      "United States"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-28T07:50:00.000Z"
+  },
+  {
+    "id": "b15c0f3ff2838ee0",
+    "slug": "rhode-island-state-police-arrest-four-in-newport-bank-fraud-scheme",
+    "title": "Rhode Island State Police Arrest Four in Newport Bank Fraud Scheme",
+    "tags": [
+      "Rhode Island State Police",
+      "Centreville Bank",
+      "Newport",
+      "Rhode Island"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-28T07:49:21.000Z"
+  },
+  {
+    "id": "79dda45c483816f8",
+    "title": "UnionPay Unveils Smart Payment Service Support Plan, Facilitating Cross-Border Payments for APEC China Year",
+    "summary": "On September 24, UnionPay officially released the \"Qianhai Smart Payment Service Support Plan for the 2026 APEC 'China Year',\" aimed at facilitating payments for global visitors to Shenzhen.\nUnionPay has developed a comprehensive product matrix encompassing bank cards, QR code payments, and mobile Pay (mobile contactless solutions). Leveraging its core solutions, UnionPay is breaking down barriers to inbound payments by enabling the direct use of international UnionPay cards and partner wallets in China's mainland and by allowing international UnionPay cards to be added to China-based wallets. Inbound visitors can swipe international UnionPay cards directly, or add them to mobile Pay services such as Apple Pay for tap-and-go payments. In terms of QR code payments, over 200 overseas partner wallets from more than 37 countries and regions can read and process UnionPay QR codes in China's mainland. Alternatively, cardholders can also link their UnionPay cards to mobile apps such as the Nihao China App, Alipay, and WeChat Pay for QR code payments. Notably, in addition to international UnionPay cards, the Nihao China App supports top-up to the in-app Tour Wallet from bank cards issued by Visa, MasterCard, JCB and Diners Club.\nAddressing pain points such as language barriers for foreign nationals, UnionPay has worked with partners to launch the AI-powered smart large-screen POS terminal and the P18 smart multilingual POS terminal, which support voice-based interaction and real-time translation in 14 languages, including Chinese, English, Japanese, Korean, and French. These terminals have integrated functions such as international card acceptance and departure tax refund guidance, enabling visitors to complete the entire process without human assistance. Additionally, UnionPay will soon launch smart glasses integrated with the Nihao China App, allowing international visitors to enjoy smart payments.\nUnionPay continues to enhance its acceptance environment. It has brought payment acceptance quality in key commercial districts—such as Uniway, Chow Tai Fook, K11, and Sea World—up to the standards of \"Shenzhen Seamless Payment Commercial Districts\". UnionPay has also established a regular mechanism for payment service specialists, and provides training on the use of Nihao China App as well as international cards and wallets. It has also built the \"Nihao Shenzhen\" AI-powered Smart Payment Service Zone at Uniway, integrating multilingual terminals, international card acceptance, departure tax refund, and inbound payment guidance. A total of 38 key merchants have completed acceptance upgrades for international cards and wallets, enhancing the convenience and success rate of multiple payment methods, including cards, QR codes, and mobile Pay for international visitors.\nIn addition to providing a comprehensive product matrix and strengthening the acceptance environment, UnionPay is also launching a promotional campaign in Qianhai, offering a 30% discount at all the participating merchants with savings of up to RMB 600 per transaction. International visitors can easily participate in the promotion using their bank cards or mobile Pay products, or by making QR payments.\nNoYesPayments28 Sep, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/payments/unionpay-unveils-smart-payment-service-support-plan-facilitating-cross-border-payments",
+    "source": "Financial IT",
+    "tags": [
+      "UnionPay",
+      "APEC",
+      "Shenzhen",
+      "Apple Pay",
+      "Alipay"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-28T07:43:38.000Z",
+    "fetchedAt": "2026-09-28T08:52:29.469Z",
+    "isDuplicateOf": null,
+    "content": "UnionPay has launched the Qianhai Smart Payment Service Support Plan to facilitate cross-border payments for global visitors ahead of the APEC China Year. The initiative introduces a comprehensive product matrix including bank cards, QR code payments, and mobile Pay solutions. It also features AI-powered multilingual POS terminals, enhanced acceptance in key commercial districts, and special promotional discounts to improve the payment experience for international travelers in Shenzhen.",
+    "content_ta": "APEC China Year நிகழ்வுக்கான உலகளாவிய பயணிகளின் எல்லை கடந்த கட்டணச் செலுத்துதல்களை எளிதாக்கும் வகையில் யூனியன்பே நிறுவனம் Qianhai Smart Payment Service Support Plan-ஐ அறிமுகப்படுத்தியுள்ளது. இந்தத் திட்டமானது வங்கி அட்டைகள், QR குறியீட்டு முறைகள் மற்றும் மொபைல் பே தீர்வுகள் உள்ளிட்ட விரிவான தயாரிப்புகளை வழங்குகிறது. மேலும், AI தொழில்நுட்பம் கொண்ட பன்மொழி POS கருவிகள், முக்கிய வணிக வளாகங்களில் மேம்படுத்தப்பட்ட சேவைகள் மற்றும் சிறப்புச் சலுகைகள் மூலம் ஷென்சென் நகருக்கு வரும் வெளிநாட்டுப் பயணிகளின் கட்டணச் செலுத்துதல் அனுபவம் மேம்படுத்தப்பட்டுள்ளது.",
+    "slug": "unionpay-unveils-smart-payment-service-support-plan-facilitating-cross-border-payments-for-apec"
+  },
+  {
+    "id": "eb9ae5a293e129d1",
+    "title": "HSBC Advances Digital Trade with New Document Checking Solution",
+    "summary": "HSBC has today announced Smart Checking, an AI-powered solution designed to transform and standardise the way trade finance documentation is processed, traced and checked at the bank. This marks a significant step forward in the digitalisation of documentary trade and reflects HSBC’s commitment to using technology to make trade finance more consistent and faster to process.\nThe solution combines HSBC’s proprietary AI with the expertise of its trade specialists to read, interpret and check trade documents at scale, enabling AI to handle high-volume, repetitive tasks while freeing experienced specialists to apply their judgement where it has the greatest impact.\nFor clients, faster document processing can help accelerate time to payment, providing greater certainty and enabling businesses to access liquidity and working capital sooner.\nSmart Checking is built on HSBC’s extensive experience and scale in documentary trade, supported by its substantial repository of trade finance documentation and the knowledge of specialists around the world who were instrumental in shaping and testing the solution. They also helped define how exceptions should be presented, ensuring the workflow reflects real-world checking practices. Smart Checking is currently being used in the United Kingdom, Hong Kong, and the United Arab Emirates, with plans for a full production roll out globally over time.\nThomas Elliott, Chief Operating Officer, Global Trade Solutions, HSBC, said: “Smart Checking is an ideal combination of AI and human expertise. AI handles the scale and complexity of documentary trade, while human judgement is essential to understanding exceptions and making the decisions that matter. By co-creating the solution with our trade experts, we are building technology that boosts efficiency, practicality and innovation.\n“Smart Checking is designed around compliance and policy requirements, with confidence-based workflows determining where automation is appropriate and where human review is required. With faster document handling, this can shorten the time to payment for our clients, which can improve certainty and help businesses unlock liquidity and working capital earlier.”\nDocumentary trade at HSBC involves a highly complex, document-intensive operation involving the processing of over a million documentary presentations each year, including documentary credits and collections. Each presentation can extend into hundreds of pages, with a large range of structured and unstructured data points requiring extraction for further review.\nThe complexity is further increased due to documentary credit checks often including additional conditions that are unique to each transaction and its underlying commercial contract. As a result, documents and checking requirements can vary significantly from one transaction to another. A single presentation can take hours to process, implying high operational demands, particularly during periods of peak activity.\nSmart Checking has been designed to help address these challenges by using a combination of AI technologies and trade expertise to create a more streamlined checking process. AI is used to extract and classify information from documents, with advanced AI models turning complex and inconsistent documentation into structured data, helping information enter the process in an organised and searchable format.\nAn AI reasoning engine supported by a knowledge graph interprets the information and performs the documentary credit checks. This is designed to support a consistent approach to documentary trade checking, preserving the expertise and controls that are fundamental to trade finance, while providing a framework for explainable and auditable outcomes.\nNoYesTrading Systems28 Sep, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/trading-systems/hsbc-advances-digital-trade-new-document-checking-solution",
+    "source": "Financial IT",
+    "tags": [
+      "HSBC",
+      "United Kingdom",
+      "Hong Kong",
+      "United Arab Emirates"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-28T07:40:27.000Z",
+    "fetchedAt": "2026-09-28T08:52:29.469Z",
+    "isDuplicateOf": null,
+    "content": "HSBC has announced Smart Checking, a new AI-powered solution designed to standardise and streamline trade finance document processing. The system combines proprietary artificial intelligence with trade specialist expertise to read, interpret, and check documents at scale. The tool aims to accelerate payment times, improve working capital for businesses, and reduce operational burdens. It is currently operating in the United Kingdom, Hong Kong, and the United Arab Emirates, with global roll-out plans.",
+    "content_ta": "வணிக நிதி ஆவண செயலாக்கத்தை முறைப்படுத்தவும் துரிதப்படுத்தவும் வடிவமைக்கப்பட்ட Smart Checking என்ற புதிய AI-அடிப்படையிலான தீர்வை HSBC அறிமுகப்படுத்தியுள்ளது. இந்த அமைப்பு ஆவணங்களைப் படிக்கவும், விளக்கவும் மற்றும் சரிபார்க்கவும் செயற்கை நுண்ணறிவை வர்த்தக நிபுணர்களின் நிபுணத்துவத்துடன் இணைக்கிறது. வாடிக்கையாளர்களுக்கு விரைவான கட்டணச் செலுத்துதலை உறுதி செய்வதையும், செயல்பாட்டுச் சுமையைக் குறைப்பதையும் இது நோக்கமாகக் கொண்டுள்ளது. தற்போது United Kingdom, Hong Kong மற்றும் United Arab Emirates ஆகிய நாடுகளில் இது செயல்பாட்டில் உள்ளது.",
+    "slug": "hsbc-advances-digital-trade-with-new-document-checking-solution"
+  },
+  {
+    "id": "e43809ba13526bb6",
+    "slug": "bitcoin-eases-into-the-week-as-traders-watch-btc-s-85k-resistance",
+    "title": "Bitcoin eases into the week as traders watch BTC’s $85k resistance",
+    "tags": [
+      "Bitcoin",
+      "Ethereum",
+      "XRP"
+    ],
+    "source": "CoinJournal",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-28T07:32:04.000Z"
+  },
+  {
+    "id": "7c96e39098f4a3f9",
+    "title": "Temenos Named 2026 IDC Real Results Winner with Hamilton Reserve Bank",
+    "summary": "Temenos, a global leader in banking technology, today announced it has won the 2026 IDC Real Results Award in the Omni-Engagement Transformation category, together with Hamilton Reserve Bank, a Caribbean-headquartered global bank with more than US$25 billion in custodial assets and deposits, serving clients in 150 countries and 126 currencies.\nThe IDC Real Results celebrate technology providers that deliver genuine, measurable, and future enabling change at a client financial institution. Temenos was recognized for supporting Hamilton Reserve Bank’s upgrade to the latest version of Temenos Digital, enabling the bank to deliver a faster digital banking experience while improving operational efficiency and supporting the bank's international expansion.\nWith Temenos Digital, Hamilton Reserve Bank has achieved 100% digital customer onboarding, reducing onboarding time from five days to 20 minutes for individual accounts, while delivering a 250% improvement in staff productivity. The bank has also reported a 140% growth in the client base, a 10-fold increase in deposits and custodial assets, and 620% growth in revenues and net income.\nJerry Silva, Program Vice President, IDC Financial Insights, commented: \"Congratulations to Temenos and Hamilton Reserve Bank on winning the award for Omni-Engagement Transformation, which recognizes the strong, quantifiable results of their collaboration. Together, Temenos and Hamilton Reserve Bank have demonstrated the significant impact that successful digital transformation can have on banks’ customer experience and operational efficiency.”\nWilliam Moroney, Chief Revenue Officer, Temenos, said: \"We are proud to be recognized as a winner in the IDC Real Results for the second year in a row. This award reflects our successful collaboration with Hamilton Reserve Bank, as well as the proven capabilities of Temenos Digital to help banks innovate, grow and deliver faster, smarter digital experiences. With over 600 clients around the world using our digital banking solutions, Temenos continues to lead the way in digital banking.”\nHoward Lewis, Board member and Head of Hamilton Reserve Bank in Nevis, said: \"We are honored to receive this prestigious award alongside Temenos, our trusted technology provider. With Temenos Digital, Hamilton Reserve Bank now offers a fast, secure, and fully digitized onboarding experience which is helping us to increase efficiency while driving the continued rapid growth of our international client base.”\nTemenos Digital has proven foundations including a unified API layer, core-agnostic architecture, and extensive localization. It can support every type of bank from Tier 1 headless deployments to fully integrated Tier 3 solutions, covering the full lifecycle from onboarding to servicing, including originations and collections.\nWith approximately 20% of revenue each year invested in R&D, Temenos continues to enhance its digital banking capabilities. This includes the launch in 2026 of Conversational Studio, an AI-powered, natural-language environment for building end-to-end digital banking journeys.\nNoYesBanking28 Sep, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/banking/temenos-named-2026-idc-real-results-winner-hamilton-reserve-bank",
+    "source": "Financial IT",
+    "tags": [
+      "Temenos",
+      "Hamilton Reserve Bank",
+      "IDC"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-28T07:31:47.000Z",
+    "fetchedAt": "2026-09-28T08:52:29.469Z",
+    "isDuplicateOf": null,
+    "content": "Temenos and Hamilton Reserve Bank have won the 2026 IDC Real Results Award in the Omni-Engagement Transformation category. The recognition highlights Hamilton Reserve Bank's successful upgrade using Temenos Digital, which significantly improved customer onboarding times, staff productivity, client base growth, and overall revenues. Executives from both organizations expressed pride in the achievement, emphasizing the powerful impact of their digital collaboration and proven banking technology solutions.",
+    "content_ta": "Temenos மற்றும் Hamilton Reserve Bank நிறுவனங்கள் Omni-Engagement Transformation பிரிவில் 2026 IDC Real Results விருதை வென்றுள்ளன. Temenos Digital தொழில்நுட்பத்தைப் பயன்படுத்தி Hamilton Reserve Bank தனது சேவைகளை மேம்படுத்தியதன் மூலம் வாடிக்கையாளர் சேர்ப்பு நேரம் குறைந்துள்ளதுடன், ஊழியர்களின் திறனும் வருவாயும் பெருமளவு அதிகரித்துள்ளன. இந்த டிஜிட்டல் கூட்டுறவின் வெற்றியையும் அதன் தாக்கத்தையும் இரு நிறுவனங்களின் அதிகாரிகளும் பாராட்டியுள்ளனர்.",
+    "slug": "temenos-named-2026-idc-real-results-winner-with-hamilton-reserve-bank"
+  },
+  {
+    "id": "09f44eb550985a43",
+    "title": "Citi Leads Industry Dialogue on the Agentic Future of Finance in Hong Kong",
+    "summary": "As artificial intelligence (AI) moves from experimentation to enterprise-wide adoption, organizations across Hong Kong are increasingly exploring how AI can transform customer experience, productivity and decision-making. Against this backdrop, Citi, Mastercard and the FinTech Association of Hong Kong (FTAHK) co-hosted the third edition of Citi's annual fintech forum under the theme \"Beyond AI-Ready: Shaping the Agentic Future of Finance\". The event brought together regulators, financial industry leaders and fintech innovators to discuss how financial institutions can responsibly scale the adoption of agentic AI and unlock its potential across wealth management, banking and payments.\nDiscussions focused on the opportunities and challenges presented by agentic AI, including customer engagement, advisor productivity, governance, cybersecurity, operational resilience and the future of work. Speakers included representatives from Citi, Mastercard, the Hong Kong Monetary Authority, the Financial Services Development Council (FSDC), Accenture, AlipayHK, Ant International, Google Cloud, Hong Kong Cyberport and NVIDIA.\nVicky Kong, Head of Wealth, Asia North and Australia, Citi, said, \"The industry conversation is no longer about whether organizations will adopt AI, but how they can scale it responsibly and effectively. At Citi, we are working closely with regulators and partners to help advance AI adoption across Hong Kong's financial industry. By investing in data, technology and talent, we aim to equip our advisors with deeper insights and enhance the customer experience, while ensuring that trust, accountability and human judgment remain at the heart of financial services.\"\nJoe Bonanno, Head of Wealth Intelligence, Citi Wealth, said, \"We are entering a new era where agentic AI can transform how financial institutions harness data and intelligence to elevate the colleague and client experience. At Citi Wealth, platforms such as Citi Sky represent a major step forward, bringing together research, superior client service, expertise and advanced AI capabilities on a single platform. By connecting these capabilities more seamlessly, we can provide advisors and clients with faster access to actionable insights based on their financial goals and objectives.\"\nA key highlight of the forum was the showcase of Citi Sky, Citi Wealth's conversational AI capability developed using Google Cloud and Google DeepMind technologies. Engineered as an always-on digital companion, the platform is designed to redefine how clients access market insights, identify financial opportunities and engage with their wealth advisors. Built on a secure data foundation and leveraging real-time interactive capabilities, Citi Sky represents a significant step in translating advanced data intelligence into highly personalized and accessible wealth management experiences.\nDr. Peter Robejsek, Executive Vice President, Market Development, Asia Pacific, Mastercard, said, \"Asia Pacific is uniquely positioned to capitalize on the opportunities presented by agentic AI. Consumers and businesses are increasingly leveraging AI to enhance discovery, decision making and transactions, shaping the next generation of commerce. At Mastercard, we are committed to providing a safe, secure and intelligent infrastructure that fosters innovation, efficiency and responsible growth across the evolving agentic ecosystem.\"\nMichele Fung, Board Member, FinTech Association of Hong Kong, said, \"Building on last year's vision of turning Hong Kong into a leading AI-ready economy, we are now entering the next frontier of financial evolution. It is no longer just about preparing our systems for artificial intelligence, but actively shaping an agentic future where intelligent, autonomous technologies drive real-world outcomes. By continuing to unite the collective expertise of regulators, financial institutions, and technology innovators — alongside our AI Strategic Advisory Council — the FTAHK partnering with Citi and Mastercard remains dedicated to pioneering the frameworks that will define this next era. Together with industry leaders, we are moving beyond readiness to ensure Hong Kong leads the global financial ecosystem in responsible, agentic innovation.\"\nThe forum reflects Citi's continued commitment to supporting Hong Kong's development as a leading international financial center and fostering industry collaboration on the responsible adoption of emerging technologies.\nNoYesBanking28 Sep, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/banking/citi-leads-industry-dialogue-agentic-future-finance-hong-kong",
+    "source": "Financial IT",
+    "tags": [
+      "Citi",
+      "Mastercard",
+      "FinTech Association of Hong Kong",
+      "Google Cloud",
+      "Hong Kong"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-28T07:28:49.000Z",
+    "fetchedAt": "2026-09-28T08:52:29.469Z",
+    "isDuplicateOf": null,
+    "content": "Citi, Mastercard, and the FinTech Association of Hong Kong co-hosted a fintech forum discussing the future of agentic AI in finance. Industry leaders gathered to explore how financial institutions can responsibly scale artificial intelligence to transform wealth management, banking, and payments. The event also featured the showcase of Citi Sky, an advanced conversational AI platform designed to enhance client and advisor experiences.",
+    "content_ta": "Citi, Mastercard மற்றும் FinTech Association of Hong Kong ஆகியவை இணைந்து ஃபைனான்ஸ் துறையில் agentic AI இன் எதிர்காலம் குறித்த ஒரு fintech forum-ஐ நடத்தின. செயற்கை நுண்ணறிவை பொறுப்புடன் பயன்படுத்தி வெல்த் மேனேஜ்மெண்ட், பேங்கிங் மற்றும் பேமெண்ட்ஸ் ஆகியவற்றை மேம்படுத்துவது குறித்து துறை தலைவர்கள் விவாதித்தனர். மேலும், கிளைன்ட்கள் மற்றும் அட்வைசர்களின் அனுபவத்தை மேம்படுத்தும் நோக்கில் உருவாக்கப்பட்ட Citi Sky என்ற conversational AI பிளாட்ஃபார்ம் இந்த நிகழ்வில் காட்சிப்படுத்தப்பட்டது.",
+    "slug": "citi-leads-industry-dialogue-on-the-agentic-future-of-finance-in-hong-kong"
+  },
+  {
+    "id": "0d99fe05efefbcd2",
+    "slug": "11-of-millennials-and-gen-z-have-stopped-dating-because-it-s-too-expensive-report",
+    "title": "11% of Millennials and Gen Z Have Stopped Dating Because It’s Too Expensive: Report",
+    "tags": [
+      "Zelle"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-28T07:25:57.000Z"
+  },
+  {
+    "id": "ba9839049553e776",
+    "slug": "monero-exchange-2026-how-to-swap-btc-to-xmr-without-kyc",
+    "title": "Monero Exchange 2026: How to swap BTC to XMR without KYC",
+    "tags": [
+      "GhostSwap",
+      "Bitcoin",
+      "Monero",
+      "Ethereum",
+      "Tether"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-28T07:20:54.000Z"
+  },
+  {
+    "id": "ed7db4b82bb5cd99",
+    "slug": "singapore-financial-stability-risks-rise-as-ai-investment-fiscal-pressures-lift-cost-of-capital",
+    "title": "Singapore Financial Stability Risks Rise As AI Investment, Fiscal Pressures Lift Cost Of Capital",
+    "tags": [
+      "Singapore",
+      "Monetary Authority of Singapore"
+    ],
+    "source": "Crowdfund Insider",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-28T07:17:54.000Z"
+  },
+  {
+    "id": "9f47e4e3d81f2878",
+    "slug": "donald-trump-oval-office-speech-today-at-2-pm-what-to-expect",
+    "title": "Donald Trump Oval Office Speech Today at 2 PM: What to Expect",
+    "tags": [
+      "Donald Trump",
+      "Anthropic",
+      "Dario Amodei",
+      "White House",
+      "Bitcoin"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-28T07:12:44.000Z"
+  },
+  {
+    "id": "b66887c779abfcd8",
+    "slug": "will-amd-stock-keep-going-up-the-bull-and-bear-cases",
+    "title": "Will AMD Stock Keep Going Up? The Bull and Bear Cases",
+    "tags": [
+      "AMD"
+    ],
+    "source": "Watcher.Guru",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-28T07:05:00.000Z"
+  },
+  {
+    "id": "80555ce8e6d1ad2d",
+    "slug": "detect-it-then-stop-it-inside-the-first-verityx-labs-challenge-for-uae-banks",
+    "title": "Detect It, Then Stop It: Inside the First VerityX Labs Challenge for UAE Banks",
+    "tags": [
+      "VerityX Innovation Labs",
+      "United Arab Emirates"
+    ],
+    "source": "The Fintech Times",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-28T07:00:51.000Z"
+  },
+  {
+    "id": "480d4aba467aca7e",
+    "slug": "crypto-s-biggest-hacks-drain-over-5b-here-s-the-major-problem-they-expose",
+    "title": "Crypto’s biggest hacks drain over $5B – Here’s the major problem they expose",
+    "tags": [],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-28T07:00:38.000Z"
+  },
+  {
+    "id": "01c284f4de7fdeb1",
+    "slug": "is-elon-musk-right-about-agi-by-2027-traders-betting-on-it-say-probably-not",
+    "title": "Is Elon Musk Right About AGI by 2027? Traders Betting on It Say Probably Not",
+    "tags": [
+      "Elon Musk",
+      "Anthropic",
+      "United States"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-28T06:55:34.000Z"
+  },
+  {
+    "id": "4191d894603936dd",
+    "slug": "does-brad-garlinghouse-see-xrp-as-digital-gold-here-s-what-he-said",
+    "title": "Does Brad Garlinghouse See XRP As Digital Gold? Here’s What He Said",
+    "tags": [
+      "Ripple",
+      "XRP",
+      "Bitcoin",
+      "Brad Garlinghouse"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-28T06:38:33.000Z"
+  },
+  {
+    "id": "3bc9bb9182108c57",
+    "title": "AI Thesis Now Mandatory for Every Deal, Says Warburg Pincus Asia Head",
+    "summary": "Private equity major Warburg Pincus is hard‑wiring artificial intelligence into every stage of its investment process, treating AI as a mandatory lens for both new deals and portfolio value creation. Senior managing director Vishal Mahadevia, speaking at DealStreetAsia’s Asia PE-VC Summit in Singapore, said the... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/09/312292-ai-thesis-now-mandatory-for-every-deal-says-warburg-pincus-asia-head/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Warburg Pincus",
+      "Vishal Mahadevia",
+      "Singapore"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-09-28T06:20:28.000Z",
+    "fetchedAt": "2026-09-28T08:52:29.469Z",
+    "isDuplicateOf": null,
+    "content": "Private equity firm Warburg Pincus is making artificial intelligence a mandatory requirement for evaluating every new deal and managing portfolio value. Speaking at a summit in Singapore, the firm's senior managing director highlighted that AI is being deeply integrated into all stages of the investment process to drive future growth and operational strategy.",
+    "content_ta": "Private equity நிறுவனமான Warburg Pincus, ஒவ்வொரு புதிய முதலீட்டு ஒப்பந்தத்திற்கும் மற்றும் போர்ட்ஃபோலியோ மதிப்பு மேலாண்மைக்கும் செயற்கை நுண்ணறிவை (AI) கட்டாயமாக்கியுள்ளது. சிங்கப்பூரில் நடைபெற்ற உச்சிமாநாட்டில் பேசிய நிறுவனத்தின் Senior Managing Director, எதிர்கால வளர்ச்சியை மேம்படுத்த முதலீட்டுச் செயல்பாட்டின் அனைத்து கட்டங்களிலும் AI ஒருங்கிணைக்கப்படுவதாகக் குறிப்பிட்டார்.",
+    "slug": "ai-thesis-now-mandatory-for-every-deal-says-warburg-pincus-asia-head"
+  },
+  {
+    "id": "b9a276a94c7ea766",
+    "slug": "big-institutional-money-is-split-on-bitcoin-s-next-move-as-massive-market-bets-shift",
+    "title": "Big institutional money is split on Bitcoin’s next move as massive market bets shift",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-09-28T06:15:40.000Z"
+  },
+  {
     "id": "b766909088bd398f",
     "slug": "standard-chartered-first-g-sib-on-euroclear-s-d-fmi",
     "title": "Standard Chartered First G-SIB on Euroclear’s D-FMI",
@@ -80,23 +522,17 @@
   },
   {
     "id": "a2c3ba1aba25088f",
+    "slug": "bitget-ceo-gracy-chen-presses-thorchain-to-cut-off-stolen-funds-after-387m-hack",
     "title": "Bitget CEO Gracy Chen Presses THORChain to Cut Off Stolen Funds After $387M Hack",
-    "summary": "Bitget’s chief executive has publicly pressed THORChain to stop processing funds tied to last week’s exchange breach, arguing that a protocol’s architecture should not be treated as cover for moving assets already identified as stolen.On September 24, Bitget detected unauthorized outflows from hot and warm... Read More",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/09/313489-bitget-ceo-gracy-chen-presses-thorchain-to-cut-off-stolen-funds-after-387m-hack/",
-    "source": "Crowdfund Insider",
     "tags": [
       "Bitget",
       "THORChain",
       "Gracy Chen"
     ],
+    "source": "Crowdfund Insider",
     "origin": "rss",
-    "pubDate": "2026-09-28T05:16:37.000Z",
-    "fetchedAt": "2026-09-28T06:01:19.103Z",
-    "isDuplicateOf": null,
-    "content": "Bitget CEO Gracy Chen has urged THORChain to block transactions involving funds stolen in a recent multi-million dollar exchange breach. Chen argued that protocol architecture should not exempt platforms from stopping identified illicit transfers. The public appeal follows unauthorized outflows detected by Bitget, highlighting ongoing tensions between decentralized protocols and centralized exchange security measures regarding stolen asset tracking and recovery.",
-    "content_ta": "Bitget-ன் CEO Gracy Chen, சமீபத்திய ஹேக்கில் திருடப்பட்ட ஃபண்டுகளைத் தடுத்து நிறுத்துமாறு THORChain-ஐ வலியுறுத்தியுள்ளார். அடையாளம் காணப்பட்ட திருட்டுப் பணத்தை மாற்றுவதற்கு புரோட்டோகால் கட்டமைப்பு ஒரு தடையாக இருக்கக்கூடாது என்று அவர் வாதிட்டார். Bitget-ல் கண்டறியப்பட்ட அங்கீகரிக்கப்படாத பண வெளியேற்றத்தைத் தொடர்ந்து இந்த கோரிக்கை விடுக்கப்பட்டுள்ளது.",
-    "slug": "bitget-ceo-gracy-chen-presses-thorchain-to-cut-off-stolen-funds-after-387m-hack"
+    "hasContent": true,
+    "pubDate": "2026-09-28T05:16:37.000Z"
   },
   {
     "id": "1689eae452bda475",
@@ -188,22 +624,16 @@
   },
   {
     "id": "2bbcd1bd6a6f6ebf",
+    "slug": "philippine-central-bank-sets-16m-capital-requirement-for-banks-shifting-to-digital-models",
     "title": "Philippine Central Bank Sets $16m Capital Requirement For Banks Shifting To Digital Models",
-    "summary": "The Bangko Sentral ng Pilipinas (BSP) has set a minimum capital requirement of ₱1 billion (about $16 million) for thrift, rural and cooperative banks that shift to business models similar to digital banks, as the central bank moves to strengthen safeguards around digital transformation in... Read More",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/09/313573-philippine-central-bank-sets-16m-capital-requirement-for-banks-shifting-to-digital-models/",
-    "source": "Crowdfund Insider",
     "tags": [
       "Bangko Sentral ng Pilipinas",
       "Philippines"
     ],
+    "source": "Crowdfund Insider",
     "origin": "rss",
-    "pubDate": "2026-09-28T04:14:26.000Z",
-    "fetchedAt": "2026-09-28T06:01:19.103Z",
-    "isDuplicateOf": null,
-    "content": "The Bangko Sentral ng Pilipinas (BSP) has introduced a new minimum capital requirement of ₱1 billion, roughly equivalent to $16 million, for thrift, rural, and cooperative banks transitioning to digital-first business models. This regulatory update aims to enhance financial stability and strengthen risk management and security safeguards as traditional financial institutions across the Philippines accelerate their digital transformation strategies.",
-    "content_ta": "டிஜிட்டல் வங்கி மாதிரிகளுக்கு மாற விரும்பும் கூட்டுறவு மற்றும் ஊரக வங்கிகளுக்கு Bangko Sentral ng Pilipinas (BSP) நிறுவனம் குறைந்தபட்ச மூலதனத் தேவையாக ₱1 பில்லியன் (சுமார் $16 மில்லியன்) நிர்ணயித்துள்ளது. Philippines முழுவதும் உள்ள வங்கிகள் தங்களின் டிஜிட்டல் மாற்ற நடவடிக்கைகளைத் தீவிரப்படுத்தி வரும் நிலையில், நிதி ஸ்திரத்தன்மையைப் பேணவும் பாதுகாப்பு நடவடிக்கைகளை வலுப்படுத்தவும் இந்த புதிய விதிமுறை கொண்டுவரப்பட்டுள்ளது.",
-    "slug": "philippine-central-bank-sets-16m-capital-requirement-for-banks-shifting-to-digital-models"
+    "hasContent": true,
+    "pubDate": "2026-09-28T04:14:26.000Z"
   },
   {
     "id": "fd910e7081f7a4c8",
@@ -415,394 +845,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-28T00:10:02.000Z"
-  },
-  {
-    "id": "a2274c461ef7270d",
-    "slug": "revolut-gets-green-light-to-buy-argentinian-bank",
-    "title": "Revolut gets green light to buy Argentinian bank",
-    "tags": [
-      "Revolut",
-      "Banco Cetelem",
-      "BNP Paribas",
-      "Argentina"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-28T00:01:00.000Z"
-  },
-  {
-    "id": "f25571d3acdf7e43",
-    "slug": "bitcoin-recovers-44-from-its-june-low-as-btc-s-2021-pattern-resurfaces",
-    "title": "Bitcoin recovers 44% from its June low as BTC’s 2021 pattern resurfaces",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-28T00:00:49.000Z"
-  },
-  {
-    "id": "c4e30a45f166bbd5",
-    "slug": "block-ships-3x-more-features-in-2026-with-a-smaller-team-crediting-ai-tools",
-    "title": "Block ships 3x more features in 2026 with a smaller team, crediting AI tools",
-    "tags": [
-      "Block"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T22:07:17.000Z"
-  },
-  {
-    "id": "d0c53c29264611a3",
-    "slug": "onchain-analyst-links-18-4-million-in-robinhood-chain-memecoin-extractions-to-single-rug-pull",
-    "title": "Onchain analyst links $18.4 million in Robinhood Chain memecoin extractions to single rug-pull operation",
-    "tags": [
-      "Robinhood Chain",
-      "10 Pons V2"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T22:02:57.000Z"
-  },
-  {
-    "id": "c4421890c558149d",
-    "slug": "the-advice-elon-musk-refused-from-his-mother-before-tesla-spacex-and-more",
-    "title": "The Advice Elon Musk Refused From His Mother Before Tesla, SpaceX and More",
-    "tags": [
-      "Elon Musk",
-      "Maye Musk",
-      "PayPal",
-      "SpaceX",
-      "Tesla"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T22:00:00.000Z"
-  },
-  {
-    "id": "f7244955ee13e131",
-    "slug": "youtube-removes-bitcoin-treasuries-channel-ahead-of-conference-cites-harmful-content",
-    "title": "YouTube removes Bitcoin Treasuries channel ahead of conference, cites harmful content",
-    "tags": [
-      "YouTube",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T21:35:37.000Z"
-  },
-  {
-    "id": "62a4fc4a8e51128b",
-    "slug": "an-84-million-us-asset-seizure-just-sparked-a-massive-question-for-tether",
-    "title": "An $84 million US asset seizure just sparked a massive question for Tether",
-    "tags": [
-      "Tether",
-      "USDT",
-      "Capstone",
-      "United States"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T21:15:14.000Z"
-  },
-  {
-    "id": "7dd5f67058b89bd6",
-    "slug": "bitfinex-reports-massive-surge-in-eth-short-positions-as-bearish-bets-pile-up",
-    "title": "Bitfinex reports massive surge in ETH short positions as bearish bets pile up",
-    "tags": [
-      "Bitfinex",
-      "Ethereum"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T21:05:20.000Z"
-  },
-  {
-    "id": "9842a4f58531982b",
-    "slug": "solana-s-plan-for-fairer-trades-stalls-as-block-producers-still-choose-which-orders-get-in",
-    "title": "Solana’s plan for fairer trades stalls as block producers still choose which orders get in",
-    "tags": [
-      "Solana"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T20:05:30.000Z"
-  },
-  {
-    "id": "09424236163a9f94",
-    "slug": "xrp-etfs-attract-75m-in-a-week-as-sol-funds-hit-new-2026-high",
-    "title": "XRP ETFs Attract $75M in a Week as SOL Funds Hit New 2026 High",
-    "tags": [
-      "XRP",
-      "SOL"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T20:05:25.000Z"
-  },
-  {
-    "id": "2fe442e3d12ebd70",
-    "slug": "ai-reshapes-software-budgets-as-upstarts-gain-established-firms-cut-prices",
-    "title": "AI reshapes software budgets as upstarts gain, established firms cut prices",
-    "tags": [
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T20:02:57.000Z"
-  },
-  {
-    "id": "b9f0015795ea74f5",
-    "slug": "openid-foundation-opens-conformance-testing-for-digital-identity-wallets",
-    "title": "OpenID Foundation Opens Conformance Testing for Digital Identity Wallets",
-    "tags": [
-      "OpenID Foundation"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T20:01:00.000Z"
-  },
-  {
-    "id": "ca1dfa633c96cf24",
-    "slug": "kas-went-up-12-but-the-kaspa-network-is-emptying-out-what-s-happening",
-    "title": "KAS went up 12%, but the Kaspa network is emptying out – What’s happening?",
-    "tags": [
-      "Kaspa",
-      "KAS"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T20:00:11.000Z"
-  },
-  {
-    "id": "25b1ebcacd1ffd67",
-    "slug": "california-bank-abruptly-shuttered-in-sixth-bank-failure-of-2026",
-    "title": "California Bank Abruptly Shuttered in Sixth Bank Failure of 2026",
-    "tags": [
-      "Nano Banc",
-      "FDIC",
-      "Sunwest Bank",
-      "California"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T19:50:09.000Z"
-  },
-  {
-    "id": "497d27725df3ffa6",
-    "slug": "china-considers-allowing-bytedance-alibaba-to-purchase-nvidia-chips",
-    "title": "China considers allowing ByteDance, Alibaba to purchase Nvidia chips",
-    "tags": [
-      "China",
-      "ByteDance",
-      "Alibaba",
-      "Nvidia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T19:49:46.000Z"
-  },
-  {
-    "id": "f086b6f940e9d3dd",
-    "slug": "did-microstrategy-buy-more-bitcoin-michael-saylor-drops-another-signal",
-    "title": "Did MicroStrategy Buy More Bitcoin? Michael Saylor Drops Another Signal",
-    "tags": [
-      "MicroStrategy",
-      "Michael Saylor",
-      "Bitcoin"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T19:25:15.000Z"
-  },
-  {
-    "id": "3c2580bf3a5f46df",
-    "slug": "sibos-2026-preview-ai-tokenised-money-and-the-ledger-take-the-stage",
-    "title": "Sibos 2026 preview: AI, tokenised money and the ledger take the stage",
-    "tags": [
-      "Miami",
-      "Swift",
-      "Jane Fraser",
-      "Serena Williams",
-      "Sibos"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T19:21:29.000Z"
-  },
-  {
-    "id": "0cb005cf6ee52a54",
-    "slug": "anthropic-clashes-with-us-administration-over-ai-regulatory-oversight",
-    "title": "Anthropic clashes with US administration over AI regulatory oversight",
-    "tags": [
-      "Anthropic",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T19:18:59.000Z"
-  },
-  {
-    "id": "ea768975c13fdbff",
-    "slug": "pump-fun-is-not-authorized-to-solicit-some-canadian-investors-amf-warns",
-    "title": "Pump Fun is not authorized to solicit some Canadian investors, AMF warns",
-    "tags": [
-      "Pump Fun",
-      "Canada"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T19:05:26.000Z"
-  },
-  {
-    "id": "19fa8128daca12df",
-    "slug": "iran-s-crypto-mining-consumes-14-of-the-country-s-electricity-deficit-parliamentary-report-finds",
-    "title": "Iran’s crypto mining consumes 14% of the country’s electricity deficit, parliamentary report finds",
-    "tags": [
-      "Iran"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T19:01:36.000Z"
-  },
-  {
-    "id": "aba141d2000278ef",
-    "slug": "the-crash-is-coming-prominent-analyst-warns-xrp-holders-of-trouble-ahead-but-a-30-moonshot-could",
-    "title": "“The Crash Is Coming,” Prominent Analyst Warns XRP Holders of Trouble Ahead — But a $30 Moonshot Could Follow",
-    "tags": [
-      "XRP",
-      "Egrag Crypto"
-    ],
-    "source": "ZyCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T19:00:24.000Z"
-  },
-  {
-    "id": "413dc1baa6bcb116",
-    "slug": "ncino-adds-mcp-layer-to-connect-ai-agents-to-mortgage-suite",
-    "title": "nCino Adds MCP Layer to Connect AI Agents to Mortgage Suite",
-    "tags": [
-      "nCino"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T19:00:11.000Z"
-  },
-  {
-    "id": "5a95437768886272",
-    "slug": "china-may-reopen-nvidia-s-ai-market-how-will-nvda-stock-react-monday",
-    "title": "China May Reopen Nvidia's AI Market. How Will NVDA Stock React Monday?",
-    "tags": [
-      "China",
-      "Alibaba",
-      "ByteDance",
-      "Nvidia"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T19:00:00.000Z"
-  },
-  {
-    "id": "7f149d507f867324",
-    "slug": "meme-coin-ban-for-california-officials-signed-by-governor",
-    "title": "Meme Coin Ban for California Officials Signed by Governor",
-    "tags": [
-      "Gavin Newsom",
-      "California",
-      "United States"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T18:52:15.000Z"
-  },
-  {
-    "id": "24665ab421232dc6",
-    "slug": "ftx-s-unliquidated-investments-would-be-worth-206b-today-highlighting-the-cost-of-a-fire-sale",
-    "title": "FTX’s unliquidated investments would be worth $206B today, highlighting the cost of a fire sale",
-    "tags": [
-      "FTX"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T18:41:34.000Z"
-  },
-  {
-    "id": "fc56f01ed2647f94",
-    "slug": "uk-warns-of-significant-concern-over-potential-us-diesel-export-ban",
-    "title": "UK warns of significant concern over potential US diesel export ban",
-    "tags": [
-      "United Kingdom",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T18:14:48.000Z"
-  },
-  {
-    "id": "a8f3c8e266a2aae4",
-    "slug": "brazil-tops-global-crypto-adoption-as-latin-america-grows-during-bear-market-research",
-    "title": "Brazil Tops Global Crypto Adoption as Latin America Grows During Bear Market : Research",
-    "tags": [
-      "Chainalysis",
-      "Brazil",
-      "Latin America"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T18:12:16.000Z"
-  },
-  {
-    "id": "6180e8d815558b77",
-    "slug": "ethereum-really-not-just-blockchain-anymore-founder-vitalik-declares",
-    "title": "Ethereum Really Not Just Blockchain Anymore, Founder Vitalik Declares",
-    "tags": [
-      "Ethereum",
-      "Vitalik"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T18:12:09.000Z"
-  },
-  {
-    "id": "b2e88de8cb8d2857",
-    "slug": "trump-to-dine-with-the-ai-ceo-his-pentagon-blacklisted-is-the-feud-over",
-    "title": "Trump To Dine With the AI CEO His Pentagon Blacklisted: Is the Feud Over?",
-    "tags": [
-      "Trump",
-      "Anthropic",
-      "Pentagon"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-27T18:04:31.000Z"
   }
 ]
