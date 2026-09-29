@@ -1,5 +1,8 @@
 import { useEffect, useMemo, useState } from 'react';
 import { useAdminAuth } from '../admin/useAdminAuth.js';
+import Pagination from '../components/Pagination.jsx';
+
+const PAGE_SIZE = 1000;
 
 export default function AdminTagsPage() {
   const { authFetch } = useAdminAuth();
@@ -8,6 +11,7 @@ export default function AdminTagsPage() {
   const [error, setError] = useState(null);
   const [newTag, setNewTag] = useState('');
   const [status, setStatus] = useState('idle'); // idle | submitting | error | success
+  const [page, setPage] = useState(1);
 
   function load() {
     Promise.all([
@@ -68,6 +72,10 @@ export default function AdminTagsPage() {
   if (error) return <p className="status-message error">Failed to load tags: {error}</p>;
   if (!registeredTags) return <p className="status-message">Loading…</p>;
 
+  const totalPages = Math.max(1, Math.ceil(allTags.length / PAGE_SIZE));
+  const currentPage = Math.min(page, totalPages);
+  const pageTags = allTags.slice((currentPage - 1) * PAGE_SIZE, currentPage * PAGE_SIZE);
+
   return (
     <div className="admin-page">
       <div className="admin-page-header">
@@ -92,12 +100,14 @@ export default function AdminTagsPage() {
 
       <div className="tag-list">
         {allTags.length === 0 && <p className="empty-state">No tags yet — add one above.</p>}
-        {allTags.map((tag) => (
+        {pageTags.map((tag) => (
           <span key={tag} className="tag-pill">
             {tag} <span className="tag-pill-count">{usageCounts.get(tag) ?? 0}</span>
           </span>
         ))}
       </div>
+
+      <Pagination page={currentPage} totalPages={totalPages} onPageChange={setPage} />
     </div>
   );
 }
