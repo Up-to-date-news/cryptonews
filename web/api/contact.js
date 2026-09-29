@@ -1,4 +1,10 @@
 import nodemailer from 'nodemailer';
+import { checkRateLimit } from './_lib/rateLimit.js';
+
+// 5 submissions per 10 minutes per IP — enough for a genuine visitor,
+// tight enough to stop the form being used to spam the inbox or burn
+// through Gmail's daily sending quota.
+const RATE_LIMIT = { key: 'contact', max: 5, windowMs: 10 * 60 * 1000 };
 
 // Recipient lives only here, in server-only code that never ships to the
 // browser — this file runs exclusively on Vercel's serverless runtime.
@@ -16,6 +22,12 @@ export default async function handler(req, res) {
   if (req.method !== 'POST') {
     res.setHeader('Allow', 'POST');
     return res.status(405).json({ error: 'Method not allowed' });
+  }
+
+  const limitStatus = checkRateLimit(req, RATE_LIMIT);
+  if (limitStatus.limited) {
+    res.setHeader('Retry-After', String(limitStatus.retryAfterSeconds));
+    return res.status(429).json({ error: 'Too many messages sent. Please try again later.' });
   }
 
   const { name, email, city, country, company, reason, message } = req.body ?? {};
