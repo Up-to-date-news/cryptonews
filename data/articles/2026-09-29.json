@@ -809,13 +809,16 @@
     "hasSummary": true,
     "link": "https://cryptoslate.com/chainlink-ccip-2-0-lets-issuers-delay-delivery-after-a-cross-chain-transfer-starts/",
     "source": "CryptoSlate",
-    "tags": [],
+    "tags": [
+      "Chainlink"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-29T08:00:09.000Z",
     "fetchedAt": "2026-09-29T08:52:11.193Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "chainlink-ccip-2-0-exposes-bridge-risk-and-issuer-gates-trigger-stalls"
+    "content": "Recent analysis of Chainlink CCIP 2.0 highlights potential bridge risks and operational stalls caused by issuer gates. An optional required verifier can hold up destination tokens following a source-chain lock or burn mechanism. Meanwhile, broad production use cases for these specific features remain largely unverified, drawing attention within the crypto sector.",
+    "slug": "chainlink-ccip-2-0-exposes-bridge-risk-and-issuer-gates-trigger-stalls",
+    "content_ta": "Chainlink CCIP 2.0-ன் சமீபத்திய பகுப்பாய்வு பிரிட்ஜ் ஆபத்துகளையும், இஷுவர் கேட்ஸ் காரணமாக ஏற்படும் தேக்க நிலைகளையும் வெளிச்சம் போட்டுக் காட்டுகிறது. சோர்ஸ்-செயின் லாக் அல்லது பர்ன் நடவடிக்கைகளுக்குப் பிறகு, விருப்பத்தேர்வு மற்றும் கட்டாய வெரிஃபையர் மூலம் டெஸ்டினேஷன் டோக்கன்கள் தாமதப்படுத்தப்படலாம். இதற்கிடையில், இந்த குறிப்பிட்ட அம்சங்களின் விரிவான உற்பத்தி பயன்பாடுகள் இன்னும் முழுமையாக சரிபார்க்கப்படவில்லை."
   },
   {
     "id": "949482e69daf1e02",

@@ -2729,13 +2729,17 @@
     "hasSummary": true,
     "link": "https://watcher.guru/news/us-dollar-unshakable-rises-to-89-in-the-forex-market",
     "source": "Watcher.Guru",
-    "tags": [],
+    "tags": [
+      "Bank for International Settlements",
+      "United States"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T10:05:00.000Z",
     "fetchedAt": "2026-09-22T12:01:33.730Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "us-dollar-unshakable-rises-to-89-in-the-forex-market"
+    "content": "The US dollar remains unshakable in the global financial market, maintaining its dominant position according to the latest data released by the Bank for International Settlements. Despite changing economic conditions worldwide, the currency has risen to account for 89 percent in the foreign exchange market, highlighting its enduring strength and central role in international trade and currency transactions.",
+    "slug": "us-dollar-unshakable-rises-to-89-in-the-forex-market",
+    "content_ta": "சர்வதேச நிதிக்கணக்கெடுப்பு தரவுகளின்படி, Bank for International Settlements வெளியிட்டுள்ள புதிய தகவல்களின் அடிப்படையில் US dollar தனது ஆதிக்கத்தை தொடர்ந்து தக்கவைத்துள்ளது. உலகின் பல்வேறு பொருளாதார மாற்றங்களுக்கு மத்தியிலும், foreign exchange market-ல் இதன் பங்கு 89 சதவீதமாக உயர்ந்துள்ளது."
   },
   {
     "id": "6364b2dc4da52829",
@@ -3037,13 +3041,18 @@
     "hasSummary": true,
     "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
     "source": "CoinDesk",
-    "tags": [],
+    "tags": [
+      "Bitcoin",
+      "Ether",
+      "Kalshi"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T12:32:15.000Z",
     "fetchedAt": "2026-09-22T14:13:44.979Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows"
+    "content": "Data shows that Bitcoin and ether perpetual volumes on Kalshi are dominated by unusual and repetitive trading patterns. An investigation found specific recurring trade sizes making up the majority of sampled volume for both cryptocurrencies, highlighting peculiar market activity on the prediction market platform.",
+    "slug": "bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
+    "content_ta": "Kalshi-ல் உள்ள Bitcoin மற்றும் ether perpetual வர்த்தக அளவுகள் அசாதாரண மற்றும் மீண்டும் மீண்டும் நிகழும் வர்த்தகங்களால் ஆதிக்கம் செலுத்தப்படுவதாக தரவுகள் காட்டுகின்றன. இந்த கிரிப்டோகரன்சிகளின் மாதிரியான வர்த்தக அளவில் பெரும்பகுதியை குறிப்பிட்ட மீண்டும் நிகழும் வர்த்தக அளவுகள் உருவாக்குவதை ஒரு ஆய்வு கண்டறிந்துள்ளது."
   },
   {
     "id": "2cc631d567c16cb4",
@@ -3052,13 +3061,17 @@
     "hasSummary": true,
     "link": "https://cointelegraph.com/magazine/big-questions-does-satoshi-actually-own-1-million-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "source": "Cointelegraph",
-    "tags": [],
+    "tags": [
+      "Bitcoin",
+      "Satoshi"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:30:00.000Z",
     "fetchedAt": "2026-09-22T14:13:44.979Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "big-questions-does-satoshi-actually-own-1-1-million-bitcoin"
+    "content": "Researchers have traced an estimated 1.1 million Bitcoin to a distinctive early mining operation. However, a harder and ongoing question remains whether that early miner was actually Bitcoin creator Satoshi. While the blockchain allows experts to track coins associated with this massive reserve, definitive proof linking the wallet directly to Satoshi has not been established.",
+    "slug": "big-questions-does-satoshi-actually-own-1-1-million-bitcoin",
+    "content_ta": "சுமார் 1.1 மில்லியன் Bitcoin ஒரு ஆரம்பகால மைனிங் செயல்பாட்டுடன் தொடர்புடையது என்று ஆராய்ச்சியாளர்கள் கண்டறிந்துள்ளனர். இருப்பினும், அந்த மைனர் உண்மையில் Satoshi தானா என்பது இன்னும் உறுதியாகத் தெரியவில்லை. பிளாக்செயின் மூலம் நாணயங்களை ட்ரேஸ் செய்ய முடிந்தாலும், அந்த வாலட் நேரடியாக Satoshi-க்கு சொந்தமானது என்பதற்கான உறுதியான சான்றுகள் இன்னும் கண்டறியப்படவில்லை."
   },
   {
     "id": "b8106d04f43e115f",
@@ -3088,13 +3101,18 @@
     "hasSummary": true,
     "link": "https://www.theblock.co/news/markets/2026-09-22-cme-adds-bitcoin-cash-and-uniswap-futures-as-crypto-derivatives-push-grows-416049",
     "source": "The Block",
-    "tags": [],
+    "tags": [
+      "CME",
+      "Bitcoin Cash",
+      "Uniswap"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:56:11.000Z",
     "fetchedAt": "2026-09-22T14:13:44.979Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "cme-adds-bitcoin-cash-and-uniswap-futures-as-crypto-derivatives-push-grows"
+    "content": "CME has expanded its cryptocurrency derivatives offerings by introducing futures contracts for Bitcoin Cash and Uniswap. The exchange will provide both standard and Micro contracts for these digital assets, catering to growing market demand and expanding trading options for investors looking to gain exposure to these specific tokens.",
+    "slug": "cme-adds-bitcoin-cash-and-uniswap-futures-as-crypto-derivatives-push-grows",
+    "content_ta": "CME நிறுவனம் தனது cryptocurrency derivatives சேவையை விரிவுபடுத்தும் வகையில் Bitcoin Cash மற்றும் Uniswap ஆகியவற்றுக்கான futures contracts-ஐ அறிமுகப்படுத்தியுள்ளது. இந்த exchange-ல் standard மற்றும் Micro contracts வழங்கப்படுகின்றன, இதன் மூலம் முதலீட்டாளர்களுக்கு கூடுதல் வர்த்தக வாய்ப்புகள் உருவாக்கப்பட்டுள்ளன."
   },
   {
     "id": "cbb12e82b0acbb07",
@@ -3103,13 +3121,17 @@
     "hasSummary": true,
     "link": "https://cryptoslate.com/gamestop-may-have-surrendered-31-million-of-bitcoin-upside-with-one-options-trade/",
     "source": "CryptoSlate",
-    "tags": [],
+    "tags": [
+      "GameStop",
+      "Bitcoin"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:40:56.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "gamestop-may-have-surrendered-31-million-of-bitcoin-upside-with-one-options-trade"
+    "content": "GameStop may have missed out on significant Bitcoin upside following a recent options trade. Bitcoin traded above the $70,000 strike price ahead of a September 25 maturity date. However, GameStop has not disclosed the exact status of its position or the specific settlement terms of the trade.",
+    "slug": "gamestop-may-have-surrendered-31-million-of-bitcoin-upside-with-one-options-trade",
+    "content_ta": "ஒரு சமீபத்திய ஆப்ஷன்ஸ் வர்த்தகம் காரணமாக GameStop நிறுவனம் Bitcoin-ல் கிடைக்கவிருந்த பெருமளவு லாபத்தை இழந்திருக்கக்கூடும். செப்டம்பர் 25 முதிர்வு தேதிக்கு முன்பு Bitcoin $70,000 ஸ்டிரைக் விலைக்கு மேல் வர்த்தகமானது. இருப்பினும், GameStop தனது நிலையின் நிலை அல்லது வர்த்தகத்தின் தீர்வு விதிமுறைகளை இன்னும் வெளிப்படுத்தவில்லை."
   },
   {
     "id": "7dbd4ccc3d50461e",
@@ -3142,13 +3164,19 @@
     "hasSummary": true,
     "link": "https://bitcoinmagazine.com/videos/jeff-walton-how-strive-supercharged-its-bitcoin-buying-strategy",
     "source": "Bitcoin Magazine",
-    "tags": [],
+    "tags": [
+      "Strive",
+      "Bitcoin",
+      "Russell 2000",
+      "Jeff Walton"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:19:04.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "jeff-walton-how-strive-supercharged-its-bitcoin-buying-strategy"
+    "content": "Strive has emerged as one of the top-performing stocks in the Russell 2000 index over the past month. According to Chief Risk Officer Jeff Walton, the company is rapidly accelerating its Bitcoin acquisition strategy, maintaining a pace to double its holdings approximately every 12 weeks as part of its ongoing corporate financial initiatives.",
+    "slug": "jeff-walton-how-strive-supercharged-its-bitcoin-buying-strategy",
+    "content_ta": "கடந்த மாதம் Russell 2000 குறியீட்டில் Strive நிறுவனத்தின் பங்குகள் மிகச்சிறந்த வளர்ச்சியைப் பெற்றுள்ளன. நிறுவனத்தின் Chief Risk Officer Jeff Walton அவர்களின்படி, Strive நிறுவனம் தனது Bitcoin முதலீட்டு உத்தியை தீவிரப்படுத்தியுள்ளது. ஒவ்வொரு 12 வாரங்களுக்கும் ஒருமுறை தனது Bitcoin இருப்பை இரட்டிப்பாக்கும் இலக்குடன் நிறுவனம் செயல்பட்டு வருவதாக அவர் தெரிவித்தார்."
   },
   {
     "id": "7d4d87b7b3ed8fb4",
@@ -3179,13 +3207,18 @@
     "hasSummary": true,
     "link": "https://cryptonews.com/news/trump-xi-polymarket-odds-handshake/",
     "source": "CryptoNews",
-    "tags": [],
+    "tags": [
+      "Polymarket",
+      "Trump",
+      "Xi"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T12:52:46.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "trump-xi-polymarket-odds-for-handshake-hit-50"
+    "content": "Prediction markets on Polymarket show a 50% chance for a 10-15 second handshake between Trump and Xi. Meanwhile, alternative greeting contracts for a hug or a kiss are trailing significantly behind at 5% and 1% respectively, according to recent platform data.",
+    "slug": "trump-xi-polymarket-odds-for-handshake-hit-50",
+    "content_ta": "Polymarket கணிப்பு சந்தைகளில் Trump மற்றும் Xi இடையே 10-15 வினாடிகள் கைகுலுக்குவதற்கான வாய்ப்பு 50% ஆக உள்ளது. இதற்கிடையில், கட்டிப்பிடித்தல் மற்றும் முத்தமிடுதல் போன்ற பிற ஒப்பந்தங்கள் முறையே 5% மற்றும் 1% என்ற அளவில் பின்தங்கியுள்ளன."
   },
   {
     "id": "c027afe69bace54f",
@@ -3194,13 +3227,16 @@
     "hasSummary": true,
     "link": "https://ambcrypto.com/digital-coins-vs-crypto-whats-the-difference/",
     "source": "AMBCrypto",
-    "tags": [],
+    "tags": [
+      "Bitcoin"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:00:32.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "digital-coins-vs-crypto-what-s-the-difference"
+    "content": "Digital currencies are widely used online, but they operate differently. A cryptocurrency like Bitcoin functions in a distinct manner compared to virtual coins used in mobile games or social casinos. Although they may look similar as numerical balances in an account, the underlying technology varies significantly.",
+    "slug": "digital-coins-vs-crypto-what-s-the-difference",
+    "content_ta": "டிஜிட்டல் நாணயங்கள் ஆன்லைனில் பரவலாகப் பயன்படுத்தப்படுகின்றன, ஆனால் அவைகளின் செயல்முறைகள் வெவ்வேறானவை. மொபைல் கேம்கள் அல்லது சோஷியல் கேசினோக்களில் பயன்படுத்தப்படும் நாணயங்களிலிருந்து Bitcoin போன்ற ஒரு cryptocurrency முற்றிலும் மாறுபட்ட முறையில் செயல்படுகிறது. கணக்கில் எண்களாக அவை ஒரே மாதிரி தோன்றினாலும், அவற்றுக்கான தொழில்நுட்பம் முற்றிலும் வேறுபட்டது."
   },
   {
     "id": "aaf7f15d81255b35",
@@ -3247,13 +3283,19 @@
     "hasSummary": true,
     "link": "https://u.today/binance-suddenly-drops-19-coins-xrp-breaks-155-via-symmetrical-triangle-shiba-inu-shib-bull-combo",
     "source": "U.Today",
-    "tags": [],
+    "tags": [
+      "Binance",
+      "Circle",
+      "XRP",
+      "Shiba Inu"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:00:00.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "binance-suddenly-drops-19-coins-xrp-breaks-1-55-via-symmetrical-triangle-shiba-inu-shib-bull-combo"
+    "content": "Binance has dropped 19 USDC trading pairs following a major deal with Circle. Meanwhile, XRP broke past the $1.55 resistance level by successfully cracking a five-week symmetrical triangle pattern. In addition, Shiba Inu faced setbacks as its latest Bull Combo quest encountered resistance in the market.",
+    "slug": "binance-suddenly-drops-19-coins-xrp-breaks-1-55-via-symmetrical-triangle-shiba-inu-shib-bull-combo",
+    "content_ta": "Circle நிறுவனத்துடனான ஒப்பந்தத்தைத் தொடர்ந்து, Binance நிறுவனம் 19 USDC ஜோடி வர்த்தகங்களை நீக்கியுள்ளது. இதற்கிடையில், ஐந்து வாரங்களுக்குப் பிறகு Symmetrical Triangle முறையைத் தாண்டி XRP $1.55 விலையைக் கடந்துள்ளது. மேலும், Shiba Inu-வின் 'Bull Combo' முயற்சி சந்தையில் தடையைச் சந்தித்துள்ளது."
   },
   {
     "id": "2eccb5fcb54041ad",
@@ -3262,13 +3304,18 @@
     "hasSummary": true,
     "link": "https://beincrypto.com/cme-group-picked-uni-bch-futures/",
     "source": "BeInCrypto",
-    "tags": [],
+    "tags": [
+      "CME Group",
+      "Bitcoin Cash",
+      "Uniswap"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T12:49:59.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "2-altcoins-just-got-wall-street-s-stamp-of-approval-what-happens-next"
+    "content": "CME Group announced plans to add Bitcoin Cash and Uniswap futures to its crypto derivatives lineup on October 19, pending regulatory review. Following the announcement, Uniswap jumped about 5% and Bitcoin Cash climbed nearly 10% within minutes. The world’s largest derivatives exchange confirmed these new contracts, bringing further institutional attention to the altcoins.",
+    "slug": "2-altcoins-just-got-wall-street-s-stamp-of-approval-what-happens-next",
+    "content_ta": "ஒழுங்குமுறை மதிப்பீட்டிற்கு உட்பட்டு, அக்டோபர் 19 அன்று தனது கிரிப்டோ டெரிவேடிவ்களில் Bitcoin Cash மற்றும் Uniswap ஃபியூச்சர்ஸ் ஒப்பந்தங்களைச் சேர்க்கப் போவதாக CME Group அறிவித்துள்ளது. இந்த அறிவிப்பைத் தொடர்ந்து, சில நிமிடங்களில் Uniswap சுமார் 5% உயர்ந்தது மற்றும் Bitcoin Cash கிட்டத்தட்ட 10% உயர்ந்தது. உலகின் மிகப்பெரிய டெரிவேடிவ் பரிமாற்ற நிறுவனம் இந்த புதிய ஒப்பந்தங்களை உறுதிப்படுத்தியுள்ளது."
   },
   {
     "id": "95a47d741ac617f7",
@@ -3277,13 +3324,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/richmond-fed-manufacturing-index-september-2026/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Richmond Fed",
+      "United States"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:10:05.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "richmond-fed-manufacturing-index-slips-to-2-in-september-as-orders-and-shipments-retreat"
+    "content": "The Richmond Fed manufacturing index dropped to -2 in September. This decline was driven by retreats in new orders and shipments. Analysts note the drop points to potential economic challenges, as manufacturers face softening demand and rising costs that squeeze profit margins.",
+    "slug": "richmond-fed-manufacturing-index-slips-to-2-in-september-as-orders-and-shipments-retreat",
+    "content_ta": "செப்டம்பர் மாதத்தில் Richmond Fed உற்பத்தி குறியீடு -2 ஆகக் குறைந்துள்ளது. புதிய ஆர்டர்கள் மற்றும் ஏற்றுமதிகள் சரிந்ததே இந்த வீழ்ச்சிக்கு முக்கிய காரணமாகும். உற்பத்தியாளர்கள் மெதுவான தேவையையும் அதிகரித்து வரும் செலவுகளையும் எதிர்கொள்வதால், இது சாத்தியமான பொருளாதார சவால்களைச் சுட்டிக்காட்டுவதாக ஆய்வாளர்கள் குறிப்பிடுகின்றனர்."
   },
   {
     "id": "84ecad8f8acd7bb7",
@@ -3292,13 +3343,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/the-latent-block-ai-publication-launch/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "The Block",
+      "The Latent"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:07:12.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "the-latent-launches-as-the-block-s-new-ai-focused-publication"
+    "content": "Crypto media outlet The Block has launched a new artificial intelligence-focused publication called The Latent. The platform aims to provide dedicated AI coverage, including data tools, model rankings, and daily reporting on the evolving technology sector. The launch reflects the growing intersection of artificial intelligence and digital assets within the broader tech industry.",
+    "slug": "the-latent-launches-as-the-block-s-new-ai-focused-publication",
+    "content_ta": "Crypto ஊடக நிறுவனமான The Block, The Latent என்ற பெயரில் புதிய AI-சார்ந்த பிரசுரத்தை அறிமுகப்படுத்தியுள்ளது. AI தொடர்பான தரவுக் கருவிகள், மாடல் தரவரிசைகள் மற்றும் தினசரி செய்திகளை வழங்குவதை இந்த தளம் நோக்கமாகக் கொண்டுள்ளது."
   },
   {
     "id": "a2351131e989e007",
@@ -3307,13 +3362,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/rosenblatt-sandisk-buy-2400-target/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "SanDisk",
+      "Rosenblatt"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:06:01.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "rosenblatt-starts-sandisk-at-buy-with-2-400-price-target-betting-nand-is-the-next-ai-bottleneck"
+    "content": "Rosenblatt has initiated coverage on SanDisk with a buy rating and a price target of $2,400. The firm believes that NAND technology is positioned to become the next major bottleneck in artificial intelligence infrastructure, which could drive significant growth and reshape the competitive landscape in memory technology moving forward.",
+    "slug": "rosenblatt-starts-sandisk-at-buy-with-2-400-price-target-betting-nand-is-the-next-ai-bottleneck",
+    "content_ta": "SanDisk நிறுவனத்தை buy மதிப்பீடு மற்றும் $2,400 விலை இலக்குடன் Rosenblatt தொடங்கியுள்ளது. AI உள்கட்டமைப்பில் NAND தொழில்நுட்பம் அடுத்த பெரிய தடையாக மாறும் என்று இந்த நிறுவனம் நம்புகிறது, இது நினைவக தொழில்நுட்பத்தில் குறிப்பிடத்தக்க வளர்ச்சியை ஏற்படுத்தக்கூடும்."
   },
   {
     "id": "6eecb09f11587e17",
@@ -3322,13 +3381,18 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/russia-uses-ai-fakes-to-claim-jews-paid-to-settle-in-ukraine-jerusalem-post/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Russia",
+      "Ukraine",
+      "Jerusalem Post"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:04:36.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "russia-uses-ai-fakes-to-claim-jews-paid-to-settle-in-ukraine-jerusalem-post"
+    "content": "According to the Jerusalem Post, Russia has deployed AI-generated fakes to spread disinformation claiming that Jewish individuals are being paid to settle in Ukraine. This strategy highlights a shift toward psychological warfare in the ongoing conflict.",
+    "slug": "russia-uses-ai-fakes-to-claim-jews-paid-to-settle-in-ukraine-jerusalem-post",
+    "content_ta": "Jerusalem Post-IN தகவலின்படி, உக்ரைனில் குடியேற யூதர்களுக்கு பணம் வழங்கப்படுவதாகக் கூறும் பொய்யான தகவல்களைப் பரப்ப Russia செயற்கை நுண்ணறிவு (AI) தொழில்நுட்பத்தைப் பயன்படுத்தியுள்ளது."
   },
   {
     "id": "6c60a84d31c18bc1",
@@ -3337,13 +3401,18 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/trump-defends-iran-war-un-general-assembly/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Donald Trump",
+      "Iran",
+      "United Nations"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:03:56.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "donald-trump-to-defend-iran-war-at-un-general-assembly-as-conflict-reaches-seventh-month"
+    "content": "Donald Trump is set to defend the ongoing conflict with Iran during his address at the UN General Assembly as the military engagement marks its seventh month. Observers note that the speech could significantly impact global geopolitics, international diplomacy, and financial markets, drawing heightened attention to United States foreign policy decisions.",
+    "slug": "donald-trump-to-defend-iran-war-at-un-general-assembly-as-conflict-reaches-seventh-month",
+    "content_ta": "UN General Assembly-ல் தனது உரையின்போது Donald Trump அவர்கள் Iran-உடன் நிலவும் மோதலை நியாயப்படுத்தவுள்ளார். இந்த மோதல் தனது ஏழாவது மாதத்தை எட்டியுள்ள நிலையில், உலகளாவிய புவிசார் அரசியல், சர்வதேச இராஜதந்திரம் மற்றும் சந்தைகளில் இந்த உரை தாக்கத்தை ஏற்படுத்தக்கூடும் என எதிர்பார்க்கப்படுகிறது."
   },
   {
     "id": "3fcf1bba43004c50",
@@ -3372,13 +3441,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/nvidia-isaac-ros-5-ai-agents-robotics/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Nvidia",
+      "Isaac ROS"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:54:55.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "nvidia-isaac-ros-5-0-introduces-ai-agents-for-robotics-development"
+    "content": "Nvidia has launched Isaac ROS 5.0, introducing AI agents designed to transform robotics development. This update aims to significantly accelerate the creation of advanced robotic systems, driving greater efficiency and fostering technological innovation across the robotics industry.",
+    "slug": "nvidia-isaac-ros-5-0-introduces-ai-agents-for-robotics-development",
+    "content_ta": "ரொபாட்டிக்ஸ் வளர்ச்சியை மேம்படுத்தும் வகையில் AI ஏஜென்ட்களுடன் Nvidia நிறுவனம் Isaac ROS 5.0-ஐ அறிமுகப்படுத்தியுள்ளது. இந்த புதிய அப்டேட் மேம்பட்ட ரொபாட்டிக்ஸ் அமைப்புகளின் உருவாக்கத்தை விரைவுபடுத்துவதோடு, இத்துறையில் செயல்திறனை அதிகரிக்கவும் உதவுகிறது."
   },
   {
     "id": "84c8d9151ee6d2a2",
@@ -3387,13 +3460,16 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/us-debt-surpasses-40-trillion-bond-market/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "United States"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:47:00.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "bond-markets-face-scrutiny-as-us-debt-surpasses-40t"
+    "content": "Bond markets face intense scrutiny as the total United States debt surpasses the $40 trillion threshold. Rising national debt and the associated interest costs have raised concerns about public funding strain and potential economic vulnerability. These developments are drawing close attention from global investors and influencing broader market sentiment regarding fiscal stability.",
+    "slug": "bond-markets-face-scrutiny-as-us-debt-surpasses-40t",
+    "content_ta": "மொத்த United States கடன் $40 trillion-ஐத் தாண்டியுள்ளதால், பாண்ட் சந்தைகள் கடுமையான ஆய்வை எதிர்கொள்கின்றன. அதிகரித்து வரும் தேசிய கடன் மற்றும் அதனுடன் தொடர்புடைய வட்டி செலவுகள், பொது நிதிச் சுமை மற்றும் பொருளாதார பாதிப்பு குறித்த கவலைகளை எழுப்பியுள்ளன. இந்த வளர்ச்சிகள் உலகளாவிய முதலீட்டாளர்களின் கவனத்தை ஈர்த்து வருவதுடன், நிதி நிலைத்தன்மை குறித்த பரந்த சந்தை உணர்வையும் பாதிக்கின்றன."
   },
   {
     "id": "38572718df8603ab",
@@ -3402,13 +3478,16 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/un-calls-ai-regulation-killer-robots/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "United Nations"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:45:25.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "united-nations-chief-calls-for-ai-regulation-to-prevent-killer-robots"
+    "content": "The United Nations chief has called for urgent regulation of artificial intelligence to prevent the development and use of autonomous killer robots. This push highlights growing ethical and security challenges worldwide, emphasizing the critical need for a global consensus to govern advanced autonomous systems and ensure international safety.",
+    "slug": "united-nations-chief-calls-for-ai-regulation-to-prevent-killer-robots",
+    "content_ta": "தன்னாட்சி பெற்ற கில்லர் ரோபோக்களின் பயன்பாட்டைத் தடுக்க செயற்கை நுண்ணறிவு (AI) முறைக்கு அவசர ஒழுங்குமுறை வேண்டும் என்று United Nations தலைவர் கோரிக்கை விடுத்துள்ளார். இந்த நடவடிக்கை உலகளாவிய நெறிமுறை மற்றும் பாதுகாப்பு சவால்களை எடுத்துக்காட்டுவதுடன், மேம்பட்ட அமைப்புகளை நிர்வகிக்க உலகளாவிய உடன்பாட்டின் அவசியத்தையும் வலியுறுத்துகிறது."
   },
   {
     "id": "5d365f20ed0798cc",
@@ -3417,13 +3496,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/fed-collins-warns-persistent-inflation-risks/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Federal Reserve",
+      "Collins"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:42:12.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "federal-reserve-s-collins-warns-of-persistent-inflation-risks-above-2"
+    "content": "Federal Reserve official Collins has warned that persistent inflation remaining above the 2% target could lead to prolonged economic tightening. This situation may impact overall economic growth and increase financial instability risks, according to recent statements.",
+    "slug": "federal-reserve-s-collins-warns-of-persistent-inflation-risks-above-2",
+    "content_ta": "Federal Reserve-ன் Collins, தொடர்ந்து 2%-க்கு மேல் இருக்கும் பணவீக்கம் பொருளாதாரத்தை மேலும் இறுக்கமடையச் செய்யலாம் என்று எச்சரித்துள்ளார். இந்த நிலை பொருளாதார வளர்ச்சியைப் பாதிப்பதோடு, நிதி ஸ்திரத்தன்மையின் ஆபத்துகளையும் அதிகரிக்கும் என்று தெரிவிக்கப்பட்டுள்ளது."
   },
   {
     "id": "2db57855584509b4",
@@ -3432,13 +3515,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/jupiter-exchange-top-dex-aggregator/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Jupiter Exchange",
+      "Solana"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:34:50.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "jupiter-exchange-ranks-as-top-dex-aggregator-across-all-chains-but-the-crown-is-slipping"
+    "content": "Jupiter Exchange has established itself as a leading decentralized exchange aggregator across multiple blockchain networks, maintaining strong dominance on the Solana network. However, the platform faces increasing competitive pressures within the broader multi-chain decentralized finance landscape, raising concerns about maintaining its market share as the industry evolves.",
+    "slug": "jupiter-exchange-ranks-as-top-dex-aggregator-across-all-chains-but-the-crown-is-slipping",
+    "content_ta": "Jupiter Exchange பல பிளாக்செயின் நெட்வொர்க்குகளில் முன்னணி DEX அக்ரிகேட்டராக தன்னை நிலைநிறுத்திக் கொண்டுள்ளது, மேலும் Solana நெட்வொர்க்கில் தனது பலமான ஆதிக்கத்தை தக்க வைத்துக் கொண்டுள்ளது. இருப்பினும், பரந்த பல்துறை பரவலாக்கப்பட்ட நிதி சூழலில் வளர்ந்து வரும் போட்டி அழுத்தங்களை இந்த தளம் எதிர்கொள்கிறது, இதனால் அதன் சந்தை பங்கை பராமரிப்பதில் சவால்கள் எழுந்துள்ளன."
   },
   {
     "id": "45b36fadb1103486",
@@ -3447,13 +3534,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/saudi-aramco-set-to-resume-red-sea-oil-loadings-after-pipeline-disruption/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Saudi Aramco",
+      "Red Sea"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:29:14.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "saudi-aramco-set-to-resume-red-sea-oil-loadings-after-pipeline-disruption"
+    "content": "Saudi Aramco is preparing to resume oil loadings in the Red Sea following a temporary pipeline disruption. This development is expected to help stabilize global energy markets, alleviate supply anxieties, and potentially reduce oil prices for consumers worldwide as normal operations are gradually restored across the affected transport routes.",
+    "slug": "saudi-aramco-set-to-resume-red-sea-oil-loadings-after-pipeline-disruption",
+    "content_ta": "தற்காலிக குழாய் இணைப்புத் தடைக்குப் பிறகு Red Sea பகுதியில் oil loadings-ஐ மீண்டும் தொடங்க Saudi Aramco தயாராகி வருகிறது. இந்த நடவடிக்கையானது உலகளாவிய energy markets-ஐ stabilize செய்யவும், supply concerns-ஐக் குறைக்கவும், oil prices-ஐக் குறைக்க உதவவும் செய்யும் என்று எதிர்பார்க்கப்படுகிறது."
   },
   {
     "id": "798def45063a569c",
@@ -3462,13 +3553,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/kieran-mckenna-manchester-united-manager-talks/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Kieran McKenna",
+      "Manchester United"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:26:37.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "kieran-mckenna-open-to-talks-with-manchester-united-amid-management-change"
+    "content": "Kieran McKenna is reportedly open to discussions with Manchester United regarding a potential management role as the club navigates leadership changes. McKenna's background and past success with the team have sparked speculation about a possible return to help stabilize the organization during this period of transition.",
+    "slug": "kieran-mckenna-open-to-talks-with-manchester-united-amid-management-change",
+    "content_ta": "Manchester United அணியின் நிர்வாக மாற்றங்களுக்கு மத்தியில், Kieran McKenna அணியினருடன் பேச்சுவார்த்தை நடத்த தயாராக உள்ளதாக தகவல்கள் வெளியாகியுள்ளன. அணியின் முந்தைய வெற்றி மற்றும் அனுபவம் காரணமாக, இந்த மாறுதல் காலத்தில் அணியை ஸ்திரப்படுத்த அவர் திரும்பக்கூடும் என்ற ஊகங்கள் எழுந்துள்ளன."
   },
   {
     "id": "d55d8c2baf9e6bef",
@@ -3477,13 +3572,16 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/nexstrom-12m-2d-semiconductor-technology/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Nexstrom"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:25:44.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "nexstrom-raises-12m-to-advance-2d-semiconductor-technology"
+    "content": "Nexstrom has successfully raised $12 million in funding to further develop its 2D semiconductor technology. This financial boost aims to accelerate the transition toward more efficient and ultra-low-power chips. The advancement is expected to have a significant impact on both the artificial intelligence and semiconductor industries by improving overall chip performance and energy efficiency.",
+    "slug": "nexstrom-raises-12m-to-advance-2d-semiconductor-technology",
+    "content_ta": "Nexstrom நிறுவனம் தனது 2D semiconductor தொழில்நுட்பத்தை மேம்படுத்துவதற்காக $12 மில்லியன் நிதி திரட்டியுள்ளது. இந்த நிதியுதவியானது அதிக திறன் கொண்ட மற்றும் மிகக் குறைந்த மின் நுகர்வுள்ள சிப்களின் பயன்பாட்டை விரைவுபடுத்துவதை நோக்கமாகக் கொண்டுள்ளது. இந்த தொழில்நுட்ப முன்னேற்றம் artificial intelligence மற்றும் semiconductor துறைகளில் குறிப்பிடத்தக்க தாக்கத்தை ஏற்படுத்தும் என எதிர்பார்க்கப்படுகிறது."
   },
   {
     "id": "e1063c19164d61e8",
@@ -3492,13 +3590,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/ecb-tougher-eu-crypto-rules-stablecoin-interest-ban/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "European Central Bank",
+      "European Union"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:24:13.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "european-central-bank-calls-for-tougher-eu-crypto-rules-and-stablecoin-interest-ban"
+    "content": "The European Central Bank has urged the European Union to implement stricter regulations on the crypto industry, including a ban on interest for stablecoins. While aimed at enhancing financial stability, this regulatory push raises concerns about potentially hindering innovation, affecting the competitiveness of euro-backed stablecoins, and centralizing oversight within the region.",
+    "slug": "european-central-bank-calls-for-tougher-eu-crypto-rules-and-stablecoin-interest-ban",
+    "content_ta": "கிரிப்டோ துறைக்கு கடுமையான ஒழுங்குமுறைகளைக் கொண்டுவரவும், stablecoinகளுக்கு வட்டி வழங்குவதைத் தடை செய்யவும் European Central Bank ஆனது European Union-ஐ வலியுறுத்தியுள்ளது. நிதி ஸ்திரத்தன்மையை மேம்படுத்துவதை நோக்கமாகக் கொண்ட இந்த நடவடிக்கை, புதிய கண்டுபிடிப்புகளைப் பாதிக்கலாம் மற்றும் இப்பகுதியில் ஒழுங்குமுறை மேற்பார்வையை அதிகரிக்கலாம் என்று அஞ்சப்படுகிறது."
   },
   {
     "id": "6ded027632b4e0cb",
@@ -3526,13 +3628,16 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/andreessen-horowitz-ai-school-launch/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Andreessen Horowitz"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:11:39.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "andreessen-horowitz-launches-ai-school-as-college-alternative"
+    "content": "Venture capital firm Andreessen Horowitz has launched a new artificial intelligence school positioned as an alternative to traditional college education. The program focuses on providing practical skills to students, potentially disrupting conventional academic models and offering a direct pathway into the tech and AI sectors.",
+    "slug": "andreessen-horowitz-launches-ai-school-as-college-alternative",
+    "content_ta": "வெஞ்சர் கேப்பிட்டல் நிறுவனமான Andreessen Horowitz, பாரம்பரிய கல்லூரி கல்விக்கு மாற்றாக புதிய செயற்கை நுண்ணறிவு (AI) பள்ளியைத் தொடங்கியுள்ளது. இந்தத் திட்டம் மாணவர்களுக்கு நடைமுறை திறன்களை வழங்குவதில் கவனம் செலுத்துகிறது, இது வழக்கமான கல்வி முறைகளை மாற்றி தொழில்நுட்பத் துறைகளில் நேரடி வழியை வழங்கக்கூடும்."
   },
   {
     "id": "f6194eb018df7539",
@@ -3541,13 +3646,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/infosys-chainlink-onchain-finance-partnership/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Infosys",
+      "Chainlink"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:10:26.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "it-services-giant-infosys-adopts-chainlink-tools-in-push-for-institutional-onchain-finance"
+    "content": "IT services giant Infosys has integrated Chainlink tools to advance institutional onchain finance. This strategic partnership aims to accelerate blockchain adoption within the global financial sector. By leveraging these tools, the collaboration seeks to enhance transparency, improve interoperability, and strengthen regulatory compliance for traditional financial institutions entering the blockchain space.",
+    "slug": "it-services-giant-infosys-adopts-chainlink-tools-in-push-for-institutional-onchain-finance",
+    "content_ta": "ஐடி சேவை ஜாம்பவானான Infosys, நிறுவன அளவிலான onchain நிதியாதாரத்தை மேம்படுத்த Chainlink கருவிகளை இணைத்துள்ளது. இந்த மூலோபாய கூட்டுறவு உலகளாவிய நிதித்துறையில் பிளாக்செயின் ஏற்றுக்கொள்ளலை துரிதப்படுத்துவதை நோக்கமாகக் கொண்டுள்ளது. இத்தகைய கருவிகளைப் பயன்படுத்துவதன் மூலம், வெளிப்படைத்தன்மையை அதிகரிக்கவும், இயங்குதன்மை மற்றும் ஒழுங்குமுறை இணக்கத்தை வலுப்படுத்தவும் இந்த முயற்சி முயல்கிறது."
   },
   {
     "id": "ec06ed739c03fcbf",
@@ -3556,13 +3665,20 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/eu-ambassadors-russian-sanctions-rollover/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "EU",
+      "Brussels",
+      "France",
+      "Luxembourg",
+      "Russia"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:10:08.000Z",
     "fetchedAt": "2026-09-22T14:13:44.980Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "eu-ambassadors-meet-in-brussels-to-discuss-russian-sanctions-rollover-as-france-and-luxembourg"
+    "content": "EU ambassadors gathered in Brussels to discuss the extension of economic sanctions against Russia. The ongoing talks faced delays as France and Luxembourg raised concerns, highlighting the complexities and challenges of maintaining a unified consensus among member states for collective policy actions.",
+    "slug": "eu-ambassadors-meet-in-brussels-to-discuss-russian-sanctions-rollover-as-france-and-luxembourg",
+    "content_ta": "ரஷ்யாவுக்கு எதிரான பொருளாதாரத் தடைகளை நீட்டிப்பது குறித்து விவாதிக்க EU தூதர்கள் Brussels-ல் சந்தித்துக் கொண்டனர். France மற்றும் Luxembourg நாடுகள் சில கவலைகளை எழுப்பியதால் பேச்சுவார்த்தைகளில் தாமதம் ஏற்பட்டது, இது கூட்டு நடவடிக்கைகளுக்கான ஒருமித்த கருத்தை பராமரிப்பதில் உள்ள சவால்களைக் காட்டுகிறது."
   },
   {
     "id": "783901f0c16ebd0e",
@@ -3571,13 +3687,16 @@
     "hasSummary": true,
     "link": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
     "source": "CoinDesk",
-    "tags": [],
+    "tags": [
+      "European Union"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:32:59.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking"
+    "content": "European central banks are reportedly pushing to expand a proposed yield ban on stablecoins to include crypto lending and staking activities. Industry experts warn that this broader regulatory move could potentially stifle innovation within the digital asset sector, negatively impacting market dynamics and investor confidence throughout the European Union.",
+    "slug": "european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
+    "content_ta": "ஐரோப்பிய மத்திய வங்கிகள் stablecoin மீதான யீல்ட் தடையை crypto lending மற்றும் staking நடவடிக்கைகளுக்கும் விரிவுபடுத்த முயற்சித்து வருவதாகத் தகவல்கள் வெளியாகியுள்ளன. இந்த கடுமையான ஒழுங்குமுறை நடவடிக்கை ஐரோப்பிய யூனியன் முழுவதும் டிஜிட்டல் சொத்துத் துறையில் புதுமைகளை முடக்கி, முதலீட்டாளர்களின் நம்பிக்கையைப் பாதிக்கும் என்று நிபுணர்கள் எச்சரிக்கின்றனர்."
   },
   {
     "id": "ca25461e9cf8447d",
@@ -3586,13 +3705,16 @@
     "hasSummary": true,
     "link": "https://decrypt.co/378921/bitcoin-etfs-take-nearly-1b-in-a-day-as-average-holder-returns-to-profit",
     "source": "Decrypt",
-    "tags": [],
+    "tags": [
+      "Bitcoin"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:59:37.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "bitcoin-etfs-take-nearly-1b-in-a-day-as-average-holder-returns-to-profit"
+    "content": "Spot Bitcoin exchange-traded funds recorded massive inflows, pulling in nearly $1 billion in a single day. This strong performance surpassed the total net inflows recorded across the entire previous week, which marked the weakest period in their history. The surge in capital coincides with a market recovery that has brought the average holder back into a profitable position.",
+    "slug": "bitcoin-etfs-take-nearly-1b-in-a-day-as-average-holder-returns-to-profit",
+    "content_ta": "ஸ்பாட் Bitcoin ETF-கள் ஒரே நாளில் கிட்டத்தட்ட $1 பில்லியன் முதலீட்டை ஈர்த்து மிகப்பெரிய வளர்ச்சியைப் பதிவு செய்துள்ளன. கடந்த வாரத்தின் மொத்த முதலீட்டை விட இந்த ஒரே நாள் வர்த்தகம் அதிகமாகும். முந்தைய வாரத்தில் அவற்றின் வரலாற்றிலேயே மிகக் குறைந்த அளவிலான நிகர முதலீடே பதிவாகியிருந்தது. இந்த திடீர் மூலதன எழுச்சியால், சராசரி முதலீட்டாளர்கள் மீண்டும் லாபகரமான நிலைக்குத் திரும்பியுள்ளனர்."
   },
   {
     "id": "74ac56a8e4a31c83",
@@ -3601,13 +3723,17 @@
     "hasSummary": true,
     "link": "https://cryptoslate.com/coinbase-targets-stock-futures-but-cftc-standstill-blocks-launch/",
     "source": "CryptoSlate",
-    "tags": [],
+    "tags": [
+      "Coinbase",
+      "CFTC"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:50:59.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "coinbase-targets-stock-futures-but-cftc-standstill-blocks-launch"
+    "content": "Coinbase is planning to launch cash-settled stock futures to offer traders price exposure without requiring ownership or physical delivery of underlying shares. However, the launch has currently hit a roadblock as a standstill from the Commodity Futures Trading Commission (CFTC) blocks the rollout of these new contracts.",
+    "slug": "coinbase-targets-stock-futures-but-cftc-standstill-blocks-launch",
+    "content_ta": "Coinbase நிறுவனம் stock futures சேவையைத் தொடங்க திட்டமிட்டுள்ளது. இதன் மூலம் வர்த்தகர்கள் பங்குகளை நேரடியாக வாங்குவதில்லாமல், விலை நிலவரங்களை மட்டும் அடிப்படையாகக் கொண்டு வர்த்தகம் செய்ய முடியும். இருப்பினும், Commodity Futures Trading Commission (CFTC) அமைப்பின் நடவடிக்கை காரணமாக இந்த திட்டத்தின் தொடக்கம் தற்போது தடைபட்டுள்ளது."
   },
   {
     "id": "16769559987b9e29",
@@ -3616,13 +3742,16 @@
     "hasSummary": true,
     "link": "https://cryptoslate.com/massive-etf-capital-exits-threaten-bitcoins-fragile-86000-price-surge/",
     "source": "CryptoSlate",
-    "tags": [],
+    "tags": [
+      "Bitcoin"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:15:47.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "massive-etf-capital-exits-threaten-bitcoin-s-fragile-86-000-price-surge"
+    "content": "Bitcoin recently experienced a fragile price surge toward $86,000, but this upward movement faces potential threats from massive capital exits through exchange-traded funds. While spot taker flow and realized-cap growth have shown improvement during the market rebound, rising futures exposure and increased profit-taking activity suggest that the digital asset's recent gains remain vulnerable to broader macroeconomic and fund flow pressures.",
+    "slug": "massive-etf-capital-exits-threaten-bitcoin-s-fragile-86-000-price-surge",
+    "content_ta": "Bitcoin சமீபத்தில் $86,000 விலையை நோக்கி ஒரு பலவீனமான உயர்வை எட்டியது, ஆனால் ETF கள் மூலம் வெளியேறும் பெரிய அளவிலான மூலதனத்தால் இந்த விலை உயிருக்கு அச்சுறுத்தல் ஏற்பட்டுள்ளது. சந்தை மீட்சியின் போது ஸ்பாட் டேக்கர் ஓட்டம் மற்றும் உணரப்பட்ட-மூலதன வளர்ச்சி மேம்பட்டிருந்தாலும், அதிகரித்து வரும் ஃபியூச்சர்ஸ் வெளிப்பாடு மற்றும் லாபம் ஈட்டும் நடவடிக்கைகள் இந்த டிஜிட்டல் சொத்தின் சமீபத்திய ஏற்றங்கள் தொடர்ந்து எச்சரிக்கையுடன் இருக்க வேண்டியவை என்பதைக் காட்டுகின்றன."
   },
   {
     "id": "23d1d7ac0fb51c0f",
@@ -3631,13 +3760,18 @@
     "hasSummary": true,
     "link": "https://cryptonews.com/news/x402-solana-news-ai-payments/",
     "source": "CryptoNews",
-    "tags": [],
+    "tags": [
+      "Solana",
+      "XRP Ledger",
+      "Cardano"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:45:01.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "x402-s-50b-scale-gives-solana-an-ai-payments-edge"
+    "content": "x402 has reached a scale of roughly $50 billion in volume and 150,000 endpoints, providing Solana with a significant AI payments edge. However, experts note that the reliance on stablecoins leaves token demand across Solana, XRP Ledger, and Cardano largely unproven.",
+    "slug": "x402-s-50b-scale-gives-solana-an-ai-payments-edge",
+    "content_ta": "x402 சுமார் 50 பில்லியன் டாலர் அளவு மற்றும் 150,000 எண்ட்பாயிண்ட்களை எட்டியுள்ளது, இது Solana-விற்கு AI பேமெண்ட்ஸில் ஒரு முக்கிய வாய்ப்பை வழங்குகிறது. இருப்பினும், ஸ்டேபிம்காயின்களைச் சார்ந்திருப்பதால் Solana, XRP Ledger மற்றும் Cardano ஆகியவற்றுக்கான டோக்கன் தேவை இன்னும் நிரூபிக்கப்படவில்லை என்று நிபுணர்கள் குறிப்பிடுகின்றனர்."
   },
   {
     "id": "3d97f59cdac9daa9",
@@ -3646,13 +3780,16 @@
     "hasSummary": true,
     "link": "https://u.today/bitcoin-btc-halving-progress-hits-61-whats-next",
     "source": "U.Today",
-    "tags": [],
+    "tags": [
+      "Bitcoin"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:40:35.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "bitcoin-btc-halving-progress-hits-61-what-s-next"
+    "content": "The progress of the Bitcoin halving has officially reached 61 percent, marking a significant milestone for the leading cryptocurrency. As the countdown continues toward the next halving event, market observers and investors are closely monitoring network activity to see how this crucial supply milestone will impact the broader market dynamics and what developments lie ahead for BTC.",
+    "slug": "bitcoin-btc-halving-progress-hits-61-what-s-next",
+    "content_ta": "Bitcoin halving முன்னேற்றம் அதிகாரப்பூர்வமாக 61 சதவீதத்தை எட்டியுள்ளது, இது முன்னணி cryptocurrency-க்கு ஒரு முக்கிய மைல்கல்லாக அமைந்துள்ளது. அடுத்த halving நிகழ்வை நோக்கி கவுண்ட்டவுன் தொடர்வதால், இந்த முக்கிய சப்ளை மைல்கல் பரந்த சந்தை இயக்கவியலை எவ்வாறு பாதிக்கும் மற்றும் BTC-க்கு அடுத்து என்ன வளர்ச்சிகள் காத்திருக்கின்றன என்பதை சந்தை பார்வையாளர்களும் முதலீட்டாளர்களும் உன்னிப்பாக கவனித்து வருகின்றனர்."
   },
   {
     "id": "3662183fb518fe67",
@@ -3661,13 +3798,16 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/heidi-raises-340m-ai-healthcare/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Heidi"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:58:44.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "heidi-raises-340m-to-enhance-ai-tools-for-healthcare"
+    "content": "Heidi has successfully raised $340 million in new funding to further develop and enhance its artificial intelligence tools for the healthcare sector. This substantial financial boost is expected to accelerate AI integration in medicine, potentially improving administrative efficiency and transforming patient care globally.",
+    "slug": "heidi-raises-340m-to-enhance-ai-tools-for-healthcare",
+    "content_ta": "Healthcare துறையில் AI கருவிகளை மேம்படுத்துவதற்காக Heidi நிறுவனம் புதிய முதலீடாக $340 மில்லியன் திரட்டியுள்ளது. இந்த நிதி உதவியானது மருத்துவ துறையில் AI தொழில்நுட்பத்தின் பயன்பாட்டை விரைவுபடுத்தி, நிர்வாக திறனை மேம்படுத்தவும் உலகளாவிய நோயாளர் பராமரிப்பை மாற்றியமைக்கவும் உதவும்."
   },
   {
     "id": "68177ad29b595c52",
@@ -3676,13 +3816,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/bitquery-patoshi-pattern-early-bitcoin-mining/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Bitquery",
+      "Bitcoin"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:55:27.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "bitquery-reconstructs-patoshi-pattern-tracing-up-to-1-17-million-btc-to-bitcoin-s-earliest-miner"
+    "content": "Bitquery has successfully reconstructed the famous Patoshi pattern, tracing up to 1.17 million BTC back to Bitcoin’s earliest miner. This development sheds new light on the distribution of early cryptocurrency and continues to fuel ongoing speculation surrounding dormant coins potentially linked to the network's creator.",
+    "slug": "bitquery-reconstructs-patoshi-pattern-tracing-up-to-1-17-million-btc-to-bitcoin-s-earliest-miner",
+    "content_ta": "Bitquery நிறுவனம் பிரபல Patoshi பேட்டர்னை வெற்றிகரமாக மீட்டுள்ளதாகவும், இதன் மூலம் Bitcoin இன் ஆரம்பகால மைனருக்கு சொந்தமான 1.17 மில்லியன் BTC வரை கண்டறியப்பட்டுள்ளதாகவும் தெரிவித்துள்ளது. இந்த புதிய முன்னேற்றம் ஆரம்பகால கிரிப்டோகரன்சி விநியோகம் குறித்த விவாதங்களை மீண்டும் எழுப்பியுள்ளது."
   },
   {
     "id": "b80f17e023f9f783",
@@ -3691,13 +3835,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/asml-europe-semiconductor-production-warning/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "ASML",
+      "Europe"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:55:20.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "asml-warns-europe-risks-falling-behind-in-semiconductor-production"
+    "content": "ASML has warned that Europe is at risk of falling behind in semiconductor production. Without growth in local manufacturing, the region faces technological dependency and economic vulnerability. These challenges threaten Europe's broader ambitions in the crucial microchip sector, according to recent reports.",
+    "slug": "asml-warns-europe-risks-falling-behind-in-semiconductor-production",
+    "content_ta": "செமிகண்டக்டர் உற்பத்தியில் ஐரோப்பா பின்தங்கும் அபாயம் உள்ளதாக ASML எச்சரித்துள்ளது. உள்ளூர் உற்பத்தியை அதிகரிக்காவிட்டால், அந்தப் பிராந்தியமானது தொழில்நுட்பச் சார்புநிலை மற்றும் பொருளாதார பலவீனத்தை எதிர்கொள்ள நேரிடும்."
   },
   {
     "id": "b69bbb8531fc0db8",
@@ -3706,13 +3854,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/bnb-agent-studio-v4-nodeops-deployment/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "BNB Agent Studio",
+      "NodeOps"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:53:10.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "bnb-agent-studio-v4-simplifies-agent-deployment-with-nodeops-support"
+    "content": "BNB Agent Studio v4 has been released, featuring NodeOps support designed to simplify AI agent deployment on the blockchain. This streamlined process aims to accelerate adoption, enhance overall utility, and foster continuous growth within the ecosystem, making it easier for users to launch and manage their decentralized applications.",
+    "slug": "bnb-agent-studio-v4-simplifies-agent-deployment-with-nodeops-support",
+    "content_ta": "BNB Agent Studio v4 வெளியிடப்பட்டுள்ளது. இது blockchain-ல் AI agent-களை எளிதாக deploy செய்ய உதவும் வகையில் NodeOps ஆதரவைக் கொண்டுள்ளது. இந்த மேம்படுத்தப்பட்ட செயல்முறை adoption-ஐ துரிதப்படுத்தவும், utility-ஐ மேம்படுத்தவும், ecosystem-ன் வளர்ச்சியை ஊக்குவிக்கவும் உதவுகிறது."
   },
   {
     "id": "5378a230d3881d59",
@@ -3721,13 +3873,19 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/eu-removes-usmanov-fridman-sanctions/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "European Union",
+      "Ukraine",
+      "Usmanov",
+      "Fridman"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:52:33.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "european-union-removes-usmanov-and-fridman-from-sanctions-list-in-controversial-deal"
+    "content": "The European Union has removed Usmanov and Fridman from its sanctions list in a controversial move. This decision could potentially strain diplomatic relations with Ukraine and reveal internal divisions within the bloc. Such policy shifts may significantly impact future diplomatic and economic strategies across the region.",
+    "slug": "european-union-removes-usmanov-and-fridman-from-sanctions-list-in-controversial-deal",
+    "content_ta": "சர்ச்சைக்குரிய ஒப்பந்தத்தின் ஒரு பகுதியாக Usmanov மற்றும் Fridman ஆகியோரை ஐரோப்பிய ஒன்றியம் (European Union) தனது பொருளாதாரத் தடைப் பட்டியலில் இருந்து நீக்கியுள்ளது. இந்த முடிவு Ukraine உடனான உறவுகளில் சிக்கலை ஏற்படுத்தலாம் மற்றும் உள்நாட்டு பிளவுகளை வெளிச்சம் போட்டுக் காட்டலாம்."
   },
   {
     "id": "b10107da003c52a7",
@@ -3736,13 +3894,19 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/cryptopunks-boogles-zksnarks-nft-volume/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "CryptoPunks",
+      "Boogles",
+      "zkSnarks",
+      "Crypto Briefing"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:52:19.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "cryptopunks-boogles-and-zksnarks-drive-millions-in-nft-trading-volume"
+    "content": "Recent trading activity for digital assets like CryptoPunks, Boogles, and zkSnarks has generated millions in NFT volume across multiple blockchains. This notable surge highlights the evolving market dynamics and points to significant potential for cross-chain innovation within the digital asset ecosystem, according to Crypto Briefing.",
+    "slug": "cryptopunks-boogles-and-zksnarks-drive-millions-in-nft-trading-volume",
+    "content_ta": "CryptoPunks, Boogles, மற்றும் zkSnarks போன்ற டிஜிட்டல் சொத்துகளின் வர்த்தகம் மூலம் பல பிளாக்செயின்களில் மில்லியன் கணக்கில் NFT வர்த்தக அளவு பதிவாகியுள்ளது. இந்த குறிப்பிடத்தக்க வளர்ச்சி, டிஜிட்டல் சொத்து சந்தையில் புதிய மாற்றங்களையும், பிளாக்செயின்களுக்கு இடையேயான புதுமைக்கான சாத்தியக்கூறுகளையும் காட்டுவதாக Crypto Briefing செய்தி வெளியிட்டுள்ளது."
   },
   {
     "id": "35d3cd37c64bab2a",
@@ -3751,13 +3915,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/trump-hints-at-critical-decision-on-iran-deal-or-military-action/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Donald Trump",
+      "Iran"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:52:07.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "trump-hints-at-critical-decision-on-iran-deal-or-military-action"
+    "content": "Donald Trump has hinted at making a critical decision regarding the Iran deal or potential military action. This follows discussions involving reconstruction funding and specific conditions surrounding the agreement. Further details on the administration's final stance and next steps remain to be seen as developments unfold.",
+    "slug": "trump-hints-at-critical-decision-on-iran-deal-or-military-action",
+    "content_ta": "Iran deal அல்லது ராணுவ நடவடிக்கை குறித்து ஒரு முக்கியமான முடிவை எடுப்பது பற்றி Donald Trump குறிப்பறிவித்துள்ளார். இது மறுசட்டமைப்பு நிதி மற்றும் ஒப்பந்தம் தொடர்பான குறிப்பிட்ட நிபந்தனைகள் குறித்த விவாதங்களை தொடர்ந்து வந்துள்ளது."
   },
   {
     "id": "1cf701191022cbbf",
@@ -3766,13 +3934,18 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/biden-warns-of-iran-terror-threat-amid-nuclear-tensions/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Biden",
+      "Iran",
+      "United States"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:49:17.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "biden-warns-of-iran-terror-threat-amid-nuclear-tensions"
+    "content": "President Biden has warned of potential terror threats from Iran amid ongoing nuclear tensions. This warning highlights growing geopolitical risks, which could further complicate diplomatic efforts and impact market confidence regarding any future diplomatic agreement between the United States and Iran.",
+    "slug": "biden-warns-of-iran-terror-threat-amid-nuclear-tensions",
+    "content_ta": "அணுசக்தி பதற்றங்களுக்கு மத்தியில் ஈரானிடமிருந்து வரக்கூடிய பயங்கரவாத அச்சுறுத்தல்கள் குறித்து ஜனாதிபதி Biden எச்சரித்துள்ளார். இந்த எச்சரிக்கையானது அதிகரித்துவரும் புவிசார் அரசியல் அபாயங்களை வெளிச்சம் போட்டுக் காட்டுகிறது. இது இராஜதந்திர முயற் மேலும் சிக்கலாக்கக்கூடும் மற்றும் United States மற்றும் Iran இடையேயான எந்தவொரு எதிர்கால ஒப்பந்தத்தின் மீதான சந்தை நம்பிக்கையையும் பாதிக்கலாம்."
   },
   {
     "id": "a2178aacd9967ca8",
@@ -3781,13 +3954,18 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/trump-labels-iran-top-terror-sponsor-dims-2026-us-iran-deal-hopes/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Trump",
+      "Iran",
+      "United States"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:48:42.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "trump-labels-iran-top-terror-sponsor-dims-2026-us-iran-deal-hopes"
+    "content": "Trump has labeled Iran as a leading sponsor of terrorism, significantly dimming the prospects for any U.S.-Iran diplomatic deal by 2026. This hardline stance could stall future negotiations, impact broader regional security dynamics, and reduce market confidence in potential international agreements between the two nations.",
+    "slug": "trump-labels-iran-top-terror-sponsor-dims-2026-us-iran-deal-hopes",
+    "content_ta": "Iran-ஐ பயங்கரவாதத்தின் முக்கிய ஆதரவாளராக Trump குறிப்பிட்டுள்ளார். இது 2026-க்குள் US மற்றும் Iran இடையே ஒப்பந்தம் ஏற்படுவதற்கான சாத்தியக்கூறுகளைக் குறைத்துள்ளது. இந்த கடுமையான நிலைப்பாடு எதிர்கால ராஜதந்திர முயற்சிகளை பாதிக்கலாம் மற்றும் இரு நாடுகளுக்கு இடையேயான ஒப்பந்தங்கள் குறித்த சந்தையின் நம்பிக்கையைக் குறைக்கக்கூடும்."
   },
   {
     "id": "7cb3b7468c0988da",
@@ -3796,13 +3974,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/us-boosts-weapons-stockpiles-hardens-stance-on-iran-amid-tensions/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "United States",
+      "Iran"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:47:57.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "us-boosts-weapons-stockpiles-hardens-stance-on-iran-amid-tensions"
+    "content": "The United States is increasing its weapons stockpiles and taking a harder stance against Iran amid escalating geopolitical tensions. This heightened military readiness and ongoing economic pressure could potentially hinder diplomatic resolutions and impact future market dynamics, according to recent reports.",
+    "slug": "us-boosts-weapons-stockpiles-hardens-stance-on-iran-amid-tensions",
+    "content_ta": "புவிசார் அரசியல் பதற்றங்களுக்கு மத்தியில், Iran மீதான தனது நிலைப்பாட்டை கடுமையாக்கியுள்ள United States, தனது ஆயுதக் குவியல்களையும் அதிகரித்து வருகிறது. அதிகரித்துள்ள இராணுவத் தயார்நிலை மற்றும் பொருளாதார அழுத்தம் ஆகியவை ராஜத்துவ தீர்வுகளைத் தடுத்து, எதிர்கால சந்தை நிலவரங்களை பாதிக்கக்கூடும்."
   },
   {
     "id": "ff85b66a94899efa",
@@ -3811,13 +3993,18 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/trump-urges-global-unity-on-iran-hints-at-post-election-deal-negotiations/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Donald Trump",
+      "Iran",
+      "United States"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:44:47.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "trump-urges-global-unity-on-iran-hints-at-post-election-deal-negotiations"
+    "content": "Donald Trump has called for global unity regarding Iran and hinted at the possibility of post-election negotiations for a deal. This diplomatic stance could influence international relations, market sentiment, and shape future diplomatic engagements between the United States and Iran, according to reports.",
+    "slug": "trump-urges-global-unity-on-iran-hints-at-post-election-deal-negotiations",
+    "content_ta": "Iran விஷயத்தில் உலகளாவிய ஒற்றுமைக்கு Trump அழைப்பு விடுத்துள்ளார் மற்றும் தேர்தல் முடிந்த பிறகு ஒப்பந்த பேச்சுவார்த்தைகள் நடைபெறலாம் என்றும் குறிப்பால் உணர்த்தியுள்ளார். இந்த தூதரக நிலைப்பாடு சர்வதேச உறவுகள் மற்றும் சந்தை உணர்வுகளை பாதிக்கக்கூடும் என்று தெரிவிக்கப்பட்டுள்ளது."
   },
   {
     "id": "9bc4082f4e4bff31",
@@ -3826,13 +4013,16 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/wormhole-70-billion-cross-chain-volume/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Wormhole"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:38:12.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "wormhole-reports-over-70b-in-cross-chain-volume-as-institutional-adoption-accelerates"
+    "content": "Wormhole has announced that its cross-chain volume has surpassed $70 billion. This significant growth reflects accelerating institutional adoption within the crypto ecosystem. The platform continues to play a vital role in enhancing liquidity and security across various blockchain networks, driving broader industry expansion.",
+    "slug": "wormhole-reports-over-70b-in-cross-chain-volume-as-institutional-adoption-accelerates",
+    "content_ta": "Wormhole-ன் கிராஸ்-கெயின் பரிவர்த்தனை அளவு 70 பில்லியன் டляர்களைத் தாண்டியுள்ளதாக அறிவிக்கப்பட்டுள்ளது. இந்த குறிப்பிடத்தக்க வளர்ச்சி கிரிப்டோ சுற்றுச்சூழல் அமைப்பில் நிறுவனங்களின் தத்தெடுப்பு விரைவடைவதைக் காட்டுகிறது. பல்வேறு பிளாக்செயின் நெட்வொர்க்குகளில் பணப்புழக்கம் மற்றும் பாதுகாப்பை மேம்படுத்துவதில் இந்த தளம் தொடர்ந்து முக்கிய பங்கு வகிக்கிறது."
   },
   {
     "id": "0b96579b451b5c25",
@@ -3841,13 +4031,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/fed-discount-window-modernization-treasury-market/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Federal Reserve",
+      "Jefferson"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:27:38.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "federal-reserve-vice-chair-jefferson-makes-the-case-for-discount-window-modernization-at-treasury"
+    "content": "Federal Reserve Vice Chair Jefferson recently highlighted the importance of modernizing the discount window during the Treasury Market Conference. According to discussions, upgrading this facility could significantly enhance overall liquidity and stability within Treasury markets, while also helping to reduce existing stigmas and improve the broader financial resilience of the system.",
+    "slug": "federal-reserve-vice-chair-jefferson-makes-the-case-for-discount-window-modernization-at-treasury",
+    "content_ta": "Federal Reserve Vice Chair Jefferson சமீபத்தில் Treasury Market Conference-ல் discount window-ஐ நவீனமயமாக்குவதன் அவசியத்தை வலியுறுத்தினார். இந்த வசதியை மேம்படுத்துவது Treasury markets-ல் புழக்கத்தையும் ஸ்திரத்தன்மையையும் மேம்படுத்த உதவும் என்றும், நிதித் துறையின் மீள்தன்மையை இது வலுப்படுத்தும் என்றும் விவாதிக்கப்பட்டது."
   },
   {
     "id": "69f878710642d81c",
@@ -3856,13 +4050,18 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/centcom-updates-ai-targeting-after-strike/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "US Central Command",
+      "Iran",
+      "United States"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:25:30.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "us-central-command-overhauls-ai-targeting-protocols-after-deadly-school-strike-killed-156-in-iran"
+    "content": "The US Central Command has overhauled its AI targeting protocols following a deadly school strike in Iran that resulted in 156 deaths. This major policy revision emphasizes the critical need to balance advanced technological military efficiency with strict ethical responsibility and oversight in future operations.",
+    "slug": "us-central-command-overhauls-ai-targeting-protocols-after-deadly-school-strike-killed-156-in-iran",
+    "content_ta": "ஈரானில் நடந்த ஒரு கொடூரமான பள்ளித் தாக்குதலில் 156 பேர் உயிரிழந்ததை அடுத்து, US Central Command தனது AI இலக்கு நிர்ணயிக்கும் நெறிமுறைகளை முற்றிலும் மாற்றியமைத்துள்ளது. மேம்பட்ட தொழில்நுட்ப செயல்திறனையும் கடுமையான நெறிமுறைப் பொறுப்பையும் எதிர்கால நடவடிக்கைகளில் சமன் செய்வதன் அவசியத்தை இந்த முக்கிய கொள்கை மாற்றம் வலியுறுத்துகிறது."
   },
   {
     "id": "8a39b9cb5fc88070",
@@ -3871,13 +4070,18 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/macron-eu-oil-product-rules-diesel-crisis/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Emmanuel Macron",
+      "France",
+      "European Union"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:24:39.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "macron-urges-eu-to-loosen-oil-product-rules-as-france-faces-diesel-crisis"
+    "content": "French President Emmanuel Macron has urged the European Union to temporarily relax rules concerning oil products to address a severe diesel crisis in France. This situation highlights the growing tension between addressing immediate energy supply needs and maintaining long-term environmental commitments, which could potentially establish a precedent for handling similar future crises within the region.",
+    "slug": "macron-urges-eu-to-loosen-oil-product-rules-as-france-faces-diesel-crisis",
+    "content_ta": "France-ல் தீவிர diesel crisis ஏற்பட்டுள்ள நிலையில், oil product rules-ஐ சற்று தளர்த்துமாறு EU-வை French President Emmanuel Macron வலியுறுத்தியுள்ளார். உடனடி energy supply தேவைகளையும் environmental commitments-ையும் சமன் செய்வதில் உள்ள சவால்களை இந்த நிகழ்வு காட்டுகிறது."
   },
   {
     "id": "37fe1899007676c5",
@@ -3886,13 +4090,19 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/derive-dominates-delphi-options-dashboard/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Derive",
+      "Delphi Digital",
+      "ETH",
+      "SOL"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:21:12.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "derive-dominates-delphi-options-dashboard-with-top-eth-and-sol-contracts"
+    "content": "Derive has captured a dominant share of the onchain options premium volume, topping Delphi Digital's cross-venue dashboard. The platform secured the leading position with its prominent ETH and SOL contracts, showcasing strong activity and user engagement across decentralized crypto options markets.",
+    "slug": "derive-dominates-delphi-options-dashboard-with-top-eth-and-sol-contracts",
+    "content_ta": "Derive onchain ஆப்ஷன்ஸ் பிரீமியம் வால்யூமில் மிகப்பெரிய ஆதிக்கத்தைச் செலுத்தி, Delphi Digital-ன் கிராஸ்-வென்யூ டேஷ்போர்டில் முதலிடத்தைப் பிடித்துள்ளது. முன்னணி ETH மற்றும் SOL கான்ட்ராக்ட்களுடன் இந்த தளம் முதலிடத்தைப் பெற்றுள்ளது."
   },
   {
     "id": "b45117d9a3ff1fca",
@@ -3901,13 +4111,16 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/ecb-digital-innovation-bank-resilience/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "European Central Bank"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:20:45.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "european-central-bank-emphasizes-digital-innovation-s-impact-on-banks-resilience"
+    "content": "The European Central Bank recently highlighted the significant impact of digital innovation on the resilience of traditional banks. By focusing on regulated digital finance solutions rather than decentralized alternatives, the central bank aims to shape future market dynamics and strengthen the stability of the broader banking sector as technological advancements continue to evolve rapidly.",
+    "slug": "european-central-bank-emphasizes-digital-innovation-s-impact-on-banks-resilience",
+    "content_ta": "ஐரோப்பிய மத்திய வங்கியானது, பாரம்பரிய வங்கிகளின் ஸ்திரத்தன்மை மீது டிஜிட்டல் கண்டுபிடிப்புகளின் தாக்கத்தை சமீபத்தில் வலியுறுத்தியுள்ளது. பரவலாக்கப்பட்ட மாற்று வழிகளை விட ஒழுங்குபடுத்தப்பட்ட டிஜிட்டல் நிதி தீர்வுகளில் கவனம் செலுத்துவதன் மூலம், தொழில்நுட்ப வளர்ச்சிகள் தொடர்ந்து வேகமாக வளர்ச்சியடைந்து வருவதால், எதிர்கால சந்தை இயக்கங்களை வடிவமைப்பதையும் பரந்த வங்கித் துறையின் ஸ்திரத்தன்மையை வலுப்படுத்துவதையும் மத்திய வங்கி நோக்கமாகக் கொண்டுள்ளது."
   },
   {
     "id": "8f33079b19a26a42",
@@ -3916,13 +4129,16 @@
     "hasSummary": true,
     "link": "https://coinpedia.org/crypto-live-news/how-banks-won-a-quiet-victory-before-clarity-act-even-failed/",
     "source": "Coinpedia",
-    "tags": [],
+    "tags": [
+      "Jerry Moran"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:44:09.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "how-banks-won-a-quiet-victory-before-clarity-act-even-failed"
+    "content": "An amendment filed regarding the CLARITY Act reveals fractured Republican support and a strategic win for banking industry advocates. Senator Jerry Moran submitted the proposal to tighten stablecoin yield restrictions. This change faced strong opposition from the crypto industry but gained backing from numerous lawmakers, highlighting ongoing legislative battles over digital asset regulations.",
+    "slug": "how-banks-won-a-quiet-victory-before-clarity-act-even-failed",
+    "content_ta": "CLARITY Act தொடர்பாக தாக்கல் செய்யப்பட்ட திருத்தமானது குடியரசுக் கட்சியின் ஆதரவில் பிளவையும், வங்கித் துறை ஆதரவாளர்களுக்கு ஒரு மூலோபாய வெற்றியையும் வெளிப்படுத்துகிறது. Stablecoin ஈவுத்தொகை கட்டுப்பாடுகளை கடுமாக்க Senator Jerry Moran இந்த முன்மொழிவை சமர்ப்பித்தினார். இந்த மாற்றம் கிரிப்டோ துறையிலிருந்து கடுமையான எதிர்ப்பை எதிர்கொண்டது."
   },
   {
     "id": "8c0143bd93253643",
@@ -3931,13 +4147,19 @@
     "hasSummary": true,
     "link": "https://coinpedia.org/news/ripple-news-europes-new-digital-euro-rail-has-xrp-holders-doing-the-math-on-1000/",
     "source": "Coinpedia",
-    "tags": [],
+    "tags": [
+      "European Central Bank",
+      "European Union",
+      "Christine Lagarde",
+      "Ripple"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:20:28.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "ripple-news-europe-s-new-digital-euro-rail-has-xrp-holders-doing-the-math-on-1-000"
+    "content": "The European Central Bank launched Pontes, a new system enabling banks across the European Union to settle transactions using a digital euro and blockchain technology. ECB President Christine Lagarde announced the rollout, noting it marks the beginning of the initiative with a full digital euro pilot ahead. The development has drawn attention from XRP holders considering potential impacts.",
+    "slug": "ripple-news-europe-s-new-digital-euro-rail-has-xrp-holders-doing-the-math-on-1-000",
+    "content_ta": "ஐரோப்பிய மத்திய வங்கியானது Pontes என்ற புதிய அமைப்பைத் தொடங்கியுள்ளது. இதன் மூலம் ஐரோப்பிய யூனியன் முழுவதும் உள்ள வங்கிகள் டிஜிட்டல் யூரோ மற்றும் பிளாக்செயின் தொழில்நுட்பத்தைப் பயன்படுத்தி பரிவர்த்தனைகளை மேற்கொள்ள முடியும். ECB தலைவர் Christine Lagarde இந்த அறிவிப்பை வெளியிட்டார். இந்த வளர்ச்சி XRP முதலீட்டாளர்களின் கவனத்தை ஈர்த்துள்ளது."
   },
   {
     "id": "d2c377bd2d94868a",
@@ -3946,13 +4168,19 @@
     "hasSummary": true,
     "link": "https://protos.com/binance-faces-second-probe-over-iran-linked-billions/",
     "source": "Protos",
-    "tags": [],
+    "tags": [
+      "Binance",
+      "Iran",
+      "United States",
+      "China"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:39:41.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "binance-faces-second-probe-over-iran-linked-billions"
+    "content": "US investigators are reportedly examining Binance regarding potential facilitation of illegal cryptocurrency-based oil sales linked to Iran. The probe focuses on whether the exchange knowingly allowed transactions involving two Chinese entities. This marks the second major investigation facing Binance concerning billions in transactions connected to Iran, raising further regulatory scrutiny for the crypto exchange platform.",
+    "slug": "binance-faces-second-probe-over-iran-linked-billions",
+    "content_ta": "Binance மீது ஈரானுடன் தொடர்புடைய சட்டவிரோத கிரிப்டோகரன்சி பரிவர்த்தனைகள் குறித்து அமெரிக்க புலனாய்வாளர்கள் விசாரணை நடத்தி வருவதாக தகவல்கள் வெளியாகியுள்ளன. இரண்டு சீன நிறுவனங்கள் மூலம் ஈரானின் சட்டவிரோத எண்ணெய் விற்பனைக்கு இந்த பரிமாற்ற தளம் உதவியதா என்பது குறித்து இந்த விசாரணை கவனம் செலுத்துகிறது. ஈரான் தொடர்பான பில்லியன் கணக்கான பரிவர்த்தனைகள் சம்பந்தமாக Binance எதிர்கொள்ளும் இரண்டாவது பெரிய விசாரணை இதுவாகும்."
   },
   {
     "id": "02fe2ba005e81992",
@@ -3961,13 +4189,18 @@
     "hasSummary": true,
     "link": "https://protos.com/meet-jev-the-ai-that-claims-it-cant-hallucinate/",
     "source": "Protos",
-    "tags": [],
+    "tags": [
+      "Diogo Almeida",
+      "Jev",
+      "ChatGPT"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T12:47:32.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "meet-jev-the-ai-that-claims-it-can-t-hallucinate"
+    "content": "Diogo Almeida, a self-proclaimed ChatGPT co-creator, has launched a new $40 million startup featuring an artificial intelligence model named Jev. The company claims that Jev has completely solved the persistent issue of AI hallucinations, promising a level of accuracy and reliability that sets it apart from other existing language models in the rapidly growing technology sector.",
+    "slug": "meet-jev-the-ai-that-claims-it-can-t-hallucinate",
+    "content_ta": "ChatGPT-இன் 'co-creator' என்று கூறிக்கொள்ளும் Diogo Almeida, Jev என்ற புதிய AI மாடலை அறிமுகப்படுத்தியுள்ளதுடன், இதற்காக 40 மில்லியன் டாலர் முதலீட்டில் தொடக்க நிறுவனத்தையும் தொடங்கியுள்ளார். AI உலகில் இருக்கும் 'hallucination' பிரச்சனையை இந்த Jev மாடல் முழுமையாகத் தீர்த்துவிட்டதாக இந்நிறுவனம் உறுதியளித்துள்ளது."
   },
   {
     "id": "65e505a26199a954",
@@ -3976,13 +4209,16 @@
     "hasSummary": true,
     "link": "https://watcher.guru/news/amd-stock-price-hits-new-peak-market-cap-hits-1-trillion-why",
     "source": "Watcher.Guru",
-    "tags": [],
+    "tags": [
+      "AMD"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:02:00.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "amd-stock-price-hits-new-peak-market-cap-hits-1-trillion-why"
+    "content": "Advanced Micro Devices, Inc (AMD) stock price climbed significantly, reaching a new all-time high on Monday. This major milestone also pushed the company's market capitalization up to the historic $1 trillion level. Investors and market analysts have been exploring the key catalysts behind this rapid and unprecedented growth in the semiconductor giant's valuation.",
+    "slug": "amd-stock-price-hits-new-peak-market-cap-hits-1-trillion-why",
+    "content_ta": "Advanced Micro Devices, Inc (AMD) நிறுவனத்தின் பங்கின் விலை கணிசமாக உயர்ந்து திங்கட்கிழமை புதிய உச்சத்தை எட்டியது. இந்த முக்கியமான மைல்கல் இந்நிறுவனத்தின் சந்தை மதிப்பையும் 1 டிரில்லியன் அமெரிக்க டாலர் அளவை எட்டச் செய்தது. செமிகண்டக்டர் துறையைச் சேர்ந்த இந்த ராட்சத நிறுவனத்தின் மதிப்பீடு இவ்வளவு விரைவாக உயரக் காரணமான முக்கிய விஷயங்களை முதலீட்டாளர்களும் சந்தை ஆய்வாளர்களும் ஆராய்ந்து வருகின்றனர்."
   },
   {
     "id": "9ed6003ebaf94d6b",
@@ -3991,13 +4227,17 @@
     "hasSummary": true,
     "link": "https://watcher.guru/news/why-rosenblatt-sees-sandisk-stock-sndk-hitting-2400",
     "source": "Watcher.Guru",
-    "tags": [],
+    "tags": [
+      "Rosenblatt",
+      "SanDisk"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T12:32:49.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "why-rosenblatt-sees-sandisk-stock-sndk-hitting-2-400"
+    "content": "Rosenblatt analysts have shared an optimistic outlook for SanDisk stock (NASDAQ: SNDK), projecting a notable price target of $2,400. The company's shares recently opened a trading session at $1,766 following a steady upward trend that saw the stock rise nearly 13% over a five-day period, drawing strong attention from market participants and investors watching the technology and memory sector.",
+    "slug": "why-rosenblatt-sees-sandisk-stock-sndk-hitting-2-400",
+    "content_ta": "Rosenblatt ஆய்வாளர்கள் SanDisk (NASDAQ: SNDK) பங்குகளுக்கு சாதகமான ஒரு பார்வையை வெளியிட்டுள்ளனர், இதன் விலை இலக்கு $2,400 ஆக நிர்ணயிக்கப்பட்டுள்ளது. தொழில்நுட்ப மற்றும் மெமரி துறை முதலீட்டாளர்களின் கவனத்தை ஈர்த்துள்ள இந்த நிறுவனத்தின் பங்குகள், ஐந்து நாட்களில் சுமார் 13% உயர்ந்துள்ளதுடன் $1,766-க்கு வர்த்தகத்தைத் தொடங்கின."
   },
   {
     "id": "754056d1c902edca",
@@ -4006,13 +4246,17 @@
     "hasSummary": true,
     "link": "https://www.finextra.com/newsarticle/48454/global-banks-take-on-agentic-commerce-scam-and-fraud-concerns?utm_medium=rssfinextra&utm_source=finextrafeed",
     "source": "Finextra",
-    "tags": [],
+    "tags": [
+      "Bank of America",
+      "NatWest"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:45:00.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "global-banks-take-on-agentic-commerce-scam-and-fraud-concerns"
+    "content": "A group of six global banks, including Bank of America and NatWest, has released a new set of principles. These guidelines are designed to tackle growing concerns regarding scams, fraud, and data privacy in the emerging field of agentic commerce. The initiative aims to establish safer standards for automated transactions and protect consumers as artificial intelligence agents become more involved in commercial activities.",
+    "slug": "global-banks-take-on-agentic-commerce-scam-and-fraud-concerns",
+    "content_ta": "Bank of America மற்றும் NatWest உள்ளிட்ட ஆறு உலகளாவிய வங்கிகள் குழு, புதிய கொள்கைகள் தொகுப்பை வெளியிட்டுள்ளது. வளர்ந்து வரும் agentic commerce துறையில் மோசடிகள் மற்றும் தரவு தனியுரிமை குறித்த கவலைகளை நிவர்த்தி செய்யும் வகையில் இந்த வழிகாட்டுதல்கள் வடிவமைக்கப்பட்டுள்ளன."
   },
   {
     "id": "bb2286c5ddc62bb8",
@@ -4021,13 +4265,17 @@
     "hasSummary": true,
     "link": "https://www.finextra.com/pressarticle/110971/capitolis-appoints-jon-gizzie-as-head-of-financial-resoure-management?utm_medium=rssfinextra&utm_source=finextrafeed",
     "source": "Finextra",
-    "tags": [],
+    "tags": [
+      "Capitolis",
+      "Jon Gizzie"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:56:00.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "capitolis-appoints-jon-gizzie-as-head-of-financial-resoure-management"
+    "content": "Financial technology company Capitolis has announced the appointment of Jon Gizzie as its new Head of Financial Resource Management. In his new role, Gizzie will help lead the company's financial strategies and strengthen its management team. Capitolis continues to expand its leadership as it develops technology solutions for global financial markets.",
+    "slug": "capitolis-appoints-jon-gizzie-as-head-of-financial-resoure-management",
+    "content_ta": "நிதி தொழில்நுட்ப நிறுவனமான Capitolis தனது புதிய Head of Financial Resource Management ஆக Jon Gizzie நியமிக்கப்பட்டுள்ளதாக அறிவித்துள்ளது. தனது புதிய பதவியில், நிறுவனத்தின் நிதி உத்திகளை வழிநடத்தவும் அதன் மேலாண்மை குழுவை வலுப்படுத்தவும் Gizzie உதவுவார். உலகளாவிய நிதி சந்தைகளுக்கான தொழில்நுட்ப தீர்வுகளை Capitolis தொடர்ந்து விரிவுபடுத்துகிறது."
   },
   {
     "id": "f6962c21e91a2e91",
@@ -4036,13 +4284,16 @@
     "hasSummary": true,
     "link": "https://www.finextra.com/pressarticle/110972/creatio-invests-300-million-in-its-bankai-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
     "source": "Finextra",
-    "tags": [],
+    "tags": [
+      "Creatio"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:07:00.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "creatio-invests-300-million-in-its-bank-ai-platform"
+    "content": "Creatio has announced a $300 million investment in its Bank.ai platform, slated from 2026 through 2028. The funding aims to bolster the market-leading offering designed specifically for banks and financial institutions, supporting the company's AI CRM and workflow platform where human workers and AI agents collaborate.",
+    "slug": "creatio-invests-300-million-in-its-bank-ai-platform",
+    "content_ta": "Creatio தனது Bank.ai தளத்தில் 300 மில்லியன் டாலர் முதலீடு செய்யவுள்ளதாக அறிவித்துள்ளது. இந்த முதலீடு 2026 முதல் 2028 வரை மேற்கொள்ளப்படும். வங்கிகள் மற்றும் நிதி நிறுவனங்களுக்காக பிரத்யேகமாக உருவாக்கப்பட்டுள்ள இந்த சந்தையில் முன்னணி வகிக்கும் தயாரிப்பை மேம்படுத்துவதை இந்த நிதி நோக்கமாகக் கொண்டுள்ளது."
   },
   {
     "id": "7eedbc33ebc74a2a",
@@ -4051,13 +4302,19 @@
     "hasSummary": true,
     "link": "https://www.finextra.com/pressarticle/110973/moov-launches-p2p-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
     "source": "Finextra",
-    "tags": [],
+    "tags": [
+      "Moov Financial",
+      "Moov Money",
+      "Visa",
+      "Mastercard"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T15:00:00.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "moov-launches-p2p-payments"
+    "content": "Moov Financial has announced Moov Money, a new real-time person-to-person payment solution developed in partnership with Visa and Mastercard. The service allows consumers to send and receive funds directly through their existing digital banking platforms, requiring only an eligible debit card and a mobile phone connection.",
+    "slug": "moov-launches-p2p-payments",
+    "content_ta": "Visa மற்றும் Mastercard நிறுவனங்களுடன் இணைந்து உருவாக்கிய Moov Money என்ற நிகழ்நேர P2P பணப் பரிமாற்ற சேவையை Moov Financial அறிமுகப்படுத்தியுள்ளது. இந்த சேவையின் மூலம், பயனர்கள் தங்களது டெபிட் கார்டு மற்றும் மொபைல் இணைப்பு உதவியுடன் டிஜிட்டல் வங்கிச் சேவை மூலம் எளிதாகப் பணம் அனுப்பவும் பெறவும் முடியும்."
   },
   {
     "id": "332761ce9d968dc2",
@@ -4066,13 +4323,17 @@
     "hasSummary": true,
     "link": "https://www.finextra.com/pressarticle/110974/finzly-certified-for-request-for-payment-on-the-tch-rtp-network?utm_medium=rssfinextra&utm_source=finextrafeed",
     "source": "Finextra",
-    "tags": [],
+    "tags": [
+      "Finzly",
+      "The Clearing House"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T15:05:00.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "finzly-certified-for-request-for-payment-on-the-tch-rtp-network"
+    "content": "Finzly has achieved technical certification to offer Request for Payment functionality on the RTP network, which is operated by The Clearing House. This milestone follows the successful launch of the capability for a bank customer, enabling financial institutions to modernize their payment services and improve transaction efficiency through advanced banking technology.",
+    "slug": "finzly-certified-for-request-for-payment-on-the-tch-rtp-network",
+    "content_ta": "Finzly நிறுவனம் The Clearing House-ஆல் இயக்கப்படும் RTP நெட்வொர்க்கில் Request for Payment செயல்பாட்டை வழங்குவதற்கான தொழில்நுட்பச் சான்றிதழைப் பெற்றுள்ளது. ஒரு வங்கிக் வாடிக்கையாளரிடம் இந்த வசதி வெற்றிகரமாக அறிமுகப்படுத்தப்பட்டதைத் தொடர்ந்து இந்த மைல்கல் எட்டப்பட்டுள்ளது, இது நிதி நிறுவனங்கள் தங்கள் கட்டணச் சேவைகளை நவீனப்படுத்த உதவுகிறது."
   },
   {
     "id": "2b7f9923bfd64d6d",
@@ -4081,13 +4342,16 @@
     "hasSummary": true,
     "link": "https://www.finextra.com/blogposting/32934/commercial-cards-were-already-built-for-the-agentic-economy?utm_medium=rssfinextra&utm_source=finextrafeed",
     "source": "Finextra",
-    "tags": [],
+    "tags": [
+      "Commercial Cards"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:58:11.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "commercial-cards-were-already-built-for-the-agentic-economy"
+    "content": "Commercial cards are increasingly recognized as infrastructure naturally suited for the emerging agentic economy. As autonomous digital agents take on more commercial tasks and financial transactions, traditional commercial payment tools provide the necessary security, control, and programmatic features required for automated machine-to-machine commerce, according to industry commentary.",
+    "slug": "commercial-cards-were-already-built-for-the-agentic-economy",
+    "content_ta": "Commercial cards வளர்ந்து வரும் agentic economy-க்கு மிகவும் பொருத்தமான கட்டமைப்பு என்று பரவலாக அங்கீகரிக்கப்படுகின்றன. தன்னாட்சி டிஜிட்டல் agents வணிகப் பணிகளை மேற்கொள்ளும்போது, பாரம்பரிய commercial payment கருவிகள் தேவையான பாதுகாப்பு மற்றும் கட்டுப்பாட்டு அம்சங்களை வழங்குகின்றன."
   },
   {
     "id": "96327ecfaf8a7754",
@@ -4096,13 +4360,16 @@
     "hasSummary": true,
     "link": "https://www.finextra.com/blogposting/32943/effective-ai-supervision-starts-with-your-data---shouldnt-you-own-it?utm_medium=rssfinextra&utm_source=finextrafeed",
     "source": "Finextra",
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:14:27.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "effective-ai-supervision-starts-with-your-data-shouldn-t-you-own-it"
+    "content": "Effective artificial intelligence supervision begins with data ownership. As organizations increasingly adopt AI systems, ensuring proper control and governance over the underlying data is critical for security, compliance, and performance. Experts emphasize that companies must secure ownership and clear oversight of their data assets to maintain trust and maximize the effectiveness of their AI deployments.",
+    "slug": "effective-ai-supervision-starts-with-your-data-shouldn-t-you-own-it",
+    "content_ta": "செயற்கை நுண்ணறிவு எனப்படும் AI மேற்பார்வை பயனுள்ள வகையில் அமைய தரவு உரிமை மிக அவசியமானது. நிறுவனங்கள் AI அமைப்புகளை அதிகளவில் பயன்படுத்தி வரும் நிலையில், அடிப்படை தரவுகளின் மீது உரிய கட்டுப்பாட்டையும் ஆளுகையையும் பராமரிப்பது பாதுகாப்பு மற்றும் செயல்திறனுக்கு மிகவும் முக்கியமாகும். நிறுவனங்கள் தங்கள் தரவு சொத்துக்களின் மீதான உரிமையையும் நேரடி மேற்பார்வையையும் உறுதிப்படுத்த வேண்டும் என்று வல்லுநர்கள் வலியுறுத்துகின்றனர்."
   },
   {
     "id": "03638b450b12d793",
@@ -4111,13 +4378,18 @@
     "hasSummary": true,
     "link": "https://thefintechtimes.com/mena-fintech-association-releases-bi-annual-regulatory-update-on-adgms-evolving-digital-asset-framework/",
     "source": "The Fintech Times",
-    "tags": [],
+    "tags": [
+      "MENA Fintech Association",
+      "ADGM",
+      "FSRA"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:15:50.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "mena-fintech-association-releases-bi-annual-regulatory-update-on-adgm-s-evolving-digital-asset"
+    "content": "The MENA Fintech Association has released its bi-annual Regulatory Update Session report focusing on ADGM's evolving digital asset framework. The publication highlights key regulatory priorities set by the FSRA, covering important areas such as tokenisation, fiat-referenced tokens, staking, custody, and artificial intelligence, while outlining emerging financial service developments in the region.",
+    "slug": "mena-fintech-association-releases-bi-annual-regulatory-update-on-adgm-s-evolving-digital-asset",
+    "content_ta": "MENA Fintech Association தனது இரு வருட ஒழுங்குமுறை புதுப்பிப்பு அறிக்கையை வெளியிட்டுள்ளது. ADGM-ன் டிஜிட்டல் சொத்து கட்டமைப்பு குறித்து இந்த அறிக்கை கவனம் செலுத்துகிறது. FSRA-வின் ஒழுங்குமுறை முன்னுரிமைகள், டோக்கனைசேஷன், ஸ்டேக்கிங், கஸ்டடி மற்றும் AI உள்ளிட்ட முக்கிய அம்சங்களை இந்த அறிக்கை விளக்குகிறது."
   },
   {
     "id": "074a177b395b694d",
@@ -4126,13 +4398,18 @@
     "hasSummary": true,
     "link": "https://thefintechtimes.com/visa-and-corpay-extend-fleet-payments-deal-across-europe/",
     "source": "The Fintech Times",
-    "tags": [],
+    "tags": [
+      "Visa",
+      "Corpay",
+      "Europe"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:00:27.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "visa-and-corpay-extend-fleet-payments-deal-across-europe"
+    "content": "Visa and Corpay have extended their strategic partnership to advance fleet payments across Europe. Under the agreement, Corpay will deploy Visa Fleet 2.0 on its European platform. This expansion aims to streamline and improve payment solutions for fuel, electric vehicle charging, tolls, and parking services for hundreds of thousands of users throughout the region.",
+    "slug": "visa-and-corpay-extend-fleet-payments-deal-across-europe",
+    "content_ta": "ஐரோப்பாவில் தங்களின் பிளீட் பேமெண்ட் சேவைகளை விரிவுபடுத்த Visa மற்றும் Corpay நிறுவனங்கள் தங்கள் ஒப்பந்தத்தை நீட்டித்துள்ளன. இந்த ஒப்பந்தத்தின்படி, Corpay தனது ஐரோப்பிய பிளீட் கார்டு தளத்தில் Visa Fleet 2.0-ஐ அறிமுகப்படுத்துகிறது. எரிபொருள், மின்சார வாகன சார்ஜிங், டோல் கட்டணம் மற்றும் பார்க்கிங் செலவுகளை எளிதாக்கும் நோக்கில் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது."
   },
   {
     "id": "4288e4f9f72613e2",
@@ -4141,13 +4418,17 @@
     "hasSummary": true,
     "link": "https://www.crowdfundinsider.com/2026/09/312067-people-will-switch-from-local-currencies-to-dollars-as-stablecoins-become-more-prominent-report/",
     "source": "Crowdfund Insider",
-    "tags": [],
+    "tags": [
+      "Silicon Valley Bank",
+      "Sphere Labs"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T14:30:42.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "people-will-switch-from-local-currencies-to-dollars-as-stablecoins-become-more-prominent-report"
+    "content": "A new report titled Runaway Dollarization, published jointly by Silicon Valley Bank and Sphere Labs, suggests that the growing prominence of regulated digital dollar stablecoins will likely lead people to reduce their reliance on local currencies in favor of the US dollar. The research highlights how these digital payment assets could significantly accelerate global dollarization trends.",
+    "slug": "people-will-switch-from-local-currencies-to-dollars-as-stablecoins-become-more-prominent-report",
+    "content_ta": "Silicon Valley Bank மற்றும் Sphere Labs இணைந்து வெளியிட்டுள்ள Runaway Dollarization அறிக்கையின்படி, ஒழுங்குபடுத்தப்பட்ட digital dollar stablecoins-களின் தாக்கம் அதிகரிக்கும்போது, மக்கள் உள்ளூர் கரன்சிகளுக்குப் பதிலாக US dollar-ஐப் பயன்படுத்துவதற்கான வாய்ப்புகள் அதிகம் உள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது. இந்த டிஜிட்டல் சொத்துக்கள் டாலர் மதிப்பை உலகளவில் மேலும் வலுப்படுத்தும் என்றும் ஆய்வில் கூறப்பட்டுள்ளது."
   },
   {
     "id": "7ee876bf448f69ea",
@@ -4156,13 +4437,19 @@
     "hasSummary": true,
     "link": "https://financialit.net/news/e-commerce/kunfupay-sees-46-revenue-uplift-peru-after-integrating-one-click-checkout-enabled",
     "source": "Financial IT",
-    "tags": [],
+    "tags": [
+      "Kunfupay",
+      "EBANX",
+      "Peru",
+      "Latin America"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:47:45.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "kunfupay-sees-46-revenue-uplift-in-peru-after-integrating-one-click-checkout-enabled-by-ebanx"
+    "content": "Kunfupay has experienced a 46% revenue uplift in Peru within four months of integrating a one-click checkout solution powered by EBANX. The feature utilizes Yape On-File, a tokenized payment method built on Peru's leading digital wallet, Yape. This collaboration is part of a broader partnership enabling Kunfupay to process payments across eight Latin American markets using localized alternative payment methods.",
+    "slug": "kunfupay-sees-46-revenue-uplift-in-peru-after-integrating-one-click-checkout-enabled-by-ebanx",
+    "content_ta": "Peru-வில் EBANX நிறுவனத்தின் ஒரு-கிளிக் செக்அவுட் வசதியை ஒருங்கிணைத்த நான்கு மாதங்களுக்குள் Kunfupay நிறுவனம் 46% வருவாய் வளர்ச்சியைப் பெற்றுள்ளது. Peru-வின் முன்னணி டிஜிட்டல் வாலட் ஆன Yape-ஐ அடிப்படையாகக் கொண்ட Yape On-File மூலம் இந்த ஒருங்கிணைப்பு சாத்தியமாகியுள்ளது. Latin America சந்தைகளில் உள்ளூர் கட்டண முறைகள் மூலம் பரிவர்த்தனை செய்ய இந்தப் பங்களிப்பு உதவியுள்ளது."
   },
   {
     "id": "e013e2260d28b2cc",
@@ -4171,13 +4458,20 @@
     "hasSummary": true,
     "link": "https://financialit.net/news/infrastructure/allianz-commercial-appoints-stephen-morton-new-global-head-captive-fronting-and",
     "source": "Financial IT",
-    "tags": [],
+    "tags": [
+      "Allianz Commercial",
+      "Stephen Morton",
+      "Brian McNamara",
+      "Lara Martiner",
+      "Paris"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:35:42.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "allianz-commercial-appoints-stephen-morton-as-new-global-head-of-captive-fronting-and-captive"
+    "content": "Allianz Commercial has announced the appointment of Stephen Morton as its new Global Head of Captive Fronting and Captive Solutions, effective March 1, 2027. Based in Paris, Morton will succeed Brian McNamara, who is retiring in September. Morton will report to Lara Martiner, Global Head of Alternative Risk Transfer, to help expand the company's growing global portfolio of multinational insurance and captive products.",
+    "slug": "allianz-commercial-appoints-stephen-morton-as-new-global-head-of-captive-fronting-and-captive",
+    "content_ta": "Allianz Commercial நிறுவனத்தின் Captive Fronting மற்றும் Captive Solutions பிரிவின் புதிய Global Head-ஆக Stephen Morton நியமிக்கப்பட்டுள்ளதாக அறிவிக்கப்பட்டுள்ளது. மார்ச் 1, 2027 முதல் பொறுப்பேற்கும் இவர் பாரீஸில் செயல்படுவார். செப்டம்பரில் ஓய்வுபெறும் Brian McNamara-வுக்குப் பதிலாக இவர் இப்பொறுப்பை ஏற்கிறார். சர்வதேச காப்பீட்டுச் சேவைகளை விரிவுபடுத்தும் இவரின் பணிகள் Lara Martiner-க்கு கீழ் செயல்படும்."
   },
   {
     "id": "e276ac3b290ba60e",
@@ -4186,13 +4480,22 @@
     "hasSummary": true,
     "link": "https://financialit.net/news/cryptocurrencies/nearcom-partners-ondo-bring-tokenized-us-stocks-and-etfs-alongside-crypto",
     "source": "Financial IT",
-    "tags": [],
+    "tags": [
+      "near.com",
+      "Ondo Finance",
+      "USDC",
+      "Bitcoin",
+      "NVIDIA",
+      "Tesla",
+      "Apple"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:26:51.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "near-com-partners-with-ondo-to-bring-tokenized-u-s-stocks-and-etfs-alongside-crypto-confidentially"
+    "content": "near.com has partnered with Ondo Finance to allow eligible users to buy, trade, and hold tokenized U.S. stocks and ETFs alongside cryptocurrencies confidentially. Powered by NEAR Intents, the integration lets users access tokenized assets such as NVIDIA, Tesla, and Apple using USDC, Bitcoin, or other supported assets across multiple networks without needing a separate brokerage account or bridging.",
+    "slug": "near-com-partners-with-ondo-to-bring-tokenized-u-s-stocks-and-etfs-alongside-crypto-confidentially",
+    "content_ta": "near.com நிறுவனம் Ondo Finance-உடன் கூட்டு சேர்ந்துள்ளது. இதன் மூலம் தகுதியுள்ள பயனர்கள் கிரிப்டோகரன்சிகளுடன் சேர்த்து டோக்கனைஸ் செய்யப்பட்ட U.S. பங்குகள் மற்றும் ETF-களை ரகசியமாக வாங்கவும், வர்த்தகம் செய்யவும், வைத்திருக்கவும் முடியும். NEAR Intents தொழில்நுட்பத்தால் இயக்கப்படும் இந்த ஒருங்கிணைப்பு மூலம், பயனர்கள் தனி ப்ரோக்கரேஜ் கணக்கு தேவையின்றி பல நெட்வொர்க்குகளில் உள்ள USDC, Bitcoin மற்றும் பிற சொத்துகளைப் பயன்படுத்தி NVIDIA, Tesla போன்ற டோக்கனைஸ் செய்யப்பட்ட சொத்துகளை அணுகலாம்."
   },
   {
     "id": "24d299f9ae362611",
@@ -4201,13 +4504,22 @@
     "hasSummary": true,
     "link": "https://financialit.net/news/infrastructure/philippines-bfsi-sector-accelerates-future-wfis-2026-unites-1000-leaders-around",
     "source": "Financial IT",
-    "tags": [],
+    "tags": [
+      "Philippines",
+      "Manila",
+      "Bangko Sentral ng Pilipinas",
+      "Philippine Business Bank",
+      "Land Bank of the Philippines",
+      "Rizal Commercial Banking Corporation",
+      "Maya Bank"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T13:20:32.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "the-philippines-bfsi-sector-accelerates-into-the-future-as-wfis-2026-unites-1-000-leaders-around-ai"
+    "content": "The fifth edition of the World Financial Innovation Series (WFIS) 2026 concluded in Manila, bringing together over 1,000 leaders from the Philippines' BFSI sector. Held on August 25-26, the two-day event focused on artificial intelligence, digital transformation, and financial capability. Key figures from regulatory bodies, banks, and fintech firms discussed operational growth and emerging cybersecurity threats, supported by industry organizations and global tech innovators.",
+    "slug": "the-philippines-bfsi-sector-accelerates-into-the-future-as-wfis-2026-unites-1-000-leaders-around-ai",
+    "content_ta": "World Financial Innovation Series (WFIS) 2026 இன் ஐந்தாவது பதிப்பு Manila-வில் வெற்றிகரமாக நிறைவடைந்தது. இந்த மாநாட்டில் Philippines-இன் BFSI துறையைச் சேர்ந்த 1,000-க்கும் மேற்பட்ட தலைவர்கள் பங்கேற்றனர். ஆகஸ்ட் 25-26 தேதிகளில் நடைபெற்ற இந்த இரண்டு நாள் நிகழ்வு, செயற்கை நுண்ணறிவு (AI), டிஜிட்டல் மாற்றம் மற்றும் நிதி மேம்பாடு ஆகியவற்றில் கவனம் செலுத்தியது. ஒழுங்குமுறை அமைப்புகள், வங்கிகள் மற்றும் fintech நிறுவனங்களைச் சார்ந்த முக்கிய பிரமுகர்கள் இதில் கலந்துகொண்டனர்."
   },
   {
     "id": "b0f923a286110e52",
@@ -4216,13 +4528,18 @@
     "hasSummary": true,
     "link": "https://financialit.net/news/payments/adyen-launches-first-market-upgrade-authenticate-unlocking-double-digit-conversion",
     "source": "Financial IT",
-    "tags": [],
+    "tags": [
+      "Adyen",
+      "Just Eat Takeaway.com",
+      "Too Good To Go"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T12:51:23.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "adyen-launches-first-to-market-upgrade-to-authenticate-unlocking-double-digit-conversion-gains-for"
+    "content": "Global financial technology platform Adyen has launched a major upgrade to its Authenticate offering, part of the Adyen Uplift payment optimization suite. The new system uses machine learning to route transactions in real-time, helping merchants improve payment conversion rates while reducing operational overhead and checkout friction for shoppers globally.",
+    "slug": "adyen-launches-first-to-market-upgrade-to-authenticate-unlocking-double-digit-conversion-gains-for",
+    "content_ta": "உலகளாவிய நிதி தொழில்நுட்ப தளமான Adyen, தனது Adyen Uplift கட்டண உகப்பாக்க தொகுப்பின் ஒரு பகுதியான Authenticate சேவையில் ஒரு முக்கிய மேம்படுத்தலை வெளியிட்டுள்ளது. இந்த புதிய அமைப்பு பரிவர்த்தனைகளை நிகழ்நேரத்தில் வழிநடத்த இயந்திர கற்றலைப் பயன்படுத்துகிறது, இது வணிகர்கள் கட்டண மாற்ற விகிதங்களை மேம்படுத்தவும், உலகளாவிய வாடிக்கையாளர்களுக்கு கட்டணச் சரிபார்ப்பில் ஏற்படும் சிரமங்களைக் குறைக்கவும் உதவுகிறது."
   },
   {
     "id": "a021f9ba0e3ed240",
@@ -4231,13 +4548,17 @@
     "hasSummary": true,
     "link": "https://financialit.net/news/artificial-intelligence/lexisnexis-risk-solutions-launches-self-calibrating-ai-fraud-detection",
     "source": "Financial IT",
-    "tags": [],
+    "tags": [
+      "LexisNexis Risk Solutions",
+      "Dell Technologies"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T12:49:00.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "lexisnexis-risk-solutions-launches-self-calibrating-ai-fraud-detection-solution"
+    "content": "LexisNexis Risk Solutions has launched Emailage Adaptive, a self-calibrating, AI-powered fraud detection solution designed to help businesses identify actual fraud while reducing false positives. The fully AI-enabled architecture continuously learns from transaction data and fraud patterns to build tailored prevention models without manual intervention. Major brands like Dell Technologies have already reported significant improvements in fraud capture rates and a reduction in manual reviews.",
+    "slug": "lexisnexis-risk-solutions-launches-self-calibrating-ai-fraud-detection-solution",
+    "content_ta": "LexisNexis Risk Solutions நிறுவனம் Emailage Adaptive என்ற புதிய சுய-கலத்திறன் கொண்ட AI மோசடி கண்டறிதல் தீர்வை அறிமுகப்படுத்தியுள்ளது. இந்தத் தீர்வு நிறுவனங்கள் உண்மையான மோசடிகளைத் துல்லியமாகக் கண்டறியவும், தவறான எச்சங்களைக் குறைக்கவும் உதவுகிறது. கையேடு தலையீடு இல்லாமல் பரிவர்த்தனை தரவுகளிலிருந்து கற்றுக்கொள்ளும் இந்த அதிநவீன AI தொழில்நுட்பம், Dell Technologies போன்ற முன்னணி நிறுவனங்களால் வெற்றிகரமாகப் பயன்படுத்தப்பட்டு வருகிறது."
   },
   {
     "id": "62204ca512f6b5b2",
@@ -4246,13 +4567,21 @@
     "hasSummary": true,
     "link": "https://financialit.net/news/banking/global-banks-collaborate-principles-trusted-agentic-commerce",
     "source": "Financial IT",
-    "tags": [],
+    "tags": [
+      "NatWest Group",
+      "ASB Bank",
+      "Bank of America",
+      "Capital One",
+      "Commonwealth Bank of Australia",
+      "ING Group"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T12:45:45.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "global-banks-collaborate-on-principles-for-trusted-agentic-commerce"
+    "content": "Major global banks, including NatWest Group, Bank of America, and Capital One, have published a shared set of principles for trusted agentic commerce. The initiative aims to support the responsible development of AI agents in payments, focusing on transparency, safety, privacy, choice, and interoperability. The participating institutions invite others across the payments ecosystem to collaborate on establishing a secure framework for future digital commerce.",
+    "slug": "global-banks-collaborate-on-principles-for-trusted-agentic-commerce",
+    "content_ta": "NatWest Group, Bank of America, Capital One உள்ளிட்ட முன்னணி உலகளாவிய வங்கிகள், நம்பகமான agentic commerce-க்கான பகிரப்பட்ட கொள்கைகளை வெளியிட்டுள்ளன. இந்த முயற்சியானது, கட்டணச் செலுத்தல்களில் AI agents-ன் பொறுப்பான வளர்ச்சியை ஆதரிப்பதை நோக்கமாகக் கொண்டுள்ளது. மேலும் இது வெளிப்படைத்தன்மை, பாதுகாப்பு, தனியுரிமை, தேர்வு மற்றும் இயங்குதன்மை ஆகியவற்றில் கவனம் செலுத்துகிறது."
   },
   {
     "id": "52cfd5278c9cc3f6",
@@ -4261,13 +4590,21 @@
     "hasSummary": true,
     "link": "https://financialit.net/news/payments/akurateco-enables-apple-pay-payments-chrome-firefox-and-edge-its-psp-and-acquiring",
     "source": "Financial IT",
-    "tags": [],
+    "tags": [
+      "Akurateco",
+      "Apple Pay",
+      "Apple",
+      "Chrome",
+      "Firefox",
+      "Edge"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T12:27:17.000Z",
     "fetchedAt": "2026-09-22T15:01:34.116Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "akurateco-enables-apple-pay-payments-in-chrome-firefox-and-edge-for-its-psp-and-acquiring-clients"
+    "content": "Akurateco has rolled out support for Apple Pay on third-party browsers like Chrome, Firefox, and Edge for its PSP and acquiring clients. Following Apple's standards, shoppers can now complete purchases using Apple Pay on non-Safari browsers across Mac and Windows devices by scanning an on-screen code with their iPhone. This update aims to reduce checkout abandonment and enhance the digital wallet experience.",
+    "slug": "akurateco-enables-apple-pay-payments-in-chrome-firefox-and-edge-for-its-psp-and-acquiring-clients",
+    "content_ta": "Akurateco நிறுவனம் தனது PSP மற்றும் அக்வயர் கிளைன்ட்டுகளுக்காக Chrome, Firefox மற்றும் Edge போன்ற மூன்றாம் தரப்பு பிரவுசர்களிலும் Apple Pay சேவையை அறிமுகப்படுத்தியுள்ளது. Apple-ன் தரநிலைகளின்படி, பயனர்கள் Mac மற்றும் Windows சாதனங்களில் உள்ள பிரவுசர்களில் தங்களின் iPhone மூலம் ஸ்கேன் செய்து Apple Pay மூலம் பணப் பரிமாற்றங்களைச் செய்ய முடியும். இந்த புதிய வசதி வாடிக்கையாளர்களுக்கு கட்டணச் செலுத்துதலை எளிதாக்குவதை நோக்கமாகக் கொண்டுள்ளது."
   },
   {
     "id": "7b05c358059ea803",
@@ -4276,13 +4613,18 @@
     "hasSummary": true,
     "link": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
     "source": "CoinDesk",
-    "tags": [],
+    "tags": [
+      "U.S. Securities and Exchange Commission",
+      "Taylor Lindman",
+      "United States"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T15:21:28.000Z",
     "fetchedAt": "2026-09-22T17:08:42.816Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody"
+    "content": "The U.S. Securities and Exchange Commission is actively working to help firms become more comfortable with blockchain technology and crypto assets. Taylor Lindman, the top lawyer on the agency's Crypto Task Force, recently highlighted the regulatory path forward for asset custody. The agency aims to provide clearer guidance as financial institutions continue exploring digital assets and distributed ledger technology.",
+    "slug": "next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
+    "content_ta": "U.S. SEC-ன் Crypto Task Force-ன் முக்கிய வழக்கறிஞரான Taylor Lindman, பிளாக்செயின் தொழில்நுட்பம் மற்றும் கிரிப்டோ சொத்துகளுடன் நிறுவனங்கள் இயங்குவதற்கான வழியை விளக்கியுள்ளார். டிஜிட்டல் சொத்துகளில் ஆர்வம் காட்டும் நிதி நிறுவனங்களுக்குத் தேவையான தெளிவான வழிகாட்டுதல்களை வழங்குவதை SEC நோக்கமாகக் கொண்டுள்ளது."
   },
   {
     "id": "32a41a4ce744052d",
@@ -4291,13 +4633,19 @@
     "hasSummary": true,
     "link": "https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "source": "Cointelegraph",
-    "tags": [],
+    "tags": [
+      "Zcash",
+      "21shares",
+      "Europe",
+      "United States"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T16:21:44.000Z",
     "fetchedAt": "2026-09-22T17:08:42.816Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "zcash-gets-first-european-etp-following-us-etf-launch"
+    "content": "Zcash has achieved its first European ETP following a recent US ETF launch. Issuer 21shares has listed physically backed ZEC and ETHFI products on exchanges in Euronext Paris and Amsterdam. This move marks an expansion by issuers as they broaden their investment offerings beyond major cryptocurrencies into alternative digital assets for European investors.",
+    "slug": "zcash-gets-first-european-etp-following-us-etf-launch",
+    "content_ta": "அமெரிக்காவில் ETF அறிமுகப்படுத்தப்பட்டதைத் தொடர்ந்து, Zcash தனது முதல் ஐரோப்பிய ETP-ஐ பெற்றுள்ளது. 21shares நிறுவனம், Euronext Paris மற்றும் Amsterdam பங்குச் சந்தைகளில் ZEC மற்றும் ETHFI தயாரிப்புகளைப் பட்டியலிட்டுள்ளது. முக்கிய கிரிப்டோகரன்சிகளுக்கு அப்பأம் தங்களது முதலீட்டுப்Ofer-களை விரிவுபடுத்தும் நோக்கில் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது."
   },
   {
     "id": "5eb30db0a4f2ede6",
@@ -4366,13 +4714,19 @@
     "hasSummary": true,
     "link": "https://cryptoslate.com/bitcoin-etfs-just-absorbed-11500-btc-in-their-biggest-buying-day-in-nearly-two-years/",
     "source": "CryptoSlate",
-    "tags": [],
+    "tags": [
+      "Bitcoin",
+      "ARKB",
+      "FBTC",
+      "BlackRock"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T16:00:57.000Z",
     "fetchedAt": "2026-09-22T17:08:42.816Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "bitcoin-etfs-just-absorbed-11-500-btc-in-their-biggest-buying-day-in-nearly-two-years"
+    "content": "Bitcoin ETFs experienced their largest buying day in nearly two years, absorbing 11,500 BTC. Funds such as ARKB and FBTC attracted significant capital, broadening market participation while BlackRock maintained its leading position. This massive influx highlights growing institutional interest and robust demand for spot Bitcoin exchange-traded funds.",
+    "slug": "bitcoin-etfs-just-absorbed-11-500-btc-in-their-biggest-buying-day-in-nearly-two-years",
+    "content_ta": "Bitcoin ETFs கடந்த இரண்டு ஆண்டுகளில் இல்லாத அளவுக்கு மிகப்பெரிய வாங்கும் நாளைப் பதிவு செய்துள்ளதுடன், 11,500 BTC-ஐ ஈர்த்துள்ளன. ARKB மற்றும் FBTC போன்ற ஃபண்டுகள் கணிசமான முதலீட்டை ஈர்த்துள்ளன, அதே நேரத்தில் BlackRock தனது முதலிடத்தைத் தக்க வைத்துக் கொண்டுள்ளது. இந்த மிகப்பெரிய முதலீட்டு வரத்து, spot Bitcoin ETF-களுக்கான நிறுவனங்களின் வளர்ந்து வரும் ஆர்வத்தையும் வலுவான தேவையையும் காட்டுகிறது."
   },
   {
     "id": "b8077ff63fdba659",
@@ -4402,13 +4756,17 @@
     "hasSummary": true,
     "link": "https://bitcoinmagazine.com/news/russia-advances-digital-ruble",
     "source": "Bitcoin Magazine",
-    "tags": [],
+    "tags": [
+      "Russia",
+      "Bitcoin"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T16:10:27.000Z",
     "fetchedAt": "2026-09-22T17:08:42.816Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "no-bitcoin-payments-in-russia-but-the-digital-ruble-is-open-for-business"
+    "content": "Russia's prime minister announced that the country will not permit Bitcoin payments, positioning the upcoming digital ruble as the primary tool for a fast and independent payment infrastructure. While decentralized cryptocurrencies face strict limitations, the state-backed digital currency is open for business to support national financial goals.",
+    "slug": "no-bitcoin-payments-in-russia-but-the-digital-ruble-is-open-for-business",
+    "content_ta": "ரஷ்யாவில் Bitcoin மூலமான பணப்பரிவர்த்தனைகளுக்கு அனுமதி இல்லை என்றும், நாட்டின் புதிய digital ruble விரைவான மற்றும் சுதந்திரமான கட்டமைப்புக்கு வழிவகுக்கும் என்றும் அந்நாட்டின் பிரதமர் தெரிவித்துள்ளார்."
   },
   {
     "id": "a342a2f3c6390ee2",
@@ -4417,13 +4775,19 @@
     "hasSummary": true,
     "link": "https://cryptonews.com/news/bitcoin-news-etfs-market-access-x-cashtag/",
     "source": "CryptoNews",
-    "tags": [],
+    "tags": [
+      "Bitcoin",
+      "X",
+      "Coinbase",
+      "Morpho Midnight"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T15:52:39.000Z",
     "fetchedAt": "2026-09-22T17:08:42.816Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "bitcoin-news-x-launches-cashtag-partner-program"
+    "content": "Bitcoin ETFs recorded inflows of nearly one billion dollars as social media platform X introduced a new cashtag partner program featuring broker links. Additionally, Coinbase has rolled out fixed-term Bitcoin-backed borrowing services utilizing Morpho Midnight, expanding financial options for cryptocurrency users.",
+    "slug": "bitcoin-news-x-launches-cashtag-partner-program",
+    "content_ta": "Bitcoin ETF-களில் சுமார் ஒரு பில்லியன் டாலர் முதலீடு ஈர்க்கப்பட்டுள்ளது. இதற்கிடையில், சமூக வலைதளமான X புதிய cashtag பார்ட்னர் திட்டத்தை புரோக்கர் இணைப்புகளுடன் அறிமுகப்படுத்தியுள்ளது. மேலும், Morpho Midnight-ஐப் பயன்படுத்தி நிலையான கால Bitcoin ஆதரவு கடன் சேவைகளை Coinbase தொடங்கியுள்ளது."
   },
   {
     "id": "c40d6c3787024ce3",
@@ -4432,13 +4796,17 @@
     "hasSummary": true,
     "link": "https://cryptopotato.com/arthur-hayes-says-ai-glut-could-lower-compute-costs-and-boost-crypto/",
     "source": "CryptoPotato",
-    "tags": [],
+    "tags": [
+      "Arthur Hayes",
+      "Bitcoin"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T15:47:09.000Z",
     "fetchedAt": "2026-09-22T17:08:42.816Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "arthur-hayes-says-ai-glut-could-lower-compute-costs-and-boost-crypto"
+    "content": "Arthur Hayes suggests that a potential oversupply of AI technology could decrease computing costs, which might eventually benefit the crypto market. According to his scenario, if insurers facing exposure to AI-related debt require financial rescue, it could expand the money supply and provide upward support for Bitcoin prices.",
+    "slug": "arthur-hayes-says-ai-glut-could-lower-compute-costs-and-boost-crypto",
+    "content_ta": "AI தொழில்நுட்பத்தின் அதிகப்படியான வழங்கல் கம்ப்யூட்டிங் செலவுகளைக் குறைக்கக்கூடும் என்றும், இது இறுதியில் crypto சந்தைக்கு சாதகமாக அமையலாம் என்றும் Arthur Hayes குறிப்பிடுகிறார். அவரது கணிப்பின்படி, AI தொடர்பான கடன்களை எதிர்கொள்ளும் காப்பீட்டாளர்களுக்கு நிதி உதவி தேவைப்பட்டால், அது பண விநியோகத்தை அதிகரித்து Bitcoin விலையை உயர்த்த உதவக்கூடும்."
   },
   {
     "id": "f7673a5a0ce78c47",
@@ -4521,13 +4889,16 @@
     "hasSummary": true,
     "link": "https://u.today/bitcoin-holders-refuse-to-sell-as-btc-jumps-47",
     "source": "U.Today",
-    "tags": [],
+    "tags": [
+      "Bitcoin"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T16:13:22.000Z",
     "fetchedAt": "2026-09-22T17:08:42.816Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "bitcoin-holders-refuse-to-sell-as-btc-jumps-47"
+    "content": "Bitcoin holders are showing strong resistance to profit-taking following a significant 47 percent price surge from its July low. Market observers note that investors are choosing to hold onto their assets rather than sell, reflecting continued confidence in the cryptocurrency's upward momentum despite the substantial recent gains.",
+    "slug": "bitcoin-holders-refuse-to-sell-as-btc-jumps-47",
+    "content_ta": "ஜூலை மாத குறைந்த விலையில் இருந்து Bitcoin விலையானது 47 சதவீதம் உயர்ந்த போதிலும், முதலீட்டாளர்கள் லாபம் ஈட்டுவதற்காக அதை விற்க மறுக்கின்றனர். இந்த குறிப்பிடத்தக்க விலையேற்றத்திற்குப் பிறகும் முதலீட்டாளர்கள் தங்கள் சொத்துக்களைத் தக்கவைத்துக்கொள்ள விரும்புவதாக சந்தை ஆய்வாளர்கள் குறிப்பிடுகின்றனர்."
   },
   {
     "id": "b0b169b49e43dc04",
@@ -4536,13 +4907,17 @@
     "hasSummary": true,
     "link": "https://beincrypto.com/cardano-x402-ai-agents-ada-payments/",
     "source": "BeInCrypto",
-    "tags": [],
+    "tags": [
+      "Cardano",
+      "ADA"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T15:41:53.000Z",
     "fetchedAt": "2026-09-22T17:08:42.816Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "cardano-unlocks-ai-agent-payments-with-x402-ada-hits-4-month-high"
+    "content": "Cardano has integrated with the x402 payment standard, enabling autonomous AI agents and applications to process online service transactions directly using ADA. Following the announcement, ADA experienced a price increase of about 4% over a 24-hour period, reaching its highest valuation in four months.",
+    "slug": "cardano-unlocks-ai-agent-payments-with-x402-ada-hits-4-month-high",
+    "content_ta": "கார்டானோ x402 பேமெண்ட் ஸ்டாண்டர்டுடன் இணைந்துள்ளது, இதன் மூலம் AI ஏஜெண்டுகள் மற்றும் அப்ளிகேஷன்கள் ஆன்லைன் சேவை கட்டணங்களை நேரடியாக ADA-வில் செலுத்த முடியும். இந்த அறிவிப்பைத் தொடர்ந்து, ADA-ன் விலை 24 மணி நேரத்தில் சுமார் 4% உயர்ந்து, நான்கு மாதங்களில் இல்லாத அளவுக்கு புதிய உச்சத்தை அடைந்துள்ளது."
   },
   {
     "id": "2d17faec3c568df7",
@@ -4671,13 +5046,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/coinbase-prime-ton-institutional-staking/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Coinbase Prime",
+      "TON"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T16:52:35.000Z",
     "fetchedAt": "2026-09-22T17:08:42.816Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "coinbase-prime-opens-institutional-staking-for-ton-expanding-its-proof-of-stake-lineup"
+    "content": "Coinbase Prime has launched institutional staking for TON, adding the asset to its expanding proof-of-stake lineup. This development allows institutional investors to stake TON through the platform, potentially boosting adoption and liquidity within the blockchain ecosystem as interest in proof-of-stake networks continues to grow among major financial market participants.",
+    "slug": "coinbase-prime-opens-institutional-staking-for-ton-expanding-its-proof-of-stake-lineup",
+    "content_ta": "Coinbase Prime தனது proof-of-stake வரிசையை விரிவுபடுத்தும் வகையில் TON-க்கான நிறுவன அளவிலான ஸ்டேக்கிங்கை (staking) தொடங்கியுள்ளது. இந்த வளர்ச்சியானது நிறுவன முதலீட்டாளர்கள் பிளாட்ஃபார்ம் மூலம் TON-ஐ ஸ்டேக் செய்ய அனுமதிக்கிறது, இது பிளாக்செயின் சுற்றுச்சூழல் அமைப்பில் ஏற்றுக்கொள்ளலையும் பணப்புழக்கத்தையும் அதிகரிக்கும்."
   },
   {
     "id": "04fdb826dd3814d8",
@@ -4850,13 +5229,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/standard-chartered-russian-money-laundering-accounts-closed/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Standard Chartered",
+      "Russia"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T16:15:31.000Z",
     "fetchedAt": "2026-09-22T17:08:42.816Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "standard-chartered-ceo-says-bank-closed-accounts-linked-to-russian-money-laundering-network-that"
+    "content": "Standard Chartered CEO announced that the bank has closed accounts associated with a major Russian money laundering network. The illicit network reportedly moved billions of dollars through the financial system. This development highlights ongoing challenges that global financial institutions face in identifying and stopping sophisticated money laundering operations.",
+    "slug": "standard-chartered-ceo-says-bank-closed-accounts-linked-to-russian-money-laundering-network-that",
+    "content_ta": "Standard Chartered CEO வெளியிட்டுள்ள தகவலின்படி, ரஷ்யாவின் பண மோசடி வலையமைப்புடன் தொடர்புடைய கணக்குகளை வங்கி மூடியுள்ளது. இந்த மோசடி வலையமைப்பு பல பில்லியன் டாலர்களைப் பரிமாற்றம் செய்துள்ளது. உலகளாவிய வங்கிகள் இது போன்ற சிக்கலான பண மோசடி முறைகளைக் கண்டறிந்து தடுப்பதில் தொடர்ந்து பல சவால்களை எதிர்கொள்வதை இந்தச் சம்பவம் காட்டுகிறது."
   },
   {
     "id": "6de5fee0849a99e4",
@@ -4907,13 +5290,19 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/rabbit-os3-agentic-operating-system/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Rabbit Inc",
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T16:06:47.000Z",
     "fetchedAt": "2026-09-22T17:08:42.816Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "rabbit-launches-os3-a-cross-platform-agentic-operating-system-that-replaces-apps-with-intent"
+    "content": "Rabbit Inc. has launched OS3, a cross-platform agentic operating system designed to replace traditional mobile and desktop applications with intent-driven chat interfaces. The new software operates across Windows, Mac, Linux, and the company's proprietary hardware devices, aiming to streamline user interactions by focusing on user intent rather than app navigation.",
+    "slug": "rabbit-launches-os3-a-cross-platform-agentic-operating-system-that-replaces-apps-with-intent",
+    "content_ta": "Rabbit Inc நிறுவனம் OS3 என்ற புதிய agentic இயக்க முறைłமைை அறிமுகப்படுத்தியுள்ளது. இது பாரம்பரிய ஆப்களுக்கு பதிலாக intent அடிப்படையிலான chat மூலம் Windows, Mac, Linux மற்றும் அதன் சொந்த சாதனங்களில் வேலை செய்யும் வகையில் வடிவமைக்கப்பட்டுள்ளது."
   },
   {
     "id": "4b7baa2dff45ea17",
@@ -4941,13 +5330,18 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/eu-extends-russia-sanctions-latvia-veto/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "EU",
+      "Russia",
+      "Latvia"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T15:56:19.000Z",
     "fetchedAt": "2026-09-22T17:08:42.816Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "eu-extends-sanctions-against-russia-after-latvia-drops-veto-on-oligarchs"
+    "content": "The EU has officially extended its sanctions framework against Russia until 2029. This decision followed Latvia dropping its veto regarding the treatment of oligarchs. While the extended framework reinforces the European Union's strong stance against Russia, the specific delisting of certain oligarchs has raised concerns that it might weaken the perceived resolve of the international sanctions.",
+    "slug": "eu-extends-sanctions-against-russia-after-latvia-drops-veto-on-oligarchs",
+    "content_ta": "EU ஆனது Russia மீதான பொருளாதாரத் தடைகளை 2029 வரை அதிகாரப்பூர்வமாக நீட்டித்துள்ளது. oligarchs விவகாரத்தில் Latvia தனது வீட்டோ அதிகாரத்தை விலக்கிக் கொண்டதை அடுத்து இந்த முடிவு எடுக்கப்பட்டுள்ளது. இந்த நீட்டிக்கப்பட்ட கட்டமைப்பு Russia மீதான EU-வின் உறுதியான நிலைப்பாட்டை வலுப்படுத்தினாலும், சில oligarchs-களைப் பட்டியலிலிருந்து நீக்கியது சர்வதேச அளவில் அதன் உறுத்தலைக் பலவீனப்படுத்தலாம் என்ற கவலைகளை எழுப்பியுள்ளது."
   },
   {
     "id": "73a2e78d95ecc5cd",
@@ -5112,13 +5506,20 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/trump-rename-ai-super-intelligence-un/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Donald Trump",
+      "United Nations",
+      "Iran",
+      "Venezuela",
+      "Cuba"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-22T17:49:28.000Z",
     "fetchedAt": "2026-09-22T18:01:23.006Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "trump-proposes-renaming-artificial-intelligence-to-super-intelligence-at-un"
+    "content": "At the United Nations, President Donald Trump delivered a broad address covering international issues, including the economy, global conflicts, and foreign policy. During his presentation, he also proposed renaming artificial intelligence to super intelligence, highlighting various administration achievements and addressing diverse global topics before an international audience.",
+    "slug": "trump-proposes-renaming-artificial-intelligence-to-super-intelligence-at-un",
+    "content_ta": "ஐக்கிய நாடுகள் சபையில் உரையாற்றிய President Donald Trump, பொருளாதாரம் மற்றும் வெளிநாட்டுக் கொள்கை உள்ளிட்ட பல்வேறு சர்வதேச விவகாரங்கள் குறித்துப் பேசினார். தனது உரையின் போது, artificial intelligence-ஐ super intelligence என மறுபெயரிடவும் அவர் பரிந்துரைத்தார். சர்வதேச பார்வையாளர்கள் முன்னிலையில் தனது நிர்வாகத்தின் சாதனைகளையும் பல்வேறு உலகளாவிய பிரச்சினைகளையும் அவர் எடுத்துரைத்தார்."
   },
   {
     "id": "6e18f3d21be603ac",

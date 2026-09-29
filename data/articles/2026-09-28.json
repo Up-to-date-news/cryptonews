@@ -2113,8 +2113,9 @@
     "pubDate": "2026-09-28T11:32:33.000Z",
     "fetchedAt": "2026-09-28T12:01:24.601Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "traders-aren-t-panicking-yet-despite-cooling-crypto-sentiment"
+    "content": "Despite a recent cooling in overall crypto sentiment as market participants look toward the end of September 2026, cryptocurrency traders are not showing signs of panic. Market activity remains steady as participants analyze short-term trends and upcoming economic indicators, reflecting a cautious yet calm approach across the digital asset landscape.",
+    "slug": "traders-aren-t-panicking-yet-despite-cooling-crypto-sentiment",
+    "content_ta": "செப்டம்பர் 2026 இறுதிப் பகுதியை நோக்கி crypto சந்தை உணர்வு சற்று தணிந்திருந்தாலும், வர்த்தகர்கள் மத்தியில் எந்தவித பீதியும் ஏற்படவில்லை. டிஜிட்டல் சொத்து சந்தையில் குறுகிய கால போக்குகள் மற்றும் வரவிருக்கும் பொருளாதார குறியீடுகளை பங்கேற்பாளர்கள் தொடர்ந்து ஆராய்ந்து வருவதால், சந்தை நடவடிக்கைகள் சீராகவே தொடர்கின்றன."
   },
   {
     "id": "188ffcec53d3bec8",
@@ -2123,13 +2124,16 @@
     "hasSummary": true,
     "link": "https://cryptoslate.com/ethereums-next-scaling-leap-may-come-from-making-everyone-stop-doing-the-same-work/",
     "source": "CryptoSlate",
-    "tags": [],
+    "tags": [
+      "Ethereum"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T11:30:01.000Z",
     "fetchedAt": "2026-09-28T12:01:24.601Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "ethereum-s-next-scaling-leap-may-come-from-making-everyone-stop-doing-the-same-work"
+    "content": "Ethereum's next scaling upgrade may focus on reducing redundant work across the network. By utilizing cheaper cryptographic proofs, verification can become much wider and more efficient. At the same time, builders and provers will still require reliable access to data to ensure blocks and rollups continue to move forward smoothly, balancing decentralization with performance.",
+    "slug": "ethereum-s-next-scaling-leap-may-come-from-making-everyone-stop-doing-the-same-work",
+    "content_ta": "Ethereum-ன் அடுத்த அளவீட்டு மேம்பாடானது நெட்வொர்க் முழுவதும் ஒரே மாதிரியான பணிகளை மீண்டும் செய்வதைக் குறைப்பதில் கவனம் செலுத்தலாம். மலிவான கிரிப்டோகிராஃபிக் proofs மூலம், சரிபார்ப்பு மிகவும் பரவலாகவும் திறமையாகவும் மாறக்கூடும். அதே நேரத்தில், பிளாக்குகள் மற்றும் ரோல்அப்கள் தொடர்ந்து சீராக இயங்குவதற்கு பில்டர்கள் மற்றும் ப்ரோவர்களுக்கும் தரவு தேவைப்படுகிறது."
   },
   {
     "id": "f0689c0841a420bd",
@@ -2138,13 +2142,16 @@
     "hasSummary": true,
     "link": "https://ambcrypto.com/ondo-captured-12-of-the-rwa-market-and-investors-noticed/",
     "source": "AMBCrypto",
-    "tags": [],
+    "tags": [
+      "ONDO"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T12:00:35.000Z",
     "fetchedAt": "2026-09-28T12:01:24.601Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "ondo-captured-12-of-the-rwa-market-and-investors-noticed"
+    "content": "ONDO has captured a notable twelve percent share of the real-world asset market, drawing strong attention from investors. Following this development, ONDO experienced a significant price surge of thirteen percent, reaching a ten-month high as the institutional era of tokenization continues to gain momentum across the industry.",
+    "slug": "ondo-captured-12-of-the-rwa-market-and-investors-noticed",
+    "content_ta": "ONDO, ரியல்-வேர்ல்ட் அசெட் மார்க்கெட்டில் கணிசமான பன்னிரண்டு சதவீத பங்கைப் பிடித்துள்ளது, இது முதலீட்டாளர்களின் கவனத்தை ஈர்த்துள்ளது. இந்த வளர்ச்சியையடுத்து, டோக்கனைசேஷன் துறை நிறுவனங்களின் மத்தியில் வளர்ச்சி பெற்று வருவதால், ONDO விலை பதின்மூன்று சதவீதம் உயர்ந்து பன்னிரண்டு மாத உச்சத்தை எட்டியுள்ளது."
   },
   {
     "id": "4fcf312679607da3",
@@ -2346,13 +2353,17 @@
     "hasSummary": true,
     "link": "https://www.coindesk.com/markets/2026/09/28/ai-agents-could-drain-cheap-bank-deposits-apollo-s-torsten-slok-warns",
     "source": "CoinDesk",
-    "tags": [],
+    "tags": [
+      "Apollo",
+      "Torsten Slok"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T13:06:11.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "ai-agents-could-drain-cheap-bank-deposits-apollo-s-torsten-slok-warns"
+    "content": "Apollo's Torsten Slok has warned that autonomous AI agents could trigger a massive bank run. According to the warning, these AI systems have the potential to automatically transfer household cash from low-interest checking accounts into higher-yield financial alternatives, which could rapidly drain cheap bank deposits.",
+    "slug": "ai-agents-could-drain-cheap-bank-deposits-apollo-s-torsten-slok-warns",
+    "content_ta": "Apollo-வை சேர்ந்த Torsten Slok, தன்னாட்சி பெற்ற AI agents பெரிய அளவிலான வங்கி ஓட்டத்தை (bank run) தூண்டக்கூடும் என்று எச்சரித்துள்ளார். இந்த எச்சரிக்கையின்படி, குறைந்த வட்டி வழங்கும் கணக்குகளிலிருந்து வீட்டுக் பணத்தை அதிக லாபம் தரும் மாற்று வழிகளுக்கு தானாகவே மாற்றுவதன் மூலம், மலிவான வங்கி வைப்புத்தொகையை இந்த AI அமைப்புகள் விரைவாகக் குறைக்கக்கூடும்."
   },
   {
     "id": "7c01b60c4c5a10e2",
@@ -2361,13 +2372,17 @@
     "hasSummary": true,
     "link": "https://www.coindesk.com/business/2026/09/28/chainlink-updates-its-crypto-bridge-tech-months-after-a-usd292-million-hack-shook-the-industry",
     "source": "CoinDesk",
-    "tags": [],
+    "tags": [
+      "Chainlink",
+      "CCIP"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T12:30:00.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "chainlink-launches-new-version-of-its-crypto-bridge-tech-ccip-to-give-apps-more-control-over-their"
+    "content": "Chainlink has launched a new version of its CCIP cross-chain bridge technology. The updated software is designed to give decentralized applications greater control over their security. It allows companies to implement custom security checks, helping them prevent vulnerabilities and exploits that have frequently impacted rival bridge networks in the blockchain sector.",
+    "slug": "chainlink-launches-new-version-of-its-crypto-bridge-tech-ccip-to-give-apps-more-control-over-their",
+    "content_ta": "Chainlink தனது CCIP cross-chain bridge தொழில்நுட்பத்தின் புதிய பதிப்பை அறிமுகப்படுத்தியுள்ளது. இந்த புதிய மென்பொருள், decentralized applications-களுக்கு அவற்றின் பாதுகாப்பின் மீது கூடுதல் கட்டுப்பாட்டை வழங்குகிறது. நிறுவனங்கள் தங்களது சொந்த security checks-களை இணைத்துக்கொள்ள இது அனுமதிக்கிறது, இதன் மூலம் rival bridge networks-களில் அடிக்கடி ஏற்படும் vulnerabilities-களைத் தவிர்க்க முடியும்."
   },
   {
     "id": "c2e809542f43c1c4",
@@ -2376,13 +2391,16 @@
     "hasSummary": true,
     "link": "https://cointelegraph.com/news/mica-shift-rulemaking-to-supervision-esma-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "source": "Cointelegraph",
-    "tags": [],
+    "tags": [
+      "ESMA"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T14:02:45.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "mica-focus-shifts-from-rulemaking-to-supervision-esma-chair-says"
+    "content": "The European Securities and Markets Authority is shifting its focus under the Markets in Crypto-Assets framework from creating rules to overseeing supervision. According to the ESMA chair, regulatory efforts will now center on Crypto-Asset Service Provider resilience, outsourcing practices, and reverse solicitation. Authorities are also aiming to achieve harmonized reporting standards across various national regulators to ensure consistent oversight.",
+    "slug": "mica-focus-shifts-from-rulemaking-to-supervision-esma-chair-says",
+    "content_ta": "Markets in Crypto-Assets கட்டமைப்பின் கீழ், ESMA தனது கவனத்தை விதிகளை உருவாக்குவதில் இருந்து மேற்பார்வை செய்வதற்கு மாற்றியுள்ளது. ESMA தலைவரின் கூற்றுப்படி, ஒழுங்குமுறை முயற்சிகள் இனி CASP மீள்தன்மை, அவுட்சோர்சிங் மற்றும் ரிவர்ஸ் சொலிசிட்டேஷன் ஆகியவற்றில் கவனம் செலுத்தும். தேசிய ஒழுங்குமுறை அமைப்புகளிடையே சீரான அறிக்கையிடல் தரநிலைகளை அடைவதையும் அதிகாரிகள் நோக்கமாகக் கொண்டுள்ளனர்."
   },
   {
     "id": "9d4c69dea1d968ab",
@@ -2391,13 +2409,16 @@
     "hasSummary": true,
     "link": "https://cointelegraph.com/magazine/altseason-is-coming-and-traders-are-more-discerning-this-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "source": "Cointelegraph",
-    "tags": [],
+    "tags": [
+      "Altseason"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T13:30:00.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "altseason-is-coming-and-traders-are-more-discerning-this-time"
+    "content": "Early signs suggest that Altseason is approaching, but market participants are showing a more selective approach this time. Rather than broad speculation, capital is currently flowing specifically into revenue-generating protocols spanning various narratives across the cryptocurrency market, indicating a shift toward higher-utility projects.",
+    "slug": "altseason-is-coming-and-traders-are-more-discerning-this-time",
+    "content_ta": "Altseason விரைவில் வரவிருப்பதாக ஆரம்ப அறிகுறிகள் காட்டுகின்றன, ஆனால் இந்த முறை வர்த்தகர்கள் மிகவும் கவனமாகவும் தேர்ந்தெடுக்கப்பட்டும் செயல்படுகிறார்கள். பரவலான ஊகங்களுக்குப் பதிலாக, பல்வேறு கிரிப்டோகரன்சி பிரிவுகளில் வருமானம் ஈட்டும் புரோட்டோகால் மீது மட்டுமே முதலீடுகள் ஈர்க்கப்பட்டு வருகின்றன."
   },
   {
     "id": "883246ed7ce2e669",
@@ -2406,13 +2427,18 @@
     "hasSummary": true,
     "link": "https://cointelegraph.com/markets/btc-price-eyes-best-q3-in-nine-years-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "source": "Cointelegraph",
-    "tags": [],
+    "tags": [
+      "Bitcoin",
+      "United States",
+      "Iran"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T12:21:50.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "btc-price-eyes-best-q3-in-nine-years-three-things-to-know-in-bitcoin-this-week"
+    "content": "Bitcoin fell below $83,000 at the start of the week following US-Iran war developments. Despite this decline, BTC remains on track for its best third quarter in nine years, sitting up over 40% for Q3. Markets are now awaiting crucial upcoming inflation and jobs data to determine the next price direction.",
+    "slug": "btc-price-eyes-best-q3-in-nine-years-three-things-to-know-in-bitcoin-this-week",
+    "content_ta": "US-Iran மோதல் குறித்த நிகழ்வுகளால் வாரத்தின் தொடக்கத்தில் Bitcoin விலை $83,000-க்கு கீழே சரிந்தது. இருப்பினும், Q3-க்கான விலையானது 40 சதவீதத்திற்கும் அதிகமாக உயர்ந்துள்ளதால், கடந்த ஒன்பது ஆண்டுகளில் சிறந்த Q3-ஐ நோக்கி BTC முன்னேறி வருகிறது. அடுத்த விலை நகர்வை நிர்ணயிக்க முக்கிய பணவீக்கம் மற்றும் வேலைவாய்ப்பு தரவுகளுக்காக சந்தைகள் காத்திருக்கின்றன."
   },
   {
     "id": "479d290baf192c38",
@@ -2421,13 +2447,17 @@
     "hasSummary": true,
     "link": "https://decrypt.co/379415/strategy-sets-new-btc-holdings-record-after-143m-bitcoin-purchase",
     "source": "Decrypt",
-    "tags": [],
+    "tags": [
+      "Michael Saylor",
+      "Bitcoin"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T12:45:41.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "strategy-sets-new-btc-holdings-record-after-143m-bitcoin-purchase"
+    "content": "Michael Saylor's Bitcoin treasury firm has set a new holdings record following a fresh cryptocurrency purchase. The company acquired 1,665 Bitcoin last week for roughly $143 million, bringing its total reserves to 847,666 Bitcoin and further solidifying its position as the largest corporate holder of the digital asset.",
+    "slug": "strategy-sets-new-btc-holdings-record-after-143m-bitcoin-purchase",
+    "content_ta": "Michael Saylor-ன் Bitcoin கருவூல நிறுவனம் புதிய cryptocurrency வாங்குதலைத் தொடர்ந்து தனது புதிய holdings சாதனையை எட்டியுள்ளது. இந்நிறுவனம் கடந்த வாரம் 1,665 Bitcoin-களை தோராயமாக $143 மில்லியன் மதிப்பில் வாங்கியது, இதன் மூலம் அதன் மொத்த இருப்புகள் 847,666 Bitcoin-களாக உயர்ந்துள்ளது."
   },
   {
     "id": "8d272b32e21efeab",
@@ -2436,13 +2466,17 @@
     "hasSummary": true,
     "link": "https://cryptoslate.com/bitget-had-30-minutes-to-contain-its-hack-before-290-million-started-moving/",
     "source": "CryptoSlate",
-    "tags": [],
+    "tags": [
+      "Bitget",
+      "Hypernative"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T14:30:12.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "bitget-had-30-minutes-to-contain-its-hack-before-290-million-started-moving"
+    "content": "Cryptocurrency exchange Bitget had a brief window of approximately 30 minutes to contain a security breach before massive fund transfers began. Security firm Hypernative reported that major waves of asset movements occurred roughly 30 and 45 minutes after the hack was detected, ultimately resulting in millions of dollars in unauthorized transfers.",
+    "slug": "bitget-had-30-minutes-to-contain-its-hack-before-290-million-started-moving",
+    "content_ta": "Crypto exchange Bitகெட் நிறுவனத்திற்கு தங்களது தளத்தில் நடந்த ஹேக் சம்பவத்தை கட்டுப்படுத்த தோராயமாக 30 நிமிடங்கள் மட்டுமே அவகாசம் இருந்தது. அதற்குள் சுமார் 290 மில்லியன் டாலர் மதிப்புள்ள தொகையை மாற்றும் முயற்சிகள் தொடங்கின. ஹேக் கண்டறியப்பட்ட 30 மற்றும் 45 நிமிடங்களுக்குப் பிறகு பெருமளவிலான நிதி மாற்றங்கள் நிகழ்ந்ததாக Hypernative பாதுகாப்பு நிறுவனம் தெரிவித்துள்ளது."
   },
   {
     "id": "81dd2f3479bdaf0d",
@@ -2451,13 +2485,16 @@
     "hasSummary": true,
     "link": "https://cryptoslate.com/bitcoin-dips-below-83000-on-monday-extending-last-weeks-retreat/",
     "source": "CryptoSlate",
-    "tags": [],
+    "tags": [
+      "Bitcoin"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T12:30:41.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "bitcoin-dips-below-83-000-to-start-the-week-as-asia-markets-sell-extending-last-week-s-retreat"
+    "content": "Bitcoin dropped below $83,000 at the start of the week as selling pressure in Asian markets extended the retreat seen late last week. The downward move saw the price cross the lower edge of Friday's trading range, coinciding with rising oil prices and Treasury yields across the broader financial markets.",
+    "slug": "bitcoin-dips-below-83-000-to-start-the-week-as-asia-markets-sell-extending-last-week-s-retreat",
+    "content_ta": "வாரத்தின் தொடக்கத்தில் ஆசிய சந்தைகளில் ஏற்பட்ட விற்பனை அழுத்தம் காரணமாக Bitcoin விலை $83,000-க்கு கீழே சரிந்தது. கடந்த வாரத்தின் சரிவு தொடரும் வகையில் இந்த விலை குறைவு ஏற்பட்டுள்ளது. வெள்ளிக்கிழமை வர்த்தக வரம்பின் கீழ் எல்லையை விலை கடந்த நிலையில், பரந்த சந்தையில் கச்சா எண்ணெய் விலையும் Treasury விளைச்சலும் உயர்ந்துள்ளன."
   },
   {
     "id": "c2c7e8607cebc650",
@@ -2466,13 +2503,17 @@
     "hasSummary": true,
     "link": "https://cryptopotato.com/which-altcoin-is-most-likely-to-10x-in-the-next-bull-cycle-3-ais-speculate/",
     "source": "CryptoPotato",
-    "tags": [],
+    "tags": [
+      "ChatGPT",
+      "Gemini"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T14:15:46.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "which-altcoin-is-most-likely-to-10x-in-the-next-bull-cycle-3-ais-speculate"
+    "content": "As the next bull cycle approaches, market analysts and AI models like ChatGPT and Gemini are speculating on which altcoins have the highest potential to deliver massive returns. Interestingly, recent inquiries reveal that ChatGPT and Gemini share the exact same perspective on which digital assets could achieve significant growth. Experts continue to monitor these trends closely to understand how artificial intelligence evaluates cryptocurrency market opportunities.",
+    "slug": "which-altcoin-is-most-likely-to-10x-in-the-next-bull-cycle-3-ais-speculate",
+    "content_ta": "அடுத்த bull cycle நெருங்கிவரும் நிலையில், ChatGPT மற்றும் Gemini போன்ற AI மாடல்கள் எந்த altcoin அதிக லாபத்தைத் தரும் என்று ஊகிக்கின்றன. சுவாரஸ்யமாக, ChatGPT மற்றும் Gemini இரண்டும் டிஜிட்டல் சொத்துக்களின் வளர்ச்சி குறித்து ஒரே மாதிரியான கண்ணோட்டத்தைக் கொண்டுள்ளன. கிரிப்டோகரன்சி சந்தை வாய்ப்புகளை செயற்கை நுண்ணறிவு எவ்வாறு மதிப்பிடுகிறது என்பதை நிபுணர்கள் உன்னிப்பாகக் கவனித்து வருகின்றனர்."
   },
   {
     "id": "45b01866565af7d4",
@@ -2481,13 +2522,18 @@
     "hasSummary": true,
     "link": "https://cryptopotato.com/aster-launches-perpetual-grid-trading-2-0-with-up-to-140000-aster-liquidity-mining-campaign/",
     "source": "CryptoPotato",
-    "tags": [],
+    "tags": [
+      "Aster",
+      "YZi Labs",
+      "British Virgin Islands"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T14:13:39.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "aster-launches-perpetual-grid-trading-2-0-with-up-to-140-000-aster-liquidity-mining-campaign"
+    "content": "Aster has announced the launch of its Perpetual Grid Trading 2.0 along with a four-week Liquidity Pool Mining campaign. Backed by YZi Labs, the privacy-first onchain trading platform is running the incentive campaign from September 28 to October 25, 2026. The initiative features a total reward pool of up to 140,000 $ASTER tokens to reward participants.",
+    "slug": "aster-launches-perpetual-grid-trading-2-0-with-up-to-140-000-aster-liquidity-mining-campaign",
+    "content_ta": "தனது Perpetual Grid Trading 2.0 வெளியீட்டுடன் சேர்த்து நான்கு வார லிக்யூடிட்டி பூல் மைனிங் பிரச்சாரத்தையும் Aster அறிவித்துள்ளது. YZi Labs ஆதரவு பெற்ற இந்த ஆன்செயின் டிரேடிங் பிளாட்ஃபார்ம், செப்டம்பர் 28 முதல் அக்டோபர் 25, 2026 வரை இந்த ஊக்கத்தொகை பிரச்சாரத்தை நடத்துகிறது. பங்கேற்பாளர்களுக்கு வெகுமதி அளிக்க மொத்தம் 140,000 $ASTER டோக்கன்கள் வரை பரிசுத் தொகையாக வழங்கப்படவுள்ளது."
   },
   {
     "id": "fca0a38e8bc103d1",
@@ -2496,13 +2542,16 @@
     "hasSummary": true,
     "link": "https://cryptopotato.com/ethereum-price-analysis-is-a-drop-to-2-4k-next-after-eths-latest-rejection/",
     "source": "CryptoPotato",
-    "tags": [],
+    "tags": [
+      "Ethereum"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T13:09:30.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "ethereum-price-analysis-is-a-drop-to-2-4k-next-after-eth-s-latest-rejection"
+    "content": "Ethereum is currently consolidating below the $2.7K mark following a recent recovery from its June lows. While the medium-term market structure remains constructive, momentum has cooled down after ETH faced rejection at the resistance area. Traders and analysts are closely monitoring whether the price can maintain its position above the rising trendline and nearby demand zone, or if a drop toward $2.4K is next.",
+    "slug": "ethereum-price-analysis-is-a-drop-to-2-4k-next-after-eth-s-latest-rejection",
+    "content_ta": "ஜூன் மாதத்தின் குறைந்த விலையிலிருந்து மீண்ட பிறகு, Ethereum தற்போது $2.7K என்ற அளவுக்குக் கீழே ஒருங்கிணைந்து வருகிறது. நடுத்தர காலச் சந்தை அமைப்பு சாதகமாக இருந்தாலும், எதிர்ப்பு எல்லையைத் தாண்டத் தவறியதால் ETH-ன் வேகம் குறைந்துள்ளது. விலை தொடர்ந்து உயரும் போக்கையும் தேவைப் பகுதியையும் தக்கவைத்துக் கொள்ளுமா அல்லது $2.4K வரை சரியுமா என்பதை வர்த்தகர்கள் உன்னிப்பாகக் கவனித்து வருகின்றனர்."
   },
   {
     "id": "d78ce1b577dff15f",
@@ -2511,13 +2560,16 @@
     "hasSummary": true,
     "link": "https://ambcrypto.com/solana-can-record-17b-stablecoin-supply-push-sol-above-120/",
     "source": "AMBCrypto",
-    "tags": [],
+    "tags": [
+      "Solana"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T15:00:10.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "solana-can-record-17b-stablecoin-supply-push-sol-above-120"
+    "content": "Solana could be approaching a key breakout setup as rising demand meets record global liquidity. With its stablecoin supply reaching a record 17 billion dollars, analysts are watching to see if this surge in liquidity will help push the SOL token price above the 120 dollar mark.",
+    "slug": "solana-can-record-17b-stablecoin-supply-push-sol-above-120",
+    "content_ta": "Solana-ல் நிலையான நாணயங்களின் (stablecoin) வழங்கல் சாதனை அளவான 17 பில்லியன் டாலர்களை எட்டியுள்ளதால், விலையில் ஒரு முக்கிய திருப்புமுனை ஏற்படலாம் என எதிர்பார்க்கப்படுகிறது. அதிகரித்து வரும் தேவை மற்றும் உலகளாவிய பணப்புழக்கம் காரணமாக, SOL டோக்கனின் விலை 120 டாலரைத் தாண்டி உயருமா என்பதை முதலீட்டாளர்கள் கவனித்து வருகின்றனர்."
   },
   {
     "id": "bfc085a98d9b0082",
@@ -2526,13 +2578,16 @@
     "hasSummary": true,
     "link": "https://ambcrypto.com/how-to-make-money-with-ai-in-2026-ai-token-economy-ai-infrastructure-and-new-opportunities/",
     "source": "AMBCrypto",
-    "tags": [],
+    "tags": [
+      "AI"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T13:00:29.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "how-to-make-money-with-ai-in-2026-ai-token-economy-ai-infrastructure-and-new-opportunities"
+    "content": "Artificial intelligence is transforming how people generate income by lowering technical barriers. By 2026, new opportunities are emerging through the AI token economy and AI infrastructure. Individuals can now leverage advanced tools to create value, moving beyond traditional methods like building websites or developing standard software.",
+    "slug": "how-to-make-money-with-ai-in-2026-ai-token-economy-ai-infrastructure-and-new-opportunities",
+    "content_ta": "செயற்கை நுண்ணறிவு தொழில்நுட்பம் வருமானம் ஈட்டும் முறையை மாற்றி அமைத்து வருகிறது. தொழில்நுட்ப தடைகளை குறைப்பதன் மூலம், 2026-ம் ஆண்டுக்குள் AI token economy மற்றும் AI infrastructure துறைகளில் புதிய வாய்ப்புகள் உருவாகின்றன. பாரம்பரிய முறைகளை தாண்டி, மக்கள் புதிய கருவிகளை பயன்படுத்தி மதிப்பை உருவாக்க முடியும்."
   },
   {
     "id": "78a4adb0a81739ff",
@@ -2541,13 +2596,17 @@
     "hasSummary": true,
     "link": "https://u.today/banking-giant-citigroup-taps-coinbase-for-crypto-expansion",
     "source": "U.Today",
-    "tags": [],
+    "tags": [
+      "Citigroup",
+      "Coinbase"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T14:02:34.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "banking-giant-citigroup-taps-coinbase-for-crypto-expansion"
+    "content": "Banking giant Citigroup has partnered with Coinbase to support its expansion into digital assets. According to reports, Coinbase will provide the technology and payment rails for stablecoins, enabling the major financial institution to navigate the ongoing transition from traditional analog finance to modern digital payment systems.",
+    "slug": "banking-giant-citigroup-taps-coinbase-for-crypto-expansion",
+    "content_ta": "வங்கித் துறையின் பெரு நிறுவனமான Citigroup, தனது டிஜிட்டல் சொத்து விரிவாக்கத்திற்காக Coinbase நிறுவனத்துடன் கூட்டாண்மை அமைத்துள்ளது. பாரம்பரிய நிதியியல் முறையிலிருந்து டிஜிட்டல் முறைக்கு உலகம் மாறிவரும் நிலையில், stablecoin-களுக்கான தொழில்நுட்பம் மற்றும் கட்டணச் சேவைகளை Coinbase வழங்கும் என்று தகவல்கள் தெரிவிக்கின்றன."
   },
   {
     "id": "c23cd10d9ba9ae13",
@@ -2556,13 +2615,19 @@
     "hasSummary": true,
     "link": "https://u.today/xrp-headlines-altcoins-ahead-of-busy-macro-week-binances-new-listing-live-with-spacex-campaign-main",
     "source": "U.Today",
-    "tags": [],
+    "tags": [
+      "XRP",
+      "Quant",
+      "Binance",
+      "SpaceX"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T13:15:00.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "xrp-headlines-altcoins-ahead-of-busy-macro-week-binance-s-new-listing-live-with-spacex-campaign"
+    "content": "XRP and Quant are leading altcoins as the crypto market prepares for a busy macroeconomic week. Meanwhile, Binance has launched a new listing alongside a SpaceX campaign, marking significant developments in the digital asset space as traders monitor upcoming global economic data and market volatility.",
+    "slug": "xrp-headlines-altcoins-ahead-of-busy-macro-week-binance-s-new-listing-live-with-spacex-campaign",
+    "content_ta": "வரவிருக்கும் மேக்ரோ பொருளாதார வாரத்திற்கு முன்பு கிரிப்டோ சந்தை தயாராகி வரும் நிலையில், XRP மற்றும் Quant போன்ற altcoins முன்னணியில் உள்ளன. இதற்கிடையில், Binance நிறுவனம் தனது புதிய listing உடன் SpaceX பிரச்சாரத்தையும் தொடங்கியுள்ளது."
   },
   {
     "id": "52018ec8bbd6d778",
@@ -2571,13 +2636,19 @@
     "hasSummary": true,
     "link": "https://beincrypto.com/senate-tether-usdt-iran-sanctioned-wallets/",
     "source": "BeInCrypto",
-    "tags": [],
+    "tags": [
+      "Senate",
+      "Iran",
+      "Tether",
+      "USDT"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T14:48:38.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "senate-says-iran-leans-on-tether-s-usdt-is-its-550-million-freeze-record-enough"
+    "content": "Senate Democrats have raised concerns that Iran is using Tether's USDT cryptocurrency to evade economic sanctions. In response, Tether has highlighted its record of freezing approximately $550 million in illicit funds to combat illegal activities. This ongoing debate highlights the complex challenges regulators and stablecoin issuers face regarding illicit finance and blockchain surveillance.",
+    "slug": "senate-says-iran-leans-on-tether-s-usdt-is-its-550-million-freeze-record-enough",
+    "content_ta": "செனட் டெமோகிராப்க்கள், பொருளாதாரத் தடைகளைத் தவிர்க்க Iran நாடானது Tether-இன் USDT கிரிப்டோகரன்சியைப் பயன்படுத்துவதாகக் கவலை தெரிவித்துள்ளனர். இதற்குப் பதிலளிக்கும் விதமாக, சட்டவிரோத நடவடிக்கைகளை எதிர்த்துப் போராட சுமார் $550 மில்லியன் அளவிலான நிதியை முடக்கியுள்ள தனது சாதனையை Tether சுட்டிக்காட்டியுள்ளது. இந்தத் தொடர் விவாதமானது, சட்டவிரோத நிதி மற்றும் பிளாக்செயின் கண்காணிப்பு தொடர்பாக ஒழுங்குமுறை அதிகாரிகளும் ஸ்டேபிள்காயின் வழங்குநர்களும் எதிர்கொள்ளும் சிக்கலான சவால்களை வெளிச்சம் போட்டுக் காட்டுகிறது."
   },
   {
     "id": "3e5eb03ed78ab868",
@@ -2586,13 +2657,17 @@
     "hasSummary": true,
     "link": "https://beincrypto.com/bitget-resumes-withdrawals-after-security-incident/",
     "source": "BeInCrypto",
-    "tags": [],
+    "tags": [
+      "Bitget",
+      "Bitcoin"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T13:12:50.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "bitget-resumes-withdrawals-in-phases-after-security-incident"
+    "content": "Cryptocurrency exchange Bitget has begun resuming withdrawals in phases following a security incident on September 24. BTC withdrawals on the Bitcoin and BSC networks were restarted on September 28. The exchange stated that the attack path was identified, the vulnerability has been fixed, and user balances are safe. A full security report will be released this week.",
+    "slug": "bitget-resumes-withdrawals-in-phases-after-security-incident",
+    "content_ta": "செப்டம்பர் 24 அன்று நடந்த பாதுகாப்பு சம்பவத்தைத் தொடர்ந்து, cryptocurrency exchangeஆன Bitget தனது withdrawals பணிகளை கட்டங்களாக மீண்டும் தொடங்கத் தொடங்கியுள்ளது. Bitcoin மற்றும் BSC நெட்வொர்க்குகளில் BTC withdrawals செப்டம்பர் 28 அன்று மீண்டும் தொடங்கப்பட்டன. தாக்குதல் பாதை கண்டறியப்பட்டு, குறைபாடு சரிசெய்யப்பட்டுவிட்டதாகவும், பயனர்களின் இருப்புக்கள் பாதுகாப்பாக இருப்பதாகவும் எக்ஸ்சேஞ்ச் தெரிவித்துள்ளது. முழுமையான பாதுகாப்பு அறிக்கை இந்த வாரம் வெளியாகும்."
   },
   {
     "id": "baec9ab42104267f",
@@ -2601,13 +2676,18 @@
     "hasSummary": true,
     "link": "https://beincrypto.com/bitget-hack-launderers-public-discord-chats/",
     "source": "BeInCrypto",
-    "tags": [],
+    "tags": [
+      "Bitget",
+      "ZachXBT",
+      "Kelp DAO"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T12:24:01.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "investigator-finds-387m-bitget-hack-suspects-asking-for-help-in-public-chats"
+    "content": "Investigator ZachXBT has revealed that suspects behind a massive $387M Bitget hack sought assistance in public Discord and Telegram chats while laundering funds. According to the investigation, one of the suspects is also linked to a previous security breach involving Kelp DAO. The findings highlight unusual security oversights by the alleged attackers during the money-laundering process.",
+    "slug": "investigator-finds-387m-bitget-hack-suspects-asking-for-help-in-public-chats",
+    "content_ta": "மில்லியன் கணக்கான டாலர் மதிப்பிலான Bitget ஹேக் சம்பவத்தில் தொடர்புடைய சந்தேக நபர்கள், பொதுவான Discord மற்றும் Telegram அரட்டைகளில் உதவி கோரியுள்ளதாக ஆய்வாளர் ZachXBT கண்டறிந்துள்ளது. இந்த விசாரணையின்படி, சந்தேக நபர்களில் ஒருவர் Kelp DAO ஹேக் சம்பவத்துடனும் தொடர்புடையவர் என்பது தெரியவந்துள்ளது."
   },
   {
     "id": "a699fac1a5cb59ab",
@@ -2616,13 +2696,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/adobe-chatgpt-holiday-shopping-forecast/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Adobe",
+      "ChatGPT"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T14:47:36.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "adobe-forecasts-chatgpt-driven-traffic-to-retail-sites-will-surge-130-this-holiday-season"
+    "content": "Adobe forecasts that traffic to retail websites driven by ChatGPT will surge by 130% during the upcoming holiday season. This significant growth highlights a major transformative shift in consumer behavior, which is expected to potentially reshape traditional marketing strategies and overall sales dynamics across the retail industry.",
+    "slug": "adobe-forecasts-chatgpt-driven-traffic-to-retail-sites-will-surge-130-this-holiday-season",
+    "content_ta": "வரவிருக்கும் ஹாலிடே சீசனில் சில்லறை விற்பனை தளங்களுக்கு ChatGPT மூலம் வரும் டிராஃபிக் 130 சதவீதம் வரை அதிகரிக்கும் என்று Adobe கணித்துள்ளது. இந்த குறிப்பிடத்தக்க வளர்ச்சி நுகர்வோர் நடத்தையில் ஒரு பெரிய மாற்றத்தை எடுத்துக்காட்டுகிறது, இது பாரம்பரிய சந்தைப்படுத்தல் உத்திகளையும் விற்பனை இயக்கவியலையும் மறுவடிவமைக்கும் என்று எதிர்பார்க்கப்படுகிறது."
   },
   {
     "id": "d2691832aa940fc0",
@@ -2631,13 +2715,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/goldman-sachs-sp500-breadth-dotcom-low/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Goldman Sachs",
+      "S&P 500"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T14:45:32.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "goldman-sachs-warns-s-p-500-market-breadth-hits-lowest-since-dot-com-bubble"
+    "content": "Goldman Sachs has issued a warning regarding the S&P 500, stating that market breadth has reached its lowest level since the dot-com bubble. This extreme narrowing indicates potential market volatility, prompting investors to prepare for upcoming shifts as macroeconomic conditions and investor sentiment continue to evolve.",
+    "slug": "goldman-sachs-warns-s-p-500-market-breadth-hits-lowest-since-dot-com-bubble",
+    "content_ta": "S&P 500 குறியீட்டின் சந்தை பரவல் dot-com பபுள் காலத்திற்குப் பிறகு மிகக் குறைந்த அளவை எட்டியுள்ளதாக Goldman Sachs எச்சரித்துள்ளது. சந்தையின் இந்த குறுகிய போக்கு சாத்தியமான ஏற்ற இறக்கங்களைக் குறிப்பதோடு, பொருளாதார சூழ்நிலைகள் மற்றும் முதலீட்டாளர்களின் மனநிலைக்கு ஏற்ப மாறுதல்களுக்கு தயாராகுமாறு முதலீட்டாளர்களுக்கு அறிவுறுத்துகிறது."
   },
   {
     "id": "20c5874226cd0c15",
@@ -2646,13 +2734,16 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/baselayer-35m-series-a-ai-agent-identity/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Baselayer"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T14:38:18.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "baselayer-raises-35m-series-a-to-build-identity-infrastructure-for-ai-agents"
+    "content": "Baselayer has successfully raised $35 million in a Series A funding round. The company aims to develop essential identity infrastructure specifically designed for AI agents. This new funding and the upcoming identity tools are expected to play a crucial role in enhancing digital trust, improving financial security, and accelerating AI integration across various business operations.",
+    "slug": "baselayer-raises-35m-series-a-to-build-identity-infrastructure-for-ai-agents",
+    "content_ta": "Baselayer நிறுவனம் Series A நிதி திரட்டலில் $35 மில்லியன் நிதியைப் பெற்றுள்ளது. AI ஏஜெண்டுகளுக்கான அடையாள உள்கட்டமைப்பை உருவாக்குவதை இந்நிறுவனம் நோக்கமாகக் கொண்டுள்ளது. இந்த புதிய நிதி மற்றும் அடையாள கருவிகள் டிஜிட்டல் நம்பிக்கையை மேம்படுத்தவும், நிதி பாதுகாப்பை பலப்படுத்தவும், வணிகங்களில் AI ஒருங்கிணைப்பை விரைவுபடுத்தவும் உதவும்."
   },
   {
     "id": "4995b2a69b50f185",
@@ -2661,13 +2752,20 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/trump-anthropic-amodei-dinner-ai-policy/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Donald Trump",
+      "Anthropic",
+      "Dario Amodei",
+      "United States",
+      "China"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T14:34:48.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "trump-meets-with-anthropic-ceo-dario-amodei-for-first-discussion"
+    "content": "Donald Trump recently held his first discussion with Anthropic CEO Dario Amodei. The meeting underscores the growing intersection of artificial intelligence innovation and government regulatory oversight, with potential implications for international technology competition between the United States and China.",
+    "slug": "trump-meets-with-anthropic-ceo-dario-amodei-for-first-discussion",
+    "content_ta": "Donald Trump தனது முதல் சந்திப்பாக Anthropic CEO Dario Amodei-ஐ சந்தித்து பேசினார். இந்த சந்திப்பு, வேகமாக வளர்ந்து வரும் AI தொழில்நுட்பத்திற்கும் அரசாடகத்தின் ஒழுங்குமுறை மேற்பார்வைக்கும் இடையிலான தொடர்பை அடிக்கோடிட்டுக் காட்டுகிறது, இது United States மற்றும் China இடையிலான தொழில்நுட்ப போட்டியில் தாக்கத்தை ஏற்படுத்தக்கூடும்."
   },
   {
     "id": "7f241ea20dd655c2",
@@ -2676,13 +2774,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/florida-attorney-general-openai-chatgpt-injunction/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Florida",
+      "OpenAI"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T14:24:00.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "florida-attorney-general-seeks-court-injunction-against-openai-s-chatgpt"
+    "content": "The Florida Attorney General has filed a court injunction against OpenAI’s ChatGPT. This legal action marks a significant development in state-level regulation of artificial intelligence. Legal experts note that the case could establish a major precedent, potentially reshaping legal accountability and oversight for major technology companies operating across the United States.",
+    "slug": "florida-attorney-general-seeks-court-injunction-against-openai-s-chatgpt",
+    "content_ta": "Florida-ன் Attorney General, OpenAI-ன் ChatGPT-க்கு எதிராக நீதிமன்றத்தில் தடை உத்தரவு கோரி மனு தாக்கல் செய்துள்ளார். செயற்கை நுண்ணறிவுத் துறைக்கான மாநில அளவிலான ஒழுங்குமுறை விதிகளில் இந்த வழக்கு ஒரு முக்கிய திருப்புமுனையாக அமையலாம் என்று எதிர்பார்க்கப்படுகிறது. அமெரிக்கா முழுவதும் உள்ள தொழில்நுட்ப நிறுவனங்களின் சட்டப்பூர்வ பொறுப்புக்கூறலை இந்த வழக்கு மாற்றியமைக்கக்கூடும்."
   },
   {
     "id": "24c132f8ea20cdbd",
@@ -2691,13 +2793,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/andreessen-horowitz-backs-openais-growth-strategy-ipo-planned-for-2027/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Andreessen Horowitz",
+      "OpenAI"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T14:21:17.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "andreessen-horowitz-backs-openai-s-growth-strategy-ipo-planned-for-2027"
+    "content": "Venture capital firm Andreessen Horowitz has expressed strong support for OpenAI's ongoing growth strategy. Reports indicate that the artificial intelligence company is planning an initial public offering by the year 2027. This anticipated move could significantly impact the broader artificial intelligence industry and reshape future market dynamics as the sector continues to evolve rapidly.",
+    "slug": "andreessen-horowitz-backs-openai-s-growth-strategy-ipo-planned-for-2027",
+    "content_ta": "வெஞ்சர் கேப்பிட்டல் நிறுவனமான Andreessen Horowitz, OpenAI-இன் வளர்ச்சி உத்திக்கு தனது வலுவான ஆதரவைத் தெரிவித்துள்ளது. ஆர்ட்டிஃபிஷியல் இன்டெலிஜென்ஸ் நிறுவனமான இது 2027-ம் ஆண்டுக்குள் ஐபிஓ (IPO) வெளியிட திட்டமிட்டுள்ளதாக தகவல்கள் வெளியாகியுள்ளன. இந்த எதிர்பார்க்கப்படும் நகர்வு எதிர்கால சந்தை இயக்கவியலை மாற்றி அமைக்கும் என்று எதிர்பார்க்கப்படுகிறது."
   },
   {
     "id": "60b024bbfbf977bc",
@@ -2706,13 +2812,18 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/ecb-europe-ai-investment-lags-us/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "European Central Bank",
+      "Europe",
+      "United States"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T13:59:16.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "european-central-bank-reports-rising-ai-investment-in-europe-but-the-us-lead-keeps-growing"
+    "content": "The European Central Bank reports an increase in artificial intelligence investments across Europe. However, the United States continues to widen its lead in the sector. Experts emphasize the urgent need for strategic infrastructure development and better market integration to help Europe bridge this growing technology gap.",
+    "slug": "european-central-bank-reports-rising-ai-investment-in-europe-but-the-us-lead-keeps-growing",
+    "content_ta": "European Central Bank ஐரோப்பாவில் artificial intelligence முதலீடுகள் அதிகரித்து வருவதாக அறிவித்துள்ளது. இருப்பினும், இந்தத் துறையில் United States தனது முன்னிலையைத் தொடர்ந்து அதிகரித்து வருகிறது. இந்த வளர்ந்து வரும் தொழில்நுட்ப இடைவெளியைக் குறைக்க மூலோபாய உள்கட்டமைப்பு மேம்பாடு மற்றும் சிறந்த சந்தை ஒருங்கிணைப்பு அவசியமாக உள்ளதாக நிபுணர்கள் வலியுறுத்துகின்றனர்."
   },
   {
     "id": "79182167530cbbfa",
@@ -2721,13 +2832,16 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/extortionists-release-video-of-driver-murder-amid-lima-election-security/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Lima"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T13:33:24.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "extortionists-release-video-of-driver-murder-amid-lima-election-security-concerns"
+    "content": "Extortionists have released a disturbing video showing the murder of a driver in Lima, heightening security concerns ahead of the upcoming elections. The violent incident has drawn intense public attention, potentially shifting voter focus toward crime and safety issues and influencing support for various political candidates in the region.",
+    "slug": "extortionists-release-video-of-driver-murder-amid-lima-election-security-concerns",
+    "content_ta": "Lima-வில் தேர்தலை நெருங்கும் வேளையில், ஓட்டுநர் ஒருவர் கொல்லப்பட்ட சம்பவத்தின் வீடியோவை extortionists வெளியிட்டுள்ளனர். இது பாதுகாப்பு குறித்த கவலைகளை அதிகரித்துள்ளதுடன், வாக்காளர்களின் கவனத்தை குற்றச் செயல்கள் மீது திருப்புவதன் மூலம் தேர்தல் அரசியலிலும் தாக்கத்தை ஏற்படுத்தக்கூடும்."
   },
   {
     "id": "0480bba5afb20c07",
@@ -2736,13 +2850,16 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/anchorage-conditional-rules-vault-policies/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Anchorage Digital"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T13:24:37.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "anchorage-digital-introduces-conditional-rules-for-vault-policies"
+    "content": "Anchorage Digital has introduced new conditional rules for its vault policies, aiming to enhance institutional asset security. This update aligns cryptocurrency custody standards more closely with traditional financial practices, providing institutions with greater control and security over their digital assets.",
+    "slug": "anchorage-digital-introduces-conditional-rules-for-vault-policies",
+    "content_ta": "institutional asset security-ஐ மேம்படுத்தும் நோக்கில், Anchorage Digital நிறுவனம் தனது vault policy-களுக்கு புதிய conditional rules-களை அறிமுகப்படுத்தியுள்ளது. இந்த புதிய update, cryptocurrency custody தரநிலைகளை பாரம்பரிய நிதி நடைமுறைகளுடன் நெருக்கமாக இணைத்து, நிறுவனங்களுக்கு தங்கள் digital assets மீது கூடுதல் கட்டுப்பாட்டையும் பாதுகாப்பையும் வழங்குகிறது."
   },
   {
     "id": "e8ff5b63ca5c57ff",
@@ -2751,13 +2868,18 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/nansen-fomo-wallets-solana-base/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Nansen",
+      "Solana",
+      "Base"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T13:10:27.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "nansen-adds-search-feature-for-200-000-fomo-wallets-on-solana-and-base"
+    "content": "Blockchain analytics platform Nansen has added a new search feature targeting 200,000 FOMO wallets operating on the Solana and Base networks. This integration is designed to enhance market insights for users, helping traders make more informed decisions and maintain a competitive edge within the cryptocurrency analytics sector.",
+    "slug": "nansen-adds-search-feature-for-200-000-fomo-wallets-on-solana-and-base",
+    "content_ta": "பிளாக்செயின் அனலிட்டிக்ஸ் தளமான Nansen, Solana மற்றும் Base நெட்வொர்க்குகளில் இயங்கும் 200,000 FOMO வாலெட்டுகளை இலக்காகக் கொண்ட புதிய தேடல் அம்சத்தைச் சேர்த்துள்ளது. இந்த ஒருங்கிணைப்பு பயனர்களுக்கான சந்தை நுண்ணறிவை மேம்படுத்தும் வகையில் வடிவமைக்கப்பட்டுள்ளது, இது வர்த்தகர்கள் மிகவும் தகவலறிந்த முடிவுகளை எடுக்கவும், கிரிப்டோகரன்சி பகுப்பாய்வு துறையில் போட்டித் தன்மையை பராமரிக்கவும் உதவும்."
   },
   {
     "id": "1ff9272163c481d2",
@@ -2766,13 +2888,18 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/senate-investigation-tether-iran-sanctions/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Tether",
+      "Iran",
+      "United States Senate"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T13:08:40.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "senate-investigation-finds-rampant-use-of-tether-s-stablecoin-by-iranian-regime"
+    "content": "A recent Senate investigation has revealed widespread use of Tether's stablecoin by the Iranian regime. This finding highlights potential risks associated with digital currencies and could trigger increased regulatory scrutiny on stablecoins worldwide, impacting global financial oversight and digital asset policies.",
+    "slug": "senate-investigation-finds-rampant-use-of-tether-s-stablecoin-by-iranian-regime",
+    "content_ta": "Tether-இன் stablecoin-ஐ ஈரான் அரசு பெருமளவில் பயன்படுத்துவதாக செனட் (Senate) விசாரணை ஒன்றில் தெரியவந்துள்ளது. இந்த கண்டுபிடிப்பு டிஜிட்டல் நாணயங்கள் தொடர்பான சாத்தியமான ஆபத்துக்களை வெளிச்சம் போட்டுக் காட்டுவதுடன், உலகளாவிய நிதி ஒழுங்குமுறை மற்றும் டிஜிட்டல் நாணய கண்காணிப்பு மீதான ஆய்வுகளை தீவிரப்படுத்தக்கூடும்."
   },
   {
     "id": "0ec103ba157beacc",
@@ -2781,13 +2908,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/pumpfun-surpasses-hyperliquid-in-7-day-revenue-now-third-among-crypto-apps/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Pumpfun",
+      "Hyperliquid"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T13:01:18.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "pumpfun-surpasses-hyperliquid-in-7-day-revenue-now-third-among-crypto-apps"
+    "content": "Pumpfun has surpassed Hyperliquid in recent seven-day revenue, securing the third position among cryptocurrency applications. This milestone highlights the rapid growth and activity within the platform, drawing increased attention across the digital asset space as competition among decentralized applications continues to intensify.",
+    "slug": "pumpfun-surpasses-hyperliquid-in-7-day-revenue-now-third-among-crypto-apps",
+    "content_ta": "Pumpfun தனது சமீபத்திய ஏழு நாள் வருவாயில் Hyperliquid-ஐத் தாண்டி, கிரிப்டோகரன்சி செயலிகளில் மூன்றாவது இடத்தைப் பெற்றுள்ளது. இந்த மைல்கல் தளத்தில் விரைவான வளர்ச்சியையும் செயல்பாட்டையும் எடுத்துக்காட்டுகிறது, மேலும் பரவலாக்கப்பட்ட செயலிகளுக்கு இடையிலான போட்டி தீவிரமடைந்து வருவதால் டிஜிட்டல் சொத்துத் துறையில் அதிக கவனத்தை ஈர்த்துள்ளது."
   },
   {
     "id": "f2181b22f29e30b6",
@@ -2796,13 +2927,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/meta-enterprise-ai-mongodb-ceo-desai/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Meta",
+      "MongoDB"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T12:41:47.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "meta-launches-enterprise-ai-business-hires-former-mongodb-ceo-to-lead-it"
+    "content": "Meta has launched a new enterprise AI business, marking a strategic shift to diversify its revenue streams and reduce reliance on advertising. To lead this critical new division, the company has hired the former CEO of MongoDB, positioning itself for enhanced long-term growth in the competitive enterprise technology sector.",
+    "slug": "meta-launches-enterprise-ai-business-hires-former-mongodb-ceo-to-lead-it",
+    "content_ta": "Meta நிறுவனம் தனது வணிக வருவாயை பல்வகைப்படுத்தவும், விளம்பரங்களை மட்டுமே சார்ந்து இருப்பதை குறைக்கவும் ஒரு புதிய எண்டர்பிரைஸ் AI வணிகத்தைத் தொடங்கியுள்ளது. இந்த புதிய பிரிவை வழிநடத்த MongoDB-இன் முன்னாள் CEO-வை அந்த நிறுவனம் பணியமர்த்தியுள்ளது."
   },
   {
     "id": "01f791ab6646d52c",
@@ -2811,13 +2946,16 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/chainlink-ccip-2-launch-cross-chain-security/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Chainlink"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T12:39:01.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "chainlink-upgrades-cross-chain-standard-as-84b-in-token-value-rides-on-ccip"
+    "content": "Chainlink has upgraded its Cross-Chain Interoperability Protocol to enhance security and support institutional adoption in the blockchain sector. With billions of dollars in token value currently relying on CCIP, this new standard aims to address regulatory compliance needs and improve cross-chain communication for financial institutions entering the digital asset space.",
+    "slug": "chainlink-upgrades-cross-chain-standard-as-84b-in-token-value-rides-on-ccip",
+    "content_ta": "Chainlink தனது Cross-Chain Interoperability Protocol-ஐ மேம்படுத்தியுள்ளது. இது பிளாக்செயின் துறையில் நிறுவனங்களின் தத்தெடுப்பை அதிகரிக்கவும் பாதுகாப்பை பலப்படுத்தவும் உதவுகிறது. CCIP-ஐ நம்பி பில்லியன் கணக்கான டாலர் மதிப்புள்ள டோக்கன்கள் உள்ள நிலையில், இந்த புதிய தரநிலையானது ஒழுங்குமுறை இணக்கத் தேவைகளைப் பூர்த்தி செய்வதையும், நிதி நிறுவனங்களுக்கு உதவுவதையும் நோக்கமாகக் கொண்டுள்ளது."
   },
   {
     "id": "43ad213729584751",
@@ -2826,13 +2964,16 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/artificial-analysis-cyber-index-launch/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Artificial Analysis"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T12:35:38.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "artificial-analysis-launches-cyber-index-to-benchmark-ai-models-on-enterprise-vulnerability-defense"
+    "content": "Artificial Analysis has launched the Cyber Index to benchmark AI models on enterprise vulnerability defense. This new tool aims to significantly enhance enterprise cybersecurity by establishing a standardized way to measure and improve AI-driven vulnerability management, providing valuable insights for organizations looking to secure their systems.",
+    "slug": "artificial-analysis-launches-cyber-index-to-benchmark-ai-models-on-enterprise-vulnerability-defense",
+    "content_ta": "எ enterprise vulnerability defense-ல் AI மாடல்களை மதிப்பிடுவதற்காக Artificial Analysis நிறுவனம் Cyber Index-ஐ அறிமுகப்படுத்தியுள்ளது. AI-சார்ந்த vulnerability management-ஐ மேம்படுத்தி, enterprise cybersecurity-ஐ பலப்படுத்தும் நோக்கில் இந்த புதிய கருவி உருவாக்கப்பட்டுள்ளது."
   },
   {
     "id": "4cd9b97455172571",
@@ -2841,13 +2982,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/warren-questions-big-tech-ai-tax-breaks/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Warren",
+      "United States"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T12:28:06.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "sen-warren-questions-big-tech-on-ai-tax-breaks-amid-scrutiny"
+    "content": "Senator Warren has raised questions regarding artificial intelligence tax breaks for big tech companies. This ongoing scrutiny highlights growing political pressure on the technology sector. The inquiry could potentially influence future regulatory policies and impact how major firms plan their financial strategies surrounding artificial intelligence development.",
+    "slug": "sen-warren-questions-big-tech-on-ai-tax-breaks-amid-scrutiny",
+    "content_ta": "Sen. Warren, big tech-ன் AI tax breaks குறித்து கேள்விகளை எழுப்பியுள்ளார். இந்த தீவிர கண்காணிப்பு தொழில்நுட்பத் துறை மீது அதிகரித்து வரும் அரசியல் அழுத்தத்தை வெளிப்படுத்துகிறது. இந்த விசாரணையானது எதிர்கால ஒழுங்குமுறை கொள்கைகளையும், AI மேம்பாடு தொடர்பான நிறுவனங்களின் நிதி உத்திகளையும் பாதிக்கக்கூடும்."
   },
   {
     "id": "52b2eb366d5fc71e",
@@ -2856,13 +3001,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/defi-dev-corp-buys-sol-holdings-254m/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "DeFi Dev Corp",
+      "SOL"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T12:18:16.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "defi-dev-corp-buys-47-706-sol-for-5-8m-boosting-holdings-to-2-54-million-tokens"
+    "content": "DeFi Dev Corp has purchased 47,706 SOL for approximately $5.8 million, increasing its total holdings to 2.54 million tokens. This aggressive acquisition strategy by the company could potentially amplify market influence and volatility while supporting yield-driven growth.",
+    "slug": "defi-dev-corp-buys-47-706-sol-for-5-8m-boosting-holdings-to-2-54-million-tokens",
+    "content_ta": "DeFi Dev Corp நிறுவனம் சுமார் $5.8 மில்லியன் மதிப்பிலான 47,706 SOL டோக்கன்களை வாங்கியுள்ளது. இதன் மூலம் இந்நிறுவனத்தின் மொத்த கையிருப்பு 2.54 மில்லியன் டோக்கன்களாக அதிகரித்துள்ளது. இந்த அதிரடியான முதலீட்டு உத்தியானது சந்தையில் தாக்கத்தையும் நிலையற்ற தன்மையையும் அதிகரிக்கக்கூடும்."
   },
   {
     "id": "706e701d261d6d4b",
@@ -2871,13 +3020,19 @@
     "hasSummary": true,
     "link": "https://coinpedia.org/news/ceo-brad-garlinghouse-uses-150-million-hack-to-debunk-the-ripple-controls-xrp-claim/",
     "source": "Coinpedia",
-    "tags": [],
+    "tags": [
+      "Ripple",
+      "XRP",
+      "Brad Garlinghouse",
+      "United States"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T14:28:41.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "ceo-brad-garlinghouse-uses-150-million-hack-to-debunk-the-ripple-controls-xrp-claim"
+    "content": "Ripple CEO Brad Garlinghouse has rejected claims that his company controls the cryptocurrency XRP. Speaking at an event, Garlinghouse addressed the long-standing debate and stated that the assertion is completely false. He noted that this misconception was a central issue in Ripple's legal battle with the United States government, during which the company had to prove its lack of control over the digital asset.",
+    "slug": "ceo-brad-garlinghouse-uses-150-million-hack-to-debunk-the-ripple-controls-xrp-claim",
+    "content_ta": "Ripple CEO Brad Garlinghouse, தனது நிறுவனம் XRP-யைக் கட்டுப்படுத்துவதாகக் கூறப்படும் குற்றச்சாட்டை மறுத்துள்ளார். ஒரு நிகழ்ச்சியில் பேசிய Garlinghouse, இந்த வாதம் முற்றிலும் தவறானது என்று தெரிவித்தார். இந்தத் தவறான புரிதலே US அரசாங்கத்திற்கும் Ripple நிறுவனத்திற்கும் இடையிலான சட்டப் போராட்டத்தில் ஒரு முக்கியப் பிரச்சினையாக இருந்தது என்றும், அந்தச் சமயத்தில் நிறுவனம் தனது கட்டுப்பாட்டுமற்ற நிலையை நிரூபிக்க வேண்டியிருந்தது என்றும் அவர் கூறினார்."
   },
   {
     "id": "ad45aa006cc45bec",
@@ -2886,13 +3041,16 @@
     "hasSummary": true,
     "link": "https://coinpedia.org/guest-post/ct-pool-review-how-it-works-fees-withdrawals-and-legitimacy/",
     "source": "Coinpedia",
-    "tags": [],
+    "tags": [
+      "CT Pool"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T13:07:36.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "ct-pool-review-how-it-works-fees-withdrawals-and-legitimacy"
+    "content": "CT Pool is a mobile platform-based mining service enabling users to participate in cryptocurrency mining without owning physical hardware. The platform provides a free Pool Miner for new users without requiring an initial deposit, alongside paid options featuring various hashrate and duration plans. This review explores the platform's overall operations, fee structures, withdrawal processes, and overall legitimacy.",
+    "slug": "ct-pool-review-how-it-works-fees-withdrawals-and-legitimacy",
+    "content_ta": "CT Pool என்பது மொபைல் தளம் மூலம் செயல்படும் ஒரு மைனிங் சேவையாகும். இது பயனர்கள் சொந்தமாக ஹார்டுவேர் வைத்திருக்காமலேயே கிரிப்டோகரன்சி மைனிங்கில் பங்கேற்க அனுமதிக்கிறது. புதிய பயனர்கள் எந்தவொரு முதலீடும் இன்றி இலவச Pool Miner-ஐ இயக்கலாம். மேலும், பல்வேறு ஹேஷ்ரேட் மற்றும் கால அளவு கொண்ட கட்டணத் திட்டங்களும் உள்ளன. இந்த ஆய்வு தளம் எவ்வாறு செயல்படுகிறது, கட்டணங்கள், பணத்தை எடுக்கும் முறைகள் மற்றும் அதன் நம்பகத்தன்மை ஆகியவற்றை ஆராய்கிறது."
   },
   {
     "id": "122a49c9c34e896b",
@@ -2901,13 +3059,17 @@
     "hasSummary": true,
     "link": "https://coinpedia.org/price-analysis/spacex-stock-price-starship-launch-looms-can-spcx-turn-the-rally-into-a-breakout/",
     "source": "Coinpedia",
-    "tags": [],
+    "tags": [
+      "SpaceX",
+      "SPCX"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T12:32:29.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "spacex-stock-price-starship-launch-looms-can-spcx-turn-the-rally-into-a-breakout"
+    "content": "SpaceX stock faces a critical period as the upcoming Starship Flight 14 launch approaches. Trading around $149 following a notable recovery, the SPCX fund is watching this major operational catalyst closely. Investors are currently processing a recent influx of tradable shares as the company prepares for its latest orbital attempt, which could significantly impact its long-term market momentum and growth narrative.",
+    "slug": "spacex-stock-price-starship-launch-looms-can-spcx-turn-the-rally-into-a-breakout",
+    "content_ta": "Starship-யின் வரவிருக்கும் Flight 14 ஏவுதலைத் தொடர்ந்து SpaceX-ன் பங்குகள் ஒரு முக்கியமான கட்டத்தை எதிர்கொள்கின்றன. குறிப்பிடத்தக்க மீட்சிக்குப் பிறகு SPCX சுமார் $149-ல் வர்த்தகம் செய்யப்படுகிறது. இந்த முக்கியமான செயல்பாட்டு ஊக்கியை முதலீட்டாளர்கள் உன்னிப்பாகக் கவனித்து வருகின்றனர். புதிய பங்குகள் வர்த்தகத்திற்கு வந்துள்ள நிலையில், நிறுவனம் தனது புதிய சுற்றுப்பாதை முயற்சியைத் தயார்ப்படுத்தி வருகிறது. இது இதன் நீண்டகால வளர்ச்சிக்கு பெரிதும் உதவும்."
   },
   {
     "id": "801e1dba98e3f7ac",
@@ -2916,13 +3078,17 @@
     "hasSummary": true,
     "link": "https://protos.com/usepaid-suspends-x-money-payments-after-volume-spike/",
     "source": "Protos",
-    "tags": [],
+    "tags": [
+      "UsePaid",
+      "X"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T13:33:59.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "usepaid-suspends-x-money-payments-after-volume-spike"
+    "content": "Token fee distributor UsePaid has temporarily suspended its X Money payments following a sudden volume spike. The platform, which integrates with X's payment system, paused operations after encountering an undisclosed technical issue. Further details regarding the nature of the problem and the timeline for resuming payments remain unknown at this time.",
+    "slug": "usepaid-suspends-x-money-payments-after-volume-spike",
+    "content_ta": "டோக்கன் ஃபீ டிஸ்ட்ரிபியூட்டர் ஆன UsePaid, திடீர் வால்யூம் ஸ்பைக் காரணமாக தனது X Money பேமெண்ட்டுகளை தற்காலிகமாக நிறுத்தி வைத்துள்ளது. X-ன் இன்டகிரேட்டட் பேமெண்ட் சிஸ்டத்தைப் பயன்படுத்தும் இந்த தளம், வெளியிடப்படாத தொழில்நுட்பப் பிரச்சனை காரணமாக தனது சேவைகளை நிறுத்தியுள்ளது."
   },
   {
     "id": "97f4e4b8338dc6a8",
@@ -2931,13 +3097,19 @@
     "hasSummary": true,
     "link": "https://protos.com/dyorswap-users-tricked-into-sending-767-eth-to-fake-bridge-contract/",
     "source": "Protos",
-    "tags": [],
+    "tags": [
+      "DYORSWAP",
+      "UPbit",
+      "GIWA chain",
+      "Ethereum"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T13:08:04.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "dyorswap-users-tricked-into-sending-767-eth-to-fake-bridge-contract"
+    "content": "Users of DYORSWAP have suffered significant losses totaling millions of dollars after being tricked into sending 767 ETH to a fraudulent bridge contract. The scam involved a fake version of UPbit’s GIWA chain created by malicious crypto hackers. The incident highlights ongoing security risks involving fake blockchain bridges in the cryptocurrency sector.",
+    "slug": "dyorswap-users-tricked-into-sending-767-eth-to-fake-bridge-contract",
+    "content_ta": "DYORSWAP தளத்தின் பயனர்கள் போலியான பிரிட்ஜ் கான்ட்ராக்ட் மூலம் 767 ETH இழந்ததால் பல மில்லியன் டாலர் மதிப்புள்ள தொகையை இழந்துள்ளனர். கிரிப்டோ ஹேக்கர்கள் UPbit-ன் GIWA chain-ன் போலியான பதிப்பை உருவாக்கியதன் மூலம் இந்த மோசடி நடந்துள்ளது. கிரிப்டோகரன்சி துறையில் போலியான பிளாக்செயின் பிரிட்ஜ்கள் மூலம் நடக்கும் பாதுகாப்பு அச்சுறுத்தல்களை இந்த சம்பவம் வெளிச்சம் போட்டுக் காட்டுகிறது."
   },
   {
     "id": "f4d47c724e157b11",
@@ -2966,13 +3138,18 @@
     "hasSummary": true,
     "link": "https://watcher.guru/news/spcx-stock-surges-as-mizuho-and-morgan-stanley-turn-bullish",
     "source": "Watcher.Guru",
-    "tags": [],
+    "tags": [
+      "SPCX",
+      "Mizuho",
+      "Morgan Stanley"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T12:38:00.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "spcx-stock-surges-as-mizuho-and-morgan-stanley-turn-bullish"
+    "content": "SPCX stock experienced a significant surge following bullish ratings from prominent Wall Street financial institutions. Major investment banks Mizuho and Morgan Stanley both expressed positive outlooks on the stock, with Mizuho reaffirming its buy rating. This renewed confidence from major analysts has helped drive increased investor interest and positive momentum for SPCX in the market.",
+    "slug": "spcx-stock-surges-as-mizuho-and-morgan-stanley-turn-bullish",
+    "content_ta": "Wall Street நிறுவனங்களின் சாதகமான மதிப்பீடுகளைத் தொடர்ந்து SPCX பங்கு குறிப்பிடத்தக்க உயர்வைச் சந்தித்துள்ளது. முக்கிய முதலீட்டு வங்கியான Mizuho மற்றும் Morgan Stanley இரண்டும் பங்கு குறித்த நேர்மறையான பார்வைகளை வெளிப்படுத்தியுள்ளன, Mizuho தனது வாங்கும் மதிப்பீட்டை மீண்டும் உறுதிப்படுத்தியுள்ளது. முக்கிய ஆய்வாளர்களின் இந்த புதிய நம்பிக்கை சந்தையில் SPCX-க்கான முதலீட்டாளர்களின் ஆர்வத்தையும் நேர்மறையான வேகத்தையும் அதிகரிக்க உதவியுள்ளது."
   },
   {
     "id": "372d772fa3fa5f12",
@@ -3002,13 +3179,17 @@
     "hasSummary": true,
     "link": "https://www.finextra.com/newsarticle/48487/bny-unveils-pay-to-wallet-technology-option-for-banks?utm_medium=rssfinextra&utm_source=finextrafeed",
     "source": "Finextra",
-    "tags": [],
+    "tags": [
+      "BNY",
+      "Swift"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T14:19:00.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "bny-unveils-pay-to-wallet-technology-option-for-banks"
+    "content": "BNY has introduced a new Pay-to-Wallet technology option for banks. This capability allows financial institutions to facilitate cross-border payments directly from traditional bank accounts to participating retail digital wallets. The service is designed to operate seamlessly by leveraging existing Swift payment messages and established correspondent banking infrastructure, bridging traditional banking systems with digital wallet networks.",
+    "slug": "bny-unveils-pay-to-wallet-technology-option-for-banks",
+    "content_ta": "BNY பேங்குகளுக்காக புதிய Pay-to-Wallet தொழில்நுட்ப வசதியை அறிமுகப்படுத்தியுள்ளது. இந்த புதிய வசதியின் மூலம், வங்கிகள் தங்களது வாடிக்கையாளர்களின் கணக்குகளிலிருந்து சில்லறை டிஜிட்டல் வாலெட்டுகளுக்கு நேரடியாக எல்லை கடந்த கட்டணப் பரிமாற்றங்களைச் செய்ய முடியும். பாரம்பரிய வங்கி முறைகளை டிஜிட்டல் வாலெட் நெட்வொர்க்குகளுடன் இணைக்கும் வகையில், ஏற்கனவே உள்ள Swift கட்டணச் செய்திகள் மற்றும் கரஸ்பாண்டன்ட் வங்கி உள்கட்டமைப்பைப் பயன்படுத்தி இந்த சேவை செயல்படுகிறது."
   },
   {
     "id": "436456ec7a054ad5",
@@ -3017,13 +3198,17 @@
     "hasSummary": true,
     "link": "https://www.finextra.com/newsarticle/48486/us-banks-invited-to-join-apple-pay-class-lawsuit?utm_medium=rssfinextra&utm_source=finextrafeed",
     "source": "Finextra",
-    "tags": [],
+    "tags": [
+      "Apple",
+      "United States"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T14:02:00.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "us-banks-invited-to-join-apple-pay-class-lawsuit"
+    "content": "US banks have received approval to move forward with a class action lawsuit against Apple. The legal action centers on historical fees that financial institutions were required to pay for access to Apple Pay, the company's mobile wallet service. Banks argue these fees were unfair, and the case will now proceed to examine the competition and pricing practices surrounding the tech giant's digital payment platform.",
+    "slug": "us-banks-invited-to-join-apple-pay-class-lawsuit",
+    "content_ta": "Apple நிறுவனத்திற்கு எதிராக ஒரு கூட்டு வழக்கைத் தொடர US வங்கிகளுக்கு அனுமதி வழங்கப்பட்டுள்ளது. Apple Pay மொபைல் வாலட் சேவையைப் பயன்படுத்துவதற்காக நிதி நிறுவனங்கள் செலுத்திய கட்டணங்கள் தொடர்பானதே இந்த வழக்காகும். இந்த கட்டணங்கள் நியாயமற்றவை என்று வங்கிகள் வாதிடுகின்றன, மேலும் தொழில்நுட்ப நிறுவனத்தின் டிஜிட்டல் கட்டண நடைமுறைகள் குறித்து இந்த வழக்கு விசாரிக்கப்படும்."
   },
   {
     "id": "323ae5dc3ed6c66b",
@@ -3032,13 +3217,17 @@
     "hasSummary": true,
     "link": "https://www.finextra.com/pressarticle/111039/fis-integrates-with-data-and-ai-platform-spades-real-time-transaction-enrichment-technology?utm_medium=rssfinextra&utm_source=finextrafeed",
     "source": "Finextra",
-    "tags": [],
+    "tags": [
+      "FIS",
+      "Spade"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T13:56:00.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "fis-integrates-with-data-and-ai-platform-spade-s-real-time-transaction-enrichment-technology"
+    "content": "Global financial technology leader FIS has announced the integration of Spade’s real-time transaction enrichment technology into its debit processing platform. This strategic move aims to enhance transaction data for users by leveraging Spade's advanced AI and data platform capabilities, improving the overall processing experience within the financial sector.",
+    "slug": "fis-integrates-with-data-and-ai-platform-spade-s-real-time-transaction-enrichment-technology",
+    "content_ta": "உலகளாவிய நிதி தொழில்நுட்ப நிறுவனமான FIS, தனது டெபிட் பிராசசிங் தளத்தில் Spade நிறுவனத்தின் நிகழ்நேர பரிவர்த்தனை மேம்பாட்டுத் தொழில்நுட்பத்தை இணைத்துள்ளதாக அறிவித்துள்ளது. ஃபைனான்சியல் துறையில் பயனர்களின் பரிவர்த்தனை தரவை மேம்படுத்தும் நோக்கில் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது."
   },
   {
     "id": "75e8edb508b63825",
@@ -3047,13 +3236,17 @@
     "hasSummary": true,
     "link": "https://www.finextra.com/pressarticle/111040/dtcc-and-icapital-collaborate-to-advance-private-marketinfrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
     "source": "Finextra",
-    "tags": [],
+    "tags": [
+      "DTCC",
+      "iCapital"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T14:16:00.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "dtcc-and-icapital-collaborate-to-advance-private-market-infrastructure"
+    "content": "The Depository Trust & Clearing Corporation and iCapital have announced a strategic collaboration. The partnership aims to advance and improve the market infrastructure supporting private markets globally. By combining DTCC's post-trade expertise with iCapital's technological solutions, the initiative seeks to streamline and modernize investment processes within the financial services industry.",
+    "slug": "dtcc-and-icapital-collaborate-to-advance-private-market-infrastructure",
+    "content_ta": "DTCC மற்றும் iCapital இணைந்து ஒரு மூலோபாயக் கூட்டாண்மையை அறிவித்துள்ளன. இந்த ஒத்துழைப்பு தனியார் சந்தைகளை ஆதரிக்கும் சந்தை உள்கட்டமைப்பை மேம்படுத்துவதை நோக்கமாகக் கொண்டுள்ளது. DTCC இன் பிந்தைய வர்த்தக நிபுணத்துவத்தையும், iCapital இன் தொழில்நுட்ப தீர்வுகளையும் இணைப்பதன் மூலம், நிதி சேத்துவைப்பு துறையில் முதலீட்டு செயல்முறைகளை எளிமைப்படுத்த இந்த நடவடிக்கை முயல்கிறது."
   },
   {
     "id": "a8eaabd3d6a0261e",
@@ -3062,13 +3255,18 @@
     "hasSummary": true,
     "link": "https://www.finextra.com/pressarticle/111041/lseg-appointed-as-super-validator-on-canton-network?utm_medium=rssfinextra&utm_source=finextrafeed",
     "source": "Finextra",
-    "tags": [],
+    "tags": [
+      "LSEG",
+      "Canton Network",
+      "Digital Settlement House"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T14:18:00.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "lseg-appointed-as-super-validator-on-canton-network"
+    "content": "London Stock Exchange Group has been appointed as a Super Validator on the Canton Network. This announcement expands LSEG's previous role as a validator for the institutional blockchain platform, where it operates the cash application of its Digital Settlement House.",
+    "slug": "lseg-appointed-as-super-validator-on-canton-network",
+    "content_ta": "Canton Network-ல் சூப்பர் வேலிடேட்டராக LSEG நியமிக்கப்பட்டுள்ளது. இன்ஸ்டிடியூஷனல் பிளாக்செயின் பிளாட்ஃபார்மில் LSEG-ன் முந்தைய பங்கை இந்த அறிவிப்பு விரிவுபடுத்துகிறது, அங்கு இது தனது Digital Settlement House-ன் பண பயன்பாட்டை இயக்குகிறது."
   },
   {
     "id": "4c329f0b0bd7b473",
@@ -3077,13 +3275,17 @@
     "hasSummary": true,
     "link": "https://www.finextra.com/blogposting/33000/gleif-and-ethereum-name-service-ens-labs-explore-verifiable-organizational-identity-onchain?utm_medium=rssfinextra&utm_source=finextrafeed",
     "source": "Finextra",
-    "tags": [],
+    "tags": [
+      "GLEIF",
+      "ENS Labs"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T13:59:45.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "gleif-and-ethereum-name-service-ens-labs-explore-verifiable-organizational-identity-onchain"
+    "content": "GLEIF and ENS Labs have announced a collaborative exploration into verifiable organizational identity onchain. This initiative aims to bridge traditional corporate identity standards with decentralized blockchain systems, potentially enhancing trust, transparency, and security for businesses operating within the Ethereum Name Service ecosystem.",
+    "slug": "gleif-and-ethereum-name-service-ens-labs-explore-verifiable-organizational-identity-onchain",
+    "content_ta": "GLEIF மற்றும் ENS Labs நிறுவனங்கள் ஆன்சைன் சரிபார்க்கக்கூடிய நிறுவன அடையாளத்தை உருவாக்குவது குறித்து இணைந்து ஆராய்வதாக அறிவித்துள்ளன. இந்த முயற்சியானது பாரம்பரிய கார்ப்பரேட் அடையாள தரநிலைகளை பரவலாக்கப்பட்ட பிளாக்செயின் அமைப்புகளுடன் இணைப்பதை நோக்கமாகக் கொண்டுள்ளது."
   },
   {
     "id": "6110f44a5e9a8481",
@@ -3092,13 +3294,16 @@
     "hasSummary": true,
     "link": "https://www.finextra.com/blogposting/32999/ai-will-not-fix-your-operations-problem-it-will-expose-it?utm_medium=rssfinextra&utm_source=finextrafeed",
     "source": "Finextra",
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T13:00:18.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "ai-will-not-fix-your-operations-problem-it-will-expose-it"
+    "content": "Artificial intelligence cannot fix a fundamentally broken operational strategy. Instead, implementing AI technology acts as a magnifying glass, quickly exposing existing inefficiencies, bottlenecks, and structural flaws within an organization. Companies must first resolve their core operational issues and streamline processes before attempting to leverage AI for transformation.",
+    "slug": "ai-will-not-fix-your-operations-problem-it-will-expose-it",
+    "content_ta": "செயற்கை நுண்ணறிவு (AI) என்பது அடிப்படையில் பழுதடைந்த செயல்பாட்டு உத்தியை சரிசெய்ய முடியாது. மாறாக, AI தொழில்நுட்பத்தை செயல்படுத்துவது ஒரு பூதக்கண்ணாடி போல செயல்பட்டு, நிறுவனத்திற்குள் இருக்கும் தற்போதைய திறமையின்மை, முட்டுக்கட்டைகள் மற்றும் கட்டமைப்பு குறைபாடுகளை உடனடியாக வெளிச்சம் போட்டுக் காட்டும். நிறுவனங்கள் AI-ஐ பயன்படுத்தி மாற்றத்தை கொண்டு வர முயல்வதற்கு முன்பு, தங்கள் முக்கிய செயல்பாட்டு சிக்கல்களைத் தீர்த்து செயல்முறைகளை சீரமைக்க வேண்டும்."
   },
   {
     "id": "f14c2e8fbe2f413a",
@@ -3107,13 +3312,18 @@
     "hasSummary": true,
     "link": "https://thefintechtimes.com/banks-face-a-switchable-middle-as-loyalty-drivers-shift/",
     "source": "The Fintech Times",
-    "tags": [],
+    "tags": [
+      "Celent",
+      "Temenos",
+      "Sibos"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T13:00:18.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "banks-face-a-switchable-middle-as-loyalty-drivers-shift"
+    "content": "Recent research by Celent, released by Temenos at Sibos, reveals that nearly three out of four bank customers show only moderate satisfaction. The findings indicate that financial institutions are facing a 'switchable middle' customer base where traditional loyalty drivers are shifting, proving that price alone is no longer enough to retain customers in a competitive market.",
+    "slug": "banks-face-a-switchable-middle-as-loyalty-drivers-shift",
+    "content_ta": "Sibos-ல் Temenos நிறுவனத்தால் வெளியிடப்பட்ட Celent-ன் புதிய ஆராய்ச்சியின்படி, நான்கில் மூன்று வங்கி வாடிக்கையாளர்கள் மிதமான திருப்தியே கொண்டுள்ளனர். பாரம்பரிய வாடிக்கையாளர் பற்றுறுதி மாறிவருவதால் வங்கிகள் ஒரு சவாலான சூழலை எதிர்கொள்வதாகவும், விலை மட்டுமே வாடிக்கையாளர்களைத் தக்கவைக்கப் போதாது என்றும் இந்த முடிவுகள் காட்டுகின்றன."
   },
   {
     "id": "cfe9d885a4101c1e",
@@ -3122,13 +3332,19 @@
     "hasSummary": true,
     "link": "https://www.crowdfundinsider.com/2026/09/313857-fca-secures-money-back-for-victims-of-crypto-fraud/",
     "source": "Crowdfund Insider",
-    "tags": [],
+    "tags": [
+      "FCA",
+      "Raymondip Bedi",
+      "Patrick Mavanga",
+      "Southwark Crown Court"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T14:03:54.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "fca-secures-money-back-for-victims-of-crypto-fraud"
+    "content": "The Financial Conduct Authority has secured the return of funds for victims of a fraudulent investment scheme. Following a court hearing, individuals involved in operating the fake investment scheme between 2017 and 2019 were ordered to pay significant financial amounts. The perpetrators had cold-called consumers to persuade them to put money into fraudulent investments.",
+    "slug": "fca-secures-money-back-for-victims-of-crypto-fraud",
+    "content_ta": "FCA கிரிப்டோ மோசடியால் பாதிக்கப்பட்டவர்களுக்கான பணத்தை மீட்டுள்ளது. நீதிமன்ற விசாரணையைத் தொடர்ந்து, மோசடி முதலீட்டு திட்டத்தை நடத்திய நபர்களுக்கு கணிசமான தொகையை செலுத்த உத்தரவிடப்பட்டுள்ளது. நுகர்வோருக்கு தொலைபேசி மூலம் அழைப்பு விடுத்து, போலியான முதலீடுகளில் பணம் முதலீடு செய்ய இந்த நபர்கள் வற்புறுத்தியுள்ளனர்."
   },
   {
     "id": "2401a0ac30e41d42",
@@ -3137,13 +3353,18 @@
     "hasSummary": true,
     "link": "https://www.crowdfundinsider.com/2026/09/313849-fca-secures-bankruptcy-order-against-arthur-temlett/",
     "source": "Crowdfund Insider",
-    "tags": [],
+    "tags": [
+      "Arthur Temlett",
+      "FCA",
+      "Abacus"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T13:02:48.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "fca-secures-bankruptcy-order-against-arthur-temlett"
+    "content": "The Financial Conduct Authority has secured a bankruptcy order against Arthur Temlett. Meanwhile, following Abacus halting its regulated activities in early 2025, authorities note that previous policies are expected to have expired or been renewed elsewhere. Customers with ongoing concerns are advised to contact their insurance providers directly to verify policy validity.",
+    "slug": "fca-secures-bankruptcy-order-against-arthur-temlett",
+    "content_ta": "Financial Conduct Authority (FCA) ஆர்தர் டெம்லெட் (Arthur Temlett) மீது திவால் உத்தரவைப் பெற்றுள்ளது. இதற்கிடையில், 2025 ஆம் ஆண்டின் தொடக்கத்தில் Abacus தனது ஒழுங்குபடுத்தப்பட்ட நடவடிக்கைகளை நிறுத்தியதைத் தொடர்ந்து, முந்தைய பாலிசிகள் காலாவதியாகியிருக்கலாம் அல்லது புதுப்பிக்கப்பட்டிருக்கலாம் என்று எதிர்பார்க்கப்படுகிறது. வாடிக்கையாளர்கள் தங்கள் காப்பீட்டின் செல்லுபடியாகும் தன்மையை சரிபார்க்க சம்பந்தப்பட்ட நிறுவனங்களை நேரடியாகத் தொடர்பு கொள்ள அறிவுறுத்தப்படுகிறார்கள்."
   },
   {
     "id": "47cb464043e45121",
@@ -3152,13 +3373,19 @@
     "hasSummary": true,
     "link": "https://www.crowdfundinsider.com/2026/09/313818-revolut-obtains-central-bank-approval-to-acquire-banco-cetelem-in-argentina/",
     "source": "Crowdfund Insider",
-    "tags": [],
+    "tags": [
+      "Revolut",
+      "Banco Cetelem",
+      "Argentina",
+      "BNP Paribas"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T12:46:22.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "revolut-obtains-central-bank-approval-to-acquire-banco-cetelem-in-argentina"
+    "content": "London-based fintech Revolut has received regulatory approval from Argentina's central bank to acquire Banco Cetelem Argentina. The deal, originally announced by Revolut, involves purchasing the bank from BNP Paribas Personal Finance. This key milestone marks a major step forward for Revolut's expansion efforts in Latin America, allowing the company to finalize its acquisition and further establish its presence in the region.",
+    "slug": "revolut-obtains-central-bank-approval-to-acquire-banco-cetelem-in-argentina",
+    "content_ta": "லண்டனை அடிப்படையாகக் கொண்ட ஃபின்டெக் நிறுவனமான Revolut, அர்ஜென்டினாவின் மத்திய வங்கியிடமிருந்து Banco Cetelem நிறுவனத்தைக் கைப்பற்றுவதற்கான ஒப்புதலைப் பெற்றுள்ளது. BNP Paribas Personal Finance-மிடமிருந்து இந்த வங்கியை வாங்கும் ஒப்பந்தம் Revolut நிறுவனத்தால் அறிவிக்கப்பட்டுள்ளது. லத்தீன் அமெரிக்காவில் தனது விரிவாக்க முயற்சிகளுக்கு இந்த முக்கிய ஒழுங்குமுறை அனுமதி ஒரு பெரும் படியாகும்."
   },
   {
     "id": "7eb3ffc75f69164c",
@@ -3172,8 +3399,9 @@
     "pubDate": "2026-09-28T12:30:55.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "statement-on-fair-value-measurement-and-disclosure-considerations-for-private-assets"
+    "content": "Regulatory and standard-setting bodies have issued important considerations regarding fair value measurement and disclosure for private assets. As private market investments continue to grow, market participants are encouraged to ensure transparency, consistency, and rigorous valuation methodologies. These guidelines aim to help investors and stakeholders better assess risks and values in complex portfolios where market prices are not readily available.",
+    "slug": "statement-on-fair-value-measurement-and-disclosure-considerations-for-private-assets",
+    "content_ta": "Private assets தொடர்பான fair value measurement மற்றும் disclosure குறித்த முக்கிய வழிகாட்டுதல்களை ஒழுங்குமுறை அமைப்புகள் வெளியிட்டுள்ளன. தனியார் சந்தை முதலீடுகள் தொடர்ந்து வளர்ந்து வருவதால், சந்தைப் பங்கேற்பாளர்கள் வெளிப்படைத்தன்மை மற்றும் துல்லியமான மதிப்பீட்டு முறைகளைப் பின்பற்றுமாறு கேட்டுக் கொள்ளப்படுகிறார்கள். சந்தை விலைகள் உடனடியாகக் கிடைக்காத சிக்கலான முதலீட்டுத் தொகுப்புகளில் அபாயங்களையும் மதிப்புகளையும் மதிப்பிடுவதற்கு இந்த வழிகாட்டுதல்கள் உதவுகின்றன."
   },
   {
     "id": "d8356031c1589ec7",
@@ -3182,13 +3410,23 @@
     "hasSummary": true,
     "link": "https://financialit.net/news/payments/swift-and-its-community-innovate-bring-ease-domestic-consumer-payments-cross-border",
     "source": "Financial IT",
-    "tags": [],
+    "tags": [
+      "Swift",
+      "Bizum",
+      "AP+",
+      "Pix",
+      "BBVA",
+      "Bradesco",
+      "Citizens Bank",
+      "Ouribank"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T13:37:58.000Z",
     "fetchedAt": "2026-09-28T15:01:27.281Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "swift-and-its-community-innovate-to-bring-ease-of-domestic-consumer-payments-to-cross-border"
+    "content": "Swift and its global community are collaborating to bring the simplicity of domestic consumer payments to cross-border transactions. By connecting local systems like Bizum, PayID, and Pix, the initiative enables users to send money internationally using familiar identifiers like mobile numbers and email addresses. Over 100 banks are participating in this framework to make global payments faster, more predictable, and as seamless as local transfers.",
+    "slug": "swift-and-its-community-innovate-to-bring-ease-of-domestic-consumer-payments-to-cross-border",
+    "content_ta": "Swift மற்றும் அதன் உலகளாவிய சமூகம் இணைந்து உள்நாட்டு நுகர்வோர் கட்டண முறைகளின் எளிமையை எல்லை தாண்டிய பரிவர்த்தனைகளுக்கும் கொண்டுவர முயல்கின்றன. Bizum, PayID மற்றும் Pix போன்ற உள்ளூர் அமைப்புகளை இணைப்பதன் மூலம், மொபைல் எண்கள் மற்றும் மின்னஞ்சல் முகவரிகள் போன்ற பரிச்சயமான அடையாளங்களைப் பயன்படுத்தி பயனர்கள் சர்வதேச அளவில் பணம் அனுப்ப இந்தத் திட்டம் உதவுகிறது. உலகளாவிய கட்டணங்களை விரைவாகவும், கணிக்கத்தக்கதாகவும், உள்நாட்டுப் பரிமாற்றங்களைப் போல எளிதாகவும் மாற்றுவதற்காக 100-க்கும் மேற்பட்ட வங்கிகள் இதில் பங்கேற்கின்றன."
   },
   {
     "id": "74ec2befd789f70d",
@@ -3197,13 +3435,18 @@
     "hasSummary": true,
     "link": "https://financialit.net/news/infrastructure/hsbc-adopts-nasdaq-calypsos-enhanced-exchange-traded-derivatives-platform",
     "source": "Financial IT",
-    "tags": [],
+    "tags": [
+      "HSBC",
+      "Nasdaq",
+      "Nasdaq Calypso"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T12:34:00.000Z",
     "fetchedAt": "2026-09-28T15:01:27.282Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "hsbc-adopts-nasdaq-calypso-s-enhanced-exchange-traded-derivatives-platform"
+    "content": "HSBC has adopted Nasdaq Calypso for its exchange-traded derivatives clearing platform, expanding its long-standing partnership with Nasdaq. The integration provides HSBC with a fully integrated set of clearing capabilities, supporting cross-margining and enhanced risk management for institutional clients. HSBC already uses the platform for over-the-counter derivatives and repo clearing, with plans to extend it to US Treasury cash transactions.",
+    "slug": "hsbc-adopts-nasdaq-calypso-s-enhanced-exchange-traded-derivatives-platform",
+    "content_ta": "HSBC தனது exchange-traded derivatives கிளியரிங் தளத்திற்காக Nasdaq Calypso-வை ஏற்றுக்கொண்டுள்ளது. இந்த ஒருங்கிணைப்பு நிறுவன வாடிக்கையாளர்களுக்கு மேம்பட்ட ரிஸ்க் மேனேஜ்மென்ட் மற்றும் கிளியரிங் வசதிகளை வழங்குகிறது. HSBC ஏற்கனவே ஓவர்-தி-கவுண்டர் டெரிவேட்டிவ்களுக்காக இந்தத் தளத்தைப் பயன்படுத்தி வருவது குறிப்பிடத்தக்கது."
   },
   {
     "id": "ccbc0c423f1d12ea",
@@ -3212,13 +3455,17 @@
     "hasSummary": true,
     "link": "https://financialit.net/news/payments/fis-delivers-real-time-transaction-clarity-debit-cardholders",
     "source": "Financial IT",
-    "tags": [],
+    "tags": [
+      "FIS",
+      "Spade"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T12:30:48.000Z",
     "fetchedAt": "2026-09-28T15:01:27.282Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "fis-delivers-real-time-transaction-clarity-to-debit-cardholders"
+    "content": "FIS has integrated Spade's real-time transaction enrichment technology into its debit processing platform. The partnership aims to provide debit cardholders with clearer merchant names on statements, helping financial institutions reduce unnecessary disputes, improve authorization decisions, and deliver a more transparent payment experience. The integration is now available to FIS debit issuing clients.",
+    "slug": "fis-delivers-real-time-transaction-clarity-to-debit-cardholders",
+    "content_ta": "FIS தனது டெபிட் ப்ராசசிங் தளத்தில் Spade நிறுவனத்தின் நிகழ்நேர பண பரிவர்த்தனை செறிவூட்டல் தொழில்நுட்பத்தை இணைத்துள்ளது. இந்த ஒருங்கிணைப்பு மூலம் கார்டு வைத்திருப்பவர்கள் தங்களது ஸ்டேட்மெண்ட்களில் தெளிவான வணிகர்களின் பெயர்களைப் பெற முடியும். இதனால் தேவையில்லாத சர்ச்சைகளைக் குறைக்கவும், அங்கீகார முடிவுகளை மேம்படுத்தவும் நிதி நிறுவனங்களுக்கு உதவும்."
   },
   {
     "id": "54caec6f871708ed",
@@ -3362,13 +3609,16 @@
     "hasSummary": true,
     "link": "https://cryptoslate.com/okx-us-to-sell-usd-trading-bot-positions-if-users-miss-sept-30-deadline/",
     "source": "CryptoSlate",
-    "tags": [],
+    "tags": [
+      "OKX US"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T15:30:15.000Z",
     "fetchedAt": "2026-09-28T18:01:19.578Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "okx-us-to-sell-usd-trading-bot-positions-if-users-miss-sept-30-deadline"
+    "content": "Crypto exchange OKX US has announced that any remaining USD trading bot positions on old pairs will be automatically sold if users fail to close or update them by the September 30 deadline. This affects grid and smart portfolio holdings left on the platform, requiring users to take action to avoid automated liquidation of their assets.",
+    "slug": "okx-us-to-sell-usd-trading-bot-positions-if-users-miss-sept-30-deadline",
+    "content_ta": "செப்டம்பர் 30 கெடுவுக்குள் பயனர்கள் தங்கள் பழைய USD டிரேடிங் பாட் பொசிஷன்களை விற்கத் தவறினால், அவற்றை OKX US ஆட்டோமேட்டிக்காக விற்கும் என்று அறிவித்துள்ளது. பிளாட்ஃபார்மில் உள்ள கிரிட் மற்றும் ஸ்மார்ட் போர்ட்ஃபோலியோ ஹோல்டிங்ஸ் இதன் மூலம் பாதிக்கப்படுகின்றன."
   },
   {
     "id": "75bcc3ce9842e941",
@@ -3396,13 +3646,19 @@
     "hasSummary": true,
     "link": "https://cryptonews.com/news/grok-ai-predicts-xrp-could-hit-40-in-2026-with-landmark-event/",
     "source": "CryptoNews",
-    "tags": [],
+    "tags": [
+      "Elon Musk",
+      "Grok",
+      "Ripple",
+      "XRP"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T16:12:26.000Z",
     "fetchedAt": "2026-09-28T18:01:19.578Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "grok-ai-predicts-xrp-could-hit-40-in-2026-with-landmark-event"
+    "content": "Elon Musk's Grok AI has released a bullish price prediction for Ripple, forecasting that the XRP token could potentially surge to between $25 and $40 by early 2027. According to the artificial intelligence model, this significant valuation would be driven by a landmark market event. The bold projection has drawn attention from cryptocurrency enthusiasts and holders following the recent report.",
+    "slug": "grok-ai-predicts-xrp-could-hit-40-in-2026-with-landmark-event",
+    "content_ta": "Elon Musk-ன் Grok AI ஆனது Ripple நிறுவனத்தின் XRP கிரிப்டோகரன்சிக்கு ஒரு காளை சந்தை கணிப்பை வெளியிட்டுள்ளது. இதன்படி, 2027-ம் ஆண்டின் தொடக்கத்திற்குள் XRP டோக்கனின் விலை $25 முதல் $40 வரை உயரக்கூடும் என்று கணிக்கப்பட்டுள்ளது. இந்த கணிப்பு ஒரு முக்கிய சந்தை நிகழ்வின் மூலம் சாத்தியமாகும் என்று AI தெரிவித்துள்ளது."
   },
   {
     "id": "4807328f7a61fda3",
@@ -3450,13 +3706,16 @@
     "hasSummary": true,
     "link": "https://cryptopotato.com/xrp-eyes-1-80-to-1-90-if-it-clears-50-week-ema-analyst/",
     "source": "CryptoPotato",
-    "tags": [],
+    "tags": [
+      "XRP"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T17:48:57.000Z",
     "fetchedAt": "2026-09-28T18:01:19.578Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "xrp-eyes-1-80-to-1-90-if-it-clears-50-week-ema-analyst"
+    "content": "An analyst suggests that XRP could target the $1.80 to $1.90 price range if it successfully clears the 50-week EMA. This bullish outlook draws comparison to historical market movement in 2022, when XRP experienced a significant rally of 90 percent from its June bottom before facing a temporary pullback ahead of a potential future breakout.",
+    "slug": "xrp-eyes-1-80-to-1-90-if-it-clears-50-week-ema-analyst",
+    "content_ta": "50-week EMA-ы வெற்றிகரமாகக் கடந்தால் XRP விலை $1.80 முதல் $1.90 வரை உயர வாய்ப்ப겠தாக ஆய்வாளர் ஒருவர் தெரிவித்துள்ளார். இந்த பாசிட்டிவான கணிப்பு 2022ஆம் ஆண்டு சந்தை நிலவரத்தை அடிப்படையாகக் கொண்டது. அந்த ஆண்டில் ஜூன் மாதத்தின் குறைந்த விலையிலிருந்து XRP சுமார் 90 சதவீதம் வரை உயர்ந்தது குறிப்பிடத்தக்கது."
   },
   {
     "id": "bbfbef9c9e104fa9",
@@ -3521,13 +3780,19 @@
     "hasSummary": true,
     "link": "https://ambcrypto.com/hoskinson-says-midnight-crypto-will-outgrow-zcash-yet-night-still-tracks-it/",
     "source": "AMBCrypto",
-    "tags": [],
+    "tags": [
+      "Midnight",
+      "Zcash",
+      "Charles Hoskinson",
+      "NIGHT"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T15:19:43.000Z",
     "fetchedAt": "2026-09-28T18:01:19.578Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "hoskinson-says-midnight-crypto-will-outgrow-zcash-yet-night-still-tracks-it"
+    "content": "Midnight founder Charles Hoskinson recently stated that the privacy-focused network will eventually outgrow Zcash. Despite this ambitious long-term outlook for NIGHT, the asset still faces a significant valuation gap and strong price resistance, meaning it continues to closely track Zcash's market performance for now.",
+    "slug": "hoskinson-says-midnight-crypto-will-outgrow-zcash-yet-night-still-tracks-it",
+    "content_ta": "Midnight நிறுவனரான Charles Hoskinson, தனியுரிமை சார்ந்த நெட்வொர்க் Zcash-ஐ விட விரைவில் வளர்ச்சி அடைந்துவிடும் என்று சமீபத்தில் கூறியுள்ளார். NIGHT மீதான இந்த நீண்டகால லட்சியப் பார்வை இருப்பினும், இந்த சொத்து தற்போதும் கூட ஒரு பெரிய மதிப்பீட்டு இடைவெளியையும் விலை எதிர்ப்பையும் எதிர்கொண்டு வருகிறது, எனவே இது தற்போதைய நிலவரப்படி Zcash-ன் சந்தை இயக்கத்தையே தொடர்ந்து பின்பற்றி வருகிறது."
   },
   {
     "id": "995633a9456b3ddd",
@@ -3666,13 +3931,19 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/aptos-hashkey-mena-daya-stablecoin-corridor-middle-east-africa/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "HashKey MENA",
+      "Aptos",
+      "Daya",
+      "MENA"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T16:37:20.000Z",
     "fetchedAt": "2026-09-28T18:01:19.578Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "hashkey-mena-unveils-stablecoin-payments-pilot-with-aptos-and-daya"
+    "content": "HashKey MENA has announced a new stablecoin payments pilot in collaboration with Aptos and Daya. This strategic partnership aims to transform cross-border transactions by lowering costs and improving financial inclusion across emerging markets using regulated stablecoins.",
+    "slug": "hashkey-mena-unveils-stablecoin-payments-pilot-with-aptos-and-daya",
+    "content_ta": "HashKey MENA நிறுவனம் Apt மற்றும் Daya நிறுவனங்களுடன் இணைந்து புதிய stablecoin பரிவர்த்தனை சோதனையை அறிவித்துள்ளது. ஒழுங்குமுறைப்படுத்தப்பட்ட stablecoins மூலம் செலவுகளைக் குறைப்பதன் மூலமும், வளரும் சந்தைகளில் நிதி உள்ளடக்கத்தை மேம்படுத்துவதன் மூலமும் எல்லை தாண்டிய பரிவர்த்தனைகளை மாற்றுவதை இந்த ஒத்துக்கழைப்பு நோக்கமாகக் கொண்டுள்ளது."
   },
   {
     "id": "8b44828b152f40de",
@@ -3700,13 +3971,18 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/polymarket-15-minute-bitcoin-markets-us/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Polymarket",
+      "Bitcoin",
+      "United States"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T16:18:07.000Z",
     "fetchedAt": "2026-09-28T18:01:19.578Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "polymarket-launches-15-minute-bitcoin-price-markets-on-us-app"
+    "content": "Polymarket has launched new 15-minute Bitcoin price markets on its US app. This development is expected to reshape crypto trading dynamics while potentially prompting regulatory scrutiny and influencing competitor strategies in the digital asset sector.",
+    "slug": "polymarket-launches-15-minute-bitcoin-price-markets-on-us-app",
+    "content_ta": "Polymarket நிறுவனம் தனது US ஆப்பில் புதிய 15 நிமிட Bitcoin விலை சந்தைகளை அறிமுகப்படுத்தியுள்ளது. இந்த புதிய நடவடிக்கை கிரிப்டோ வர்த்தக முறைகளில் மாற்றங்களை ஏற்படுத்தும் என்றும், ஒழுங்குமுறை கண்காணிப்பை ஈர்க்கும் என்றும் எதிர்பார்க்கப்படுகிறது."
   },
   {
     "id": "ba25ca8addecb114",
@@ -4286,13 +4562,18 @@
     "hasSummary": true,
     "link": "https://bitcoinmagazine.com/news/citi-coinbases-stablecoin-project",
     "source": "Bitcoin Magazine",
-    "tags": [],
+    "tags": [
+      "Citigroup",
+      "Coinbase",
+      "Citi"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T19:36:21.000Z",
     "fetchedAt": "2026-09-28T19:47:03.131Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "citi-and-coinbase-working-together-to-build-stablecoin-infrastructure-for-businesses"
+    "content": "Citigroup and Coinbase are partnering to develop stablecoin infrastructure for business clients. The joint venture aims to allow Citi clients to seamlessly transition between traditional fiat currency and stablecoins. This collaboration enables businesses to utilize blockchain-based financial tools without needing to independently build or manage separate banking and cryptocurrency systems.",
+    "slug": "citi-and-coinbase-working-together-to-build-stablecoin-infrastructure-for-businesses",
+    "content_ta": "Citigroup மற்றும் Coinbase நிறுவனங்கள் வர்த்தக வாடிக்கையாளர்களுக்காக stablecoin உள்கட்டமைப்பை உருவாக்க இணைந்துள்ளன. Citi வாடிக்கையாளர்கள் பாரம்பரிய பணத்திற்கும் stablecoin-களுக்கும் இடையே எளிதாகப் பரிமாற்றம் செய்ய இந்தக் கூட்டு முயற்சி உதவுகிறது. தனித்தனியாக வங்கி மற்றும் crypto அமைப்புகளை உருவாக்காமல், blockchain அடிப்படையிலான நிதிச் சேவைகளைப் பயன்படுத்த வணிக நிறுவனங்களுக்கு இது வழிவகை செய்கிறது."
   },
   {
     "id": "1bd3c1575445a613",
@@ -4301,13 +4582,16 @@
     "hasSummary": true,
     "link": "https://ambcrypto.com/xdc-cryptos-bullish-setup-strengthens-why-1-08m-in-exchange-inflows-matter/",
     "source": "AMBCrypto",
-    "tags": [],
+    "tags": [
+      "XDC"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T19:00:22.000Z",
     "fetchedAt": "2026-09-28T19:47:03.132Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "xdc-crypto-s-bullish-setup-strengthens-why-1-08m-in-exchange-inflows-matter"
+    "content": "XDC crypto has recently experienced a strong bullish setup and a notable upswing over the past day. However, analysts note that spot selling pressure and significant exchange inflows could potentially limit further price gains as the market reacts to these movements.",
+    "slug": "xdc-crypto-s-bullish-setup-strengthens-why-1-08m-in-exchange-inflows-matter",
+    "content_ta": "XDC கிரிப்டோ சமீபத்தில் வலுவான புல்லிஷ் அமைப்பையும் குறிப்பிடத்தக்க வளர்ச்சியையும் கண்டுள்ளது. இருப்பினும், ஸ்பாட் விற்பனை அழுத்தம் மற்றும் எக்ஸ்சேஞ்ச் பண வரவுகள் ஆகியவை மேலதிக விலை உயர்வை வரம்பிற்குட்படுத்தலாம் என்று ஆய்வாளர்கள் குறிப்பிடுகின்றனர்."
   },
   {
     "id": "3bbaaf044a5b7a8f",
@@ -4374,13 +4658,18 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/openai-devday-astra-productivity-launches/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "OpenAI",
+      "DevDay",
+      "Astra"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T19:43:21.000Z",
     "fetchedAt": "2026-09-28T19:47:03.132Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "openai-plans-20-launches-at-devday-credits-astra-for-productivity-boost"
+    "content": "OpenAI is reportedly planning a major series of product launches during its upcoming DevDay event. The organization has credited Astra with providing a significant productivity boost, highlighting how advanced artificial intelligence tools are accelerating development and transforming industry applications.",
+    "slug": "openai-plans-20-launches-at-devday-credits-astra-for-productivity-boost",
+    "content_ta": "OpenAI தனது வரவிருக்கும் DevDay நிகழ்வில் பல புதிய தயாரிப்புகளை வெளியிட திட்டமிட்டுள்ளது. உற்பத்தித் திறனை மேம்படுத்துவதில் Astra முக்கிய பங்கு வகித்ததாக OpenAI தெரிவித்துள்ளது, இது செயற்கை நுண்ணறிவு தொழில்நுட்பங்களின் வளர்ச்சியை வெளிப்படுத்துகிறது."
   },
   {
     "id": "b498f7b3cabfe490",
@@ -4501,13 +4790,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/claude-sonnet-5-5-nears-opus-performance-while-cutting-task-costs-up-to-30/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Anthropic",
+      "Claude Sonnet 5.5"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T19:33:55.000Z",
     "fetchedAt": "2026-09-28T19:47:03.132Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "claude-sonnet-5-5-nears-opus-performance-while-cutting-task-costs-up-to-30"
+    "content": "Anthropic has launched Claude Sonnet 5.5, delivering performance close to the Opus model while reducing per-task costs by up to 30 percent. The new release also offers significantly faster output speeds, providing users with a more cost-effective and efficient artificial intelligence option for various workloads.",
+    "slug": "claude-sonnet-5-5-nears-opus-performance-while-cutting-task-costs-up-to-30",
+    "content_ta": "Anthropic நிறுவனம் Claude Sonnet 5.5-ஐ வெளியிட்டுள்ளது. இந்த புதிய பதிப்பு Opus மாடலுக்கு நிகரான செயல்திறனை வழங்குவதோடு, ஒரு பணிக்கான செலவை 30 சதவீதம் வரை குறைக்கிறது. மேலும், இது கணிசமாக வேகமான வெளியீட்டு வேகத்தையும் வழங்குகிறது."
   },
   {
     "id": "8c6f19c664636548",
@@ -4593,13 +4886,19 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/telegrams-crypto-lineup-expands-as-wallet-rebrands-to-walt-alongside-new-gram-wallet/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Telegram",
+      "Wallet",
+      "Walt",
+      "Gram"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T19:21:06.000Z",
     "fetchedAt": "2026-09-28T19:47:03.132Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "telegram-s-crypto-lineup-expands-as-wallet-rebrands-to-walt-alongside-new-gram-wallet"
+    "content": "Telegram is expanding its cryptocurrency offerings as the built-in feature Wallet rebrands to Walt. At the same time, a new Gram wallet is being introduced. This update separates basic cryptocurrency payments from more advanced trading and investing activities, helping users navigate digital assets within the messaging application more clearly.",
+    "slug": "telegram-s-crypto-lineup-expands-as-wallet-rebrands-to-walt-alongside-new-gram-wallet",
+    "content_ta": "Telegram-ல் உள்ள Wallet அம்சம் Walt என மறுபெயரிடப்பட்டுள்ளது. மேலும், புதிய Gram wallet அறிமுகப்படுத்தப்பட்டுள்ளது. இந்த மாற்றத்தின் மூலம் சாதாரண கிரிப்டோ பரிமாற்றங்கள் மற்றும் மேம்பட்ட வர்த்தக சேவைகள் ஆகியவை தனித்தனியாக பிரிக்கப்பட்டுள்ளன."
   },
   {
     "id": "74217b518f555f78",
@@ -4646,13 +4945,18 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/spark-210m-btc-loans-anchorage-digital/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "Spark",
+      "Anchorage Digital",
+      "Bitcoin"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T19:17:03.000Z",
     "fetchedAt": "2026-09-28T19:47:03.132Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "spark-allocates-210m-for-institutional-loans-backed-by-btc-with-anchorage-digital"
+    "content": "Spark has allocated $210 million for institutional loans backed by Bitcoin, partnering with Anchorage Digital. This initiative aims to bridge decentralized finance and traditional financial systems, offering enhanced liquidity and compliance for institutional investors.",
+    "slug": "spark-allocates-210m-for-institutional-loans-backed-by-btc-with-anchorage-digital",
+    "content_ta": "Anchorage Digital நிறுவனத்துடன் இணைந்து, Bitcoin-ஐ அடிப்படையாகக் கொண்ட நிறுவனக் கடன்களுக்காக Spark நிறுவனம் $210 மில்லியன் ஒதுக்கீடு செய்துள்ளது. இந்த முயற்சியானது பரவலாக்கப்பட்ட நிதி மற்றும் பாரம்பரிய நிதி அமைப்புகளுக்கு இடையே பாலமாகச் செயல்படுவதுடன், நிறுவன முதலீட்டாளர்களுக்கு மேம்பட்ட பணப்புழக்கத்தையும் இணக்கத்தன்மையையும் வழங்குகிறது."
   },
   {
     "id": "d8846aa2fc65265b",
@@ -4681,13 +4985,17 @@
     "hasSummary": true,
     "link": "https://cryptobriefing.com/gqgs-rajiv-jain-reverses-ai-stance-signaling-sector-confidence-boost/",
     "source": "CryptoBriefing",
-    "tags": [],
+    "tags": [
+      "GQG Partners",
+      "Rajiv Jain"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T18:52:16.000Z",
     "fetchedAt": "2026-09-28T19:47:03.132Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "gqg-s-rajiv-jain-reverses-ai-stance-signaling-sector-confidence-boost"
+    "content": "GQG Partners' Rajiv Jain has reversed his stance on artificial intelligence investments, signaling a major confidence boost for the sector. This shift by Jain could potentially drive increased sector interest, attract new capital inflows, and positively impact market sentiment and company valuations across the artificial intelligence industry.",
+    "slug": "gqg-s-rajiv-jain-reverses-ai-stance-signaling-sector-confidence-boost",
+    "content_ta": "GQG-ன் Rajiv Jain AI முதலீடுகள் குறித்த தனது நிலைப்பாட்டை மாற்றியுள்ளார், இது இத்துறையின் மீது நம்பிக்கையை அதிகரிப்பதாகக் காட்டுகிறது. Jain-ன் இந்த மாற்றமானது துறை சார்ந்த ஆர்வத்தை அதிகரிக்கவும், மூலதன ஈர்ப்பை உருவாக்கவும், சந்தை உணர்வு மற்றும் நிறுவனங்களின் மதிப்பை மேம்படுத்தவும் உதவும்."
   },
   {
     "id": "358cb8cbf3bede3a",
@@ -4696,13 +5004,16 @@
     "hasSummary": true,
     "link": "https://coinpedia.org/price-analysis/chainlink-link-price-tests-a-crucial-resistance-is-a-rise-to-20-on-the-horizon/",
     "source": "Coinpedia",
-    "tags": [],
+    "tags": [
+      "Chainlink"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T19:24:43.000Z",
     "fetchedAt": "2026-09-28T19:47:03.132Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "chainlink-link-price-tests-a-crucial-resistance-is-a-rise-to-20-on-the-horizon"
+    "content": "Chainlink (LINK) price is testing a crucial resistance zone after recovering sharply from its lows, trading around $15.29 following an 8.25% gain in the past 24 hours. Trading volume surged by 200%. This upward movement coincides with the launch of CCIP 2.0, which introduces new institutional-focused security, compliance, and cross-chain settlement features.",
+    "slug": "chainlink-link-price-tests-a-crucial-resistance-is-a-rise-to-20-on-the-horizon",
+    "content_ta": "Chainlink (LINK) விலை தனது குறைந்த மதிப்பில் இருந்து மீண்டு ஒரு முக்கிய தடைப் பகுதியை சோதித்து வருகிறது. கடந்த 24 மணி நேரத்தில் 8.25% உயர்ந்து சுமார் $15.29-க்கு வர்த்தகம் செய்யப்படுகிறது. வர்த்தக அளவும் 200% அதிகரித்துள்ளது. நிறுவனங்களை மையமாகக் கொண்ட பாதுகாப்பு மற்றும் குறுக்குச் சங்கிலி தீர்வு அம்சங்களை வழங்கும் CCIP 2.0 அறிமுகப்படுத்தப்பட்டதை அடுத்து இந்த விலை உயர்வு ஏற்பட்டுள்ளது."
   },
   {
     "id": "49bd0b55bfe1b4e7",
@@ -4829,13 +5140,18 @@
     "hasSummary": true,
     "link": "https://www.crowdfundinsider.com/2026/09/313904-analyst-issues-outperform-rating-on-coinbase-237-price-target/",
     "source": "Crowdfund Insider",
-    "tags": [],
+    "tags": [
+      "Coinbase",
+      "Keefe Bruyette & Woods",
+      "Stifel"
+    ],
     "origin": "rss",
     "pubDate": "2026-09-28T18:56:57.000Z",
     "fetchedAt": "2026-09-28T19:47:03.132Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "analyst-issues-outperform-rating-on-coinbase-237-price-target"
+    "content": "Investment firm Keefe, Bruyette & Woods has issued an outperform rating for Coinbase (NASDAQ:COIN) alongside a price target of $237. The firm regards the cryptocurrency exchange as a leading franchise in the sector. This bullish outlook highlights confidence in the company's market position amidst current industry cycles.",
+    "slug": "analyst-issues-outperform-rating-on-coinbase-237-price-target",
+    "content_ta": "Keefe, Bruyette & Woods என்ற முதலீட்டு நிறுவனம், Coinbase (NASDAQ:COIN) நிறுவனத்திற்கு 'outperform' மதிப்பீட்டையும் $237 இலக்கு விலையையும் நிர்ணயித்துள்ளது. கிரிப்டோகரன்சி பரிமாற்ற நிறுவனமான இதை, இந்தத் துறையின் முன்னணி நிறுவனமாக அந்நிறுவனம் கருதுகிறது. இந்த நேர்மறையான மதிப்பீடு சந்தையில் நிறுவனத்தின் மீதான நம்பிக்கையை வெளிப்படுத்துகிறது."
   },
   {
     "id": "23f42d8687613e91",
