@@ -1,80 +1,279 @@
 [
   {
-    "id": "5f47fb3e57fef358",
-    "title": "Citi launches multi-market instant payments on Swift scheme",
-    "summary": "Citi has gone live with multiple markets on the Swift payments scheme, enabling bank clients to access multiple cross-border instant payment markets through a single account structure.",
+    "id": "ad0195467c4331d6",
+    "title": "New Bitcoin upgrade catches hidden key leaks hiding the exact fix",
+    "summary": "BIP461 would make compliant ECDSA signatures reproducible, enabling comparisons that flag deviations without proving malicious firmware.\nThe post New Bitcoin upgrade catches hidden key leaks hiding the exact fix appeared first on CryptoSlate.",
     "hasSummary": true,
-    "link": "https://www.finextra.com/newsarticle/48508/citi-launches-multi-market-instant-payments-on-swift-scheme?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
+    "link": "https://cryptoslate.com/new-bitcoin-upgrade-catches-hidden-key-leaks-hiding-the-exact-fix/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-01T01:20:32.000Z",
+    "fetchedAt": "2026-10-01T01:25:12.687Z",
+    "isDuplicateOf": null,
+    "content": "A proposed Bitcoin upgrade known as BIP461 aims to detect hidden key leaks by making ECDSA signatures reproducible. This update allows for easy comparisons that can flag deviations in firmware without requiring proof of malicious intent. The enhancement provides a new layer of security and transparency for users navigating potential vulnerabilities in the network.",
+    "content_ta": "புதிய Bitcoin அப்கிரேட் ஆன BIP461, ECDSA கையெழுத்துகளை மீண்டும் உருவாக்கக்கூடியதாக மாற்றுவதன் மூலம் மறைக்கப்பட்ட கீ லீக்குகளைக் கண்டறிய உதவுகிறது. தீங்கிழைக்கும் ஃபார்ம்வேரை நிரூபிக்காமலேயே விலகல்களைக் கண்டறியும் ஒப்பீடுகளை இந்த அப்கிரேட் சாத்தியமாக்குகிறது.",
+    "slug": "new-bitcoin-upgrade-catches-hidden-key-leaks-hiding-the-exact-fix"
+  },
+  {
+    "id": "75c03aa71be5ce94",
+    "title": "Most Americans back AI safety benchmarks even if progress slows, poll finds",
+    "summary": "Public demand for AI safety could reshape industry priorities, emphasizing regulation and trust, potentially impacting innovation dynamics.\nThe post Most Americans back AI safety benchmarks even if progress slows, poll finds appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/americans-back-ai-safety-benchmarks-poll/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-01T01:20:26.000Z",
+    "fetchedAt": "2026-10-01T01:25:12.687Z",
+    "isDuplicateOf": null,
+    "content": "A recent poll shows that most Americans support establishing artificial intelligence safety benchmarks, even if it causes technological progress to slow down. This public demand highlights a strong preference for regulation and trust in AI development, which could significantly reshape industry priorities and innovation dynamics moving forward.",
+    "content_ta": "செயற்கை நுண்ணறிவு வளர்ச்சியின் வேகம் மந்தமடைந்தாலும் கூட, AI பாதுகாப்பு தரநிலைகளை உருவாக்குவதற்கு பெரும்பாலான அமெரிக்கர்கள் ஆதரவளிப்பதாக சமீபத்திய கருத்துக்கணிப்பு ஒன்று தெரிவித்துள்ளது. பொதுமக்களின் இந்த எதிர்பார்ப்பு, ஒழுங்குமுறை மற்றும் நம்பகத்தன்மைக்கு முக்கியத்துவம் அளிப்பதைக் காட்டுகிறது.",
+    "slug": "most-americans-back-ai-safety-benchmarks-even-if-progress-slows-poll-finds"
+  },
+  {
+    "id": "6d76861513a600b4",
+    "title": "Bybit releases 40th proof-of-reserves report as covered assets reach $19.6 billion",
+    "summary": "Bybit's expanded proof-of-reserves boosts transparency, potentially enhancing trust and stability in the volatile crypto exchange market.\nThe post Bybit releases 40th proof-of-reserves report as covered assets reach $19.6 billion appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/bybit-40th-proof-of-reserves-report/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Bybit"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-01T01:17:56.000Z",
+    "fetchedAt": "2026-10-01T01:25:12.687Z",
+    "isDuplicateOf": null,
+    "content": "Bybit has released its 40th proof-of-reserves report, revealing that its total covered assets have reached $19.6 billion. This regular disclosure aims to boost transparency for the cryptocurrency exchange, potentially enhancing user trust and overall market stability within the digital asset sector.",
+    "content_ta": "Bybit நிறுவனம் தனது 40ஆவது proof-of-reserves அறிக்கையை வெளியிட்டுள்ளது. இதில் covered assets மதிப்பு 19.6 பில்லியன் அமெரிக்க டляரை எட்டியுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது. இந்தத் தொடர்ச்சியான வெளிப்படைத்தன்மை நடவடிக்கை, கிரிப்டோகரன்சி பரிமாற்றச் சந்தையில் பயனர்களின் நம்பிக்கையையும் ஸ்திரத்தன்மையையும் மேம்படுத்த உதவும்.",
+    "slug": "bybit-releases-40th-proof-of-reserves-report-as-covered-assets-reach-19-6-billion"
+  },
+  {
+    "id": "567c98061afb1a47",
+    "title": "STONK crypto surges 18% after Netflix pairing – Why $0.25 matters now",
+    "summary": "A new utility, trading volume, revenue, buyback and burns fuel STONK's massive rally.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/stonk-crypto-surges-18-after-netflix-pairing-why-0-25-matters-now/",
+    "source": "AMBCrypto",
+    "tags": [
+      "STONK",
+      "Netflix"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-01T01:00:03.000Z",
+    "fetchedAt": "2026-10-01T01:25:12.687Z",
+    "isDuplicateOf": null,
+    "content": "The STONK cryptocurrency surged by 18 percent following a new pairing with Netflix. This massive rally is fueled by strong trading volume, increased revenue, buybacks, and token burns that introduce new utility to the digital asset. Market analysts are closely watching the critical $0.25 price level to determine the token's next momentum shift.",
+    "content_ta": "Netflix உடன் இணைக்கப்பட்டதைத் தொடர்ந்து STONK கிரிப்டோகரன்சி 18 சதவீதம் உயர்ந்துள்ளது. அதிக வர்த்தக அளவு, வருவாய் வளர்ச்சி, பைபேக் மற்றும் பர்ன் நடவடிக்கைகள் போன்ற புதிய பயன்பாடுகள் இந்த திடீர் உயர்வுக்கு காரணமாகியுள்ளன. டோக்கனின் அடுத்த கட்ட நகர்வை நிர்ணயிக்க $0.25 விலை நிலை மிகவும் முக்கியமானதாகக் கருதப்படுகிறது.",
+    "slug": "stonk-crypto-surges-18-after-netflix-pairing-why-0-25-matters-now"
+  },
+  {
+    "id": "343bc5301285352b",
+    "title": "WisdomTree Deploys Tokenized Real World Asset Funds Natively On Arbitrum",
+    "summary": "In a major development confirmed on SEPTEMBER 30, 2026, Confirmed announcement/filing for WisdomTree Deploys Tokenized Real World Asset Funds Natively On Arbitrum. This operational move highlights expanding activity across the digital asset ecosystem and underscores key developments for market participants. Key Operational Milestones & Context According to primary regulatory and corporate filings verified on SEPTEMBER 30, 2026, this development introduces crucial infrastructure enhancements. Industry leaders note that maintaining robust compliance, security, and market liquidity remains essential as digital asset services integrate into broader institutional frameworks. The transition reflects a strategic pivot toward scalable, transparent operations. Analysts emphasize that ongoing technological upgrades will play a central role in sustaining user confidence and market stability over the coming quarter. Market Outlook and Industry Impact As institutional participation accelerates across global markets, this landmark event sets a notable precedent. Traders and investors are closely evaluating liquidity signals and collateral flows following the announcement. For complete details and primary verification, the official release is accessible via the primary source link: WisdomTree Deploys Tokenized Real World Asset Funds Natively On Arbitrum Official Disclosure.",
+    "hasSummary": true,
+    "link": "https://www.newsbtc.com/institutional/wisdomtree-deploys-tokenized-real-world-asset-funds-natively-on-arbitr/",
+    "source": "NewsBTC",
+    "tags": [
+      "WisdomTree",
+      "Arbitrum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-01T01:00:00.000Z",
+    "fetchedAt": "2026-10-01T01:25:12.687Z",
+    "isDuplicateOf": null,
+    "content": "WisdomTree has officially deployed its tokenized Real World Asset funds natively on the Arbitrum network. Confirmed in corporate filings, this operational move highlights the expanding digital asset ecosystem and increasing institutional participation. Market analysts note that this development enhances transparency and liquidity, setting a notable precedent for scalable operations within decentralized finance frameworks as adoption continues to accelerate globally.",
+    "content_ta": "WisdomTree நிறுவனம் தனது tokenized Real World Asset நிрவனங்களை Arbitrum நெட்வொர்க்கில் நேரடியாக வெளியிட்டுள்ளது. நிறுவன filings மூலம் உறுதிப்படுத்தப்பட்ட இந்த நடவடிக்கை, வளர்ந்துவரும் டிஜிட்டல் சொத்து சுற்றுச்சூழல் அமைப்பையும் நிறுவனங்களின் பங்கேற்பையும் காட்டுகிறது. சந்தை ஆய்வாளர்களின் கூற்றுப்படி, இந்த வளர்ச்சி வெளிப்படைத்தன்மையையும் பணப்புழக்கத்தையும் மேம்படுத்துகிறது, மேலும் உலகளவில் பரவலான ஏற்றுக்கொள்ளல் அதிகரிக்கும் போது அளவிடக்கூடிய செயல்பாடுகளுக்கு ஒரு முன்மாதிரியையும் உருவாக்குகிறது.",
+    "slug": "wisdomtree-deploys-tokenized-real-world-asset-funds-natively-on-arbitrum"
+  },
+  {
+    "id": "5acd6a03c68be56d",
+    "title": "Anthropic to invest $518B in cloud, data centers over next decade",
+    "summary": "Anthropic's massive investment signals a strategic push to dominate AI infrastructure, potentially reshaping market dynamics and valuations.\nThe post Anthropic to invest $518B in cloud, data centers over next decade appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/anthropic-to-invest-518b-in-cloud-data-centers-over-next-decade/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Anthropic"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-01T00:55:57.000Z",
+    "fetchedAt": "2026-10-01T01:25:12.687Z",
+    "isDuplicateOf": null,
+    "content": "Anthropic has announced plans to invest $518 billion in cloud services and data centers over the next decade. This massive financial commitment highlights the company's strategic push to expand its artificial intelligence infrastructure, which could significantly impact market dynamics and valuations in the sector.",
+    "content_ta": "Anthropic நிறுவனம் அடுத்த பத்தாண்டுகளில் கிளவுட் சேவைகள் மற்றும் டேட்டா சென்டர்களில் 518 பில்லியன் டாலர் முதலீடு செய்ய திட்டமிட்டுள்ளதாக அறிவித்துள்ளது. இந்த மிகப்பெரிய முதலீடு, செயற்கை நுண்ணறிவு உள்கட்டமைப்பை விரிவுபடுத்துவதற்கான நிறுவனத்தின் உத்தியைக் காட்டுகிறது, இது சந்தை இயக்கவியலில் குறிப்பிடத்தக்க தாக்கத்தை ஏற்படுத்தக்கூடும்.",
+    "slug": "anthropic-to-invest-518b-in-cloud-data-centers-over-next-decade"
+  },
+  {
+    "id": "8df678cdccf90503",
+    "title": "ESMA calls for expanded powers to enforce EU crypto regulations",
+    "summary": "ESMA's push for stronger enforcement powers could enhance investor protection but may increase compliance costs for crypto firms in the EU.\nThe post ESMA calls for expanded powers to enforce EU crypto regulations appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/esma-calls-expanded-powers-eu-crypto-enforcement/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "European Securities and Markets Authority",
+      "European Union"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-01T00:44:02.000Z",
+    "fetchedAt": "2026-10-01T01:25:12.687Z",
+    "isDuplicateOf": null,
+    "content": "The European Securities and Markets Authority has called for expanded regulatory powers to oversee the cryptocurrency sector within the European Union. While this push aims to strengthen investor protection and market integrity, it could also lead to increased compliance costs and stricter operational requirements for crypto firms operating across the region.",
+    "content_ta": "European Union-ல் உள்ள crypto துறையை கண்காணிக்க கூடுதல் அதிகாரங்களை வழங்க வேண்டும் என்று European Securities and Markets Authority கோரிக்கை விடுத்துள்ளது. முதலீட்டாளர்களின் பாதுகாப்பை பலப்படுத்துவதே இதன் நோக்கம் என்றாலும், இது crypto நிறுவனங்களுக்கு compliance செலவுகளை அதிகரிக்கக்கூடும்.",
+    "slug": "esma-calls-for-expanded-powers-to-enforce-eu-crypto-regulations"
+  },
+  {
+    "id": "323387fe508f962a",
+    "title": "Quote.Trade Releases V6 AI-Powered Dark Pool DEX & Alpha Trading League",
+    "summary": "In a major development confirmed on SEPTEMBER 29, 2026, Confirmed announcement/filing for Quote.Trade Releases V6 AI-Powered Dark Pool DEX & Alpha Trading League. This operational move highlights expanding activity across the digital asset ecosystem and underscores key developments for market participants. Key Operational Milestones & Context According to primary regulatory and corporate filings verified on […]",
+    "hasSummary": true,
+    "link": "https://bitcoinist.com/quote-trade-releases-v6-ai-powered-dark-pool-dex-alpha-trading-league/",
+    "source": "Bitcoinist",
+    "tags": [
+      "Quote.Trade"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-01T00:30:00.000Z",
+    "fetchedAt": "2026-10-01T01:25:12.687Z",
+    "isDuplicateOf": null,
+    "content": "Quote.Trade has officially released its V6 AI-Powered Dark Pool DEX and Alpha Trading League. Announced on September 29, 2026, this operational move highlights expanding activity across the digital asset ecosystem and underscores key developments for market participants according to verified corporate filings.",
+    "content_ta": "Quote.Trade நிறுவனம் தனது V6 AI-Powered Dark Pool DEX மற்றும் Alpha Trading League-ஐ அதிகாரப்பூர்வமாக வெளியிட்டுள்ளது. செப்டம்பர் 29, 2026 அன்று அறிவிக்கப்பட்ட இந்த நகர்வு, டிஜிட்டல் சொத்து சுற்றுச்சூழல் அமைப்பில் வளர்ந்து வரும் செயல்பாடுகளை எடுத்துக்காட்டுகிறது.",
+    "slug": "quote-trade-releases-v6-ai-powered-dark-pool-dex-alpha-trading-league"
+  },
+  {
+    "id": "8e0958535b1530c2",
+    "title": "DOJ investigates Texas Majority PAC over alleged vote-buying claims",
+    "summary": "The DOJ probe into Texas Majority PAC could destabilize Democratic strategies, impacting election dynamics and market confidence in Texas.\nThe post DOJ investigates Texas Majority PAC over alleged vote-buying claims appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/doj-investigates-texas-majority-pac-over-alleged-vote-buying-claims/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Department of Justice",
+      "Texas Majority PAC",
+      "Texas"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-01T00:17:04.000Z",
+    "fetchedAt": "2026-10-01T01:25:12.687Z",
+    "isDuplicateOf": null,
+    "content": "The U.S. Department of Justice is investigating Texas Majority PAC following allegations of vote-buying. This federal probe could impact political strategies and election dynamics in Texas, drawing attention from various sectors as the investigation unfolds.",
+    "content_ta": "வோட்டு-வாங்கும் புகார்கள் தொடர்பாக Texas Majority PAC மீது DOJ விசாரணை நடத்தி வருகிறது. இந்த விசாரணையானது Texas மாநிலத்தில் அரசியல் உத்திகளையும் தேர்தல் சூழலையும் பாதிக்கக்கூடும்.",
+    "slug": "doj-investigates-texas-majority-pac-over-alleged-vote-buying-claims"
+  },
+  {
+    "id": "395e9a0f0ea6eef3",
+    "title": "MetaMask exits Ethereum validators amid undisclosed security incident",
+    "summary": "MetaMask said it is investigating the threat internally and said it has found no immediate threat to its wallets.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "MetaMask",
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-01T00:15:55.000Z",
+    "fetchedAt": "2026-10-01T01:25:12.687Z",
+    "isDuplicateOf": null,
+    "content": "Popular cryptocurrency platform MetaMask has withdrawn from operating Ethereum validators following an undisclosed security incident. The company announced it is currently investigating the situation internally. Officials confirmed that despite the incident involving its validator operations, no immediate threats have been detected regarding user wallets, ensuring that funds remain secure while the investigation continues.",
+    "content_ta": "பிரபலமான கிரிப்டோகரன்சி தளமான MetaMask, வெளியிடப்படாத பாதுகாப்பு சம்பவம் ஒன்றைத் தொடர்ந்து Ethereum வேலிடேட்டர்களை இயக்குவதில் இருந்து விலகியுள்ளது. இந்தச் சூழ்நிலையை தாங்கள் உள்நாட்டில் விசாரித்து வருவதாக நிறுவனம் அறிவித்துள்ளது. வேலிடேட்டர் செயல்பாடுகளை இந்தச் சம்பவம் பாதித்திருந்தாலும், பயனர்களின் வாலெட்டுகளுக்கு உடனடி அச்சுறுத்தல் எதுவும் கண்டறியப்படவில்லை என்று அதிகாரிகள் உறுதிப்படுத்தினர், இதன் மூலம் விசாரணை தொடரும் வரை நிதிகள் பாதுகாப்பாக இருக்கும்.",
+    "slug": "metamask-exits-ethereum-validators-amid-undisclosed-security-incident"
+  },
+  {
+    "id": "55bcfc85a08801e1",
+    "title": "China enacts strict regulations on AI relationships to curb emotional dependency",
+    "summary": "China's AI regulations may set a global precedent, influencing how nations balance technological innovation with mental health safeguards.\nThe post China enacts strict regulations on AI relationships to curb emotional dependency appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/china-regulates-ai-companion-relationships/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "China"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-01T00:11:56.000Z",
+    "fetchedAt": "2026-10-01T01:25:12.687Z",
+    "isDuplicateOf": null,
+    "content": "China has enacted strict regulations on AI relationships to curb emotional dependency. This move aims to balance technological innovation with mental health safeguards and may set a global precedent for how other nations govern artificial intelligence interactions.",
+    "content_ta": "செயற்கை நுண்ணறிவுடனான உணர்வுபூர்வமான சார்பைக் கட்டுப்படுத்த சீனா கடுமையான விதிமுறைகளை அமல்படுத்தியுள்ளது. தொழில்நுட்ப கண்டுபிடிப்புகளையும் மனநல பாதுகாப்புகளையும் சமன் செய்வதை இந்த நடவடிக்கை நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "china-enacts-strict-regulations-on-ai-relationships-to-curb-emotional-dependency"
+  },
+  {
+    "id": "22c0da1d9909116f",
+    "title": "AvengerDAO Security Marketplace grows to 17 firms after adding six new security providers",
+    "summary": "The expansion of AvengerDAO's marketplace enhances security options, potentially boosting developer confidence and attracting more investment to BNB Chain.\nThe post AvengerDAO Security Marketplace grows to 17 firms after adding six new security providers appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/avengerdao-security-marketplace-adds-six-firms/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "AvengerDAO",
+      "BNB Chain"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-01T00:06:51.000Z",
+    "fetchedAt": "2026-10-01T01:25:12.687Z",
+    "isDuplicateOf": null,
+    "content": "The AvengerDAO Security Marketplace has expanded to 17 firms with the addition of six new security providers. This growth enhances the security options available on the platform, which can potentially boost developer confidence and attract increased investment to BNB Chain, strengthening its overall ecosystem.",
+    "content_ta": "AvengerDAO Security Marketplace-ல் புதிதாக ஆறு பாதுகாப்பு வழங்குநர்கள் சேர்க்கப்பட்டதை அடுத்து, இதன் ஒட்டுமொத்த நிறுவனங்களின் எண்ணிக்கை 17 ஆக உயர்ந்துள்ளது. இந்த விரிவாக்கம் BNB Chain-க்கான பாதுகாப்பு தேர்வுகளை அதிகரித்து, டெவலப்பர்களின் நம்பிக்கையை மேம்படுத்தி மேலும் முதலீடுகளை ஈர்க்க உதவும்.",
+    "slug": "avengerdao-security-marketplace-grows-to-17-firms-after-adding-six-new-security-providers"
+  },
+  {
+    "id": "5f47fb3e57fef358",
+    "slug": "citi-launches-multi-market-instant-payments-on-swift-scheme",
+    "title": "Citi launches multi-market instant payments on Swift scheme",
     "tags": [
       "Citi",
       "Swift"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-10-01T00:01:00.000Z",
-    "fetchedAt": "2026-10-01T00:01:22.065Z",
-    "isDuplicateOf": null,
-    "content": "Citi has successfully launched multi-market instant payments utilizing the Swift scheme. This rollout allows institutional bank clients to seamlessly access multiple cross-border instant payment markets through a single, consolidated account structure, streamlining international transactions and enhancing efficiency for corporate users operating across different regions.",
-    "content_ta": "Citi நிறுவனம் Swift திட்டத்தின் மூலம் பல சந்தைகளில் உடனடி பணப் பரிவர்த்தனை சேவையைத் தொடங்கியுள்ளது. இதன் மூலம் வங்கியின் வாடிக்கையாளர்கள் ஒரே கணக்கின் மூலமாக பல்வேறு நாடுகளின் எல்லை கடந்த உடனடிப் பணப் பரிவர்த்தனை சந்தைகளை எளிதாக அணுக முடியும்.",
-    "slug": "citi-launches-multi-market-instant-payments-on-swift-scheme"
+    "hasContent": true,
+    "pubDate": "2026-10-01T00:01:00.000Z"
   },
   {
     "id": "6344b0516fb9de1e",
+    "slug": "capitolis-agrees-200m-eseclending-acquisition",
     "title": "Capitolis agrees $200m eSecLending acquisition",
-    "summary": "Capital markets technology provider Capitolis has added securities lending capabilities to its platform through a $200 million all-cash deal to buy eSecLending.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/newsarticle/48509/capitolis-agrees-200m-eseclending-acquisition?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
     "tags": [
       "Capitolis",
       "eSecLending"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-10-01T00:01:00.000Z",
-    "fetchedAt": "2026-10-01T00:01:22.065Z",
-    "isDuplicateOf": null,
-    "content": "Capital markets technology provider Capitolis has expanded its platform's capabilities by agreeing to acquire eSecLending in a $200 million all-cash transaction. This strategic purchase integrates securities lending into the company's existing financial services infrastructure, marking a significant corporate development for both firms involved in the capital markets sector.",
-    "content_ta": "மூலதன சந்தை தொழில்நுட்ப வழங்குநரான Capitolis, eSecLending நிறுவனத்தை 200 மில்லியன் டாலர் ரொக்கப் பரிவர்த்தனை மூலம் கையகப்படுத்த ஒப்புக்கொண்டுள்ளது. இந்த மூலோபாய கொள்முதல் மூலம், நிறுவனத்தின் நிதிச் சேவை கட்டமைப்பில் பத்திரக் கடன் வழங்கும் வசதிகள் இணைக்கப்படுகின்றன.",
-    "slug": "capitolis-agrees-200m-eseclending-acquisition"
+    "hasContent": true,
+    "pubDate": "2026-10-01T00:01:00.000Z"
   },
   {
     "id": "3885d577b86baa64",
+    "slug": "zilch-eyes-2027-london-ipo",
     "title": "Zilch eyes 2027 London IPO",
-    "summary": "Zilch is in talks with banks as it prepares to go public, with the UK-based buy now, pay later provider reportedly leaning towards a London listing.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/newsarticle/48511/zilch-eyes-2027-london-ipo?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
     "tags": [
       "Zilch",
       "London",
       "United Kingdom"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-10-01T00:01:00.000Z",
-    "fetchedAt": "2026-10-01T00:01:22.065Z",
-    "isDuplicateOf": null,
-    "content": "UK-based buy now, pay later provider Zilch is reportedly preparing for an initial public offering in London as early as 2027. The company has begun holding discussions with banks to lay the groundwork for going public, with a London listing currently appearing as the favored option for the financial firm's market debut.",
-    "content_ta": "UK-ஐச் சேர்ந்த buy now, pay later நிறுவனமான Zilch, 2027-க்குள் London-ல் ஆரம்பப் பொதுப் பங்களிப்பை (IPO) வெளியிடத் தயாராகி வருவதாகத் தகவல்கள் வெளியாகியுள்ளன. பொதுப் பங்கு வெளியீட்டிற்கான ஏற்பாடுகளைச் செய்வதற்காக இந்நிறுவனம் வங்கிகளுடன் பேச்சுவார்த்தைகளைத் தொடங்கியுள்ளது.",
-    "slug": "zilch-eyes-2027-london-ipo"
+    "hasContent": true,
+    "pubDate": "2026-10-01T00:01:00.000Z"
   },
   {
     "id": "a286eea06ecc5348",
+    "slug": "hedera-s-0-102-support-the-line-that-can-spark-a-31-rally",
     "title": "Hedera’s $0.102 support: The line that can spark a 31% rally",
-    "summary": "The potential support level on the chart remains critical to HBAR’s next move, but only if traders defend this level.",
-    "hasSummary": true,
-    "link": "https://ambcrypto.com/hederas-0-102-support-the-line-that-can-spark-a-31-rally/",
-    "source": "AMBCrypto",
     "tags": [
       "Hedera",
       "HBAR"
     ],
+    "source": "AMBCrypto",
     "origin": "rss",
-    "pubDate": "2026-10-01T00:00:04.000Z",
-    "fetchedAt": "2026-10-01T00:01:22.065Z",
-    "isDuplicateOf": null,
-    "content": "Hedera's HBAR token is currently testing a critical price support level at $0.102. Market analysts indicate that this specific chart level could serve as the foundation for a potential 31% price rally. However, this bullish scenario depends entirely on traders successfully defending the $0.102 support line to prevent further downward movement.",
-    "content_ta": "Hedera-வின் HBAR டோக்கன் தற்போது $0.102 என்ற முக்கியமான விலை ஆதரவு நிலையில் வர்த்தகமாகி வருகிறது. இந்த குறிப்பிட்ட நிலை தக்கவைக்கப்பட்டால் 31% வரை விலை உயர வாய்ப்புள்ளது என்று சந்தை ஆய்வாளர்கள் தெரிவிக்கின்றனர். எனினும், வர்த்தகர்கள் இந்த $0.102 ஆதரவு கோட்டைப் பாதுகாத்தால் மட்டுமே இந்த விலை உயர்வு சாத்தியமாகும்.",
-    "slug": "hedera-s-0-102-support-the-line-that-can-spark-a-31-rally"
+    "hasContent": true,
+    "pubDate": "2026-10-01T00:00:04.000Z"
   },
   {
     "id": "867e32d43ac132ef",
@@ -654,166 +853,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-09-30T19:58:41.000Z"
-  },
-  {
-    "id": "2a84289b6f8f2caf",
-    "slug": "anthropic-turns-to-religious-thinkers-to-help-shape-claude-s-moral-compass",
-    "title": "Anthropic turns to religious thinkers to help shape Claude’s moral compass",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-30T19:34:11.000Z"
-  },
-  {
-    "id": "e6471d32188a71ff",
-    "slug": "hegseth-launches-autowarcom-a-four-star-command-built-around-drones",
-    "title": "Hegseth launches AutoWarCom, a four-star command built around drones",
-    "tags": [
-      "Hegseth",
-      "AutoWarCom"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-30T19:33:39.000Z"
-  },
-  {
-    "id": "98bacc1b8093a25b",
-    "slug": "missouri-men-accused-of-recruiting-homeless-to-cash-3-400-000-in-stolen-treasury-checks",
-    "title": "Missouri Men Accused of Recruiting Homeless to Cash $3,400,000 in Stolen Treasury Checks",
-    "tags": [
-      "Missouri",
-      "Samuel Stewart",
-      "Royce Finger"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-30T19:31:30.000Z"
-  },
-  {
-    "id": "801ff031a22ddf12",
-    "slug": "mi5-accuses-chinese-academic-institute-of-spying-on-uk-ai-research",
-    "title": "MI5 accuses Chinese academic institute of spying on UK AI research",
-    "tags": [
-      "MI5",
-      "UK",
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-30T19:24:10.000Z"
-  },
-  {
-    "id": "53a0694da455078b",
-    "slug": "kalshi-s-40-billion-growth-story-hits-tough-questions-about-its-trading-volume",
-    "title": "Kalshi’s $40 billion growth story hits tough questions about its trading volume",
-    "tags": [
-      "Kalshi",
-      "Commodity Futures Trading Commission"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-30T19:20:27.000Z"
-  },
-  {
-    "id": "52d53adbcb0a6ed6",
-    "slug": "aerodrome-and-velodrome-merge-into-aero-targeting-a-63-billion-tvl-market",
-    "title": "Aerodrome and Velodrome merge into Aero, targeting a $63 billion TVL market",
-    "tags": [
-      "Aerodrome",
-      "Velodrome",
-      "Aero",
-      "Ethereum"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-30T19:19:55.000Z"
-  },
-  {
-    "id": "167d28036f4a69bf",
-    "slug": "bitcoin-fell-after-four-us-midterms-could-2026-break-the-pattern",
-    "title": "Bitcoin Fell After Four US Midterms: Could 2026 Break the Pattern?",
-    "tags": [
-      "Bitcoin",
-      "United States"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-30T19:19:23.000Z"
-  },
-  {
-    "id": "5c327a458156fffc",
-    "slug": "us-government-s-new-ai-chatbot-has-a-weird-minecraft-secret",
-    "title": "US Government's New AI Chatbot Has a Weird Minecraft Secret",
-    "tags": [
-      "United States",
-      "Minecraft"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-30T19:16:02.000Z"
-  },
-  {
-    "id": "c949344a168e2cbe",
-    "slug": "staff-statement-on-affiliations-between-national-securities-exchanges-and-broker-dealers",
-    "title": "Staff Statement on Affiliations Between National Securities Exchanges and Broker-Dealers",
-    "tags": [
-      "Broker-Dealers",
-      "National Securities Exchanges"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-30T19:15:06.000Z"
-  },
-  {
-    "id": "3972c2b4c5e244f7",
-    "slug": "oklahoma-man-admits-role-in-fraud-scheme-tied-to-failed-local-bank",
-    "title": "Oklahoma Man Admits Role in Fraud Scheme Tied to Failed Local Bank",
-    "tags": [
-      "First National Bank of Lindsay",
-      "United States"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-30T19:14:48.000Z"
-  },
-  {
-    "id": "4737ec16e94dc5c1",
-    "slug": "perplexity-s-new-contextual-embedding-model-claims-top-spot-in-document-retrieval",
-    "title": "Perplexity’s new contextual embedding model claims top spot in document retrieval",
-    "tags": [
-      "Perplexity"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-30T19:13:04.000Z"
-  },
-  {
-    "id": "9f8f8006caab7c47",
-    "slug": "crypto-advocacy-group-announces-picks-for-us-congress-as-midterms-loom",
-    "title": "Crypto advocacy group announces picks for US Congress as midterms loom",
-    "tags": [
-      "US Congress",
-      "House",
-      "Senate",
-      "Democrats",
-      "United States"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-09-30T19:11:23.000Z"
   }
 ]
