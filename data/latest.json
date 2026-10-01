@@ -1,99 +1,487 @@
 [
   {
-    "id": "eec0fb3295187335",
-    "title": "BMO joins Project Agorá",
-    "summary": "BMO today announced its participation in Project Agorá, the global public-private collaboration convened by the Bank for International Settlements (BIS) and the Institute of International Finance (IIF) to explore how tokenization and programmability could enhance wholesale cross-border payments.",
+    "id": "c70c37a4b4e5e936",
+    "title": "New York and Wyoming regulators ink virtual currency MoU",
+    "summary": "The New York State Department of Financial Services (DFS) Acting Superintendent Kaitlin Asrow and the Wyoming Division of Banking Commissioner Jeremiah Bishop today announced a memorandum of understanding (MOU) to facilitate coordinated oversight of entities engaged in virtual currency and digital asset activities in New York and Wyoming.",
     "hasSummary": true,
-    "link": "https://www.finextra.com/pressarticle/111106/bmo-joins-project-agor?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "link": "https://www.finextra.com/pressarticle/111108/new-york-and-wyoming-regulators-ink-virtual-currency-mou?utm_medium=rssfinextra&utm_source=finextrafeed",
     "source": "Finextra",
+    "tags": [
+      "New York State Department of Financial Services",
+      "Wyoming Division of Banking",
+      "New York",
+      "Wyoming"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-01T19:58:00.000Z",
+    "fetchedAt": "2026-10-01T19:56:51.944Z",
+    "isDuplicateOf": null,
+    "content": "Regulators from New York and Wyoming have signed a memorandum of understanding to improve the coordinated oversight of virtual currency and digital asset businesses operating in both states. Officials from the New York State Department of Financial Services and the Wyoming Division of Banking announced the agreement to foster better cooperation and supervision across state lines for digital asset entities.",
+    "content_ta": "New York மற்றும் Wyoming மாநிலங்களின் ஒழுங்குமுறை அதிகாரிகள், இரு மாநிலங்களிலும் இயங்கும் virtual currency மற்றும் digital asset வணிகங்களை ஒருங்கிணைந்து கண்காணிக்க ஒரு memorandum of understanding-ல் கையெழுத்திட்டுள்ளனர். New York State Department of Financial Services மற்றும் Wyoming Division of Banking அதிகாரிகளால் இந்த ஒப்பந்தம் அறிவிக்கப்பட்டுள்ளது.",
+    "slug": "new-york-and-wyoming-regulators-ink-virtual-currency-mou"
+  },
+  {
+    "id": "8d89645898197411",
+    "slug": "block-launches-its-first-major-bitcoin-consumer-campaign-aiming-at-60-million-curious-americans",
+    "title": "Block launches its first major Bitcoin consumer campaign, aiming at 60 million curious Americans",
+    "tags": [
+      "Block",
+      "Bitcoin",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-01T19:54:39.000Z"
+  },
+  {
+    "id": "e2ada2825f60d56e",
+    "slug": "google-launches-guided-vision-in-gemini-live-for-android",
+    "title": "Google launches Guided Vision in Gemini Live for Android",
+    "tags": [
+      "Google",
+      "Gemini",
+      "Android"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-01T19:51:53.000Z"
+  },
+  {
+    "id": "18395736d0ee9956",
+    "slug": "vault-access-and-interest-rules-at-center-of-xrpl-lending-vote",
+    "title": "Vault Access and Interest Rules at Center of XRPL Lending Vote",
+    "tags": [
+      "XRPL"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-01T19:50:00.000Z"
+  },
+  {
+    "id": "f4215d461b7130a1",
+    "slug": "california-attorney-general-subpoenas-openai-over-ai-agent-cyber-incidents",
+    "title": "California attorney general subpoenas OpenAI over AI agent cyber incidents",
+    "tags": [
+      "California",
+      "OpenAI"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-01T19:46:31.000Z"
+  },
+  {
+    "id": "03c92e747ac40cb7",
+    "slug": "department-of-justice-says-ucla-law-discriminated-against-white-and-asian-applicants",
+    "title": "Department of Justice Says UCLA Law Discriminated Against White and Asian Applicants",
+    "tags": [
+      "Department of Justice",
+      "UCLA"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-01T19:43:04.000Z"
+  },
+  {
+    "id": "dc6e95a28b266bd8",
+    "title": "Polymarket No Longer Projects Fed Reserve to Hike Interest Rates",
+    "summary": "The Federal Reserve is no longer projected to hike interest rates at the next FOMC meeting later this…",
+    "hasSummary": true,
+    "link": "https://watcher.guru/news/polymarket-federal-reserve-no-longer-projected-to-hike-interest-rates-this-month",
+    "source": "Watcher.Guru",
+    "tags": [
+      "Polymarket",
+      "Federal Reserve"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-01T19:39:00.000Z",
+    "fetchedAt": "2026-10-01T19:56:51.944Z",
+    "isDuplicateOf": null,
+    "content": "Polymarket data indicates that the Federal Reserve is no longer projected to hike interest rates at the upcoming FOMC meeting. This shift in market expectations reflects changing economic conditions and investor sentiment regarding future monetary policy decisions by the central bank.",
+    "content_ta": "Polymarket தரவுகளின்படி, வரவிருக்கும் FOMC கூட்டத்தில் Federal Reserve வட்டி விகிதங்களை உயர்த்தாது என்று கணிக்கப்பட்டுள்ளது. சந்தையின் இந்த எதிர்பார்ப்பு மாற்றம் பொருளாதார நிலைமைகள் மற்றும் எதிர்கால நாணய கொள்கை முடிவுகள் குறித்த முதலீட்டாளர்களின் பார்வையை பிரதிபலிக்கிறது.",
+    "slug": "polymarket-no-longer-projects-fed-reserve-to-hike-interest-rates"
+  },
+  {
+    "id": "40a1650ba66108a3",
+    "slug": "xai-turns-surplus-gpus-into-a-leasing-business-as-it-chases-more-capacity",
+    "title": "xAI turns surplus GPUs into a leasing business as it chases more capacity",
+    "tags": [
+      "xAI"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-01T19:35:30.000Z"
+  },
+  {
+    "id": "9c1b28974cac79fc",
+    "slug": "social-security-ssi-recipients-getting-two-payments-in-october-here-s-why",
+    "title": "Social Security SSI Recipients Getting Two Payments in October – Here’s Why",
+    "tags": [
+      "Social Security Administration",
+      "Supplemental Security Income"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-01T19:34:18.000Z"
+  },
+  {
+    "id": "8548630c89e6c2b2",
+    "slug": "chainlink-reaches-swift-hackathon-final-with-tokenized-equity-compliance-solution",
+    "title": "Chainlink reaches Swift Hackathon final with tokenized equity compliance solution",
+    "tags": [
+      "Chainlink",
+      "Swift"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-01T19:29:21.000Z"
+  },
+  {
+    "id": "06a6eff55457487f",
+    "slug": "top-trump-holders-can-win-a-dinner-with-donald-trump-again",
+    "title": "Top $TRUMP holders can win a dinner with Donald Trump, again",
+    "tags": [
+      "Donald Trump",
+      "$TRUMP"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-01T19:21:54.000Z"
+  },
+  {
+    "id": "26a42cc4e58aa69a",
+    "title": "Congress Considers Expanding Crypto, Stablecoin Rules for Banks",
+    "summary": "Congress is reportedly considering expanding crypto rules to allow banks and credit unions to hold digital assets, issue…",
+    "hasSummary": true,
+    "link": "https://watcher.guru/news/congress-considers-expanding-crypto-stablecoin-rules-for-banks",
+    "source": "Watcher.Guru",
+    "tags": [
+      "Congress",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-01T19:18:00.000Z",
+    "fetchedAt": "2026-10-01T19:56:51.944Z",
+    "isDuplicateOf": null,
+    "content": "Congress is reportedly considering new legislative proposals to expand cryptocurrency and stablecoin regulations. These potential rules would allow traditional banks and credit unions to hold digital assets and issue stablecoins. Lawmakers are exploring these measures to integrate digital assets into the formal banking system while addressing regulatory clarity and financial stability concerns.",
+    "content_ta": "வங்கிகள் மற்றும் கிரெடிட் யூனியன்கள் டிஜிட்டல் சொத்துக்களை வைத்திருக்கவும் ஸ்டேபிள்காயின்களை வெளியிடவும் அனுமதிக்கும் வகையில், crypto மற்றும் stablecoin விதிகளை விரிவுபடுத்துவது குறித்து Congress பரிசீலித்து வருவதாகத் தகவல்கள் வெளியாகியுள்ளன. ஒழுங்குமுறை தெளிவு மற்றும் நிதி ஸ்திரத்தன்மை கவலைகளை நிவர்த்தி செய்யும் அதேவேளையில், டிஜிட்டல் சொத்துக்களை முறையான வங்கி அமைப்புடன் ஒருங்கிணைக்க சட்டமியற்றுபவர்கள் இந்த நடவடிக்கைகளை ஆராய்ந்து வருகின்றனர்.",
+    "slug": "congress-considers-expanding-crypto-stablecoin-rules-for-banks"
+  },
+  {
+    "id": "f6715af0f39923ad",
+    "slug": "hyperliquid-policy-center-circle-press-eu-on-perps-and-stablecoin-reserves-in-mica-review",
+    "title": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
+    "tags": [
+      "Hyperliquid",
+      "Circle",
+      "European Commission",
+      "European Union"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-01T19:10:36.000Z"
+  },
+  {
+    "id": "bc6bb61845fa4abf",
+    "slug": "patient-sends-1-monthly-payments-for-years-to-protest-dentist-s-alleged-overcharge-health-care",
+    "title": "Patient Sends $1 Monthly Payments for Years to Protest Dentist’s Alleged Overcharge – ‘Health Care Billing In General Is a Scam’",
+    "tags": [],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-01T19:08:23.000Z"
+  },
+  {
+    "id": "b3301b6004015919",
+    "slug": "bitwise-cio-matt-hougan-predicts-stablecoins-will-rise-significantly",
+    "title": "Bitwise CIO Matt Hougan predicts stablecoins will rise significantly",
+    "tags": [
+      "Bitwise",
+      "Matt Hougan",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-01T19:06:19.000Z"
+  },
+  {
+    "id": "27fe3b6da943ed2a",
+    "slug": "harvard-physicist-s-bootloops-toolkit-puts-ai-to-work-across-the-sciences",
+    "title": "Harvard physicist’s BootLoops toolkit puts AI to work across the sciences",
+    "tags": [
+      "Harvard University"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-01T19:02:18.000Z"
+  },
+  {
+    "id": "80321c64ee9cd418",
+    "title": "Wealth Management IQ Report Flags AI as Answer to RIA Talent Gap",
+    "summary": "A Goldman Sachs-sponsored research paper argues technology and AI can help RIAs close a widening advisor capacity gap ahead of a $100 trillion wealth\nThe post Wealth Management IQ Report Flags AI as Answer to RIA Talent Gap appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/wealth-management-iq-report-flags-ai-as-answer-to-ria-talent-gap/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Goldman Sachs",
+      "Wealth Management IQ"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-01T19:00:11.000Z",
+    "fetchedAt": "2026-10-01T19:56:51.944Z",
+    "isDuplicateOf": null,
+    "content": "A new Wealth Management IQ report, sponsored by Goldman Sachs, highlights artificial intelligence as a key solution to the growing talent gap among Registered Investment Advisors. As the wealth management industry faces a massive generational wealth transfer, the research indicates that advanced technology can significantly enhance advisor capacity and operational efficiency to meet future demands.",
+    "content_ta": "Goldman Sachs-ன் ஆதரவுடன் வெளியிடப்பட்டுள்ள புதிய Wealth Management IQ அறிக்கையானது, Registered Investment Advisors-களுக்கு இடையே அதிகரித்து வரும் திறமை பற்றாக்குறையை நிவர்த்தி செய்ய செயற்கை நுண்ணறிவு (AI) ஒரு முக்கிய தீர்வாக அமையும் என்று சுட்டிக்காட்டுகிறது. செல்வ மேலாண்மைத் துறை பெரும் செல்வ மாற்றத்தை எதிர்கொள்ளும்போது, எதிர்கால தேவைகளைப் பூர்த்தி செய்ய மேம்பட்ட தொழில்நுட்பம் பெரிதும் உதவும் என்று இந்த ஆய்வு தெரிவிக்கிறது.",
+    "slug": "wealth-management-iq-report-flags-ai-as-answer-to-ria-talent-gap"
+  },
+  {
+    "id": "6bdddca1ac79e765",
+    "slug": "stand-with-crypto-urges-eu-to-ease-stablecoin-rewards-restrictions",
+    "title": "Stand With Crypto urges EU to ease stablecoin rewards restrictions",
+    "tags": [
+      "Stand With Crypto",
+      "European Union"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-01T18:58:42.000Z"
+  },
+  {
+    "id": "765bbcd69b5a0b87",
+    "slug": "standard-chartered-is-building-an-institutional-research-universe-for-defi",
+    "title": "Standard Chartered is building an institutional research universe for DeFi",
+    "tags": [
+      "Standard Chartered",
+      "DeFi"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-01T18:49:35.000Z"
+  },
+  {
+    "id": "d09315685573ac3c",
+    "slug": "man-says-first-date-flirted-with-the-server-after-arriving-an-hour-late-then-left-him-with-the-check",
+    "title": "Man Says First Date Flirted With the Server After Arriving an Hour Late – Then Left Him With the Check",
+    "tags": [
+      "Hinge",
+      "TikTok"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-01T18:47:54.000Z"
+  },
+  {
+    "id": "c8738bd44fabc644",
+    "slug": "coinbase-will-support-the-aero-and-velo-token-migration-from-november-2-to-4-2026",
+    "title": "Coinbase will support the AERO and VELO token migration from November 2 to 4, 2026",
+    "tags": [
+      "Coinbase",
+      "AERO",
+      "VELO"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-01T18:47:04.000Z"
+  },
+  {
+    "id": "774203d0f58096b3",
+    "slug": "federal-court-dismisses-publisher-antitrust-suits-against-google-over-ai-overviews",
+    "title": "Federal court dismisses publisher antitrust suits against Google over AI Overviews",
+    "tags": [
+      "Google"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-01T18:46:25.000Z"
+  },
+  {
+    "id": "b9b7e6ef36d0f59a",
+    "slug": "reps-obernolte-and-trahan-praise-trump-s-ai-safety-accord-but-keep-pushing-their-own-bill",
+    "title": "Reps. Obernolte and Trahan praise Trump’s AI safety accord but keep pushing their own bill",
+    "tags": [
+      "Obernolte",
+      "Trahan"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-01T18:45:47.000Z"
+  },
+  {
+    "id": "9dd5550747a39c02",
+    "slug": "another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
+    "title": "Another Trump memecoin dinner advertised for token's top investors",
+    "tags": [
+      "Trump"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-01T18:45:29.000Z"
+  },
+  {
+    "id": "be9391d738a21191",
+    "slug": "cynthia-lummis-doubts-a-crypto-tax-bill-will-pass-this-year",
+    "title": "Cynthia Lummis doubts a crypto tax bill will pass this year",
+    "tags": [
+      "Cynthia Lummis",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-01T18:44:46.000Z"
+  },
+  {
+    "id": "b995807982765ddc",
+    "title": "Most For, One Against Petition for the SEC to Increase Reg CF Funding Limit to $20 Million",
+    "summary": "A few months ago, Crowdfund Capital Advisors (CCA) submitted a petition to the Securities and Exchange Commission (SEC) to increase the Reg CF [Regulation Crowdfunding] funding cap from $5 million to $20 million. In general, industry insiders support the move, viewing it as more closely... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/10/314854-most-for-one-against-petition-for-the-sec-to-increase-reg-cf-funding-limit-to-20-million/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Crowdfund Capital Advisors",
+      "Securities and Exchange Commission"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-01T18:43:06.000Z",
+    "fetchedAt": "2026-10-01T19:56:51.944Z",
+    "isDuplicateOf": null,
+    "content": "Crowdfund Capital Advisors has submitted a petition to the Securities and Exchange Commission to raise the Regulation Crowdfunding funding limit from $5 million to $20 million. Industry insiders generally support this proposed increase, viewing it as a beneficial step for the market.",
+    "content_ta": "Regulation Crowdfunding ஃபண்டிங் வரம்பை 5 மில்லியன் டாலரிலிருந்து 20 மில்லியன் டாலராக உயர்த்த கோரி Securities and Exchange Commission-க்கு Crowdfund Capital Advisors ஒரு மனுவை சமர்ப்பித்துள்ளது. இந்த முன்மொழியப்பட்ட உயர்வை துறை சார்ந்த வல்லுநர்கள் பொதுவாக ஆதரிக்கின்றனர்.",
+    "slug": "most-for-one-against-petition-for-the-sec-to-increase-reg-cf-funding-limit-to-20-million"
+  },
+  {
+    "id": "13573beadafa5575",
+    "title": "Lowest Fee Bitcoin ATMs Announces Launch of More Than 400 ATMs Nationwide",
+    "summary": "Las Vegas, NV, 1st October 2026, Chainwire\nThe post Lowest Fee Bitcoin ATMs Announces Launch of More Than 400 ATMs Nationwide appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/10/01/lowest-fee-bitcoin-atms-announces-launch-of-more-than-400-atms-nationwide/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "Bitcoin",
+      "Lowest Fee Bitcoin ATMs"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-01T18:42:56.000Z",
+    "fetchedAt": "2026-10-01T19:56:51.944Z",
+    "isDuplicateOf": null,
+    "content": "Lowest Fee Bitcoin ATMs has announced the official launch of more than 400 new Bitcoin ATMs across the nation. The expansion aims to provide broader access to cryptocurrency services with lower transaction fees. Further details regarding specific locations and rollout schedules were shared following the nationwide deployment announcement.",
+    "content_ta": "Lowest Fee Bitcoin ATMs நாடு முழுவதும் 400-க்கும் மேற்பட்ட புதிய Bitcoin ATM-களைத் தொடங்குவதாக அறிவித்துள்ளது. குறைந்த கட்டணத்தில் cryptocurrency சேவைகளை வழங்குவதை இந்த விரிவாக்கம் நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "lowest-fee-bitcoin-atms-announces-launch-of-more-than-400-atms-nationwide"
+  },
+  {
+    "id": "a50cf7df6964a9e3",
+    "title": "Sibos 2026: What does a successful ESG strategy look like?",
+    "summary": "How can global financial institutions maintain a coherent sustainability strategy with constantly shifting expectations? This was discussed at Sibos Miami 2026 by a panel of experts.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/newsarticle/48524/sibos-2026-what-does-a-successful-esg-strategy-look-like?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Sibos",
+      "Miami"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-01T18:38:00.000Z",
+    "fetchedAt": "2026-10-01T19:56:51.944Z",
+    "isDuplicateOf": null,
+    "content": "At Sibos Miami 2026, a panel of industry experts discussed the challenges global financial institutions face in maintaining a coherent ESG and sustainability strategy. The conversation focused on how organizations can navigate constantly shifting expectations and regulatory landscapes to achieve a truly successful long-term approach to environmental, social, and governance goals.",
+    "content_ta": "Sibos Miami 2026 மாநாட்டில் நடைபெற்ற விவாதத்தில், உலகளாவிய நிதி நிறுவனங்கள் நிலையான ESG மற்றும் நிலைத்தன்மை உத்தியை எவ்வாறு பராமரிப்பது என்பது குறித்து நிபுணர்கள் விவாதித்தனர். மாறிவரும் எதிர்பார்ப்புகள் மற்றும் ஒழுங்குமுறை சூழல்களுக்கு மத்தியில், நீண்ட கால இலக்குகளை எவ்வாறு அடைவது என்பது குறித்து இதில் கவனம் செலுத்தப்பட்டது.",
+    "slug": "sibos-2026-what-does-a-successful-esg-strategy-look-like"
+  },
+  {
+    "id": "83491a9264c34f1b",
+    "slug": "microsoft-s-coding-agent-skill-distillation-beats-gepa-at-prompt-optimization",
+    "title": "Microsoft’s coding-agent skill distillation beats GEPA at prompt optimization",
+    "tags": [
+      "Microsoft"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-01T18:34:56.000Z"
+  },
+  {
+    "id": "eec0fb3295187335",
+    "slug": "bmo-joins-project-agora",
+    "title": "BMO joins Project Agorá",
     "tags": [
       "BMO",
       "Project Agorá",
       "Bank for International Settlements",
       "Institute of International Finance"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-10-01T18:26:00.000Z",
-    "fetchedAt": "2026-10-01T18:31:51.096Z",
-    "isDuplicateOf": null,
-    "content": "BMO has announced its participation in Project Agorá, a global public-private collaboration. Convened by the Bank for International Settlements and the Institute of International Finance, the initiative explores how tokenization and programmability can enhance wholesale cross-border payments.",
-    "content_ta": "Project Agorá-வில் தனது பங்கேற்பை BMO அறிவித்துள்ளது. Bank for International Settlements மற்றும் Institute of International Finance ஆகியோரால் கூட்டப்பட்ட இந்த உலகளாவிய முயற்சி, டோக்கனைசேஷன் மற்றும் நிரலாக்கம் எப்படி மொத்த விற்பனை எல்லை தாண்டிய கட்டணங்களை மேம்படுத்தலாம் என்பதை ஆராய்கிறது.",
-    "slug": "bmo-joins-project-agora"
+    "hasContent": true,
+    "pubDate": "2026-10-01T18:26:00.000Z"
   },
   {
     "id": "0d50ecd4e3502ca1",
+    "slug": "bloomberg-closes-canoe-intelligence-acquisition",
     "title": "Bloomberg closes Canoe Intelligence acquisition",
-    "summary": "Bloomberg today announced the completion of its acquisition of Canoe Intelligence (“Canoe”), a leading AI-powered data management and intelligence platform for automating private markets data collection and delivery.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/pressarticle/111105/bloomberg-closes-canoe-intelligence-acquisition?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
     "tags": [
       "Bloomberg",
       "Canoe Intelligence"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-10-01T18:24:00.000Z",
-    "fetchedAt": "2026-10-01T18:31:51.096Z",
-    "isDuplicateOf": null,
-    "content": "Bloomberg has completed its acquisition of Canoe Intelligence, an AI-powered data management platform. The deal aims to enhance Bloomberg's capabilities in automating private markets data collection and delivery, providing clients with advanced technological tools for financial data management.",
-    "content_ta": "AI-powered data management platform ஆன Canoe Intelligence நிறுவனத்தை கையகப்படுத்தும் தனது பணியை Bloomberg வெற்றிகரமாக நிறைவு செய்துள்ளது. தனியார் சந்தை தரவு சேகரிப்பு மற்றும் விநியோகத்தை தானியக்கமாக்கும் Bloomberg-இன் திறன்களை இந்த ஒப்பந்தம் மேம்படுத்தும்.",
-    "slug": "bloomberg-closes-canoe-intelligence-acquisition"
+    "hasContent": true,
+    "pubDate": "2026-10-01T18:24:00.000Z"
   },
   {
     "id": "ced59e0903601d7e",
+    "slug": "softbank-closes-final-10b-openai-tranche-lifting-its-total-to-64-6b",
     "title": "SoftBank closes final $10B OpenAI tranche, lifting its total to $64.6B",
-    "summary": "SoftBank's significant stake in OpenAI highlights its strategic focus on AI, potentially influencing its future financial stability and growth.\nThe post SoftBank closes final $10B OpenAI tranche, lifting its total to $64.6B appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/softbank-closes-final-openai-tranche/",
-    "source": "CryptoBriefing",
     "tags": [
       "SoftBank",
       "OpenAI"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-01T18:21:38.000Z",
-    "fetchedAt": "2026-10-01T18:31:51.095Z",
-    "isDuplicateOf": null,
-    "content": "SoftBank has finalized its massive investment in OpenAI by closing the final $10 billion tranche. This latest funding brings SoftBank's total financial commitment to OpenAI to a staggering $64.6 billion. The substantial backing underscores SoftBank's strong strategic focus on the artificial intelligence sector, which could significantly impact the company's future financial trajectory and growth.",
-    "content_ta": "SoftBank தனது மிகப்பெரிய முதலீட்டின் இறுதித் தவணையாக 10 பில்லியன் டாலரை வழங்கி OpenAI நிறுவனத்துடனான ஒப்பந்தத்தை முடிவுக்குக் கொண்டுவந்துள்ளது. இந்த புதிய நிதியுதவியின் மூலம் OpenAI நிறுவனத்தில் SoftBank-ன் மொத்த முதலீடு 64.6 பில்லியன் டாலராக உயர்ந்துள்ளது. இந்த அதீத முதலீடு, செயற்கை நுண்ணறிவுத் துறையில் SoftBank-ன் வலுவான உத்திகளைக் காட்டுவதோடு, எதிர்கால வளர்ச்சிக்கும் வழிவகுக்கும்.",
-    "slug": "softbank-closes-final-10b-openai-tranche-lifting-its-total-to-64-6b"
+    "hasContent": true,
+    "pubDate": "2026-10-01T18:21:38.000Z"
   },
   {
     "id": "31c3ab90b03a811b",
+    "slug": "deribit-upgrades-matching-engine-cuts-median-latency-by-roughly-61x",
     "title": "Deribit upgrades matching engine, cuts median latency by roughly 61x",
-    "summary": "Deribit's enhanced engine boosts trading efficiency and fairness, potentially reshaping competitive dynamics in crypto exchanges.\nThe post Deribit upgrades matching engine, cuts median latency by roughly 61x appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/deribit-starbase-matching-engine-latency/",
-    "source": "CryptoBriefing",
     "tags": [
       "Deribit"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-01T18:20:30.000Z",
-    "fetchedAt": "2026-10-01T18:31:51.095Z",
-    "isDuplicateOf": null,
-    "content": "Crypto derivatives exchange Deribit has upgraded its matching engine, significantly reducing median latency. This enhancement aims to boost overall trading efficiency and fairness on the platform. The technological upgrade is expected to potentially reshape competitive dynamics among major cryptocurrency exchanges as speed and performance remain critical for market participants.",
-    "content_ta": "Crypto derivatives exchange ஆன Deribit தனது matching engine-ஐ மேம்படுத்தியுள்ளது, இதன் மூலம் median latency கணிசமாகக் குறைக்கப்பட்டுள்ளது. இந்த மேம்பாடு பிளாட்ஃபார்மில் வர்த்தக திறனையும் நேர்மையையும் அதிகரிக்கும் நோக்கம் கொண்டது. இந்த தொழில்நுட்ப மேம்பாடு பெரிய cryptocurrency exchanges இடையேயான போட்டி இயக்கவியலை மாற்றியமைக்கும் என்று எதிர்பார்க்கப்படுகிறது.",
-    "slug": "deribit-upgrades-matching-engine-cuts-median-latency-by-roughly-61x"
+    "hasContent": true,
+    "pubDate": "2026-10-01T18:20:30.000Z"
   },
   {
     "id": "c590cb6a45cf2c57",
+    "slug": "crypto-powered-wordpress-malware-refuses-to-die",
     "title": "Crypto-Powered WordPress Malware Refuses to Die",
-    "summary": "A highly persistent WordPress malware strain is using Ethereum infrastructure to stay alive, with redundant copies scattered across compromised sites allowing it to rebuild itself even after attempted cleanup.",
-    "hasSummary": true,
-    "link": "https://u.today/crypto-powered-wordpress-malware-refuses-to-die",
-    "source": "U.Today",
     "tags": [
       "WordPress",
       "Ethereum"
     ],
+    "source": "U.Today",
     "origin": "rss",
-    "pubDate": "2026-10-01T18:17:11.000Z",
-    "fetchedAt": "2026-10-01T18:31:51.095Z",
-    "isDuplicateOf": null,
-    "content": "A highly persistent strain of WordPress malware is leveraging Ethereum infrastructure to maintain its presence. Redundant copies of the malicious code are scattered across compromised websites, allowing the malware to automatically rebuild itself even after administrators attempt to clean and remove it.",
-    "content_ta": "வேர்ட்பிரஸ் தளங்களை பாதிக்கும் மிகவும் உறுதியான மால்வேர் வகை, Ethereum உள்கட்டமைப்பைப் பயன்படுத்தி தனது இருப்பைத் தக்க வைத்துக் கொள்கிறது. சமரசம் செய்யப்பட்ட தளங்களில் இந்த தீங்கிழைக்கும் குறியீட்டின் நகல்கள் பரவலாக உள்ளன, இதனால் நிர்வாகிகள் அதை அகற்ற முயன்றாலும் மால்வேர் தானாகவே மீண்டும் உருவாகிறது.",
-    "slug": "crypto-powered-wordpress-malware-refuses-to-die"
+    "hasContent": true,
+    "pubDate": "2026-10-01T18:17:11.000Z"
   },
   {
     "id": "72f797ad39f2c6f8",
@@ -436,402 +824,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-01T17:05:40.000Z"
-  },
-  {
-    "id": "9dcd36df03c242b4",
-    "slug": "uk-s-2027-crypto-rules-could-block-new-business-with-existing-customers",
-    "title": "UK’s 2027 crypto rules could block new business with existing customers",
-    "tags": [
-      "UK",
-      "FCA"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T17:00:37.000Z"
-  },
-  {
-    "id": "cdc564006b114109",
-    "slug": "muneeb-ali-is-back-as-stacks-labs-ceo-after-5-years-stx-jumps-over-28",
-    "title": "Muneeb Ali is back as Stacks Labs CEO after 5 years: STX jumps over 28%",
-    "tags": [
-      "Muneeb Ali",
-      "Stacks Labs",
-      "STX"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T17:00:01.000Z"
-  },
-  {
-    "id": "9cf38624dfbaffce",
-    "slug": "xrp-holders-mark-your-calendars-for-october-8-nasdaq-listing-is-coming-for-ripple-backed-treasury",
-    "title": "XRP Holders, Mark Your Calendars for October 8: Nasdaq Listing Is Coming for Ripple-Backed Treasury",
-    "tags": [
-      "XRP",
-      "Ripple",
-      "Nasdaq",
-      "Evernorth"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:59:30.000Z"
-  },
-  {
-    "id": "390f3e12598005d6",
-    "slug": "bullish-wins-us-patent-for-debugging-webassembly-smart-contracts",
-    "title": "Bullish wins US patent for debugging WebAssembly smart contracts",
-    "tags": [
-      "Bullish",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:57:48.000Z"
-  },
-  {
-    "id": "1d9a0b35f2788d17",
-    "slug": "burwick-law-loses-libra-lawsuit-against-hayden-davis",
-    "title": "Burwick Law loses LIBRA lawsuit against Hayden Davis",
-    "tags": [
-      "Burwick Law",
-      "Hayden Davis",
-      "LIBRA",
-      "Meteora"
-    ],
-    "source": "Protos",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:57:18.000Z"
-  },
-  {
-    "id": "82a320d7e6f2ef4c",
-    "slug": "claude-sonnet-5-5-takes-third-place-on-code-arena-s-webdev-leaderboard",
-    "title": "Claude Sonnet 5.5 takes third place on Code Arena’s WebDev leaderboard",
-    "tags": [
-      "Anthropic",
-      "Claude Sonnet 5.5",
-      "Code Arena"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:57:13.000Z"
-  },
-  {
-    "id": "4df65833342d863c",
-    "slug": "bitcoin-s-win-rate-against-the-s-p-500-climbs-back-above-50",
-    "title": "Bitcoin’s win rate against the S&P 500 climbs back above 50%",
-    "tags": [
-      "Bitcoin",
-      "S&P 500"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:54:32.000Z"
-  },
-  {
-    "id": "819ce766bda8a7df",
-    "slug": "mindgard-says-it-jailbroke-moonshot-ai-s-kimi-models-into-giving-sarin-and-terror-attack",
-    "title": "Mindgard says it jailbroke Moonshot AI’s Kimi models into giving sarin and terror attack instructions",
-    "tags": [
-      "Mindgard",
-      "Moonshot AI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:53:18.000Z"
-  },
-  {
-    "id": "38fcf465521ef700",
-    "slug": "digital-banking-za-bank-reports-profitability",
-    "title": "Digital Banking: ZA Bank Reports Profitability",
-    "tags": [
-      "ZA Bank",
-      "Hong Kong"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:51:53.000Z"
-  },
-  {
-    "id": "0289584478f874b6",
-    "slug": "shopify-debuts-canvas-an-ai-powered-store-builder-that-runs-on-conversation",
-    "title": "Shopify debuts Canvas, an AI-powered store builder that runs on conversation",
-    "tags": [
-      "Shopify"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:49:02.000Z"
-  },
-  {
-    "id": "adbd58343d346290",
-    "slug": "amazon-unveils-strands-decider-2b-as-an-open-source-rival-to-jev",
-    "title": "Amazon unveils Strands Decider 2B as an open-source rival to Jev",
-    "tags": [
-      "Amazon",
-      "Strands Decider 2B",
-      "Jev"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:47:58.000Z"
-  },
-  {
-    "id": "4118cd82ead4ccb0",
-    "slug": "ohio-resident-admits-to-orchestrating-3-000-000-fake-ticket-investment-fraud-scheme",
-    "title": "Ohio Resident Admits to Orchestrating $3,000,000 Fake Ticket Investment Fraud Scheme",
-    "tags": [
-      "Ohio",
-      "Brecksville",
-      "John E. Brown II"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:47:05.000Z"
-  },
-  {
-    "id": "899c79ca3d0da56d",
-    "slug": "solana-logs-over-14-billion-transactions-in-q3-2026-its-busiest-quarter-yet",
-    "title": "Solana logs over 14 billion transactions in Q3 2026, its busiest quarter yet",
-    "tags": [
-      "Solana"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:44:02.000Z"
-  },
-  {
-    "id": "f5a10d6712a54835",
-    "slug": "jackson-holds-edge-over-collins-in-maine-senate-race-poll",
-    "title": "Jackson holds edge over Collins in Maine Senate race: Poll",
-    "tags": [
-      "Jackson",
-      "Collins",
-      "Maine"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:42:18.000Z"
-  },
-  {
-    "id": "be3c1e717172d596",
-    "slug": "why-bitcoin-is-starting-q4-on-stronger-footing-than-traditional-markets",
-    "title": "Why Bitcoin Is Starting Q4 on Stronger Footing Than Traditional Markets",
-    "tags": [
-      "Bitcoin",
-      "Ethereum"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:35:35.000Z"
-  },
-  {
-    "id": "ac7d193aa3dfff5a",
-    "slug": "sibos-2026-day-three-before-the-agents-get-the-keys-the-industry-wants-trust-built-in",
-    "title": "Sibos 2026 day three: Before the Agents Get the Keys, the Industry Wants Trust Built in",
-    "tags": [
-      "Mastercard",
-      "Société Générale",
-      "Lloyds",
-      "Visa",
-      "Chainlink",
-      "DTCC",
-      "Miami"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:35:06.000Z"
-  },
-  {
-    "id": "d39bb81b73938ab2",
-    "slug": "ataraxos-ai-beats-stratego-great-pim-niemeijer-15-1-on-just-16-gpus",
-    "title": "Ataraxos AI beats Stratego great Pim Niemeijer 15-1 on just 16 GPUs",
-    "tags": [
-      "Ataraxos AI",
-      "Pim Niemeijer"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:33:46.000Z"
-  },
-  {
-    "id": "05ed9ced64896229",
-    "slug": "fed-watchdog-finds-mismanagement-not-criminality-in-2-5b-renovation",
-    "title": "Fed watchdog finds mismanagement, not criminality, in $2.5B renovation",
-    "tags": [
-      "Federal Reserve Board",
-      "Office of the Inspector General"
-    ],
-    "source": "Banking Dive",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:33:45.000Z"
-  },
-  {
-    "id": "cac10eeb1315bb8f",
-    "slug": "openai-fires-three-safety-researchers-over-data-breach-wsj-reports",
-    "title": "OpenAI fires three safety researchers over data breach, WSJ reports",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:30:47.000Z"
-  },
-  {
-    "id": "063718f3861e9def",
-    "slug": "connecticut-hotel-operator-data-breach-puts-ssns-financial-and-medical-records-at-risk",
-    "title": "Connecticut Hotel Operator Data Breach Puts SSNs, Financial and Medical Records at Risk",
-    "tags": [
-      "Waterford Hotel Group",
-      "LMD Holding Company",
-      "Connecticut"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:30:30.000Z"
-  },
-  {
-    "id": "720aa72ed8572295",
-    "slug": "21bitcoin-now-pays-interest-on-idle-euros-payable-in-btc",
-    "title": "21bitcoin Now Pays Interest on Idle Euros, Payable in BTC",
-    "tags": [
-      "21bitcoin",
-      "Bitcoin",
-      "Bitcoin Magazine"
-    ],
-    "source": "Bitcoin Magazine",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:25:18.000Z"
-  },
-  {
-    "id": "01e0fc3fdaf3d1b4",
-    "slug": "ethereum-staking-reward-burn-proposal-eip-8363-pulled-from-hegota-upgrade",
-    "title": "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
-    "tags": [
-      "Ethereum",
-      "Jérôme de Tychey"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:17:23.000Z"
-  },
-  {
-    "id": "e1428f2f7292b6a7",
-    "slug": "new-york-wyoming-regulators-sign-pact-to-coordinate-crypto-oversight",
-    "title": "New York, Wyoming regulators sign pact to coordinate crypto oversight",
-    "tags": [
-      "New York",
-      "Wyoming"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:12:23.000Z"
-  },
-  {
-    "id": "b2e360acc35533dc",
-    "slug": "new-york-man-accused-of-draining-89-000-from-connecticut-account-with-in-person-wire-transfer",
-    "title": "New York Man Accused of Draining $89,000 From Connecticut Account With In-Person Wire Transfer",
-    "tags": [
-      "New York",
-      "Connecticut",
-      "Westport",
-      "Brooklyn"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:10:50.000Z"
-  },
-  {
-    "id": "3b37c3d40c8d6c2c",
-    "slug": "amerant-bank-ceo-tackles-credit-crisis",
-    "title": "Amerant Bank CEO tackles credit crisis",
-    "tags": [
-      "Amerant Bank",
-      "Carlos Iafigliola",
-      "Florida"
-    ],
-    "source": "Banking Dive",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:02:00.000Z"
-  },
-  {
-    "id": "a3abd22b45cbc222",
-    "slug": "can-ethereum-rally-if-us-ism-moves-toward-60",
-    "title": "Can Ethereum Rally If US ISM Moves Toward 60?",
-    "tags": [
-      "Ethereum",
-      "Federal Reserve",
-      "United States"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:01:06.000Z"
-  },
-  {
-    "id": "abac1cc404431caf",
-    "slug": "open-usd-bets-stripe-s-1-9-trillion-network-can-break-usdt-and-usdc-s-grip",
-    "title": "Open USD bets Stripe’s $1.9 trillion network can break USDT and USDC’s grip",
-    "tags": [
-      "Open USD",
-      "Stripe",
-      "USDT",
-      "USDC",
-      "Visa"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T16:00:14.000Z"
-  },
-  {
-    "id": "b57f0acaf76c03ac",
-    "slug": "broadcom-avgo-to-lend-anthropic-up-to-42-billion-for-ai-chips",
-    "title": "Broadcom (AVGO) to lend Anthropic up to $42 billion for AI Chips",
-    "tags": [
-      "Broadcom",
-      "Anthropic"
-    ],
-    "source": "Watcher.Guru",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T15:59:30.000Z"
-  },
-  {
-    "id": "6454079321f618e2",
-    "slug": "bitcoin-fights-for-local-uptrend-as-us-bond-yields-drop-from-new-24-year-highs",
-    "title": "Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs",
-    "tags": [
-      "Bitcoin",
-      "United States"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T15:55:19.000Z"
   }
 ]
