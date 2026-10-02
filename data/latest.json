@@ -1,169 +1,475 @@
 [
   {
-    "id": "a7c72c0fce713e11",
-    "title": "SoftBank investors prioritize AI returns over borrowing costs",
-    "summary": "SoftBank's AI-focused strategy highlights a shift towards long-term asset appreciation, despite rising borrowing costs and speculative credit ratings.\nThe post SoftBank investors prioritize AI returns over borrowing costs appeared first on Crypto Briefing.",
+    "id": "3ca4772b600bf3b4",
+    "title": "Zing365 Links UK SME Underinsurance to Broker Knowledge Gap",
+    "summary": "The insurance learning provider says rising commercial complexity means continuous broker development is now a commercial necessity, not a compliance formality.\nThe post Zing365 Links UK SME Underinsurance to Broker Knowledge Gap appeared first on The Fintech Times.",
     "hasSummary": true,
-    "link": "https://cryptobriefing.com/softbank-investors-ai-returns-borrowing-costs/",
+    "link": "https://thefintechtimes.com/zing365-links-uk-sme-underinsurance-to-broker-knowledge-gap/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Zing365",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T06:00:54.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "Zing365 has linked the rising issue of underinsurance among UK small and medium-sized enterprises to a knowledge gap among brokers. According to the insurance learning provider, increasing commercial complexity means continuous professional development for brokers is now a vital business necessity rather than just a compliance formality.",
+    "content_ta": "UK-ல் உள்ள SMEs நிறுவனங்களிடையே இன்சூரன்ஸ் குறைவாக எடுக்கப்படும் பிரச்சினைக்கு ப்ரோக்கர்களின் அறிவு குறைபாடே காரணம் என்று Zing365 தெரிவித்துள்ளது. வணிகச் சூழல் நாளுக்கு நாள்complexity அதிகரித்து வருவதால், ப்ரோக்கர்கள் தொடர்ச்சியாக தங்களின் திறன்களை வளர்த்துக் கொள்வது அவசியமான வணிகத் தேவையாக மாறியுள்ளது என்று அந்த இன்சூரன்ஸ் கல்வி நிறுவனம் குறிப்பிட்டுள்ளது.",
+    "slug": "zing365-links-uk-sme-underinsurance-to-broker-knowledge-gap"
+  },
+  {
+    "id": "88475a6b7af07452",
+    "slug": "south-korea-crypto-exchange-profits-fall-78-in-h1-amid-trading-slump",
+    "title": "South Korea crypto exchange profits fall 78% in H1 amid trading slump",
+    "tags": [
+      "South Korea"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-02T05:53:27.000Z"
+  },
+  {
+    "id": "27afaf90c9035260",
+    "slug": "your-stocks-could-feel-the-fed-s-rate-hike-next-jim-cramer-warns",
+    "title": "Your Stocks Could Feel the Fed's Rate Hike Next, Jim Cramer Warns",
+    "tags": [
+      "Jim Cramer",
+      "Federal Reserve"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-02T05:45:45.000Z"
+  },
+  {
+    "id": "8efd260fa730f321",
+    "slug": "franklin-templeton-teams-up-with-chinaamc-for-its-first-etfs-in-asia",
+    "title": "Franklin Templeton teams up with ChinaAMC for its first ETFs in Asia",
+    "tags": [
+      "Franklin Templeton",
+      "ChinaAMC",
+      "Asia"
+    ],
     "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-02T05:36:16.000Z"
+  },
+  {
+    "id": "80061db06a85a5a8",
+    "slug": "electrum-patches-lightning-flaw-but-old-bitcoin-backups-break",
+    "title": "Electrum patches Lightning flaw, but old Bitcoin backups break",
+    "tags": [
+      "Electrum",
+      "Lightning Network",
+      "Bitcoin",
+      "CryptoSlate"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-02T05:30:01.000Z"
+  },
+  {
+    "id": "81fa8b9be7c69a91",
+    "slug": "swedish-researchers-build-an-ai-scientist-that-runs-its-own-experiments",
+    "title": "Swedish researchers build an AI scientist that runs its own experiments",
+    "tags": [
+      "Sweden"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-02T05:19:50.000Z"
+  },
+  {
+    "id": "cd508c651d5a1ec8",
+    "slug": "zano-exploiter-created-36-9m-unauthorized-zano-before-blockchain-rollback",
+    "title": "Zano exploiter created 36.9M unauthorized ZANO before blockchain rollback",
+    "tags": [
+      "ZANO"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-02T05:02:23.000Z"
+  },
+  {
+    "id": "fd1aa618c453af14",
+    "slug": "xrp-s-1-54-breakout-test-meets-ripple-s-1b-token-unlock-can-demand-absorb-supply",
+    "title": "XRP’s $1.54 breakout test meets Ripple’s 1B token unlock – Can demand absorb supply?",
+    "tags": [
+      "XRP",
+      "Ripple"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-02T05:00:50.000Z"
+  },
+  {
+    "id": "20af875b98c06935",
+    "title": "Invespy Launches Independent Broker Hub on Sheikh Zayed Road to Digitise UAE Real Estate Ecosystem",
+    "summary": "The Dubai proptech startup has launched a neutral physical space for brokers, developers and agencies, alongside a new digital platform for off-plan deal flow.\nThe post Invespy Launches Independent Broker Hub on Sheikh Zayed Road to Digitise UAE Real Estate Ecosystem appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/invespy-launches-independent-broker-hub-on-sheikh-zayed-road-to-digitise-uae-real-estate-ecosystem/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Invespy",
+      "Dubai",
+      "United Arab Emirates"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T05:00:25.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "Dubai proptech startup Invespy has launched an independent broker hub on Sheikh Zayed Road. The neutral physical space aims to connect brokers, developers, and agencies. Alongside the physical hub, Invespy introduced a new digital platform designed to digitise the UAE real estate ecosystem and streamline off-plan deal flow.",
+    "content_ta": "Dubai-ஐச் சேர்ந்த proptech startup ஆன Invespy, Sheikh Zayed Road-ൽ independent broker hub-ஐத் தொடங்கியுள்ளது. ப்ரோக்கர்கள், டெவலப்பர்கள் மற்றும் ஏஜென்மிகளை இணைக்கும் வகையில் இந்த நடுநிலையான இயற்பியல் மையம் உருவாக்கப்பட்டுள்ளது. இதனுடன், UAE ரியல் எஸ்டேட் சுற்றுச்சூழல் அமைப்பை டிஜிட்டல் மயமாக்க ஒரு புதிய டிஜிட்டல் தளத்தையும் Invespy அறிமுகப்படுத்தியுள்ளது.",
+    "slug": "invespy-launches-independent-broker-hub-on-sheikh-zayed-road-to-digitise-uae-real-estate-ecosystem"
+  },
+  {
+    "id": "648bb9b42c1f2c06",
+    "slug": "69-of-retail-polymarket-traders-finish-in-the-red-galaxy-finds",
+    "title": "69% of Retail Polymarket Traders Finish in the Red, Galaxy Finds",
+    "tags": [
+      "Galaxy",
+      "Polymarket",
+      "Stork"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-02T04:52:27.000Z"
+  },
+  {
+    "id": "b3c3581bf3be4c45",
+    "slug": "crypto-shorts-lose-110-million-in-a-10-minute-liquidation-burst",
+    "title": "Crypto shorts lose $110 million in a 10-minute liquidation burst",
+    "tags": [
+      "Crypto Briefing"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-02T04:40:14.000Z"
+  },
+  {
+    "id": "8f33ff708bd6b795",
+    "slug": "four-tech-giants-carried-the-s-p-500-through-q3-while-most-stocks-fell",
+    "title": "Four tech giants carried the S&P 500 through Q3 while most stocks fell",
+    "tags": [
+      "S&P 500"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-02T04:31:14.000Z"
+  },
+  {
+    "id": "5db25ea15731a518",
+    "slug": "frank-cappelleri-explains-3-reasons-bitcoin-is-primed-for-a-bigger-bullish-move",
+    "title": "Frank Cappelleri Explains 3 Reasons Bitcoin Is Primed for a Bigger Bullish Move",
+    "tags": [
+      "Frank Cappelleri",
+      "Bitcoin"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-02T04:31:00.000Z"
+  },
+  {
+    "id": "da74621ba6e9e2d4",
+    "slug": "kinetiq-wraps-kpoints-program-as-kntq-slides-more-than-20",
+    "title": "Kinetiq wraps kPoints program as KNTQ slides more than 20%",
+    "tags": [
+      "Kinetiq",
+      "KNTQ"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-02T04:24:34.000Z"
+  },
+  {
+    "id": "0a9212d8f03a9b71",
+    "slug": "core-lightning-warns-attackers-are-targeting-unpatched-nodes",
+    "title": "Core Lightning warns attackers are targeting unpatched nodes",
+    "tags": [
+      "Core Lightning"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-02T04:18:43.000Z"
+  },
+  {
+    "id": "17c4150d68511e38",
+    "slug": "china-puts-guardrails-on-ai-companions-over-social-stability-concerns",
+    "title": "China puts guardrails on AI companions over social stability concerns",
+    "tags": [
+      "China"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-02T04:12:53.000Z"
+  },
+  {
+    "id": "9a0788999d1e5b98",
+    "slug": "amazon-s-reported-8-billion-nvidia-chip-sale-lacks-confirmation-as-aws-keeps-buying",
+    "title": "Amazon’s reported $8 billion Nvidia chip sale lacks confirmation as AWS keeps buying",
+    "tags": [
+      "Amazon",
+      "Nvidia",
+      "AWS"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-02T04:07:52.000Z"
+  },
+  {
+    "id": "cbada51c2001a7a0",
+    "slug": "propamms-lower-solana-trade-costs-and-public-pool-returns-crash",
+    "title": "PropAMMs lower Solana trade costs, and public pool returns crash",
+    "tags": [
+      "Solana",
+      "USDC"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-02T03:50:54.000Z"
+  },
+  {
+    "id": "d3b1147509b849e7",
+    "slug": "south-korea-abolishes-central-prosecution-agency-creates-new-legal-entities",
+    "title": "South Korea abolishes central prosecution agency, creates new legal entities",
+    "tags": [
+      "South Korea"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-02T03:49:08.000Z"
+  },
+  {
+    "id": "2b26aba91ad1d8a1",
+    "slug": "fed-s-lisa-cook-warns-ai-spending-could-fuel-inflation-into-2027",
+    "title": "Fed’s Lisa Cook warns AI spending could fuel inflation into 2027",
+    "tags": [
+      "Lisa Cook",
+      "Federal Reserve"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-02T03:44:19.000Z"
+  },
+  {
+    "id": "1929aa1ce4d15d2a",
+    "slug": "ethereum-s-zkapi-brings-privacy-preserving-api-payments-to-mainnet",
+    "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
+    "tags": [
+      "Ethereum"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-02T03:34:25.000Z"
+  },
+  {
+    "id": "7c4515417e5ffa4c",
+    "slug": "us-officials-question-nvidia-s-oversight-as-restricted-chips-reach-china",
+    "title": "US officials question Nvidia’s oversight as restricted chips reach China",
+    "tags": [
+      "Nvidia",
+      "United States",
+      "China"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-02T03:34:09.000Z"
+  },
+  {
+    "id": "df95abe76dcbd0ae",
+    "slug": "aave-v3-exploit-drains-up-to-310k-after-safe-module-attack",
+    "title": "Aave v3 exploit drains up to $310K after Safe module attack",
+    "tags": [
+      "Aave",
+      "Safe"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-02T03:34:09.000Z"
+  },
+  {
+    "id": "895b6e2938b2a86e",
+    "slug": "what-are-mention-markets-and-why-is-the-cftc-targeting-them",
+    "title": "What Are Mention Markets and Why Is the CFTC Targeting Them?",
+    "tags": [
+      "CFTC"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-02T03:30:00.000Z"
+  },
+  {
+    "id": "e6467c90f7d9d766",
+    "title": "New Zealand’s National Party wants data centers to bring their own power",
+    "summary": "New Zealand's policy could drive renewable energy growth, attract significant AI investment, and stabilize electricity costs for consumers.\nThe post New Zealand’s National Party wants data centers to bring their own power appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/new-zealand-data-centers-own-power/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "New Zealand",
+      "National Party"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T03:29:07.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "New Zealand’s National Party has proposed a new requirement for data centers to bring their own power generation. This policy aims to encourage renewable energy growth, attract artificial intelligence investments, and protect everyday consumers by helping to stabilize local electricity costs amidst rising demand.",
+    "content_ta": "New Zealand நாட்டின் National Party, டேட்டா சென்டர்கள் தங்களது சொந்த மின் உற்பத்தியைக் கொண்டுவர வேண்டும் என்ற புதிய கோரிக்கையை முன்வைத்துள்ளது. இந்த கொள்கையானது புதுப்பிக்கத்தக்க எரிசக்தி வளர்ச்சியை ஊக்குவிக்கவும், AI முதலீடுகளை ஈர்க்கவும், மின்சாரச் செலவுகளை நிலைநிறுத்தவும் நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "new-zealand-s-national-party-wants-data-centers-to-bring-their-own-power"
+  },
+  {
+    "id": "c7f969b1d15bccad",
+    "title": "California man arrested over alleged $300 million Nvidia AI chip smuggling scheme to China",
+    "summary": "The arrest highlights escalating tensions in US-China tech relations, potentially tightening export controls and scrutiny on global tech supply chains.\nThe post California man arrested over alleged $300 million Nvidia AI chip smuggling scheme to China appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/california-man-arrested-nvidia-chip-smuggling-china/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Nvidia",
+      "United States",
+      "China"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T03:14:01.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "A California man has been arrested in connection with an alleged $300 million smuggling scheme involving Nvidia AI chips destined for China. This case underscores growing tensions surrounding US-China technology relations and highlights the increasing risk of tighter export controls and heightened scrutiny on international tech supply chains.",
+    "content_ta": "சீனாவிற்கு கடத்த முயன்றதாகக் கூறப்படும் சுமார் $300 மில்லியன் மதிப்புள்ள Nvidia AI சிப் வழக்கில் கலிபோர்னியாவைச் சேர்ந்த ஒருவர் கைது செய்யப்பட்டுள்ளார். இச்சம்பவம் US மற்றும் சீனா இடையேயான தொழில்நுட்ப உறவுகளில் நிலவும் பதற்றங்களை வெளிக்காட்டுவதுடன், சாவதேச தொழில்நுட்ப விநியோகச் சங்கிலிகள் மீதான ஏற்றுமதி கட்டுப்பாடுகள் மற்றும் கண்காணிப்பு மேலும் பலப்படுத்தப்படலாம் என்பதை சுட்டிக்காட்டுகிறது.",
+    "slug": "california-man-arrested-over-alleged-300-million-nvidia-ai-chip-smuggling-scheme-to-china"
+  },
+  {
+    "id": "a7c72c0fce713e11",
+    "slug": "softbank-investors-prioritize-ai-returns-over-borrowing-costs",
+    "title": "SoftBank investors prioritize AI returns over borrowing costs",
     "tags": [
       "SoftBank"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-02T02:28:44.000Z",
-    "fetchedAt": "2026-10-02T02:47:25.238Z",
-    "isDuplicateOf": null,
-    "content": "SoftBank investors are increasingly prioritizing artificial intelligence returns over rising borrowing costs. This strategic shift highlights a focus on long-term asset appreciation. Despite speculative credit ratings and economic pressures, stakeholders remain confident in SoftBank's ambitious AI-focused investment strategy.",
-    "content_ta": "SoftBank இன் முதலீட்டாளர்கள் அதிகரித்து வரும் கடன் வாங்கும் செலவுகளை விட செயற்கை நுண்ணறிவு (AI) வருமானத்திற்கு அதிக முன்னுரிமை அளித்து வருகின்றனர். இந்த வியூக மாற்றம் நீண்ட கால சொத்து மதிப்பு உயர்வில் கவனம் செலுத்துவதை எடுத்துக்காட்டுகிறது. ஊகக் கடன் மதிப்பீடுகள் மற்றும் பொருளாதார அழுத்தங்கள் இருந்தபோதிலும், SoftBank இன் லட்சிய AI-மைய முதலீட்டு மூலோபாயத்தின் மீது பங்குதாரர்கள் தொடர்ந்து நம்பிக்கை கொண்டுள்ளனர்.",
-    "slug": "softbank-investors-prioritize-ai-returns-over-borrowing-costs"
+    "hasContent": true,
+    "pubDate": "2026-10-02T02:28:44.000Z"
   },
   {
     "id": "6633b7b4849142ec",
+    "slug": "mantra-opens-governance-vote-on-community-pool-and-assistance-fund",
     "title": "MANTRA opens governance vote on Community Pool and Assistance Fund",
-    "summary": "The governance vote could strengthen MANTRA's ecosystem by linking token demand to real economic activity, potentially reducing dilution concerns.\nThe post MANTRA opens governance vote on Community Pool and Assistance Fund appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/mantra-governance-proposal-community-pool-assistance-fund/",
-    "source": "CryptoBriefing",
     "tags": [
       "MANTRA"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-02T02:22:15.000Z",
-    "fetchedAt": "2026-10-02T02:47:25.238Z",
-    "isDuplicateOf": null,
-    "content": "MANTRA has officially launched a governance vote concerning its Community Pool and Assistance Fund. This voting process aims to connect token demand directly with real economic activity within the MANTRA ecosystem. By addressing potential dilution concerns, the initiative seeks to strengthen the platform's overall economic foundation and governance structure as community members decide on the fund's future.",
-    "content_ta": "MANTRA தனது Community Pool மற்றும் Assistance Fund தொடர்பான ஆளுகை வாக்கெடுப்பை அதிகாரப்பூர்வமாகத் தொடங்கியுள்ளது. இந்த வாக்கெடுப்பு செயல்முறையானது MANTRA சுற்றுச்சூழல் அமைப்பிற்குள் டோக்கன் தேவையை உண்மையான பொருளாதார நடவடிக்கைகளுடன் நேரடியாக இணைப்பதை நோக்கமாகக் கொண்டுள்ளது. சாத்தியமான நீர்த்துப்போகும் கவலைகளை நிவர்த்தி செய்வதன் மூலம், நிதியின் எதிர்காலம் குறித்து சமூக உறுப்பினர்கள் முடிவு செய்யும்போது தளத்தின் ஒட்டுமொத்த பொருளாதார அடித்தளத்தை வலுப்படுத்த இந்த முயற்சி முயல்கிறது.",
-    "slug": "mantra-opens-governance-vote-on-community-pool-and-assistance-fund"
+    "hasContent": true,
+    "pubDate": "2026-10-02T02:22:15.000Z"
   },
   {
     "id": "7e1ce6c23fb174c3",
+    "slug": "microsoft-study-reveals-ai-struggles-with-long-term-decision-making-tasks",
     "title": "Microsoft study reveals AI struggles with long-term decision-making tasks",
-    "summary": "AI's current limitations in long-term decision-making could hinder its competitive edge, impacting market dynamics and future advancements.\nThe post Microsoft study reveals AI struggles with long-term decision-making tasks appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/microsoft-study-reveals-ai-struggles-with-long-term-decision-making-tasks/",
-    "source": "CryptoBriefing",
     "tags": [
       "Microsoft"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-02T02:18:32.000Z",
-    "fetchedAt": "2026-10-02T02:47:25.238Z",
-    "isDuplicateOf": null,
-    "content": "A recent Microsoft study reveals that artificial intelligence currently struggles with long-term decision-making tasks. This limitation could hinder AI's competitive edge in the market, potentially impacting future technological advancements and industry dynamics.",
-    "content_ta": "Microsoft நடத்திய ஆய்வில், செயற்கை நுண்ணறிவு (AI) நீண்ட கால முடிவெடுக்கும் பணிகளில் தற்போது சிரமப்படுவது தெரியவந்துள்ளது. இந்த வரம்பு சந்தையில் AI-யின் போட்டித்தன்மையை பாதிப்பதோடு, எதிர்கால தொழில்நுட்ப வளர்ச்சியையும் பாதிக்கக்கூடும்.",
-    "slug": "microsoft-study-reveals-ai-struggles-with-long-term-decision-making-tasks"
+    "hasContent": true,
+    "pubDate": "2026-10-02T02:18:32.000Z"
   },
   {
     "id": "b52418899580cf05",
+    "slug": "bonds-now-pay-their-best-real-returns-in-decades-are-stocks-still-worth-it",
     "title": "Bonds Now Pay Their Best Real Returns in Decades. Are Stocks Still Worth It?",
-    "summary": "Jeremy Siegel says bonds now offer 3.35% real returns, narrowing the edge stocks hold. See why big tech is holding up.\nThe post Bonds Now Pay Their Best Real Returns in Decades. Are Stocks Still Worth It? appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/bonds-real-returns-stocks-still-worth/",
-    "source": "BeInCrypto",
     "tags": [
       "Jeremy Siegel"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-10-02T02:11:57.000Z",
-    "fetchedAt": "2026-10-02T02:47:25.238Z",
-    "isDuplicateOf": null,
-    "content": "Bonds are currently offering some of their best real returns in decades, according to reports. With Jeremy Siegel highlighting significant yields near 3.35 percent, the traditional advantage held by stocks is narrowing. Investors are now re-evaluating whether equities remain worth the risk compared to fixed-income assets, even as major technology companies continue to show resilience in the market.",
-    "content_ta": "பンドுகள் (bonds) பல தசாப்தங்களில் இல்லாத அளவுக்கு சிறந்த உண்மையான லாபத்தை வழங்கி வருவதாக தகவல்கள் தெரிவிக்கின்றன. Jeremy Siegel குறிப்பிட்டது போல், கணிசமான லாபம் பங்குகள் வைத்துள்ள முந்தைய நிலையை சுருக்கியுள்ளது. நிலையான வருமானம் தரும் சொத்துகளுடன் ஒப்பிடும் போது பங்குகள் இன்னும் ஆபத்துக்கு தகுதியானவையா என்று முதலீட்டாளர்கள் தற்போது மறுபரிசீலனை செய்து வருகின்றனர்.",
-    "slug": "bonds-now-pay-their-best-real-returns-in-decades-are-stocks-still-worth-it"
+    "hasContent": true,
+    "pubDate": "2026-10-02T02:11:57.000Z"
   },
   {
     "id": "002d79c41f0bb73a",
+    "slug": "bitget-restores-300m-fund-after-absorbing-388m-security-breach",
     "title": "Bitget restores $300M fund after absorbing $388M security breach",
-    "summary": "The restored backstop is separate from customer reserves, and claims remain subject to Bitget's assessment as withdrawals reopen in phases.\nThe post Bitget restores $300M fund after absorbing $388M security breach appeared first on CryptoSlate.",
-    "hasSummary": true,
-    "link": "https://cryptoslate.com/bitget-restores-300m-fund-after-absorbing-388m-security-breach/",
-    "source": "CryptoSlate",
     "tags": [
       "Bitget"
     ],
+    "source": "CryptoSlate",
     "origin": "rss",
-    "pubDate": "2026-10-02T02:10:34.000Z",
-    "fetchedAt": "2026-10-02T02:47:25.238Z",
-    "isDuplicateOf": null,
-    "content": "Crypto exchange Bitget has successfully restored its protection fund to $300 million following a massive $388 million security breach. The platform announced that this backstop fund operates independently from regular customer reserves. As the exchange resumes its withdrawal services in a phased approach, all user claims will be carefully reviewed and processed based on the company's internal security assessments.",
-    "content_ta": "Crypto exchange Bitget தனது பாதுகாப்புக் நிதியை வெற்றிகரமாக $300 மில்லியன் அளவுக்கு மீட்டுள்ளதாகவும், அதைத் தொடர்ந்து $388 மில்லியன் அளவுக்கு பாதுகாப்பு மீறல் ஏற்பட்டுள்ளதாகவும் அறிவித்துள்ளது. இந்த பாதுகாப்பு நிதி வாடிக்கையாளர்களின் வழக்கமான சேமிப்பிலிருந்து தனித்து இயங்கும் என்று நிறுவனம் தெரிவித்துள்ளது. பிளாட்ஃபார்ம் தனது வித்ட்ராவல் சேவைகளை படிப்படியாக மீண்டும் தொடங்குவதால், பயனர்களின் கோரிக்கைகள் அனைத்தும் நிறுவனத்தின் மதிப்பீட்டின்படி பரிசீலிக்கப்பட்டு செயலாக்கப்படும்.",
-    "slug": "bitget-restores-300m-fund-after-absorbing-388m-security-breach"
+    "hasContent": true,
+    "pubDate": "2026-10-02T02:10:34.000Z"
   },
   {
     "id": "b7440f3e013b74a3",
+    "slug": "nike-earnings-explained-why-a-profit-beat-cannot-hide-shrinking-sales",
     "title": "Nike Earnings Explained: Why a Profit Beat Cannot Hide Shrinking Sales",
-    "summary": "Nike earnings beat estimates, but weak China sales and a falling revenue outlook test Elliott Hill's turnaround.\nThe post Nike Earnings Explained: Why a Profit Beat Cannot Hide Shrinking Sales appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/nike-earnings-explained-sales-profit-beat/",
-    "source": "BeInCrypto",
     "tags": [
       "Nike",
       "China",
       "Elliott Hill"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-10-02T02:09:20.000Z",
-    "fetchedAt": "2026-10-02T02:47:25.238Z",
-    "isDuplicateOf": null,
-    "content": "Nike reported an earnings beat that topped estimates, but falling overall revenue and weak sales in China highlight ongoing business challenges. The results test the turnaround strategy of CEO Elliott Hill as the athletic brand works to revive growth and address shrinking sales.",
-    "content_ta": "Nike நிறுவனத்தின் லாப மதிப்பீடுகள் எதிர்பார்த்ததை விட அதிகமாக இருந்தபோதிலும், ஒட்டுமொத்த வருவாய் சரிவு மற்றும் சீனாவில் குறைந்த விற்பனை போன்ற சவால்கள் தொடர்கின்றன. CEO Elliott Hill-ன் தலைமையில் புதிய திருப்பத்தை ஏற்படுத்த முயன்றுவரும் இந்நிறுவனத்திற்கு இந்த முடிவுகள் சோதனையாக அமைந்துள்ளன.",
-    "slug": "nike-earnings-explained-why-a-profit-beat-cannot-hide-shrinking-sales"
+    "hasContent": true,
+    "pubDate": "2026-10-02T02:09:20.000Z"
   },
   {
     "id": "81075dec470c192a",
+    "slug": "near-intents-general-manager-gives-attacker-48-hours-to-return-funds",
     "title": "NEAR Intents general manager gives attacker 48 hours to return funds",
-    "summary": "The ultimatum highlights the increasing pressure on DeFi protocols to enhance security measures and the potential impact on investor confidence.\nThe post NEAR Intents general manager gives attacker 48 hours to return funds appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/near-intents-attacker-48-hours-return-funds/",
-    "source": "CryptoBriefing",
     "tags": [
       "NEAR Intents"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-02T02:07:17.000Z",
-    "fetchedAt": "2026-10-02T02:47:25.238Z",
-    "isDuplicateOf": null,
-    "content": "The general manager of NEAR Intents has issued a stern 48-hour ultimatum to an attacker to return stolen funds. This incident highlights the growing urgency for decentralized finance protocols to strengthen their cybersecurity measures and protect investor confidence across the industry.",
-    "content_ta": "NEAR Intents-ன் ஜெனரல் மேனேஜர், திருடப்பட்ட நிதியைத் திருப்பித் தருமாறு ஹேக்கருக்கு 48 மணி நேர கெடு விதித்துள்ளார். DeFi நெறிமுறைகள் தங்களின் பாதுகாப்பு நடவடிக்கைகளை வலுப்படுத்த வேண்டிய அவசியத்தையும், முதலீட்டாளர்களின் நம்பிக்கையைப் பாதுகாக்க வேண்டிய தேவையையும் இந்தச் சம்பவம் வெளிச்சம் போட்டுக் காட்டுகிறது.",
-    "slug": "near-intents-general-manager-gives-attacker-48-hours-to-return-funds"
+    "hasContent": true,
+    "pubDate": "2026-10-02T02:07:17.000Z"
   },
   {
     "id": "8d66feec89680933",
+    "slug": "near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum",
     "title": "NEAR Intents says its identified the hacker, gives 48-hour ultimatum",
-    "summary": "“We have identified you, sir,” NEAR Intents general manager Alex Shevchenko said on Friday after the protocol was hacked for $3.8 million.",
-    "hasSummary": true,
-    "link": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph",
     "tags": [
       "NEAR Intents",
       "Alex Shevchenko"
     ],
+    "source": "Cointelegraph",
     "origin": "rss",
-    "pubDate": "2026-10-02T02:02:13.000Z",
-    "fetchedAt": "2026-10-02T02:47:25.238Z",
-    "isDuplicateOf": null,
-    "content": "NEAR Intents has issued a 48-hour ultimatum to a hacker after suffering a $3.8 million exploit. General manager Alex Shevchenko announced on Friday that the protocol's team has successfully identified the attacker. The organization is giving the perpetrator a strict timeframe to return the stolen funds before potential further actions are taken.",
-    "content_ta": "$3.8 மில்லியன் அளவுக்கு ஹேக் செய்யப்பட்டதைத் தொடர்ந்து, NEAR Intents நிறுவனம் ஹேக்கருக்கு 48 மணி நேர கெடு விதித்துள்ளது. ஹேக்கரை தாங்கள் அடையாளம் கண்டுவிட்டதாக வெள்ளிக்கிழதியன்று பொது மேலாளர் Alex Shevchenko அறிவித்தார். திருடப்பட்ட நிதியைத் திருப்பித் தருமாறு அந்த நபர் கடுமையான காலக்கெடுவுக்கு உட்படுத்தப்பட்டுள்ளார்.",
-    "slug": "near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum"
+    "hasContent": true,
+    "pubDate": "2026-10-02T02:02:13.000Z"
   },
   {
     "id": "992231ae4bd7e4f0",
+    "slug": "microsoft-confirms-meta-won-t-buy-new-chips-from-it-to-scale-muse",
     "title": "Microsoft confirms Meta won’t buy new chips from it to scale Muse",
-    "summary": "Meta's multi-vendor chip strategy highlights shifting dynamics in AI infrastructure, impacting semiconductor market valuations and competition.\nThe post Microsoft confirms Meta won’t buy new chips from it to scale Muse appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/meta-wont-buy-microsoft-chips-muse/",
-    "source": "CryptoBriefing",
     "tags": [
       "Microsoft",
       "Meta"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-02T01:59:00.000Z",
-    "fetchedAt": "2026-10-02T02:47:25.238Z",
-    "isDuplicateOf": null,
-    "content": "Microsoft has confirmed that Meta will not purchase new chips from it to scale the Muse project. This development highlights Meta's shifting strategy toward using a multi-vendor approach for its AI infrastructure, which continues to impact competition and market dynamics within the broader semiconductor sector.",
-    "content_ta": "Muse ப்ராஜக்ட்டை விரிவுபடுத்துவதற்காக Microsoft நிறுவனத்திடமிருந்து புதிய சிப்களை வாங்கப்போவதில்லை என்பதை Meta உறுதிப்படுத்தியுள்ளது. Meta நிறுவனத்தின் இந்த முடிவு, அதன் AI உள்கட்டமைப்புக்கான பல்வகை சில்லு (multi-vendor) உத்தியைக் காட்டுகிறது. இது செமிகண்டக்டர் சந்தையில் போட்டியையும் சூழ்நிலையையும் பாதிக்கிறது.",
-    "slug": "microsoft-confirms-meta-won-t-buy-new-chips-from-it-to-scale-muse"
+    "hasContent": true,
+    "pubDate": "2026-10-02T01:59:00.000Z"
   },
   {
     "id": "f2ef4d3f9d8981d3",
@@ -493,346 +799,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-01T22:40:07.000Z"
-  },
-  {
-    "id": "2340219c79c12ae7",
-    "slug": "cars24-turns-test-drive-chatter-into-a-35-sales-lift",
-    "title": "Cars24 Turns Test Drive Chatter Into a 35% Sales Lift",
-    "tags": [
-      "Cars24",
-      "ElevenLabs"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T22:35:59.000Z"
-  },
-  {
-    "id": "8b632c46f8d76b34",
-    "slug": "microsoft-disavows-clippy-themed-token-tied-to-its-msft-ticker",
-    "title": "Microsoft disavows Clippy-themed token tied to its MSFT ticker",
-    "tags": [
-      "Microsoft",
-      "MSFT",
-      "Clippy"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T22:34:41.000Z"
-  },
-  {
-    "id": "655f4dff39de74fa",
-    "slug": "hyperlayer-s-rob-rooney-on-why-banks-and-credit-unions-are-poised-to-win-in-the-ai-era",
-    "title": "Hyperlayer’s Rob Rooney on Why Banks and Credit Unions Are Poised to Win in the AI Era",
-    "tags": [
-      "Hyperlayer",
-      "Rob Rooney",
-      "Finovate"
-    ],
-    "source": "Finovate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T22:17:15.000Z"
-  },
-  {
-    "id": "46d9c59397391b52",
-    "slug": "brazil-s-lula-and-bolsonaro-tied-in-early-polls-ahead-of-2026-election",
-    "title": "Brazil’s Lula and Bolsonaro tied in early polls ahead of 2026 election",
-    "tags": [
-      "Brazil",
-      "Lula",
-      "Bolsonaro"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T22:07:22.000Z"
-  },
-  {
-    "id": "732a908b26b4080b",
-    "slug": "tennessee-banker-faces-felony-charges-after-allegedly-draining-over-139-000-from-elderly-customers",
-    "title": "Tennessee Banker Faces Felony Charges After Allegedly Draining Over $139,000 From Elderly Customers",
-    "tags": [
-      "Bank of America",
-      "Nashville",
-      "Metropolitan Nashville Police Department"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T22:05:17.000Z"
-  },
-  {
-    "id": "1978c63df5cbba1b",
-    "slug": "grok-imagine-1-5-lite-lands-on-venice-at-0-04-per-clip",
-    "title": "Grok Imagine 1.5 Lite lands on Venice at $0.04 per clip",
-    "tags": [
-      "Grok Imagine",
-      "Venice"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T22:04:35.000Z"
-  },
-  {
-    "id": "f8bc9637880b9023",
-    "slug": "kevin-mandia-s-armadin-raises-255-5m-for-ai-agent-swarms-that-attack-your-network-first",
-    "title": "Kevin Mandia’s Armadin raises $255.5M for AI agent swarms that attack your network first",
-    "tags": [
-      "Armadin",
-      "Kevin Mandia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T22:03:55.000Z"
-  },
-  {
-    "id": "7666da333c926a40",
-    "slug": "cloudflare-releases-clef-and-clef-flash-decision-models-on-workers-ai",
-    "title": "Cloudflare releases Clef and Clef-flash decision models on Workers AI",
-    "tags": [
-      "Cloudflare",
-      "Workers AI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T21:56:51.000Z"
-  },
-  {
-    "id": "7563e6fb19cac952",
-    "slug": "nyc-launches-nation-s-first-municipal-click-to-cancel-rule",
-    "title": "NYC Launches Nation’s First Municipal Click-to-Cancel Rule",
-    "tags": [
-      "New York City",
-      "Office of the Mayor"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T21:54:41.000Z"
-  },
-  {
-    "id": "72f5f23104ed2a3a",
-    "slug": "china-and-russia-just-tightened-fuel-supplies-will-bitcoin-pay-in-october",
-    "title": "China and Russia Just Tightened Fuel Supplies: Will Bitcoin Pay in October?",
-    "tags": [
-      "China",
-      "Russia",
-      "Bitcoin",
-      "Federal Reserve"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T21:54:09.000Z"
-  },
-  {
-    "id": "4c14475d52864228",
-    "slug": "chronoscale-lands-new-ai-infrastructure-deals-sets-1-billion-revenue-target-for-q3-2027",
-    "title": "ChronoScale lands new AI infrastructure deals, sets $1 billion revenue target for Q3 2027",
-    "tags": [
-      "ChronoScale"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T21:47:08.000Z"
-  },
-  {
-    "id": "8c8b9d8d586cfcdf",
-    "slug": "delta-electronics-teams-up-with-nvidia-on-level-4-autonomous-driving-systems",
-    "title": "Delta Electronics teams up with Nvidia on Level 4 autonomous driving systems",
-    "tags": [
-      "Delta Electronics",
-      "Nvidia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T21:45:42.000Z"
-  },
-  {
-    "id": "9215c8119c1d5551",
-    "slug": "new-jersey-customer-spots-1-70-charge-just-to-remove-egg-from-a-sandwich",
-    "title": "New Jersey Customer Spots $1.70 Charge Just to Remove Egg From a Sandwich",
-    "tags": [
-      "New Jersey",
-      "Newark Airport"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T21:44:47.000Z"
-  },
-  {
-    "id": "8dab3006c0b6315f",
-    "slug": "epoch-ai-data-shows-chatgpt-users-are-chatting-more-often-and-at-greater-length",
-    "title": "Epoch AI data shows ChatGPT users are chatting more often, and at greater length",
-    "tags": [
-      "Epoch AI",
-      "ChatGPT"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T21:38:27.000Z"
-  },
-  {
-    "id": "00e0a179a57fc102",
-    "slug": "europe-s-payee-checks-set-the-pace-as-us-plans-take-shape",
-    "title": "Europe’s Payee Checks Set the Pace as US Plans Take Shape",
-    "tags": [
-      "Europe",
-      "United States"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T21:37:16.000Z"
-  },
-  {
-    "id": "80dd0aea8e4c6c46",
-    "slug": "zcash-drops-21-from-recent-high-here-s-why-the-rally-may-not-be-over",
-    "title": "Zcash Drops 21% From Recent High—Here’s Why the Rally May Not Be Over",
-    "tags": [
-      "Zcash",
-      "North Korea"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T21:31:03.000Z"
-  },
-  {
-    "id": "adbe3de9279d81b0",
-    "slug": "wall-street-arrived-in-near-just-as-a-4-billion-a-month-app-got-hacked",
-    "title": "Wall Street arrived in NEAR just as a $4 billion-a-month app got hacked",
-    "tags": [
-      "NEAR",
-      "Bitwise",
-      "Wall Street",
-      "United States"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T21:30:20.000Z"
-  },
-  {
-    "id": "0e775552efba795d",
-    "slug": "grok-reportedly-advised-trump-before-the-operation-to-capture-maduro",
-    "title": "Grok reportedly advised Trump before the operation to capture Maduro",
-    "tags": [
-      "Grok",
-      "Donald Trump"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T21:12:28.000Z"
-  },
-  {
-    "id": "6ac4e56096a75da2",
-    "slug": "us-cyber-director-public-private-ai-collaboration-crucial-for-competition-with-china",
-    "title": "US cyber director: Public-private AI collaboration crucial for competition with China",
-    "tags": [
-      "United States",
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T21:07:44.000Z"
-  },
-  {
-    "id": "2095776892afe3f0",
-    "slug": "sec-proposes-framework-allowing-investment-advisers-funds-to-self-custody-crypto",
-    "title": "SEC proposes framework allowing investment advisers, funds to self-custody crypto",
-    "tags": [
-      "SEC"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T21:00:53.000Z"
-  },
-  {
-    "id": "f9f4eb96a7b8fd90",
-    "slug": "jasmy-gained-15-but-smart-money-isn-t-buying-it",
-    "title": "JASMY gained 15% – But Smart Money isn’t buying it",
-    "tags": [
-      "JASMY"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T21:00:53.000Z"
-  },
-  {
-    "id": "34a8699bc52ec179",
-    "slug": "ro-khanna-asks-top-ai-labs-to-disclose-chinese-attempts-to-steal-model-weights",
-    "title": "Ro Khanna asks top AI labs to disclose Chinese attempts to steal model weights",
-    "tags": [
-      "Ro Khanna",
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T20:57:17.000Z"
-  },
-  {
-    "id": "b6f1b4853651de45",
-    "slug": "porsche-shuts-down-its-web3-project-but-911-nft-holders-keep-their-tokens",
-    "title": "Porsche shuts down its Web3 project, but 911 NFT holders keep their tokens",
-    "tags": [
-      "Porsche"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T20:56:18.000Z"
-  },
-  {
-    "id": "2d8a8329b21b4b75",
-    "slug": "colosseum-upgrades-ai-copilot-to-sharpen-solana-project-development",
-    "title": "Colosseum upgrades AI Copilot to sharpen Solana project development",
-    "tags": [
-      "Colosseum",
-      "Solana"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T20:41:18.000Z"
-  },
-  {
-    "id": "5fff04836841034c",
-    "slug": "reddit-is-killing-rss-feeds-and-public-api-access-to-fight-ai-scrapers",
-    "title": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
-    "tags": [
-      "Reddit"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T20:31:03.000Z"
-  },
-  {
-    "id": "a2e652f02cdc891d",
-    "slug": "equitrust-life-partners-with-sureify-to-streamline-data-exchange",
-    "title": "EquiTrust Life Partners with Sureify to Streamline Data Exchange",
-    "tags": [
-      "EquiTrust Life Insurance Company",
-      "Sureify"
-    ],
-    "source": "Finovate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-01T20:26:13.000Z"
   }
 ]

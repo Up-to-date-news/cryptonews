@@ -452,5 +452,497 @@
     "content": "Microsoft has confirmed that Meta will not purchase new chips from it to scale the Muse project. This development highlights Meta's shifting strategy toward using a multi-vendor approach for its AI infrastructure, which continues to impact competition and market dynamics within the broader semiconductor sector.",
     "content_ta": "Muse ப்ராஜக்ட்டை விரிவுபடுத்துவதற்காக Microsoft நிறுவனத்திடமிருந்து புதிய சிப்களை வாங்கப்போவதில்லை என்பதை Meta உறுதிப்படுத்தியுள்ளது. Meta நிறுவனத்தின் இந்த முடிவு, அதன் AI உள்கட்டமைப்புக்கான பல்வகை சில்லு (multi-vendor) உத்தியைக் காட்டுகிறது. இது செமிகண்டக்டர் சந்தையில் போட்டியையும் சூழ்நிலையையும் பாதிக்கிறது.",
     "slug": "microsoft-confirms-meta-won-t-buy-new-chips-from-it-to-scale-muse"
+  },
+  {
+    "id": "88475a6b7af07452",
+    "title": "South Korea crypto exchange profits fall 78% in H1 amid trading slump",
+    "summary": "South Korean crypto exchange operating profits fell 78% in the first half of 2026 as trading volumes, market capitalization and customer deposits declined.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "South Korea"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T05:53:27.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "South Korean cryptocurrency exchange operating profits plummeted by 78% during the first half of the year. This sharp financial decline was driven by a significant market slump, which saw a reduction in overall trading volumes, shrinking market capitalization, and a decrease in customer deposits across the region's digital asset platforms.",
+    "content_ta": "இந்த ஆண்டின் முதல் பாதியில் சவுத் கொரியா நாட்டின் கிரிப்டோ எக்ஸ்சேஞ்ச் செயல்பாட்டு லாபம் 78 சதவீதம் சரிந்துள்ளது. ஒட்டுமொத்த வர்த்தக அளவு குறைந்தது, மார்க்கெட் கேப்பிடலைசேஷன் சரிவு மற்றும் வாடிக்கையாளர் டெபாசிட்டுகள் குறைந்த காரணத்தினால் இந்த நிதி நெருக்கடி ஏற்பட்டுள்ளது.",
+    "slug": "south-korea-crypto-exchange-profits-fall-78-in-h1-amid-trading-slump"
+  },
+  {
+    "id": "cd508c651d5a1ec8",
+    "title": "Zano exploiter created 36.9M unauthorized ZANO before blockchain rollback",
+    "summary": "The unauthorized coins were indistinguishable from legitimate ZANO, leaving the team unable to remove them without rolling back the blockchain.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "ZANO"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T05:02:23.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "An exploiter created 36.9 million unauthorized ZANO coins prior to a blockchain rollback. Because these illicitly minted coins were identical to legitimate ZANO tokens, the development team was unable to selectively remove them. This forced the project team to execute a blockchain rollback in order to address the security incident and protect the network.",
+    "content_ta": "பிளாக்செயின் ரோல்பேக் செய்வதற்கு முன்பு ஒரு ஹேக்கர் 36.9 மில்லியன் அங்கீகரிக்கப்படாத ZANO காயின்களை உருவாக்கியுள்ளார். இந்தத் திருட்டுத்தனமான காயின்கள் உண்மையான ZANO டோக்கன்களிலிருந்து வேறுபடுத்திப் பார்க்க முடியாதவாறு இருந்ததால், டெவலப்மென்ட் அணியால் அவற்றை மட்டும் தனியாக நீக்க முடியவில்லை. இதனால் நெட்வொர்க்கைப் பாதுகாக்க பிளாக்செயின் ரோல்பேக் செய்யும் நடவடிக்கையை அணி மேற்கொள்ள வேண்டியதாயிற்று.",
+    "slug": "zano-exploiter-created-36-9m-unauthorized-zano-before-blockchain-rollback"
+  },
+  {
+    "id": "0a9212d8f03a9b71",
+    "title": "Core Lightning warns attackers are targeting unpatched nodes",
+    "summary": "Node operators running version 26.06.7 or earlier were told to upgrade immediately.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Core Lightning"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T04:18:43.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "Core Lightning has issued an urgent warning regarding active attacks targeting unpatched nodes on the network. Node operators running version 26.06.7 or earlier are being strongly advised to upgrade their software immediately to protect against potential security exploits. Keeping nodes updated is critical for maintaining network security and preventing unauthorized access.",
+    "content_ta": "பாதுச்சோதனை செய்யப்படாத (unpatched) நோட்களைக் குறிவைத்துத் தாக்குதல்கள் நடத்தப்படுவதாக Core Lightning அவசர எச்சரிக்கை விடுத்துள்ளது. பதிப்பு 26.06.7 அல்லது அதற்கு முந்தைய பதிப்புகளை இயக்கும் நோட் இயக்குநர்கள் உடனடியாக தங்கள் மென்பொருளை மேம்படுத்துமாறு கடுமையாக அறிவுறுத்தப்பட்டுள்ளனர். பாதுகாப்பு அபாயங்களிலிருந்து தற்காத்துக்கொள்ள மென்பொருளைப் புதுப்பிப்பது அவசியமாகும்.",
+    "slug": "core-lightning-warns-attackers-are-targeting-unpatched-nodes"
+  },
+  {
+    "id": "1929aa1ce4d15d2a",
+    "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
+    "summary": "Ethereum’s zkAPI is now live on mainnet, turning an earlier zero-knowledge API payment proposal into a working implementation for private, prepaid access.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T03:34:25.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "Ethereum's zkAPI is now live on the mainnet, successfully transitioning an initial zero-knowledge API payment proposal into a fully functional implementation. This launch enables private and prepaid access to application programming interfaces, enhancing transaction privacy and utility directly on the Ethereum network.",
+    "content_ta": "Ethereum-ன் zkAPI இப்போது mainnet-ல் நேரலைக்கு வந்துள்ளது, இது முந்தைய zero-knowledge API கட்டண முன்மொழிவை தனிப்பட்ட மற்றும் முன்கூட்டியே செலுத்தப்பட்ட அணுகலுக்கான முழுமையான செயல்பாட்டுimplementation-ஆக வெற்றிகரமாக மாற்றியுள்ளது.",
+    "slug": "ethereum-s-zkapi-brings-privacy-preserving-api-payments-to-mainnet"
+  },
+  {
+    "id": "80061db06a85a5a8",
+    "title": "Electrum patches Lightning flaw, but old Bitcoin backups break",
+    "summary": "September’s security fix repairs exports, but older backups for anchor channels with non-deterministic Lightning keys still need replacing.\nThe post Electrum patches Lightning flaw, but old Bitcoin backups break appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/electrum-patches-lightning-flaw-but-old-bitcoin-backups-break/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Electrum",
+      "Lightning Network",
+      "Bitcoin",
+      "CryptoSlate"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T05:30:01.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "Electrum has released a security patch to address a flaw affecting the Lightning Network. While the update successfully repairs exports, users with older backups for anchor channels that use non-deterministic Lightning keys must replace them to ensure proper functionality and security. The post Electrum patches Lightning flaw, but old Bitcoin backups break was first published on CryptoSlate.",
+    "content_ta": "Electrum நிறுவனம் Lightning நெட்வொர்க்கில் இருந்த பாதுகாப்பு குறைபாட்டை சரிசெய்ய ஒரு புதிய பேட்சை வெளியிட்டுள்ளது. இந்த அப்டேட் ஏற்றுமதிகளைச் சரிசெய்தாலும், நான்-டிடர்மினிஸ்டிக் Lightning கீகளைப் பயன்படுத்தும் ஆங்கர் சேனல்களின் பழைய பேக்கப்களை பயனர்கள் மாற்ற வேண்டியுள்ளது. இது குறித்த தகவல் CryptoSlate-ல் வெளியிடப்பட்டுள்ளது.",
+    "slug": "electrum-patches-lightning-flaw-but-old-bitcoin-backups-break"
+  },
+  {
+    "id": "cbada51c2001a7a0",
+    "title": "PropAMMs lower Solana trade costs, and public pool returns crash",
+    "summary": "A September preprint finds cheaper quiet-market SOL/USDC execution at professional pools, while passive depositor returns require separate accounting.\nThe post PropAMMs lower Solana trade costs, and public pool returns crash appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/propamms-lower-solana-trade-costs-and-public-pool-returns-crash/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Solana",
+      "USDC"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T03:50:54.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "A recent September preprint reveals that professional automated market makers, or PropAMMs, significantly reduce SOL/USDC trade execution costs in quiet markets on Solana. However, the study also highlights that returns for public liquidity pool depositors experience a sharp crash, indicating that passive depositors face distinct financial outcomes compared to professional operators.",
+    "content_ta": "செப்டம்பர் மாதத்தில் வெளியிடப்பட்ட ஒரு புதிய ஆய்வறிக்கை, Solana-வில் உள்ள professional AMM-கள் (PropAMMs) மூலம் quiet market-களில் SOL/USDC வர்த்தகக் கட்டிணங்கள் கணிசமாகக் குறைக்கப்படுவதாகத் தெரிவிக்கிறது. அதே நேரத்தில், public liquidity pool-களில் முதலீடு செய்பவர்களின் வருமானம் கடுமையாக வீழ்ச்சியடைவதாகவும் இந்த ஆய்வு சுட்டிக்காட்டுகிறது.",
+    "slug": "propamms-lower-solana-trade-costs-and-public-pool-returns-crash"
+  },
+  {
+    "id": "fd1aa618c453af14",
+    "title": "XRP’s $1.54 breakout test meets Ripple’s 1B token unlock – Can demand absorb supply?",
+    "summary": "XRP’s next move could hinge on whether institutional demand can absorb rising supply pressure.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/xrps-1-54-breakout-test-meets-ripples-1b-token-unlock-can-demand-absorb-supply/",
+    "source": "AMBCrypto",
+    "tags": [
+      "XRP",
+      "Ripple"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T05:00:50.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "XRP is facing a crucial market test as its price approaches a potential breakout level around $1.54. At the same time, Ripple has introduced significant supply pressure by unlocking one billion tokens. Market analysts are closely watching to see if incoming institutional demand will be strong enough to absorb this massive influx of new supply and sustain the upward price momentum.",
+    "content_ta": "XRP-ன் விலை சுமார் $1.54 என்ற பிரேக்ப அவுட் அளவை நெருங்குவதால், அது ஒரு முக்கியமான சந்தைச் சோதனையை எதிர்கொள்கிறது. அதே நேரத்தில், Ripple நிறுவனம் ஒரு பில்லியன் டோக்கன்களை விடுவிப்பதன் மூலம் கணிசமான சப்ளை அழுத்தத்தை உருவாக்கியுள்ளது. இந்த புதிய சப்ளையை ஈடுகட்டும் அளவுக்கு நிறுவன முதலீட்டாளர்களின் தேவை வலுவாக இருக்குமா மற்றும் விலை உயர்வு தொடருமா என்பதை சந்தை ஆய்வாளர்கள் கவனித்து வருகின்றனர்.",
+    "slug": "xrp-s-1-54-breakout-test-meets-ripple-s-1b-token-unlock-can-demand-absorb-supply"
+  },
+  {
+    "id": "27afaf90c9035260",
+    "title": "Your Stocks Could Feel the Fed's Rate Hike Next, Jim Cramer Warns",
+    "summary": "Jim Cramer said the impact of higher interest rates is his big fear for the stock market right now. The Mad Money host raised the concern about 2 weeks after the Federal Reserve resumed hiking. His warning came during a Thursday review of the third quarter, when software stocks rebounded and chip names cooled. He\nThe post Your Stocks Could Feel the Fed's Rate Hike Next, Jim Cramer Warns appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/jim-cramer-interest-rates-stock-market-fear/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Jim Cramer",
+      "Federal Reserve"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T05:45:45.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "Jim Cramer warns that the stock market could soon feel the impact of the Federal Reserve's recent interest rate hikes. Speaking during a market review, the Mad Money host highlighted higher rates as his biggest current concern for equities. This warning follows the Federal Reserve's resumption of hiking rates, raising fears among investors about potential negative effects on various stock sectors.",
+    "content_ta": "Federal Reserve-யின் வட்டி விகித உயர்வு காரணமாக பங்குச் சந்தை விரைவில் தாக்கத்தை சந்திக்கக்கூடும் என்று Jim Cramer எச்சரித்துள்ளார். சந்தை ஆய்வின் போது பேசிய அவர், உயர்ந்த வட்டி விகிதங்களே தற்போதைய பங்குகளுக்கு தனது மிகப்பெரிய கவலை என்று குறிப்பிட்டார். Federal Reserve வட்டி உயர்வை மீண்டும் தொடங்கிய சில வாரங்களுக்குப் பிறகு இந்த எச்சரிக்கை வந்துள்ளது.",
+    "slug": "your-stocks-could-feel-the-fed-s-rate-hike-next-jim-cramer-warns"
+  },
+  {
+    "id": "648bb9b42c1f2c06",
+    "title": "69% of Retail Polymarket Traders Finish in the Red, Galaxy Finds",
+    "summary": "Galaxy Research found that 69.2% of retail Polymarket accounts finished below break-even in a study of 2.9 million wallets. Together, those traders sit $338.9 million in the red. The analysis draws on Polymarket’s full on-chain settlement record, with data curated by oracle network Stork. It covers only the international platform, which runs separately from the\nThe post 69% of Retail Polymarket Traders Finish in the Red, Galaxy Finds appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/polymarket-retail-traders-losses-galaxy-study/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Galaxy",
+      "Polymarket",
+      "Stork"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T04:52:27.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "A recent study by Galaxy Research revealed that 69.2% of retail Polymarket traders finished below break-even. Analyzing 2.9 million wallets, researchers found that these traders collectively sit $338.9 million in the red. The findings are based on Polymarket's complete on-chain settlement record, utilizing data curated by Stork and focusing strictly on the platform's international operations.",
+    "content_ta": "Galaxy Research நடத்திய புதிய ஆய்வில், 69.2% ரீடெய்ல் Polymarket வர்த்தகர்கள் நஷ்டத்தை சந்தித்துள்ளதாக தெரியவந்துள்ளது. 2.9 மில்லியன் வாலட்டுகளை ஆய்வு செய்த ஆராய்ச்சியாளர்கள், இந்த வர்த்தகர்கள் கூட்டாக $338.9 மில்லியன் இழப்பில் உள்ளதாக கண்டறிந்துள்ளனர். Stork வழங்கிய தரவுகளைக் கொண்டு, Polymarket இன் ஆன்-சைன் பதிவுகளின் அடிப்படையில் இந்த ஆய்வு நடத்தப்பட்டுள்ளது.",
+    "slug": "69-of-retail-polymarket-traders-finish-in-the-red-galaxy-finds"
+  },
+  {
+    "id": "5db25ea15731a518",
+    "title": "Frank Cappelleri Explains 3 Reasons Bitcoin Is Primed for a Bigger Bullish Move",
+    "summary": "Analyst Frank Cappelleri gives 3 reasons Bitcoin's bounce could become a bigger bullish move after its August gain.\nThe post Frank Cappelleri Explains 3 Reasons Bitcoin Is Primed for a Bigger Bullish Move appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/bitcoin-bounce-bigger-bullish-move-cappelleri/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Frank Cappelleri",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T04:31:00.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "Analyst Frank Cappelleri has outlined three key reasons why Bitcoin could be positioned for a larger bullish move. Following its recent performance in August, the market expert believes the current bounce shows strong potential for further upward momentum. While specific details remain broad, market watchers are paying close attention to these technical insights.",
+    "content_ta": "அனலிஸ்ட் Frank Cappelleri, Bitcoin மேலும் ஒரு பெரிய புல்லிஷ் நகர்வுக்கு தயாராக இருப்பதற்கான மூன்று முக்கிய காரணங்களை விளக்கியுள்ளார். ஆகஸ்ட் மாதத்தின் லாபத்தைத் தொடர்ந்து, இந்த தற்போதைய எழுச்சி மேலும் மேல்நோக்கிய இயக்கத்திற்கான வலுவான திறனைக் காட்டுவதாக அவர் நம்புகிறார்.",
+    "slug": "frank-cappelleri-explains-3-reasons-bitcoin-is-primed-for-a-bigger-bullish-move"
+  },
+  {
+    "id": "895b6e2938b2a86e",
+    "title": "What Are Mention Markets and Why Is the CFTC Targeting Them?",
+    "summary": "Mention markets let traders bet on what people say. See how they work and why CFTC staff flag manipulation risk.\nThe post What Are Mention Markets and Why Is the CFTC Targeting Them? appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/what-are-mention-markets-cftc-targeting/",
+    "source": "BeInCrypto",
+    "tags": [
+      "CFTC"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T03:30:00.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "Mention markets allow traders to place bets based on what specific individuals say. Recently, staff at the CFTC have raised concerns about these markets, highlighting potential risks of market manipulation. As these unique financial products gain attention, regulators are closely examining how they operate and whether they require stricter oversight to protect participants and maintain market integrity.",
+    "content_ta": "Mention markets மூலம் வர்த்தகர்கள் குறிப்பிட்ட நபர்கள் கூறுவதை அடிப்படையாகக் கொண்டு பந்தயம் கட்ட அனுமதிக்கப்படுகிறார்கள். சமீபத்தில், CFTC இன் அதிகாரிகள் இந்த சந்தைகள் குறித்து கவலை தெரிவித்துள்ளனர், மேலும் இது சந்தை கையாளுதல் அபாயங்களை அதிகரிப்பதாகக் சுட்டிக்காட்டியுள்ளனர். இந்த விசித்திரமான நிதி தயாரிப்புகள் கவனத்தை ஈர்த்து வருவதால், கட்டுப்பாட்டாளர்கள் அவற்றின் செயல்பாடுகள் மற்றும் கடுமையான மேற்பார்வை தேவையா என்பதை உன்னிப்பாகக் கவனித்து வருகின்றனர்.",
+    "slug": "what-are-mention-markets-and-why-is-the-cftc-targeting-them"
+  },
+  {
+    "id": "8efd260fa730f321",
+    "title": "Franklin Templeton teams up with ChinaAMC for its first ETFs in Asia",
+    "summary": "Franklin Templeton's strategic entry into Asia's ETF market with ChinaAMC may spur increased competition and innovation in the region's investment landscape.\nThe post Franklin Templeton teams up with ChinaAMC for its first ETFs in Asia appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/franklin-templeton-chinaamc-asia-etfs/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Franklin Templeton",
+      "ChinaAMC",
+      "Asia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T05:36:16.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "Franklin Templeton has partnered with ChinaAMC to launch its first exchange-traded funds in Asia. This strategic move marks the firm's entry into the region's competitive ETF market. Industry observers note that the collaboration could drive further innovation and competition within the local investment landscape as asset managers seek new growth opportunities across Asian markets.",
+    "content_ta": "Franklin Templeton நிறுவனம் Asia-வில் தனது முதல் exchange-traded funds-ஐத் தொடங்குவதற்காக ChinaAMC உடன் கூட்டாண்மை அமைத்துள்ளது. இந்த மூலோபாய நடவடிக்கை இப்பகுதியில் உள்ள ETF சந்தையில் நிறுவனத்தின் நுழைவைக் குறிக்கிறது. இந்த ஒத்துழைப்பு உள்ளூர் முதலீட்டுச் சூழலில் மேலும் புதுமைகளையும் போட்டியையும் தூண்டும் என்று துறைசார் வல்லுநர்கள் குறிப்பிடுகின்றனர்.",
+    "slug": "franklin-templeton-teams-up-with-chinaamc-for-its-first-etfs-in-asia"
+  },
+  {
+    "id": "81fa8b9be7c69a91",
+    "title": "Swedish researchers build an AI scientist that runs its own experiments",
+    "summary": "AI-driven autonomous research systems could accelerate scientific discovery, enhancing efficiency and uncovering overlooked insights in various fields.\nThe post Swedish researchers build an AI scientist that runs its own experiments appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/swedish-ai-scientist-automates-experiments/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Sweden"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T05:19:50.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "Swedish researchers have developed an autonomous AI scientist capable of running its own experiments. This AI-driven system aims to accelerate scientific discovery, improve research efficiency, and uncover overlooked insights across various academic fields, potentially transforming how future studies and breakthroughs are conducted.",
+    "content_ta": "Sweden நாட்டைச் சேர்ந்த ஆராய்ச்சியாளர்கள் தாமாகவே பரிசோதனைகளை மேற்கொள்ளக்கூடிய ஒரு சுயாதீன AI scientist-ஐ உருவாக்கியுள்ளனர். இந்த AI அடிப்படையிலான அமைப்பு அறிவியல் கண்டுபிடிப்புகளை விரைவுபடுத்துவதையும், ஆராய்ச்சி திறனை மேம்படுத்துவதையும் மற்றும் பல்வேறு துறைகளில் கவனிக்கப்படாத பல தகவல்களை வெளிக்கொணர்வதையும் நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "swedish-researchers-build-an-ai-scientist-that-runs-its-own-experiments"
+  },
+  {
+    "id": "b3c3581bf3be4c45",
+    "title": "Crypto shorts lose $110 million in a 10-minute liquidation burst",
+    "summary": "The rapid liquidation highlights the inherent volatility in crypto markets, potentially deterring risk-averse investors and amplifying market swings.\nThe post Crypto shorts lose $110 million in a 10-minute liquidation burst appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/crypto-shorts-110-million-liquidated-10-minutes/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Crypto Briefing"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T04:40:14.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "A sudden market movement resulted in crypto short sellers losing $110 million in a rapid 10-minute liquidation burst. This event highlights the high volatility inherent in crypto markets, which can amplify market swings and potentially deter risk-averse investors from participating in these digital assets.",
+    "content_ta": "கிரிப்டோ சந்தையில் ஏற்பட்ட திடீர் விலை மாற்றத்தால், short sellers வெறும் 10 நிமிடத்திற்குள் 110 மில்லியன் டாலர்களை இழந்தனர். இந்த விரைவான liquidation நிகழ்வு கிரிப்டோ சந்தையின் அதிகப்படியான ஏற்ற இறக்கத்தை வெளிச்சம் போட்டுக் காட்டுகிறது.",
+    "slug": "crypto-shorts-lose-110-million-in-a-10-minute-liquidation-burst"
+  },
+  {
+    "id": "8f33ff708bd6b795",
+    "title": "Four tech giants carried the S&P 500 through Q3 while most stocks fell",
+    "summary": "The reliance on a few tech giants for S&P 500 gains highlights concentration risk, potentially amplifying future market volatility.\nThe post Four tech giants carried the S&P 500 through Q3 while most stocks fell appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/sp-500-q3-big-tech-carries-index/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "S&P 500"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T04:31:14.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "During the third quarter, a small group of four major tech giants largely carried the S&P 500 index upward while the majority of other stocks declined. This heavy reliance on just a few dominant companies exposes investors to significant concentration risk, which could potentially amplify volatility in future market movements as broader economic conditions continue to shift.",
+    "content_ta": "மூன்றாவது காலாண்டில், S&P 500 குறியீட்டின் பெரும்பாலான பங்குகள் சரிந்த போதிலும், நான்கு பெரிய தொழில்நுட்ப நிறுவனங்கள் மட்டுமே சந்தையை மேலே கொண்டு சென்றன. சில முக்கிய நிறுவனங்களை மட்டுமே பெரிதும் நம்பியிருப்பது சந்தை அபாயத்தை அதிகரிக்கிறது, இது எதிர்கால சந்தை ஏற்ற இறக்கங்களை மேலும் தீவிரமாக்கக்கூடும்.",
+    "slug": "four-tech-giants-carried-the-s-p-500-through-q3-while-most-stocks-fell"
+  },
+  {
+    "id": "da74621ba6e9e2d4",
+    "title": "Kinetiq wraps kPoints program as KNTQ slides more than 20%",
+    "summary": "Kinetiq's token strategy may stabilize KNTQ's value long-term, but short-term volatility and market pressure could challenge investor confidence.\nThe post Kinetiq wraps kPoints program as KNTQ slides more than 20% appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/kinetiq-ends-kpoints-kntq-price-drop/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Kinetiq",
+      "KNTQ"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T04:24:34.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "Kinetiq has officially wrapped up its kPoints program. Following this announcement, the company's token, KNTQ, experienced a significant market downturn, sliding by more than 20 percent. While future token strategies might help stabilize the asset over the long term, ongoing short-term volatility and heavy market pressure continue to present challenges for investor confidence.",
+    "content_ta": "Kinetiq நிறுவனம் தனது kPoints திட்டத்தை அதிகாரப்பூர்வமாக நிறைவு செய்துள்ளது. இந்த அறிவிப்பைத் தொடர்ந்து, நிறுவனத்தின் KNTQ டோக்கன் சந்தையில் பெரும் சரிவைச் சந்தித்தது, அதன் மதிப்பு 20 சதவீதத்திற்கும் அதிகமாகக் குறைந்துள்ளது. எதிர்கால டோக்கன் உத்திகள் நீண்ட காலத்திற்கு விலையை நிலைநிறுத்த உதவக்கூடும் என்றாலும், தற்போதைய குறுகிய கால நிலையற்ற தன்மை மற்றும் சந்தை அழுத்தம் ஆகியவை முதலீட்டாளர்களின் நம்பிக்கைக்கு தொடர்ந்து சவாலாக உள்ளன.",
+    "slug": "kinetiq-wraps-kpoints-program-as-kntq-slides-more-than-20"
+  },
+  {
+    "id": "17c4150d68511e38",
+    "title": "China puts guardrails on AI companions over social stability concerns",
+    "summary": "China's AI regulations may reshape global tech norms, impacting AI development and user engagement strategies worldwide.\nThe post China puts guardrails on AI companions over social stability concerns appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/china-regulates-ai-companion-chatbots/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "China"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T04:12:53.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "China has introduced new regulations and guardrails for AI companions, citing social stability concerns. These strict policies aim to monitor and control artificial intelligence interactions. This move by Chinese authorities could potentially reshape global technology norms, influencing AI development and user engagement strategies for platforms worldwide as developers adapt to tighter government oversight.",
+    "content_ta": "சமூக ஸ்திரத்தன்மை தொடர்பான கவலைகள் காரணமாக, AI companions மீது சீனா புதிய கட்டுப்பாடுகளை விதித்துள்ளது. இந்த கடுமையான கொள்கைகள் செயற்கை நுண்ணறிவு தொடர்புகளைக் கண்காணிக்கவும் கட்டுப்படுத்தவும் நோக்கமாகக் கொண்டுள்ளன. சீன அதிகாரிகளின் இந்த நடவடிக்கையானது உலகளாவிய தொழில்நுட்ப நெறிமுறைகளை மறுவடிவமைக்கக்கூடும், மேலும் உலகெங்கிலும் உள்ள பிளாட்ஃபார்ம்களுக்கான AI மேம்பாடு மற்றும் பயனர் ஈடுபெறும் உத்திகளைப் பாதிக்கலாம்.",
+    "slug": "china-puts-guardrails-on-ai-companions-over-social-stability-concerns"
+  },
+  {
+    "id": "9a0788999d1e5b98",
+    "title": "Amazon’s reported $8 billion Nvidia chip sale lacks confirmation as AWS keeps buying",
+    "summary": "Amazon's strategic GPU acquisitions and in-house chip development highlight its commitment to AI growth, reducing reliance on single suppliers.\nThe post Amazon’s reported $8 billion Nvidia chip sale lacks confirmation as AWS keeps buying appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/amazon-nvidia-chip-sale-claim-aws-gpus/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Amazon",
+      "Nvidia",
+      "AWS"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T04:07:52.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "Recent reports regarding an alleged $8 billion Nvidia chip sale to Amazon remain unconfirmed. Meanwhile, Amazon Web Services continues its strategic GPU acquisitions and in-house chip development. These ongoing efforts highlight the company's commitment to artificial intelligence growth while working to diversify its hardware supply chain and reduce reliance on single vendors.",
+    "content_ta": "Amazon நிறுவனத்திற்கு Nvidia சிப்கள் விற்பனை செய்யப்பட்டதாக வெளியான $8 பில்லியன் அளவிலான செய்தி இன்னும் உறுதிப்படுத்தப்படவில்லை. இதற்கிடையில், AWS தனது GPU வாங்குதல்களையும் உள்நாட்டு சிப் தயாரிப்பையும் தொடர்கிறது. இந்த முயற்சிகள் நிறுவனத்தின் AI வளர்ச்சிக்கான அர்ப்பணிப்பையும், ஒரே சப்ளையரைச் சார்ந்திருப்பதைக் குறைப்பதையும் காட்டுகின்றன.",
+    "slug": "amazon-s-reported-8-billion-nvidia-chip-sale-lacks-confirmation-as-aws-keeps-buying"
+  },
+  {
+    "id": "d3b1147509b849e7",
+    "title": "South Korea abolishes central prosecution agency, creates new legal entities",
+    "summary": "The reform may lead to increased scrutiny and limitations on prosecutorial actions, affecting the handling of high-profile cases.\nThe post South Korea abolishes central prosecution agency, creates new legal entities appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/south-korea-abolishes-central-prosecution-agency-creates-new-legal-entities/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "South Korea"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T03:49:08.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "South Korea has abolished its central prosecution agency and established new legal entities in a major structural reform. This significant change could lead to increased scrutiny and new limitations on prosecutorial actions, potentially impacting the way high-profile cases are handled moving forward.",
+    "content_ta": "South Korea தனது மத்திய துப்பறியும் மற்றும் வழக்குத் தொடுக்கும் அமைப்பைக் கலைத்துவிட்டு, புதிய சட்டப்பூர்வ நிறுவனங்களை உருவாக்கியுள்ளது. இந்த முக்கிய சீர்திருத்தம் விசாரணைகளில் கூடுதல் கவனத்திற்கும் புதிய கட்டுப்பாடுகளுக்கும் வழிவகுக்கக்கூடும், இது உயர் மட்ட வழக்குகளைக் கையாளும் முறையைப் பாதிக்கலாம்.",
+    "slug": "south-korea-abolishes-central-prosecution-agency-creates-new-legal-entities"
+  },
+  {
+    "id": "2b26aba91ad1d8a1",
+    "title": "Fed’s Lisa Cook warns AI spending could fuel inflation into 2027",
+    "summary": "AI-driven investments may strain supply chains, potentially elevating inflation risks, while productivity gains remain uncertain in timing.\nThe post Fed’s Lisa Cook warns AI spending could fuel inflation into 2027 appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/fed-lisa-cook-ai-inflation-risk-2027/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Lisa Cook",
+      "Federal Reserve"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T03:44:19.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "Federal Reserve official Lisa Cook has warned that heavy spending on artificial intelligence could drive inflation risks through 2027. She noted that AI-driven investments might strain supply chains, while the long-term productivity gains remain uncertain. Such economic pressures could impact broader financial markets as infrastructure development accelerates globally.",
+    "content_ta": "Fed-ன் அதிகாரியான Lisa Cook, AI மீதான அதிகப்படியான செலவினங்கள் 2027 வரை பணவீக்கத்தை அதிகரிக்கக்கூடும் என்று எச்சரித்துள்ளார். AI சார்ந்த முதலீடுகள் விநியோகச் சங்கிலியை பாதிக்கலாம் என்றும், உற்பத்தித் திறன் மேம்பாட்டின் காலம் இன்னும் உறுதியாகவில்லை என்றும் அவர் குறிப்பிட்டுள்ளார்.",
+    "slug": "fed-s-lisa-cook-warns-ai-spending-could-fuel-inflation-into-2027"
+  },
+  {
+    "id": "7c4515417e5ffa4c",
+    "title": "US officials question Nvidia’s oversight as restricted chips reach China",
+    "summary": "Increased scrutiny on Nvidia's oversight could lead to tighter export controls, impacting global chip trade and geopolitical tech dynamics.\nThe post US officials question Nvidia’s oversight as restricted chips reach China appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/us-officials-question-nvidia-chip-diversion-china/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Nvidia",
+      "United States",
+      "China"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T03:34:09.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "US officials are questioning Nvidia's supply chain oversight after restricted AI chips successfully reached China. This discovery highlights potential vulnerabilities in export controls designed to limit advanced technology access. Increased scrutiny on Nvidia could soon result in much tighter regulatory measures, potentially impacting international chip trade and broader geopolitical technology dynamics.",
+    "content_ta": "Nvidia இன் விநியோகச் சங்கிலி மேற்பார்வை குறித்து அமெரிக்க அதிகாரிகள் கேள்வி எழுப்பியுள்ளனர், ஏனெனில் தடைசெய்யப்பட்ட சிப்கள் சீனாவுக்குச் சென்று சேர்ந்துள்ளன. மேம்பட்ட தொழில்நுட்ப அணுகலைக் கட்டுப்படுத்தும் வகையில் உருவாக்கப்பட்ட ஏற்றுமதி கட்டுப்பாடுகளில் உள்ள சாத்தியமான குறைபாடுகளை இந்த நிகழ்வு வெளிச்சம் போட்டுக் காட்டுகிறது. Nvidia மீதான இந்த தீவிர சோதனையானது விரைவில் கடுமையான ஒழுங்குமுறை நடவடிக்கைகளுக்கு வழிவகுக்கலாம், இது உலகளாவிய சிப் வர்த்தகம் மற்றும் புவிசார் அரசியல் தொழில்நுட்ப இயக்கவியலை பாதிக்கக்கூடும்.",
+    "slug": "us-officials-question-nvidia-s-oversight-as-restricted-chips-reach-china"
+  },
+  {
+    "id": "df95abe76dcbd0ae",
+    "title": "Aave v3 exploit drains up to $310K after Safe module attack",
+    "summary": "The exploit highlights the critical need for rigorous security audits of third-party modules in DeFi, as vulnerabilities can lead to significant financial losses.\nThe post Aave v3 exploit drains up to $310K after Safe module attack appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/aave-v3-safe-module-exploit-310k/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Aave",
+      "Safe"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T03:34:09.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "A recent exploit involving a Safe module on Aave v3 resulted in losses reaching up to $310K. This security breach underscores the vital importance of conducting thorough security audits for all third-party modules integrated within decentralized finance protocols to prevent potential financial losses.",
+    "content_ta": "Aave v3-ல் உள்ள Safe மாடியூலைப் பயன்படுத்தி நடத்தப்பட்ட ஒரு தாக்குதலில் சுமார் $310K வரை இழப்பு ஏற்பட்டுள்ளது. DeFi தளங்களில் இணைக்கப்படும் அனைத்து மூன்றாம் தரப்பு மாடியூல்களுக்கும் கடுமையான பாதுகாப்பு தணிக்கைகள் செய்யப்பட வேண்டியதன் அவசியத்தை இந்தச் சம்பவம் வெளிச்சம் போட்டுக் காட்டுகிறது.",
+    "slug": "aave-v3-exploit-drains-up-to-310k-after-safe-module-attack"
+  },
+  {
+    "id": "e6467c90f7d9d766",
+    "title": "New Zealand’s National Party wants data centers to bring their own power",
+    "summary": "New Zealand's policy could drive renewable energy growth, attract significant AI investment, and stabilize electricity costs for consumers.\nThe post New Zealand’s National Party wants data centers to bring their own power appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/new-zealand-data-centers-own-power/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "New Zealand",
+      "National Party"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T03:29:07.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "New Zealand’s National Party has proposed a new requirement for data centers to bring their own power generation. This policy aims to encourage renewable energy growth, attract artificial intelligence investments, and protect everyday consumers by helping to stabilize local electricity costs amidst rising demand.",
+    "content_ta": "New Zealand நாட்டின் National Party, டேட்டா சென்டர்கள் தங்களது சொந்த மின் உற்பத்தியைக் கொண்டுவர வேண்டும் என்ற புதிய கோரிக்கையை முன்வைத்துள்ளது. இந்த கொள்கையானது புதுப்பிக்கத்தக்க எரிசக்தி வளர்ச்சியை ஊக்குவிக்கவும், AI முதலீடுகளை ஈர்க்கவும், மின்சாரச் செலவுகளை நிலைநிறுத்தவும் நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "new-zealand-s-national-party-wants-data-centers-to-bring-their-own-power"
+  },
+  {
+    "id": "c7f969b1d15bccad",
+    "title": "California man arrested over alleged $300 million Nvidia AI chip smuggling scheme to China",
+    "summary": "The arrest highlights escalating tensions in US-China tech relations, potentially tightening export controls and scrutiny on global tech supply chains.\nThe post California man arrested over alleged $300 million Nvidia AI chip smuggling scheme to China appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/california-man-arrested-nvidia-chip-smuggling-china/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Nvidia",
+      "United States",
+      "China"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T03:14:01.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "A California man has been arrested in connection with an alleged $300 million smuggling scheme involving Nvidia AI chips destined for China. This case underscores growing tensions surrounding US-China technology relations and highlights the increasing risk of tighter export controls and heightened scrutiny on international tech supply chains.",
+    "content_ta": "சீனாவிற்கு கடத்த முயன்றதாகக் கூறப்படும் சுமார் $300 மில்லியன் மதிப்புள்ள Nvidia AI சிப் வழக்கில் கலிபோர்னியாவைச் சேர்ந்த ஒருவர் கைது செய்யப்பட்டுள்ளார். இச்சம்பவம் US மற்றும் சீனா இடையேயான தொழில்நுட்ப உறவுகளில் நிலவும் பதற்றங்களை வெளிக்காட்டுவதுடன், சாவதேச தொழில்நுட்ப விநியோகச் சங்கிலிகள் மீதான ஏற்றுமதி கட்டுப்பாடுகள் மற்றும் கண்காணிப்பு மேலும் பலப்படுத்தப்படலாம் என்பதை சுட்டிக்காட்டுகிறது.",
+    "slug": "california-man-arrested-over-alleged-300-million-nvidia-ai-chip-smuggling-scheme-to-china"
+  },
+  {
+    "id": "3ca4772b600bf3b4",
+    "title": "Zing365 Links UK SME Underinsurance to Broker Knowledge Gap",
+    "summary": "The insurance learning provider says rising commercial complexity means continuous broker development is now a commercial necessity, not a compliance formality.\nThe post Zing365 Links UK SME Underinsurance to Broker Knowledge Gap appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/zing365-links-uk-sme-underinsurance-to-broker-knowledge-gap/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Zing365",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T06:00:54.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "Zing365 has linked the rising issue of underinsurance among UK small and medium-sized enterprises to a knowledge gap among brokers. According to the insurance learning provider, increasing commercial complexity means continuous professional development for brokers is now a vital business necessity rather than just a compliance formality.",
+    "content_ta": "UK-ல் உள்ள SMEs நிறுவனங்களிடையே இன்சூரன்ஸ் குறைவாக எடுக்கப்படும் பிரச்சினைக்கு ப்ரோக்கர்களின் அறிவு குறைபாடே காரணம் என்று Zing365 தெரிவித்துள்ளது. வணிகச் சூழல் நாளுக்கு நாள்complexity அதிகரித்து வருவதால், ப்ரோக்கர்கள் தொடர்ச்சியாக தங்களின் திறன்களை வளர்த்துக் கொள்வது அவசியமான வணிகத் தேவையாக மாறியுள்ளது என்று அந்த இன்சூரன்ஸ் கல்வி நிறுவனம் குறிப்பிட்டுள்ளது.",
+    "slug": "zing365-links-uk-sme-underinsurance-to-broker-knowledge-gap"
+  },
+  {
+    "id": "20af875b98c06935",
+    "title": "Invespy Launches Independent Broker Hub on Sheikh Zayed Road to Digitise UAE Real Estate Ecosystem",
+    "summary": "The Dubai proptech startup has launched a neutral physical space for brokers, developers and agencies, alongside a new digital platform for off-plan deal flow.\nThe post Invespy Launches Independent Broker Hub on Sheikh Zayed Road to Digitise UAE Real Estate Ecosystem appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/invespy-launches-independent-broker-hub-on-sheikh-zayed-road-to-digitise-uae-real-estate-ecosystem/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Invespy",
+      "Dubai",
+      "United Arab Emirates"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-02T05:00:25.000Z",
+    "fetchedAt": "2026-10-02T06:01:17.207Z",
+    "isDuplicateOf": null,
+    "content": "Dubai proptech startup Invespy has launched an independent broker hub on Sheikh Zayed Road. The neutral physical space aims to connect brokers, developers, and agencies. Alongside the physical hub, Invespy introduced a new digital platform designed to digitise the UAE real estate ecosystem and streamline off-plan deal flow.",
+    "content_ta": "Dubai-ஐச் சேர்ந்த proptech startup ஆன Invespy, Sheikh Zayed Road-ൽ independent broker hub-ஐத் தொடங்கியுள்ளது. ப்ரோக்கர்கள், டெவலப்பர்கள் மற்றும் ஏஜென்மிகளை இணைக்கும் வகையில் இந்த நடுநிலையான இயற்பியல் மையம் உருவாக்கப்பட்டுள்ளது. இதனுடன், UAE ரியல் எஸ்டேட் சுற்றுச்சூழல் அமைப்பை டிஜிட்டல் மயமாக்க ஒரு புதிய டிஜிட்டல் தளத்தையும் Invespy அறிமுகப்படுத்தியுள்ளது.",
+    "slug": "invespy-launches-independent-broker-hub-on-sheikh-zayed-road-to-digitise-uae-real-estate-ecosystem"
   }
 ]
