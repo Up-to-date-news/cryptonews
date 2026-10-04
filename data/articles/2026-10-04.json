@@ -1587,5 +1587,281 @@
     "content": "DeepSeek and Huawei are challenging Nvidia's dominance in the artificial intelligence sector by developing open-source tools. These new developments could significantly reshape AI development dynamics and alter global technology alliances, threatening Nvidia's established software moat in the industry.",
     "content_ta": "DeepSeek மற்றும் Huawei நிறுவனங்கள் ஓபன்-சோர்ஸ் கருவிகளை உருவாக்கி AI துறையில் Nvidia-வின் ஆதிக்கத்திற்கு சவால் விடுகின்றன. இந்த புதிய நகர்வுகள் AI மேம்பாட்டு முறைகளை மாற்றியமைக்கலாம் மற்றும் உலகளாவிய தொழில்நுட்பக் கூட்டுறவுகளைப் பாதிக்கலாம்.",
     "slug": "deepseek-and-huawei-take-aim-at-nvidia-s-software-moat"
+  },
+  {
+    "id": "4399a6fdab1ba63d",
+    "title": "Bitcoin Core’s new fix closes gap that could redirect funds without stealing keys",
+    "summary": "A missing-output SIGHASH_SINGLE request can leave recipients unbound; Core’s merged PSBT repair has no confirmed fixed-release destination.\nThe post Bitcoin Core’s new fix closes gap that could redirect funds without stealing keys appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/bitcoin-cores-new-fix-closes-gap-that-could-redirect-funds-without-stealing-keys/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Bitcoin Core",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-04T19:40:34.000Z",
+    "fetchedAt": "2026-10-04T20:20:39.771Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin Core has introduced a new fix to address a security gap involving missing-output SIGHASH_SINGLE requests that could potentially allow funds to be redirected without stealing private keys. The recently merged PSBT repair patch aims to secure transactions better, though a confirmed release version containing this fix has not yet been specified.",
+    "content_ta": "Bitcoin Core-ல் பாதுகாப்பு குறைபாட்டை சரிசெய்ய புதிய திருத்தம் கொண்டுவரப்பட்டுள்ளது. SIGHASH_SINGLE கோரிக்கைகளில் உள்ள இடைவெளியால், தனிப்பட்ட விசைகளைத் திருடாமல் நிதியை வேறு திசைக்கு மாற்றக்கூடிய வாய்ப்பை இது தடுக்கிறது. இணைக்கப்பட்ட PSBT பழுதுபார்ப்பு மூலம் பரிவர்த்தனைகள் மேலும் பாதுகாக்கப்படுகின்றன, எனினும் இந்தத் திருத்தம் எந்த அதிகாரப்பூர்வ வெளியீட்டில் இடம்பெறும் என்பது இன்னும் உறுதிப்படுத்தப்படவில்லை.",
+    "slug": "bitcoin-core-s-new-fix-closes-gap-that-could-redirect-funds-without-stealing-keys"
+  },
+  {
+    "id": "702949021b14484a",
+    "title": "New Treasury rules could change how stablecoin issuers get your dollars back",
+    "summary": "US government debt is one of the easiest assets in the world to borrow against, which lets financial companies get cash without giving up their investments for good. Washington is rewriting the rules for that borrowing, and the result will reach crypto through the companies that keep Treasury securities behind their dollar tokens. The SEC […]\nThe post New Treasury rules could change how stablecoin issuers get your dollars back appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/new-treasury-rules-could-change-how-stablecoin-issuers-get-your-dollars-back/",
+    "source": "CryptoSlate",
+    "tags": [
+      "United States",
+      "Washington",
+      "Treasury"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-04T18:40:36.000Z",
+    "fetchedAt": "2026-10-04T20:20:39.771Z",
+    "isDuplicateOf": null,
+    "content": "New Treasury rules in the United States could significantly change how stablecoin issuers manage their reserve assets. As Washington updates the regulations for borrowing against government debt, the changes will impact the crypto industry through companies that hold Treasury securities to back their dollar-pegged tokens.",
+    "content_ta": "United States-ல் உள்ள புதிய Treasury விதிகள், stablecoin issuers தங்கள் reserve assets-ஐ நிர்வகிக்கும் விதத்தை மாற்றக்கூடும். அரசு கடனுக்கான borrowing ஒழுங்குமுறைகளை Washington புதுப்பிப்பதால், Treasury securities-ஐப் பயன்படுத்தி தங்கள் dollar tokens-க்கு ஆதரவளிக்கும் நிறுவனங்கள் மூலம் இந்த மாற்றங்கள் crypto துறையை பாதிக்கக்கூடும்.",
+    "slug": "new-treasury-rules-could-change-how-stablecoin-issuers-get-your-dollars-back"
+  },
+  {
+    "id": "f21d98ccbc277664",
+    "title": "The $71B mess: How prediction markets became the U.S. Supreme Court’s problem",
+    "summary": "Prediction markets' monthly volume hit a record high ahead of the U.S. November midterms.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/the-71b-mess-how-prediction-markets-became-the-u-s-supreme-courts-problem/",
+    "source": "AMBCrypto",
+    "tags": [
+      "U.S. Supreme Court",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-04T20:00:51.000Z",
+    "fetchedAt": "2026-10-04T20:20:39.772Z",
+    "isDuplicateOf": null,
+    "content": "Prediction markets have surged in popularity, with monthly trading volume reaching record highs ahead of the U.S. November midterms. This rapid growth has thrust the industry into the spotlight, raising complex legal and regulatory questions that may ultimately need to be addressed by the U.S. Supreme Court.",
+    "content_ta": "அமெரிக்காவின் நவம்பர் மாத இடைக்காலத் தேர்தலுக்கு முன்னதாக, ப்ரிடிக்சன் மார்க்கெட்ஸ் (prediction markets) அமைப்புகளின் மாதாந்திர வர்த்தக அளவு சாதனை அளவை எட்டியுள்ளது. இந்த விரைவான வளர்ச்சியானது இத்துறையை முக்கிய கவனத்திற்குள்ளாக்கியுள்ளதோடு, U.S. Supreme Court மூலம் தீர்க்கப்பட வேண்டிய சிக்கலான சட்ட மற்றும் ஒழுங்குமுறை கேள்விகளையும் எழுப்பியுள்ளது.",
+    "slug": "the-71b-mess-how-prediction-markets-became-the-u-s-supreme-court-s-problem"
+  },
+  {
+    "id": "3402db0870c73334",
+    "title": "Shiba Inu (SHIB) Goes Live on Solana Network",
+    "summary": "Shiba Inu (SHIB) has expanded to Solana through Wormhole Labs-powered Sunrise.",
+    "hasSummary": true,
+    "link": "https://u.today/shiba-inu-shib-goes-live-on-solana-network",
+    "source": "U.Today",
+    "tags": [
+      "Shiba Inu",
+      "Solana",
+      "Wormhole Labs",
+      "Sunrise"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-04T18:28:07.000Z",
+    "fetchedAt": "2026-10-04T20:20:39.772Z",
+    "isDuplicateOf": null,
+    "content": "Shiba Inu (SHIB) has expanded its reach to the Solana network. This integration is powered by Sunrise, a technology enabled by Wormhole Labs. The development marks a significant cross-chain milestone for the popular cryptocurrency, allowing SHIB to bridge into the Solana ecosystem and broadening its accessibility and utility across different blockchain networks.",
+    "content_ta": "Shiba Inu (SHIB) தன் சேவையை Solana நெட்வொர்க்கில் விரிவுபடுத்தியுள்ளது. இந்த இணைப்பானது Wormhole Labs-ன் தொழில்நுட்பமான Sunrise மூலம் சாத்தியமாகியுள்ளது. இந்த முன்னேற்றம் பிரபல cryptocurrency-க்கு ஒரு முக்கியமான மைல்கல்லாகும், இது SHIB-ஐ Solana சுற்றுச்சூழல் அமைப்புடன் இணைத்து, பல்வேறு blockchain நெட்வொர்க்குகளில் அதன் பயன்பாட்டை அதிகரிக்கிறது.",
+    "slug": "shiba-inu-shib-goes-live-on-solana-network"
+  },
+  {
+    "id": "87e1686b0a2b02be",
+    "title": "Iran's Oil Minister Quits Days Before Its Last Cargoes Run Out",
+    "summary": "Iran's oil minister quits as Tehran's last oil cargoes near a mid-October run-out. See why crude prices have not jumped.\nThe post Iran's Oil Minister Quits Days Before Its Last Cargoes Run Out appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/iran-oil-minister-quits-cargoes-cutoff/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Iran",
+      "Tehran"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-04T19:09:56.000Z",
+    "fetchedAt": "2026-10-04T20:20:39.772Z",
+    "isDuplicateOf": null,
+    "content": "Iran's oil minister has resigned from his position just days before the country's remaining oil cargoes are expected to run out in mid-October. Despite this significant development in the major oil-producing nation, global crude prices have not experienced a sharp jump.",
+    "content_ta": "மத்திய அக்டோபரில் நாட்டின் எஞ்சிய ஆயில் கார்கோக்கள் தீர்ந்துபோகும் நிலைக்கு சில நாட்களுக்கு முன்பு Iran-ன் ஆயில் மினிஸ்டர் தனது பதவியை ராஜினாமா செய்துள்ளார். முக்கிய ஆயில் உற்பத்தி செய்யும் இந்த நாட்டில் இந்த முக்கியமான வளர்ச்சி ஏற்பட்ட போதிலும், உலகளாவிய crude விலைகளில் பெரிய அளவில் உயர்வு ஏற்படவில்லை.",
+    "slug": "iran-s-oil-minister-quits-days-before-its-last-cargoes-run-out"
+  },
+  {
+    "id": "ee8bbf7d077c5ad6",
+    "title": "Another Alarm Bell at OpenAI as Safety Lead Resigns Over Major Risks",
+    "summary": "David Robinson, who oversaw safety reports for 12 of OpenAI’s frontier launches, has resigned. He says the company’s trial-and-error culture guarantees failures that grow as its systems get more capable. In an Atlantic essay, he urged AI labs to run like nuclear power plants, with layered redundancy and careful planning to contain human error. Robinson\nThe post Another Alarm Bell at OpenAI as Safety Lead Resigns Over Major Risks appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/openai-safety-lead-quits-nuclear-rules/",
+    "source": "BeInCrypto",
+    "tags": [
+      "OpenAI",
+      "David Robinson"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-04T18:43:49.000Z",
+    "fetchedAt": "2026-10-04T20:20:39.772Z",
+    "isDuplicateOf": null,
+    "content": "OpenAI safety lead David Robinson has resigned, warning that the company's trial-and-error culture creates growing risks as AI systems become more capable. In a recent essay, Robinson urged artificial intelligence laboratories to adopt stringent safety measures and careful planning, comparing the necessary oversight to the rigorous standards of nuclear power plants to effectively contain potential human errors.",
+    "content_ta": "OpenAI நிறுவனத்தின் பாதுகாப்புப் பிரிவுத் தலைவர் David நிறுவனத்தின் ஆபத்தான வேலை கலாச்சாரத்தை சுட்டிக்காட்டி தனது பதவியை ராஜினாமா செய்துள்ளார். AI அமைப்புகள் மேம்படும்போது ஏற்படும் அபாயங்களைத் தவிர்க்க, அணுமின் நிலையங்களைப் போன்ற கடுமையான பாதுகாப்பு நெறிமுறைகளையும் முறையான திட்டமிடலையும் AI நிறுவனங்கள் பின்பற்ற வேண்டும் என்று அவர் வலியுறுத்தியுள்ளார்.",
+    "slug": "another-alarm-bell-at-openai-as-safety-lead-resigns-over-major-risks"
+  },
+  {
+    "id": "d553856b57b32412",
+    "title": "Former Anthropic researcher Jacob Coxon to testify at NYC Council hearing on AI risks",
+    "summary": "The NYC Council hearing on AI risks could catalyze significant regulatory changes, impacting AI development and corporate accountability.\nThe post Former Anthropic researcher Jacob Coxon to testify at NYC Council hearing on AI risks appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/jacob-coxon-nyc-council-ai-risks-hearing/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Anthropic",
+      "Jacob Coxon",
+      "New York City Council"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-04T20:18:33.000Z",
+    "fetchedAt": "2026-10-04T20:20:39.772Z",
+    "isDuplicateOf": null,
+    "content": "Former Anthropic researcher Jacob Coxon is scheduled to testify at an upcoming New York City Council hearing focused on artificial intelligence risks. The hearing highlights growing legislative scrutiny over the rapid advancement of AI technology. Lawmakers and experts will discuss potential regulatory frameworks to address safety concerns, corporate accountability, and the broader societal impacts of AI development.",
+    "content_ta": "Anthropic-ன் முன்னாள் ஆய்வாளரான Jacob Coxon, AI ஆபத்துகள் குறித்த NYC Council-ன் வரவிருக்கும் விசாரணையில் சாட்சியம் அளிக்க உள்ளார். AI தொழில்நுட்பத்தின் விரைவான வளர்ச்சியின் மீது அதிகரித்து வரும் சட்டமன்றச் சரிபார்ப்பை இந்த விசாரணை எடுத்துக்காட்டுகிறது. பாதுகாப்பு கவலைகள், பெருநிறுவன பொறுப்புக்கூறல் மற்றும் AI வளர்ச்சியின் பரந்த சமூக தாக்கங்களை எதிர்கொள்ளக்கூடிய சாத்தியமான ஒழுங்குமுறை கட்டமைப்புகள் குறித்து சட்டமியற்றுபவர்களும் நிபுணர்களும் விவாதிப்பார்கள்.",
+    "slug": "former-anthropic-researcher-jacob-coxon-to-testify-at-nyc-council-hearing-on-ai-risks"
+  },
+  {
+    "id": "6bc02e3641dc7624",
+    "title": "Cathie Wood predicts Bitcoin could surge 1,665% by 2030",
+    "summary": "Cathie Wood's Bitcoin forecast highlights potential shifts in institutional adoption and regulatory landscapes, impacting crypto's future role.\nThe post Cathie Wood predicts Bitcoin could surge 1,665% by 2030 appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/cathie-wood-bitcoin-price-prediction-2030/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Cathie Wood",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-04T18:39:57.000Z",
+    "fetchedAt": "2026-10-04T20:20:39.772Z",
+    "isDuplicateOf": null,
+    "content": "Cathie Wood has released a major forecast predicting that Bitcoin could experience a massive surge of 1,665% by the year 2030. This ambitious projection highlights the growing expectations for increased institutional adoption and evolving regulatory frameworks surrounding digital assets in the coming years.",
+    "content_ta": "2030-க்குள் Bitcoin மதிப்பு 1,665% வரை உயரக்கூடும் என்று Cathie Wood கணித்துள்ளார். இந்த கணிப்பு டிஜிட்டல் சொத்துக்களுக்கான நிறுவனங்களின் ஈடுபாடு மற்றும் ஒழுங்குமுறை மாற்றங்கள் குறித்த எதிர்பார்ப்புகளை வெளிப்படுத்துகிறது.",
+    "slug": "cathie-wood-predicts-bitcoin-could-surge-1-665-by-2030"
+  },
+  {
+    "id": "585425eeba8d2df2",
+    "title": "Trump defends AI data centers at Ohio rally amid bipartisan criticism",
+    "summary": "Trump's support for AI data centers may bolster GOP tech agenda but risks voter backlash and complicates Ohio's legislative landscape.\nThe post Trump defends AI data centers at Ohio rally amid bipartisan criticism appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/trump-defends-ai-data-centers-at-ohio-rally-amid-bipartisan-criticism/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Donald Trump",
+      "Ohio",
+      "Republican"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-04T18:29:39.000Z",
+    "fetchedAt": "2026-10-04T20:20:39.772Z",
+    "isDuplicateOf": null,
+    "content": "At a recent Ohio rally, Donald Trump defended the development of AI data centers, facing bipartisan criticism. While this endorsement strengthens the Republican technology agenda, it carries political risks, potentially triggering voter backlash and introducing new challenges to Ohio's legislative landscape as communities weigh the environmental and infrastructural impacts of these large-scale facilities.",
+    "content_ta": "Ohio-வில் நடந்த ஒரு பேரணியில், AI data centers-களின் வளர்ச்சியை Donald Trump ஆதரித்துள்ளார். இதற்கு இரு கட்சிகளிடமிருந்தும் விமர்சனங்கள் எழுந்துள்ளன. இந்த ஆதரவு Republican கட்சியின் தொழில்நுட்ப செயல்திட்டத்தை வலுப்படுத்தினாலும், வாக்காளர்கள் மத்தியில் அதிருப்தியை ஏற்படுத்தக்கூடும். மேலும், Ohio-வின் சட்டமன்ற சூழலிலும் இது புதிய சவால்களை உருவாக்கலாம்.",
+    "slug": "trump-defends-ai-data-centers-at-ohio-rally-amid-bipartisan-criticism"
+  },
+  {
+    "id": "87db79ea7cd18c09",
+    "title": "Bitcoin Liquidation Map Shows $90,000 Short Squeeze Zone",
+    "summary": "The post Bitcoin Liquidation Map Shows $90,000 Short Squeeze Zone appeared first on Coinpedia Fintech News\nData shows Bitcoin’s largest overhead liquidation cluster sits near $90,000, where leveraged shorts would be forced to close if price touches the level. Smaller clusters over the past two months appear around $83,000 and $75,000, and a move toward either side could speed up Bitcoin’s next move. With price chopping sideways, positions are building on …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/crypto-live-news/bitcoin-liquidation-map-shows-90000-short-squeeze-zone/",
+    "source": "Coinpedia",
+    "tags": [
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-04T19:20:54.000Z",
+    "fetchedAt": "2026-10-04T20:20:39.772Z",
+    "isDuplicateOf": null,
+    "content": "Recent Bitcoin liquidation data indicates that the largest overhead liquidation cluster is positioned near $90,000, creating a potential short squeeze zone. If prices reach this level, leveraged short positions may be forced to close. Additional smaller liquidation clusters have formed around $83,000 and $75,000 over the past two months. These accumulation zones could accelerate Bitcoin's next major price movement as the market continues to trade sideways.",
+    "content_ta": "ச recent Bitcoin தரவுகளின்படி, $90,000 அருகில் மிகப்பெரிய liquidation cluster உள்ளது, இது ஒரு potential short squeeze zone-ஐ உருவாக்குகிறது. விலைகள் இந்த நிலையை அடைந்தால், leveraged short positions மூடப்படலாம். கடந்த இரண்டு மாதங்களில் $83,000 மற்றும் $75,000 அருகில் சிறிய clusters உருவாகியுள்ளன. சந்தை sideways-ல் வர்த்தகம் செய்யப்படும் நிலையில், இந்த zones Bitcoin-ன் அடுத்த முக்கிய விலை நகர்வை துரிதப்படுத்தலாம்.",
+    "slug": "bitcoin-liquidation-map-shows-90-000-short-squeeze-zone"
+  },
+  {
+    "id": "a81ff3d89abc72e5",
+    "title": "Cardano Founder Tells UN Crypto Is Entering A New Era Of Exponential Growth",
+    "summary": "The post Cardano Founder Tells UN Crypto Is Entering A New Era Of Exponential Growth appeared first on Coinpedia Fintech News\nCardano founder Charles Hoskinson criticized the EU’s Digital Euro, saying he doesn’t trust Europeans with it because of the risk of “asset and transaction discrimination.” He challenged officials to write a ban on such practices into law if they are not planning it. Hoskinson also delivered a speech at the United Nations declaring that crypto …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/crypto-live-news/cardano-founder-tells-un-crypto-is-entering-a-new-era-of-exponential-growth/",
+    "source": "Coinpedia",
+    "tags": [
+      "Cardano",
+      "Charles Hoskinson",
+      "United Nations",
+      "European Union"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-04T19:16:38.000Z",
+    "fetchedAt": "2026-10-04T20:20:39.772Z",
+    "isDuplicateOf": null,
+    "content": "Cardano founder Charles Hoskinson recently delivered a speech at the United Nations, stating that the cryptocurrency sector is entering a new era of exponential growth. During his remarks, Hoskinson also criticized the European Union's proposed Digital Euro, expressing concerns regarding potential transaction and asset discrimination, and challenged officials to legally ban such practices.",
+    "content_ta": "Cardano-ன் நிறுவனர் Charles Hoskinson சமீபத்தில் ஐக்கிய நாடுகள் சபையில் உரையாற்றியபோது, கிரிப்டோகரன்சி துறை அதிவேக வளர்ச்சியின் புதிய காலகட்டத்தில் நுழைந்துள்ளதாகத் தெரிவித்தார். தனது உரையின் போது, ஐரோப்பிய ஒன்றியத்தின் டிஜிட்டல் யூரோ திட்டத்தையும் அவர் விமர்சித்தார். பரிவர்த்தனை மற்றும் சொத்து பாகுபாடு குறித்த கவலைகளை வெளிப்படுத்திய அவர், அதிகாரிகளை இதுபோன்ற நடைமுறைகளை சட்டப்பூர்வமாக தடை செய்ய சவால் விடுத்தார்.",
+    "slug": "cardano-founder-tells-un-crypto-is-entering-a-new-era-of-exponential-growth"
+  },
+  {
+    "id": "eb2ae9e1a86d431c",
+    "title": "ether.fi Targets $500m Lending Capacity with Aave and Optimism Tie-up",
+    "summary": "The crypto card issuer will deploy a dedicated Aave V4 lending instance on OP Mainnet, scaling from $22m borrowed today to $500m by 2027.\nThe post ether.fi Targets $500m Lending Capacity with Aave and Optimism Tie-up appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/ether-fi-targets-500m-lending-capacity-with-aave-and-optimism-tie-up/",
+    "source": "The Fintech Times",
+    "tags": [
+      "ether.fi",
+      "Aave",
+      "Optimism",
+      "OP Mainnet"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-04T19:00:12.000Z",
+    "fetchedAt": "2026-10-04T20:20:39.772Z",
+    "isDuplicateOf": null,
+    "content": "ether.fi is planning to significantly expand its lending capacity through a strategic collaboration with Aave and Optimism. The initiative involves deploying a dedicated lending instance on OP Mainnet. The project aims to scale its current borrowing capacity to hundreds of millions of dollars over the next few years, reflecting a major growth milestone for the crypto card issuer within the decentralized finance sector.",
+    "content_ta": "ether.fi நிறுவனம் Aave மற்றும் Optimism ஆகியவற்றுடன் இணைந்து தனது கடன் வழங்கும் திறனை கணிசமாக விரிவுபடுத்த திட்டமிட்டுள்ளது. OP Mainnet-ல் இதற்கென பிரத்யேக கடன் வழங்கும் முறை செயல்படுத்தப்பட உள்ளது. கிரிப்டோ கார்டு வழங்கும் இந்த நிறுவனம், வரும் ஆண்டுகளில் தனது கடன் வாங்கும் திறனை கோடிக்கணக்கான டாலர்களுக்கு உயர்த்துவதை நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "ether-fi-targets-500m-lending-capacity-with-aave-and-optimism-tie-up"
+  },
+  {
+    "id": "aaf185393b0436e3",
+    "title": "Aave Founder Stani Kulechov Criticizes European Central Bank Push to Restrict Stablecoin Yield and DeFi Access",
+    "summary": "Aave founder Stani Kulechov has publicly challenged positions taken by European authorities as the European Commission reviews the Markets in Crypto-Assets Regulation (MiCA). In comments published on October 2, 2026, he said he was disappointed by the European Central Bank and the European Banking Authority’s... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/10/315240-aave-founder-stani-kulechov-criticizes-european-central-bank-push-to-restrict-stablecoin-yield-and-defi-access/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Aave",
+      "Stani Kulechov",
+      "European Central Bank",
+      "European Banking Authority",
+      "European Commission"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-04T20:04:16.000Z",
+    "fetchedAt": "2026-10-04T20:20:39.772Z",
+    "isDuplicateOf": null,
+    "content": "Aave founder Stani Kulechov has criticized recent positions from the European Central Bank and the European Banking Authority regarding stablecoin yields and DeFi access. Speaking out as the European Commission reviews the Markets in Crypto-Assets Regulation, Kulechov expressed disappointment over regulatory efforts to restrict decentralized finance and digital asset features within the region.",
+    "content_ta": "European Central Bank மற்றும் European Banking Authority-யின் stablecoin yield மற்றும் DeFi அணுகல் கட்டுப்பாடுகள் குறித்த நிலைப்பாடுகளை Aave நிறுவனர் Stani Kulechov விமர்சித்துள்ளார். European Commission தனது Markets in Crypto-Assets Regulation மதிப்பாய்வை நடத்தி வரும் நிலையில், பரவலாக்கப்பட்ட நிதி மற்றும் டிஜிட்டல் சொத்து அம்சங்களை ஒழுங்குமுறை மூலம் கட்டுப்படுத்த முயற்சிப்பது ஏமாற்றமளிப்பதாக அவர் தெரிவித்தார்.",
+    "slug": "aave-founder-stani-kulechov-criticizes-european-central-bank-push-to-restrict-stablecoin-yield-and"
+  },
+  {
+    "id": "46b315dc72d99cd3",
+    "title": "Crypto Tax Filers Face Final October 15, 2026 Deadline as US Rules Tighten without CLARITY Act",
+    "summary": "With roughly two weeks remaining before the October 15, 2026 cutoff, US holders of digital assets who requested more time earlier in the year face a final chance to submit their 2025 federal returns. That date marks the end of the automatic six-month extension available... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/10/315529-crypto-tax-filers-face-final-october-15-2026-deadline-as-us-rules-tighten-without-clarity-act/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-04T20:01:41.000Z",
+    "fetchedAt": "2026-10-04T20:20:39.772Z",
+    "isDuplicateOf": null,
+    "content": "US digital asset holders face a final October 15, 2026 deadline to submit their 2025 federal tax returns following an automatic six-month extension. The strict filing requirements arrive as United States rules tighten further, while the anticipated CLARITY Act remains unpassed, leaving taxpayers navigating complex regulatory obligations without legislative updates.",
+    "content_ta": "அமெரிக்காவில் உள்ள டிஜிட்டல் அசெட் உரிமையாளர்கள் தங்கள் 2025 ஃபெடரல் டேக்ஸ் ரிட்டன்களை சமர்ப்பிக்க அக்டோபர் 15, 2026-ஐ இறுதி கெடுவாக எதிர்கொள்கின்றனர். ஆட்டோமேட்டிக் ஆறு மாத எக்ஸ்டென்ஷன் முடிவுக்கு வரும் நிலையில், CLARITY Act இன்னும் நிறைவேற்றப்படாததால், கடுமையான விதிகளுடன் இந்த வரி தாக்கல் காலம் வந்துள்ளது.",
+    "slug": "crypto-tax-filers-face-final-october-15-2026-deadline-as-us-rules-tighten-without-clarity-act"
   }
 ]
