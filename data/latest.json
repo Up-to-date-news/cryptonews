@@ -1,23 +1,451 @@
 [
   {
-    "id": "2b7ae34ac149216d",
-    "title": "Strategy’s Michael Saylor Explains How Bitcoin (BTC), $MSTR, and STRC Serve Different Investor Goals",
-    "summary": "Michael Saylor, executive chairman of Strategy (NASDAQ: MSTR), has outlined a three-tier framework in which Bitcoin and instruments built around it can address distinct investor preferences. In a recent post, he argued that the cryptocurrency itself suits those who want straightforward ownership of the asset,... Read More",
+    "id": "9673053da36ce90f",
+    "slug": "near-eyes-6-as-grayscale-highlights-ai-agents-a-breakout-depends-on",
+    "title": "NEAR eyes $6 as Grayscale highlights AI agents – A breakout depends on…",
+    "tags": [
+      "NEAR",
+      "Grayscale"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T21:00:11.000Z"
+  },
+  {
+    "id": "1294287db25339de",
+    "slug": "nvidia-taps-six-wall-street-giants-in-bid-to-unlock-500-billion-for-ai-infrastructure",
+    "title": "Nvidia taps six Wall Street giants in bid to unlock $500 billion for AI infrastructure",
+    "tags": [
+      "Nvidia",
+      "Wall Street"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:59:13.000Z"
+  },
+  {
+    "id": "2ad965cd3490d1f3",
+    "title": "American Bankers Association invests in BankTech Ventures fund",
+    "summary": "The American Bankers Association today announced an investment in BankTech Ventures Fund II, a community-bank-backed venture fund focused on identifying and supporting innovative technology companies that help banks operate more efficiently, better serve customers and compete more effectively in a rapidly evolving marketplace.",
     "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/10/315782-strategys-michael-saylor-explains-how-bitcoin-btc-mstr-and-strc-serve-different-investor-goals/",
+    "link": "https://www.finextra.com/pressarticle/111165/american-bankers-association-invests-in-banktech-ventures-fund?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "American Bankers Association",
+      "BankTech Ventures"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-06T20:57:00.000Z",
+    "fetchedAt": "2026-10-06T21:01:29.017Z",
+    "isDuplicateOf": null,
+    "content": "The American Bankers Association has announced an investment in BankTech Ventures Fund II. The community-bank-backed venture fund focuses on identifying and supporting innovative technology companies. These technologies help banks operate more efficiently, improve customer service, and compete more effectively in a rapidly changing marketplace.",
+    "content_ta": "BankTech Ventures Fund II-ல் முதலீடு செய்வதாக American Bankers Association அறிவித்துள்ளது. இந்த சமூகம் சார்ந்த துணிகர முதலீட்டு நிதியம், புதுமையான தொழில்நுட்ப நிறுவனங்களைக் கண்டறிந்து ஆதரிப்பதில் கவனம் செலுத்துகிறது. இந்தத் தொழில்நுட்பங்கள் வங்கிகள் மிகவும் திறம்பட செயல்படவும், வாடிக்கையாளர்களுக்குச் சிறந்த சேவைகளை வழங்கவும் உதவுகின்றன.",
+    "slug": "american-bankers-association-invests-in-banktech-ventures-fund"
+  },
+  {
+    "id": "6ec8d44cfc0fa708",
+    "slug": "winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing",
+    "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
+    "tags": [
+      "Zcash",
+      "SEC",
+      "Nasdaq",
+      "Gemini Trust",
+      "Winklevoss Capital"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:53:19.000Z"
+  },
+  {
+    "id": "efcaf8405a92ecaa",
+    "slug": "sec-s-new-crypto-faq-is-a-reference-not-a-shield-says-renato-mariotti",
+    "title": "SEC’s new crypto FAQ is a reference, not a shield, says Renato Mariotti",
+    "tags": [
+      "SEC",
+      "Renato Mariotti"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:50:49.000Z"
+  },
+  {
+    "id": "dea55c2dac1e0b41",
+    "slug": "irs-issues-guidance-on-digital-asset-staking-safe-harbor-for-trusts",
+    "title": "IRS issues guidance on digital asset staking safe harbor for trusts",
+    "tags": [
+      "IRS"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:50:02.000Z"
+  },
+  {
+    "id": "094872a4d334f201",
+    "slug": "coinbase-launches-live-crypto-price-prediction-markets",
+    "title": "Coinbase launches live crypto price prediction markets",
+    "tags": [
+      "Coinbase"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:49:28.000Z"
+  },
+  {
+    "id": "3ac34d6a82088ea0",
+    "slug": "monid-raises-7-7-million-to-plug-ai-agents-into-pay-per-use-tools",
+    "title": "Monid raises $7.7 million to plug AI agents into pay-per-use tools",
+    "tags": [
+      "Monid"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:46:44.000Z"
+  },
+  {
+    "id": "5f96923460d4d08f",
+    "title": "When agents pay the wrong party: what the sourced public record shows so far in 2026",
+    "summary": "Author: A finextra community member",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/blogposting/33090/when-agents-pay-the-wrong-party-what-the-sourced-public-record-shows-so-far-in-2026?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-10-06T20:43:31.000Z",
+    "fetchedAt": "2026-10-06T21:01:29.017Z",
+    "isDuplicateOf": null,
+    "content": "Public records from 2026 shed light on the growing issue of agents mistakenly paying the wrong party. As financial transactions become increasingly complex, these misdirected payments highlight significant vulnerabilities in verification processes. Sourced records reveal ongoing challenges that industry participants face when handling automated and manual payouts, prompting calls for stricter compliance and better oversight.",
+    "content_ta": "2026-ஆம் ஆண்டின் பொதுப் பதிவுகள், முகவர்கள் தவறான தரப்பினருக்குப் பணம் செலுத்தும் வளர்ந்து வரும் சிக்கலை வெளிச்சம் போட்டுக் காட்டுகின்றன. நிதிப் பரிவர்த்தனைகள் பெருகிய முறையில் சிக்கலானதாக மாறும்போது, ​​இந்தத் தவறான செலுத்துதல்கள் சரிபார்ப்புச் செயல்முறைகளில் உள்ள குறிப்பிடத்தக்க பாதிப்புகளை எடுத்துக்காட்டுகின்றன. ஆட்டோமேட்டட் மற்றும் மேனுவல் பேஅவுட்களைக் கையாளும் போது தொழில் பங்கேற்பாளர்கள் எதிர்கொள்ளும் சவால்களை ஆதாரப் பதிவுகள் வெளிப்படுத்துகின்றன, இது கடுமையான இணக்கத்திற்கும் சிறந்த மேற்பார்வைக்கும் அழைப்பு விடுத்துள்ளது.",
+    "slug": "when-agents-pay-the-wrong-party-what-the-sourced-public-record-shows-so-far-in-2026"
+  },
+  {
+    "id": "e2a76dede2355892",
+    "slug": "texas-governor-race-heats-up-as-abbott-spends-74m-hinojosa-raises-13m",
+    "title": "Texas governor race heats up as Abbott spends $74M, Hinojosa raises $13M",
+    "tags": [
+      "Texas",
+      "Abbott",
+      "Hinojosa"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:42:50.000Z"
+  },
+  {
+    "id": "8c7cfcba53f30aa5",
+    "slug": "plaid-launches-credit-fraud-and-payment-risk-ai-models",
+    "title": "Plaid launches credit, fraud and payment risk AI models",
+    "tags": [
+      "Plaid"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:40:00.000Z"
+  },
+  {
+    "id": "aebcb259d43a6880",
+    "slug": "norway-s-asp-data-center-weighs-oslo-ipo-to-raise-about-100-million",
+    "title": "Norway’s ASP Data Center weighs Oslo IPO to raise about $100 million",
+    "tags": [
+      "ASP Data Center",
+      "Oslo",
+      "Norway"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:39:25.000Z"
+  },
+  {
+    "id": "b5453d79ae8d69a9",
+    "slug": "musubi-unveils-policylm-1-7b-for-real-time-content-moderation",
+    "title": "Musubi unveils PolicyLM-1.7B for real-time content moderation",
+    "tags": [
+      "Musubi"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:38:33.000Z"
+  },
+  {
+    "id": "70b53a96ce6d249c",
+    "slug": "blast-network-to-shut-down-as-coinbase-suspends-blast-token-trading",
+    "title": "Blast network to shut down as Coinbase suspends BLAST token trading",
+    "tags": [
+      "Blast",
+      "Coinbase",
+      "BLAST"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:38:20.000Z"
+  },
+  {
+    "id": "d70b1ef375bcd517",
+    "slug": "us-services-price-gauge-hits-a-four-year-high-clouding-bitcoin-s-rate-relief-outlook",
+    "title": "US services price gauge hits a four-year high, clouding Bitcoin’s rate-relief outlook",
+    "tags": [
+      "Bitcoin",
+      "United States"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:35:01.000Z"
+  },
+  {
+    "id": "fa447536ec0f52fa",
+    "slug": "vaneck-says-nuclear-power-approval-could-boost-ai-and-ease-bitcoin-sell-pressure",
+    "title": "VanEck says nuclear power approval could boost AI and ease Bitcoin sell pressure",
+    "tags": [
+      "VanEck",
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:32:34.000Z"
+  },
+  {
+    "id": "e2f25117493c246c",
+    "slug": "us-ai-models-are-often-cheaper-per-task-than-chinese-rivals-analysis-finds",
+    "title": "US AI models are often cheaper per task than Chinese rivals, analysis finds",
+    "tags": [
+      "United States",
+      "China"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:29:54.000Z"
+  },
+  {
+    "id": "e072699e65259c40",
+    "slug": "pudgy-penguins-ethereum-layer-2-abstract-is-shutting-down",
+    "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
+    "tags": [
+      "Pudgy Penguins",
+      "Abstract",
+      "Ethereum"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:28:53.000Z"
+  },
+  {
+    "id": "ea3ece0ee594d4d9",
+    "slug": "this-is-why-bitcoin-treasury-companies-can-be-riskier-than-btc",
+    "title": "This Is Why Bitcoin Treasury Companies Can Be Riskier Than BTC",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:26:43.000Z"
+  },
+  {
+    "id": "660aa8c76833c608",
+    "title": "FinovateSpring 2027 is Live: New Venue, Same Finovate Experience",
+    "summary": "FinovateSpring is returning May 3 through 5, 2027. And while we’re still months away from the spotlight shining on the demo stage, FinovateSpring 2027 is officially live. Registration is open, demo applications are being accepted, hotel bookings are available, and we’re already gearing up for three days of fintech innovation in Southern California. New venue Read more...\nThe post FinovateSpring 2027 is Live: New Venue, Same Finovate Experience appeared first on Finovate.",
+    "hasSummary": true,
+    "link": "https://finovate.com/finovatespring-2027-is-live-new-venue-same-finovate-experience/",
+    "source": "Finovate",
+    "tags": [
+      "FinovateSpring",
+      "Southern California",
+      "Finovate"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-06T20:18:13.000Z",
+    "fetchedAt": "2026-10-06T21:01:29.017Z",
+    "isDuplicateOf": null,
+    "content": "FinovateSpring 2027 is officially live and returning to Southern California from May 3 through 5, 2027. Registration, demo applications, and hotel bookings are now open for the upcoming three-day fintech event featuring a new venue.",
+    "content_ta": "FinovateSpring 2027 அதிகாரப்பூர்வமாகத் தொடங்கப்பட்டுள்ளதுடன், மே 3 முதல் 5 வரை Southern California-வில் நடைபெறவுள்ளது. புதிய venue-வில் நடைபெறும் இந்த மூன்று நாள் நிகழ்வுக்கான முன்பதிவு, டெமோ விண்ணப்பங்கள் மற்றும் ஹோட்டல் புக்கிங் தற்போது தொடங்கியுள்ளன.",
+    "slug": "finovatespring-2027-is-live-new-venue-same-finovate-experience"
+  },
+  {
+    "id": "f3a3a771ee48062d",
+    "title": "Dominican Republic: Why Caribbean payment infrastructure must explain the last mile",
+    "summary": "Author: A finextra community member",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/blogposting/33089/dominican-republic-why-caribbean-payment-infrastructure-must-explain-the-last-mile?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Dominican Republic",
+      "Caribbean"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-06T20:16:12.000Z",
+    "fetchedAt": "2026-10-06T21:01:29.017Z",
+    "isDuplicateOf": null,
+    "content": "The Dominican Republic and the broader Caribbean region face critical challenges in modernizing their payment infrastructure. Experts highlight that addressing the final stages of transactions, known as the last mile, is essential for improving cross-border payments, financial inclusion, and overall economic efficiency across Caribbean markets.",
+    "content_ta": "Dominican Republic மற்றும் பரந்த Caribbean பிராந்தியத்தில் கட்டண உள்கட்டமைப்பை நவீனமயமாக்குவதில் முக்கியமான சவால்கள் உள்ளன. பரிவர்த்தனைகளின் இறுதி கட்டங்களான last mile-ஐ நிவர்த்தி செய்வது, எல்லை தாண்டிய செலுத்துதல்கள் மற்றும் நிதி உள்ளடக்கத்தை மேம்படுத்த அவசியமானது என்று நிபுணர்கள் குறிப்பிடுகின்றனர்.",
+    "slug": "dominican-republic-why-caribbean-payment-infrastructure-must-explain-the-last-mile"
+  },
+  {
+    "id": "0d473d83e24ffba1",
+    "slug": "openai-previously-released-solutions-to-10-open-math-problems-on-github",
+    "title": "OpenAI previously released solutions to 10 open math problems on GitHub",
+    "tags": [
+      "OpenAI",
+      "GitHub"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:15:42.000Z"
+  },
+  {
+    "id": "82d78e8d0c3063a7",
+    "slug": "bafin-denies-micar-license-to-bitcoin-group-se-s-futurum-bank-leaving-bitcoin-de-in-limbo",
+    "title": "BaFin denies MiCAR license to Bitcoin Group SE’s futurum bank, leaving bitcoin.de in limbo",
+    "tags": [
+      "BaFin",
+      "Bitcoin Group SE",
+      "futurum bank",
+      "bitcoin.de",
+      "Germany"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:14:21.000Z"
+  },
+  {
+    "id": "c7fd6d21aba0bcdc",
+    "slug": "the-real-estate-market-is-dead-in-spain-long-live-bitcoin",
+    "title": "The Real Estate Market Is Dead in Spain. Long Live Bitcoin.",
+    "tags": [
+      "Spain",
+      "Bitcoin"
+    ],
+    "source": "Bitcoin Magazine",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:13:35.000Z"
+  },
+  {
+    "id": "4d8f399faba845bf",
+    "slug": "s-p-500-and-nasdaq-hit-record-highs-as-ai-driven-tech-stocks-surge",
+    "title": "S&P 500 and Nasdaq hit record highs as AI-driven tech stocks surge",
+    "tags": [
+      "S&P 500",
+      "Nasdaq"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:13:35.000Z"
+  },
+  {
+    "id": "29a8f99e727295db",
+    "slug": "evercore-isi-raises-marvell-price-target-to-433-after-investor-day",
+    "title": "Evercore ISI raises Marvell price target to $433 after Investor Day",
+    "tags": [
+      "Evercore ISI",
+      "Marvell"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:12:39.000Z"
+  },
+  {
+    "id": "0cc0396521fe9b36",
+    "slug": "tesla-showcases-cybercab-robotaxi-at-paris-motor-show-starting-oct-12",
+    "title": "Tesla showcases Cybercab robotaxi at Paris Motor Show starting Oct. 12",
+    "tags": [
+      "Tesla",
+      "Paris Motor Show"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:12:19.000Z"
+  },
+  {
+    "id": "816b754418fb1637",
+    "title": "Nasdaq’s Fintech focused Business Now Experiencing Recurring-Revenue Growth",
+    "summary": "Nasdaq (NASDAQ: NDAQ) is positioning its financial technology arm as a central engine of longer-term expansion, as banks, brokers, and other institutions step up spending on cloud-based market infrastructure, compliance tools, and systems that detect financial crime. The unit mixes recurring and subscription-style income, which... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/10/316052-nasdaqs-fintech-focused-business-now-experiencing-recurring-revenue-growth/",
     "source": "Crowdfund Insider",
+    "tags": [
+      "Nasdaq"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-06T20:06:13.000Z",
+    "fetchedAt": "2026-10-06T21:01:29.017Z",
+    "isDuplicateOf": null,
+    "content": "Nasdaq is positioning its financial technology business as a key driver for long-term growth. Financial institutions are increasing their spending on cloud-based market infrastructure, compliance tools, and financial crime detection systems. This unit benefits from steady recurring and subscription-style income.",
+    "content_ta": "Nasdaq தனது நிதித் தொழில்நுட்ப வணிகத்தை நீண்ட கால வளர்ச்சிக்கு முக்கிய இயக்கக்கியாக முன்னிறுத்தி வருகிறது. வங்கிகள் மற்றும் நிதி நிறுவனங்கள் கிளவுட் அடிப்படையிலான சந்தை உள்கட்டமைப்பு, இணக்க கருவிகள் மற்றும் குற்றத் தடுப்பு அமைப்புகளுக்காக செலவினங்களை அதிகரித்து வருகின்றன. இந்தப் பிரிவு மூலம் நிலையான சந்தா அடிப்படையிலான வருமானம் கிடைக்கிறது.",
+    "slug": "nasdaq-s-fintech-focused-business-now-experiencing-recurring-revenue-growth"
+  },
+  {
+    "id": "fa50353c34d8733b",
+    "slug": "leveraged-loan-distress-hits-its-highest-level-since-the-pandemic",
+    "title": "Leveraged loan distress hits its highest level since the pandemic",
+    "tags": [
+      "Crypto Briefing"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:04:19.000Z"
+  },
+  {
+    "id": "05c8fc6f12ae1dcb",
+    "slug": "adam-hamilton-leads-roger-marshall-in-kansas-senate-race-yougov-poll",
+    "title": "Adam Hamilton leads Roger Marshall in Kansas Senate race: YouGov poll",
+    "tags": [
+      "Adam Hamilton",
+      "Roger Marshall",
+      "Kansas",
+      "YouGov"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:03:29.000Z"
+  },
+  {
+    "id": "dae43443a2ee6058",
+    "slug": "betting-against-cap-right-now-is-costing-traders-dearly-here-s-why",
+    "title": "Betting against CAP right now is costing traders dearly – Here’s why",
+    "tags": [
+      "CAP"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-06T20:00:31.000Z"
+  },
+  {
+    "id": "2b7ae34ac149216d",
+    "slug": "strategy-s-michael-saylor-explains-how-bitcoin-btc-mstr-and-strc-serve-different-investor-goals",
+    "title": "Strategy’s Michael Saylor Explains How Bitcoin (BTC), $MSTR, and STRC Serve Different Investor Goals",
     "tags": [
       "Strategy",
       "Michael Saylor",
       "Bitcoin"
     ],
+    "source": "Crowdfund Insider",
     "origin": "rss",
-    "pubDate": "2026-10-06T19:52:40.000Z",
-    "fetchedAt": "2026-10-06T19:53:19.954Z",
-    "isDuplicateOf": null,
-    "content": "Strategy executive chairman Michael Saylor has outlined a framework explaining how Bitcoin, MSTR, and STRC cater to different investor goals. In a recent post, he detailed how these assets address distinct preferences, with the cryptocurrency itself serving those who want direct ownership of the underlying digital asset.",
-    "content_ta": "Strategy நிறுவனத்தின் executive chairman Michael Saylor, Bitcoin, MSTR மற்றும் STRC ஆகியவை வெவ்வேறு முதலீட்டாளர்களின் இலக்குகளுக்கு எவ்வாறு உதவுகின்றன என்பதை விளக்கியுள்ளார். சமீபத்திய பதிவு ஒன்றில், இந்த சொத்துக்கள் எவ்வாறு தனித்துவமான விருப்பங்களை பூர்த்தி செய்கின்றன என்பதை அவர் விவரித்தார்.",
-    "slug": "strategy-s-michael-saylor-explains-how-bitcoin-btc-mstr-and-strc-serve-different-investor-goals"
+    "hasContent": true,
+    "pubDate": "2026-10-06T19:52:40.000Z"
   },
   {
     "id": "a985648cff16dc94",
@@ -75,42 +503,30 @@
   },
   {
     "id": "7a14e6db7c5502e7",
+    "slug": "jpmorgan-ceo-warns-ai-risks-jumped-tenfold-after-mythos",
     "title": "JPMorgan CEO Warns AI Risks Jumped Tenfold After Mythos",
-    "summary": "JPMorgan CEO Jamie Dimon says cybersecurity risks soared when Anthropic released its Mythos AI model. Threats related to artificial intelligence (AI) “went up 10-fold after Mythos,” Dimon said in an interview Tuesday (Oct. 6) with Bloomberg TV. “AI created vulnerabilities that we didn’t know about, and we always worried about cyber before these things.” The Bloomberg report noted that Mythos took unauthorized […]\nThe post JPMorgan CEO Warns AI Risks Jumped Tenfold After Mythos appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/jpmorgan-ceo-warns-ai-risks-jumped-tenfold-after-mythos/",
-    "source": "PYMNTS",
     "tags": [
       "JPMorgan",
       "Jamie Dimon",
       "Anthropic"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-10-06T19:35:15.000Z",
-    "fetchedAt": "2026-10-06T19:53:19.954Z",
-    "isDuplicateOf": null,
-    "content": "JPMorgan CEO Jamie Dimon warned that cybersecurity risks associated with artificial intelligence surged dramatically following the release of Anthropic's Mythos AI model. In an interview, Dimon stated that AI-related threats increased tenfold, creating unforeseen vulnerabilities that compound traditional banking and cybersecurity concerns for major financial institutions.",
-    "content_ta": "Anthropic-ன் Mythos AI மாடல் வெளியிடப்பட்டதை அடுத்து, செயற்கை நுண்ணறிவு தொடர்பான சைபர் பாதுகாப்பு அபாயங்கள் கணிசமாக அதிகரித்துள்ளதாக JPMorgan CEO Jamie Dimon எச்சரித்துள்ளார். Bloomberg TV-க்கு அளித்த பேட்டியில், AI தொடர்பான அச்சுறுத்தல்கள் பத்து மடங்கு அதிகரித்துள்ளதாகவும், இது புதிய மற்றும் எதிர்பாராத பாதுகாப்பு குறைபாடுகளை உருவாக்கியுள்ளதாகவும் அவர் குறிப்பிட்டார்.",
-    "slug": "jpmorgan-ceo-warns-ai-risks-jumped-tenfold-after-mythos"
+    "hasContent": true,
+    "pubDate": "2026-10-06T19:35:15.000Z"
   },
   {
     "id": "5795919e85123739",
+    "slug": "did-justin-sun-just-admit-to-wash-trading",
     "title": "Did Justin Sun just admit to wash trading?",
-    "summary": "Justin Sun claimed that he bought Poloniex and says it is now “the world’s only exchange used solely by the boss himself.”\nThe post Did Justin Sun just admit to wash trading? appeared first on Protos.",
-    "hasSummary": true,
-    "link": "https://protos.com/did-justin-sun-just-admit-to-wash-trading/",
-    "source": "Protos",
     "tags": [
       "Justin Sun",
       "Poloniex"
     ],
+    "source": "Protos",
     "origin": "rss",
-    "pubDate": "2026-10-06T19:35:08.000Z",
-    "fetchedAt": "2026-10-06T19:53:19.954Z",
-    "isDuplicateOf": null,
-    "content": "Crypto figure Justin Sun recently claimed on social media that he acquired the exchange Poloniex and described it as the only platform used exclusively by the boss himself. This unusual statement has led to public speculation and questions regarding whether the remarks hint at wash trading on the platform, according to reports.",
-    "content_ta": "கிரிப்டோ துறை பிரமுகரான Justin Sun, தான் Poloniex எக்ஸ்சேஞ்சை வாங்கியுள்ளதாகவும், அது இப்போது நிறுவனத்தின் தலைவர் மட்டுமே பயன்படுத்தும் ஒரே தளமாக இருப்பதாகவும் சமூக வலைதளத்தில் தெரிவித்தார். இந்த விசித்திரமான கருத்து, அந்தத் தளத்தில் wash trading நடைபெறுகிறதா என்ற சந்தேகங்களையும் விவாதங்களையும் எழுப்பியுள்ளது.",
-    "slug": "did-justin-sun-just-admit-to-wash-trading"
+    "hasContent": true,
+    "pubDate": "2026-10-06T19:35:08.000Z"
   },
   {
     "id": "7aa8793e045d42a4",
@@ -139,22 +555,16 @@
   },
   {
     "id": "a623ea4aa5ebce5f",
+    "slug": "the-fed-and-pymnts-intelligence-agree-stablecoins-have-a-demand-problem",
     "title": "The Fed and PYMNTS Intelligence Agree: Stablecoins Have a Demand Problem",
-    "summary": "Stablecoins have spent the past year and a half acquiring nearly everything an emerging payments technology is supposed to need to go mainstream. Clearer regulation, check; more institutional backing, check; better infrastructure and growing support from banks, FinTechs and payment providers? Check, check, and check. The problem? New research from the Federal Reserve Bank of […]\nThe post The Fed and PYMNTS Intelligence Agree: Stablecoins Have a Demand Problem appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/blockchain/2026/the-fed-and-pymnts-intelligence-agree-stablecoins-have-a-demand-problem/",
-    "source": "PYMNTS",
     "tags": [
       "Federal Reserve Bank",
       "PYMNTS Intelligence"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-10-06T19:20:49.000Z",
-    "fetchedAt": "2026-10-06T19:53:19.954Z",
-    "isDuplicateOf": null,
-    "content": "Despite gaining clearer regulation, institutional backing, and improved infrastructure over the past year and a half, stablecoins are facing a significant demand problem. New research from the Federal Reserve Bank highlights that despite checking all the boxes for mainstream adoption as an emerging payments technology, user and market demand for stablecoins has not kept pace with these advancements.",
-    "content_ta": "கடந்த ஒன்றரை ஆண்டுகளில் தெளிவான ஒழுங்குமுறை, நிறுவன ஆதரவு மற்றும் மேம்பட்ட உள்கட்டமைப்பு ஆகியவற்றைப் பெற்றிருந்தாலும், Stablecoins ஒரு குறிப்பிடத்தக்க தேவைப் பிரச்சினையை எதிர்கொள்கின்றன. வளர்ந்து வரும் கட்டணத் தொழில்நுட்பமாக பெருமளவில் ஏற்றுக்கொள்ளப்படுவதற்கான அனைத்துக் தேவைகளையும் அவை பூர்த்தி செய்திருந்தாலும், அவற்றுக்கான பயனர் மற்றும் சந்தை தேவை இந்த முன்னேற்றங்களுக்கு ஏற்ப வளரவில்லை என்பதை Federal Reserve Bank இன் புதிய ஆராய்ச்சி எடுத்துக்காட்டுகிறது.",
-    "slug": "the-fed-and-pymnts-intelligence-agree-stablecoins-have-a-demand-problem"
+    "hasContent": true,
+    "pubDate": "2026-10-06T19:20:49.000Z"
   },
   {
     "id": "f29743a0fc747771",
@@ -207,23 +617,17 @@
   },
   {
     "id": "7f2f2b082ccb3770",
+    "slug": "crowdstrike-launches-startup-accelerator-to-combat-ai-related-threats",
     "title": "CrowdStrike Launches Startup Accelerator to Combat AI-Related Threats",
-    "summary": "CrowdStrike says it is seeking applicants for its fourth annual Cybersecurity Startup Accelerator. The program, run in tandem with Nvidia and Amazon Web Services (AWS), is designed for “startups building the future of cybersecurity for the agentic era,” CrowdStrike said in its announcement Tuesday (Oct. 6). “The next generation of agentic cybersecurity companies is being built right now, and we want to […]\nThe post CrowdStrike Launches Startup Accelerator to Combat AI-Related Threats appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/cybersecurity/2026/crowdstrike-launches-startup-accelerator-to-combat-ai-related-threats/",
-    "source": "PYMNTS",
     "tags": [
       "CrowdStrike",
       "Nvidia",
       "Amazon Web Services"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-10-06T18:55:48.000Z",
-    "fetchedAt": "2026-10-06T19:53:19.954Z",
-    "isDuplicateOf": null,
-    "content": "CrowdStrike has launched the fourth annual edition of its Cybersecurity Startup Accelerator to support early-stage companies focused on AI-related threats and agentic cybersecurity. Run in partnership with Nvidia and Amazon Web Services, the program aims to foster new security solutions designed for the evolving technological landscape.",
-    "content_ta": "AI சார்ந்த அச்சுறுத்தல்களை எதிர்த்துப் போராடவும், ஏஜென்டிக் சைபர் பாதுகாப்பு தீர்வுகளை உருவாக்கவும் உதவும் நான்காவது ஆண்டு Cybersecurity Startup Accelerator திட்டத்தை CrowdStrike தொடங்கியுள்ளது. Nvidia மற்றும் Amazon Web Services நிறுவனங்களுடன் இணைந்து நடத்தப்படும் இத்திட்டம், புதிய பாதுகாப்பு தொழில்நுட்பங்களை வளர்க்க முயல்கிறது.",
-    "slug": "crowdstrike-launches-startup-accelerator-to-combat-ai-related-threats"
+    "hasContent": true,
+    "pubDate": "2026-10-06T18:55:48.000Z"
   },
   {
     "id": "b5d91556a5a1e4e9",
@@ -240,78 +644,54 @@
   },
   {
     "id": "be5a6075a1483ad5",
+    "slug": "ny-fed-reports-global-supply-chain-pressures-reach-4-month-high",
     "title": "NY Fed Reports Global Supply Chain Pressures Reach 4-Month High",
-    "summary": "Global supply chain pressures inched up in September, reaching their highest level since the recent peak seen in May, according to the Federal Reserve Bank of New York’s Global Supply Chain Pressure Index (GSCPI). The GSCPI rose to 1.28 in September, up from an upwardly revised 1.20 in August. The August figure was revised up […]\nThe post NY Fed Reports Global Supply Chain Pressures Reach 4-Month High appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/supply-chain/2026/new-york-federal-reserve-reports-global-supply-chain-pressures-reach-4-month-high/",
-    "source": "PYMNTS",
     "tags": [
       "Federal Reserve Bank of New York",
       "New York"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-10-06T18:50:00.000Z",
-    "fetchedAt": "2026-10-06T19:53:19.954Z",
-    "isDuplicateOf": null,
-    "content": "According to the Federal Reserve Bank of New York, global supply chain pressures have reached a four-month high. The Global Supply Chain Pressure Index rose to 1.28 in September, increasing from an upwardly revised 1.20 in August. This indicates a continued upward trend in supply chain challenges since the recent peak observed in May.",
-    "content_ta": "NY Fed-ன் தகவலின்படி, உலகளாவிய விநியோகச் சங்கிலி அழுத்தங்கள் நான்கு மாதங்களில் இல்லாத அளவுக்கு உயர்ந்துள்ளன. கடந்த செப்டம்பர் மாதத்தில் Global Supply Chain Pressure Index (GSCPI) ஆனது 1.28 ஆக உயர்ந்துள்ளது. இது ஆகஸ்ட் மாதத்தில் 1.20 ஆக இருந்தது குறிப்பிடத்தக்கது.",
-    "slug": "ny-fed-reports-global-supply-chain-pressures-reach-4-month-high"
+    "hasContent": true,
+    "pubDate": "2026-10-06T18:50:00.000Z"
   },
   {
     "id": "1e1ea3d95399b346",
+    "slug": "senate-democrats-put-tether-s-usdt-under-the-microscope-over-iran-sanctions-evasion",
     "title": "Senate Democrats put Tether’s USDT under the microscope over Iran sanctions evasion",
-    "summary": "Increased scrutiny on Tether's USDT could lead to stricter regulations on cryptocurrency to prevent sanctions evasion and illicit finance.\nThe post Senate Democrats put Tether’s USDT under the microscope over Iran sanctions evasion appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/senate-democrats-tether-usdt-iran-report/",
-    "source": "CryptoBriefing",
     "tags": [
       "Tether",
       "USDT",
       "Iran"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-06T18:48:46.000Z",
-    "fetchedAt": "2026-10-06T19:53:19.954Z",
-    "isDuplicateOf": null,
-    "content": "Senate Democrats have placed Tether and its USDT stablecoin under increased scrutiny. Lawmakers are investigating potential sanctions evasion related to Iran. This heightened attention could lead to stricter regulations and oversight concerning cryptocurrency usage in order to prevent illicit financial activities.",
-    "content_ta": "Tether மற்றும் அதன் USDT ஸ்டேபிள்காயின் மீது செனட் டெமாக்ட்ராட்டுகள் தீவிர கண்காணிப்பைத் தொடங்கியுள்ளனர். ஈரான் மீதான தடைகளை மீறும் செயல்கள் குறித்து சட்டமியற்றுபவர்கள் விசாரணை நடத்தி வருகின்றனர். இந்த தீவிர கவனம் கிரிப்டோகரன்சி பயன்பாட்டின் மீது கடுமையான விதிமுறைகளைக் கொண்டுவர வழிவகுக்கும்.",
-    "slug": "senate-democrats-put-tether-s-usdt-under-the-microscope-over-iran-sanctions-evasion"
+    "hasContent": true,
+    "pubDate": "2026-10-06T18:48:46.000Z"
   },
   {
     "id": "fc0fb8cde9fd6d51",
+    "slug": "qualcomm-bets-on-a-200-billion-cpu-market-with-its-ai-data-center-pivot",
     "title": "Qualcomm bets on a $200 billion CPU market with its AI data center pivot",
-    "summary": "Qualcomm's AI data center pivot could reshape the CPU market, challenging established players and diversifying its revenue streams significantly.\nThe post Qualcomm bets on a $200 billion CPU market with its AI data center pivot appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/qualcomm-ai-data-center-cpu-pivot/",
-    "source": "CryptoBriefing",
     "tags": [
       "Qualcomm"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-06T18:47:56.000Z",
-    "fetchedAt": "2026-10-06T19:53:19.954Z",
-    "isDuplicateOf": null,
-    "content": "Qualcomm is shifting its focus toward the massive $200 billion CPU market by pivoting into AI data centers. This strategic move aims to reshape the competitive landscape, challenge established industry players, and significantly diversify the company's revenue streams as demand for artificial intelligence infrastructure continues to grow globally.",
-    "content_ta": "Qualcomm நிறுவனம் AI டேட்டா செக்டார் துறையில் கவனம் செலுத்துவதன் மூலம் 200 பில்லியன் டாலர் மதிப்புள்ள CPU சந்தையில் இறங்கியுள்ளது. இந்த மூலோபாய நடவடிக்கை போட்டிச் சூழலை மாற்றுவதையும், நிறுவப்பட்ட நிறுவனங்களுக்கு சவால் விடுவதையும், நிறுவனத்தின் வருவாயைப் பெருக்குவதையும் நோக்கமாகக் கொண்டுள்ளது.",
-    "slug": "qualcomm-bets-on-a-200-billion-cpu-market-with-its-ai-data-center-pivot"
+    "hasContent": true,
+    "pubDate": "2026-10-06T18:47:56.000Z"
   },
   {
     "id": "4bb5da1943e15112",
+    "slug": "bank-of-america-flags-tech-bubble-risk-but-tells-clients-not-to-sit-out-the-rally",
     "title": "Bank of America flags tech bubble risk but tells clients not to sit out the rally",
-    "summary": "Investors face potential volatility as tech sector exuberance grows, necessitating strategic risk management to navigate possible market corrections.\nThe post Bank of America flags tech bubble risk but tells clients not to sit out the rally appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/bank-of-america-tech-bubble-call-spreads/",
-    "source": "CryptoBriefing",
     "tags": [
       "Bank of America"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-06T18:44:44.000Z",
-    "fetchedAt": "2026-10-06T19:53:19.954Z",
-    "isDuplicateOf": null,
-    "content": "Bank of America has warned investors about potential tech bubble risks amid growing market exuberance. However, the financial institution advised clients not to sit out the ongoing market rally. Investors are facing possible volatility and should consider strategic risk management to successfully navigate any upcoming market corrections.",
-    "content_ta": "டெக் துறை சந்தையில் அதிகரித்து வரும் உற்சாகம் காரணமாக ஒரு சாத்தியமான குமிழி (bubble) ஆபத்து குறித்து Bank of America முதலீட்டாளர்களுக்கு எச்சரித்துள்ளது. இருப்பினும், நடப்பு சந்தை உயர்வை (rally) நழுவவிட வேண்டாம் என்றும் அது தனது வாடிக்கையாளர்களுக்கு அறிவுறுத்தியுள்ளது. சந்தையில் ஏற்படக்கூடிய ஏற்றத்தாழ்வுகளைச் சமாளிக்க முதலீட்டாளர்கள் மூலோபாய ரீதியான இடர் மேலாண்மையை (risk management) பின்பற்ற வேண்டும்.",
-    "slug": "bank-of-america-flags-tech-bubble-risk-but-tells-clients-not-to-sit-out-the-rally"
+    "hasContent": true,
+    "pubDate": "2026-10-06T18:44:44.000Z"
   },
   {
     "id": "f0e77720d43d0f21",
@@ -431,415 +811,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-06T17:52:00.000Z"
-  },
-  {
-    "id": "d0a98e744f449988",
-    "slug": "openai-partners-with-ironclad-to-train-gpt-6-astra-on-ai-contracting",
-    "title": "OpenAI partners with Ironclad to train GPT-6 Astra on AI contracting",
-    "tags": [
-      "OpenAI",
-      "Ironclad"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T17:51:57.000Z"
-  },
-  {
-    "id": "018ff8328ef07ae2",
-    "slug": "princeton-s-arvind-narayanan-says-chatbots-could-become-truth-oracles",
-    "title": "Princeton’s Arvind Narayanan says chatbots could become ‘truth oracles’",
-    "tags": [
-      "Princeton University",
-      "Arvind Narayanan"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T17:45:59.000Z"
-  },
-  {
-    "id": "f5fa60517cd8c379",
-    "slug": "btcpay-server-2-4-5-tightens-security-and-speeds-up-invoices",
-    "title": "BTCPay Server 2.4.5 tightens security and speeds up invoices",
-    "tags": [
-      "BTCPay Server"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T17:35:16.000Z"
-  },
-  {
-    "id": "7f657d5767494b8f",
-    "slug": "affluent-investors-seen-boosting-crypto-exposure-survey",
-    "title": "Affluent investors seen boosting crypto exposure: Survey",
-    "tags": [
-      "Crypto"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T17:30:18.000Z"
-  },
-  {
-    "id": "0d2c582f8fbcb9a2",
-    "slug": "google-releases-embeddinggemma-2-a-740-million-parameter-open-weight-model-under-apache-2-0",
-    "title": "Google releases EmbeddingGemma 2, a 740 million parameter open-weight model under Apache 2.0",
-    "tags": [
-      "Google"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T17:29:56.000Z"
-  },
-  {
-    "id": "f1d24d27c5d408db",
-    "slug": "shiba-inu-trading-volume-explodes-199-after-debut-on-solana-could-shib-be-primed-for-a-q4-memecoin",
-    "title": "Shiba Inu Trading Volume Explodes 199% After Debut on Solana: Could SHIB Be Primed for a Q4 Memecoin Explosion?",
-    "tags": [
-      "Shiba Inu",
-      "Solana",
-      "SHIB"
-    ],
-    "source": "ZyCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T17:28:47.000Z"
-  },
-  {
-    "id": "75624d5fb69cc363",
-    "slug": "circle-s-new-usdc-ambassador-dj-khaled",
-    "title": "Circle’s new USDC ambassador? DJ Khaled",
-    "tags": [
-      "Circle",
-      "USDC",
-      "DJ Khaled"
-    ],
-    "source": "Protos",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T17:24:14.000Z"
-  },
-  {
-    "id": "35ec12a11abb02e0",
-    "slug": "mistral-ai-drops-le-chonk-a-massive-ai-model-named-after-a-cat-meme",
-    "title": "Mistral AI Drops 'Le Chonk': A Massive AI Model Named After a Cat Meme",
-    "tags": [
-      "Mistral AI"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T17:22:54.000Z"
-  },
-  {
-    "id": "02b3cebb2bd9134e",
-    "slug": "bitcoin-dormant-wallets-holding-115m-in-btc-make-first-move-in-13-years",
-    "title": "Bitcoin Dormant Wallets Holding $115M in BTC Make First Move in 13 Years",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "ZyCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T17:21:30.000Z"
-  },
-  {
-    "id": "bb1e29fbb946e873",
-    "slug": "boost-run-signs-525-6m-cloud-deal-with-cohere-pushing-total-contract-value-past-2-6-billion",
-    "title": "Boost Run signs $525.6M cloud deal with Cohere, pushing total contract value past $2.6 billion",
-    "tags": [
-      "Boost Run",
-      "Cohere"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T17:20:40.000Z"
-  },
-  {
-    "id": "02e184b6a9bbc069",
-    "slug": "us-treasury-acknowledges-lawful-use-of-bitcoin-and-crypto-mixers",
-    "title": "US Treasury acknowledges lawful use of Bitcoin and crypto mixers",
-    "tags": [
-      "US Treasury",
-      "Bitcoin",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T17:20:31.000Z"
-  },
-  {
-    "id": "464189d03a38caae",
-    "slug": "bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs",
-    "title": "Bitcoin grinds toward $87K as US equities hit new record highs",
-    "tags": [
-      "Bitcoin",
-      "United States"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T17:19:58.000Z"
-  },
-  {
-    "id": "35986025d4c0bf06",
-    "slug": "tether-s-tokenized-gold-piles-into-defi-as-aave-takes-the-lion-s-share",
-    "title": "Tether’s tokenized gold piles into DeFi as Aave takes the lion’s share",
-    "tags": [
-      "Tether",
-      "Aave"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T17:18:40.000Z"
-  },
-  {
-    "id": "d542fb009373a4ba",
-    "slug": "mistral-unveils-large-4-ai-model-claims-edge-over-chinese-rivals",
-    "title": "Mistral unveils Large 4 AI model, claims edge over Chinese rivals",
-    "tags": [
-      "Mistral",
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T17:13:03.000Z"
-  },
-  {
-    "id": "286c37977931973c",
-    "slug": "stellar-s-tokenized-us-t-bills-add-96-2-million-in-a-single-week",
-    "title": "Stellar’s tokenized US T-bills add $96.2 million in a single week",
-    "tags": [
-      "Stellar",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T17:11:39.000Z"
-  },
-  {
-    "id": "14a350f463e503e1",
-    "slug": "us-government-moves-264-bitcoin-worth-23m-to-coinbase-in-bitfinex-restitution",
-    "title": "US government moves 264 Bitcoin worth $23M to Coinbase in Bitfinex restitution",
-    "tags": [
-      "United States",
-      "Bitcoin",
-      "Coinbase",
-      "Bitfinex"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T17:06:01.000Z"
-  },
-  {
-    "id": "5074e2c7d250fd9f",
-    "slug": "securitize-stock-jumps-8-amid-south-korea-tokenization-push",
-    "title": "Securitize stock jumps 8% amid South Korea tokenization push",
-    "tags": [
-      "Securitize",
-      "LG CNS",
-      "South Korea"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T17:04:41.000Z"
-  },
-  {
-    "id": "dc8ccbc2e1740200",
-    "slug": "crypto-market-faces-pressure-as-global-energy-crisis-risk-grows",
-    "title": "Crypto Market Faces Pressure as Global Energy Crisis Risk Grows",
-    "tags": [
-      "Persian Gulf",
-      "Iran"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T17:02:25.000Z"
-  },
-  {
-    "id": "0bbab519c515b8c2",
-    "slug": "doj-presses-tornado-cash-prosecution-as-treasury-drops-mixer-reporting-plan",
-    "title": "DOJ presses Tornado Cash prosecution as Treasury drops mixer reporting plan",
-    "tags": [
-      "Tornado Cash",
-      "Bitcoin Fog",
-      "United States"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T17:00:37.000Z"
-  },
-  {
-    "id": "90004d952e1da472",
-    "slug": "peter-thiel-backed-founders-fund-leads-a-5-million-token-buy-in-crypto-collateral-protocol-anvil",
-    "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
-    "tags": [
-      "Founders Fund",
-      "Peter Thiel",
-      "Anvil"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T17:00:00.000Z"
-  },
-  {
-    "id": "71d1df6f442d90ea",
-    "slug": "starknet-v0-14-4-goes-live-on-mainnet-with-bigger-proofs-and-gas-tweaks",
-    "title": "Starknet v0.14.4 goes live on mainnet with bigger proofs and gas tweaks",
-    "tags": [
-      "Starknet",
-      "STRK"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T16:59:25.000Z"
-  },
-  {
-    "id": "5ef6a887cf9ee507",
-    "slug": "atlassian-and-openai-expand-partnership-to-bring-frontier-models-into-jira-and-confluence",
-    "title": "Atlassian and OpenAI expand partnership to bring frontier models into Jira and Confluence",
-    "tags": [
-      "Atlassian",
-      "OpenAI",
-      "Jira",
-      "Confluence"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T16:54:47.000Z"
-  },
-  {
-    "id": "ae29d3bfc4ac00b0",
-    "slug": "how-does-ripple-use-xrp-custody-gas-station-tool-sends-xrp-automatically-to-cover-fees",
-    "title": "How Does Ripple Use XRP? Custody ‘Gas Station’ Tool Sends XRP Automatically To Cover Fees",
-    "tags": [
-      "Ripple",
-      "XRP",
-      "XRP Ledger"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T16:52:19.000Z"
-  },
-  {
-    "id": "cda36ceed19127e4",
-    "slug": "the-b2b-payment-experience-is-broken-here-s-why-businesses-need-more-than-a-way-to-send-and-receive",
-    "title": "The B2B payment experience is broken. Here's why businesses need more than a way to send and receive",
-    "tags": [
-      "B2B"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T16:51:40.000Z"
-  },
-  {
-    "id": "572bf95483543e4e",
-    "slug": "crypto-is-expanding-the-boundaries-of-what-can-be-priced",
-    "title": "Crypto is expanding the boundaries of what can be priced",
-    "tags": [
-      "Altius",
-      "Annabelle Huang"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T16:50:26.000Z"
-  },
-  {
-    "id": "5438b3b45a0f7b16",
-    "slug": "bitcoin-needs-etf-flows-to-confirm-fed-driven-rally-to-93-000-bitget-analyst-says",
-    "title": "Bitcoin needs ETF flows to confirm Fed-driven rally to $93,000, Bitget analyst says",
-    "tags": [
-      "Bitcoin",
-      "Bitget",
-      "Federal Reserve"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T16:48:02.000Z"
-  },
-  {
-    "id": "01e763aea71dad7d",
-    "slug": "winklevoss-group-seeks-to-launch-zcash-etf-with-0-25-fee-proposed-wink-ticker",
-    "title": "Winklevoss group seeks to launch Zcash ETF with 0.25% fee, proposed WINK ticker",
-    "tags": [
-      "Zcash",
-      "Bitcoin",
-      "Nasdaq",
-      "United States"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T16:43:41.000Z"
-  },
-  {
-    "id": "bb5cee2a18b7a9fe",
-    "slug": "bitcoin-falls-asleep-but-privacy-coins-zcash-and-monero-are-waking-up",
-    "title": "Bitcoin Falls Asleep, But Privacy Coins Zcash and Monero Are Waking Up",
-    "tags": [
-      "Bitcoin",
-      "Zcash",
-      "Monero"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T16:38:15.000Z"
-  },
-  {
-    "id": "98b267c43c48561e",
-    "slug": "ecb-policymaker-warns-of-fragmentation-without-digital-euro",
-    "title": "ECB policymaker warns of fragmentation without digital euro",
-    "tags": [
-      "European Central Bank",
-      "European Union"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T16:32:57.000Z"
-  },
-  {
-    "id": "4f7ed7015c22dd24",
-    "slug": "prediction-markets-just-hit-188-billion-and-one-company-is-dominating",
-    "title": "Prediction Markets Just Hit $188 Billion, and One Company is Dominating",
-    "tags": [
-      "BeInCrypto"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T16:32:33.000Z"
-  },
-  {
-    "id": "77cd96a6056ebc72",
-    "slug": "8-secrets-top-crypto-marketing-agencies-use-to-build-massive-web3-hype",
-    "title": "8 Secrets Top Crypto Marketing Agencies Use to Build Massive Web3 Hype",
-    "tags": [
-      "Web3"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-06T16:32:26.000Z"
   }
 ]
