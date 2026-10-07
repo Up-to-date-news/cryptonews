@@ -480,5 +480,518 @@
     "content": "Coinbase plans to relaunch Coinbase Pro by the end of the year, bringing back the popular trading platform. Additionally, the company has completed its integration with Deribit. This strategic combination has created the new Coinbase Global Exchange, expanding digital asset trading offerings for users worldwide.",
     "content_ta": "இந்த ஆண்டின் இறுதிக்குள் Coinbase Pro-வை மீண்டும் தொடங்க Coinbase திட்டமிட்டுள்ளது. மேலும், Deribit உடனான ஒருங்கிணைப்புப் பணியை இந்நிறுவனம் வெற்றிகரமாக முடித்துள்ளது. இந்த வியூக இணைப்பின் மூலம் புதிய Coinbase Global Exchange உருவாக்கப்பட்டுள்ளது, இது உலகளாவிய பயனர்களுக்கு டிஜிட்டல் சொத்து வர்த்தக சேவைகளை விரிவுபடுத்துகிறது.",
     "slug": "coinbase-pro-to-return-deribit-integration-creates-coinbase-global-exchange"
+  },
+  {
+    "id": "75255aa5550ee946",
+    "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
+    "summary": "The new standard is aimed at regulated stablecoins, funds and bonds whose issuers need identity checks, sanctions controls and other transfer rules built into the asset itself.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
+    "source": "CoinDesk",
+    "tags": [
+      "Cardano"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T04:11:33.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "Cardano has introduced a new feature giving token issuers the power to freeze, seize, and restrict assets. This standard is specifically designed for regulated stablecoins, funds, and bonds. It allows issuers to integrate identity checks, sanctions controls, and other transfer rules directly into the asset itself, providing greater regulatory compliance.",
+    "content_ta": "Cardano நெட்வொர்க் டோக்கன் வெளியீட்டாளர்களுக்கு சொத்துக்களை முடக்கவும், கைப்பற்றவும், கட்டுப்படுத்தவும் புதிய அதிகாரத்தை வழங்கியுள்ளது. இந்த புதிய தரநிலையானது ஒழுங்குபடுத்தப்பட்ட stablecoins, நிதிகள் மற்றும் பத்திரங்களை இலக்காகக் கொண்டுள்ளது. இது அடையாளச் சோதனைகள் மற்றும் கட்டுப்பாட்டு விதிகளை நேரடியாக சொத்துக்குள்ளேயே இணைக்க அனுமதிக்கிறது.",
+    "slug": "cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets"
+  },
+  {
+    "id": "4e5a5b3f011dd986",
+    "title": "Kalshi’s 15-min gold markets overtake Ether just weeks after launch",
+    "summary": "Gold recorded 542 million contracts and an estimated $5 million in fees in September, surpassing Ether’s 318 million contracts and $2.6 million, though Bitcoin remained far ahead.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Kalshi",
+      "Ether",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T04:57:54.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "Just weeks after launch, Kalshi's 15-minute gold markets have overtaken Ether in trading activity. In September, gold recorded 542 million contracts and an estimated $5 million in fees, surpassing Ether's 318 million contracts and $2.6 million. Despite this rapid growth, Bitcoin remained far ahead in overall volume.",
+    "content_ta": "தொடங்கப்பட்ட சில வாரங்களிலேயே, Kalshi-யின் 15 நிமிட gold மார்க்கெட்டுகள் வர்த்தக நடவடிக்கைகளில் Ether-ஐ முந்தியுள்ளது. செப்டம்பர் மாதத்தில், gold 542 மில்லியன் ஒப்பந்தங்களையும் மதிப்பிடப்பட்ட $5 மில்லியன் கட்டணங்களையும் பதிவு செய்து, Ether-இன் 318 மில்லியன் ஒப்பந்தங்கள் மற்றும் $2.6 மில்லியனை விஞ்சியது. இருப்பினும், Bitcoin ஒட்டுமொத்த அளவில் மிகவும் முன்னிலையில் உள்ளது.",
+    "slug": "kalshi-s-15-min-gold-markets-overtake-ether-just-weeks-after-launch"
+  },
+  {
+    "id": "61b4f7b0c870aa96",
+    "title": "Solana DvP settlement requires 100% upfront cash for every trade",
+    "summary": "Its published DvP design exchanges fully funded token legs atomically, leaving financing and netting to institutions.\nThe post Solana DvP settlement requires 100% upfront cash for every trade appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/solana-dvp-settlement-requires-100-upfront-cash-for-every-trade/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Solana"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T04:30:56.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "The newly published Delivery-versus-Payment design for Solana requires 100% upfront cash for every single trade. This system exchanges fully funded token legs atomically. By enforcing this strict upfront payment model, the framework leaves broader financing and netting responsibilities entirely up to participating institutions.",
+    "content_ta": "Solana-க்கான புதிய Delivery-versus-Payment வடிவமைப்பு ஒவ்வொரு வர்த்தகத்திற்கும் 100% முன்கூட்டிய பணத்தை அவசியமாக்குகிறது. இந்த அமைப்பு டோக்கன் பரிமாற்றங்களை அணுளவில் செயல்படுத்துகிறது. இந்த கடுமையான கட்டண முறையின் மூலம், பரந்த நிதி மற்றும் நெட்வொர்க்கிங் பொறுப்புகளை நிறுவனங்களுக்கே விட்டுவிடுகிறது.",
+    "slug": "solana-dvp-settlement-requires-100-upfront-cash-for-every-trade"
+  },
+  {
+    "id": "6b0e7cd6ba3ef804",
+    "title": "Cardano News: CIP-0113 Upgrade Could Change ADA Future",
+    "summary": "CIP-0113 is now live on Cardano mainnet, adding identity, sanctions and transfer controls for regulated stablecoins, funds and bonds.\nThe post Cardano News: CIP-0113 Upgrade Could Change ADA Future appeared first on Cryptonews.",
+    "hasSummary": true,
+    "link": "https://cryptonews.com/news/cardano-news-cip-0113-regulated-token-controls/",
+    "source": "CryptoNews",
+    "tags": [
+      "Cardano",
+      "ADA"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T05:23:20.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "The CIP-0113 upgrade is now live on the Cardano mainnet, introducing new identity, sanctions, and transfer controls. This development is designed to support regulated stablecoins, funds, and bonds on the network, potentially shaping the future of ADA and expanding its utility in the regulated financial sector.",
+    "content_ta": "கார்டானோ மெயின்நெட்டில் CIP-0113 அப்கிரேட் வெளியிடப்பட்டுள்ளது. இது புதிய அடையாளச் சரிபார்ப்பு, தடைகள் மற்றும் பரிமாற்றக் கட்டுப்பாடுகளைக் கொண்டுவருகிறது. ஒழுங்குபடுத்தப்பட்ட ஸ்டேபிள்காயின்கள், ஃபண்டுகள் மற்றும் பாண்டுகளை ஆதரிப்பதற்காக இந்த அம்சம் உருவாக்கப்பட்டுள்ளது. இது ADA-ன் எதிர்காலத்தை மாற்றி அமைக்கக்கூடும்.",
+    "slug": "cardano-news-cip-0113-upgrade-could-change-ada-future"
+  },
+  {
+    "id": "6f13cf5665631023",
+    "title": "Why Did Bitcoin’s Price Slump by $2K in 20 Minutes?",
+    "summary": "Was the US government behind this major liquidation event?",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/why-did-bitcoins-price-slump-by-2k-in-20-minutes/",
+    "source": "CryptoPotato",
+    "tags": [
+      "Bitcoin",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T04:50:41.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin experienced a sudden and sharp price drop, plunging by $2,000 in just 20 minutes. This major market movement triggered widespread speculation and concern among investors and traders. Many in the financial community began questioning the underlying causes of the rapid liquidation event, with some specifically wondering if actions by the United States government played a role in the sudden market sell-off.",
+    "content_ta": "Bitcoin-யின் விலை வெறும் 20 நிமிடங்களில் 2,000 டாலர்கள் சரிந்து திடீர் வீழ்ச்சியை சந்தித்தது. இந்த திடீர் விலை சரிவு முதலீட்டாளர்கள் மற்றும் வர்த்தகர்கள் மத்தியில் பெரும் கவலைகளையும் யூகங்களையும் ஏற்படுத்தியுள்ளது. இந்த திடீர் சரிவுக்கான உண்மையான காரணங்கள் என்ன என்பது குறித்தும், இந்த விற்பனைக்கு United States அரசாங்கம் ஏதேனும் காரணமாக இருக்குமா என்றும் சந்தை வட்டாரங்கள் கேள்வி எழுப்பி வருகின்றன.",
+    "slug": "why-did-bitcoin-s-price-slump-by-2k-in-20-minutes"
+  },
+  {
+    "id": "854d0c7c19133d18",
+    "title": "The Sandbox falls 10% – Can SAND’s bull flag survive the sell-off?",
+    "summary": "The Sandbox plunges by double-digits but exchange reserves decline hints at buying activity.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/the-sandbox-falls-10-can-sands-bull-flag-survive-the-sell-off/",
+    "source": "AMBCrypto",
+    "tags": [
+      "The Sandbox",
+      "SAND"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T06:00:02.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "The Sandbox saw its price drop by 10% amid a broader market sell-off. Despite this double-digit plunge, on-chain data shows a decline in exchange reserves, suggesting that some investors may view the lower price as a buying opportunity and are accumulating SAND tokens.",
+    "content_ta": "The Sandbox-IN விலை சந்தை சரிவு காரணமாக 10% சரிந்தது. இந்த இரட்டை இலக்க வீழ்ச்சிக்கு மத்தியில், எக்ஸ்சேஞ்ச் ரிசர்வ்ஸ் குறைந்திருப்பது வெளிப்பட்டுள்ளது, இது சில முதலீட்டாளர்கள் குறைந்த விலையை வாங்கும் வாய்ப்பாகக் கருதி SAND டோக்கன்களை சேகரிப்பதைக் குறிக்கிறது.",
+    "slug": "the-sandbox-falls-10-can-sand-s-bull-flag-survive-the-sell-off"
+  },
+  {
+    "id": "58bc6933d4046806",
+    "title": "Bitway – Can BTW clear $1.53 resistance to resume its macro uptrend?",
+    "summary": "The BTW rally of 43% in 10 hours on the 2nd of October was a strong bullish sign after the weekend correction of almost 49%.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/bitway-can-btw-clear-1-53-resistance-to-resume-its-macro-uptrend/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Bitway",
+      "BTW"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T05:15:01.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "Bitway's native token BTW recently experienced a massive 43% price rally within just 10 hours on October 2nd. This strong bullish movement followed a sharp weekend correction of nearly 49%. Market participants are now closely watching whether BTW can successfully clear the critical $1.53 resistance level to resume its broader macro uptrend.",
+    "content_ta": "Bitway-ன் BTW டோக்கன் அக்டோபர் 2-ஆம் தேதி வெறும் 10 மணி நேரத்திற்குள் 43 சதவீத விலை உயர்வைச் சந்தித்துள்ளது. வார இறுதி சரிவுக்குப் பிறகு இந்த வலுவான காளை சந்தை நகர்வு ஏற்பட்டுள்ளது. பரந்த மேக்ரோ உயர்வை மீண்டும் தொடங்க, BTW கிரிப்டோகரன்சி குறிப்பிட்ட $1.53 தடையைக் கடக்குமா என்பதை முதலீட்டாளர்கள் உன்னிப்பாகக் கவனித்து வருகின்றனர்.",
+    "slug": "bitway-can-btw-clear-1-53-resistance-to-resume-its-macro-uptrend"
+  },
+  {
+    "id": "31eb79a5250ae3e7",
+    "title": "Insiders Are Selling Refiners and Skipping Banks. What Should Investors Do?",
+    "summary": "Insider selling hits refiners as financial buying sinks to a 23-year low. Here is what investors can check in filings.\nThe post Insiders Are Selling Refiners and Skipping Banks. What Should Investors Do? appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/insider-selling-refiners-bank-buying-low/",
+    "source": "BeInCrypto",
+    "tags": [
+      "BeInCrypto"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T05:10:00.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "Recent insider activity shows a noticeable trend as insiders sell off shares in refiners while avoiding financial institutions. Meanwhile, financial buying has dropped to its lowest level in 23 years. Investors are advised to closely examine regulatory filings to understand these market shifts and make informed decisions regarding their portfolios.",
+    "content_ta": "சமீபத்திய இன்சைடர் வர்த்தகம் ஒரு குறிப்பிடத்தக்க போக்கைக் காட்டுகிறது. இன்சைடர்கள் refiners பங்குகளை விற்று வருவதோடு, financial நிறுவனங்களைத் தவிர்க்கின்றனர். இதற்கிடையில், financial வாங்குதல் கடந்த 23 ஆண்டுகளில் இல்லாத அளவுக்குக் குறைந்த அளவைக் கண்டுள்ளது. இந்த சந்தை மாற்றங்களைப் புரிந்து கொண்டு, முதலீட்டாளர்கள் தங்கள் போர்ட்ஃபோலியோ குறித்து சரியான முடிவுகளை எடுக்க regulatory filings-ஐ உன்னிப்பாகக் கவனிக்குமாறு அறிவுறுத்தப்படுகிறார்கள்.",
+    "slug": "insiders-are-selling-refiners-and-skipping-banks-what-should-investors-do"
+  },
+  {
+    "id": "d191a0e8cce071ba",
+    "title": "Perseus CEO Says Gold Price Uncertainty Is Keeping M&A Deals Stuck at the Table",
+    "summary": "Gold’s price swings are now affecting corporate dealmaking, with Perseus Mining’s chief executive saying companies struggle to agree on valuations.  Craig Jones said mergers and acquisitions (M&A) activity remains high, but not many deals are reaching completion. Gold’s Takeover Wave Hits a Valuation Wall Reuters noted that elevated bullion prices have driven a string of\nThe post Perseus CEO Says Gold Price Uncertainty Is Keeping M&A Deals Stuck at the Table appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/gold-price-uncertainty-mining-ma-perseus/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Perseus Mining"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T04:52:30.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "Gold price uncertainty is currently halting mergers and acquisitions in the mining sector. According to Perseus Mining's chief executive Craig Jones, while M&A activity remains high, companies are struggling to agree on company valuations due to ongoing price swings in the bullion market. Consequently, many potential deals are remaining stuck at the table without reaching completion.",
+    "content_ta": "தங்கம் விலையில் நிலவும் நிச்சயமற்ற தன்மை காரணமாக சுரங்கத் துறையில் நிறுவனங்களின் இணைப்பு மற்றும் கையகப்படுத்தல் பணிகள் பாதிக்கப்பட்டுள்ளன. தற்போதைய விலை மாற்றங்கள் காரணமாக நிறுவனங்கள் மதிப்பீடுகளில் உடன்பாட்டை எட்ட முடியாமல் திணறுவதாக Perseus Mining நிறுவனத்தின் தலைமை நிர்வாக அதிகாரி Craig Jones தெரிவித்துள்ளார். இதனால் பல ஒப்பந்தங்கள் முடிவுக்கு வராமல் தேக்கமடைந்துள்ளன.",
+    "slug": "perseus-ceo-says-gold-price-uncertainty-is-keeping-m-a-deals-stuck-at-the-table"
+  },
+  {
+    "id": "0c4076f922e902e6",
+    "title": "Arthur Hayes Expects the AI Boom to Overbuild, Crash, and Hand Bitcoin the Bailout",
+    "summary": "Arthur Hayes has raised a warning about the artificial intelligence (AI) data center buildout. He expects the multi-trillion-dollar boom to end in a crash and a bailout. But why does that matter for crypto? According to the former BitMEX CEO, Bitcoin (BTC) and other crypto would soak up the excess liquidity that follows. Who Pays\nThe post Arthur Hayes Expects the AI Boom to Overbuild, Crash, and Hand Bitcoin the Bailout appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/arthur-hayes-ai-bailout-bitcoin/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Arthur Hayes",
+      "BitMEX",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T03:53:12.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "Arthur Hayes warns that the massive multi-trillion-dollar artificial intelligence data center buildout will eventually overextend and collapse. According to the former BitMEX CEO, this inevitable market crash and subsequent economic bailout will ultimately benefit Bitcoin and the broader cryptocurrency market by absorbing excess liquidity.",
+    "content_ta": "ம Massive multi-trillion-dollar AI டேட்டா சென்டர் கட்டமைப்பு இறுதியில் மிகையாக வளர்ந்து சரிவை சந்திக்க நேரிடும் என்று Arthur Hayes எச்சரித்துள்ளார். முன்னாள் BitMEX CEO-வின் கூற்றுப்படி, இந்த தவிர்க்க முடியாத சந்தை சரிவு மற்றும் அதனைத் தொடர்ந்து வரும் பொருளாதார மீட்பு நடவடிக்கைகள் இறுதியில் அதிகப்படியான பணப்புழக்கத்தை உறிஞ்சுவதன் மூலம் Bitcoin மற்றும் பரந்த கிரிப்டோ சந்தைக்கு நன்மை பயக்கும்.",
+    "slug": "arthur-hayes-expects-the-ai-boom-to-overbuild-crash-and-hand-bitcoin-the-bailout"
+  },
+  {
+    "id": "35e98010198656a6",
+    "title": "Will SpaceX's $40B Nvidia Bet Help or Hurt the Stock After a 16% Run?",
+    "summary": "SpaceX plans $40 billion in debt for Nvidia chips after a 16% five-day rally. Here is what it may mean for SPCX shares.\nThe post Will SpaceX's $40B Nvidia Bet Help or Hurt the Stock After a 16% Run? appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/spacex-40b-nvidia-chip-debt-stock/",
+    "source": "BeInCrypto",
+    "tags": [
+      "SpaceX",
+      "Nvidia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T03:19:30.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "SpaceX is reportedly planning a significant debt-financed investment of 40 billion dollars in Nvidia chips, following a 16 percent five-day market rally. This major financial move raises questions about how it will impact the stock performance moving forward. Observers are closely analyzing the potential outcomes for shares as the company undertakes this large hardware acquisition strategy.",
+    "content_ta": "Nvidia சிப்கள் வாங்குவதற்காக 40 பில்லியன் டாலர் கடன் நிதியுதவியுடன் மிகப்பெரிய முதலீட்டைச் செய்ய SpaceX திட்டமிட்டுள்ளதாகத் தகவல்கள் வெளியாகியுள்ளன. ஐந்து நாட்களில் 16 சதவீதம் அளவுக்கு சந்தை உயர்ந்ததைத் தொடர்ந்து இந்த நகர்வு வந்துள்ளது. இந்த வியூகத்தால் நிறுவனத்தின் பங்குச் சந்தை செயல்திறன் எவ்வாறு பாதிக்கப்படும் என்பது குறித்து பலரும் ஆராய்ந்து வருகின்றனர்.",
+    "slug": "will-spacex-s-40b-nvidia-bet-help-or-hurt-the-stock-after-a-16-run"
+  },
+  {
+    "id": "4fafd0cc031a7ea1",
+    "title": "World Liberty Financial plans payments tech rollout for Web2 firms",
+    "summary": "World Liberty Financial's expansion into Web2 payments could revolutionize traditional financial systems, enhancing efficiency and reducing costs.\nThe post World Liberty Financial plans payments tech rollout for Web2 firms appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/world-liberty-financial-payments-web2-firms/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "World Liberty Financial"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T05:36:45.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "World Liberty Financial is reportedly planning to roll out payments technology aimed at Web2 firms. This expansion into traditional markets could potentially impact how mainstream companies handle digital financial transactions, bringing blockchain-based solutions closer to conventional business operations and modernizing payment systems.",
+    "content_ta": "World Liberty Financial நிறுவனமானது Web2 நிறுவனங்களை இலக்காகக் கொண்டு புதிய கட்டண தொழில்நுட்பத்தை அறிமுகப்படுத்த திட்டமிட்டுள்ளது. இந்த விரிவாக்கம் பாரம்பரிய நிதி அமைப்புகளில் டிஜிட்டல் பரிவர்த்தனைகளை மேம்படுத்த உதவும் என்று எதிர்பார்க்கப்படுகிறது.",
+    "slug": "world-liberty-financial-plans-payments-tech-rollout-for-web2-firms"
+  },
+  {
+    "id": "8d20f9c37934f011",
+    "title": "Intel stays on board with Elon Musk’s Terafab chip venture",
+    "summary": "Intel's continued involvement in Terafab highlights its strategic positioning in the competitive AI chip market, impacting future tech landscapes.\nThe post Intel stays on board with Elon Musk’s Terafab chip venture appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/intel-continues-elon-musk-terafab-chip-venture/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Intel",
+      "Elon Musk",
+      "Terafab"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T04:48:57.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "Intel continues its involvement in Elon Musk’s Terafab chip venture. This ongoing partnership highlights Intel's strategic positioning within the competitive artificial intelligence chip market. The collaboration is expected to play a significant role in shaping future technological landscapes.",
+    "content_ta": "Intel மற்றும் Elon Musk-இன் Terafab chip venture நிறுவனத்துடனான தனது தொடர்பைத் தொடர்கிறது. இந்தத் தொடரும் கூட்டு, போட்டி நிறைந்த செயற்கை நுண்ணறிவு சிப் சந்தையில் Intel-இன் வியூக நிலையை வெளிப்படுத்துகிறது.",
+    "slug": "intel-stays-on-board-with-elon-musk-s-terafab-chip-venture"
+  },
+  {
+    "id": "f67c4b57aff3eda0",
+    "title": "European Commission weighs broad levy on large corporations to sidestep US tariff threats",
+    "summary": "The proposed levy could reshape EU corporate taxation, potentially straining US-EU trade relations and impacting multinational business strategies.\nThe post European Commission weighs broad levy on large corporations to sidestep US tariff threats appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/european-commission-broad-corporate-levy/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "European Commission",
+      "United States",
+      "European Union"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T04:35:46.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "The European Commission is considering a broad levy on large corporations as a potential strategy to sidestep tariff threats from the United States. This proposed measure could significantly reshape EU corporate taxation policies, potentially straining trade relations between the US and the European Union while altering tax and business strategies for multinational companies operating across these major global markets.",
+    "content_ta": "US-ன் வரி விதிப்பு அச்சுறுத்தல்களைத் தவிர்க்கும் பொருட்டு, பெரிய நிறுவனங்கள் மீது பரந்த அளவிலான வரியை விதிப்பது குறித்து European Commission பரிசீலித்து வருகிறது. இந்த முன்மொழியப்பட்ட நடவடிக்கை EU-ன் பெருநிறுவன வரிவிதிப்புக் கொள்கைகளை மாற்றிமைக்கக்கூடும். மேலும், US மற்றும் European Union இடையேயான வர்த்தக உறவுகளில் அழுத்தத்தை ஏற்படுத்தி, பன்னாட்டு நிறுவனங்களின் வணிக உத்திகளையும் பாதிக்க வாய்ப்புள்ளது.",
+    "slug": "european-commission-weighs-broad-levy-on-large-corporations-to-sidestep-us-tariff-threats"
+  },
+  {
+    "id": "1fa6ce7fbc0ba5bd",
+    "title": "Temasek warns AI and inflation are the biggest market risks for next year",
+    "summary": "Temasek's caution highlights the need for resilient investment strategies amid AI-driven inflation risks, impacting global market stability.\nThe post Temasek warns AI and inflation are the biggest market risks for next year appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/temasek-warns-ai-inflation-market-risks/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Temasek",
+      "Crypto Briefing"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T04:33:57.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "Temasek has warned that the rise of artificial intelligence and ongoing inflation represent the most significant market risks for the coming year. This caution emphasizes the critical need for resilient investment strategies as AI-driven economic shifts and inflation threaten global market stability, according to a report by Crypto Briefing.",
+    "content_ta": "அடுத்த ஆண்டுக்கான சந்தையில் மிகப்பெரிய ஆபத்துகளாக AI மற்றும் பணவீக்கம் இருக்கும் என்று Temasek எச்சரித்துள்ளது. AI-வளர்ச்சியால் ஏற்படும் பணவீக்க அபாயங்களை எதிர்கொள்ளவும் உலகளாவிய சந்தை ஸ்திரத்தன்மையைப் பேணவும் வலுவான முதலீட்டு உத்திகள் தேவை என்பதை இந்த எச்சரிக்கை எடுத்துக்காட்டுவதாக Crypto Briefing தெரிவித்துள்ளது.",
+    "slug": "temasek-warns-ai-and-inflation-are-the-biggest-market-risks-for-next-year"
+  },
+  {
+    "id": "ff17b85c13605210",
+    "title": "Ray Dalio warns AI bubble is nearing its bursting point as rates rise",
+    "summary": "Rising interest rates and debt reliance could trigger financial strain in the AI sector, echoing past market bubbles' collapse patterns.\nThe post Ray Dalio warns AI bubble is nearing its bursting point as rates rise appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/ray-dalio-ai-bubble-rising-rates/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Ray Dalio"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T04:23:34.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "Investor Ray Dalio has warned that the artificial intelligence sector is showing signs of forming a market bubble that could soon burst. Speaking as interest rates rise, Dalio pointed out that growing debt reliance and tightening financial conditions could place heavy strain on the industry, mirroring historical patterns of previous economic bubbles collapsing.",
+    "content_ta": "AI துறையில் உருவாகியுள்ள bubble விரைவில் வெடிக்கும் அபாயம் உள்ளதாக முதலீட்டாளர் Ray Dalio எச்சரித்துள்ளார். வட்டி விகிதங்கள் அதிகரித்து வரும் நிலையில், அதிகரித்துள்ள கடன் சுமை மற்றும் இறுக்கமான நிதிச் சூழல் ஆகியவை இத்துறைக்கு கடுமையான அழுத்தத்தை ஏற்படுத்தும் என்றும், இது கடந்த காலங்களில் நிகழ்ந்த சந்தை வீழ்ச்சிகளை நினைவூட்டுவதாகவும் அவர் குறிப்பிட்டுள்ளார்.",
+    "slug": "ray-dalio-warns-ai-bubble-is-nearing-its-bursting-point-as-rates-rise"
+  },
+  {
+    "id": "7ae15f52f0fbc130",
+    "title": "Cardano Foundation launches CIP-0113 token standard for compliance controls",
+    "summary": "CIP-0113 enhances Cardano's regulatory compliance, potentially increasing institutional adoption but raising trust concerns for token holders.\nThe post Cardano Foundation launches CIP-0113 token standard for compliance controls appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/cardano-cip-0113-token-compliance-standard/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Cardano Foundation",
+      "Cardano"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T04:15:42.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "The Cardano Foundation has launched the CIP-0113 token standard, introducing new compliance controls for the Cardano ecosystem. This update aims to enhance regulatory compliance, which could potentially drive institutional adoption. However, the introduction of these compliance features has also raised some trust and centralization concerns among certain token holders.",
+    "content_ta": "Cardano Foundation புதிய CIP-0113 டோக்கன் தரநிலையை அறிமுகப்படுத்தியுள்ளது, இது Cardano சுற்றுச்சூழல் அமைப்பிற்கான ஒழுங்குமுறை இணக்கக் கட்டுப்பாடுகளைக் கொண்டுவருகிறது. இந்த புதுப்பிப்பு நிறுவனங்களின் தத்தெடுப்பை அதிகரிக்கும் என எதிர்பார்க்கப்படுகிறது, அதே நேரத்தில் சில டோக்கன் வைத்திருப்பவர்களிடையே நம்பிக்கை கவலைகளையும் எழுப்பியுள்ளது.",
+    "slug": "cardano-foundation-launches-cip-0113-token-standard-for-compliance-controls"
+  },
+  {
+    "id": "c2672b0a758f8561",
+    "title": "Robinhood’s $25 billion crypto pile belongs to customers, not its treasury",
+    "summary": "Misinterpreting customer-held crypto as corporate assets can mislead market perceptions, affecting investor sentiment and perceived demand.\nThe post Robinhood’s $25 billion crypto pile belongs to customers, not its treasury appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/robinhood-bitcoin-customer-custody-not-treasury/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Robinhood"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T03:55:09.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "A recent market clarification highlights that billions in cryptocurrency held on Robinhood belongs entirely to its customers rather than the company treasury. Misunderstanding these customer-held digital assets as corporate funds can create inaccurate market perceptions, potentially influencing investor sentiment and altering how market demand is evaluated within the industry.",
+    "content_ta": "Robinhood-ல் வைக்கப்பட்டிருக்கும் கோடிக்கணக்கான மதிப்பிலான கிரிப்டோகரன்சி சொத்துக்கள் நிறுவனத்தின் கருவூலத்திற்கு சொந்தமானவை அல்ல, மாறாக வாடிக்கையாளர்களுக்கே சொந்தமானவை என்று சமீபத்திய சந்தை விளக்கம் தெளிவுபடுத்தியுள்ளது. வாடிக்கையாளர்களின் இந்த டிஜிட்டல் சொத்துக்களை பெருநிறுவன நிதி என்று தவறாகப் புரிந்துகொள்வது சந்தை மதிப்பிட்டில் குழப்பத்தை ஏற்படுத்தலாம், இது முதலீட்டாளர்களின் மனநிலையை பாதிக்கும்.",
+    "slug": "robinhood-s-25-billion-crypto-pile-belongs-to-customers-not-its-treasury"
+  },
+  {
+    "id": "2cbf95d55909929a",
+    "title": "BlackRock’s Nikhil Sharma pitches tokenized money market funds as instant collateral at TOKEN2049",
+    "summary": "Tokenized money market funds could revolutionize collateral management, enhancing liquidity and efficiency in financial markets.\nThe post BlackRock’s Nikhil Sharma pitches tokenized money market funds as instant collateral at TOKEN2049 appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/blackrock-sharma-tokenized-money-market-funds-token2049/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "BlackRock",
+      "Nikhil Sharma",
+      "TOKEN2049"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T03:54:09.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "At the TOKEN2049 event, Nikhil Sharma of BlackRock discussed the potential of tokenized money market funds to serve as instant collateral. This innovation aims to improve liquidity and streamline financial market efficiency. By transforming traditional assets into digital tokens, market participants can achieve faster settlement times and better capital management in trading activities.",
+    "content_ta": "TOKEN2049 நிகழ்வில், BlackRock நிறுவனத்தைச் சேர்ந்த Nikhil Sharma, டோக்கனைஸ்டு செய்யப்பட்ட மணி மார்க்கெட் ஃபண்டுகளை உடனடி பிணையமாகப் பயன்படுத்துவது குறித்துப் பேசினார். இந்த புதிய முறை நிதிச் சந்தைகளில் பணப்புழக்கத்தையும் செயல்திறனையும் மேம்படுத்த உதவும் என்று எதிர்பார்க்கப்படுகிறது.",
+    "slug": "blackrock-s-nikhil-sharma-pitches-tokenized-money-market-funds-as-instant-collateral-at-token2049"
+  },
+  {
+    "id": "fea0f63b63515e60",
+    "title": "Muneeb Ali pledges Stacks Labs IP transfer to the Stacks Endowment",
+    "summary": "Ali's IP transfer pledge to the Stacks Endowment could enhance ecosystem trust, aligning development with community funding priorities.\nThe post Muneeb Ali pledges Stacks Labs IP transfer to the Stacks Endowment appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/muneeb-ali-stacks-labs-ip-transfer-endowment/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Muneeb Ali",
+      "Stacks Labs",
+      "Stacks Endowment"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T03:45:10.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "Muneeb Ali has pledged to transfer Stacks Labs intellectual property to the Stacks Endowment. This move aims to strengthen the ecosystem by aligning development efforts with community-driven funding priorities, which could potentially enhance overall trust and decentralization within the Stacks network according to recent reports.",
+    "content_ta": "Stacks Endowment-க்கு Stacks Labs இன்டெலச்சுவல் ப்ராப்பர்ட்டியை transfer செய்வதாக Muneeb Ali உறுதியளித்துள்ளார். இந்த நடவடிக்கை கம்யூனிட்டி ஃபண்டிங் முன்னுரிமைகளுடன் டெவலப்மென்ட் பணிகளை இணைப்பதன் மூலம் Stacks நெட்வொர்க்கில் நம்பிக்கையையும் பரவலாக்கத்தையும் அதிகரிக்கும் என்று எதிர்பார்க்கப்படுகிறது.",
+    "slug": "muneeb-ali-pledges-stacks-labs-ip-transfer-to-the-stacks-endowment"
+  },
+  {
+    "id": "1705baa52bee20e2",
+    "title": "Ethena founder says yield isn’t a commodity because trust isn’t equal",
+    "summary": "Ethena's approach highlights the importance of trust and risk management in yield markets, influencing institutional investment strategies.\nThe post Ethena founder says yield isn’t a commodity because trust isn’t equal appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/ethena-founder-yield-trust-token2049/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Ethena"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T03:35:46.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "The founder of Ethena argued that yield cannot be treated as a simple commodity because varying levels of trust exist across different platforms. This perspective emphasizes that trust and risk management are critical factors in the yield market, which can shape how institutional investors approach their strategies moving forward.",
+    "content_ta": "yield என்பது ஒரு எளிய commodity அல்ல என்று Ethena நிறுவனத்தின் founder தெரிவித்துள்ளார். பல்வேறு தளங்களில் நம்பிக்கை மாறுபடுவதே இதற்குக் காரணம் என்று அவர் கூறினார். yield சந்தையில் trust மற்றும் risk management மிகவும் முக்கியம் என்பதை இந்தக் கருத்து அடிக்கோடிட்டுக் காட்டுகிறது. இது நிறுவன முதலீட்டாளர்களின் முதலீட்டு உத்திகளைப் பாதிக்கக்கூடும்.",
+    "slug": "ethena-founder-says-yield-isn-t-a-commodity-because-trust-isn-t-equal"
+  },
+  {
+    "id": "752c746bdad19e31",
+    "title": "AMD CEO Lisa Su heads back to Seoul for talks with Samsung’s chip chief",
+    "summary": "AMD's collaboration with Samsung could enhance its competitive edge in AI and server markets, potentially reshaping global chip supply dynamics.\nThe post AMD CEO Lisa Su heads back to Seoul for talks with Samsung’s chip chief appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/amd-lisa-su-samsung-hbm4-seoul-visit/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "AMD",
+      "Samsung",
+      "Lisa Su",
+      "Seoul"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T03:31:08.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "AMD CEO Lisa Su has traveled to Seoul to meet with Samsung's chip division chief. This visit highlights ongoing discussions between the two technology giants. Such a collaboration could significantly strengthen AMD's competitive position within the artificial intelligence and server markets, potentially altering the global semiconductor supply chain dynamics in the near future.",
+    "content_ta": "AMD CEO Lisa Su, Samsung-யின் chip பிரிவின் தலைவரை சந்திப்பதற்காக Seoul சென்றுள்ளார். இந்த பயணம் இந்த இரண்டு தொழில்நுட்ப நிறுவனங்களுக்கு இடையேயான தொடர்ச்சியான பேச்சுவார்த்தைகளை வெளிச்சம் போட்டுக் காட்டுகிறது. இத்தகைய ஒத்துழைப்பு artificial intelligence மற்றும் server சந்தைகளில் AMD-யின் போட்டித்திறனை கணிசமாக வலுப்படுத்தக்கூடும்.",
+    "slug": "amd-ceo-lisa-su-heads-back-to-seoul-for-talks-with-samsung-s-chip-chief"
+  },
+  {
+    "id": "51df4ac08123b9dc",
+    "title": "AI agents could pry loose the sleepy deposits US banks depend on",
+    "summary": "AI-driven deposit shifts could force banks to raise rates, eroding profit margins and benefiting fintechs offering higher yields.\nThe post AI agents could pry loose the sleepy deposits US banks depend on appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/ai-agents-threaten-us-bank-deposits/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T03:14:53.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "AI-driven deposit shifts could force US banks to raise interest rates, potentially eroding profit margins. This trend stands to benefit fintech companies that offer higher yields to customers. Automated AI agents are expected to make it easier for consumers to move their sleepy deposits away from traditional banking institutions in search of better returns.",
+    "content_ta": "AI-யின் வருகையால் அமெரிக்க வங்கிகளில் உள்ள டெபாசிட்டுகள் மாற வாய்ப்புள்ளது. இதனால் வங்கிகள் வட்டி விகிதங்களை உயர்த்த வேண்டிய கட்டாயம் ஏற்பட்டு, அவற்றின் லாபம் குறையக்கூடும். அதேசமயம், அதிக லாபம் வழங்கும் fintech நிறுவனங்களுக்கு இது சாதகமாக அமையும். பாரம்பரிய வங்கிகளில் உள்ள டெபாசிட்டுகளை வாடிக்கையாளர்கள் எளிதாக மாற்றுவதற்கு AI ஏஜெண்டுகள் உதவுவார்கள்.",
+    "slug": "ai-agents-could-pry-loose-the-sleepy-deposits-us-banks-depend-on"
+  },
+  {
+    "id": "b222e5f672b3f97e",
+    "title": "Coinbase revives Pro branding as Deribit integration reshapes its global exchange",
+    "summary": "Coinbase's integration with Deribit could redefine global trading dynamics, enhancing liquidity and competition in the derivatives market.\nThe post Coinbase revives Pro branding as Deribit integration reshapes its global exchange appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/coinbase-pro-returns-deribit-global-exchange/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Coinbase",
+      "Deribit"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T03:06:53.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "Coinbase is bringing back its Pro branding following a strategic integration with Deribit. This move aims to reshape the company's global exchange operations by enhancing liquidity and increasing competition within the derivatives market. Industry observers note that the collaboration could significantly influence global crypto trading dynamics moving forward.",
+    "content_ta": "Deribit உடன் இணைந்ததைத் தொடர்ந்து Coinbase தனது Pro பிராண்டிங்கை மீண்டும் கொண்டுவந்துள்ளது. டெரிவேட்டிவ்ஸ் சந்தையில் பணப்புழக்கத்தை மேம்படுத்துவதும் போட்டியைக் அதிகரிப்பதும் இந்த நடவடிக்கையின் நோக்கமாகும். இந்த ஒத்துக்கழைப்பு உலகளாவிய கிரிப்டோ வர்த்தகத்தில் முக்கிய தாக்கத்தை ஏற்படுத்தும் என்று எதிர்பார்க்கப்படுகிறது.",
+    "slug": "coinbase-revives-pro-branding-as-deribit-integration-reshapes-its-global-exchange"
+  },
+  {
+    "id": "2a23b8b7fbe860b1",
+    "title": "Global Remittances to Hit $635bn by 2030 as Growth Rate Slows",
+    "summary": "Juniper Research forecasts 9.6% market growth from 2026 to 2030, a marked deceleration from the post-COVID surge, squeezing remittance providers on price.\nThe post Global Remittances to Hit $635bn by 2030 as Growth Rate Slows appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/global-remittances-to-hit-635bn-by-2030-as-growth-rate-slows/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Juniper Research"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T06:00:38.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "Global remittances are projected to reach $635 billion by 2030, according to new forecasts from Juniper Research. The market is expected to experience a 9.6% growth rate between 2026 and 2030, marking a significant slowdown compared to the rapid surge seen after the COVID-19 pandemic. This deceleration is anticipated to increase pricing pressure on remittance service providers globally.",
+    "content_ta": "Juniper Research-ியின் புதிய கணக்கெடுப்பின்படி, 2030-க்குள் உலகளாவிய ரெமிடன்ஸ் (remittances) பரிமாற்றங்கள் $635 பில்லியன் அளவை எட்டும் என எதிர்பார்க்கப்படுகிறது. COVID-19 தொற்றுநோய்க்குப் பிந்தைய காலத்தில் ஏற்பட்ட விரைவான வளர்ச்சியுடன் ஒப்பிடும்போது மந்தநிலையைக் குறிக்கும் வகையில், 2026 முதல் 2030 வரை சந்தை 9.6% வளர்ச்சியை மட்டுமே காணும் என்று கணிக்கப்பட்டுள்ளது.",
+    "slug": "global-remittances-to-hit-635bn-by-2030-as-growth-rate-slows"
+  },
+  {
+    "id": "70b06fb9f32e5b3b",
+    "title": "CompassPoint Warns Agentic AI in Finance Needs Boardroom Governance",
+    "summary": "UAE fractional CFO firm CompassPoint says agentic AI demands accountability frameworks before deployment, not after, especially for SMEs.\nThe post CompassPoint Warns Agentic AI in Finance Needs Boardroom Governance appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/compasspoint-warns-agentic-ai-in-finance-needs-boardroom-governance/",
+    "source": "The Fintech Times",
+    "tags": [
+      "CompassPoint",
+      "UAE"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T05:00:19.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "UAE fractional CFO firm CompassPoint has warned that the growing use of agentic AI in financial services requires strict boardroom governance. The company emphasizes that accountability frameworks must be established before deployment, particularly for small and medium-sized enterprises, to ensure proper oversight and manage risks effectively.",
+    "content_ta": "நிதிச் சேவைகளில் Agentic AI பயன்பாடு அதிகரித்து வரும் நிலையில், அதற்கு கடுமையான நிர்வாகக் கட்டமைப்பு அவசியம் என்று UAE-ஐச் சேர்ந்த fractional CFO நிறுவனமான CompassPoint எச்சரித்துள்ளது. சிறிய மற்றும் நடுத்தர நிறுவனங்களுக்கு இந்த தொழில்நுட்பத்தை அமல்படுத்துவதற்கு முன்பாகவே பொறுப்புக்கூறும் கட்டமைப்புகள் உருவாக்கப்பட வேண்டும் என்று அந்நிறுவனம் வலியுறுத்துகிறது.",
+    "slug": "compasspoint-warns-agentic-ai-in-finance-needs-boardroom-governance"
+  },
+  {
+    "id": "1e198da9fbb0bb15",
+    "title": "Brazil’s Fintech Stocks Rally as Flávio Bolsonaro’s First-Round Lead Signals a Potential Rightward Shift",
+    "summary": "Brazilian Fintech focused stocks jumped sharply in US trading on Monday after the first round of the country’s presidential election left Senator Flávio Bolsonaro narrowly ahead of incumbent Luiz Inácio Lula da Silva, raising the odds of a rightward policy turn before a runoff set... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/10/316036-brazils-fintech-stocks-rally-as-flavio-bolsonaros-first-round-lead-signals-a-potential-rightward-shift/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Brazil",
+      "Flávio Bolsonaro",
+      "Luiz Inácio Lula da Silva",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-07T03:45:24.000Z",
+    "fetchedAt": "2026-10-07T06:01:26.747Z",
+    "isDuplicateOf": null,
+    "content": "Brazilian fintech-focused stocks rallied sharply in U.S. trading following the first round of the country's presidential election. Senator Flávio Bolsonaro secured a narrow lead over incumbent Luiz Inácio Lula da Silva, signaling a potential rightward shift in national policy ahead of the upcoming runoff election.",
+    "content_ta": "பிரேசிலின் ஃபின்டெக் பங்குகள் அந்நாட்டின் ஜனாதிபதித் தேர்தலின் முதல் சுற்று முடிவுகளைத் தொடர்ந்து அமெரிக்க வர்த்தகத்தில் கடுமையாக உயர்ந்தன. செனட்டர் Flávio Bolsonaro தற்போதைய ஜனாதிபதி Luiz Inácio Lula da Silva-வை விட சிறிய முன்னிலை பெற்றுள்ளதால், வரவிருக்கும் இரண்டாவது சுற்றுத் தேர்தலில் வலதுசாரி கொள்கை மாற்றம் ஏற்படக்கூடும் என்ற எதிர்பார்ப்பு எழுந்துள்ளது.",
+    "slug": "brazil-s-fintech-stocks-rally-as-flavio-bolsonaro-s-first-round-lead-signals-a-potential-rightward"
   }
 ]
