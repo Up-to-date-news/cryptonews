@@ -22,4 +22,4 @@ the exact safety rules.
 
 - Run the workflow manually from the Actions tab with `dry_run: true` first — it only logs what *would* be deleted, nothing is removed.
 - Once the dry run's list looks right (current live deployment and the newest few are never in it), run again with `dry_run: false`.
-- `KEEP_LATEST` (default 5) controls how many recent ready deployments are always kept as a buffer, on top of whatever's currently live.
+- `KEEP_LATEST` (default 2) controls how many recent ready deployments are always kept as a buffer, on top of whatever's currently live.

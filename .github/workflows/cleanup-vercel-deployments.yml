@@ -13,6 +13,10 @@ on:
         description: 'Dry run (log only, delete nothing)'
         type: boolean
         default: true
+      keep_latest:
+        description: 'How many newest ready deployments to keep (on top of the live one)'
+        type: string
+        default: '2'
 
 permissions:
   contents: read
@@ -41,6 +45,6 @@ jobs:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
           VERCEL_TEAM_ID: ${{ secrets.VERCEL_TEAM_ID }}
-          KEEP_LATEST: '5'
+          KEEP_LATEST: ${{ github.event_name == 'workflow_dispatch' && inputs.keep_latest || '2' }}
           DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || 'false' }}
         run: node scripts/cleanup-deployments.mjs
