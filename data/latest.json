@@ -1,99 +1,298 @@
 [
   {
-    "id": "843ac5c98b0dcd84",
-    "title": "Coinbase opens full trading for DATA-USD and WHUF-USD pairs",
-    "summary": "Coinbase's expansion of trading pairs enhances market liquidity and accessibility, potentially driving increased adoption and innovation in crypto.\nThe post Coinbase opens full trading for DATA-USD and WHUF-USD pairs appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/coinbase-full-trading-data-whuf-pairs/",
+    "id": "a497e870d6a7ee05",
+    "slug": "openai-and-anthropic-count-revenue-differently-and-investors-are-confused",
+    "title": "OpenAI and Anthropic count revenue differently, and investors are confused",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
     "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T19:44:29.000Z"
+  },
+  {
+    "id": "c5a8512d93f0bc8e",
+    "title": "Glassnode Warns 31.2% of Bitcoin Supply Has Exposed Public Keys, Raising Quantum Risk",
+    "summary": "Bitcoin’s long-term security is facing renewed scrutiny after Glassnode co-founder estimated that 6.26M BTC sits in addresses with exposed public keys.",
+    "hasSummary": true,
+    "link": "https://zycrypto.com/glassnode-warns-31-2-of-bitcoin-supply-has-exposed-public-keys-raising-quantum-risk/",
+    "source": "ZyCrypto",
+    "tags": [
+      "Glassnode",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-09T19:43:55.000Z",
+    "fetchedAt": "2026-10-09T19:52:24.103Z",
+    "isDuplicateOf": null,
+    "content": "Glassnode has warned that a significant portion of the Bitcoin supply currently sits in addresses with exposed public keys. This has raised renewed scrutiny regarding the long-term quantum security of the cryptocurrency. Experts estimate that millions of BTC are potentially vulnerable to future quantum computing threats, prompting discussions about the network's security measures.",
+    "content_ta": "Bitcoin சப்ளையில் குறிப்பிடத்தக்க ஒரு பகுதி திறந்தவெளி பப்ளிக் கீக்களைக் கொண்டுள்ள அட்ரஸ்களில் உள்ளதாக Glassnode எச்சரித்துள்ளது. இது கிரிப்டோகரன்சியின் நீண்டகால குவாண்டம் பாதுகாப்பு குறித்த கவலைகளை மீண்டும் எழுப்பியுள்ளது. மில்லியன் கணக்கான BTC எதிர்கால குவாண்டம் கம்ப்யூட்டிங் அச்சுறுத்தல்களுக்கு ஆளாகக்கூடும் என்று நிபுணர்கள் மதிப்பிட்டுள்ளனர்.",
+    "slug": "glassnode-warns-31-2-of-bitcoin-supply-has-exposed-public-keys-raising-quantum-risk"
+  },
+  {
+    "id": "ccfffdefc21e1269",
+    "slug": "anthropic-ai-model-sent-a-fake-homicide-tip-to-philadelphia-police-during-testing",
+    "title": "Anthropic AI model sent a fake homicide tip to Philadelphia police during testing",
+    "tags": [
+      "Anthropic",
+      "Philadelphia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T19:40:23.000Z"
+  },
+  {
+    "id": "ab05dbc72acca775",
+    "title": "HYPE Whale’s $902K Bet Grows to $23M as On-Chain Data Shows Staged Selling",
+    "summary": "A 2-year-old $HYPE whale is starting to realize its massive gains, pocketing large amounts in profits in sizeable transactions.",
+    "hasSummary": true,
+    "link": "https://zycrypto.com/hype-whales-902k-bet-grows-to-23m-as-on-chain-data-shows-staged-selling/",
+    "source": "ZyCrypto",
+    "tags": [
+      "HYPE"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-09T19:33:50.000Z",
+    "fetchedAt": "2026-10-09T19:52:24.103Z",
+    "isDuplicateOf": null,
+    "content": "A long-term HYPE whale has seen an initial investment of roughly $902,000 grow into an impressive $23 million holding. Recent on-chain data indicates that this investor is beginning to realize these massive gains by executing staged selling through sizable transactions in the market.",
+    "content_ta": "ஒரு நீண்ட கால HYPE வேல், தனது தோராயமாக $902,000 முதலீட்டை $23 மில்லியன் மதிப்பாக பெருக்கியுள்ளது. இந்த முதலீட்டாளர் சந்தையில் பெரிய அளவிலான பரிவர்த்தனைகள் மூலம் தனது லாபத்தை படிப்படியாக விற்கத் தொடங்கியுள்ளதாக ஆன்-செயின் தரவுகள் காட்டுகின்றன.",
+    "slug": "hype-whale-s-902k-bet-grows-to-23m-as-on-chain-data-shows-staged-selling"
+  },
+  {
+    "id": "46e5e649a6739bf4",
+    "slug": "houthi-attacks-on-riyadh-airport-kill-3-injure-others-amid-saudi-tensions",
+    "title": "Houthi attacks on Riyadh airport kill 3, injure others amid Saudi tensions",
+    "tags": [
+      "Houthi",
+      "Riyadh",
+      "Saudi Arabia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T19:32:01.000Z"
+  },
+  {
+    "id": "c4de2553621a942a",
+    "slug": "trump-says-putin-will-ship-4-8-million-tons-of-diesel-will-prices-actually-fall",
+    "title": "Trump Says Putin Will Ship 4.8 Million Tons of Diesel: Will Prices Actually Fall?",
+    "tags": [
+      "Donald Trump",
+      "Vladimir Putin",
+      "Russia",
+      "United States"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T19:14:46.000Z"
+  },
+  {
+    "id": "0ddc85faccc6b94f",
+    "slug": "problem-gambling-council-chief-resigns-after-kalshi-donation-controversy",
+    "title": "Problem gambling council chief resigns after Kalshi donation controversy",
+    "tags": [
+      "Kalshi"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T19:12:19.000Z"
+  },
+  {
+    "id": "78dcc07de04d2314",
+    "slug": "openai-rolls-out-composer-predictions-in-codex-for-eligible-pro-users",
+    "title": "OpenAI rolls out composer predictions in Codex for eligible Pro users",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T19:10:59.000Z"
+  },
+  {
+    "id": "f13ee278496f29e5",
+    "title": "PC shipments fall 20% in sharpest decline since Q1 2023",
+    "summary": "The decline in PC shipments highlights the growing impact of AI on tech supply chains, potentially leading to sustained higher PC prices.\nThe post PC shipments fall 20% in sharpest decline since Q1 2023 appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/pc-shipments-fall-sharpest-decline-ai-memory/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "AI"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-09T18:59:06.000Z",
+    "fetchedAt": "2026-10-09T19:52:24.103Z",
+    "isDuplicateOf": null,
+    "content": "Personal computer shipments have fallen by twenty percent, marking the sharpest decline recorded since the first quarter of 2023. This significant drop underscores the evolving impact of artificial intelligence on technology supply chains. Industry observers note that these ongoing supply shifts could potentially contribute to sustained higher prices for personal computers in the near future.",
+    "content_ta": "PC shipments-களில் இருபது சதவீதம் சரிவு ஏற்பட்டுள்ளது. இது Q1 2023-க்குப் பிந்தைய காலகட்டத்தில் பதிவாகியுள்ள மிக கடுமையான சரிவாகும். AI தொழில்நுட்பத்தின் தாக்கம் tech supply chains-ஐ எவ்வாறு பாதிக்கிறது என்பதை இந்த வீழ்ச்சி காட்டுகிறது. இதன் காரணமாக PC prices தொடர்ந்து அதிகமாக இருக்க வாய்ப்புள்ளது.",
+    "slug": "pc-shipments-fall-20-in-sharpest-decline-since-q1-2023"
+  },
+  {
+    "id": "081a231103ec0bc7",
+    "slug": "elon-musk-takes-on-the-tycoon-building-a-10-billion-rival-to-starlink",
+    "title": "Elon Musk Takes On the Tycoon Building a $10 Billion Rival to Starlink",
+    "tags": [
+      "Elon Musk",
+      "Mukesh Ambani",
+      "Starlink",
+      "Jio",
+      "India"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T18:55:02.000Z"
+  },
+  {
+    "id": "22a82dedbc056417",
+    "title": "NEAR Protocol gains 83% in four weeks, leaving Bitcoin and Ether behind",
+    "summary": "NEAR Protocol jumped 83% in four weeks, beating Bitcoin and Ether, fueled by the Bitwise NRR spot ETF debut and $31-33 billion in Intents volume.\nThe post NEAR Protocol gains 83% in four weeks, leaving Bitcoin and Ether behind appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/near-protocol-gains-83-percent-four-weeks/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "NEAR Protocol",
+      "Bitcoin",
+      "Ether",
+      "Bitwise"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-09T18:52:53.000Z",
+    "fetchedAt": "2026-10-09T19:52:24.103Z",
+    "isDuplicateOf": null,
+    "content": "NEAR Protocol surged 83% over a four-week period, outperforming major digital assets like Bitcoin and Ether. This significant upward momentum was driven by notable developments, including the debut of the Bitwise NRR spot ETF and strong trading volume reaching up to $33 billion in Intents.",
+    "content_ta": "NEAR Protocol கடந்த நான்கு வாரங்களில் 83% வரை உயர்ந்துள்ளது, இது Bitcoin மற்றும் Ether போன்ற முக்கிய டிஜிட்டல் சொத்துக்களை விட சிறந்த செயல்திறனைக் காட்டியுள்ளது. பிட்வைஸ் NRR ஸ்பாட் ETF அறிமுகம் மற்றும் Intents பிரிவில் $33 பில்லியன் வரை பதிவான வலுவான வர்த்தக அளவு ஆகியவை இந்த குறிப்பிடத்தக்க வளர்ச்சிக்கு முக்கிய காரணமாகும்.",
+    "slug": "near-protocol-gains-83-in-four-weeks-leaving-bitcoin-and-ether-behind"
+  },
+  {
+    "id": "8609f4475e54620b",
+    "slug": "former-ftx-coo-says-netflix-s-altruists-trailer-made-me-physically-throw-up",
+    "title": "Former FTX COO says Netflix’s ‘Altruists’ trailer ‘made me physically throw up’",
+    "tags": [
+      "FTX",
+      "Netflix"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T18:51:45.000Z"
+  },
+  {
+    "id": "d74abd2db20f93df",
+    "title": "Enterprise trust in autonomous AI agents slips, VentureBeat survey finds",
+    "summary": "Decreased trust in AI autonomy may slow innovation, prompting enterprises to reassess risk management and human oversight in AI deployment.\nThe post Enterprise trust in autonomous AI agents slips, VentureBeat survey finds appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/venturebeat-survey-ai-agent-trust-drops/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "VentureBeat"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-09T18:40:29.000Z",
+    "fetchedAt": "2026-10-09T19:52:24.103Z",
+    "isDuplicateOf": null,
+    "content": "A recent VentureBeat survey reveals that enterprise trust in autonomous AI agents has declined. This drop in confidence could potentially slow down overall innovation as businesses reconsider their risk management strategies. Organizations are now emphasizing the need for stronger human oversight when deploying artificial intelligence solutions in their operations.",
+    "content_ta": "சு autonomously இயங்கும் AI agents மீதான நிறுவனங்களின் நம்பிக்கை குறைந்துள்ளதாக VentureBeat நடத்திய ஆய்வு ஒன்று révèle செய்கிறது. இந்த நம்பிக்கைக் குறைவு ஒட்டுமொத்த புதுமையான கண்டுபிடிப்புகளையும் மெதுவாக்கக்கூடும் என்பதால், வணிக நிறுவனங்கள் தங்கள் risk management உத்திகளை மீண்டும் பரிசீலிக்கத் தொடங்கியுள்ளன. AI தொழில்நுட்பங்களை நடைமுறைப்படுத்தும் போது மனித மேற்பார்வை மிக அவசியமானது என்பதை நிறுவனங்கள் தற்போது வலியுறுத்தி வருகின்றன.",
+    "slug": "enterprise-trust-in-autonomous-ai-agents-slips-venturebeat-survey-finds"
+  },
+  {
+    "id": "3d1b650f42cf4b46",
+    "slug": "xrp-ledger-might-be-vulnerable-to-ai-avalanche-founder-warns",
+    "title": "XRP Ledger Might Be Vulnerable to AI, Avalanche Founder Warns",
+    "tags": [
+      "Avalanche",
+      "Emin Gün Sirer",
+      "XRP Ledger"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T18:33:48.000Z"
+  },
+  {
+    "id": "e54a3ad199c919ca",
+    "slug": "derive-crypto-price-prediction-can-drv-break-0-52-after-v3-launch",
+    "title": "Derive crypto price prediction: Can DRV break $0.52 after V3 launch?",
+    "tags": [
+      "Derive",
+      "DRV"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T18:30:59.000Z"
+  },
+  {
+    "id": "843ac5c98b0dcd84",
+    "slug": "coinbase-opens-full-trading-for-data-usd-and-whuf-usd-pairs",
+    "title": "Coinbase opens full trading for DATA-USD and WHUF-USD pairs",
     "tags": [
       "Coinbase",
       "DATA",
       "WHUF"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-09T18:20:58.000Z",
-    "fetchedAt": "2026-10-09T18:27:30.233Z",
-    "isDuplicateOf": null,
-    "content": "Coinbase has officially opened full trading for the DATA-USD and WHUF-USD trading pairs. This expansion by the major cryptocurrency exchange aims to enhance market liquidity and accessibility for users. Such additions can potentially drive increased adoption and innovation within the wider crypto ecosystem, offering traders more diverse opportunities on the platform.",
-    "content_ta": "Coinbase நிறுவனம் DATA-USD மற்றும் WHUF-USD ஜோடிகளுக்கான முழுமையான வர்த்தகத்தை அதிகாரப்பூர்வமாகத் தொடங்கியுள்ளது. முக்கிய கிரிப்டோகரன்சி பரிமாற்றமான இதன் இந்த விரிவாக்கம், சந்தை பணப்புழக்கத்தையும் பயனர்களின் அணுகலையும் மேம்படுத்துவதை நோக்கமாகக் கொண்டுள்ளது. இத்தகைய சேர்த்தல்கள் கிரிப்டோ சுற்றுச்சூழல் அமைப்பில் அதிக தத்தெடுப்பு மற்றும் புதுமைகளை ஊக்குவிக்கக்கூடும்.",
-    "slug": "coinbase-opens-full-trading-for-data-usd-and-whuf-usd-pairs"
+    "hasContent": true,
+    "pubDate": "2026-10-09T18:20:58.000Z"
   },
   {
     "id": "599b8605508c544b",
+    "slug": "us-defense-giant-s-top-holder-dumped-10-of-its-stake",
     "title": "US defense giant’s top holder dumped 10% of its stake",
-    "summary": "The family that has owned General Dynamics since 1959 just sold nearly $1B of the company’s stock in five weeks.\nThe post US defense giant’s top holder dumped 10% of its stake appeared first on Protos.",
-    "hasSummary": true,
-    "link": "https://protos.com/us-defense-giants-top-holder-dumped-10-of-its-stake/",
-    "source": "Protos",
     "tags": [
       "General Dynamics",
       "United States"
     ],
+    "source": "Protos",
     "origin": "rss",
-    "pubDate": "2026-10-09T18:18:31.000Z",
-    "fetchedAt": "2026-10-09T18:27:30.233Z",
-    "isDuplicateOf": null,
-    "content": "The family holding the largest stake in US defense giant General Dynamics has sold about 10% of its shares. Over a five-week period, the long-term owners offloaded nearly one billion dollars worth of company stock. General Dynamics is one of the leading defense contractors in the United States, making this significant reduction in holdings by its top stakeholders a notable development.",
-    "content_ta": "US-ஐ சேர்ந்த முன்னணி defense நிறுவனமான General Dynamics-ன் முக்கிய பங்குதாரரான அதன் குடும்பம், தனது பங்குகளில் சுமார் 10% பங்கை விற்றுள்ளது. ஐந்து வார காலப்பகுதியில், நிறுவனம் தோராயமாக ஒரு பில்லியன் டாலர் மதிப்பிலான பங்குகளை விற்றுள்ளனர். General Dynamics அமெரிக்காவின் முக்கிய defense நிறுவனங்களில் ஒன்றாகும்.",
-    "slug": "us-defense-giant-s-top-holder-dumped-10-of-its-stake"
+    "hasContent": true,
+    "pubDate": "2026-10-09T18:18:31.000Z"
   },
   {
     "id": "d6393e911630e0ef",
+    "slug": "robinhood-chain-considers-technology-that-gives-paying-traders-priority",
     "title": "Robinhood Chain considers technology that gives paying traders priority",
-    "summary": "Arbitrum recently replaced its Timeboost transaction-ordering system with a new model, Priority Gas Auctions,",
-    "hasSummary": true,
-    "link": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
-    "source": "CoinDesk",
     "tags": [
       "Robinhood Chain",
       "Arbitrum"
     ],
+    "source": "CoinDesk",
     "origin": "rss",
-    "pubDate": "2026-10-09T18:11:00.000Z",
-    "fetchedAt": "2026-10-09T18:27:30.233Z",
-    "isDuplicateOf": null,
-    "content": "Robinhood Chain is reportedly exploring technology that could grant paying traders transaction priority. This follows recent developments in the blockchain space, such as Arbitrum replacing its Timeboost ordering system with Priority Gas Auctions. Such models raise discussions about fairness and execution speed for users trading digital assets on decentralized networks.",
-    "content_ta": "பணம் செலுத்தும் டிரேடர்களுக்கு முன்னுரிமை அளிக்கும் தொழில்நுட்பத்தை Robinhood Chain பரிசீலித்து வருவதாக தகவல்கள் வெளியாகியுள்ளன. Arbitrum தனது Timeboost முறையை Priority Gas Auctions ஆக மாற்றியதை அடுத்து இந்த நகர்வு வந்துள்ளது. இது போன்ற முறைகள் பிளாக்செயின் நெட்வொர்க்குகளில் வர்த்தகம் செய்யும் பயனர்களிடையே நியாயத்தன்மை குறித்த விவாதங்களை எழுப்புகிறது.",
-    "slug": "robinhood-chain-considers-technology-that-gives-paying-traders-priority"
+    "hasContent": true,
+    "pubDate": "2026-10-09T18:11:00.000Z"
   },
   {
     "id": "a87f3b6995a05aba",
+    "slug": "asiastrategy-and-plume-sign-mou-to-explore-a-tokenized-products-jv-in-asia",
     "title": "AsiaStrategy and Plume sign MOU to explore a tokenized products JV in Asia",
-    "summary": "The MOU could accelerate tokenization in Asia, but regulatory hurdles and market-specific challenges may impact its success and scalability.\nThe post AsiaStrategy and Plume sign MOU to explore a tokenized products JV in Asia appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/plume-asiastrategy-mou-tokenized-products-asia/",
-    "source": "CryptoBriefing",
     "tags": [
       "AsiaStrategy",
       "Plume",
       "Asia"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-09T18:08:21.000Z",
-    "fetchedAt": "2026-10-09T18:27:30.233Z",
-    "isDuplicateOf": null,
-    "content": "AsiaStrategy and Plume have signed a Memorandum of Understanding to explore a joint venture focused on tokenized products in Asia. This partnership aims to accelerate the adoption of tokenization in the region. However, potential regulatory hurdles and market-specific challenges could impact the success and scalability of the initiative.",
-    "content_ta": "AsiaStrategy மற்றும் Plume நிறுவனங்கள் ஆசியாவில் டோக்கனைஸ் செய்யப்பட்ட தயாரிப்புகள் தொடர்பான கூட்டு முயற்சியை ஆராய்வதற்காக புரிந்துணர்வு ஒப்பந்தத்தில் கையெழுத்திட்டுள்ளன. இந்த கூட்டுப்பணி இப்பகுதியில் டோக்கனைசேஷன் வளர்ச்சியை விரைவுபடுத்துவதை நோக்கமாகக் கொண்டுள்ளது. எவ்வாறாயினும், சாத்தியமான ஒழுங்குமுறை தடைகள் மற்றும் சந்தை சார்ந்த சவால்கள் இந்த முயற்சியின் வெற்றி மற்றும் அளவிடல் தன்மையை பாதிக்கலாம்.",
-    "slug": "asiastrategy-and-plume-sign-mou-to-explore-a-tokenized-products-jv-in-asia"
+    "hasContent": true,
+    "pubDate": "2026-10-09T18:08:21.000Z"
   },
   {
     "id": "2cabb6100592fd35",
+    "slug": "these-5-bitcoin-indicators-have-turned-bullish-for-the-first-time-since-2025-report",
     "title": "These 5 Bitcoin Indicators Have Turned Bullish for the First Time Since 2025: Report",
-    "summary": "Bitcoin's MVRV reading is 0.20, while NUPL has returned to positive territory, suggesting aggregate investor profits have improved.",
-    "hasSummary": true,
-    "link": "https://cryptopotato.com/these-5-bitcoin-indicators-have-turned-bullish-for-the-first-time-since-2025-report/",
-    "source": "CryptoPotato",
     "tags": [
       "Bitcoin"
     ],
+    "source": "CryptoPotato",
     "origin": "rss",
-    "pubDate": "2026-10-09T18:06:56.000Z",
-    "fetchedAt": "2026-10-09T18:27:30.233Z",
-    "isDuplicateOf": null,
-    "content": "A recent report reveals that five key Bitcoin indicators have turned bullish for the first time since 2025. Among the metrics, Bitcoin's MVRV reading currently stands at 0.20, and the Net Unrealized Profit/Loss (NUPL) indicator has returned to positive territory. These shifts suggest that aggregate investor profits have notably improved.",
-    "content_ta": "சமீபத்திய அறிக்கையின்படி, 2025-க்குப் பிறகு முதல் முறையாக ஐந்து முக்கிய Bitcoin குறிகாட்டிகள் சாதகமான நிலைக்கு (bullish) மாறியுள்ளன. இந்த அளவீடுகளில், Bitcoin-ன் MVRV மதிப்பு தற்போது 0.20 ஆக உள்ளது, மேலும் NUPL குறிகாட்டியும் மீண்டும் சாதகமான நிலைக்குத் திரும்பியுள்ளது. இந்த மாற்றங்கள் ஒட்டுமொத்த முதலீட்டாளர்களின் லாபம் கணிசமாக மேம்பட்டு 있வதை குறிக்கின்றன.",
-    "slug": "these-5-bitcoin-indicators-have-turned-bullish-for-the-first-time-since-2025-report"
+    "hasContent": true,
+    "pubDate": "2026-10-09T18:06:56.000Z"
   },
   {
     "id": "bd47469d7afd0749",
@@ -622,202 +821,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-09T14:55:23.000Z"
-  },
-  {
-    "id": "fd801d3ed588d163",
-    "slug": "bitcoin-holders-lock-in-1-03-billion-in-profits-as-price-pulls-back",
-    "title": "Bitcoin holders lock in $1.03 billion in profits as price pulls back",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T14:55:14.000Z"
-  },
-  {
-    "id": "142df492cac96a3a",
-    "slug": "ledger-investigates-wallet-drains-involving-cryptobilis-buyers-estimate-tops-86-million-in-losses",
-    "title": "Ledger investigates wallet drains involving CryptoBilis buyers; estimate tops $86 million in losses",
-    "tags": [
-      "Ledger",
-      "CryptoBilis",
-      "Crypto Briefing"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T14:52:55.000Z"
-  },
-  {
-    "id": "973936484e3c0bb3",
-    "slug": "bitcoin-crashes-strategy-s-btc-stash-hits-record-high-cpi-looms-weekly-crypto-recap",
-    "title": "Bitcoin Crashes, Strategy’s BTC Stash Hits Record High, CPI Looms: Weekly Crypto Recap",
-    "tags": [
-      "Bitcoin",
-      "Metaplanet",
-      "Strive"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T14:49:41.000Z"
-  },
-  {
-    "id": "d2713b9dc676ca6f",
-    "slug": "ledger-investigates-potential-wallet-tampering-after-reports-of-86-million-in-crypto-stolen",
-    "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
-    "tags": [
-      "Ledger",
-      "CryptoBilis",
-      "Southeast Asia"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T14:47:27.000Z"
-  },
-  {
-    "id": "d11ebc8cccdff4c2",
-    "slug": "us-targets-1-billion-iran-linked-crypto-seizure-bessent-says-we-know-where-it-is",
-    "title": "US targets $1 billion Iran-linked crypto seizure, Bessent says ‘we know where it is’",
-    "tags": [
-      "United States",
-      "Iran"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T14:41:09.000Z"
-  },
-  {
-    "id": "438e69a7a656fddb",
-    "slug": "locked-liquidity-did-not-stop-this-14-million-crypto-pool-drain",
-    "title": "Locked liquidity did not stop this $14 million crypto pool drain",
-    "tags": [
-      "Bitquery"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T14:40:46.000Z"
-  },
-  {
-    "id": "65af5e33d1995dd2",
-    "slug": "mastercard-ceo-says-cross-border-payments-are-where-stablecoins-are-winning",
-    "title": "Mastercard CEO says cross-border payments are where stablecoins are winning",
-    "tags": [
-      "Mastercard",
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T14:39:19.000Z"
-  },
-  {
-    "id": "9fb637efef7a2ec7",
-    "slug": "sibos-2026-trust-and-collaboration-at-machine-speed-needed-to-fight-banking-industry-threats",
-    "title": "Sibos 2026: Trust and collaboration at 'machine speed' needed to fight banking industry threats",
-    "tags": [
-      "Sibos 2026",
-      "Miami"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T14:39:00.000Z"
-  },
-  {
-    "id": "153bf373375fed17",
-    "slug": "masa-son-seeks-sovereign-investment-for-new-ai-fund-amid-softbank-s-financing-maneuvers",
-    "title": "Masa Son seeks sovereign investment for new AI fund amid SoftBank’s financing maneuvers",
-    "tags": [
-      "SoftBank",
-      "OpenAI",
-      "Masa Son"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T14:32:38.000Z"
-  },
-  {
-    "id": "3c35964a326ef301",
-    "slug": "crypto-wallet-ledger-now-lets-users-borrow-stablecoins-against-their-bitcoin-without-giving-up-self",
-    "title": "Crypto Wallet Ledger Now Lets Users Borrow Stablecoins Against Their Bitcoin Without Giving Up Self-Custody",
-    "tags": [
-      "Ledger",
-      "Bitcoin",
-      "USDC",
-      "USDT"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T14:30:09.000Z"
-  },
-  {
-    "id": "19102f04aa170e79",
-    "slug": "revolut-to-create-its-own-scent",
-    "title": "Revolut to create its own scent",
-    "tags": [
-      "Revolut"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T14:29:00.000Z"
-  },
-  {
-    "id": "7dabd2523f08a8f8",
-    "slug": "eu-finance-ministers-strike-preliminary-deal-to-centralize-markets-oversight-under-esma",
-    "title": "EU finance ministers strike preliminary deal to centralize markets oversight under ESMA",
-    "tags": [
-      "European Union",
-      "ESMA"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T14:28:16.000Z"
-  },
-  {
-    "id": "46a2b9d8cb42eb1f",
-    "slug": "nba-wants-access-to-prediction-market-data-to-catch-manipulation",
-    "title": "NBA wants access to prediction market data to catch manipulation",
-    "tags": [
-      "NBA"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T14:27:11.000Z"
-  },
-  {
-    "id": "4ab515a1789f340a",
-    "slug": "openai-and-anthropic-rehearse-an-ai-disaster-will-it-hit-your-bank",
-    "title": "OpenAI and Anthropic Rehearse an AI Disaster: Will It Hit Your Bank?",
-    "tags": [
-      "OpenAI",
-      "Anthropic"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T14:23:00.000Z"
-  },
-  {
-    "id": "1e9f83c7ee490d91",
-    "slug": "aave-mcp-now-connects-with-metamask-agent-wallet-for-ai-driven-defi-actions",
-    "title": "Aave MCP now connects with MetaMask Agent Wallet for AI-driven DeFi actions",
-    "tags": [
-      "Aave",
-      "MetaMask"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T14:20:33.000Z"
   }
 ]
