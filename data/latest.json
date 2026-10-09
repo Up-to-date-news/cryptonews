@@ -1,144 +1,665 @@
 [
   {
-    "id": "98f1973df3fe557e",
-    "title": "Nivo launches AI assistant for lending",
-    "summary": "Nivo has today launched Lender Collect, an AI assistant that coordinates a lending case from the first broker email through evidence gathering, underwriting preparation and the conditions that follow the lender's decision.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/pressarticle/111203/nivo-launches-ai-assistant-for-lending?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "id": "4e1bc57d2df4b68e",
+    "slug": "eu-and-uk-banks-face-1-year-deadline-for-t-1",
+    "title": "EU and UK banks face 1 year deadline for T+1",
+    "tags": [
+      "EU",
+      "UK"
+    ],
     "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T11:38:00.000Z"
+  },
+  {
+    "id": "4d16dea6f026efbd",
+    "slug": "us-to-seize-1b-in-crypto-assets-to-pressure-iran-amid-ongoing-conflict",
+    "title": "US to seize $1B in crypto assets to pressure Iran amid ongoing conflict",
+    "tags": [
+      "United States",
+      "Iran"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T11:28:29.000Z"
+  },
+  {
+    "id": "e4e74fe7aa532d6f",
+    "slug": "ai-firms-plan-for-potential-backlash-after-catastrophic-event-axios",
+    "title": "AI firms plan for potential backlash after catastrophic event: Axios",
+    "tags": [
+      "Axios"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T11:24:34.000Z"
+  },
+  {
+    "id": "9f00929d7d181ad9",
+    "slug": "charles-hoskinson-disputes-vitalik-buterin-s-warning-against-lattice-cryptography",
+    "title": "Charles Hoskinson Disputes Vitalik Buterin’s Warning Against Lattice Cryptography",
+    "tags": [
+      "Charles Hoskinson",
+      "Vitalik Buterin"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T11:24:18.000Z"
+  },
+  {
+    "id": "0329175f260e9ceb",
+    "slug": "bitcoin-holds-near-september-highs-as-crypto-stock-proxies-slide",
+    "title": "Bitcoin holds near September highs as crypto stock proxies slide",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T11:21:11.000Z"
+  },
+  {
+    "id": "e7c4f1a126abea66",
+    "slug": "asian-manufacturers-are-cashing-in-on-ai-now-while-the-us-waits-for-its-payoff",
+    "title": "Asian manufacturers are cashing in on AI now while the US waits for its payoff",
+    "tags": [
+      "Asia",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T11:14:38.000Z"
+  },
+  {
+    "id": "157ac7e7c2a1379c",
+    "slug": "pendle-opens-fixed-yield-market-for-srnopal-backed-by-brazilian-credit-card-receivables",
+    "title": "Pendle opens fixed-yield market for srnOPAL, backed by Brazilian credit card receivables",
+    "tags": [
+      "Pendle",
+      "Brazil"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T11:11:24.000Z"
+  },
+  {
+    "id": "bfabd7b098affda1",
+    "slug": "trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
+    "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
+    "tags": [
+      "Bitcoin",
+      "Iran",
+      "Trump"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T11:09:04.000Z"
+  },
+  {
+    "id": "a1edb2db2ba405b4",
+    "slug": "ultra-raises-62m-and-deepens-ties-with-robot-brain-startup-physical-intelligence",
+    "title": "Ultra raises $62M and deepens ties with robot-brain startup Physical Intelligence",
+    "tags": [
+      "Ultra",
+      "Physical Intelligence"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T11:08:58.000Z"
+  },
+  {
+    "id": "39033404250b9434",
+    "slug": "openai-revenue-run-rate-drops-to-50b-raising-financial-stability-concerns",
+    "title": "OpenAI revenue run rate drops to $50B, raising financial stability concerns",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T11:07:42.000Z"
+  },
+  {
+    "id": "c5771ed3103ba564",
+    "slug": "starknet-expands-btcfi-push-as-vesu-pays-strk-rewards-to-bitcoin-borrowers",
+    "title": "Starknet expands BTCFi push as Vesu pays STRK rewards to Bitcoin borrowers",
+    "tags": [
+      "Starknet",
+      "Vesu",
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T11:05:56.000Z"
+  },
+  {
+    "id": "512b6e6df524fea3",
+    "slug": "bitcoin-price-tests-80k-why-402m-btc-etf-outflows-threaten-uptober",
+    "title": "Bitcoin price tests $80K – Why $402M BTC ETF outflows threaten ‘Uptober’",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T11:00:54.000Z"
+  },
+  {
+    "id": "4713c4445dc3745b",
+    "slug": "fca-cracks-down-on-finfluencers",
+    "title": "FCA cracks down on finfluencers",
+    "tags": [
+      "FCA",
+      "United Kingdom"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T10:55:00.000Z"
+  },
+  {
+    "id": "57cf74201b1d1be2",
+    "slug": "esma-seeks-evidence-tokenized-collateral-can-be-cashed-out-in-crisis",
+    "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
+    "tags": [
+      "ESMA"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T10:49:24.000Z"
+  },
+  {
+    "id": "2275bd2cd171f8d7",
+    "title": "New Leaf Network and Twenty7Tec renew partnership",
+    "summary": "Twenty7tec has renewed its partnership with New Leaf Network for a further three years, extending a long-standing relationship between the two businesses.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111205/new-leaf-network-and-twenty7tec-renew-partnership?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Twenty7Tec",
+      "New Leaf Network"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-09T10:48:00.000Z",
+    "fetchedAt": "2026-10-09T11:33:18.925Z",
+    "isDuplicateOf": null,
+    "content": "Twenty7Tec has renewed its partnership with New Leaf Network for another three years. This agreement extends the long-standing collaboration between the two businesses, allowing them to continue working closely together to deliver their services and support to clients within the industry.",
+    "content_ta": "Twenty7Tec மற்றும் New Leaf Network நிறுவனங்கள் தங்கள் கூட்டுறவை மேலும் மூன்று ஆண்டுகளுக்குப் புதுப்பித்துள்ளன. இந்த ஒப்பந்தமானது இரு வணிகங்களுக்கு இடையேயான நீண்டகால உறவை நீட்டிக்கிறது, மேலும் அவர்கள் தொடர்ந்து இணைந்து பணியாற்றி வாடிக்கையாளர்களுக்குச் சேவைகளை வழங்க உதவுகிறது.",
+    "slug": "new-leaf-network-and-twenty7tec-renew-partnership"
+  },
+  {
+    "id": "9169a3657525593f",
+    "slug": "bitcoin-steadies-near-82-500-after-trump-rules-out-iran-strike-before-midterms",
+    "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
+    "tags": [
+      "Bitcoin",
+      "Iran",
+      "Donald Trump"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T10:44:22.000Z"
+  },
+  {
+    "id": "a4f487e62537755f",
+    "title": "FintechOS Elevate '26 to Unveil Blue Sky Release as AI Leaders Gather in London",
+    "summary": "FintechOS, the agentic platform for unified product operations in financial services, will host its annual Elevate 2026 conference on 14th October at King's Place, London, bringing together executives and AI leaders in financial services for a full day exploring how AI is reshaping product operations in banking and insurance. The invitation-only event will feature the launch of FintechOS 8 Blue Sky, the company's latest platform release. \nNow in its second year, Elevate runs dedicated tracks for banking and insurance, with sessions exploring AI's impact on product operations, customer experience, operational efficiency and governance. The conference will showcase how institutions are moving from AI pilots to production-grade deployment, with live platform demos, keynotes, panels and fireside chats throughout the day. \nConfirmed speakers include Leda Glyptis, author and board advisor; Dharmesh Mistry, author of The Intelligent Ledger and a 40-year veteran of banking technology; Paroma Chatterjee, CEO of Revolut India; and Rania Svoronou, Global Head of AI Design at Citi, along with executives & AI leaders from leading institutions including ElevenLabs, HSBC Innovation, Howden, Societe Generale, the FCA and many others. \nThe Blue Sky release marks a shift in how AI operates within banking and insurance, unifying product rules, pricing workflows and semantic data models in a single operational record. \n\"AI offers far more than speed to market and cost reduction; it opens genuinely new ways of delivery product innovation and customer satisfaction\", said Teo Blidarus, CEO and Founder of FintechOS. \"With FintechOS 8 Blue Sky, product and pricing rules, workflows and the semantic data model sit in one record, so AI works inside live banking and insurance operations, not in pilots at the edge. This is a new chapter for FintechOS and for the industry: organisations that build with intelligence and run with intelligence. On 14 October we gather at Elevate '26 to mark the moment and look ahead to what comes next.\" \nElevate comes as FintechOS enters a period of accelerated growth. The company recently secured $28 million in combined equity and debt financing to scale its AI-native platform and expand in the US. \nThe conference agenda addresses themes central to the industry's current trajectory, with product innovation tracks exploring how agentic AI and unified product operations reduce the time from concept to live product. The day concludes with a networking reception and gala dinner. \nSenior leaders from banks, insurers and the wider financial services ecosystem can apply to join Elevate 2026. Places are limited. Applications will be reviewed by the FintechOS team, with attendance confirmed within two working days. Media interested in attending can also request accreditation through the Elevate website. \n \nNoYesArtificial Intelligence09 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/artificial-intelligence/fintechos-elevate-26-unveil-blue-sky-release-ai-leaders-gather-london",
+    "source": "Financial IT",
+    "tags": [
+      "FintechOS",
+      "London"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-09T10:42:52.000Z",
+    "fetchedAt": "2026-10-09T11:33:18.925Z",
+    "isDuplicateOf": null,
+    "content": "FintechOS will host its annual Elevate 2026 conference on October 14th at King's Place, London. The invitation-only event will bring together banking and insurance executives and AI leaders to explore artificial intelligence in financial services. The conference will feature the launch of FintechOS 8 Blue Sky, showcasing unified product rules, workflows, and semantic data models to help financial institutions transition AI from pilots to production-grade deployment.",
+    "content_ta": "FintechOS தனது வருடாந்திர Elevate 2026 மாநாட்டை அக்டோபர் 14 அன்று லண்டனில் உள்ள King's Place-ல் நடத்தவுள்ளது. வங்கி மற்றும் காப்பீட்டுத் துறை உயர் அதிகாரிகளையும் AI தலைவர்களையும் ஒன்றிணைக்கும் இந்த நிகழ்வில், FintechOS 8 Blue Sky அறிமுகப்படுத்தப்பட உள்ளது. இது நிதி நிறுவனங்கள் AI-ஐ முழுமையான செயல்பாடுகளுக்குப் பயன்படுத்த உதவும்.",
+    "slug": "fintechos-elevate-26-to-unveil-blue-sky-release-as-ai-leaders-gather-in-london"
+  },
+  {
+    "id": "22b2068ef0662e7e",
+    "slug": "ai-agents-can-pay-for-your-shopping-who-gets-your-money-back",
+    "title": "AI agents can pay for your shopping. Who gets your money back?",
+    "tags": [
+      "Amazon",
+      "Coinbase",
+      "Stripe"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T10:40:44.000Z"
+  },
+  {
+    "id": "f009a7dd477bdabc",
+    "slug": "cardano-midnight-posts-9-100-transaction-surge-after-smart-contract-deployment",
+    "title": "Cardano Midnight Posts 9,100% Transaction Surge After Smart Contract Deployment",
+    "tags": [
+      "Cardano",
+      "Midnight"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T10:40:28.000Z"
+  },
+  {
+    "id": "34fa4173a6e9a8f0",
+    "title": "BDO Unibank Powers Smarter, Next-Generation Payments with Finastra",
+    "summary": "Finastra, a global leader in financial services software, today announced that BDO Unibank, Inc. (BDO) has enhanced its payments infrastructure with Finastra’s modern Global PAYplus (GPP), reinforcing the bank’s ability to support growing transaction volumes, strengthen operational resilience, and advance interoperability across the payments ecosystem.\nAs a leading universal bank in the Philippines, BDO serves retail, commercial, and institutional clients across a broad range of banking and financial services. The bank also supports correspondent banking and fintech partners with payment distribution capabilities into the Philippine market.\nThe deployment of GPP’s high-value and mass-payments capabilities provides a scalable foundation for current and future payment requirements. BDO currently utilizes the platform for Swift and inbound PESONet processing and is the largest commercial bank in the Philippines leveraging GPP.\nWith GPP, the bank benefits from greater automation, flexible rule-based payment processing, and improved operational efficiency, while gaining the agility to support evolving industry standards such as ISO 20022 and connect to new domestic and cross-border payment networks as they emerge.\n“Payments are a critical enabler of commerce and economic activity, making resilient and scalable infrastructure increasingly important,”  said Carlo B. Nazareno, head of Cash Management Services at BDO. “By enhancing our payments architecture with Finastra’s Global PAYplus, we have strengthened our ability to support growing transaction volumes, improve operational efficiency, and adapt to evolving market requirements. This provides a strong foundation for delivering a seamless client experience today while supporting future innovation across the payments ecosystem.”\n“Banks around the world are under growing pressure to deliver payment experiences that are immediate, reliable, and tailored to increasingly diverse customer needs,” said Radha Suvarna, Chief Product Officer of Payments at Finastra. “By bringing high-value and mass-payments processing together on Global PAYplus, BDO is reducing complexity while creating a more flexible foundation for innovation. We are proud to support the bank as it advances its payments capabilities and expands the services it can provide to customers. Our partnership demonstrates both the international capabilities of our solution, as well as our commitment to supporting banks with complex requirements, including multiple clearing systems and nuanced corporate client needs.”\nThis approach reflects a broader shift in the industry toward unified, AI-enabled payment hubs that consolidate and orchestrate multiple rails. It also reflects the importance of cloud-native, API-enabled architecture, ISO 20022 support, and intelligent operations as important foundations for payments innovation, operational efficiency, and faster time to market.\nNoYesPayments09 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/payments/bdo-unibank-powers-smarter-next-generation-payments-finastra",
+    "source": "Financial IT",
+    "tags": [
+      "BDO Unibank",
+      "Finastra",
+      "Philippines"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-09T10:38:46.000Z",
+    "fetchedAt": "2026-10-09T11:33:18.925Z",
+    "isDuplicateOf": null,
+    "content": "BDO Unibank has enhanced its payments infrastructure using Finastra’s Global PAYplus platform. As a leading universal bank in the Philippines, BDO deployed the solution to support growing transaction volumes, improve operational efficiency, and streamline high-value and mass-payments processing. The upgrade helps the bank adapt to evolving industry standards like ISO 20022, ensuring scalable and resilient payment services for its retail, commercial, and institutional clients.",
+    "content_ta": "BDO Unibank நிறுவனம் Finastra-வின் Global PAYplus தளத்தைப் பயன்படுத்தி தனது பரிவர்த்தனை உள்கட்டமைப்பை மேம்படுத்தியுள்ளது. Philippines-ன் முன்னணி வங்கியான BDO, அதிகரித்து வரும் பரிவர்த்தனை அளவுகளைக் கையாளவும், செயல்பாட்டுத் திறனை மேம்படுத்தவும் இந்த நவீன தீர்வை நடைமுறைப்படுத்தியுள்ளது. இந்த மேம்படுத்தல் ISO 20022 போன்ற புதிய தரநிலைகளுக்கு ஏற்ப வங்கி செயல்படவும், அதன் வாடிக்கையாளர்களுக்குச் சிறந்த சேவைகளை வழங்கவும் உதவுகிறது.",
+    "slug": "bdo-unibank-powers-smarter-next-generation-payments-with-finastra"
+  },
+  {
+    "id": "f2db01584b9655c7",
+    "title": "Cavero Secure launches protocol for autonomous AI governance",
+    "summary": "Cavero Secure, a pioneer in continuous identity security and post-quantum trust architectures, are announcing a breakthrough approach to autonomous AI governance with the launch of its CaveroCTX™ protocol.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111204/cavero-secure-launches-protocol-for-autonomous-ai-governance?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Cavero Secure"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-09T10:36:00.000Z",
+    "fetchedAt": "2026-10-09T11:33:18.925Z",
+    "isDuplicateOf": null,
+    "content": "Cavero Secure has announced the launch of the CaveroCTX protocol, a breakthrough approach designed for autonomous AI governance. The company is a pioneer in continuous identity security and post-quantum trust architectures, bringing innovative solutions to the evolving landscape of artificial intelligence management and security.",
+    "content_ta": "Cavero Secure நிறுவனம் தானியங்கு AI நிர்வாகத்திற்காக புதிய CaveroCTX நெறிமுறையை அறிமுகப்படுத்தியுள்ளது. தொடர்ச்சியான அடையாளப் பாதுகாப்பு மற்றும் போஸ்ட்-குவாண்டம் நம்பகத்தன்மை கட்டமைப்புகளில் முன்னோடியான இந்நிறுவனம், செயற்கை நுண்ணறிவு மேலாண்மை மற்றும் பாதுகாப்பிற்கான புதிய தீர்வுகளை வழங்கி வருகிறது.",
+    "slug": "cavero-secure-launches-protocol-for-autonomous-ai-governance"
+  },
+  {
+    "id": "b3fb518cc348ea07",
+    "slug": "bitcoin-returns-to-etf-holders-breakeven-price-and-729-million-heads-for-the-exit",
+    "title": "Bitcoin Returns to ETF Holders’ Breakeven Price, and $729 Million Heads for the Exit",
+    "tags": [
+      "Bitcoin",
+      "Fidelity",
+      "BlackRock"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T10:35:06.000Z"
+  },
+  {
+    "id": "f5586174fba31bd7",
+    "slug": "mexc-and-payward-highlight-collaboration-as-crypto-and-tradfi-converge-at-token2049",
+    "title": "MEXC and Payward Highlight Collaboration as Crypto and TradFi Converge at TOKEN2049",
+    "tags": [
+      "MEXC",
+      "Payward",
+      "Kraken",
+      "TOKEN2049",
+      "United States"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T10:34:04.000Z"
+  },
+  {
+    "id": "cc5b964984a3f0fe",
+    "title": "Liam Coleman appointed as chair of the Financial Ombudsman Service",
+    "summary": "Liam will take up the permanent role on 10 October 2026 for a 3-year term, having served as interim chair for the last year. Ashley Alder, chair of the FCA, commented: ‘Liam has brought strong leadership and valuable insight to the Financial Ombudsman Service over... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/10/316846-liam-coleman-appointed-as-chair-of-the-financial-ombudsman-service/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Liam Coleman",
+      "Financial Ombudsman Service",
+      "Ashley Alder",
+      "FCA"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-09T10:30:26.000Z",
+    "fetchedAt": "2026-10-09T11:33:18.925Z",
+    "isDuplicateOf": null,
+    "content": "Liam Coleman has been appointed as the permanent chair of the Financial Ombudsman Service for a three-year term starting on 10 October 2026. He previously served as the interim chair for the past year. FCA chair Ashley Alder praised Coleman for bringing strong leadership and valuable insight to the organization during his interim tenure.",
+    "content_ta": "Financial Ombudsman Service-ന്റെ സ്ഥിര தலைவராக Liam Coleman நியமிக்கப்பட்டுள்ளார். இவர் அக்டோபர் 10, 2026 முதல் மூன்று ஆண்டு காலத்திற்கு இந்தப் பதவியில் இருப்பார். கடந்த ஒரு ஆண்டாக இடைக்காலத் தலைவராகப் பணியாற்றிய அவர், தற்போது நிரந்தரத் தலைவராகப் பொறுப்பேற்கிறார். FCA தலைவர் Ashley Alder இவரது வலுவான தலைமைத்துவத்தைப் பாராட்டியுள்ளார்.",
+    "slug": "liam-coleman-appointed-as-chair-of-the-financial-ombudsman-service"
+  },
+  {
+    "id": "08d7338e9434caa6",
+    "slug": "uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
+    "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
+    "tags": [
+      "UK",
+      "Russia",
+      "A7 network"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T10:14:59.000Z"
+  },
+  {
+    "id": "cbfa5456655e5c0b",
+    "slug": "empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
+    "title": "Empire Market Co-Creator Sentenced to 40 Years Over $430M Dark Web Bazaar",
+    "tags": [
+      "Empire Market",
+      "Raheim Hamilton",
+      "Thomas Pavey",
+      "Bitcoin"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T10:11:51.000Z"
+  },
+  {
+    "id": "4ac4d58118603b70",
+    "title": "MPE 2027 | Europe's Largest Merchant Payments Conference",
+    "summary": "Built on trust, designed for what's next. 20 years of European merchant payments. \nFor 20 years, MPE has been Europe's most trusted merchant payments conference, bringing together merchants, acquirers, PSPs, fintechs, banks, payment innovators and regulators to solve the industry's biggest challenges and shape the future of payments.  \nNot just a conference. The decision-making platform for the merchant payments ecosystem. \nJoin 1,600+ senior payment professionals, 500+ merchants, 170+ speakers, and 100+ sponsors for 3 days of insights, strategic discussions, and high-value business connections. \n- InterContinental Berlin | March 9-11, 2027 \nhttps://www.merchantpaymentsecosystem.com \nMPE 2027 themes \nUnderstand what matters, meet who matters, and plan what happens next. Merchant payments are entering a new era. Explore the trends shaping the future of commerce and payments, including: \nAI, Trust & Customer Experience: Agentic commerce & AI, Fraud prevention & authentication, Trust, identity & verification, Merchant experience & conversion \nInfrastructure & Innovation - Payment orchestration, Open Banking & Real-time payments, Stablecoins, connected experiences at POS \nCommerce & Growth - Cross-border commerce, Digital wallets & fragmentation, Customer experience, Global merchant growth \nStrategy, Regulation & The Future - PSD3, PCI & regulatory compliance, Open Finance, Payments, sovereignty & geopolitics, What's next for merchant payments \nMPE 2027 fast facts \n1,600+ senior payments professionals \n500+ global merchants \n8,000+ meetings at MPE \n170+ speakers \n100+ sponsors & partners \n15 Awards categories \n5* hotel venue experience \nWhy MPE 2027? \n20 years of MPE: The most trusted merchant payments conference in Europe. \nMerchants at the center: Meet payment leaders from retail, eCommerce, travel, hospitality, mobility, gaming, digital services and many other verticals. Solve real payment challenges with peers and trusted partners. \nThe deal engine: Less random networking. More relevant conversations with active payment buyers. Be part of curated meetings, executive introductions, networking formats and private discussions designed to create meaningful business opportunities. \nAwards gala dinner: An evening celebrating innovation, leadership and excellence across the merchant payments ecosystem. Celebrate excellence in merchant payments alongside Europe's leading payment executives and industry pioneers. \nNew for 2027: MPE VIP pass: Upgrade your MPE experience with premium networking, exclusive access and enhanced hospitality throughout the event. \n \nDiscover MPE 2027 \nPlan your MPE 2027 participation and join Europe's largest merchant payments community. Get 20% now until November 11, and save 770 EUR. Register here:https://www.merchantpaymentsecosystem.com/event-registration/ \nWhat others say about MPE \n\"One of the best, if not the best, payments conferences globally. The venue is perfect and the organization is top-notch. Great speaker panels and unlimited networking opportunities. An absolute must for any serious merchants looking to expand their payment horizons!\" \nAndrew Cullen \n--------- \n“MPE 2026 is the only place where the theoretical future of payments meets real-world merchant execution. From the Main Stage to the workshops, the density of expertise is unmatched.” \nKatarina Turnova \n---------- \n“MPE is the best payment event in Europe. You'll get a full year of vendor meetings, thought-leadership and networking in just three days. You'll return home cleverer, better informed and with dozens of new business contacts.”\" \nGeoffrey Barraclough \nHashtags: #MPE2027 #20YearsOfMPE\nMedia & press contact:  \nnatalia.ivanis@merchantpaymentsecosystem.com \nbarbora.leitmanova@merchantpaymentsecosystem.com \nPress kit & media assets: https://www.merchantpaymentsecosystem.com/media & https://www.merchantpaymentsecosystem.com/files/brochures/mpe_media_kit.pdf   \n \nNoYesFinTech StartUps09 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/events/mpe-2027-europes-largest-merchant-payments-conference",
+    "source": "Financial IT",
+    "tags": [
+      "MPE 2027",
+      "InterContinental Berlin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-09T10:11:14.000Z",
+    "fetchedAt": "2026-10-09T11:33:18.925Z",
+    "isDuplicateOf": null,
+    "content": "Europe's largest merchant payments conference, MPE 2027, marks its 20th anniversary at the InterContinental Berlin from March 9-11, 2027. The three-day event brings together over 1,600 senior professionals, 500 merchants, 170 speakers, and 100 sponsors. Discussions will focus on AI, fraud prevention, open banking, stablecoins, and regulatory compliance, offering vital networking and business opportunities for the payments ecosystem.",
+    "content_ta": "ஐரோப்பாவின் மிகப்பெரிய வணிகர் செலுத்துதல் மாநாடான MPE 2027, தனது 20வது ஆண்டு நிறைவை பெர்லினில் உள்ள InterContinental ஹோட்டலில் மார்ச் 9-11, 2027 வரை நடத்துகிறது. மூன்று நாட்கள் நடைபெறும் இந்த நிகழ்வில் 1,600-க்கும் மேற்பட்ட மூத்த நிபுணர்கள், 500 வணிகர்கள் மற்றும் 170 பேச்சாளர்கள் பங்கேற்கின்றனர். AI, மோசடி தடுப்பு, ஓபன் பேங்கிங் மற்றும் ஒழுங்குமுறை இணக்கம் குறித்து இதில் விவாதிக்கப்படும்.",
+    "slug": "mpe-2027-europe-s-largest-merchant-payments-conference"
+  },
+  {
+    "id": "e5858496cde5dd3c",
+    "slug": "not-fast-enough-starknet-eyes-ethereum-exit-amid-quantum-fears",
+    "title": "‘Not fast enough’ – Starknet eyes Ethereum exit amid quantum fears",
+    "tags": [
+      "Starknet",
+      "Ethereum",
+      "STRK"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T10:00:27.000Z"
+  },
+  {
+    "id": "306e03ea3edc9034",
+    "slug": "dayone-data-centers-in-early-talks-for-a-potential-500-million-bond",
+    "title": "DayOne Data Centers in early talks for a potential $500 million bond",
+    "tags": [
+      "DayOne Data Centers"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T09:59:16.000Z"
+  },
+  {
+    "id": "d0b7320513c842da",
+    "slug": "ray-dalio-warns-the-stocks-are-losing-their-cushion-and-the-worst-may-be-ahead",
+    "title": "Ray Dalio Warns the Stocks Are Losing Their Cushion, and the Worst May Be Ahead",
+    "tags": [
+      "Ray Dalio"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T09:58:07.000Z"
+  },
+  {
+    "id": "03dafca2f4749962",
+    "title": "FCA's Andrew Self, Dr Ruth Wandhöfer and Former Big Brother Producer Maz Farrelly Headline Open Banking Expo UK & Europe Next Week",
+    "summary": "Open Banking Expo UK & Europe returns to London's Business Design Centre on 13 and 14 October, bringing together more than 1,800 attendees and 200 industry speakers for two days of insight, debate and collaboration at a pivotal moment for Open Banking, Open Finance and Smart Data.\nWith less than a week to go, final preparations are underway for one of the industry's biggest gatherings of the year, as financial institutions, fintechs, regulators, policymakers and technology providers prepare to explore the opportunities and challenges shaping the future of financial services.\nTaking place across four stages of content each day, alongside the Engine Room podcast studio, the event will examine how the industry can move beyond ambition and regulation towards delivering real commercial and consumer value.\nWith the Smart Data agenda gathering momentum, the continued evolution of Open Banking payments and growing interest in Open Finance, the conversations taking place in London next week come at a critical time for the sector.\nIndustry-leading keynotes set the agenda\nThe Main Stage will welcome a diverse line-up of keynote speakers, combining regulatory insight, industry expertise and fresh perspectives from beyond financial services.\nOn Tuesday 13 October, Andrew Self, Head of Department, Open Banking & Open Finance at the Financial Conduct Authority (FCA), will deliver an opening keynote exploring 'Moving from Open Banking into Open Finance: What's needed to unlock the next chapter?'.\nHis address comes as the industry looks towards the next phase of regulatory and commercial development, with questions around collaboration, innovation and the future framework for Open Finance firmly in focus.\nDr Ruth Wandhöfer, internationally recognised financial services and technology expert, will take to the stage on Wednesday 14 October to explore 'The post-payments world: Open Banking, AI and the new architecture of value'. Her keynote will examine how emerging technologies are reshaping financial services and creating new opportunities for innovation.\nBringing the conference to a memorable close will be Maz Farrelly, the award-winning television executive behind some of the world's biggest entertainment shows, including Big Brother and The X Factor.\nIn her closing Main Stage keynote, 'Why be boring when you can be bad ass', Farrelly will draw on more than 30 years in television to challenge conventional business thinking and reveal what financial services can learn from showbusiness about capturing attention, communicating with impact and creating unforgettable experiences.\nFrom Open Banking to Open Finance: Turning ambition into action\nAcross the two days, the conference programme will tackle some of the most pressing issues facing the financial services ecosystem.\nThe Main Stage will bring together influential voices to examine the direction of Open Banking and Open Finance, while the dedicated Payments Stage will explore the continued growth of Pay by Bank, variable recurring payments and the opportunities presented by account-to-account transactions.\nThe co-located Open Finance Show will examine the commercial opportunities emerging from greater access to financial data, including new business models, customer propositions and the infrastructure needed to support them.\nOn Day One, the Smart Data Stage will explore how the principles of Open Banking can extend into other sectors, while Day Two will introduce the Trust & Identity Stage, focusing on the technologies and frameworks underpinning secure digital interactions.\nThe programme will also feature the new Question Time format, encouraging lively debate and audience participation on the issues shaping the industry's future.\nMore than a conference: Where the industry connects\nAlongside the content programme, attendees will have access to an exhibition featuring more than 40 organisations showcasing the technologies and solutions driving the next generation of financial services.\nThe Expo floor will provide opportunities to discover new products, meet potential partners and explore practical applications of Open Banking and Open Finance.\nThe Engine Room returns with recorded conversations bringing together industry leaders for more in-depth discussions, while dedicated networking spaces and facilitated networking sessions will help attendees build valuable new relationships.\nWith decision-makers, innovators and regulators all under one roof, the event offers an opportunity to move conversations forward, establish partnerships and turn ideas into action.\nCelebrating the industry's achievements\nThe Open Banking Expo Awards 2026 will take place on the evening of Tuesday 13 October, recognising the individuals, teams and organisations making an outstanding contribution to the advancement of Open Banking and Open Finance.\nFollowing a record year for entries, the ceremony will celebrate excellence across the ecosystem, from technological innovation and customer impact to industry leadership and collaboration.\nThe countdown is on\nAs Open Banking and Open Finance enter their next chapter, the need for meaningful industry collaboration has never been greater.\nOpen Banking Expo UK & Europe 2026 will bring together the people, ideas and organisations shaping that future, providing two days of discussion, practical insight and opportunities to build the relationships that will drive the industry forward.\nOpen Banking Expo UK & Europe takes place on Tuesday 13 and Wednesday 14 October 2026 at the Business Design Centre, London.\nWith just days remaining, there is still time to join the conversation.\nhttps://www.openbankingexpo.com/uk/\nNoYesFinTech StartUps09 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/fintech-startups/fcas-andrew-self-dr-ruth-wandhofer-and-former-big-brother-producer-maz",
+    "source": "Financial IT",
+    "tags": [
+      "Open Banking Expo UK & Europe",
+      "Financial Conduct Authority",
+      "Business Design Centre",
+      "London"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-09T09:57:39.000Z",
+    "fetchedAt": "2026-10-09T11:33:18.925Z",
+    "isDuplicateOf": null,
+    "content": "The Open Banking Expo UK & Europe is set to take place on 13 and 14 October at London's Business Design Centre. The two-day event will bring together over 1,800 attendees and 200 speakers to discuss Open Banking, Open Finance, and Smart Data. Keynote speakers include Andrew Self from the FCA, industry expert Dr Ruth Wandhöfer, and television executive Maz Farrelly. The event also features the Open Banking Expo Awards 2026.",
+    "content_ta": "Open Banking Expo UK & Europe நிகழ்வானது அக்டோபர் 13 மற்றும் 14-ம் தேதிகளில் லண்டனில் உள்ள Business Design Centre-ல் நடைபெற உள்ளது. Open Banking, Open Finance மற்றும் Smart Data பற்றி விவாதிக்க 1,800-க்கும் மேற்பட்ட பங்கேற்பாளர்களும் 200 பேச்சாளர்களும் இதில் கலந்துகொள்கின்றனர். FCA-வைச் சேர்ந்த Andrew Self, Dr Ruth Wandhöfer மற்றும் Maz Farrelly ஆகியோர் முக்கிய உரையாற்றுகின்றனர். மேலும், Open Banking Expo Awards 2026 விருதும் வழங்கப்படுகிறது.",
+    "slug": "fca-s-andrew-self-dr-ruth-wandhofer-and-former-big-brother-producer-maz-farrelly-headline-open"
+  },
+  {
+    "id": "860196773308e96d",
+    "slug": "jardine-warns-asia-s-data-center-boom-faces-political-risks",
+    "title": "Jardine warns Asia’s data-center boom faces political risks",
+    "tags": [
+      "Jardine",
+      "Asia",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T09:54:05.000Z"
+  },
+  {
+    "id": "229a49a31e0915aa",
+    "title": "4 Banks and Credit Unions Recognized for AI Innovation",
+    "summary": "Glia, Banking AI platform, today announced the winners of its 2026 Catalyst Awards, which honor the most forward-thinking institutions using Banking AI to create measurable impact across growth, operational efficiency and customer experience.\nThis year’s winners demonstrate the expanding role of Banking AI — retaining millions in deposits, creating thousands of hours of workforce capacity, resolving customer needs around the clock, and equipping employees with real-time knowledge to fuel personalization and cross-selling. Together, these banks and credit unions are proof that with Banking AI, community and regional institutions can compete with megabanks and fintechs without sacrificing the relationships and experience that have always differentiated them.\n“As AI moves from automating routine tasks to completing complex operating procedures, these institutions are leading the way,” said Dan Michaeli, co-founder and CEO of Glia. “By methodically building and scaling Banking AI into their operations, they’ve positioned themselves ahead of the industry — directly benefiting their employees, local communities and account holders. We are proud to partner with them and celebrate their incredible momentum.”\nGlia’s 2026 Catalyst Awards winners include:\nHeartland Credit Union, recipient of the Harmonizer Award for using Banking AI to create faster, more efficient member service across voice interactions. Glia saves Heartland more than 6,000 staff hours annually — giving them the additional capacity of nearly four full-time employees — while reducing average wait time for a human operator by 40% and call abandonment by 54%.\n\t“We view Banking AI as a way to empower our members with faster, 24/7 self-service options while allowing our employees to focus on higher-value conversations that require empathy, expertise and personalized financial guidance,” said Daniel Mijal, vice president of digital strategy at Heartland Credit Union. “Glia helped us achieve the scale of a megabank without losing the personal feel our members know and trust.”\n\nLive Oak Bank, recipient of the Pacesetter Award for demonstrating how AI-enabled customer engagement can translate into deeper banking relationships. With Glia’s Banking AI, the technology-forward bank maintained a 93% first-contact resolution rate while more than doubling the volume of interactions handled entirely by AI. Live Oak's checking balances grew 63% year-over-year, and 25% of its customers now hold both a loan and a deposit account, up from 18% a year prior. Voice AI gives the bank the capacity to serve those relationships around the clock.\n\t“The industry still treats efficiency and experience as opposing forces, said Josh Goldstein, director, contact center at Live Oak Bank. “Live Oak’s history says otherwise, and our deployment of Glia’s Banking AI proves it at scale: We serve every customer like they’re the only one, around the clock, while freeing our bankers to do the high-value relationship work that grows loans and deposits.”\n\nThomaston Savings Bank, recipient of the Energizer Award for using Banking AI to give frontline employees immediate access to institutional knowledge while automating routine work. Since launching Glia, Thomaston has saved over 1,440 hours — the equivalent of adding a full-time employee to the team every week — while Glia’s AI quality-assurance capabilities saved an additional estimated 222 hours. Thomaston is now expanding Glia beyond the contact center into Treasury Management and Loan Operations to fuel personalization and speed for every team across the institution.\n\t“Glia is helping us balance modern AI technology with the compassionate, personal touch that defines Thomaston,” said Melissa Cipriano, Officer and Contact center manager at Thomaston Savings Bank. “Our consultants get immediate procedural answers without switching tools or interrupting peers, while AI handles routine customer inquiries. That gives our team significantly more time for in-depth troubleshooting and meaningful conversations about our clients’ needs.”\n\nAlliant Credit Union, recipient of the Prodigy Award for its rapid speed of innovation, selecting Glia and launching the Banking AI platform in just eight weeks and producing measurable results within its first year. One of the largest fully digital credit unions in the U.S., Alliant used Glia and supported nearly 300,000 digital interactions while creating more than 10,500 hours of annual workforce capacity and contributing to a nearly 20% year-over-year decrease in call volume.\n\t“The results we've achieved with Glia in our first year have been remarkable — from supporting hundreds of thousands of digital interactions to creating meaningful efficiencies for our team,” said Stephani Foss, chief operations officer at Alliant Credit Union. “This award reflects our ability to move quickly, embrace innovation and deliver measurable value for both our members and employees. We are grateful for our partnership with Glia, whose expertise and collaboration have helped us accelerate our digital engagement strategy and enhance the way we serve members. We are honored to be recognized by Glia and remain focused on building even better experiences in the years ahead.”\n\nTogether, this year’s Catalyst Award winners demonstrate the transformative power of AI built specifically for community banks and credit unions. By leveraging AI designed specifically for their needs, these institutions are creating experiences and operational efficiencies that rival the nation’s largest banks — all while protecting and prioritizing the relationships and customer-centricity that defines community banking.\n“Out of the more than 700 financial institutions we work with, these four stood out for their ability to drive significant results and achieve AI maturity that impacts both their employees and account holders,” said Paul Sheets, chief customer officer at Glia. “Glia’s mission is to empower community and regional institutions to thrive against megabanks and fintechs. These award winners prove that when local financial institutions put Banking AI to work, they don't just compete — they win.”\nNoYesArtificial Intelligence09 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/artificial-intelligence/4-banks-and-credit-unions-recognized-ai-innovation",
+    "source": "Financial IT",
+    "tags": [
+      "Glia",
+      "Heartland Credit Union",
+      "Live Oak Bank",
+      "Thomaston Savings Bank",
+      "Alliant Credit Union"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-09T09:51:28.000Z",
+    "fetchedAt": "2026-10-09T11:33:18.925Z",
+    "isDuplicateOf": null,
+    "content": "Glia has announced the winners of its 2026 Catalyst Awards, recognizing four banks and credit unions for their innovative use of Banking AI. Heartland Credit Union, Live Oak Bank, Thomaston Savings Bank, and Alliant Credit Union were honored for driving operational efficiency, improving customer experience, and achieving measurable growth through AI integration, proving that community institutions can effectively compete with larger banks.",
+    "content_ta": "Banking AI-ஐ புதுமையான முறையில் பயன்படுத்தியதற்காக நான்கு வங்கிகள் மற்றும் கிரெடிட் யூனியன்களை கவுரவிக்கும் வகையில் தனது 2026 Catalyst Awards வெற்றியாளர்களை Glia அறிவித்துள்ளது. Heartland Credit Union, Live Oak Bank, Thomaston Savings Bank மற்றும் Alliant Credit Union ஆகியவை செயல்பாட்டுத் திறனை மேம்படுத்துதல் மற்றும் வாடிக்கையாளர் சேவையை உயர்த்துதல் போன்றவற்றுக்காக கவுரவிக்கப்பட்டன.",
+    "slug": "4-banks-and-credit-unions-recognized-for-ai-innovation"
+  },
+  {
+    "id": "905a2486b2d6798b",
+    "slug": "bitcoin-speculators-move-55k-btc-to-exchanges-amid-1-1b-liquidations",
+    "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T09:50:01.000Z"
+  },
+  {
+    "id": "f3b47138c6ba683f",
+    "slug": "yandex-says-a-second-data-center-was-hit-by-drones-in-two-days",
+    "title": "Yandex says a second data center was hit by drones in two days",
+    "tags": [
+      "Yandex"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T09:48:02.000Z"
+  },
+  {
+    "id": "96cf9d278a65c124",
+    "slug": "6-reasons-bitcoin-crashed-by-7k-in-3-days-bull-market-over-or-regular-correction",
+    "title": "6 Reasons Bitcoin Crashed by $7K in 3 Days: Bull Market Over or Regular Correction?",
+    "tags": [
+      "Bitcoin",
+      "Federal Reserve"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T09:47:05.000Z"
+  },
+  {
+    "id": "327adee2410ae437",
+    "slug": "analyzing-how-hbar-crypto-retreated-from-2026-s-highs-thanks-to-market-wide-bearishness",
+    "title": "Analyzing how HBAR crypto retreated from 2026’s highs thanks to market-wide bearishness",
+    "tags": [
+      "HBAR"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T09:45:34.000Z"
+  },
+  {
+    "id": "aa9623040b90bf0f",
+    "slug": "strategy-s-150-million-a-day-strc-market-has-a-hidden-dependency-on-its-own-buybacks",
+    "title": "Strategy’s $150 million-a-day STRC market has a hidden dependency on its own buybacks",
+    "tags": [
+      "Strategy",
+      "Bitcoin"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T09:40:38.000Z"
+  },
+  {
+    "id": "f71352cc73ea319d",
+    "slug": "amex-hit-with-350m-penalty-for-aml-deficiencies",
+    "title": "Amex hit with $350m penalty for AML deficiencies",
+    "tags": [
+      "American Express",
+      "Office of the Comptroller of the Currency",
+      "United States"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-09T09:36:00.000Z"
+  },
+  {
+    "id": "98f1973df3fe557e",
+    "slug": "nivo-launches-ai-assistant-for-lending",
+    "title": "Nivo launches AI assistant for lending",
     "tags": [
       "Nivo"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-10-09T09:28:00.000Z",
-    "fetchedAt": "2026-10-09T09:27:26.677Z",
-    "isDuplicateOf": null,
-    "content": "Nivo has launched Lender Collect, a new AI assistant designed to streamline the lending process. The tool helps coordinate lending cases starting from the initial broker email, through evidence gathering and underwriting preparation, and manages the conditions that follow the lender's final decision.",
-    "content_ta": "Nivo நிறுவனம் கடன் வழங்கும் செயல்முறையை எளிதாக்கும் நோக்கில் Lender Collect என்ற புதிய AI உதவியாளரை அறிமுகப்படுத்தியுள்ளது. இந்தக் கருவியானது தரகர் அனுப்பும் முதல் மின்னஞ்சல் தொடங்கி, சான்றுகளைத் திரட்டுவது, underwriters தயாரிப்பு பணிகள் மற்றும் கடனுக்கான இறுதி முடிவுக்குப் பிந்தைய நிபந்தனைகள் வரை அனைத்தையும் ஒருங்கிணைக்க உதவுகிறது.",
-    "slug": "nivo-launches-ai-assistant-for-lending"
+    "hasContent": true,
+    "pubDate": "2026-10-09T09:28:00.000Z"
   },
   {
     "id": "77f53e45acb141f8",
+    "slug": "caixabank-expands-strategic-collaboration-with-google-cloud-to-accelerate-ai-and-data-capabilities",
     "title": "CaixaBank Expands Strategic Collaboration with Google Cloud to Accelerate AI and Data Capabilities",
-    "summary": "CaixaBank has announced an expanded strategic agreement with Google Cloud to strengthen its technological capabilities and accelerate the integration of AI, data management and cloud infrastructure across its business. Building on an alliance established in 2023, the agreement extends the collaboration until 2033 and aims to improve operational efficiency, support employee decision-making and enable more personalised products and services for the bank’s millions of customers.\n \nAs part of the agreement, CaixaBank will deploy Gemini Enterprise, Google Cloud’s platform for building, governing and deploying AI agents. These capabilities will enable teams to synthesise complex financial information, automate routine tasks and optimise daily workflows, supporting the bank’s ongoing digital transformation.\n \nThe expanded collaboration will focus on three strategic pillars: data analytics and agentic AI; hybrid infrastructure and security; and workforce training and enablement.\n \nAccelerating decision-making through data and agentic AI\n \nCaixaBank will use advanced data analytics and AI capabilities to turn large data repositories into actionable insights. Through Gemini Enterprise, teams will be able to deploy specialised AI agents to streamline document management and classification, summarise complex content and accelerate internal decision-making.\n \nThese capabilities are intended to help employees manage information more efficiently, reduce time spent on routine tasks and improve the use of data across the organisation.\n \nStrengthening infrastructure, security and resilience\n \nThe agreement will combine CaixaBank’s private environment with Google Cloud’s secure infrastructure to improve system resilience, scalability and service availability as the bank’s technological needs evolve.\n \nThe collaboration will also introduce advanced threat detection and security monitoring capabilities. Their deployment will operate within CaixaBank’s established governance arrangements and security, privacy and responsible AI frameworks.\n \nBuilding workforce capabilities and supporting adoption\n \nThe programme will include specialised professional services, collaborative initiatives and training courses to support the adoption of new technologies across CaixaBank. These activities will help equip teams with the skills and capabilities needed to integrate AI and data tools into their day-to-day work, while ensuring their use remains aligned with the bank’s governance and responsible AI principles.\n \nThrough the expanded agreement, CaixaBank continues to strengthen its collaboration with technology partners to advance the transformation of its business model. By combining Google Cloud’s AI and data capabilities with the bank’s technological expertise, the partnership aims to improve operational efficiency, enhance customer experiences and support the continued development of digital banking.\n \nCaixaBank, a leader in innovation\n \nInnovation is one of CaixaBank’s strategic pillars and a key element in reinforcing its position in the financial sector. With more than 13 million digital customers, the bank has the largest digital customer base in Spain’s financial industry.\n \nCaixaBank’s approach combines technology, expertise and customer proximity to develop new products and services, improve the customer experience, increase operational efficiency and create new opportunities for growth.\nNoYesArtificial Intelligence09 Oct, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/artificial-intelligence/caixabank-expands-strategic-collaboration-google-cloud-accelerate-ai",
-    "source": "Financial IT",
     "tags": [
       "CaixaBank",
       "Google Cloud",
       "Spain"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-10-09T09:21:05.000Z",
-    "fetchedAt": "2026-10-09T09:27:26.677Z",
-    "isDuplicateOf": null,
-    "content": "CaixaBank has extended its strategic partnership with Google Cloud until 2033 to accelerate its digital transformation, artificial intelligence, and data capabilities. The collaboration focuses on deploying Gemini Enterprise to improve operational efficiency, enhance security, and support employee workflows. With Spain's largest digital customer base, CaixaBank aims to deliver more personalized financial products and services through advanced cloud infrastructure and agentic AI tools.",
-    "content_ta": "Google Cloud உடனான தனது வியூகக் கூட்டுறவை 2033 வரை CaixaBank நீட்டித்துள்ளது. இதன் மூலம் செயற்கை நுண்ணறிவு மற்றும் தரவு திறன்களை மேம்படுத்தி டிஜிட்டல் மாற்றத்தை துரிதப்படுத்த திட்டமிடப்பட்டுள்ளது. செயல்பாட்டுத் திறனை அதிகரிக்கவும், பாதுகாப்பை பலப்படுத்தவும், Gemini Enterprise தொழில்நுட்பம் பயன்படுத்தப்படவுள்ளது. இதன் மூலம் வாடிக்கையாளர்களுக்கு மேம்பட்ட மற்றும் தனிப்பயனாக்கப்பட்ட சேவைகளை வழங்க CaixaBank இலக்கு நிர்ணயித்துள்ளது.",
-    "slug": "caixabank-expands-strategic-collaboration-with-google-cloud-to-accelerate-ai-and-data-capabilities"
+    "hasContent": true,
+    "pubDate": "2026-10-09T09:21:05.000Z"
   },
   {
     "id": "239ad169f48fd6a2",
+    "slug": "dark-web-drug-market-operator-sentenced-to-40-years-forfeits-101-million-in-bitcoin",
     "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
-    "summary": "A man from Virginia, who facilitated millions of drug transactions worth roughly $430 million, agreed to give up $100 million worth of BTC. His partner forfeited nearly 1,600 BTC.",
-    "hasSummary": true,
-    "link": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
-    "source": "CoinDesk",
     "tags": [
       "Bitcoin",
       "Virginia",
       "United States"
     ],
+    "source": "CoinDesk",
     "origin": "rss",
-    "pubDate": "2026-10-09T09:20:16.000Z",
-    "fetchedAt": "2026-10-09T09:27:26.677Z",
-    "isDuplicateOf": null,
-    "content": "A dark web drug market operator from Virginia has been sentenced to 40 years in prison. The individual facilitated millions of drug transactions and agreed to forfeit $100 million worth of Bitcoin. A partner in the illegal operation also forfeited nearly 1,600 Bitcoin. The total asset forfeiture associated with the crackdown reached $101 million.",
-    "content_ta": "வெர்ஜீனியா மாகாணத்தைச் சேர்ந்த டார்க் வெப் போதைப்பொருள் சந்தை நடத்துநருக்கு 40 ஆண்டுகள் சிறை தண்டனை விதிக்கப்பட்டுள்ளது. இந்த நபர் மில்லியன் கணக்கான போதைப்பொருள் பரிவர்த்தனைகளை மேற்கொண்டுள்ளார், மேலும் $100 மில்லியன் மதிப்புள்ள Bitcoin-ஐ ஒப்படைக்க ஒப்புக்கொண்டார். இந்த சட்டவிரோத நடவடிக்கையில் தொடர்புடைய மற்றொரு கூட்டாளியும் சுமார் 1,600 Bitcoin-ஐ பறிமுதல் செய்ய அனுமதித்தார். இந்த நடவடிக்கையின் மூலம் மொத்தம் $101 மில்லியன் சொத்துக்கள் பறிமுதல் செய்யப்பட்டன.",
-    "slug": "dark-web-drug-market-operator-sentenced-to-40-years-forfeits-101-million-in-bitcoin"
+    "hasContent": true,
+    "pubDate": "2026-10-09T09:20:16.000Z"
   },
   {
     "id": "3f25f254abeb77c3",
+    "slug": "franklin-templeton-ceo-pitches-short-term-big-tech-debt-as-the-smarter-ai-bet",
     "title": "Franklin Templeton CEO pitches short-term Big Tech debt as the smarter AI bet",
-    "summary": "Short-term Big Tech debt offers a strategic AI investment, balancing risk and reward amid rapid tech evolution and potential economic shifts.\nThe post Franklin Templeton CEO pitches short-term Big Tech debt as the smarter AI bet appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/franklin-templeton-ceo-short-term-ai-debt/",
-    "source": "CryptoBriefing",
     "tags": [
       "Franklin Templeton"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-09T09:18:46.000Z",
-    "fetchedAt": "2026-10-09T09:27:26.677Z",
-    "isDuplicateOf": null,
-    "content": "Franklin Templeton's CEO has suggested that short-term debt issued by major technology companies represents a smarter investment strategy for artificial intelligence. This approach allows investors to tap into the rapid evolution of the AI sector while effectively balancing risk and reward against potential future economic shifts.",
-    "content_ta": "செயற்கை நுண்ணறிவு துறையில் முதலீடு செய்ய விரும்பும் முதலீட்டாளர்களுக்கு, முன்னணி டெக் நிறுவனங்களின் குறுகிய கால கடன் பத்திரங்கள் சிறந்த மற்றும் பாதுகாப்பான தேர்வாக இருக்கும் என்று Franklin Templeton நிறுவனத்தின் CEO தெரிவித்துள்ளார். இந்த உத்தியானது தொழில்நுட்பத் துறையின் வேகமான வளர்ச்சிக்கு ஏற்ப ஆபத்துகளைக் குறைத்து நல்ல லாபத்தைப் பெற உதவும்.",
-    "slug": "franklin-templeton-ceo-pitches-short-term-big-tech-debt-as-the-smarter-ai-bet"
+    "hasContent": true,
+    "pubDate": "2026-10-09T09:18:46.000Z"
   },
   {
     "id": "e94ae0cb20c77632",
+    "slug": "nivo-launches-lender-collect-ai-case-coordination-for-the-uk-s-intermediated-lenders",
     "title": "Nivo Launches Lender Collect: AI Case Coordination for the UK's Intermediated Lenders",
-    "summary": "Nivo has today launched Lender Collect, an AI assistant that coordinates a lending case from the first broker email through evidence gathering, underwriting preparation and the conditions that follow the lender's decision.\nLender Collect is available now to UK intermediated lenders, including bridging, specialist property, commercial and asset finance lenders. It extends the market-proven technology behind Nivo Collect, now live with over 15 brokers, to lenders, where more than 400 UK specialist and alternative lenders compete for brokers' business.\nFor intermediated lenders, the speed and ease of case handling help determine how much broker business they win. Yet much of the work remains manual, from keying enquiries into pricing spreadsheets and chasing statements and signatures to assembling the facts for an underwriting decision.\nGetting started takes three steps: lenders provide their product guides, lending criteria, procedures, application forms and underwriter report template; Nivo configures the service around their case-handling requirements; then a case starts with a single email.\nThe AI reads the broker's instructions and attachments, identifies the parties, establishes amount, purpose, term, security and exit, and checks these against the lender's product criteria. It flags what fits, what needs clarifying and, where appropriate, an alternative product in the lender's range.\nIt requests evidence from the right people in the lender's preferred order, checks documents for completeness and consistency, populates forms, arranges signatures and sends consolidated reminders, escalating stalled cases. Company reports, identity checks and optional PEP, sanctions and adverse media screening are built in.\nBefore underwriting, it checks the evidence against the lender's rules and policies, raises further requests and drafts an editable report using the lender's template. This brings together the deal, criteria, evidence, calculations and discrepancies, with commentary and decision sections marked for the underwriter to confirm, amend or replace.\nIt then turns the underwriter's recorded conditions into document, form and signature tasks through to a signed loan agreement. Required evidence is tracked against the lender's instructions, with missing pages, conflicting details and unanswered conditions surfaced for review to reduce omissions.\nAcross lender contacts, brokers, applicants, guarantors, solicitors and valuers, Lender Collect tracks who owes what, completed tasks and how each connects to the next, a capability Nivo believes no other AI solution on the market offers today.\nExceptions, waivers, credit decisions and approvals stay with the lender's authorised team. Evidence gaps remain visible in the pack, including items waived or unobtainable.\nPrompt, precise requests keep viable cases moving and reduce avoidable drop-off, supporting higher completion rates. Faster responses and easier case handling help lenders earn broker advocacy, repeat business and a greater share of brokers' business.\nCases progress 24/7, allowing brokers and customers to move them forward outside office hours, with a first response before a competitor has opened the email. Underwriters receive an organised pack and drafted commentary, giving the same team more capacity to focus on relationships, exceptions and lending.\nMichael Common, CEO at Nivo, said:\n\"Every intermediated lender runs the same process: a query comes in, evidence is gathered, an underwriter decides, and the conditions are worked through to completion. The lenders that win are the ones that are fastest and easiest for brokers to deal with. Lender Collect answers in minutes rather than days, at any hour, using the lender's own criteria and documents. That is a conversion play as much as an efficiency play.\nNivo Collect showed brokers what an AI assistant can do with the gather, check and chase. Lender Collect brings that to the other side of the deal. Underwriters open a draft report built from checked evidence, with the decision firmly theirs. Nothing is approved, waived or decided by the AI.\"\nNivo's published security and compliance credentials include ISO 27001, ISO 9001 and ISO/IEC 42001 certification, Cyber Essentials Plus, DIATF certification as an identity orchestrator and FSQS registration. Lender Collect includes encrypted data handling, a full audit trail and controls preventing client data being used to train underlying AI models.\nLender Collect also connects to existing origination and CRM systems via API and webhooks where required.\nNoYesArtificial Intelligence09 Oct, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/artificial-intelligence/nivo-launches-lender-collect-ai-case-coordination-uks-intermediated",
-    "source": "Financial IT",
     "tags": [
       "Nivo",
       "United Kingdom"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-10-09T09:17:38.000Z",
-    "fetchedAt": "2026-10-09T09:27:26.677Z",
-    "isDuplicateOf": null,
-    "content": "Nivo has launched Lender Collect, an AI case coordination assistant designed for UK intermediated lenders. The technology automates tasks from broker email enquiries and evidence gathering to underwriting preparation and post-decision conditions. Operating 24/7, the system helps lenders process cases faster, improve completion rates, and reduce manual workloads while keeping credit decisions strictly with authorised human underwriters.",
-    "content_ta": "UK-ஐச் சேர்ந்த இடைத்தரக கடன் வழங்குநர்களுக்காக (intermediated lenders) Nivo நிறுவனம் Lender Collect என்ற புதிய AI அடிப்படையிலான வழக்கு ஒருங்கிணைப்பு உதவியாளரை அறிமுகப்படுத்தியுள்ளது. இந்தத் தொழில்நுட்பம் தரவு சேகரிப்பு, ஆவண சரிபார்ப்பு மற்றும் கடனுக்கான தயாரிப்புப் பணிகளை தானியங்குபடுத்துகிறது. மனிதக் கடன் வழங்குநர்களின் கட்டுப்பாட்டில் இயங்கும் இந்த அமைப்பு, கடன்களை விரைவாகவும் எளிதாகவும் கையாள உதவுகிறது.",
-    "slug": "nivo-launches-lender-collect-ai-case-coordination-for-the-uk-s-intermediated-lenders"
+    "hasContent": true,
+    "pubDate": "2026-10-09T09:17:38.000Z"
   },
   {
     "id": "1ad6226d92b79d22",
+    "slug": "citi-raises-amd-stock-price-target-cites-meta-muse-release",
     "title": "Citi Raises AMD Stock Price Target, Cites Meta Muse Release",
-    "summary": "Citi’s Atif Malik has raised AMD’s stock price target from $575 to $800. Malik believes the launch of…",
-    "hasSummary": true,
-    "link": "https://watcher.guru/news/citi-raises-amd-stock-price-target-cites-meta-muse-release",
-    "source": "Watcher.Guru",
     "tags": [
       "Citi",
       "AMD",
       "Meta"
     ],
+    "source": "Watcher.Guru",
     "origin": "rss",
-    "pubDate": "2026-10-09T09:16:16.000Z",
-    "fetchedAt": "2026-10-09T09:27:26.677Z",
-    "isDuplicateOf": null,
-    "content": "Citi has raised its stock price target for AMD following the release of Meta Muse. Analysts point to this new development as a positive catalyst for AMD, prompting an upward revision in valuation expectations as market enthusiasm builds around the potential impact of the release.",
-    "content_ta": "Meta Muse வெளியீட்டைத் தொடர்ந்து AMD நிறுவனத்தின் பங்கு விலை இலக்கை Citi உயர்த்தியுள்ளது. சந்தையில் இந்த வெளியீடு குறித்த ஆர்வம் அதிகரித்து வருவதால், AMD-யின் மதிப்பு குறித்த எதிர்பார்ப்புகள் உயர்த்தப்பட்டுள்ளன.",
-    "slug": "citi-raises-amd-stock-price-target-cites-meta-muse-release"
+    "hasContent": true,
+    "pubDate": "2026-10-09T09:16:16.000Z"
   },
   {
     "id": "da0b6055a6d124d9",
+    "slug": "dailypay-competes-200m-securitisation",
     "title": "DailyPay competes $200m securitisation",
-    "summary": "DailyPay, the leader in On-Demand Pay, announced a $200 million asset-backed securitisation (ABS) of its On-Demand Pay receivables.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/pressarticle/111202/dailypay-competes-200m-securitisation?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
     "tags": [
       "DailyPay"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-10-09T09:16:00.000Z",
-    "fetchedAt": "2026-10-09T09:27:26.677Z",
-    "isDuplicateOf": null,
-    "content": "DailyPay, a leader in the On-Demand Pay industry, has successfully completed a $200 million asset-backed securitisation. This financial milestone involves the securitisation of its On-Demand Pay receivables, highlighting the company's continued growth and strength in the financial services sector.",
-    "content_ta": "On-Demand Pay துறையில் முன்னணியில் இருக்கும் DailyPay நிறுவனம், 200 மில்லியன் டாலர் மதிப்புள்ள சொத்து-ஆதரவு பத்திரமயமாக்கலை (ABS) வெற்றிகரமாக நிறைவு செய்துள்ளது. இந்நிறுவனத்தின் On-Demand Pay வரவு receivables-ஐ அடிப்படையாகக் கொண்டு இந்த நிதிப் பரிவர்த்தனை மேற்கொள்ளப்பட்டுள்ளது.",
-    "slug": "dailypay-competes-200m-securitisation"
+    "hasContent": true,
+    "pubDate": "2026-10-09T09:16:00.000Z"
   },
   {
     "id": "65a76a01f7f36bbd",
+    "slug": "xrp-news-ripple-challenges-wall-street-for-a-slice-of-256b-etf-market",
     "title": "XRP News: Ripple Challenges Wall Street for a Slice of $256B ETF Market",
-    "summary": "Ripple Prime is entering leveraged-ETF financing as total-return swaps bring fees and counterparty risks to a $256 billion U.S. market of 593 funds.\nThe post XRP News: Ripple Challenges Wall Street for a Slice of $256B ETF Market appeared first on Cryptonews.",
-    "hasSummary": true,
-    "link": "https://cryptonews.com/news/ripple-prime-etf-financing-xrp-news/",
-    "source": "CryptoNews",
     "tags": [
       "Ripple",
       "Ripple Prime",
@@ -146,99 +667,69 @@
       "Wall Street",
       "United States"
     ],
+    "source": "CryptoNews",
     "origin": "rss",
-    "pubDate": "2026-10-09T09:11:00.000Z",
-    "fetchedAt": "2026-10-09T09:27:26.677Z",
-    "isDuplicateOf": null,
-    "content": "Ripple Prime is entering leveraged-ETF financing through total-return swaps, bringing new fees and counterparty risks to the massive United States exchange-traded fund market. This strategic move allows Ripple to challenge traditional Wall Street institutions for a significant share of the multi-billion-dollar sector.",
-    "content_ta": "Ripple Prime ஆனது total-return swaps மூலம் leveraged-ETF நிதியுதவிக்குள் நுழைகிறது. இது United States-ன் பெரிய exchange-traded fund சந்தைக்கு புதிய கட்டணங்கள் மற்றும் எதிர் கட்சி அபாயங்களைக் கொண்டுவருகிறது. இந்த மூலோபாய நகர்வு மூலம் Wall Street நிறுவனங்களுக்கு சவால் விடுகிறது Ripple.",
-    "slug": "xrp-news-ripple-challenges-wall-street-for-a-slice-of-256b-etf-market"
+    "hasContent": true,
+    "pubDate": "2026-10-09T09:11:00.000Z"
   },
   {
     "id": "989d1f8441e2fd53",
+    "slug": "supermicro-appoints-shesha-krishnapura-to-board-of-directors-as-an-independent-director-and",
     "title": "Supermicro Appoints Shesha Krishnapura to Board of Directors as an Independent Director and Announces the Retirement of Judy Lin",
-    "summary": "Super Micro Computer, Inc. , an AI, Enterprise, Storage, and 5G/Edge Total IT Solution Provider featuring Data Center Building Block Solutions® (DCBBS), today announced the appointment of Shesha Krishnapura as an independent member of its Board of Directors, effective as of October 9, 2026.\nMr. Krishnapura brings to Supermicro’s Board 35 years of operational experience at Intel Corporation, where he was responsible for designing, building and operating Intel’s global data centers at the leading-edge of microprocessor design. He has deep expertise in high-performance computing, AI infrastructure, hyperscale data centers, and sustainable and energy-efficient computing, including Supermicro’s technologies. Mr. Krishnapura most recently served as Chief Technology Officer of Intel IT and was an Intel Fellow where he was responsible for setting the technology vision, architecture, and engineering governance for the global computing environments supporting Intel’s chip design and development.\n“We are pleased to welcome Shesha to Supermicro’s Board of Directors,” said Charles Liang, Founder, President and CEO. “Shesha brings decades of operational and technology leadership with firsthand experience designing and operating computing infrastructure at enormous scale. His deep understanding of the data center, emerging technologies, and the overall industry will add an important perspective to our Board as Supermicro continues to grow, particularly as we expand our DCBBS business. We look forward to benefiting from his experience and insights as we continue to drive innovation and create long-term value for our customers and shareholders.”\nMr. Krishnapura’s appointment reflects the Board’s ongoing focus on Board composition and refreshment. Judy Lin, who has served on the Board since 2022, will retire as of October 9, 2026.\nMr. Liang added, “On behalf of the full Board, I extend our sincere thanks to Judy for her dedicated service and contributions to the Company. We are grateful for her commitment to Supermicro and wish her all the best in her retirement.”\nNoYesPeople Moves09 Oct, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/people-moves/supermicro-appoints-shesha-krishnapura-board-directors-independent-director-and",
-    "source": "Financial IT",
     "tags": [
       "Supermicro",
       "Shesha Krishnapura",
       "Intel Corporation",
       "Judy Lin"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-10-09T09:08:26.000Z",
-    "fetchedAt": "2026-10-09T09:27:26.677Z",
-    "isDuplicateOf": null,
-    "content": "Supermicro has announced the appointment of Shesha Krishnapura as an independent member of its Board of Directors, effective October 9, 2026. Krishnapura brings extensive operational and technology leadership experience from his 35-year career at Intel Corporation, including serving as Intel Fellow and Chief Technology Officer of Intel IT. Additionally, the company announced the retirement of board member Judy Lin, who has served since 2022.",
-    "content_ta": "Supermicro தனது Board of Directors-ൽ independent member-ஆக Shesha Krishnapura-வை October 9, 2026 முதல் நியமிப்பதாக அறிவித்துள்ளது. Intel Corporation-ல் 35 ஆண்டுகள் பணியாற்றிய அனுபவம் கொண்ட Krishnapura, Intel Fellow மற்றும் Intel IT-ன் Chief Technology Officer-ஆக பணியாற்றியுள்ளார். மேலும், 2022 முதல் Board-ல் பணியாற்றி வந்த Judy Lin தனது பதவியிலிருந்து ஓய்வு பெறுவதாகவும் இந்நிறுவனம் அறிவித்துள்ளது.",
-    "slug": "supermicro-appoints-shesha-krishnapura-to-board-of-directors-as-an-independent-director-and"
+    "hasContent": true,
+    "pubDate": "2026-10-09T09:08:26.000Z"
   },
   {
     "id": "fbec9d9adad5147d",
+    "slug": "mara-transfers-81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
     "title": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI",
-    "summary": "The bitcoin miner’s transfer does not confirm a sale, but comes as its treasury has fallen from 53,822 BTC in February to 35,577 BTC in August.",
-    "hasSummary": true,
-    "link": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
-    "source": "CoinDesk",
     "tags": [
       "MARA",
       "Galaxy Digital",
       "Bitcoin"
     ],
+    "source": "CoinDesk",
     "origin": "rss",
-    "pubDate": "2026-10-09T09:08:09.000Z",
-    "fetchedAt": "2026-10-09T09:27:26.677Z",
-    "isDuplicateOf": null,
-    "content": "Bitcoin miner MARA has transferred $81.1 million in bitcoin to Galaxy Digital amid a strategic shift toward artificial intelligence. While the transaction does not necessarily indicate a sale, MARA's overall treasury holdings have significantly decreased, dropping from 53,822 BTC in February down to 35,577 BTC by August, reflecting a notable change in the company's asset management approach.",
-    "content_ta": "செயற்கை நுண்ணறிவுத் துறைசார் உத்திமாற்றம் காரணமாக, Bitcoin மைனிங் நிறுவனமான MARA, மதிப்புமிக்க 81.1 மில்லியன் டாலர் மதிப்பிலான Bitcoin-ஐ Galaxy Digital நிறுவனத்திற்கு மாற்றியுள்ளது. இந்தத் பரிமாற்றம் உடனடியாக விற்பனையைக் குறிக்கவில்லை என்றாலும், பிப்ரவரி மாதத்தில் 53,822-ஆக இருந்த நிறுவனத்தின் புதையல் இருப்பு ஆகஸ்ட் மாதத்தில் 35,577 Bitcoin-களாகக் குறைந்துள்ளது.",
-    "slug": "mara-transfers-81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai"
+    "hasContent": true,
+    "pubDate": "2026-10-09T09:08:09.000Z"
   },
   {
     "id": "cf11acdb3fa0a245",
+    "slug": "bitcoin-price-briefly-reclaims-81-000-as-liquidations-top-1-billion",
     "title": "Bitcoin Price Briefly Reclaims $81,000 as Liquidations Top $1 Billion",
-    "summary": "Bitcoin price analysis weighs the $80,000 support after a brief dip below $82,000, with ETF outflows and $1 billion in liquidations.\nThe post Bitcoin Price Briefly Reclaims $81,000 as Liquidations Top $1 Billion appeared first on Cryptonews.",
-    "hasSummary": true,
-    "link": "https://cryptonews.com/news/bitcoin-price-80000-support-liquidations/",
-    "source": "CryptoNews",
     "tags": [
       "Bitcoin"
     ],
+    "source": "CryptoNews",
     "origin": "rss",
-    "pubDate": "2026-10-09T09:07:52.000Z",
-    "fetchedAt": "2026-10-09T09:27:26.677Z",
-    "isDuplicateOf": null,
-    "content": "Bitcoin recently experienced high market volatility, briefly reclaiming the $81,000 price level following a significant dip. The market correction triggered total liquidations exceeding $1 billion. Analysts are now closely monitoring the $80,000 support level to gauge future price stability amidst ongoing ETF outflows affecting the broader digital asset market.",
-    "content_ta": "Bitcoin விலையில் சமீபத்தில் பெரும் ஏற்றத்தாழ்வு ஏற்பட்டது, ஒரு சிறிய சரிவுக்குப் பிறகு அதன் விலை மீண்டும் சுருக்கமாக $81,000 ஐ எட்டியது. இந்தச் சந்தை மாற்றத்தால் ஒட்டுமொத்தமாக $1 பில்லியனுக்கும் அதிகமான தொகையானது liquidation ஆனது. தொடர்ந்து காணப்படும் ETF outflows காரணமாகவும், சந்தையின் அடுத்தக்கட்ட நிலைத்தன்மையை மதிப்பிடுவதற்காகவும் தற்போது $80,000 support விலையை ஆய்வாளர்கள் உன்னிப்பாகக் கவனித்து வருகின்றனர்.",
-    "slug": "bitcoin-price-briefly-reclaims-81-000-as-liquidations-top-1-billion"
+    "hasContent": true,
+    "pubDate": "2026-10-09T09:07:52.000Z"
   },
   {
     "id": "3737d085ba86443c",
+    "slug": "xrp-ledger-turns-into-whales-safehouse-with-new-upgrade-what-it-changes-for-xrp-holders",
     "title": "XRP Ledger Turns Into 'Whales Safehouse' With New Upgrade: What It Changes for XRP Holders",
-    "summary": "New XRPL upgrade changes wallet rules for big accounts to let them hide master keys offline.",
-    "hasSummary": true,
-    "link": "https://u.today/xrp-ledger-turns-into-whales-safehouse-with-new-upgrade-what-it-changes-for-xrp-holders",
-    "source": "U.Today",
     "tags": [
       "XRP Ledger",
       "XRP"
     ],
+    "source": "U.Today",
     "origin": "rss",
-    "pubDate": "2026-10-09T09:06:05.000Z",
-    "fetchedAt": "2026-10-09T09:27:26.677Z",
-    "isDuplicateOf": null,
-    "content": "The XRP Ledger has received a new upgrade that alters wallet rules for large accounts. This update allows major holders, often referred to as whales, to store their master keys securely offline. The change aims to enhance security for large participants within the ecosystem, offering better protection for their digital assets.",
-    "content_ta": "XRP Ledger-ல் ஒரு புதிய அப்கிரேட் வெளியிடப்பட்டுள்ளது. இது பெரிய அக்கவுண்ட்களுக்கான வாலட் விதிகளை மாற்றுகிறது. இந்த அப்கிரேட் மூலம், பெரிய ஹோல்டர்கள் எனப்படும் வேல்ஸ் தங்கள் மாஸ்டர் கீ-க்களை ஆஃப்லைனில் பாதுகாப்பாக சேமிக்க முடியும். இது சுற்றுச்சூழல் அமைப்பில் உள்ள பெரிய பங்கேற்பாளர்களின் பாதுகாப்பை மேம்படுத்துவதை நோக்கமாகக் கொண்டுள்ளது.",
-    "slug": "xrp-ledger-turns-into-whales-safehouse-with-new-upgrade-what-it-changes-for-xrp-holders"
+    "hasContent": true,
+    "pubDate": "2026-10-09T09:06:05.000Z"
   },
   {
     "id": "64f3bc56133f24f9",
+    "slug": "sam-altman-backed-bitcoin-insurer-meanwhile-secures-37-5-million-in-bain-capital-crypto-led-round",
     "title": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
-    "summary": "Meanwhile has signed 15 brokers serving high-net worth clients across markets iSwitzerland, Singapore, Hong Kong and the UAE.",
-    "hasSummary": true,
-    "link": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
-    "source": "CoinDesk",
     "tags": [
       "Sam Altman",
       "Meanwhile",
@@ -249,13 +740,10 @@
       "Hong Kong",
       "UAE"
     ],
+    "source": "CoinDesk",
     "origin": "rss",
-    "pubDate": "2026-10-09T09:06:00.000Z",
-    "fetchedAt": "2026-10-09T09:27:26.677Z",
-    "isDuplicateOf": null,
-    "content": "Meanwhile, a bitcoin-focused insurer backed by Sam Altman, has secured $37.5 million in a funding round led by Bain Capital Crypto. The company has already signed 15 brokers to serve high-net-worth clients across key international markets, including Switzerland, Singapore, Hong Kong, and the UAE, expanding its reach in the digital asset insurance sector.",
-    "content_ta": "Sam Altman-ன் ஆதரவு பெற்ற bitcoin இன்சூரன்ஸ் நிறுவனமான Meanwhile, Bain Capital Crypto தலைமையில் நடைபெற்ற நிதி திரட்டும் சுற்றில் 37.5 மில்லியன் டாலர்களைப் பெற்றுள்ளது. Switzerland, Singapore, Hong Kong மற்றும் UAE உள்ளிட்ட முக்கிய சந்தைகளில் உள்ள அதிஉயர் சொத்து மதிப்புள்ள வாடிக்கையாளர்களுக்கு சேவை செய்ய இந்நிறுவனம் ஏற்கனவே 15 தரகர்களுடன் ஒப்பந்தம் செய்துள்ளது.",
-    "slug": "sam-altman-backed-bitcoin-insurer-meanwhile-secures-37-5-million-in-bain-capital-crypto-led-round"
+    "hasContent": true,
+    "pubDate": "2026-10-09T09:06:00.000Z"
   },
   {
     "id": "f604d457fe5c9d4b",
@@ -362,524 +850,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-09T08:15:28.000Z"
-  },
-  {
-    "id": "20313160049900fb",
-    "slug": "nvidia-expands-role-as-ai-s-lender-of-last-resort",
-    "title": "Nvidia expands role as AI’s lender of last resort",
-    "tags": [
-      "Nvidia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T08:15:00.000Z"
-  },
-  {
-    "id": "190e90abbc7960c2",
-    "slug": "why-is-stock-market-up-today-live-updates-tcs-share-price-sensex-jumps-as-oil-eases",
-    "title": "Why Is Stock Market Up Today [LIVE] Updates: TCS Share Price; Sensex Jumps As Oil Eases",
-    "tags": [
-      "Sensex",
-      "TCS"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T08:12:56.000Z"
-  },
-  {
-    "id": "b7de68b1fe0984a8",
-    "slug": "ethereum-price-prediction-is-tom-lee-s-25k-eth-target-too-ambitious",
-    "title": "Ethereum Price Prediction: Is Tom Lee’s $25K ETH Target Too Ambitious?",
-    "tags": [
-      "Ethereum",
-      "Tom Lee",
-      "BitMine"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T08:12:00.000Z"
-  },
-  {
-    "id": "24c78f990f7baf9d",
-    "slug": "ethereum-eth-bloodbath-largest-whales-get-liquidated",
-    "title": "Ethereum (ETH) Bloodbath: Largest Whales Get Liquidated",
-    "tags": [
-      "Ethereum"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T08:05:00.000Z"
-  },
-  {
-    "id": "c29480ef5c381c5d",
-    "slug": "openai-claims-breakthrough-in-solving-navier-stokes-equations",
-    "title": "OpenAI claims breakthrough in solving Navier-Stokes equations",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T08:02:32.000Z"
-  },
-  {
-    "id": "8509800ff61ecc86",
-    "slug": "chainlink-crypto-slips-8-after-ccip-2-0-launch-can-link-hold-12",
-    "title": "Chainlink crypto slips 8% after CCIP 2.0 launch – Can LINK hold $12?",
-    "tags": [
-      "Chainlink"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T08:00:26.000Z"
-  },
-  {
-    "id": "9222bb0103566ed3",
-    "slug": "saudia-airlines-employee-killed-in-houthi-attack-state-tv",
-    "title": "Saudia Airlines employee killed in Houthi attack: state TV",
-    "tags": [
-      "Saudia Airlines",
-      "Houthi"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T07:50:49.000Z"
-  },
-  {
-    "id": "b38dc56b0dfffcbc",
-    "slug": "ethereum-eth-correction-deepens-but-binance-withdrawals-tell-another-story",
-    "title": "Ethereum (ETH) Correction Deepens, But Binance Withdrawals Tell Another Story",
-    "tags": [
-      "Ethereum",
-      "Binance"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T07:43:43.000Z"
-  },
-  {
-    "id": "4b7bd087658afaf0",
-    "slug": "thousands-march-in-spain-over-housing-crisis-ahead-of-november-election",
-    "title": "Thousands march in Spain over housing crisis ahead of November election",
-    "tags": [
-      "Spain"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T07:42:07.000Z"
-  },
-  {
-    "id": "b4c26bb47f3b0f4d",
-    "slug": "dogecoin-dips-by-11-this-week-as-whale-balances-shrink",
-    "title": "Dogecoin dips by 11% this week as whale balances shrink",
-    "tags": [
-      "Dogecoin"
-    ],
-    "source": "CoinJournal",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T07:38:09.000Z"
-  },
-  {
-    "id": "28e94cec537a5eb8",
-    "slug": "binance-to-delist-22-tokens-in-brazil",
-    "title": "Binance to Delist 22 Tokens in Brazil",
-    "tags": [
-      "Binance",
-      "Brazil"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T07:30:46.000Z"
-  },
-  {
-    "id": "0e9f41872704bfaa",
-    "slug": "atom-price-prediction-can-cosmos-break-above-2",
-    "title": "ATOM Price Prediction: Can Cosmos Break Above $2?",
-    "tags": [
-      "Cosmos",
-      "ATOM"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T07:29:55.000Z"
-  },
-  {
-    "id": "4f056d47ca1cb27f",
-    "slug": "solana-s-co-founder-says-netflix-s-ftx-trailer-was-worse-than-he-expected",
-    "title": "Solana’s Co-Founder Says Netflix’s FTX Trailer Was Worse Than He Expected",
-    "tags": [
-      "Solana",
-      "Netflix",
-      "FTX",
-      "Anatoly Yakovenko",
-      "Raj Gokal",
-      "Vitalik Buterin"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T07:28:29.000Z"
-  },
-  {
-    "id": "9b4c300fd4fb0bd4",
-    "slug": "eu-regulators-target-non-compliant-stablecoins-with-a-90-day-deadline",
-    "title": "EU regulators target non-compliant stablecoins with a 90-day deadline",
-    "tags": [
-      "EU"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T07:20:02.000Z"
-  },
-  {
-    "id": "3434f8aa0b2f80e0",
-    "slug": "why-saylor-called-musk-s-wildest-spacex-claim-ullish",
-    "title": "Why Saylor Called Musk’s Wildest SpaceX Claim “₿ullish”",
-    "tags": [
-      "MicroStrategy",
-      "SpaceX",
-      "Michael Saylor",
-      "Elon Musk"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T07:08:59.000Z"
-  },
-  {
-    "id": "7395c0c598b68fe3",
-    "slug": "lbank-marks-its-anniversary-with-a-1-111-111-usdt-campaign-built-around-liquidity-discovery-and-the",
-    "title": "LBank Marks Its Anniversary with a 1,111,111 USDT Campaign, Built Around Liquidity, Discovery and the Next Generation of Trading",
-    "tags": [
-      "LBank",
-      "Singapore"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T07:00:00.000Z"
-  },
-  {
-    "id": "b424326b3c8c065d",
-    "slug": "live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
-    "title": "Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows",
-    "tags": [
-      "XRP",
-      "Bitcoin",
-      "Ethereum",
-      "ZEC"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T06:51:32.000Z"
-  },
-  {
-    "id": "2dc4c6fa9f71fe91",
-    "slug": "hang-seng-index-falls-1-43-as-tech-stocks-slide",
-    "title": "Hang Seng Index Falls 1.43% as Tech Stocks Slide",
-    "tags": [
-      "Hang Seng Index",
-      "Hang Seng Tech Index",
-      "Hong Kong",
-      "HSBC Holdings"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T06:41:09.000Z"
-  },
-  {
-    "id": "c8daf8c74f9cdcc7",
-    "slug": "new-tech-to-power-bitcoin-lending-is-set-to-debut-with-500-million-in-commitments",
-    "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
-    "tags": [
-      "Sui",
-      "Bitcoin",
-      "Hashi"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T06:40:54.000Z"
-  },
-  {
-    "id": "a702750b65b0066d",
-    "slug": "thailand-opens-the-door-to-crypto-etfs-but-shuts-the-back-door-on-foreign-ones",
-    "title": "Thailand Opens the Door to Crypto ETFs, but Shuts the Back Door on Foreign Ones",
-    "tags": [
-      "Thailand",
-      "Bitcoin",
-      "Ethereum",
-      "Stock Exchange of Thailand"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T06:34:11.000Z"
-  },
-  {
-    "id": "1d1ec377ddd31741",
-    "slug": "coinbase-rolls-out-10x-spot-leverage-but-blocks-us-retail-from-it",
-    "title": "Coinbase rolls out 10x spot leverage, but blocks US retail from it",
-    "tags": [
-      "Coinbase",
-      "United States"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T06:30:02.000Z"
-  },
-  {
-    "id": "b45ebe511e49a0eb",
-    "slug": "why-is-tcs-stock-up-today",
-    "title": "Why Is TCS Stock Up Today?",
-    "tags": [
-      "Tata Consultancy Services"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T06:29:34.000Z"
-  },
-  {
-    "id": "23c07942e6442880",
-    "slug": "china-s-tech-hardware-shares-slide-as-valuation-worries-mount",
-    "title": "China’s tech hardware shares slide as valuation worries mount",
-    "tags": [
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T06:24:32.000Z"
-  },
-  {
-    "id": "382790b2f70d7206",
-    "slug": "netflix-is-giving-sbf-another-stage-what-about-his-victims",
-    "title": "Netflix Is Giving SBF Another Stage: What About His Victims?",
-    "tags": [
-      "Netflix",
-      "FTX",
-      "Sam Bankman-Fried",
-      "Caroline Ellison"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T06:20:13.000Z"
-  },
-  {
-    "id": "fd2ca976edd531e4",
-    "slug": "bitcoin-price-prediction-is-the-us-government-behind-the-crypto-crash",
-    "title": "Bitcoin Price Prediction: Is the US Government Behind The Crypto Crash?",
-    "tags": [
-      "Bitcoin",
-      "United States"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T05:45:02.000Z"
-  },
-  {
-    "id": "653a65cd91587918",
-    "slug": "cardano-founder-slams-vitalik-buterin-over-crypto-security",
-    "title": "Cardano Founder Slams Vitalik Buterin Over Crypto Security",
-    "tags": [
-      "Cardano",
-      "Ethereum",
-      "Charles Hoskinson",
-      "Vitalik Buterin"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T05:37:54.000Z"
-  },
-  {
-    "id": "b0d13e4abb22065c",
-    "slug": "crypto-projects-apply-for-anthropic-s-new-frontier-ai-security-scanner",
-    "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner",
-    "tags": [
-      "Anthropic",
-      "Claude Mythos"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T05:34:33.000Z"
-  },
-  {
-    "id": "1244de7404572011",
-    "slug": "current-s-p-500-bull-market-turns-4-monday-and-history-suggests-more-to-come",
-    "title": "Current S&P 500 Bull Market Turns 4 Monday and History Suggests More to Come",
-    "tags": [
-      "S&P 500"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T05:32:00.000Z"
-  },
-  {
-    "id": "6d6c7c939bc218f5",
-    "slug": "trump-administration-outlines-quantum-ai-initiatives-in-6b-science-push",
-    "title": "Trump administration outlines quantum, AI initiatives in $6B science push",
-    "tags": [
-      "United States",
-      "White House",
-      "Trump administration"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T05:25:27.000Z"
-  },
-  {
-    "id": "63fa29629b1d24a7",
-    "slug": "core-lightning-patches-critical-security-flaws-and-a-bitcoin-payment-bug",
-    "title": "Core Lightning patches critical security flaws and a Bitcoin payment bug",
-    "tags": [
-      "Core Lightning",
-      "Bitcoin"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T05:20:19.000Z"
-  },
-  {
-    "id": "e1f08443ea5cb7e5",
-    "slug": "trump-voter-enthusiasm-wanes-ahead-of-2026-midterms-reuters-ipsos-poll",
-    "title": "Trump voter enthusiasm wanes ahead of 2026 midterms: Reuters/Ipsos poll",
-    "tags": [
-      "Donald Trump",
-      "Reuters",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T05:12:32.000Z"
-  },
-  {
-    "id": "4e81087a35781f48",
-    "slug": "incoming-lending-wars-lido-unveils-security-first-protocol-for-54b-on-chain-credit-market",
-    "title": "Incoming lending wars? Lido unveils security-first protocol for $54B on-chain credit market",
-    "tags": [
-      "Lido"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T05:00:54.000Z"
-  },
-  {
-    "id": "91ba13f3980f218b",
-    "slug": "bitcoin-price-could-hit-a-new-all-time-high-within-90-days",
-    "title": "Bitcoin Price Could Hit A New All-Time High Within 90 Days",
-    "tags": [
-      "Bitcoin",
-      "Timothy Peterson"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T05:00:17.000Z"
-  },
-  {
-    "id": "935147678a5c5292",
-    "slug": "cross-border-payments-now-compete-on-success-not-price",
-    "title": "Cross-Border Payments Now Compete on Success, Not Price",
-    "tags": [
-      "Moshe Kimhi",
-      "Neema",
-      "The Fintech Times"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T05:00:04.000Z"
-  },
-  {
-    "id": "87e3b828a53fd0e9",
-    "slug": "bitcoin-miners-escape-months-of-distress-as-daily-revenue-surges-by-78",
-    "title": "Bitcoin miners escape months of distress as daily revenue surges by 78%",
-    "tags": [
-      "Bitcoin",
-      "CryptoQuant",
-      "CryptoSlate"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T04:10:41.000Z"
-  },
-  {
-    "id": "acfab37579b1c2cf",
-    "slug": "dwf-labs-affiliates-sue-bitgo-for-141m-over-alleged-falcon-finance-esports-token-sales",
-    "title": "DWF Labs affiliates sue BitGo for $141M over alleged Falcon Finance, ESPORTS token sales",
-    "tags": [
-      "DWF Labs",
-      "BitGo",
-      "Falcon Finance",
-      "ESPORTS"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T04:05:00.000Z"
-  },
-  {
-    "id": "5727e97699f58123",
-    "slug": "ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-1-billion-flush",
-    "title": "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush",
-    "tags": [
-      "Ethereum",
-      "Bitcoin"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T04:04:36.000Z"
-  },
-  {
-    "id": "46ddd20877aba00d",
-    "slug": "ai-company-cds-spreads-rise-signaling-market-caution-on-tech-debt",
-    "title": "AI company CDS spreads rise, signaling market caution on tech debt",
-    "tags": [
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T04:04:23.000Z"
-  },
-  {
-    "id": "631b18b41d8c4726",
-    "slug": "curve-s-active-loans-jump-to-76-18m-here-s-what-it-signals-for-crv",
-    "title": "Curve’s active loans jump to $76.18M – Here’s what it signals for CRV",
-    "tags": [
-      "Curve",
-      "CRV"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-09T04:00:39.000Z"
   }
 ]
