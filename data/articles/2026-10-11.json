@@ -1434,5 +1434,44 @@
     "content": "An online advertisement and guide for purchasing the medication Levothroid highlights options for ordering online without a prescription, comparing costs, and utilizing international pharmacy services. The text discusses pharmacy technician careers, online education programs, and tips for managing prescription orders and emails safely.",
     "content_ta": "Levothroid மருந்தை ஆன்லைனில் வாங்குவதற்கான வழிகாட்டியும் விளம்பரமும், மருந்து சீட்டு இல்லாமல் ஆன்லைனில் ஆர்டர் செய்வது மற்றும் செலவுகளை ஒப்பிடுவது பற்றிய தகவல்களை வழங்குகின்றன. இந்தச் செய்தியில் பார்மசி டெக்னீசியன் வேலைவாய்ப்புகள் மற்றும் ஆன்லைன் கல்வித் திட்டங்கள் பற்றியும் விவாதிக்கப்பட்டுள்ளது.",
     "slug": "levothroid-where-to-buy-next"
+  },
+  {
+    "id": "2f55a94df6d7d2d4",
+    "title": "Lightning apps using unpatched LDK risk Bitcoin theft from a reconnect lie",
+    "summary": "The October 1-dated v0.2.7 and v0.1.13 patches close a reconnect theft path, while v0.2.7 also fixes an LSPS2 payment-amount flaw.\nThe post Lightning apps using unpatched LDK risk Bitcoin theft from a reconnect lie appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/unpatched-ldk-apps-can-lose-bitcoin-when-a-lightning-peer-lies-after-reconnecting/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Bitcoin",
+      "Lightning Network",
+      "LDK"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-11T18:00:02.000Z",
+    "fetchedAt": "2026-10-11T18:01:18.483Z",
+    "isDuplicateOf": null,
+    "content": "Lightning Network applications using unpatched versions of LDK face potential Bitcoin theft risks due to a reconnect vulnerability. Recent software patches, including v0.2.7 and v0.1.13 released in October, address this reconnect security flaw. Additionally, the v0.2.7 update resolves an LSPS2 payment-amount bug, helping secure user funds against potential exploits.",
+    "content_ta": "Unpatched LDK-ஐப் பயன்படுத்தும் Lightning Network அப்ளிகேஷன்கள் reconnect குறைபாடு காரணமாக Bitcoin திருட்டு அபாயத்தை எதிர்கொள்கின்றன. அக்டோபரில் வெளியிடப்பட்ட v0.2.7 மற்றும் v0.1.13 போன்ற புதிய சாஃப்ட்வேர் பேட்ச்கள் இந்த பாதுகாப்புச் சிக்கலைச் சரிசெய்கின்றன. கூடுதலாக, v0.2.7 அப்டேட் LSPS2 payment-amount பக்ஸையும் நிவர்த்தி செய்கிறது.",
+    "slug": "lightning-apps-using-unpatched-ldk-risk-bitcoin-theft-from-a-reconnect-lie"
+  },
+  {
+    "id": "afe526ad806baf5d",
+    "title": "Protecting Customer Data Starts with Operational Controls",
+    "summary": "Staff Boom CEO Norm Hudson argues insurers facing AI voice-cloning fraud need scoped access, audited workflows and equal vetting for every team handling data.\nThe post Protecting Customer Data Starts with Operational Controls appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/protecting-customer-data-starts-with-operational-controls/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Staff Boom",
+      "Norm Hudson"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-11T18:00:46.000Z",
+    "fetchedAt": "2026-10-11T18:01:18.483Z",
+    "isDuplicateOf": null,
+    "content": "Staff Boom CEO Norm Hudson warns that insurers combating AI voice-cloning fraud must implement strict operational controls. He highlights the need for scoped access, audited workflows, and rigorous vetting for all teams handling sensitive customer data to protect against emerging technological threats.",
+    "content_ta": "Staff Boom CEO Norm Hudson, AI வாய்ஸ்-க்ளோனிங் மோசடிகளை எதிர்கொள்ளும் காப்பீட்டு நிறுவனங்கள் கடுமையான செயல்பாட்டு கட்டுப்பாடுகளை நடைமுறைப்படுத்த வேண்டும் என்று எச்சரித்துள்ளார். உணர்திறன் வாய்ந்த வாடிக்கையாளர் தரவைக் கையாளும் அனைத்து குழுக்களுக்கும் வரையறுக்கப்பட்ட அணுகல், தணிக்கை செய்யப்பட்ட பணிப்பாய்வுகள் மற்றும் கடுமையான பரிசோதனை ஆகியவை அவசியம் என்பதை அவர் வலியுறுத்துகிறார்.",
+    "slug": "protecting-customer-data-starts-with-operational-controls"
   }
 ]

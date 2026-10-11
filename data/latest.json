@@ -1,41 +1,68 @@
 [
   {
-    "id": "08c55256b30f0036",
-    "title": "Goldman Sachs projects $600 billion in US equity issuance in 2027",
-    "summary": "Increased equity issuance could strain market absorption, impacting valuations and investor returns, especially if buyback support wanes.\nThe post Goldman Sachs projects $600 billion in US equity issuance in 2027 appeared first on Crypto Briefing.",
+    "id": "afe526ad806baf5d",
+    "title": "Protecting Customer Data Starts with Operational Controls",
+    "summary": "Staff Boom CEO Norm Hudson argues insurers facing AI voice-cloning fraud need scoped access, audited workflows and equal vetting for every team handling data.\nThe post Protecting Customer Data Starts with Operational Controls appeared first on The Fintech Times.",
     "hasSummary": true,
-    "link": "https://cryptobriefing.com/goldman-sachs-600-billion-equity-issuance-2027/",
-    "source": "CryptoBriefing",
+    "link": "https://thefintechtimes.com/protecting-customer-data-starts-with-operational-controls/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Staff Boom",
+      "Norm Hudson"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-11T18:00:46.000Z",
+    "fetchedAt": "2026-10-11T18:01:18.483Z",
+    "isDuplicateOf": null,
+    "content": "Staff Boom CEO Norm Hudson warns that insurers combating AI voice-cloning fraud must implement strict operational controls. He highlights the need for scoped access, audited workflows, and rigorous vetting for all teams handling sensitive customer data to protect against emerging technological threats.",
+    "content_ta": "Staff Boom CEO Norm Hudson, AI வாய்ஸ்-க்ளோனிங் மோசடிகளை எதிர்கொள்ளும் காப்பீட்டு நிறுவனங்கள் கடுமையான செயல்பாட்டு கட்டுப்பாடுகளை நடைமுறைப்படுத்த வேண்டும் என்று எச்சரித்துள்ளார். உணர்திறன் வாய்ந்த வாடிக்கையாளர் தரவைக் கையாளும் அனைத்து குழுக்களுக்கும் வரையறுக்கப்பட்ட அணுகல், தணிக்கை செய்யப்பட்ட பணிப்பாய்வுகள் மற்றும் கடுமையான பரிசோதனை ஆகியவை அவசியம் என்பதை அவர் வலியுறுத்துகிறார்.",
+    "slug": "protecting-customer-data-starts-with-operational-controls"
+  },
+  {
+    "id": "2f55a94df6d7d2d4",
+    "title": "Lightning apps using unpatched LDK risk Bitcoin theft from a reconnect lie",
+    "summary": "The October 1-dated v0.2.7 and v0.1.13 patches close a reconnect theft path, while v0.2.7 also fixes an LSPS2 payment-amount flaw.\nThe post Lightning apps using unpatched LDK risk Bitcoin theft from a reconnect lie appeared first on CryptoSlate.",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/unpatched-ldk-apps-can-lose-bitcoin-when-a-lightning-peer-lies-after-reconnecting/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Bitcoin",
+      "Lightning Network",
+      "LDK"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-11T18:00:02.000Z",
+    "fetchedAt": "2026-10-11T18:01:18.483Z",
+    "isDuplicateOf": null,
+    "content": "Lightning Network applications using unpatched versions of LDK face potential Bitcoin theft risks due to a reconnect vulnerability. Recent software patches, including v0.2.7 and v0.1.13 released in October, address this reconnect security flaw. Additionally, the v0.2.7 update resolves an LSPS2 payment-amount bug, helping secure user funds against potential exploits.",
+    "content_ta": "Unpatched LDK-ஐப் பயன்படுத்தும் Lightning Network அப்ளிகேஷன்கள் reconnect குறைபாடு காரணமாக Bitcoin திருட்டு அபாயத்தை எதிர்கொள்கின்றன. அக்டோபரில் வெளியிடப்பட்ட v0.2.7 மற்றும் v0.1.13 போன்ற புதிய சாஃப்ட்வேர் பேட்ச்கள் இந்த பாதுகாப்புச் சிக்கலைச் சரிசெய்கின்றன. கூடுதலாக, v0.2.7 அப்டேட் LSPS2 payment-amount பக்ஸையும் நிவர்த்தி செய்கிறது.",
+    "slug": "lightning-apps-using-unpatched-ldk-risk-bitcoin-theft-from-a-reconnect-lie"
+  },
+  {
+    "id": "08c55256b30f0036",
+    "slug": "goldman-sachs-projects-600-billion-in-us-equity-issuance-in-2027",
+    "title": "Goldman Sachs projects $600 billion in US equity issuance in 2027",
     "tags": [
       "Goldman Sachs",
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-11T17:34:15.000Z",
-    "fetchedAt": "2026-10-11T17:44:33.757Z",
-    "isDuplicateOf": null,
-    "content": "Goldman Sachs has projected that US equity issuance will reach $600 billion by 2027. Market analysts warn that this significant increase in equity issuance could potentially strain market absorption. Such a trend may impact overall valuations and investor returns, particularly if existing share buyback support begins to wane in the future.",
-    "content_ta": "2027-ஆம் ஆண்டில் அமெரிக்க ஈக்விட்டி வெளியீடு 600 பில்லியன் டாலர்களை எட்டும் என்று Goldman Sachs கணித்துள்ளது. ஈக்விட்டி வெளியீட்டின் இந்த குறிப்பிடத்தக்க அதிகரிப்பு சந்தை ஏற்புத்திறனை பாதிக்கலாம் என்று சந்தை ஆய்வாளர்கள் எச்சரிக்கின்றனர். குறிப்பாக பங்கு வாங்கும் ஆதரவு குறைந்தால், இது ஒட்டுமொத்த மதிப்பீடுகளையும் முதலீட்டாளர் வருமானத்தையும் பாதிக்கக்கூடும்.",
-    "slug": "goldman-sachs-projects-600-billion-in-us-equity-issuance-in-2027"
+    "hasContent": true,
+    "pubDate": "2026-10-11T17:34:15.000Z"
   },
   {
     "id": "fe30b4881a6cb9c0",
+    "slug": "ledger-confirms-draining-cases-linked-to-cryptobilis-sold-devices",
     "title": "Ledger confirms draining cases linked to CryptoBilis-sold devices",
-    "summary": "The incident highlights vulnerabilities in supply chains, urging stricter controls and verification to protect crypto assets from unauthorized access.\nThe post Ledger confirms draining cases linked to CryptoBilis-sold devices appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/ledger-cryptobilis-hardware-implant-draining/",
-    "source": "CryptoBriefing",
     "tags": [
       "Ledger",
       "CryptoBilis"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-11T17:21:41.000Z",
-    "fetchedAt": "2026-10-11T17:44:33.757Z",
-    "isDuplicateOf": null,
-    "content": "Ledger has confirmed that recent cryptocurrency draining incidents are linked to devices sold by CryptoBilis. This security issue highlights critical vulnerabilities within hardware supply chains. Users are urged to exercise caution, implement stricter controls, and ensure proper verification methods are used when purchasing hardware wallets to protect their digital assets from unauthorized access and potential theft.",
-    "content_ta": "CryptoBilis விற்பனை செய்த டிவைஸ்கள் மூலம் கிரிப்டோகரன்சி திருட்டு சம்பவங்கள் நடந்துள்ளதாக Ledger உறுதிப்படுத்தியுள்ளது. இந்த பாதுகாப்பு பிரச்சனை சப்ளை செயின்களில் உள்ள பலவீனங்களை வெளிச்சம் போட்டுக் காட்டுகிறது. டிஜிட்டல் சொத்துக்களைப் பாதுகாக்க, வாலெட்களை வாங்கும் போது கடுமையான கட்டுப்பாடுகளைப் பின்பற்றுமாறு பயனர்கள் அறிவுறுத்தப்படுகிறார்கள்.",
-    "slug": "ledger-confirms-draining-cases-linked-to-cryptobilis-sold-devices"
+    "hasContent": true,
+    "pubDate": "2026-10-11T17:21:41.000Z"
   },
   {
     "id": "2597804cae0fd34f",
@@ -52,23 +79,17 @@
   },
   {
     "id": "60be763b46e30ed3",
+    "slug": "oil-traders-are-about-to-test-trump-s-russia-ukraine-ceasefire-claim-but-bitcoin-reacted-first",
     "title": "Oil Traders Are About to Test Trump’s Russia-Ukraine Ceasefire Claim, But Bitcoin Reacted First",
-    "summary": "Bitcoin rose on Trump’s Russia-Ukraine energy ceasefire claim. Oil futures reopen next to test a truce neither side confirmed.\nThe post Oil Traders Are About to Test Trump’s Russia-Ukraine Ceasefire Claim, But Bitcoin Reacted First appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/trump-energy-ceasefire-oil-bitcoin-test/",
-    "source": "BeInCrypto",
     "tags": [
       "Bitcoin",
       "Russia",
       "Ukraine"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-10-11T17:06:39.000Z",
-    "fetchedAt": "2026-10-11T17:44:33.757Z",
-    "isDuplicateOf": null,
-    "content": "Bitcoin recently rose following claims by Trump regarding a Russia-Ukraine energy ceasefire. Meanwhile, oil futures are preparing to reopen as markets test the validity of this truce, which neither side has officially confirmed.",
-    "content_ta": "ரஷ்யா மற்றும் உக்ரைன் இடையேயான ஆற்றல் துறை போர் நிறுத்தம் குறித்த Trump-ன் கூற்றைத் தொடர்ந்து Bitcoin விலையில் உயர்வு ஏற்பட்டுள்ளது. இதற்கிடையில், இந்த போர் நிறுத்த ஒப்பந்தத்தை இரு தரப்பினரும் அதிகாரப்பூர்வமாக உறுதிப்படுத்தாத நிலையில், சந்தைகள் அதனை பரிசோதிக்க எண்ணெய் எதிர்கால ஒப்பந்தங்கள் தயாராகி வருகின்றன.",
-    "slug": "oil-traders-are-about-to-test-trump-s-russia-ukraine-ceasefire-claim-but-bitcoin-reacted-first"
+    "hasContent": true,
+    "pubDate": "2026-10-11T17:06:39.000Z"
   },
   {
     "id": "2b23da7df1f127f8",
@@ -110,11 +131,8 @@
   },
   {
     "id": "bea73851ac5d0ad6",
+    "slug": "elon-musk-s-starlink-faces-a-new-threat-from-russia",
     "title": "Elon Musk’s Starlink Faces a New Threat From Russia",
-    "summary": "Four Russian military satellites closed in on a Western spacecraft supplying intelligence to Ukraine. Germany’s space commander now warns that similar tactics could threaten Elon Musk’s Starlink, potentially affecting users far beyond the battlefield. In May, four Russian military satellites followed a Finnish satellite that provides battlefield images to Ukraine.  Major General Michael Traut, head\nThe post Elon Musk’s Starlink Faces a New Threat From Russia appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/elon-musk-starlink-russia-satellite-threat/",
-    "source": "BeInCrypto",
     "tags": [
       "Elon Musk",
       "Starlink",
@@ -122,13 +140,10 @@
       "Ukraine",
       "Germany"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-10-11T16:52:59.000Z",
-    "fetchedAt": "2026-10-11T17:44:33.757Z",
-    "isDuplicateOf": null,
-    "content": "Elon Musk’s Starlink faces a potential new threat from Russia after military satellites recently targeted a Western spacecraft supplying intelligence to Ukraine. Germany’s space commander warned that similar tactics could be used against Starlink, raising concerns about potential disruptions that could impact users far beyond the current battlefield.",
-    "content_ta": "உக்ரைனுக்கு உளவுத் தகவல்களை வழங்கும் மேற்கத்திய விண்கலத்தை ரஷ்யாவின் ராணுவச் செயற்கைக்கோள்கள் குறிவைத்ததை அடுத்து, Elon Musk-ன் Starlink புதிய அச்சுறுத்தலை எதிர்கொள்கிறது. Starlink-க்கு எதிராக இதுபோன்ற தந்திரங்கள் பயன்படுத்தப்படலாம் என்று ஜெர்மனியின் விண்கல தளபதி எச்சரித்துள்ளார், இது போர்க்களத்திற்கு அப்பால் உள்ள பயனர்களையும் பாதிக்கலாம் என்ற கவலையை எழுப்பியுள்ளது.",
-    "slug": "elon-musk-s-starlink-faces-a-new-threat-from-russia"
+    "hasContent": true,
+    "pubDate": "2026-10-11T16:52:59.000Z"
   },
   {
     "id": "91bf86668a6ae9bf",
@@ -160,22 +175,16 @@
   },
   {
     "id": "c16e00e0bedb4e86",
+    "slug": "liquid-network-halts-bitcoin-redemptions-with-reserves-at-about-86-coverage",
     "title": "Liquid Network halts Bitcoin redemptions with reserves at about 86% coverage",
-    "summary": "The halted redemptions highlight the critical need for robust security and full reserve backing in maintaining trust in sidechain models.\nThe post Liquid Network halts Bitcoin redemptions with reserves at about 86% coverage appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/liquid-network-halts-bitcoin-redemptions-reserve-gap/",
-    "source": "CryptoBriefing",
     "tags": [
       "Liquid Network",
       "Bitcoin"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-11T16:14:10.000Z",
-    "fetchedAt": "2026-10-11T17:44:33.757Z",
-    "isDuplicateOf": null,
-    "content": "Liquid Network has temporarily halted Bitcoin redemptions after reports revealed its reserves dropped to about 86 percent coverage. This development highlights ongoing concerns regarding sidechain security and the critical importance of maintaining full reserve backing to preserve user trust within the cryptocurrency ecosystem.",
-    "content_ta": "Liquid Network தனது Bitcoin மீட்பு நடவடிக்கைகளை தற்காலிகமாக நிறுத்தியுள்ளது. இதன் கையிருப்பு சுமார் 86 சதவீதம் மட்டுமே உள்ளதாக வெளியான தகவல்கள் இதனை உறுதிப்படுத்தியுள்ளன. இந்த நிகழ்வு சைட் செயின் பாதுகாப்பின் முக்கியத்துவத்தையும், முழுமையான கையிருப்பு ஆதரவின் அவசியத்தையும் வெளிச்சம் போட்டுக் காட்டுகிறது.",
-    "slug": "liquid-network-halts-bitcoin-redemptions-with-reserves-at-about-86-coverage"
+    "hasContent": true,
+    "pubDate": "2026-10-11T16:14:10.000Z"
   },
   {
     "id": "aac37e1aae10f802",
@@ -221,50 +230,35 @@
   },
   {
     "id": "49ad792a8bae8d5f",
+    "slug": "kyrgyzstan-orders-liquidation-of-usdkg-issuer-and-coin-nomad-exchange",
     "title": "Kyrgyzstan orders liquidation of USDKG issuer and Coin Nomad Exchange",
-    "summary": "Kyrgyzstan's liquidation of key crypto entities may undermine its digital finance ambitions, affecting investor confidence and regional influence.\nThe post Kyrgyzstan orders liquidation of USDKG issuer and Coin Nomad Exchange appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/kyrgyzstan-liquidates-usdkg-coin-nomad-exchange/",
-    "source": "CryptoBriefing",
     "tags": [
       "Kyrgyzstan",
       "USDKG",
       "Coin Nomad Exchange"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-11T15:59:17.000Z",
-    "fetchedAt": "2026-10-11T17:44:33.757Z",
-    "isDuplicateOf": null,
-    "content": "Kyrgyzstan has ordered the liquidation of the USDKG issuer and Coin Nomad Exchange. This major action against key local cryptocurrency entities could negatively impact the nation's digital finance ambitions, potentially damaging investor confidence and its regional influence in the evolving crypto sector.",
-    "content_ta": "கிர்கிஸ்தான் நாடு USDKG issuer மற்றும் Coin Nomad Exchange ஆகியவற்றை கலைக்க உத்தரவிட்டுள்ளது. முக்கிய கிரிப்டோ நிறுவனங்கள் மீதான இந்த நடவடிக்கையானது நாட்டின் டிஜிட்டல் நிதி இலக்குகளைப் பாதிக்கலாம், இது முதலீட்டாளர்களின் நம்பிக்கையையும் பிராந்திய செல்வாக்கையும் குறைக்கக்கூடும்.",
-    "slug": "kyrgyzstan-orders-liquidation-of-usdkg-issuer-and-coin-nomad-exchange"
+    "hasContent": true,
+    "pubDate": "2026-10-11T15:59:17.000Z"
   },
   {
     "id": "7dcd7394f5decf42",
+    "slug": "innopran-buy-pills-generic",
     "title": "Innopran: Buy Pills Generic",
-    "summary": "Looking for innopran? Not a problem!\nhttps://jackieprovider.com/med/innopran    \nDiscreet Package  Low Prices  24/7/365 Customer Support  100% Satisfaction Guaranteed. \ncheap innopran xl cr buy innopran pills generic low cost innopran xl drug innopran for sale uk where to buy next innopran innopran xl buy easily online buy brand inderalici innopran find effect innopran purchase generic comparable to innopran order innopran xl massachusetts want to order innopran low cost innopran purchase find order innopran xl fedex usa https://simplemedrx.top/innopran best buy innopran in chesapeake buy innopran xl saturday delivery generic innopran xl no doctors buy innopran xl without prescriptions discounted innopran propranolol cost find innopran generic check purchase innopran without prescription where to buy beta-prograne innopran innopran sale overnight delivery best price innopran tabs purchase innopran at discount purchase innopran xl fast iowa buy innopran online 24x7 buy avlocardyl innopran overnight delivery otc innopran no doctors pharmacy buy innopran amex online innopran cost pharmaceutical generic low price innopran buy inderal innopran tab legally best price innopran amex best price innopran store want to buy innopran order innopran from us pharmacy can i order innopran buy cod innopran xl mexico innopran 80mg viscous inderal purchase cheapest avlocardyl innopran xl medicine where to order next innopran cheap generic innopran online want to purchase innopran buy deralin innopran xl fedex how to buy innopran no prescription propranolol innopran tab pharmacy innopran xl tablets fedex innopran 80mg order draw propranolol inderal innopran buy innopran from canadian pharmacy can i buy innopran cheapest innopran beta-prograne best price propranolol innopran cheap frei generic innopran xl how to order innopran discount innopran prescription inderal buy innopran xl 60mg how to buy innopran online cheapest innopran how to purchase innopran price for prescription innopran buy innopran xl delivery where to purchase next innopran can i purchase innopran order propranolol innopran luton manufacturer generic innopran where can i buy innopran pharmacy innopran usa tablets buy cheap innopran without presciptionStop by Alison Wilson's site to find out information on \nThe last couple of years usually require a lot of clinical work.  Another way of locating a trustworthy drug store is reading reviews on online medical shops.  A pharmacy specialist certification permits one to cultivate social abilities and mindset in shaping an individual's self to become best specialist.  \nThe tech will enter orders, make sure orders, process requests for insurance and patient information among other things.  Listed here are a summary of just some of the medical goods that Axis Medicare Ltd wish to supply you with at discount prices, given by this specific UK Online Chemists;-Children's well-being products such as Bepanthen, Calpol as well as Bio-Oil.  The profession enjoys an improvement rate of 16 percent through 2018, which is higher than the common for all occupations.  \nThe live answering services company company later changed its name to e - Telecare Global Soltions in 2004.  The holding, the transfers, the new rules and the mail-order requirements.  The massive surge in people online for many with their shopping and daily needs has resulted in many pharmacies having an online site built, where they offer numerous services which will help you avoid making unnecessary trips to the local pharmacy.  \nPharmacists also work in close experience of pharmacy technicians and pharmacy aides who help them within the dispensing of medication.  If the situation is not treated on an extended time frame, it may lead to serious complications including cancer.  Their mission is to find approaches to improve their patient's lives by lowering stress and adding a little bit of mind as to what can be described as a hard to manage experience.  \nJailynInnopran: Buy Pills GenericCinthya",
-    "hasSummary": true,
-    "link": "https://financialit.net/content/innopran-buy-pills-generic",
-    "source": "Financial IT",
     "tags": [
       "Innopran",
       "Axis Medicare Ltd"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-10-11T15:48:18.000Z",
-    "fetchedAt": "2026-10-11T17:44:33.757Z",
-    "isDuplicateOf": null,
-    "content": "An online spam advertisement promotes the purchase of generic Innopran and Propranolol pills through various online pharmacy links without requiring a prescription. The text includes promotional offers like discreet packaging and low prices, alongside unrelated snippets about pharmacy careers and medical store reviews.",
-    "content_ta": "ஒரு ஆன்லைன் விளம்பரம் மருத்துவரின் பரிந்துரை சீட்டு இல்லாமல் ஜெனரிக் Innopran மற்றும் Propranolol மாத்திரைகளை ஆன்லைனில் வாங்க ஊக்குவிக்கிறது. ரகசியமான பேக்கேஜிங் மற்றும் குறைந்த விலைகள் போன்ற சலுகைகளுடன், மருந்தக வேலைவாய்ப்புகள் மற்றும் மருத்துவக் கடை விமர்சனங்கள் பற்றிய தகவல்களும் இதில் இடம்பெற்றுள்ளன.",
-    "slug": "innopran-buy-pills-generic"
+    "hasContent": true,
+    "pubDate": "2026-10-11T15:48:18.000Z"
   },
   {
     "id": "3f95987634c01591",
+    "slug": "levothroid-where-to-buy-next",
     "title": "Levothroid: Where To Buy Next",
-    "summary": "Looking for levothroid? Not a problem!\nhttps://jackieprovider.com/med/levothroid    \nDiscreet Package  Low Prices  24/7/365 Customer Support  100% Satisfaction Guaranteed. \nlevothroid 100 mcg without prescription buy levothroid without prescription click here to buy levothroid can i order levothroid buy levothroid online en argentina where to buy levothroid online levothroid to buy farmacia levothroid pharmacy levothroid on sale cheap online buy levothroid online bueno precio where to buy next levothroid want to purchase levothroid buy levothroid cr cheap buy levothroid brand how to buy levothroid can i purchase levothroid levothroid from mexico without prescription buy drugs levothroid want to buy levothroid purchase levothroid online australia levothroid xr buy online cheap where to buying levothroid buy levothroid overnight fedex want to order levothroid levothroid 100 mcg back order buy levothroid cod free how to purchase levothroid non generic levothroid no prescription cheap levothroid no rx levothroid without prescription cod how to order levothroid levothroid generic order generic levothroid order levothroid discount levothroid fast shipping levothroid same day delivery levothroid 50 mcg tablets price where can i buy levothroid cheap levothroid without prescription where to purchase next levothroid farmacia levothroid cheap no script levothroid 200 mcg overnight delivery of levothroid buy levothroid online bajo levothroid 50 mcg where buy levothroid with saturday delivery levothroid on line discount where to order next levothroid levothroid no prescription drug discount levothroid without prescription can i buy levothroid buy levothroid online barato levothroid 200 mcg generic otc levothroid 75 mg generic levothyroxine levothroid no rx cod buy levothroid online conceder descuento https://simplemedrx.top/levothroid best price levothroid buy levothroid online comprar cheap levothroid generic levothroid fedex without prescription levothroid cost generic levothroid where to buy buy levothroid online pill levothroid no prior script levothroid overnight us delivery order levothroid online cod cheap levothroid sales cheap non prescription levothroidDuring checkout your Canadian pharmacy will ask you to signing in or make your account with them.  A handful of sites that were picked from top search results are POI Factory and POI Directory.  With a big aging baby boomer generation, careers inside the medical field are stable choices.  \nHowever, the chance of losing an e-mail is low as long while you have configured the email client never to to automatically delete junk messages, and add important senders to accepted lists.  This is why Can - Med - Global partners with pharmacies all over the world to provide access to the highest quality of over-the-counter, generic and brand drugs on sale rates.  Chances are there is going to be only one person working the drive-thru at any time whereas there is going to be multiple people working inside.  \nShop and compare the costs offered when compared to any local pharmacy.  They are paid in salary as opposed to hourly wages.  However, this status of a pharmacy technician is merely good for two years.  \nPharmacy technicians also do not provide advice to patients about medication options, negative effects, or any other drug information.  Ask the managers in the places in which you enjoy shopping if they provide these types of programs, in the event you aren't already frequenting CVS and Winn-Dixie.  After you filled in the account, you may now pick a payment scheme.  \nThere are various numbers of online degrees available including associate's, bachelor's and in many cases doctorate programs.  I feel this aspect has become the toughest part with the residency curriculum.  This adds on the already heavy workload due to lower off prescriptions and phone in prescription refills.  \nJulianneLevothroid: Where To Buy NextWilhelmina",
-    "hasSummary": true,
-    "link": "https://financialit.net/content/levothroid-where-buy-next",
-    "source": "Financial IT",
     "tags": [
       "Levothroid",
       "POI Factory",
@@ -272,53 +266,38 @@
       "CVS",
       "Winn-Dixie"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-10-11T15:44:33.000Z",
-    "fetchedAt": "2026-10-11T17:44:33.757Z",
-    "isDuplicateOf": null,
-    "content": "An online advertisement and guide for purchasing the medication Levothroid highlights options for ordering online without a prescription, comparing costs, and utilizing international pharmacy services. The text discusses pharmacy technician careers, online education programs, and tips for managing prescription orders and emails safely.",
-    "content_ta": "Levothroid மருந்தை ஆன்லைனில் வாங்குவதற்கான வழிகாட்டியும் விளம்பரமும், மருந்து சீட்டு இல்லாமல் ஆன்லைனில் ஆர்டர் செய்வது மற்றும் செலவுகளை ஒப்பிடுவது பற்றிய தகவல்களை வழங்குகின்றன. இந்தச் செய்தியில் பார்மசி டெக்னீசியன் வேலைவாய்ப்புகள் மற்றும் ஆன்லைன் கல்வித் திட்டங்கள் பற்றியும் விவாதிக்கப்பட்டுள்ளது.",
-    "slug": "levothroid-where-to-buy-next"
+    "hasContent": true,
+    "pubDate": "2026-10-11T15:44:33.000Z"
   },
   {
     "id": "fc0f64d6e73129a3",
+    "slug": "xrp-kuwait-hits-back-at-centralization-critics-following-urgent-network-fixes",
     "title": "XRP Kuwait Hits Back at Centralization Critics Following Urgent Network Fixes",
-    "summary": "XRP Kuwait slams centralized control claims after a 2015 currency-minting bug forced an emergency XRP Ledger patch.",
-    "hasSummary": true,
-    "link": "https://u.today/xrp-kuwait-hits-back-at-centralization-critics-following-urgent-network-fixes",
-    "source": "U.Today",
     "tags": [
       "XRP Kuwait",
       "XRP Ledger",
       "Kuwait"
     ],
+    "source": "U.Today",
     "origin": "rss",
-    "pubDate": "2026-10-11T15:15:00.000Z",
-    "fetchedAt": "2026-10-11T17:44:33.757Z",
-    "isDuplicateOf": null,
-    "content": "XRP Kuwait has strongly defended the XRP Ledger against critics alleging centralization following an urgent network patch. The emergency fix was deployed to resolve a historical currency-minting bug dating back to 2015. Representatives rejected claims that the swift intervention highlights centralized control, emphasizing that the network remains resilient and secure.",
-    "content_ta": "அவசர நெட்வொர்க் திருத்தங்களைத் தொடர்ந்து, மையப்படுத்தப்பட்ட கட்டுப்பாடு குறித்த விமர்சனங்களுக்கு XRP Kuwait கடுமையான கண்டனம் தெரிவித்துள்ளது. 2015-ம் ஆண்டைச் சேர்ந்த பழைய கரன்சி-மின்டிங் பிழையைச் சரிசெய்வதற்காக இந்த அவசரத் திருத்தம் கொண்டுவரப்பட்டது. இது மையப்படுத்தப்பட்ட கட்டுப்பாட்டைக் குறிக்கிறது என்ற குற்றச்சாட்டுகளைப் பிரதிநிதிகள் நிராகரித்தனர்.",
-    "slug": "xrp-kuwait-hits-back-at-centralization-critics-following-urgent-network-fixes"
+    "hasContent": true,
+    "pubDate": "2026-10-11T15:15:00.000Z"
   },
   {
     "id": "f5be54534ecc886f",
+    "slug": "peckshield-traces-3-89-million-from-ledger-wallet-drain-to-binance-deposits",
     "title": "PeckShield traces $3.89 million from Ledger wallet drain to Binance deposits",
-    "summary": "The incident highlights vulnerabilities in hardware wallet supply chains and the challenges of tracing stolen crypto across decentralized networks.\nThe post PeckShield traces $3.89 million from Ledger wallet drain to Binance deposits appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/peckshield-ledger-theft-funds-binance/",
-    "source": "CryptoBriefing",
     "tags": [
       "PeckShield",
       "Ledger",
       "Binance"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-11T15:08:28.000Z",
-    "fetchedAt": "2026-10-11T17:44:33.757Z",
-    "isDuplicateOf": null,
-    "content": "Security firm PeckShield has traced $3.89 million in stolen funds from a recent Ledger wallet exploit to deposits made on Binance. The incident highlights ongoing security vulnerabilities within hardware wallet supply chains and underscores the difficulties associated with tracking illicit cryptocurrency movements across decentralized networks.",
-    "content_ta": "சமீபத்திய Ledger வாலட் திருட்டு சம்பவத்தில் திருடப்பட்ட 3.89 மில்லியன் டாலர் மதிப்புள்ள நிதியை PeckShield பாதுகாப்பு நிறுவனம் Binance டெபாசிட்களுக்கு சென்றடைந்ததை கண்டறிந்துள்ளது. இந்தச் சம்பவம் ஹார்டுவேர் வாலட் விநியோகச் சங்கிலியில் உள்ள பாதுகாப்பு குறைபாடுகளையும், பரவலாக்கப்பட்ட நெட்வொர்க்குகளில் திருடப்பட்ட கிரிப்டோகரன்சியை கண்காணிப்பதில் உள்ள சவால்களையும் வெளிச்சம் போட்டுக் காட்டுகிறது.",
-    "slug": "peckshield-traces-3-89-million-from-ledger-wallet-drain-to-binance-deposits"
+    "hasContent": true,
+    "pubDate": "2026-10-11T15:08:28.000Z"
   },
   {
     "id": "ed78032d88ff4440",
@@ -823,31 +802,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-11T07:44:51.000Z"
-  },
-  {
-    "id": "b696daf2fd213de4",
-    "slug": "indiana-postal-worker-admits-stealing-checks-from-the-mail-in-34-000-000-fraud-scheme-that-hit",
-    "title": "Indiana Postal Worker Admits Stealing Checks From the Mail in $34,000,000 Fraud Scheme That Hit About 6,500 Victims",
-    "tags": [
-      "Indiana"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-11T07:04:52.000Z"
-  },
-  {
-    "id": "446fac84f5d6b3c2",
-    "slug": "zksync-eyes-japan-expansion-can-bullish-momentum-carry-zk-higher",
-    "title": "ZKsync eyes Japan expansion – Can bullish momentum carry ZK higher?",
-    "tags": [
-      "ZKsync",
-      "Japan",
-      "ZK"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-11T07:00:30.000Z"
   }
 ]
