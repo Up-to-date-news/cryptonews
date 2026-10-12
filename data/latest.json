@@ -1,5 +1,739 @@
 [
   {
+    "id": "4643e448d169005c",
+    "slug": "why-stablecoin-yield-is-the-next-regulatory-flashpoint",
+    "title": "Why Stablecoin Yield Is the Next Regulatory Flashpoint",
+    "tags": [
+      "Trace Finance",
+      "Bernardo Brites"
+    ],
+    "source": "The Fintech Times",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T18:00:45.000Z"
+  },
+  {
+    "id": "dfcdfa4573c5b2f9",
+    "slug": "why-traders-should-remain-wary-despite-venice-token-s-weekend-relief-rally",
+    "title": "Why traders should remain wary despite Venice Token’s weekend relief rally",
+    "tags": [
+      "Venice Token"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T18:00:38.000Z"
+  },
+  {
+    "id": "5b281557f70dcc65",
+    "slug": "stormrake-says-debanking-is-the-biggest-barrier-to-bitcoin-adoption-in-australia",
+    "title": "Stormrake says debanking is the biggest barrier to Bitcoin adoption in Australia",
+    "tags": [
+      "Stormrake",
+      "Bitcoin",
+      "Australia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T17:48:16.000Z"
+  },
+  {
+    "id": "72727fcd8021b41d",
+    "slug": "openai-expands-dublin-hiring-plans-to-450-roles-as-european-push-accelerates",
+    "title": "OpenAI expands Dublin hiring plans to 450 roles as European push accelerates",
+    "tags": [
+      "OpenAI",
+      "Dublin",
+      "Ireland"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T17:48:12.000Z"
+  },
+  {
+    "id": "c17a22f7fb6c76c2",
+    "slug": "senegal-eyes-bitcoin-mining-as-it-restructures-its-debt",
+    "title": "Senegal eyes Bitcoin mining as it restructures its debt",
+    "tags": [
+      "Senegal",
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T17:47:46.000Z"
+  },
+  {
+    "id": "43836aa5e5805f6b",
+    "slug": "internet-computer-icp-pumps-14-daily-more-gains-ahead",
+    "title": "Internet Computer (ICP) Pumps 14% Daily: More Gains Ahead?",
+    "tags": [
+      "Internet Computer",
+      "ICP"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T17:36:24.000Z"
+  },
+  {
+    "id": "a838cd619e735f4b",
+    "slug": "1inch-hosts-groundwork-forum-in-washington-to-tackle-defi-policy-and-education",
+    "title": "1inch hosts Groundwork forum in Washington to tackle DeFi policy and education",
+    "tags": [
+      "1inch",
+      "Washington"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T17:32:42.000Z"
+  },
+  {
+    "id": "58d4b2b62afbae6d",
+    "slug": "meta-s-muse-wonder-outperforms-competitors-in-key-ai-benchmarks",
+    "title": "Meta’s Muse Wonder outperforms competitors in key AI benchmarks",
+    "tags": [
+      "Meta"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T17:32:42.000Z"
+  },
+  {
+    "id": "4640e7849c37a9c0",
+    "slug": "weekly-trading-data-show-crypto-markets-may-expect-prices-to-fall",
+    "title": "Weekly Trading Data Show Crypto Markets May Expect Prices to Fall",
+    "tags": [
+      "Stablecoin"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T17:30:00.000Z"
+  },
+  {
+    "id": "b1e09358625e5968",
+    "slug": "meta-says-it-has-caught-up-in-ai-and-has-no-plans-to-slow-down",
+    "title": "Meta says it has caught up in AI and has no plans to slow down",
+    "tags": [
+      "Meta"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T17:25:51.000Z"
+  },
+  {
+    "id": "b0eb4d6bfe44c307",
+    "slug": "saylor-s-bitcoin-strategy-fails-in-2026-peter-schiff-says",
+    "title": "Saylor's Bitcoin Strategy Fails in 2026, Peter Schiff Says",
+    "tags": [
+      "Bitcoin",
+      "Michael Saylor",
+      "Peter Schiff"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T17:24:43.000Z"
+  },
+  {
+    "id": "3e33f50746f47e65",
+    "slug": "a7-to-unveil-a-service-that-will-re-invent-the-international-payments-market",
+    "title": "A7 to unveil a service that will re-invent the international payments market",
+    "tags": [
+      "A7",
+      "Bank PSB",
+      "USDT",
+      "Russia"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T17:21:07.000Z"
+  },
+  {
+    "id": "e21bd9afd4f26ad6",
+    "slug": "solana-s-offline-signing-proposal-would-keep-approvals-valid-after-failed-transactions",
+    "title": "Solana’s offline-signing proposal would keep approvals valid after failed transactions",
+    "tags": [
+      "Solana"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T17:20:24.000Z"
+  },
+  {
+    "id": "acc65dbbd5299dd5",
+    "slug": "xrpl-branded-cheap-for-paying-infinite-xrp-exploiter-just-250k",
+    "title": "XRPL branded ‘cheap’ for paying infinite XRP exploiter just $250K",
+    "tags": [
+      "XRPL",
+      "XRP",
+      "ZachXBT"
+    ],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T17:20:20.000Z"
+  },
+  {
+    "id": "57e4f8210ca5b990",
+    "slug": "ledger-investigates-fund-losses-tied-to-southeast-asian-reseller-after-implant-found-in-device",
+    "title": "Ledger Investigates Fund Losses Tied to Southeast Asian Reseller After Implant Found in Device",
+    "tags": [
+      "Ledger",
+      "Malaysia",
+      "Bitcoin Magazine"
+    ],
+    "source": "Bitcoin Magazine",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T17:19:33.000Z"
+  },
+  {
+    "id": "53caa6b1302cef28",
+    "slug": "crypto-marketing-agency-icoda-ranks-the-crypto-media-outlets-chatgpt-perplexity-and-claude-cite-most",
+    "title": "Crypto Marketing Agency ICODA Ranks the Crypto Media Outlets ChatGPT, Perplexity and Claude Cite Most",
+    "tags": [
+      "ICODA",
+      "ChatGPT",
+      "Perplexity",
+      "Claude",
+      "CoinDesk"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T17:11:18.000Z"
+  },
+  {
+    "id": "cc5361a0fde3bce2",
+    "slug": "zuckerberg-says-meta-has-reached-the-ai-frontier-and-rejects-calls-to-slow-down",
+    "title": "Zuckerberg says Meta has reached the AI frontier and rejects calls to slow down",
+    "tags": [
+      "Meta",
+      "Mark Zuckerberg"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T17:10:38.000Z"
+  },
+  {
+    "id": "9848f8688a0c6d1e",
+    "slug": "state-of-tron-q3-2026-report-highlights-2-21-trillion-in-stablecoin-settlement-amid-network",
+    "title": "State of TRON Q3 2026 Report Highlights $2.21 Trillion in Stablecoin Settlement Amid Network Activity Growth",
+    "tags": [
+      "TRON",
+      "Canary Capital",
+      "Anchorage Digital",
+      "Bitnomial",
+      "Switzerland"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T17:08:01.000Z"
+  },
+  {
+    "id": "a695001c8071b80f",
+    "slug": "stonex-raises-securitize-price-target-50-as-tokenized-stock-platform-opens-new-revenue-stream",
+    "title": "StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream",
+    "tags": [
+      "StoneX",
+      "Securitize",
+      "Solana"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T17:06:25.000Z"
+  },
+  {
+    "id": "867463e0c665c896",
+    "slug": "uk-ai-security-institute-regains-access-to-frontier-ai-models-after-17-day-us-freeze",
+    "title": "UK AI Security Institute regains access to frontier AI models after 17-day US freeze",
+    "tags": [
+      "UK AI Security Institute",
+      "United Kingdom",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T17:04:44.000Z"
+  },
+  {
+    "id": "b7d5f3fc214e07a0",
+    "slug": "bitcoin-miners-need-roughly-50-billion-to-finish-their-ai-pivot",
+    "title": "Bitcoin miners need roughly $50 billion to finish their AI pivot",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T17:00:35.000Z"
+  },
+  {
+    "id": "bd2f58f5b493fe75",
+    "slug": "is-xrp-quietly-building-the-foundation-for-a-defi-driven-rally-in-q4",
+    "title": "Is XRP quietly building the foundation for a DeFi-driven rally in Q4?",
+    "tags": [
+      "XRP",
+      "Nasdaq"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T17:00:20.000Z"
+  },
+  {
+    "id": "0d9f9fb455be867c",
+    "slug": "bitcoin-miners-face-widening-ai-financing-costs-as-lenders-scrutinize-deals",
+    "title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals",
+    "tags": [
+      "Bitcoin",
+      "IREN",
+      "Riot Platforms",
+      "HIVE Digital"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T16:51:05.000Z"
+  },
+  {
+    "id": "d3cce044e1eba0c2",
+    "slug": "cardano-ada-network-marks-biggest-transaction-day-since-2021",
+    "title": "Cardano (ADA) Network Marks Biggest Transaction Day Since 2021",
+    "tags": [],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-10-12T16:50:05.000Z"
+  },
+  {
+    "id": "5436953686972b55",
+    "slug": "near-price-prediction-can-the-token-reach-10-this-cycle",
+    "title": "NEAR Price Prediction: Can the Token Reach $10 This Cycle?",
+    "tags": [
+      "NEAR Protocol"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T16:46:37.000Z"
+  },
+  {
+    "id": "23d93d5fc1d38465",
+    "slug": "bitcoin-slips-as-crypto-fear-and-greed-index-cools-to-56",
+    "title": "Bitcoin slips as Crypto Fear and Greed Index cools to 56",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T16:46:14.000Z"
+  },
+  {
+    "id": "466f29fe84ba718f",
+    "slug": "ai-agents-emerge-as-dominant-activity-driver-on-xrp-ledger",
+    "title": "AI Agents Emerge as Dominant Activity Driver on XRP Ledger",
+    "tags": [
+      "XRP Ledger"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T16:26:05.000Z"
+  },
+  {
+    "id": "eeca6163727c54f1",
+    "title": "Dive Deposits: Trump’s Cook committee is betting like it’s 2025",
+    "summary": "The White House is convening a panel to re-investigate allegations against a Fed governor. The timing may indicate confidence in the midterm election outcome.",
+    "hasSummary": true,
+    "link": "https://www.bankingdive.com/news/trump-lisa-cook-federal-reserve/832754/",
+    "source": "Banking Dive",
+    "tags": [
+      "White House",
+      "Federal Reserve",
+      "Trump"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-12T16:25:31.000Z",
+    "fetchedAt": "2026-10-12T18:01:29.189Z",
+    "isDuplicateOf": null,
+    "content": "The White House is convening a panel to re-investigate allegations against a Federal Reserve governor. Political observers note that the timing of this move may signal confidence regarding the upcoming midterm election outcomes. Meanwhile, financial committees associated with Trump are already planning and placing bets ahead of the year 2025.",
+    "content_ta": "பெடரல் ரிசர்வ் ஆளுநருக்கு எதிரான குற்றச்சாட்டுகளை மீண்டும் விசாரிக்க வெள்ளை மாளிகை ஒரு குழுவைக் கூட்டுகிறது. வரவிருக்கும் இடைத்தேர்தல் முடிவுகள் குறித்த நம்பிக்கையை இந்த நடவடிக்கை குறிக்கக்கூடும் என்று அரசியல் பார்வையாளர்கள் குறிப்பிடுகின்றனர். இதற்கிடையில், Trump தொடர்பான நிதிக்குழுக்கள் 2025 ஆம் ஆண்டை முன்னிட்டு முன்கூட்டியே திட்டமிட்டு வருகின்றன.",
+    "slug": "dive-deposits-trump-s-cook-committee-is-betting-like-it-s-2025"
+  },
+  {
+    "id": "3aef1f00ed911ff7",
+    "slug": "derive-proposes-treasury-funding-for-a-us-regulated-derivatives-push",
+    "title": "Derive proposes treasury funding for a US-regulated derivatives push",
+    "tags": [
+      "Derive",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T16:24:45.000Z"
+  },
+  {
+    "id": "a408ef6a58dd496f",
+    "slug": "eclair-merges-fixes-for-lightning-flaws-that-could-burn-bitcoin-in-fees",
+    "title": "Eclair merges fixes for Lightning flaws that could burn Bitcoin in fees",
+    "tags": [
+      "Bitcoin",
+      "Lightning Network",
+      "Eclair"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T16:20:36.000Z"
+  },
+  {
+    "id": "534d3edfa3275cb7",
+    "slug": "palantir-s-europe-head-warns-the-region-is-missing-the-boat-on-ai-just-as-it-did-with-the-internet",
+    "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
+    "tags": [
+      "Palantir",
+      "United States",
+      "Europe"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T16:18:03.000Z"
+  },
+  {
+    "id": "1763a40249a08c06",
+    "slug": "kraken-expands-into-the-uae-after-clearing-dubai-s-final-regulatory-hurdle",
+    "title": "Kraken Expands Into the UAE After Clearing Dubai’s Final Regulatory Hurdle",
+    "tags": [
+      "Kraken",
+      "Dubai",
+      "United Arab Emirates"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T16:16:18.000Z"
+  },
+  {
+    "id": "2c3693ad6aac285e",
+    "slug": "uniswap-uni-price-eyes-12-as-cme-futures-near-launch",
+    "title": "Uniswap (UNI) Price Eyes $12 as CME Futures Near Launch",
+    "tags": [
+      "Uniswap",
+      "CME Group"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T16:16:03.000Z"
+  },
+  {
+    "id": "a898ddffd279df13",
+    "slug": "ethereum-liquidity-on-binance-drops-to-lowest-in-seven-months",
+    "title": "Ethereum Liquidity on Binance Drops to Lowest in Seven Months",
+    "tags": [
+      "Ethereum",
+      "Binance"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T16:04:14.000Z"
+  },
+  {
+    "id": "ec8ac23fe0392c1c",
+    "slug": "kucoin-unveils-5-0-upgrade-with-ai-tools-and-unified-trading-account",
+    "title": "KuCoin unveils 5.0 upgrade with AI tools and unified trading account",
+    "tags": [
+      "KuCoin"
+    ],
+    "source": "CoinJournal",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T16:03:39.000Z"
+  },
+  {
+    "id": "7314ebf418f8efe0",
+    "slug": "nextpredict-paid-12-000-to-hedge-its-conference-on-a-prediction-market",
+    "title": "NEXTPredict Paid $12,000 to Hedge Its Conference on a Prediction Market",
+    "tags": [
+      "NEXTPredict",
+      "Crypto Briefing"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T16:01:04.000Z"
+  },
+  {
+    "id": "dc7b3809a5dbce47",
+    "slug": "thorchain-fees-rebound-but-remain-far-below-september-surge",
+    "title": "THORChain fees rebound but remain far below September surge",
+    "tags": [
+      "THORChain"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T15:59:42.000Z"
+  },
+  {
+    "id": "a99d6e20db428919",
+    "slug": "evernorth-names-coinbase-veteran-hugo-jeandesboz-cio-as-xrpn-starts-trading-on-nasdaq",
+    "title": "Evernorth names Coinbase veteran Hugo Jeandesboz CIO as XRPN starts trading on Nasdaq",
+    "tags": [
+      "Evernorth",
+      "Coinbase",
+      "Nasdaq",
+      "Hugo Jeandesboz"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T15:58:32.000Z"
+  },
+  {
+    "id": "fa8553f6193487a3",
+    "slug": "strategy-smash-buys-21-5m-in-bitcoin-as-it-continues-btc-accumulation",
+    "title": "Strategy Smash Buys $21.5M in Bitcoin as It Continues BTC Accumulation",
+    "tags": [
+      "Strategy",
+      "Bitcoin"
+    ],
+    "source": "Bitcoin Magazine",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T15:56:59.000Z"
+  },
+  {
+    "id": "3eeb8aa6617371d3",
+    "slug": "amd-stock-at-risk-in-2027-is-ark-s-15-million-sale-a-sign",
+    "title": "AMD Stock At Risk In 2027: Is ARK’s $15 Million Sale A Sign?",
+    "tags": [
+      "AMD",
+      "ARK"
+    ],
+    "source": "Watcher.Guru",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T15:54:00.000Z"
+  },
+  {
+    "id": "0ec50080bb1ba6e0",
+    "slug": "microsoft-prepares-to-deploy-its-maia-300-ai-chips-in-azure-data-centers",
+    "title": "Microsoft prepares to deploy its Maia 300 AI chips in Azure data centers",
+    "tags": [
+      "Microsoft",
+      "Azure"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T15:48:52.000Z"
+  },
+  {
+    "id": "f70a76518a5b2c76",
+    "slug": "grass-crypto-price-prediction-can-grass-reclaim-0-80-after-its-0-88-rejection",
+    "title": "Grass crypto price prediction: Can GRASS reclaim $0.80 after its $0.88 rejection?",
+    "tags": [
+      "Grass"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T15:47:57.000Z"
+  },
+  {
+    "id": "562ed98a31a4a0bf",
+    "slug": "kalshi-traders-bet-inflation-has-peaked-for-2026-but-will-stay-sticky",
+    "title": "Kalshi traders bet inflation has peaked for 2026 but will stay sticky",
+    "tags": [
+      "Kalshi",
+      "Federal Reserve"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T15:46:55.000Z"
+  },
+  {
+    "id": "1e0ad549b1bc3877",
+    "slug": "allora-s-forge-launches-hyperliquid-log-return-topic-for-ai-price-predictions",
+    "title": "Allora’s Forge launches Hyperliquid log return topic for AI price predictions",
+    "tags": [
+      "Allora's Forge",
+      "Hyperliquid",
+      "Crypto Briefing"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T15:43:06.000Z"
+  },
+  {
+    "id": "768ec24835838ece",
+    "slug": "skyai-sells-half-of-its-sol-treasury-plans-201m-buyback",
+    "title": "SkyAI sells half of its SOL treasury, plans $201M buyback",
+    "tags": [
+      "SkyAI",
+      "SOL"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T15:27:45.000Z"
+  },
+  {
+    "id": "077bab2f7c7487c3",
+    "slug": "congressman-warren-davidson-the-future-of-money-will-decide-western-civilization",
+    "title": "Congressman Warren Davidson: The Future of Money Will Decide Western Civilization",
+    "tags": [
+      "Warren Davidson",
+      "Bitcoin Magazine",
+      "United States"
+    ],
+    "source": "Bitcoin Magazine",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T15:25:42.000Z"
+  },
+  {
+    "id": "83ee1249645aa1b7",
+    "title": "Prazosin:  Shop No Rx Indiana",
+    "summary": "Looking for prazosin? Not a problem!\nhttps://availablemeds.top/prazosin\nTags:\nhttps://availablemeds.top/prazosin purchase cheap prazosin soft tabs where to order next prazosin best sites order prazosin llanidloes where to buy prazosin tablets buying prazosin ach places you can buy prazosin order prazosin hypertension cost buy pharmacy prazosin high blood pressure prazosin cod money order order prazosin online canada cheapest prazosin online from mexico cheap prazosin prescriptions low cost prazosin fast alaska buy brand prazosin hypertension prazosin order forum prazosin buy online india want to buy prazosin order prazosin concord no prescription prazosin medicine can buy prazosin walmart buy cheap prazosin united kingdom prazosin drugs no prescription pharmacy prazosin check overnight missouri without prescription prazosin minipress ach order prazosin online worldwide purchase prazosin fedex discount thamesdown purchase prazosin pills can i order prazosin buy cheap prazosin on buy prazosin accepted purchase prazosin onlin where to purchase next prazosin prazosin buy online singapore 05 buy what is prazosin how to purchase prazosin prazosin cheap overnight fedex prazosin buying generic how to buy prazosin find no prescription prazosin pharmacy online mexico prazosin buy prazosin tablets bp fethard-on-sea buy prazosin australia prazosin once to buy dunleer can i buy prazosin order prazosin prescription prazosin generic us can i purchase prazosin order prazosin free shipping prazosin overnight no prescription needed prazosin shop no rx indiana prazosin in generic tablets where can i buy prazosin buy prazosin forums toonumbar purchase prazosin legally online nz buying prazosin safe lower hutt prazosin is there a generic where to buy next prazosin buy generic prazosin tablets order prazosin cr cod buy want to purchase prazosin system crossword prazosin delivery 2 want to order prazosin prazosin without prescription overnight shipping buy prazosin raleigh cod prazosin buy buy cod prazosin online china generic prazosin no doctors beliz how to order prazosin buy prazosin oral online belcourt cheap drugs canada prazosin prazosin order on-line whitewell purchase prazosin bars maquapit lake cost prazosin mastercard discounts buy prazosin overnight saturday delivery\nIn this informative article, we're going to discuss about some in the benefits from the same and the way it makes medications better to use.  Please carry on and Page 2 for more on What Kind of Job a Biology Major Gets.  Check the company's Frequently Asked Questions to see whether they charge separately for this service.  \nLouis University props up belief in educating the entire person; mind, body, heart, and spirit; with a strong commitment to ensuring students become leaders with sound ethical and moral values.  The distinctive groups get their roots from ancestors who, during time inside the annals of Philippine history, prevailed upon and influenced the predominantly Filipino-Malay race.  This photo is a page that fraudsters are maintaining.  \nIt doesn't seem fair people do not have cheap drugs available for purchase and that they may be burdened with spending most of their life worrying about something could affect their survival like this.  Drugs could be ordered by just entering the pharmacy website and placing an order which has a click of the mouse button.  Make certain you take time to ask about a more affordable version so that they will confirm the list.  \nThe FDA won't endorse using its logo any websites selling drugs online � Canadian or U.  This triggered various senior medical companies to create online pharmacy locators that enable older persons to receive their medications without needing to leave their homes.  Their recommendations about medicines and dosages needs to become adopted on, that they need to be acquainted with medicines and that is consequences.  \nMelvaPrazosin:  Shop No Rx IndianaAditi",
+    "hasSummary": true,
+    "link": "https://financialit.net/content/prazosin-shop-no-rx-indiana",
+    "source": "Financial IT",
+    "tags": [
+      "Prazosin",
+      "United States",
+      "Canada"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-12T15:20:56.000Z",
+    "fetchedAt": "2026-10-12T18:01:29.189Z",
+    "isDuplicateOf": null,
+    "content": "Online pharmacies and websites are increasingly offering medications like Prazosin without requiring a prescription. While these platforms aim to make obtaining drugs easier and more affordable, health authorities and organizations often warn about the risks of purchasing pharmaceuticals online without proper medical supervision. Patients are advised to consult healthcare professionals and verify online pharmacies before buying medications.",
+    "content_ta": "இணையதளங்கள் மற்றும் ஆன்லைன் மருந்தகங்கள் மூலம் Prazosin போன்ற மருந்துகளை மருத்துவச் சீட்டு (prescription) இன்றி வாங்கும் போக்கு அதிகரித்து வருகிறது. இது எளிதாகவும் மலிவாகவும் இருப்பதாகக் கூறப்பட்டாலும், முறையான மருத்துவ மேற்பார்வையின்றி ஆன்லைனில் மருந்துகளை வாங்குவதில் உள்ள ஆபத்துகள் குறித்து எச்சரிக்கப்படுகிறது. மருந்துகளை வாங்குவதற்கு முன்பு மருத்துவர்களை அணுகி ஆலோசிக்குமாறு அறிவுறுத்தப்படுகிறார்கள்.",
+    "slug": "prazosin-shop-no-rx-indiana"
+  },
+  {
+    "id": "ecf4b5acd688a2fd",
+    "slug": "france-s-tax-proposal-would-tax-bitcoin-to-usdc-swaps-before-investors-cash-out",
+    "title": "France’s tax proposal would tax Bitcoin-to-USDC swaps before investors cash out",
+    "tags": [
+      "France",
+      "Bitcoin",
+      "USDC"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T15:20:19.000Z"
+  },
+  {
+    "id": "066defa5c7c7658b",
+    "title": "Olanzapine: Buy Kuwait",
+    "summary": "Looking for olanzapine? Not a problem!\nhttps://availablemeds.top/olanzapine\nTags:\nhttps://availablemeds.top/olanzapine order online olanzapine in uk can i buy olanzapine sunderland buy olanzapine prescriptions cheap olanzapine without script buy olanzapine site buy olanzapine no rx cheap buy olanzapine black generic olanzapine order price order olanzapine saturday delivery fedex price olanzapine drug legally oakland purchase olanzapine ach fast delivery effect olanzapine fast delivery where to purchase next olanzapine order safety olanzapine buy cod buy cod olanzapine cost order olanzapine 2.5mg how to purchase olanzapine how to order olanzapine\nSomething else to consider like a pharmacy technician is the hours you desire to work.  A listing of approved undergraduate course work specific to the type of school you attended is available at the University's website.  Just like name products, these drugs are thoroughly reviewed through the FDA.  \nThey usually work a similar hours because the pharmacist, as the pharmacy technician works under close supervision from the pharmacist.  Or, if necessary, they are able to refer you to your doctor or suggest a medical clinic nearby where one can receive treatment and prescription medication.  Don't drink often, only socially, , nor smoke (ever).  \nBy giving your pharmacy the precise name of the medication you'll be able to better safe guard your health.  Any reputable online business puts their shopping cart application on a secure server.  An person that finds work in this profession can be described as a radiology technician if his competency qualifies him to do work using x-ray, ultra-sound, CAT or ECG equipment that gives the doctors with scanned images that the latter will use as bases for his or her diagnoses.  \nMaking a note with the prescriptions onto the computer.  They should also be acquainted with pharmaceutical terminology, because they will have to know the names of numerous medications.  Some pharmacies will shell out much greater than others.  \nZiaOlanzapine: Buy KuwaitBriseida",
+    "hasSummary": true,
+    "link": "https://financialit.net/content/olanzapine-buy-kuwait",
+    "source": "Financial IT",
+    "tags": [
+      "Kuwait"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-12T15:19:42.000Z",
+    "fetchedAt": "2026-10-12T18:01:29.189Z",
+    "isDuplicateOf": null,
+    "content": "Online sources are advertising the medication Olanzapine for purchase with delivery options to Kuwait. The drug is reviewed through the FDA, and patients are advised to consult healthcare professionals, such as pharmacists or doctors, regarding prescriptions and proper medical treatment.",
+    "content_ta": "குவைத்தில் ஆன்லைன் மூலமாக Olanzapine மருந்தை வாங்குவதற்கான விளம்பரங்கள் செய்யப்படுகின்றன. இந்த மருந்து FDA-ஆல் பரிசீலிக்கப்படுகிறது, மேலும் நோயாளிகள் மருத்துவம் மற்றும் பரிந்துரைகளுக்கு மருந்தாளுநர்கள் அல்லது மருத்துவர்களை அணுகுமாறு அறிவுறுத்தப்படுகிறார்கள்.",
+    "slug": "olanzapine-buy-kuwait"
+  },
+  {
+    "id": "40c981148da94205",
+    "slug": "obama-endorses-crowley-in-wisconsin-governor-race",
+    "title": "Obama endorses Crowley in Wisconsin governor race",
+    "tags": [
+      "Barack Obama",
+      "Crowley",
+      "Wisconsin",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T15:19:21.000Z"
+  },
+  {
+    "id": "d657d50179ba3948",
+    "slug": "microsoft-puts-cisco-silicon-one-p200-systems-to-work-in-its-network",
+    "title": "Microsoft puts Cisco Silicon One P200 systems to work in its network",
+    "tags": [
+      "Microsoft",
+      "Cisco"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T15:13:11.000Z"
+  },
+  {
+    "id": "471d0adba3f0899e",
+    "slug": "ark-invest-s-lorenzo-valente-bitcoin-s-5-year-forecast-stablecoin-gold-impacts",
+    "title": "Ark Invest’s Lorenzo Valente: Bitcoin’s 5-Year Forecast – Stablecoin & Gold Impacts",
+    "tags": [
+      "ARK Invest",
+      "Bitcoin",
+      "Lorenzo Valente"
+    ],
+    "source": "Bitcoin Magazine",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T15:11:13.000Z"
+  },
+  {
+    "id": "00068f3a433abf4b",
+    "slug": "stripe-mastercard-and-circle-agree-to-pay-up-to-3-3-billion-for-stablecoin-operators",
+    "title": "Stripe, Mastercard and Circle agree to pay up to $3.3 billion for stablecoin operators",
+    "tags": [
+      "Stripe",
+      "Mastercard",
+      "Circle"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T15:10:38.000Z"
+  },
+  {
+    "id": "1f75111ff7bb49c9",
+    "slug": "bitcoin-balances-on-centralized-exchanges-climb-by-11-593-btc-in-three-days",
+    "title": "Bitcoin balances on centralized exchanges climb by 11,593 BTC in three days",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T15:09:39.000Z"
+  },
+  {
     "id": "f922cfb60771f10f",
     "slug": "monad-traders-call-it-an-easy-token-to-short-can-mon-clear-0-033",
     "title": "Monad traders call it ‘an easy token to short’ – Can MON clear $0.033?",
@@ -76,762 +810,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-12T14:39:01.000Z"
-  },
-  {
-    "id": "3a3d24222bc7fc4e",
-    "slug": "microsoft-integrates-anthropic-models-into-copilot-for-enhanced-office-ai",
-    "title": "Microsoft integrates Anthropic models into Copilot for enhanced Office AI",
-    "tags": [
-      "Microsoft",
-      "Anthropic",
-      "Copilot"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T14:35:29.000Z"
-  },
-  {
-    "id": "5943febea2834ef6",
-    "slug": "openai-in-talks-to-give-a-startup-deep-access-to-sora-for-filmmaker-tools",
-    "title": "OpenAI in talks to give a startup deep access to Sora for filmmaker tools",
-    "tags": [
-      "OpenAI",
-      "Sora"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T14:35:02.000Z"
-  },
-  {
-    "id": "5f16ae9c2987873d",
-    "slug": "iowa-republicans-struggle-to-secure-voter-support-amid-growing-dissatisfaction",
-    "title": "Iowa Republicans struggle to secure voter support amid growing dissatisfaction",
-    "tags": [
-      "Iowa",
-      "Republican Party"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T14:33:29.000Z"
-  },
-  {
-    "id": "8e76b3ef70ff2e42",
-    "slug": "bitcoin-s-rebound-approaches-the-85-000-zone-where-past-buyers-may-sell",
-    "title": "Bitcoin’s rebound approaches the $85,000 zone where past buyers may sell",
-    "tags": [
-      "Bitcoin",
-      "Ethereum",
-      "CryptoSlate"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T14:20:51.000Z"
-  },
-  {
-    "id": "14ec593a5bd88ad1",
-    "slug": "the-digital-eurodollar-how-stablecoins-reshape-bitcoin-liquidity-channels",
-    "title": "The Digital Eurodollar: How Stablecoins Reshape Bitcoin Liquidity Channels",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T14:15:50.000Z"
-  },
-  {
-    "id": "27f46c137807b0b2",
-    "slug": "moscow-exchange-opens-bitcoin-spot-trading-to-retail-investors-on-december-1",
-    "title": "Moscow Exchange opens Bitcoin spot trading to retail investors on December 1",
-    "tags": [
-      "Moscow Exchange",
-      "Bitcoin",
-      "Russia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T14:14:21.000Z"
-  },
-  {
-    "id": "61706a92885258a0",
-    "slug": "ledger-implant-tests-bitcoin-etfs-as-safer-custodial-solutions-than-hardware-wallets",
-    "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets",
-    "tags": [
-      "Ledger",
-      "Bitcoin"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T14:07:00.000Z"
-  },
-  {
-    "id": "e598a04120018a40",
-    "slug": "lit-crypto-is-lighter-s-9-5m-token-burn-enough-to-counter-selling-pressure",
-    "title": "LIT crypto: Is Lighter’s $9.5M token burn enough to counter selling pressure?",
-    "tags": [
-      "Lighter",
-      "LIT"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T14:00:33.000Z"
-  },
-  {
-    "id": "b31218ffb35bfb17",
-    "slug": "near-protocol-near-trading-volume-soars-100-after-11-price-bump",
-    "title": "Near Protocol (NEAR) Trading Volume Soars 100% After 11% Price Bump",
-    "tags": [
-      "Near Protocol",
-      "NEAR"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T14:00:00.000Z"
-  },
-  {
-    "id": "d427ad3f5fe4cf28",
-    "slug": "onekey-cuts-off-cryptobilis-offers-free-wallet-replacements",
-    "title": "OneKey cuts off CryptoBilis, offers free wallet replacements",
-    "tags": [
-      "OneKey",
-      "CryptoBilis"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T13:50:38.000Z"
-  },
-  {
-    "id": "5241b6e97d9c6b5f",
-    "slug": "would-a-bitcoin-standard-slow-economic-growth-what-willy-woo-argues",
-    "title": "Would a Bitcoin Standard Slow Economic Growth? What Willy Woo Argues",
-    "tags": [
-      "Bitcoin",
-      "Willy Woo",
-      "The Bitcoin Standard"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T13:49:39.000Z"
-  },
-  {
-    "id": "44e570e5cb229be2",
-    "slug": "global-smartphone-shipments-fall-20-in-q3-as-ai-drives-chip-shortages",
-    "title": "Global smartphone shipments fall 20% in Q3 as AI drives chip shortages",
-    "tags": [
-      "AI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T13:48:21.000Z"
-  },
-  {
-    "id": "775381c8e2fa0283",
-    "slug": "bitmine-adds-12-532-eth-as-tom-lee-flags-potential-largest-ever-crypto-bull-market",
-    "title": "Bitmine adds 12,532 ETH as Tom Lee flags potential ‘largest-ever’ crypto bull market",
-    "tags": [
-      "Bitmine",
-      "Ethereum",
-      "Tom Lee"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T13:43:32.000Z"
-  },
-  {
-    "id": "871b7c17274cb874",
-    "slug": "hardware-wallet-scare-can-your-kitchen-scale-spot-a-tampered-device",
-    "title": "Hardware Wallet Scare: Can Your Kitchen Scale Spot a Tampered Device?",
-    "tags": [
-      "Ledger"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T13:41:12.000Z"
-  },
-  {
-    "id": "454b8875871478d3",
-    "slug": "gsr-ceo-says-tokenization-has-a-buyer-problem-not-a-tech-problem",
-    "title": "GSR CEO says tokenization has a buyer problem, not a tech problem",
-    "tags": [
-      "GSR"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T13:35:51.000Z"
-  },
-  {
-    "id": "864b8f4bc3ccfeb2",
-    "slug": "bitcoin-uptober-2026-at-risk-price-fights-etf-drain-as-fed-odds-re-price-ahead-of-oct-28",
-    "title": "Bitcoin Uptober 2026 at Risk? Price Fights ETF Drain as Fed Odds Re-Price Ahead of Oct 28",
-    "tags": [
-      "Bitcoin",
-      "Federal Reserve"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T13:31:47.000Z"
-  },
-  {
-    "id": "b31c77d21ca4eada",
-    "title": "Altman, Cagney, Backed Firms Among Last Week’s Fintech Raises",
-    "summary": "Brazil’s Agibank raises $410M in fund issuance The digital bank also has roughly 900 locations, mostly in underserved communities. This raise is the company’s third receivables-backed issuance. Capitolis confirms $220M in financing, including $120M Series E The fintech raised a $120 million Series E and... Read More",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/10/316711-altman-cagney-backed-firms-among-last-weeks-fintech-raises/",
-    "source": "Crowdfund Insider",
-    "tags": [
-      "Agibank",
-      "Capitolis",
-      "Brazil"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-10-12T13:30:49.000Z",
-    "fetchedAt": "2026-10-12T15:01:23.796Z",
-    "isDuplicateOf": null,
-    "content": "Last week saw notable fintech fundraising activity, featuring companies backed by prominent figures like Altman and Cagney. Among the major funding events, digital bank Agibank in Brazil secured a significant $410 million through a fund issuance, utilizing its extensive network of locations. Additionally, Capitolis confirmed a total of $220 million in financing, which included a $120 million Series E round.",
-    "content_ta": "கடந்த வாரம் குறிப்பிடத்தக்க ஃபின்டெக் நிதி திரட்டும் நடவடிக்கைகள் நடைபெற்றன, இதில் Altman மற்றும் Cagney போன்ற முக்கிய பிரமுகர்களின் ஆதரவு பெற்ற நிறுவனங்கள் அடங்கும். முக்கிய நிதி திரட்டல் நிகழ்வுகளில், பிரேசிலைச் சேர்ந்த டிஜிட்டல் வங்கியான Agibank நிதி வெளியீடு மூலம் குறிப்பிடத்தக்க வகையில் $410 மில்லியன் திரட்டியது. கூடுதலாக, Capitolis $120 மில்லியன் Series E சுற்று உட்பட மொத்தம் $220 மில்லியன் நிதியுதவியைப் பெற்றுள்ளது.",
-    "slug": "altman-cagney-backed-firms-among-last-week-s-fintech-raises"
-  },
-  {
-    "id": "6d34bc45ed7bca34",
-    "slug": "eur-usd-hits-17-month-low-near-why-the-euro-keeps-losing-to-the-dollar",
-    "title": "EUR/USD Hits 17-Month Low Near. Why the Euro Keeps Losing to the Dollar",
-    "tags": [
-      "EUR/USD",
-      "Euro",
-      "Dollar"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T13:22:47.000Z"
-  },
-  {
-    "id": "a18944e0fe30c0f3",
-    "title": "Numou and Comera Financial Holding Partner to Expand Financing and Payment Solutions for UAE SMEs",
-    "summary": "Numou, a subsidiary of ADGM, and Comera Financial Holding (CFH), part of Abu Dhabi’s Royal Group, have signed a partnership agreement to expand access to financing and payment solutions for small and medium-sized enterprises (SMEs) across the UAE.\nThe partnership will bring Comera Financial Holding’s financial products and services to Numou’s digital marketplace, giving SMEs access to more options for financing, business account opening and digital payments.\nThe collaboration draws on CFH’s broader financial services portfolio, which includes business lending through Comera Finance, digital payments and merchant solutions through Comera Pay, and supply chain finance through Comera Money.\nThe agreement was signed at ADGM, Abu Dhabi’s international financial centre, in the presence of H.E. Badr Al Olama, Director General of the Abu Dhabi Investment Office & Chairman of Numou. It was signed by Mohamed Al Binali, General Manager of Numou, and Akhtar Saeed Hashmi, Managing Director and Group CEO of Comera Financial Holding.\nThrough the partnership, SMEs will be able to access working capital and supply chain financing to purchase inventory, pay suppliers and bridge the gap between delivering goods or services and receiving payment. Business account opening and digital payment solutions will also help businesses manage their everyday financial needs.\nBy combining Numou’s marketplace with CFH’s financing and payments capabilities, the partnership aims to help SMEs access the financial support they need at different stages of their business growth.\n“SMEs need financial solutions that support the way they do business, from purchasing stock and paying suppliers to managing payments and funding growth. This partnership expands the options available through Numou, making it easier for UAE businesses to access the services they need through one platform,” said Mohamed Al Binali, General Manager, Numou.\n“SME growth depends on access to capital and the ability to put it to work. At Comera Financial Holding, we are bringing financing and payments together to support that journey—from securing an order to receiving payment. Our partnership with Numou extends this approach to more businesses across the UAE, helping them respond to opportunities with greater confidence and build for the long term,” said Akhtar Saeed Hashmi, Managing Director & Group CEO, Comera Financial Holding.\nNoYesPayments12 Oct, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/payments/numou-and-comera-financial-holding-partner-expand-financing-and-payment-solutions-uae",
-    "source": "Financial IT",
-    "tags": [
-      "Numou",
-      "Comera Financial Holding",
-      "ADGM",
-      "Abu Dhabi",
-      "UAE"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-10-12T13:22:03.000Z",
-    "fetchedAt": "2026-10-12T15:01:23.796Z",
-    "isDuplicateOf": null,
-    "content": "Numou and Comera Financial Holding have signed a partnership to expand access to financing and payment solutions for small and medium-sized enterprises across the UAE. The collaboration integrates Comera's financial products into Numou's digital marketplace, providing businesses with enhanced options for working capital, digital payments, and account opening to support growth at various stages.",
-    "content_ta": "UAE-ல் உள்ள சிறு மற்றும் நடுத்தர நிறுவனங்களுக்கு நிதி மற்றும் கட்டண தீர்வுகளை விரிவுபடுத்த Numou மற்றும் Comera Financial Holding ஆகிய நிறுவனங்கள் கூட்டாண்மை ஒப்பந்தத்தில் கையெழுத்திட்டுள்ளன. இந்த ஒத்துழைப்பின் மூலம் Comera-வின் நிதி தயாரிப்புகள் Numou-வின் டிஜிட்டல் சந்தையில் இணைக்கப்பட்டு, நிறுவனங்களுக்கு மூலதனம் மற்றும் டிஜிட்டல் கட்டண சேவைகள் எளிதாக கிடைக்க வழிவகை செய்யப்பட்டுள்ளது.",
-    "slug": "numou-and-comera-financial-holding-partner-to-expand-financing-and-payment-solutions-for-uae-smes"
-  },
-  {
-    "id": "9162cb8689a9dc67",
-    "slug": "eu-targets-mica-loophole-that-lets-crypto-exchanges-serve-27-countries-with-one-license",
-    "title": "EU targets MiCA loophole that lets crypto exchanges serve 27 countries with one license",
-    "tags": [
-      "EU",
-      "MiCA",
-      "ESMA"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T13:20:55.000Z"
-  },
-  {
-    "id": "9df4391c83347231",
-    "title": "The Future of Global Payments: Instant Payments, Interoperability & Stablecoins | Banking Circle",
-    "summary": "https://www.youtube.com/embed/I2dNGergnOAMonday, October 12, 2026 - 14:15Yes",
-    "hasSummary": true,
-    "link": "https://financialit.net/content/future-global-payments-instant-payments-interoperability-stablecoins-banking-circle",
-    "source": "Financial IT",
-    "tags": [
-      "Banking Circle"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-10-12T13:17:56.000Z",
-    "fetchedAt": "2026-10-12T15:01:23.796Z",
-    "isDuplicateOf": null,
-    "content": "Banking Circle recently highlighted the future of global payments, focusing on key developments such as instant payments, system interoperability, and the growing role of stablecoins. These advancements aim to transform cross-border transactions and reshape the modern financial landscape.",
-    "content_ta": "Banking Circle நிறுவனம் சமீபத்தில் குளோபல் பேமெண்ட்ஸ் எதிர்காலம் குறித்து விவாதித்தது. இதில் இன்ஸ்டன்ட் பேமெண்ட்ஸ், இன்டராபரபிலிட்டி மற்றும் Stablecoins ஆகியவற்றின் முக்கியத்துவம் மற்றும் அவற்றின் வளர்ச்சி குறித்து சிறப்பித்துக் கூறப்பட்டது.",
-    "slug": "the-future-of-global-payments-instant-payments-interoperability-stablecoins-banking-circle"
-  },
-  {
-    "id": "82d2ae44ee694cb9",
-    "title": "Visa-Mastercard payouts top $631M",
-    "summary": "The tally of merchants receiving funds from a $5.5 billion settlement with the networks is nearing 700,000, according to a claims update.",
-    "hasSummary": true,
-    "link": "https://www.paymentsdive.com/news/visa-mastercard-payouts-top-631m/832669/",
-    "source": "Payments Dive",
-    "tags": [
-      "Visa",
-      "Mastercard"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-10-12T13:14:00.000Z",
-    "fetchedAt": "2026-10-12T15:01:23.796Z",
-    "isDuplicateOf": null,
-    "content": "Merchants receiving funds from a historic $5.5 billion settlement with Visa and Mastercard have been paid over $631 million so far. According to a recent claims update, the total number of merchants receiving these funds is rapidly approaching 700,000 as the payout process continues to move forward.",
-    "content_ta": "Visa மற்றும் Mastercard நிறுவனங்களுக்கான வரலாற்றுச் சிறப்புமிக்க 5.5 பில்லியன் டலர் தீர்வுத் தொகையிலிருந்து, வணிகர்களுக்கு இதுவரை 631 மில்லியன் டலருக்கும் அதிகமான தொகை வழங்கப்பட்டுள்ளது. சமீபத்திய கோரிக்கைப் புதுப்பிப்பின்படி, இந்த நிதியைப் பெறும் வணிகர்களின் மொத்த எண்ணிக்கை 700,00 பகுதிகளை நெருங்கி வருவதாகத் தெரிவிக்கப்பட்டுள்ளது.",
-    "slug": "visa-mastercard-payouts-top-631m"
-  },
-  {
-    "id": "30e525f9782087df",
-    "slug": "countdown-begins-473-million-xrp-treasury-eyes-nasdaq-debut",
-    "title": "Countdown Begins: 473 Million XRP Treasury Eyes Nasdaq Debut",
-    "tags": [
-      "XRP",
-      "Nasdaq",
-      "Evernorth"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T13:10:24.000Z"
-  },
-  {
-    "id": "b6caf8db9be408e1",
-    "slug": "marvell-unveils-second-generation-structera-x-memory-expanders-for-ai-inference",
-    "title": "Marvell unveils second-generation Structera X memory expanders for AI inference",
-    "tags": [
-      "Marvell"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T13:09:51.000Z"
-  },
-  {
-    "id": "a153d83712ebc6a8",
-    "title": "Coinbase CEO Welcomes Expansion of Accredited Investor Definition",
-    "summary": "The definition of an Accredited Investor has long been a discriminatory rule that blocks millions from participating in the Reg D private securities marketplace. Securities issued under Reg D measure in the trillions each year, and almost all promising early-stage firms leverage the exemption to... Read More",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/10/317814-coinbase-ceo-welcomes-expansion-of-accredited-investor-definition/",
-    "source": "Crowdfund Insider",
-    "tags": [
-      "Coinbase"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-10-12T13:09:23.000Z",
-    "fetchedAt": "2026-10-12T15:01:23.796Z",
-    "isDuplicateOf": null,
-    "content": "Coinbase CEO has expressed support for expanding the definition of an accredited investor. The current rules have historically restricted millions of people from participating in the private securities marketplace under Regulation D. Prominent early-stage firms frequently rely on this exemption, which accounts for trillions of dollars in securities issued each year.",
-    "content_ta": "அக்ரெடிட்டெட் இன்வெஸ்டர் வரையறையை விரிவுபடுத்துவதை Coinbase CEO வரவேற்றுள்ளார். தற்போதைய விதிமுறைகள் மூலம் லட்சக்கணக்கான மக்கள் Regulation D தனியார் செக்யூரிட்டீஸ் சந்தையில் பங்கேற்பது நீண்டகாலமாக தடைபட்டுள்ளது. பல முன்னணி தொடக்கநிலை நிறுவனங்கள் இந்த விலக்கை நம்பியுள்ளன, இதன் மூலம் ஒவ்வொரு ஆண்டும் ட்ரில்லியன் கணக்கான செக்யூரிட்டீஸ் வெளியிடப்படுகின்றன.",
-    "slug": "coinbase-ceo-welcomes-expansion-of-accredited-investor-definition"
-  },
-  {
-    "id": "a71f05f310430326",
-    "slug": "us-midterm-elections-could-trigger-ai-stock-correction-bull-theory-warns",
-    "title": "US Midterm Elections Could Trigger AI Stock Correction, Bull Theory Warns",
-    "tags": [
-      "United States"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T13:08:39.000Z"
-  },
-  {
-    "id": "05471e435074f78d",
-    "slug": "1-14m-solana-transferred-between-unknown-wallets-worth-126m",
-    "title": "1.14M Solana transferred between unknown wallets, worth $126M",
-    "tags": [
-      "Solana"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T13:07:11.000Z"
-  },
-  {
-    "id": "235e8e92483bf177",
-    "slug": "microsoft-unveils-maia-300-ai-chip-to-reduce-reliance-on-nvidia",
-    "title": "Microsoft unveils Maia 300 AI chip to reduce reliance on Nvidia",
-    "tags": [
-      "Microsoft",
-      "Nvidia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T13:05:13.000Z"
-  },
-  {
-    "id": "01c82b1cacbadc4a",
-    "slug": "fipto-and-spiko-link-atablecoin-rails-to-ucits-t-bill-funds",
-    "title": "Fipto and Spiko Link Atablecoin Rails to UCITS T-Bill Funds",
-    "tags": [
-      "Fipto",
-      "Spiko",
-      "EURC",
-      "USDC"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T13:00:43.000Z"
-  },
-  {
-    "id": "fbd2d8efac3e6892",
-    "slug": "the-eth-divide-tom-lee-s-5k-ethereum-call-meets-542m-in-etf-outflows",
-    "title": "The ETH divide: Tom Lee’s ‘$5K Ethereum’ call meets $542M in ETF outflows",
-    "tags": [
-      "Ethereum",
-      "Tom Lee"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T13:00:29.000Z"
-  },
-  {
-    "id": "f6d7c80585767b18",
-    "slug": "banking-giant-deploys-ripple-tech-on-xrp-ledger-main-crypto-news-this-morning",
-    "title": "Banking Giant Deploys Ripple Tech on XRP Ledger: Main Crypto News This Morning",
-    "tags": [],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-10-12T12:59:45.000Z"
-  },
-  {
-    "id": "1a15feb6e001db30",
-    "slug": "salesforce-agrees-to-acquire-ai-analytics-startup-loops-to-upgrade-tableau",
-    "title": "Salesforce agrees to acquire AI analytics startup Loops to upgrade Tableau",
-    "tags": [
-      "Salesforce",
-      "Loops",
-      "Tableau"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T12:59:35.000Z"
-  },
-  {
-    "id": "e3d3208da06fe09c",
-    "slug": "broadcom-and-intel-ceos-say-capital-not-chips-is-ai-s-next-bottleneck",
-    "title": "Broadcom and Intel CEOs say capital, not chips, is AI’s next bottleneck",
-    "tags": [
-      "Broadcom",
-      "Intel"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T12:59:01.000Z"
-  },
-  {
-    "id": "4c1510b52971cc7c",
-    "slug": "mistlabs-raises-26m-to-launch-ambi-ai-app-for-ambient-listening",
-    "title": "Mistlabs raises $26M to launch Ambi AI app for ambient listening",
-    "tags": [
-      "Mistlabs",
-      "Ambi AI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T12:51:48.000Z"
-  },
-  {
-    "id": "8a948ce02ef5f7c3",
-    "slug": "bitcoin-slips-below-83-000-wiping-out-nearly-42-million-in-longs-before-the-us-open",
-    "title": "Bitcoin slips below $83,000, wiping out nearly $42 million in longs before the US open",
-    "tags": [
-      "Bitcoin",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T12:51:25.000Z"
-  },
-  {
-    "id": "5d997289f97305c0",
-    "title": "Navan Selected by Investec to Modernize Global Travel Program",
-    "summary": "Navan, the global AI-powered business travel and expense platform, today announced it has been selected by Investec, a leading international bank and wealth manager, to upgrade its global travel program.\n“As Investec continues its digital transformation, we’re excited to partner with an AI-first travel platform to increase adoption and improve operational efficiency,” said Lyndon Subroyen, Investec Group Chief Technology and Operating Officer.\nAs a dual-listed company in the United Kingdom and South Africa, Investec sought a partner to consolidate its travel operations, reduce administrative work, and improve the booking experience for its workforce. Investec needed a solution to increase platform adoption and help employees travel more cost-efficiently.\nKey Anticipated Benefits:\nHigher adoption by providing access to Navan's inventory, which includes more than 600 airlines, over 2 million lodging properties, and major rail and rental-car providers.\nOperational efficiencies through automated reconciliation that saves finance teams time and gives them accurate, real-time visibility.\nCost savings through increased adoption, access to expanded inventory, and improved policy compliance.\n“Navan is proud to help Investec modernize its global travel program,” said Zahir Abdelouhab, SVP, Enterprise Sales, EMEA, Navan. “This will be a lighthouse account in the banking sector, and when an organization as respected and influential as Investec puts this kind of focus on the travel experience, it sends a strong signal to the rest of the industry.”\nNavan continues to build on its momentum in financial services, serving nearly 1,500 financial institutions globally, a 36% increase year over year in FY2026. Financial services companies are also increasing their investment in business travel: for the 12 months ended August 31, 2026, flight bookings were up 12%, hotel bookings were up 9%, and expense transaction volume was up 7% year over year. Navan serves multinational financial services companies and fintechs such as Visa, Paysafe, and Block.\nNoYesInfrastructure12 Oct, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/infrastructure/navan-selected-investec-modernize-global-travel-program",
-    "source": "Financial IT",
-    "tags": [
-      "Navan",
-      "Investec",
-      "United Kingdom",
-      "South Africa"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-10-12T12:48:08.000Z",
-    "fetchedAt": "2026-10-12T15:01:23.796Z",
-    "isDuplicateOf": null,
-    "content": "Investec has selected Navan, an AI-powered business travel and expense platform, to modernize and upgrade its global travel program. The partnership aims to consolidate travel operations, increase platform adoption, reduce administrative burdens, and improve operational efficiencies and cost savings for Investec's workforce across the United Kingdom and South Africa.",
-    "content_ta": "Investec நிறுவனம் தனது உலகளாவிய பயண திட்டத்தை நவீனமயமாக்க AI தொழில்நுட்பத்தை அடிப்படையாகக் கொண்ட Navan தளத்தைத் தேர்ந்தெடுத்துள்ளது. இங்கிலாந்து மற்றும் தென்னாப்பிரிக்காவில் உள்ள Investec ஊழியர்களுக்கான பயண சேவைகளை மேம்படுத்தவும், நிர்வாகப் பணிகளைக் குறைக்கவும், செயல்பாட்டுத் திறனை அதிகரிக்கவும் இந்த ஒப்பந்தம் உதவும்.",
-    "slug": "navan-selected-by-investec-to-modernize-global-travel-program"
-  },
-  {
-    "id": "42874b8091f9f609",
-    "slug": "thinking-beyond-adoption-why-ai-strategy-must-be-defined-by-execution",
-    "title": "Thinking Beyond Adoption: Why AI Strategy Must Be Defined by Execution",
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T12:47:20.000Z"
-  },
-  {
-    "id": "fff0e96d782ef0c5",
-    "slug": "houthi-strikes-on-saudi-airports-heighten-regional-tensions-impact-economy",
-    "title": "Houthi strikes on Saudi airports heighten regional tensions, impact economy",
-    "tags": [
-      "Houthi",
-      "Saudi Arabia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T12:46:53.000Z"
-  },
-  {
-    "id": "d862467821613b4d",
-    "slug": "australia-s-asic-seeks-to-extend-trading-protections-to-crypto-settled-products",
-    "title": "Australia’s ASIC seeks to extend trading protections to crypto-settled products",
-    "tags": [
-      "ASIC",
-      "Australia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T12:45:35.000Z"
-  },
-  {
-    "id": "b6dd152b3bf44fa7",
-    "slug": "tesla-robotaxis-face-us-safety-review-over-school-zone-speeding-claims",
-    "title": "Tesla robotaxis face US safety review over school zone speeding claims",
-    "tags": [
-      "Tesla",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T12:43:07.000Z"
-  },
-  {
-    "id": "228120eb96ddf779",
-    "title": "Coinbase ($COIN) and Robinhood ($HOOD) Price Targets Updated by Bank of America, eToro Slashed Ahead of Q3 Earnings",
-    "summary": "Bank of America (NYSE: BAC) adjusted its outlooks on three major retail trading and crypto platforms in early October 2026, lifting targets on Robinhood Markets (NASDAQ: HOOD) and Coinbase (NASDAQ: COIN) while reducing its view on eToro Group (NASDAQ: ETOR) as the firms prepare to... Read More",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/10/317714-coinbase-coin-and-robinhood-hood-price-targets-updated-by-bank-of-america-etoro-slashed-ahead-of-q3-earnings/",
-    "source": "Crowdfund Insider",
-    "tags": [
-      "Bank of America",
-      "Coinbase",
-      "Robinhood",
-      "eToro"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-10-12T12:42:00.000Z",
-    "fetchedAt": "2026-10-12T15:01:23.796Z",
-    "isDuplicateOf": null,
-    "content": "Bank of America has updated its price targets for major retail trading and cryptocurrency platforms. Ahead of upcoming third-quarter earnings reports, the financial institution raised its outlook for Coinbase ($COIN) and Robinhood ($HOOD), while lowering its target for eToro. The adjustments reflect changing expectations for these key market players as they prepare to release their financial results.",
-    "content_ta": "Bank of America நிறுவனம் சில முன்னணி சில்லறை வர்த்தக மற்றும் கிரிப்டோ தளங்களுக்கான தனது விலை இலக்குகளை மாற்றி அமைத்துள்ளது. மூன்றாம் கால் ஆண்டு வருவாய் அறிக்கைகள் வெளியாவதற்கு முன்பு, Coinbase ($COIN) மற்றும் Robinhood ($HOOD) நிறுவனங்களின் மீதான தனது பார்வையை உயர்த்தியுள்ளது, அதே நேரத்தில் eToro நிறுவனத்தின் இலக்கைக் குறைத்துள்ளது.",
-    "slug": "coinbase-coin-and-robinhood-hood-price-targets-updated-by-bank-of-america-etoro-slashed-ahead-of-q3"
-  },
-  {
-    "id": "cd4ce797eec3183f",
-    "slug": "ondas-and-palantir-launch-regna-ai-to-build-sovereign-ai-for-defense",
-    "title": "Ondas and Palantir launch Regna AI to build sovereign AI for defense",
-    "tags": [
-      "Ondas",
-      "Palantir",
-      "Regna AI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T12:40:36.000Z"
-  },
-  {
-    "id": "f23f891f230dc15a",
-    "title": "Michael Saylor Signals Continued Strategy ($MSTR) Bitcoin Accumulation Following STRC Preferred Stock Repurchases",
-    "summary": "Strategy (NASDAQ: MSTR) Executive Chairman Michael Saylor has offered a fresh indication that the company remains prepared to expand its Bitcoin holdings, posting the brief message “There’s always room for more orange” on X. The remark, widely interpreted by market observers as a reference to... Read More",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/10/317731-michael-saylor-signals-continued-strategy-mstr-bitcoin-accumulation-following-strc-preferred-stock-repurchases/",
-    "source": "Crowdfund Insider",
-    "tags": [],
-    "origin": "rss",
-    "pubDate": "2026-10-12T12:39:58.000Z",
-    "fetchedAt": "2026-10-12T15:01:23.796Z",
-    "isDuplicateOf": null,
-    "content": null,
-    "slug": "michael-saylor-signals-continued-strategy-mstr-bitcoin-accumulation-following-strc-preferred-stock"
-  },
-  {
-    "id": "888a3304d60d7b01",
-    "slug": "faa-warns-us-airlines-of-safety-risks-over-saudi-arabia-after-airport-attacks",
-    "title": "FAA warns US airlines of safety risks over Saudi Arabia after airport attacks",
-    "tags": [
-      "FAA",
-      "Saudi Arabia",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T12:39:23.000Z"
-  },
-  {
-    "id": "ad722df63be7d961",
-    "slug": "riyadh-airport-extends-suspension-after-deadly-houthi-attacks-afp",
-    "title": "Riyadh airport extends suspension after deadly Houthi attacks: AFP",
-    "tags": [
-      "Riyadh",
-      "Saudi Arabia",
-      "Houthi"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T12:36:28.000Z"
-  },
-  {
-    "id": "82599bfbc31c312d",
-    "slug": "bank-of-america-upgrades-salesforce-to-buy-cites-ai-pivot-as-catalyst",
-    "title": "Bank of America upgrades Salesforce to buy, cites AI pivot as catalyst",
-    "tags": [
-      "Bank of America",
-      "Salesforce"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T12:33:12.000Z"
-  },
-  {
-    "id": "0fc5c4148edb635b",
-    "slug": "injective-begins-building-quantum-resistant-infrastructure-for-inj",
-    "title": "Injective begins building quantum-resistant infrastructure for INJ",
-    "tags": [
-      "Injective"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T12:24:47.000Z"
-  },
-  {
-    "id": "f541f23b6983d243",
-    "slug": "us-bankruptcy-filings-rise-11-in-first-9-months-of-2026-zero-hedge",
-    "title": "US bankruptcy filings rise 11% in first 9 months of 2026: Zero Hedge",
-    "tags": [
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T12:18:05.000Z"
-  },
-  {
-    "id": "80c5629593d3ecca",
-    "slug": "toobit-introduces-smartk-for-clearer-futures-analysis",
-    "title": "Toobit introduces SmartK for clearer futures analysis",
-    "tags": [
-      "Toobit",
-      "SmartK"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T12:15:39.000Z"
-  },
-  {
-    "id": "c062802703062a66",
-    "slug": "strategy-adds-250-bitcoin-to-lift-holdings-to-848-250-btc",
-    "title": "Strategy adds 250 Bitcoin to lift holdings to 848,250 BTC",
-    "tags": [
-      "Strategy",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T12:09:53.000Z"
-  },
-  {
-    "id": "d63d1faed9567982",
-    "slug": "standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
-    "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
-    "tags": [
-      "Standard Chartered",
-      "RLUSD",
-      "Dubai",
-      "LMAX",
-      "Ripple"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T12:09:09.000Z"
-  },
-  {
-    "id": "f81fc07a0fc76000",
-    "slug": "bahrain-central-bank-to-treble-tech-budget",
-    "title": "Bahrain central bank to treble tech budget",
-    "tags": [
-      "Central Bank of Bahrain",
-      "Bahrain"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T12:03:00.000Z"
-  },
-  {
-    "id": "51a1d085ecd1023d",
-    "slug": "osl-tokenizes-2wa-usdgo-plus-sp-fund-on-solana-handling-custody",
-    "title": "OSL tokenizes 2WA USDGO Plus SP fund on Solana, handling custody",
-    "tags": [
-      "OSL",
-      "Solana",
-      "2WA USDGO Plus SP"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T12:00:26.000Z"
-  },
-  {
-    "id": "9800a695809e6e27",
-    "slug": "deepseek-leads-funding-round-valuing-a-chinese-robot-ai-startup-at-400-million",
-    "title": "DeepSeek leads funding round valuing a Chinese robot AI startup at $400 million",
-    "tags": [
-      "DeepSeek",
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-12T11:55:51.000Z"
   }
 ]
