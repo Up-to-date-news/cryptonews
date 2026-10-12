@@ -1,29 +1,215 @@
 [
   {
-    "id": "c2ede984aa4550a5",
-    "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
-    "summary": "The XRP Ledger Foundation pushed back against claims that its emergency security patch was forced on network operators.",
+    "id": "3b75777ffe6b406a",
+    "slug": "bridge-data-centres-seeks-to-upsize-loan-to-6-6b-amid-growth-talks",
+    "title": "Bridge Data Centres seeks to upsize loan to $6.6B amid growth talks",
+    "tags": [
+      "Bridge Data Centres",
+      "Asia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T02:49:04.000Z"
+  },
+  {
+    "id": "638196a77109e1aa",
+    "slug": "revolut-betterment-s-challenging-digital-onboarding-and-kyc-process-highlights-issues-with",
+    "title": "Revolut, Betterment’s Challenging Digital Onboarding and KYC Process Highlights Issues with Balancing Security, Compliance, User Experience",
+    "tags": [
+      "Revolut",
+      "Betterment"
+    ],
+    "source": "Crowdfund Insider",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T02:45:20.000Z"
+  },
+  {
+    "id": "24bfc73c4741dfe4",
+    "slug": "dbs-ceo-tan-su-shan-says-the-market-is-repricing-ai-financing-risks",
+    "title": "DBS CEO Tan Su Shan says the market is repricing AI financing risks",
+    "tags": [
+      "DBS",
+      "Tan Su Shan"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T02:43:30.000Z"
+  },
+  {
+    "id": "e69de99006d618af",
+    "slug": "tsmc-expects-record-profit-for-sixth-consecutive-quarter-amid-ai-boom",
+    "title": "TSMC expects record profit for sixth consecutive quarter amid AI boom",
+    "tags": [
+      "TSMC"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T02:24:05.000Z"
+  },
+  {
+    "id": "b83c925835f83b40",
+    "slug": "a-few-stocks-carry-the-s-p-500-41-of-stocks-trade-30-below-highs",
+    "title": "A Few Stocks Carry the S&P 500: 41% of Stocks Trade 30% Below Highs",
+    "tags": [
+      "S&P 500",
+      "The Kobeissi Letter"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T02:15:00.000Z"
+  },
+  {
+    "id": "ee8e6bfc96eb2e93",
+    "slug": "aave-s-usdg-rollover-plan-has-a-yield-below-most-quoted-borrowing-rates",
+    "title": "Aave’s USDG rollover plan has a yield below most quoted borrowing rates",
+    "tags": [
+      "Aave",
+      "USDG",
+      "GHO",
+      "CryptoSlate"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T02:00:47.000Z"
+  },
+  {
+    "id": "8e1daef4fc56a7d7",
+    "slug": "pudgy-penguins-airdrop-farmers-want-pengu-compensation-after-abstract-l2-shutdown",
+    "title": "Pudgy Penguins: Airdrop farmers want PENGU compensation after Abstract L2 shutdown",
+    "tags": [
+      "Pudgy Penguins",
+      "Abstract"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T02:00:27.000Z"
+  },
+  {
+    "id": "a62c80706a2be24a",
+    "slug": "sui-foundation-invests-30-million-in-data-network-as-ai-data-protocol-migrates-to-sui",
+    "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
+    "tags": [
+      "Sui Foundation",
+      "DATA Network",
+      "Sui"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T02:00:00.000Z"
+  },
+  {
+    "id": "7e335494ac66b57b",
+    "slug": "oil-slips-as-trump-touts-energy-ceasefire-why-cramer-isn-t-buying-it",
+    "title": "Oil Slips as Trump Touts Energy Ceasefire: Why Cramer Isn't Buying It",
+    "tags": [
+      "Jim Cramer",
+      "Trump"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T01:53:10.000Z"
+  },
+  {
+    "id": "5c4e55e8c673e220",
+    "slug": "tokenization-crypto-ai-and-connected-payment-systems-digital-assets-thoughts-of-the-week",
+    "title": "Tokenization, Crypto, AI and Connected Payment Systems: Digital Assets Thoughts of the Week",
+    "tags": [
+      "South Korea"
+    ],
+    "source": "Crowdfund Insider",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T01:51:45.000Z"
+  },
+  {
+    "id": "739c34149dbbc62a",
+    "title": "Bitcoin Stays Range-bound Between $82K-$83K as Anticipated Uptober BTC Price Gains Fail to Materialize",
+    "summary": "Bitcoin has spent recent sessions trading in a relatively tight band between roughly $82,000 and $83,000, a range that has left many crypto industyr participants underwhelmed. October has historically delivered some of the strongest average returns for the asset, earning the informal label “Uptober,” yet... Read More",
     "hasSummary": true,
-    "link": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph",
+    "link": "https://www.crowdfundinsider.com/2026/10/317448-bitcoin-stays-range-bound-between-82k-83k-as-anticipated-uptober-btc-price-gains-fail-to-materialize/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-12T01:42:19.000Z",
+    "fetchedAt": "2026-10-12T02:53:42.863Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin has remained range-bound, trading between approximately $82,000 and $83,000. This sideways movement has left many market participants underwhelmed as the anticipated price gains for October, historically known as Uptober, have failed to materialize for the cryptocurrency so far.",
+    "content_ta": "Bitcoin விலை $82,000 முதல் $83,000 வரம்பிற்குள் வர்த்தகமாகி வருகிறது. Uptober என்று அழைக்கப்படும் அக்டோபர் மாதத்தில் எதிர்பார்க்கப்பட்ட விலை உயர்வு ஏற்படாததால், சந்தை வர்த்தகர்கள் மத்தியில் இது ஏமாற்றத்தை அளித்துள்ளது.",
+    "slug": "bitcoin-stays-range-bound-between-82k-83k-as-anticipated-uptober-btc-price-gains-fail-to-materialize"
+  },
+  {
+    "id": "12b7365e7662f054",
+    "title": "Philippines To Adopt Global Bond Pricing Standards From January 2027",
+    "summary": "The Philippines will adopt international pricing conventions for peso-denominated government and corporate bonds from January 4, 2027, as financial regulators and market participants work to make the local bond market more accessible to international investors. The initiative is being led by the Bureau of the... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/10/317480-philippines-to-adopt-global-bond-pricing-standards-from-january-2027/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Philippines",
+      "Bureau of the Treasury"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-12T01:41:25.000Z",
+    "fetchedAt": "2026-10-12T02:53:42.863Z",
+    "isDuplicateOf": null,
+    "content": "The Philippines plans to adopt international pricing conventions for peso-denominated government and corporate bonds starting January 4, 2027. Led by the Bureau of the Treasury and financial regulators, the initiative aims to make the local bond market more accessible and aligned with global standards for international investors, improving liquidity and market transparency.",
+    "content_ta": "பிக்பைன்ஸ் நாட்டில் உள்ள peso-denominated அரசு மற்றும் கார்ப்பரேட் பாண்டுகளுக்கான சர்வதேச விலை நிர்ணய முறைகளை ஜனவரி 4, 2027 முதல் அமல்படுத்த திட்டமிடப்பட்டுள்ளது. Bureau of the Treasury மற்றும் நிதி ஒழுங்குமுறை அமைப்புகளின் தலைமையில் மேற்கொள்ளப்படும் இந்த முயற்சியின் மூலம், உள்ளூர் பாண்டு சந்தையை சர்வதேச முதலீட்டாளர்களுக்கு மேலும் அணுகக்கூடியதாகவும் உலகளாவிய தரங்களுக்கு ஏற்பவும் மாற்ற திட்டமிடப்பட்டுள்ளது.",
+    "slug": "philippines-to-adopt-global-bond-pricing-standards-from-january-2027"
+  },
+  {
+    "id": "127d3538ecbd80d5",
+    "slug": "ford-and-jpmorgan-back-michigan-factories-in-attempt-to-bring-us-manufacturing-home",
+    "title": "Ford and JPMorgan Back Michigan Factories in Attempt to Bring US Manufacturing Home",
+    "tags": [
+      "Ford",
+      "JPMorgan",
+      "Michigan",
+      "United States"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T01:40:00.000Z"
+  },
+  {
+    "id": "faa58df53395c1e9",
+    "slug": "anthropic-ai-files-false-police-tip-market-confidence-dips",
+    "title": "Anthropic AI files false police tip, market confidence dips",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-12T01:37:30.000Z"
+  },
+  {
+    "id": "c2ede984aa4550a5",
+    "slug": "xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug",
+    "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
     "tags": [
       "XRP Ledger Foundation"
     ],
+    "source": "Cointelegraph",
     "origin": "rss",
-    "pubDate": "2026-10-12T01:21:29.000Z",
-    "fetchedAt": "2026-10-12T01:32:45.725Z",
-    "isDuplicateOf": null,
-    "content": "The XRP Ledger Foundation has defended a recent emergency security patch designed to fix an unlimited XRP bug. Network operators previously raised concerns that the critical update was pushed onto them without sufficient warning or choice. However, the foundation pushed back against these claims, maintaining the necessity and proper handling of the urgent network security intervention.",
-    "content_ta": "உடனடி XRP பக் பிரச்சினையை சரிசெய்ய வெளியிடப்பட்ட அவசர செக்யூரிட்டி பேட்ச் குறித்த விமர்சனங்களுக்கு XRP Ledger Foundation பதிலடி கொடுத்துள்ளது. இந்த அவசர அப்டேட் தங்களுக்கு வலுக்கட்டாயமாக திணிக்கப்பட்டதாக நெட்வொர்க் ஆபரேட்டர்கள் கவலை தெரிவித்திருந்தனர். இந்நிலையில், இந்த பாதுகாப்பு நடவடிக்கையின் அவசியத்தையும், அது சரியான முறையில் கையாளப்பட்டதாகவும் அமைப்பு தெரிவித்துள்ளது.",
-    "slug": "xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug"
+    "hasContent": true,
+    "pubDate": "2026-10-12T01:21:29.000Z"
   },
   {
     "id": "821c2093b52e8ee4",
+    "slug": "strk-surges-322-in-four-weeks-outpacing-bitcoin-and-ether",
     "title": "STRK surges 322% in four weeks, outpacing Bitcoin and Ether",
-    "summary": "Starknet's potential shift to a Layer 1 blockchain could redefine Ethereum's scaling model, impacting security dynamics and market strategies.\nThe post STRK surges 322% in four weeks, outpacing Bitcoin and Ether appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/strk-surges-322-percent-starknet-layer-1/",
-    "source": "CryptoBriefing",
     "tags": [
       "Starknet",
       "STRK",
@@ -31,187 +217,130 @@
       "Ether",
       "Ethereum"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-12T01:04:41.000Z",
-    "fetchedAt": "2026-10-12T01:32:45.725Z",
-    "isDuplicateOf": null,
-    "content": "Starknet's native token STRK has recorded an impressive surge of 322 percent over a four-week period, significantly outperforming major cryptocurrencies like Bitcoin and Ether. This rapid growth coincides with discussions around Starknet potentially shifting to a Layer 1 blockchain, a move that could potentially reshape Ethereum's scaling model and influence broader market strategies.",
-    "content_ta": "Starknet-ன் சொந்த டோக்கனான STRK கடந்த நான்கு வாரங்களில் 322 சதவீதம் வரை உயர்ந்துள்ளது. இது Bitcoin மற்றும் Ether போன்ற முக்கிய கிரிப்டோகரன்சிகளை விட மிகச் சிறந்த வளர்ச்சியாகும். Starknet ஒரு Layer 1 பிளாக்செயினாக மாறக்கூடும் என்ற தகவல்கள் வெளியாகி உள்ள நிலையில், இந்த விலை உயர்வு ஏற்பட்டுள்ளது.",
-    "slug": "strk-surges-322-in-four-weeks-outpacing-bitcoin-and-ether"
+    "hasContent": true,
+    "pubDate": "2026-10-12T01:04:41.000Z"
   },
   {
     "id": "537a0715f7107902",
+    "slug": "ethereum-foundation-linked-wallets-send-4-393-eth-to-kraken",
     "title": "Ethereum Foundation-linked wallets send 4,393 ETH to Kraken",
-    "summary": "The Ethereum Foundation's recurring transfers to Kraken may indicate strategic financial maneuvers, impacting market perceptions and liquidity.\nThe post Ethereum Foundation-linked wallets send 4,393 ETH to Kraken appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/ethereum-foundation-wallets-send-eth-kraken/",
-    "source": "CryptoBriefing",
     "tags": [
       "Ethereum Foundation",
       "ETH",
       "Kraken"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-12T01:04:24.000Z",
-    "fetchedAt": "2026-10-12T01:32:45.725Z",
-    "isDuplicateOf": null,
-    "content": "Wallets linked to the Ethereum Foundation have transferred 4,393 ETH to the cryptocurrency exchange Kraken. Such recurring transfers are often closely watched by the market, as they can indicate strategic financial maneuvers by the organization that may impact liquidity and shape investor perceptions.",
-    "content_ta": "Ethereum Foundation-துடன் தொடர்புடைய வாலட்கள் 4,393 ETH அளவிலான கிரிப்டோகரன்சியை Kraken எக்ஸ்சேஞ்சுக்கு மாற்றியுள்ளன. இது போன்ற தொடர்ச்சியான பரிமாற்றங்கள் சந்தையில் மிகுந்த கவனத்தைப் பெறுகின்றன, ஏனெனில் இவை நிறுவனத்தின் நிதி நகர்வுகளைக் குறிப்பதுடன், சந்தை பணப்புழக்கத்தையும் முதலீட்டாளர்களின் பார்மையையும் பாதிக்கலாம்.",
-    "slug": "ethereum-foundation-linked-wallets-send-4-393-eth-to-kraken"
+    "hasContent": true,
+    "pubDate": "2026-10-12T01:04:24.000Z"
   },
   {
     "id": "480c15aa9470f55a",
+    "slug": "bank-earnings-hinge-on-anthropic-ipo-as-spacex-windfall-fades",
     "title": "Bank Earnings Hinge on Anthropic IPO as SpaceX Windfall Fades",
-    "summary": "Banks report Q3 earnings this week, and Bloomberg Intelligence's Herman Chan says an Anthropic IPO could carry deal flow.\nThe post Bank Earnings Hinge on Anthropic IPO as SpaceX Windfall Fades appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/bank-earnings-anthropic-ipo-spacex-windfall/",
-    "source": "BeInCrypto",
     "tags": [
       "Anthropic",
       "SpaceX",
       "Bloomberg"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-10-12T01:01:57.000Z",
-    "fetchedAt": "2026-10-12T01:32:45.725Z",
-    "isDuplicateOf": null,
-    "content": "As banks prepare to report their third-quarter earnings this week, financial experts note that potential future events like an Anthropic IPO could become crucial for driving deal flow. This potential boost comes as the financial impact from previous SpaceX windfalls begins to fade, shifting the focus toward new technology market developments to support upcoming banking sector revenue.",
-    "content_ta": "வங்கிகள் இந்த வாரம் தங்கள் மூன்றாம் காலாண்டு வருவாயை வெளியிடத் தயாராகி வரும் நிலையில், Anthropic IPO போன்ற எதிர்கால நிகழ்வுகள் டீல் ஓட்டத்தை அதிகரிப்பதில் முக்கியப் பங்கு வகிக்கக்கூடும் என்று நிதி நிபுணர்கள் குறிப்பிடுகின்றனர். SpaceX நிறுவனத்தின் மூலம் கிடைத்த முந்தைய லாபத்தின் தாக்கம் மங்கி வரும் சூழலில், வரவிருக்கும் வங்கித் துறை வருவாயை ஆதரிக்க புதிய தொழில்நுட்ப சந்தை வளர்ச்சிகள் மீது கவனம் திரும்பியுள்ளது.",
-    "slug": "bank-earnings-hinge-on-anthropic-ipo-as-spacex-windfall-fades"
+    "hasContent": true,
+    "pubDate": "2026-10-12T01:01:57.000Z"
   },
   {
     "id": "2382ecab60a8b412",
+    "slug": "usd-ai-jumps-29-as-commit-and-compound-model-draws-attention-can-chip-keep-climbing",
     "title": "USD.AI jumps 29% as ‘commit-and-compound’ model draws attention – Can CHIP keep climbing?",
-    "summary": "In a relatively quiet crypto market, CHIP has made steady gains in recent days, maintaining its uptrend.",
-    "hasSummary": true,
-    "link": "https://ambcrypto.com/usd-ai-jumps-29-as-commit-and-compound-model-draws-attention-can-chip-keep-climbing/",
-    "source": "AMBCrypto",
     "tags": [
       "USD.AI",
       "CHIP"
     ],
+    "source": "AMBCrypto",
     "origin": "rss",
-    "pubDate": "2026-10-12T01:00:21.000Z",
-    "fetchedAt": "2026-10-12T01:32:45.725Z",
-    "isDuplicateOf": null,
-    "content": "USD.AI experienced a notable 29 percent surge recently, driven by attention surrounding its unique 'commit-and-compound' model. Meanwhile, in a relatively quiet cryptocurrency market, CHIP has also posted steady gains over the past few days, successfully maintaining its upward trend and prompting questions about whether it can continue to climb.",
-    "content_ta": "USD.AI நிறுவனத்தின் 'commit-and-compound' மாதிரிக்கு கிடைத்த வரவேற்பால் அதன் மதிப்பு 29 சதவீதம் உயர்ந்துள்ளது. இதற்கிடையில், ஒப்பிட்டளவில் அமைதியான கிரிப்டோ சந்தையில், CHIP கடந்த சில நாட்களாக தொடர்ந்து லாபம் ஈட்டி, தனது ஏற்றத்தை தக்க வைத்துக் கொண்டுள்ளது.",
-    "slug": "usd-ai-jumps-29-as-commit-and-compound-model-draws-attention-can-chip-keep-climbing"
+    "hasContent": true,
+    "pubDate": "2026-10-12T01:00:21.000Z"
   },
   {
     "id": "06bdbc09ea31c2af",
+    "slug": "tech-titans-added-845b-this-year-everyone-else-lost-62b-a-sign-where-to-invest",
     "title": "Tech Titans Added $845B This Year. Everyone Else Lost $62B: A Sign Where to Invest?",
-    "summary": "Tech titans added a record $845 billion in 2026 while other billionaires lost $62 billion. See what it means for investors.\nThe post Tech Titans Added $845B This Year. Everyone Else Lost $62B: A Sign Where to Invest? appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/tech-titans-845b-gain-investors/",
-    "source": "BeInCrypto",
     "tags": [
       "BeInCrypto"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-10-12T00:58:56.000Z",
-    "fetchedAt": "2026-10-12T01:32:45.725Z",
-    "isDuplicateOf": null,
-    "content": "Tech titans added a record $845 billion in wealth this year, while other billionaires experienced a collective loss of $62 billion. This stark contrast highlights a major shift in global markets and provides a clear signal for where investors should direct their capital moving forward.",
-    "content_ta": "இந்த ஆண்டு Tech titans தலைவர்கள் சாதனை படைத்து 845 பில்லியன் டாலர் செல்வம் சேர்த்துள்ளனர், அதேசமயம் மற்ற பில்லியனர்கள் 62 பில்லியன் டாலர் வரை இழப்பைச் சந்தித்துள்ளனர். இந்த மிகப்பெரிய வேறுபாடு உலகளாவிய சந்தைகளில் ஒரு பெரிய மாற்றத்தைக் காட்டுகிறது மற்றும் முதலீட்டாளர்கள் எங்கு முதலீடு செய்ய வேண்டும் என்பதற்கான தெளிவான அறிகுறியைக் கொடுக்கிறது.",
-    "slug": "tech-titans-added-845b-this-year-everyone-else-lost-62b-a-sign-where-to-invest"
+    "hasContent": true,
+    "pubDate": "2026-10-12T00:58:56.000Z"
   },
   {
     "id": "338daa5cc711d782",
+    "slug": "white-house-says-all-ai-companies-must-report-security-incidents",
     "title": "White House Says All AI Companies Must Report Security Incidents",
-    "summary": "The White House is reportedly requiring artificial intelligence companies to report and correct security incidents. The mandate from the White House Super Intelligence Force came Friday (Oct. 9) after Anthropic disclosed a series of breaches, Axios reported. “This notification and remediation process is not optional,” the White House said in a statement exclusively shared with […]\nThe post White House Says All AI Companies Must Report Security Incidents appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/white-house-says-all-ai-companies-must-report-security-incidents/",
-    "source": "PYMNTS",
     "tags": [
       "White House",
       "Anthropic"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-10-12T00:43:49.000Z",
-    "fetchedAt": "2026-10-12T01:32:45.726Z",
-    "isDuplicateOf": null,
-    "content": "The White House has announced that all artificial intelligence companies are now required to report and correct security incidents. This mandatory directive follows recent security breaches disclosed by Anthropic. Officials emphasized that the notification and remediation process is strictly mandatory for the industry.",
-    "content_ta": "அனைத்து AI நிறுவனங்களும் பாதுகாப்பு மீறல்களைப் புகாரளித்து சரிசெய்வது கட்டாயமாக்கப்பட்டுள்ளது என்று White House அறிவித்துள்ளது. Anthropic நிறுவனம் சமீபத்தில் வெளிப்படுத்திய பாதுகாப்பு மீறல்களைத் தொடர்ந்து இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது. இந்த அறிவிப்பு மற்றும் சரிசெய்தல் செயல்முறை மிகவும் கட்டாயமானது என்று அதிகாரிகள் வலியுறுத்தியுள்ளனர்.",
-    "slug": "white-house-says-all-ai-companies-must-report-security-incidents"
+    "hasContent": true,
+    "pubDate": "2026-10-12T00:43:49.000Z"
   },
   {
     "id": "68276a3cf2b2e35a",
+    "slug": "us-reverses-course-restores-uk-access-to-frontier-ai-models-for-testing",
     "title": "US reverses course, restores UK access to frontier AI models for testing",
-    "summary": "The restored UK access to AI models highlights the fragility of international tech collaborations amid shifting political landscapes.\nThe post US reverses course, restores UK access to frontier AI models for testing appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/us-restores-uk-access-ai-model-testing/",
-    "source": "CryptoBriefing",
     "tags": [
       "United States",
       "United Kingdom"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-12T00:34:50.000Z",
-    "fetchedAt": "2026-10-12T01:32:45.726Z",
-    "isDuplicateOf": null,
-    "content": "The United States has reversed its previous decision, restoring UK access to frontier AI models for testing. This development underscores the shifting political landscapes that influence international technology collaborations, highlighting both the fragility and importance of cross-border partnerships in the artificial intelligence sector.",
-    "content_ta": "முன்னணி AI மாடல்களைச் பரிசோதனை செய்வதற்கான UK-ன் அனுமதியை அமெரிக்கா மீண்டும் வழங்கியுள்ளது. சர்வதேச தொழில்நுட்பக் கூட்டுறவுகளில் நிலவும் அரசியல் மாற்றங்களையும், எல்லை தாண்டிய கூட்டாண்மைகளின் முக்கியத்துவத்தையும் இந்த நடவடிக்கை எடுத்துக்காட்டுகிறது.",
-    "slug": "us-reverses-course-restores-uk-access-to-frontier-ai-models-for-testing"
+    "hasContent": true,
+    "pubDate": "2026-10-12T00:34:50.000Z"
   },
   {
     "id": "dbb0591b4081e999",
+    "slug": "ramp-valued-at-60-billion-following-new-funding-round",
     "title": "Ramp Valued at $60 Billion Following New Funding Round",
-    "summary": "Ramp has reportedly reached a $60 billion valuation with its newest funding round. That’s according to a report Friday (Oct. 9) by Bloomberg News, citing sources familiar with the matter. They said the spend management platform brought in $1.85 billion in the round, and that the $60 billion valuation does not include that amount. PYMNTS […]\nThe post Ramp Valued at $60 Billion Following New Funding Round appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/news/investment-tracker/fintech-investments/2026/ramp-valued-at-60-billion-following-new-funding-round/",
-    "source": "PYMNTS",
     "tags": [
       "Ramp",
       "Bloomberg"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-10-12T00:25:56.000Z",
-    "fetchedAt": "2026-10-12T01:32:45.726Z",
-    "isDuplicateOf": null,
-    "content": "Spend management platform Ramp has reportedly reached a $60 billion valuation following a new funding round. According to reports citing sources familiar with the matter, the company brought in $1.85 billion in this latest round, with the valuation excluding that newly raised amount.",
-    "content_ta": "Spend management platform ஆன Ramp, புதிய funding round-ஐ தொடர்ந்து 60 பில்லியன் டாலர் மதிப்பை எட்டியுள்ளதாக தகவல்கள் வெளியாகியுள்ளன. இந்த விவகாரம் குறித்து அறிந்த வட்டாரங்களை மேற்கோள் காட்டி வெளியாகியுள்ள செய்திகளின்படி, இந்நிறுவனம் இந்த புதிய round மூலம் 1.85 பில்லியன் டாலரை ஈட்டியுள்ளது. மேலும், இந்த 60 பில்லியன் டாலர் மதிப்பீட்டில் இந்தத் தொகை சேர்க்கப்படவில்லை.",
-    "slug": "ramp-valued-at-60-billion-following-new-funding-round"
+    "hasContent": true,
+    "pubDate": "2026-10-12T00:25:56.000Z"
   },
   {
     "id": "d83c90ce6d4e0f33",
+    "slug": "can-you-trust-chatgpt-with-your-best-ideas-nyu-professor-says-think-twice",
     "title": "Can You Trust ChatGPT With Your Best Ideas? NYU Professor Says Think Twice",
-    "summary": "NYU mathematician Tristan Buckmaster warns researchers to keep original ideas out of OpenAI's tools. OpenAI denies it.\nThe post Can You Trust ChatGPT With Your Best Ideas? NYU Professor Says Think Twice appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/nyu-professor-chatgpt-ideas-openai-warning/",
-    "source": "BeInCrypto",
     "tags": [
       "NYU",
       "OpenAI",
       "ChatGPT",
       "Tristan Buckmaster"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-10-12T00:25:38.000Z",
-    "fetchedAt": "2026-10-12T01:32:45.725Z",
-    "isDuplicateOf": null,
-    "content": "NYU mathematician Tristan Buckmaster has advised researchers to avoid sharing their original ideas with OpenAI tools like ChatGPT, citing potential trust and privacy risks. Meanwhile, OpenAI has denied these claims regarding the security and handling of user ideas. The warning highlights ongoing concerns about intellectual property when utilizing advanced artificial intelligence platforms for creative and academic research.",
-    "content_ta": "NYU-வைச் சேர்ந்த கணிதவியலாளர் Tristan Buckmaster, ஆராய்ச்சியாளர்கள் தங்கள் அசல் யோசனைகளை OpenAI-யின் ChatGPT போன்ற கருவிகளுடன் பகிர்வதைத் தவிர்க்க வேண்டும் என்று எச்சரித்துள்ளார். இதற்கிடையில், OpenAI இந்த குற்றச்சாட்டுகளை மறுத்துள்ளது. இந்த எச்சரிக்கை, செயற்கை நுண்ணறிவு தளங்களைப் பயன்படுத்தும் போது அறிவுசார் சொத்துரிமை தொடர்பான கவலைகளை எழுப்புகிறது.",
-    "slug": "can-you-trust-chatgpt-with-your-best-ideas-nyu-professor-says-think-twice"
+    "hasContent": true,
+    "pubDate": "2026-10-12T00:25:38.000Z"
   },
   {
     "id": "4c25e7512818032b",
+    "slug": "america-s-credit-unions-takes-on-crypto-policy-as-stablecoin-rules-take-shape",
     "title": "America’s Credit Unions takes on crypto policy as stablecoin rules take shape",
-    "summary": "Credit unions' involvement in crypto policy could reshape their competitive landscape, impacting deposit retention and regulatory dynamics.\nThe post America’s Credit Unions takes on crypto policy as stablecoin rules take shape appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/americas-credit-unions-crypto-stablecoin-policy/",
-    "source": "CryptoBriefing",
     "tags": [
       "America's Credit Unions",
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-12T00:18:47.000Z",
-    "fetchedAt": "2026-10-12T01:32:45.726Z",
-    "isDuplicateOf": null,
-    "content": "America's Credit Unions is actively engaging in cryptocurrency policy as new stablecoin regulations begin to take shape. This strategic involvement could significantly reshape the competitive landscape for credit unions, potentially impacting deposit retention and altering broader regulatory dynamics across the financial sector.",
-    "content_ta": "America's Credit Unions அமைப்பு stablecoin விதிகள் உருவாக்கப்பட்டு வரும் நிலையில், crypto கொள்கைகளில் தீவிரமாக ஈடுபட்டுள்ளது. இந்த ஈடுபாடு credit unions அமைப்புகளின் போட்டிச் சூழலை மாற்றியமைக்கலாம், இது வைப்புத்தொகை தக்கவைப்பு மற்றும் ஒழுங்குமுறை இயக்கவியலைப் பாதிக்கலாம்.",
-    "slug": "america-s-credit-unions-takes-on-crypto-policy-as-stablecoin-rules-take-shape"
+    "hasContent": true,
+    "pubDate": "2026-10-12T00:18:47.000Z"
   },
   {
     "id": "83107d086b81388b",
@@ -667,199 +796,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-11T17:06:39.000Z"
-  },
-  {
-    "id": "2b23da7df1f127f8",
-    "slug": "saylor-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks",
-    "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
-    "tags": [
-      "MicroStrategy",
-      "Michael Saylor",
-      "Bitcoin"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-11T17:03:00.000Z"
-  },
-  {
-    "id": "772eb3ce360503ed",
-    "slug": "injective-gains-10-as-leverage-hits-164m-can-rising-inj-bets-sustain-rally",
-    "title": "Injective gains 10% as leverage hits $164M – Can rising INJ bets sustain rally?",
-    "tags": [
-      "Injective"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-11T17:00:22.000Z"
-  },
-  {
-    "id": "5d8e91decff1e169",
-    "slug": "some-kraken-futures-limit-orders-can-still-fill-after-a-successful-cancel",
-    "title": "Some Kraken futures limit orders can still fill after a successful cancel",
-    "tags": [
-      "Kraken"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-11T17:00:04.000Z"
-  },
-  {
-    "id": "bea73851ac5d0ad6",
-    "slug": "elon-musk-s-starlink-faces-a-new-threat-from-russia",
-    "title": "Elon Musk’s Starlink Faces a New Threat From Russia",
-    "tags": [
-      "Elon Musk",
-      "Starlink",
-      "Russia",
-      "Ukraine",
-      "Germany"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-11T16:52:59.000Z"
-  },
-  {
-    "id": "91bf86668a6ae9bf",
-    "slug": "rockstar-nemesis-cyberleek-returns-with-fresh-gta-6-footage",
-    "title": "Rockstar Nemesis Cyberleek Returns With Fresh GTA 6 Footage",
-    "tags": [
-      "Rockstar",
-      "Cyberleek",
-      "Grand Theft Auto 6",
-      "Solana"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-11T16:30:00.000Z"
-  },
-  {
-    "id": "50c43c42507bdb34",
-    "slug": "bitcoin-etf-weekly-outflows-hit-3-month-high-ethereum-funds-extend-losing-streak",
-    "title": "Bitcoin ETF Weekly Outflows Hit 3-Month High, Ethereum Funds Extend Losing Streak",
-    "tags": [
-      "Bitcoin",
-      "Ethereum"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-11T16:29:17.000Z"
-  },
-  {
-    "id": "c16e00e0bedb4e86",
-    "slug": "liquid-network-halts-bitcoin-redemptions-with-reserves-at-about-86-coverage",
-    "title": "Liquid Network halts Bitcoin redemptions with reserves at about 86% coverage",
-    "tags": [
-      "Liquid Network",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-11T16:14:10.000Z"
-  },
-  {
-    "id": "aac37e1aae10f802",
-    "slug": "bitcoin-ethereum-and-solana-etfs-all-in-the-red-for-october",
-    "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
-    "tags": [
-      "Bitcoin",
-      "Ethereum",
-      "Solana"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-11T16:01:03.000Z"
-  },
-  {
-    "id": "d1a4d51123a49e37",
-    "slug": "conflux-jumps-17-on-china-blockchain-buzz-will-cfx-s-breakout-hold",
-    "title": "Conflux jumps 17% on China blockchain buzz – Will CFX’s breakout hold?",
-    "tags": [
-      "Conflux",
-      "CFX",
-      "China"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-11T16:00:58.000Z"
-  },
-  {
-    "id": "0aaf079c0cec8c23",
-    "slug": "bitcoin-hedge-funds-face-a-liquidation-trap-when-their-collateral-is-split-across-markets",
-    "title": "Bitcoin hedge funds face a liquidation trap when their collateral is split across markets",
-    "tags": [
-      "Bitcoin",
-      "CME",
-      "Hyperliquid"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-11T16:00:20.000Z"
-  },
-  {
-    "id": "49ad792a8bae8d5f",
-    "slug": "kyrgyzstan-orders-liquidation-of-usdkg-issuer-and-coin-nomad-exchange",
-    "title": "Kyrgyzstan orders liquidation of USDKG issuer and Coin Nomad Exchange",
-    "tags": [
-      "Kyrgyzstan",
-      "USDKG",
-      "Coin Nomad Exchange"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-11T15:59:17.000Z"
-  },
-  {
-    "id": "7dcd7394f5decf42",
-    "slug": "innopran-buy-pills-generic",
-    "title": "Innopran: Buy Pills Generic",
-    "tags": [
-      "Innopran",
-      "Axis Medicare Ltd"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-11T15:48:18.000Z"
-  },
-  {
-    "id": "3f95987634c01591",
-    "slug": "levothroid-where-to-buy-next",
-    "title": "Levothroid: Where To Buy Next",
-    "tags": [
-      "Levothroid",
-      "POI Factory",
-      "POI Directory",
-      "CVS",
-      "Winn-Dixie"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-11T15:44:33.000Z"
-  },
-  {
-    "id": "fc0f64d6e73129a3",
-    "slug": "xrp-kuwait-hits-back-at-centralization-critics-following-urgent-network-fixes",
-    "title": "XRP Kuwait Hits Back at Centralization Critics Following Urgent Network Fixes",
-    "tags": [
-      "XRP Kuwait",
-      "XRP Ledger",
-      "Kuwait"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-11T15:15:00.000Z"
   }
 ]
