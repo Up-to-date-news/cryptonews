@@ -1,68 +1,372 @@
 [
   {
-    "id": "a60aee703e8d5abc",
-    "title": "Ethereum-led altseason incoming? 83% surge in USDT borrowing points to…",
-    "summary": "Ethereum-led altseason speculation builds as USDT borrowing against $10 million in BTC jumps 83%, raising hopes of fresh capital entering altcoins.",
+    "id": "a09c6102e6cffda1",
+    "slug": "semiconductor-stocks-set-to-lose-over-1-trillion-as-ai-spending-fears-mount",
+    "title": "Semiconductor stocks set to lose over $1 trillion as AI spending fears mount",
+    "tags": [
+      "Semiconductor"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-14T18:53:56.000Z"
+  },
+  {
+    "id": "df1618c54ccc04cb",
+    "slug": "bank-of-america-hires-1-000-contractors-to-patch-flaws-exposed-by-anthropic-s-mythos",
+    "title": "Bank of America hires 1,000 contractors to patch flaws exposed by Anthropic’s Mythos",
+    "tags": [
+      "Bank of America",
+      "Anthropic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-14T18:52:51.000Z"
+  },
+  {
+    "id": "5b1dd11262302a74",
+    "slug": "openai-says-eu-small-business-use-of-ai-agents-grew-8-1-times-since-may",
+    "title": "OpenAI says EU small business use of AI agents grew 8.1 times since May",
+    "tags": [
+      "OpenAI",
+      "European Union"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-14T18:49:36.000Z"
+  },
+  {
+    "id": "45b70b28cfd23e3a",
+    "title": "Ethereum (ETH) Captures Most of Recent Real-World Asset (RWA) Expansion while Tron (TRX) Dominates Weekly Stablecoin Inflows",
+    "summary": "On-chain finance continues to draw capital at a steady clip, and the latest weekly figures from Token Terminal illustrate a clear split in where that money is landing. Real-world assets (RWAs)—tokenized versions of funds, U.S. Treasury bills, credit products, equities, and commodities—showed concentrated growth on... Read More",
     "hasSummary": true,
-    "link": "https://ambcrypto.com/ethereum-led-altseason-incoming-83-surge-in-usdt-borrowing-points-to/",
+    "link": "https://www.crowdfundinsider.com/2026/10/317711-ethereum-eth-captures-most-of-recent-real-world-asset-rwa-expansion-while-tron-trx-dominates-weekly-stablecoin-inflows/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Ethereum",
+      "Tron",
+      "Token Terminal"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T18:48:49.000Z",
+    "fetchedAt": "2026-10-14T19:00:10.966Z",
+    "isDuplicateOf": null,
+    "content": "Recent weekly data from Token Terminal highlights a clear division in capital inflows across blockchain networks. Ethereum (ETH) captured the largest share of the recent expansion in tokenized real-world assets, including funds and Treasury bills. Meanwhile, Tron (TRX) dominated weekly stablecoin inflows, reflecting steady capital growth in on-chain finance.",
+    "content_ta": "Token Terminal-ன் சமீபத்திய வாராந்திர தரவுகள் பிளாக்செயின் நெட்வொர்க்குகளில் மூலதன முதலீட்டின் தெளிவான பிரிவைக் காட்டுகின்றன. நிதி மற்றும் ட்ரெசரி பில்கள் உள்ளிட்ட டோக்கன் செய்யப்பட்ட ரியல்-வேர்ல்ட் அசெட்ஸ் (RWA) பிரிவின் சமீபத்திய விரிவாக்கத்தில் Ethereum (ETH) மிகப்பெரிய பங்கைப் பெற்றுள்ளது. இதற்கிடையில், Tron (TRX) வாராந்திர ஸ்டேபிள்காயின் வரத்துகளில் ஆதிக்கம் செலுத்தியது.",
+    "slug": "ethereum-eth-captures-most-of-recent-real-world-asset-rwa-expansion-while-tron-trx-dominates-weekly"
+  },
+  {
+    "id": "421a3250a70c0cf6",
+    "slug": "meta-shares-ten-health-research-manuscripts-built-with-its-muse-ai-platform",
+    "title": "Meta shares ten health research manuscripts built with its Muse AI platform",
+    "tags": [
+      "Meta"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-14T18:48:16.000Z"
+  },
+  {
+    "id": "a78ca86046e7d2aa",
+    "slug": "glassnode-says-bitcoin-remains-capped-by-88k-holder-cost-basis-despite-declining-selling-pressure",
+    "title": "Glassnode says Bitcoin remains capped by $88K holder cost basis despite declining selling pressure",
+    "tags": [
+      "Glassnode",
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-14T18:43:47.000Z"
+  },
+  {
+    "id": "c542dafa271539f7",
+    "slug": "solana-s-short-dated-implied-volatility-jumps-18-3-points-in-a-week",
+    "title": "Solana’s short-dated implied volatility jumps 18.3 points in a week",
+    "tags": [
+      "Solana"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-14T18:43:39.000Z"
+  },
+  {
+    "id": "d6325a49828815bb",
+    "slug": "eight-us-states-sue-openai-alleging-chatgpt-harms-children",
+    "title": "Eight US states sue OpenAI, alleging ChatGPT harms children",
+    "tags": [
+      "OpenAI",
+      "ChatGPT",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-14T18:43:29.000Z"
+  },
+  {
+    "id": "1388848e01871041",
+    "slug": "ripple-targets-trillion-dollar-securities-markets-with-new-us-brokerage-and-south-korean-deals",
+    "title": "Ripple targets trillion-dollar securities markets with new US brokerage and South Korean deals",
+    "tags": [
+      "Ripple",
+      "Meritz",
+      "United States",
+      "South Korea"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-14T18:40:19.000Z"
+  },
+  {
+    "id": "9d458f21fc9e3d88",
+    "slug": "tao-crypto-price-prediction-can-265-support-prevent-a-drop-toward-215",
+    "title": "TAO crypto price prediction: Can $265 support prevent a drop toward $215?",
+    "tags": [
+      "Bittensor",
+      "TAO",
+      "CoinCodex"
+    ],
     "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-14T18:30:29.000Z"
+  },
+  {
+    "id": "2b99cb7f34cb4713",
+    "title": "Before You Put AI on Regulatory Reporting",
+    "summary": "Author: A finextra community member",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/blogposting/33167/before-you-put-ai-on-regulatory-reporting?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "AI"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T18:26:19.000Z",
+    "fetchedAt": "2026-10-14T19:00:10.966Z",
+    "isDuplicateOf": null,
+    "content": "Before integrating AI into regulatory reporting processes, financial institutions and organizations must carefully evaluate their strategies. While artificial intelligence offers potential efficiencies and automation benefits for compliance tasks, implementing these advanced tools requires thorough preparation, risk assessment, and proper data management to ensure accuracy and meet stringent regulatory standards successfully.",
+    "content_ta": "ஒழுங்குமுறை அறிக்கையிடல் (regulatory reporting) செயல்முறைகளில் AI-ஐ இணைப்பதற்கு முன்பு, நிதி நிறுவனங்கள் தங்கள் உத்திகளை கவனமாக மதிப்பீடு செய்ய வேண்டும். செயற்கை நுண்ணறிவு இணக்கப் பணிகளுக்கு செயல்திறனை வழங்கினாலும், துல்லியத்தை உறுதி செய்வதற்கும் ஒழுங்குமுறை தரங்களைச் சந்திப்பதற்கும் முறையான தயாரிப்பு மற்றும் தரவு மேலாண்மை அவசியம்.",
+    "slug": "before-you-put-ai-on-regulatory-reporting"
+  },
+  {
+    "id": "ab0d8596d47e02f8",
+    "slug": "youtube-adds-made-with-ai-label-for-ai-generated-songs",
+    "title": "YouTube adds ‘Made with AI’ label for AI-generated songs",
+    "tags": [
+      "YouTube"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-14T18:26:10.000Z"
+  },
+  {
+    "id": "a33777e5e785564a",
+    "title": "EBA classifies USDC as significant e-money token under MiCA",
+    "summary": "The European Banking Authority (EBA) has classified USDC, issued by Circle Internet Financial Europe SAS, as a significant e-money token (EMT) under the Markets in Crypto Assets Regulation (MiCA), following its assessment of the criteria set out in the Regulation.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111262/eba-classifies-usdc-as-significant-e-money-token-under-mica?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "European Banking Authority",
+      "USDC",
+      "Circle Internet Financial Europe SAS"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T18:26:00.000Z",
+    "fetchedAt": "2026-10-14T19:00:10.966Z",
+    "isDuplicateOf": null,
+    "content": "The European Banking Authority has classified USDC, issued by Circle Internet Financial Europe SAS, as a significant e-money token under the Markets in Crypto Assets Regulation. This classification follows a formal assessment of specific regulatory criteria outlined within the framework for crypto assets in Europe.",
+    "content_ta": "ஐரோப்பிய வங்கியியல் ஆணையம் (EBA), Circle Internet நிறுவனம் வெளியிட்ட USDC-ஐ Markets in Crypto Assets Regulation (MiCA) விதிகளின் கீழ் குறிப்பிடத்தக்க இ-மனி டோக்கனாக வகைப்படுத்தியுள்ளது. ஐரோப்பியாவில் கிரிப்டோ சொத்துகளுக்கான ஒழுங்குமுறை விதிகளின் மதிப்பீட்டைத் தொடர்ந்து இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.",
+    "slug": "eba-classifies-usdc-as-significant-e-money-token-under-mica"
+  },
+  {
+    "id": "ae3a39ad7bc1bbd2",
+    "slug": "agi3-goes-live-with-fireblocks-integration-built-in-from-day-one",
+    "title": "AGI3 goes live with Fireblocks integration built in from day one",
+    "tags": [
+      "AGI3",
+      "Fireblocks"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-14T18:25:20.000Z"
+  },
+  {
+    "id": "e5e5f7e9bbc60a90",
+    "title": "Robinhood lists XDC for eligible US customers",
+    "summary": "Robinhood's XDC listing broadens retail access to institutional-grade crypto, potentially boosting adoption while highlighting regulatory disparities.\nThe post Robinhood lists XDC for eligible US customers appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/robinhood-lists-xdc-us-customers/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Robinhood",
+      "XDC",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T18:24:21.000Z",
+    "fetchedAt": "2026-10-14T19:00:10.966Z",
+    "isDuplicateOf": null,
+    "content": "Robinhood has added XDC to its platform for eligible US customers. This new listing expands retail investor access to institutional-grade cryptocurrency. Industry observers note that while the move could increase overall adoption, it also underscores existing regulatory differences across the digital asset market.",
+    "content_ta": "தகுதியான US வாடிக்கையாளர்களுக்காக Robinhood தனது பிளாட்ஃபார்மில் XDC-ஐ சேர்த்துள்ளது. இந்த புதிய பட்டியலிடலானது சில்லறை முதலீட்டாளர்களுக்கு நிறுவன தரத்திலான கிரிப்டோகரன்சிக்கான அணுகலை விரிவுபடுத்துகிறது. இந்த நடவடிக்கையானது ஒட்டுமொத்த ஏற்றுக்கொள்ளலை அதிகரிக்கக்கூடும் என்று தொழில் துறை பார்வையாளர்கள் குறிப்பிடுகின்றனர்.",
+    "slug": "robinhood-lists-xdc-for-eligible-us-customers"
+  },
+  {
+    "id": "f408ab2eb2e1ebdc",
+    "title": "BBVA joins Meta-backed Personal Agent Protocol initiative",
+    "summary": "BBVA has become the first European bank to join the Personal Agent Protocol (Poppy) initiative to help develop a common protocol that enables secure interactions between artificial intelligence (AI) agents and businesses.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111261/bbva-joins-meta-backed-personal-agent-protocol-initiative?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "BBVA",
+      "Meta"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T18:22:00.000Z",
+    "fetchedAt": "2026-10-14T19:00:10.966Z",
+    "isDuplicateOf": null,
+    "content": "Spanish banking group BBVA has become the first European bank to join the Meta-backed Personal Agent Protocol initiative. The project aims to develop a common protocol that enables secure and seamless interactions between artificial intelligence agents and businesses across the digital ecosystem.",
+    "content_ta": "ஸ்பெயின் நாட்டைச் சேர்ந்த BBVA வங்கி, Meta ஆதரவு பெற்ற Personal Agent Protocol முயற்சியில் இணைந்துள்ள முதல் ஐரோப்பிய வங்கி என்ற பெருமையை பெற்றுள்ளது. செயற்கை நுண்ணறிவு ஏஜெண்டுகளுக்கும் வணிகங்களுக்கும் இடையே பாதுகாப்பான மற்றும் தடையற்ற தொடர்புகளை ermöglicht செய்யும் பொதுவான நெறிமுறையை உருவாக்குவதை இந்த திட்டம் நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "bbva-joins-meta-backed-personal-agent-protocol-initiative"
+  },
+  {
+    "id": "8a9ef45a163e93ba",
+    "title": "Bitwise head of research says investors underestimate institutional adoption of NEAR and HYPE",
+    "summary": "Bitwise head of research Ryan Rasmussen says investors underestimate institutional adoption of NEAR and HYPE as ETFs, token buybacks and network activity grow.\nThe post Bitwise head of research says investors underestimate institutional adoption of NEAR and HYPE appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/bitwise-head-of-research-says-investors-underestimate-institutional-adoption-of-near-and-hype/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Bitwise",
+      "NEAR",
+      "HYPE",
+      "Ryan Rasmussen"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T18:15:41.000Z",
+    "fetchedAt": "2026-10-14T19:00:10.966Z",
+    "isDuplicateOf": null,
+    "content": "Bitwise head of research Ryan Rasmussen stated that investors are underestimating the institutional adoption of NEAR and HYPE. According to Rasmussen, growth in network activity, token buybacks, and potential ETFs are driving this trend. Despite increasing interest from large-scale investors, the broader market has yet to fully recognize the momentum building behind these two digital assets.",
+    "content_ta": "Bitwise-ன் ரிசர்ச் ஹெட் Ryan Rasmussen, NEAR மற்றும் HYPE ஆகியவற்றின் நிறுவன தத்தெடுப்பை முதலீட்டாளர்கள் குறைவாக மதிப்பிடுவதாகத் தெரிவித்தார். நெட்வொர்க் செயல்பாடு, டோக்கன் பைபேக்குகள் மற்றும் ETF-களின் வளர்ச்சி இந்தப் போக்கை இயக்குவதாக அவர் கூறினார். பெரிய அளவிலான முதலீட்டாளர்களின் ஆர்வம் அதிகரித்து வந்தாலும், இந்த டிஜிட்டல் சொத்துக்களுக்குப் பின்னால் உருவாகி வரும் வேகத்தை பரந்த சந்தை இன்னும் முழுமையாகப் புரிந்து கொள்ளவில்லை.",
+    "slug": "bitwise-head-of-research-says-investors-underestimate-institutional-adoption-of-near-and-hype"
+  },
+  {
+    "id": "44e87bd400c5c557",
+    "title": "Oracle falls 7.2% as rate hike bets weigh on AI stocks",
+    "summary": "Rising US interest rates could strain AI firms' growth, impacting their financial stability and investor confidence in long-term returns.\nThe post Oracle falls 7.2% as rate hike bets weigh on AI stocks appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/oracle-shares-drop-rate-hike-bets-ai/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Oracle",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T18:13:52.000Z",
+    "fetchedAt": "2026-10-14T19:00:10.966Z",
+    "isDuplicateOf": null,
+    "content": "Oracle shares fell 7.2 percent following increased market expectations of a US interest rate hike. This macroeconomic pressure weighed heavily on artificial intelligence stocks, as investors grew concerned that rising borrowing costs could strain growth and financial stability for firms in the sector, impacting long-term investor confidence.",
+    "content_ta": "US வட்டி விகிதம் உயர்த்தப்படலாம் என்ற எதிர்பார்ப்புகளால் Oracle பங்குகளின் மதிப்பு 7.2 சதவீதம் சரிந்தது. கடன் வாங்கும் செலவுகள் உயர்வது AI நிறுவனங்களின் வளர்ச்சி மற்றும் நிதி நிலைத்தன்மையை பாதிக்கக்கூடும் என்ற அச்சத்தால் முதலீட்டாளர்கள் கவலை அடைந்துள்ளனர்.",
+    "slug": "oracle-falls-7-2-as-rate-hike-bets-weigh-on-ai-stocks"
+  },
+  {
+    "id": "a3e467de87183433",
+    "title": "Santiment ranks top crypto projects by 30-day development activity",
+    "summary": "High development activity in crypto projects may signal future growth potential, guiding investors and builders in strategic decision-making.\nThe post Santiment ranks top crypto projects by 30-day development activity appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/santiment-top-crypto-projects-development-activity/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Santiment",
+      "Crypto Briefing"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T18:10:17.000Z",
+    "fetchedAt": "2026-10-14T19:00:10.966Z",
+    "isDuplicateOf": null,
+    "content": "Santiment has published its ranking of top crypto projects based on 30-day development activity. High levels of development activity in cryptocurrency projects can indicate future growth potential. This data helps investors and builders make strategic decisions regarding their participation in the digital asset market.",
+    "content_ta": "30 நாள் வளர்ச்சிப் பணியின் அடிப்படையில் சிறந்த கிரிப்டோ திட்டங்களின் தரவரிசையை Santiment வெளியிட்டுள்ளது. கிரிப்டோ திட்டங்களில் அதிக வளர்ச்சி நடவடிக்கை எதிர்கால வளர்ச்சி திறனைக் குறிக்கலாம். இந்தத் தரவு முதலீட்டாளர்கள் மற்றும் உருவாக்குநர்கள் மூலோபாய முடிவுகளை எடுக்க உதவுகிறது.",
+    "slug": "santiment-ranks-top-crypto-projects-by-30-day-development-activity"
+  },
+  {
+    "id": "4cc9a8feb0801370",
+    "slug": "why-did-no-one-at-bank-of-america-go-to-prison-like-cz",
+    "title": "Why Did No One at Bank of America Go to Prison Like CZ??",
+    "tags": [
+      "Bank of America",
+      "CZ"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-14T18:09:31.000Z"
+  },
+  {
+    "id": "fc54e21d1edfd98d",
+    "slug": "coinbase-lays-out-post-quantum-needs-for-bitcoin-custody",
+    "title": "Coinbase Lays Out Post-Quantum Needs for Bitcoin Custody",
+    "tags": [
+      "Coinbase",
+      "Bitcoin"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-14T18:03:21.000Z"
+  },
+  {
+    "id": "a60aee703e8d5abc",
+    "slug": "ethereum-led-altseason-incoming-83-surge-in-usdt-borrowing-points-to",
+    "title": "Ethereum-led altseason incoming? 83% surge in USDT borrowing points to…",
     "tags": [
       "Ethereum",
       "USDT",
       "Bitcoin"
     ],
+    "source": "AMBCrypto",
     "origin": "rss",
-    "pubDate": "2026-10-14T18:00:55.000Z",
-    "fetchedAt": "2026-10-14T18:01:27.628Z",
-    "isDuplicateOf": null,
-    "content": "Speculation surrounding an Ethereum-led altseason is growing after an 83% surge in USDT borrowing against BTC. This notable increase in stablecoin borrowing points to potential new capital entering the market, raising investors' hopes for a broader altcoin rally as market activity intensifies.",
-    "content_ta": "Ethereum-ஐ அடிப்படையாகக் கொண்ட altseason குறித்த எதிர்பார்ப்பு அதிகரித்து வருகிறது. BTC-க்கு எதிராக USDT கடன் வாங்குவது 83% வரை உயர்ந்துள்ளது. இந்த திடீர் அதிகரிப்பு சந்தையில் புதிய முதலீடுகள் நுழைவதற்கான சாத்தியக்கூறுகளைக் காட்டுவதோடு, altcoin மீதான முதலீட்டாளர்களின் நம்பிக்கையையும் உயர்த்தியுள்ளது.",
-    "slug": "ethereum-led-altseason-incoming-83-surge-in-usdt-borrowing-points-to"
+    "hasContent": true,
+    "pubDate": "2026-10-14T18:00:55.000Z"
   },
   {
     "id": "7611e57f160b2966",
+    "slug": "google-deepmind-s-video-to-sim-to-real-pipeline-teaches-a-humanoid-robot-to-play-cornhole",
     "title": "Google DeepMind’s Video-to-Sim-to-Real pipeline teaches a humanoid robot to play cornhole",
-    "summary": "The rapid skill acquisition demonstrated could revolutionize robotics, enabling faster adaptation and broader applications in dynamic environments.\nThe post Google DeepMind’s Video-to-Sim-to-Real pipeline teaches a humanoid robot to play cornhole appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/gemini-4-argon-robot-cornhole/",
-    "source": "CryptoBriefing",
     "tags": [
       "Google DeepMind"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-14T17:55:12.000Z",
-    "fetchedAt": "2026-10-14T18:01:27.628Z",
-    "isDuplicateOf": null,
-    "content": "Google DeepMind has introduced a new Video-to-Sim-to-Real pipeline that successfully teaches a humanoid robot how to play cornhole. This technological advancement demonstrates rapid skill acquisition in robotics, which could potentially revolutionize the field by enabling robots to adapt faster and function more effectively in dynamic, real-world environments.",
-    "content_ta": "Google DeepMind நிறுவனத்தின் புதிய Video-to-Sim-to-Real pipeline தொழில்நுட்பம், humanoid ரோபோவை cornhole விளையாட்டு விளையாட வெற்றிகரமாகக் கற்றுக் கொடுத்துள்ளது. ரோபோடிக்ஸ் துறையில் இந்த விரைவான திறன் மேம்பாடு, மாறும் சூழல்களில் ரோபோக்கள் வேகமாகப் பழகவும், பரந்த பயன்பாடுகளைப் பெறவும் உதவும் என எதிர்பார்க்கப்படுகிறது.",
-    "slug": "google-deepmind-s-video-to-sim-to-real-pipeline-teaches-a-humanoid-robot-to-play-cornhole"
+    "hasContent": true,
+    "pubDate": "2026-10-14T17:55:12.000Z"
   },
   {
     "id": "8817c21334f118af",
+    "slug": "injective-sees-nearly-half-of-its-markets-tied-to-tokenized-assets",
     "title": "Injective sees nearly half of its markets tied to tokenized assets",
-    "summary": "Injective's integration of tokenized assets could revolutionize financial markets by enhancing accessibility and regulatory compliance on-chain.\nThe post Injective sees nearly half of its markets tied to tokenized assets appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/injective-nearly-half-markets-tokenized-assets/",
-    "source": "CryptoBriefing",
     "tags": [
       "Injective",
       "Crypto Briefing"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-14T17:53:18.000Z",
-    "fetchedAt": "2026-10-14T18:01:27.628Z",
-    "isDuplicateOf": null,
-    "content": "Injective has announced that nearly half of its markets are now connected to tokenized assets. This integration highlights the growing adoption of real-world assets on-chain, potentially transforming financial markets by improving accessibility and regulatory compliance.",
-    "content_ta": "Injective-ன் சந்தைகளில் பாதியளவு டோக்கனைஸ் செய்யப்பட்ட சொத்துக்களுடன் இணைக்கப்பட்டுள்ளதாக அறிவிக்கப்பட்டுள்ளது. இந்த ஒருங்கிணைப்பு ஆன்-செயின் தளங்களில் நிதியாதாரங்களை மேம்படுத்துவதோடு, ஒழுங்குமுறை இணக்கத்தையும் எளிதாக்கும்.",
-    "slug": "injective-sees-nearly-half-of-its-markets-tied-to-tokenized-assets"
+    "hasContent": true,
+    "pubDate": "2026-10-14T17:53:18.000Z"
   },
   {
     "id": "27aa587b13b856d4",
+    "slug": "ethereum-s-quantum-race-takes-a-new-turn-as-zksync-courts-banks-and-starknet-weighs-exit",
     "title": "Ethereum’s quantum race takes a new turn as zkSync courts banks and Starknet weighs exit",
-    "summary": "ZkSync announced Airbender Prime, a prover that Matter Labs says handled 99% of 7,200 consecutive Ethereum mainnet blocks in under 10 seconds each on a single NVIDIA RTX PRO 6000 Blackwell GPU. The announcement came five days after Starknet said it is actively considering becoming an independent layer-1 (L1) blockchain, targeting full quantum resistance in…\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-    "hasSummary": true,
-    "link": "https://cryptoslate.com/ethereums-quantum-race-takes-a-new-turn-as-zksync-courts-banks-and-starknet-weighs-exit/",
-    "source": "CryptoSlate",
     "tags": [
       "Ethereum",
       "zkSync",
@@ -70,31 +374,22 @@
       "Matter Labs",
       "NVIDIA"
     ],
+    "source": "CryptoSlate",
     "origin": "rss",
-    "pubDate": "2026-10-14T17:50:35.000Z",
-    "fetchedAt": "2026-10-14T18:01:27.628Z",
-    "isDuplicateOf": null,
-    "content": "zkSync has announced Airbender Prime, a new prover capable of handling Ethereum mainnet blocks efficiently on a single GPU. Meanwhile, Starknet is considering transitioning into an independent layer-1 blockchain with a focus on achieving full quantum resistance. These developments highlight ongoing scaling and security efforts within the Ethereum ecosystem.",
-    "content_ta": "Ethereum நெட்வொர்க்கில் zkSync நிறுவனம் Airbender Prime என்ற புதிய புரோவரை அறிமுகப்படுத்தியுள்ளது. இதற்கிடையில், Starknet ஆனது முழுமையான குவாண்டம் பாதுகாப்பை நோக்கமாகக் கொண்டு, சுதந்திரமான layer-1 பிளாக்செயினாக மாறுவது குறித்து பரிசீலித்து வருகிறது. இந்த நகர்வுகள் Ethereum சுற்றுச்சூழல் அமைப்பில் புதிய தொழில்நுட்ப மாற்றங்களைக் காட்டுகின்றன.",
-    "slug": "ethereum-s-quantum-race-takes-a-new-turn-as-zksync-courts-banks-and-starknet-weighs-exit"
+    "hasContent": true,
+    "pubDate": "2026-10-14T17:50:35.000Z"
   },
   {
     "id": "6707b304a4fc84e1",
+    "slug": "you-re-committing-crime-in-broad-daylight-kalshi-ceo-defends-prediction-markets-amid-insider",
     "title": "‘You’re committing crime in broad daylight’: Kalshi CEO defends prediction markets amid insider trading concerns",
-    "summary": "As insider trading concerns are accumulating, one of the biggest platforms said its markets make it easier to suss out bad actors.",
-    "hasSummary": true,
-    "link": "https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601",
-    "source": "The Block",
     "tags": [
       "Kalshi"
     ],
+    "source": "The Block",
     "origin": "rss",
-    "pubDate": "2026-10-14T17:47:18.000Z",
-    "fetchedAt": "2026-10-14T18:01:27.628Z",
-    "isDuplicateOf": null,
-    "content": "The CEO of Kalshi has defended prediction markets following growing concerns over potential insider trading. Amid these scrutiny and accusations, the platform's leadership argued that public prediction markets actually make it easier to identify and track bad actors rather than conceal illegal financial activities.",
-    "content_ta": "Insider trading கவலைகள் அதிகரித்து வரும் நிலையில், Kalshi CEO தனது prediction markets-ஐ தற்காத்து பேசியுள்ளார். இந்த முறைகேடு புகார்களுக்கு மத்தியில், தவறான செயல்களில் ஈடுபடுபவர்களை எளிதில் கண்டறிய இந்த பிளாட்ஃபார்ம் உதவுகிறது என்று அதன் தலைமை நிர்வாகி வாதிட்டுள்ளார்.",
-    "slug": "you-re-committing-crime-in-broad-daylight-kalshi-ceo-defends-prediction-markets-amid-insider"
+    "hasContent": true,
+    "pubDate": "2026-10-14T17:47:18.000Z"
   },
   {
     "id": "15825a0b7dd15a4b",
@@ -540,284 +835,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-14T16:17:22.000Z"
-  },
-  {
-    "id": "126dcf4c4f21812c",
-    "slug": "open-source-ai-models-challenge-major-firms-with-lower-pricing",
-    "title": "Open-source AI models challenge major firms with lower pricing",
-    "tags": [
-      "AI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T16:16:21.000Z"
-  },
-  {
-    "id": "d0ab779727ff28c8",
-    "slug": "us-treasury-s-bessent-urges-world-bank-to-back-upstream-oil-and-gas-projects",
-    "title": "US Treasury’s Bessent urges World Bank to back upstream oil and gas projects",
-    "tags": [
-      "World Bank",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T16:16:20.000Z"
-  },
-  {
-    "id": "c4606ed3ef9d72d2",
-    "slug": "koch-disruptive-technologies-backs-emanate-s-ai-for-industrial-sales",
-    "title": "Koch Disruptive Technologies backs Emanate’s AI for industrial sales",
-    "tags": [
-      "Koch Disruptive Technologies",
-      "Emanate"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T16:15:17.000Z"
-  },
-  {
-    "id": "81c8e4e8ccb0a86b",
-    "slug": "kalshi-co-founder-credits-flat-structure-for-scaling-without-the-bureaucracy",
-    "title": "Kalshi co-founder credits flat structure for scaling without the bureaucracy",
-    "tags": [
-      "Kalshi"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T16:14:34.000Z"
-  },
-  {
-    "id": "b523504bed7c7cf4",
-    "slug": "gemini-4-argon-beats-claude-opus-5-5-in-a-3d-animation-test-for-less-than-a-quarter-of-the-cost",
-    "title": "Gemini 4 Argon beats Claude Opus 5.5 in a 3D animation test for less than a quarter of the cost",
-    "tags": [
-      "Gemini 4 Argon",
-      "Claude Opus 5.5"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T16:08:21.000Z"
-  },
-  {
-    "id": "4743c056bbbc4c18",
-    "slug": "circle-s-cctp-passes-100-million-in-cross-chain-volume-for-non-usdc-assets",
-    "title": "Circle’s CCTP passes $100 million in cross-chain volume for non-USDC assets",
-    "tags": [
-      "Circle"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T16:07:31.000Z"
-  },
-  {
-    "id": "2a8c0a40c51cef65",
-    "slug": "the-one-stock-jim-cramer-calls-his-only-trust-crashes-15",
-    "title": "The One Stock Jim Cramer Calls His Only Trust Crashes 15%",
-    "tags": [
-      "CoreWeave",
-      "Jim Cramer"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T16:05:52.000Z"
-  },
-  {
-    "id": "c3cd7e76111bfb2d",
-    "slug": "visa-secures-china-card-business-green-light",
-    "title": "Visa secures China card business green light",
-    "tags": [
-      "Visa",
-      "People's Bank of China",
-      "China",
-      "United States"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T16:04:00.000Z"
-  },
-  {
-    "id": "1ff207012e169e15",
-    "slug": "ethereum-whale-lands-17-786-gains-in-nine-years",
-    "title": "Ethereum Whale Lands 17,786% Gains in Nine Years",
-    "tags": [
-      "Ethereum"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T16:02:26.000Z"
-  },
-  {
-    "id": "2e23d6aed6704006",
-    "slug": "claude-haiku-5-5-lands-at-27-in-agent-arena-on-a-budget",
-    "title": "Claude Haiku 5.5 lands at #27 in Agent Arena on a budget",
-    "tags": [
-      "Claude Haiku 5.5",
-      "Agent Arena"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T16:00:48.000Z"
-  },
-  {
-    "id": "3eee272fd8b5fcbd",
-    "slug": "strive-adds-3311-bitcoin-can-its-saylor-backed-15-dividend-offering-fund-more",
-    "title": "Strive adds 3311 Bitcoin – Can its Saylor backed 15% dividend offering fund more?",
-    "tags": [
-      "Strive",
-      "Bitcoin",
-      "Saylor"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T16:00:39.000Z"
-  },
-  {
-    "id": "ff0156d29f2930f7",
-    "slug": "comptroller-gould-discusses-findings-of-debanking-report",
-    "title": "Comptroller Gould Discusses Findings of Debanking Report",
-    "tags": [
-      "Jonathan V. Gould",
-      "Office of the Comptroller of the Currency",
-      "Kentucky",
-      "Lexington"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T16:00:00.000Z"
-  },
-  {
-    "id": "b8729ee0606900cb",
-    "slug": "stripe-and-fedex-lock-onto-shipping-data-as-a-business-health-signal",
-    "title": "Stripe and FedEx Lock Onto Shipping Data as a Business Health Signal",
-    "tags": [
-      "Stripe",
-      "FedEx"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T15:58:22.000Z"
-  },
-  {
-    "id": "30d2422966626447",
-    "slug": "toobit-brings-trading-automation-to-users-with-algoway-integration",
-    "title": "Toobit Brings Trading Automation to Users With AlgoWay Integration",
-    "tags": [
-      "Toobit",
-      "AlgoWay",
-      "TradingView",
-      "Telegram"
-    ],
-    "source": "ZyCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T15:57:52.000Z"
-  },
-  {
-    "id": "cbd03da2844874bd",
-    "slug": "stellar-xlm-lands-chainlink-to-wake-up-3-5-billion-in-tokenized-real-world-assets",
-    "title": "Stellar (XLM) Lands Chainlink to Wake Up $3.5 Billion in Tokenized Real-World Assets",
-    "tags": [
-      "Stellar",
-      "Chainlink",
-      "Ethereum"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T15:36:15.000Z"
-  },
-  {
-    "id": "dd0005be298ffd03",
-    "slug": "ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
-    "title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
-    "tags": [
-      "Chainalysis",
-      "United States",
-      "China"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T15:35:36.000Z"
-  },
-  {
-    "id": "9eb64bbda80c20e4",
-    "slug": "sectora-foundation-announces-final-testing-of-four-products-and-sect-token-availability-on-uniswap",
-    "title": "Sectora Foundation Announces Final Testing of Four Products and $SECT Token Availability on Uniswap",
-    "tags": [
-      "Sectora Foundation",
-      "SECT",
-      "Uniswap",
-      "Ethereum"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T15:35:06.000Z"
-  },
-  {
-    "id": "d3e2bd410a41590b",
-    "slug": "starling-becomes-first-bank-to-train-ai-model-on-uk-sovereign-cloud",
-    "title": "Starling becomes first bank to train AI model on UK sovereign cloud",
-    "tags": [
-      "Starling",
-      "Nvidia",
-      "United Kingdom"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T15:32:00.000Z"
-  },
-  {
-    "id": "edda121c4942b25b",
-    "slug": "mollie-recruits-founding-team-for-ai-financial-layer",
-    "title": "Mollie Recruits Founding Team for AI Financial Layer",
-    "tags": [
-      "Mollie"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T15:31:55.000Z"
-  },
-  {
-    "id": "42ee2ae1fc939a9a",
-    "slug": "bitcoin-fog-operator-s-conviction-upheld-without-chainalysis-disclosing-source-code",
-    "title": "Bitcoin Fog operator’s conviction upheld without Chainalysis disclosing source code",
-    "tags": [
-      "Bitcoin Fog",
-      "Chainalysis"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T15:30:57.000Z"
-  },
-  {
-    "id": "bbabeab33659be45",
-    "slug": "bank-of-america-whittles-fine-down-to-1-21bn-how-it-did-it",
-    "title": "Bank of America Whittles Fine Down to $1.21bn: How it Did It",
-    "tags": [
-      "Bank of America"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T15:30:29.000Z"
   }
 ]
