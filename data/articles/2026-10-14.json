@@ -451,5 +451,330 @@
     "isDuplicateOf": null,
     "content": null,
     "slug": "clearpool-launches-redesigned-dapp-with-swap-tool-for-cpool-to-clear-migration"
+  },
+  {
+    "id": "0927ab2dd5dcbfbc",
+    "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+    "summary": "Coinbase says bitcoin should start preparing for quantum computers now, with flexible addresses, a backup quantum-proof key and a separate debate over lost coins.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
+    "source": "CoinDesk",
+    "tags": [
+      "Coinbase",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T05:44:51.000Z",
+    "fetchedAt": "2026-10-14T06:01:29.394Z",
+    "isDuplicateOf": null,
+    "content": "Cryptocurrency exchange Coinbase has called for immediate preparation against future quantum computing threats. Holding a significant portion of all Bitcoin, the company recommends implementing flexible addresses, establishing backup quantum-proof keys, and initiating separate discussions regarding lost coins to secure the network long-term.",
+    "content_ta": "எதிர்கால குவாண்டம் கம்ப்யூட்டிங் அச்சுறுத்தல்களுக்கு எதிராக உடனடியாக தயாராகுமாறு கிரிப்டோகரன்சி எக்ஸ்சேஞ்சான Coinbase கோரிக்கை விடுத்துள்ளது. அனைத்து Bitcoin-களில் குறிப்பிடத்தக்க பகுதியை வைத்துள்ள இந்நிறுவனம், நெட்வொர்க்கை நீண்டகாலம் பாதுகாக்க நெகிழ்வான முகவரிகள், காப்புப் பிரதி குவாண்டம்-ப்ரூஃப் சாவிகள் மற்றும் இழந்த நாணயங்கள் பற்றிய விவாதங்களை தொடங்க வேண்டும் என்று பரிந்துரைக்கிறது.",
+    "slug": "coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now"
+  },
+  {
+    "id": "2226566f31e038d7",
+    "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+    "summary": "The switch will replace Solana’s existing validator voting system, remove vote transactions from blocks and could sharply change headline transaction counts even if user activity stays flat.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+    "source": "CoinDesk",
+    "tags": [
+      "Solana"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T04:11:16.000Z",
+    "fetchedAt": "2026-10-14T06:01:29.394Z",
+    "isDuplicateOf": null,
+    "content": "Solana has scheduled the Alpenglow upgrade for October 21, aiming to achieve a 150-millisecond transaction finality. The upcoming switch will replace the network's existing validator voting system and remove vote transactions directly from blocks. These changes could significantly impact headline transaction counts, even if overall user activity on the blockchain remains unchanged.",
+    "content_ta": "Solana-ன் Alpenglow மேம்படுத்தல் அக்டோபர் 21 அன்று நடைபெற உள்ளது, இது 150-மில்லி விநாடிகளில் பரிவர்த்தனைகளை உறுதி செய்வதை நோக்கமாகக் கொண்டுள்ளது. இந்த புதிய மாற்றம் நெட்வொர்க்கின் தற்போதைய வேலிடேட்டர் வாக்களிப்பு முறையை மாற்றியமைத்து, பிளாக்குகளில் இருந்து வோட் பரிவர்த்தனைகளை நீக்கும். பயனர்களின் செயல்பாடு மாறாமல் இருந்தாலும், ஒட்டுமொத்த பரிவர்த்தனை எண்ணிக்கையில் இது குறிப்பிடத்தக்க மாற்றங்களை ஏற்படுத்தக்கூடும்.",
+    "slug": "solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality"
+  },
+  {
+    "id": "9111b375e451b557",
+    "title": "Starknet introduces wallet privacy feature for DeFi activity",
+    "summary": "Starknet’s Shadow Accounts allow users to obscure connections between their main wallets and DeFi activity, though transactions remain visible onchain.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Starknet"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T05:32:14.000Z",
+    "fetchedAt": "2026-10-14T06:01:29.394Z",
+    "isDuplicateOf": null,
+    "content": "Starknet has launched a new privacy feature called Shadow Accounts to enhance user anonymity within decentralized finance. This tool enables users to decouple their main wallets from specific DeFi interactions, providing a layer of obfuscation for their onchain activity. While the privacy mechanism masks the link between wallets, Starknet clarified that all individual transactions will continue to remain transparently visible on the public blockchain ledger.",
+    "content_ta": "Starknet நிறுவனம் தனது பிளாட்ஃபார்மில் 'Shadow Accounts' என்ற புதிய தனியுரிமை அம்சத்தை அறிமுகப்படுத்தியுள்ளது. இதன் மூலம் பயனர்கள் தங்கள் முதன்மை வாலெட்டுகளை DeFi செயல்பாடுகளிலிருந்து மறைத்து வைக்க முடியும். இந்த தொழில்நுட்பம் பயனர்களின் முகவரிகளுக்கு இடையிலான தொடர்பை மறைத்தாலும், Starknet பிளாக்செயினில் அனைத்து பரிவர்த்தனைகளும் பொதுவில் தொடர்ந்து தெரியும் என்று நிறுவனம் தெரிவித்துள்ளது.",
+    "slug": "starknet-introduces-wallet-privacy-feature-for-defi-activity"
+  },
+  {
+    "id": "0f3b6d9539cbe0c4",
+    "title": "Fed’s Williams sees AI supply squeeze lasting beyond 2 years",
+    "summary": "New York Fed President John Williams’ comments came as he reaffirmed his view that the US Federal Reserve may need to raise interest rates once more this year.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Federal Reserve",
+      "John Williams",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T05:30:10.000Z",
+    "fetchedAt": "2026-10-14T06:01:29.394Z",
+    "isDuplicateOf": null,
+    "content": "New York Fed President John Williams has indicated that supply constraints driven by advancements in artificial intelligence could persist for over two years. Amid these structural economic challenges, Williams maintained his position that the United States Federal Reserve might need to implement at least one additional interest rate hike before the end of the year to address ongoing inflationary pressures and stabilize the broader economy.",
+    "content_ta": "நியூயார்க் Fed தலைவர் John Williams, செயற்கை நுண்ணறிவு தொழில்நுட்ப வளர்ச்சியால் ஏற்படும் விநியோகச் சங்கிலி சிக்கல்கள் அடுத்த இரண்டு ஆண்டுகளுக்கு மேல் நீடிக்க வாய்ப்புள்ளதாகக் குறிப்பிட்டுள்ளார். இத்தகைய பொருளாதார சவால்களுக்கு மத்தியில், பணவீக்கத்தைக் கட்டுப்படுத்தவும் பொருளாதாரத்தைச் சீராக்கவும் இந்த ஆண்டில் அமெரிக்காவின் Federal Reserve வட்டி விகிதத்தை மேலும் ஒருமுறை உயர்த்த வேண்டிய அவசியம் ஏற்படலாம் என்று அவர் மீண்டும் வலியுறுத்தியுள்ளார்.",
+    "slug": "fed-s-williams-sees-ai-supply-squeeze-lasting-beyond-2-years"
+  },
+  {
+    "id": "a2c4707d6b1a2674",
+    "title": "South Korea locks out crypto users as 27 exchange sites go dark",
+    "summary": "FIU plans withdrawal guidance through DAXA with operators’ cooperation as website restrictions raise access concerns for existing users.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/south-korea-locks-out-crypto-users-as-27-exchange-sites-go-dark/",
+    "source": "CryptoSlate",
+    "tags": [
+      "South Korea",
+      "Financial Intelligence Unit",
+      "Digital Asset eXchange Association"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T04:30:38.000Z",
+    "fetchedAt": "2026-10-14T06:01:29.394Z",
+    "isDuplicateOf": null,
+    "content": "South Korean financial authorities have moved to restrict access to 27 cryptocurrency exchange websites. The Financial Intelligence Unit is coordinating with the Digital Asset eXchange Association to provide guidance on user fund withdrawals. These site closures have raised significant concerns regarding how existing users can access their holdings. Authorities are currently focusing on managing the process to ensure users are protected during this transition period following the regulatory crackdowns.",
+    "content_ta": "தென் கொரிய நிதி அதிகாரிகள் 27 கிரிப்டோகரன்சி பரிவர்த்தனை இணையதளங்களுக்கான அணுகலைத் தடுத்துள்ளனர். Financial Intelligence Unit மற்றும் Digital Asset eXchange Association ஆகியவை இணைந்து பயனர்கள் தங்கள் பணத்தை திரும்பப் பெறுவது தொடர்பான வழிகாட்டுதல்களை வழங்க திட்டமிட்டுள்ளன. இந்த இணையதள முடக்கங்கள், ஏற்கனவே உள்ள பயனர்கள் தங்கள் முதலீடுகளை எவ்வாறு அணுகுவது என்பது குறித்த கவலையை ஏற்படுத்தியுள்ளன. ஒழுங்குமுறை நடவடிக்கைகளைத் தொடர்ந்து, பயனர்களின் நலனைப் பாதுகாக்கும் பணிகளில் அதிகாரிகள் ஈடுபட்டுள்ளனர்.",
+    "slug": "south-korea-locks-out-crypto-users-as-27-exchange-sites-go-dark"
+  },
+  {
+    "id": "84ced3f5b0488762",
+    "title": "Bybit Expands Beyond Crypto as CEO Outlines Next Phase of Financial Platform",
+    "summary": "[PRESS RELEASE – Dubai, United Arab Emirates, October 13th, 2026] Bybit Co-founder and CEO Ben Zhou has outlined the latest stage of the company’s expansion from a crypto exchange into The New Financial Platform, highlighting new products and collaborations across traditional and digital markets. The updates were presented during Bybit’s latest biannual “Keynote with Ben” […]",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/bybit-expands-beyond-crypto-as-ceo-outlines-next-phase-of-financial-platform/",
+    "source": "CryptoPotato",
+    "tags": [
+      "Bybit",
+      "Ben Zhou"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T05:38:55.000Z",
+    "fetchedAt": "2026-10-14T06:01:29.394Z",
+    "isDuplicateOf": null,
+    "content": "Bybit Co-founder and CEO Ben Zhou has announced the company's evolution from a dedicated crypto exchange into a broader financial platform. During the biannual Keynote with Ben, the company outlined its strategic shift to incorporate both traditional and digital market products. This expansion marks a significant milestone in Bybit’s growth as it looks to integrate diverse financial services for its global user base moving forward.",
+    "content_ta": "Bybit நிறுவனத்தின் இணை நிறுவனர் மற்றும் CEO Ben Zhou, அந்த நிறுவனம் ஒரு கிரிப்டோ பரிமாற்றத்திலிருந்து விரிவான நிதி தளமாக மாறுவதை அறிவித்துள்ளார். 'Keynote with Ben' என்ற நிகழ்ச்சியில், பாரம்பரிய மற்றும் டிஜிட்டல் சந்தை தயாரிப்புகளை ஒருங்கிணைக்கும் நிறுவனத்தின் புதிய வியூகம் குறித்து விளக்கப்பட்டது. தனது உலகளாவிய பயனர்களுக்காக பல்வேறு நிதி சேவைகளை உள்ளடக்கிய இந்த மாற்றம், Bybit நிறுவனத்தின் வளர்ச்சியில் ஒரு முக்கிய மைல்கல்லாகக் கருதப்படுகிறது.",
+    "slug": "bybit-expands-beyond-crypto-as-ceo-outlines-next-phase-of-financial-platform"
+  },
+  {
+    "id": "3e8830da169b133c",
+    "title": "Sberbank Moves Closer to Crypto Trading Launch After Bank of Russia Approval",
+    "summary": "The bank said the launch date depends on two things. One is the central bank's decision on its application. The other is the readiness of the regulations that put the law into effect.",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/sberbank-moves-closer-to-crypto-trading-launch-after-bank-of-russia-approval/",
+    "source": "CryptoPotato",
+    "tags": [
+      "Sberbank",
+      "Bank of Russia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T04:08:12.000Z",
+    "fetchedAt": "2026-10-14T06:01:29.394Z",
+    "isDuplicateOf": null,
+    "content": "Sberbank is nearing the launch of its cryptocurrency trading platform following initial approval from the Bank of Russia. The bank clarified that the official start date remains contingent on final regulatory decisions and the implementation of specific legislative frameworks. These factors will determine when the bank can fully integrate digital asset services for its customers.",
+    "content_ta": "Bank of Russia-விடம் இருந்து ஆரம்பகட்ட அனுமதி கிடைத்ததைத் தொடர்ந்து, Sberbank தனது கிரிப்டோகரன்சி வர்த்தக தளத்தைத் தொடங்குவதற்கான முயற்சியில் ஈடுபட்டுள்ளது. மத்திய வங்கியின் இறுதி முடிவு மற்றும் இதற்கான சட்ட விதிமுறைகள் நடைமுறைக்கு வருவதைப் பொறுத்தே இந்தச் சேவை தொடங்கும் தேதி அமையும் என்று அந்த வங்கி தெரிவித்துள்ளது.",
+    "slug": "sberbank-moves-closer-to-crypto-trading-launch-after-bank-of-russia-approval"
+  },
+  {
+    "id": "72b605719c3d3076",
+    "title": "Will Bitmine outperform expected crypto bull market after acquiring another 12,532 ETH?",
+    "summary": "Can ETH's market volatility complicate its ambitious roadmap?",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/will-bitmine-outperform-expected-crypto-bull-market-after-acquiring-another-12532-eth/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Bitmine",
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T06:00:34.000Z",
+    "fetchedAt": "2026-10-14T06:01:29.394Z",
+    "isDuplicateOf": null,
+    "content": "Bitmine has significantly expanded its holdings by acquiring 12,532 ETH. This strategic move aims to position the company for strong performance during the anticipated cryptocurrency bull market. However, industry analysts are questioning whether the inherent volatility associated with Ethereum could hinder the firm's ambitious long-term roadmap. Investors are now closely monitoring how these substantial acquisitions will influence Bitmine's stability and overall market strategy moving forward.",
+    "content_ta": "Bitmine நிறுவனம் 12,532 ETH-ஐ வாங்கியதன் மூலம் தனது முதலீடுகளை கணிசமாக அதிகரித்துள்ளது. வரவிருக்கும் சந்தை உயர்வைப் பயன்படுத்தி லாபமடைய இந்த நிறுவனம் திட்டமிட்டுள்ளது. இருப்பினும், Ethereum சந்தையில் நிலவும் கடும் விலை மாற்றங்கள், நிறுவனத்தின் எதிர்காலத் திட்டங்களுக்கு சவாலாக அமையுமா என்ற கேள்வி எழுந்துள்ளது. இந்த பெரிய அளவிலான முதலீடு Bitmine-ன் சந்தை நிலைத்தன்மையை எவ்வாறு பாதிக்கும் என்பதை முதலீட்டாளர்கள் உன்னிப்பாக கவனித்து வருகின்றனர்.",
+    "slug": "will-bitmine-outperform-expected-crypto-bull-market-after-acquiring-another-12-532-eth"
+  },
+  {
+    "id": "213c744baef1a5b1",
+    "title": "Wormhole drops 34%: Are W crypto shorts now overcrowded?",
+    "summary": "The recovery case exists, but the Funding Rate is asking traders to slow down.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/wormhole-drops-34-are-w-crypto-shorts-now-overcrowded/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Wormhole"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T04:00:07.000Z",
+    "fetchedAt": "2026-10-14T06:01:29.394Z",
+    "isDuplicateOf": null,
+    "content": "Wormhole's W token recently experienced a 34% price drop, sparking debate over whether short positions have become overcrowded. While a potential recovery remains possible, current market data suggests caution. The high Funding Rate indicates that traders may need to slow down their bearish bets. Analysts are closely monitoring price action to see if the asset can stabilize or if further downward pressure is likely in the near term.",
+    "content_ta": "Wormhole-இன் W டோக்கன் விலை சமீபத்தில் 34% சரிந்ததையடுத்து, சந்தையில் முதலீட்டாளர்கள் குறுகிய கால விற்பனை (short positions) செய்வதில் அதிக ஆர்வம் காட்டுகிறார்களா என்ற விவாதம் எழுந்துள்ளது. மீட்சியடைவதற்கான வாய்ப்புகள் இருந்தாலும், தற்போதைய சந்தை தரவுகள் எச்சரிக்கையுடன் செயல்பட அறிவுறுத்துகின்றன. அதிக Funding Rate நிலவுவது, வர்த்தகர்கள் தங்கள் விற்பனை உத்திகளைக் குறைத்துக்கொள்ள வேண்டும் என்பதையே காட்டுகிறது. W டோக்கன் மீளுமா அல்லது விலை மேலும் குறையுமா என்பதை சந்தை ஆய்வாளர்கள் கூர்ந்து கவனித்து வருகின்றனர்.",
+    "slug": "wormhole-drops-34-are-w-crypto-shorts-now-overcrowded"
+  },
+  {
+    "id": "6113cce0fe45d3d1",
+    "title": "Bank of America Heads Into Q3 Earnings Carrying a $1.2 Billion Treasury Penalty",
+    "summary": "Bank of America received a $1.2 billion bill from the US Treasury a day before its earnings report. On Tuesday, the Treasury hit the second-largest US bank with more than $1.21 billion in anti-money-laundering and sanctions penalties. The bank said the charge will cut third-quarter net income by about 17 cents per share. A $1.2\nThe post Bank of America Heads Into Q3 Earnings Carrying a $1.2 Billion Treasury Penalty appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/bank-of-america-treasury-fine-earnings/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Bank of America",
+      "United States",
+      "US Treasury"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T04:58:10.000Z",
+    "fetchedAt": "2026-10-14T06:01:29.394Z",
+    "isDuplicateOf": null,
+    "content": "Bank of America faces a significant financial setback after the US Treasury imposed $1.21 billion in penalties for anti-money-laundering and sanctions violations. The penalty arrived shortly before the company's third-quarter earnings report, which the bank expects will reduce net income by approximately 17 cents per share. This regulatory enforcement highlights ongoing compliance challenges for major financial institutions operating within the United States.",
+    "content_ta": "Bank of America நிறுவனம், பணமோசடி தடுப்பு மற்றும் தடைகளை மீறியதற்காக US Treasury விதித்த 1.21 பில்லியன் டாலர் அபராதத்தை எதிர்கொண்டுள்ளது. நிறுவனத்தின் மூன்றாவது காலாண்டு வருவாய் அறிக்கை வெளியாவதற்கு சற்று முன்பு இந்த அபராதம் விதிக்கப்பட்டது. இதனால் ஒரு பங்கின் நிகர வருமானம் சுமார் 17 சென்ட்கள் குறையும் என்று எதிர்பார்க்கப்படுகிறது. அமெரிக்காவில் செயல்படும் முன்னணி நிதி நிறுவனங்கள் சந்திக்கும் விதிமுறை இணக்க சவால்களை இந்த நடவடிக்கை வெளிப்படுத்துகிறது.",
+    "slug": "bank-of-america-heads-into-q3-earnings-carrying-a-1-2-billion-treasury-penalty"
+  },
+  {
+    "id": "ba36f888ec90eec2",
+    "title": "Timmer: Investment Clock Hits ‘Past Midnight’ Zone Seen Before 2018, 2022 Slumps",
+    "summary": "Fidelity’s Jurrien Timmer says the Investment Clock moved ‘past midnight,’ a zone last seen before the 2018 and 2022 slumps.\nThe post Timmer: Investment Clock Hits ‘Past Midnight’ Zone Seen Before 2018, 2022 Slumps appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/timmer-investment-clock-past-midnight-zone/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Fidelity",
+      "Jurrien Timmer"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T04:55:00.000Z",
+    "fetchedAt": "2026-10-14T06:01:29.394Z",
+    "isDuplicateOf": null,
+    "content": "Fidelity’s Jurrien Timmer has observed that the investment clock has moved into the 'past midnight' phase. This specific zone was previously identified before the market slumps experienced in 2018 and 2022. This indicator suggests investors should remain cautious as current market conditions appear to mirror previous periods of significant downturns, signaling a potential shift in the economic climate according to historical data patterns observed by the analyst.",
+    "content_ta": "Fidelity நிறுவனத்தின் Jurrien Timmer, முதலீட்டு கடிகாரம் 'நள்ளிரவைத் தாண்டிய' நிலையை எட்டியுள்ளதாகக் குறிப்பிட்டுள்ளார். 2018 மற்றும் 2022-ஆம் ஆண்டுகளில் சந்தை வீழ்ச்சியடைவதற்கு முன்பு இதே போன்ற ஒரு சூழல் நிலவியது. வரலாற்று தரவுகளின் அடிப்படையில், தற்போதைய சந்தை சூழல் முந்தைய வீழ்ச்சிக் காலங்களை ஒத்திருப்பதால், முதலீட்டாளர்கள் கவனமாக இருக்க வேண்டும் என்று இந்த ஆய்வாளர் எச்சரிக்கிறார்.",
+    "slug": "timmer-investment-clock-hits-past-midnight-zone-seen-before-2018-2022-slumps"
+  },
+  {
+    "id": "8125ea7d1a0fd9d5",
+    "title": "Iran Wants Higher Oil Before the Midterms: Can Trump Stop $100 Crude?",
+    "summary": "Iran is targeting ships to keep oil prices high before the midterms. See what $100 crude could mean for Trump's party.\nThe post Iran Wants Higher Oil Before the Midterms: Can Trump Stop $100 Crude? appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/iran-higher-oil-before-midterms-trump/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Iran",
+      "United States",
+      "Donald Trump"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T04:25:21.000Z",
+    "fetchedAt": "2026-10-14T06:01:29.394Z",
+    "isDuplicateOf": null,
+    "content": "Iran is reportedly aiming to influence oil markets by targeting shipping routes to push prices higher ahead of the United States midterm elections. Analysts are observing whether these rising costs could lead to crude oil prices reaching $100 per barrel. This situation presents a significant challenge for the Trump administration as they navigate the potential economic and political consequences of energy price volatility on the upcoming elections.",
+    "content_ta": "அமெரிக்காவின் இடைக்காலத் தேர்தலுக்கு முன்னதாக, கச்சா எண்ணெய் விலையை உயர்த்துவதற்காக ஈரான் கப்பல் போக்குவரத்துப் பாதைகளை குறிவைப்பதாக தகவல்கள் தெரிவிக்கின்றன. கச்சா எண்ணெய் விலை ஒரு பீப்பாய்க்கு $100 என்ற அளவை எட்டுமா என்பது குறித்து ஆய்வாளர்கள் கவனித்து வருகின்றனர். எரிசக்தி விலை உயர்வு, வரவிருக்கும் தேர்தல்களில் Trump நிர்வாகத்திற்கு பெரும் பொருளாதார மற்றும் அரசியல் சவால்களை உருவாக்கக்கூடும்.",
+    "slug": "iran-wants-higher-oil-before-the-midterms-can-trump-stop-100-crude"
+  },
+  {
+    "id": "1e97380de77005d1",
+    "title": "Princeton Digital Group seeks up to $1.2 billion loan for Malaysia data centers",
+    "summary": "The loan could significantly boost Malaysia's data infrastructure, enhancing regional digital connectivity and economic growth prospects.\nThe post Princeton Digital Group seeks up to $1.2 billion loan for Malaysia data centers appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/princeton-digital-group-malaysia-data-center-loan/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Princeton Digital Group",
+      "Malaysia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T05:03:54.000Z",
+    "fetchedAt": "2026-10-14T06:01:29.394Z",
+    "isDuplicateOf": null,
+    "content": "Princeton Digital Group is reportedly seeking a loan of up to $1.2 billion to fund the expansion of its data center operations in Malaysia. This significant financial move aims to bolster the region's digital infrastructure, potentially enhancing connectivity and supporting long-term economic growth within the country's growing technology sector. The company continues to prioritize development across Southeast Asia to meet increasing demand for robust data capacity.",
+    "content_ta": "Princeton Digital Group நிறுவனம் மலேசியாவில் தனது தரவு மைய செயல்பாடுகளை விரிவுபடுத்துவதற்காக 1.2 பில்லியன் டாலர் வரை கடன் பெற முயற்சிப்பதாக தகவல்கள் தெரிவிக்கின்றன. இந்த நிதி நடவடிக்கை இப்பகுதியின் டிஜிட்டல் கட்டமைப்பை வலுப்படுத்தவும், நாட்டின் வளர்ந்து வரும் தொழில்நுட்பத் துறையில் பொருளாதார வளர்ச்சியை ஊக்குவிக்கவும் உதவும் என எதிர்பார்க்கப்படுகிறது. தரவுத் தேவை அதிகரித்து வரும் சூழலில், தென்கிழக்கு ஆசியாவில் தனது உள்கட்டமைப்பை மேம்படுத்துவதற்கு நிறுவனம் முன்னுரிமை அளித்து வருகிறது.",
+    "slug": "princeton-digital-group-seeks-up-to-1-2-billion-loan-for-malaysia-data-centers"
+  },
+  {
+    "id": "5ab6692de5c6f980",
+    "title": "China’s exports surge 36% as AI-related shipments boom",
+    "summary": "China's export surge highlights the critical role of AI hardware in global trade, potentially prompting shifts in international trade policies.\nThe post China’s exports surge 36% as AI-related shipments boom appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/china-exports-surge-ai-shipments-boom/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "China"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T03:05:38.000Z",
+    "fetchedAt": "2026-10-14T06:01:29.394Z",
+    "isDuplicateOf": null,
+    "content": "China has reported a significant 36% surge in export growth, largely driven by a global demand for AI-related hardware and technology components. This sharp increase underscores China's pivotal position in the international supply chain for artificial intelligence development. Analysts suggest this trend may influence future global trade policies as nations monitor the impact of AI infrastructure on cross-border commerce.",
+    "content_ta": "AI சார்ந்த வன்பொருள் மற்றும் தொழில்நுட்ப கூறுகளுக்கான உலகளாவிய தேவை காரணமாக சீனாவின் ஏற்றுமதி 36% அதிகரித்துள்ளதாக அறிக்கை வெளியாகியுள்ளது. செயற்கை நுண்ணறிவு மேம்பாட்டிற்கான சர்வதேச விநியோகச் சங்கிலியில் சீனாவின் முக்கிய பங்கை இந்த வளர்ச்சி உறுதிப்படுத்துகிறது. AI உள்கட்டமைப்பு சர்வதேச வர்த்தகத்தில் ஏற்படுத்தும் தாக்கத்தை நாடுகள் கண்காணித்து வருவதால், இந்த போக்கு எதிர்கால உலகளாவிய வர்த்தகக் கொள்கைகளை மாற்றக்கூடும் என்று ஆய்வாளர்கள் கருதுகின்றனர்.",
+    "slug": "china-s-exports-surge-36-as-ai-related-shipments-boom"
+  },
+  {
+    "id": "59095dd2e3b69479",
+    "title": "Airtel Money Prices LSE Listing at $7bn on Institutional Demand",
+    "summary": "Airtel Africa's mobile money arm raised $700m in a London secondary offering backed by the IFC, TPG, Mastercard and Qatar's sovereign wealth fund.\nThe post Airtel Money Prices LSE Listing at $7bn on Institutional Demand appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/airtel-money-prices-lse-listing-at-7bn-on-institutional-demand/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Airtel Africa",
+      "London Stock Exchange",
+      "IFC",
+      "TPG",
+      "Mastercard"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T05:00:14.000Z",
+    "fetchedAt": "2026-10-14T06:01:29.394Z",
+    "isDuplicateOf": null,
+    "content": "Airtel Africa has successfully priced the London Stock Exchange listing of its mobile money division at $7 billion. This secondary offering raised $700 million, bolstered by strong institutional demand. Key investors participating in the capital raise include the IFC, TPG, Mastercard, and the Qatar sovereign wealth fund. The move marks a significant milestone for the company’s expansion and valuation strategy within the African digital financial services market.",
+    "content_ta": "Airtel Africa நிறுவனம் தனது மொபைல் பணப் பரிவர்த்தனை பிரிவின் London Stock Exchange சந்தை மதிப்பீட்டை $7 பில்லியனாக நிர்ணயித்துள்ளது. வலுவான நிறுவன முதலீட்டாளர்களின் ஆதரவுடன், இந்த இரண்டாம் நிலை பங்கு வெளியீடு மூலம் $700 மில்லியன் திரட்டப்பட்டுள்ளது. IFC, TPG, Mastercard மற்றும் Qatar sovereign wealth fund ஆகிய முக்கிய முதலீட்டாளர்கள் இந்த முதலீட்டில் பங்கேற்றுள்ளனர். ஆப்பிரிக்காவின் டிஜிட்டல் நிதிச் சேவை சந்தையில் நிறுவனத்தின் விரிவாக்கத்திற்கும் மதிப்பீட்டிற்கும் இந்த நிகழ்வு ஒரு முக்கிய மைல்கல்லாகக் கருதப்படுகிறது.",
+    "slug": "airtel-money-prices-lse-listing-at-7bn-on-institutional-demand"
+  },
+  {
+    "id": "e9ab0e5d21c6ec2a",
+    "title": "ADIB Shareholders Approve AED 1.75bn Rights Issue for Growth Push",
+    "summary": "Abu Dhabi Islamic Bank will issue 106 million new shares at AED 16.45 each, raising capital to fund digital expansion and AI investment under\nThe post ADIB Shareholders Approve AED 1.75bn Rights Issue for Growth Push appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/adib-shareholders-approve-aed-1-75bn-rights-issue-for-growth-push/",
+    "source": "The Fintech Times",
+    "tags": [
+      "ADIB",
+      "Abu Dhabi"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T04:00:41.000Z",
+    "fetchedAt": "2026-10-14T06:01:29.394Z",
+    "isDuplicateOf": null,
+    "content": "ADIB shareholders have officially approved a AED 1.75 billion rights issue to support the bank's strategic growth. The capital raise involves issuing 106 million new shares priced at AED 16.45 each. This move aims to strengthen the bank's financial position, specifically funding digital transformation projects and investments in artificial intelligence, aligning with the bank's long-term expansion goals.",
+    "content_ta": "ADIB பங்குதாரர்கள் வங்கியின் வளர்ச்சித் திட்டங்களுக்காக AED 1.75 பில்லியன் மதிப்பிலான புதிய பங்குகளை வெளியிட அதிகாரப்பூர்வமாக ஒப்புதல் அளித்துள்ளனர். இந்த முதலீட்டுத் திட்டத்தின் கீழ், தலா AED 16.45 வீதம் 106 மில்லியன் புதிய பங்குகள் வெளியிடப்பட உள்ளன. வங்கியின் டிஜிட்டல் தொழில்நுட்ப மேம்பாடு மற்றும் செயற்கை நுண்ணறிவு சார்ந்த முதலீடுகளை விரிவுபடுத்துவதே இந்த நிதி திரட்டும் நடவடிக்கையின் முக்கிய நோக்கமாகும்.",
+    "slug": "adib-shareholders-approve-aed-1-75bn-rights-issue-for-growth-push"
+  },
+  {
+    "id": "c9770c5b180cfb62",
+    "title": "Ocrolus Adds Document Fraud Detection to Mortgage Workflows",
+    "summary": "Ocrolus, a vertical AI workflow and analytics platform for lenders, has announced that its document fraud detection solution, Ocrolus Detect, will now be included at no additional cost for all its mortgage customers. Ocrolus Detect reviews bank statements, pay stubs, and tax forms for tampering. Underwriters see the results of the review in the Ocrolus Read more...\nThe post Ocrolus Adds Document Fraud Detection to Mortgage Workflows appeared first on Finovate.",
+    "hasSummary": true,
+    "link": "https://finovate.com/ocrolus-adds-document-fraud-detection-to-mortgage-workflows/",
+    "source": "Finovate",
+    "tags": [
+      "Ocrolus"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-14T03:25:13.000Z",
+    "fetchedAt": "2026-10-14T06:01:29.394Z",
+    "isDuplicateOf": null,
+    "content": "Ocrolus, an AI-driven workflow and analytics platform for lenders, has integrated its document fraud detection solution, Ocrolus Detect, into its mortgage workflows. The tool is now available to all mortgage customers at no extra cost. It automatically inspects bank statements, tax forms, and pay stubs for signs of tampering, providing underwriters with clear analysis within the existing Ocrolus platform to streamline lending processes.",
+    "content_ta": "கடன் வழங்குபவர்களுக்கான AI தொழில்நுட்ப நிறுவனமான Ocrolus, தனது ஆவண மோசடி கண்டறியும் தீர்வான Ocrolus Detect-ஐ தனது அடமானப் பணிப்பாய்வுகளில் இணைத்துள்ளது. இந்த அம்சம் இப்போது அனைத்து அடமான வாடிக்கையாளர்களுக்கும் கூடுதல் கட்டணமின்றி கிடைக்கிறது. இது வங்கி அறிக்கைகள், வரிப் படிவங்கள் மற்றும் சம்பள சீட்டுகளில் உள்ள முறைகேடுகளை தானாகவே ஆய்வு செய்கிறது. இதன் மூலம் கடன் மதிப்பீட்டாளர்கள் முறைகேடுகளை எளிதில் கண்டறிந்து, கடன் வழங்கும் செயல்முறையை துரிதப்படுத்த முடியும்.",
+    "slug": "ocrolus-adds-document-fraud-detection-to-mortgage-workflows"
   }
 ]
