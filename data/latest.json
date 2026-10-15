@@ -1,139 +1,467 @@
 [
   {
-    "id": "b8a349ffb263c6bd",
-    "title": "ByteDance reportedly in talks to buy MediaTek AI chips for data centers",
-    "summary": "ByteDance's diversification in AI chip sourcing highlights the strategic shift in global tech supply chains amid geopolitical tensions.\nThe post ByteDance reportedly in talks to buy MediaTek AI chips for data centers appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/bytedance-talks-mediatek-ai-chips-data-centers/",
+    "id": "19118424c1fe4120",
+    "slug": "headwinds-rotating-into-tailwinds-why-michael-saylor-is-positive-about-bitcoin-s-bull-market",
+    "title": "‘Headwinds rotating into tailwinds’ — Why Michael Saylor is positive about Bitcoin’s bull market",
+    "tags": [
+      "Bitcoin",
+      "Michael Saylor"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-15T06:00:27.000Z"
+  },
+  {
+    "id": "29312798aef0eeaa",
+    "slug": "south-korea-plans-cybersecurity-overhaul-after-attacks-hit-banks-crypto-firms",
+    "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
+    "tags": [
+      "South Korea"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-15T05:52:21.000Z"
+  },
+  {
+    "id": "8beabb42d896ca91",
+    "slug": "coreweave-ceo-points-to-104-2-billion-backlog-to-calm-staff-after-stock-and-bond-slide",
+    "title": "CoreWeave CEO points to $104.2 billion backlog to calm staff after stock and bond slide",
+    "tags": [
+      "CoreWeave"
+    ],
     "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-15T05:44:48.000Z"
+  },
+  {
+    "id": "11bf4b42f80e4cbd",
+    "title": "Interledger Foundation Takes Its First Steps to Bring Instant Payments to Community Lenders",
+    "summary": "The Interledger Foundation (ILF) is working with five community development financial institutions (CDFIs) and fintech organizations to lay the groundwork for instant payments adoption across community lending, where most institutions still run on rails that take days to settle. Large financial institutions have leveraged instant payments for years, accessing and deploying funds faster. Community-based lenders, though, have lagged, held back by technical, regulatory and resource barriers. Through five projects, Interledger Foundation is mapping those barriers to develop a roadmap that gives CDFIs and the borrowers they serve access to the same infrastructure.\nFedNow, the Federal Reserve's instant payment rail, lets financial institutions send and receive funds in seconds around the clock. While large banks have adopted it steadily, CDFIs, which have deployed $272 billion in cumulative financing to underserved communities, have been far slower to connect, with most still relying on infrastructure that settles in days rather than seconds. That gap means borrowers face loan disbursements that don't arrive when they need cash most and payment friction that pushes small businesses toward less favorable options. The regulatory environment is also shifting with the Federal Reserve's proposed skinny master account, a limited-access account that would include direct FedNow and Fedwire connectivity. If that eligibility broadens, it would give those institutions a direct route onto instant payment rails.\nAgainst this backdrop, ILF is coordinating an initiative across five community-based financial institutions to map what blocks the sector from reaching instant payment infrastructure and what becomes possible when those blocks are removed. The five organizations include:\nVillage Micro Fund — Connecting cooperative finance to modern payment rails. Village Micro Fund is examining whether cooperative finance models, including investment clubs and community savings pools, can be connected to modern payment rails without requiring participants to interact with cryptocurrency. The organization is researching how its platform, EnDAO, which allows community groups to pool and manage money with shared governance, can integrate with ACH, wire transfers and FedNow.\nKiva — Understanding whether frictionless payments would serve the community. Kiva is examining whether frictionless payments would change outcomes for Native entrepreneurs and Tribal communities, rather than assuming they would. Working with Native entrepreneurs, Tribal partners and Native-serving organizations, Kiva is conducting listening sessions to understand the barriers to affordable capital those communities face before making any technology decisions.\nAccess to Capital for Entrepreneurs (ACE) — Examining the link between payment infrastructure and credit qualification. ACE is exploring how open payments infrastructure can feed real-time cash flow data into its borrower portal in Georgia, building more secure, bank-connected payment functionality into its loan approval and repayment experience. The longer-term goal is underwriting approaches built on borrowers' real-time cash flow rather than historical averages, shifting criteria and making capital more accessible to borrowers historically marginalized by financial institutions.\nWashington Area Community Investment Fund (WACIF) — Mapping the repayment friction that instant payments could solve. WACIF is researching how entrepreneurs whose cash flow doesn't follow predictable monthly patterns experience the current loan repayment system, identifying where more flexible, real-time payment options could reduce the friction that pushes otherwise viable businesses toward default.\nAltCap — Building a modernization roadmap for post-closing payments. AltCap is building a modernization roadmap for post-closing payments for underserved small business owners in the Kansas City region, combining direct borrower feedback with an assessment of real-time payment options to produce a concrete plan for infrastructure improvement.\nThese projects are the first domestic application of the work Interledger Foundation has done since focusing internationally for years. Interledger Foundation's work centers on building the connections that allow payment systems to talk to each other, regardless of bank or network. Historically, it has applied that expertise to community-based financial institutions in Uganda, rural community banks in Mexico and payment ecosystems across Africa. This initiative extends that work to domestic community lending, where the same principles that have connected institutions abroad can address the payments infrastructure gap that has kept CDFIs and their borrowers off the same rails that large financial institutions have used for years.\n\"Community-based lenders have long operated on payment infrastructure that was never designed with them in mind,\" said Chris Lawrence, Chief Program Officer at Interledger Foundation. \"This initiative gives us the opportunity to understand precisely where those barriers are and ensure CDFIs are positioned to use the same instant payment rails that larger institutions have accessed for years, so the borrowers they serve can more seamlessly access financial services.\"\nThe findings from these five projects will feed directly into Interledger Foundation’s roadmap for community lender adoption of instant payment infrastructure, shaped by the borrowers and communities it is designed to serve. This cohort of organizations is only the first step in the organization's ongoing initiative to work with community-based financial institutions. \nNoYesPayments15 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/payments/interledger-foundation-takes-its-first-steps-bring-instant-payments-community-lenders",
+    "source": "Financial IT",
+    "tags": [
+      "Interledger Foundation",
+      "Village Micro Fund",
+      "Kiva",
+      "Access to Capital for Entrepreneurs",
+      "AltCap"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-15T05:36:36.000Z",
+    "fetchedAt": "2026-10-15T06:01:24.706Z",
+    "isDuplicateOf": null,
+    "content": "The Interledger Foundation is partnering with five community development financial institutions to help community lenders adopt instant payment infrastructure. Large financial institutions have used instant payments for years, but community lenders have lagged behind due to technical and resource barriers. This initiative aims to map these barriers and create a roadmap to give underserved communities and small businesses faster access to capital.",
+    "content_ta": "Interledger Foundation மற்றும் ஐந்து community development financial institutions இணைந்து community lenders உடனடி கட்டண முறைமை உள்கட்டமைப்பைப் பெற உதவுகின்றன. பெரிய நிதி நிறுவனங்கள் பல ஆண்டுகளாக உடனடி கட்டணங்களைப் பயன்படுத்தி வரும் நிலையில், தொழில்நுட்ப மற்றும் வளத் தடைகள் காரணமாக community lenders பின் தங்கியுள்ளன. இந்த முயற்சியானது அந்தத் தடைகளை அடையாளம் கண்டு, பின்தங்கிய சமூகங்களுக்கும் சிறு வணிகங்களுக்கும் விரைவாக நிதி கிடைக்க வழிவகை செய்வதை நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "interledger-foundation-takes-its-first-steps-to-bring-instant-payments-to-community-lenders"
+  },
+  {
+    "id": "54e203bfb56a46f3",
+    "slug": "bitwise-s-bitb-draws-2-2-million-as-us-bitcoin-etfs-shed-261-million",
+    "title": "Bitwise’s BITB draws $2.2 million as US Bitcoin ETFs shed $261 million",
+    "tags": [
+      "Bitwise",
+      "Bitcoin",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-15T05:36:23.000Z"
+  },
+  {
+    "id": "9818f65986b9ada1",
+    "slug": "polymarket-ceo-makes-the-case-for-prediction-markets-over-speculative-crypto-bets",
+    "title": "Polymarket CEO makes the case for prediction markets over speculative crypto bets",
+    "tags": [
+      "Polymarket"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-15T05:35:12.000Z"
+  },
+  {
+    "id": "64a90c4dd3afd802",
+    "title": "Celexa:  Order In Usa",
+    "summary": "Looking for celexa? Not a problem!\nhttps://jackieprovider.com/med/celexa    \nDiscreet Package  Low Prices  24/7/365 Customer Support  100% Satisfaction Guaranteed. \ncelexa buy prescription https://drugmedsmedia.top/celexa canada pharmacy celexa tablets quality drugs generic celexa lowest cost celexa online buy uk celexa buy celexa cod saturday delivery no prescription celexa in fresno celexa buys cod celexa online pharmacy cheap celexa purchases cod order celexa online no prescription best place to order celexa generic celexa guaranteed lowest price online consultation celexa order cod how to purchase celexa buy on-line celexa where can i buy celexa cod legal celexa for sale where to buy celexa prescription generic celexa cheap us celexa same day delivery comparison celexa price buy celexa online us pharmacy best celexa buy without prescription order real celexa cheap drug generic form of celexa cheap celexa with mastercard want to buy celexa mexican generic celexa cheapest place to buy celexa can i buy celexa cheap celexa with no prescriptions how to buy celexa order celexa online canada how to order celexa economical price for purchasing celexa no perscription celexa italia order celexa cheap prices celexa generic program online celexa without a prescription cheap celexa volume savings can i purchase celexa internet pharmacy celexa buy online where to purchase next celexa want to purchase celexa affordable cheap celexa generic canada the price for celexa celexa overnight us pharmacy celexa available as a generic buy medical celexa antidepressant buy buy cheap celexa online online celexa prescription us overnight celexa online no rx buy celexa pills no prescription cod celexa prescription canada store purchasing celexa buy generic celexa prescriptions buy where to buy next celexa brand celexa generic buy celexa visa celexa order in usa overnight delivery of celexa online can i order celexa buy celexa drug cheap celexa generic verision india generic celexa non rx cheap celexa celexa generic replacment where to order next celexa order celexa cash delivery order celexa online purchase canada celexa mail order medication buy celexa 20mg mastercard places you can buy celexa celexa generic in us delivery cheap celexa order online generic celexa pills want to order celexa purchase celexa usaThe shopping online has made individuals shopaholic and more folks are interested in buying through internet.  Patients may develop mood or behavioral changes, while using the this drug, thus their family and caregivers should be alert throughout the treatment.  headedness and throbbing headaches, in addition to extreme fatigue, sleeplessness, anxiety, and depression.  However, this is less common with bipolar II disorder compared to bipolar I disorder, due for the nature in the severity with the depressive states.  Consulting your physician if you might be feeling de-energizing symptoms and insufficient self satisfactin or any satisfaction is advised because there are medications available that can raise your chances of overall happyness.  \nAfter consulting with their health professional, many sufferers will likely be put with a course of antidepressants, but exactly how effective are these drugs.  If one does require assistance of antidepressant drugs, it is important to observe that these drugs contain no nutrients, so the must replenish postpartum nutrient reserves still exists and needs to be addressed.  It is not important that everyone are experiencing the unwanted effects of this medication since it depends on various factors and you can find a lots of chances that most with the people will be capable of easily tolerate them.  The usage of serotonin reuptake inhibitors can be beneficial in managing the impulsive behavior of the person as in other impulse control disorder.  Counsellors and parents alike mustn't just stop the behaviour; rather, they must educate the teens about themselves and let them know about having accurate perceptions of themselves as well as the world around them.  It can be a prescription medicine used for the management of depression.  \nIt is essential for recovering alcoholics to help keep busy and structure their time.  At the speed medications are distributed, through the time this information reaches you, I.  Our products are made in India by pharmaceutical manufacturers in state-of-the-art manufacturing facilities.  So, to obtain rid of depression and live an easy life buy Lexapro and move forward.  In some recent researches, it's also been proved the drug may be very risky and might cause birth defects.  \nIt may be the greatest treatment to have happen to you.  Keep up all scheduled appointments strictly, especially for your first 12 weeks of treatment.  Placebo-controlled trial of fluoxetine being an adjunct to relapse prevention in.  If we didn't use the weighted vest, he still seemed calmer.  Developed through the Danish pharmaceutical company Lundbeck, Escitalopram was introduced on the U.  \nTo conclude, all SSRI drugs have the same mechanism of action about the brain, but why these are so different when it comes to efficacy, dosage, and side-effects remains one with the countless mysteries in the brain.  Employ using warning throughout people which has a record involving mania.  Deliberately, he sets the fireplace more than once without any apparent reasons whatsoever except to take pleasure from seeing the fireplace 2.  Cognitive Behavioral Therapy  ' A highly trained child therapist meets using the child or teen to further improve coping skills, self-esteem, emotional regulation (like anger management) and social skills.  This medicine must be prescribed by doctors as it really is dangerous to work with it without doctor's supervision.  \nFrancineCelexa:  Order In UsaLainey",
+    "hasSummary": true,
+    "link": "https://financialit.net/content/celexa-order-usa",
+    "source": "Financial IT",
+    "tags": [
+      "Celexa",
+      "United States",
+      "Canada"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-15T05:34:13.000Z",
+    "fetchedAt": "2026-10-15T06:01:24.706Z",
+    "isDuplicateOf": null,
+    "content": "Online pharmacies and websites are heavily advertising the purchase of the antidepressant Celexa, often marketed for order in the United States and Canada without a traditional prescription. While medications like Celexa are prescribed to manage depression and related behavioral conditions under medical supervision, health experts warn of potential side effects, risks of birth defects, and the importance of consulting a physician before starting any antidepressant treatment regimen.",
+    "content_ta": "இணையதளங்கள் மற்றும் ஆன்லைன் மருந்தகங்கள் மூலம் Celexa போன்ற மன அழுத்த எதிர்ப்பு மருந்துகளை மருத்துவரின் பரிந்துரையின்றி வாங்குவதற்கான விளம்பரங்கள் தீவிரமாக செய்யப்படுகின்றன. மருத்துவரின் மேற்பார்வையின்றி இத்தகைய மருந்துகளை உட்கொள்வது பக்கவிளைவுகள் மற்றும் பிறப்பு குறைபாடுகள் போன்ற தீவிர ஆபத்துகளுக்கு வழிவகுக்கும் என்பதால், சிகிச்சை தொடங்குவதற்கு முன்பு மருத்துவரின் ஆலோசனையைப் பெறுவது அவசியமாகும்.",
+    "slug": "celexa-order-in-usa"
+  },
+  {
+    "id": "688f98f615f4d321",
+    "title": "Chargebacks911 Taps Kount Founding CEO Brad Wiskirchen to Accelerate M&A and Global Expansion",
+    "summary": "Chargebacks911, the global leader in chargeback processing and dispute management technology, today announced the appointment of Brad Wiskirchen, Founding CEO of Kount, as Chief Commercial Officer (CCO) of Chargebacks911 and Chief Executive Officer (CEO) of its financial institution-focused sister brand, Fi911.\nThe high-profile appointment signals an ambitious new chapter for Chargebacks911.  Wiskirchen will spearhead strategic M&A initiatives, pursue high-value partnerships and expand relationships with financial institutions, payment processors and payment orchestration providers worldwide.\nHis appointment builds on Chargebacks911’s established global infrastructure, extensive industry connectivity and expanding portfolio of AI-native technologies, creating new opportunities to accelerate scale, diversify capabilities and unlock growth across the payments ecosystem.\n“Brad’s appointment is about more than expanding our leadership team.  It’s about accelerating what’s next,” said Monica Eaton, founder and CEO of Chargebacks911. “We’ve spent years building the technology, infrastructure and industry relationships that have positioned Chargebacks911 at the center of an increasingly important part of the payments ecosystem. The opportunities ahead extend well beyond traditional dispute management, and we're bringing together the talent, capabilities and strategic relationships to pursue them at scale.”\nWiskirchen brings more than two decades of experience building, scaling and commercializing financial technology businesses. As Founding CEO of Kount, he helped transform the company from a true startup into a globally recognized fraud prevention technology provider, culminating in its acquisition by Equifax and Wiskirchen’s appointment to General Manager of Equifax Digital Solutions. \nWiskirchen also served as an industrial partner at CVC Capital Partners, a global private equity and investment firm, where he led the fintech investment efforts in North America.  Additionally, Wiskirchen was named Chairman of the Salt Lake City Branch of the Federal Reserve Bank of San Francisco, as well as a member of the International Monetary Fund’s (IMF) Interdepartmental Working Group on Finance and Technology, High-Level Advisory Group. \nWiskirchen has also served on numerous for-profit and non-profit boards in the payments, fraud, identity and compliance spaces, and he has co-founded and invested in many other businesses in those spaces.\n\"Brad has unmatched entrepreneurial acumen, understands the investment landscape and brings the commercial instincts and relationships to help us capitalize on opportunities that can meaningfully expand our reach,” said Benjamin Bridwell, President of Chargebacks911. “We're not simply looking to grow our existing business. We're looking to reshape what's possible across the payments ecosystem.\"\nA key component of Wiskirchen’s mandate will be expanding the company’s presence across the financial institution sector as CEO of Fi911, Chargeback911’s dedicated sister brand serving issuing banks, acquiring banks and other financial services providers. Fi911 extends Chargebacks911’s core dispute management competencies into the financial institution market, providing tools for dispute processing, workflow automation, compliance monitoring, reconciliation and operational intelligence.\n“What Monica and the team have built is remarkable, and I see enormous potential in what comes next. I haven’t seen a more impressive foundation of technology, industry connectivity and market reach,” said Wiskirchen. “I've spent my career building and scaling technology companies, and it's rare to find a business with this combination of proprietary technology, established market reach and opportunity for expansion. Chargebacks911 has already built the foundation. Now we have an opportunity to dramatically accelerate its scale through strategic acquisitions, new partnerships and expansion into adjacent markets. The convergence of AI, payments intelligence and financial services is creating extraordinary opportunities, and I believe Chargebacks911 is uniquely positioned to capitalize on them. I'm excited to work alongside Monica and the leadership team to help build the next chapter of this company's success.”\nWiskirchen’s contributions to technology and entrepreneurship have earned numerous accolades, including recognition as an Idaho Business Review ICON and an induction into Idaho’s Technology Hall of Fame in 2023.\n“Brad brings the rare combination of entrepreneurial experience, investment perspective and deep industry relationships,” Eaton added, \"We share a belief in challenging conventional thinking and building businesses that make a lasting impact. I couldn't be more excited about what we'll accomplish together - and it's an added bonus to welcome another fellow Idahoan to the team.”\nThe next generation of payments technology won't be defined by isolated solutions. It will be built by connecting intelligence, infrastructure and capabilities across the entire transaction lifecycle.\nNoYesPeople Moves15 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/people-moves/chargebacks911-taps-kount-founding-ceo-brad-wiskirchen-accelerate-ma-and-global",
+    "source": "Financial IT",
+    "tags": [
+      "Chargebacks911",
+      "Kount",
+      "Fi911",
+      "Equifax",
+      "CVC Capital Partners"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-15T05:32:04.000Z",
+    "fetchedAt": "2026-10-15T06:01:24.706Z",
+    "isDuplicateOf": null,
+    "content": "Chargebacks911 has appointed Brad Wiskirchen, the founding CEO of Kount, as its new Chief Commercial Officer and as the CEO of its financial institution-focused brand, Fi911. Wiskirchen will lead strategic mergers and acquisitions, high-value partnerships, and global expansion efforts for the company, leveraging his extensive experience in financial technology, fraud prevention, and scaling businesses across the payments ecosystem.",
+    "content_ta": "Chargebacks911 நிறுவனம், Kount நிறுவனத்தின் நிறுவன CEO-வான Brad Wiskirchen-ஐ தனது புதிய Chief Commercial Officer-ஆகவும், அதன் நிதி நிறுவனப் பிரிவான Fi911-ன் CEO-ஆகவும் நியமித்துள்ளது. Wiskirchen நிறுவனத்தின் மூலோபாய இணைப்புகள், கையகப்படுத்தல்கள் மற்றும் உலகளாவிய விரிவாக்கப் பணிகளை வழிநடத்துவார்.",
+    "slug": "chargebacks911-taps-kount-founding-ceo-brad-wiskirchen-to-accelerate-m-a-and-global-expansion"
+  },
+  {
+    "id": "fd867eb5cb760583",
+    "title": "Continent 8 and FuturePath AI Launch Future8 Accountable AI for Regulated Industries",
+    "summary": "Continent 8 Technologies and FuturePath AI today launched Future8, an AI-native operating company built for regulated operators, formed as a joint venture between the two companies. \nAnnounced at SBC Summit Lisbon, Future8 combines FuturePath’s enterprise AI applications platform with Continent 8’s licensed global operating footprint, enabling the iGaming industry to deploy auditable AI without compromising compliance, data sovereignty and operational control. \nBuilt for highly regulated environments, Future8 enables operators to move from AI experimentation to production deployment by embedding governance, approvals and auditability into every workflow from day one. \nContinent 8 brings licensed data centers and a private global network spanning more than 100 locations, built over 28 years serving the biggest iGaming and online brands, along with AI-enabled Global Capability Centers in India, the Philippines and Bulgaria. The company also contributes operational expertise, jurisdictional knowledge and intelligence derived from one of the industry’s largest collections of regulated infrastructure and operational data, helping Future8 tailor AI solutions to the operational realities of the iGaming sector. \nFuturePath brings a production enterprise AI applications platform, with pre-built AI applications powered by coordinated agents, already running enterprise operations for Fortune 500 companies across multiple industries. Together, the companies are adapting proven enterprise AI to the workflows, controls and operating realities unique to iGaming. Unlike generic agent frameworks or toolkits, FuturePath delivers regulator-ready AI applications designed to solve real business challenges for licensed operators. \nAccountability First, Infrastructure Flexible \nUntil now, the iGaming sector has faced a difficult dilemma: how to deploy AI at scale while maintaining the strict, policy-aware explainability that licensing bodies demand across every jurisdiction they operate in. Regulators have moved past asking only where data sits. They now ask how a decision was made, a question AI raises and infrastructure alone never did. \nFuture8 is built to make that evidence automatic. Because its advantage is regulatory standing rather than physical location, it holds whether a workload runs in a Continent 8 facility, in a public cloud region, or in the operator’s own account. \nThis allows organizations to standardize AI governance across jurisdictions while retaining flexibility in where and how workloads are deployed. \n“Everyone has AI. Almost nobody can run it in a regulated market,” said Mike Small, CEO of Continent 8 Technologies. “Future8 lets operators optimize their business and achieve efficiencies with AI that regulators can actually audit, in every jurisdiction they hold a license.” \n“Our AI applications – coordinated agents executing real business work – already run real operations inside Fortune 500 enterprises, with every action governed and auditable,” said Saurabh Bhatia, CEO of FuturePath AI. “Continent 8 brings 28 years of regulatory standing that no AI company can replicate. Together, we are building the AI application and accountability layer licensed industries will need to run AI in production.” \nFlexible Delivery, Any Stage of AI Maturity \n\nNo two iGaming operators run the same way, which is why Future8 is built to deliver outcomes rather than tools alone. \nFuture8 is designed to meet organizations wherever they are in their AI journey. They can engage through advisory services, managed AI-operated services or direct platform deployment, allowing them to adopt AI at a pace that matches their operational and regulatory requirements. \nIts services are organized into three offerings that meet operators at any stage of AI maturity, from first assessment to full deployment: \nAI Readiness Assessment for Regulated Industries. A structured evaluation of the operator’s estate, its automation opportunities, and the license conditions that govern them, concluding with a joint executive readout that maps where AI can be deployed and how it will be evidenced. \nManaged AI-Operated Services. Future8 assumes the operational workload through a global delivery network, staffed onshore, nearshore, or offshore according to what each jurisdiction requires, so coverage follows the license. The operator pays for outcomes, and the work automates down over time. As automation increases, operators benefit from improved efficiency and faster execution while maintaining the governance and controls regulators require. \nPlatform Subscription. For organizations that prefer to run AI in their own environment, Future8 licenses the AI applications directly, layered with the jurisdictional policy, control, and evidence artifacts that make them acceptable to a regulator. \nThe platform can be deployed within Continent 8 infrastructure, public cloud environments or customer-owned environments while maintaining consistent governance controls. \nFuture8 builds on FuturePath’s field-tested enterprise AI, already proven in Fortune 500 environments, where AI applications, powered by autonomous agents, handle tens of thousands of complex workflows monthly and reduce resolution times by up to 40%. Forward Deployed Engineers work alongside operators to adapt and deploy it to their specific workflows, systems, and regulatory requirements. \nAcross the iGaming industry’s business, Future8 spans IT and technical operations, cloud migration, finance and procurement, and player-facing operations, with every workflow governed, auditable, and evidenced to the regulator. \nWhether deployed as software, consumed as a managed service, or delivered through a hybrid model, Future8 combines AI technology, operational expertise and regulatory oversight into a single offering. \nFuture8 launches with an initial focus on regulated iGaming, with a longer-term vision to support additional licensed industries where governance, auditability and compliance are essential to AI adoption. \nNoYesArtificial Intelligence15 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/artificial-intelligence/continent-8-and-futurepath-ai-launch-future8-accountable-ai-regulated",
+    "source": "Financial IT",
+    "tags": [
+      "Continent 8 Technologies",
+      "FuturePath AI",
+      "Future8"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-15T05:28:22.000Z",
+    "fetchedAt": "2026-10-15T06:01:24.706Z",
+    "isDuplicateOf": null,
+    "content": "Continent 8 Technologies and FuturePath AI have launched Future8, a joint venture bringing an AI-native operating company to regulated industries like iGaming. Announced at the SBC Summit Lisbon, Future8 combines FuturePath's enterprise AI platform with Continent 8's global infrastructure. The partnership aims to help operators deploy auditable, regulator-ready AI solutions without compromising compliance, data sovereignty, or operational control across multiple global jurisdictions.",
+    "content_ta": "Continent 8 Technologies மற்றும் FuturePath AI இணைந்து regulative துறை நிறுவனங்களுக்காக Future8 என்ற புதிய AI நிறுவனத்தைத் தொடங்கியுள்ளன. SBC Summit Lisbon-ல் அறிவிக்கப்பட்ட இந்த joint venture, iGaming துறைக்கான AI தீர்வுகளை வழங்குகிறது. இதன் மூலம் நிறுவனங்கள் compliance மற்றும் டேட்டா பாதுகாப்பை உறுதி செய்து AI சேவைகளைப் பயன்படுத்தலாம்.",
+    "slug": "continent-8-and-futurepath-ai-launch-future8-accountable-ai-for-regulated-industries"
+  },
+  {
+    "id": "f74610e391d71ed0",
+    "slug": "white-house-puts-bitcoin-security-ahead-of-any-new-purchases",
+    "title": "White House puts Bitcoin security ahead of any new purchases",
+    "tags": [
+      "White House",
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-15T05:24:02.000Z"
+  },
+  {
+    "id": "6770824b64feae71",
+    "slug": "will-spacex-be-worth-100-trillion-within-10-years-musk-says-probably",
+    "title": "Will SpaceX Be Worth $100 Trillion Within 10 Years? Musk Says Probably",
+    "tags": [
+      "SpaceX",
+      "Elon Musk",
+      "Baron Capital"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-15T05:23:40.000Z"
+  },
+  {
+    "id": "f1201ed25be96edd",
+    "title": "TransUnion and Bankrate Expand Partnership to Power More Personalized Credit Offers for Millions of Consumers",
+    "summary": "TransUnion announced today that it is making it easier for millions of Americans to find personalized credit offers that meet their needs. The company's new innovation delivers smarter matching by combining Bankrate's lender marketplace with TransUnion's credit data and Monevo offers technology.\nBuilding on more than a decade of collaboration with Bankrate, the capability gives consumers a more personalized experience and helps lenders and publishers reach consumers with more relevant offers. Consumers can access the offering today in TransUnion Credit Essentials, a free credit app and web experience that helps consumers take control of their financial health.\n\"Consumers have many credit choices and not enough clarity,\" said Steve Chaouki, President, U.S. Markets, TransUnion. \"By combining TransUnion's data with our Monevo offers platform and Bankrate's lender partnerships, we've built a capability that makes offers more precise. Credit Essentials is our first proof point, and we'll bring this to many more experiences where consumers and lenders meet.\"\nBankrate's broad network of lender relationships and its marketplace and auction technology put lenders in real-time competition for consumers, so matches cover more products, more providers and more competitive offers. Monevo draws on multiple sources, including credit data, alternative data and consumer intent signals. Its decisioning engine then matches each consumer with highly personalized credit offers from a broad panel of lenders. Consumers see offers that can fit their needs, so they can choose with clarity and confidence.\nBecause partners can embed the capability through a seamless, low-lift technical integration, consumers can access personalized offers wherever they make financial decisions. It’s available today in Credit Essentials and can extend to publisher and affiliate sites, co-branded experiences for financial institutions and brands and AI assistants, where more consumers now start their search for credit.\nTransUnion Credit Essentials Gaining Momentum\nMillions of consumers have registered for Credit Essentials since its May 2025 launch, with membership growing approximately 50% in the last year alone. TransUnion's Q3 2026 Consumer Pulse study shows that more than half of Americans (53%) check their credit report at least monthly, and nearly all (93%) believe monitoring their credit report is important. Among consumers who check their credit report, one in 10 do so to learn which credit offers they may qualify to receive.\nCredit Essentials gives consumers free daily access to their TransUnion credit report and score, real-time alerts about critical changes, credit education and personalized credit offers across credit cards, personal loans, mortgages, home equity, auto refinance, insurance and savings accounts, all in one place.\n\"Bankrate and TransUnion have helped consumers make smarter financial decisions for years,\" said Matt Fellowes, CEO, Bankrate. \"TransUnion's data and identity insights, combined with Bankrate's lender relationships, auctions and marketplace, help consumers find the right products with confidence.\"\nCredit Essentials is the first of many experiences the combined capability will power. TransUnion and Bankrate are exploring more product types to extend the offers to publishers, partners, lender platforms and AI-driven channels.\nNoYesInfrastructure15 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/infrastructure/transunion-and-bankrate-expand-partnership-power-more-personalized-credit-offers",
+    "source": "Financial IT",
+    "tags": [
+      "TransUnion",
+      "Bankrate",
+      "Monevo"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-15T05:08:16.000Z",
+    "fetchedAt": "2026-10-15T06:01:24.706Z",
+    "isDuplicateOf": null,
+    "content": "TransUnion and Bankrate have expanded their long-standing partnership to provide millions of consumers with more personalized credit offers. By combining Bankrate's lender marketplace with TransUnion's credit data and Monevo technology, the new capability delivers smarter matching and competitive offers. Consumers can access these personalized options through TransUnion Credit Essentials, with plans to extend the technology to other platforms and partners.",
+    "content_ta": "TransUnion மற்றும் Bankrate நிறுவனங்கள் தங்களது நீண்ட கால கூட்டாண்மையை விரிவுபடுத்தியுள்ளன. இதன் மூலம் மில்லியன் கணக்கான நுகர்வோருக்கு மிகவும் தனிப்பயனாக்கப்பட்ட கடன் சலுகைகள் வழங்கப்பட உள்ளன. Bankrate-ன் சந்தை மற்றும் TransUnion-ன் கடன் தரவு ஆகியவற்றை இணைப்பதன் மூலம் வாடிக்கையாளர்களுக்கு பொருத்தமான கடன் சலுகைகள் எளிதாகக் கிடைக்கும். இந்த வசதியை TransUnion Credit Essentials செயலி மூலம் நுகர்வோர் பெற்றுக்கொள்ளலாம்.",
+    "slug": "transunion-and-bankrate-expand-partnership-to-power-more-personalized-credit-offers-for-millions-of"
+  },
+  {
+    "id": "4ecbb268983b7ce0",
+    "slug": "australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout",
+    "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
+    "tags": [
+      "Australia"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-15T05:00:40.000Z"
+  },
+  {
+    "id": "438c278a2ba67442",
+    "slug": "vitalik-says-ethereum-s-zk-speed-race-is-won-what-it-means-for-eth",
+    "title": "Vitalik Says Ethereum's ZK Speed Race Is Won. What It Means for ETH",
+    "tags": [
+      "Ethereum",
+      "Vitalik Buterin",
+      "ZKsync"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-15T04:42:39.000Z"
+  },
+  {
+    "id": "916ff55a6ae4a63f",
+    "slug": "qivalis-wins-dutch-emi-license-but-mica-rules-block-launch",
+    "title": "Qivalis wins Dutch EMI license, but MiCA rules block launch",
+    "tags": [
+      "Qivalis",
+      "Netherlands"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-15T04:40:28.000Z"
+  },
+  {
+    "id": "39bd7d78b2c2475f",
+    "slug": "bitcoin-drops-below-81-000-as-risk-off-sentiment-weighs-on-asian-equities",
+    "title": "Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities",
+    "tags": [
+      "Bitcoin",
+      "Kospi",
+      "Nikkei 225",
+      "South Korea",
+      "Japan"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-15T04:38:48.000Z"
+  },
+  {
+    "id": "35d4cb849dfb6c07",
+    "slug": "us-xrp-and-zec-spot-etfs-draw-4-42-million-in-net-inflows",
+    "title": "US XRP And ZEC Spot ETFs Draw $4.42 Million In Net Inflows",
+    "tags": [
+      "XRP",
+      "Zcash",
+      "United States"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-15T04:35:09.000Z"
+  },
+  {
+    "id": "7468b4d0510fdded",
+    "slug": "tether-paid-millions-to-bo-hines-firm-while-he-worked-at-the-white-house",
+    "title": "Tether paid millions to Bo Hines’ firm while he worked at the White House",
+    "tags": [
+      "Tether",
+      "Bo Hines",
+      "White House"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-15T04:34:57.000Z"
+  },
+  {
+    "id": "5d52a52ef2d792dc",
+    "slug": "peter-schiff-says-most-stocks-are-in-bear-market-as-ai-leaders-carry-the-index",
+    "title": "Peter Schiff Says Most Stocks Are in Bear Market as AI Leaders Carry the Index",
+    "tags": [
+      "Peter Schiff",
+      "Goldman Sachs",
+      "S&P 500"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-15T04:17:00.000Z"
+  },
+  {
+    "id": "751bed842837f6f7",
+    "slug": "bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
+    "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+    "tags": [
+      "Binance",
+      "Bitcoin"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-15T04:13:56.000Z"
+  },
+  {
+    "id": "4c440f8a40962ccb",
+    "title": "Emirates NBD Opens VIP SME Programme to All Business Banking Clients",
+    "summary": "Emirates NBD is broadening its invitation-only VIP Privilege Program to all eligible Business Banking customers in the UAE, anchored by a new Visa Infinite\nThe post Emirates NBD Opens VIP SME Programme to All Business Banking Clients appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/emirates-nbd-opens-vip-sme-programme-to-all-business-banking-clients/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Emirates NBD",
+      "Visa",
+      "UAE"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-15T04:00:12.000Z",
+    "fetchedAt": "2026-10-15T06:01:24.706Z",
+    "isDuplicateOf": null,
+    "content": "Emirates NBD has expanded its exclusive VIP Privilege Program, making it accessible to all eligible Business Banking clients in the UAE. The enhanced offering is anchored by a new Visa Infinite card, designed to provide premium banking benefits and tailored financial services to a broader range of small and medium-sized enterprises.",
+    "content_ta": "Emirates NBD தனது பிரத்யேக VIP Privilege Program-ஐ விரிவுபடுத்தியுள்ளது. இப்போது இது UAE-ல் உள்ள அனைத்து தகுதியான Business Banking வாடிக்கையாளர்களுக்கும் கிடைக்கக்கூடிய வகையில் மாற்றப்பட்டுள்ளது. சிறு மற்றும் நடுத்தர வணிக நிறுவனங்களுக்கு பிரீமியம் வங்கி சேவைகளை வழங்கும் நோக்கில் புதிய Visa Infinite கார்டு அறிமுகப்படுத்தப்பட்டுள்ளது.",
+    "slug": "emirates-nbd-opens-vip-sme-programme-to-all-business-banking-clients"
+  },
+  {
+    "id": "65386932f158963f",
+    "slug": "bitcoin-wilts-as-fed-rate-uncertainty-weighs-kospi-plunges-8",
+    "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+    "tags": [
+      "Bitcoin",
+      "Federal Reserve",
+      "Kospi",
+      "South Korea"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-15T03:57:45.000Z"
+  },
+  {
+    "id": "ef4a0ecfc1eb6fbd",
+    "slug": "zksync-s-airbender-hits-real-time-proving-on-one-gpu-and-vitalik-buterin-weighs-in",
+    "title": "ZKsync’s Airbender hits real-time proving on one GPU, and Vitalik Buterin weighs in",
+    "tags": [
+      "ZKsync",
+      "Vitalik Buterin",
+      "Ethereum"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-15T03:42:55.000Z"
+  },
+  {
+    "id": "d90990486d58ebbf",
+    "slug": "bitcoin-miners-plunge-up-to-13-in-wall-street-s-worst-selloff-since-july",
+    "title": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July",
+    "tags": [
+      "Bitcoin",
+      "TeraWulf",
+      "Core Scientific",
+      "Cipher Mining",
+      "IREN",
+      "Wall Street"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-15T03:29:22.000Z"
+  },
+  {
+    "id": "b8a349ffb263c6bd",
+    "slug": "bytedance-reportedly-in-talks-to-buy-mediatek-ai-chips-for-data-centers",
+    "title": "ByteDance reportedly in talks to buy MediaTek AI chips for data centers",
     "tags": [
       "ByteDance",
       "MediaTek"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-15T02:55:12.000Z",
-    "fetchedAt": "2026-10-15T03:01:23.063Z",
-    "isDuplicateOf": null,
-    "content": "ByteDance is reportedly in talks to purchase AI chips from MediaTek for its data centers. This move highlights how major technology companies are diversifying their AI chip sources amid ongoing global supply chain shifts and geopolitical tensions.",
-    "content_ta": "டேட்டா சென்டர்களுக்காக MediaTek-டமிருந்து AI சிப்களை வாங்குவது குறித்து ByteDance பேச்சுவார்த்தை நடத்தி வருவதாகத் தகவல்கள் வெளியாகியுள்ளன. புவிசார் அரசியல் மற்றும் உலகளாவிய விநியோகச் சங்கிலி மாற்றங்களுக்கு மத்தியில், முக்கிய தொழில்நுட்ப நிறுவனங்கள் தங்கள் AI சிப் ஆதாரங்களைப் diversifying செய்வதை இந்த நடவடிக்கை எடுத்துக்காட்டுகிறது.",
-    "slug": "bytedance-reportedly-in-talks-to-buy-mediatek-ai-chips-for-data-centers"
+    "hasContent": true,
+    "pubDate": "2026-10-15T02:55:12.000Z"
   },
   {
     "id": "ad4ab2b8cef247c3",
+    "slug": "dapoxetine-price-no-doctors-norwich",
     "title": "Dapoxetine: Price No Doctors Norwich",
-    "summary": "Looking for dapoxetine? Not a problem!\nhttps://jackieprovider.com/med/dapoxetine    \nDiscreet Package  Low Prices  24/7/365 Customer Support  100% Satisfaction Guaranteed. \ncost per qaly dapoxetine want to buy sildenafil-dapoxetine iowa buy online vardenafil-dapoxetine overnight cheap canada vardenafil-dapoxetine 20mg where to purchase next dapoxetine no script sildenafil-dapoxetine canadian pharmacy price vardenafil-dapoxetine levitra-super-force purchase avanafil-dapoxetine ed shop tablet dapoxetine the generic cost dapoxetine internet saturday shipping get vardenafil-dapoxetine canadian pharmacy sefton online pharmacy dapoxetine pills how to buy dapoxetine cheapest sildenafil-dapoxetine pills priligy dapoxetine buy used cars order sildenafil-dapoxetine viagra-super-force legally gurgaon sildenafil-dapoxetine test cost buy avanafil-dapoxetine 1 low cost avanafil-dapoxetine super-avana order avanafil-dapoxetine tabs price avanafil-dapoxetine online pharmacy tab no prescription avanafil-dapoxetine cost montana can i order dapoxetine how to purchase dapoxetine can i purchase dapoxetine order dapoxetine from c buy dapoxetine 24x7 buy cod dapoxetine amex purchase avanafil-dapoxetine online raleigh real dapoxetine online buy where can i buy dapoxetine of dapoxetine usa price generic avanafil-dapoxetine tab paypal generic drug to replace dapoxetine vardenafil-dapoxetine discount canada price sildenafil-dapoxetine fedex free shipping vardenafil-dapoxetine price meistersinger cheap sildenafil-dapoxetine tab sale tablets purchase vardenafil-dapoxetine pill no rx want to purchase dapoxetine without prescription vardenafil-dapoxetine purchase fedex dapoxetine without a prescription medication 28 price canada vardenafil-dapoxetine want to buy dapoxetine how to order dapoxetine price vardenafil-dapoxetine plus canada pharmacy avanafil-dapoxetine ach cheap dapoxetine on line cheap no prescription sildenafil-dapoxetine uk tab no script vardenafil-dapoxetine overnight delivery where to order next dapoxetine non prescription generic dapoxetine want to order dapoxetine pharmacy dapoxetine online overnight delaware where to buy next dapoxetine prescription purchase dapoxetine no visa vardenafil-dapoxetine kaufen medikament korea buy i want viagra-force dapoxetine generic effect vardenafil-dapoxetine overnight delivery tab discounted avanafil-dapoxetine drug buy alabama dapoxetine next day no prescription https://drugmedsgroup.top/dapoxetine price dapoxetine no doctors norwich buy 60 mg avanafil-dapoxetine book buy dapoxetine viscacha can i buy dapoxetine kamagra dapoxetine buy dapoxetine top online pharmacy dapoxetine avanafil-dapoxetine gel no rx discounted vardenafil-dapoxetine pill overnight deliveryTadalafil (Cialis) produces more spontaneity since it works for up to 36 hours, which is why it is nicknamed the Weekend Pill - you are able to take it at Friday night and the effects lasts till Sunday.  The Jesuit tradition is persisted through these graduate schools while providing a high ranked education.  As always, a well-rounded pharmacy education is going to function as best preparation for your FPGEE.  The greatest consumers complete, simply because attacks might be extremely horrifying plus occur in excess of countless people understand.  Fortunately, strategies that everyone are able to use to find low price prescriptions.  \nWith the quantity of reports within the media about disease outbreaks, it's no wonder people are so afraid of germs.  You are unable to obtain these ten in-service hours throughout a regularly scheduled work period.  That you happen to be last longer though you are able to will stay calm and focused, therefore it is a definite good plan so that it is possible to practice relaxation variations when you attain in bed.  Men and some women have found there to become a significant increase in the stimulation of intimate relations.  It is because of this that we have increasing numbers of customers of our own drugs who have created a blind trust in our products and now we are now becoming the number one choice, recommended by many physicians and doctors.  \nMany stores close aren't open all night and close early on Sundays.  A medical trial involving greater than 2,500 men experiencing mild to severe PE showed that dapoxetine tablets can delay ejaculation by as much as a minute or sometimes more.  Alfredo Yao's story is an additional rags-to-riches tale of a self-made businessman who rose from poverty through work and determination.  One in the most important today is the drug referred to as Prilgy which can be based on a compound called Dapoxetine drug however its use is still very controversial as it can be being reevaluated one third time by U.  Any of them could be viable should you merely considered getting from point A to point out B.  \nThe site functions being a patient assistance program information source and supplies a discount card which is available to everyone and might be instantly downloaded online.  Hundreds of courses are approved with the pharmacy board.  Hence medications continue to be an easy option to go for ED.  If it is possible to't make your own, obtain sources who wildcraft or grow their particular herbs to work with fresh in preparations.  Supporters scoffed with the efforts; in fact, in Chantilly it is perfectly legal for pharmacies to pick out and choose the prescriptions they want to sell.  \nMy name is Dave and I have struggled with premature ejaculation for many years.  However, in case you stumble upon a link from a government resource ending using a.  Priligy pills must be taken around an hour before getting engaged inside a sexual act.  By getting ready to continue to be relaxed your will, you is not going to have difficulty in delaying ejaculation when you wish to for the use of intercourse as a calm thoughts would enable to avert early ejaculation.  But, somehow I never considered the truth that prescription prices may be so wildly different between stores.  \nShaeDapoxetine: Price No Doctors NorwichJuniper",
-    "hasSummary": true,
-    "link": "https://financialit.net/content/dapoxetine-price-no-doctors-norwich",
-    "source": "Financial IT",
     "tags": [
       "Dapoxetine",
       "Priligy",
       "Tadalafil"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-10-15T02:51:15.000Z",
-    "fetchedAt": "2026-10-15T03:01:23.063Z",
-    "isDuplicateOf": null,
-    "content": "Online pharmacies and websites are promoting the sale of Dapoxetine and related medications like sildenafil-dapoxetine and vardenafil-dapoxetine without a prescription, highlighting low prices and discreet shipping. The discussions surrounding Dapoxetine include its effectiveness in treating premature ejaculation, dosage guidelines, and comparisons with other treatments like Tadalafil, while also noting varying prescription costs and regulatory evaluations.",
-    "content_ta": "ஆன்லைன் பார்மசிகள் மற்றும் வலைத்தளங்கள் மருந்துச்சீட்டு இல்லாமல் Dapoxetine மற்றும் சில்டெனாபில்-டபோக்செடைன் போன்ற தொடர்புடைய மருந்துகளை குறைந்த விலை மற்றும் ரகசிய ஷிப்பிங்குடன் விளம்பரப்படுத்துகின்றன. டபோக்செடைன் குறித்த விவாதங்கள் அதன் செயல்திறன், அளவு வழிகாட்டுதல்கள் மற்றும் பிற மருந்துகளுடன் ஒப்பிடுதல் ஆகியவற்றை உள்ளடக்கியது.",
-    "slug": "dapoxetine-price-no-doctors-norwich"
+    "hasContent": true,
+    "pubDate": "2026-10-15T02:51:15.000Z"
   },
   {
     "id": "0cc497c31877fa1f",
+    "slug": "finax-saturday-delivery-pill-orlando",
     "title": "Finax:  Saturday Delivery Pill Orlando",
-    "summary": "Looking for finax? Not a problem!\nhttps://jackieprovider.com/med/finax    \nDiscreet Package  Low Prices  24/7/365 Customer Support  100% Satisfaction Guaranteed. \ncan i buy finax amex 5 cost finax 200mg purchase generic finax finax order uk buy discount finax online gene pharmacy finax without prescription delaware generic finax wisconsin muesli review finax bh farmacia purchase finax mesa need finax generic online effect finax store saturday delivery discount finax internet cheap finax drugs overnight beliz where to purchase next finax want to order finax finax best price discheaps order finax fast delivery pennsylvania finax pill saturday delivery best price finax mastercard buy in online finax propecia want to buy finax usa pharmacy finax no prescrption where to buy next finax price finax overnight want to buy finax best price finax 1mg pill finax delivery wire transfer buying finax drugs no doctors buying finax 1mg cheapest finax legally want to buy finax ach finax paypal no script buy finax 5mg olongapo generic fincar finax pill find https://simplemedrx.top/finax can i buy finax overnight finax order zebeta fedex finax in internet without prescription how to purchase finax buy cod finax finasterid alternova can i purchase finax no script fincar finax discounts generic finax american express spain finax 100mg cheap order number finasteride finax 1mg finax saturday delivery pill orlando discount finax mastercard cheap express courier finax how to order finax can i order finax generic finax medicine no script finax tab tabs where to buy finax 1mg cheapest finax 50mg surdegspulver recept generic finax ach buy finax pill 1 ointment price finax 1mg buy cod finax online drug pharmacy finax without prescription germany pharmacy finax pharmaceutical vermont cheapest finax visa watson finax no prescription finax purchase overnight shipping purchase finax online with mastercard want to purchase finax order finax tablets discounted finax no rx fedex without prescription finax rx purchase where can i buy finax to buy finax propecia buying finax finpecia priority mail finax visa no script colorado finax proscar finax to purchase how to buy finax men finax pills saturday shipping cheap how to buy finax finax free saturday delivery where to order next finaxHe earned his business management degree in the Ateneo de Manila University, one of the more prestigious private schools inside Philippines.  Depending about the range of medications they provide, online pharmacies could be divided into full-range, semi-full, popular, lifestyle, and specialized drugstores.  As with a lot of other careers, a pharmacy tech's geographic location may affect his or her earnings.  \nnk you might be moving, then you will want to check the pharmacy board's rules for the reason that state to find out what type of registration requirements exist.  If you or someone you know is thinking about giving up smoking, speak with your pharmacist today.  You also can switch shifts just a little, recommendations what you'll prefer.  \nResidencies certainly are a continuance of the pharmacy education set a single facility with a main preceptor and lots of assistant preceptors within the facility.  There are very a number of good pharmacy tech schools, each on the internet and at campuses, that will give you the instruction you'll need inside a short amount of time, typically from four months to 2 many years.  Also, learning various medical names, actions of medications, uses, and doses.  \nThe certification does play a huge role in making a rewarding career as a PT because it helps in making one more qualified once they apply for promotion.  You might also check out \"Physician Assistant Is a Top Healthcare Career.  So being a buyer, you will need to identify a traditional online pharmacy that is certainly licensed and sells only Food and Drug Administration (FDA) approved medicines.  \nWHFoods: Olives Research indicates that Olive Oil may reduce ovarian cancer by 30%.  Using this info, then you definately carefully craft a sales presentation.  In addition to stopping you from proceeding hydrated you'll be able to use h2o for other things.  \nBerlynFinax:  Saturday Delivery Pill OrlandoJazmin",
-    "hasSummary": true,
-    "link": "https://financialit.net/content/finax-saturday-delivery-pill-orlando",
-    "source": "Financial IT",
     "tags": [
       "Finax",
       "Orlando",
       "Ateneo de Manila University"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-10-15T02:48:40.000Z",
-    "fetchedAt": "2026-10-15T03:01:23.063Z",
-    "isDuplicateOf": null,
-    "content": "Online promotions for medications like Finax are offering Saturday delivery services, discreet packaging, and various payment options in cities like Orlando. These spam-like listings often mix advertisements for generic drugs with unrelated educational content about pharmacy careers, education requirements, and health research, highlighting the unregulated nature of many online pharmaceutical advertisements.",
-    "content_ta": "Finax போன்ற மருந்துகளுக்கான ஆன்லைன் விளம்பரங்கள் ஆர்ட்லாண்டில் சனித்திரை டெலிவரி சேவைகள் மற்றும் பல்வேறு கட்டண விருப்பங்களை வழங்குகின்றன. இந்த விளம்பரங்கள் மருந்தகப் பணிகள் மற்றும் கல்வித் தேவைகள் பற்றிய தகவல்களுடன் மருந்துகளை விற்க முயற்சிக்கின்றன.",
-    "slug": "finax-saturday-delivery-pill-orlando"
+    "hasContent": true,
+    "pubDate": "2026-10-15T02:48:40.000Z"
   },
   {
     "id": "5b52f6b5aac41ddd",
+    "slug": "warburg-pincus-ceo-says-investors-see-public-markets-as-one-big-bet",
     "title": "Warburg Pincus CEO Says Investors See Public Markets as One Big Bet",
-    "summary": "Warburg Pincus CEO Jeffrey Perlman says investors see public markets as one concentrated bet and want private assets instead.\nThe post Warburg Pincus CEO Says Investors See Public Markets as One Big Bet appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/warburg-pincus-ceo-public-markets-bet/",
-    "source": "BeInCrypto",
     "tags": [
       "Warburg Pincus",
       "Jeffrey Perlman"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-10-15T02:45:00.000Z",
-    "fetchedAt": "2026-10-15T03:01:23.063Z",
-    "isDuplicateOf": null,
-    "content": "Warburg Pincus CEO Jeffrey Perlman stated that investors increasingly view the public markets as a single concentrated bet. According to the executive, this perspective has driven market participants to seek out private assets instead for greater diversification and potential returns.",
-    "content_ta": "Warburg Pincus CEO Jeffrey Perlman, public markets-ஐ ஒரு பெரிய ஒற்றை பந்தயமாக முதலீட்டாளர்கள் பார்க்கிறார்கள் என்று தெரிவித்துள்ளார். இதன் காரணமாக முதலீட்டாளர்கள் தற்போது அதற்கு பதிலாக private assets-ஐ நாடுவதாக அவர் குறிப்பிட்டுள்ளார்.",
-    "slug": "warburg-pincus-ceo-says-investors-see-public-markets-as-one-big-bet"
+    "hasContent": true,
+    "pubDate": "2026-10-15T02:45:00.000Z"
   },
   {
     "id": "e0ce11968e07e5a6",
+    "slug": "ai-chip-stocks-in-south-korea-and-japan-tumble-after-us-semiconductor-selloff",
     "title": "AI chip stocks in South Korea and Japan tumble after US semiconductor selloff",
-    "summary": "The selloff highlights vulnerabilities in global tech markets, raising concerns about AI sector stability and potential economic ripple effects.\nThe post AI chip stocks in South Korea and Japan tumble after US semiconductor selloff appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/ai-chip-stocks-south-korea-japan-decline/",
-    "source": "CryptoBriefing",
     "tags": [
       "South Korea",
       "Japan",
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-15T02:34:18.000Z",
-    "fetchedAt": "2026-10-15T03:01:23.063Z",
-    "isDuplicateOf": null,
-    "content": "AI chip stocks in South Korea and Japan tumbled following a major US semiconductor selloff. This market downturn highlights vulnerabilities across global technology sectors and raises growing concerns regarding the overall stability of the AI industry. Investors are closely monitoring potential economic ripple effects as regional markets react to the broader international tech selloff.",
-    "content_ta": "அமெரிக்காவின் semiconductor சரிவைத் தொடர்ந்து South Korea மற்றும் Japan ஆகிய நாடுகளில் AI chip பங்குகள் சரிந்தன. இந்த சந்தை சரிவு உலகளாவிய தொழில்நுட்பத் துறைகளில் உள்ள பலவீனங்களை வெளிச்சம் போட்டுக் காட்டுவதோடு, AI துறையின் ஸ்திரத்தன்மை குறித்தும் கவலைகளை எழுப்புகிறது. சர்வதேச தொழில்நுட்பப் பங்குச் சரிவுக்கு பிராந்திய சந்தைகள் எதிர்வினையாற்றுவதால், சாத்தியமான பொருளாதார தாக்கங்களை முதலீட்டாளர்கள் உன்னிப்பாகக் கவனித்து வருகின்றனர்.",
-    "slug": "ai-chip-stocks-in-south-korea-and-japan-tumble-after-us-semiconductor-selloff"
+    "hasContent": true,
+    "pubDate": "2026-10-15T02:34:18.000Z"
   },
   {
     "id": "1cb6ffaad9b839de",
+    "slug": "boros-launches-spread-markets-to-trade-funding-rate-gaps",
     "title": "Boros launches spread markets to trade funding rate gaps",
-    "summary": "Boros's spread markets democratize access to funding rate arbitrage, potentially increasing liquidity and efficiency in crypto derivatives.\nThe post Boros launches spread markets to trade funding rate gaps appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/boros-launches-funding-rate-spread-markets/",
-    "source": "CryptoBriefing",
     "tags": [
       "Boros"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-15T02:20:00.000Z",
-    "fetchedAt": "2026-10-15T03:01:23.063Z",
-    "isDuplicateOf": null,
-    "content": "Boros has launched new spread markets designed to trade funding rate gaps. This development aims to democratize access to funding rate arbitrage in crypto derivatives. By opening up these markets, Boros has the potential to increase overall liquidity and trading efficiency within the crypto derivatives sector, offering new opportunities for market participants.",
-    "content_ta": "Boros நிறுவனம் ஃபண்டிங் ரேட் இடைவெளிகளை வர்த்தகம் செய்வதற்காக புதிய ஸ்பெட் மார்க்கெட்டுகளைத் தொடங்கியுள்ளது. கிரிப்டோ டெரிவேட்டிவ்களில் ஃபண்டிங் ரேட் ஆர்பிட்ரேஜ் வாய்ப்புகளை அனைவருக்கும் கொண்டு சேர்ப்பதை இந்தத் திட்டம் நோக்கமாகக் கொண்டுள்ளது. இதன் மூலம் கிரிப்டோ டெரிவேட்டிவ் சந்தையில் பணப்புழக்கம் மற்றும் வர்த்தகத் திறன் அதிகரிக்கும் என எதிர்பார்க்கப்படுகிறது.",
-    "slug": "boros-launches-spread-markets-to-trade-funding-rate-gaps"
+    "hasContent": true,
+    "pubDate": "2026-10-15T02:20:00.000Z"
   },
   {
     "id": "92864f2c70a2e292",
+    "slug": "white-house-press-secretary-katie-zacharia-failed-california-bar-exam-wsj",
     "title": "White House press secretary Katie Zacharia failed California bar exam: WSJ",
-    "summary": "Zacharia's bar exam failure may undermine confidence in her role, affecting perceptions of White House stability and future market expectations.\nThe post White House press secretary Katie Zacharia failed California bar exam: WSJ appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/white-house-press-secretary-katie-zacharia-failed-california-bar-exam-wsj/",
-    "source": "CryptoBriefing",
     "tags": [
       "White House",
       "Katie Zacharia",
       "California"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-15T02:11:32.000Z",
-    "fetchedAt": "2026-10-15T03:01:23.063Z",
-    "isDuplicateOf": null,
-    "content": "According to the Wall Street Journal, White House press secretary Katie Zacharia reportedly failed the California bar exam. This disclosure has raised questions regarding her qualifications and could potentially impact perceptions of administrative stability. Markets are closely watching how this development might influence broader political and economic expectations moving forward.",
-    "content_ta": "Wall Street Journal அறிக்கையின்படி, White House press secretary Katie Zacharia கலிபோர்னியா பார் தேர்வில் தோல்வியடைந்துள்ளார். இந்தத் தகவல் அவரது தகுதிகள் குறித்த கேள்விகளை எழுப்பியுள்ளதுடன், நிர்வாகத்தின் ஸ்திரத்தன்மை குறித்த பார்வைகளையும் பாதிக்கக்கூடும்.",
-    "slug": "white-house-press-secretary-katie-zacharia-failed-california-bar-exam-wsj"
+    "hasContent": true,
+    "pubDate": "2026-10-15T02:11:32.000Z"
   },
   {
     "id": "11d8c47a4f1135dd",
@@ -504,322 +832,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-14T21:23:30.000Z"
-  },
-  {
-    "id": "9cdd8398e1ac32b7",
-    "slug": "bank-of-america-sets-a-new-target-for-gold-price-by-the-end-of-2026",
-    "title": "Bank of America Sets a New Target For Gold Price By the End of 2026",
-    "tags": [
-      "Bank of America"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T21:19:48.000Z"
-  },
-  {
-    "id": "7ecedbeb01a020ff",
-    "slug": "developer-who-cloned-photoshop-with-ai-just-did-the-same-to-microsoft-office",
-    "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
-    "tags": [
-      "Microsoft",
-      "Anthropic",
-      "Adobe"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T21:16:03.000Z"
-  },
-  {
-    "id": "df65799a7c0a092a",
-    "slug": "google-s-gemini-4-argon-weighed-a-compiler-hack-then-backed-off",
-    "title": "Google’s Gemini 4 Argon weighed a compiler hack, then backed off",
-    "tags": [
-      "Google",
-      "Gemini 4 Argon"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T21:15:20.000Z"
-  },
-  {
-    "id": "10b8fd7369456a5c",
-    "slug": "anthropic-adds-opentelemetry-support-to-claude-platform-in-public-beta",
-    "title": "Anthropic adds OpenTelemetry support to Claude platform in public beta",
-    "tags": [
-      "Anthropic",
-      "Claude"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T21:02:34.000Z"
-  },
-  {
-    "id": "95a32d374e810d3b",
-    "slug": "basic-attention-token-bat-gains-93-in-a-week-can-buyers-absorb-these",
-    "title": "Basic Attention Token [BAT] gains 93% in a week: Can buyers absorb THESE?",
-    "tags": [
-      "Basic Attention Token"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T21:00:12.000Z"
-  },
-  {
-    "id": "b85b4a87a11b7310",
-    "slug": "nuvei-receives-south-african-authorisation",
-    "title": "Nuvei receives South African authorisation",
-    "tags": [
-      "Nuvei",
-      "Payments Association of South Africa",
-      "South Africa"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T20:54:00.000Z"
-  },
-  {
-    "id": "2e00ccc71dcdfd51",
-    "slug": "shayne-coplan-renews-speculation-about-polymarket-token",
-    "title": "Shayne Coplan Renews Speculation About Polymarket Token",
-    "tags": [
-      "Polymarket",
-      "Shayne Coplan",
-      "XRP"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T20:41:33.000Z"
-  },
-  {
-    "id": "c6058a00fe79feff",
-    "slug": "bitso-lists-western-union-s-usdpt-stablecoin-for-users-in-mexico",
-    "title": "Bitso lists Western Union’s USDPT stablecoin for users in Mexico",
-    "tags": [
-      "Bitso",
-      "Western Union",
-      "USDPT",
-      "Mexico"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T20:39:58.000Z"
-  },
-  {
-    "id": "26ee4ff14f0b32b1",
-    "slug": "riot-platforms-moves-its-bitcoin-custody-from-nydig-to-bitgo-bank-trust",
-    "title": "Riot Platforms moves its Bitcoin custody from NYDIG to BitGo Bank & Trust",
-    "tags": [
-      "Riot Platforms",
-      "Bitcoin",
-      "NYDIG",
-      "BitGo"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T20:38:57.000Z"
-  },
-  {
-    "id": "ad641346bacec144",
-    "slug": "coreweave-bond-slump-raises-credit-market-stress-concerns",
-    "title": "CoreWeave bond slump raises credit-market stress concerns",
-    "tags": [
-      "CoreWeave"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T20:33:13.000Z"
-  },
-  {
-    "id": "a58af38cada94c80",
-    "slug": "patrick-witt-exits-white-house-crypto-role-as-clarity-act-stalls",
-    "title": "Patrick Witt exits White House crypto role as Clarity Act stalls",
-    "tags": [
-      "Patrick Witt",
-      "White House"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T20:30:15.000Z"
-  },
-  {
-    "id": "b60f0c8678de0ab7",
-    "slug": "anthropic-licenses-opaque-systems-confidential-ai-technology-and-hires-key-engineers",
-    "title": "Anthropic licenses Opaque Systems’ confidential AI technology and hires key engineers",
-    "tags": [
-      "Anthropic",
-      "Opaque Systems"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T20:29:53.000Z"
-  },
-  {
-    "id": "9a03d3cb3352305b",
-    "slug": "coinbase-and-deribit-launch-six-new-equity-perpetual-futures-markets",
-    "title": "Coinbase and Deribit launch six new equity perpetual futures markets",
-    "tags": [
-      "Coinbase",
-      "Deribit"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T20:20:27.000Z"
-  },
-  {
-    "id": "d74040e9b8807526",
-    "slug": "a-refund-should-correct-the-balance-without-erasing-the-story",
-    "title": "A refund should correct the balance without erasing the story",
-    "tags": [
-      "Finextra"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T20:15:35.000Z"
-  },
-  {
-    "id": "70af177fcb512848",
-    "slug": "dell-stock-plunges-11-leading-data-center-sell-off-on-ai-concerns",
-    "title": "Dell stock plunges 11%, leading data center sell-off on AI concerns",
-    "tags": [
-      "Dell"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T20:14:47.000Z"
-  },
-  {
-    "id": "9b58a600ce235a25",
-    "slug": "stellar-goes-live-with-chainlink-data-services-for-defi-apps",
-    "title": "Stellar goes live with Chainlink data services for DeFi apps",
-    "tags": [
-      "Stellar",
-      "Chainlink"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T20:13:35.000Z"
-  },
-  {
-    "id": "371f8e8eaab9ae88",
-    "slug": "s-p-500-nasdaq-post-worst-day-since-july-as-ai-trade-falters",
-    "title": "S&P 500, Nasdaq post worst day since July as AI trade falters",
-    "tags": [
-      "S&P 500",
-      "Nasdaq"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T20:12:54.000Z"
-  },
-  {
-    "id": "3e69db18dca9222f",
-    "slug": "cz-wants-every-hardware-wallet-to-come-in-a-see-through-case",
-    "title": "CZ wants every hardware wallet to come in a see-through case",
-    "tags": [
-      "CZ",
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T20:05:09.000Z"
-  },
-  {
-    "id": "8bdb23f1b0b8df02",
-    "slug": "injective-crypto-rallies-10-after-gulf-labs-partnership-can-inj-break-out",
-    "title": "Injective crypto rallies 10% after Gulf Labs partnership – Can INJ break out?",
-    "tags": [
-      "Injective",
-      "Gulf Labs",
-      "INJ"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T20:00:56.000Z"
-  },
-  {
-    "id": "814ef037b4055989",
-    "slug": "blackrock-warns-halting-data-centers-means-recession",
-    "title": "BlackRock Warns Halting Data Centers Means Recession",
-    "tags": [
-      "BlackRock",
-      "Larry Fink",
-      "United States"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T20:00:00.000Z"
-  },
-  {
-    "id": "aae640e4fa5e4028",
-    "slug": "apple-plans-to-debut-ai-features-in-china-in-december",
-    "title": "Apple plans to debut AI features in China in December",
-    "tags": [
-      "Apple",
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T19:58:04.000Z"
-  },
-  {
-    "id": "850e30eb7261f34c",
-    "slug": "senate-democrats-deploy-election-observers-in-9-states-for-2026-midterms",
-    "title": "Senate Democrats deploy election observers in 9 states for 2026 midterms",
-    "tags": [
-      "Senate Democrats"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T19:48:17.000Z"
-  },
-  {
-    "id": "4f851c3261ee2aeb",
-    "slug": "gta-6-leaker-threatens-dead-man-s-switch-for-endgame-spoilers",
-    "title": "GTA 6 leaker threatens dead man’s switch for endgame spoilers",
-    "tags": [
-      "GTA 6",
-      "Cyberleek"
-    ],
-    "source": "Protos",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T19:47:30.000Z"
-  },
-  {
-    "id": "a34d83d2f0f6149a",
-    "slug": "evernorth-taps-ripple-ceo-brad-garlinghouse-as-strategic-advisor",
-    "title": "Evernorth taps Ripple CEO Brad Garlinghouse as strategic advisor",
-    "tags": [
-      "Evernorth",
-      "Ripple",
-      "Brad Garlinghouse",
-      "XRP"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-14T19:30:29.000Z"
   }
 ]
