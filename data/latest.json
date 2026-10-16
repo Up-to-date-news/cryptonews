@@ -1,88 +1,640 @@
 [
   {
-    "id": "e65785a3129e6ca8",
-    "title": "Plasma partners with Stripe as XPL surges by 10% — Can the rally continue?",
-    "summary": "Plasma's Stripe partnership had quite the impact on the market.",
-    "hasSummary": true,
-    "link": "https://ambcrypto.com/plasma-partners-with-stripe-as-xpl-surges-by-10-can-the-rally-continue/",
+    "id": "7f7612a910848b13",
+    "slug": "why-near-crypto-s-12-rally-could-extend-after-sunrise-partnership",
+    "title": "Why NEAR crypto’s 12% rally could extend after Sunrise partnership",
+    "tags": [
+      "NEAR Protocol",
+      "Sunrise",
+      "Solana"
+    ],
     "source": "AMBCrypto",
-    "tags": [],
     "origin": "rss",
-    "pubDate": "2026-10-16T15:00:54.000Z",
-    "fetchedAt": "2026-10-16T15:01:28.100Z",
+    "hasContent": true,
+    "pubDate": "2026-10-16T18:00:21.000Z"
+  },
+  {
+    "id": "6f76272efd5c537a",
+    "slug": "anthropic-s-claude-designs-leaner-quantum-circuits-cutting-gate-counts-by-up-to-17x",
+    "title": "Anthropic’s Claude designs leaner quantum circuits, cutting gate counts by up to 17x",
+    "tags": [
+      "Anthropic",
+      "Claude"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T17:52:16.000Z"
+  },
+  {
+    "id": "b0cd8bf4d482340a",
+    "slug": "india-s-cyber-agency-says-ai-agents-read-confidential-business-records-without-authorization",
+    "title": "India's Cyber Agency Says AI Agents Read Confidential Business Records Without Authorization",
+    "tags": [
+      "India",
+      "CERT-In"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T17:48:06.000Z"
+  },
+  {
+    "id": "404a8456e45b0cd1",
+    "slug": "blackwell-ultra-gpu-rental-prices-climb-17-straight-days-to-a-record-high",
+    "title": "Blackwell Ultra GPU rental prices climb 17 straight days to a record high",
+    "tags": [
+      "Blackwell Ultra"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T17:45:57.000Z"
+  },
+  {
+    "id": "d5b36f229a921c68",
+    "slug": "remitian-raises-20-million-for-ai-powered-accounting",
+    "title": "Remitian Raises $20 Million for AI Powered Accounting",
+    "tags": [
+      "Remitian",
+      "Securities and Exchange Commission"
+    ],
+    "source": "Crowdfund Insider",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T17:35:24.000Z"
+  },
+  {
+    "id": "db9560d2c462a974",
+    "slug": "anthropic-projects-claude-will-lead-80-90-of-frontier-model-training-by-2027",
+    "title": "Anthropic projects Claude will lead 80-90% of frontier model training by 2027",
+    "tags": [
+      "Anthropic",
+      "Claude"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T17:34:26.000Z"
+  },
+  {
+    "id": "c1d332a60cdc9a76",
+    "slug": "borderless-xyz-report-finds-stablecoin-payments-beat-bank-fx-rates",
+    "title": "Borderless.xyz report finds stablecoin payments beat bank FX rates",
+    "tags": [
+      "Borderless.xyz"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T17:29:53.000Z"
+  },
+  {
+    "id": "0f6aaaf4bcfe00d6",
+    "slug": "stablecoin-remittances-cost-84-less-than-traditional-transfers-report-finds",
+    "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
+    "tags": [
+      "Borderless.xyz"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T17:21:45.000Z"
+  },
+  {
+    "id": "3efd1dfee88c6f5b",
+    "slug": "starkware-promises-privacy-layer-for-trading-on-polymarket",
+    "title": "StarkWare Promises Privacy Layer for Trading on Polymarket",
+    "tags": [
+      "StarkWare",
+      "Polymarket",
+      "Polygon",
+      "Zcash"
+    ],
+    "source": "Crowdfund Insider",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T17:21:21.000Z"
+  },
+  {
+    "id": "ab13a735bd7acba4",
+    "slug": "only-18-of-uniswap-v3-positions-under-1-000-beat-holding-after-gas-study-finds",
+    "title": "Only 18% of Uniswap v3 positions under $1,000 beat holding after gas, study finds",
+    "tags": [
+      "Bitquery",
+      "Uniswap"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T17:20:21.000Z"
+  },
+  {
+    "id": "84b15018e140007a",
+    "slug": "layerzero-s-aerie-tackles-the-post-quantum-signature-bloat-problem",
+    "title": "LayerZero’s Aerie tackles the post-quantum signature bloat problem",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-10-16T17:15:17.000Z"
+  },
+  {
+    "id": "8ed6507895915b48",
+    "slug": "openai-s-jalapeno-chip-lands-on-time-s-best-inventions-of-2026-list",
+    "title": "OpenAI’s Jalapeño chip lands on TIME’s Best Inventions of 2026 list",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T17:14:32.000Z"
+  },
+  {
+    "id": "56f6d2412f2bed32",
+    "slug": "trump-questions-zacharia-s-fit-as-press-secretary-amid-media-scrutiny",
+    "title": "Trump questions Zacharia’s fit as press secretary amid media scrutiny",
+    "tags": [
+      "Donald Trump",
+      "Zacharia",
+      "White House"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T17:11:51.000Z"
+  },
+  {
+    "id": "d71b4d17da06575a",
+    "slug": "prime-trust-wins-9m-judgment-against-justin-sun-owned-poloniex",
+    "title": "Prime Trust wins $9M judgment against Justin Sun-owned Poloniex",
+    "tags": [
+      "Prime Trust",
+      "Justin Sun",
+      "Poloniex"
+    ],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T17:09:03.000Z"
+  },
+  {
+    "id": "ca240f7c929f918d",
+    "slug": "centrifuge-reports-asset-backed-credit-inflows-for-a-second-week",
+    "title": "Centrifuge reports asset-backed credit inflows for a second week",
+    "tags": [
+      "Centrifuge",
+      "DeFi"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T17:05:15.000Z"
+  },
+  {
+    "id": "e9e376a4ce228bc5",
+    "slug": "nvidia-s-h100-gpu-gains-about-30-in-value-as-ai-compute-demand-holds-firm",
+    "title": "Nvidia’s H100 GPU gains about 30% in value as AI compute demand holds firm",
+    "tags": [
+      "Nvidia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T17:00:59.000Z"
+  },
+  {
+    "id": "052f2903f354b0a1",
+    "slug": "billionaire-paul-tudor-jones-warns-2027-will-be-really-really-challenging-for-stocks-here-s-why",
+    "title": "Billionaire Paul Tudor Jones Warns 2027 Will Be ‘Really, Really Challenging’ for Stocks – Here’s Why",
+    "tags": [
+      "Paul Tudor Jones",
+      "Tudor Investment",
+      "CNBC"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T16:55:47.000Z"
+  },
+  {
+    "id": "51388083afded115",
+    "slug": "charles-schwab-says-bitcoin-still-has-strong-fundamentals-for-the-future",
+    "title": "Charles Schwab says Bitcoin still has strong fundamentals for the future",
+    "tags": [
+      "Charles Schwab",
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T16:43:38.000Z"
+  },
+  {
+    "id": "79a4cf517127b114",
+    "slug": "nvidia-s-jensen-huang-says-ai-may-need-a-billion-times-more-compute",
+    "title": "Nvidia’s Jensen Huang says AI may need a billion times more compute",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-10-16T16:37:50.000Z"
+  },
+  {
+    "id": "1ecc9b1797eef8e3",
+    "slug": "crypto-com-gemini-and-a16z-among-donors-in-210-5m-flow-to-trump-super-pacs",
+    "title": "Crypto.com, Gemini, and a16z among donors in $210.5M flow to Trump super PACs",
+    "tags": [
+      "Crypto.com",
+      "Gemini",
+      "a16z",
+      "Donald Trump"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T16:30:29.000Z"
+  },
+  {
+    "id": "766f13271db1d377",
+    "slug": "former-openai-researcher-nick-cammarata-says-most-ai-neurons-are-now-interpretable",
+    "title": "Former OpenAI researcher Nick Cammarata says most AI neurons are now interpretable",
+    "tags": [
+      "OpenAI",
+      "Nick Cammarata"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T16:25:52.000Z"
+  },
+  {
+    "id": "e4614c57930ffe6d",
+    "slug": "anthropic-s-claude-opus-5-5-leads-ai-model-standings-user-satisfaction-key",
+    "title": "Anthropic’s Claude Opus 5.5 leads AI model standings, user satisfaction key",
+    "tags": [
+      "Anthropic",
+      "Claude"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T16:24:35.000Z"
+  },
+  {
+    "id": "d896e73d0e6eeaeb",
+    "slug": "unique-wealth-discloses-10-4-million-in-bitcoin-exposure-in-latest-13f-hr-filing",
+    "title": "Unique Wealth discloses $10.4 million in Bitcoin exposure in latest 13F-HR filing",
+    "tags": [
+      "Unique Wealth",
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T16:24:19.000Z"
+  },
+  {
+    "id": "159fa4ce1dcd05e3",
+    "title": "Epstein bill would push regulators to disclose bank probes",
+    "summary": "Bank executives could face industry bans, fines and criminal referrals under legislation proposed by Sen. Elizabeth Warren, D-MA.",
+    "hasSummary": true,
+    "link": "https://www.bankingdive.com/news/warren-garcia-massie-epstein-bills-fed-fdic-occ-sec-disclosure-bank-executive-penalties/833252/",
+    "source": "Banking Dive",
+    "tags": [
+      "Elizabeth Warren",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-16T16:20:33.000Z",
+    "fetchedAt": "2026-10-16T18:01:20.837Z",
     "isDuplicateOf": null,
-    "content": null,
-    "slug": "plasma-partners-with-stripe-as-xpl-surges-by-10-can-the-rally-continue"
+    "content": "Proposed legislation by Sen. Elizabeth Warren aims to pressure regulators into disclosing bank probes. Under the new bill, bank executives could face severe penalties, including industry bans, financial fines, and criminal referrals, increasing accountability for financial institutions involved in misconduct.",
+    "content_ta": "Sen. Elizabeth Warren தாக்கல் செய்துள்ள புதிய மசோதா, வங்கி விசாரணைகளை வெளிப்படையாக வெளியிட regulators-களை வலியுறுத்துகிறது. இந்த புதிய மசோதாவின் கீழ், வங்கி உயரதிகாரிகள் தொழில்துறை தடை, அபராதம் மற்றும் கிரிமினல் பரிந்துரைகள் உள்ளிட்ட கடுமையான தண்டனைகளை எதிர்கொள்ள நேரிடும்.",
+    "slug": "epstein-bill-would-push-regulators-to-disclose-bank-probes"
+  },
+  {
+    "id": "a7a55b4526756ef2",
+    "title": "NYDFS fines Swedish bank SEB $33M over AML issues",
+    "summary": "Anti-money laundering program deficiencies at Stockholm-based Skandinaviska Enskilda Banken came to light following the 2016 Panama Papers leak that ensnared hundreds of banks.",
+    "hasSummary": true,
+    "link": "https://www.bankingdive.com/news/nydfs-fines-swedish-bank-seb-33-million-aml-panama-papers/833251/",
+    "source": "Banking Dive",
+    "tags": [
+      "NYDFS",
+      "SEB",
+      "Sweden",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-16T16:20:21.000Z",
+    "fetchedAt": "2026-10-16T18:01:20.837Z",
+    "isDuplicateOf": null,
+    "content": "The New York State Department of Financial Services has fined Swedish bank SEB $33 million for deficiencies in its anti-money laundering program. The issues were uncovered following the 2016 Panama Papers leak, which exposed the involvement of numerous financial institutions globally.",
+    "content_ta": "Anti-money laundering program குறைபாடுகள் காரணமாக ஸ்வீடிஷ் வங்கியான SEB-க்கு NYDFS நிறுவனம் 33 மில்லியன் டாலர் அபராதம் விதித்துள்ளது. 2016 ஆம் ஆண்டு வெளிவந்த Panama Papers கசிவுக்குப் பிறகு இந்த முறைகேடுகள் வெளிச்சத்திற்கு வந்தன.",
+    "slug": "nydfs-fines-swedish-bank-seb-33m-over-aml-issues"
+  },
+  {
+    "id": "39229f0c7563a4e8",
+    "slug": "cost-to-insure-big-tech-debt-surges-as-investors-question-ai-returns",
+    "title": "Cost to insure big tech debt surges as investors question AI returns",
+    "tags": [
+      "AI"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T16:19:25.000Z"
+  },
+  {
+    "id": "4124b95b823d9c32",
+    "title": "Global Fintech Funding Remains Robust: Report",
+    "summary": "Global Fintech funding remains robust, according to a report distributed by S&P Global Market Intelligence. According to S&P, Fintech startups raised $10.51 billion across 372 rounds Year over year during the same quarter; while there were fewer deals, total capital raised rose 25%, with 406... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/10/318848-global-fintech-funding-remains-robust-report/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "S&P Global Market Intelligence"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-16T16:18:58.000Z",
+    "fetchedAt": "2026-10-16T18:01:20.837Z",
+    "isDuplicateOf": null,
+    "content": "Global fintech funding remains robust, according to a new report from S&P Global Market Intelligence. Fintech startups raised $10.51 billion across 372 funding rounds. Although the total number of deals decreased compared to the previous year, the overall capital raised saw a notable increase of 25%, highlighting continued strong investor confidence in the sector.",
+    "content_ta": "S&P Global Market Intelligence வெளியிட்ட புதிய அறிக்கையின்படி, உலகளாவிய fintech நிதி ஒதுக்கீடு தொடர்ந்து வலுவாக உள்ளது. Fintech ஸ்டார்ட்அப் நிறுவனங்கள் 372 சுற்றுக்களில் $10.51 பில்லியன் நிதி திரட்டியுள்ளன. முந்தைய ஆண்டை ஒப்பிடும்போது ஒப்பந்தங்களின் எண்ணிக்கை குறைந்திருந்தாலும், திரட்டப்பட்ட மொத்த முதலீடு 25% அதிகரித்துள்ளது.",
+    "slug": "global-fintech-funding-remains-robust-report"
+  },
+  {
+    "id": "9a9b4f3e30fa41cd",
+    "slug": "dell-prepares-for-an-ai-slowdown-with-just-in-time-builds-and-a-customer-funded-model",
+    "title": "Dell prepares for an AI slowdown with just-in-time builds and a customer-funded model",
+    "tags": [
+      "Dell"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T16:18:43.000Z"
+  },
+  {
+    "id": "9367dfb1ce949c92",
+    "slug": "pump-fun-moves-into-perpetual-futures-with-hyperliquid-powering-the-engine",
+    "title": "Pump.fun moves into perpetual futures with Hyperliquid powering the engine",
+    "tags": [
+      "Pump.fun",
+      "Hyperliquid"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T16:09:32.000Z"
+  },
+  {
+    "id": "417aabaedfb737ea",
+    "slug": "elorian-launches-glimpse-an-ai-model-built-to-reason-in-pictures",
+    "title": "Elorian launches Glimpse, an AI model built to reason in pictures",
+    "tags": [
+      "Elorian",
+      "Glimpse"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T16:05:39.000Z"
+  },
+  {
+    "id": "8d29d9087f142d13",
+    "slug": "filecoin-how-rising-whale-demand-could-extend-fil-s-14-gains",
+    "title": "Filecoin – How rising whale demand could extend FIL’s 14% gains",
+    "tags": [
+      "Filecoin"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T16:00:45.000Z"
+  },
+  {
+    "id": "2034946340648912",
+    "slug": "bitcoin-steadies-near-82-000-as-warsh-declines-to-signal-another-fed-hike",
+    "title": "Bitcoin steadies near $82,000 as Warsh declines to signal another Fed hike",
+    "tags": [
+      "Bitcoin",
+      "Federal Reserve"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T16:00:05.000Z"
+  },
+  {
+    "id": "6df3ddc39388f900",
+    "slug": "inferact-raises-150m-seed-round-to-scale-the-vllm-inference-engine",
+    "title": "Inferact raises $150M seed round to scale the vLLM inference engine",
+    "tags": [
+      "Inferact"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T15:51:15.000Z"
+  },
+  {
+    "id": "b64840ebb9d01933",
+    "slug": "injective-inj-explodes-to-a-1-year-high-has-its-bull-run-begun",
+    "title": "Injective (INJ) Explodes to a 1-Year High: Has Its Bull Run Begun?",
+    "tags": [
+      "Injective",
+      "MikybullCrypto"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T15:49:17.000Z"
+  },
+  {
+    "id": "ec802d975f729b19",
+    "title": "Truist consumer-bank chief is out in leadership shakeup",
+    "summary": "Dontá Wilson, Truist's chief consumer and small business banking officer, is leaving the bank, which is also selling $7.7 billion of consumer loans to Carlyle.",
+    "hasSummary": true,
+    "link": "https://www.bankingdive.com/news/truist-lyons-wilson-consumer-banking-leadership-shakeup-earnings/833247/",
+    "source": "Banking Dive",
+    "tags": [
+      "Truist",
+      "Dontá Wilson",
+      "Carlyle"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-16T15:49:13.000Z",
+    "fetchedAt": "2026-10-16T18:01:20.837Z",
+    "isDuplicateOf": null,
+    "content": "Truist is undergoing a major leadership shakeup as its chief consumer and small business banking officer, Dontá Wilson, departs from the bank. Additionally, the financial institution is moving forward with the sale of $7.7 billion worth of consumer loans to Carlyle as part of its ongoing strategic adjustments.",
+    "content_ta": "Truist நிறுவனத்தில் ஏற்பட்டுள்ள தலைமை மாற்றத்தின் ஒரு பகுதியாக, அதன் நுகர்வோர் மற்றும் சிறு வணிக வங்கித் தலைவர் Dontá Wilson வெளியேறி உள்ளார். மேலும், இந்த நிதி நிறுவனம் Carlyle-க்கு 7.7 பில்லியன் டாலர் மதிப்பிலான நுகர்வோர் கடன்களை விற்கும் நடவடிக்கைகளில் ஈடுபட்டுள்ளது.",
+    "slug": "truist-consumer-bank-chief-is-out-in-leadership-shakeup"
+  },
+  {
+    "id": "a0551a0e9ed6f2f7",
+    "slug": "three-canadian-armed-forces-members-charged-in-kidnapping-of-crypto-exchange-owner",
+    "title": "Three Canadian Armed Forces Members Charged in Kidnapping of Crypto Exchange Owner",
+    "tags": [
+      "Canadian Armed Forces",
+      "Toronto",
+      "Canada"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T15:43:58.000Z"
+  },
+  {
+    "id": "c2d29f219264d8a4",
+    "slug": "fireblocks-joins-afme-collaboration-network-as-an-engagement-collaborator",
+    "title": "Fireblocks joins AFME Collaboration Network as an Engagement Collaborator",
+    "tags": [
+      "Fireblocks",
+      "AFME Collaboration Network",
+      "Europe"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T15:37:23.000Z"
+  },
+  {
+    "id": "92f36016f6e31871",
+    "slug": "cobo-to-shut-down-cobo-wallet-app-on-december-1",
+    "title": "Cobo to shut down Cobo Wallet app on December 1",
+    "tags": [
+      "Cobo"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T15:36:37.000Z"
+  },
+  {
+    "id": "47d0f5441268d03a",
+    "slug": "bitcoin-etfs-trade-over-7-5b-in-a-week-despite-145m-in-net-selling",
+    "title": "Bitcoin ETFs trade over $7.5B in a week despite $145M in net selling",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T15:21:16.000Z"
+  },
+  {
+    "id": "f4f964dab7956ca3",
+    "slug": "bitcoin-dumps-to-monthly-lows-on-hot-inflation-data-and-warsh-comments-weekly-crypto-recap",
+    "title": "Bitcoin Dumps to Monthly Lows on Hot Inflation Data and Warsh Comments: Weekly Crypto Recap",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T15:20:43.000Z"
+  },
+  {
+    "id": "bca9ab60bd11e3ed",
+    "slug": "unagi-puts-persona-journey-and-ultimate-champions-up-for-sale-in-court-ordered-liquidation",
+    "title": "Unagi puts Persona Journey and Ultimate Champions up for sale in court-ordered liquidation",
+    "tags": [
+      "Unagi",
+      "Persona Journey",
+      "Ultimate Champions"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T15:20:06.000Z"
+  },
+  {
+    "id": "76d232ceb42151f9",
+    "slug": "microsoft-exposes-how-usdt-funded-phishing-network-targeted-75-000-organizations",
+    "title": "Microsoft exposes how USDT-funded phishing network targeted 75,000 organizations",
+    "tags": [
+      "Microsoft",
+      "USDT",
+      "YAM Store"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T15:20:01.000Z"
+  },
+  {
+    "id": "17159ab6577fea5c",
+    "slug": "oracle-s-664-billion-ai-backlog-comes-with-a-hefty-execution-bill",
+    "title": "Oracle’s $664 billion AI backlog comes with a hefty execution bill",
+    "tags": [
+      "Oracle",
+      "OpenAI"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-16T15:15:04.000Z"
+  },
+  {
+    "id": "e65785a3129e6ca8",
+    "slug": "plasma-partners-with-stripe-as-xpl-surges-by-10-can-the-rally-continue",
+    "title": "Plasma partners with Stripe as XPL surges by 10% — Can the rally continue?",
+    "tags": [],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-10-16T15:00:54.000Z"
   },
   {
     "id": "398a9347102755d6",
+    "slug": "can-agentic-ai-transform-corporate-banking-self-service-experiences",
     "title": "Can Agentic AI Transform Corporate Banking Self-Service Experiences?",
-    "summary": "At Sibos 2026, Pega’s Steve Morgan talks about banks can leveraging agentic AI to deliver seamless corporate self-service experiences.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/videoarticle/3618/can-agentic-ai-transform-corporate-banking-self-service-experiences?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
     "tags": [
       "Pega",
       "Steve Morgan",
       "Sibos 2026"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-10-16T15:00:00.000Z",
-    "fetchedAt": "2026-10-16T15:01:28.100Z",
-    "isDuplicateOf": null,
-    "content": "At Sibos 2026, Pega’s Steve Morgan discussed how corporate banks can utilize agentic AI to significantly improve self-service experiences for their clients. By leveraging advanced artificial intelligence agents, financial institutions aim to deliver more seamless, efficient, and personalized digital banking interactions for businesses.",
-    "content_ta": "Sibos 2026 மாநாட்டில், Pega நிறுவனத்தைச் சேர்ந்த Steve Morgan பெரு நிறுவன வங்கிகள் தங்கள் வாடிக்கையாளர்களுக்கு சிறந்த சுய சேவை அனுபவங்களை வழங்க agentic AI எவ்வாறு உதவும் என்பது குறித்து விவாதித்தார். மேம்பட்ட செயற்கை நுண்ணறிவு முகவர்களைப் பயன்படுத்துவதன் மூலம், நிதி நிறுவனங்கள் வணிகங்களுக்கு மிகவும் தடையற்ற மற்றும் திறமையான டிஜிட்டல் வங்கி சேவைகளை வழங்க இலக்கு கொண்டுள்ளன.",
-    "slug": "can-agentic-ai-transform-corporate-banking-self-service-experiences"
+    "hasContent": true,
+    "pubDate": "2026-10-16T15:00:00.000Z"
   },
   {
     "id": "adfd77fa088f6c29",
+    "slug": "big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
     "title": "Big Tech's AI auditors will only see what they're shown",
-    "summary": "If the White House accord's audits are going to be worth anything, auditors should be able to choose what they test, writes Samuel Vance-Law, head of research at the Decentralization Research Center.",
-    "hasSummary": true,
-    "link": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
-    "source": "CoinDesk",
     "tags": [
       "White House",
       "Samuel Vance-Law",
       "Decentralization Research Center"
     ],
+    "source": "CoinDesk",
     "origin": "rss",
-    "pubDate": "2026-10-16T14:58:22.000Z",
-    "fetchedAt": "2026-10-16T15:01:28.100Z",
-    "isDuplicateOf": null,
-    "content": "Recent White House agreements regarding AI audits rely heavily on self-regulation and voluntary compliance. Experts argue that if these assessments are to be truly effective, independent auditors must have the autonomy to choose what they test rather than simply reviewing what technology companies choose to show them.",
-    "content_ta": "White House-ன் AI audits தொடர்பான ஒப்பந்தங்கள் பெரும்பாலும் சுய-ஒழுங்குமுறை மற்றும் தன்னிச்சையான இணக்கத்தையே நம்பியுள்ளன. இந்த மதிப்பீடுகள் உண்மையில் பயனுள்ளதாக இருக்க வேண்டுமானால், தொழில்நுட்ப நிறுவனங்கள் காட்டும் விஷயங்களை மட்டும் ஆய்வு செய்யாமல், தங்களுக்குப் பிடித்தமானவற்றைத் தாங்களே தேர்ந்தெடுத்து சோதிக்கும் சுதந்திரம் சுயேச்சை auditors-களுக்கு இருக்க வேண்டும் என்று வல்லுநர்கள் வாதிடுகின்றனர்.",
-    "slug": "big-tech-s-ai-auditors-will-only-see-what-they-re-shown"
+    "hasContent": true,
+    "pubDate": "2026-10-16T14:58:22.000Z"
   },
   {
     "id": "317a6afbaa666430",
+    "slug": "jump-trading-and-drw-commit-traders-and-capital-to-compute-power-contracts",
     "title": "Jump Trading and DRW commit traders and capital to compute power contracts",
-    "summary": "The integration of compute power contracts into financial markets could revolutionize risk management and trading strategies in AI-driven industries.\nThe post Jump Trading and DRW commit traders and capital to compute power contracts appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/jump-trading-drw-compute-power-contracts/",
-    "source": "CryptoBriefing",
     "tags": [],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-16T14:54:15.000Z",
-    "fetchedAt": "2026-10-16T15:01:28.100Z",
-    "isDuplicateOf": null,
-    "content": null,
-    "slug": "jump-trading-and-drw-commit-traders-and-capital-to-compute-power-contracts"
+    "hasContent": false,
+    "pubDate": "2026-10-16T14:54:15.000Z"
   },
   {
     "id": "a38849a0d8344a4b",
+    "slug": "filecoin-plans-to-shift-block-rewards-toward-paid-storage",
     "title": "Filecoin plans to shift block rewards toward paid storage",
-    "summary": "Filecoin's shift in block rewards could incentivize genuine storage demand, potentially tightening FIL supply and enhancing network transparency.\nThe post Filecoin plans to shift block rewards toward paid storage appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/filecoin-fip-0118-block-rewards-paid-storage/",
-    "source": "CryptoBriefing",
     "tags": [],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-16T14:45:14.000Z",
-    "fetchedAt": "2026-10-16T15:01:28.100Z",
-    "isDuplicateOf": null,
-    "content": null,
-    "slug": "filecoin-plans-to-shift-block-rewards-toward-paid-storage"
+    "hasContent": false,
+    "pubDate": "2026-10-16T14:45:14.000Z"
   },
   {
     "id": "f61997f68fb39d89",
@@ -238,565 +790,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-16T13:31:07.000Z"
-  },
-  {
-    "id": "a740b986382cecd0",
-    "slug": "major-crypto-exchange-announces-october-asset-delistings-xrp-safe",
-    "title": "Major Crypto Exchange Announces October Asset Delistings, XRP Safe",
-    "tags": [
-      "XRP"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T13:30:20.000Z"
-  },
-  {
-    "id": "3c23719ff71e8e35",
-    "slug": "equifax-taps-mastercard-open-finance-to-give-lenders-more-consumer-permissioned-insights",
-    "title": "Equifax taps Mastercard Open Finance to give lenders more consumer-permissioned insights",
-    "tags": [
-      "Equifax",
-      "Mastercard"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T13:28:00.000Z"
-  },
-  {
-    "id": "d11c63152293d888",
-    "slug": "fxc-intelligence-issues-cross-border-payment-on-aws",
-    "title": "FXC Intelligence issues cross-border payment on AWS",
-    "tags": [
-      "FXC Intelligence",
-      "Amazon Web Services"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T13:26:00.000Z"
-  },
-  {
-    "id": "8ab8a516149314da",
-    "slug": "openai-agent-questions-its-own-ethics-after-going-rogue-to-steal-crypto",
-    "title": "OpenAI agent questions its own ethics after going rogue to steal crypto",
-    "tags": [
-      "OpenAI",
-      "Ethereum"
-    ],
-    "source": "Protos",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T13:23:04.000Z"
-  },
-  {
-    "id": "d183d6f32bc6b4ce",
-    "slug": "feedzai-report-shows-banks-overconfidence-on-fraud",
-    "title": "Feedzai report shows banks' overconfidence on fraud",
-    "tags": [
-      "Feedzai"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T13:20:00.000Z"
-  },
-  {
-    "id": "6721e21782b56631",
-    "slug": "coinbase-and-marqeta-expand-partnership-to-launch-stablecoin-backed-cards-for-enterprises",
-    "title": "Coinbase and Marqeta expand partnership to launch stablecoin-backed cards for enterprises",
-    "tags": [
-      "Coinbase",
-      "Marqeta"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T13:15:10.000Z"
-  },
-  {
-    "id": "e8c11cc13b9603d5",
-    "slug": "research-reveals-gaps-in-sme-s-stablecoin-adoption",
-    "title": "Research reveals gaps in SME's stablecoin adoption",
-    "tags": [
-      "Neo"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T13:13:00.000Z"
-  },
-  {
-    "id": "417a495918b39bd1",
-    "slug": "market-infrastructure-why-price-transparency-matters-when-buying-physical-bullion",
-    "title": "Market Infrastructure: Why Price Transparency Matters When Buying Physical Bullion",
-    "tags": [
-      "Bullion"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T13:12:18.000Z"
-  },
-  {
-    "id": "052a8d77385116d7",
-    "slug": "insane-trading-wins-and-losses-major-zec-turbulence-and-more-bits-recap-october-16",
-    "title": "Insane Trading Wins and Losses, Major ZEC Turbulence, and More: Bits Recap October 16",
-    "tags": [
-      "ZEC",
-      "Bitcoin"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T13:08:34.000Z"
-  },
-  {
-    "id": "8f95f38277075acd",
-    "slug": "japan-s-megabanks-finish-yen-stablecoin-pilot-and-eye-real-transactions",
-    "title": "Japan’s Megabanks Finish Yen Stablecoin Pilot and Eye Real Transactions",
-    "tags": [
-      "Japan",
-      "Mizuho",
-      "MUFG",
-      "SMBC"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T13:05:39.000Z"
-  },
-  {
-    "id": "a7b12d6d961db1f1",
-    "slug": "pacific-meta-taps-chainlink-ccip-to-push-tokenized-finance-in-japan",
-    "title": "Pacific Meta taps Chainlink CCIP to push tokenized finance in Japan",
-    "tags": [
-      "Pacific Meta",
-      "Chainlink",
-      "Japan"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T13:05:31.000Z"
-  },
-  {
-    "id": "4c623d04a9a9933d",
-    "slug": "markets-wobble-on-energy-fears-as-rate-pressure-builds-globally",
-    "title": "Markets Wobble on Energy Fears as Rate Pressure Builds Globally",
-    "tags": [
-      "India",
-      "United Kingdom"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T13:00:21.000Z"
-  },
-  {
-    "id": "9b9b6ac74f6fd534",
-    "slug": "institutions-managing-800-billion-ask-what-crypto-tokens-actually-earn",
-    "title": "Institutions managing €800 billion ask what crypto tokens actually earn",
-    "tags": [
-      "Arbitrum Foundation",
-      "Brendan Ma"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T13:00:10.000Z"
-  },
-  {
-    "id": "c92761bbcd3dc19c",
-    "slug": "finextra-aci-worldwide-launch-global-survey-report-payments-2030-the-payoff-year",
-    "title": "Finextra & ACI Worldwide launch global survey report: ‘Payments 2030: The Payoff Year’",
-    "tags": [
-      "Finextra",
-      "ACI Worldwide"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T13:00:00.000Z"
-  },
-  {
-    "id": "ae825249ec90b97e",
-    "slug": "spark-liquidity-layer-allocates-over-3b-across-defi-venues",
-    "title": "Spark Liquidity Layer allocates over $3B across DeFi venues",
-    "tags": [
-      "Spark Liquidity Layer"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T12:54:00.000Z"
-  },
-  {
-    "id": "2c456749b7b366f3",
-    "slug": "japanese-banks-complete-stablecoin-poc",
-    "title": "Japanese banks complete stablecoin PoC",
-    "tags": [
-      "Sumitomo Mitsui Banking Corporation",
-      "Mizuho Bank",
-      "MUFG Bank",
-      "Mitsubishi UFJ Trust and Banking Corporation",
-      "TISI Inc.",
-      "Japan"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T12:51:00.000Z"
-  },
-  {
-    "id": "7429cb9672104b2e",
-    "slug": "bitcoin-s-loss-selling-spike-near-80k-may-mark-a-local-bottom-glassnode-says",
-    "title": "Bitcoin’s loss-selling spike near $80K may mark a local bottom, Glassnode says",
-    "tags": [
-      "Bitcoin",
-      "Glassnode"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T12:37:19.000Z"
-  },
-  {
-    "id": "cfdf49e0df2d36e2",
-    "slug": "circle-paid-819-million-to-usdc-partners-in-the-first-half-of-2026",
-    "title": "Circle paid $819 million to USDC partners in the first half of 2026",
-    "tags": [
-      "Circle",
-      "USDC"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T12:36:05.000Z"
-  },
-  {
-    "id": "440fa0d3e476efd0",
-    "slug": "1win-public-sale-attracts-over-3-9m-in-usdc-commitments-within-eight-minutes",
-    "title": "$1WIN Public Sale Attracts Over $3.9M in USDC Commitments Within Eight Minutes",
-    "tags": [
-      "1win",
-      "$1WIN"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T12:35:12.000Z"
-  },
-  {
-    "id": "a993643348810862",
-    "slug": "uk-watchdog-moves-to-put-microsoft-s-business-software-under-special-oversight",
-    "title": "UK watchdog moves to put Microsoft’s business software under special oversight",
-    "tags": [
-      "Microsoft",
-      "CMA",
-      "United Kingdom"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T12:28:43.000Z"
-  },
-  {
-    "id": "06c6367ee3b2dcd8",
-    "slug": "payments-2026-moving-from-ai-experimentation-to-institutional-execution",
-    "title": "Payments 2026: Moving from AI Experimentation to Institutional Execution",
-    "tags": [
-      "AI",
-      "Payments 2026"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T12:28:08.000Z"
-  },
-  {
-    "id": "bcb29ebb8d731a73",
-    "slug": "openai-research-model-used-public-seed-phrase-to-spend-from-unauthorized-wallet-on-ethereum-sepolia",
-    "title": "OpenAI Research Model Used Public Seed Phrase to Spend from Unauthorized Wallet on Ethereum Sepolia Testnet",
-    "tags": [
-      "OpenAI",
-      "Ethereum"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T12:24:14.000Z"
-  },
-  {
-    "id": "e276d4097a434f7a",
-    "slug": "altcoins-mixed-as-tia-zk-and-eigen-lead-weekly-gains",
-    "title": "Altcoins mixed as TIA, ZK and EIGEN lead weekly gains",
-    "tags": [
-      "TIA",
-      "ZK",
-      "EIGEN"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T12:20:44.000Z"
-  },
-  {
-    "id": "0ec2d4d1b7469796",
-    "slug": "ecb-approves-unicredit-s-bid-for-control-of-commerzbank",
-    "title": "ECB approves Unicredit's bid for control of Commerzbank",
-    "tags": [
-      "European Central Bank",
-      "UniCredit",
-      "Commerzbank"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T12:01:00.000Z"
-  },
-  {
-    "id": "21fd13397c2fee18",
-    "slug": "ebaday-2027-fintech-zone-applications-now-open",
-    "title": "EBAday 2027: Fintech Zone applications now open",
-    "tags": [
-      "EBAday",
-      "Europe"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T12:00:00.000Z"
-  },
-  {
-    "id": "8ba778d40ae8d829",
-    "slug": "banking-has-had-a-product-mindset-problem-but-it-might-be-starting-to-get-better",
-    "title": "Banking has had a product mindset problem, but it might be starting to get better",
-    "tags": [
-      "Tearsheet"
-    ],
-    "source": "Tearsheet",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T12:00:00.000Z"
-  },
-  {
-    "id": "f0e2b6d834be4cd5",
-    "slug": "masspay-partners-with-bottomline-to-add-paymode-virtual-card-and-premium-ach-to-its-platform",
-    "title": "MassPay Partners with Bottomline to Add Paymode Virtual Card and Premium ACH to Its Platform",
-    "tags": [],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-10-16T11:59:23.000Z"
-  },
-  {
-    "id": "937aacb6c8a3db60",
-    "slug": "diebold-nixdorf-enables-stc-pay-bahrain-to-bridge-digital-and-physical-financial-services",
-    "title": "Diebold Nixdorf Enables stc pay Bahrain to Bridge Digital and Physical Financial Services",
-    "tags": [
-      "Diebold Nixdorf",
-      "stc pay Bahrain",
-      "Bahrain",
-      "Almoayed Group WLL"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T11:53:01.000Z"
-  },
-  {
-    "id": "66efda7912ce05c2",
-    "slug": "morning-minute-google-clears-a-major-quantum-hurdle-bitcoin-still-safe",
-    "title": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
-    "tags": [],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-10-16T11:46:54.000Z"
-  },
-  {
-    "id": "7ba52df1672c9c12",
-    "slug": "new-jersey-man-gets-16-years-in-prison-ordered-to-surrender-1-800-000-for-stealing-from-bank",
-    "title": "New Jersey Man Gets 16 Years in Prison, Ordered To Surrender $1,800,000 for Stealing From Bank Accounts and Cashing Stolen US Treasury Checks",
-    "tags": [
-      "New Jersey",
-      "Laquan Williams",
-      "United States"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T11:45:14.000Z"
-  },
-  {
-    "id": "0d49aaf060c6bd18",
-    "slug": "anthropic-gets-bb-rating-as-wall-street-plans-60b-ai-financing",
-    "title": "Anthropic gets BB+ rating as Wall Street plans $60B AI financing",
-    "tags": [
-      "Anthropic",
-      "Wall Street"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T11:38:52.000Z"
-  },
-  {
-    "id": "c2975cfcbbb9abcf",
-    "slug": "etherscan-launches-transaction-debugger-skill-for-ai-agents",
-    "title": "Etherscan launches Transaction Debugger skill for AI agents",
-    "tags": [
-      "Etherscan",
-      "Ethereum"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T11:36:47.000Z"
-  },
-  {
-    "id": "e2e15c68b72d5ea1",
-    "slug": "bitcoin-price-prediction-expert-says-load-up-between-83k-and-86k-before-btc-takes-off",
-    "title": "Bitcoin Price Prediction: Expert Says Load Up Between $83K And $86K Before BTC ‘Takes Off’",
-    "tags": [
-      "Bitcoin",
-      "James Thorne",
-      "Wellington-Altus Private Wealth"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T11:36:41.000Z"
-  },
-  {
-    "id": "dedd02f1c2f8332c",
-    "slug": "anthropic-lands-bb-credit-rating-from-kbra-one-notch-below-investment-grade",
-    "title": "Anthropic lands BB+ credit rating from KBRA, one notch below investment grade",
-    "tags": [
-      "Anthropic",
-      "KBRA"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T11:36:16.000Z"
-  },
-  {
-    "id": "71ca91ec0bf952dd",
-    "slug": "firelight-brings-onchain-protection-to-kraken-protected-strategies-usdc-vault",
-    "title": "Firelight Brings Onchain Protection to Kraken Protected Strategies USDC Vault",
-    "tags": [
-      "Firelight",
-      "Kraken",
-      "USDC"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T11:33:14.000Z"
-  },
-  {
-    "id": "64a5d7e4dc709bd1",
-    "slug": "ai-debt-concerns-hit-nvidia-broadcom-coreweave-stocks-amid-rising-bond-yields",
-    "title": "AI debt concerns hit Nvidia, Broadcom, CoreWeave stocks amid rising bond yields",
-    "tags": [
-      "Nvidia",
-      "Broadcom",
-      "CoreWeave"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T11:32:49.000Z"
-  },
-  {
-    "id": "3a53684c930ea539",
-    "slug": "strategy-dips-on-bad-msci-world-index-news",
-    "title": "Strategy dips on bad MSCI World Index news",
-    "tags": [
-      "Strategy",
-      "MSCI World Index"
-    ],
-    "source": "Protos",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T11:31:20.000Z"
-  },
-  {
-    "id": "abec86c593d6f7a1",
-    "slug": "hkex-sets-out-roadmap-for-t-1-transition",
-    "title": "HKEX sets out roadmap for T+1 transition",
-    "tags": [
-      "Hong Kong Exchanges and Clearing Limited",
-      "Hong Kong"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T11:31:00.000Z"
-  },
-  {
-    "id": "9890c8f7d0252e80",
-    "slug": "midnight-price-prediction-can-night-defend-key-support-and-rally-26",
-    "title": "Midnight price prediction – Can NIGHT defend KEY support and rally 26%?",
-    "tags": [
-      "NIGHT"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T11:30:50.000Z"
-  },
-  {
-    "id": "89830d1f85c6584a",
-    "slug": "chromia-chr-price-prediction-2026-2027-2030-will-the-bull-run-push-chr-price-to-0-1",
-    "title": "Chromia (CHR) Price Prediction 2026, 2027-2030: Will The Bull Run Push CHR Price to $0.1?",
-    "tags": [],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-10-16T11:30:00.000Z"
-  },
-  {
-    "id": "61df036c6626de62",
-    "slug": "gmgn-launches-a-10-day-onchain-trading-championship-with-a-custom-aston-martin-on-the-line",
-    "title": "GMGN Launches a 10-Day Onchain Trading Championship With a Custom Aston Martin on the Line",
-    "tags": [],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-10-16T11:25:15.000Z"
-  },
-  {
-    "id": "89145badcd0a034d",
-    "slug": "bitunix-talk-show-at-token2049-from-education-to-community-kols-say-trading-is-no-longer-solo",
-    "title": "Bitunix Talk Show at TOKEN2049: From Education to Community, KOLs Say Trading Is No Longer Solo",
-    "tags": [
-      "Bitunix",
-      "BeInCrypto",
-      "TOKEN2049",
-      "Singapore"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T11:24:43.000Z"
-  },
-  {
-    "id": "aaa1cf6fe7d6d10e",
-    "slug": "solana-s-liu-says-shanghai-event-postponed-over-registration-surge",
-    "title": "Solana’s Liu says Shanghai event postponed over registration surge",
-    "tags": [
-      "Solana",
-      "Solana Foundation",
-      "Lily Liu",
-      "Shanghai"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T11:22:47.000Z"
   }
 ]
