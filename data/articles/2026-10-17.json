@@ -830,5 +830,43 @@
     "content": "A Kansas businessman, Brett Blackman, was sentenced to 19 years in federal prison for operating an online platform that generated false medical orders to defraud Medicare. Following a 23-day trial, Blackman was convicted of multiple charges including wire fraud and conspiracy to commit healthcare fraud.",
     "content_ta": "Medicare மோசடியில் ஈடுபட்டதாகக் கூற, ஆன்லைன் தளம் ஒன்றை இயக்கிய Kansas மாநிலத்தைச் சேர்ந்த தொழிலதிபர் Brett Blackman-க்கு 19 ஆண்டுகள் பெடரல் சிறை தண்டனை விதிக்கப்பட்டுள்ளது. 23 நாட்கள் நடைபெற்ற விசாரணைக்குப் பிறகு, ஒயர் ப்ராட் மற்றும் சதித்திட்டம் உள்ளிட்ட பல குற்றச்சாட்டுகள் அவர் மீது நிரூபிக்கப்பட்டன.",
     "slug": "kansas-ceo-masterminds-1-000-000-0000-medicare-fraud-sentenced-to-19-years-behind-bars"
+  },
+  {
+    "id": "29dc99b21dbfca01",
+    "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+    "summary": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+    "source": "CoinDesk",
+    "tags": [
+      "Bank for International Settlements",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-17T12:00:00.000Z",
+    "fetchedAt": "2026-10-17T12:01:23.908Z",
+    "isDuplicateOf": null,
+    "content": "A recent Bank for International Settlements working paper suggests that traditional banks could potentially slow down the growth of stablecoins by offering higher interest rates to savers. The research indicates that even small increases in U.S. bank deposit rates can lead to a noticeable decrease in stablecoin growth over a period of several weeks, as depositors are incentivized to keep their funds in traditional banking accounts.",
+    "content_ta": "பாரம்பரிய வங்கிகள் சேமிப்பாளர்களுக்கான வட்டி விகிதங்களை அதிகரிப்பதன் மூலம் stablecoin வளர்ச்சியைக் குறைக்க முடியும் என்று Bank for International Settlements-ன் ஆய்வு அறிக்கை தெரிவிக்கிறது. U.S. வங்கி வைப்புத்தொகை வட்டி விகிதங்களில் ஏற்படும் சிறிய உயர்வு கூட, முதலீட்டாளர்களை பாரம்பரிய வங்கிகளிலேயே பணத்தை வைத்திருக்கத் தூண்டுவதன் மூலம் stablecoin வளர்ச்சியை மந்தமாக்கும் என்று இந்த ஆய்வு காட்டுகிறது.",
+    "slug": "banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds"
+  },
+  {
+    "id": "f6450a3aba41b8e9",
+    "title": "Eclair patches a browser attack that could send commands to your Lightning node",
+    "summary": "The Oct. 15 release blocks a cached-authentication route to Eclair's API and requires direct browser interfaces to add a backend.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/eclair-blocks-browser-requests-that-could-let-a-webpage-control-a-bitcoin-lightning-node/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Eclair",
+      "Lightning"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-17T12:00:20.000Z",
+    "fetchedAt": "2026-10-17T12:01:23.908Z",
+    "isDuplicateOf": null,
+    "content": "An update released for Eclair addresses a browser-based attack vector capable of sending commands to Lightning nodes. The software patch blocks a cached-authentication vulnerability within the API and requires direct browser interfaces to securely add a backend, improving overall security for users.",
+    "content_ta": "Eclair-ல் வெளியிடப்பட்ட ஒரு புதிய அப்டேட், Lightning நோட்களுக்கு கட்டளைகளை அனுப்பக்கூடிய பிரவுசர் வழித் தாக்குதலைத் தடுத்துள்ளது. இந்த மென்பொருள் பேட்ச் API-ல் உள்ள கேக்டு-அத்தண்டிகேஷன் பாதிப்பைத் தடுப்பதோடு, பாதுகாப்பை மேம்படுத்த நேரடி பிரவுசர் இடைமுகங்களைக் கோருகிறது.",
+    "slug": "eclair-patches-a-browser-attack-that-could-send-commands-to-your-lightning-node"
   }
 ]

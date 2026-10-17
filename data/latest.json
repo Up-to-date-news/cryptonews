@@ -1,5 +1,43 @@
 [
   {
+    "id": "f6450a3aba41b8e9",
+    "title": "Eclair patches a browser attack that could send commands to your Lightning node",
+    "summary": "The Oct. 15 release blocks a cached-authentication route to Eclair's API and requires direct browser interfaces to add a backend.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/eclair-blocks-browser-requests-that-could-let-a-webpage-control-a-bitcoin-lightning-node/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Eclair",
+      "Lightning"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-17T12:00:20.000Z",
+    "fetchedAt": "2026-10-17T12:01:23.908Z",
+    "isDuplicateOf": null,
+    "content": "An update released for Eclair addresses a browser-based attack vector capable of sending commands to Lightning nodes. The software patch blocks a cached-authentication vulnerability within the API and requires direct browser interfaces to securely add a backend, improving overall security for users.",
+    "content_ta": "Eclair-ல் வெளியிடப்பட்ட ஒரு புதிய அப்டேட், Lightning நோட்களுக்கு கட்டளைகளை அனுப்பக்கூடிய பிரவுசர் வழித் தாக்குதலைத் தடுத்துள்ளது. இந்த மென்பொருள் பேட்ச் API-ல் உள்ள கேக்டு-அத்தண்டிகேஷன் பாதிப்பைத் தடுப்பதோடு, பாதுகாப்பை மேம்படுத்த நேரடி பிரவுசர் இடைமுகங்களைக் கோருகிறது.",
+    "slug": "eclair-patches-a-browser-attack-that-could-send-commands-to-your-lightning-node"
+  },
+  {
+    "id": "29dc99b21dbfca01",
+    "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+    "summary": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+    "source": "CoinDesk",
+    "tags": [
+      "Bank for International Settlements",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-17T12:00:00.000Z",
+    "fetchedAt": "2026-10-17T12:01:23.908Z",
+    "isDuplicateOf": null,
+    "content": "A recent Bank for International Settlements working paper suggests that traditional banks could potentially slow down the growth of stablecoins by offering higher interest rates to savers. The research indicates that even small increases in U.S. bank deposit rates can lead to a noticeable decrease in stablecoin growth over a period of several weeks, as depositors are incentivized to keep their funds in traditional banking accounts.",
+    "content_ta": "பாரம்பரிய வங்கிகள் சேமிப்பாளர்களுக்கான வட்டி விகிதங்களை அதிகரிப்பதன் மூலம் stablecoin வளர்ச்சியைக் குறைக்க முடியும் என்று Bank for International Settlements-ன் ஆய்வு அறிக்கை தெரிவிக்கிறது. U.S. வங்கி வைப்புத்தொகை வட்டி விகிதங்களில் ஏற்படும் சிறிய உயர்வு கூட, முதலீட்டாளர்களை பாரம்பரிய வங்கிகளிலேயே பணத்தை வைத்திருக்கத் தூண்டுவதன் மூலம் stablecoin வளர்ச்சியை மந்தமாக்கும் என்று இந்த ஆய்வு காட்டுகிறது.",
+    "slug": "banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds"
+  },
+  {
     "id": "671be6fc4b166850",
     "slug": "2-banking-giants-make-major-crypto-moves-as-schwab-and-deutsche-bank-expand-into-digital-assets",
     "title": "2 Banking Giants Make Major Crypto Moves as Schwab and Deutsche Bank Expand Into Digital Assets",
@@ -82,21 +120,15 @@
   },
   {
     "id": "e7412d3a7ece3f5c",
+    "slug": "why-is-netflix-nflx-stock-falling-3-key-factors-to-watch",
     "title": "Why Is Netflix (NFLX) Stock Falling? 3 Key Factors to Watch",
-    "summary": "The post Why Is Netflix (NFLX) Stock Falling? 3 Key Factors to Watch appeared first on Coinpedia Fintech News\nNetflix (NFLX) stock is facing renewed selling pressure ahead of its upcoming earnings report, as investors assess changes to its content leadership, workforce reductions and growth outlook. NFLX shares price closed Friday at $70.53, putting the streaming giant under scrutiny before its October 20 results. Although advertising revenue and subscription pricing remain potential growth drivers, …",
-    "hasSummary": true,
-    "link": "https://coinpedia.org/price-analysis/why-is-netflix-nflx-stock-falling-3-key-factors-to-watch/",
-    "source": "Coinpedia",
     "tags": [
       "Netflix"
     ],
+    "source": "Coinpedia",
     "origin": "rss",
-    "pubDate": "2026-10-17T10:27:00.000Z",
-    "fetchedAt": "2026-10-17T11:42:28.725Z",
-    "isDuplicateOf": null,
-    "content": "Netflix (NFLX) stock is experiencing renewed selling pressure ahead of its upcoming earnings report on October 20. Investors are closely evaluating recent changes in content leadership, workforce reductions, and the overall growth outlook. While advertising revenue and subscription pricing are viewed as potential growth drivers, the streaming giant currently faces heightened market scrutiny.",
-    "content_ta": "அக்டோபர் 20-ல் வரவிருக்கும் வருவாய் அறிக்கைக்கு முன்பு Netflix (NFLX) பங்குகளின் விலை சரிவை சந்தித்து வருகிறது. முதலீட்டாளர்கள் நிறுவனத்தின் தலைமை மாற்றங்கள், பணியாளர் குறைப்பு மற்றும் வளர்ச்சி இலக்குகளை உன்னிப்பாக கவனித்து வருகின்றனர். விளம்பர வருவாய் மற்றும் சந்தா கட்டணங்கள் வளர்ச்சிக்கு உதவக்கூடும் என்றாலும், இந்த ஸ்ட்ரீமிங் நிறுவனம் தற்போது சந்தையின் தீவிர பார்வையில் உள்ளது.",
-    "slug": "why-is-netflix-nflx-stock-falling-3-key-factors-to-watch"
+    "hasContent": true,
+    "pubDate": "2026-10-17T10:27:00.000Z"
   },
   {
     "id": "e0667bec35399086",
@@ -128,61 +160,43 @@
   },
   {
     "id": "69dde765ec46c0e7",
+    "slug": "china-positioned-to-lead-ai-deployment-in-factories-as-europe-races-to-catch-up",
     "title": "China positioned to lead AI deployment in factories as Europe races to catch up",
-    "summary": "China's AI leadership in manufacturing could reshape global industrial dynamics, challenging Europe to leverage its data expertise for competitiveness.\nThe post China positioned to lead AI deployment in factories as Europe races to catch up appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/china-leads-ai-factory-deployment-europe/",
-    "source": "CryptoBriefing",
     "tags": [
       "China",
       "Europe"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-17T10:08:49.000Z",
-    "fetchedAt": "2026-10-17T11:42:28.725Z",
-    "isDuplicateOf": null,
-    "content": "China is well-positioned to take the lead in deploying artificial intelligence within factories, marking a significant shift in manufacturing. This development could reshape global industrial dynamics and poses a competitive challenge to Europe. As China advances in industrial AI adoption, European industries are racing to catch up by leveraging their existing data expertise to remain globally competitive in the evolving technological landscape.",
-    "content_ta": "தொழிற்சாலைகளில் AI தொழில்நுட்பத்தை பயன்படுத்துவதில் China முன்னணி நிலையை எட்டியுள்ளது. இந்த வளர்ச்சி உலகளாவிய தொழில்துறை சூழலை மாற்றி அமைப்பதோடு, Europe-க்கு பெரும் போட்டியையும் உருவாக்கியுள்ளது. உலகளாவிய சந்தையில் போட்டியிடும் வகையில், European நாடுகள் தங்கள் டேட்டா நிபுணத்துவத்தை பயன்படுத்தி இந்த தொழில்நுட்ப இடைவெளியை நிரப்ப தீவிரமாக முயன்று வருகின்றன.",
-    "slug": "china-positioned-to-lead-ai-deployment-in-factories-as-europe-races-to-catch-up"
+    "hasContent": true,
+    "pubDate": "2026-10-17T10:08:49.000Z"
   },
   {
     "id": "6c8385935d815a87",
+    "slug": "anthropic-s-ai-capabilities-advancing-faster-than-expected-says-co-founder-clark",
     "title": "Anthropic’s AI capabilities advancing faster than expected, says co-founder Clark",
-    "summary": "Anthropic's rapid AI advancements could reshape market dynamics, influencing investor confidence and competitive positioning in the tech sector.\nThe post Anthropic’s AI capabilities advancing faster than expected, says co-founder Clark appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/anthropics-ai-capabilities-advancing-faster-than-expected-says-co-founder-clark/",
-    "source": "CryptoBriefing",
     "tags": [
       "Anthropic",
       "Clark"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-17T09:44:21.000Z",
-    "fetchedAt": "2026-10-17T11:42:28.725Z",
-    "isDuplicateOf": null,
-    "content": "Anthropic's co-founder Clark reports that the company's artificial intelligence capabilities are advancing at a much faster pace than previously anticipated. This rapid technological progress has the potential to significantly impact market dynamics, shape investor confidence, and alter the competitive landscape within the global technology sector.",
-    "content_ta": "Anthropic-ன் கோ-ஃபவுண்டர் Clark வெளியிட்டுள்ள தகவலின்படி, நிறுவனத்தின் ஆர்டபிஷியல் இன்டெலிஜென்ஸ் தொழில்நுட்ப திறன்கள் முன்பு எதிர்பார்த்ததை விட மிக வேகமாக வளர்ந்து வருகின்றன. இந்த விரைவான தொழில்நுட்ப முன்னேற்றம் சந்தை சூழ்நிலைகளில் குறிப்பிடத்தக்க தாக்கத்தை ஏற்படுத்தி, முதலீட்டாளர்களின் நம்பிக்கையையும் தொழில்நுட்பத் துறையின் போட்டிச் சூழலையும் மாற்றியமைக்கக்கூடும்.",
-    "slug": "anthropic-s-ai-capabilities-advancing-faster-than-expected-says-co-founder-clark"
+    "hasContent": true,
+    "pubDate": "2026-10-17T09:44:21.000Z"
   },
   {
     "id": "f539d3b35853383c",
+    "slug": "anthropic-s-jack-clark-says-ai-could-push-us-gdp-to-about-44-trillion-by-2030",
     "title": "Anthropic’s Jack Clark says AI could push US GDP to about $44 trillion by 2030",
-    "summary": "AI's potential to significantly boost GDP underscores the need for adaptive policies to manage economic shifts and mitigate unemployment risks.\nThe post Anthropic’s Jack Clark says AI could push US GDP to about $44 trillion by 2030 appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/anthropic-jack-clark-ai-us-gdp-44-trillion/",
-    "source": "CryptoBriefing",
     "tags": [
       "Anthropic",
       "Jack Clark",
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-17T09:39:26.000Z",
-    "fetchedAt": "2026-10-17T11:42:28.725Z",
-    "isDuplicateOf": null,
-    "content": "Anthropic co-founder Jack Clark stated that artificial intelligence could potentially boost the United States GDP to approximately $44 trillion by 2030. This projected economic growth highlights the transformative impact of AI on the economy. However, experts note that such massive shifts will require adaptive government policies to manage potential labor market disruptions and mitigate unemployment risks effectively as technology advances.",
-    "content_ta": "Anthropic நிறுவனத்தின் இணை நிறுவனர் Jack Clark கூறுகையில், செயற்கை நுண்ணறிவு (AI) தொழில்நுட்பம் மூலம் 2030-ம் ஆண்டுக்குள் United States நாட்டின் GDP சுமார் $44 டிரில்லியனை எட்டக்கூடும் என்றார். இந்த பொருளாதார வளர்ச்சி AI-யின் மாபெரும் தாக்கத்தை வெளிப்படுத்துகிறது. இருப்பினும், வேலைவாய்ப்பு இழப்பு மற்றும் பொருளாதார மாற்றங்களை திறம்பட சமாளிக்க ஏற்புத்திறன் கொண்ட கொள்கைகள் அவசியமென நிபுணர்கள் குறிப்பிடுகின்றனர்.",
-    "slug": "anthropic-s-jack-clark-says-ai-could-push-us-gdp-to-about-44-trillion-by-2030"
+    "hasContent": true,
+    "pubDate": "2026-10-17T09:39:26.000Z"
   },
   {
     "id": "2d1e3e628de70225",
@@ -200,24 +214,18 @@
   },
   {
     "id": "f6037a1be1175b1d",
+    "slug": "kansas-ceo-masterminds-1-000-000-0000-medicare-fraud-sentenced-to-19-years-behind-bars",
     "title": "Kansas CEO Masterminds $1,000,000,0000 Medicare Fraud, Sentenced to 19 Years Behind Bars",
-    "summary": "Federal prosecutors have secured a 19-year prison sentence against a Kansas businessman who operated an online platform that generated false medical orders to defraud Medicare. Brett Blackman, 43, of Johnson County, Kansas, was convicted after a 23-day trial on charges including wire fraud, conspiracy to pay and receive kickbacks, and conspiracy to defraud the United […]\nThe post Kansas CEO Masterminds $1,000,000,0000 Medicare Fraud, Sentenced to 19 Years Behind Bars appeared first on The Daily Hodl.",
-    "hasSummary": true,
-    "link": "https://dailyhodl.com/2026/10/17/kansas-ceo-masterminds-10000000000-medicare-fraud-sentenced-to-19-years-behind-bars/",
-    "source": "The Daily Hodl",
     "tags": [
       "Brett Blackman",
       "Kansas",
       "Medicare",
       "Johnson County"
     ],
+    "source": "The Daily Hodl",
     "origin": "rss",
-    "pubDate": "2026-10-17T09:15:23.000Z",
-    "fetchedAt": "2026-10-17T11:42:28.725Z",
-    "isDuplicateOf": null,
-    "content": "A Kansas businessman, Brett Blackman, was sentenced to 19 years in federal prison for operating an online platform that generated false medical orders to defraud Medicare. Following a 23-day trial, Blackman was convicted of multiple charges including wire fraud and conspiracy to commit healthcare fraud.",
-    "content_ta": "Medicare மோசடியில் ஈடுபட்டதாகக் கூற, ஆன்லைன் தளம் ஒன்றை இயக்கிய Kansas மாநிலத்தைச் சேர்ந்த தொழிலதிபர் Brett Blackman-க்கு 19 ஆண்டுகள் பெடரல் சிறை தண்டனை விதிக்கப்பட்டுள்ளது. 23 நாட்கள் நடைபெற்ற விசாரணைக்குப் பிறகு, ஒயர் ப்ராட் மற்றும் சதித்திட்டம் உள்ளிட்ட பல குற்றச்சாட்டுகள் அவர் மீது நிரூபிக்கப்பட்டன.",
-    "slug": "kansas-ceo-masterminds-1-000-000-0000-medicare-fraud-sentenced-to-19-years-behind-bars"
+    "hasContent": true,
+    "pubDate": "2026-10-17T09:15:23.000Z"
   },
   {
     "id": "05e95ff623789c9b",
@@ -236,22 +244,16 @@
   },
   {
     "id": "5dd71833aeb78ef6",
+    "slug": "gemini-4-argon-builds-an-eiffel-tower-for-0-23-while-opus-5-5-spends-33-45",
     "title": "Gemini 4 Argon builds an Eiffel Tower for $0.23 while Opus 5.5 spends $33.45",
-    "summary": "The cost-efficiency of AI models is reshaping competitive dynamics, emphasizing task completion over token pricing, impacting enterprise strategies.\nThe post Gemini 4 Argon builds an Eiffel Tower for $0.23 while Opus 5.5 spends $33.45 appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/gemini-4-argon-opus-5-5-eiffel-tower-cost/",
-    "source": "CryptoBriefing",
     "tags": [
       "Gemini",
       "Opus"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-17T09:03:25.000Z",
-    "fetchedAt": "2026-10-17T11:42:28.725Z",
-    "isDuplicateOf": null,
-    "content": "A recent comparison highlights significant cost-efficiency differences among AI models, with Gemini 4 Argon completing a task to build an Eiffel Tower for just $0.23, while Opus 5.5 spent $33.45. This drastic variance is reshaping competitive dynamics in the artificial intelligence sector, shifting industry focus from simple token pricing to overall task completion and efficiency, which directly impacts enterprise strategies.",
-    "content_ta": "சமீபத்திய ஒப்பீடு AI மாடல்களின் செலவுத் திறனில் உள்ள குறிப்பிடத்தக்க வேறுபாடுகளைக் காட்டுகிறது. Gemini 4 Argon வெறும் $0.23 செலவில் ஈபிள் கோபுரத்தை உருவாக்கும் பணியை முடித்த நிலையில், Opus 5.5 இதற்கு $33.45 செலவழித்தது. இந்த பெரிய வித்தியாசம் செயற்கை நுண்ணறிவுத் துறையில் போட்டித் தன்மையை மாற்றியமைக்கிறது, மேலும் நிறுவனங்களின் உத்திகளை இது நேரடியாக பாதிக்கிறது.",
-    "slug": "gemini-4-argon-builds-an-eiffel-tower-for-0-23-while-opus-5-5-spends-33-45"
+    "hasContent": true,
+    "pubDate": "2026-10-17T09:03:25.000Z"
   },
   {
     "id": "768d1408b6bbc5d2",
@@ -806,30 +808,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-16T20:25:15.000Z"
-  },
-  {
-    "id": "6839cad631fa2c3d",
-    "slug": "gemini-4-argon-agents-defeat-minecraft-s-ender-dragon-in-27-hours",
-    "title": "Gemini 4 Argon agents defeat Minecraft’s Ender Dragon in 27 hours",
-    "tags": [
-      "Gemini",
-      "Minecraft"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T20:24:21.000Z"
-  },
-  {
-    "id": "afb4037438b0f090",
-    "slug": "cftc-excludes-casino-sportsbooks-from-swap-definition",
-    "title": "CFTC excludes casino sportsbooks from swap definition",
-    "tags": [
-      "CFTC"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-16T20:23:29.000Z"
   }
 ]
