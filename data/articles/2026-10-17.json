@@ -868,5 +868,140 @@
     "content": "An update released for Eclair addresses a browser-based attack vector capable of sending commands to Lightning nodes. The software patch blocks a cached-authentication vulnerability within the API and requires direct browser interfaces to securely add a backend, improving overall security for users.",
     "content_ta": "Eclair-ல் வெளியிடப்பட்ட ஒரு புதிய அப்டேட், Lightning நோட்களுக்கு கட்டளைகளை அனுப்பக்கூடிய பிரவுசர் வழித் தாக்குதலைத் தடுத்துள்ளது. இந்த மென்பொருள் பேட்ச் API-ல் உள்ள கேக்டு-அத்தண்டிகேஷன் பாதிப்பைத் தடுப்பதோடு, பாதுகாப்பை மேம்படுத்த நேரடி பிரவுசர் இடைமுகங்களைக் கோருகிறது.",
     "slug": "eclair-patches-a-browser-attack-that-could-send-commands-to-your-lightning-node"
+  },
+  {
+    "id": "0b39ea104fd2c208",
+    "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+    "summary": "Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Fidelity",
+      "Solana"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-17T12:58:03.000Z",
+    "fetchedAt": "2026-10-17T13:19:02.175Z",
+    "isDuplicateOf": null,
+    "content": "A recent report by Fidelity highlights the resilience of the Solana network, noting it has experienced no reported mainnet outages in two years. However, the report cautions that certain areas, including concentrations in stake, hosting, and client software, require continued observation and monitoring.",
+    "content_ta": "Fidelity வெளியிட்ட ஒரு புதிய அறிக்கையானது Solana நெட்வொர்க்கின் உறுதியைப் பாராட்டுகிறது, மேலும் இது கடந்த இரண்டு ஆண்டுகளில் மெயின்நெட் செயலிழப்புகள் எதையும் சந்திக்கவில்லை என்பதைக் குறிப்பிடுகிறது. இருப்பினும், ஸ்டேக், ஹோஸ்டிங் மற்றும் கிளைன்ட் மென்பொருள் உள்ளிட்ட சில பகுதிகள் தொடர்ந்து கண்காணிக்கப்பட வேண்டும் என்றும் அந்த அறிக்கை எச்சரிக்கிறது.",
+    "slug": "solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says"
+  },
+  {
+    "id": "17a7d44b42179733",
+    "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
+    "summary": "AI companies charge by the token, and most people burn them on jobs a cheap model could do. Here's how to spend less and get better results, from your first prompt to your first agent.",
+    "hasSummary": true,
+    "link": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
+    "source": "Decrypt",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-10-17T13:01:04.000Z",
+    "fetchedAt": "2026-10-17T13:19:02.175Z",
+    "isDuplicateOf": null,
+    "content": "AI companies charge users by the token, leading many to waste resources on tasks that less expensive models could handle efficiently. By optimizing prompt strategies and using appropriate models for different tasks, users can significantly reduce costs and improve their overall results, whether working with simple prompts or building advanced AI agents.",
+    "content_ta": "AI நிறுவனங்கள் token அடிப்படையிலேயே கட்டணம் வசூலிக்கின்றன. இதனால் பலர் எளிய மாடல்களால் செய்யக்கூடிய பணிகளுக்காக அதிக வளங்களை வீணடிக்கின்றனர். ப்ராம்ப்ட் உத்திகளை மேம்படுத்துவதன் மூலமாகவும், பணிகளுக்கு ஏற்ற மாடல்களைத் தேர்ந்தெடுப்பதன் மூலமாகவும் செலவைக் குறைத்து சிறந்த பலன்களைப் பெற முடியும்.",
+    "slug": "tokenmaxxing-how-to-get-the-most-out-of-your-ai-models"
+  },
+  {
+    "id": "6c615ce00c4bbff1",
+    "title": "Bitcoin ETFs Lose $82 Million As BlackRock Leads Friday’s Withdrawals",
+    "summary": "TL;DR: US spot Bitcoin ETFs recorded approximately $82.4 million in net outflows on October 16. BlackRock’s IBIT accounted for $71.8 million of withdrawals, with Fidelity’s FBTC recording about $10.6 million. BlackRock’s flagship spot Bitcoin ETF accounted for most of the selling as US-listed Bitcoin investment funds closed Friday’s session with net withdrawals of approximately $82.4 million. Farside Investors’ figures show that the iShares Bitcoin Trust, known as IBIT, lost $71.8 million on October 16. Fidelity’s Wise Origin Bitcoin Fund recorded around $10.6 million in net outflows, while the remaining products were broadly flat on the day. That concentration matters because IBIT has become one of the clearest measures of Bitcoin demand through traditional brokerage accounts. Another Uneven Week For ETF Demand The latest withdrawals followed substantial redemptions earlier in the week. October 14 saw roughly $261 million leave the category, followed by a modest return to net inflows on October 15. Friday’s negative session therefore suggests demand remains unsettled rather than following a clear trend. Investors have seen considerably larger individual outflow days in the past. Earlier October withdrawals approached $485 million in a single session, demonstrating how rapidly demand through these products can shift. Context Is Important An ETF outflow is not a complete measure of institutional Bitcoin ownership, and it does not necessarily indicate that every underlying holder has abandoned a long-term position. Net inflows into the US spot Bitcoin ETF market since the products launched remained substantial despite the latest withdrawals. The next trading sessions will be important. A quick recovery would suggest another temporary adjustment, while continued redemptions from IBIT and FBTC would place greater emphasis on whether traditional investors are reducing their exposure amid broader market uncertainty. Written by the News Desk and edited by Samuel Rae.",
+    "hasSummary": true,
+    "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-etfs-lose-82-million-as-blackrock-leads-friday-s-withdrawals/",
+    "source": "NewsBTC",
+    "tags": [
+      "Bitcoin",
+      "BlackRock",
+      "Fidelity",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-17T12:13:00.000Z",
+    "fetchedAt": "2026-10-17T13:19:02.175Z",
+    "isDuplicateOf": null,
+    "content": "US spot Bitcoin ETFs recorded approximately $82 million in net outflows. BlackRock’s IBIT accounted for the majority of the withdrawals with $71.8 million, while Fidelity’s FBTC recorded about $10.6 million. This follows a volatile week for ETF demand, highlighting ongoing shifts in traditional market interest amid broader economic uncertainty.",
+    "content_ta": "அமெரிக்க ஸ்பாட் Bitcoin ETF-களில் சுமார் $82 மில்லியன் அளவிலான முதலீடுகள் வெளியேறியுள்ளன. இதில் BlackRock நிறுவனத்தின் IBIT தயாரிப்பிலிருந்து $71.8 மில்லியனும், Fidelity நிறுவனத்தின் FBTC தயாரிப்பிலிருந்து சுமார் $10.6 மில்லியனும் வெளியேறியுள்ளன. இந்த வாரத்தில் ETF முதலீடுகளில் ஏற்பட்ட தொடர்ச்சியான ஏற்றத்தாழ்வுகள் சந்தையின் நிலையற்ற தன்மையை வெளிப்படுத்துகின்றன.",
+    "slug": "bitcoin-etfs-lose-82-million-as-blackrock-leads-friday-s-withdrawals"
+  },
+  {
+    "id": "22449f09c2abb237",
+    "title": "Did Satoshi Get Bitcoin Wrong? Claude's NSA Discovery Sparks Debate",
+    "summary": "For 25 years, one suspicion haunted the mathematics protecting much of the internet: had the NSA secretly built a way to crack it? Now, an AI model may have weakened that theory. And Bitcoin’s creator is suddenly part of the argument. On Friday, Anthropic revealed that its Claude AI model solved a mystery that had\nThe post Did Satoshi Get Bitcoin Wrong? Claude's NSA Discovery Sparks Debate appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/claude-ai-nsa-mystery-satoshi-bitcoin-security/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Bitcoin",
+      "Anthropic",
+      "Claude",
+      "NSA"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-17T12:30:00.000Z",
+    "fetchedAt": "2026-10-17T13:19:02.175Z",
+    "isDuplicateOf": null,
+    "content": "Anthropic's Claude AI model has solved a long-standing mathematical mystery regarding internet security and a suspicion involving the NSA. This development has unexpectedly sparked a debate connecting the discovery to Bitcoin's anonymous creator, Satoshi, as researchers discuss the implications for cryptographic systems.",
+    "content_ta": "Anthropic-ன் Claude AI மாடல், இணைய பாதுகாப்பு மற்றும் NSA சம்பந்தப்பட்ட நீண்டகால கணித புதிருக்கு தீர்வு கண்டுள்ளது. இந்த புதிய கண்டுபிடிப்பு, கிரிப்டோகிராஃபிக் அமைப்புகளுக்கான தாக்கம் குறித்து விவாதிக்கப்படும் நிலையில், Bitcoin-ன் உருவாக்கியவரான Satoshi-யுடன் இந்த விவகாரத்தை எதிர்பாராதவிதமாக இணைத்துள்ளது.",
+    "slug": "did-satoshi-get-bitcoin-wrong-claude-s-nsa-discovery-sparks-debate"
+  },
+  {
+    "id": "3e772ae05a9e18b6",
+    "title": "Fidelity report finds Solana resilient but flags concentration in stake, hosting and clients",
+    "summary": "Solana's resilience is notable, but its stake concentration poses systemic risks, potentially impacting network stability and decentralization.\nThe post Fidelity report finds Solana resilient but flags concentration in stake, hosting and clients appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/fidelity-report-solana-resilience-concentration-risks/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Fidelity",
+      "Solana"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-17T13:10:16.000Z",
+    "fetchedAt": "2026-10-17T13:19:02.175Z",
+    "isDuplicateOf": null,
+    "content": "A recent Fidelity report highlights Solana's overall network resilience while raising concerns over centralization risks. The report points to high concentration levels in staking, hosting providers, and client software, which could pose systemic challenges to the blockchain's long-term stability and decentralization.",
+    "content_ta": "ஃபிடெலிட்டி வெளியிட்ட புதிய அறிக்கையில், Solana நெட்வொர்க்கின் ஒட்டுமொத்த மீள்தன்மை பாராட்டப்பட்டாலும், அதன் மையமயமாக்கல் ஆபத்துகள் குறித்து எச்சரிக்கப்பட்டுள்ளது. ஸ்டேக்கிங், ஹோஸ்டிங் வழங்குநர்கள் மற்றும் கிளைன்ட் மென்பொருட்களில் காணப்படும் அதிகப்படியான குவிப்பு நிலைத்தன்மை மற்றும் பரவலாக்கத்திற்கு சவாலாக அமையலாம் என அந்த அறிக்கை சுட்டிக்காட்டுகிறது.",
+    "slug": "fidelity-report-finds-solana-resilient-but-flags-concentration-in-stake-hosting-and-clients"
+  },
+  {
+    "id": "d56a5f909dbd509e",
+    "title": "Only 10.7% of tokenized stock market cap is issuer-sponsored",
+    "summary": "The dominance of synthetic tokens over issuer-sponsored ones highlights potential risks in investor rights and market dependency on custodians.\nThe post Only 10.7% of tokenized stock market cap is issuer-sponsored appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/tokenized-stocks-issuer-sponsored-share/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Crypto Briefing"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-17T12:37:09.000Z",
+    "fetchedAt": "2026-10-17T13:19:02.175Z",
+    "isDuplicateOf": null,
+    "content": "A recent report reveals that only 10.7 percent of the total tokenized stock market capitalization is issuer-sponsored. The heavy reliance on synthetic tokens instead of issuer-backed assets raises potential concerns regarding investor rights and the overall market's dependency on custodians.",
+    "content_ta": "டொக்கனைஸ் செய்யப்பட்ட ஸ்டாக் மார்க்கெட் மூலதனத்தில் வெறும் 10.7 சதவீதம் மட்டுமே இன்சூயர்-ஸ்பான்சர் செய்யப்பட்டுள்ளது என்று ஒரு புதிய அறிக்கை வெளிப்படுத்துகிறது. இன்சூயர்-பேக்ட் சொத்துகளுக்கு பதிலாக சிந்தடிக் டோக்கன்களை அதிகமாக நம்பியிருப்பது, முதலீட்டாளர்களின் உரிமைகள் மற்றும் கஸ்டடியன்களைச் சார்ந்திருக்கும் சந்தை நிலவரம் குறித்து சாத்தியமான கவலைகளை எழுப்புகிறது.",
+    "slug": "only-10-7-of-tokenized-stock-market-cap-is-issuer-sponsored"
+  },
+  {
+    "id": "12b3625101bf7de8",
+    "title": "UK Businesses File £700m CAT Claim over Visa and Mastercard EEA Fees",
+    "summary": "A Competition Appeal Tribunal claim alleges the card networks raised UK-EEA interchange fees five-fold after Brexit, costing businesses up to £200m a year.\nThe post UK Businesses File £700m CAT Claim over Visa and Mastercard EEA Fees appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/uk-businesses-file-700m-cat-claim-over-visa-and-mastercard-eea-fees/",
+    "source": "The Fintech Times",
+    "tags": [
+      "UK",
+      "Visa",
+      "Mastercard",
+      "Competition Appeal Tribunal"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-17T13:00:52.000Z",
+    "fetchedAt": "2026-10-17T13:19:02.175Z",
+    "isDuplicateOf": null,
+    "content": "UK businesses have filed a £700m claim with the Competition Appeal Tribunal against Visa and Mastercard. The lawsuit alleges that the major card networks increased UK-EEA interchange fees significantly following Brexit, resulting in substantial annual costs for affected companies.",
+    "content_ta": "UK-ஐச் சேர்ந்த வணிக நிறுவனங்கள் Visa மற்றும் Mastercard மீது Competition Appeal Tribunal-ல் 700 மில்லியன் பவுண்டு மதிப்புள்ள வழக்கைத் தொடர்ந்துள்ளன. Brexit-க்குப் பிறகு கார்டு நெட்வொர்க்குகள் கட்டணங்களை உயர்த்தியதால் நிறுவனங்களுக்கு ஆண்டுதோறும் பெரும் இழப்பு ஏற்பட்டுள்ளதாகக் கூறப்படுகிறது.",
+    "slug": "uk-businesses-file-700m-cat-claim-over-visa-and-mastercard-eea-fees"
   }
 ]
