@@ -1,107 +1,288 @@
 [
   {
-    "id": "a984b835f0ec5bf4",
-    "title": "PUMP’s pullback presents a buying opportunity at $0.00413 – Here’s why",
-    "summary": "The short-term PUMP sentiment was firmly bearish in both the Spot and perpetuals markets.",
+    "id": "bc5be9f049d1e2e8",
+    "title": "SOXL liquidations lead $52M chip-stock wipeout in 10 minutes while Wall Street was closed",
+    "summary": "Off-hours trading volatility highlights risks of leveraged positions, potentially deterring investors from perpetual contracts in semiconductor assets.\nThe post SOXL liquidations lead $52M chip-stock wipeout in 10 minutes while Wall Street was closed appeared first on Crypto Briefing.",
     "hasSummary": true,
-    "link": "https://ambcrypto.com/pumps-pullback-presents-a-buying-opportunity-at-0-00413-heres-why/",
-    "source": "AMBCrypto",
+    "link": "https://cryptobriefing.com/soxl-liquidations-52m-chip-perpetuals/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "SOXL",
+      "Wall Street"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-18T07:17:24.000Z",
+    "fetchedAt": "2026-10-18T07:21:32.620Z",
+    "isDuplicateOf": null,
+    "content": "A sudden drop during off-hours trading led to massive liquidations involving SOXL, wiping out millions in chip-stock value within a brief ten-minute window while Wall Street was closed. This rapid volatility highlights the severe risks associated with leveraged trading positions in semiconductor assets, potentially causing investors to reconsider using perpetual contracts for these high-risk financial instruments.",
+    "content_ta": "Wall Street விடுமுறை நாட்களில், ஆஃப்டர் ஹவர்ஸ் வர்த்தகத்தின் போது ஏற்பட்ட திடீர் சரிவு SOXL தொடர்பான பெரிய அளவிலான லிகிடேஷன்களுக்கு வழிவகுத்தது. இதனால் வெறும் பத்து நிமிடங்களில் சிப்-ஸ்டாக் மதிப்பு லட்சக்கணக்கில் சரிந்தது. இந்த திடீர் விலை変動மானது செமிகண்டக்டர் சொத்துக்களில் லெவரேஜ் செய்யப்பட்ட வர்த்தக நிலைகளின் அபாயங்களை வெளிச்சம் போட்டுக் காட்டுகிறது, இது முதலீட்டாளர்களை மறுபரிசீலனை செய்யத் தூண்டலாம்.",
+    "slug": "soxl-liquidations-lead-52m-chip-stock-wipeout-in-10-minutes-while-wall-street-was-closed"
+  },
+  {
+    "id": "83fddefa831cdc0a",
+    "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+    "summary": "A 10-minute flush hit round-the-clock chip-stock contracts while U.S. markets were shut, leaving traders with no real share price to lean on.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
+    "source": "CoinDesk",
+    "tags": [
+      "Wall Street",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-18T07:13:32.000Z",
+    "fetchedAt": "2026-10-18T07:21:32.620Z",
+    "isDuplicateOf": null,
+    "content": "Chip-stock bets suffered a steep loss of 52 million dollars within just 10 minutes. The rapid market flush occurred while Wall Street was completely shut, affecting round-the-clock contracts. Because traditional U.S. markets were closed at the time, affected traders had no reliable share price reference to lean on while managing their positions during the sudden downturn.",
+    "content_ta": "Wall Street சந்த closed ஆகTable இருந்த நேரத்தில், வெறும் 10 நிமிடங்களுக்குள் chip-stock முதலீடுகள் 52 மில்லியன் டாலர் வரை பெரும் நஷ்டத்தைச் சந்தித்துள்ளன. வழக்கமான சந்தை மூடப்பட்டிருந்ததால், round-the-clock contracts-ல் திடீரென ஏற்பட்ட இந்த சரிவால் வர்த்தகர்கள் உரிய share price இல்லாமல் அவதிப்பட்டனர்.",
+    "slug": "chip-stock-bets-lost-52-million-in-10-minutes-with-wall-street-shut"
+  },
+  {
+    "id": "8bb73ecddc010986",
+    "title": "Scammer Loses $4,800,000 in Bitcoin as Thieves Drain Ledger Wallets Holding ‘Task Scam’ Proceeds",
+    "summary": "Chainalysis reports that a crypto scammer lost over 60 BTC worth about $4.8 million when thieves emptied three Ledger hardware wallet addresses holding task scam proceeds.\nThe post Scammer Loses $4,800,000 in Bitcoin as Thieves Drain Ledger Wallets Holding ‘Task Scam’ Proceeds appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/10/18/scammer-loses-4800000-in-bitcoin-as-thieves-drain-ledger-wallets-holding-task-scam-proceeds/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "Chainalysis",
+      "Bitcoin",
+      "Ledger"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-18T07:04:32.000Z",
+    "fetchedAt": "2026-10-18T07:21:32.620Z",
+    "isDuplicateOf": null,
+    "content": "Blockchain analytics firm Chainalysis reports that a cryptocurrency scammer lost approximately 4.8 million dollars in Bitcoin when thieves emptied three Ledger hardware wallet addresses. The stolen funds were reportedly the proceeds of a previous task scam. The incident highlights ongoing security risks involving crypto storage devices and illicit activities.",
+    "content_ta": "பிளாக்செயின் பகுப்பாய்வு நிறுவனமான Chainalysis வெளியிட்ட அறிக்கையின்படி, ஒரு கிரிப்டோ மோசடி செய்பவரின் Ledger ஹார்டுவேர் வாலட்களில் இருந்த சுமார் 4.8 மில்லியன் டாலர் மதிப்பிலான Bitcoin திருடப்பட்டுள்ளது. திருடப்பட்ட இந்த நிதியானது முந்தைய டாஸ்க் மோசடி மூலம் பெறப்பட்டவை என்று தெரிவிக்கப்பட்டுள்ளது.",
+    "slug": "scammer-loses-4-800-000-in-bitcoin-as-thieves-drain-ledger-wallets-holding-task-scam-proceeds"
+  },
+  {
+    "id": "43d1ec1321f5d1b8",
+    "title": "Poland and China Lead Central Bank Gold Buying Surge in 2026",
+    "summary": "Central banks collectively hold nearly 37,000 tonnes of gold, with Poland and China the year's biggest accumulators, per World Gold Council data.\nThe post Poland and China Lead Central Bank Gold Buying Surge in 2026 appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/poland-and-china-lead-central-bank-gold-buying-surge-in-2026/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Poland",
+      "China",
+      "World Gold Council"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-18T07:00:52.000Z",
+    "fetchedAt": "2026-10-18T07:21:32.620Z",
+    "isDuplicateOf": null,
+    "content": "According to World Gold Council data, central banks collectively hold nearly 37,000 tonnes of gold. Poland and China have emerged as the largest accumulators in this ongoing buying surge, driving significant growth in official gold reserves globally.",
+    "content_ta": "World Gold Council தரவுகளின்படி, மத்திய வங்கிகள் கூட்டாக கிட்டத்தட்ட 37,000 டன் தங்கத்தை வைத்துள்ளன. இந்த வாங்கும் எழுச்சியில் Poland மற்றும் China ஆகியவை இந்த ஆண்டின் மிகப்பெரிய சேமிப்பாளர்களாக உருவெடுத்துள்ளன.",
+    "slug": "poland-and-china-lead-central-bank-gold-buying-surge-in-2026"
+  },
+  {
+    "id": "668c949d36d96dee",
+    "title": "The crypto privacy rule Trump’s Treasury proposed, and Trump’s Treasury buried",
+    "summary": "On Dec. 18, 2020, with Christmas a week away and Donald Trump preparing to leave the White House, Steven Mnuchin's Treasury Department announced a plan that would require crypto exchanges and other financial institutions to collect more information about transactions involving wallets people controlled themselves. The public was given just 15 days to comment, with…\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/the-crypto-privacy-rule-trumps-treasury-proposed-and-trumps-treasury-buried/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Donald Trump",
+      "Steven Mnuchin",
+      "CryptoSlate",
+      "Treasury Department"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-18T07:00:23.000Z",
+    "fetchedAt": "2026-10-18T07:21:32.620Z",
+    "isDuplicateOf": null,
+    "content": "In late December 2020, Donald Trump's Treasury Department, led by Steven Mnuchin, proposed a rule requiring financial institutions and crypto exchanges to collect additional information on self-hosted wallet transactions. The proposal offered the public a brief 15-day comment period during the holiday season before ultimately being buried by the administration.",
+    "content_ta": "டிசம்பர் 2020 இன் இறுதியில், Donald Trump இன் Treasury Department, Steven Mnuchin தலைமையில், சுய-ஹோஸ்ட் செய்யப்பட்ட வாலட் பரிவர்த்தனைகள் குறித்த கூடுதல் தகவல்களை நிதி நிறுவனங்களும் crypto exchanges-களும் சேகரிக்க வேண்டும் என்ற விதியை முன்மொழிந்தது. இந்தத் திட்டத்திற்கு விடுமுறை காலத்தில் வெறும் 15 நாட்கள் மட்டுமே பொதுமக்களின் கருத்துக்காக வழங்கப்பட்டது, பின்னர் அது நிர்வாகத்தால் கைவிடப்பட்டது.",
+    "slug": "the-crypto-privacy-rule-trump-s-treasury-proposed-and-trump-s-treasury-buried"
+  },
+  {
+    "id": "d76cc396a6238c5e",
+    "title": "Anthropic staff expect AI to handle 75% of their work by 2030",
+    "summary": "The disparity in AI expectations highlights potential challenges in workforce adaptation, economic planning, and policy-making by 2030.\nThe post Anthropic staff expect AI to handle 75% of their work by 2030 appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/anthropic-staff-expect-ai-75-percent-work/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Anthropic"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-18T06:34:12.000Z",
+    "fetchedAt": "2026-10-18T07:21:32.620Z",
+    "isDuplicateOf": null,
+    "content": "According to recent reports, Anthropic staff expect artificial intelligence to handle 75% of their work by the year 2030. This projection highlights significant expectations regarding the future capabilities of AI within the workforce, pointing to potential shifts in economic planning and policy-making over the coming years as organizations adapt to new technological advancements.",
+    "content_ta": "Anthropic நிறுவனத்தின் ஊழியர்கள் 2030-க்குள் தங்கள் பணியில் 75 சதவிகிதத்தை செயற்கை நுண்ணறிவு (AI) கையாளுExpected செய்கிறது என்று எதிர்பார்க்கிறார்கள். இந்த எதிர்பார்ப்பு எதிர்கால பணிச்சூழலில் AI-யின் திறன்கள் குறித்தும், பொருளாதார திட்டமிடல் மற்றும் கொள்கை உருவாக்கத்தில் ஏற்படக்கூடிய மாற்றங்கள் குறித்தும் முக்கிய கேள்விகளை எழுப்புகிறது.",
+    "slug": "anthropic-staff-expect-ai-to-handle-75-of-their-work-by-2030"
+  },
+  {
+    "id": "6c6c0aca27aebd42",
+    "title": "Ripple and XRP Weekly Wrap: Institutional Wins, Nasdaq Debut, and Price Struggles",
+    "summary": "The past week delivered a striking contrast for Ripple and its native cryptocurrency.",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/ripple-and-xrp-weekly-wrap-institutional-wins-nasdaq-debut-and-price-struggles/",
+    "source": "CryptoPotato",
+    "tags": [
+      "Ripple",
+      "XRP",
+      "Nasdaq"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-18T06:30:50.000Z",
+    "fetchedAt": "2026-10-18T07:21:32.620Z",
+    "isDuplicateOf": null,
+    "content": "The past week brought a stark contrast for Ripple and its native cryptocurrency, XRP. While the ecosystem celebrated institutional victories and a notable Nasdaq debut, the digital asset continued to face persistent price struggles in the market. This mix of regulatory and market milestones highlights the ongoing challenges and growth of the platform.",
+    "content_ta": "கடந்த வாரம் Ripple மற்றும் அதன் சொந்த cryptocurrency-ஆன XRP-க்கு ஒரு குறிப்பிடத்தக்க முரண்பாட்டை வழங்கியது. இந்த சுற்றுச்சூழல் அமைப்பு நிறுவன வெற்றிகளையும் ஒரு குறிப்பிடத்தக்க Nasdaq அறிமுகத்தையும் கொண்டாடிய அதேவேளையில், இந்த digital asset சந்தையில் தொடர்ந்து விலைச் சரிவுகளை எதிர்கொண்டது. இந்த ஒழுங்குமுறை மற்றும் சந்தை மைல்கற்களின் கலவையானது தளத்தின் நடந்துவரும் சவால்களையும் வளர்ச்சியையும் எடுத்துக்காட்டுகிறது.",
+    "slug": "ripple-and-xrp-weekly-wrap-institutional-wins-nasdaq-debut-and-price-struggles"
+  },
+  {
+    "id": "a9640f0e0a3642e5",
+    "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+    "summary": "The round brings AIsa’s total funding to more than $9 million.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Tether",
+      "AIsa"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-18T06:26:53.000Z",
+    "fetchedAt": "2026-10-18T07:21:32.620Z",
+    "isDuplicateOf": null,
+    "content": "Tether has participated as a strategic investor in the seed extension round for AIsa. With this latest investment, AIsa has successfully brought its total funding to more than $9 million, strengthening its financial position for future growth and development within the industry.",
+    "content_ta": "AIsa நிறுவனத்தின் சீட் எக்ஸ்டென்ஷன் சுற்றில் டெட்டர் (Tether) ஒரு மூலோபாய முதலீட்டாளராக இணைந்துள்ளது. இந்த புதிய முதலீட்டின் மூலம், AIsa-இன் மொத்த நிதி திரட்டல் 9 மில்லியன் டாலருக்கும் அதிகமாக உயர்ந்துள்ளது.",
+    "slug": "tether-backs-aisa-as-strategic-investor-completing-seed-extension-round"
+  },
+  {
+    "id": "94537927130c7020",
+    "title": "Chainalysis: Italy, Portugal and Singapore hold 66.9% of tokenized US Treasuries",
+    "summary": "The dominance of foreign holders in tokenized US Treasuries highlights shifting global investment dynamics and potential impacts on US financial influence.\nThe post Chainalysis: Italy, Portugal and Singapore hold 66.9% of tokenized US Treasuries appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/chainalysis-tokenized-us-treasuries-foreign-holders/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Chainalysis",
+      "Italy",
+      "Portugal",
+      "Singapore",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-18T06:16:16.000Z",
+    "fetchedAt": "2026-10-18T07:21:32.620Z",
+    "isDuplicateOf": null,
+    "content": "A recent Chainalysis report reveals that Italy, Portugal, and Singapore together hold 66.9% of tokenized US Treasuries. This significant concentration among foreign investors highlights changing global investment trends and raises questions about potential future impacts on US financial influence, as digital asset adoption grows across international markets.",
+    "content_ta": "Chainalysis வெளியிட்ட புதிய அறிக்கையின்படி, Italy, Portugal மற்றும் Singapore ஆகிய நாடுகள் இணைந்து tokenized US Treasuries-ல் 66.9 சதவீதத்தை வைத்துள்ளன. வெளிநாட்டு முதலீட்டாளர்களின் இந்த ஆதிக்கம் உலகளாவிய முதலீட்டுப் போக்குகளில் மாற்றங்களை ஏற்படுத்துவதோடு, அமெரிக்க நிதிச் செல்வாக்கிலும் தாக்கத்தை ஏற்படுத்தக்கூடும்.",
+    "slug": "chainalysis-italy-portugal-and-singapore-hold-66-9-of-tokenized-us-treasuries"
+  },
+  {
+    "id": "a6f6e33a063ba77b",
+    "title": "Ripple's Head of Engineering Reacts to AI Solving Decades-Old Cryptography Mystery",
+    "summary": "Ripple's head of engineering has reacted to an AI breakthrough that solved a 25-year-old cryptography mystery, shedding new light on longstanding concerns about potential NSA backdoors.",
+    "hasSummary": true,
+    "link": "https://u.today/ripples-head-of-engineering-reacts-to-ai-solving-decades-old-cryptography-mystery",
+    "source": "U.Today",
+    "tags": [
+      "Ripple"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-18T06:11:07.000Z",
+    "fetchedAt": "2026-10-18T07:21:32.620Z",
+    "isDuplicateOf": null,
+    "content": "Ripple's head of engineering has responded to a significant artificial intelligence breakthrough that successfully resolved a 25-year-old cryptography mystery. This development has sparked renewed discussions regarding longstanding concerns about potential security vulnerabilities and NSA backdoors, highlighting the growing intersection between advanced artificial intelligence and cryptographic security.",
+    "content_ta": "Ripple நிறுவனத்தின் இன்ஜினியரிங் தலைவர், 25 ஆண்டுகள் பழமையான கிரிப்டோகிராஃபி மர்மத்தை வெற்றிகரமாகத் தீர்த்த செயற்கை நுண்ணறிவு துறையின் முக்கிய சாதனைக்கு தனது கருத்தைத் தெரிவித்துள்ளார். இந்த முன்னேற்றம், சாத்தியமான பாதுகாப்பு குறைபாடுகள் மற்றும் NSA பேக்டோர்ஸ் குறித்த நீண்டகால கவலைகள் பற்றிய புதிய விவாதங்களைத் தூண்டியுள்ளது.",
+    "slug": "ripple-s-head-of-engineering-reacts-to-ai-solving-decades-old-cryptography-mystery"
+  },
+  {
+    "id": "76869a240bb909ae",
+    "title": "Anthropic’s junior technical headcount drops to 14% as company triples in size",
+    "summary": "The shift towards AI-driven roles at Anthropic suggests a challenging future for entry-level tech positions, potentially reshaping the job market.\nThe post Anthropic’s junior technical headcount drops to 14% as company triples in size appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/anthropic-junior-technical-headcount-drops/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Anthropic"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-18T06:04:33.000Z",
+    "fetchedAt": "2026-10-18T07:21:32.620Z",
+    "isDuplicateOf": null,
+    "content": "Anthropic has experienced significant growth, tripling in size while its junior technical headcount dropped to 14%. This shift highlights a changing landscape for entry-level technology positions as the company scales. The development points toward broader trends in how modern tech firms are structuring their workforces amidst rapid expansion and automation.",
+    "content_ta": "Anthropic நிறுவனம் குறிப்பிடத்தக்க வளர்ச்சியைப் பெற்றுள்ள நிலையில், ஜூனியர் டெக்னிக்கல் பணியாளர்களின் எண்ணிக்கை 14 சதவீதமாகக் குறைந்துள்ளது. நிறுவனம் மிகப்பெரிய அளவில் விரிவடைந்து வரும் சூழலில், ஆரம்ப நிலை தொழில்நுட்பப் பணியிடங்களுக்கான வேலைவாய்ப்பு நிலவரம் மாறிவருவதை இந்த மாற்றம் காட்டுகிறது.",
+    "slug": "anthropic-s-junior-technical-headcount-drops-to-14-as-company-triples-in-size"
+  },
+  {
+    "id": "a984b835f0ec5bf4",
+    "slug": "pump-s-pullback-presents-a-buying-opportunity-at-0-00413-here-s-why",
+    "title": "PUMP’s pullback presents a buying opportunity at $0.00413 – Here’s why",
     "tags": [
       "PUMP"
     ],
+    "source": "AMBCrypto",
     "origin": "rss",
-    "pubDate": "2026-10-18T06:00:43.000Z",
-    "fetchedAt": "2026-10-18T06:01:19.618Z",
-    "isDuplicateOf": null,
-    "content": "The short-term sentiment for PUMP was firmly bearish across both spot and perpetual markets. Despite this downward pressure, analysts indicate that the current pullback could present a potential buying opportunity for investors at the $0.00413 level. Market participants are closely watching price movements to see how the asset responds at this key support zone.",
-    "content_ta": "ஸ்பாட் மற்றும் பெர்பெச்சுவல் சந்தைகளில் PUMP-இன் குறுகிய கால நிலவரம் தீவிர கரடி சந்தை (bearish) போக்கை காட்டியது. இந்த விலை சரிவு இருந்தபோதிலும், $0.00413 என்ற விலையில் தற்போதைய சரிவு முதலீட்டாளர்களுக்கு வாங்கும் வாய்ப்பை வழங்கக்கூடும் என்று பகுப்பாய்வாளர்கள் குறிப்பிடுகின்றனர். இந்த முக்கிய ஆதரவுப் பகுதியில் சொத்து எவ்வாறு செயல்படுகிறது என்பதைக் கவனிக்க சந்தை பங்குதாரர்கள் விலை நகர்வுகளை உன்னிப்பாகக் கவனித்து வருகின்றனர்.",
-    "slug": "pump-s-pullback-presents-a-buying-opportunity-at-0-00413-here-s-why"
+    "hasContent": true,
+    "pubDate": "2026-10-18T06:00:43.000Z"
   },
   {
     "id": "9b77d8f6d3e452c0",
+    "slug": "yemeni-military-forces-push-forward-on-taiz-fronts-with-aviation-support-spokesperson-to-al-arabiya",
     "title": "Yemeni military forces push forward on Taiz fronts with aviation support: spokesperson to Al Arabiya",
-    "summary": "The intensified military efforts in Taiz could shift regional power dynamics, affecting future diplomatic negotiations and market predictions.\nThe post Yemeni military forces push forward on Taiz fronts with aviation support: spokesperson to Al Arabiya appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/yemeni-military-forces-push-forward-on-taiz-fronts-with-aviation-support/",
-    "source": "CryptoBriefing",
     "tags": [
       "Yemeni",
       "Taiz",
       "Al Arabiya"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-18T05:55:25.000Z",
-    "fetchedAt": "2026-10-18T06:01:19.618Z",
-    "isDuplicateOf": null,
-    "content": "Yemeni military forces have advanced on several fronts in Taiz with backing from aviation support, according to a military spokesperson speaking to Al Arabiya. These intensified operations in the region could potentially impact regional power dynamics, potentially influencing future diplomatic discussions and broader market projections.",
-    "content_ta": "Al Arabiya-விடம் பேசிய ராணுவப் பேச்சாளரின் கூற்றுப்படி, Taiz முனைகளில் விமானப் படையின் ஆதரவுடன் Yemeni ராணுவப் படைகள் முன்னேறியுள்ளன. இப்பகுதியில் தீவிரப்படுத்தப்பட்டுள்ள இந்த ராணுவ நடவடிக்கைகள் பிராந்திய சக்தி இயக்கவியலை பாதிக்கலாம் மற்றும் எதிர்கால தூதரகப் பேச்சுவார்த்தைகள் மற்றும் சந்தை கணிப்புகளை செல்வாக்கு செலுத்தலாம்.",
-    "slug": "yemeni-military-forces-push-forward-on-taiz-fronts-with-aviation-support-spokesperson-to-al-arabiya"
+    "hasContent": true,
+    "pubDate": "2026-10-18T05:55:25.000Z"
   },
   {
     "id": "278f5e69cb624519",
+    "slug": "ft-anthropic-wants-lawyers-negotiating-ethics-built-into-claude-agents-that-bargain-against-other",
     "title": "FT: Anthropic wants lawyers’ negotiating ethics built into Claude agents that bargain against other agents",
-    "summary": "Anthropic's ethical AI agents could redefine industry standards, potentially boosting its market valuation and influencing future AI governance.\nThe post FT: Anthropic wants lawyers’ negotiating ethics built into Claude agents that bargain against other agents appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/ft-anthropic-wants-lawyers-negotiating-ethics-built-into-claude-agents-that/",
-    "source": "CryptoBriefing",
     "tags": [
       "Anthropic",
       "Claude"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-18T05:49:10.000Z",
-    "fetchedAt": "2026-10-18T06:01:19.618Z",
-    "isDuplicateOf": null,
-    "content": "Anthropic is reportedly aiming to integrate lawyers' negotiating ethics into its Claude AI agents. These ethical agents are designed to bargain effectively against other artificial intelligence agents. This development could potentially redefine industry standards, influence future AI governance, and impact the company's market valuation as autonomous negotiations become more advanced.",
-    "content_ta": "Anthropic நிறுவனம் தனது Claude AI ஏஜென்ட்களில் வழக்கறிஞர்களின் பேச்சுவார்த்தை நெறிமுறைகளை இணைக்க திட்டமிட்டுள்ளதாக தகவல்கள் வெளியாகியுள்ளன. மற்ற AI ஏஜென்டுகளுடன் பேச்சுவார்த்தை நடத்த இந்த நெறிமுறை ஏஜென்ட்கள் வடிவமைக்கப்பட்டுள்ளன. இந்த வளர்ச்சி தொழில்துறை தரங்களை மறுவரையறை செய்யலாம் மற்றும் எதிர்கால AI நிர்வாகத்தை பாதிக்கலாம்.",
-    "slug": "ft-anthropic-wants-lawyers-negotiating-ethics-built-into-claude-agents-that-bargain-against-other"
+    "hasContent": true,
+    "pubDate": "2026-10-18T05:49:10.000Z"
   },
   {
     "id": "81df0fa7a385d1fb",
+    "slug": "btc-eth-ai-stock-perpetuals-suddenly-dump-as-black-monday-fears-surge",
     "title": "BTC, ETH, AI Stock Perpetuals Suddenly Dump as ‘Black Monday’ Fears Surge",
-    "summary": "The latest highly unexpected moves coinided with new major attacks between Ukraine and Russia.",
-    "hasSummary": true,
-    "link": "https://cryptopotato.com/btc-eth-ai-stock-perpetuals-suddenly-dump-as-black-monday-fears-surge/",
-    "source": "CryptoPotato",
     "tags": [
       "Bitcoin",
       "Ethereum",
       "Ukraine",
       "Russia"
     ],
+    "source": "CryptoPotato",
     "origin": "rss",
-    "pubDate": "2026-10-18T05:37:54.000Z",
-    "fetchedAt": "2026-10-18T06:01:19.618Z",
-    "isDuplicateOf": null,
-    "content": "Cryptocurrencies like BTC and ETH, alongside AI stock perpetuals, experienced a sudden market dump as fears of a 'Black Monday' surged. This unexpected financial downturn coincided with escalating major attacks between Ukraine and Russia, heightening global economic uncertainty and triggering widespread risk-off sentiment among investors.",
-    "content_ta": "புதிய மோதல்கள் குறித்த அச்சம் காரணமாக BTC, ETH மற்றும் AI stock perpetuals திடீரென வீழ்ச்சியடைந்தன. Ukraine மற்றும் Russia இடையே புதிய பெரும் தாக்குதல்கள் வெடித்ததை அடுத்து, 'Black Monday' குறித்த அச்சம் முதலீட்டாளர்கள் மத்தியில் அதிகரித்தது.",
-    "slug": "btc-eth-ai-stock-perpetuals-suddenly-dump-as-black-monday-fears-surge"
+    "hasContent": true,
+    "pubDate": "2026-10-18T05:37:54.000Z"
   },
   {
     "id": "219c5b8ec9b7ef7d",
+    "slug": "us-chip-stocks-plunge-16-in-longest-losing-streak-since-2008",
     "title": "US chip stocks plunge 16% in longest losing streak since 2008",
-    "summary": "The recent plunge in US chip stocks highlights vulnerabilities in AI-driven markets, emphasizing the risks of financing dependencies and market sentiment.\nThe post US chip stocks plunge 16% in longest losing streak since 2008 appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/us-chip-stocks-longest-losing-streak-2008/",
-    "source": "CryptoBriefing",
     "tags": [
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-18T04:54:12.000Z",
-    "fetchedAt": "2026-10-18T06:01:19.618Z",
-    "isDuplicateOf": null,
-    "content": "US chip stocks have plunged 16 percent, marking their longest losing streak since 2008. This significant market downturn highlights growing vulnerabilities within AI-driven financial markets. Analysts point to risks surrounding financing dependencies and shifting market sentiment as key factors contributing to the sharp decline.",
-    "content_ta": "US chip stocks 16 சதவிகிதம் சரிந்துள்ளதை அடுத்து, 2008-க்குப் பிறகு மிக நீண்ட சரிவை சந்தித்துள்ளன. இந்த சந்தை வீழ்ச்சியானது AI சார்ந்த சந்தைகளில் உள்ள பலவீனங்களை வெளிச்சம் போட்டுக் காட்டுகிறது. நிதி சார்ந்த சார்பு நிலைகளும் சந்தையின் போக்கும் இந்த வீழ்ச்சிக்கு முக்கியக் காரணங்களாகக் கருதப்படுகின்றன.",
-    "slug": "us-chip-stocks-plunge-16-in-longest-losing-streak-since-2008"
+    "hasContent": true,
+    "pubDate": "2026-10-18T04:54:12.000Z"
   },
   {
     "id": "b24232e5d37d7f7f",
+    "slug": "yuga-labs-launches-mudwater-trading-cards-on-solana-for-bayc-and-mayc-holders",
     "title": "Yuga Labs launches Mudwater trading cards on Solana for BAYC and MAYC holders",
-    "summary": "Yuga Labs' Mudwater launch on Solana could boost NFT market dynamics, enhance BAYC/MAYC value, and drive ApeCoin demand through trading activity.\nThe post Yuga Labs launches Mudwater trading cards on Solana for BAYC and MAYC holders appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/yuga-labs-mudwater-trading-cards-solana/",
-    "source": "CryptoBriefing",
     "tags": [
       "Yuga Labs",
       "Solana",
@@ -109,31 +290,22 @@
       "MAYC",
       "ApeCoin"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-18T03:27:44.000Z",
-    "fetchedAt": "2026-10-18T06:01:19.618Z",
-    "isDuplicateOf": null,
-    "content": "Yuga Labs has launched Mudwater trading cards on Solana exclusively for BAYC and MAYC holders. This release aims to boost NFT market dynamics, potentially enhance the value of Bored Ape Yacht Club collections, and drive demand for ApeCoin through increased trading activity.",
-    "content_ta": "Yuga Labs நிறுவனமானது BAYC மற்றும் MAYC வைத்திருப்பவர்களுக்காக Solana பிளாக்செயினில் Mudwater டிரேடிங் கார்டுகளை அறிமுகப்படுத்தியுள்ளது. இந்த வெளியீடு NFT சந்தை இயக்கவியலை உயர்த்தவும், சேகரிப்புகளின் மதிப்பை அதிகரிக்கவும், டிரேடிங் செயல்பாடு மூலம் ApeCoinக்கான தேவையை தூண்டவும் உதவும் என்று எதிர்பார்க்கப்படுகிறது.",
-    "slug": "yuga-labs-launches-mudwater-trading-cards-on-solana-for-bayc-and-mayc-holders"
+    "hasContent": true,
+    "pubDate": "2026-10-18T03:27:44.000Z"
   },
   {
     "id": "d4b06fe7742b2f13",
+    "slug": "openai-quietly-lists-three-aurora-alpha-models-in-its-api",
     "title": "OpenAI quietly lists three aurora alpha models in its API",
-    "summary": "The lack of transparency around these models could hinder developer adoption and create uncertainty in the AI market, affecting innovation.\nThe post OpenAI quietly lists three aurora alpha models in its API appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/openai-aurora-alpha-models-api/",
-    "source": "CryptoBriefing",
     "tags": [
       "OpenAI"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-18T03:18:04.000Z",
-    "fetchedAt": "2026-10-18T06:01:19.618Z",
-    "isDuplicateOf": null,
-    "content": "OpenAI has quietly introduced three new aurora alpha models into its API. However, the lack of transparency surrounding the release of these models has raised concerns among developers. Industry experts warn this uncertainty could potentially hinder developer adoption and impact broader innovation within the artificial intelligence market.",
-    "content_ta": "OpenAI நிறுவனம் தனது API-ல் மூன்று புதிய aurora alpha மாடல்களை ரகசியமாகச் சேர்த்துள்ளது. இருப்பினும், இந்த மாடல்களின் வெளியீடு குறித்த வெளிப்படைத்தன்மை இன்மை டெவலப்பர்கள் மத்தியில் கவலையை ஏற்படுத்தியுள்ளது. இந்த நிச்சயத்தன்மையற்ற சூழல் டெவலப்பர்களின் பயன்பாட்டைத் தடுத்து, செயற்கை நுண்ணறிவு சந்தையில் புதுமைகளைப் பாதிக்கலாம் என்று துறை வல்லுநர்கள் எச்சரிக்கின்றனர்.",
-    "slug": "openai-quietly-lists-three-aurora-alpha-models-in-its-api"
+    "hasContent": true,
+    "pubDate": "2026-10-18T03:18:04.000Z"
   },
   {
     "id": "c63499afd226d15d",
@@ -694,151 +866,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-17T14:41:59.000Z"
-  },
-  {
-    "id": "10d6c6302c843604",
-    "slug": "vitalik-buterin-breaks-down-bitcoin-mining-costs-versus-ai-inference",
-    "title": "Vitalik Buterin breaks down Bitcoin mining costs versus AI inference",
-    "tags": [
-      "Vitalik Buterin",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-17T14:34:40.000Z"
-  },
-  {
-    "id": "294f62539903a75d",
-    "slug": "florida-dermatology-group-hit-by-cyberattack-social-security-numbers-financial-details-and-medical",
-    "title": "Florida Dermatology Group Hit by Cyberattack, Social Security Numbers, Financial Details, and Medical Records of 85,585 Patients at Risk",
-    "tags": [
-      "Mid Florida Dermatology & Plastic Surgery",
-      "Florida"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-17T14:30:07.000Z"
-  },
-  {
-    "id": "d0808b94f26841b5",
-    "slug": "brooklyn-prosecutor-alona-katz-takes-on-crypto-scam-networks-behind-11-billion-in-losses",
-    "title": "Brooklyn prosecutor Alona Katz takes on crypto scam networks behind $11 billion in losses",
-    "tags": [
-      "Alona Katz",
-      "Brooklyn"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-17T14:14:01.000Z"
-  },
-  {
-    "id": "0a235ee2c683c2ba",
-    "slug": "anthropic-s-louisiana-data-center-could-generate-1-3-billion-a-month",
-    "title": "Anthropic’s Louisiana data center could generate $1.3 billion a month",
-    "tags": [
-      "Anthropic",
-      "Louisiana"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-17T14:04:45.000Z"
-  },
-  {
-    "id": "714f8fb0ad0be5b2",
-    "slug": "analyzing-strk-s-15-fall-2m-in-long-liquidations-what-s-next",
-    "title": "Analyzing STRK’s 15% fall, $2M in long liquidations — What’s next?",
-    "tags": [
-      "STRK"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-17T14:00:02.000Z"
-  },
-  {
-    "id": "93fc463cab59edef",
-    "slug": "polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
-    "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
-    "tags": [
-      "Polygon",
-      "Coinme",
-      "Visa",
-      "Stripe",
-      "Marc Boiron"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-17T14:00:00.000Z"
-  },
-  {
-    "id": "958187bd07bbef16",
-    "slug": "wall-street-stays-bullish-on-strategy-despite-msci-threat-cryptoquant-ceo-says",
-    "title": "Wall Street Stays Bullish on Strategy Despite MSCI Threat, CryptoQuant CEO Says",
-    "tags": [
-      "Strategy",
-      "MSCI",
-      "CryptoQuant",
-      "Wall Street"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-17T13:44:56.000Z"
-  },
-  {
-    "id": "207f5c6a8cc8b986",
-    "slug": "152-million-shib-tokens-sent-to-dead-wallets-from-coinbase-uncovered",
-    "title": "152 Million SHIB Tokens Sent to Dead Wallets From Coinbase Uncovered",
-    "tags": [
-      "Coinbase",
-      "SHIB"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-17T13:38:52.000Z"
-  },
-  {
-    "id": "2ee354108b6a74fc",
-    "slug": "bitget-to-end-services-for-select-users-in-one-off-move",
-    "title": "Bitget to end services for select users in one-off move",
-    "tags": [
-      "Bitget"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-17T13:38:05.000Z"
-  },
-  {
-    "id": "51fc46a2a20b14a6",
-    "slug": "major-bulgarian-bank-postbank-to-add-crypto-and-stock-investments-to-app-in-early-2027",
-    "title": "Major Bulgarian bank Postbank to add crypto and stock investments to app in early 2027",
-    "tags": [
-      "Postbank",
-      "Bulgaria"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-17T13:33:24.000Z"
-  },
-  {
-    "id": "3e772ae05a9e18b6",
-    "slug": "fidelity-report-finds-solana-resilient-but-flags-concentration-in-stake-hosting-and-clients",
-    "title": "Fidelity report finds Solana resilient but flags concentration in stake, hosting and clients",
-    "tags": [
-      "Fidelity",
-      "Solana"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-17T13:10:16.000Z"
   }
 ]
