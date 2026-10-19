@@ -968,5 +968,465 @@
     "content": "The Mills Review, published in July, examines how artificial intelligence could transform retail financial services by 2030. Developments anticipated in the report are already emerging, notably the shift toward agentic finance, highlighted by the launch of Meta's Muse. This review provides key insights into the future intersection of technology and the financial sector.",
     "content_ta": "ஜூலை மாதத்தில் வெளியிடப்பட்ட Mills Review, 2030-க்குள் சில்லறை நிதி சேவைகளை செயற்கை நுண்ணறிவு எவ்வாறு மாற்றியமைக்கலாம் என்பதை ஆராய்கிறது. அந்த அறிக்கையில் எதிர்பார்க்கப்பட்ட சில மாற்றங்கள் ஏற்கனவே வெளிவரத் தொடங்கியுள்ளன, குறிப்பாக Meta-வின் Muse அறிமுகம் மூலம் 'ஏஜென்டிக் ஃபைனான்ஸ்' நோக்கிய நகர்வு குறிப்பிடத்தக்கது.",
     "slug": "building-the-future-of-finance-in-the-age-of-ai"
+  },
+  {
+    "id": "926a4a8159921367",
+    "title": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
+    "summary": "Curator-managed lending strategies are attracting institutional capital, while exposing depositors to collateral, liquidity and smart-contract risks.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
+    "source": "CoinDesk",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-10-19T09:32:38.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.644Z",
+    "isDuplicateOf": null,
+    "content": "Crypto vault deposits have surged past $10 billion, driven largely by curator-managed lending strategies attracting institutional capital. However, this growth has also drawn increased regulatory scrutiny. Experts warn that these attractive yields expose depositors to significant risks, including collateral fluctuations, liquidity constraints, and potential smart-contract vulnerabilities.",
+    "content_ta": "கிரிப்டோ வால்ட் டெபாசிட்டுகள் 10 பில்லியன் டляர்களைத் தாண்டி உயர்ந்துள்ளன. கியூரேட்டர்-நிர்வகிக்கப்படும் லெண்டிங் உத்திகள் நிறுவன முதலீடுகளை ஈர்ப்பதே இதற்கு முக்கியக் காரணமாகும். அதே நேரத்தில், இந்த வளர்ச்சி அதிகரித்த ரெகுலேட்டரி பரிசோதனையையும் ஈர்த்துள்ளது. இந்த கவர்ச்சிகரமான லாபங்கள் டெபாசிட்தாரர்களை கொலாட்டரல், லிக்விடிட்டி மற்றும் ஸ்மார்ட்-காண்ட்ராக்ட் அபாயங்களுக்கு ஆளாக்குவதாக நிபுணர்கள் எச்சரிக்கின்றனர்.",
+    "slug": "crypto-vault-deposits-top-10-billion-as-lending-risks-draw-regulatory-scrutiny"
+  },
+  {
+    "id": "b5a848fcc9c73d02",
+    "title": "BingX, YouHodler added to ESMA MiCA register in latest update",
+    "summary": "ESMA’s latest MiCA register update includes BingX, YouHodler and Banco Santander’s Openbank, bringing the total to 375 unique CASPs.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/bingx-youhodler-esma-mica-register-friday-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "BingX",
+      "YouHodler",
+      "Banco Santander",
+      "Openbank",
+      "ESMA"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T10:13:00.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.644Z",
+    "isDuplicateOf": null,
+    "content": "Cryptocurrency platforms BingX and YouHodler, along with Banco Santander’s Openbank, have been added to the European Securities and Markets Authority (ESMA) MiCA register in its latest update. This inclusion brings the total number of unique Crypto-Asset Service Providers (CASPs) on the register to 375, reflecting continued regulatory developments in the digital asset sector.",
+    "content_ta": "BingX மற்றும் YouHodler ஆகிய கிரிப்டோகரன்சி தளங்கள், Banco Santander-ன் Openbank நிறுவனத்துடன் இணைந்து, ESMA-வின் MiCA பதிவேட்டின் சமீபத்திய புதுப்பிப்பில் சேர்க்கப்பட்டுள்ளன. இந்த சேர்த்தல் மூலம், பதிவேட்டில் உள்ள தனிப்பட்ட CASP-களின் மொத்த எண்ணிக்கை 375 ஆக உயர்ந்துள்ளது, இது டிஜிட்டல் சொத்து துறையில் தொடர்ச்சியான ஒழுங்குமுறை வளர்ச்சிகளை பிரதிபலிக்கிறது.",
+    "slug": "bingx-youhodler-added-to-esma-mica-register-in-latest-update"
+  },
+  {
+    "id": "823b48a9758c7d06",
+    "title": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
+    "summary": "Zakura says a single published Zcash address could let a future quantum attacker link every payment a wallet has ever received.",
+    "hasSummary": true,
+    "link": "https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps",
+    "source": "Decrypt",
+    "tags": [
+      "Zcash"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T10:11:21.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.644Z",
+    "isDuplicateOf": null,
+    "content": "Zcash developer Zakura has proposed a potential fix to address a vulnerability where future quantum computers could link shielded swaps. According to Zakura, a single published Zcash address might allow a quantum attacker to connect every payment a wallet has ever received, posing a significant privacy risk to users. The proposed solution aims to protect transaction privacy against advanced quantum computing threats.",
+    "content_ta": "Zcash developer Zakura, future quantum computers மூலம் shielded swaps-ஐ இணைப்பதைத் தடுக்கும் ஒரு தீர்வை முன்மொழிந்துள்ளார். Zakura-வின் கூற்றுப்படி, வெளியிடப்பட்ட ஒரு Zcash address எதிர்காலத்தில் quantum attacker ஒருவர் wallet பெற்றுள்ள அனைத்து payment-களையும் இணைக்க வழிவகுக்கலாம். பயனர்களின் privacy-ஐப் பாதுகாக்க இந்தத் தீர்வு அவசியமாகிறது.",
+    "slug": "zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps"
+  },
+  {
+    "id": "f1a5e730d329d007",
+    "title": "Cipher’s $850 million AI bet deepens investor scrutiny as Bitcoin miner’s stock plunges 52%",
+    "summary": "The completed exchange expands Cipher's share base as it adds $850 million in zero-coupon debt to support data-center development.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/ciphers-850-million-ai-bet-deepens-investor-scrutiny-as-bitcoin-miners-stock-plunges-52/",
+    "source": "CryptoSlate",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-10-19T10:00:14.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.644Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "cipher-s-850-million-ai-bet-deepens-investor-scrutiny-as-bitcoin-miner-s-stock-plunges-52"
+  },
+  {
+    "id": "ec94f42ab06a50bc",
+    "title": "MARA Selling Bitcoin? Exchange Deposits Put 1,000 BTC Under Watch",
+    "summary": "BTC exchange deposits linked to MARA moved 1,000 BTC worth $82.8 million, but on-chain data does not confirm a sale. Sale speculation persists.\nThe post MARA Selling Bitcoin? Exchange Deposits Put 1,000 BTC Under Watch appeared first on Cryptonews.",
+    "hasSummary": true,
+    "link": "https://cryptonews.com/news/btc-exchange-deposits-mara-bitcoin-selling/",
+    "source": "CryptoNews",
+    "tags": [
+      "MARA",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T09:54:22.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.644Z",
+    "isDuplicateOf": null,
+    "content": "On-chain data shows exchange deposits linked to MARA have moved 1,000 Bitcoin valued at approximately $82.8 million. While these large transfers have sparked widespread speculation in the market that the company might be selling its holdings, current blockchain analysis does not officially confirm any actual sales.",
+    "content_ta": "MARA-வுடன் தொடர்புடைய எக்ஸ்சேஞ்ச் டெபாசிட்டுகள் மூலம் சுமார் $82.8 மில்லியன் மதிப்புள்ள 1,000 Bitcoin மாற்றப்பட்டுள்ளதாக ஆன்-டெய்ன் தரவுகள் காட்டுகின்றன. இந்த பெரிய அளவிலான இடமாற்றங்கள் நிறுவனம் தனது இருப்பை விற்கக்கூடும் என்ற ஊகங்களை சந்தையில் ஏற்படுத்தியுள்ளன, எனினும் தற்போதுள்ள பிளாக்செயின் பகுப்பாய்வு எந்தவொரு நேரடி விற்பனையையும் அதிகாரப்பூர்வமாக உறுதிப்படுத்தவில்லை.",
+    "slug": "mara-selling-bitcoin-exchange-deposits-put-1-000-btc-under-watch"
+  },
+  {
+    "id": "18342962f2057f4a",
+    "title": "StakerX’s AI Agent Surpasses Passes $40M Staked Assets on Solana Within Three Months of Launch",
+    "summary": "[PRESS RELEASE – Zug, Switzerland, October 19th, 2026] StakerX’s AI Agent Surpasses Passes $40M Staked Assets on Solana Within Three Months of Launch StakerGPT trades crypto markets around the clock and publishes every trade it makes, as more than 8,200 users join the platform StakerX.ai, an agentic trading platform built by Switzerland-based StakerX Strategies AG, […]",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/stakerxs-ai-agent-surpasses-passes-40m-staked-assets-on-solana-within-three-months-of-launch/",
+    "source": "CryptoPotato",
+    "tags": [
+      "StakerX",
+      "Solana",
+      "Switzerland",
+      "Zug"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T10:17:42.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.644Z",
+    "isDuplicateOf": null,
+    "content": "StakerX Strategies AG announced that its AI trading agent, StakerGPT, has surpassed $40 million in staked assets on the Solana blockchain within three months of its launch. The platform has attracted over 8,200 users by providing around-the-clock automated crypto trading with transparent trade publication. The Zug, Switzerland-based project continues to see rapid growth in the decentralized finance sector.",
+    "content_ta": "StakerX Strategies AG-யின் AI வர்த்தக ஏஜென்ட் ஆன StakerGPT, Solana பிளாக்சைனில் தொடங்கப்பட்ட மூன்று மாதங்களுக்குள் $40 மில்லியனுக்கும் அதிகமான ஸ்டேக் செய்யப்பட்ட சொத்துக்களை எட்டியுள்ளதாக அறிவித்துள்ளது. இந்த தளம் வெளிப்படையான வர்த்தக வெளியீடுகளுடன் 24 மணி நேரமும் கிரிப்டோ வர்த்தகத்தை வழங்கி 8,200 க்கும் மேற்பட்ட பயனர்களை ஈர்த்துள்ளது. சுவிட்சர்லாந்தின் Zug-ஐ தளமாகக் கொண்ட இந்த திட்டம் தொடர்ந்து வேகமாக வளர்ந்து வருகிறது.",
+    "slug": "stakerx-s-ai-agent-surpasses-passes-40m-staked-assets-on-solana-within-three-months-of-launch"
+  },
+  {
+    "id": "8d65a6eddf62a2a1",
+    "title": "Bitcoin Eyes $83K as ‘Black Monday’ Prediction Fizzles: Market Watch",
+    "summary": "ARB and RAY has rocketed the most over the past day, while TIA and STRK have posted the biggest losses.",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/bitcoin-eyes-83k-as-black-monday-prediction-fizzles-market-watch/",
+    "source": "CryptoPotato",
+    "tags": [
+      "Bitcoin",
+      "ARB",
+      "RAY",
+      "TIA",
+      "STRK"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T09:44:03.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.645Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin is eyeing the $83,000 level as fears of a severe market downturn failed to materialize. In the broader cryptocurrency market over the past day, ARB and RAY recorded the highest gains, whereas TIA and STRK experienced the most significant losses.",
+    "content_ta": "மிகப்பெரிய சந்தை வீழ்ச்சி குறித்த அச்சம் தணிந்ததை அடுத்து, Bitcoin ஆனது $83K மதிப்பை எட்ட முயன்று வருகிறது. கடந்த ஒருநாளில் கிரிப்டோ சந்தையில் ARB மற்றும் RAY ஆகியவை அதிகளவு விலை உயர்ந்துள்ள நிலையில், TIA மற்றும் STRK ஆகியவை பெரும் சரிவைச் சந்தித்துள்ளன.",
+    "slug": "bitcoin-eyes-83k-as-black-monday-prediction-fizzles-market-watch"
+  },
+  {
+    "id": "3929ae67a053e7af",
+    "title": "Analyst Dismisses Market Panic: Bitcoin’s Breakout and Retest Signal All Is Well",
+    "summary": "Nasdaq 100 futures climbed nearly 1% early Monday, challenging social media predictions that markets would open into a \"Black Monday\" crash.",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/analyst-dismisses-market-panic-bitcoins-breakout-and-retest-signal-all-is-well/",
+    "source": "CryptoPotato",
+    "tags": [
+      "Bitcoin",
+      "Nasdaq 100"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T09:10:16.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.645Z",
+    "isDuplicateOf": null,
+    "content": "Despite social media predictions of a major market crash on Monday, financial analysts have dismissed the panic surrounding Bitcoin. Market indicators show a healthy breakout and retest pattern, suggesting everything is fine. Meanwhile, Nasdaq 100 futures also rose nearly 1% early Monday, countering fears of a severe downturn and bringing stability back to investor sentiment.",
+    "content_ta": "திங்கட்கிழமை சந்தையில் பெரும் சரிவு ஏற்படும் என்ற சமூக வலைதளங்களின் கணிப்புகளை நிபுணர்கள் நிராகரித்துள்ளனர். Bitcoin-ன் தற்போதைய நிலவரப்படி சந்தை ஆரோக்கியமான நிலையில் உள்ளது தெளிவாகிறது. இதற்கிடையில், திங்கட்கிழமை தொடக்கத்தில் Nasdaq 100 ஃபியூச்சர்ஸ் கிட்டத்தட்ட 1% உயர்ந்து, கடுமையான வீழ்ச்சி குறித்த அச்சத்தைப் போக்கியுள்ளதுடன் முதலீட்டாளர்கள் மத்தியில் ஸ்திரத்தன்மையை ஏற்படுத்தியுள்ளது.",
+    "slug": "analyst-dismisses-market-panic-bitcoin-s-breakout-and-retest-signal-all-is-well"
+  },
+  {
+    "id": "3df3ceaf5cf69876",
+    "title": "Ripple’s institutional bet: XRPL moves beyond payments and into tokenized finance",
+    "summary": "Measurable on-chain demand will determine whether Ripple’s expansion delivers lasting adoption.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/ripples-institutional-bet-xrpl-moves-beyond-payments-and-into-tokenized-finance/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Ripple",
+      "XRP Ledger"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T10:15:36.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.645Z",
+    "isDuplicateOf": null,
+    "content": "Ripple is expanding the XRP Ledger beyond traditional payments into the growing sector of tokenized finance. This strategic shift aims to capture institutional interest and bring real-world assets onto the blockchain. However, analysts note that measurable on-chain demand will ultimately determine whether this ambitious expansion achieves lasting adoption in the broader financial market.",
+    "content_ta": "Ripple நிறுவனம் தனது XRP Ledger-ஐ பாரம்பரிய பணப் பரிமாற்றங்களை தாண்டி, டோக்கன் செய்யப்பட்ட நிதித்துறைக்குள் விரிவுபடுத்துகிறது. நிறுவனங்களின் முதலீட்டை ஈர்ப்பதே இந்த வியூக மாற்றத்தின் நோக்கமாகும். இருப்பினும், பிளாக்சைன் தொழில்நுட்பத்தில் உண்மையான தேவை இருக்கிறதா என்பதுதான் இந்த விரிவாக்கம் நீண்டகால வெற்றியைப் பெறுமா என்பதைத் தீர்மானிக்கும் என்று ஆய்வாளர்கள் குறிப்பிடுகின்றனர்.",
+    "slug": "ripple-s-institutional-bet-xrpl-moves-beyond-payments-and-into-tokenized-finance"
+  },
+  {
+    "id": "01b2afc2f58d0a0a",
+    "title": "Bitcoin defies Black Monday fears, shows signs of November 2024’s rally",
+    "summary": "Bitcoin’s resilience amid Black Monday panic puts BTC dominance in focus.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/bitcoin-defies-black-monday-fears-shows-signs-of-november-2024s-rally/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T10:00:35.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.645Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin has shown strong resilience by defying recent Black Monday market fears. This unexpected stability and recovery have highlighted signs reminiscent of the notable November 2024 rally, bringing renewed attention and focus to Bitcoin dominance across the broader financial markets.",
+    "content_ta": "Bitcoin சமீபத்திய பிளாக் மண்டே (Black Monday) சந்தை அச்சங்களை எதிர்கொண்டு வலுவான மீட்சி கண்டுள்ளது. இந்த எதிர்பாராத ஸ்திரத்தன்மை கடந்த November 2024 பேரணியை நினைவுபடுத்துவதுடன், பரந்த நிதிச் சந்தைகளில் Bitcoin ஆதிக்கத்திற்கு புதிய கவனத்தை ஈர்த்துள்ளது.",
+    "slug": "bitcoin-defies-black-monday-fears-shows-signs-of-november-2024-s-rally"
+  },
+  {
+    "id": "568a761cd0f20f56",
+    "title": "NEAR Protocol Drives $130 Million Swap Surge to Storm $5 Level",
+    "summary": "NEAR's chain-abstraction protocol just absorbed $130 million in daily swaps as token testing key $5 resistance.",
+    "hasSummary": true,
+    "link": "https://u.today/near-protocol-drives-130-million-swap-surge-to-storm-5-level",
+    "source": "U.Today",
+    "tags": [
+      "NEAR Protocol"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T09:31:30.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.645Z",
+    "isDuplicateOf": null,
+    "content": "NEAR Protocol recently experienced a massive $130 million surge in daily token swaps, driven by its innovative chain-abstraction protocol. This significant increase in trading activity has pushed the NEAR token to test key resistance levels near the $5 price mark, reflecting growing user engagement and strong market momentum for the network.",
+    "content_ta": "NEAR Protocol சமீபத்தில் தனது சங்கிலி-சுருக்க (chain-abstraction) நெறிமுறை காரணமாக தினசரி டோக்கன் ஸ்வாப்களில் 130 மில்லியன் டாலர் பெரும் உயர்வைச் சந்தித்துள்ளது. இந்த வர்த்தக நடவடிக்கையின் குறிப்பிடத்தக்க அதிகரிப்பு காரணமாக, NEAR டோக்கன் $5 விலைக் குறிக்கு அருகில் உள்ள முக்கிய எதிர்ப்பு நிலைகளைச் சோதிக்கத் தள்ளப்பட்டுள்ளது.",
+    "slug": "near-protocol-drives-130-million-swap-surge-to-storm-5-level"
+  },
+  {
+    "id": "e7ec6dee7c4746fe",
+    "title": "Can Elon Musk Really Give a SpaceX Share to 70 Million Kids?",
+    "summary": "Elon Musk said on X that next year he will give one SpaceX share to every child in America. He called it the first of many. The plan has drawn millions of views, but it leaves major questions unanswered about private shares. What a Private SpaceX Share Actually Means He offered no immediate details on\nThe post Can Elon Musk Really Give a SpaceX Share to 70 Million Kids? appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/elon-musk-spacex-shares-american-children/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Elon Musk",
+      "SpaceX",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T09:30:34.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.645Z",
+    "isDuplicateOf": null,
+    "content": "Elon Musk posted on X that he plans to give one SpaceX share to every child in America next year. This announcement received millions of views online. However, the proposal leaves significant questions unanswered regarding the distribution and mechanics of private shares, as no immediate details were provided by Musk.",
+    "content_ta": "அமெரிக்காவில் உள்ள ஒவ்வொரு குழந்தைக்கும் அடுத்த ஆண்டு ஒரு SpaceX பங்கு வழங்கப்படும் என்று Elon Musk தனது X பக்கத்தில் பதிவிட்டுள்ளார். இந்த அறிவிப்பு இணையத்தில் லட்சக்கணக்கான பார்வைகளைப் பெற்றுள்ளது. இருப்பினும், இது தொடர்பான கூடுதல் விவரங்கள் எவையும் வெளியிடப்படாததால், தனியார் பங்குகளை வழங்குவது குறித்து பல கேள்விகள் எழுந்துள்ளன.",
+    "slug": "can-elon-musk-really-give-a-spacex-share-to-70-million-kids"
+  },
+  {
+    "id": "ca6f0d84f4e6af98",
+    "title": "Kansas emerges as key battleground in 2026 Senate race",
+    "summary": "Kansas' emerging role as a battleground could reshape Senate control dynamics, challenging traditional party strongholds and influencing national strategies.\nThe post Kansas emerges as key battleground in 2026 Senate race appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/kansas-emerges-as-key-battleground-in-2026-senate-race/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Kansas",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T10:02:36.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.645Z",
+    "isDuplicateOf": null,
+    "content": "Kansas is emerging as a crucial battleground in the upcoming 2026 Senate race. This shifting political landscape could significantly alter Senate control dynamics, challenging traditional party strongholds and forcing campaigns to adapt their national strategies. Observers note that the state's unexpected competitiveness highlights broader changes in American electoral politics.",
+    "content_ta": "2026 Senate தேர்தலின் மிக முக்கிய களமாக Kansas உருவெடுத்து வருகிறது. இந்த அரசியல் மாற்றமானது Senate கட்டுப்பாட்டின் போக்கைத் தலைகீழாக மாற்றக்கூடும். பாரம்பரிய அரசியல் கோட்டைகளை சவாலுக்குள்ளாக்கும் இந்த நிலவரம், தேசிய அளவிலான தேர்தல் வியூகங்களையும் மறுவடிவமைக்கத் தொடங்கும் என எதிர்பார்க்கப்படுகிறது.",
+    "slug": "kansas-emerges-as-key-battleground-in-2026-senate-race"
+  },
+  {
+    "id": "e6081bb03b8e3081",
+    "title": "Growing list of major events Saudi Arabia forced to cancel, postpone",
+    "summary": "Saudi Arabia's event disruptions highlight increased security risks and potential economic impacts, with airspace closure risks being monitored.\nThe post Growing list of major events Saudi Arabia forced to cancel, postpone appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/growing-list-of-major-events-saudi-arabia-forced-to-cancel-postpone/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Saudi Arabia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T09:47:42.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.645Z",
+    "isDuplicateOf": null,
+    "content": "Saudi Arabia faces a growing list of major event cancellations and postponements. These disruptions highlight rising security risks and potential economic impacts in the region, while observers continue to monitor ongoing airspace closure risks.",
+    "content_ta": "Saudi Arabia-ல் முக்கிய நிகழ்வுகள் பல ரத்து செய்யப்படுவதும் ஒத்திவைக்கப்படுவதும் அதிகரித்து வருகிறது. இந்தத் தடையானது அப்பகுதியில் அதிகரித்து வரும் பாதுகாப்பு அபாயங்களையும் சாத்தியமான பொருளாதார தாக்கங்களையும் எடுத்துக்காட்டுகிறது.",
+    "slug": "growing-list-of-major-events-saudi-arabia-forced-to-cancel-postpone"
+  },
+  {
+    "id": "65cf0a2ce432e265",
+    "title": "Houthi attack on Yemeni military camp kills 18, escalating conflict",
+    "summary": "The escalation may shift market perceptions, increasing the likelihood of Houthi territorial gains and impacting regional stability and security.\nThe post Houthi attack on Yemeni military camp kills 18, escalating conflict appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/houthi-attack-on-yemeni-military-camp-kills-18-escalating-conflict/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Houthi",
+      "Yemen"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T09:43:32.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.645Z",
+    "isDuplicateOf": null,
+    "content": "An attack by Houthi forces on a Yemeni military camp resulted in the deaths of 18 people, significantly escalating the ongoing regional conflict. This recent development threatens to alter market perspectives by raising concerns over Houthi territorial gains and broader regional stability and security.",
+    "content_ta": "யேமனில் உள்ள ராணுவ முகாம் மீது Houthi அமைப்பினர் நடத்திய தாக்குதலில் 18 பேர் உயிரிழந்தனர். இந்த மோதல் தீவிரமடைந்து வருவது பிராந்திய ஸ்திரத்தன்மை மற்றும் பாதுகாப்பு குறித்து கவலைகளை எழுப்பியுள்ளதுடன், சந்தையின் பார்வையும் மாற வாய்ப்புள்ளது.",
+    "slug": "houthi-attack-on-yemeni-military-camp-kills-18-escalating-conflict"
+  },
+  {
+    "id": "eff3b041eac9ba3f",
+    "title": "MIT’s Claude Opus 4.7 experiment highlights AI self-directed learning potential",
+    "summary": "The experiment could redefine AI development strategies, influencing market dynamics and competitive positioning among leading AI companies.\nThe post MIT’s Claude Opus 4.7 experiment highlights AI self-directed learning potential appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/mits-claude-opus-47-experiment-highlights-ai-self-directed-learning-potential/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "MIT",
+      "Claude Opus 4.7"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T09:41:53.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.645Z",
+    "isDuplicateOf": null,
+    "content": "A recent MIT experiment involving Claude Opus 4.7 showcases significant potential for artificial intelligence to engage in self-directed learning. This development could reshape standard AI development strategies, potentially altering market dynamics and the competitive landscape among leading artificial intelligence companies and researchers in the technology sector.",
+    "content_ta": "MIT நடத்திய Claude Opus 4.7 தொடர்பான ஒரு புதிய பரிசோதனை, AI இன் சுய-வழிகாட்டப்பட்ட கற்றல் திறனை வெளிப்படுத்தியுள்ளது. இந்த முன்னேற்றம் AI மேம்பாட்டு உத்திகளை மாற்றியமைக்கக்கூடும், இது தொழில்நுட்பத் துறையில் முன்னணி நிறுவனங்களுக்கு இடையிலான போட்டிச்சூழலையும் சந்தை இயக்கவியலையும் பாதிக்க வாய்ப்புள்ளது.",
+    "slug": "mit-s-claude-opus-4-7-experiment-highlights-ai-self-directed-learning-potential"
+  },
+  {
+    "id": "96762f941f178566",
+    "title": "Zilch to move to new London HQ",
+    "summary": "UK payments fintech unicorn Zilch has announced details of its new base in London which will more than double the capacity of current HQ as the company looks to expand in Europe.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/newsarticle/48603/zilch-to-move-to-new-london-hq?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Zilch",
+      "London",
+      "United Kingdom",
+      "Europe"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T10:04:00.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.645Z",
+    "isDuplicateOf": null,
+    "content": "UK payments fintech unicorn Zilch has announced plans to move to a new London headquarters. The new base will more than double the capacity of its current headquarters, supporting the company's ongoing expansion plans across Europe.",
+    "content_ta": "UK பேமெண்ட்ஸ் ஃபின்டெக் யூனிகார்ன் ஆன Zilch, லண்டனில் உள்ள தனது புதிய தலைமை அலுவலகத்திற்கு மாறுவதாக அறிவித்துள்ளது. இந்த புதிய அலுவலகம் நிறுவனத்தின் தற்போதைய தலைமையகத்தின் கொள்ளளவை விட இரண்டு மடங்கு அதிகமாக இருக்கும். ஐரோப்பாவில் தனது வணிகத்தை விரிவுபடுத்தும் நிறுவனத்தின் திட்டங்களுக்கு இது உதவியாக இருக்கும்.",
+    "slug": "zilch-to-move-to-new-london-hq"
+  },
+  {
+    "id": "00ffb0f009817d7a",
+    "title": "GS Securities and Acuity Trading develop AI trading signals",
+    "summary": "GS Securities, the global online broker for forex and CFD trading, has partnered with award-winning market intelligence provider Acuity Trading to give its clients the full Acuity intelligence suite.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111320/gs-securities-and-acuity-trading-develop-ai-trading-signals?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "GS Securities",
+      "Acuity Trading"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T09:16:00.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.645Z",
+    "isDuplicateOf": null,
+    "content": "Global online broker GS Securities has partnered with market intelligence provider Acuity Trading to introduce advanced AI-powered trading signals. Through this collaboration, GS Securities clients will gain access to Acuity Trading's full suite of market intelligence tools, designed to enhance their forex and CFD trading experience with cutting-edge analytical insights.",
+    "content_ta": "Forex மற்றும் CFD டிரேடிங் சேவைகளை வழங்கும் GS Securities நிறுவனம், மார்க்கெட் இன்டெலிஜென்ஸ் நிறுவனமான Acuity Trading உடன் இணைந்துள்ளது. இந்த கூட்டணியின் மூலம், GS Securities வாடிக்கையாளர்கள் Acuity Trading இன் மேம்பட்ட AI டிரேடிங் சிக்னல்கள் மற்றும் முழுமையான மார்க்கெட் இன்டெலிஜென்ஸ் டூல்களைப் பெற முடியும்.",
+    "slug": "gs-securities-and-acuity-trading-develop-ai-trading-signals"
+  },
+  {
+    "id": "87c212b64068f807",
+    "title": "Finovox launches ROI tool for fraud prevention",
+    "summary": "Fraud costs businesses far more than the amount lost in a fraudulent transaction. From hours spent investigating suspicious cases to lengthy processing times and operational costs, the true financial impact can be difficult to quantify.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111321/finovox-launches-roi-tool-for-fraud-prevention?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Finovox"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T09:21:00.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.645Z",
+    "isDuplicateOf": null,
+    "content": "Finovox has launched a new return on investment tool designed to help businesses with fraud prevention. Fraud costs companies far beyond the direct amount lost in fraudulent transactions, including hours spent on investigations, lengthy processing times, and hidden operational costs. The true financial impact is often difficult to quantify, making this new tool a valuable asset for organizations seeking to streamline their security operations and measure their financial efficiency.",
+    "content_ta": "Fraud prevention-ஐ மேம்படுத்த Finovox நிறுவனம் புதிய ROI tool ஒன்றை அறிமுகப்படுத்தியுள்ளது. Fraud காரணமாக ஏற்படும் இழப்புகள் நேரடியாக பணத்தை இழப்பதோடு முடிவதில்லை. சந்தேகத்திற்கிடமான வழக்குகளை விசாரிக்க செலவிடப்படும் நேரங்கள், நீண்ட செயலாக்க நேரங்கள் மற்றும் செயல்பாட்டுச் செலவுகள் என இதன் உண்மையான நிதித் தாக்கத்தை மதிப்பிடுவது கடினம். நிறுவனங்களின் பாதுகாப்பு நடவடிக்கைகளை எளிமைப்படுத்த இந்த புதிய tool உதவும்.",
+    "slug": "finovox-launches-roi-tool-for-fraud-prevention"
+  },
+  {
+    "id": "f9f5c6b19a7e38e3",
+    "title": "Access Partnership secures $13m in funding",
+    "summary": "Access Partnership (AP), the frontier technology advisory firm helping companies and governments bring innovation to market, today announced the successful completion of a capital raise that further strengthens its balance sheet and positions the firm for its next phase of growth.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111322/access-partnership-secures-13m-in-funding?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Access Partnership"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T09:25:00.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.645Z",
+    "isDuplicateOf": null,
+    "content": "Access Partnership, a leading frontier technology advisory firm, has successfully secured $13 million in funding. The capital raise will strengthen the company's financial position and support its next phase of growth. The firm helps businesses and governments successfully navigate the process of bringing new innovations to the market.",
+    "content_ta": "முன்னணி தொழில்நுட்ப ஆலோசனை நிறுவனமான Access Partnership, $13 மில்லியன் நிதியை வெற்றிகரமாக ஈட்டியுள்ளது. இந்த முதலீடு நிறுவனத்தின் நிதி நிலையை வலுப்படுத்தவும், அடுத்த கட்ட வளர்ச்சிக்கு உதவவும் வழிவகுக்கும். நிறுவனங்கள் மற்றும் அரசாங்கங்கள் புதிய கண்டுபிடிப்புகளை சந்தைக்கு கொண்டு வர இந்த நிறுவனம் உதவுகிறது.",
+    "slug": "access-partnership-secures-13m-in-funding"
+  },
+  {
+    "id": "a852284a9f29d916",
+    "title": "Specialist Mortgage Group embeds Y3S platform",
+    "summary": "Curvestone AI, the AI compliance and oversight platform for regulated financial services, has today announced that Specialist Mortgage Group, the Cardiff-based group behind Y3S Loans, Y3S Bridging and Commercial and Chase Blue Loans, has deployed its platform across their advice and quality-control process.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111323/specialist-mortgage-group-embeds-y3s-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Specialist Mortgage Group",
+      "Curvestone AI",
+      "Y3S Loans",
+      "Y3S Bridging and Commercial",
+      "Chase Blue Loans"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T09:31:00.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.645Z",
+    "isDuplicateOf": null,
+    "content": "Specialist Mortgage Group, the financial services group behind Y3S Loans, has deployed Curvestone AI's compliance and oversight platform. The technology has been integrated into the Cardiff-based group's advice and quality-control processes to enhance regulatory compliance across its operations, including Y3S Bridging and Commercial and Chase Blue Loans.",
+    "content_ta": "Y3S Loans-ன் தாய் நிறுவனமான Specialist Mortgage Group, Curvestone AI-யின் இணக்க மற்றும் மேற்பார்வைக் தளத்தை தனது சேவைகளில் நடைமுறைப்படுத்தியுள்ளது. கார்டிஃப் நகரை மையமாகக் கொண்ட இந்நிறுவனம், தனது ஆலோசனை மற்றும் தரக்கட்டுப்பாட்டுப் பணிகளில் ஒழுங்குமுறை இணக்கத்தை மேம்படுத்த இந்த தொழில்நுட்பத்தைப் பயன்படுத்துகிறது.",
+    "slug": "specialist-mortgage-group-embeds-y3s-platform"
+  },
+  {
+    "id": "9ff5e4ddb87e7a86",
+    "title": "MKI Partners expands in Latin America",
+    "summary": "MKI Global Partners (MKI), the independent advisory firm specialising in complex situations, has established an emerging markets practice with an initial focus on Latin America.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111324/mki-partners-expands-in-latin-america?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "MKI Global Partners",
+      "Latin America"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T09:34:00.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.645Z",
+    "isDuplicateOf": null,
+    "content": "MKI Global Partners, an independent advisory firm focusing on complex situations, has expanded its operations by establishing an emerging markets practice. The firm's new practice will initially focus on Latin America, aiming to provide specialized advisory services to clients operating in or expanding into the region.",
+    "content_ta": "சிக்கலான சூழ்நிலைகளில் நிபுணத்துவம் பெற்ற சுயாதீன ஆலோசனை நிறுவனமான MKI Global Partners, வளரும் சந்தைப் பிரிவை உருவாக்குவதன் மூலம் தனது சேவைகளை விரிவுபடுத்தியுள்ளது. இந்த புதிய பிரிவு ஆரம்பத்தில் Latin America-வை மையமாகக் கொண்டு செயல்படும்.",
+    "slug": "mki-partners-expands-in-latin-america"
+  },
+  {
+    "id": "45863911f908f331",
+    "title": "PingPong partners with Getnet for LatAm expansion",
+    "summary": "PingPong, the intelligent payments infrastructure for global growth, today announces a strategic partnership with Getnet, the leading AI-payments company, part of Santander Group, to expand access to its financial infrastructure across Iberia.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111325/pingpong-partners-with-getnet-for-latam-expansion?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "PingPong",
+      "Getnet",
+      "Santander Group",
+      "Iberia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T09:42:00.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.645Z",
+    "isDuplicateOf": null,
+    "content": "PingPong, an intelligent payments infrastructure provider, has announced a strategic partnership with Getnet, an AI-payments company under Santander Group. This collaboration aims to expand the reach of PingPong's financial infrastructure into Iberia, marking a significant step in the companies' regional growth and market integration.",
+    "content_ta": "சர்வதேச அளவில் நிதி சேவைகளை வழங்கி வரும் PingPong நிறுவனம், Santander குழுமத்தைச் சேர்ந்த செயற்கை நுண்ணறிவு அடிப்படையிலான கட்டண நிறுவனமான Getnet உடன் ஒரு முக்கிய மூலோபாய கூட்டாண்மையை அறிவித்துள்ளது. இபெரியா பகுதியில் PingPong-இன் நிதி உள்கட்டமைப்பை விரிவுபடுத்துவதை இந்த ஒத்துழைப்பு நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "pingpong-partners-with-getnet-for-latam-expansion"
+  },
+  {
+    "id": "8d08109ef425a454",
+    "title": "PayMore to launch on Google Play",
+    "summary": "PayMore (paymore.io), the consumer mobile app that gives GCC users prepaid virtual cards for online shopping, subscriptions and digital services, today announced that its Android app is launching soon on Google Play.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111326/paymore-to-launch-on-google-play?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "PayMore",
+      "Google Play",
+      "GCC"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T09:46:00.000Z",
+    "fetchedAt": "2026-10-19T10:22:09.645Z",
+    "isDuplicateOf": null,
+    "content": "PayMore, the consumer mobile application providing prepaid virtual cards for online shopping, subscriptions, and digital services to users in the GCC region, has announced the upcoming launch of its Android application on Google Play. The app is designed to make digital transactions more accessible for consumers in the area.",
+    "content_ta": "GCC பகுதி பயனர்களுக்கு ஆன்லைன் ஷாப்பிங், சந்தாக்கள் மற்றும் டிஜிட்டல் சேவைகளுக்காக ப்ரீபெய்ட் விர்ச்சுவல் கார்டுகளை வழங்கும் PayMore செயலியின் Android பதிப்பு விரைவில் Google Play-ல் வெளியாகவுள்ளதாக அறிவிக்கப்பட்டுள்ளது.",
+    "slug": "paymore-to-launch-on-google-play"
   }
 ]
