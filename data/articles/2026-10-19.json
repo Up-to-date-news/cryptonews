@@ -286,5 +286,334 @@
     "content": "Analyst Ben Emons suggests that market pricing for a Federal Reserve rate hike before December may be underestimated. According to Emons, upcoming economic data will be the primary driver for central bank decisions, rather than the upcoming midterm elections.",
     "content_ta": "டிசம்பருக்கு முன்பு Fed வட்டி விகித உயர்வுக்கான சந்தை விலை நிர்ணயம் குறைவாக மதிப்பிடப்பட்டிருக்கலாம் என்று ஆய்வாளர் Ben Emons கூறுகிறார். வரவிருக்கும் இடைக்காலத் தேர்தல்களை விட, எதிர்கால பொருளாதாரத் தரவுகளே மத்திய வங்கியின் முடிவுகளைத் தீர்மானிக்கும் முக்கிய காரணியாக இருக்கும் என்று அவர் தெரிவிக்கிறார்.",
     "slug": "fed-hike-before-december-ben-emons-says-data-not-midterms-decides"
+  },
+  {
+    "id": "6ab270205fae1c68",
+    "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
+    "summary": "The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR’s public chain can’t expose a user’s wider payment history.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
+    "source": "CoinDesk",
+    "tags": [
+      "Zcash",
+      "ZEC",
+      "NEAR Intents"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T05:23:02.000Z",
+    "fetchedAt": "2026-10-19T06:01:32.098Z",
+    "isDuplicateOf": null,
+    "content": "Developers behind Zcash are planning a fix to protect ZEC swaps from potential future quantum computers. The team wants every transaction through NEAR Intents to use its own unique key, ensuring that refund addresses left on the public chain cannot expose a user's wider payment history and private data.",
+    "content_ta": "எதிர்கால குவாண்டம் கம்ப்யூட்டர்களிட1ருந்து ZEC பரிமாற்றங்களைப் பாதுகாக்க Zcash டெவலப்பர்கள் திட்டமிட்டுள்ளனர். NEAR Intents மூலம் நடக்கும் ஒவ்வொரு பரிமாற்றமும் தனித்துவமான கீ-யைப் பயன்படுத்த வேண்டும் என்று குழு விரும்புகிறது. இதன் மூலம் பொதுவான செயினில் விடப்படும் ரீஃபண்ட் முகவரியானது பயனரின் பரந்த கட்டண வரலாற்றை வெளிப்படுத்தாமல் பாதுகாக்கும்.",
+    "slug": "zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers"
+  },
+  {
+    "id": "7a439832e7fcddd4",
+    "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+    "summary": "Bitcoin, Nasdaq futures and Asian stocks rally as stronger-than-expected China GDP and falling oil prices lift risk appetite.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
+    "source": "CoinDesk",
+    "tags": [
+      "Bitcoin",
+      "Kospi",
+      "Nasdaq",
+      "China"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T03:36:58.000Z",
+    "fetchedAt": "2026-10-19T06:01:32.098Z",
+    "isDuplicateOf": null,
+    "content": "Global financial markets experienced a strong rally as Bitcoin, South Korea's Kospi index, and Nasdaq futures all surged. The positive market movement was driven by better-than-expected GDP growth figures from China and declining oil prices, which combined to significantly boost investor risk appetite across international markets.",
+    "content_ta": "சீனாவின் GDP வளர்ச்சி எதிர்பார்த்ததை விட சிறப்பாக இருந்ததும், கச்சா எண்ணெய் விலைக் குறைவும் உலகளாவிய முதலீட்டாளர்களின் ஆர்வத்தை அதிகரித்துள்ளன. இதனால் Bitcoin, தென் கொரியாவின் Kospi குறியீடு மற்றும் Nasdaq ஃபியூச்சர்ஸ் ஆகியவை குறிப்பிடத்தக்க அளவில் உயர்ந்துள்ளன.",
+    "slug": "bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates"
+  },
+  {
+    "id": "abf7eb1231605ca1",
+    "title": "South Korea to meet crypto exchanges amid calls for tax delay",
+    "summary": "The potential tax delay in South Korea may boost short-term crypto market confidence, affecting asset prices and regulatory perceptions.\nThe post South Korea to meet crypto exchanges amid calls for tax delay appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "South Korea"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T05:14:06.000Z",
+    "fetchedAt": "2026-10-19T06:01:32.098Z",
+    "isDuplicateOf": null,
+    "content": "South Korean authorities are set to hold discussions with local cryptocurrency exchanges following growing calls from the industry to delay the implementation of digital asset taxes. This potential postponement could provide short-term relief and boost market confidence among investors, while also shaping future regulatory perceptions for the country's growing crypto sector.",
+    "content_ta": "டிஜிட்டல் சொத்துகளுக்கான வரியை ஒத்திவைக்க வேண்டும் என்ற கோரிக்கைகள் அதிகரித்து வரும் நிலையில், சவுதி கொரியா அதிகாரிகள் உள்ளூர் crypto exchanges-உடன் பேச்சுவார்த்தை நடத்தவுள்ளனர். இந்த சாத்தியமான வரி ஒத்திவைப்பு முதலீட்டாளர்கள் மத்தியில் குறுகிய கால நம்பிக்கையை அதிகரிக்கக்கூடும்.",
+    "slug": "south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay"
+  },
+  {
+    "id": "105bf1fdd43c1c55",
+    "title": "9 firms opt out of OKXICE tokenized stocks after ‘reviewing and weighing’ risks",
+    "summary": "Will tokenized stocks adoption scale as companies oppose it?",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/9-firms-opt-out-of-okxice-tokenized-stocks-after-reviewing-and-weighing-risks/",
+    "source": "AMBCrypto",
+    "tags": [
+      "OKXICE"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T06:00:46.000Z",
+    "fetchedAt": "2026-10-19T06:01:32.098Z",
+    "isDuplicateOf": null,
+    "content": "Nine firms have decided to opt out of OKXICE tokenized stocks following a thorough review and evaluation of potential risks. This development raises questions about whether the adoption of tokenized stocks can scale successfully as companies continue to express opposition and caution toward the emerging financial product.",
+    "content_ta": "OKXICE tokenized stocks-ல் இருந்து ஒன்பது நிறுவனங்கள் சாத்தியமான ஆபத்துகளை முழுமையாக ஆய்வு செய்து மதிப்பீடு செய்த பிறகு விலகிக்கொள்ள முடிவு செய்துள்ளன. நிறுவனங்கள் தொடர்ந்து எதிர்ப்பு தெரிவித்து எச்சரிக்கையுடன் செயல்பட்டு வருவதால், tokenized stocks-ன் பயன்பாடு எதிர்காலத்தில் வளர்ச்சியடையுமா என்ற கேள்வி எழுந்துள்ளது.",
+    "slug": "9-firms-opt-out-of-okxice-tokenized-stocks-after-reviewing-and-weighing-risks"
+  },
+  {
+    "id": "4231ce33984ce0b7",
+    "title": "Wormhole posts further losses – But THIS can trigger W’s bullish rebound",
+    "summary": "Whales drive price decline, but data suggests long-term accumulation may be the goal.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/wormhole-posts-further-losses-but-this-can-trigger-ws-bullish-rebound/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Wormhole"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T05:00:24.000Z",
+    "fetchedAt": "2026-10-19T06:01:32.098Z",
+    "isDuplicateOf": null,
+    "content": "Wormhole recently faced further price losses, driven largely by whale activity in the market. However, despite the ongoing downward pressure, recent data indicates that long-term accumulation could be the primary goal for major holders, which may eventually trigger a bullish rebound for the W token.",
+    "content_ta": "Wormhole தொடர்ந்து விலையில் சரிவை சந்தித்துள்ளது, இது பெரும்பாலும் சந்தையில் வேல்ஸ் (whales) நடவடிக்கைகளால் ஏற்படுகிறது. எவ்வாறாயினும், தொடர்ச்சியான வீழ்ச்சிக்கு இடையில், நீண்ட கால சேமிப்பே முக்கிய நோக்கமாக இருக்கலாம் என்று தரவுகள் தெரிவிக்கின்றன, இது W டோக்கனின் காளையின் மீள் எழுச்சிக்கு (bullish rebound) வழிவகுக்கும்.",
+    "slug": "wormhole-posts-further-losses-but-this-can-trigger-w-s-bullish-rebound"
+  },
+  {
+    "id": "4b899b0f87f4cffd",
+    "title": "Worldcoin’s October slide: AI hype isn’t enough to hold $0.50",
+    "summary": "Can WLD bulls continue to defend $0.466?",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/worldcoins-october-slide-ai-hype-isnt-enough-to-hold-0-50/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Worldcoin",
+      "WLD"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T04:00:36.000Z",
+    "fetchedAt": "2026-10-19T06:01:32.098Z",
+    "isDuplicateOf": null,
+    "content": "Worldcoin experienced a downward price trend in October as broader AI market excitement proved insufficient to maintain the critical $0.50 support level. Market participants and bulls are now closely watching whether the token can successfully defend its upcoming price floor at $0.466 amid ongoing volatility.",
+    "content_ta": "அக்டோபர் மாதத்தில் Worldcoin விலை சரிவை சந்தித்தது. AI சந்தை குறித்த உற்சாகம் $0.50 ஆதரவு நிலையை தக்கவைக்க போதுமானதாக இல்லை. தற்போது WLD டோக்கன் $0.466 விலையை வெற்றிகரமாகப் பாதுகாக்க முடியுமா என்பதை முதலீட்டாளர்கள் உன்னிப்பாகக் கவனித்து வருகின்றனர்.",
+    "slug": "worldcoin-s-october-slide-ai-hype-isn-t-enough-to-hold-0-50"
+  },
+  {
+    "id": "b56b307e9d8f99f3",
+    "title": "Ripple's David Schwartz Predicts Major DeFi Breakthrough",
+    "summary": "Ripple's David Schwartz has hinted at a major breakthrough in XRP Ledger-based decentralized finance.",
+    "hasSummary": true,
+    "link": "https://u.today/ripples-david-schwartz-predicts-major-defi-breakthrough",
+    "source": "U.Today",
+    "tags": [
+      "Ripple",
+      "David Schwartz",
+      "XRP Ledger"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T05:30:10.000Z",
+    "fetchedAt": "2026-10-19T06:01:32.098Z",
+    "isDuplicateOf": null,
+    "content": "Ripple's David Schwartz has recently predicted a major breakthrough in decentralized finance. Speaking on future developments, the executive hinted at significant advancements for XRP Ledger-based DeFi applications, sparking renewed interest and speculation among the crypto community regarding the platform's expanding capabilities and upcoming features.",
+    "content_ta": "Ripple நிறுவனத்தின் David Schwartz, decentralized finance துறையில் ஒரு முக்கிய திருப்புமுனை ஏற்படும் என கணித்துள்ளார். XRP Ledger அடிப்படையிலான DeFi செயலிகளுக்கான குறிப்பிடத்தக்க முன்னேற்றங்கள் குறித்து அவர் குறிப்பால் உணர்த்தியுள்ளார், இது கிரிப்டோ சமூகத்தினர் மத்தியில் பெரும் எதிர்பார்ப்பை ஏற்படுத்தியுள்ளது.",
+    "slug": "ripple-s-david-schwartz-predicts-major-defi-breakthrough"
+  },
+  {
+    "id": "fe9ba98aefb420f1",
+    "title": "India’s Finance Minister Flags a Major 2027 Risk as Indian Stocks Slide Over 12%",
+    "summary": "Indian Finance Minister Nirmala Sitharaman has flagged one of the biggest risks facing India in 2027. Her comments came as the country’s benchmark stock indexes slid more than 12% this year. The NSE Nifty 50 has fallen 12.13% since the start of 2026, while the BSE SENSEX has dropped 12.78%. Sitharaman tied part of that\nThe post India’s Finance Minister Flags a Major 2027 Risk as Indian Stocks Slide Over 12% appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/india-finance-minister-2027-economic-risk/",
+    "source": "BeInCrypto",
+    "tags": [
+      "India",
+      "Nirmala Sitharaman"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T05:48:43.000Z",
+    "fetchedAt": "2026-10-19T06:01:32.098Z",
+    "isDuplicateOf": null,
+    "content": "Indian Finance Minister Nirmala Sitharaman has highlighted a major risk facing the country in 2027. This warning arrives amid a significant downturn in Indian stock markets, with the NSE Nifty 50 and BSE SENSEX benchmark indexes both experiencing declines of over 12% since the start of the year.",
+    "content_ta": "இந்தியாவில் 2027-ல் ஏற்படக்கூடிய ஒரு முக்கிய அபாயம் குறித்து Finance Minister Nirmala Sitharaman எச்சரித்துள்ளார். இந்த ஆண்டு தொடக்கத்திலிருந்து NSE Nifty 50 மற்றும் BSE SENSEX குறியீடுகள் 12 சதவீதத்திற்கும் அதிகமாக சரிந்துள்ள நிலையில் இந்த எச்சரிக்கை வந்துள்ளது.",
+    "slug": "india-s-finance-minister-flags-a-major-2027-risk-as-indian-stocks-slide-over-12"
+  },
+  {
+    "id": "489ef7d0daf7afce",
+    "title": "Why Bernstein Thinks the AI Stock Sell-Off Could Help Small Caps",
+    "summary": "Janus Henderson's Richard Bernstein says the AI stock sell-off could cut small-cap borrowing costs as the Fed tightens.\nThe post Why Bernstein Thinks the AI Stock Sell-Off Could Help Small Caps appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/bernstein-ai-stock-selloff-small-caps/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Janus Henderson",
+      "Richard Bernstein"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T04:45:00.000Z",
+    "fetchedAt": "2026-10-19T06:01:32.098Z",
+    "isDuplicateOf": null,
+    "content": "Richard Bernstein of Janus Henderson suggests that the recent sell-off in AI stocks could ultimately benefit small-cap equities. As the Federal Reserve tightens monetary policy, this shift in market dynamics has the potential to reduce borrowing costs for smaller companies, according to his recent analysis.",
+    "content_ta": "Janus Henderson-ஐச் சேர்ந்த Richard Bernstein, AI பங்குகளின் சரிவு சிறிய நிறுவன பங்குகளுக்கு (small caps) உதவக்கூடும் என்று தெரிவித்துள்ளார். Fed வட்டி விகிதங்களை இறுக்கும் சூழலில், இந்த சந்தை மாற்றம் சிறிய நிறுவனங்களின் கடன் வாங்கும் செலவைக் குறைக்கக்கூடும் என்று அவர் கூறியுள்ளார்.",
+    "slug": "why-bernstein-thinks-the-ai-stock-sell-off-could-help-small-caps"
+  },
+  {
+    "id": "64f5655eda17788a",
+    "title": "Rockstar Rebuilt From Ground Up for GTA 6: Will Wall Street Buy It Nov. 19?",
+    "summary": "Rockstar nearly doubled its staff to build GTA 6, but Take-Two stock is down about 20% a month before the Nov. 19 launch.\nThe post Rockstar Rebuilt From Ground Up for GTA 6: Will Wall Street Buy It Nov. 19? appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/rockstar-gta-6-take-two-stock/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Rockstar",
+      "Take-Two",
+      "Wall Street"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T03:40:00.000Z",
+    "fetchedAt": "2026-10-19T06:01:32.098Z",
+    "isDuplicateOf": null,
+    "content": "Rockstar has significantly expanded its workforce, nearly doubling staff to rebuild its operations from the ground up for the upcoming launch of GTA 6. Despite the massive anticipation surrounding the title, parent company Take-Two has seen its stock drop by approximately 20% just a month ahead of the scheduled November 19 release date, leaving investors questioning how Wall Street will respond.",
+    "content_ta": "GTA 6 வெளியீட்டிற்காக Rockstar தனது நிறுவனத்தை அடிமட்டத்திலிருந்து மீண்டும் கட்டமைக்க தனது பணியாளர்களின் எண்ணிக்கையை கிட்டத்தட்ட இரட்டிப்பாக உயர்த்தியுள்ளது. இவ்வளவு பெரிய எதிர்பார்ப்பிற்கு மத்தியில், திட்டமிடப்பட்ட நவம்பர் 19 வெளியீட்டு தேதிக்கு ஒரு மாதத்திற்கு முன்பு மூல நிறுவனமான Take-Two இன் பங்கு மதிப்பு சுமார் 20% சரிந்துள்ளது, இதனால் Wall Street எவ்வாறு பதிலளிக்கும் என்ற கேள்வி முதலீட்டாளர்களிடையே எழுந்துள்ளது.",
+    "slug": "rockstar-rebuilt-from-ground-up-for-gta-6-will-wall-street-buy-it-nov-19"
+  },
+  {
+    "id": "bc3e1f9da6fde32a",
+    "title": "Protests in France over living costs escalate to violence, spark security talks",
+    "summary": "The escalating unrest in France could reshape political landscapes and influence security policies across Europe, affecting future elections.\nThe post Protests in France over living costs escalate to violence, spark security talks appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/protests-in-france-over-living-costs-escalate-to-violence-spark-security-talks/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "France",
+      "Europe"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T04:31:53.000Z",
+    "fetchedAt": "2026-10-19T06:01:32.098Z",
+    "isDuplicateOf": null,
+    "content": "Protests in France regarding rising living costs have escalated into violence, prompting urgent security talks among officials. This growing unrest threatens to reshape the political landscape and influence security policies throughout Europe, potentially impacting future regional elections as public frustration mounts.",
+    "content_ta": "France-ல் வாழ்க்கைச் செலவு அதிகரிப்புக்கு எதிரான போராட்டங்கள் வன்முறையாக மாறியுள்ளன, இதனால் அதிகாரிகள் அவசர பாதுகாப்புப் பேச்சுவார்த்தைகளை நடத்தி வருகின்றனர். இந்த அதிகரித்து வரும் அமைதியின்மை அரசியல் சூழலை மாற்றியமைப்பதோடு, ஐரோப்பா முழுவதும் உள்ள பாதுகாப்புக் கொள்கைகளையும் பாதிக்கக்கூடும்.",
+    "slug": "protests-in-france-over-living-costs-escalate-to-violence-spark-security-talks"
+  },
+  {
+    "id": "3d38529d87e6fc73",
+    "title": "Jio IPO Today: Grey Market Hints At ₹1,365 Debut, Anchor Book Opens Today",
+    "summary": "The post Jio IPO Today: Grey Market Hints At ₹1,365 Debut, Anchor Book Opens Today appeared first on Coinpedia Fintech News\nJio Platforms’ initial public offering is drawing strong unofficial demand, with grey market premium (GMP) trends pointing to a listing gain of about 22%. At the upper price band of ₹1,119, that implies a debut near ₹1,365 per share. The ₹30,200 crore issue, the largest IPO in Indian history, carries a price band of ₹1,065 …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/crypto-live-news/jio-ipo-news-grey-market-hints-at-%e2%82%b91365-debut-anchor-book-opens-today/",
+    "source": "Coinpedia",
+    "tags": [
+      "Jio Platforms",
+      "India"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T05:02:03.000Z",
+    "fetchedAt": "2026-10-19T06:01:32.098Z",
+    "isDuplicateOf": null,
+    "content": "Jio Platforms has launched its initial public offering, marking the largest IPO in Indian history at Rs 30,200 crore. The issue features a price band of Rs 1,065 to Rs 1,119 per share, while the anchor book opens today. Strong unofficial demand in the grey market suggests a potential listing gain of about 22 percent, hinting at a strong market debut.",
+    "content_ta": "Jio Platforms தனது ஆரம்பப் பங்கு வெளியீட்டை (IPO) தொடங்கியுள்ளது. இந்திய வரலாற்றின் மிகப்பெரிய IPO-வான இதன் மதிப்பு ரூ. 30,200 கோடியாகும். இதன் பங்கு விலை ரூ. 1,065 முதல் ரூ. 1,119 வரை நிர்ணயிக்கப்பட்டுள்ளது. இதற்கிடையில், கிரே மார்க்கெட் நிலவரப்படி சுமார் 22 சதவீத லாபத்துடன் இப்பங்கு பட்டியலிடப்படலாம் என எதிர்பார்க்கப்படுகிறது.",
+    "slug": "jio-ipo-today-grey-market-hints-at-1-365-debut-anchor-book-opens-today"
+  },
+  {
+    "id": "a8605e71998611f5",
+    "title": "Giancarlo and Draper Dragon Back Spout’s Bid to Make Borrowing Against Stocks Interest-Free",
+    "summary": "The post Giancarlo and Draper Dragon Back Spout’s Bid to Make Borrowing Against Stocks Interest-Free appeared first on Coinpedia Fintech News\nFormer Commodity Futures Trading Commission Chairman Chris Giancarlo and venture firm Draper Dragon have publicly thrown their weight behind Spout, a Solana-based protocol that lets holders of tokenized US stocks borrow stablecoins without paying interest. Their endorsements follow Spout’s announcement of a $2 million strategic round on October 13. In a post on X, Giancarlo, …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/information/giancarlo-draper-dragon-back-spouts-bid-to-make-borrowing-against-stocks-interest-free/",
+    "source": "Coinpedia",
+    "tags": [
+      "Chris Giancarlo",
+      "Draper Dragon",
+      "Spout",
+      "Solana",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T04:29:12.000Z",
+    "fetchedAt": "2026-10-19T06:01:32.098Z",
+    "isDuplicateOf": null,
+    "content": "Former CFTC Chairman Chris Giancarlo and venture firm Draper Dragon have backed Spout, a Solana-based protocol. Spout allows holders of tokenized US stocks to borrow stablecoins interest-free. The endorsements follow the project's recent funding round, as prominent figures show support for innovative decentralized finance solutions bridging traditional assets and blockchain technology.",
+    "content_ta": "Former CFTC Chairman Chris Giancarlo மற்றும் venture firm Draper Dragon ஆகியவை Solana-வை அடிப்படையாகக் கொண்ட Spout என்ற protocoal-க்கு ஆதரவு அளித்துள்ளன. Spout மூலம் tokenized US stocks வைத்துள்ளவர்கள் interest-free-ஆக stablecoins கடனாகப் பெற முடியும். இந்த endorsement-கள் project-ன் recent funding round-ஐ தொடர்ந்து வந்துள்ளன.",
+    "slug": "giancarlo-and-draper-dragon-back-spout-s-bid-to-make-borrowing-against-stocks-interest-free"
+  },
+  {
+    "id": "26bc4a1e88093aec",
+    "title": "Japan Stock Market Today: US Tech Rout And Oil Spike Hit Nikkei Again",
+    "summary": "The post Japan Stock Market Today: US Tech Rout And Oil Spike Hit Nikkei Again appeared first on Coinpedia Fintech News\nJapan’s Nikkei 225 fell 2% at Monday’s open, erasing roughly ¥23.5 trillion, or about $150 billion, in market value. The decline followed another selloff in US technology shares, which dragged on Japanese chip and electronics stocks with heavy exposure to the AI supply chain. Rising oil prices added to the pressure. Japan imports nearly all …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/crypto-live-news/japan-stock-market-today-us-tech-rout-and-oil-spike-hit-nikkei-again/",
+    "source": "Coinpedia",
+    "tags": [
+      "Japan",
+      "United States",
+      "Nikkei 225"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T03:52:05.000Z",
+    "fetchedAt": "2026-10-19T06:01:32.098Z",
+    "isDuplicateOf": null,
+    "content": "Japan's Nikkei 225 stock index fell sharply at the Monday open, erasing billions in market value. The downturn was driven by a selloff in US technology shares that impacted Japanese chip and electronics companies linked to the AI supply chain. Additionally, rising global oil prices placed further pressure on the market, as Japan relies heavily on energy imports.",
+    "content_ta": "ஜப்பானின் Nikkei 225 பங்குச் சந்தை குறியீடு திங்கள்கிழமை தொடக்கத்தில் சரிவைச் சந்தித்தது, இதனால் பில்லியன் கணக்கான சந்தை மதிப்பு இழந்தது. AI சங்கிலியுடன் தொடர்புடைய ஜப்பானிய சிப் மற்றும் எலக்ட்ரானிக்ஸ் நிறுவனங்களை பாதித்த US தொழில்நுட்பப் பங்குகளின் விற்பனையால் இந்தச் சரிவு ஏற்பட்டது. கூடுதலாக, ஜப்பான் எரிசக்தி இறக்குமதியை பெரிதும் நம்பியிருப்பதால், அதிகரித்து வரும் எண்ணெய் விலைகளும் சந்தையில் கூடுதல் அழுத்தத்தை ஏற்படுத்தின.",
+    "slug": "japan-stock-market-today-us-tech-rout-and-oil-spike-hit-nikkei-again"
+  },
+  {
+    "id": "95ccdff1d61047ed",
+    "title": "SpaceX Launch Jellyfish May Return as Musk Pledges Shares to the Public",
+    "summary": "SpaceX launch jellyfish sightings could return on Monday, October 19, as a Falcon 9 is set to lift…",
+    "hasSummary": true,
+    "link": "https://watcher.guru/news/spacex-launch-jellyfish-may-return-as-musk-pledges-shares-to-the-public",
+    "source": "Watcher.Guru",
+    "tags": [
+      "SpaceX",
+      "Falcon 9"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T05:50:32.000Z",
+    "fetchedAt": "2026-10-19T06:01:32.098Z",
+    "isDuplicateOf": null,
+    "content": "SpaceX launch jellyfish sightings may return as a Falcon 9 rocket is scheduled to lift off. Observers in suitable regions could witness the atmospheric phenomenon created by the rocket's exhaust interacting with sunlight during twilight hours.",
+    "content_ta": "SpaceX-ன் Falcon 9 ராக்கெட் ஏவுதலின் போது ஏற்படும் 'jellyfish' வளிமண்டல நிகழ்வு மீண்டும் வானில் தோன்ற வாய்ப்புள்ளது. பொருத்தமான பகுதிகளில் உள்ளவர்கள் இந்த விண்வெளி நிகழ்வைக் காண முடியும்.",
+    "slug": "spacex-launch-jellyfish-may-return-as-musk-pledges-shares-to-the-public"
+  },
+  {
+    "id": "d2944b8693bd2e54",
+    "title": "Standard Chartered VCC Platform Hits $2.6bn AUM with 10th Sub-Fund",
+    "summary": "Standard Chartered has launched its tenth VCC sub-fund with BNY Investments, a cash management vehicle targeting accredited investors across six markets.\nThe post Standard Chartered VCC Platform Hits $2.6bn AUM with 10th Sub-Fund appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/standard-chartered-vcc-platform-hits-2-6bn-aum-with-10th-sub-fund/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Standard Chartered",
+      "BNY Investments"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T05:00:14.000Z",
+    "fetchedAt": "2026-10-19T06:01:32.099Z",
+    "isDuplicateOf": null,
+    "content": "Standard Chartered has reached $2.6 billion in assets under management on its Variable Capital Company platform following the launch of its tenth sub-fund. Partnering with BNY Investments, this new cash management vehicle is designed to target accredited investors across six different markets.",
+    "content_ta": "Standard Chartered-ன் VCC platform-ல் Assets Under Management மதிப்பு 2.6 பில்லியன் டாலரை எட்டியுள்ளது. BNY Investments நிறுவனத்துடன் இணைந்து அறிமுகப்படுத்தப்பட்டுள்ள இந்த பத்தாவது sub-fund, ஆறு சந்தைகளில் உள்ள accredited investors-ஐ இலக்காகக் கொண்டுள்ளது.",
+    "slug": "standard-chartered-vcc-platform-hits-2-6bn-aum-with-10th-sub-fund"
+  },
+  {
+    "id": "54369ad7af71592e",
+    "title": "EU and Partners Sign Additional Protocol Expanding Warsaw Convention to Cover Crypto Assets Amid Rising Physical Attacks on Holders",
+    "summary": "The European Union formally signed the Additional Protocol to the Council of Europe Convention on Laundering, Search, Seizure and Confiscation of the Proceeds from Crime and on the Financing of Terrorism—commonly known as the Warsaw Convention—during a ceremony in Strasbourg. Joining the EU as initial... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/10/319317-eu-and-partners-sign-additional-protocol-expanding-warsaw-convention-to-cover-crypto-assets-amid-rising-physical-attacks-on-holders/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "European Union",
+      "Warsaw Convention"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-19T05:06:23.000Z",
+    "fetchedAt": "2026-10-19T06:01:32.099Z",
+    "isDuplicateOf": null,
+    "content": "The European Union and international partners have formally signed an additional protocol to the Warsaw Convention in Strasbourg. This update officially expands the scope of the anti-money laundering and asset recovery framework to cover crypto assets. The measure comes in response to a rising number of physical attacks targeting crypto asset holders, prompting authorities to strengthen legal protections and enforcement tools.",
+    "content_ta": "Warsaw Convention-ல் வரவுள்ள கூடுதல் நெறிமுறையில் ஐரோப்பிய யூனியன் மற்றும் கூட்டாண்மை நாடுகள் ஸ்ட்ராஸ்பர்க் நகரில் அதிகாரப்பூர்வமாக கையெழுத்திட்டுள்ளன. இந்த திருத்தத்தின் மூலம், கிரிப்டோ சொத்துகளும் சட்டவிரோத பணப்பரிமாற்றம் மற்றும் சொத்து மீட்பு கட்டமைப்பின் கீழ் கொண்டுவரப்பட்டுள்ளன. கிரிப்டோ வைத்திருப்பவர்கள் மீதான உடல்ரீதியான தாக்குதல்கள் அதிகரித்து வருவதை அடுத்து, சட்டப் பாதுகாப்பை பலப்படுத்தும் நோக்கில் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.",
+    "slug": "eu-and-partners-sign-additional-protocol-expanding-warsaw-convention-to-cover-crypto-assets-amid"
   }
 ]
