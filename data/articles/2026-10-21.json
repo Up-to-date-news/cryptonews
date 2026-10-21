@@ -2546,5 +2546,1082 @@
     "content": "New research from Vistra reveals that only 9% of multinational businesses with UK entities have fully completed Companies House identity verification as the 12-month transition period nears its end. While many organisations claim to be prepared, significant practical gaps remain, particularly for directors and persons with significant control based outside the UK. Cross-border structures, documentation discrepancies, and compliance complexities are adding substantial administrative burdens for companies operating in the UK.",
     "content_ta": "Companies House அடையாள சரிபார்ப்பு நடவடிக்கையை முழுமையாக நிறைவு செய்துள்ள பன்னாட்டு நிறுவனங்கள் வெறும் 9% மட்டுமே என்று Vistra-வின் புதிய ஆய்வு தெரிவிக்கிறது. 12 மாத கால அவகாசம் முடிவடையும் தருவாயில் உள்ள நிலையில், பல நிறுவனங்கள் இன்னும் நடைமுறைச் சிக்கல்களை எதிர்கொள்கின்றன. குறிப்பாக, பிரிட்டனுக்கு வெளியே உள்ள இயக்குநர்களை ஒருங்கிணைப்பதிலும் ஆவணங்களைச் சரிபார்ப்பதிலும் சிக்கல்கள் நீடிப்பதாக இந்த ஆய்வு சுட்டிக்காட்டுகிறது.",
     "slug": "just-9-of-multinationals-fully-complete-companies-house-id-checks"
+  },
+  {
+    "id": "4adc09d4b5af179e",
+    "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
+    "summary": "Vault12 raised $17.45 million selling VGT in 2018 and says it met or dropped every promise, yet the token has never traded on a centralized exchange.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity",
+    "source": "CoinDesk",
+    "tags": [
+      "Vault12",
+      "SEC"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T12:12:36.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Centralized cryptocurrency exchanges are increasingly reluctant to list legacy digital tokens unless they receive explicit immunity from the SEC. Despite raising millions and fulfilling its commitments, the 2018 project Vault12 and its VGT token have struggled to secure listings on major centralized trading platforms amid ongoing regulatory uncertainty.",
+    "content_ta": "SEC-யிடம் இருந்து வெளிப்படையான பாதுகாப்பு ஒப்புதல் கிடைத்தால் மட்டுமே பழைய கிரிப்டோ டோக்கன்களை பட்டியலிட முடியும் என்பதில் சென்ட்ரல் எக்ஸ்சேஞ்சுகள் உறுதியாக உள்ளன. பல மில்லியன் டாலர்களை திரட்டி தனது வாக்குறுதிகளை நிறைவேற்றிய போதிலும், Vault12 மற்றும் அதன் VGT டோக்கன் போன்ற திட்டங்கள் முக்கிய எக்ஸ்சேஞ்சுகளில் பட்டியலிடப்படுவதில் தொடர்ந்து சிரமங்களை எதிர்கொண்டு வருகின்றன.",
+    "slug": "why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity"
+  },
+  {
+    "id": "69b59d506aaa17e5",
+    "title": "Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns",
+    "summary": "CertiK says crypto trading bots and exchange applications may remain exposed to the eMudhra certificate flaw because browser fixes may not protect all software.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "CertiK",
+      "eMudhra"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:31:39.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Blockchain security firm CertiK has warned that crypto trading bots and exchange applications may remain vulnerable to the recent eMudhra certificate flaw. While Big Tech companies have implemented browser fixes to address the issue, CertiK cautions that these updates might not adequately protect standalone software and automated trading systems.",
+    "content_ta": "eMudhra சான்றிதழ் குறைபாட்டால் கிரிப்டோ டிரேடிங் பாட்டுகள் மற்றும் எக்ஸ்சேஞ்ச் செயலிகள் பாதிக்கப்படலாம் என்று பிளாக்செயின் பாதுகாப்பு நிறுவனமான CertiK எச்சரித்துள்ளது. பெருநிறுவனங்கள் உலாவி திருத்தங்களைச் செய்திருந்தாலும், இந்த புதுப்பிப்புகள் அனைத்து மென்பொருட்களையும் பாதுகாக்காது என்று CertiK எச்சரிக்கிறது.",
+    "slug": "big-tech-s-emudhra-fixes-may-leave-crypto-bots-exposed-certik-warns"
+  },
+  {
+    "id": "a662c60864448cec",
+    "title": "5 alternatives to Ledger to store your Bitcoin",
+    "summary": "Hardware wallets aren’t the only way to protect your crypto, but from ETFs and passkeys to multisig accounts, each alternative has its own risks and trade-offs.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Ledger",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:30:00.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Hardware wallets are not the only way to protect your Bitcoin. Investors looking for alternatives to Ledger can choose from several options including ETFs, passkeys, and multisig accounts. However, each alternative comes with its own unique risks and trade-offs that users must carefully consider before securing their digital assets.",
+    "content_ta": "உங்கள் Bitcoin-ஐப் பாதுகாக்க Hardware wallets மட்டுமே ஒரே வழி அல்ல. Ledger-க்கான பிற மாற்றுகளைத் தேடும் முதலீட்டாளர்கள் ETFs, passkeys மற்றும் multisig accounts உள்ளிட்ட பல விருப்பங்களைத் தேர்ந்தெடுக்கலாம். இருப்பினும், ஒவ்வொரு மாற்றிலும் தனிப்பட்ட அபாயங்களும் பரிமாற்றங்களும் உள்ளன, அவற்றை பயனர்கள் தங்கள் டிஜிட்டல் சொத்துக்களைப் பாதுகாப்பதற்கு முன்பு கவனமாகப் பரிசீலிக்க வேண்டும்.",
+    "slug": "5-alternatives-to-ledger-to-store-your-bitcoin"
+  },
+  {
+    "id": "e7bc6a4c587b0186",
+    "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
+    "summary": "Solana activated Alpenglow, replacing TowerBFT and cutting transaction finality from 12.8 seconds to about 150 milliseconds.",
+    "hasSummary": true,
+    "link": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
+    "source": "The Block",
+    "tags": [
+      "Solana",
+      "Anza",
+      "Alpenglow"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T14:24:39.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Solana has activated Anza’s Alpenglow, replacing the previous TowerBFT consensus mechanism. This significant upgrade successfully reduces transaction finality from 12.8 seconds down to approximately 150 milliseconds, dramatically improving network speed and performance for users and developers alike.",
+    "content_ta": "Solana நெட்வொர்க் Anza-வின் Alpenglow-வை இயக்கியுள்ளது, இது முந்தைய TowerBFT முறைக்கு பதிலாக செயல்படுகிறது. இந்த முக்கிய மேம்பாடு பரிவர்த்தனை இறுதி நேரத்தை 12.8 வினாடிகளிலிருந்து சுமார் 150milliseconds ஆக வெற்றிகரமாக குறைத்துள்ளது, இது நெட்வொர்க்கின் வேகத்தை குறிப்பிடத்தக்க அளவில் மேம்படுத்துகிறது.",
+    "slug": "anza-s-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds"
+  },
+  {
+    "id": "c10f5aa1eb75fb15",
+    "title": "Standard Chartered signs definitive agreements to acquire Zodia Custody",
+    "summary": "UK bank and global custodian Standard Chartered is set to acquire digital assets service provider Zodia Custody.",
+    "hasSummary": true,
+    "link": "https://www.theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535",
+    "source": "The Block",
+    "tags": [
+      "Standard Chartered",
+      "Zodia Custody",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T12:44:53.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Standard Chartered has signed definitive agreements to acquire digital assets service provider Zodia Custody. The UK-based global banking institution is expanding its footprint in the digital asset sector through this strategic acquisition, further integrating traditional financial services with the growing ecosystem of digital assets and custody solutions.",
+    "content_ta": "டிஜிட்டல் சொத்து சேவை வழங்கும் Zodia Custody நிறுவனத்தை வாங்குவதற்காக Standard Chartered நிறுவனம் உறுதியான ஒப்பந்தங்களில் கையெழுத்திட்டுள்ளது. இந்த மூலோபாய கையகப்படுத்தல் மூலம், இங்கிலாந்தை தளமாகக் கொண்ட இந்த உலகளாவிய வங்கி நிறுவனம் டிஜிட்டல் சொத்து துறையில் தனது கால்வலியை விரிவுபடுத்துகிறது.",
+    "slug": "standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody"
+  },
+  {
+    "id": "d078e16bf558a53d",
+    "title": "Crypto rallies point to slower USDC growth and faster USDT growth, study finds",
+    "summary": "Coin Metrics finds opposite relationships with prior non-stablecoin crypto returns, complicating the case that combined issuance measures fresh Bitcoin demand.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/usdc-and-usdt-growth-challenge-bitcoins-dry-powder-signal/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Coin Metrics",
+      "USDC",
+      "USDT",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:50:28.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "A recent study by Coin Metrics reveals that crypto market rallies are linked to slower growth for USDC and faster growth for USDT. This shows opposite relationships compared to prior non-stablecoin crypto returns. The findings complicate the assumption that combined stablecoin issuance reliably measures fresh Bitcoin demand.",
+    "content_ta": "Coin Metrics நடத்திய ஆய்வில், கிரிப்டோ சந்தை உயர்வானது USDC வளர்ச்சி மெதுவடைவதையும், USDT வளர்ச்சி விரைவடைவதையும் காட்டுவதாகத் தெரியவந்துள்ளது. முந்தைய கிரிப்டோ வருமானங்களுடன் ஒப்பிடும்போது இது எதிர்திசையில் உள்ள உறவைக் காட்டுகிறது. இந்த முடிவுகள், இணைக்கப்பட்ட ஸ்டேபிள்காயின் வெளியீடு புதிய Bitcoin தேவையைத் துல்லியமாக அளவிடுகிறது என்ற அனுமானத்தைச் சிக்கலாக்குகின்றன.",
+    "slug": "crypto-rallies-point-to-slower-usdc-growth-and-faster-usdt-growth-study-finds"
+  },
+  {
+    "id": "0a00e1dfaaa6e378",
+    "title": "What Falling USDT Supply Means for Bitcoin’s Price Recovery",
+    "summary": "USDT's 60-day market-cap change had recovered toward zero, but a new five-day contraction has put that improvement under pressure.",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/what-falling-usdt-supply-means-for-bitcoins-price-recovery/",
+    "source": "CryptoPotato",
+    "tags": [
+      "USDT",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:06:06.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "The market capitalization of USDT recently showed signs of recovery toward zero after a 60-day period of decline. However, a sudden five-day contraction has renewed pressure on this metric. Market analysts are closely watching how this shrinking USDT supply might impact the broader price recovery and momentum for Bitcoin moving forward.",
+    "content_ta": "USDT-யின் மார்க்கெட் கேப்பிடலைசேஷன் சமீபத்தில் 60 நாள் சரிவுக்குப் பிறகு மீண்டு வரும் அறிகுறிகளைக் காட்டியது. இருப்பினும், திடீர் ஐந்து நாள் சுருக்கம் இந்த முன்னேற்றத்தை அழுத்தத்திற்குள்ளாக்கியுள்ளது. சுருங்கிவரும் இந்த USDT சப்ளை Bitcoin-ன் விலை மீட்பு மற்றும் அதன் போக்கை எவ்வாறு பாதிக்கலாம் என்பதை சந்தை ஆய்வாளர்கள் கவனித்து வருகின்றனர்.",
+    "slug": "what-falling-usdt-supply-means-for-bitcoin-s-price-recovery"
+  },
+  {
+    "id": "8504e27d078aef61",
+    "title": "Kazakhstan issues court injunction against Coinbase, 5 crypto platforms",
+    "summary": "Kazakhstan cross-border stablecoin volumes has hit +$650M after recent regulations",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/kazakhstan-issues-court-injunction-against-coinbase-5-crypto-platforms/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Kazakhstan",
+      "Coinbase"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T14:30:38.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Kazakhstan has issued a court injunction against Coinbase and five other cryptocurrency platforms. This regulatory move comes as the country's cross-border stablecoin volumes reached over $650 million following the introduction of recent regulatory measures in the region.",
+    "content_ta": "Coinbase உட்பட 5 கிரிப்டோகரன்சி தளங்களுக்கு எதிராக Kazakhstan நீதிமன்றம் தடை உத்தரவு பிறப்பித்துள்ளது. நாட்டில் சமீபத்திய ஒழுங்குமுறை நடவடிக்கைகள் அறிமுகப்படுத்தப்பட்டதை அடுத்து, எல்லை தாண்டிய stablecoin பரிவர்த்தனை அளவு $650 மில்லியனைத் தாண்டியுள்ள நிலையில் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.",
+    "slug": "kazakhstan-issues-court-injunction-against-coinbase-5-crypto-platforms"
+  },
+  {
+    "id": "51f845271fef95b1",
+    "title": "Injective partners with BDACS on won-backed stablecoin – Is $10 next for INJ?",
+    "summary": "Injective partners with BDACS to launch a Korean won-backed stablecoin, as eyes $10 billion Korean market.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/injective-partners-with-bdacs-on-won-backed-stablecoin-is-10-next-for-inj/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Injective",
+      "BDACS",
+      "INJ",
+      "South Korea"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T14:00:36.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Injective has announced a partnership with BDACS to introduce a Korean won-backed stablecoin. This collaboration aims to target the massive Korean market, exploring new growth opportunities and expanding the reach of decentralized finance applications in the region. Following this development, market observers are closely watching the price trajectory of INJ to see how it performs.",
+    "content_ta": "கொரியன் won-backed stablecoin-ஐ அறிமுகப்படுத்த BDACS உடன் Injective கூட்டு சேர்ந்துள்ளதாக அறிவித்துள்ளது. இந்த ஒத்துழைப்பு பிராந்தியத்தில் மிகப்பெரிய கொரிய சந்தையை குறிவைப்பதை நோக்கமாகக் கொண்டுள்ளது. இந்த வளர்ச்சிக்குப் பிறகு, INJ-ன் விலை எப்படிச் செயல்படுகிறது என்பதை சந்தை பார்வையாளர்கள் உன்னிப்பாகக் கவனித்து வருகின்றனர்.",
+    "slug": "injective-partners-with-bdacs-on-won-backed-stablecoin-is-10-next-for-inj"
+  },
+  {
+    "id": "4533303c6f9937a0",
+    "title": "Why Compound crypto’s 22% rally puts COMP’s $30 target in focus",
+    "summary": "Why COMP's rising leverage is putting $30 resistance in focus.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/why-compound-cryptos-22-rally-puts-comps-30-target-in-focus/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Compound",
+      "COMP"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:00:55.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Compound crypto's native token, COMP, recently experienced a notable 22 percent price rally. This upward movement has drawn significant market attention, placing the $30 resistance target firmly in focus. Analysts are closely watching the asset as rising leverage levels contribute to this recent bullish momentum in the cryptocurrency market.",
+    "content_ta": "Compound-ன் கிரிப்டோ டோக்கனான COMP சமீபத்தில் 22 சதவீத விலை உயர்வைச் சந்தித்துள்ளது. இந்த விலை ஏற்றம் சந்தையின் கவனத்தை ஈர்த்துள்ள நிலையில், $30 எதிர்ப்பு நிலை அனைவரின் கவனத்தையும் பெற்றுள்ளது. கிரிப்டோ சந்தையில் லெவரேஜ் அதிகரிப்பது இந்த காப்பீட்டுக்கு ஆதரவாக உள்ளதால், ஆய்வாளர்கள் இதைக் கவனித்து வருகின்றனர்.",
+    "slug": "why-compound-crypto-s-22-rally-puts-comp-s-30-target-in-focus"
+  },
+  {
+    "id": "f67f06159477cf49",
+    "title": "Massive XRP Giveaway Announced by Binance",
+    "summary": "Cryptocurrency giant Binance has announced a massive giveaway of 600,000 XRP for users holding Ripple's RLUSD stablecoin, with weekly airdrops starting October 30 and bonus multipliers of up to 1.3x for eligible participants.",
+    "hasSummary": true,
+    "link": "https://u.today/massive-xrp-giveaway-announced-by-binance",
+    "source": "U.Today",
+    "tags": [
+      "Binance",
+      "Ripple",
+      "XRP",
+      "RLUSD"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T14:00:49.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Cryptocurrency giant Binance has announced a massive giveaway of 600,000 XRP for users holding Ripple's RLUSD stablecoin. Weekly airdrops are scheduled to begin on October 30, offering bonus multipliers of up to 1.3x for eligible participants who meet the campaign requirements.",
+    "content_ta": "கிரிப்டோகரன்சி நிறுவனமான Binance, Ripple-ன் RLUSD ஸ்டேபிள்காயினை வைத்துள்ள பயனர்களுக்கு 600,000 XRP இலவசமாக வழங்குவதாக அறிவித்துள்ளது. தகுதியான பங்கேற்பாளர்களுக்கு 1.3x வரை போனஸ் பெருக்கிகளை வழங்கும் வாராந்திர ஏர்டிராப்கள் அக்டோபர் 30 முதல் தொடங்க திட்டமிடப்பட்டுள்ளன.",
+    "slug": "massive-xrp-giveaway-announced-by-binance"
+  },
+  {
+    "id": "5bdd1175f586a714",
+    "title": "Stablecoin Earning Not Dead: US Outlaws 'Crypto Dollar' Interest",
+    "summary": "Stablecoin earning is not dead after the US bans direct interest, leaving a crucial loophole open for crypto exchange rewards.",
+    "hasSummary": true,
+    "link": "https://u.today/stablecoin-earning-not-dead-us-outlaws-crypto-dollar-interest",
+    "source": "U.Today",
+    "tags": [
+      "United States",
+      "Stablecoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:53:15.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Stablecoin earning opportunities are not dead following a recent decision by the United States to outlaw direct interest on crypto dollars. Despite this ban, a crucial loophole remains open, allowing crypto exchanges to continue offering rewards to users through alternative methods. This regulatory shift changes how digital asset yields are generated without entirely shutting down passive income possibilities for investors.",
+    "content_ta": "Stablecoin மூலமாக வருமானம் ஈட்டும் வழிகள் முடிவுக்கு வரவில்லை. United States-ல் crypto dollar மீதான நேரடி வட்டிக்கு தடை விதிக்கப்பட்டாலும், crypto exchange-கள் rewards வழங்குவதற்கான முக்கியமான இடைவெளி இன்னும் திறந்தே உள்ளது. இந்த ஒழுங்குமுறை மாற்றம் டிஜிட்டல் சொத்துக்களின் வருவாயை ஈட்டும் முறைகளில் மாற்றங்களை ஏற்படுத்தியுள்ளது.",
+    "slug": "stablecoin-earning-not-dead-us-outlaws-crypto-dollar-interest"
+  },
+  {
+    "id": "e5b961145c46017c",
+    "title": "Dogecoin to Erase Zero? Deep Holder Losses Paint Scenario for Short-Term Price",
+    "summary": "Dogecoin (DOGE) approaching a critical point with potential zero removal now in focus.",
+    "hasSummary": true,
+    "link": "https://u.today/dogecoin-to-erase-zero-deep-holder-losses-paint-scenario-for-short-term-price",
+    "source": "U.Today",
+    "tags": [
+      "Dogecoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:15:53.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Dogecoin (DOGE) is approaching a critical market point, with potential price movements putting the removal of a zero in focus. Recent deep holder losses have created a specific scenario for the meme cryptocurrency's short-term price trajectory, as traders closely watch key support and resistance levels to determine the next major trend.",
+    "content_ta": "Dogecoin (DOGE) ஒரு முக்கியமான சந்தை நிலையை நெருங்கி வருகிறது, இதன் சாத்தியமான விலை நகர்வுகள் ஒரு பூஜ்ஜியத்தை அகற்றுவதில் கவனம் செலுத்துகின்றன. சமீபத்திய முக்கிய ஹோல்டர்களின் இழப்புகள் மீம் கிரிப்டோகரன்சியின் குறுகிய கால விலைப்போக்கிற்கான ஒரு குறிப்பிட்ட சூழலை உருவாக்கியுள்ளன, ஏனெனில் வர்த்தகர்கள் அடுத்த பெரிய போக்கைத் தீர்மானிக்க முக்கிய ஆதரவு மற்றும் எதிர்ப்பு நிலைகளை உன்னிப்பாகக் கவனித்து வருகின்றனர்.",
+    "slug": "dogecoin-to-erase-zero-deep-holder-losses-paint-scenario-for-short-term-price"
+  },
+  {
+    "id": "272c0c4b63f116c5",
+    "title": "XRP Treasury Wins Key SEC Approval to Raise New Capital: Main Crypto News This Morning",
+    "summary": "Crypto morning report October 21: SEC clears a $132 million XRP channel, US federal rules ban stablecoin yield, and Solana accelerates.",
+    "hasSummary": true,
+    "link": "https://u.today/xrp-treasury-wins-key-sec-approval-to-raise-new-capital-main-crypto-news-this-morning",
+    "source": "U.Today",
+    "tags": [
+      "XRP Treasury",
+      "SEC",
+      "Solana",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T12:59:30.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "A morning crypto report highlights a significant development as XRP Treasury secures key SEC approval to raise new capital. The regulatory clearance clears the way for a major capital raise channel. Meanwhile, new US federal rules address the stablecoin yield market, and Solana continues to show strong network acceleration in the broader digital asset market.",
+    "content_ta": "காலை கிரிப்டோ அறிக்கையின்படி, புதிய முதலீட்டைத் திரட்ட XRP Treasury நிறுவனத்திற்கு SEC முக்கிய ஒப்புதல் அளித்துள்ளது. இந்த ஒழுங்குமுறை அனுமதி ஒரு பெரிய மூலதன திரட்டல் பாதைக்கு வழிவகுக்கிறது. இதற்கிடையில், புதிய US மத்திய விதிகள் ஸ்டேபிள்காயின் ஈவுத்தொகை சந்தையைக் குறிவைத்து செயல்படுகின்றன, மேலும் Solana தனது பிணைய வேகத்தை தொடர்ந்து அதிகரித்து வருகிறது.",
+    "slug": "xrp-treasury-wins-key-sec-approval-to-raise-new-capital-main-crypto-news-this-morning"
+  },
+  {
+    "id": "dce09738e4229ed7",
+    "title": "Bitunix Increases Its Care Fund to $50 Million, Further Strengthening User Protection",
+    "summary": "Cryptocurrency exchange Bitunix has increased its Care Fund from $30 million to $50 million USDC, expanding the reserve available to support users in exceptional situations. The company has also identified the fund’s new on-chain address, providing a way to track the reserve on the blockchain. The Care Fund is designed to help protect user assets\nThe post Bitunix Increases Its Care Fund to $50 Million, Further Strengthening User Protection appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/bitunix-increases-care-fund-50-million/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Bitunix",
+      "USDC"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T14:02:08.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Cryptocurrency exchange Bitunix has increased its Care Fund to $50 million USDC, up from $30 million. This reserve aims to protect user assets and provide support in exceptional situations. The exchange also released the fund's new on-chain address to allow users to track the reserve directly on the blockchain, further strengthening its commitment to user security.",
+    "content_ta": "கிரிப்டோகரன்சி பரிவர்த்தனையான Bitunix தனது Care Fund தொகையை $30 மில்லியனில் இருந்து $50 மில்லியன் USDC ஆக உயர்த்தியுள்ளது. பயனர்களின் சொத்துக்களைப் பாதுகாப்பதற்கும் அசாதாரண சூழ்நிலைகளில் ஆதரவளிப்பதற்கும் இந்த காப்புதியம் உருவாக்கப்பட்டுள்ளது. பிளாக்சைன் தொழில்நுட்பம் மூலம் நிதியைக் கண்காணிக்க உதவும் வகையில் புதிய ஆன்-செயின் முகவரியையும் இந்நிறுவனம் வெளியிட்டுள்ளது.",
+    "slug": "bitunix-increases-its-care-fund-to-50-million-further-strengthening-user-protection"
+  },
+  {
+    "id": "c429eaa05272a1f8",
+    "title": "Why the EU Is Telling Some Websites to Switch Themselves Off",
+    "summary": "Two critical PHP vulnerabilities rated 9.2 put websites at risk. Learn why CERT-EU tells unpatched sites to go offline and what owners can do.\nThe post Why the EU Is Telling Some Websites to Switch Themselves Off appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/critical-php-vulnerabilities-websites-offline/",
+    "source": "BeInCrypto",
+    "tags": [
+      "CERT-EU",
+      "PHP"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T14:00:00.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "CERT-EU has advised certain unpatched websites to go offline following the discovery of two critical PHP vulnerabilities rated 9.2 in severity. Website owners are urged to take immediate action to secure their platforms against potential risks. These severe security flaws highlight the urgent need for timely software updates and robust cybersecurity measures across vulnerable online services.",
+    "content_ta": "9.2 தீவிரத்தன்மை கொண்ட இரண்டு முக்கியமான PHP குறைபாடுகள் கண்டறியப்பட்டதைத் தொடர்ந்து, பேட்ச் செய்யப்படாத சில இணையதளங்களை ஆஃப்லைனில் வைக்குமாறு CERT-EU அறிவுறுத்தியுள்ளது. சாத்தியமான ஆபத்துகளிலிருந்து தங்கள் தளங்களைப் பாதுகாக்க இணையதள உரிமையாளர்கள் உடனடியாக நடவடிக்கை எடுக்குமாறு கேட்டுக்கொள்ளப்படுகிறார்கள். இந்த கடுமையான பாதுகாப்பு குறைபாடுகள், பாதிக்கப்படக்கூடிய ஆன்லைன் சேவைகள் முழுவதும் சரியான நேரத்தில் மென்பொருள் புதுப்பிப்புகள் மற்றும் வலுவான சைபர் பாதுகாப்பு நடவடிக்கைகள் அவசியத்தை எடுத்துக்காட்டுகின்றன.",
+    "slug": "why-the-eu-is-telling-some-websites-to-switch-themselves-off"
+  },
+  {
+    "id": "0b637e3ed6f2e6dd",
+    "title": "How XT Exchange Keeps Discovery Open as Crypto Matures",
+    "summary": "As liquidity concentrates in a few established assets, discovery stops being automatic, and XT Exchange pairs access to new projects with clear information about their markets. In January 2024, spot bitcoin exchange-traded products began trading on US stock exchanges. The practical effect was that the industry’s reference asset became reachable through an ordinary brokerage account,\nThe post How XT Exchange Keeps Discovery Open as Crypto Matures appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/xt-exchange-price-discovery-open-crypto-matures/",
+    "source": "BeInCrypto",
+    "tags": [
+      "XT Exchange",
+      "Bitcoin",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:33:56.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "As liquidity concentrates in established digital assets, finding new projects has become more difficult in the maturing crypto market. XT Exchange addresses this challenge by providing access to emerging projects alongside clear market information. Following the introduction of spot bitcoin exchange-traded products in the United States, the industry continues to evolve as traditional and digital financial markets increasingly intersect.",
+    "content_ta": "Crypto சந்தை முதிர்ச்சியடைந்து வரும் நிலையில், பணப்புழக்கம் குறிப்பிட்ட சில முக்கிய assets-களில் குவிவதால் புதிய projects-களைக் கண்டுபிடிப்பது கடினமாகியுள்ளது. வளர்ந்து வரும் புதிய projects-களுக்கான அணுகலையும், அவற்றின் markets பற்றிய தெளிவான தகவல்களையும் வழங்குவதன் மூலம் XT Exchange இந்த சவாலை எதிர்கொள்கிறது. United States-ல் spot bitcoin exchange-traded products அறிமுகப்படுத்தப்பட்டதைத் தொடர்ந்து, பாரம்பரிய மற்றும் டிஜிட்டல் நிதிச் சந்தைகள் ஒன்றிணைந்து வருவதால் இந்தத் துறை தொடர்ந்து வளர்ச்சியடைந்து வருகிறது.",
+    "slug": "how-xt-exchange-keeps-discovery-open-as-crypto-matures"
+  },
+  {
+    "id": "101a8dae1f7b284c",
+    "title": "Why Does Bitcoin Keep Losing Steam? On-Chain Data Has a Clue",
+    "summary": "Binance’s stablecoin reserves have dropped to $41.6 billion, a one-year low, after $6.3 billion left the exchange since April. The drain is market-wide, and it is starving crypto rallies of fresh buying power. Prices have not collapsed. Bitcoin (BTC) trades near $83,350, roughly 4% below its September peak. However, the cash needed to push it\nThe post Why Does Bitcoin Keep Losing Steam? On-Chain Data Has a Clue appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/bitcoin-losing-steam-on-chain-data/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Bitcoin",
+      "Binance"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:22:16.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin is struggling to maintain upward momentum as on-chain data shows declining stablecoin reserves across major exchanges. Binance alone saw its reserves drop significantly to a one-year low amid a market-wide liquidity drain. While Bitcoin prices remain relatively stable near $83,350, the lack of fresh buying power and capital is starving ongoing crypto rallies and limiting further market growth.",
+    "content_ta": "Bitcoin-ன் விலை தொடர்ந்து உயர்வதற்கான முயற்சியில் தடுமாறி வருகிறது. முக்கிய exchange-களில் stablecoin கையிருப்பு குறைந்து வருவதை on-chain தரவுகள் காட்டுகின்றன. Binance-ல் மட்டும் reserves பெருமளவு குறைந்து ஒரு வருடக் குறைந்தளவை எட்டியுள்ளது. Bitcoin விலை $83,350 அருகில் நிலையாக இருந்தாலும், புதிய வாங்கும் சக்தி இல்லாததால் சந்தை வளர்ச்சி பாதிக்கப்பட்டுள்ளது.",
+    "slug": "why-does-bitcoin-keep-losing-steam-on-chain-data-has-a-clue"
+  },
+  {
+    "id": "1ab9d36cfdb7e07c",
+    "title": "Is Bitcoin Undervalued? What Elon Musk’s Energy Money Idea and Hashrate Data Show",
+    "summary": "Musk says future money will be measured in wattage. Charles Edwards says Bitcoin already is, trading 36% below energy value.\nThe post Is Bitcoin Undervalued? What Elon Musk’s Energy Money Idea and Hashrate Data Show appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/elon-musk-bitcoin-wattage-energy-value/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Elon Musk",
+      "Charles Edwards",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T12:14:26.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Elon Musk recently suggested that future money will be measured in energy, specifically wattage. Analyst Charles Edwards pointed out that Bitcoin already operates on this principle and is currently trading below its estimated energy value according to hashrate data. This has sparked fresh discussions about whether the cryptocurrency is undervalued.",
+    "content_ta": "எலான் மஸ்க் சமீபத்தில் எதிர்கால பணம் ஆற்றல் மூலம் அளவிடப்படும் என்று குறிப்பிட்டார். ஆய்வாளர் Charles Edwards, Bitcoin ஏற்கனவே இந்த கொள்கையின்படி செயல்படுகிறது என்றும், hashrate தரவுகளின்படி அதன் ஆற்றல் மதிப்பை விட குறைவாக வர்த்தகம் செய்யப்படுகிறது என்றும் சுட்டிக்காட்டினார். இது cryptocurrency குறைத்து மதிப்பிடப்பட்டுள்ளதா என்ற புதிய விவாதத்தைத் தூண்டியுள்ளது.",
+    "slug": "is-bitcoin-undervalued-what-elon-musk-s-energy-money-idea-and-hashrate-data-show"
+  },
+  {
+    "id": "09066b835063c859",
+    "title": "Charles Schwab names Avalanche a leader in real-world assets and institutional use",
+    "summary": "Avalanche's recognition by Charles Schwab could accelerate institutional blockchain adoption, influencing the future of financial tokenization.\nThe post Charles Schwab names Avalanche a leader in real-world assets and institutional use appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/charles-schwab-avalanche-rwa-leader/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Charles Schwab",
+      "Avalanche"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T14:41:57.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Charles Schwab has highlighted Avalanche as a leader in real-world assets and institutional blockchain use. This recognition by a major financial institution highlights the growing acceptance of tokenized assets and could accelerate the broader adoption of blockchain technology within traditional finance.",
+    "content_ta": "Real-world assets மற்றும் institutional blockchain பயன்பாட்டில் Avalanche ஒரு முன்னணி நிறுவனமாக திகழ்வதாக Charles Schwab குறிப்பிட்டுள்ளது. முக்கிய நிதி நிறுவனம் ஒன்றின் இந்த அங்கீகாரம், tokenized assets மீதான ஏற்பை அதிகரிப்பதோடு, பாரம்பரிய நிதித்துறையில் blockchain தொழில்நுட்பத்தின் பயன்பாட்டை துரிதப்படுத்தக்கூடும்.",
+    "slug": "charles-schwab-names-avalanche-a-leader-in-real-world-assets-and-institutional-use"
+  },
+  {
+    "id": "6253d76accdc11ce",
+    "title": "OKX expands euro-native trading with EURC through unified order book",
+    "summary": "OKX's euro-native trading expansion could enhance market efficiency and liquidity for European traders, reducing reliance on USD conversions.\nThe post OKX expands euro-native trading with EURC through unified order book appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/okx-eurc-unified-euro-order-book/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "OKX",
+      "EURC"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T14:40:37.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Cryptocurrency exchange OKX has expanded its euro-native trading capabilities by integrating EURC through a unified order book. This development aims to improve market efficiency and liquidity for European traders, while minimizing the need for USD conversions during transactions.",
+    "content_ta": "கிரிப்டோகரன்சி எக்ஸ்சேஞ்ச் ஆன OKX, யூனிஃபைட் ஆர்டர் புக் மூலம் EURC-ஐ இணைத்து தனது யூரோ-நேட்டிவ் வர்த்தக சேவையை விரிவுபடுத்தியுள்ளது. இந்த நடவடிக்கை ஐரோப்பிய வர்த்தகர்களுக்கு சந்தை செயல்திறனையும் பணப்புழக்கத்தையும் மேம்படுத்துவதை நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "okx-expands-euro-native-trading-with-eurc-through-unified-order-book"
+  },
+  {
+    "id": "31e3acc4347cffce",
+    "title": "Susan Collins linked to operatives in alleged pay-for-play scheme amid 2026 campaign",
+    "summary": "Collins' campaign faces potential setbacks as resurfaced allegations may sway voter sentiment and impact her re-election prospects in 2026.\nThe post Susan Collins linked to operatives in alleged pay-for-play scheme amid 2026 campaign appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/susan-collins-linked-to-operatives-in-alleged-pay-for-play-scheme-amid-2026/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Susan Collins"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T14:35:53.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Susan Collins' 2026 campaign is facing potential setbacks following resurfaced allegations linking her to operatives in an alleged pay-for-play scheme. These renewed claims could influence voter sentiment and impact her re-election prospects as the campaign moves forward.",
+    "content_ta": "Susan Collins-ன் 2026 தேர்தல் பிரச்சாரம், ஒரு பணம்-மற்றும்-செயல்முறை ஊழலில் தொடர்புடையவர்களுடன் இணைத்து புதிய குற்றச்சாட்டுகள் எழுப்பப்பட்டுள்ளதால் பின்னடைவைச் சந்தித்துள்ளது. இந்த மறுக்கப்பட்ட குற்றச்சாட்டுகள் வாக்காளர்களின் மனநிலையைப் பாதித்து அவரது மறுதேர்தல் வாய்ப்புகளைத் தாக்கக்கூடும்.",
+    "slug": "susan-collins-linked-to-operatives-in-alleged-pay-for-play-scheme-amid-2026-campaign"
+  },
+  {
+    "id": "d2037a84180b3c26",
+    "title": "Binance data shows Bitcoin liquidation clusters stacked around $87K",
+    "summary": "Bitcoin's price movements around $87K could trigger significant market volatility, impacting leveraged positions and ETF breakeven zones.\nThe post Binance data shows Bitcoin liquidation clusters stacked around $87K appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/binance-bitcoin-liquidation-clusters-87k/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Binance",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T14:25:32.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Recent data from Binance reveals significant Bitcoin liquidation clusters stacked around the $87,000 price level. These positioning concentrations indicate that upcoming price movements near this threshold could trigger heightened market volatility, directly impacting leveraged positions and specific ETF breakeven zones across the broader cryptocurrency market.",
+    "content_ta": "Binance-ன் சமீபத்திய தரவுகளின்படி, Bitcoin விலை $87,000 என்ற மதிப்பைச் சுற்றி அதிகளவில் லிக்விடியேஷன் கிளஸ்டர்கள் குவிந்துள்ளதாகத் தெரியவந்துள்ளது. இந்த விலை நிலவரமானது சந்தையில் அதிகப்படியான ஏற்றத்தாழ்வுகளை உருவாக்கக்கூடும், இது லெவரேஜ் பொசிஷன்கள் மற்றும் ETF பிரேக்ஈவன் மண்டலங்களை நேரடியாகப் பாதிக்க வாய்ப்புள்ளது.",
+    "slug": "binance-data-shows-bitcoin-liquidation-clusters-stacked-around-87k"
+  },
+  {
+    "id": "98bd57cc45121361",
+    "title": "Polkadot warns Fearless Wallet users to move funds after key leak",
+    "summary": "The incident underscores the critical need for robust security measures and timely communication to protect users in decentralized ecosystems.\nThe post Polkadot warns Fearless Wallet users to move funds after key leak appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/polkadot-fearless-wallet-private-key-leak/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Polkadot",
+      "Fearless Wallet"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T14:24:18.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Polkadot has issued an urgent warning to Fearless Wallet users, advising them to transfer their funds immediately following a security incident involving a key leak. This event highlights the critical importance of strong security protocols and prompt communication in decentralized ecosystems to safeguard user assets from potential threats.",
+    "content_ta": "ஒரு முக்கிய கீ லீக் சம்பவம் காரணமாக, Fearless Wallet பயனர்கள் தங்கள் நிதியை உடனடியாக வேறு இடத்திற்கு மாற்ற வேண்டும் என்று Polkadot அவசர எச்சரிக்கை விடுத்துள்ளது. பயனர்களின் சொத்துக்களைப் பாதுகாக்க வலுவான பாதுகாப்பு நெறிமுறைகளும், சரியான நேரத்தில் தகவல்களைத் தெரிவிப்பதும் எவ்வளவு அவசியம் என்பதை இந்தச் சம்பவம் காட்டுகிறது.",
+    "slug": "polkadot-warns-fearless-wallet-users-to-move-funds-after-key-leak"
+  },
+  {
+    "id": "0c79a2e56d982696",
+    "title": "PaperTrade tightens controls after manipulation attempts on Hyperliquid BBO",
+    "summary": "PaperTrade's reliance on external price feeds raises concerns about security and investor confidence, impacting its market valuation prospects.\nThe post PaperTrade tightens controls after manipulation attempts on Hyperliquid BBO appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/papertrade-tightens-controls-after-manipulation-attempts-on-hyperliquid-bbo/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "PaperTrade",
+      "Hyperliquid"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T14:23:46.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "PaperTrade has implemented stricter security controls following recent attempts to manipulate its platform using Hyperliquid BBO. The incident highlighted vulnerabilities regarding the platform's reliance on external price feeds, sparking concerns among investors about overall security and potentially impacting future market valuation prospects for the company.",
+    "content_ta": "Hyperliquid BBO-வை பயன்படுத்தி தனது பிளாட்ஃபார்மை கையாளுவதற்கான சமீபத்திய முயற்சிகளைத் தொடர்ந்து, PaperTrade கடுமையான பாதுகாப்பு கட்டுப்பாடுகளை நடைமுறைப்படுத்தியுள்ளது. இந்தச் சம்பவம் பிளாட்ஃபார்மின் வெளிப்புற விலை ஊட்டங்களை நம்பியிருப்பதில் உள்ள பலவீனங்களை வெளிச்சம் போட்டுக் காட்டியது, இது ஒட்டுமொத்த பாதுகாப்பு குறித்து முதலீட்டாளர்கள் மத்தியில் கவலையை ஏற்படுத்தியுள்ளது மற்றும் நிறுவனத்தின் எதிர்கால சந்தை மதிப்பீட்டு வாய்ப்புகளை பாதிக்கக்கூடும்.",
+    "slug": "papertrade-tightens-controls-after-manipulation-attempts-on-hyperliquid-bbo"
+  },
+  {
+    "id": "ec743e9c3d092909",
+    "title": "OpenAI uses nearly 2,000 AI agents to analyze brain CRISPR data in 32 minutes",
+    "summary": "AI-driven rapid analysis could revolutionize drug discovery, significantly reducing research timelines and enhancing collaborative efforts.\nThe post OpenAI uses nearly 2,000 AI agents to analyze brain CRISPR data in 32 minutes appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/openai-ai-agents-brain-crispr-atlas/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "OpenAI"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T14:13:47.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "OpenAI recently deployed nearly 2,000 AI agents to analyze complex brain CRISPR data in just 32 minutes. This rapid analysis highlights how artificial intelligence can potentially revolutionize drug discovery by significantly reducing research timelines and improving collaborative research efforts across the scientific community.",
+    "content_ta": "OpenAI நிறுவனம் சமீபத்தில் மூளை தொடர்பான CRISPR தரவுகளை ஆய்வு செய்ய சுமார் 2,000 AI ஏஜெண்டுகளைப் பயன்படுத்தி வெறும் 32 நிமிடங்களில் முடிவுகளைப் பெற்றுள்ளது. இந்த விரைவான பகுப்பாய்வு முறையானது ஆராய்ச்சி நேரத்தை வெகுவாகக் குறைப்பதன் மூலமும், கூட்டு முயற்சிகளை மேம்படுத்துவதன் மூலமும் மருந்து கண்டுபிடிப்புகளில் மிகப்பெரிய மாற்றங்களை ஏற்படுத்தக்கூடும்.",
+    "slug": "openai-uses-nearly-2-000-ai-agents-to-analyze-brain-crispr-data-in-32-minutes"
+  },
+  {
+    "id": "4674f951f14cd253",
+    "title": "Silicon Data CEO says older AI chips are still in high demand",
+    "summary": "Persistent demand for older AI chips highlights potential for a massive derivatives market, underscoring the impact of supply constraints on pricing.\nThe post Silicon Data CEO says older AI chips are still in high demand appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/silicon-data-ceo-older-ai-chip-demand/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Silicon Data"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T14:04:16.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "The CEO of Silicon Data has stated that older artificial intelligence chips continue to experience high demand. This persistent market need points toward the potential development of a massive derivatives market. Industry observers note that ongoing supply constraints are significantly impacting pricing trends across the sector, keeping older generation hardware relevant despite newer technological advancements.",
+    "content_ta": "Silicon Data-வின் CEO பழைய AI சிப்புகளுக்கான தேவை தொடர்ந்து அதிகமாகவே இருப்பதாகத் தெரிவித்துள்ளார். சந்தையில் நிலவும் இந்த தொடர்ச்சியான தேவையானது ஒரு பெரிய டெரிவேட்டிவ்ஸ் சந்தை உருவாகுவதற்கான சாத்தியக்கூறுகளைக் காட்டுகிறது. சப்ளை பற்றாக்குறை காரணமாக விலைகளில் ஏற்பட்டுள்ள தாக்கம் இந்தத் துறையில் தொடர்ந்து முக்கிய பங்கு வகிக்கிறது.",
+    "slug": "silicon-data-ceo-says-older-ai-chips-are-still-in-high-demand"
+  },
+  {
+    "id": "b89af806d940d946",
+    "title": "Doodles’ DOOD token surges 212% to roughly $38 million market cap",
+    "summary": "The surge in DOOD token highlights the volatility and speculative nature of NFT-linked assets, impacting market psychology and trading strategies.\nThe post Doodles’ DOOD token surges 212% to roughly $38 million market cap appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/doodles-dood-token-surges-212-percent/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Doodles",
+      "DOOD"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:51:55.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "The DOOD token, associated with the NFT project Doodles, experienced a massive 212% price surge, reaching a market capitalization of approximately $38 million. This dramatic increase highlights the ongoing volatility and speculative behavior surrounding NFT-linked digital assets, which continue to influence current market sentiment and trading strategies within the broader digital asset ecosystem.",
+    "content_ta": "NFT ப்ராஜெக்ட்டான Doodles-ன் DOOD டோக்கன் 212% வரை விலை உயர்ந்து, சுமார் $38 மில்லியன் மார்க்கெட் கேப்பிட்டலை எட்டியுள்ளது. இந்த திடீர் விலை உயர்வு, NFT சார்ந்த டிஜிட்டல் சொத்துக்களில் உள்ள நிலையற்ற தன்மையையும் ஊக வணிகத்தையும் வெளிக்காட்டுவதோடு, தற்போதைய சந்தை சூழலையும் வர்த்தக உத்திகளையும் பாதிக்கின்றது.",
+    "slug": "doodles-dood-token-surges-212-to-roughly-38-million-market-cap"
+  },
+  {
+    "id": "0d8d7d54d6c08afa",
+    "title": "Jensen Huang says Blackwell and Vera Rubin GPUs could stay useful for seven or eight years",
+    "summary": "Extended GPU lifespans could significantly alter financial models, impacting AI infrastructure investments and reshaping industry economics.\nThe post Jensen Huang says Blackwell and Vera Rubin GPUs could stay useful for seven or eight years appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/jensen-huang-blackwell-gpus-eight-year-lifespan/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Jensen Huang",
+      "Blackwell",
+      "Vera Rubin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:45:05.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Jensen Huang stated that Blackwell and Vera Rubin GPUs could remain useful for up to eight years. This extended lifespan for advanced hardware could significantly alter financial models, impact AI infrastructure investments, and reshape overall industry economics across the technology sector.",
+    "content_ta": "Blackwell மற்றும் Vera Rubin GPU-கள் ஏழு முதல் எட்டு ஆண்டுகள் வரை பயனுள்ளதாக இருக்கக்கூடும் என்று Jensen Huang தெரிவித்துள்ளார். வன்பொருளின் இந்த நீட்டிக்கப்பட்ட ஆயுட்காலம் நிதி மாதிரிகளை மாற்றியமைக்கலாம், AI உள்கட்டமைப்பு முதலீடுகளைப் பாதிக்கலாம் மற்றும் தொழில்துறை பொருளாதாரத்தை மறுவடிவமைக்கலாம்.",
+    "slug": "jensen-huang-says-blackwell-and-vera-rubin-gpus-could-stay-useful-for-seven-or-eight-years"
+  },
+  {
+    "id": "d5f55bb939ca9f57",
+    "title": "Meta earnings put Big Tech’s AI spending bet under the microscope",
+    "summary": "Meta's AI investments face scrutiny, impacting investor confidence and highlighting the challenge of monetizing AI without a cloud business.\nThe post Meta earnings put Big Tech’s AI spending bet under the microscope appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/meta-earnings-ai-spending-investor-concerns/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Meta"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:44:21.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Meta's recent financial earnings have placed heavy scrutiny on Big Tech's massive investments in artificial intelligence. Investors are closely examining whether these expensive AI initiatives will yield sufficient returns. Unlike competitors with major cloud computing businesses, Meta faces distinct challenges in monetizing its artificial intelligence spending, raising questions across the technology sector regarding future profitability and budget management.",
+    "content_ta": "Meta-யின் சமீபத்திய நிதி முடிவுகள் Big Tech நிறுவனங்களின் செயற்கை நுண்ணறிவு (AI) முதலீடுகள் மீது தீவிர கவனத்தை ஈர்த்துள்ளன. இந்த அதிக செலவிலான AI திட்டங்கள் போதுமான லாபத்தைத் தருமா என்பதை முதலீட்டாளர்கள் உன்னிப்பாகக் கவனித்து வருகின்றனர். மேகக்கணி (cloud) வணிகம் இல்லாத மற்ற போட்டியாளர்களைப் போலன்றி, Meta தனது AI செலவுகளைப் பணமாக்குவதில் தனிப்பட்ட சவால்களை எதிர்கொள்கிறது.",
+    "slug": "meta-earnings-put-big-tech-s-ai-spending-bet-under-the-microscope"
+  },
+  {
+    "id": "905fb1eb1daaca59",
+    "title": "Tokenized stocks rose 86% in Q3 while Treasuries stayed flat, ARK says",
+    "summary": "The rise in tokenized equities on DEXs signals a shift towards 24/7 trading, potentially reshaping global financial markets and investor access.\nThe post Tokenized stocks rose 86% in Q3 while Treasuries stayed flat, ARK says appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/ark-invest-tokenized-equities-dex-volume/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "ARK"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:36:07.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "According to ARK, tokenized stocks experienced a significant 86% increase during the third quarter, whereas Treasuries remained flat. This growth highlights an increasing interest in decentralized finance and highlights how blockchain-based assets are gaining traction in traditional investment sectors.",
+    "content_ta": "ARK-இன் அறிக்கையின்படி, Q3 காலாண்டில் டோக்கனைஸ்டு ஸ்டாக்குகள் 86% வரை உயர்ந்துள்ளன, அதே நேரத்தில் Treasuries மாறாமல் அப்படியே இருந்தன. இந்த வளர்ச்சி பரவலாக்கப்பட்ட நிதி மீதான ஆர்வத்தை அதிகரிப்பதைக் காட்டுகிறது.",
+    "slug": "tokenized-stocks-rose-86-in-q3-while-treasuries-stayed-flat-ark-says"
+  },
+  {
+    "id": "369504d69c0c52db",
+    "title": "BlackRock launches RBTX, its first active robotics ETF",
+    "summary": "BlackRock's RBTX ETF highlights the growing importance of robotics in investment strategies, emphasizing active management in emerging tech sectors.\nThe post BlackRock launches RBTX, its first active robotics ETF appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/blackrock-launches-rbtx-active-robotics-etf/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "BlackRock",
+      "RBTX"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:35:48.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "BlackRock has launched its first active robotics ETF, named RBTX. This new fund highlights the increasing importance of robotics and emerging technology sectors in modern investment strategies. By utilizing active management, the fund aims to capture growth in this rapidly evolving industry.",
+    "content_ta": "பிளாக் ராக் (BlackRock) நிறுவனம் தனது முதலாவது ஆக்டிவ் ரோபாட்டிக்ஸ் இடிஎஃப் (ETF) ஆன RBTX ஐ அறிமுகப்படுத்தியுள்ளது. நவீன முதலீட்டு உத்திகளில் ரோபாட்டிக்ஸ் மற்றும் வளர்ந்து வரும் தொழில்நுட்பத் துறைகளின் முக்கியத்துவத்தை இந்த புதிய நிதி ஆதரிக்கிறது.",
+    "slug": "blackrock-launches-rbtx-its-first-active-robotics-etf"
+  },
+  {
+    "id": "9ad6259216680b82",
+    "title": "Federated Hermes CIO says AI boom has years to go before bubble risks",
+    "summary": "The AI investment boom, driven by infrastructure needs and rational capital allocation, suggests sustained growth without immediate bubble risks.\nThe post Federated Hermes CIO says AI boom has years to go before bubble risks appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/federated-hermes-cio-ai-boom-bubble-risks/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Federated Hermes"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:18:17.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "The artificial intelligence investment boom has several years of growth ahead before facing any bubble risks, according to Federated Hermes CIO. Driven by heavy infrastructure needs and rational capital allocation, the current market trend indicates sustained expansion and strong momentum in the sector rather than an imminent speculative collapse.",
+    "content_ta": "Federated Hermes CIO-வின் கூற்றுப்படி, AI துறையில் முதலீட்டு எழுச்சி எந்தவொரு குமிழி ஆபத்தை எதிர்கொள்வதற்கு முன்பாக இன்னும் பல ஆண்டுகளுக்கு வளர்ச்சி அடையும். அடிப்படை உள்கட்டமைப்பு தேவைகள் மற்றும் சரியான மூலதன ஒதுக்கீடு ஆகியவற்றால் உந்தப்பட்டுவரும் தற்போதைய சந்தைப் போக்கு, உடனடி சரிவுக்குப் பதிலாக நிலையான வளர்ச்சியையும் வலுவான உத்வேகத்தையும் குறிக்கிறது.",
+    "slug": "federated-hermes-cio-says-ai-boom-has-years-to-go-before-bubble-risks"
+  },
+  {
+    "id": "48e547b28ff0a1ea",
+    "title": "Grayscale expands in-kind subscriptions for 10 crypto investment products",
+    "summary": "Grayscale's move may boost institutional crypto adoption, potentially impacting Ethereum's market dynamics and influencing regulatory responses.\nThe post Grayscale expands in-kind subscriptions for 10 crypto investment products appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/grayscale-expands-in-kind-subscriptions-for-10-crypto-investment-products/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Grayscale"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:15:53.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Grayscale has expanded in-kind subscription options across ten of its cryptocurrency investment products. This strategic update allows authorized participants to exchange underlying digital assets directly for fund shares. Industry observers note that the expansion could facilitate smoother trading mechanisms and potentially encourage broader institutional participation within the digital asset market.",
+    "content_ta": "Grayscale தனது 10 கிரிப்டோ முதலீட்டு தயாரிப்புகளில் இன்-கைண்ட் சந்தா விருப்பங்களை விரிவுபடுத்தியுள்ளது. இந்த மூலோபாய நடவடிக்கை அங்கீகரிக்கப்பட்ட பங்கேற்பாளர்கள் அடிப்படை டிஜிட்டல் சொத்துக்களை நேரடியாக நிதிப் பங்குகளாக மாற்ற அனுமதிக்கிறது. இந்த விரிவாக்கம் வர்த்தக செயல்முறைகளை மென்மையாக்க உதவும் என்றும், டிஜிட்டல் சொத்து சந்தையில் நிறுவனங்களின் பங்கேற்பை மேலும் ஊக்குவிக்கும் என்றும் துறை சார்ந்த நிபுணர்கள் கருதுகின்றனர்.",
+    "slug": "grayscale-expands-in-kind-subscriptions-for-10-crypto-investment-products"
+  },
+  {
+    "id": "99267f981e7e0cd9",
+    "title": "Axis Robotics launches $AXIS token on Base to crowdsource robot training data",
+    "summary": "Axis Robotics' crowdsourced data model could democratize AI training, but its success hinges on data quality and industry adoption of verified data.\nThe post Axis Robotics launches $AXIS token on Base to crowdsource robot training data appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/axis-robotics-axis-token-base-robot-training-data/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Axis Robotics",
+      "Base",
+      "$AXIS"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:13:44.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Axis Robotics has launched the $AXIS token on the Base network to crowdsource robot training data. This decentralized model aims to democratize AI training by collecting data from various sources. However, the long-term success of the initiative will depend heavily on maintaining high data quality and achieving widespread industry adoption of its verified data approach.",
+    "content_ta": "Axis Robotics நிறுவனம் தனது ரோபோ பயிற்சி தரவுகளை திரட்டுவதற்காக Base நெட்வொர்க்கில் $AXIS டோக்கனை அறிமுகப்படுத்தியுள்ளது. இந்த பரவலாக்கப்பட்ட மாதிரி பல்வேறு மூலங்களிலிருந்து தரவுகளை சேகரிப்பதன் மூலம் AI பயிற்சியை ஜனநாயகப்படுத்துவதை நோக்கமாகக் கொண்டுள்ளது. இருப்பினும், இந்த முயற்சியின் நீண்டகால வெற்றி, உயர்தர தரவைப் பராமரிப்பது மற்றும் சரிபார்க்கப்பட்ட தரவு முறையை தொழில்துறையினர் பரவலாக ஏற்றுக்கொள்வதைப் பொறுத்தது.",
+    "slug": "axis-robotics-launches-axis-token-on-base-to-crowdsource-robot-training-data"
+  },
+  {
+    "id": "7c2e114bbd857d41",
+    "title": "Robinhood’s RVI fund takes $30 million stake in crypto-friendly Erebor Bank",
+    "summary": "Robinhood's investment in Erebor Bank could accelerate innovation in financial services, enhancing access to modern banking for tech sectors.\nThe post Robinhood’s RVI fund takes $30 million stake in crypto-friendly Erebor Bank appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/robinhood-investment-crypto-friendly/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Robinhood",
+      "Erebor Bank"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:13:18.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Robinhood's RVI fund has acquired a $30 million stake in Erebor Bank, a financial institution known for its crypto-friendly approach. This significant investment is expected to bridge traditional financial services with the digital asset sector, potentially driving new technological innovations and expanding modern banking access for growing tech industries.",
+    "content_ta": "Robinhood இன் RVI நிதியம், crypto-friendly நிறுவனமான Erebor Bank இல் 30 மில்லியன் டாலர் முதலீட்டை மேற்கொண்டுள்ளது. இந்த முதலீடு பாரம்பரிய நிதிச் சேவைகளை டிஜிட்டல் சொத்துத் துறையுடன் இணைக்கும் என்றும், வளர்ந்து வரும் தொழில்நுட்பத் துறைகளுக்கான நவீன வங்கிச் சேவைகளை விரிவுபடுத்துவதற்கும் உதவும் என்றும் எதிர்பார்க்கப்படுகிறது.",
+    "slug": "robinhood-s-rvi-fund-takes-30-million-stake-in-crypto-friendly-erebor-bank"
+  },
+  {
+    "id": "078b915e4b37d6dd",
+    "title": "Mach9 raises $34M to scale AI CAD software after ditching hardware",
+    "summary": "Mach9's pivot to AI CAD software could revolutionize civil engineering by significantly enhancing data processing efficiency and scalability.\nThe post Mach9 raises $34M to scale AI CAD software after ditching hardware appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/mach9-raises-34m-ai-cad-software/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Mach9"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:04:23.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Mach9 has successfully raised $34 million in funding to scale its innovative AI CAD software. The company recently decided to shift away from hardware development to focus entirely on software solutions, aiming to revolutionize the civil engineering sector by improving data processing efficiency and scalability.",
+    "content_ta": "Mach9 தனது புதிய AI CAD software-ஐ விரிவுபடுத்துவதற்காக $34 மில்லியன் நிதியை வெற்றிகரமாக திரட்டியுள்ளது. டேட்டா ப்ராசஸிங் திறன் மற்றும் அளவிடல் தன்மையை மேம்படுத்துவதன் மூலம் சிவில் இன்ஜினியரிங் துறையில் புரட்சியை ஏற்படுத்தும் நோக்கில், நிறுவனம் ஹார்டுவேர் தயாரிப்பிலிருந்து விலகி முற்றிலும் சாஃப்ட்வேர் தீர்வுகளில் கவனம் செலுத்த முடிவு செய்துள்ளது.",
+    "slug": "mach9-raises-34m-to-scale-ai-cad-software-after-ditching-hardware"
+  },
+  {
+    "id": "c51591d3fb045bfd",
+    "title": "Anthropic weighs pricier chip debt as Blackstone eyes 10% coupon",
+    "summary": "Rising debt costs for AI infrastructure highlight increased investor caution, potentially impacting future AI development financing strategies.\nThe post Anthropic weighs pricier chip debt as Blackstone eyes 10% coupon appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/anthropic-blackstone-chip-debt-10-percent/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Anthropic",
+      "Blackstone"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:01:02.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Rising debt costs for AI infrastructure highlight increased investor caution in the market. Anthropic is reportedly weighing pricier chip debt as Blackstone eyes a significant coupon rate. This trend reflects shifting financing strategies for future artificial intelligence development and growing financial scrutiny within the sector.",
+    "content_ta": "AI இன்ஃப்ராஸ்ட்ரக்சருக்கான கடன் செலவுகள் அதிகரித்து வருவது சந்தையில் முதலீட்டாளர்களின் எச்சரிக்கையை வெளிப்படுத்துகிறது. Blackstone நிறுவனம் கணிசமான கூப்பன் வட்டியைக் குறிவைக்கும் வேளையில், Anthropic நிறுவனம் விலையுயர்ந்த சிப் கடன்கள் குறித்து பரிசீலித்து வருவதாகத் தகவல்கள் தெரிவிக்கின்றன. இந்தப் போக்கு எதிர்கால செயற்கை நுண்ணறிவு மேம்பாட்டுக்கான நிதி உத்திகளில் மாற்றங்களை பிரதிபலிக்கிறது.",
+    "slug": "anthropic-weighs-pricier-chip-debt-as-blackstone-eyes-10-coupon"
+  },
+  {
+    "id": "17ad7abab50c1d8a",
+    "title": "Cardano Foundation joins five other blockchain groups urging SEC to lock in digital commodity definition",
+    "summary": "The push for a formal digital commodity definition could stabilize regulatory environments, fostering innovation and clarity in the crypto sector.\nThe post Cardano Foundation joins five other blockchain groups urging SEC to lock in digital commodity definition appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/cardano-foundation-sec-digital-commodity-letter/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Cardano Foundation",
+      "SEC"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:00:03.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "The Cardano Foundation has joined five other blockchain organizations in urging the SEC to establish a clear and formal definition for digital commodities. This collective push aims to bring much-needed regulatory stability to the cryptocurrency sector, potentially fostering a more secure and predictable environment for future technological innovation and growth.",
+    "content_ta": "டிஜிட்டல் கமாடிட்டி டெஃபினிஷனை உறுதிப்படுத்துமாறு SEC-ஐ வலியுறுத்தும் வகையில் மற்ற ஐந்து பிளாக்செயின் குழுக்களுடன் Cardano Foundation இணைந்துள்ளது. இந்த ஒட்டுமொத்த முயற்சியானது கிரிப்டோகரன்சி துறைக்கு ஒழுங்குமுறை ஸ்திரத்தன்மையை வழங்குவதோடு, எதிர்கால புதுமைகளுக்கு பாதுகாப்பான சூழலை உருவாக்க உதவும்.",
+    "slug": "cardano-foundation-joins-five-other-blockchain-groups-urging-sec-to-lock-in-digital-commodity"
+  },
+  {
+    "id": "b984a90a7e2b8651",
+    "title": "MSTR Stock Price Prediction 2026, 2027, 2030 – 2040: Can Strategy Inc Stock Reach $500?",
+    "summary": "The post MSTR Stock Price Prediction 2026, 2027, 2030 – 2040: Can Strategy Inc Stock Reach $500? appeared first on Coinpedia Fintech News\nStrategy Inc (NASDAQ: MSTR) has witnessed one of its biggest corrections in recent years. After hitting an all-time high near $540 in late 2025 and rallying above $200 during the first half of 2026, the stock recently slipped below the critical $100 mark as Bitcoin lost momentum, profit-taking accelerated, and broader market sentiment weakened. While …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/stock-price-prediction/strategy-mstr-stock-price-prediction/",
+    "source": "Coinpedia",
+    "tags": [
+      "MicroStrategy",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T12:35:05.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "MicroStrategy Inc stock (NASDAQ: MSTR) has experienced a significant market correction. After reaching high levels following a strong rally, the stock recently slipped below the $100 mark. This downward movement came as Bitcoin lost momentum, profit-taking accelerated, and broader financial market sentiment weakened, leaving investors wondering if the shares can eventually recover toward the $500 level.",
+    "content_ta": "MicroStrategy Inc பங்கு (NASDAQ: MSTR) குறிப்பிடத்தக்க சந்தை சரிவை சந்தித்துள்ளது. வலுவான உயர்வுக்குப் பிறகு அதிக விலையை எட்டிய இந்தப் பங்கு, சமீபத்தில் $100 அளவுக்குக் கீழே சரிந்தது. Bitcoin வேகம் குறைந்ததாலும், லாபம் ஈட்டும் போக்கு அதிகரித்ததாலும், சந்தை சூழல் பலவீனமடைந்ததாலும் இந்த வீழ்ச்சி ஏற்பட்டுள்ளது. இதனால் முதலீட்டாளர்கள் பங்கு மீண்டும் $500 ஐ எட்டுமா என்று குழப்பத்தில் உள்ளனர்.",
+    "slug": "mstr-stock-price-prediction-2026-2027-2030-2040-can-strategy-inc-stock-reach-500"
+  },
+  {
+    "id": "8708bb7d4946b77f",
+    "title": "Meta Platforms Earnings Today: Why 2027 Spending Guidance Could Move META Stock",
+    "summary": "The post Meta Platforms Earnings Today: Why 2027 Spending Guidance Could Move META Stock appeared first on Coinpedia Fintech News\nMeta Platforms is scheduled to release its third-quarter results after the US market closes on October 21, with the earnings call at 4:30 p.m. ET, or 2:00 a.m. IST on October 22. Wall Street expects approximately $63.4 billion in revenue, but the company’s outlook for 2027 spending could ultimately determine whether the results trigger a …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/price-analysis/meta-platforms-earnings-today-why-2027-spending-guidance-could-move-meta-stock/",
+    "source": "Coinpedia",
+    "tags": [
+      "Meta Platforms",
+      "Wall Street",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T12:22:12.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Meta Platforms is scheduled to release its third-quarter financial results after the US market closes. Wall Street expects significant revenue for the quarter. However, analysts note that the company's outlook and guidance regarding future spending could ultimately be the most critical factor influencing META stock performance following the earnings report.",
+    "content_ta": "US சந்த closed ஆன பிறகு Meta Platforms தனது மூன்றாம் காலாண்டு நிதி முடிவுகளை வெளியிட உள்ளது. இந்த காலாண்டில் Wall Street குறிப்பிடத்தக்க வருவாயை எதிர்பார்க்கிறது. இருப்பினும், எதிர்கால செலவினங்கள் குறித்த நிறுவனத்தின் கண்ணோட்டமே earnings அறிக்கையைத் தொடர்ந்து META பங்கின் செயல்திறனைத் தீர்மானிக்கும் மிக முக்கியமான காரணியாக இருக்கும் என்று ஆய்வாளர்கள் குறிப்பிடுகின்றனர்.",
+    "slug": "meta-platforms-earnings-today-why-2027-spending-guidance-could-move-meta-stock"
+  },
+  {
+    "id": "e4faac3c4ae8940f",
+    "title": "Estée Lauder To Hand $210,000,000 to Investors and Attorneys After Allegedly Overstating Growth Amid China Crackdown",
+    "summary": "A federal judge approved a $210 million class action settlement resolving securities fraud claims against Estée Lauder over allegedly misleading growth forecasts tied to Chinese daigou sales. The deal, led by Michigan pension funds, provides recovery for eligible shareholders who bought shares from 2022 to 2025.\nThe post Estée Lauder To Hand $210,000,000 to Investors and Attorneys After Allegedly Overstating Growth Amid China Crackdown appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/10/21/estee-lauder-to-hand-210000000-to-investors-and-attorneys-after-allegedly-overstating-growth-amid-china-crackdown/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "Estée Lauder",
+      "China",
+      "Michigan"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T14:30:00.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Estée Lauder has agreed to a $210 million class action settlement to resolve securities fraud claims. A federal judge approved the deal, which addresses allegations that the company misled investors by overstating growth forecasts related to Chinese sales. The lawsuit, supported by Michigan pension funds, provides financial recovery for eligible shareholders who purchased shares between 2022 and 2025.",
+    "content_ta": "செக்யூரிட்டீஸ் மோசடி புகார்களை தீர்க்கும் வகையில் Estée Lauder நிறுவனம் 210 மில்லியன் டாலர் வகுப்பு நடவடிக்கை தீர்வுத் தொகைக்கு ஒப்புதல் அளித்துள்ளது. சீனாவில் விற்பனை வளர்ச்சி குறித்த தவறான கணிப்புகளால் முதலீட்டாளர்கள் ஏமாற்றப்பட்டதாக கூறப்பட்ட வழக்கை ஒரு பெடரல் நீதிபதி ஒப்புதல் அளித்துள்ளார். Michigan பென்ஷன் ஃபண்டுகள் தலைமையிலான இந்த ஒப்பந்தம், 2022 முதல் 2025 வரை பங்குகளை வாங்கிய தகுதியான பங்குதாரர்களுக்கு இழப்பீட்டு தொகையை வழங்குகிறது.",
+    "slug": "estee-lauder-to-hand-210-000-000-to-investors-and-attorneys-after-allegedly-overstating-growth-amid"
+  },
+  {
+    "id": "96bef932497747ae",
+    "title": "Euroclear announces leadership appointments",
+    "summary": "Euroclear today announces the appointments of Guillaume Eliet as Chief Executive Officer of Euroclear Bank and Marie-Anne Haegeman as group Chief Risk Officer.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111383/euroclear-announces-leadership-appointments?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Euroclear",
+      "Guillaume Eliet",
+      "Marie-Anne Haegeman",
+      "Euroclear Bank"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T12:23:00.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Euroclear has announced key leadership appointments, naming Guillaume Eliet as the new Chief Executive Officer of Euroclear Bank and Marie-Anne Haegeman as the group Chief Risk Officer. These strategic changes reflect the organization's ongoing commitment to strong governance and leadership as it continues to manage financial market infrastructure and operations globally.",
+    "content_ta": "Euroclear நிறுவனம் தனது முக்கிய தலைமைப் பதவிகளுக்கான நியமனங்களை அறிவித்துள்ளது. அதன்படி, Euroclear Bank-ன் புதிய தலைமைச் செயல் அதிகாரியாக Guillaume Eliet நியமிக்கப்பட்டுள்ளார். மேலும், குழுமத்தின் தலைமை இடர் அதிகாரியாக Marie-Anne Haegeman நியமிக்கப்பட்டுள்ளார்.",
+    "slug": "euroclear-announces-leadership-appointments"
+  },
+  {
+    "id": "ff1a5f29ff20d995",
+    "title": "Appcharge names chief operating officer",
+    "summary": "Appcharge, the leading direct-to-consumer (DTC) payments platform for mobile games, today announced the appointment of Ronen Morecki as Chief Operating Officer.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111384/appcharge-names-chief-operating-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Appcharge",
+      "Ronen Morecki"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T12:25:00.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Appcharge, a leading direct-to-consumer payments platform for mobile games, has announced the appointment of Ronen Morecki as its new Chief Operating Officer. The company focuses on enhancing payment solutions within the mobile gaming industry, and this new leadership addition is expected to support its ongoing strategic growth and operational development.",
+    "content_ta": "மொபைல் கேமிங் துறைக்கான முன்னணி நேரடி நுகர்வோர் கட்டண தளமான Appcharge, தனது புதிய Chief Operating Officer-ஆக Ronen Morecki-ஐ நியமித்துள்ளதாக அறிவித்துள்ளது. இந்நிறுவனம் மொபைல் கேமிங் துறையில் கட்டண தீர்வுகளை மேம்படுத்துவதில் கவனம் செலுத்துகிறது.",
+    "slug": "appcharge-names-chief-operating-officer"
+  },
+  {
+    "id": "8de45bba7f3590d2",
+    "title": "N26 appoints chief comms officer",
+    "summary": "N26 is refocusing on its next phase of growth and maturity: scaling the digital bank’s core markets of Germany, France, Italy and Spain to reinforce its leadership in European digital banking.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111386/n26-appoints-chief-comms-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "N26",
+      "Germany",
+      "France",
+      "Italy",
+      "Spain"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T12:35:00.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Digital bank N26 has appointed a new chief communications officer as part of its strategy to focus on its next phase of growth. The company aims to scale its core markets in Germany, France, Italy, and Spain to strengthen its leadership position in European digital banking.",
+    "content_ta": "டிஜிட்டல் வங்கியான N26 தனது அடுத்த கட்ட வளர்ச்சியை நோக்கமாகக் கொண்டு புதிய தலைமை коммуникации அதிகாரியை (chief communications officer) நியமித்துள்ளது. ஐரோப்பிய டிஜிட்டல் வங்கித்துறையில் தனது தலைமைப் பதடியை வலுப்படுத்த ஜெர்மனி, பிரான்ஸ், இத்தாலி மற்றும் ஸ்பெயின் ஆகிய முக்கிய சந்தைகளில் தனது சேவைகளை விரிவுபடுத்த இந்நிறுவனம் திட்டமிட்டுள்ளது.",
+    "slug": "n26-appoints-chief-comms-officer"
+  },
+  {
+    "id": "d2f4ce97bfcf3815",
+    "title": "DXtrade launches white label crypto interface",
+    "summary": "DXtrade, the flagship white-label, multi-asset trading platform from global software developer for the capital markets, Devexperts, has launched a new dedicated cryptocurrency trading interface.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111387/dxtrade-launches-white-label-crypto-interface?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Devexperts",
+      "DXtrade"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T12:39:00.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Global software developer Devexperts has launched a dedicated cryptocurrency trading interface for its flagship white-label, multi-asset trading platform, DXtrade. The new interface is designed to meet the growing demand for specialized digital asset trading solutions among brokers and financial institutions operating in the capital markets.",
+    "content_ta": "குளோபல் சாஃப்ட்வேர் டெவலப்பர் ஆன Devexperts, தனது முதன்மையான ஒயிட்-லேபிள் மல்டி-அசெட் டிரேடிங் பிளாஃபார்மான DXtrade-க்காக பிரத்யேகமான கிரிப்டோகரன்சி வர்த்தக இடைமுகத்தை அறிமுகப்படுத்தியுள்ளது. மூலதனச் சந்தைகளில் இயங்கும் புரோக்கர்கள் மற்றும் நிதி நிறுவனங்களின் அதிகரித்து வரும் தேவைகளைப் பூர்த்தி செய்யும் வகையில் இந்த புதிய இடைமுகம் வடிவமைக்கப்பட்டுள்ளது.",
+    "slug": "dxtrade-launches-white-label-crypto-interface"
+  },
+  {
+    "id": "7a4183f88f3ed727",
+    "title": "Bajaj Broking adds commodity trading to digital platforms",
+    "summary": "Bajaj Broking has added commodity trading to its digital platforms, expanding the range of markets available to its customers.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111388/bajaj-broking-adds-commodity-trading-to-digital-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Bajaj Broking"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T12:42:00.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Bajaj Broking has expanded its digital platforms to include commodity trading. This new feature allows customers to access a broader range of financial markets and trading options directly through their digital accounts, enhancing the brokerage's overall service offerings for investors.",
+    "content_ta": "Bajaj Broking தனது டிஜிட்டல் பிளாட்பார்ம்களில் கமாடிட்டி வர்த்தகத்தை இணைத்துள்ளது. இந்த புதிய வசதி மூலம் வாடிக்கையாளர்கள் தங்களின் டிஜிட்டல் கணக்குகள் மூலமாகவே பல்வேறு நிதிச் சந்தைகள் மற்றும் வர்த்தக வாய்ப்புகளை அணுக முடியும்.",
+    "slug": "bajaj-broking-adds-commodity-trading-to-digital-platforms"
+  },
+  {
+    "id": "9f4c30355ae28f6f",
+    "title": "Twelve Securis selects Fund Recs for operational controls",
+    "summary": "Fund Recs today announced that Twelve Securis is using its Fusion platform to support the firm's Cash Reconciliation, Position Reconciliation and EMIR Oversight processes.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111389/twelve-securis-selects-fund-recs-for-operational-controls?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Twelve Securis",
+      "Fund Recs"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T12:48:00.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Twelve Securis has chosen Fund Recs to enhance its operational controls. The firm is utilizing the Fund Recs Fusion platform to manage essential procedures, including Cash Reconciliation, Position Reconciliation, and EMIR Oversight processes, streamlining their daily operational workflows.",
+    "content_ta": "Twelve Securis தனது செயல்பாட்டுக் கட்டுப்பாடுகளை மேம்படுத்த Fund Recs நிறுவனத்தைத் தேர்ந்தெடுத்துள்ளது. Cash Reconciliation, Position Reconciliation மற்றும் EMIR Oversight செயல்முறைகளை நிர்வகிக்க Fund Recs-ன் Fusion தளத்தை அந்த நிறுவனம் பயன்படுத்துகிறது.",
+    "slug": "twelve-securis-selects-fund-recs-for-operational-controls"
+  },
+  {
+    "id": "8d2910f6267573d4",
+    "title": "TreviPay expands Pay By Invoice availability for Walmart Business customers",
+    "summary": "TreviPay, a global B2B payments infrastructure partner, today announced the general availability of Pay By Invoice for eligible Walmart Business customers.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111390/trevipay-expands-pay-by-invoice-availability-for-walmart-business-customers?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "TreviPay",
+      "Walmart Business"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:29:00.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "TreviPay, a global B2B payments infrastructure partner, has announced the general availability of its Pay By Invoice solution for eligible Walmart Business customers. This expansion allows qualifying business clients utilizing Walmart Business to leverage streamlined invoice payment options, enhancing their B2B purchasing experience through TreviPay's established payment infrastructure.",
+    "content_ta": "சர்வதேச B2B கட்டமைப்பு நிறுவனமான TreviPay, தகுதியான Walmart Business வாடிக்கையாளர்களுக்கு Pay By Invoice சேவையை விரிவுபடுத்துவதாக அறிவித்துள்ளது. இந்த விரிவாக்கத்தின் மூலம், வணிக வாடிக்கையாளர்கள் தங்களது வா்த்தகக் கொடுப்பனவுகளை எளிமையாக்கிக் கொள்ள முடியும்.",
+    "slug": "trevipay-expands-pay-by-invoice-availability-for-walmart-business-customers"
+  },
+  {
+    "id": "e4b234f5a8eca3c2",
+    "title": "Pay in Three, Report to the Bureau: Vladyslav Kolodistyi on BNPL, Credit Scores and Consumer",
+    "summary": "Author: A finextra community member",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/blogposting/33116/pay-in-three-report-to-the-bureau-vladyslav-kolodistyi-on-bnpl-credit-scores-and-consumer?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Vladyslav Kolodistyi"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:08:00.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Vladyslav Kolodistyi discussed the intersection of Buy Now, Pay Later (BNPL) services, credit scores, and consumer impact, highlighting how deferred payment methods are increasingly intersecting with formal credit reporting bureaus and affecting consumer financial profiles.",
+    "content_ta": "Buy Now, Pay Later (BNPL) சேவைகள், கிரெடிட் ஸ்கோர்கள் மற்றும் நுகர்வோர் தாக்கம் குறித்து Vladyslav Kolodistyi விவாதித்தார். தாமதமாகப் பணம் செலுத்தும் முறைகள் எவ்வாறு முறையான கிரெடிட் அறிக்கையிடல் நிறுவனங்களுடன் இணைகின்றன என்பதை இது எடுத்துக்காட்டுகிறது.",
+    "slug": "pay-in-three-report-to-the-bureau-vladyslav-kolodistyi-on-bnpl-credit-scores-and-consumer"
+  },
+  {
+    "id": "9f45e7a2b91b1788",
+    "title": "Passkeys and Agentic Checkout: Vladyslav Kolodistyi on Authenticating Payments",
+    "summary": "Author: A finextra community member",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/blogposting/33115/passkeys-and-agentic-checkout-vladyslav-kolodistyi-on-authenticating-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Vladyslav Kolodistyi"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T13:07:31.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Vladyslav Kolodistyi discusses the future of authenticating payments using innovative methods like passkeys and agentic checkout. As digital transactions evolve, security and seamless user experience remain top priorities for developers and financial institutions looking to reduce fraud and streamline the online shopping process for consumers worldwide.",
+    "content_ta": "Passkeys மற்றும் agentic checkout போன்ற புதுமையான முறைகளைப் பயன்படுத்தி கட்டணங்களை அங்கீகரிப்பது குறித்து Vladyslav Kolodistyi விவாதிக்கிறார். டிஜிட்டல் பரிவர்த்தனைகள் வளர்ச்சியடையும் போது, உலகளாவிய நுகர்வோருக்கு ஆன்லைன் ஷாப்பிங் செயல்முறையை எளிதாக்குவதற்கும் பாதுகாப்பை உறுதி செய்வதற்கும் இது உதவுகிறது.",
+    "slug": "passkeys-and-agentic-checkout-vladyslav-kolodistyi-on-authenticating-payments"
+  },
+  {
+    "id": "dda3cca37848855f",
+    "title": "Billions in AML Fines: Bad Intentions, Bad Systems or Impossible Expectations?",
+    "summary": "Author: A finextra community member",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/blogposting/33241/billions-in-aml-fines-bad-intentions-bad-systems-or-impossible-expectations?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-10-21T12:48:43.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Financial institutions continue to face billions in anti-money laundering fines, sparking debate over whether these penalties stem from malicious intent, flawed internal systems, or unrealistic regulatory expectations. Industry observers are questioning the effectiveness of current compliance frameworks as the financial sector struggles to meet complex standards.",
+    "content_ta": "நிதி நிறுவனங்கள் ஆன்டி-மனி லாண்டரிங் விதிமீறல்களுக்காக தொடர்ந்து பல பில்லியன் அபராதங்களை எதிர்கொண்டு வருகின்றன. இந்த அபராதங்கள் தீய நோக்கங்களினாலா, குறைபாடுள்ள உள் அமைப்புகளினாலா அல்லது நிறைவேற்ற முடியாத ஒழுங்குமுறை எதிர்பார்ப்புகளினாலா என்ற விவாதம் எழுந்துள்ளது.",
+    "slug": "billions-in-aml-fines-bad-intentions-bad-systems-or-impossible-expectations"
+  },
+  {
+    "id": "ad186afd0d2da7ae",
+    "title": "The Started Advisory Board Brings FinTech Leaders Together for Candid AI Debate",
+    "summary": "As excitement and concern around AI grow in equal measure, the Started Advisory Board convened CEOs, founders and financial services leaders for a behind-closed-doors discussion on accountability, trust and what the sector cannot afford to get wrong.\nOn Thursday 15 October, the Started Advisory Board, a unique fintech communications-focused think tank, brought together senior leaders from fintech, banking, payments, investment and media for an open debate on AI, accountability and trust in financial services. \nCurated by Started PR, and hosted by Checkout.com, An Evening with the Started Advisory Board explored how financial services businesses can realise AI’s benefits while retaining human judgement, clear accountability and customer trust. An audience open mic invited guests to challenge the panel, share experiences and question assumptions about how AI will shape the sector. \nThe evening opened with remarks from Asif Faruque, Senior Director of Communications at Checkout.com, before a live debate hosted by author and presenter Ian Horne. Contributors included Advisory Board members Susanne Chishti, Katie Ramsey, Jas Shah, Raf De Kimpe, Jason Williams and David Savage. The event brought together a high-calibre audience of CEOs, founders, operators and those building the next generation of financial services in the age of AI. \nThe debate explored the gap between AI’s promise and its practical value, the balance between innovation and accountability, and the implications for jobs, skills and customer trust. Panellists and audience members questioned whether faster output means better outcomes, where human judgement must remain central and how businesses can encourage experimentation while managing risk. \nFintech Product Consultant Jas Shah said: “The perception of how much AI is transforming financial institutions is far from the reality. I think people are talking more about what they’re doing with AI than actually doing it. The human element is still very important: understanding the processes, understanding the value your company offers and feeding that into a process AI can use to create value.” \nThe conversation also explored the tension between encouraging experimentation and controlling “shadow AI”, where employees use tools outside approved systems. Contributors called for clear, regularly reviewed policies, effective tools and a culture where employees can learn without fear of failure. They also questioned whether restrictive policies push experimentation out of sight, increasing risks around confidential data and oversight. \nFounder and Chair of FINTECH Circle Susanne Chishti said: “It’s a fine balance. You want everybody to use AI as much as possible, but within guardrails, especially in a regulated financial services company. Having humans in control is very important but they can become the bottleneck. As AI enabled work is faster to produce, it creates more work to check it. Working with AI is powerful and fun, but it doesn’t necessarily give you the free time you initially expected as you find new AI applications which you want to pursue to get things done.”\nThe evening highlighted the continuing value of distinctive expertise, personal relationships and face-to-face discussion. Contributors argued that credibility and trust will become more valuable as AI makes content and other outputs easier to produce, placing greater importance on original perspectives, strong networks and the exchange of ideas in person. \nThe Started Advisory Board brings together founders, investors, operators and industry commentators to inform Started PR’s work and give clients access to expertise and relationships across financial services. Its members are David M. Brear, Jason Mikula, Sarah Kocianski, David Savage, Jas Shah, Jason Williams, Monica Millares, Raf De Kimpe, Susanne Chishti and Katie Ramsey. \nKimberley Waldron, Chair of the Started Advisory Board and Managing Director of Started PR, said: “Our Advisory Board and wider network brought real experience and challenge to this important industry debate. As our panel discussed, AI is creating huge opportunities, but human judgement, accountability and trust remain essential. Thank you to Checkout.com for hosting a candid conversation about what financial services needs to get right.”\nNoYesFinTech StartUps21 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/fintech-startups/started-advisory-board-brings-fintech-leaders-together-candid-ai-debate",
+    "source": "Financial IT",
+    "tags": [
+      "Started Advisory Board",
+      "Checkout.com",
+      "Started PR",
+      "FINTECH Circle"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T12:44:53.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "The Started Advisory Board recently convened financial services leaders, CEOs, and founders for a closed-door debate on artificial intelligence, accountability, and trust. Hosted by Checkout.com and curated by Started PR, the event explored how fintech businesses can leverage AI benefits while maintaining human judgment, managing risk, and preserving customer trust in a rapidly evolving technological landscape.",
+    "content_ta": "Started Advisory Board அமைப்பு சமீபத்தில் நிதி சேவைகள் துறை தலைவர்கள், CEO-க்கள் மற்றும் நிறுவனர்களை செயற்கை நுண்ணறிவு, பொறுப்புணர்வு மற்றும் நம்பிக்கை குறித்த ஒரு விவாதத்திற்காக ஒன்றிணைத்தது. Checkout.com நிறுவனத்தால் நடத்தப்பட்டு Started PR-ஆல் ஏற்பாடு செய்யப்பட்ட இந்நிகழ்வு, நிதி தொழில்நுட்ப நிறுவனங்கள் மனித தீர்ப்பைப் பேணி, ஆபத்தை நிர்வகித்து, வாடிக்கையாளர் நம்பிக்கையை எவ்வாறு தக்கவைத்துக் கொள்ளலாம் என்பதை ஆராய்ந்தது.",
+    "slug": "the-started-advisory-board-brings-fintech-leaders-together-for-candid-ai-debate"
+  },
+  {
+    "id": "248afae939ef1d0d",
+    "title": "26th NextGen Payments & RegTech Forum Arrives in Austin, Texas",
+    "summary": "The 26th NextGen Payments & RegTech Forum is one of the leading Payments, Compliance and Financial Crime events in the USA. It brings together senior voices from Banking, Fintech, Payments infrastructure, digital assets and Regulatory Technology. The Forum takes place on 10 November 2026 at the W Hotel, Austin, and will feature the thought leaders shaping the next phase of US payments. It is also recognised as a leading RegTech conference in the USA and a key payments summit in Texas, offering insight into real-time payments, fraud prevention, agentic commerce, open banking and tokenised money.\nProudly sponsored by: Dow Jones Risk & Compliance, Splunk and UMCA Technologies\nThis prestigious Forum will welcome senior executives, regulators and industry visionaries for a day of valuable discussions and exclusive networking. Delegates will gain actionable insights into the technologies, regulations and payment rails shaping the future of financial services.\nGet ready to be part of the conversation that’s driving the next wave of payments and RegTech transformation!\nOver 40 industry specialists will take the stage at the 26th NextGen Payments & RegTech Forum, covering the latest topics and representing leading organisations such as Visa, PayPal, Wells Fargo, Capital One, Charles Schwab, Truist, PNC, Regions Bank, Western Alliance Bank, Texas Capital, Tri City National Bank, Third Coast Bank, Everbank, OneMain Financial, Ripple, Wise, Global Payments, Paysend, IXOPAY, Yuno, Onafriq, Fluz, Splunk, Alacriti, Ouro, VelaFi, BIGTXN, Howden, Dow Jones Risk & Compliance, American Bankers Association, Financial Data and Technology Association (FDATA), Georgia Fintech Academy, PayTech Women, Finopotamus, Roosevelt Institute and BetterBuyDesign.\nINDUSTRY EXPERTS READY TO TAKE THE STAGE:\nAaron Prater, Chief Operating Officer at Tri City National Bank\nAdi Iyer, GM, Financial Services at Fluz\nAmber Thetford, Chief Product Officer at Onafriq\nAnil Kumar, Senior Director Product Management at Visa\nAnthony Kuyoro, Head of Merchant Experiences, SMB – Product Management at PayPal\nBo Berg, Technical Strategist & Innovation\nChris B Kennedy, Head of Enterprise Payments at Regions Bank\nChristian Crisan, Managing Director – Financial Services Strategy and Advisory at Splunk\nChristine Cooper, Senior Director of Product Management at Ripple\nElizabeth Davidson, Regulatory Counsel, Special Assignment at PNC\nGail Burgos, CEO at PayTech Women\nHaider Mannan, CEO at BIGTXN\nHarsh Dev, Director, Global Head of Risk Platform at PayPal\nHema Zutshi, Senior Director at Visa\nJairo Riveros, President, Americas & Head of the Office of Strategy Management at Paysend\nJason C. Honeycutt, Chief Compliance Officer at Ouro\nJason Jerina, VP Head of Platform Optimization at Truist\nJo Davenport, SVP, Fraud Director at Third Coast Bank\nJohn San Filippo, Co-Founder and Publisher at Finopotamus\nKatherine Avery, Founder at Chimayo Consulting, LLC\nLaura Gibson, Executive Director at Georgia Fintech Academy\nLloyd Nelson, SVP, Head of U.S. Digital Assets at Howden\nMark Majeske, Senior Vice President of Faster Payments at Alacriti\nMelissa Pottenger, VP, Enterprise Growth North America at Yuno\nMichael Angjeli, Head of Treasury & Liquidity at VelaFi\nMichael Heller, VP, Proposition at Dow Jones Risk & Compliance\nOlga Baldwin, Lead Third Party Risk\nPeter Papaioannou, Chief Product Officer at IXOPAY\nPrateek Sangal, Head of Digital at Everbank\nRamon Ramirez, Director of AML Operations at Western Alliance Bank\nRanu Gupta, Executive Director, Senior Digital Product at Wells Fargo\nRebecca Mulholland, Senior Policy Advisor at Financial Data and Technology Association (FDATA); Associate Partner, Allon Advisors\nSarika Yadav, IT Program Manager at Western Alliance Bank\nShanelle Davis, Managing Director, Head of Operational Resilience at Charles Schwab\nStephen Kenneally, Senior Vice President Payments at American Bankers Association\nUrooj Siraj, Senior Manager, Security Information Office at Capital One\nUrvashi Nain, Director of Product Management at Visa\nVenu Yeluripati, Head of Partner at Global Payments\nVibhu Bhatnagar, Vice President, Technology at Texas Capital\nVinay Nilakantan, Head of Product at Wise\nXavier Ferguson, Associate Product Director at OneMain Financial\nEvent Co-Chairs: \nSteve Mott, Principal at BetterBuyDesign \nChastity Murphy, Former U.S. Treasury, Visiting Research Fellow, University of Manchester, Roosevelt Institute \nAGENDA HIGHLIGHTS:\nState of US Payments 2026: keynote on the trends shaping the US payments landscape\nReal-Time Payments at Scale – Instant Payment Readiness, Liquidity and Customer Trust: 24/7 operations, fraud controls for instant rails and ISO 20022 migration\nMind the Gap – Processing Payments for Credit Cards Issued by Sanctioned Banks: building a scalable and defensible compliance programme\nFraud, Scams & Financial Crime – Defending Faster Payments and Digital Channels: APP scams, synthetic identity, mule networks and modern investigations\nAgentic Payments – The Companion to Agentic Commerce: consent, liability and secure execution when an agent initiates a transaction\nDigital Identity & Wallets – Authentication, Passkeys and Tokenised Credentials: reducing friction and fraud across the customer journey\nRegulatory & Supervisory Priorities – Practical Compliance for 2026: BSA/AML, sanctions, exams and partner ecosystem oversight\nRegTech Modernisation – Smarter AML, Sanctions & Monitoring with Responsible AI: reducing false positives and AI governance\nOpen Banking, Data Sharing & Privacy – Building Trustworthy Consent-Based Experiences: data access, risk and monetisation\nOperational Resilience & Third-Party Risk – Securing the Payments Supply Chain: cloud resilience, vendor risk and cyber-fraud convergence\nDigital Assets & Tokenised Money – Stablecoins, Settlement and Compliance Reality Check: use cases, controls and interoperability with traditional rails\nBuilding Intelligent Payment Ecosystems – The Strategic Blueprint for the Next Generation of Global Payments: keynote session\nThe Future of Payments is Human: keynote session\nWHY ATTEND?\nStay Ahead: Stay informed about the evolving payments landscape and regulatory changes.\nElite Networking: Connect with senior peers in a relaxed, exclusive environment.\nTargeted Engagement: Take part in pre-arranged one-on-one meetings with top solution providers, tailored to your specific interests.\nCONSIDERING SPONSORSHIP?\nOur Sponsors get access to QUBE Events’ bespoke business development platform. This includes a personal account executive, private meeting spaces and pre-screened one-to-one meeting itineraries to maximise ROI.\nThis is the perfect opportunity to elevate your expertise, build your network of influential contacts and stay ahead of the curve!\nTo register and access the agenda: https://www.qubevents.com/nextgen-payments-regtech-austin\nTake advantage of the 10% Discount code; apply at checkout: qube10\nFor more information on registration, please contact: info@qubevents.com\nNoYesFinTech StartUps21 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/fintech-startups/26th-nextgen-payments-regtech-forum-arrives-austin-texas",
+    "source": "Financial IT",
+    "tags": [
+      "Austin",
+      "Texas",
+      "Visa",
+      "PayPal",
+      "Wells Fargo"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T12:39:44.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "The 26th NextGen Payments & RegTech Forum will take place on 10 November 2026 at the W Hotel in Austin, Texas. The event brings together senior executives, regulators, and industry experts from leading organizations like Visa, PayPal, and Wells Fargo to discuss real-time payments, fraud prevention, digital assets, and compliance. Sponsored by Dow Jones Risk & Compliance, Splunk, and UMCA Technologies, the forum offers key insights into the future of financial services.",
+    "content_ta": "26-வது NextGen Payments & RegTech Forum வரும் 2026 நவம்பர் 10 அன்று டெக்சாசின் ஆஸ்டினில் உள்ள W Hotel-ல் நடைபெற உள்ளது. நிகழ்நேரப் பணம் செலுத்துதல், மோசடி தடுப்பு மற்றும் ஒழுங்குமுறை குறித்து விவாதிக்க Visa, PayPal மற்றும் Wells Fargo போன்ற முன்னணி நிறுவனங்களின் மூத்த அதிகாரிகள் இதில் கலந்துகொள்கின்றனர். Dow Jones Risk & Compliance, Splunk மற்றும் UMCA Technologies நிறுவனங்களால் ஸ்பான்சர் செய்யப்பட்டுள்ள இந்நிகழ்வு நிதிச் சேவைகளின் எதிர்காலம் குறித்த முக்கிய பார்வைகளை வழங்குகிறது.",
+    "slug": "26th-nextgen-payments-regtech-forum-arrives-in-austin-texas"
+  },
+  {
+    "id": "a7accc69f3d39a6f",
+    "title": "TreviPay Expands Pay by Invoice Availability for Walmart Business Customers",
+    "summary": "TreviPay, a global B2B payments infrastructure partner, today announced the general availability of Pay By Invoice for eligible Walmart Business customers. Following an initial pilot, the expanded availability gives more organizations a new way to manage purchasing and payments online and in Walmart stores. Walmart Business Pay By Invoice provides net 30-day terms, a dedicated business line of credit and detailed invoicing built into the Walmart Business purchasing experience.\nPowered by TreviPay, Walmart Business Pay By Invoice is designed to give organizations greater flexibility in how they manage business purchases and payments. Eligible customers can get what they need and pay on net 30-day terms, helping them preserve cash flow for other priorities while keeping operations moving. Purchasing controls and payment reconciliation also help organizations share purchasing responsibilities while maintaining oversight and keeping purchase activity, invoices, payments, returns and refunds organized in one place.\n“Retailers have a significant opportunity to build stronger relationships with business buyers by recognizing that their purchasing needs are different from those of consumers,” said Brandon Spear, CEO of TreviPay. “Business buyers need payment choice, purchasing controls and terms that align with how their organizations manage cash flow. When retailers make those capabilities part of the purchasing experience, they make it easier for business customers to buy from them and come back again and again.”\nThe general availability follows an initial rollout of the TreviPay-powered solution. During that period, Walmart Business customers reported a 90% customer satisfaction score with the program. The results reinforce the value of giving business customers greater flexibility and control over how they purchase and pay. Pay By Invoice can support organizations with complex purchasing and recordkeeping needs such as:\nSchools, colleges and universities can centralize purchasing records across departments or campuses to support budgeting, compliance requirements and audit preparation.\nNonprofits can organize purchasing across programs, events or grant-funded initiatives, while government agencies and public sector organizations can maintain purchasing and payment records to support procurement, financial reporting, compliance and audits.\nBusinesses can purchase inventory and supplies but enjoy 30 days to pay, thereby preserving cash flow for other expenses, and purchasing controls helping owners and managers share buying responsibilities while maintaining oversight.\nNoYesPayments21 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/payments/trevipay-expands-pay-invoice-availability-walmart-business-customers",
+    "source": "Financial IT",
+    "tags": [
+      "TreviPay",
+      "Walmart"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T12:35:27.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "TreviPay has announced the general availability of Pay by Invoice for eligible Walmart Business customers, following an initial pilot. Powered by TreviPay, the service offers net 30-day terms, a dedicated business line of credit, and detailed invoicing for online and in-store purchases. The solution aims to help organizations improve cash flow management and maintain purchasing controls.",
+    "content_ta": "Walmart Business வாடிக்கையாளர்களுக்கு Pay by Invoice சேவையை TreviPay நிறுவனம் விரிவுபடுத்தியுள்ளது. இதன் மூலம் வாடிக்கையாளர்கள் நெட் 30 நாள் அவகாசம், பிரத்யேக கடன் வரம்பு மற்றும் விரிவான இன்வாய்ஸ் வசதிகளைப் பெறலாம். இந்தச் சேவை நிறுவனங்களின் பணப் பரிமாற்றங்களை எளிதாக்கவும், வாங்கும் முறைகளைக் கட்டுப்படுத்தவும் உதவுகிறது.",
+    "slug": "trevipay-expands-pay-by-invoice-availability-for-walmart-business-customers-2026-10-21"
+  },
+  {
+    "id": "68a3afbeb03eff6b",
+    "title": "Nutanix Builds a Faster Foundation for Production AI",
+    "summary": "Nutanix, a hybrid cloud leader and AI platform company, today announced it is collaborating with NVIDIA, Supermicro, and Netris to deliver new AI solutions that aim to simplify the infrastructure required for production AI and help organisations bring new capabilities online faster. By combining Nutanix software with leading hardware, networking, and silicon technologies, Nutanix aims to help enterprises deploy and operate production AI environments more efficiently at scale. \nAs organisations push more AI workloads into production, capacity constraints and operational complexity can make it harder to move quickly.  Nutanix and its partners are working to simplify that path to make it easier to bring AI into production faster and accelerate time to value.\n“Organisations need more than just advanced infrastructure to move agentic AI into production – we believe they need an AI cloud that simply connects intelligence, agents, enterprise applications, and data across CPUs, GPUs, virtual machines, containers, on-premises environments, and cloud,” said Thomas Cornely, Executive Vice President, Product Management at Nutanix. “Through our collaboration with NVIDIA, Supermicro, and Netris, we plan to help customers accelerate deployments of agents and AI services on a unified platform with built-in security, performance, and governance.” \nExtending Agentic AI to the CPU Layer with NVIDIA Vera \nAs enterprises adopt agentic AI at scale, they are anticipated to require infrastructure that can support increasingly demanding workloads across the full AI environment, not just GPU-intensive tasks. Agentic applications combine inference with tool calls, code execution, retrieval, orchestration, and outcome processing. As these workflows scale, CPU performance is expected to become essential for completing the steps between GPU operations, reducing delays, and maximising overall AI-factory efficiency. To help ensure this critical compute path does not become a bottleneck, Nutanix plans to work towards Day Zero support for NVIDIA Vera CPUs, beginning with NKP Bare Metal, to serve highly performance-sensitive AI factory environments, with planned expansion to virtualised Nutanix environments.\nBy pairing NVIDIA’s purpose-built CPU architecture – engineered for high-speed agent execution and reduced latency – and NVIDIA OpenShell  to create safe, private runtime environments for agents with NKP, the collaboration aims to give organisations a predictable, high-performance foundation for their most advanced AI agents. \nThis support is expected to give organisations greater flexibility in how they safely deploy agentic AI while simplifying operations with a consistent cloud operating model.\nNutanix and Supermicro Take on Runaway AI Costs with Jointly Engineered System for Private Inference  \nNutanix and Supermicro are announcing plans for a jointly engineered AI infrastructure solution built around validated Supermicro server systems. By combining Supermicro servers and NVIDIA GPUs with Nutanix Agentic AI (NAI) and NVIDIA Spectrum-XTM Ethernet networking, the solution is being designed to help reduce custom configuration and integration delays, with the goal of helping enterprises get on-premises GPU capacity and take on runaway AI costs with a jointly engineered system powered by NAI for private inference.\nAs AI requirements grow, the architecture is expected to  be able to scale GPU capacity to meet evolving requirements. Nutanix provides an AI cloud control plane and AI storage purpose-built to  support workloads with resilient operations and high-throughput data workflows. Customers are anticipated to gain a predictable path to deploy, manage, and scale AI inference workloads without assembling and integrating a complex, multivendor environment.\nNutanix and Netris: Making Multitenant AI Infrastructure Easier to Deploy and Operate\nFor NVIDIA Cloud Partner reference architectures, multitenancy is designed to extend across AI infrastructure, including the physical network.  In dynamic neocloud environments, operators also must be able to automate network access and ensure  tenant isolation as customers, workloads, and GPU allocations change.  Nutanix and Netris are collaborating to automate this network-layer multitenancy and turn complex GPU infrastructure into secure, cloud-like, multitenant AI services.\nNutanix will provide the foundation for compute across virtual machines, containers, CPUs, and GPUs, along with storage, security, Kubernetes, and Nutanix Agent Gateway, model-as-a-service and AI platform services. Netris will provide network automation, abstraction, and multitenancy across the physical network fabric, with hard isolation (enforced on networking hardware) from compute through the physical network. Together, the integrated solution will provide a cloud-like self-service operating experience across bare-metal and virtualised AI infrastructure, helping providers instantly onboard tenants and deliver AI services more efficiently.\nAnalyst Commentary\n“Nutanix built its enterprise business by simplifying virtualised infrastructure and more recently containerised workloads,\" said Don Gentile, Analyst, Data Platforms and Resiliency, HyperFRAME Research. \"Now it's extending that expertise to bare- metal AI systems, agent execution, private inference, and multitenant cloud services. Through innovation and targeted partnerships, Nutanix is advancing a common cloud operating model that enterprises and service providers have long wanted: consistent management, automation, and choice across increasingly diverse infrastructure.”\nEcosystem Commentary\n“AI agents need fast CPUs to execute code, use tools and process data between model calls,” said Hannah Coutand, Director of Product Marketing for Vera CPU at NVIDIA. “NVIDIA Vera is purpose-built for this work, and our collaboration with Nutanix will help enterprises bring high-performance agentic AI into production with a consistent cloud operating model.”\nCustomer Commentary\n“Digital and AI transformation is a fundamental pillar supporting the Kingdom’s ambitions to build cutting-edge, resilient, agile, and data-driven public services. Through our collaboration with Nutanix, we look forward to exploring how Nutanix’s platform for hybrid cloud computing across multiple environments can support the adoption of AI technologies and help develop national capabilities in advanced cloud and AI technologies.”\n– Ministry of Environment, Water and Agriculture (MEWA) - Kingdom of Saudi Arabia\nNoYesArtificial Intelligence21 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/artificial-intelligence/nutanix-builds-faster-foundation-production-ai",
+    "source": "Financial IT",
+    "tags": [
+      "Nutanix",
+      "NVIDIA",
+      "Supermicro",
+      "Netris"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T12:29:09.000Z",
+    "fetchedAt": "2026-10-21T14:43:52.061Z",
+    "isDuplicateOf": null,
+    "content": "Nutanix is collaborating with NVIDIA, Supermicro, and Netris to deliver new AI solutions designed to simplify production AI infrastructure. The initiative aims to help enterprises deploy AI workloads more efficiently, extend agentic AI to the CPU layer with NVIDIA Vera, reduce private inference costs with Supermicro, and automate network-layer multitenancy with Netris for secure, cloud-like AI services.",
+    "content_ta": "Production AI இன் கட்டமைப்பை எளிதாக்கும் வகையில், Nutanix நிறுவனம் NVIDIA, Supermicro மற்றும் Netris ஆகியவற்றுடன் இணைந்து புதிய AI தீர்வுகளை அறிவித்துள்ளது. நிறுவனங்கள் தங்கள் AI பணிகளை திறம்பட செயல்படுத்தவும், NVIDIA Vera CPU ஆதரவுடன் Agentic AI-ஐ விரிவுபடுத்தவும், Supermicro மூலம் தனியார் அனுமான செலவுகளைக் குறைக்கவும், Netris உடன் நெட்வொர்க் மல்டிடென்சியை தானியக்கமாக்கவும் இந்த ஒத்துழைப்பு உதவுகிறது.",
+    "slug": "nutanix-builds-a-faster-foundation-for-production-ai"
   }
 ]
