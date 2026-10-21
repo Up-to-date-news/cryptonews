@@ -1,815 +1,837 @@
 [
   {
-    "id": "9ee4b5546fd9abc3",
-    "title": "Nvidia CEO Jensen Huang urges countries to build their own sovereign AI",
-    "summary": "Countries developing sovereign AI could reduce reliance on foreign tech, but still depend on Nvidia, highlighting complex tech sovereignty.\nThe post Nvidia CEO Jensen Huang urges countries to build their own sovereign AI appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/nvidia-jensen-huang-sovereign-ai-countries/",
+    "id": "098ed0a6fe67551b",
+    "slug": "brookings-paper-says-ai-needs-trillions-in-annual-revenue-by-2032-to-pay-for-its-data-centers",
+    "title": "Brookings paper says AI needs trillions in annual revenue by 2032 to pay for its data centers",
+    "tags": [
+      "Brookings Institution"
+    ],
     "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T12:01:18.000Z"
+  },
+  {
+    "id": "74d681a2017e62d8",
+    "slug": "bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms",
+    "title": "Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms",
+    "tags": [
+      "Bitcoin",
+      "United States"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:55:08.000Z"
+  },
+  {
+    "id": "208a9a10ea871904",
+    "title": "Supermicro Brings NVIDIA Aerial RAN Computer Solutions to the Network Edge With Nokia to Enable Low-Latency AI Services",
+    "summary": "Super Micro Computer, Inc., an AI, Enterprise, Storage, and 5G/Edge Total IT Solution Provider featuring Data Center Building Block Solutions® (DCBBS), is now working with Nokia to deploy Artificial Intelligence-Radio Access Networks (AI-RAN) from distributed cell sites to centralized network hubs. The solution combines Nokia's RAN technology and network expertise with the NVIDIA Aerial RAN Computer platform, supported by Supermicro's AI-optimized infrastructure. By bringing accelerated compute closer to the access network, it enables radio and AI workloads to run on shared infrastructure, supporting applications which require proximity and predictable service levels-including voice AI, vision AI, physical AI, and internal uses such as autonomous network operations.\n\"AI-RAN is redefining networks for AI, turning mobile infrastructure into a shared foundation for connectivity, AI for RAN, AI on RAN, and broader distributed AI services,\" says Charles Liang, president and CEO, Supermicro. \"Together with Nokia and NVIDIA, we are bringing accelerated computing to every layer of the network, enabling operators to maximize infrastructure efficiency, deploy new AI services, and prepare for AI-native 6G. Our DCBBS approach delivers the flexibility and performance to accelerate deployment and turn network infrastructure into a platform for innovation.\" For more information on the latest AI-RAN solutions, click here.\nEmbedding accelerated compute into the RAN enables operators to run network and AI workloads on the same infrastructure, improving spectral efficiency, automating network operations, and optimizing energy use while creating new opportunities for edge AI services. Combining Supermicro systems with Nokia's RAN technology and software, the NVIDIA Aerial RAN Computer platform provides modular, right-sized CPU and GPU configurations for deployment from cell sites to MSO and aggregation locations, with NVIDIA ConnectX technology providing high-speed, software-defined networking. Together, these capabilities give operators a flexible foundation for low-latency AI applications today and a software-driven evolution path towards 6G networks.\n\"AI-RAN represents an important step towards more intelligent and adaptable mobile networks,\" said Emma Falck, President of Mobile Infrastructure at Nokia. \"By combining Nokia's leadership in radio networks with NVIDIA accelerated computing and Supermicro's flexible infrastructure, we are giving operators a practical way to bring RAN and AI workloads together across their networks. This will help operators improve network performance and automation today while creating a foundation for new edge AI services and AI-native 6G.\"\n\"AI-RAN brings together networking, accelerated computing, and intelligence to help operators make better use of their infrastructure while opening new opportunities for edge AI services,\" said Soma Velayutham, VP of Telecoms, NVIDIA. \"Nokia and Supermicro are helping operators deploy NVIDIA Aerial RAN Computer solutions across diverse network environments, from distributed cell sites to centralized RAN locations, with the flexibility to scale intelligence capabilities as demand grows.\"\nSupermicro's modular, right-sized systems for NVIDIA ARC span distributed cell sites, aggregation locations, and core hubs, enabling operators to precisely deploy AI capacity where it is needed.\nDistributed cell sites: The ARC MGX 2U Short-depth platform brings inference closer to radios, users, and applications. NVIDIA MGX is a modular reference architecture for accelerated computing, helping system builders design future-compatible systems faster, reducing costs, accelerating time to market, and improving ROI. Supermicro's dual-node ARC-Pro combines an NVIDIA Grace C1 CPU and NVIDIA RTX PRO 4500 Blackwell Server Edition GPU per node in a 429 mm chassis, delivering up to 1.6 PFLOPS of FP4 AI performance. For edge networking functions such as Service Management and Orchestration, the ARC-Compact delivers high efficiency compute performance in a 1U, short-depth form factor.\nCentralized MSO and aggregation sites: The ARC MGX 2U supports higher-throughput, coordinated inference. This system class comes with a choice between dual NVIDIA Vera CPUs or dual x86 processors and two NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs. These systems support multi-cell workloads, including coordinated scheduling and beamforming, as well as voice, vision, and physical AI.\nCore network hubs: The ARC MGX 4U provides high-density, air-cooled inference with up to eight NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs. Supermicro's 4U AI servers deliver dual x86 CPUs and up to 6 TB of DDR5 memory to support large-scale inference and model update workloads. This configuration comes with the option for an NVIDIA ConnectX-8 switchboard, providing PCIe Gen 6 for even faster GPU-GPU interconnectivity.\nSupermicro's servers for NVIDIA ARC are generally available now. The ARC MGX 2U with dual Vera processor is on display on Supermicro's booth at NVIDIA GTC Berlin, October 20–22, 2026, and will be available later this year. The 2U ARC-Pro is planned for customer testing later this year, with general availability in the first half of 2027.\nNoYesInfrastructure21 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/infrastructure/supermicro-brings-nvidia-aerial-ran-computer-solutions-network-edge-nokia-enable",
+    "source": "Financial IT",
+    "tags": [
+      "Supermicro",
+      "Nokia",
+      "NVIDIA"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T11:53:40.000Z",
+    "fetchedAt": "2026-10-21T12:01:41.707Z",
+    "isDuplicateOf": null,
+    "content": "Supermicro is collaborating with Nokia to deploy NVIDIA Aerial RAN Computer solutions at the network edge, enabling low-latency AI services. The partnership combines Nokia's RAN technology, NVIDIA's accelerated computing platform, and Supermicro's AI-optimized infrastructure. This integration allows operators to run network and AI workloads on shared infrastructure, improving spectral efficiency, automating operations, and paving the way for AI-native 6G networks.",
+    "content_ta": "Supermicro மற்றும் Nokia நிறுவனங்கள் இணைந்து network edge-ல் NVIDIA Aerial RAN Computer solutions-ஐ வழங்கி low-latency AI services-ஐ enable செய்யவுள்ளன. இந்த partnership மூலம் Nokia-வின் RAN technology, NVIDIA-வின் accelerated computing platform மற்றும் Supermicro-வின் AI-optimized infrastructure ஆகியவை ஒன்றிணைக்கப்படுகின்றன. இதனால் operators-கள் network மற்றும் AI workloads-ஐ shared infrastructure-ல் இயக்க முடியும்.",
+    "slug": "supermicro-brings-nvidia-aerial-ran-computer-solutions-to-the-network-edge-with-nokia-to-enable-low"
+  },
+  {
+    "id": "c8dfd830ab2f31c0",
+    "slug": "polymarket-reportedly-eyes-21b-valuation-as-investors-push-for-a-coo",
+    "title": "Polymarket reportedly eyes $21B valuation as investors push for a COO",
+    "tags": [
+      "Polymarket"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:52:38.000Z"
+  },
+  {
+    "id": "b1f3cb9ce67de403",
+    "slug": "trending-privacy-coins-xmr-vvv-and-pha-on-the-run-can-they-keep-pumping",
+    "title": "Trending Privacy Coins XMR, VVV, and PHA on the Run: Can They Keep Pumping?",
+    "tags": [
+      "XMR",
+      "VVV",
+      "PHA",
+      "Doctor Profit",
+      "Monero"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:51:52.000Z"
+  },
+  {
+    "id": "a5f343fa9ee35036",
+    "slug": "lido-s-proposed-exits-would-pay-lenders-with-borrower-collateral",
+    "title": "Lido’s proposed exits would pay lenders with borrower collateral",
+    "tags": [
+      "Lido",
+      "ETH"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:50:55.000Z"
+  },
+  {
+    "id": "30e9054372bf93e4",
+    "slug": "etherscan-connects-with-claude-ai-for-wallet-and-transaction-queries",
+    "title": "Etherscan connects with Claude AI for wallet and transaction queries",
+    "tags": [
+      "Etherscan",
+      "Claude AI"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:49:43.000Z"
+  },
+  {
+    "id": "213909cf75190673",
+    "title": "PPRO Launches Local Payments Council for Agentic Commerce",
+    "summary": "PPRO has today launched the Local Payments Council for Agentic Commerce alongside founding members BLIK, EPI, Bancontact Company, and DIAS, with other payment schemes committed to joining. The new industry initiative brings the local payments community together to align the rapidly developing agentic commerce ecosystem with how consumers prefer to pay across global markets.\nAgentic commerce is moving quickly from concept to reality, and the payments infrastructure underpinning it is still developing. Global card networks have introduced frameworks designed to enable trusted agent-led transactions. However, questions remain around how preferred local payment options will function when AI agents perform purchases rather than human shoppers.\nThe Local Payments Council for Agentic Commerce brings together payment schemes and relevant industry participants to shape the technical standards defining how local payment methods integrate into agentic protocols.\nAlexander Matthey, CTO at PPRO, said: “For agentic commerce to continue gaining momentum, consumers need to be able to use the local payment methods they already know and trust, even if an AI agent is purchasing on their behalf. This next phase of development needs to make sure the rules around how local payments work with agentic protocols are there from the outset, rather than treated as an additional layer later on. We are bringing payment schemes together to find practical solutions to technical challenges and ensure local payments play a key role in the development of agentic commerce.”\nThe council aims to focus on five key areas:\nOut-of-band authorisation and session hand-off\nAgent identity and attestation for non-card rails\nConsent, mandates, and delegated authority\nDisputes, refunds, and liability\nDiscoverability and agent-surface eligibility\nWith AI-referred shoppers converting nearly 50% more and recording 14% higher average order values than shoppers arriving from organic search, the council aims to ensure local payment methods are ready to work with AI platforms as commerce increasingly shifts to AI-driven experiences.\nNoYesPayments21 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/payments/ppro-launches-local-payments-council-agentic-commerce",
+    "source": "Financial IT",
+    "tags": [
+      "PPRO",
+      "BLIK",
+      "EPI",
+      "Bancontact Company",
+      "DIAS"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T11:49:30.000Z",
+    "fetchedAt": "2026-10-21T12:01:41.707Z",
+    "isDuplicateOf": null,
+    "content": "PPRO has launched the Local Payments Council for Agentic Commerce, alongside founding members including BLIK, EPI, Bancontact Company, and DIAS. The new industry initiative aims to integrate preferred local payment methods into the rapidly developing AI-driven agentic commerce ecosystem. The council will focus on technical standards, out-of-band authorisation, agent identity, delegated authority, and dispute management to ensure local payments function seamlessly as shopping shifts to AI platforms.",
+    "content_ta": "ஏஜென்டிக் காமர்ஸ் எனப்படும் செயற்கை நுண்ணறிவு அடிப்படையிலான வணிகத்திற்காக, BLIK, EPI, Bancontact Company மற்றும் DIAS ஆகிய நிறுவனங்களுடன் இணைந்து PPRO நிறுவனம் Local Payments Council for Agentic Commerce அமைப்பைத் தொடங்கியுள்ளது. AI தளங்கள் மூலம் நடைபெறும் வாடிக்கையாளர் வா்த்தகத்தில் உள்ளூர் கட்டண முறைகளை இணைப்பதற்கான தொழில்நுட்ப தரங்களை உருவாக்குவதை இந்த அமைப்பு நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "ppro-launches-local-payments-council-for-agentic-commerce"
+  },
+  {
+    "id": "99230d1839faeb8c",
+    "slug": "samsung-electro-mechanics-and-nvidia-partner-on-abf-substrates-for-ai-chips",
+    "title": "Samsung Electro-Mechanics and Nvidia partner on ABF substrates for AI chips",
+    "tags": [
+      "Samsung Electro-Mechanics",
+      "Nvidia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:48:51.000Z"
+  },
+  {
+    "id": "22a5b474e5f64c62",
+    "slug": "bank-bosses-under-pressure-to-implement-ai-ahead-of-time",
+    "title": "Bank bosses under pressure to implement AI ahead of time",
+    "tags": [
+      "UK",
+      "Ireland"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:48:00.000Z"
+  },
+  {
+    "id": "21df880463e14ed8",
+    "slug": "pennsylvania-house-cleaner-admits-forging-636-checks-to-drain-1-893-750-from-couple-s-pnc-bank",
+    "title": "Pennsylvania House Cleaner Admits Forging 636 Checks To Drain $1,893,750 From Couple’s PNC Bank Account",
+    "tags": [
+      "Pennsylvania",
+      "PNC Bank"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:45:48.000Z"
+  },
+  {
+    "id": "627223ee737f09a9",
+    "title": "McLaren Mastercard Formula 1 Team Designates Airwallex as Official AI Finance Partner From 2027 in Multi-Year Partnership Extension",
+    "summary": "Airwallex, a leading global financial platform for modern businesses, has become an Official AI Finance Partner of the McLaren Mastercard Formula 1 Team. Starting in January 2027, the partners will look to build faster, more efficient technology on and off the track, enabling the collection of payments from customers using a range of global and local payment methods.\nMcLaren Racing and Airwallex’s partnership has now been extended, after first launching together as technology partners in 2024. As part of its partnership, its brand presence will expand to feature Airwallex on the sleeve of the McLaren Mastercard Formula 1 Team kit, increasing the brand’s visibility across the race track throughout the season. Airwallex branding will remain on both Formula 1 cars in the Halo Rear Left position and on the drivers’ overalls.  \nThe change comes after Airwallex raised $320 million in Series H funding in June at an $11 billion valuation to accelerate the development of its next generation of AI-native financial software. This includes T:0, an AI-native platform designed to run a business’s finance function end to end, and Airi, an agentic consumer wallet being developed to support delegated payments, spending controls and multi-currency balances.\nLaura Bowden, Chief Financial Officer at McLaren Racing, said: “Partnering closely with Airwallex demonstrates our long-term commitment to investing in faster, more efficient technology. Airwallex is our first Official AI Finance Partner and we’re confident in their ability to help us run our financial operations faster and more efficiently.”\nPranav Sood, Chief Financial Officer at Airwallex, added: “Formula 1 is built on the pursuit of marginal gains, and that mindset has shaped our partnership with McLaren Racing. Over the past three seasons, we’ve shown how smarter financial infrastructure and AI-native technology can help global organisations move faster and operate with greater control across borders. As we become an Official AI Finance Partner of the McLaren Mastercard Formula 1 Team from 2027, we’re proud to support their business growth and deepen our relationship. This closely aligns with our broader strategy to help businesses move faster and more profitably than their competitors, and as we enter the Agentic Banking era, we’re focused on deploying intelligent AI capabilities across our unified stack with Agentic Business Accounts at the center.”\nAirwallex will continue to provide technology that supports McLaren’s digital partner merchandise platform, enabling the collection of payments from customers using a range of global and local payment methods.\nThis news follows three successful Formula 1 seasons of the partnership, through which Airwallex has supported McLaren’s global financial operations as it secured its 10th Constructors’ World Championship and as Lando Norris won the Drivers’ Championship in 2025. Last season also represented the sport’s highest TV viewing figures in five years, attracting a total cumulative audience of 1.83 billion, according to Nielsen - up almost 7% on 2024.\nAirwallex’s global sports partnership presence continues to move from strength to strength, becoming the Official Finance Software Partner for Arsenal Football Club in July 2025, supporting the club's global financial operations, and both the Official Jersey Patch Partner of the San Francisco Giants and the Official Business Finance Partner of New Zealand’s Super Rugby Club, the Blues, in February 2026.\nNoYesInfrastructure21 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/infrastructure/mclaren-mastercard-formula-1-team-designates-airwallex-official-ai-finance",
+    "source": "Financial IT",
+    "tags": [
+      "Airwallex",
+      "McLaren Racing"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T11:45:31.000Z",
+    "fetchedAt": "2026-10-21T12:01:41.707Z",
+    "isDuplicateOf": null,
+    "content": "Airwallex has become the Official AI Finance Partner of the McLaren Mastercard Formula 1 Team in a multi-year partnership extension starting in January 2027. Building on their collaboration since 2024, Airwallex will provide advanced AI-native financial software and payment technology to support McLaren's global operations, with expanded brand visibility featured prominently on the team's kit and cars.",
+    "content_ta": "2027 ஜனவரி முதல் பல ஆண்டு கால கூட்டாண் extensión கீழ், McLaren Mastercard Formula 1 Team-ன் அதிகாரப்பூர்வ AI ஃபைனான்ஸ் பார்ட்னராக Airwallex நியமிக்கப்பட்டுள்ளது. 2024 முதல் தொடங்கிய இவர்களது கூட்டுறவின் அடிப்படையில், McLaren-ன் உலகளாவிய நிதி செயல்பாடுகளை ஆதரிக்க மேம்பட்ட AI-சார்ந்த மென்பொருள் மற்றும் கட்டண தொழில்நுட்பத்தை Airwallex வழங்கும்.",
+    "slug": "mclaren-mastercard-formula-1-team-designates-airwallex-as-official-ai-finance-partner-from-2027-in"
+  },
+  {
+    "id": "3542bd1a6f8648d4",
+    "slug": "stellar-s-bell-upgrade-targets-post-quantum-security-why-it-matters-for-xlm",
+    "title": "Stellar’s Bell upgrade targets post-quantum security – Why it matters for XLM",
+    "tags": [
+      "Stellar",
+      "XLM"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:45:27.000Z"
+  },
+  {
+    "id": "c1457f83c02fff12",
+    "slug": "hewlett-packard-enterprise-teams-with-nvidia-to-enhance-secure-ai-deployment",
+    "title": "Hewlett Packard Enterprise teams with Nvidia to enhance secure AI deployment",
+    "tags": [
+      "Hewlett Packard Enterprise",
+      "Nvidia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:44:15.000Z"
+  },
+  {
+    "id": "a60f0b412f604921",
+    "slug": "mistral-and-nvidia-team-up-to-bring-ai-into-engineering-simulation",
+    "title": "Mistral and Nvidia team up to bring AI into engineering simulation",
+    "tags": [
+      "Mistral",
+      "Nvidia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:41:40.000Z"
+  },
+  {
+    "id": "9f7e5c310455be0a",
+    "slug": "elevate-edge-launches-as-fintech-advisory-firm",
+    "title": "Elevate Edge launches as fintech advisory firm",
+    "tags": [
+      "Elevate Edge"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:39:00.000Z"
+  },
+  {
+    "id": "816a0583e15c7cd4",
+    "slug": "why-b2b-payments-are-a-whole-journey-problem-ft-trevipay",
+    "title": "Why B2B payments are a whole-journey problem ft. TreviPay",
+    "tags": [
+      "TreviPay",
+      "Allen Bonde"
+    ],
+    "source": "Tearsheet",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:30:00.000Z"
+  },
+  {
+    "id": "27c92562c3783ba9",
+    "slug": "reshaping-regulation-deliberately",
+    "title": "Reshaping regulation, deliberately",
+    "tags": [],
+    "source": "Crowdfund Insider",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:24:13.000Z"
+  },
+  {
+    "id": "6e6ccb3d9105c9ef",
+    "slug": "bitcoin-is-back-near-83-000-here-s-how-to-assess-its-support",
+    "title": "Bitcoin is back near $83,000. Here’s how to assess its support",
+    "tags": [
+      "Bitcoin",
+      "Glassnode",
+      "Federal Reserve"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:20:29.000Z"
+  },
+  {
+    "id": "f7c2ded97a7b721d",
+    "slug": "mentality-issue-playstation-founder-waves-away-disc-ownership-anger",
+    "title": "'Mentality Issue': PlayStation Founder Waves Away Disc Ownership Anger",
+    "tags": [
+      "PlayStation",
+      "Sony"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:19:34.000Z"
+  },
+  {
+    "id": "90fd9df7e57db074",
+    "slug": "arizona-democrats-target-trump-to-flip-gop-seats-retain-governor-s-mansion",
+    "title": "Arizona Democrats target Trump to flip GOP seats, retain governor’s mansion",
+    "tags": [
+      "Arizona",
+      "Donald Trump",
+      "Democratic Party",
+      "Republican Party"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:17:34.000Z"
+  },
+  {
+    "id": "66d0761c58b2cb0e",
+    "title": "David Jenkins Joins Griffin as Chief Financial Officer",
+    "summary": "Griffin, the UK bank for fintechs and platforms, has appointed David Jenkins as Chief Financial Officer. David will lead Griffin’s finance function as the bank enters its next phase of growth, with responsibility for financial strategy, treasury, capital and liquidity, and financial planning.\nDavid brings nearly three decades of experience across banking and financial services. He joins from Vemi Money, where as CFO and executive director he built their financial operations and risk management function, covering hiring, technology, treasury strategy, and governance. Before that, he served as CFO of Recognise Bank and AIM-listed City of London Group, where he built a function spanning treasury, regulatory reporting, financial control, and FP&A, and led capital raises of more than £40 million.\nEarlier in his career, David spent six years at Aldermore, where he co-managed the bank’s IPO and FTSE 250 listing in 2015 and built the capital allocation, planning, and reporting framework that supported its rapid growth. He has also held senior finance roles at Lloyds Banking Group, Prudential UK, ABN AMRO, and Credit Suisse, and began his career in audit at Deloitte and PwC.\n“Griffin has built something rare: a bank that fintechs and platforms can build on, bringing the discipline and strength of a regulated institution with the speed of a technology company. I’ve spent my career helping banks at different stages of growth and I’m excited to bring that experience to a team with this much ambition.” - David Jenkins, Chief Financial Officer, Griffin\nAt Griffin, David will work closely with CEO and co-founder David Jarvis and the executive team to scale the bank and strengthen its financial foundations.\n“David has helped banks grow, raise capital, and scale. He combines financial rigour with a commercial mindset. As Griffin enters its next chapter, we need a CFO who can be a growth partner to the whole business. We’re delighted to have him here.” - David Jarvis, CEO and co-founder, Griffin\nNoYesPeople Moves21 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/people-moves/david-jenkins-joins-griffin-chief-financial-officer",
+    "source": "Financial IT",
+    "tags": [
+      "Griffin",
+      "David Jenkins",
+      "Vemi Money",
+      "Recognise Bank",
+      "Aldermore"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T11:15:08.000Z",
+    "fetchedAt": "2026-10-21T12:01:41.707Z",
+    "isDuplicateOf": null,
+    "content": "UK bank Griffin has appointed David Jenkins as its new Chief Financial Officer. Jenkins brings nearly three decades of experience in the banking and financial services sector, having previously held senior finance roles at Vemi Money, Recognise Bank, and Aldermore. In his new role, he will lead Griffin's finance function, overseeing financial strategy, treasury, and capital as the company enters its next phase of growth.",
+    "content_ta": "UK-வைச் சேர்ந்த Griffin வங்கி, தனது புதிய Chief Financial Officer-ஆக David Jenkins-ஐ நியமித்துள்ளது. வங்கி மற்றும் நிதி சேதைத் துறையில் கிட்டத்தட்ட மூன்று தசாப்த கால அனுபவத்தைக் கொண்டுள்ள Jenkins, இதற்கு முன்பு Vemi Money, Recognise Bank மற்றும் Aldermore உள்ளிட்ட நிறுவனங்களில் முக்கிய நிதிப் பதவிகளை வகித்துள்ளார். புதிய பொறுப்பில், நிறுவனத்தின் நிதி உத்தி, கருவூலம் மற்றும் மூலதனப் பணிகளை அவர் கவனிப்பார்.",
+    "slug": "david-jenkins-joins-griffin-as-chief-financial-officer"
+  },
+  {
+    "id": "cf3f7c1daf3d4a88",
+    "slug": "blacksmith-hits-1-billion-valuation-after-66-million-series-c-led-by-sequoia",
+    "title": "Blacksmith hits $1 billion valuation after $66 million Series C led by Sequoia",
+    "tags": [
+      "Blacksmith",
+      "Sequoia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:12:58.000Z"
+  },
+  {
+    "id": "0e49e9baba61c51f",
+    "title": "Just 9% of Multinationals Fully Complete Companies House ID Checks",
+    "summary": "Multinational businesses with UK entities risk falling short on Companies House identity verification and have significant gaps still to close as the 12-month transition period nears its end, according to new research from Vistra, a leading provider of essential business services.\nVistra surveyed 300 directors at multinational businesses with a UK presence, including 50 UK-based directors. While 84% said their organisation was prepared for the new identity verification requirements, the average proportion of relevant directors and persons with significant control (PSCs) who had completed verification stood at just 61%, and only 9% reported full completion.\nThe findings come as the 12-month transition period, which began when mandatory identity verification was introduced on 18 November 2025, nears its end. Existing directors must provide their personal code with their company’s next confirmation statement, while existing PSCs have individual verification periods based on their circumstances. The research also follows the first court action for identity verification offences, with three directors fined in September following prosecutions brought by the Insolvency Service.\nMany businesses have also yet to complete some of the key practical steps required for verification, with only 26% saying they had checked that Companies House records for directors and PSCs were accurate. Meanwhile, just 20% had identified all directors and PSCs requiring verification and 22% had obtained and recorded the necessary Companies House personal codes.\nThe picture is particularly pronounced among UK-based respondents. While 86% said their organisation was prepared, none said all relevant directors and PSCs had completed verification. On average, UK respondents estimated that 60% had completed the process, with only 14% at least three-quarters of the way through.\nCross-border structures are adding to the challenge, with more than three-quarters (76%) saying verifying directors and PSCs based outside the UK had created additional compliance complexity. Among respondents with directors or PSCs based outside the UK, coordinating people across different jurisdictions and time zones was the most commonly cited barrier (27%), followed by differences in identity documentation and data protection or information-sharing concerns (both 24%).\nThe process is also uncovering issues in the corporate information businesses hold. Almost three in ten respondents found discrepancies between Companies House and internal records (30%), missing supporting documentation (29%), out-of-date director information (29%) or incorrect or incomplete PSC and ownership information (29%). Only 1% said their review had uncovered no issues.\nThe wider ECCTA reforms are also adding to the time businesses spend managing their UK entities. Two-thirds (66%) of respondents said recent corporate transparency, identity verification and corporate liability requirements had added at least 10 working hours a month, with an average increase of 13.9 hours. Among UK-based respondents, the average rises to 17.3 hours a month, equivalent to almost 26 eight-hour working days a year.\nMeg Ogunsola, Global Head of Entity Management at Vistra, commented: “There is a clear gap between how prepared businesses feel and how much of the practical work has actually been completed. For multinationals, this challenge is magnified by having directors, PSCs and corporate information spread across multiple jurisdictions.\n“These reforms are an important step towards improving corporate transparency, but they are also creating additional work for businesses. The findings show why having accurate entity data, clear ownership of the process and visibility over individual verification requirements is so important. As the transition period nears its end, businesses should be clear on who still needs to verify, their individual due dates and whether the information supporting that process is accurate and complete.”\nThe research also found significant differences in preparedness and implementation between markets:\nUS: Reported the highest preparedness at 94%, despite having the lowest average completion level at 55%.\nEU: Reported the highest average completion level at 73%, with 34% saying all relevant directors and PSCs had completed verification.\nMiddle East: Reported the greatest cross-border complexity, with 88% saying verification of directors and PSCs based outside the UK had created additional compliance complexity.\nAPAC: Recorded the lowest preparedness at 72%.\nUK: Reported the highest additional administrative impact, at an average of 17.3 hours a month.\nNoYesDigital Identity21 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/digital-identity/just-9-multinationals-fully-complete-companies-house-id-checks",
+    "source": "Financial IT",
+    "tags": [
+      "Companies House",
+      "Vistra",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-21T11:12:33.000Z",
+    "fetchedAt": "2026-10-21T12:01:41.707Z",
+    "isDuplicateOf": null,
+    "content": "New research from Vistra reveals that only 9% of multinational businesses with UK entities have fully completed Companies House identity verification as the 12-month transition period nears its end. While many organisations claim to be prepared, significant practical gaps remain, particularly for directors and persons with significant control based outside the UK. Cross-border structures, documentation discrepancies, and compliance complexities are adding substantial administrative burdens for companies operating in the UK.",
+    "content_ta": "Companies House அடையாள சரிபார்ப்பு நடவடிக்கையை முழுமையாக நிறைவு செய்துள்ள பன்னாட்டு நிறுவனங்கள் வெறும் 9% மட்டுமே என்று Vistra-வின் புதிய ஆய்வு தெரிவிக்கிறது. 12 மாத கால அவகாசம் முடிவடையும் தருவாயில் உள்ள நிலையில், பல நிறுவனங்கள் இன்னும் நடைமுறைச் சிக்கல்களை எதிர்கொள்கின்றன. குறிப்பாக, பிரிட்டனுக்கு வெளியே உள்ள இயக்குநர்களை ஒருங்கிணைப்பதிலும் ஆவணங்களைச் சரிபார்ப்பதிலும் சிக்கல்கள் நீடிப்பதாக இந்த ஆய்வு சுட்டிக்காட்டுகிறது.",
+    "slug": "just-9-of-multinationals-fully-complete-companies-house-id-checks"
+  },
+  {
+    "id": "303e3f1dfb22c657",
+    "slug": "infineon-partners-with-nvidia-on-power-conversion-for-ai-data-centers",
+    "title": "Infineon partners with Nvidia on power conversion for AI data centers",
+    "tags": [
+      "Infineon",
+      "Nvidia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:06:53.000Z"
+  },
+  {
+    "id": "fb98debb943bcf85",
+    "slug": "cardano-whales-stay-quiet-as-ada-s-chart-flashes-a-sell-signal",
+    "title": "Cardano Whales Stay Quiet as ADA’s Chart Flashes a Sell Signal",
+    "tags": [
+      "Cardano"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:05:28.000Z"
+  },
+  {
+    "id": "fba51b2d078976a0",
+    "slug": "india-s-largest-bank-hit-by-cyberattack",
+    "title": "India's largest bank hit by cyberattack",
+    "tags": [
+      "State Bank of India",
+      "India"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:04:00.000Z"
+  },
+  {
+    "id": "09077219b12b9473",
+    "slug": "bitmine-boosts-ethereum-holdings-to-6-04m-eth-amid-market-volatility",
+    "title": "Bitmine boosts Ethereum holdings to 6.04M ETH amid market volatility",
+    "tags": [
+      "Bitmine",
+      "Ethereum"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:02:11.000Z"
+  },
+  {
+    "id": "8a049b129c308a6d",
+    "slug": "bitgo-launches-innovation-unit-to-design-crypto-s-next-breakout-application",
+    "title": "BitGo launches innovation unit to design crypto’s next breakout application",
+    "tags": [
+      "BitGo",
+      "BitGo Labs"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T11:00:00.000Z"
+  },
+  {
+    "id": "1dd98183b4e518c7",
+    "slug": "probly-wraps-up-token2049-singapore-and-whale3ra-strengthening-its-presence-in-on-chain-prediction",
+    "title": "Probly Wraps Up TOKEN2049 Singapore and WHALE3RA, Strengthening Its Presence in On-Chain Prediction Markets",
+    "tags": [
+      "Probly",
+      "TOKEN2049",
+      "Singapore",
+      "TxFlow",
+      "BloFin"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:59:58.000Z"
+  },
+  {
+    "id": "24a23387f8d22066",
+    "slug": "speculative-data-center-debt-sold-to-institutions-echoing-subprime-crisis-afr",
+    "title": "Speculative data center debt sold to institutions, echoing subprime crisis: AFR",
+    "tags": [
+      "AFR",
+      "Crypto Briefing"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:59:21.000Z"
+  },
+  {
+    "id": "801f7eb1db3363c9",
+    "slug": "oracle-launches-ai-agent-studio-for-industry-applications",
+    "title": "Oracle launches AI Agent Studio for industry applications",
+    "tags": [
+      "Oracle"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:58:53.000Z"
+  },
+  {
+    "id": "fff381271d222b1b",
+    "slug": "inside-amd-and-anthropic-s-chips-for-shares-deal",
+    "title": "Inside AMD and Anthropic’s ‘chips for shares’ deal",
+    "tags": [
+      "AMD",
+      "Anthropic"
+    ],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:52:06.000Z"
+  },
+  {
+    "id": "a5819ce5d4ea8e7e",
+    "slug": "eric-schmidt-s-anthropic-stake-is-reportedly-half-the-size-of-ceo-dario-amodei-s",
+    "title": "Eric Schmidt’s Anthropic stake is reportedly half the size of CEO Dario Amodei’s",
+    "tags": [
+      "Eric Schmidt",
+      "Anthropic",
+      "Dario Amodei",
+      "Google"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:51:32.000Z"
+  },
+  {
+    "id": "0b93d128274e8339",
+    "slug": "pancakeswap-tvl-tops-380m-as-major-fee-overhaul-heads-to-vote",
+    "title": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote",
+    "tags": [
+      "PancakeSwap",
+      "CAKE",
+      "BNB Chain"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:50:52.000Z"
+  },
+  {
+    "id": "ee327954f3390a66",
+    "slug": "france-proposes-liability-for-crypto-exchanges-offering-defi-access",
+    "title": "France proposes liability for crypto exchanges offering DeFi access",
+    "tags": [
+      "France"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:46:00.000Z"
+  },
+  {
+    "id": "6c110591efc35354",
+    "slug": "nvidia-targets-high-volume-kyec-production-for-april-2027",
+    "title": "Nvidia targets high-volume KYEC production for April 2027",
+    "tags": [
+      "Nvidia",
+      "KYEC"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:44:33.000Z"
+  },
+  {
+    "id": "c15243d6313079c6",
+    "slug": "nvidia-and-spil-plan-to-expand-optical-engine-capacity-in-taiwan",
+    "title": "Nvidia and SPIL plan to expand optical engine capacity in Taiwan",
+    "tags": [
+      "Nvidia",
+      "SPIL",
+      "Taiwan"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:43:57.000Z"
+  },
+  {
+    "id": "b08c0b8910ba92c4",
+    "slug": "nvidia-and-amkor-plan-over-300-jump-in-advanced-packaging-capacity",
+    "title": "Nvidia and Amkor plan over 300% jump in advanced packaging capacity",
+    "tags": [
+      "Nvidia",
+      "Amkor"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:41:52.000Z"
+  },
+  {
+    "id": "0a5b1c3f06dd5090",
+    "slug": "singapore-s-sea-plans-ipo-for-fintech-arm-monee",
+    "title": "Singapore's Sea plans IPO for fintech arm Monee",
+    "tags": [
+      "Sea",
+      "Monee",
+      "Singapore Stock Exchange",
+      "Singapore"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:40:00.000Z"
+  },
+  {
+    "id": "6c9f1cee3b59f1cf",
+    "slug": "bitcoin-top-buyers-halt-btc-price-upside-with-87-7k-now-key-glassnode",
+    "title": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
+    "tags": [
+      "Bitcoin",
+      "Glassnode"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:39:13.000Z"
+  },
+  {
+    "id": "3c294e3606469f66",
+    "slug": "coherence-s-cancer-sensing-brain-implant-lands-in-ai-s-brain-data-boom",
+    "title": "Coherence’s cancer-sensing brain implant lands in AI’s brain data boom",
+    "tags": [
+      "Coherence"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:34:57.000Z"
+  },
+  {
+    "id": "005303216cb5be63",
+    "slug": "crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date",
+    "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
+    "tags": [
+      "Bitcoin",
+      "Zcash",
+      "SpaceX",
+      "Tesla"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:34:37.000Z"
+  },
+  {
+    "id": "81674b2dda4150f5",
+    "slug": "live-updates-bitcoin-clings-to-82-500-as-spacex-results-lift-stock-futures",
+    "title": "Live updates: Bitcoin clings to $82,500 as SpaceX results lift stock futures",
+    "tags": [
+      "Bitcoin",
+      "SpaceX",
+      "XS.com"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:30:40.000Z"
+  },
+  {
+    "id": "33eb53cd53b2b794",
+    "slug": "jupiter-jup-price-prediction-2026-2027-2030-can-jup-hit-10-by-2030",
+    "title": "Jupiter (JUP) Price Prediction 2026, 2027 – 2030: Can JUP Hit $10 by 2030?",
+    "tags": [
+      "Jupiter",
+      "Solana"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:30:00.000Z"
+  },
+  {
+    "id": "43ad2388ebb03a85",
+    "slug": "uk-banks-hit-with-10-000-complaints-over-blocked-crypto-transfers-in-90-days-report",
+    "title": "UK Banks Hit With 10,000 Complaints Over Blocked Crypto Transfers in 90 Days: Report",
+    "tags": [
+      "United Kingdom",
+      "Stand With Crypto"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:29:41.000Z"
+  },
+  {
+    "id": "33a38871af70ce65",
+    "slug": "former-chief-executive-banned-after-misconduct-led-to-4m-losses-in-high-risk-investments",
+    "title": "Former chief executive banned after misconduct led to £4m losses in high-risk investments",
+    "tags": [
+      "Vector Wealth",
+      "FCA"
+    ],
+    "source": "Crowdfund Insider",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:22:57.000Z"
+  },
+  {
+    "id": "70c3c2c3cf44d4c6",
+    "slug": "shinhan-sbi-make-japan-korea-tourist-spending-a-test-case-for-yen-stablecoins",
+    "title": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins",
+    "tags": [
+      "Shinhan",
+      "SBI",
+      "South Korea",
+      "Japan"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:22:44.000Z"
+  },
+  {
+    "id": "3baf27575fabab3b",
+    "slug": "edfapay-and-gopravo-launch-sdpay-in-sudan",
+    "title": "EdfaPay and GoPravo launch SDPay in Sudan",
+    "tags": [
+      "EdfaPay",
+      "GoPravo",
+      "SDPay",
+      "Sudan"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:16:00.000Z"
+  },
+  {
+    "id": "eedbfd9780b41127",
+    "slug": "doctor-profit-warns-of-a-very-big-monero-xmr-liquidation-event",
+    "title": "Doctor Profit Warns of a Very Big Monero (XMR) Liquidation Event",
+    "tags": [
+      "Monero",
+      "CoinGlass",
+      "Doctor Profit"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:11:38.000Z"
+  },
+  {
+    "id": "36bf8afad5ddf81b",
+    "slug": "ebury-adds-escrow-and-paying-agent-capabilities",
+    "title": "Ebury adds escrow and paying agent capabilities",
+    "tags": [
+      "Ebury",
+      "Ebury Institutional"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:11:00.000Z"
+  },
+  {
+    "id": "9750e75ff6248ba1",
+    "slug": "pearl-crypto-price-explodes-coinbase-buzz-fuels-mystery-rally",
+    "title": "Pearl Crypto Price Explodes: Coinbase Buzz Fuels Mystery Rally",
+    "tags": [
+      "Pearl Crypto",
+      "Coinbase",
+      "PEARL"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:06:33.000Z"
+  },
+  {
+    "id": "f16f9c1fa55bd263",
+    "slug": "board-intelligence-launches-iq-entities",
+    "title": "Board Intelligence launches IQ Entities",
+    "tags": [
+      "Board Intelligence",
+      "IQ Entities"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:05:00.000Z"
+  },
+  {
+    "id": "cf9a18e1914351fa",
+    "slug": "is-bitcoin-on-the-verge-of-a-deeper-correction-the-s-p-500-may-hold-the-answer",
+    "title": "Is Bitcoin on the Verge of a Deeper Correction? The S&P 500 May Hold the Answer",
+    "tags": [
+      "Bitcoin",
+      "CryptoQuant",
+      "S&P 500"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:00:00.000Z"
+  },
+  {
+    "id": "13d61d79f3d2890d",
+    "slug": "bitget-advances-institutional-rwa-strategy-super-match-liquidity-framework",
+    "title": "Bitget Advances Institutional RWA Strategy Super Match Liquidity Framework",
+    "tags": [
+      "Bitget"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T10:00:00.000Z"
+  },
+  {
+    "id": "a61000a0c80556b7",
+    "slug": "moonpay-and-dunamu-collaborate-on-digital-asset-infrastructure",
+    "title": "MoonPay and Dunamu collaborate on digital asset infrastructure",
+    "tags": [
+      "MoonPay",
+      "Dunamu"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T09:54:00.000Z"
+  },
+  {
+    "id": "48713412b8f7f7b2",
+    "slug": "spacex-s-194-billion-share-unlock-exposes-a-major-risk-in-aave-s-tokenized-stock-ambitions",
+    "title": "SpaceX’s $194 billion share unlock exposes a major risk in Aave’s tokenized stock ambitions",
+    "tags": [
+      "SpaceX",
+      "Aave",
+      "LlamaRisk",
+      "Base"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-21T09:50:35.000Z"
+  },
+  {
+    "id": "9ee4b5546fd9abc3",
+    "slug": "nvidia-ceo-jensen-huang-urges-countries-to-build-their-own-sovereign-ai",
+    "title": "Nvidia CEO Jensen Huang urges countries to build their own sovereign AI",
     "tags": [
       "Nvidia",
       "Jensen Huang"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-21T09:20:16.000Z",
-    "fetchedAt": "2026-10-21T09:43:25.767Z",
-    "isDuplicateOf": null,
-    "content": "Nvidia CEO Jensen Huang has encouraged countries to develop their own sovereign artificial intelligence. By building domestic AI infrastructure, nations can reduce their reliance on foreign technology. However, critics note that these countries will likely still depend heavily on Nvidia for the necessary hardware, highlighting the ongoing complexities surrounding global technological independence.",
-    "content_ta": "Nvidia CEO Jensen Huang நாடுகits சொந்த sovereign AI-ஐ உருவாக்க வேண்டும் என்று வலியுறுத்தியுள்ளார். உள்நாட்டு AI உள்கட்டமைப்பை உருவாக்குவதன் மூலம் வெளிநாட்டு தொழில்நுட்பத்தைச் சார்ந்திருப்பதை நாடுகள் குறைக்க முடியும். இருப்பினும், தேவையான வன்பொருளுக்காக இந்த நாடுகள் தொடர்ந்து Nvidia-ஐச் சார்ந்திருக்க வேண்டியிருக்கும் என்பதை இது காட்டுகிறது.",
-    "slug": "nvidia-ceo-jensen-huang-urges-countries-to-build-their-own-sovereign-ai"
+    "hasContent": true,
+    "pubDate": "2026-10-21T09:20:16.000Z"
   },
   {
     "id": "8c6a542b07d3b85f",
+    "slug": "google-s-gemini-4-argon-processes-nearly-25-trillion-tokens-in-its-first-72-hours",
     "title": "Google’s Gemini 4 Argon processes nearly 25 trillion tokens in its first 72 hours",
-    "summary": "Google's Gemini 4 Argon's rapid adoption highlights potential scalability challenges, impacting Google's ability to meet growing AI demand.\nThe post Google’s Gemini 4 Argon processes nearly 25 trillion tokens in its first 72 hours appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/google-gemini-4-argon-25-trillion-tokens/",
-    "source": "CryptoBriefing",
     "tags": [
       "Google"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-21T09:17:38.000Z",
-    "fetchedAt": "2026-10-21T09:43:25.767Z",
-    "isDuplicateOf": null,
-    "content": "Google’s Gemini 4 Argon has processed nearly 25 trillion tokens within its first 72 hours of launch. This rapid adoption showcases massive user interest while also highlighting potential scalability challenges for Google as the company works to meet the continuously growing global demand for advanced artificial intelligence services.",
-    "content_ta": "Google-ன் Gemini 4 Argon தனது வெளியீட்டின் முதல் 72 மணி நேரத்திற்குள் கிட்டத்தட்ட 25 டிரில்லியன் டோக்கன்களை செயலாக்கியுள்ளது. இந்த விரைவான பயன்பாடு மிகப்பெரிய பயனர்களின் ஆர்வத்தைக் காட்டுவதுடன், வளர்ந்து வரும் AI தேவையைப் பூர்த்தி செய்ய Google எதிர்கொள்ளக்கூடிய அளவிடுதல் சவால்களையும் வெளிச்சம் போட்டுக் காட்டுகிறது.",
-    "slug": "google-s-gemini-4-argon-processes-nearly-25-trillion-tokens-in-its-first-72-hours"
+    "hasContent": true,
+    "pubDate": "2026-10-21T09:17:38.000Z"
   },
   {
     "id": "80dc61d041af38fd",
+    "slug": "illinois-laboratory-owner-charged-in-66-000-000-covid-19-testing-fraud-scheme-faces-decades-behind",
     "title": "Illinois Laboratory Owner Charged in $66,000,000 COVID-19 Testing Fraud Scheme, Faces Decades Behind Bars",
-    "summary": "Federal prosecutors have charged an Illinois laboratory owner with running a large-scale scheme to submit claims for COVID-19 tests that were never performed. Rajesh “Raj” Patel, 52, of Schaumburg, faces five counts of wire fraud after the laboratory allegedly billed the U.S. Health Resources and Services Administration (HRSA) Uninsured Program for at least 380,000 nonexistent […]\nThe post Illinois Laboratory Owner Charged in $66,000,000 COVID-19 Testing Fraud Scheme, Faces Decades Behind Bars appeared first on The Daily Hodl.",
-    "hasSummary": true,
-    "link": "https://dailyhodl.com/2026/10/21/illinois-laboratory-owner-charged-in-66000000-covid-19-testing-fraud-scheme-faces-decades-behind-bars/",
-    "source": "The Daily Hodl",
     "tags": [
       "Rajesh “Raj” Patel",
       "U.S. Health Resources and Services Administration",
       "Illinois",
       "United States"
     ],
-    "origin": "rss",
-    "pubDate": "2026-10-21T09:15:14.000Z",
-    "fetchedAt": "2026-10-21T09:43:25.767Z",
-    "isDuplicateOf": null,
-    "content": "An Illinois laboratory owner has been charged by federal prosecutors in a massive COVID-19 testing fraud scheme. Rajesh “Raj” Patel, 52, allegedly billed the U.S. Health Resources and Services Administration for tens of millions of dollars covering hundreds of thousands of nonexistent tests. Patel now faces multiple counts of wire fraud and decades in prison if convicted.",
-    "content_ta": "Illinois-ஐ சேர்ந்த லேப் ஒன்றின் உரிமையாளர் மீது கோடிக்கணக்கான டாலர் மதிப்பிலான COVID-19 பரிசோதனை மோசடி வழக்கில் மத்திய அரசு வழக்குப்பதிவு செய்துள்ளது. Schaumburg-ஐ சேர்ந்த Rajesh “Raj” Patel, எந்தவித பரிசோதனைகளும் செய்யாமல் U.S. Health Resources and Services Administration அமைப்புக்கு போலியான பில்களை சமர்ப்பித்ததாக குற்றம் சாட்டப்பட்டுள்ளது. இதன் மூலம் அவர் பல ஆண்டுகள் சிறைத்தண்டனையை எதிர்கொள்ள நேரிடும்.",
-    "slug": "illinois-laboratory-owner-charged-in-66-000-000-covid-19-testing-fraud-scheme-faces-decades-behind"
-  },
-  {
-    "id": "5ed9c561b38bf531",
-    "title": "ZEC Skyrockets by 13% in 24 Hours, BTC Price Reclaims $83K: Market Watch",
-    "summary": "The other notable gainers today include NEAR, PYTH, ENA, KAS, and more.",
-    "hasSummary": true,
-    "link": "https://cryptopotato.com/zec-skyrockets-by-13-in-24-hours-btc-price-reclaims-83k-market-watch/",
-    "source": "CryptoPotato",
-    "tags": [
-      "ZEC",
-      "Bitcoin",
-      "NEAR",
-      "PYTH",
-      "ENA",
-      "KAS"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-10-21T09:07:40.000Z",
-    "fetchedAt": "2026-10-21T09:43:25.767Z",
-    "isDuplicateOf": null,
-    "content": "The cryptocurrency market experienced notable gains as ZEC skyrocketed by 13 percent within a 24-hour period. Meanwhile, the BTC price successfully reclaimed the $83,000 level during the latest market watch. Other notable gainers in the digital asset market today included NEAR, PYTH, ENA, and KAS, reflecting broad upward momentum across various altcoins alongside the leading cryptocurrency.",
-    "content_ta": "கிரிப்டோகரன்சி சந்தையில் ZEC கடந்த 24 மணி நேரத்தில் 13 சதவீதம் வரை உயர்ந்துள்ளது. இதற்கிடையில், சமீபத்திய சந்தை நிலவரப்படி BTC விலை மீண்டும் $83,000 மதிப்பை எட்டியுள்ளது. இன்றைய சந்தையில் NEAR, PYTH, ENA மற்றும் KAS போன்ற பிற முக்கிய நாணயங்களும் குறிப்பிடத்தக்க லாபத்தைப் பெற்றுள்ளன.",
-    "slug": "zec-skyrockets-by-13-in-24-hours-btc-price-reclaims-83k-market-watch"
-  },
-  {
-    "id": "b4fa145359f66c6d",
-    "title": "Moneyhub and Know Your Dosh Bring Open Banking to Family Financial Planning",
-    "summary": "Moneyhub, the leading Applied AI and data intelligence platform for financial institutions, today announced that Know Your Dosh, a UK family financial management app, has selected its technology. The partnership will let Know Your Dosh users automatically sync accounts across a household, including current accounts, savings, investments and pensions. This gives families a single, shared view of their finances without the friction of manual updates or the risk of sharing login credentials. Once connected, a full insights suite is unlocked, including a feature that details a families’ true household budget. \nKnow Your Dosh is built around a simple truth.  Financial transparency within a family is rare, financial admin is a headache, and money conversations can feel even harder.  It is designed for households managing shared financial lives across different accounts, life stages, and generations, and since going live with Moneyhub tracks more than £200 million in assets through its dashboard. Until now, keeping track of those assets has required manual input. A barrier that stops many families from engaging with their finances altogether.  \nBy integrating Moneyhub's FCA-regulated infrastructure, Know Your Dosh removes that barrier entirely. Accounts update automatically through direct, secure connections. No manual reconciliation is required. Families can instead focus on  what they have, what they owe, and what they are planning for. \nThe platform allows users to set granular controls over what each family member can see, so a household can share a consolidated financial picture without every individual having full visibility of every account. A partner can track joint finances without accessing the other's personal savings, or a parent can oversee household budgets without a teenager seeing the full picture. \nThe partnership arrives at a moment of growing urgency around household financial visibility, with the total value of dormant and forgotten assets held by UK families estimated to be at £89 billion. Moneyhub's data aggregation capability is designed to address precisely this problem, ensuring nothing important gets lost, and no account falls silently out of sight. \nDan Scholey, CPO at Moneyhub, said: \"Most fintech is built for the individual, but with modern, secure data sharing we can unlock those relationships that matter. The team at Know Your Dosh have built something that meets families where they actually are. Moneyhub’s job is to make sure the data behind it is as complete and as accurate as possible.”    \nVarun Aggarwal, Founder and CEO at Know Your Dosh, said: \"When I lost my father, the financial chaos that followed wasn’t because my family was careless, but because no one had ever created a space for us to understand our money together. That experience is why Know Your Dosh exists. We built it for every family that avoids the money conversation because it feels too complicated to start. Partnering with Moneyhub means our users no longer have to do the hard work of keeping their finances up to date. It happens automatically, securely, and in the background. And crucially, every family member sees exactly what they need to see, and nothing they don’t. The UK has the infrastructure to make this work at scale, and we’re excited to build here first.” \nNoYesBanking21 Oct, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/banking/moneyhub-and-know-your-dosh-bring-open-banking-family-financial-planning",
-    "source": "Financial IT",
-    "tags": [
-      "Moneyhub",
-      "Know Your Dosh",
-      "United Kingdom"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-10-21T09:05:44.000Z",
-    "fetchedAt": "2026-10-21T09:43:25.767Z",
-    "isDuplicateOf": null,
-    "content": "Moneyhub has partnered with Know Your Dosh to bring open banking technology to family financial planning in the UK. The collaboration allows users to automatically sync household accounts, including savings, investments, and pensions, providing a single shared view of family finances. The platform integrates Moneyhub's regulated infrastructure to streamline budgeting and secure asset tracking, helping families manage shared financial lives without manual updates.",
-    "content_ta": "UK-ல் குடும்ப நிதி திட்டமிடலுக்கு Open Banking தொழில்நுட்பத்தை கொண்டு வர Moneyhub நிறுவனம் Know Your Dosh உடன் கூட்டு சேர்ந்துள்ளது. இந்த ஒத்துழைப்பு பயனர்கள் சேமிப்புகள், முதலீடுகள் மற்றும் ஓய்வூதியங்கள் உள்ளிட்ட குடும்பக் கணக்குகளை தானாகவே ஒத்திசைக்க அனுமதிக்கிறது, இது குடும்ப நிதிகளின் ஒட்டுமொத்த பார்வையை வழங்குகிறது. இந்த தளம் பட்ஜெட்டை மேம்படுத்தவும் பாதுகாப்பான சொத்து கண்காணிப்புக்காகவும் Moneyhub இன் ஒழுங்குபடுத்தப்பட்ட உள்கட்டமைப்பை ஒருங்கிணைக்கிறது.",
-    "slug": "moneyhub-and-know-your-dosh-bring-open-banking-to-family-financial-planning"
-  },
-  {
-    "id": "eee823eaf74309ad",
-    "slug": "amp-crypto-price-prediction-can-this-support-survive-60-volume-drop",
-    "title": "AMP crypto price prediction: Can THIS support survive 60% volume drop?",
-    "tags": [
-      "AMP"
-    ],
-    "source": "AMBCrypto",
+    "source": "The Daily Hodl",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-10-21T09:00:56.000Z"
-  },
-  {
-    "id": "7fa683275561afd5",
-    "slug": "financial-solutions-adds-ai-and-compliance-checks-to-wealth-pilot",
-    "title": "Financial Solutions Adds AI and Compliance Checks to Wealth Pilot",
-    "tags": [
-      "Financial Solutions",
-      "Exeter IFA",
-      "Wealth Pilot"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T09:00:22.000Z"
-  },
-  {
-    "id": "f5896f819e7cb2b8",
-    "slug": "lemfi-launches-its-biggest-product-expansion-yet-alongside-a-new-global-brand-ambition-has-no",
-    "title": "LemFi Launches Its Biggest Product Expansion Yet Alongside a New Global Brand, ‘Ambition Has No Passport’",
-    "tags": [
-      "LemFi",
-      "ClearBank",
-      "Equifax",
-      "Apple Pay",
-      "Google Pay",
-      "United Kingdom"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T08:59:05.000Z"
-  },
-  {
-    "id": "05bb63cf662ad093",
-    "slug": "firmus-pulls-its-asx-listing-as-investors-balk-at-ai-infrastructure-valuation",
-    "title": "Firmus pulls its ASX listing as investors balk at AI infrastructure valuation",
-    "tags": [
-      "Firmus",
-      "ASX"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T08:58:33.000Z"
-  },
-  {
-    "id": "402e12dc38ebce50",
-    "slug": "building-on-strong-operational-foundations-n26-appoints-michael-steen-as-chief-communications",
-    "title": "Building on Strong Operational Foundations, N26 Appoints Michael Steen as Chief Communications Officer Ahead of Next Phase of Growth",
-    "tags": [
-      "N26",
-      "Michael Steen",
-      "Mike Dargan",
-      "Deutsche Bank",
-      "European Central Bank"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T08:54:15.000Z"
-  },
-  {
-    "id": "4730ddfcb9c7120f",
-    "slug": "ripple-spent-150m-fighting-the-sec-lawsuit-now-it-wants-clear-crypto-rules",
-    "title": "Ripple spent $150M fighting the SEC lawsuit – Now it wants clear crypto rules",
-    "tags": [
-      "Ripple",
-      "SEC"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T08:45:32.000Z"
-  },
-  {
-    "id": "3a64cbaa52b1eabd",
-    "slug": "quantum-proof-bitcoin-signatures-would-clog-network-nodes-with-10x-larger-data",
-    "title": "Quantum-proof Bitcoin signatures would clog network nodes with 10x larger data",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T08:30:07.000Z"
-  },
-  {
-    "id": "4b5f4ecbaaa757b4",
-    "slug": "brac-bank-enhances-trade-finance-operations-with-finastra",
-    "title": "BRAC Bank Enhances Trade Finance Operations With Finastra",
-    "tags": [
-      "BRAC Bank",
-      "Finastra",
-      "Conpend",
-      "Bangladesh"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T08:29:09.000Z"
-  },
-  {
-    "id": "2068572719e73815",
-    "slug": "money20-20-reveals-the-winners-of-the-2026-money-awards-honoring-global-leaders-shaping-the-future",
-    "title": "Money20/20 Reveals the Winners of the 2026 Money Awards, Honoring Global Leaders Shaping the Future of Money",
-    "tags": [
-      "Money20/20",
-      "Bolttech",
-      "Yellow Card",
-      "bKash",
-      "Omnisient"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T08:25:59.000Z"
-  },
-  {
-    "id": "2e526566965edd4e",
-    "slug": "viva-finance-secures-150-million-credit-facility-with-viola-credit-to-accelerate-growth-and-expand",
-    "title": "VIVA Finance Secures $150 Million Credit Facility With Viola Credit to Accelerate Growth and Expand Access to Fair Financial Products",
-    "tags": [
-      "VIVA Finance",
-      "Viola Credit"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T08:21:20.000Z"
-  },
-  {
-    "id": "4cded7bc54565769",
-    "slug": "visa-bill-and-billtrust-launch-first-live-pilot-for-trusted-ai-agent-payments-between-buyer-and",
-    "title": "Visa, BILL and Billtrust Launch First Live Pilot for Trusted AI Agent Payments Between Buyer and Supplier Platforms",
-    "tags": [
-      "Visa",
-      "BILL",
-      "Billtrust"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T08:16:36.000Z"
-  },
-  {
-    "id": "d05aa785fafecd4e",
-    "slug": "groq-plans-stacked-dram-for-its-next-inference-chip-to-fix-a-memory-problem",
-    "title": "Groq plans stacked DRAM for its next inference chip to fix a memory problem",
-    "tags": [
-      "Groq"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T08:13:51.000Z"
-  },
-  {
-    "id": "d7cb7384cc05329c",
-    "slug": "yemen-s-houthis-release-footage-of-clashes-near-taiz-with-saudi-backed-forces",
-    "title": "Yemen’s Houthis release footage of clashes near Taiz with Saudi-backed forces",
-    "tags": [
-      "Yemen",
-      "Taiz",
-      "Houthis"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T08:12:52.000Z"
-  },
-  {
-    "id": "af5e0add618dc641",
-    "slug": "wex-survey-reveals-85-of-businesses-face-internal-obstacles-to-b2b-payment-modernisation",
-    "title": "WEX Survey Reveals 85% of Businesses Face Internal Obstacles to B2B Payment Modernisation",
-    "tags": [
-      "WEX",
-      "Eric Frankovic"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T08:12:25.000Z"
-  },
-  {
-    "id": "8a7cbe48d0dcf2c8",
-    "slug": "legendary-trader-peter-brandt-makes-surprising-monero-xmr-call",
-    "title": "Legendary Trader Peter Brandt Makes Surprising Monero (XMR) Call",
-    "tags": [
-      "Peter Brandt",
-      "Monero"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T08:11:47.000Z"
-  },
-  {
-    "id": "a493b0a071a5654c",
-    "slug": "arbitrum-transactions-surpass-2-4-billion-as-usdc-lending-hits-44-million",
-    "title": "Arbitrum Transactions Surpass 2.4 Billion as USDC Lending Hits $44 Million",
-    "tags": [
-      "Arbitrum",
-      "USDC",
-      "Morpho",
-      "Ethereum",
-      "ARB"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T08:05:22.000Z"
-  },
-  {
-    "id": "37fe1a7ff2d077e0",
-    "slug": "mercury-launches-ai-native-payroll",
-    "title": "Mercury Launches AI-Native Payroll",
-    "tags": [
-      "Mercury"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T08:04:24.000Z"
-  },
-  {
-    "id": "1464e5a0229aa4de",
-    "slug": "lemfi-adds-credit-and-esim-products",
-    "title": "LemFi adds credit and eSIM products",
-    "tags": [
-      "LemFi"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T08:00:00.000Z"
-  },
-  {
-    "id": "15b8bb51ab228c1e",
-    "slug": "blackrock-ceo-larry-fink-warns-data-center-delays-could-raise-costs-and-inflation",
-    "title": "BlackRock CEO Larry Fink warns data center delays could raise costs and inflation",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-10-21T07:45:01.000Z"
-  },
-  {
-    "id": "e6a2b5d73c324944",
-    "slug": "revolut-outage-hits-crypto-access-as-google-cloud-failure-disrupts-banking-services",
-    "title": "Revolut Outage Hits Crypto Access as Google Cloud Failure Disrupts Banking Services",
-    "tags": [
-      "Revolut",
-      "Google Cloud"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T07:14:19.000Z"
-  },
-  {
-    "id": "4c17527f1febd0a3",
-    "slug": "monero-traders-eye-513-liquidity-sweep-as-xmr-s-price-faces-over-leveraged-derivatives",
-    "title": "Monero traders eye $513 liquidity sweep as XMR’s price faces over-leveraged derivatives",
-    "tags": [],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-10-21T07:00:13.000Z"
-  },
-  {
-    "id": "208323a8646a9bc2",
-    "slug": "marathon-mortgages-push-40-of-new-uk-borrowers-past-pension-age",
-    "title": "Marathon Mortgages Push 40% of New UK Borrowers Past Pension Age",
-    "tags": [],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-10-21T07:00:09.000Z"
-  },
-  {
-    "id": "6deddde135e3d427",
-    "slug": "why-snap-needed-an-iron-man-star-before-its-2-195-glasses-go-on-sale",
-    "title": "Why Snap Needed an Iron Man Star Before Its $2,195 Glasses Go on Sale",
-    "tags": [],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-10-21T06:52:13.000Z"
-  },
-  {
-    "id": "46f5fd9cf418d28f",
-    "slug": "best-base-rpc-providers-in-2026",
-    "title": "Best Base RPC providers in 2026",
-    "tags": [],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-10-21T06:40:42.000Z"
-  },
-  {
-    "id": "82c9511ab58d7ec7",
-    "slug": "bitcoin-ethereum-and-xrp-price-prediction-top-analysts-say-a-rebound-could-be-close",
-    "title": "Bitcoin, Ethereum And XRP Price Prediction: Top Analysts Say A Rebound Could Be Close",
-    "tags": [],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-10-21T06:32:31.000Z"
-  },
-  {
-    "id": "1931508a4e75dd39",
-    "slug": "ripple-backs-sec-s-crypto-regulation-proposal",
-    "title": "Ripple Backs SEC's Crypto Regulation Proposal",
-    "tags": [
-      "Ripple",
-      "SEC"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T05:40:05.000Z"
-  },
-  {
-    "id": "57c4571b4a8ab79a",
-    "slug": "big-ethereum-orders-have-returned-is-that-worth-watching",
-    "title": "Big Ethereum orders have returned — Is that worth watching?",
-    "tags": [
-      "Ethereum"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T05:30:41.000Z"
-  },
-  {
-    "id": "5dfe23fd6818e015",
-    "slug": "ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
-    "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
-    "tags": [
-      "Ripple",
-      "HSBC",
-      "Ripple Prime",
-      "RLUSD"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T05:25:57.000Z"
-  },
-  {
-    "id": "ee4f4b8c7cee186f",
-    "slug": "ai-is-propping-up-southeast-asia-s-digital-economy-as-prices-rise-and-demand-cools",
-    "title": "AI is propping up Southeast Asia’s digital economy as prices rise and demand cools",
-    "tags": [
-      "Southeast Asia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T05:23:29.000Z"
-  },
-  {
-    "id": "5f6d1462e5261e9b",
-    "slug": "tech-giants-rush-to-block-8-emudhra-certs-that-could-enable-fake-sites",
-    "title": "Tech giants rush to block 8 eMudhra certs that could enable fake sites",
-    "tags": [
-      "eMudhra"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T05:15:00.000Z"
-  },
-  {
-    "id": "89ddee0d032c731c",
-    "slug": "gta-6-to-drain-1b-from-us-economy-with-take-two-expected-to-bank-the-same-amount",
-    "title": "GTA 6 to Drain $1B From US Economy With Take-Two Expected to Bank the Same Amount",
-    "tags": [
-      "GTA 6",
-      "Take-Two",
-      "United States"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T05:06:00.000Z"
-  },
-  {
-    "id": "3cc157c9b4ac7b08",
-    "slug": "capital-insights-vol-3-issue-2-reset-pivot-examines-business-resilience-amid-uncertainty",
-    "title": "Capital Insights Vol 3 Issue 2: Reset & Pivot Examines Business Resilience Amid Uncertainty",
-    "tags": [
-      "Capital Club Dubai",
-      "Capital Insights"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T05:00:49.000Z"
-  },
-  {
-    "id": "2c2a90f2684425bb",
-    "slug": "mid-decade-redistricting-battles-disproportionately-affect-black-voters-creating-safer-republican",
-    "title": "Mid-decade redistricting battles disproportionately affect Black voters, creating safer Republican seats",
-    "tags": [
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T04:57:45.000Z"
-  },
-  {
-    "id": "05a3eff4bcd58471",
-    "slug": "solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
-    "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
-    "tags": [
-      "Solana"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T04:35:52.000Z"
-  },
-  {
-    "id": "edf0680280505008",
-    "slug": "raydium-edges-past-pumpfun-in-24-hour-dex-volume",
-    "title": "Raydium edges past PumpFun in 24-hour DEX volume",
-    "tags": [
-      "Raydium",
-      "PumpFun",
-      "Solana"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T04:34:33.000Z"
-  },
-  {
-    "id": "7a71dc3342352c65",
-    "slug": "does-hyperliquid-s-2-5m-fee-lead-have-a-20m-laundering-problem",
-    "title": "Does Hyperliquid’s $2.5M fee lead have a $20M laundering problem?",
-    "tags": [
-      "Hyperliquid"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T04:30:26.000Z"
-  },
-  {
-    "id": "195444ff5c4d9090",
-    "slug": "a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
-    "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
-    "tags": [
-      "eMudhra",
-      "India"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T04:11:58.000Z"
-  },
-  {
-    "id": "c7220f0788d695e6",
-    "slug": "bitcoin-hovers-around-83-000-as-ai-earnings-revive-tech-zec-jumps-11",
-    "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
-    "tags": [
-      "Bitcoin",
-      "ZEC",
-      "SpaceX",
-      "Super Micro"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T04:07:07.000Z"
-  },
-  {
-    "id": "7d485858bf31a211",
-    "slug": "at-least-17-data-center-projects-are-proposed-on-us-public-lands-center-for-western-priorities-finds",
-    "title": "At least 17 data center projects are proposed on US public lands, Center for Western Priorities finds",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-10-21T04:05:15.000Z"
-  },
-  {
-    "id": "be1c5f47f862f6e1",
-    "slug": "what-are-quinelings-charles-hoskinson-s-new-digital-lifeform-experiment",
-    "title": "What Are Quinelings? Charles Hoskinson’s New Digital Lifeform Experiment",
-    "tags": [
-      "Charles Hoskinson",
-      "Quinelings",
-      "npm"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T04:04:38.000Z"
-  },
-  {
-    "id": "6c03553bccaf4e65",
-    "slug": "aave-crypto-falls-below-150-despite-citi-research-s-bullish-outlook-why",
-    "title": "AAVE crypto falls below $150 despite Citi Research’s bullish outlook – Why?",
-    "tags": [
-      "Aave",
-      "Citi Research"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T04:00:31.000Z"
-  },
-  {
-    "id": "823d4965e7025cf2",
-    "slug": "saudi-coalition-intercepts-drones-over-medina-and-eastern-province",
-    "title": "Saudi coalition intercepts drones over Medina and eastern province",
-    "tags": [
-      "Saudi Arabia",
-      "Medina",
-      "Middle East"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T03:58:26.000Z"
-  },
-  {
-    "id": "9af3b795b2451c80",
-    "slug": "animoca-brands-advances-ai-driven-digital-ownership-with-moca-network-integration",
-    "title": "Animoca Brands advances AI-driven digital ownership with Moca Network integration",
-    "tags": [
-      "Animoca Brands",
-      "Moca Network"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T03:47:43.000Z"
-  },
-  {
-    "id": "9ff4cd2a3caacee5",
-    "slug": "will-stx-see-some-upside-after-its-latest-8-price-drop",
-    "title": "Will STX see some upside after its latest 8% price drop?",
-    "tags": [
-      "STX"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T03:45:14.000Z"
-  },
-  {
-    "id": "b523d31ee25e64a7",
-    "slug": "ken-griffin-compares-ai-chips-to-airline-seats-says-glut-could-send-pricing-into-freefall",
-    "title": "Ken Griffin Compares AI Chips to Airline Seats, Says Glut Could Send Pricing Into Freefall",
-    "tags": [
-      "Citadel",
-      "Ken Griffin"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T03:35:00.000Z"
-  },
-  {
-    "id": "e4e03c1a6f9d4dae",
-    "slug": "openai-s-gpt-6-astra-agent-removed-user-code-safety-monitor-then-denied-it-researcher-says",
-    "title": "OpenAI’s GPT-6 Astra agent removed user-code safety monitor, then denied it, researcher says",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T03:26:32.000Z"
-  },
-  {
-    "id": "d0a063a1b8bf6915",
-    "slug": "anthropic-s-first-half-revenue-outpaces-its-compute-bill-according-to-draft-ipo-filing",
-    "title": "Anthropic’s first-half revenue outpaces its compute bill, according to draft IPO filing",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T03:10:01.000Z"
-  },
-  {
-    "id": "a8e303fa94847325",
-    "slug": "spacex-guides-33-billion-to-37-billion-q1-2027-revenue-as-ai-compute-takes-over",
-    "title": "SpaceX guides $33 billion to $37 billion Q1 2027 revenue as AI compute takes over",
-    "tags": [
-      "SpaceX"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T02:44:28.000Z"
-  },
-  {
-    "id": "e0ce3e8e53d5d7b6",
-    "slug": "moonpay-upbit-parent-dunamu-explore-collaboration-on-stablecoin-payments-giwa-expansion",
-    "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
-    "tags": [
-      "MoonPay",
-      "Dunamu",
-      "Upbit",
-      "GIWA chain",
-      "Ethereum"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T02:30:08.000Z"
-  },
-  {
-    "id": "672878dceb04d9c4",
-    "slug": "nvidia-spends-a-record-nearly-2-2-million-on-federal-lobbying-in-q3",
-    "title": "Nvidia spends a record nearly $2.2 million on federal lobbying in Q3",
-    "tags": [
-      "Nvidia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T02:23:26.000Z"
-  },
-  {
-    "id": "a5c5f927a2b11da4",
-    "slug": "ai-is-splitting-software-into-winners-and-losers-citi-s-tyler-radke-says",
-    "title": "AI Is Splitting Software Into Winners and Losers, Citi’s Tyler Radke Says",
-    "tags": [
-      "Citi",
-      "Tyler Radke",
-      "Salesforce",
-      "Braze"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T02:22:00.000Z"
-  },
-  {
-    "id": "ead62cfbaaa928db",
-    "slug": "kazakhstan-shuts-down-mobile-access-to-6-major-crypto-exchanges",
-    "title": "Kazakhstan shuts down mobile access to 6 major crypto exchanges",
-    "tags": [
-      "Kazakhstan",
-      "Apple",
-      "Google",
-      "Astana International Financial Centre"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T02:20:32.000Z"
-  },
-  {
-    "id": "a9e369c90c23a9a1",
-    "slug": "kospi-jumps-3-54-nikkei-gains-1-43-but-how-is-oil-driving-the-rebound",
-    "title": "KOSPI Jumps 3.54%, Nikkei Gains 1.43%, But How Is Oil Driving the Rebound?",
-    "tags": [
-      "KOSPI",
-      "Nikkei",
-      "Brent"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T02:20:27.000Z"
-  },
-  {
-    "id": "47cf73c12680cd48",
-    "slug": "s-p-500-s-15-largest-stocks-now-hold-a-record-46-7-of-the-index",
-    "title": "S&P 500’s 15 largest stocks now hold a record 46.7% of the index",
-    "tags": [
-      "S&P 500"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T02:18:12.000Z"
-  },
-  {
-    "id": "cb18a25d34b3ceb0",
-    "slug": "cook-political-report-shifts-sc-ms-senate-races-to-more-competitive-categories",
-    "title": "Cook Political Report shifts SC, MS Senate races to more competitive categories",
-    "tags": [
-      "Cook Political Report",
-      "South Carolina",
-      "Mississippi"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-21T01:47:09.000Z"
+    "pubDate": "2026-10-21T09:15:14.000Z"
   }
 ]
