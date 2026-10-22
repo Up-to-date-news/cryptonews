@@ -1045,5 +1045,373 @@
     "content": "CFIT chief executive Anna Wallace recently discussed the organization's focus on advancing financial technology beyond the pilot stage. In a new profile, Wallace explored past industry concepts, such as early sandbox ideas, and addressed emerging trust and security questions surrounding agentic payments. The discussion highlights the ongoing evolution and strategic challenges facing the fintech sector.",
     "content_ta": "CFIT-யின் தலைமை நிர்வாக அதிகாரி Anna Wallace, ஃபைனான்சியல் டெக்னாலஜி துறையை பைலட் கட்டத்திற்கு அப்பால் கொண்டு செல்வது குறித்து சமீபத்தில் விவரித்தார். புதிய நேர்காணல் ஒன்றில், ஆரம்பகால சாண்ட்பாக்ஸ் யோசனைகள் போன்ற கடந்த கால கருத்துக்களை அவர் ஆராய்ந்தார். மேலும், ஏஜென்டிக் பேமெண்ட்ஸ் தொடர்பான நம்பிக்கை மற்றும் பாதுகாப்பு கேள்விகளையும் அவர் எழுப்பினார். இந்த விவாதம் fintech துறை எதிர்கொள்ளும் தொடர்ச்சியான சவால்களை எடுத்துக்காட்டுகிறது.",
     "slug": "in-profile-anna-wallace-ceo-at-cfit"
+  },
+  {
+    "id": "8ab01ee38909056f",
+    "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
+    "summary": "Cloudflare’s Matthew Prince said the network saw thousands of exploit attempts even before the PHP vulnerability was publicly disclosed.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "PHP",
+      "Cloudflare"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T09:06:02.000Z",
+    "fetchedAt": "2026-10-22T09:43:01.381Z",
+    "isDuplicateOf": null,
+    "content": "A newly discovered PHP flaw has triggered millions of exploit attempts globally, according to Cloudflare CEO Matthew Prince. The network experienced thousands of attack attempts even before the vulnerability was officially disclosed to the public, highlighting the speed at which cybercriminals move to target zero-day security issues.",
+    "content_ta": "புதிதாக கண்டறியப்பட்ட PHP குறைபாடு உலகளவில் மில்லியன் கணக்கான தாக்குதல் முயற்சிகளைத் தூண்டியுள்ளதாக Cloudflare CEO Matthew Prince எச்சரித்துள்ளார். இந்த பாதுகாப்பு குறைபாடு பொதுமக்களுக்கு வெளிவருவதற்கு முன்பே ஆயிரக்கணக்கான தாக்குதல் முயற்சிகள் கண்டறியப்பட்டதாக Cloudflare நெட்வொர்க் தெரிவித்துள்ளது.",
+    "slug": "php-flaw-draws-millions-of-exploit-attempts-cloudflare-ceo-warns"
+  },
+  {
+    "id": "5c6072cce777550c",
+    "title": "Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1",
+    "summary": "Starknet's community backed research into becoming an independent post-quantum Layer 1, with a draft whitepaper expected in November.",
+    "hasSummary": true,
+    "link": "https://www.theblock.co/news/ecosystems/2026-10-22-starknet-community-backs-independent-post-quantum-layer-1-421885",
+    "source": "The Block",
+    "tags": [
+      "Starknet"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T09:32:00.000Z",
+    "fetchedAt": "2026-10-22T09:43:01.381Z",
+    "isDuplicateOf": null,
+    "content": "The Starknet community has overwhelmingly supported a new initiative to research transitioning the network into an independent post-quantum Layer 1 blockchain. Following this strong community backing, developers and researchers are now preparing a draft whitepaper that is expected to be released in November. This move marks a significant potential shift in the network's future infrastructure and security focus.",
+    "content_ta": "Starknet சமூகம், நெட்வொர்க்கை ஒரு சுதந்திரமான போஸ்ட்-குவாண்டம் Layer 1 பிளாக்செயினாக மாற்றுவதற்கான ஆராய்ச்சிக்கு பெரும் ஆதரவளித்துள்ளது. இந்த சமூகத்தின் பலத்த ஆதரவைத் தொடர்ந்து, டெவலப்பர்களும் ஆராய்ச்சியாளர்களும் நவம்பர் மாதத்தில் வெளியிடப்பட உள்ள வரைவு ஒயிட்பேப்பரைத் தயாரித்து வருகின்றனர். இந்த நடவடிக்கை நெட்வொர்க்கின் எதிர்கால உள்கட்டமைப்பு மற்றும் பாதுகாப்பு மையத்தில் ஒரு முக்கியமான மாற்றத்தைக் குறிக்கிறது.",
+    "slug": "starknet-community-overwhelmingly-backs-research-into-becoming-an-independent-post-quantum-layer-1"
+  },
+  {
+    "id": "ff98ec630029ebd8",
+    "title": "Layer 2 Scaling Solutions",
+    "summary": "Layer 2 scaling solutions help blockchains like Ethereum process more activity without forcing every transaction to happen directly on the base chain.\r\nEthereum’s main network is secure and decentralized, but blockspace is limited. When demand rises, fees increase and users can get priced out. Layer 2s address this by moving transaction activity to scaling systems that sit around Ethereum while still using it for settlement, security, data posting, or verification.\r\nThe most important Layer 2 designs today are rollups. Rollups process transactions off-chain, bundle them together, and post data or proofs back to Ethereum. This makes transactions cheaper and faster while keeping a connection to Ethereum’s trust foundation.",
+    "hasSummary": true,
+    "link": "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685",
+    "source": "The Block",
+    "tags": [
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T09:15:50.000Z",
+    "fetchedAt": "2026-10-22T09:43:01.381Z",
+    "isDuplicateOf": null,
+    "content": "Layer 2 scaling solutions help blockchains like Ethereum process more transactions by moving activity off the main network. When demand rises, base chain fees increase. Layer 2 systems, particularly rollups, handle transactions separately and post the results back to Ethereum. This approach keeps transactions fast and affordable while utilizing Ethereum for security and settlement.",
+    "content_ta": "Layer 2 scaling solutions போன்ற தொழில்நுட்பங்கள் Ethereum போன்ற blockchains-ல் அதிகப்படியான பரிவர்த்தனைகளைச் செயல்படுத்த உதவுகின்றன. main network-ல் தேவைகள் அதிகரிக்கும்போது கட்டணங்கள் உயர்வதால், Rollups போன்ற Layer 2 அமைப்புகள் பரிவர்த்தனைகளை தனியாகக் கையாண்டு பாதுகாப்பிற்காக Ethereum-ஐப் பயன்படுத்துகின்றன. இதனால் பரிவர்த்தனைகள் வேகமாகவும் மலிவாகவும் நடைபெறுகின்றன.",
+    "slug": "layer-2-scaling-solutions"
+  },
+  {
+    "id": "98d7d00b6c685e5b",
+    "title": "South Korea’s crypto bill nears completion while tax debate intensifies: reports",
+    "summary": "The nearing completion of South Korea's crypto bill could enhance regulatory clarity, potentially boosting digital asset adoption and market confidence.\nThe post South Korea’s crypto bill nears completion amid tax debate intensification appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880",
+    "source": "The Block",
+    "tags": [
+      "South Korea"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T09:11:57.000Z",
+    "fetchedAt": "2026-10-22T09:43:01.381Z",
+    "isDuplicateOf": null,
+    "content": "South Korea is nearing the completion of its new cryptocurrency legislation, which is expected to bring greater regulatory clarity to the digital asset market. Meanwhile, ongoing debates regarding crypto taxation are intensifying in the country. These regulatory developments could significantly impact market confidence and the future adoption of digital assets in the region.",
+    "content_ta": "South Korea-ல் புதிய crypto மசோதா இறுதி கட்டத்தை எட்டியுள்ளது, இது digital asset சந்தைக்கு கூடுதல் ஒழுங்குமுறை தெளிவை வழங்கும் என எதிர்பார்க்கப்படுகிறது. இதற்கிடையில், crypto taxation தொடர்பான விவாதங்கள் நாட்டில் தீவிரமடைந்துள்ளன. இந்த ஒழுங்குமுறை மாற்றங்கள் சந்தை நம்பிக்கையையும், இப்பகுதியில் digital asset-களின் எதிர்கால பயன்பாட்டையும் பெரிதும் பாதிக்கலாம்.",
+    "slug": "south-korea-s-crypto-bill-nears-completion-while-tax-debate-intensifies-reports"
+  },
+  {
+    "id": "a7100fad843c6e4e",
+    "title": "Bitcoin ETFs Pull In $1.07B as Irish Drug Trafficker-Linked Wallet Moves $41M",
+    "summary": "Bitcoin ETF pulled $1.07 billion in three days as a wallet linked to Irish drug trafficker Clifton Collins moved 500 BTC to Coinbase Prime.\nThe post Bitcoin ETFs Pull In $1.07B as Irish Drug Trafficker-Linked Wallet Moves $41M appeared first on Cryptonews.",
+    "hasSummary": true,
+    "link": "https://cryptonews.com/news/bitcoin-etf-pull-in-1-07b-as-irish-drug-trafficker-linked-wallet-moves-41m/",
+    "source": "CryptoNews",
+    "tags": [
+      "Bitcoin",
+      "Coinbase Prime",
+      "Clifton Collins"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T09:10:13.000Z",
+    "fetchedAt": "2026-10-22T09:43:01.381Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin ETFs have pulled in $1.07 billion over a three-day period. Meanwhile, a cryptocurrency wallet linked to Irish drug trafficker Clifton Collins transferred 500 BTC, valued at approximately $41 million, to Coinbase Prime.",
+    "content_ta": "Bitcoin ETFs மூன்று நாட்களில் $1.07 பில்லியன் தொகையை ஈர்த்துள்ளன. இதற்கிடையில், ஐரிஷ் போதைப்பொருள் கடத்தல்காரரான Clifton Collins-ஐச் சேர்ந்த கிரிப்டோகரன்சி வாலட் மூலம் சுமார் $41 மில்லியன் மதிப்புள்ள 500 BTC காயின்கள் Coinbase Prime-க்கு மாற்றப்பட்டுள்ளன.",
+    "slug": "bitcoin-etfs-pull-in-1-07b-as-irish-drug-trafficker-linked-wallet-moves-41m"
+  },
+  {
+    "id": "aa985b8c855796c3",
+    "title": "BetFury Integrates Swapped Connect to Make Crypto Deposits as Simple as Card Payments",
+    "summary": "[PRESS RELEASE – Willemstad, Curaçao, October 22nd, 2026] BetFury, a leading crypto casino, has integrated Swapped Connect, a deposit tool that lets players fund their accounts in a few clicks, much the way a card payment works. The integration is now live on BetFury and removes the manual wallet-address step that makes standard crypto deposits […]",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/betfury-integrates-swapped-connect-to-make-crypto-deposits-as-simple-as-card-payments/",
+    "source": "CryptoPotato",
+    "tags": [
+      "BetFury",
+      "Swapped Connect",
+      "Curaçao"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T09:33:47.000Z",
+    "fetchedAt": "2026-10-22T09:43:01.381Z",
+    "isDuplicateOf": null,
+    "content": "Crypto casino BetFury has integrated Swapped Connect to simplify user deposits. The new tool allows players to fund their accounts in just a few clicks, eliminating the need for manual wallet-address entries. This integration aims to make cryptocurrency deposits as straightforward as standard card payments, improving the overall user experience on the platform.",
+    "content_ta": "Crypto casino-ரான BetFury, தனது தளத்தில் டெபாசிட் செய்யும் முறையை எளிதாக்க Swapped Connect-ஐ இணைத்துள்ளது. இந்த புதிய கருவி மூலம் வீரர்கள் சில கிளிக்குகளில் தங்கள் கணக்கில் பணம் செலுத்த முடியும், இதனால் மேனுவலாக வாலட் முகவரியை உள்ளிடும் தேவை தவிர்க்கப்படுகிறது. ஸ்டாண்டர்ட் கார்டு பேமெண்ட்களைப் போலவே கிரிப்டோ டெபாசிட்களையும் எளிதாக்குவதை இந்த ஒருங்கிணைப்பு நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "betfury-integrates-swapped-connect-to-make-crypto-deposits-as-simple-as-card-payments"
+  },
+  {
+    "id": "7062b198ceb75439",
+    "title": "Bitcoin Plunges Over $3K After $85K Rejection, Altcoins Get Hit Harder: Market Watch",
+    "summary": "XMR has defied the odds once again, posting a massive double-digit surge.",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/bitcoin-plunges-over-3k-after-85k-rejection-altcoins-get-hit-harder-market-watch/",
+    "source": "CryptoPotato",
+    "tags": [
+      "Bitcoin",
+      "XMR"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T09:21:15.000Z",
+    "fetchedAt": "2026-10-22T09:43:01.381Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin experienced a sharp decline, plunging by over $3,000 following a rejection at the $85,000 mark. The broader crypto market faced heavy losses, with altcoins taking an even harder hit during the downturn. Despite the widespread market correction, XMR stood out by defying the overall trend and posting a massive double-digit surge.",
+    "content_ta": "Bitcoin $85,000 மதிப்பை எட்ட முடியாமல் வீழ்ச்சியைச் சந்தித்ததை அடுத்து, $3,000-க்கும் அதிகமாக சரிந்தது. இதனால் மற்ற altcoin-களும் கடுமையாக பாதிக்கப்பட்டன. எனினும், சந்தையின் இந்த சரிவுக்கு எதிராக XMR மட்டும் குறிப்பிடத்தக்க அளவில் இரட்டை இலக்க வளர்ச்சியைப் பதிவு செய்துள்ளது.",
+    "slug": "bitcoin-plunges-over-3k-after-85k-rejection-altcoins-get-hit-harder-market-watch"
+  },
+  {
+    "id": "52164e963997e2a6",
+    "title": "Ripple Legend David Schwartz Spotlights Physical XRP Game Most Traders Missed",
+    "summary": "Inside the secret XRP Ledger bull run where investors are burning NFTs for physical cards backed by David Schwartz.",
+    "hasSummary": true,
+    "link": "https://u.today/ripple-legend-david-schwartz-spotlights-physical-xrp-game-most-traders-missed",
+    "source": "U.Today",
+    "tags": [
+      "Ripple",
+      "David Schwartz"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T09:16:45.000Z",
+    "fetchedAt": "2026-10-22T09:43:01.382Z",
+    "isDuplicateOf": null,
+    "content": "Ripple Chief Technology Officer David Schwartz recently drew attention to a unique physical XRP game that many traders overlooked. This digital asset activity highlights the evolving use cases within the XRP Ledger ecosystem, where participants burn NFTs to obtain physical cards linked to Schwartz, showcasing creative engagement within the cryptocurrency community.",
+    "content_ta": "Ripple இன் Chief Technology Officer ஆன David Schwartz, பல வர்த்தகர்கள் கவனிக்காத ஒரு தனித்துவமான பிசிகல் XRP கேம் மீது சமீபத்தில் கவனத்தை ஈர்த்துள்ளார். XRP Ledger சுற்றுச்சூழல் அமைப்பில் வளர்ந்து வரும் பயன்பாடுகளை இந்த டிஜிட்டல் சொத்து நடவடிக்கை எடுத்துக்காட்டுகிறது, அங்கு பங்கேற்பாளர்கள் David Schwartz உடன் இணைக்கப்பட்ட பிசிகல் கார்டுகளைப் பெற NFT-களை எரிக்கின்றனர்.",
+    "slug": "ripple-legend-david-schwartz-spotlights-physical-xrp-game-most-traders-missed"
+  },
+  {
+    "id": "e98ff7385d408da6",
+    "title": "AI Stocks Could Crash in 2027: 3 Ways to Protect Your Money",
+    "summary": "If the AI bubble bursts in 2027 and the stock market crashes, how should investors prepare? What is the best way to stay safe while still increasing your chances of profitable trades?Alan Greenspan, the famous Fed chairman who served under four US presidents, warned about “irrational exuberance” in 1996. The Nasdaq then nearly quadrupled before\nThe post AI Stocks Could Crash in 2027: 3 Ways to Protect Your Money appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/ai-bubble-crash-2027-protect-portfolio/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Alan Greenspan",
+      "Nasdaq"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T09:26:48.000Z",
+    "fetchedAt": "2026-10-22T09:43:01.382Z",
+    "isDuplicateOf": null,
+    "content": "Market analysts are warning that AI stocks could potentially crash in 2027 if current market trends mirror past economic bubbles. Investors are being advised to explore strategies to protect their money and prepare for potential market downturns while seeking profitable opportunities, drawing parallels to historical warnings about irrational exuberance in the stock market.",
+    "content_ta": "2027-ம் ஆண்டில் AI ப,ங்குகளின் மதிப்பு சரிய வாய்ப்புள்ளதாக சந்தை வல்லுநர்கள் எச்சரித்துள்ளனர். தற்போதைய சந்தை போக்குகள் கடந்த கால பொருளாதார குமிழிகளைப் போலவே இருந்தால், முதலீட்டாளர்கள் தங்கள் பணத்தைப் பாதுகாக்க மற்றும் சாத்தியமான சந்தை சரிவுகளுக்கு தயாராகுமாறு அறிவுறுத்தப்படுகிறார்கள்.",
+    "slug": "ai-stocks-could-crash-in-2027-3-ways-to-protect-your-money"
+  },
+  {
+    "id": "f9a041909e088658",
+    "title": "$210M in crypto longs liquidated as BTC, ETH prices plunge",
+    "summary": "The liquidation event signals a cautious market sentiment, potentially affecting future crypto investments and Hyperliquid's price outlook.\nThe post $210M in crypto longs liquidated as BTC, ETH prices plunge appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/210m-in-crypto-longs-liquidated-as-btc-eth-prices-plunge/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Bitcoin",
+      "Ethereum",
+      "Hyperliquid"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T09:37:58.000Z",
+    "fetchedAt": "2026-10-22T09:43:01.382Z",
+    "isDuplicateOf": null,
+    "content": "A sudden market downturn led to the liquidation of $210 million in crypto long positions as the prices of BTC and ETH plunged significantly. This major liquidation event highlights a cautious sentiment currently sweeping the digital asset market. Observers note that such sharp price drops could heavily impact near-term investment strategies and the broader market outlook for tokens like Hyperliquid as traders reassess their risk exposure.",
+    "content_ta": "BTC மற்றும் ETH விலைகள் திடீரென சரிந்ததை அடுத்து, கிரிப்டோ லாங் பொசிஷன்களில் $210 மில்லியன் அளவுக்கு லிக்விடேட் செய்யப்பட்டுள்ளது. இந்த திடீர் வீழ்ச்சி சந்தையில் ஒரு எச்சரிக்கையான போக்கை உருவாக்குவதோடு, எதிர்கால முதலீட்டு உத்திகளையும் Hyperliquid உள்ளிட்டவற்றின் விலை நிலையையும் பாதிக்க வாய்ப்புள்ளது.",
+    "slug": "210m-in-crypto-longs-liquidated-as-btc-eth-prices-plunge"
+  },
+  {
+    "id": "2d9daa1573fe4294",
+    "title": "India’s top crypto exchange CoinDCX rejects hack claims after $16 million in USDT transfers reported",
+    "summary": "CoinDCX's denial highlights the ongoing challenges of security and trust in the crypto industry, impacting user confidence and market stability.\nThe post India’s top crypto exchange CoinDCX rejects hack claims after $16 million in USDT transfers reported appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/indias-top-crypto-exchange-coindcx-rejects-hack-claims-after-16-million-in-usdt-transfers-reported/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "CoinDCX",
+      "USDT",
+      "India"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T09:34:10.000Z",
+    "fetchedAt": "2026-10-22T09:43:01.382Z",
+    "isDuplicateOf": null,
+    "content": "India's leading crypto exchange CoinDCX has strongly denied claims that it suffered a security breach, following reports of massive USDT token transfers totaling $16 million. The incident raised concerns regarding platform security and market trust, highlighting the constant challenges faced by digital asset exchanges in maintaining user confidence.",
+    "content_ta": "இந்தியாவின் முன்னணி crypto exchange ஆன CoinDCX, $16 million மதிப்பிலான USDT பரிமாற்றங்கள் குறித்து வெளியான ஹேக் குற்றச்சாட்டுகளை திட்டவட்டமாக மறுத்துள்ளது. இந்தச் சம்பவம் பிளாட்ஃபார்ம் பாதுகாப்பு மற்றும் சந்தை நம்பிக்கை குறித்த கவலைகளை எழுப்பியுள்ளது, மேலும் டிஜிட்டல் சொத்து பரிமாற்றங்கள் எதிர்கொள்ளும் தொடர்ச்சியான சவால்களை வெளிச்சம் போட்டுக் காட்டுகிறது.",
+    "slug": "india-s-top-crypto-exchange-coindcx-rejects-hack-claims-after-16-million-in-usdt-transfers-reported"
+  },
+  {
+    "id": "227f00e40328b2c2",
+    "title": "Nvidia CEO clarifies no bailout for neocloud investments",
+    "summary": "Nvidia's stance may shift market perceptions, emphasizing neoclouds' financial independence and potentially affecting investment dynamics.\nThe post Nvidia CEO clarifies no bailout for neocloud investments appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/nvidia-ceo-clarifies-no-bailout-for-neocloud-investments/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Nvidia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T09:10:20.000Z",
+    "fetchedAt": "2026-10-22T09:43:01.382Z",
+    "isDuplicateOf": null,
+    "content": "Nvidia CEO has clarified that there will be no financial bailouts for neocloud investments. This official stance emphasizes the financial independence of neoclouds and could significantly impact current market perceptions and overall investment dynamics within the sector, according to reports from Crypto Briefing.",
+    "content_ta": "Neocloud முதலீடுகளுக்கு நிதி உதவி எதுவும் வழங்கப்படாது என்று Nvidia CEO தெளிவுபடுத்தியுள்ளது. இந்த அதிகாரப்பூர்வ நிலைப்பாடு neocloud-களின் நிதிச் சுதந்திரத்தை வலியுறுத்துவதோடு, சந்தைப் பார்வையும் முதலீட்டு இயக்கவியலும் மாறக் காரணமாகலாம் என்று Crypto Briefing செய்திகள் தெரிவிக்கின்றன.",
+    "slug": "nvidia-ceo-clarifies-no-bailout-for-neocloud-investments"
+  },
+  {
+    "id": "e396ccb74d7b6868",
+    "title": "Reliably red Iowa in play as economic woes mount",
+    "summary": "Economic concerns in Iowa could reshape political dynamics, challenging Republican dominance and signaling potential shifts in voter priorities.\nThe post Reliably red Iowa in play as economic woes mount appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/reliably-red-iowa-in-play-as-economic-woes-mount/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Iowa",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T09:08:22.000Z",
+    "fetchedAt": "2026-10-22T09:43:01.382Z",
+    "isDuplicateOf": null,
+    "content": "Economic challenges in Iowa are raising questions about the state's traditional Republican dominance. Growing financial concerns and economic woes are shifting voter priorities, potentially bringing new political competition to the reliably red state as voters react to the changing economic climate.",
+    "content_ta": "அயோவா மாநிலத்தில் நிலவும் பொருளாதார சவால்கள் அங்குள்ள பாரம்பரிய ரிபப்ளிகன் கட்சியின் பலம் குறித்த கேள்விகளை எழுப்புகின்றன. அதிகரித்து வரும் பொருளாதார கவலைகள் வாக்காளர்களின் முன்னுரிமைகளை மாற்றி அமைத்து வருகின்றன, இதனால் இந்த மாநிலத்தில் புதிய அரசியல் போட்டி உருவாக வாய்ப்புள்ளது.",
+    "slug": "reliably-red-iowa-in-play-as-economic-woes-mount"
+  },
+  {
+    "id": "1e27f557062c0ec0",
+    "title": "Florida Woman Drains $152,000 in Social Security Benefits From Deceased Relative, Faces Multiple Years Behind Bars",
+    "summary": "Federal prosecutors have secured a conviction against a Florida woman who withdrew more than $152,000 in Social Security retirement benefits intended for her deceased great-aunt. Asha Anderson, 48, of Pompano Beach, was found guilty of theft of government funds and Social Security fraud after a six-day trial, says the U.S. Attorney’s Office for the Southern […]\nThe post Florida Woman Drains $152,000 in Social Security Benefits From Deceased Relative, Faces Multiple Years Behind Bars appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/10/22/florida-woman-drains-152000-in-social-security-benefits-from-deceased-relative-faces-multiples-years-behind-bars/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "Florida",
+      "Pompano Beach",
+      "Asha Anderson"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T09:15:45.000Z",
+    "fetchedAt": "2026-10-22T09:43:01.382Z",
+    "isDuplicateOf": null,
+    "content": "Federal prosecutors have secured a conviction against a Florida woman for unlawfully withdrawing over $152,000 in Social Security retirement benefits intended for a deceased relative. Asha Anderson, of Pompano Beach, was found guilty of theft of government funds and Social Security fraud following a six-day trial. She now faces the possibility of spending multiple years behind bars.",
+    "content_ta": "மsceased உறவினர் ஒருவருக்கு வழங்கப்பட வேண்டிய Social Security ஓய்வூதிய பலன்களில் இருந்து 152,000 டாலருக்கும் அதிகமான தொகையைத் தவறாகப் பெற்ற Florida பெண்ணுக்கு எதிராக மத்திய வழக்கறிஞர்கள் தண்டனையைப் பெற்றுள்ளனர். Pompano Beach-ஐச் சேர்ந்த Asha Anderson, அரசாங்க நிதித் திருட்டு மற்றும் Social Security மோசடி வழக்கில் குற்றவாளியாகக் கண்டறியப்பட்டுள்ளார். அவர் பல ஆண்டுகள் சிறைத்தண்டனையை எதிர்கொள்ளக்கூடும்.",
+    "slug": "florida-woman-drains-152-000-in-social-security-benefits-from-deceased-relative-faces-multiple"
+  },
+  {
+    "id": "b3332bdee915a31f",
+    "title": "Mavka Capital appoints VP",
+    "summary": "Mavka Capital, a Silicon Valley-based corporate finance and M&A advisory firm focused on mergers and acquisitions, growth financing, and capital raising for growth-stage companies, is pleased to announce that Cristian Palmeiro has been promoted to Vice President.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111396/mavka-capital-appoints-vp?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Mavka Capital",
+      "Cristian Palmeiro",
+      "Silicon Valley"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T09:33:00.000Z",
+    "fetchedAt": "2026-10-22T09:43:01.382Z",
+    "isDuplicateOf": null,
+    "content": "Silicon Valley-based corporate finance and M&A advisory firm Mavka Capital has announced a key leadership promotion. Cristian Palmeiro has been elevated to the role of Vice President. The firm specializes in mergers and acquisitions, growth financing, and capital raising strategies for expanding growth-stage companies.",
+    "content_ta": "சிலிக்கான் Valley-யை தளமாகக் கொண்ட கார்ப்பரேட் நிதி மற்றும் M&A ஆலோசனை நிறுவனமான Mavka Capital, ஒரு முக்கிய தலைமை பதவி உயர்வை அறிவித்துள்ளது. Cristian Palmeiro துணைத் தலைவராக (Vice President) பதவி உயர்த்தப்பட்டுள்ளார். இந்நிறுவனம் mergers and acquisitions, வளர்ச்சி நிதி மற்றும் மூலதன திரட்டல் ஆகியவற்றில் நிபுணத்துவம் பெற்றது.",
+    "slug": "mavka-capital-appoints-vp"
+  },
+  {
+    "id": "75e6b40546f30b4e",
+    "title": "Commercial Bank of Dubai joins CBMT Network",
+    "summary": "Commercial Bank of Dubai’s (CBD) participation in the Commercial Bank Money Token (CBMT) initiative marks the first Middle East bank joining the network, extending CBMT beyond Europe.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111397/commercial-bank-of-dubai-joins-cbmt-network?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Commercial Bank of Dubai",
+      "Commercial Bank Money Token",
+      "Middle East",
+      "Europe"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T09:37:00.000Z",
+    "fetchedAt": "2026-10-22T09:43:01.382Z",
+    "isDuplicateOf": null,
+    "content": "Commercial Bank of Dubai (CBD) has joined the Commercial Bank Money Token (CBMT) network, making it the first Middle East bank to participate in the initiative. This move expands the CBMT network beyond Europe, marking a significant milestone for the digital token platform as it grows its international presence with regional banking support.",
+    "content_ta": "Commercial Bank of Dubai (CBD), Commercial Bank Money Token (CBMT) நெட்வொர்க்கில் இணைந்துள்ளது. இதன் மூலம் மத்திய கிழக்கு நாட்டைச் சேர்ந்த முதல் வங்கி இந்த திட்டத்தில் இணைந்துள்ளது. இந்த நடவடிக்கை மூலம் CBMT நெட்வொர்க் ஐரோப்பாவைத் தாண்டி விரிவடைந்துள்ளது.",
+    "slug": "commercial-bank-of-dubai-joins-cbmt-network"
+  },
+  {
+    "id": "faca1feeb7e65cc6",
+    "title": "Qashier launches AI general manager",
+    "summary": "Qashier, the unified merchant operating system serving more than 25,000 businesses across Southeast Asia, today launched QashierGM, an AI general manager that works with a merchant's whole team.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111398/qashier-launches-ai-general-manager?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Qashier",
+      "Southeast Asia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T09:42:00.000Z",
+    "fetchedAt": "2026-10-22T09:43:01.382Z",
+    "isDuplicateOf": null,
+    "content": "Qashier, a unified merchant operating system serving businesses across Southeast Asia, has launched QashierGM. This new artificial intelligence general manager is designed to work seamlessly with a merchant's entire team, helping to streamline operations and enhance productivity for thousands of businesses in the region.",
+    "content_ta": "தென்கிழக்கு ஆசியா முழுவதும் உள்ள வணிகங்களுக்குச் சேவையாற்றும் வணிக இயக்க முறைம在這ரான Qashier, QashierGM என்ற புதிய செயற்கை நுண்ணறிவு பொது மேலாளரை அறிமுகப்படுத்தியுள்ளது. இந்த புதிய AI கருவியானது வணிகர்களின் முழுமையான குழுவுடன் இணைந்து பணியாற்றி, பிராந்தியத்தில் உள்ள ஆயிரக்கணக்கான வணிகங்களின் செயல்பாடுகளை எளிமைப்படுத்தவும் உற்பத்தித்திறனை மேம்படுத்தவும் உதவும் வகையில் வடிவமைக்கப்பட்டுள்ளது.",
+    "slug": "qashier-launches-ai-general-manager"
+  },
+  {
+    "id": "d20dfdf7c1e54f0f",
+    "title": "Model ML opens Dubai office",
+    "summary": "Model ML, the agentic operating system for financial and professional services, is expanding in the Middle East with a new Dubai office and the appointment of Raghav Sehgal as General Manager for the region.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111399/model-ml-opens-dubai-office?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Model ML",
+      "Dubai",
+      "Raghav Sehgal",
+      "Middle East"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T09:46:00.000Z",
+    "fetchedAt": "2026-10-22T09:43:01.382Z",
+    "isDuplicateOf": null,
+    "content": "Model ML, the agentic operating system for financial and professional services, is expanding its presence in the Middle East. The company has opened a new office in Dubai and appointed Raghav Sehgal as the General Manager for the region to lead its growth and operations.",
+    "content_ta": "நிதி மற்றும் தொழில்முறை சேவைகளுக்கான ஏஜென்டிக் ஆப்பரேட்டிங் சிஸ்டமான Model ML, மத்திய கிழக்குப் பகுதியில் தனது விரிவாக்கத்தைத் தொடங்கியுள்ளது. இந்நிறுவனம் துபாயில் புதிய அலுவலகத்தைத் திறந்துள்ளதுடன், இப்பகுதிக்கான பொது மேலாளராக Raghav Sehgal-ஐ நியமித்துள்ளது.",
+    "slug": "model-ml-opens-dubai-office"
+  },
+  {
+    "id": "c7af9275b658371c",
+    "title": "Ziina Secures Triple CBUAE Licensing Across Payments, Stored Value, and Exchange",
+    "summary": "Ziina becomes the first UAE fintech to secure CBUAE licenses across retail payments, stored value, and exchange, enabling unified digital wallets, merchant acquiring, and cross-border transfers.\nThe post Ziina Secures Triple CBUAE Licensing Across Payments, Stored Value, and Exchange appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/ziina-secures-triple-cbuae-licensing-across-payments-stored-value-and-exchange/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Ziina",
+      "CBUAE",
+      "United Arab Emirates"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T09:36:08.000Z",
+    "fetchedAt": "2026-10-22T09:43:01.382Z",
+    "isDuplicateOf": null,
+    "content": "Ziina has become the first UAE fintech to secure triple licensing from the CBUAE across retail payments, stored value, and exchange. This major regulatory milestone enables the company to offer unified digital wallets, merchant acquiring services, and cross-border money transfers, strengthening its financial services footprint in the region.",
+    "content_ta": "CBUAE-டிடமிருந்து ரீடெய்ல் பேமெண்ட்ஸ், ஸ்டோர்டு வேல்யூ மற்றும் எக்ஸ்சேஞ்ச் ஆகிய மூன்று பிரிவுகளில் உரிமம் பெறும் முதல் UAE கம்பெனி என்ற பெருமையை Ziina பெற்றுள்ளது. இந்த முக்கிய ஒழுங்குமுறை அங்கீகாரம் மூலம், இந்நிறுவனம் ஒருங்கிணைந்த டிஜிட்டல் வாலட்டுகள், மெர்ச்சென்ட் அக்வயரிங் மற்றும் எல்லை தாண்டிய பணப் பரிமாற்ற சேவைகளை வழங்க வழிவகுத்துள்ளது.",
+    "slug": "ziina-secures-triple-cbuae-licensing-across-payments-stored-value-and-exchange"
   }
 ]
