@@ -1,43 +1,844 @@
 [
   {
-    "id": "d20dfdf7c1e54f0f",
-    "title": "Model ML opens Dubai office",
-    "summary": "Model ML, the agentic operating system for financial and professional services, is expanding in the Middle East with a new Dubai office and the appointment of Raghav Sehgal as General Manager for the region.",
+    "id": "08d5cf86d4a28551",
+    "slug": "monero-jumps-13-are-xmr-bulls-paying-more-for-a-crowded-trade",
+    "title": "Monero jumps 13% – Are XMR bulls paying more for a crowded trade?",
+    "tags": [
+      "Monero"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T12:00:43.000Z"
+  },
+  {
+    "id": "59bbd46e08fc9a04",
+    "slug": "qubic-s-recovery-rules-require-ownership-checks-even-for-unstolen-funds-in-vulnerable-wallets",
+    "title": "Qubic’s recovery rules require ownership checks even for unstolen funds in vulnerable wallets",
+    "tags": [
+      "Qubic",
+      "CryptoSlate"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T12:00:24.000Z"
+  },
+  {
+    "id": "51190915a7b3bb81",
+    "slug": "strategy-spent-record-cash-on-strc-buybacks-at-its-worst-price-yet",
+    "title": "Strategy spent record cash on STRC buybacks at its worst price yet",
+    "tags": [
+      "Strategy",
+      "STRC",
+      "Michael Saylor"
+    ],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T12:00:17.000Z"
+  },
+  {
+    "id": "e029926c6f3d0928",
+    "slug": "dune-launches-onchain-trading-data-feeds-as-tokenized-markets-expand",
+    "title": "Dune launches onchain trading data feeds as tokenized markets expand",
+    "tags": [
+      "Dune"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T12:00:00.000Z"
+  },
+  {
+    "id": "0a9898673b0af715",
+    "slug": "sofi-launches-interest-bearing-fdic-insured-tokenized-deposit-for-crypto-users",
+    "title": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
+    "tags": [
+      "SoFi"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T12:00:00.000Z"
+  },
+  {
+    "id": "4d39c96d859eb9c8",
+    "title": "Why small businesses hesitate on AI in finance, and how BILL is addressing it",
+    "summary": "At Money 2020, BILL announced it had surpassed $2 trillion in cumulative payment volume and unveiled a suite of AI tools for finance teams. Tara Wellington, the company’s VP of Product Management, says the launch was shaped by a tension she hears constantly from customers. Small and lower mid-market businesses are eager for the time … \nContinue reading \"Why small businesses hesitate on AI in finance, and how BILL is addressing it\"\nThe post Why small businesses hesitate on AI in finance, and how BILL is addressing it appeared first on Tearsheet.",
     "hasSummary": true,
-    "link": "https://www.finextra.com/pressarticle/111399/model-ml-opens-dubai-office?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "link": "https://tearsheet.co/partner/why-small-businesses-hesitate-on-ai-in-finance-and-how-bill-is-addressing-it/?utm_source=rss&utm_medium=rss&utm_campaign=why-small-businesses-hesitate-on-ai-in-finance-and-how-bill-is-addressing-it",
+    "source": "Tearsheet",
+    "tags": [
+      "BILL"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T12:00:00.000Z",
+    "fetchedAt": "2026-10-22T12:01:37.674Z",
+    "isDuplicateOf": null,
+    "content": "At the Money 2020 event, BILL announced surpassing $2 trillion in cumulative payment volume and introduced a new suite of AI tools designed for finance teams. Company leadership noted that the launch addresses the ongoing hesitation and tension small and lower mid-market businesses face when adopting artificial intelligence for financial operations.",
+    "content_ta": "Money 2020 நிகழ்வில், BILL நிறுவனம் தனது ஒட்டுமொத்த பணப்பரிமாற்ற மதிப்பு $2 டிரில்லியனைக் கடந்துவிட்டதாக அறிவித்ததுடன், நிதித்துறை குழுக்களுக்காக உருவாக்கப்பட்ட புதிய AI கருவிகளையும் அறிமுகப்படுத்தியது. நிதி தொடர்பான பணிகளில் செயற்கைத்திறனைப் பயன்படுத்துவதில் சிறு மற்றும் நடுத்தர வணிகங்கள் தயக்கம் காட்டுவதைக் கருத்தில் கொண்டே இந்த புதிய கருவிகள் அறிமுகப்படுத்தப்பட்டுள்ளதாக நிறுவனத்தின் தலைமைப் பொறுப்பாளர்கள் தெரிவித்தனர்.",
+    "slug": "why-small-businesses-hesitate-on-ai-in-finance-and-how-bill-is-addressing-it"
+  },
+  {
+    "id": "93bf6b0c7e6d27be",
+    "slug": "meta-platforms-future-spending-commitments-climb-to-825-billion",
+    "title": "Meta Platforms’ future spending commitments climb to $825 billion",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-10-22T11:42:19.000Z"
+  },
+  {
+    "id": "b58d7d5641e5e095",
+    "slug": "google-deepmind-and-cambridge-ai-agent-cracks-new-rules-for-11-busy-beaver-machines",
+    "title": "Google DeepMind and Cambridge AI agent cracks new rules for 11 Busy Beaver machines",
+    "tags": [
+      "Google DeepMind",
+      "Cambridge"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T11:37:59.000Z"
+  },
+  {
+    "id": "83a814236b6e4642",
+    "slug": "solana-s-vida-token-outtrades-its-own-stock-by-248",
+    "title": "Solana’s VIDA token outtrades its own stock by 248%",
+    "tags": [
+      "Solana",
+      "VIDA"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T11:35:47.000Z"
+  },
+  {
+    "id": "69f7782618fc933a",
+    "slug": "siemens-and-nvidia-sign-agreement-to-build-an-industrial-ai-operating-system",
+    "title": "Siemens and Nvidia sign agreement to build an industrial AI operating system",
+    "tags": [
+      "Siemens",
+      "Nvidia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T11:34:37.000Z"
+  },
+  {
+    "id": "67bc723acf6ec5db",
+    "title": "LendingTree wants to own an earlier step in the loan shopping journey",
+    "summary": "A borrower looking for a loan can now use an AI chatbot through a purpose-built integration to explore what they might qualify for, estimate borrowing costs, or identify the type of loan that fits their needs. They can do much of that research before they ever visit a financial marketplace. LendingTree wants to be part … \nContinue reading \"LendingTree wants to own an earlier step in the loan shopping journey\"\nThe post LendingTree wants to own an earlier step in the loan shopping journey appeared first on Tearsheet.",
+    "hasSummary": true,
+    "link": "https://tearsheet.co/lending/lendingtree-wants-to-own-an-earlier-step-in-the-loan-shopping-journey/?utm_source=rss&utm_medium=rss&utm_campaign=lendingtree-wants-to-own-an-earlier-step-in-the-loan-shopping-journey",
+    "source": "Tearsheet",
+    "tags": [
+      "LendingTree"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T11:30:00.000Z",
+    "fetchedAt": "2026-10-22T12:01:37.674Z",
+    "isDuplicateOf": null,
+    "content": "LendingTree is expanding its presence in the loan shopping journey by integrating an AI chatbot. This tool allows borrowers to explore loan qualifications, estimate borrowing costs, and determine suitable loan types before visiting a traditional financial marketplace. By introducing this capability, LendingTree aims to engage users earlier in their research process.",
+    "content_ta": "LendingTree தனது கடன் தேடும் சேவையில் AI chatbot-ஐ இணைப்பதன் மூலம் வாடிக்கையாளர்களை முன்கூட்டியே ஈர்க்க திட்டமிட்டுள்ளது. இதன் மூலம் கடன் பெறுவோர் பாரம்பரிய சந்தைக்குச் செல்வதற்கு முன்பே தகுதிகள், செலவுகள் மற்றும் தங்களுக்குப் பொருத்தமான கடன் வகைகளை ஆராய முடியும்.",
+    "slug": "lendingtree-wants-to-own-an-earlier-step-in-the-loan-shopping-journey"
+  },
+  {
+    "id": "7d02374c5f636760",
+    "slug": "spotify-stock-jumps-5-after-earnings-can-strong-q4-guidance-fuel-the-next-rally",
+    "title": "Spotify Stock Jumps 5% After Earnings: Can Strong Q4 Guidance Fuel the Next Rally?",
+    "tags": [
+      "Spotify",
+      "Wall Street"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T11:28:47.000Z"
+  },
+  {
+    "id": "1e7798826465b161",
+    "slug": "btc-hype-and-zec-ready-for-a-rebound-analyst-explains-why",
+    "title": "BTC, HYPE, and ZEC Ready for a Rebound? Analyst Explains Why",
+    "tags": [
+      "Bitcoin",
+      "Zcash"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T11:23:45.000Z"
+  },
+  {
+    "id": "20267bc74156f836",
+    "slug": "aave-proposes-v3-8-upgrade-to-add-reentrancy-protection-across-16-networks",
+    "title": "Aave proposes V3.8 upgrade to add reentrancy protection across 16 networks",
+    "tags": [
+      "Aave"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T11:20:27.000Z"
+  },
+  {
+    "id": "38c1389f6e68f201",
+    "slug": "crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
+    "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T11:20:04.000Z"
+  },
+  {
+    "id": "8b4538779d97edc0",
+    "slug": "nebius-lands-3-5-billion-credit-facility-from-citi-to-fuel-ai-build-out",
+    "title": "Nebius lands $3.5 billion credit facility from Citi to fuel AI build-out",
+    "tags": [
+      "Nebius",
+      "Citi"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T11:16:01.000Z"
+  },
+  {
+    "id": "8201bfbcbb4446ee",
+    "slug": "nvidia-s-jensen-huang-tells-nscale-to-work-around-the-clock-on-data-center-delays",
+    "title": "Nvidia’s Jensen Huang tells Nscale to work around the clock on data center delays",
+    "tags": [
+      "Nvidia",
+      "Nscale",
+      "Jensen Huang"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T11:15:22.000Z"
+  },
+  {
+    "id": "50bcc8a684d48d91",
+    "slug": "bybit-wins-vara-approval-for-spot-exchange-services-in-dubai",
+    "title": "Bybit wins VARA approval for spot exchange services in Dubai",
+    "tags": [
+      "Bybit",
+      "Dubai",
+      "Virtual Assets Regulatory Authority"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T11:15:20.000Z"
+  },
+  {
+    "id": "d2b633704461ca6c",
+    "slug": "trump-hints-at-apple-s-100m-pennsylvania-titanium-investment-for-new-iphone",
+    "title": "Trump hints at Apple’s $100M Pennsylvania titanium investment for new iPhone",
+    "tags": [
+      "Apple",
+      "Donald Trump",
+      "Pennsylvania",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T11:14:54.000Z"
+  },
+  {
+    "id": "036ec2a6f9a2b2c8",
+    "title": "GCEX launches digital assets options",
+    "summary": "GCEX has launched options on Bitcoin (BTC) and Ethereum (ETH) for eligible professional and institutional clients.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111405/gcex-launches-digital-assets-options?utm_medium=rssfinextra&utm_source=finextrafeed",
     "source": "Finextra",
+    "tags": [
+      "GCEX",
+      "Bitcoin",
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T11:12:00.000Z",
+    "fetchedAt": "2026-10-22T12:01:37.674Z",
+    "isDuplicateOf": null,
+    "content": "Digital prime brokerage GCEX has expanded its product offering by launching options on Bitcoin and Ethereum. The new derivatives are designed specifically for eligible professional and institutional clients, providing these market participants with advanced trading tools to manage their digital asset exposure more effectively.",
+    "content_ta": "டிஜிட்டல் ப்ரைம் ப்ரோக்கரேஜ் நிறுவனமான GCEX, Bitcoin மற்றும் Ethereum-க்கான ஆப்ஷன்ஸ் வர்த்தகத்தை அறிமுகப்படுத்தியுள்ளது. தகுதியான தொழில்முறை மற்றும் நிறுவன வாடிக்கையாளர்களுக்காக பிரத்யேகமாக உருவாக்கப்பட்டுள்ள இந்த புதிய வழித்தோன்றல் கருவிகள், டிஜிட்டல் சொத்து முதலீடுகளை திறம்பட நிர்வகிக்க உதவுகின்றன.",
+    "slug": "gcex-launches-digital-assets-options"
+  },
+  {
+    "id": "dec6c2e416c236cc",
+    "title": "Moneybox Sets Out Six Policy Asks to Bring 7 Million More People Into Stocks and Shares ISAs by 2035",
+    "summary": "Moneybox, the award winning wealth management platform with over 2 million customers and £23 billion in assets under administration, has today launched a retail investing manifesto that sets out six key policy asks to take the UK from a nation of savers to a nation of confident investors. \nThe manifesto, which was previewed at an exclusive event at One Great George Street on Wednesday 21st October, calls on the government to double down on making investing as easy as saving. If done correctly, the opportunity is significant: 7 million adults have £10,000 or more sitting in cash savings, the real-world illustration of findings from Moneybox’s 2026 Financial Confidence Index that shows confidence in investing (40%) significantly trails confidence in saving (83%). The manifesto argues that closing this confidence gap with practical, behavioural and product-led policy changes could help bring those savers into the stocks and shares ecosystem.\nBrian Byrnes, Director of Personal Finance at Moneybox said: “The policy asks in our manifesto are designed to remove the structural and cultural barriers holding people back, creating a clear pathway to bring millions more people into stocks and shares ISAs by 2035. \n“We know that more of our friends, family, and the general public should be investing, and while great strides have been made with the democratisation of access thanks to technology, there is more that can and should be done to ensure people achieve the resilience and security that investing can bring.” \nThe six policy asks outlined in the manifesto are:\nBuild on the success of the Lifetime ISA\nRather than creating new products from scratch, the government should build on the success of the Stocks and Shares Lifetime ISA, a government backed investment product that is growing in popularity every year.\nUpdate the adviser charging rules\nReview and modernise the adviser charging rules to allow for more innovative and accessible pricing models for advice, closing the advice gap and helping millions invest with greater confidence.\nLaunch government-backed investment funds\nEstablish a range of low-cost diversified funds with a home country bias (similar to Sweden's AP7 Såfa) to provide first-time investors with a clear, confident and sensible entry point to investing.  \nExtend workplace auto-enrolment to saving and investing \nExtending workplace auto-enrolment to saving and investing accounts that employees are opted in to. This will remove friction and build long-term investing habits effortlessly.\nProvide workplace investment and pension health checks\nMake workplace investment and pension health checks more regular, more personalised and easier to access so savers and investors get reassurance that they’re on the right track.\nProduce a 10-year retail investing strategy with a government champion\nAppoint a dedicated government champion to unite fragmented oversight, establish shared goals, and lead a unified 10-year strategy to grow retail investment.\nThe launch of Moneybox’s retail investing manifesto also coincides with the 10th anniversary of the launch of its app. Drawing on those 10 years’ of experience, and insights from over 2 million customers, it believes these measures can broaden participation and build investing confidence nationwide. \nNoYesPersonal Finance22 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/personal-finance/moneybox-sets-out-six-policy-asks-bring-7-million-more-people-stocks-and",
+    "source": "Financial IT",
+    "tags": [
+      "Moneybox",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T11:11:39.000Z",
+    "fetchedAt": "2026-10-22T12:01:37.674Z",
+    "isDuplicateOf": null,
+    "content": "Moneybox has launched a retail investing manifesto featuring six key policy recommendations aimed at bringing seven million more people into stocks and shares ISAs by 2035. The proposals include building on the Lifetime ISA, updating adviser charging rules, launching government-backed investment funds, extending workplace auto-enrolment, providing regular pension health checks, and appointing a government champion to lead a ten-year retail investment strategy across the UK.",
+    "content_ta": "2035-க்குள் 7 மில்லியன் மக்களை Stocks and Shares ISA-க்களில் கொண்டுவரும் நோக்கில், Moneybox நிறுவனம் ஆறு முக்கிய கொள்கை கோரிக்கைகளுடன் கூடிய சில்லறை முதலீட்டு அறிக்கையை வெளியிட்டுள்ளது. Lifetime ISA-வை மேம்படுத்துவது, முதலீட்டு ஆலோசனை விதிகளைப் புதுப்பிப்பது, அரசாங்க ஆதரவு நிதித் திட்டங்களை உருவாக்குவது மற்றும் Workplace Auto-enrolment-ஐ விரிவுபடுத்துவது உள்ளிட்ட பல பரிந்துரைகள் இதில் அடங்கும்.",
+    "slug": "moneybox-sets-out-six-policy-asks-to-bring-7-million-more-people-into-stocks-and-shares-isas-by-2035"
+  },
+  {
+    "id": "18411990dbd5fe83",
+    "slug": "andreessen-horowitz-to-rename-a16z-crypto-fund-a16z-frontier-the-information",
+    "title": "Andreessen Horowitz to rename a16z crypto fund a16z frontier: The Information",
+    "tags": [
+      "Andreessen Horowitz"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T11:10:27.000Z"
+  },
+  {
+    "id": "a36d8e8b28abba8c",
+    "title": "Ondato and Trinsic Expand Digital Identity Verification Amid EUDI Transition",
+    "summary": "Ondato, a compliance technology provider offering an all-in-one platform for identity, risk, and customer journey across IDV/KYC, AML and age verification for regulated businesses, announces a partnership with Trinsic to verify their customers through digital identity. This partnership arrives at a critical time in the EU, as multiple member states roll out  EU Digital Identity Wallets under the European Digital Identity (EUDI) mandate. Trinsic will act as Ondato’s infrastructure provider behind the new digital identity capability.\nAccording to eIDAS 2.0 (Regulation (EU) 2024/1183), all 27 EU member countries must offer at least one digital identity wallet to their citizens by the end of 2026. These digital wallets are designed as government-issued or government-recognised mobile apps that allow an individual to prove their identity and voluntarily share verified information about themselves when interacting with regulated businesses. By December 2027, banks, financial institutions and other regulated businesses that require strong user authentication will be required to accept these wallets when requested by users as a way to verify customers.\nOndato is expanding its capabilities now to prepare for this major development in European digital identity. This builds on the national digital identity methods Ondato already supports, such as Smart-ID. EUDI wallet-based verification will become part of Ondato’s larger customer intelligence platform. As with all of Ondato’s verification options, this functionality will feed into risk scoring, continuous fraud monitoring and detection, and optimising the entire customer journey.\nLiudas Kanapienis, co-founder and CEO of Ondato, says, “EU digital identity wallets are the biggest change in a generation to how Europeans prove who they are. For many regulated businesses, accepting them won't be optional. With Trinsic, our clients can accept wallets as they launch, on the same platform they already use for verification, risk and monitoring. It's another step in our expansion as the intelligence layer between businesses and their customers, in Europe and beyond.”\nRiley Hughes, CEO of Trinsic, says, “As the leading digital ID gateway for identity verification, Trinsic has been preparing for EUDI since the earliest phase of the mandate. We already support national identity authentication services for France, Italy, Denmark, Austria, and other member states. With this partnership, we’re providing the necessary technology backing for Ondato’s customers amidst the most important European digital ID mandate of the decade.”\nOndato’s EUDI wallet acceptance capabilities will live alongside its existing suite of identity verification and KYC methods. Using Ondato, businesses will continue to utilise a robust roster of digital identity verification tools backed by continuous fraud protection, all available on a single comprehensive platform.\nNoYesRegTech22 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/regtech/ondato-and-trinsic-expand-digital-identity-verification-amid-eudi-transition",
+    "source": "Financial IT",
+    "tags": [
+      "Ondato",
+      "Trinsic",
+      "European Union"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T11:08:24.000Z",
+    "fetchedAt": "2026-10-22T12:01:37.674Z",
+    "isDuplicateOf": null,
+    "content": "Ondato has partnered with Trinsic to integrate digital identity verification into its compliance platform, preparing for the upcoming rollout of EU Digital Identity Wallets under the EUDI mandate. Trinsic will serve as the infrastructure provider, enabling regulated businesses to accept these government-recognised wallets for user authentication. This collaboration aims to help companies comply with the eIDAS 2.0 regulation and enhance their overall customer intelligence and fraud prevention measures.",
+    "content_ta": "EUDI mandate-ன் கீழ் EU Digital Identity Wallets வருகையை முன்னிட்டு, தனது இணக்கத்தன்மை தளத்தில் டிஜிட்டல் அடையாள சரிபார்ப்பை ஒருங்கிணைக்க Ondato நிறுவனம் Trinsic-டன் கூட்டு சேர்ந்துள்ளது. ஒழுங்குபடுத்தப்பட்ட வணிகங்கள் பயனர் அங்கீகாரத்திற்காக இந்த பணப்பைகளை ஏற்க Trinsic உள்கட்டமைப்பு வழங்குநராக செயல்படும். இந்த ஒத்துழைப்பு இ-ஐடாஸ் 2.0 ஒழுங்குமுறைக்கு இணங்க நிறுவனங்களுக்கு உதவும்.",
+    "slug": "ondato-and-trinsic-expand-digital-identity-verification-amid-eudi-transition"
+  },
+  {
+    "id": "09117e29210cbd22",
+    "slug": "apple-emerges-as-the-market-s-preferred-hedge-against-ai-stock-volatility",
+    "title": "Apple emerges as the market’s preferred hedge against AI stock volatility",
+    "tags": [
+      "Apple"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T11:08:14.000Z"
+  },
+  {
+    "id": "ed5218c0a64edb3f",
+    "slug": "david-s-bridal-plans-to-spin-off-ai-platform-pearl-as-a-public-company",
+    "title": "David’s Bridal plans to spin off AI platform Pearl as a public company",
+    "tags": [
+      "David's Bridal",
+      "Pearl"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T11:06:58.000Z"
+  },
+  {
+    "id": "682b70247f629079",
+    "title": "85% of Travel Intermediaries Say FX Cost Is a Challenge, Despite Only One in Four Tracking This Cost",
+    "summary": "Modulr, the payments automation platform built to scale, has today revealed exclusive research highlighting the hidden cost of FX for travel intermediaries. The research reveals that, while 85% of travel intermediaries say FX cost is a challenge, only 26% track this cost precisely. 88% of respondents roughly estimate that it is more than €300,000 per year.\nThe research launches alongside Modulr’s new FX solution featuring account-to-account and virtual card currency exchange, so you can convert on demand with transparent, competitive rates as well as issuing virtual cards in your supplier's currency and funding from your primary balance.\nIntegrated directly into Modulr’s platform, this gives businesses a single place to convert balances, fund cross-currency card payments, and manage multi-currency operations, with no need for separate FX providers.\nWhen fragmented FX becomes an operational problem\nFor businesses running multi-currency operations, FX has long meant a separate provider, a separate process, and a separate reconciliation trail, ultimately creating risk. Modulr’s new research, surveying 400 finance, treasury, and operations decision-makers at travel intermediaries across the UK and Western Europe, highlights the real cost of this risk. 93% of respondents, for example, say their business has paid to convert the same money twice, and only 5% have processes to stop it.\nOnly one third (32%) describe their FX as fully integrated, or handled automatically in the platform they use to pay suppliers. Treasury teams are spending more time managing disconnected systems than optimising payments operations. Costs are often hard to predict, and the burden compounds as transaction volume grows.\nModulr’s integrated FX solution addresses these challenges and reduces operational cost by handling conversion inside the same platform used for payments, accounts, and cards, creating a more automated and streamlined process. Rates are transparent, competitive with the mid-market rate, and consistent at weekends with no surcharge. Businesses pay only the exchange rate margin on each conversion, with no fixed or monthly fees.\nMelek Pirgon, Chief Product Officer at Modulr, said: “For businesses scaling across currencies, FX can often mean friction, with a separate provider, a separate reconciliation process, and costs that are hard to predict. The research we have launched today highlights this, with just one quarter of businesses tracking the cost of FX despite 85% citing it as a challenge.\nThat is one of the key problems we are removing with our FX solution, built directly into the same platform our customers already use for automating payments. This means transparent and competitive rates as well as a full audit trail with no new system or stakeholders to manage. I’m excited to see how we build this offering out in the coming months, including offering booking-linked FX protection to ease the FX cost of booking margins for our customers.”\nLooking ahead, Modulr will be expanding its FX solution to offer booking-linked FX protection, helping travel businesses secure exchange rates for future supplier payments and manage the impact of booking changes. By connecting hedging with virtual cards, account-to-account payments and reconciliation, the FX component of booking margins is made much more predictable.\nNoYesInfrastructure22 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/infrastructure/85-travel-intermediaries-say-fx-cost-challenge-despite-only-one-four-tracking",
+    "source": "Financial IT",
+    "tags": [
+      "Modulr",
+      "United Kingdom",
+      "Western Europe"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T11:02:28.000Z",
+    "fetchedAt": "2026-10-22T12:01:37.674Z",
+    "isDuplicateOf": null,
+    "content": "A new study by Modulr reveals that 85% of travel intermediaries view foreign exchange costs as a challenge, yet only 26% precisely track these expenses. To address fragmented FX operations, Modulr has launched an integrated FX solution enabling businesses to convert currencies on demand, issue virtual cards, and manage multi-currency operations within a single platform without separate providers.",
+    "content_ta": "Travel intermediaries-ல் 85% பேர் FX செலவுகளை ஒரு சவாலாகப் பார்க்கின்றனர், ஆனால் 26% பேர் மட்டுமே அவற்றை துல்லியமாகக் கண்காணிப்பதாக Modulr-ன் புதிய ஆய்வு தெரிவிக்கிறது. உடைந்த FX செயல்பாடுகளைச் சரிசெய்ய, Modulr புதிய FX தீர்வை அறிமுகப்படுத்தியுள்ளது, இது வணிகங்கள் ஒரே தளத்தில் நாணயங்களை மாற்றவும், மெய்நிகர் அட்டைகளை வழங்கவும் உதவுகிறது.",
+    "slug": "85-of-travel-intermediaries-say-fx-cost-is-a-challenge-despite-only-one-in-four-tracking-this-cost"
+  },
+  {
+    "id": "d7c1d68e411af86b",
+    "title": "Kingdom Bank goes live with Temenos SaaS",
+    "summary": "Temenos (SIX: TEMN), a global leader in banking technology, today announced that Kingdom Bank, a specialist UK bank serving Christian churches, charities and individuals, has successfully gone live on Temenos SaaS running on Microsoft Azure.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111403/kingdom-bank-goes-live-with-temenos-saas?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Kingdom Bank",
+      "Temenos",
+      "Microsoft Azure",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T11:02:00.000Z",
+    "fetchedAt": "2026-10-22T12:01:37.674Z",
+    "isDuplicateOf": null,
+    "content": "Temenos announced that Kingdom Bank, a specialist UK bank serving Christian churches, charities and individuals, has successfully gone live on Temenos SaaS. The banking technology platform is running on Microsoft Azure, helping the institution modernize its operations and better serve its customers.",
+    "content_ta": "கிறிஸ்தவ திருச்சபைகள், தொண்டு நிறுவனங்கள் மற்றும் தனிநபர்களுக்குச் சேவை செய்யும் பிரிட்டனைச் சேர்ந்த Kingdom Bank, தனது சேவைகளை Temenos SaaS-ல் வெற்றிகரமாகத் தொடங்கியுள்ளதாக Temenos அறிவித்துள்ளது. மைக்ரோசாப்ட் அஷ்யூர் (Microsoft Azure) தளத்தில் இயங்கும் இந்த வங்கியியல் தொழில்நுட்பம், நிறுவனத்தின் செயல்பாடுகளை நவீனப்படுத்தவும் வாடிக்கையாளர்களுக்குச் சிறந்த சேவைகளை வழங்கவும் உதவுகிறது.",
+    "slug": "kingdom-bank-goes-live-with-temenos-saas"
+  },
+  {
+    "id": "ef89ac238315c35c",
+    "slug": "solana-targets-faster-finality-while-wall-street-cuts-the-cash-that-must-move",
+    "title": "Solana targets faster finality, while Wall Street cuts the cash that must move",
+    "tags": [
+      "Solana",
+      "National Securities Clearing Corporation"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T11:00:54.000Z"
+  },
+  {
+    "id": "1b90e9358c7208ac",
+    "title": "Neonomics partners with Danish payments platform",
+    "summary": "Easypiecy, a digital platform used by driving schools across Denmark, has partnered with Neonomics to integrate Nello Pay, enabling learners to pay for driving courses directly from their bank account.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111402/neonomics-partners-with-danish-payments-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Neonomics",
+      "Easypiecy",
+      "Denmark"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T10:56:00.000Z",
+    "fetchedAt": "2026-10-22T12:01:37.674Z",
+    "isDuplicateOf": null,
+    "content": "Neonomics has partnered with the Danish digital platform Easypiecy to integrate Nello Pay. The collaboration allows learners using the platform across Denmark to pay for driving courses directly through their bank accounts, streamlining the payment process for driving schools and students alike.",
+    "content_ta": "Neonomics மற்றும் Danish டிஜிட்டல் பிளாட்ஃபார்மான Easypiecy இணைந்து Nello Pay-ஐ ஒருங்கிணைக்க ஒப்பந்தம் செய்துள்ளன. இந்த ஒத்துழைப்பின் மூலம் Denmark முழுவதும் உள்ள ஓட்டுநர் பள்ளிகளில் பயிலும் மாணவர்கள், தங்கள் வங்கி கணக்குகள் மூலமாகவே நேரடியாக ஓட்டுநர் பயிற்சிக்கான கட்டணங்களை செலுத்த முடியும்.",
+    "slug": "neonomics-partners-with-danish-payments-platform"
+  },
+  {
+    "id": "39a6b58abde1723b",
+    "title": "Strategic Partnership With Ecommpay Gives Dolphin Dynamics’ Travel Clients Access to Global Payments Platform",
+    "summary": "Travel technology provider, Dolphin Dynamics, is working with inclusive global payments provider, Ecommpay, to provide its clients with access to the award-winning payment gateway for local and alternative payment methods in any currency. The strategic partnership also allows travel agents, tour operators and travel management companies (TMCs) to benefit from Ecommpay’s risk and authorisation tooling.\nUK-based Dolphin Dynamics provides travel businesses with an integrated suite of CRM, reservations, back-office and booking-engine software designed to reduce daily administration and streamline operational processes. Its platform provides a central environment for managing bookings and associated operational and financial processes. Working with tour operators, leisure travel agencies and TMCs, from independents to multinational corporations, Dolphin Dynamics supports businesses in more than 15 countries.\nThrough the strategic partnership, Dolphin Dynamics integrates Ecommpay’s payment capabilities with its travel technology platform. Customers completing a payment are directed to Ecommpay’s hosted payment page, where payment information is entered and processed within Ecommpay’s environment. Dolphin then uses Ecommpay’s API to retrieve the payment status, update the booking accordingly and register the payment.\nBy linking payment activity back into Dolphin, payment status can be reflected within the booking workflow and the corresponding payment registered in Dolphin, helping connect the customer payment journey with the wider booking management process.\n“Our aim is to simplify back-office processes for our travel clients, ensuring every stage of the customer journey runs smoothly and without friction,” said Chuck Richardson, Managing Director at Dolphin Dynamics. “To achieve this goal, we carefully select specialists that will deliver fit for purpose solutions.\n“Ecommpay delivers secure and accessible payments across borders and in all currencies, allowing our clients’ customers to pay using their preferred payment methods. This boosts conversions and profitability by increasing confidence and convenience and supports a positive booking experience, from research to booking confirmation.”\nRoy Blokker of Ecommpay added: “This partnership deepens our footprint within the travel and hospitality sector, where we work with specialist travel-tech providers who need affordable access to multi-currency acceptance and conversion. Our inclusive and accessible payments platform ensures all payments are secure and compliant, regardless of region or currency.\n“Dolphin Dynamics helps travel operators of all sizes to optimise processes and grow sales by streamlining back-office systems, and now the payment stage of the checkout journey can run as smoothly as the rest of the experience, without adding complexity for the travel operator.”\n\nNoYesPayments22 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/payments/strategic-partnership-ecommpay-gives-dolphin-dynamics-travel-clients-access-global",
+    "source": "Financial IT",
+    "tags": [
+      "Dolphin Dynamics",
+      "Ecommpay"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T10:55:18.000Z",
+    "fetchedAt": "2026-10-22T12:01:37.674Z",
+    "isDuplicateOf": null,
+    "content": "Travel technology provider Dolphin Dynamics has partnered with global payments platform Ecommpay to give travel clients access to secure multi-currency payment solutions. The integration connects Ecommpay’s payment gateway directly into Dolphin Dynamics’ platform, streamlining the booking and payment workflow for travel agents, tour operators, and management companies across multiple countries.",
+    "content_ta": "Travel technology provider-IN Dolphin Dynamics, global payments platform-ளான Ecommpay-உடன் இணைந்துள்ளது. இதன் மூலம் travel clients-களுக்கு secure multi-currency payment solutions கிடைக்க வழி செய்யப்பட்டுள்ளது. இந்த integration ஆனது Ecommpay-ன் payment gateway-ஐ Dolphin Dynamics platform-டன் இணைத்து, booking மற்றும் payment workflows-ஐ streamlining செய்ய உதவுகிறது.",
+    "slug": "strategic-partnership-with-ecommpay-gives-dolphin-dynamics-travel-clients-access-to-global-payments"
+  },
+  {
+    "id": "10c70ff7c2d38ace",
+    "slug": "coindcx-pledges-no-user-losses-after-16m-transfers-draw-scrutiny",
+    "title": "CoinDCX pledges no user losses after $16M transfers draw scrutiny",
+    "tags": [
+      "CoinDCX"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T10:53:10.000Z"
+  },
+  {
+    "id": "39c8305b5c84ba18",
+    "slug": "bitcoin-slides-below-82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
+    "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
+    "tags": [
+      "Bitcoin",
+      "Nasdaq",
+      "CoinDesk"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T10:50:04.000Z"
+  },
+  {
+    "id": "3fde743665ccf954",
+    "title": "AI debt collection platform launches in Norway",
+    "summary": "PAIR Finance, Europe’s leading AI debt collection platform, today launches in Norway.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111401/ai-debt-collection-platform-launches-in-norway?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "PAIR Finance",
+      "Norway"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T10:48:00.000Z",
+    "fetchedAt": "2026-10-22T12:01:37.674Z",
+    "isDuplicateOf": null,
+    "content": "PAIR Finance, a leading artificial intelligence-driven debt collection platform in Europe, has officially launched its services in Norway. The expansion brings the company's automated and consumer-centric financial technology solutions to the Norwegian market, aiming to modernize how debt collection is handled in the region.",
+    "content_ta": "ஐரோப்பாவின் முன்னணி AI அடிப்படையிலான கடன் வசூல் தளமான PAIR Finance, நார்வே நாட்டில் தனது சேவைகளை அதிகாரப்பூர்வமாகத் தொடங்கியுள்ளது. இந்த விரிவாக்கமானது நிறுவனத்தின் தானியங்கு மற்றும் நுகர்வோர் மைய நிதி தொழில்நுட்ப தீர்வுகளை நார்வே சந்தைக்குக் கொண்டுவருகிறது, இதன் மூலம் அப்பகுதியில் கடன் வசூல் கையாளப்படும் முறையை நவீனமாக்குவதை நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "ai-debt-collection-platform-launches-in-norway"
+  },
+  {
+    "id": "a61956985d2bbc0b",
+    "slug": "coinbase-derivatives-to-go-temporarily-offline-this-date-in-october-reason",
+    "title": "Coinbase Derivatives to Go Temporarily Offline This Date in October: Reason",
+    "tags": [
+      "Coinbase",
+      "Coinbase Derivatives"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T10:47:00.000Z"
+  },
+  {
+    "id": "76984c5c8478d7d7",
+    "title": "Mastercard Expands First-Party Trust Program to Help European Merchants From Rising “Friendly” Fraud",
+    "summary": "Mastercard today announced the expansion of its First-Party Trust program across Europe, to address the growing trend in first-party fraud, often referred to as ‘friendly’ fraud. This occurs when a cardholder disputes a legitimate purchase, either intentionally or because they do not recognize the transaction on their statement.\nGlobal chargeback volume is predicted to reach 324 million transactions in 2028, a double-digit increase over the 2025 forecast of 261 million1. As digital commerce continues to grow across Europe, merchants and issuers face increasing pressure to manage disputes efficiently while accurately distinguishing genuine fraud from legitimate purchases.\nMastercard’s First-Party Trust program is designed to support this effort by increasing transaction transparency, through risk model-driven insights to inform authorization decisioning and merchant-provided evidence to assist issuers in reviewing disputed transactions. European issuers will be able to make more informed dispute decisions by more accurately distinguishing third-party fraud from first-party fraud.\nHow It Works\nThe First-Party Trust program aims to create greater transaction transparency between issuers and merchants, by giving merchants, including small businesses, the opportunity to submit pertinent insights to counter first-party fraud.\nMastercard provides two paths for the sharing of these enhanced insights between a merchant and card issuer. Merchants can send the insights directly as part of the transaction, or they can do so as part of the disputes process. The program enhances the resolution of such disputes by providing:\nFirst Party Trust insights in authorization, powered by Mastercard fraud models, to help issuers separate third-party fraud, where someone's card details are used without their consent, from first-party fraud. Issuers get fraud-risk signals that point to likely third-party fraud and flag the transactions with the highest levels of trust;\nMerchant-provided evidence that supports issuers assess the legitimacy of a disputed transaction, including information associated with the purchase, delivery, and authentication of the transaction, where available and appropriate;\nNew rules defining compelling evidence that can support issuers with the review of disputed purchases and reduce unnecessary chargebacks, including merchant chargeback protection for disputes that meet First-Party Trust evidence sharing requirements.\nMichele Centemero, Executive Vice President, Services Europe, at Mastercard says: “As digital commerce continues to grow, building trust across the ecosystem has never been more important.  By helping merchants and issuers access relevant transaction information needed to review disputed purchases, we can reduce unnecessary disputes while strengthening confidence across the payments ecosystem.”\nFirst-Party Trust is a global program that launched in the U.S., Canada, Latin America, the Caribbean, and across the Asia Pacific region in 2024. It will become available in Eastern Europe, Middle East and Africa in October 2026, and across Europe in July 2027.\nNoYesPayments22 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/payments/mastercard-expands-first-party-trust-program-help-european-merchants-rising-friendly",
+    "source": "Financial IT",
+    "tags": [
+      "Mastercard",
+      "Europe"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T10:45:29.000Z",
+    "fetchedAt": "2026-10-22T12:01:37.674Z",
+    "isDuplicateOf": null,
+    "content": "Mastercard has announced the expansion of its First-Party Trust program across Europe to help merchants combat rising first-party or friendly fraud. Set to launch in July 2027, the initiative increases transaction transparency by sharing risk model insights and merchant-provided evidence with issuers. This aims to help accurately distinguish genuine fraud from disputed legitimate purchases, reduce unnecessary chargebacks, and build greater trust across the digital payments ecosystem.",
+    "content_ta": "ஐரோப்பிய நாடுகளில் அதிகரித்து வரும் ஃப்ரெண்ட்லி ஃபிராடு பிரச்சினையை சமாளிக்க உதவ Mastercard நிறுவனம் தனது First-Party Trust திட்டத்தை ஐரோப்பாவில் விரிவுபடுத்துவதாக அறிவித்துள்ளது. ஜூலை 2027-ல் நடைமுறைக்கு வரவுள்ள இத்திட்டம், பரிவர்த்தனை வெளிப்படைத்தன்மையை அதிகரிப்பதன் மூலமும், முறையான வாடிக்கையாளர் தகவல்களை வழங்குவதன் மூலமும் தேவையற்ற சார்ஜ்பேக்குகளைக் குறைக்க உதவுகிறது.",
+    "slug": "mastercard-expands-first-party-trust-program-to-help-european-merchants-from-rising-friendly-fraud"
+  },
+  {
+    "id": "fe934402d995754b",
+    "slug": "u-s-earnings-season-heats-up-as-mexc-tsla-stock-futures-weekly-volume-jumps-101",
+    "title": "U.S. Earnings Season Heats Up as MEXC TSLA Stock Futures Weekly Volume Jumps 101%",
+    "tags": [
+      "MEXC",
+      "Tesla",
+      "SpaceX",
+      "TSLA",
+      "United States"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T10:42:55.000Z"
+  },
+  {
+    "id": "28b8f903bc2326bf",
+    "title": "Businesses Expect AI to Manage Over a Third of Corporate Travel Spend by 2028, Worth an Estimated $700bn Globally",
+    "summary": "AI is expected to manage or authorise more than a third (37%) of corporate travel spend by 2028, equivalent to $700bn (£535bn) globally when applied to GBTA's 2025 business travel spending forecast. New research from Conferma, a global leader in virtual payment technology, reveals how businesses are preparing to give AI agents greater control over company money, extending their role from booking travel to managing payments.\nAcross the organisations surveyed, AI is expected to manage or authorise around 37% of corporate travel spend on average by 2028, while 28% expect agents to manage more than half of their travel budgets.\nControls surrounding agentic purchasing are developing more slowly. While 81% of organisations already have some form of policy, control or payment guardrail in place, only 36% describe those controls as comprehensive.\nMark Ledsham, CEO at Conferma, says, “Agentic spending authority is developing faster than the controls around it. Corporate travel could be one of the first proving grounds for agentic payments because it combines high transaction volumes, clear policies and significant spend.\nGiving an AI agent authority over company money is very different from using AI to recommend a flight or hotel. Businesses need clear limits on what agents can spend, where they can spend it and when human intervention is required. The controls around those decisions must remain fixed, traceable and accountable.”\nLarger travel programmes expect AI to take on more spend\nThe organisations managing the largest corporate travel budgets expect agents to take on the greatest share of spending. Those spending $6.8 million (£5 million) or more each year on corporate travel expect AI to manage around 51% of their travel spend by 2028, compared with around 27% among those spending less than $136,000 (£100,000).\nMore than half, 53%, of organisations spending $6.8 million (£5 million) or more say they already have comprehensive AI controls in place. \nAs agents gain authority over larger pools of corporate spend, limits, supplier controls, monitoring and auditability become increasingly important.\nSenior leaders are more confident than operational teams\nSenior leaders are also substantially more willing to give AI autonomy. 86% of executive leaders and heads of department say they trust AI to manage travel bookings and spend, compared with 62% of travel and procurement decision-makers.\nHowever, greater confidence does not mean fewer concerns. 69% of executive leaders and heads of department identify data security as a concern, compared with 59% of finance respondents and 38% across procurement and travel management. Businesses need greater alignment between leadership ambition and the operational controls required to support autonomous purchasing at scale.\nBusinesses are looking to put controls into the payment itself\nVirtual cards rank highest for perceived security in AI-led corporate travel purchasing, selected by 30% of respondents, ahead of digital wallets at 21% and corporate cards and bank transfers at 19% each.\nAmong organisations with AI purchasing safeguards already in place, 55% require human approval before AI can complete a purchase, 51% use real-time monitoring, 49% apply spending limits and 37% currently use virtual cards with single-use or controlled spending limits.\nUse of controlled virtual cards in this group is expected to rise from 37% to 48% by 2028, the biggest expected increase of any safeguard. As businesses prepare for greater agent autonomy, the findings indicate that attention is turning to payment methods that can carry spending rules into individual transactions.\nLedsham added, “As agents become more capable of acting independently, businesses need a way to delegate spending without handing over unrestricted financial authority. Payments can become part of that control layer. A controlled virtual card allows businesses to capture the speed and efficiency of agentic purchasing without removing the financial guardrails around the transaction. \nCorporate travel has the potential to be the testbed for how businesses will manage a much broader transition towards agentic commerce: giving AI enough authority to act while ensuring control over corporate money remains visible, enforceable and accountable.” \nNoYesArtificial Intelligence22 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/artificial-intelligence/businesses-expect-ai-manage-over-third-corporate-travel-spend-2028",
+    "source": "Financial IT",
+    "tags": [
+      "Conferma"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T10:41:23.000Z",
+    "fetchedAt": "2026-10-22T12:01:37.674Z",
+    "isDuplicateOf": null,
+    "content": "By 2028, businesses expect artificial intelligence to manage over a third of corporate travel spend globally, reaching an estimated $700bn. Research from Conferma highlights that while senior leaders are confident in granting AI greater purchasing autonomy, organizations are increasingly focusing on robust payment controls, such as virtual cards and spending limits, to ensure financial safety and accountability.",
+    "content_ta": "2028-க்குள் நிறுவனங்களின் கார்ப்பரேட் பயணச் செலவுகளில் மூன்றில் ஒரு பங்குக்கு மேல் AI நிர்வகிக்கும் என்று எதிர்பார்க்கப்படுகிறது, இதன் மதிப்பு உலகளவில் சுமார் $700 பில்லியன் ஆகும். Conferma-வின் புதிய ஆய்வின்படி, AI-க்கு அதிக வாங்கும் சுயாட்சியை வழங்குவதில் உயர் தலைவர்கள் நம்பிக்கையுடன் இருந்தாலும், நிதிப் பாதுகாப்பை உறுதி செய்வதற்காக மெய்நிகர் அட்டைகள் போன்ற வலுவான கட்டுப்பாடுகளில் நிறுவனங்கள் அதிக கவனம் செலுத்தி வருகின்றன.",
+    "slug": "businesses-expect-ai-to-manage-over-a-third-of-corporate-travel-spend-by-2028-worth-an-estimated"
+  },
+  {
+    "id": "32236fbb9fbe2a8f",
+    "slug": "bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls",
+    "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
+    "tags": [
+      "Bitcoin",
+      "Tesla",
+      "KOSPI"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T10:38:51.000Z"
+  },
+  {
+    "id": "128697feccbcf045",
+    "slug": "45-day-countdown-why-bitcoin-is-on-strict-deadline-to-confirm-its-new-cycle",
+    "title": "45-Day Countdown: Why Bitcoin Is on Strict Deadline to Confirm Its New Cycle",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T10:38:05.000Z"
+  },
+  {
+    "id": "7b2eb672194ac1cb",
+    "slug": "barclays-plans-to-cut-5-000-jobs-as-it-leans-on-ai-to-trim-costs",
+    "title": "Barclays plans to cut 5,000 jobs as it leans on AI to trim costs",
+    "tags": [
+      "Barclays"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T10:35:38.000Z"
+  },
+  {
+    "id": "53817cd7eda9face",
+    "slug": "nem-price-prediction-2026-2027-2030-will-the-xem-price-go-up",
+    "title": "NEM Price Prediction 2026, 2027 – 2030: Will The XEM Price Go Up?",
+    "tags": [
+      "NEM",
+      "XEM"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T10:28:05.000Z"
+  },
+  {
+    "id": "3095bb2be8d4475d",
+    "slug": "mexc-s-new-token-trading-volume-rises-77-in-september-as-stock-related-trading-expands-into-on",
+    "title": "MEXC’s New-Token Trading Volume Rises 77% in September as Stock-Related Trading Expands Into On-Chain New-Token Markets",
+    "tags": [
+      "MEXC",
+      "United States"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T10:21:16.000Z"
+  },
+  {
+    "id": "18f9c48eaf05af8e",
+    "slug": "crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-110-billion",
+    "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
+    "tags": [
+      "Reliance Jio",
+      "Bitget",
+      "India"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T10:18:28.000Z"
+  },
+  {
+    "id": "6e6caaed2845a9e1",
+    "slug": "certik-flags-820k-exploit-draining-nem-token-s-pancakeswap-liquidity-pool",
+    "title": "CertiK flags $820K exploit draining NEM token’s PancakeSwap liquidity pool",
+    "tags": [
+      "CertiK",
+      "NEM",
+      "PancakeSwap"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T10:12:53.000Z"
+  },
+  {
+    "id": "98755e6000ca656f",
+    "slug": "chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case",
+    "title": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
+    "tags": [
+      "Bitcoin",
+      "United Kingdom",
+      "China",
+      "Tianjin",
+      "London"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T10:09:42.000Z"
+  },
+  {
+    "id": "a944ae7e8676e9ec",
+    "slug": "hugging-face-unveils-carbon-an-open-source-ai-model-family-for-reading-dna",
+    "title": "Hugging Face unveils Carbon, an open-source AI model family for reading DNA",
+    "tags": [
+      "Hugging Face",
+      "Carbon"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T10:09:05.000Z"
+  },
+  {
+    "id": "35dc4a1678e13df7",
+    "slug": "how-much-of-your-money-would-you-let-an-ai-control",
+    "title": "How Much of Your Money Would You Let an AI Control?",
+    "tags": [
+      "BeInCrypto"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T10:08:11.000Z"
+  },
+  {
+    "id": "210b4ccf4e6fec87",
+    "slug": "solana-records-5-trillion-in-stablecoin-volume-in-2026",
+    "title": "Solana records $5 trillion in stablecoin volume in 2026",
+    "tags": [
+      "Solana"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T10:05:21.000Z"
+  },
+  {
+    "id": "87f4809d82f38825",
+    "slug": "pepe-pepe-uniswap-uni-ethena-ena-and-others-whales-are-buying-smaller-altcoins-but-why",
+    "title": "Pepe (PEPE), Uniswap (UNI), Ethena (ENA) and Others: Whales Are Buying Smaller Altcoins, but Why?",
+    "tags": [
+      "Pepe",
+      "Uniswap",
+      "Ethena"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T10:00:00.000Z"
+  },
+  {
+    "id": "7cdc75311b330290",
+    "slug": "is-the-21st-bitcoin-s-unlucky-date-its-latest-breakout-just-fell-apart",
+    "title": "Is the 21st Bitcoin’s Unlucky Date? Its Latest Breakout Just Fell Apart",
+    "tags": [
+      "Bitcoin",
+      "Benjamin Cowen",
+      "BeInCrypto"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T09:59:19.000Z"
+  },
+  {
+    "id": "30e6784d3c64a1df",
+    "title": "Leeds office move",
+    "summary": "The new office will provide 36,097 sq ft of space for our growing Leeds presence. Our Leeds office, currently at 6 Queen Street, has continued to grow since opening in 2022. Securing a new permanent base reflects our commitment to the city and supports our... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/10/319916-leeds-office-move/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Leeds",
+      "6 Queen Street"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-22T09:56:16.000Z",
+    "fetchedAt": "2026-10-22T12:01:37.674Z",
+    "isDuplicateOf": null,
+    "content": "Our growing Leeds office is relocating to a new permanent base providing 36,097 square feet of space. The move follows continued growth since the office first opened at 6 Queen Street in 2022. Securing this larger space demonstrates our long-term commitment to the city and provides the necessary infrastructure to support our expanding team and operations in the region.",
+    "content_ta": "எங்கள் வளர்ந்து வரும் Leeds அலுவலகமானது 36,097 சதுர அடி பரப்பளவு கொண்ட புதிய நிரந்தர இடத்திற்கு மாற்றப்படுகிறது. 2022 ஆம் ஆண்டில் 6 Queen Street-ல் தொடங்கப்பட்டதிலிருந்து அலுவலகம் தொடர்ந்து வளர்ச்சியடைந்து வருவதைத் தொடர்ந்து இந்த இடமாற்றம் நிகழ்கிறது. இந்த பெரிய இடத்தைப் பெறுவது நகரத்தின் மீதுள்ள எங்கள் நீண்டகால அர்ப்பணிப்பைக் காட்டுகிறது மற்றும் பிராந்தியத்தில் எங்கள் வளர்ந்து வரும் குழுவிற்கு ஆதரவளிக்கிறது.",
+    "slug": "leeds-office-move"
+  },
+  {
+    "id": "5806bd2f42d73981",
+    "slug": "lorenzo-protocol-bank-price-prediction-2026-2027-2030-can-bank-price-rally-continue-toward-1",
+    "title": "Lorenzo Protocol (BANK) Price Prediction 2026, 2027, – 2030: Can BANK Price Rally Continue Toward $1?",
+    "tags": [
+      "Lorenzo Protocol",
+      "BANK",
+      "Bitcoin"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T09:56:00.000Z"
+  },
+  {
+    "id": "b9a9330ca46b15ff",
+    "slug": "live-updates-bitcoin-s-round-trip-to-85-000-burns-traders-on-both-sides",
+    "title": "Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides",
+    "tags": [
+      "Bitcoin",
+      "XMR"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T09:54:26.000Z"
+  },
+  {
+    "id": "01d78d6e21fedd86",
+    "slug": "samsung-electro-mechanics-lands-2-8-billion-chip-substrate-investment-from-tesla-and-nvidia",
+    "title": "Samsung Electro-Mechanics lands $2.8 billion chip substrate investment from Tesla and Nvidia",
+    "tags": [
+      "Samsung Electro-Mechanics",
+      "Tesla",
+      "Nvidia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T09:54:08.000Z"
+  },
+  {
+    "id": "87ee9d05d327ac55",
+    "slug": "quantexa-wins-contract-from-insolvency-service",
+    "title": "Quantexa wins contract from Insolvency Service",
+    "tags": [
+      "Quantexa",
+      "Insolvency Service"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T09:52:00.000Z"
+  },
+  {
+    "id": "04e3cc3ab5977406",
+    "slug": "saudi-aramco-instructs-dhahran-staff-to-work-remotely-after-reported-missile-attack",
+    "title": "Saudi Aramco instructs Dhahran staff to work remotely after reported missile attack",
+    "tags": [
+      "Saudi Aramco",
+      "Dhahran"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-22T09:46:20.000Z"
+  },
+  {
+    "id": "d20dfdf7c1e54f0f",
+    "slug": "model-ml-opens-dubai-office",
+    "title": "Model ML opens Dubai office",
     "tags": [
       "Model ML",
       "Dubai",
       "Raghav Sehgal",
       "Middle East"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-10-22T09:46:00.000Z",
-    "fetchedAt": "2026-10-22T09:43:01.382Z",
-    "isDuplicateOf": null,
-    "content": "Model ML, the agentic operating system for financial and professional services, is expanding its presence in the Middle East. The company has opened a new office in Dubai and appointed Raghav Sehgal as the General Manager for the region to lead its growth and operations.",
-    "content_ta": "நிதி மற்றும் தொழில்முறை சேவைகளுக்கான ஏஜென்டிக் ஆப்பரேட்டிங் சிஸ்டமான Model ML, மத்திய கிழக்குப் பகுதியில் தனது விரிவாக்கத்தைத் தொடங்கியுள்ளது. இந்நிறுவனம் துபாயில் புதிய அலுவலகத்தைத் திறந்துள்ளதுடன், இப்பகுதிக்கான பொது மேலாளராக Raghav Sehgal-ஐ நியமித்துள்ளது.",
-    "slug": "model-ml-opens-dubai-office"
+    "hasContent": true,
+    "pubDate": "2026-10-22T09:46:00.000Z"
   },
   {
     "id": "faca1feeb7e65cc6",
+    "slug": "qashier-launches-ai-general-manager",
     "title": "Qashier launches AI general manager",
-    "summary": "Qashier, the unified merchant operating system serving more than 25,000 businesses across Southeast Asia, today launched QashierGM, an AI general manager that works with a merchant's whole team.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/pressarticle/111398/qashier-launches-ai-general-manager?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
     "tags": [
       "Qashier",
       "Southeast Asia"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-10-22T09:42:00.000Z",
-    "fetchedAt": "2026-10-22T09:43:01.382Z",
-    "isDuplicateOf": null,
-    "content": "Qashier, a unified merchant operating system serving businesses across Southeast Asia, has launched QashierGM. This new artificial intelligence general manager is designed to work seamlessly with a merchant's entire team, helping to streamline operations and enhance productivity for thousands of businesses in the region.",
-    "content_ta": "தென்கிழக்கு ஆசியா முழுவதும் உள்ள வணிகங்களுக்குச் சேவையாற்றும் வணிக இயக்க முறைம在這ரான Qashier, QashierGM என்ற புதிய செயற்கை நுண்ணறிவு பொது மேலாளரை அறிமுகப்படுத்தியுள்ளது. இந்த புதிய AI கருவியானது வணிகர்களின் முழுமையான குழுவுடன் இணைந்து பணியாற்றி, பிராந்தியத்தில் உள்ள ஆயிரக்கணக்கான வணிகங்களின் செயல்பாடுகளை எளிமைப்படுத்தவும் உற்பத்தித்திறனை மேம்படுத்தவும் உதவும் வகையில் வடிவமைக்கப்பட்டுள்ளது.",
-    "slug": "qashier-launches-ai-general-manager"
+    "hasContent": true,
+    "pubDate": "2026-10-22T09:42:00.000Z"
   },
   {
     "id": "f9a041909e088658",
@@ -55,799 +856,17 @@
   },
   {
     "id": "75e6b40546f30b4e",
+    "slug": "commercial-bank-of-dubai-joins-cbmt-network",
     "title": "Commercial Bank of Dubai joins CBMT Network",
-    "summary": "Commercial Bank of Dubai’s (CBD) participation in the Commercial Bank Money Token (CBMT) initiative marks the first Middle East bank joining the network, extending CBMT beyond Europe.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/pressarticle/111397/commercial-bank-of-dubai-joins-cbmt-network?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
     "tags": [
       "Commercial Bank of Dubai",
       "Commercial Bank Money Token",
       "Middle East",
       "Europe"
     ],
-    "origin": "rss",
-    "pubDate": "2026-10-22T09:37:00.000Z",
-    "fetchedAt": "2026-10-22T09:43:01.382Z",
-    "isDuplicateOf": null,
-    "content": "Commercial Bank of Dubai (CBD) has joined the Commercial Bank Money Token (CBMT) network, making it the first Middle East bank to participate in the initiative. This move expands the CBMT network beyond Europe, marking a significant milestone for the digital token platform as it grows its international presence with regional banking support.",
-    "content_ta": "Commercial Bank of Dubai (CBD), Commercial Bank Money Token (CBMT) நெட்வொர்க்கில் இணைந்துள்ளது. இதன் மூலம் மத்திய கிழக்கு நாட்டைச் சேர்ந்த முதல் வங்கி இந்த திட்டத்தில் இணைந்துள்ளது. இந்த நடவடிக்கை மூலம் CBMT நெட்வொர்க் ஐரோப்பாவைத் தாண்டி விரிவடைந்துள்ளது.",
-    "slug": "commercial-bank-of-dubai-joins-cbmt-network"
-  },
-  {
-    "id": "c7af9275b658371c",
-    "title": "Ziina Secures Triple CBUAE Licensing Across Payments, Stored Value, and Exchange",
-    "summary": "Ziina becomes the first UAE fintech to secure CBUAE licenses across retail payments, stored value, and exchange, enabling unified digital wallets, merchant acquiring, and cross-border transfers.\nThe post Ziina Secures Triple CBUAE Licensing Across Payments, Stored Value, and Exchange appeared first on The Fintech Times.",
-    "hasSummary": true,
-    "link": "https://thefintechtimes.com/ziina-secures-triple-cbuae-licensing-across-payments-stored-value-and-exchange/",
-    "source": "The Fintech Times",
-    "tags": [
-      "Ziina",
-      "CBUAE",
-      "United Arab Emirates"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-10-22T09:36:08.000Z",
-    "fetchedAt": "2026-10-22T09:43:01.382Z",
-    "isDuplicateOf": null,
-    "content": "Ziina has become the first UAE fintech to secure triple licensing from the CBUAE across retail payments, stored value, and exchange. This major regulatory milestone enables the company to offer unified digital wallets, merchant acquiring services, and cross-border money transfers, strengthening its financial services footprint in the region.",
-    "content_ta": "CBUAE-டிடமிருந்து ரீடெய்ல் பேமெண்ட்ஸ், ஸ்டோர்டு வேல்யூ மற்றும் எக்ஸ்சேஞ்ச் ஆகிய மூன்று பிரிவுகளில் உரிமம் பெறும் முதல் UAE கம்பெனி என்ற பெருமையை Ziina பெற்றுள்ளது. இந்த முக்கிய ஒழுங்குமுறை அங்கீகாரம் மூலம், இந்நிறுவனம் ஒருங்கிணைந்த டிஜிட்டல் வாலட்டுகள், மெர்ச்சென்ட் அக்வயரிங் மற்றும் எல்லை தாண்டிய பணப் பரிமாற்ற சேவைகளை வழங்க வழிவகுத்துள்ளது.",
-    "slug": "ziina-secures-triple-cbuae-licensing-across-payments-stored-value-and-exchange"
-  },
-  {
-    "id": "2d9daa1573fe4294",
-    "slug": "india-s-top-crypto-exchange-coindcx-rejects-hack-claims-after-16-million-in-usdt-transfers-reported",
-    "title": "India’s top crypto exchange CoinDCX rejects hack claims after $16 million in USDT transfers reported",
-    "tags": [
-      "CoinDCX",
-      "USDT",
-      "India"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T09:34:10.000Z"
-  },
-  {
-    "id": "aa985b8c855796c3",
-    "slug": "betfury-integrates-swapped-connect-to-make-crypto-deposits-as-simple-as-card-payments",
-    "title": "BetFury Integrates Swapped Connect to Make Crypto Deposits as Simple as Card Payments",
-    "tags": [
-      "BetFury",
-      "Swapped Connect",
-      "Curaçao"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T09:33:47.000Z"
-  },
-  {
-    "id": "b3332bdee915a31f",
-    "title": "Mavka Capital appoints VP",
-    "summary": "Mavka Capital, a Silicon Valley-based corporate finance and M&A advisory firm focused on mergers and acquisitions, growth financing, and capital raising for growth-stage companies, is pleased to announce that Cristian Palmeiro has been promoted to Vice President.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/pressarticle/111396/mavka-capital-appoints-vp?utm_medium=rssfinextra&utm_source=finextrafeed",
     "source": "Finextra",
-    "tags": [
-      "Mavka Capital",
-      "Cristian Palmeiro",
-      "Silicon Valley"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-10-22T09:33:00.000Z",
-    "fetchedAt": "2026-10-22T09:43:01.382Z",
-    "isDuplicateOf": null,
-    "content": "Silicon Valley-based corporate finance and M&A advisory firm Mavka Capital has announced a key leadership promotion. Cristian Palmeiro has been elevated to the role of Vice President. The firm specializes in mergers and acquisitions, growth financing, and capital raising strategies for expanding growth-stage companies.",
-    "content_ta": "சிலிக்கான் Valley-யை தளமாகக் கொண்ட கார்ப்பரேட் நிதி மற்றும் M&A ஆலோசனை நிறுவனமான Mavka Capital, ஒரு முக்கிய தலைமை பதவி உயர்வை அறிவித்துள்ளது. Cristian Palmeiro துணைத் தலைவராக (Vice President) பதவி உயர்த்தப்பட்டுள்ளார். இந்நிறுவனம் mergers and acquisitions, வளர்ச்சி நிதி மற்றும் மூலதன திரட்டல் ஆகியவற்றில் நிபுணத்துவம் பெற்றது.",
-    "slug": "mavka-capital-appoints-vp"
-  },
-  {
-    "id": "5c6072cce777550c",
-    "slug": "starknet-community-overwhelmingly-backs-research-into-becoming-an-independent-post-quantum-layer-1",
-    "title": "Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1",
-    "tags": [
-      "Starknet"
-    ],
-    "source": "The Block",
     "origin": "rss",
     "hasContent": true,
-    "pubDate": "2026-10-22T09:32:00.000Z"
-  },
-  {
-    "id": "e98ff7385d408da6",
-    "slug": "ai-stocks-could-crash-in-2027-3-ways-to-protect-your-money",
-    "title": "AI Stocks Could Crash in 2027: 3 Ways to Protect Your Money",
-    "tags": [
-      "Alan Greenspan",
-      "Nasdaq"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T09:26:48.000Z"
-  },
-  {
-    "id": "7062b198ceb75439",
-    "slug": "bitcoin-plunges-over-3k-after-85k-rejection-altcoins-get-hit-harder-market-watch",
-    "title": "Bitcoin Plunges Over $3K After $85K Rejection, Altcoins Get Hit Harder: Market Watch",
-    "tags": [
-      "Bitcoin",
-      "XMR"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T09:21:15.000Z"
-  },
-  {
-    "id": "52164e963997e2a6",
-    "slug": "ripple-legend-david-schwartz-spotlights-physical-xrp-game-most-traders-missed",
-    "title": "Ripple Legend David Schwartz Spotlights Physical XRP Game Most Traders Missed",
-    "tags": [
-      "Ripple",
-      "David Schwartz"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T09:16:45.000Z"
-  },
-  {
-    "id": "ff98ec630029ebd8",
-    "slug": "layer-2-scaling-solutions",
-    "title": "Layer 2 Scaling Solutions",
-    "tags": [
-      "Ethereum"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T09:15:50.000Z"
-  },
-  {
-    "id": "1e27f557062c0ec0",
-    "title": "Florida Woman Drains $152,000 in Social Security Benefits From Deceased Relative, Faces Multiple Years Behind Bars",
-    "summary": "Federal prosecutors have secured a conviction against a Florida woman who withdrew more than $152,000 in Social Security retirement benefits intended for her deceased great-aunt. Asha Anderson, 48, of Pompano Beach, was found guilty of theft of government funds and Social Security fraud after a six-day trial, says the U.S. Attorney’s Office for the Southern […]\nThe post Florida Woman Drains $152,000 in Social Security Benefits From Deceased Relative, Faces Multiple Years Behind Bars appeared first on The Daily Hodl.",
-    "hasSummary": true,
-    "link": "https://dailyhodl.com/2026/10/22/florida-woman-drains-152000-in-social-security-benefits-from-deceased-relative-faces-multiples-years-behind-bars/",
-    "source": "The Daily Hodl",
-    "tags": [
-      "Florida",
-      "Pompano Beach",
-      "Asha Anderson"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-10-22T09:15:45.000Z",
-    "fetchedAt": "2026-10-22T09:43:01.382Z",
-    "isDuplicateOf": null,
-    "content": "Federal prosecutors have secured a conviction against a Florida woman for unlawfully withdrawing over $152,000 in Social Security retirement benefits intended for a deceased relative. Asha Anderson, of Pompano Beach, was found guilty of theft of government funds and Social Security fraud following a six-day trial. She now faces the possibility of spending multiple years behind bars.",
-    "content_ta": "மsceased உறவினர் ஒருவருக்கு வழங்கப்பட வேண்டிய Social Security ஓய்வூதிய பலன்களில் இருந்து 152,000 டாலருக்கும் அதிகமான தொகையைத் தவறாகப் பெற்ற Florida பெண்ணுக்கு எதிராக மத்திய வழக்கறிஞர்கள் தண்டனையைப் பெற்றுள்ளனர். Pompano Beach-ஐச் சேர்ந்த Asha Anderson, அரசாங்க நிதித் திருட்டு மற்றும் Social Security மோசடி வழக்கில் குற்றவாளியாகக் கண்டறியப்பட்டுள்ளார். அவர் பல ஆண்டுகள் சிறைத்தண்டனையை எதிர்கொள்ளக்கூடும்.",
-    "slug": "florida-woman-drains-152-000-in-social-security-benefits-from-deceased-relative-faces-multiple"
-  },
-  {
-    "id": "98d7d00b6c685e5b",
-    "slug": "south-korea-s-crypto-bill-nears-completion-while-tax-debate-intensifies-reports",
-    "title": "South Korea’s crypto bill nears completion while tax debate intensifies: reports",
-    "tags": [
-      "South Korea"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T09:11:57.000Z"
-  },
-  {
-    "id": "227f00e40328b2c2",
-    "slug": "nvidia-ceo-clarifies-no-bailout-for-neocloud-investments",
-    "title": "Nvidia CEO clarifies no bailout for neocloud investments",
-    "tags": [
-      "Nvidia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T09:10:20.000Z"
-  },
-  {
-    "id": "a7100fad843c6e4e",
-    "slug": "bitcoin-etfs-pull-in-1-07b-as-irish-drug-trafficker-linked-wallet-moves-41m",
-    "title": "Bitcoin ETFs Pull In $1.07B as Irish Drug Trafficker-Linked Wallet Moves $41M",
-    "tags": [
-      "Bitcoin",
-      "Coinbase Prime",
-      "Clifton Collins"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T09:10:13.000Z"
-  },
-  {
-    "id": "e396ccb74d7b6868",
-    "title": "Reliably red Iowa in play as economic woes mount",
-    "summary": "Economic concerns in Iowa could reshape political dynamics, challenging Republican dominance and signaling potential shifts in voter priorities.\nThe post Reliably red Iowa in play as economic woes mount appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/reliably-red-iowa-in-play-as-economic-woes-mount/",
-    "source": "CryptoBriefing",
-    "tags": [
-      "Iowa",
-      "United States"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-10-22T09:08:22.000Z",
-    "fetchedAt": "2026-10-22T09:43:01.382Z",
-    "isDuplicateOf": null,
-    "content": "Economic challenges in Iowa are raising questions about the state's traditional Republican dominance. Growing financial concerns and economic woes are shifting voter priorities, potentially bringing new political competition to the reliably red state as voters react to the changing economic climate.",
-    "content_ta": "அயோவா மாநிலத்தில் நிலவும் பொருளாதார சவால்கள் அங்குள்ள பாரம்பரிய ரிபப்ளிகன் கட்சியின் பலம் குறித்த கேள்விகளை எழுப்புகின்றன. அதிகரித்து வரும் பொருளாதார கவலைகள் வாக்காளர்களின் முன்னுரிமைகளை மாற்றி அமைத்து வருகின்றன, இதனால் இந்த மாநிலத்தில் புதிய அரசியல் போட்டி உருவாக வாய்ப்புள்ளது.",
-    "slug": "reliably-red-iowa-in-play-as-economic-woes-mount"
-  },
-  {
-    "id": "8ab01ee38909056f",
-    "slug": "php-flaw-draws-millions-of-exploit-attempts-cloudflare-ceo-warns",
-    "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
-    "tags": [
-      "PHP",
-      "Cloudflare"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T09:06:02.000Z"
-  },
-  {
-    "id": "cbb43df39fd72571",
-    "slug": "tao-crypto-loses-bullish-momentum-as-252-support-nears-what-s-next",
-    "title": "TAO crypto loses bullish momentum as $252 support nears – What’s next?",
-    "tags": [
-      "TAO"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T09:00:51.000Z"
-  },
-  {
-    "id": "c71223d96759cc8d",
-    "slug": "in-profile-anna-wallace-ceo-at-cfit",
-    "title": "In Profile: Anna Wallace, CEO at CFIT",
-    "tags": [
-      "CFIT",
-      "Anna Wallace"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T09:00:27.000Z"
-  },
-  {
-    "id": "cf56dc60dfba8f9c",
-    "slug": "asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
-    "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
-    "tags": [
-      "China",
-      "United States",
-      "Bitcoin"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T08:49:08.000Z"
-  },
-  {
-    "id": "5978c1469db388e9",
-    "slug": "bitcoin-s-80-000-floor-faces-friday-inflation-test-as-etf-inflows-lose-momentum",
-    "title": "Bitcoin’s $80,000 floor faces Friday inflation test as ETF inflows lose momentum",
-    "tags": [
-      "Bitcoin",
-      "Glassnode",
-      "Farside Investors",
-      "United States"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T08:40:20.000Z"
-  },
-  {
-    "id": "3c5fd6fc73bc18ab",
-    "slug": "bnb-chain-binance-s-cz-break-silence-on-php-s-critical-vulnerability-amid-industry-wide-response",
-    "title": "BNB Chain, Binance's CZ Break Silence on PHP's Critical Vulnerability Amid Industry-Wide Response",
-    "tags": [
-      "BNB Chain",
-      "Binance",
-      "PancakeSwap",
-      "CZ"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T08:40:00.000Z"
-  },
-  {
-    "id": "41bda244b695201a",
-    "slug": "dogecoin-expands-utility-as-robinhood-memecoin-boom-reveals-crypto-s-biggest-adoption-engine",
-    "title": "Dogecoin Expands Utility as Robinhood Memecoin Boom Reveals Crypto’s Biggest Adoption Engine",
-    "tags": [
-      "Dogecoin",
-      "Shiba Inu",
-      "Robinhood"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T08:29:21.000Z"
-  },
-  {
-    "id": "d53d47b5b352ccb3",
-    "slug": "david-schwartz-doesn-t-know-who-sent-him-this-xrp-meme-coin-gift",
-    "title": "David Schwartz Doesn’t Know Who Sent Him This XRP Meme Coin Gift",
-    "tags": [
-      "Ripple",
-      "David Schwartz",
-      "XRP",
-      "FUZZY"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T08:11:01.000Z"
-  },
-  {
-    "id": "badb4847c5281428",
-    "slug": "grvt-burns-1-1-million-tokens-as-countdown-to-grvt-2-0-begins-2026-10-22",
-    "title": "GRVT Burns 1.1 Million Tokens as Countdown to Grvt 2.0 Begins",
-    "tags": [
-      "GRVT",
-      "British Virgin Islands"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T08:00:54.000Z"
-  },
-  {
-    "id": "f1c6fd2bb26941a0",
-    "slug": "genius-act-rules-are-reshaping-the-usdc-vs-usdt-battle",
-    "title": "GENIUS Act Rules Are Reshaping the USDC vs. USDT Battle",
-    "tags": [
-      "USDC",
-      "USDT",
-      "Circle",
-      "Tether",
-      "United States"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T07:45:36.000Z"
-  },
-  {
-    "id": "f082da4c91238273",
-    "slug": "bitcoin-etfs-bag-another-528m-taking-3-day-haul-past-1b",
-    "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
-    "tags": [
-      "Bitcoin",
-      "United States"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T07:37:32.000Z"
-  },
-  {
-    "id": "9998ae5a5a8b0666",
-    "slug": "toobit-s-halloween-horror-hunt-event-comes-back-with-500-000-usdt-in-rewards",
-    "title": "Toobit’s Halloween Horror Hunt Event Comes Back With 500,000 USDT in Rewards",
-    "tags": [
-      "Toobit",
-      "USDT"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T07:26:02.000Z"
-  },
-  {
-    "id": "c08c97fc8a50fbca",
-    "slug": "sideswap-reopens-bitcoin-swaps-while-liquid-reserves-stay-locked",
-    "title": "SideSwap reopens Bitcoin swaps while Liquid reserves stay locked",
-    "tags": [
-      "SideSwap",
-      "Bitcoin",
-      "Liquid"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T07:10:36.000Z"
-  },
-  {
-    "id": "dabe0362bbd1a8b0",
-    "slug": "php-attack-threatens-crypto-safety-should-you-cash-out-or-pull-funds-from-exchanges",
-    "title": "PHP Attack Threatens Crypto Safety: Should You Cash Out or Pull Funds From Exchanges?",
-    "tags": [
-      "PHP",
-      "Cryptonews"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T07:04:11.000Z"
-  },
-  {
-    "id": "a3d02ea8c6bcb4c8",
-    "slug": "meta-ordered-to-pay-new-mexico-25-000-000-000-after-jury-finds-43-899-720-privacy-violations",
-    "title": "Meta Ordered To Pay New Mexico $25,000,000,000 After Jury Finds 43,899,720 Privacy Violations",
-    "tags": [
-      "Meta",
-      "New Mexico",
-      "Cambridge Analytica"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T07:04:10.000Z"
-  },
-  {
-    "id": "d17c7746b35551ef",
-    "slug": "bitcoin-has-new-major-advantage-over-gold-analyst-says",
-    "title": "Bitcoin Has New Major Advantage Over Gold, Analyst Says",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T07:01:47.000Z"
-  },
-  {
-    "id": "5288a82a6faf1737",
-    "slug": "better-call-saul-albuquerque-bans-bitcoin-atms",
-    "title": "Better Call Saul? Albuquerque Bans Bitcoin ATMs",
-    "tags": [
-      "Albuquerque",
-      "New Mexico",
-      "Bitcoin"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T06:25:18.000Z"
-  },
-  {
-    "id": "dee5457143e4f2ab",
-    "slug": "china-seeks-to-seize-61-800-btc-tied-to-5-7-billion-fraud-scheme",
-    "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
-    "tags": [
-      "China",
-      "Bitcoin",
-      "Tianjin"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T06:24:10.000Z"
-  },
-  {
-    "id": "025acbf0acba87f1",
-    "slug": "china-s-stocks-enter-bear-market-as-selling-spreads-across-asia",
-    "title": "China’s Stocks Enter Bear Market as Selling Spreads Across Asia",
-    "tags": [
-      "China",
-      "South Korea",
-      "Japan",
-      "Taiwan"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T06:24:01.000Z"
-  },
-  {
-    "id": "1b75775d071ca907",
-    "slug": "ai-tops-agenda-for-94-of-asia-pacific-ceos-survey-finds",
-    "title": "AI Tops Agenda for 94% of Asia-Pacific CEOs, Survey Finds",
-    "tags": [
-      "Egon Zehnder",
-      "Asia-Pacific"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T06:23:35.000Z"
-  },
-  {
-    "id": "209aefef16da48fe",
-    "slug": "global-markets-crash-today-as-gold-silver-nikkei-and-kospi-fall",
-    "title": "Global Markets Crash Today as Gold, Silver, Nikkei and KOSPI Fall",
-    "tags": [
-      "Gold",
-      "Silver",
-      "Nikkei",
-      "KOSPI",
-      "Japan",
-      "South Korea",
-      "United States"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T06:22:21.000Z"
-  },
-  {
-    "id": "90eb72a8a48c8d37",
-    "slug": "cz-warns-crypto-users-as-critical-php-vulnerabilities-put-websites-at-risk",
-    "title": "CZ Warns Crypto Users as Critical PHP Vulnerabilities Put Websites at Risk",
-    "tags": [
-      "CZ",
-      "PancakeSwap",
-      "BNB Chain"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T06:21:42.000Z"
-  },
-  {
-    "id": "30d9c6b85db8d16c",
-    "slug": "how-did-pyth-s-price-fall-for-bears-trap-after-latest-surge",
-    "title": "How did PYTH’s price fall for bears’ trap after latest surge?",
-    "tags": [
-      "PYTH"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T06:00:33.000Z"
-  },
-  {
-    "id": "207ca03528d88176",
-    "slug": "move-over-memecoins-crypto-meme-games-coming-bagholders-and-all",
-    "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
-    "tags": [
-      "Illuvium",
-      "Kieran Warwick"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T05:35:38.000Z"
-  },
-  {
-    "id": "bcbb63c3e2e986ce",
-    "slug": "solana-s-biggest-network-change-since-2020-is-live-here-s-how-users-benefit",
-    "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
-    "tags": [
-      "Solana"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T05:24:58.000Z"
-  },
-  {
-    "id": "4108daa00f8fd3dd",
-    "slug": "nokia-beats-profit-estimates-as-ai-data-center-demand-surges",
-    "title": "Nokia beats profit estimates as AI data center demand surges",
-    "tags": [
-      "Nokia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T05:21:23.000Z"
-  },
-  {
-    "id": "8008338ba5ad7e41",
-    "slug": "bitcoin-treasury-companies-return-to-profit-as-prices-exceed-80k",
-    "title": "Bitcoin treasury companies return to profit as prices exceed $80K",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T05:05:28.000Z"
-  },
-  {
-    "id": "345f4f84527af886",
-    "slug": "okx-uae-launches-tokenised-us-stocks-with-24-7-trading-on-vara-licence",
-    "title": "OKX UAE Launches Tokenised US Stocks with 24/7 Trading on VARA Licence",
-    "tags": [
-      "OKX UAE",
-      "Dubai",
-      "VARA"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T05:00:48.000Z"
-  },
-  {
-    "id": "4e63c1366092ce2b",
-    "slug": "ripple-s-rlusd-kenya-pilot-takes-best-financial-inclusion-prize-at-pay360-awards-2026",
-    "title": "Ripple’s RLUSD Kenya Pilot Takes Best Financial Inclusion Prize At PAY360 Awards 2026",
-    "tags": [
-      "Ripple",
-      "RLUSD",
-      "Kenya",
-      "PAY360 Awards",
-      "Prosper Global Ventures",
-      "DIVA Protocol",
-      "Fortune Credit Ltd"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T04:54:21.000Z"
-  },
-  {
-    "id": "06de28df2b4aa01d",
-    "slug": "bitcoin-price-news-peak-fear-on-october-15-marked-the-bottom",
-    "title": "Bitcoin Price News: Peak Fear On October 15 Marked The Bottom",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T04:50:55.000Z"
-  },
-  {
-    "id": "ac78d69a515ac2d9",
-    "slug": "singapore-economist-urges-caution-as-ai-boom-runs-ahead-of-productivity-gains",
-    "title": "Singapore Economist Urges Caution as AI Boom Runs Ahead of Productivity Gains",
-    "tags": [
-      "Monetary Authority of Singapore",
-      "Singapore"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T04:50:32.000Z"
-  },
-  {
-    "id": "045d72ab98be4ad7",
-    "slug": "xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
-    "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
-    "tags": [
-      "XRP Ledger",
-      "XRP"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T04:36:20.000Z"
-  },
-  {
-    "id": "0fdcd561a87dfd94",
-    "slug": "near-sees-major-gains-after-new-governance-proposal-can-it-stay-above-5",
-    "title": "NEAR sees major gains after new governance proposal — Can it stay above $5?",
-    "tags": [
-      "NEAR"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T04:30:34.000Z"
-  },
-  {
-    "id": "5bd0d77881d8948c",
-    "slug": "noetix-robotics-files-confidentially-for-hong-kong-ipo-to-raise-hundreds-of-millions",
-    "title": "Noetix Robotics files confidentially for Hong Kong IPO to raise hundreds of millions",
-    "tags": [
-      "Noetix Robotics",
-      "Hong Kong"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T04:28:15.000Z"
-  },
-  {
-    "id": "a88d337f89b439bd",
-    "slug": "why-is-lighter-up-23-this-week-2-catalysts-explain-the-move",
-    "title": "Why Is Lighter Up 23% This Week? 2 Catalysts Explain the Move",
-    "tags": [
-      "Lighter"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T04:04:45.000Z"
-  },
-  {
-    "id": "bd07f4d2e89f94a2",
-    "slug": "why-xrp-may-retest-1-before-its-next-major-rally-analyst",
-    "title": "Why XRP May Retest $1 Before Its Next Major Rally: Analyst",
-    "tags": [
-      "XRP"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T04:02:13.000Z"
-  },
-  {
-    "id": "f92c92cf4c685e0f",
-    "slug": "bitcoin-gives-back-its-run-at-85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
-    "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
-    "tags": [
-      "Bitcoin",
-      "Tesla",
-      "Meta"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T03:51:34.000Z"
-  },
-  {
-    "id": "31d22f99889f1ff4",
-    "slug": "trump-visits-south-carolina-to-rally-support-for-sen-darline-graham",
-    "title": "Trump visits South Carolina to rally support for Sen. Darline Graham",
-    "tags": [
-      "Donald Trump",
-      "Darline Graham",
-      "South Carolina"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T03:46:21.000Z"
-  },
-  {
-    "id": "fc5044dff553a311",
-    "slug": "baibai-now-supports-coinbase-tokenized-stocks-on-base",
-    "title": "BaiBai Now Supports Coinbase Tokenized Stocks On Base",
-    "tags": [
-      "BaiBai",
-      "Coinbase",
-      "Base"
-    ],
-    "source": "Watcher.Guru",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T03:39:04.000Z"
-  },
-  {
-    "id": "406f9f200f5e2274",
-    "slug": "trump-taps-heating-oil-reserve-to-curb-prices-before-2026-midterms",
-    "title": "Trump taps heating oil reserve to curb prices before 2026 midterms",
-    "tags": [
-      "Donald Trump",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T03:21:32.000Z"
-  },
-  {
-    "id": "db1611900584b229",
-    "slug": "occ-waiver-rule-puts-active-stablecoin-issuers-on-notice",
-    "title": "OCC waiver rule puts active stablecoin issuers on notice",
-    "tags": [
-      "Office of the Comptroller of the Currency",
-      "United States"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T03:20:53.000Z"
-  },
-  {
-    "id": "dc01ea5713adf403",
-    "slug": "circle-ceo-shrugs-off-bitcoin-s-slump-and-pitches-digital-dollars-for-the-ai-era",
-    "title": "Circle CEO Shrugs Off Bitcoin's Slump and Pitches Digital Dollars for the AI Era",
-    "tags": [
-      "Circle",
-      "Bitcoin"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-22T03:13:00.000Z"
+    "pubDate": "2026-10-22T09:37:00.000Z"
   }
 ]
