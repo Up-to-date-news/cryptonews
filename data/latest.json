@@ -1,91 +1,688 @@
 [
   {
-    "id": "38e2144c1570f794",
-    "title": "Bitcoin’s usual lifeline is failing as a bond market warning puts $80,000 at risk",
-    "summary": "Bitcoin briefly lost the $81,000 footing on Oct. 22, while the Nasdaq lost more than 2%, spot gold dropped about 2.7% to $4,025, and silver sank about 5.8% to near $54.63. The 10-year Treasury yield fell from 5.146% to below 5%, marking its biggest one-day drop in more than two years. Brent crude hit an…\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-    "hasSummary": true,
-    "link": "https://cryptoslate.com/bitcoins-usual-lifeline-is-failing-as-a-bond-market-warning-puts-80000-at-risk/",
+    "id": "8a3406621393ffa0",
+    "slug": "tech-mahindra-acquires-finastra-s-cash-management-division",
+    "title": "Tech Mahindra acquires Finastra's cash management division",
+    "tags": [
+      "Tech Mahindra",
+      "Finastra"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T11:57:00.000Z"
+  },
+  {
+    "id": "73ddd26c6694bd6f",
+    "slug": "etherscan-introduces-lookalike-address-warning-to-combat-scams",
+    "title": "Etherscan introduces lookalike address warning to combat scams",
+    "tags": [
+      "Etherscan"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T11:51:33.000Z"
+  },
+  {
+    "id": "04687a9c00928b81",
+    "slug": "coinbase-ireland-s-cash-safeguards-fell-5-million-short-before-2024-fix",
+    "title": "Coinbase Ireland’s cash safeguards fell €5 million short before 2024 fix",
+    "tags": [
+      "Coinbase Ireland",
+      "High Court"
+    ],
     "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T11:50:07.000Z"
+  },
+  {
+    "id": "ac028cc53145daf6",
+    "slug": "was-crypto-self-custody-ever-designed-for-beginners",
+    "title": "Was crypto self-custody ever designed for beginners?",
+    "tags": [],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T11:47:47.000Z"
+  },
+  {
+    "id": "9c63394e532191b6",
+    "slug": "south-dakota-woman-accused-of-hiding-husband-s-death-to-keep-collecting-his-social-security",
+    "title": "South Dakota Woman Accused of Hiding Husband’s Death To Keep Collecting His Social Security Disability Payments",
+    "tags": [
+      "South Dakota",
+      "Social Security Administration"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T11:45:46.000Z"
+  },
+  {
+    "id": "c08031884cb98520",
+    "slug": "hsbc-rolls-out-hkd-stablecoin-redcoin-as-it-prepares-tokenized-investment-services",
+    "title": "HSBC rolls out HKD stablecoin RedCoin as it prepares tokenized investment services",
+    "tags": [
+      "HSBC",
+      "RedCoin",
+      "Hong Kong"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T11:41:41.000Z"
+  },
+  {
+    "id": "65232d6459629152",
+    "slug": "bitcoin-etfs-swing-back-to-net-outflows-as-636-million-in-withdrawals-erase-previous-day-s-inflows",
+    "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
+    "tags": [
+      "Bitcoin",
+      "BlackRock",
+      "IBIT"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T11:39:45.000Z"
+  },
+  {
+    "id": "50b62f89830dd3c4",
+    "slug": "futu-opens-bnb-deposits-and-withdrawals-to-hong-kong-professional-investors",
+    "title": "Futu opens BNB deposits and withdrawals to Hong Kong professional investors",
+    "tags": [
+      "Futu",
+      "BNB",
+      "Hong Kong"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T11:36:02.000Z"
+  },
+  {
+    "id": "c5c22733d3d74669",
+    "slug": "paybis-adds-ideal-blik-multibanco-and-eps-for-buying-crypto-in-europe",
+    "title": "Paybis Adds iDEAL, BLIK, Multibanco and EPS for Buying Crypto in Europe",
+    "tags": [
+      "Paybis",
+      "Bitcoin",
+      "Ethereum",
+      "Solana",
+      "USDC",
+      "Netherlands",
+      "Poland",
+      "Portugal",
+      "Austria"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T11:30:09.000Z"
+  },
+  {
+    "id": "04ea342de5dea7c2",
+    "slug": "bitcoin-s-price-is-as-jumpy-as-nvidia-s-and-eight-times-more-turbulent-than-the-euro",
+    "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
+    "tags": [
+      "Bitcoin",
+      "Nvidia"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T11:22:33.000Z"
+  },
+  {
+    "id": "165426c49e15cfd1",
+    "slug": "blockchain-association-urges-congress-to-pass-crypto-tax-rules-before-the-clock-runs-out",
+    "title": "Blockchain Association urges Congress to pass crypto tax rules before the clock runs out",
+    "tags": [
+      "Blockchain Association",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T11:21:03.000Z"
+  },
+  {
+    "id": "bb637452798e4df7",
+    "slug": "nvidia-faces-bearish-call-as-seaport-warns-of-250-billion-balance-sheet-strain",
+    "title": "Nvidia Faces Bearish Call As Seaport Warns Of $250 Billion Balance Sheet Strain",
+    "tags": [
+      "Nvidia",
+      "Seaport Research Partners"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T11:14:47.000Z"
+  },
+  {
+    "id": "22949044fc19db9c",
+    "slug": "centrifuge-opens-production-tokenization-infrastructure-to-institutions",
+    "title": "Centrifuge opens production tokenization infrastructure to institutions",
+    "tags": [
+      "Centrifuge"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T11:14:28.000Z"
+  },
+  {
+    "id": "e43d0dff1d28475e",
+    "slug": "live-updates-bitcoin-holds-above-81-000-as-the-ai-rout-fades-and-oil-climbs",
+    "title": "Live updates: Bitcoin holds above $81,000 as the AI rout fades and oil climbs",
+    "tags": [
+      "Bitcoin",
+      "Federal Reserve",
+      "Brent"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T11:13:01.000Z"
+  },
+  {
+    "id": "6a824f07b0750311",
+    "slug": "htx-research-publishes-crypto-market-outlook-ahead-of-the-2026-u-s-midterm-elections",
+    "title": "HTX Research Publishes Crypto Market Outlook Ahead of the 2026 U.S. Midterm Elections",
+    "tags": [
+      "HTX Research",
+      "HTX",
+      "United States"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T11:12:03.000Z"
+  },
+  {
+    "id": "bec93e375507f709",
+    "slug": "bank-stocks-crashed-by-22-billion-after-ai-access-scare",
+    "title": "Bank stocks crashed by $22 billion after AI access scare",
+    "tags": [
+      "Protos"
+    ],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T11:03:18.000Z"
+  },
+  {
+    "id": "5f8c7da9fa39b616",
+    "slug": "from-alpenglow-to-quantumglow-inside-solana-s-post-quantum-plan",
+    "title": "From Alpenglow to Quantumglow – Inside Solana’s post-quantum plan",
+    "tags": [
+      "Solana"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T11:00:39.000Z"
+  },
+  {
+    "id": "b0a0b3f83ab70cad",
+    "slug": "glassnode-and-fasanara-digital-map-tradfi-s-move-into-crypto-derivatives-in-q4-2026-report",
+    "title": "Glassnode and Fasanara Digital map TradFi’s move into crypto derivatives in Q4 2026 report",
+    "tags": [
+      "Glassnode",
+      "Fasanara Digital"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T10:59:19.000Z"
+  },
+  {
+    "id": "d15a8e1778166d77",
+    "slug": "bitcoin-s-midterm-slump-looks-more-like-its-own-cycle-than-election-fallout",
+    "title": "Bitcoin’s midterm slump looks more like its own cycle than election fallout",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T10:58:28.000Z"
+  },
+  {
+    "id": "f02e3700aa58826e",
+    "slug": "bitcoin-steadies-near-81-700-as-altcoins-rebound-pepe-climbs-13",
+    "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
+    "tags": [
+      "Bitcoin",
+      "CoinDesk",
+      "Pepe"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T10:54:41.000Z"
+  },
+  {
+    "id": "70dcaa5e2ba16d0f",
+    "slug": "bitcoin-appears-to-have-decoupled-from-midterm-cycle-bottom-history",
+    "title": "Bitcoin appears to have decoupled from midterm cycle bottom history",
+    "tags": [
+      "Bitcoin",
+      "United States"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T10:53:09.000Z"
+  },
+  {
+    "id": "16afdac7011e4dc8",
+    "slug": "fake-election-polls-expose-a-kalshi-loophole-that-could-leave-traders-paying-for-fraud",
+    "title": "Fake election polls expose a Kalshi loophole that could leave traders paying for fraud",
+    "tags": [
+      "Wedgewood",
+      "VoteHub",
+      "Kalshi"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T10:50:17.000Z"
+  },
+  {
+    "id": "1be3655b19e32b84",
+    "title": "Fewer Providers, Fewer Headaches: PayDo Heads to Web Summit Lisbon",
+    "summary": "Meet the Team at Booth 451 and Hear Serhii Zakharov on the Panel Stage on November 11th\nPayDo will exhibit at Web Summit Lisbon from 9 to 12 November 2026 at booth E451. Founder and CEO Serhii Zakharov will also speak on a panel about how digital businesses can run payments across borders without stitching together a different provider for every step.\nWeb Summit is one of the biggest technology events in the world. Last year it brought together more than 71,000 attendees from 157 countries and a record 2,725 startups. For PayDo, it is the place where the people who build and run internet businesses are all in one room, and where the team can have the practical conversations that rarely fit into a sales call.\nWhy PayDo is going\nA large part of PayDo's client base is made up of technology companies. SaaS businesses, AI and software teams and platforms with customers in dozens of countries are among the fastest-growing groups the company works with, alongside clients in more than 25 other industries.\nThose clients rarely ask for the same thing. A subscription business cares about failed renewals and local payment methods. An AI studio with contractors in several countries cares about payout day. A marketplace needs to split one customer payment between many sellers. PayDo's team builds around those differences, so each client gets a setup that fits how their business actually moves money, whether that means card acquiring, multi-currency accounts, open banking collections, payouts or FX, all under one contract and one integration.\n\"We spend our days with founders and finance leads who didn't choose a messy payment stack\", – said Serhii Zakharov, Founder and CEO of PayDo. \"They added one provider when they launched, another when they entered a new market, another when they started paying a remote team. Each decision made sense. Together they mean the finance team spends the first week of every month matching reports that don't agree. Web Summit is full of companies at exactly that stage”.\nThe panel: One Platform for Global Payments\nSerhii Zakharov, Founder and CEO of PayDo, will take the stage at Web Summit Lisbon as one of the session speakers. On November 11, 10:35 the session at MoneyConf stage “One Platform for Global Payments: Solving Payments Complexity for Digital Businesses,” looks at what happens when a company outgrows its payment setup. Each new market tends to bring another provider, another currency and another set of rules. The discussion will cover how to choose a payment provider that understands your business model, risk profile and growth plans, rather than one that only processes transactions. It will also show how a single platform can handle the whole payment cycle, from accepting local payment methods to paying teams and suppliers across borders, and how that brings back speed, visibility and control over costs.\nSerhii plans to share what PayDo sees every day from its clients: where money gets delayed between initiation and arrival, what hidden costs sit behind a transaction fee, and which questions to ask a provider before signing. He will keep it practical, with examples a founder can check against their own setup..\nWhat you will find at booth E451\nThe PayDo team will be at the stand all week. Visitors can talk through:\ncard acquiring and local payment methods\nmulti-currency accounts for holding and paying out in the currencies a business actually uses\nC2B open banking collections with a dedicated IBAN, so the business is notified when funds have arrived\ncross-border payouts and FX\nBring your current setup, even if it is a spreadsheet and a list of logins. The team will sketch where your money changes hands, where fees add up and where reconciliation takes the most time, and tell you honestly whether PayDo is the right fit.\nTo book a meeting during Web Summit, contact the team.\nNoYesInfrastructure23 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/infrastructure/fewer-providers-fewer-headaches-paydo-heads-web-summit-lisbon",
+    "source": "Financial IT",
+    "tags": [
+      "PayDo",
+      "Web Summit Lisbon",
+      "Serhii Zakharov"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-23T10:49:28.000Z",
+    "fetchedAt": "2026-10-23T12:01:30.569Z",
+    "isDuplicateOf": null,
+    "content": "PayDo is set to exhibit at Web Summit Lisbon from November 9 to 12, 2026. Founder and CEO Serhii Zakharov will speak on a panel on November 11 discussing global payment solutions for digital businesses. The team will showcase their multi-currency accounts, cross-border payouts, and payment processing services at booth E451 to help companies simplify complex financial operations.",
+    "content_ta": "நவம்பர் 9 முதல் 12, 2026 வரை நடைபெறவுள்ள Web Summit Lisbon மாநாட்டில் PayDo நிறுவனம் பங்கேற்க உள்ளது. நவம்பர் 11 அன்று நடைபெறும் விவாத மேடையில் நிறுவனர் மற்றும் CEO Serhii Zakharov உரையாற்றுவார். டிஜிட்டல் நிறுவனங்களின் பணப்பரிமாற்றச் சிக்கல்களைத் தீர்க்கும் சேவைகளை E451 அரங்கில் இந்நிறுவனம் காட்சிப்படுத்துகிறது.",
+    "slug": "fewer-providers-fewer-headaches-paydo-heads-to-web-summit-lisbon"
+  },
+  {
+    "id": "067510aa81df5943",
+    "slug": "fintel-acquires-mortgage-brain-holdings",
+    "title": "Fintel acquires Mortgage Brain Holdings",
+    "tags": [
+      "Fintel",
+      "Mortgage Brain Holdings"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T10:34:00.000Z"
+  },
+  {
+    "id": "a60dc7105b4059aa",
+    "slug": "cme-posts-record-q3-revenue-as-crypto-derivatives-push-continues",
+    "title": "CME Posts Record Q3 Revenue As Crypto Derivatives Push Continues",
+    "tags": [
+      "CME"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T10:30:00.000Z"
+  },
+  {
+    "id": "9cd2c831c311c8b6",
+    "slug": "temenos-selected-by-raya-financing",
+    "title": "Temenos selected by Raya Financing",
+    "tags": [
+      "Temenos",
+      "Raya Financing"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T10:29:00.000Z"
+  },
+  {
+    "id": "bac63103ac295a8f",
+    "slug": "xrp-ledger-finally-back-119-6-increase-is-here",
+    "title": "XRP Ledger Finally Back: 119.6% Increase Is Here",
+    "tags": [
+      "XRP Ledger"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T10:25:00.000Z"
+  },
+  {
+    "id": "01a094d294f0bf6b",
+    "slug": "survey-suggests-uk-innovation-is-moving-abroad",
+    "title": "Survey suggests UK innovation is moving abroad",
+    "tags": [
+      "ForrestBrown",
+      "FTSE",
+      "United Kingdom"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T10:23:00.000Z"
+  },
+  {
+    "id": "17c88f833198c59b",
+    "slug": "hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
+    "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
+    "tags": [
+      "HSBC",
+      "Standard Chartered",
+      "Anchorpoint",
+      "Hong Kong",
+      "HKDAP"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T10:22:56.000Z"
+  },
+  {
+    "id": "7bd7e59b7c91891d",
+    "slug": "chainlink-price-prediction-can-lg-cns-partnership-push-link-higher",
+    "title": "Chainlink Price Prediction: Can LG CNS Partnership Push LINK Higher?",
+    "tags": [
+      "Chainlink",
+      "LG CNS",
+      "South Korea"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T10:22:19.000Z"
+  },
+  {
+    "id": "e67d709c5ddab3fa",
+    "title": "Beyond borders: Regulating the risks we share",
+    "summary": "International cooperation But for the kind of horizontal risks I’ve mentioned today, domestic coordination alone will not cut it.  We have to look beyond our own backyard, using domestic coordination and international collaboration to reinforce one another.  I believe that it would be irresponsible to... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/10/320175-beyond-borders-regulating-the-risks-we-share/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "International Cooperation"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-23T10:14:17.000Z",
+    "fetchedAt": "2026-10-23T12:01:30.569Z",
+    "isDuplicateOf": null,
+    "content": "Addressing major cross-border risks requires more than just domestic coordination. Experts emphasize that international collaboration is essential to tackle shared challenges effectively. Relying solely on internal measures is no longer sufficient in an interconnected world, as nations must combine domestic policies with global partnerships to build stronger defenses and ensure long-term stability against widespread threats.",
+    "content_ta": "எல்லை கடந்த முக்கிய அபாயங்களைக் கையாள உள்நாட்டு ஒருங்கிணைப்பு மட்டும் போதாது. பகிரப்பட்ட சவால்களை திறம்பட எதிர்கொள்ள சர்வதேச ஒத்துழைப்பு அவசியம் என்று வல்லுநர்கள் வலியுறுத்துகின்றனர். பரஸ்பரம் இணைக்கப்பட்ட இந்த உலகில் உள்நாட்டு நடவடிக்கைகளை மட்டுமே நம்பியிருப்பது போதுமானதல்ல. நாடுகளுக்கு இடையேயான பாதுகாப்பை பலப்படுத்தவும் அச்சுறுத்தல்களுக்கு எதிராக நீண்ட கால ஸ்திரத்தன்மையை உறுதிப்படுத்தவும் உலகளாவிய கூட்டாண்மைகளுடன் உள்நாட்டு கொள்கைகளை இணைக்க வேண்டும்.",
+    "slug": "beyond-borders-regulating-the-risks-we-share"
+  },
+  {
+    "id": "4f7b4da9df4ae45f",
+    "title": "FCA calls on private market firms to manage conflicts of interest in line with rapid growth",
+    "summary": "Private markets refer to investments in assets, companies, or debt not listed or traded on public exchanges. They’ve grown significantly in recent years, and the UK is a leading international centre. Private markets play an increasingly important role in providing capital to businesses and opportunities... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/10/320174-fca-calls-on-private-market-firms-to-manage-conflicts-of-interest-in-line-with-rapid-growth/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "FCA",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-23T10:14:13.000Z",
+    "fetchedAt": "2026-10-23T12:01:30.569Z",
+    "isDuplicateOf": null,
+    "content": "The FCA has urged private market firms to properly manage conflicts of interest amid rapid growth in the sector. Private markets involve investments in unlisted assets, companies, or debt. As a leading international centre, the UK relies on these markets to provide vital capital and investment opportunities to businesses, making effective risk and conflict management increasingly important.",
+    "content_ta": "விரைவான வளர்ச்சியை எதிர்கொண்டுள்ள பிரைவேட் மார்க்கெட் நிறுவனங்கள் தங்களின் நலன்சார் முரண்பாடுகளை முறையாக நிர்வகிக்க வேண்டும் என்று FCA கேட்டுக்கொண்டுள்ளது. பொதுப் பங்குச் சந்தைகளில் பட்டியலிடப்படாத சொத்துகளில் முதலீடு செய்வதை இது குறிக்கிறது. சர்வதேச அளவில் முன்னணி மையமாக விளங்கும் UK-ல், வணிகங்களுக்கு மூலதனத்தை வழங்குவதில் இந்த சந்தைகள் முக்கிய பங்கு வகிக்கின்றன.",
+    "slug": "fca-calls-on-private-market-firms-to-manage-conflicts-of-interest-in-line-with-rapid-growth"
+  },
+  {
+    "id": "4f7b6c96c351771c",
+    "slug": "cysic-dangles-a-10-bounty-hacker-pours-loot-into-tornado-cash",
+    "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+    "tags": [
+      "Cysic",
+      "Tornado Cash",
+      "BNB Smart Chain"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T10:13:06.000Z"
+  },
+  {
+    "id": "d3a0312857b6b6c9",
+    "slug": "hkex-launches-ai-and-semiconductor-indices",
+    "title": "HKEX launches AI and semiconductor indices",
+    "tags": [
+      "HKEX",
+      "Hong Kong"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T10:12:00.000Z"
+  },
+  {
+    "id": "615447353688d231",
+    "slug": "raffles-family-office-targets-asia-s-stablecoin-billionaires-with-new-wealth-management-services",
+    "title": "Raffles Family Office targets Asia’s stablecoin billionaires with new wealth management services",
+    "tags": [
+      "Raffles Family Office",
+      "Asia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T10:10:16.000Z"
+  },
+  {
+    "id": "c1a3d242b423713b",
+    "slug": "robinhood-ventures-backs-cognition-after-75-million-openai-investment",
+    "title": "Robinhood Ventures backs Cognition after $75 million OpenAI investment",
+    "tags": [
+      "Robinhood",
+      "Cognition",
+      "OpenAI"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T10:10:09.000Z"
+  },
+  {
+    "id": "1b7a2e8f760be53d",
+    "slug": "why-are-og-crypto-whales-cashing-out-early-eth-holders-move-millions",
+    "title": "Why Are OG Crypto Whales Cashing Out? Early ETH Holders Move Millions",
+    "tags": [
+      "Ethereum"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T10:00:07.000Z"
+  },
+  {
+    "id": "76815ce0e813b788",
+    "slug": "visa-partners-with-singapore-tourism-board",
+    "title": "Visa partners with Singapore Tourism Board",
+    "tags": [
+      "Visa",
+      "Singapore Tourism Board",
+      "Singapore"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T10:00:00.000Z"
+  },
+  {
+    "id": "3f7d44110938cf2e",
+    "slug": "oil-sprints-to-a-5-month-high-while-tech-and-crypto-stumble",
+    "title": "Oil Sprints to a 5-Month High While Tech and Crypto Stumble",
+    "tags": [
+      "Saudi Arabia",
+      "Iran",
+      "United States"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T09:58:11.000Z"
+  },
+  {
+    "id": "6fc93a69d9ede6f3",
+    "title": "JPMorgan Chase, Goldman Sachs underscore security in AI plans",
+    "summary": "“This is one of the most important times to make sure you are appropriately balancing risk and innovation tradeoffs,” JPMorgan Chase CIO Lori Beer said.",
+    "hasSummary": true,
+    "link": "https://www.bankingdive.com/news/jpmorgan-chase-goldman-sachs-AI-security-lori-beer-marco-argenti/833792/",
+    "source": "Banking Dive",
+    "tags": [
+      "JPMorgan Chase",
+      "Goldman Sachs"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-23T09:57:00.000Z",
+    "fetchedAt": "2026-10-23T12:01:30.569Z",
+    "isDuplicateOf": null,
+    "content": "JPMorgan Chase and Goldman Sachs have highlighted the importance of security as they develop and expand their artificial intelligence plans. Leaders from major financial institutions emphasized that balancing risk and innovation is crucial during this period of technological advancement, ensuring proper safeguards are maintained while adopting new AI capabilities.",
+    "content_ta": "JPMorgan Chase மற்றும் Goldman Sachs நிறுவனங்கள் தங்கள் செயற்கை நுண்ணறிவு திட்டங்களை உருவாக்கும்போது பாதுகாப்பிற்கு முக்கியத்துவம் அளித்துள்ளன. தொழில்நுட்ப வளர்ச்சியின் இந்த காலகட்டத்தில் ஆபத்து மற்றும் புதுமை ஆகியவற்றுக்கு இடையே சரியான சமநிலையைப் பேணுவது மிகவும் முக்கியமானது என்று முன்னணி நிதி நிறுவனங்களின் தலைவர்கள் வலியுறுத்தியுள்ளனர்.",
+    "slug": "jpmorgan-chase-goldman-sachs-underscore-security-in-ai-plans"
+  },
+  {
+    "id": "6adf5946ac1633db",
+    "slug": "jpmorgan-solana-push-brings-mony-and-jltxx-into-tokenized-finance",
+    "title": "JPMorgan Solana Push Brings MONY and JLTXX Into Tokenized Finance",
+    "tags": [
+      "JPMorgan",
+      "Solana",
+      "MONY",
+      "JLTXX"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T09:52:17.000Z"
+  },
+  {
+    "id": "44b5dc49f21145e6",
+    "slug": "cardano-s-next-major-upgrade-begins-testing-as-dijkstra-testnet-goes-live",
+    "title": "Cardano's Next Major Upgrade Begins Testing as Dijkstra Testnet Goes Live",
+    "tags": [
+      "Cardano"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T09:50:41.000Z"
+  },
+  {
+    "id": "5da1d36cd2013302",
+    "slug": "capital-group-reclaims-top-shareholder-spot-at-metaplanet-with-11-11-stake",
+    "title": "Capital Group reclaims top shareholder spot at Metaplanet with 11.11% stake",
+    "tags": [
+      "Capital Group",
+      "Metaplanet"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T09:50:13.000Z"
+  },
+  {
+    "id": "93d5d9cb02945e29",
+    "slug": "zcash-fund-draws-15-2-million-as-october-flows-stay-negative",
+    "title": "Zcash Fund Draws $15.2 Million As October Flows Stay Negative",
+    "tags": [
+      "Zcash",
+      "ZCSH",
+      "Farside"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T09:45:00.000Z"
+  },
+  {
+    "id": "83d183bcbe7a48e7",
+    "slug": "europe-moves-to-box-in-starlink-with-new-satellite-spectrum-rules",
+    "title": "Europe moves to box in Starlink with new satellite spectrum rules",
+    "tags": [
+      "Starlink",
+      "Europe",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-23T09:43:48.000Z"
+  },
+  {
+    "id": "38e2144c1570f794",
+    "slug": "bitcoin-s-usual-lifeline-is-failing-as-a-bond-market-warning-puts-80-000-at-risk",
+    "title": "Bitcoin’s usual lifeline is failing as a bond market warning puts $80,000 at risk",
     "tags": [
       "Bitcoin",
       "Nasdaq"
     ],
+    "source": "CryptoSlate",
     "origin": "rss",
-    "pubDate": "2026-10-23T09:30:45.000Z",
-    "fetchedAt": "2026-10-23T09:39:22.204Z",
-    "isDuplicateOf": null,
-    "content": "Bitcoin recently lost ground alongside a broader market downturn that impacted the Nasdaq, gold, and silver. A sharp drop in the 10-year Treasury yield marked its largest one-day decline in over two years, while Brent crude also saw movement. The market pressures have heightened concerns over Bitcoin's price stability as traditional financial lifelines appear to falter under current macroeconomic warnings.",
-    "content_ta": "Nasdaq, தங்கம் மற்றும் வெள்ளி விலைகளுடன் சேர்ந்து Bitcoin விலையும் சரிவை சந்தித்தது. 10 ஆண்டு கால Treasury yield கடந்த இரண்டு ஆண்டுகளில் இல்லாத அளவுக்கு ஒரே நாளில் மிகப்பெரிய வீழ்ச்சியை சந்தித்துள்ளது. தற்போதைய பொருளாதார சூழ்நிலைகள் காரணமாக Bitcoin விலையில் நிலையற்ற தன்மை ஏற்பட்டுள்ளது.",
-    "slug": "bitcoin-s-usual-lifeline-is-failing-as-a-bond-market-warning-puts-80-000-at-risk"
+    "hasContent": true,
+    "pubDate": "2026-10-23T09:30:45.000Z"
   },
   {
     "id": "47a50a12aa5855b8",
+    "slug": "td-launches-credit-assist-turning-days-of-commercial-credit-work-into-minutes",
     "title": "TD Launches Credit Assist, Turning Days of Commercial Credit Work Into Minutes",
-    "summary": "TD Bank U.S. today unveiled TD Credit Assist, an AI capability that reduces the time required to prepare a first-draft commercial credit analysis from up to three working days to less than 30 minutes. Credit Assist brings together information from complex documents to create a structured, cited draft of six key credit memo sections for review and underwriting by TD's more than 300 credit professionals who prepare more than 10,000 credit memos annually. By reducing the administrative work involved in preparing a first draft, Credit Assist gives credit professionals more time to understand each client’s business, assess risk and engage with clients throughout the credit review.\nUnveiled at the 2026 Evident AI Symposium in New York, Credit Assist demonstrates how TD is moving AI from experimentation into practical applications with measurable business value. The launch follows TD’s three-place rise to No. 10 in the 2026 Evident AI Index, which evaluates the AI maturity of 50 of the world’s largest banks.\nA single credit review can involve 20 to 30 deal documents spanning more than 50 document types. Credit Assist uses an orchestration layer to coordinate specialized AI agents to process, extract, analyze and organize the information and develop multiple sections with a cited narrative in parallel, with each section undergoing its own process of analysis, review and refinement. Instead of beginning with a blank page, credit professionals receive a cited draft they can question, verify and refine.\n“Credit Assist is a great example of how we're simplifying and optimizing the way we work,” said Jill Gateman, Head of Commercial Banking, TD Bank U.S. “By reducing time spent on manual preparation, our credit professionals can focus more of their time on understanding the client, assessing risk and moving opportunities forward, while maintaining the rigor and accountability that are fundamental to good lending decisions.\"\nFrom AI research to a practical banking solution\nTD’s Analytics, Intelligence & AI team led the end-to-end development and delivery of Credit Assist, working with commercial credit professionals and experts across technology, risk, architecture, governance and controls. Layer 6, TD’s AI research and development center, developed the underlying AI capabilities. Together, the teams translated advanced AI research and commercial underwriting expertise into a practical capability built around how credit professionals work.\nCredit Assist was tested using 220 curated deals, with input from more than 70 domain experts. Credit professionals evaluated the AI-generated analysis against TD standards and helped refine the capability through each iteration. Across the segments evaluated, 95% of outputs passed subject-matter expert review, helping ensure the solution would support TD’s reviews and underwriting.\n“Credit Assist shows what is possible when advanced AI is developed alongside the people who understand the business problem best,” said Sumee Seetharaman, Head of Artificial Intelligence and Machine Learning Practice & Center of Excellence, Layer 6 at TD. “Combining AI research with deep commercial credit expertise helped us build the technology around the realities of the work.”\nBuilding a foundation for future AI innovation\nCredit Assist reflects TD’s broader approach to AI: apply the technology to meaningful business problems, build transparency into the experience and keep people accountable for decisions. Required controls and professional reviews remain in place, and credit professionals continue to be responsible for lending recommendations and final decisions.\nCredit Assist also provides a foundation for broader AI-enabled transformation at TD. Its reusable AI agents, orchestration capabilities and governance practices can be adapted to address other business needs, helping TD accelerate future AI innovation. Over time, this approach can reduce repetitive work across more of the client lifecycle and give colleagues greater capacity to support informed decisions.\n“The future of AI in banking is human-led and AI-enhanced,” said Ted Paris, Head of Analytics, Intelligence & AI, TD Bank U.S. “Credit Assist demonstrates how AI can take on time-consuming preparation while credit professionals remain firmly at the center, applying their experience, assessing risk and making informed lending recommendations.\"\nNoYesLending23 Oct, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/lending/td-launches-credit-assist-turning-days-commercial-credit-work-minutes",
-    "source": "Financial IT",
     "tags": [
       "TD Bank",
       "Layer 6",
       "New York"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-10-23T09:20:56.000Z",
-    "fetchedAt": "2026-10-23T09:39:22.204Z",
-    "isDuplicateOf": null,
-    "content": "TD Bank U.S. has introduced TD Credit Assist, an artificial intelligence capability designed to reduce commercial credit memo preparation time from days to minutes. Developed by TD's Analytics, Intelligence & AI team alongside Layer 6, the tool processes complex deal documents to generate structured, cited drafts. The solution aims to minimize administrative burdens, allowing credit professionals to focus on risk assessment and client engagement while maintaining rigorous lending standards.",
-    "content_ta": "TD Bank U.S. நிறுவனம் TD Credit Assist என்ற புதிய AI தொழில்நுட்பத்தை அறிமுகப்படுத்தியுள்ளது. இது வணிகக் கடன் குறிப்புகளைத் தயாரிக்கும் நேரத்தை நாட்களில் இருந்து சில நிமிடங்களாகக் குறைக்கிறது. TD இன் Analytics, Intelligence & AI மற்றும் Layer 6 குழுக்களால் உருவாக்கப்பட்ட இக்கருவி, சிக்கலான ஆவணங்களை ஆராய்ந்து கட்டமைக்கப்பட்ட வரைவுகளை உருவாக்குகிறது. இதன் மூலம் கடன் வல்லுநர்கள் ஆபத்து மதிப்பீடு மற்றும் வாடிக்கையாளர் சேவையில் கவனம் செலுத்த முடியும்.",
-    "slug": "td-launches-credit-assist-turning-days-of-commercial-credit-work-into-minutes"
+    "hasContent": true,
+    "pubDate": "2026-10-23T09:20:56.000Z"
   },
   {
     "id": "1567afb4643f6794",
+    "slug": "anthropic-partners-with-hg-to-launch-european-ai-consultancy",
     "title": "Anthropic partners with Hg to launch European AI consultancy",
-    "summary": "Anthropic's European expansion with Hg may signal strategic growth, potentially enhancing its market valuation and IPO prospects.\nThe post Anthropic partners with Hg to launch European AI consultancy appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/anthropic-partners-with-hg-to-launch-european-ai-consultancy/",
-    "source": "CryptoBriefing",
     "tags": [
       "Anthropic",
       "Hg",
       "Europe"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-23T09:17:05.000Z",
-    "fetchedAt": "2026-10-23T09:39:22.204Z",
-    "isDuplicateOf": null,
-    "content": "Artificial intelligence company Anthropic has partnered with private equity firm Hg to launch a new European AI consultancy. This strategic expansion in Europe aims to strengthen the company's market presence and growth, which could potentially impact its future valuation and business prospects within the region.",
-    "content_ta": "செயற்கை நுண்ணறிவு நிறுவனமான Anthropic, ஐரோப்பிய சந்தையில் தனது சேவைகளை விரிவுபடுத்தும் நோக்கில் தனியார் முதலீட்டு நிறுவனமான Hg-உடன் இணைந்து புதிய ஐரோப்பிய AI ஆலோசனைக் மையத்தைத் தொடங்கவுள்ளது. இந்த நகர்வு பிராந்தியத்தில் இந்நிறுவனத்தின் வணிக வளர்ச்சியை மேம்படுத்தும் என எதிர்பார்க்கப்படுகிறது.",
-    "slug": "anthropic-partners-with-hg-to-launch-european-ai-consultancy"
+    "hasContent": true,
+    "pubDate": "2026-10-23T09:17:05.000Z"
   },
   {
     "id": "556ac1018f34aafa",
+    "slug": "smart-money-app-plum-secures-fca-approval-to-deliver-targeted-support",
     "title": "Smart Money App Plum Secures FCA Approval to Deliver Targeted Support",
-    "summary": "Smart money app Plum has been authorised by the Financial Conduct Authority (FCA) to offer Targeted Support, through its investment entity Saveable Limited.  \nThis approval means Plum will now be able to provide ready-made savings and investment suggestions to appropriate groups of consumers with shared characteristics, helping them consider whether investing could be right for them and take steps towards building wealth over the long term. \nPlum is one of the earliest fintechs to secure this permission from the FCA, joining some of the UK’s most prominent financial institutions. The firm will also be among the first to deliver Targeted Support through AI technology, democratising access to financial knowledge and facilitating conversations with customers. \nTargeted Support was introduced by the Financial Conduct Authority with the aim to bridge the gap between general guidance and personalised financial advice, helping people get the right level of support, at an affordable price when they need it most. It is estimated there is currently over £600 billion in excess cash sitting in low-yield accounts that could be invested.*\nThe first live use cases of Plum’s Targeted Support service will be focused on helping customers who hold a relatively large amount of cash to get started with their investing journey so they can build their long-term wealth. It will be available in the coming weeks through a new iteration of Plum’s popular AI assistant, which has already been used by more than 270,000 customers to help with their finances. The product already enables users to set financial goals and receive plans to help achieve those goals. \nVictor Trokoudes, CEO and founder of Plum, said:\n“Being approved for FCA Targeted Support marks a major milestone in Plum’s journey as a financial institution, and bolsters our credibility within the financial industry, especially being approved in the scheme’s infancy. This is a testament to our regulatory credibility and the strength of our governance.\n“From day one, Plum has existed to democratise finance. Now, with Targeted Support approval from the FCA, we’re going to further help the 91% of people in the UK who don’t access personalised financial advice** through the latest AI technology. This technology has evolved so we can now offer a conversational platform with trusted, automated support. \n“We've already helped millions of customers save and invest more effectively through smart automation and market-leading products. We're taking that mission even further by using AI, which is a natural extension of the proactiveness that's always been at the heart of Plum. Now we can deliver proactive support that helps customers make smarter financial decisions and find ways to make their money work harder over time.\n“What’s even more exciting is that this is just the latest step for us in the journey. We're also working to secure an advisory licence to offer fully personalised investment advice to our users.”\nWill Bryant, Director of Wealth Strategy at Plum, a certified financial adviser who helped to develop Plum’s AI proposition, added:\n“It’s currently estimated by the FCA that 23 million consumers are underserved by the advice market. With cost-of-living challenges continuing to squeeze people’s pockets as energy prices rise, consumers need this type of support now more than ever. \nTargeted Support can help make sure people are making their money work harder for them and making strides towards actively building their wealth over the long term through investing - not just saving money and budgeting.\n“Now Plum has been approved to offer Targeted Support, our customers will be able to access more helpful, ready-made suggestions to put them in a better position, helping them on their wealth-building journey.”\n \nNoYesInfrastructure23 Oct, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/infrastructure/smart-money-app-plum-secures-fca-approval-deliver-targeted-support",
-    "source": "Financial IT",
     "tags": [
       "Plum",
       "Financial Conduct Authority",
       "Saveable Limited",
       "United Kingdom"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-10-23T09:16:07.000Z",
-    "fetchedAt": "2026-10-23T09:39:22.204Z",
-    "isDuplicateOf": null,
-    "content": "Smart money app Plum has secured approval from the Financial Conduct Authority (FCA) to deliver Targeted Support through its investment entity Saveable Limited. The authorization enables Plum to provide ready-made savings and investment suggestions using AI technology to help customers build long-term wealth, bridging the gap between general guidance and personalized financial advice for underserved consumers in the UK.",
-    "content_ta": "Smart money app-ரான Plum, தனது investment entity ஆன Saveable Limited மூலம் Targeted Support வழங்க Financial Conduct Authority (FCA)-இடம் approval பெற்றுள்ளது. இந்த approval மூலம், UK-வில் உள்ள consumers-க்கு long-term wealth உருவாக்க AI technology உதவியுடன் savings மற்றும் investment suggestions வழங்க Plum-க்கு வழிவகை செய்யப்பட்டுள்ளது.",
-    "slug": "smart-money-app-plum-secures-fca-approval-to-deliver-targeted-support"
+    "hasContent": true,
+    "pubDate": "2026-10-23T09:16:07.000Z"
   },
   {
     "id": "ffdd79477130903f",
+    "slug": "xrp-eyes-1-40-breakthrough-as-ripple-draws-blackrock-and-imf-to-new-york",
     "title": "XRP Eyes $1.40 Breakthrough as Ripple Draws BlackRock and IMF to New York",
-    "summary": "BlackRock and the IMF head to New York as Ripple unleashes AI-driven payments and fresh RLUSD liquidity to fuel an historic XRP utility breakout.",
-    "hasSummary": true,
-    "link": "https://u.today/xrp-eyes-140-breakthrough-as-ripple-draws-blackrock-and-imf-to-new-york",
-    "source": "U.Today",
     "tags": [
       "Ripple",
       "XRP",
@@ -93,51 +690,36 @@
       "IMF",
       "New York"
     ],
+    "source": "U.Today",
     "origin": "rss",
-    "pubDate": "2026-10-23T09:14:45.000Z",
-    "fetchedAt": "2026-10-23T09:39:22.204Z",
-    "isDuplicateOf": null,
-    "content": "Ripple is experiencing increased attention as representatives from BlackRock and the IMF head to New York. The development coincides with the rollout of AI-driven payment features and new RLUSD liquidity initiatives, driving speculation about a potential XRP utility breakout and a price breakthrough toward the $1.40 level.",
-    "content_ta": "BlackRock மற்றும் IMF நிறுவனங்களின் பிரதிநிதிகள் New York நகருக்குச் செல்வதால் Ripple மீது கவனம் திரும்பியுள்ளது. AI அடிப்படையிலான கட்டண வசதிகள் மற்றும் புதிய RLUSD பணப்புழக்கத் திட்டங்கள் அறிமுகப்படுத்தப்பட்டுள்ள நிலையில், XRP விலையில் குறிப்பிடத்தக்க முன்னேற்றம் ஏற்படக்கூடும் என்ற எதிர்பார்ப்பு எழுந்துள்ளது.",
-    "slug": "xrp-eyes-1-40-breakthrough-as-ripple-draws-blackrock-and-imf-to-new-york"
+    "hasContent": true,
+    "pubDate": "2026-10-23T09:14:45.000Z"
   },
   {
     "id": "362b3d63aecef315",
+    "slug": "fca-restricts-6-firms-following-concerns-over-anti-money-laundering-controls",
     "title": "FCA restricts 6 firms following concerns over anti-money laundering controls",
-    "summary": "The restrictions were imposed by the FCA on each firm’s request and limit their ability to take on new customers or do new business with existing customers, including extending existing credit. Restrictions placed on 6 unregulated lenders, known as Annex 1 firms over concerns about... Read More",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/10/320170-fca-restricts-6-firms-following-concerns-over-anti-money-laundering-controls/",
-    "source": "Crowdfund Insider",
     "tags": [
       "FCA"
     ],
+    "source": "Crowdfund Insider",
     "origin": "rss",
-    "pubDate": "2026-10-23T09:14:13.000Z",
-    "fetchedAt": "2026-10-23T09:39:22.204Z",
-    "isDuplicateOf": null,
-    "content": "The Financial Conduct Authority has restricted six unregulated lenders known as Annex 1 firms over concerns regarding their anti-money laundering controls. The restrictions, imposed at each firm's request, limit their ability to onboard new customers, engage in new business with existing clients, or extend current credit lines while compliance issues are addressed.",
-    "content_ta": "anti-money laundering controls குறித்த கவலைகள் காரணமாக FCA அமைப்பு Annex 1 firms எனப்படும் ஆறு நிறுவனங்களுக்கு கட்டுப்பாடுகளை விதித்துள்ளது. ஒவ்வொரு நிறுவனத்தின் கோரிக்கையின் பேரில் விதிக்கப்பட்ட இந்தக் கட்டுப்பாடுகள், புதிய வாடிக்கையாளர்களைச் சேர்ப்பது மற்றும் தற்போதைய வாடிக்கையாளர்களுடன் புதிய வர்த்தகத்தில் ஈடுபடுவது போன்ற நடவடிக்கைகளைக் கட்டுப்படுத்துகின்றன.",
-    "slug": "fca-restricts-6-firms-following-concerns-over-anti-money-laundering-controls"
+    "hasContent": true,
+    "pubDate": "2026-10-23T09:14:13.000Z"
   },
   {
     "id": "3a6e58f8935b625c",
+    "slug": "raya-financing-selects-temenos-to-support-expansion-in-saudi-arabia",
     "title": "Raya Financing Selects Temenos to Support Expansion in Saudi Arabia",
-    "summary": "Temenos, a global leader in banking technology, today announced that Raya Financing has selected Temenos Core to power the next phase of its growth strategy.\nRaya Financing chose Temenos for its comprehensive core banking and Islamic finance functionality, including support for Shariah-compliant products, as well as its proven experience and localized capabilities for the Saudi market.\nDeployed in a private cloud in Saudi Arabia, Temenos Core provides Raya Financing with a modern, scalable platform designed to centralize product and transaction processing, streamline operations and enable faster product development as business requirements evolve.\nRaya Financing will adopt Temenos Core to support its retail finance, leasing and auto finance products, together with a product pipeline that includes personal finance, SME finance, buy now pay later and home finance. Temenos’ configurable capabilities enable multiple products to be managed on a common platform without extensive custom development.\nThe technology investment comes as Raya Financing enters a new phase of growth. Saudi Arabia’s finance company sector continues to expand, in line with Vision 2030's Financial Sector Development Program and its goal of a more diversified and efficient financial sector.\nMohammed Makkawi, Chief Information Officer at Raya Financing, commented: “We selected Temenos as a trusted technology partner with proven experience in Saudi Arabia and a platform that fits our business needs. Temenos Core gives us the flexibility to manage a broader range of financing products, helping us simplify operations, bring new offerings to market more efficiently and keep pace with what our customers in the Kingdom will need next.”\nSanthosh Rao, Managing Director, Middle East and Africa, Temenos, said: “We are delighted to welcome Raya Financing as a new Temenos client. This is an exciting time for financial services in Saudi Arabia, and we look forward to helping the company scale its auto, retail and business financing and achieve its growth ambitions.”\nNoYesInfrastructure23 Oct, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/infrastructure/raya-financing-selects-temenos-support-expansion-saudi-arabia",
-    "source": "Financial IT",
     "tags": [
       "Raya Financing",
       "Temenos",
       "Saudi Arabia"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-10-23T09:05:06.000Z",
-    "fetchedAt": "2026-10-23T09:39:22.204Z",
-    "isDuplicateOf": null,
-    "content": "Raya Financing has selected Temenos Core to support its expansion and growth strategy in Saudi Arabia. Deployed in a private cloud, the modern platform will centralize transaction processing, streamline operations, and power retail, leasing, and auto finance products. The partnership aligns with Saudi Arabia's Vision 2030 financial sector development goals, enabling Raya Financing to efficiently scale and introduce new Shariah-compliant financial offerings.",
-    "content_ta": "சவூதி அரேபியாவில் தனது விரிவாக்க மற்றும் வளர்ச்சித் திட்டங்களை ஆதரிக்க Raya Financing நிறுவனம் Temenos Core தளத்தைத் தேர்ந்தெடுத்துள்ளது. தனியார் கிளவுட் முறையில் செயல்படுத்தப்படும் இந்த நவீன தளம், பரிவர்த்தனை செயலாக்கத்தை மையப்படுத்தவும், சில்லறை மற்றும் வாகன நிதியளிப்பு சேவைகளை மேம்படுத்தவும் உதவும். சவூதி அரேபியாவின் விஷன் 2030 நிதித்துறை இலக்குகளுடன் ஒத்துப்போகும் இந்த கூட்டு, Raya Financing நிறுவனம் புதிய ஷரியா-இணக்க நிதிச் சேவைகளை வழங்க வழிவகுக்கிறது.",
-    "slug": "raya-financing-selects-temenos-to-support-expansion-in-saudi-arabia"
+    "hasContent": true,
+    "pubDate": "2026-10-23T09:05:06.000Z"
   },
   {
     "id": "ed07f7967f7b25e5",
@@ -246,590 +828,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-23T08:14:05.000Z"
-  },
-  {
-    "id": "cc090c8ca1c01ded",
-    "slug": "memecoin-investor-murad-confirms-81-million-roundtrip-on-gains-says-he-s-eyeing-billions",
-    "title": "Memecoin investor Murad confirms $81 million roundtrip on gains, says he’s eyeing billions",
-    "tags": [
-      "Murad",
-      "TOKEN2049"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T08:10:13.000Z"
-  },
-  {
-    "id": "271691cdcc7f547e",
-    "slug": "tom-lee-says-buy-the-tech-selloff-backs-crypto-and-nvidia-as-ai-fears-peak",
-    "title": "Tom Lee Says Buy The Tech Selloff, Backs Crypto And Nvidia As AI Fears Peak",
-    "tags": [
-      "Tom Lee",
-      "Fundstrat",
-      "CNBC",
-      "Nvidia"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T08:01:48.000Z"
-  },
-  {
-    "id": "579c8e0571f5c9ad",
-    "slug": "tron-releases-mandatory-greatvoyage-v4-8-2-4-upgrade-for-node-operators",
-    "title": "TRON releases mandatory GreatVoyage-v4.8.2.4 upgrade for node operators",
-    "tags": [
-      "TRON"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T07:53:57.000Z"
-  },
-  {
-    "id": "ad5f1d32dd05859f",
-    "slug": "moderna-stock-drops-25-after-cancer-vaccine-data-leak",
-    "title": "Moderna Stock Drops 25% After Cancer Vaccine Data Leak",
-    "tags": [
-      "Moderna"
-    ],
-    "source": "Watcher.Guru",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T07:39:44.000Z"
-  },
-  {
-    "id": "d84dba30a08a5b3b",
-    "slug": "gold-vs-bitcoin-metals-are-melting-tom-lee-predicts-an-ai-rebound",
-    "title": "Gold vs. Bitcoin: Metals Are Melting, Tom Lee Predicts an AI Rebound",
-    "tags": [
-      "Gold",
-      "Bitcoin",
-      "Tom Lee"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T07:37:50.000Z"
-  },
-  {
-    "id": "7715153c601d5236",
-    "slug": "mark-zuckerberg-owns-13-of-meta-but-controls-61-of-its-votes-wealth-tax-implications",
-    "title": "Mark Zuckerberg owns 13% of Meta but controls 61% of its votes; wealth tax implications",
-    "tags": [
-      "Meta",
-      "Mark Zuckerberg"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T07:28:22.000Z"
-  },
-  {
-    "id": "0045ff4a4b03406e",
-    "slug": "malaysia-thailand-join-singapore-s-cross-border-stablecoin-push",
-    "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
-    "tags": [
-      "Malaysia",
-      "Thailand",
-      "Singapore"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T07:15:53.000Z"
-  },
-  {
-    "id": "dd4f19e219e6f974",
-    "slug": "new-york-ag-seeks-1-3-billion-from-novatech-founders-after-default-judgment",
-    "title": "New York AG seeks $1.3 billion from NovaTech founders after default judgment",
-    "tags": [
-      "NovaTech",
-      "New York"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T07:13:30.000Z"
-  },
-  {
-    "id": "048331317d66694d",
-    "slug": "sk-hynix-scraps-solidigm-ipo-plans-as-stock-plunges-8",
-    "title": "SK Hynix Scraps Solidigm IPO Plans as Stock Plunges 8%",
-    "tags": [
-      "SK Hynix",
-      "Solidigm",
-      "Nasdaq",
-      "United States"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T07:08:28.000Z"
-  },
-  {
-    "id": "3085542de7fe70c6",
-    "slug": "strategy-acquires-122-578-bitcoin-since-july-2025-ipo",
-    "title": "Strategy acquires 122,578 Bitcoin since July 2025 IPO",
-    "tags": [
-      "Strategy",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T07:05:52.000Z"
-  },
-  {
-    "id": "c1010f0a938dcb0c",
-    "slug": "6-520-000-drained-from-first-horizon-customer-s-accounts-after-he-s-impersonated-in-calls-to-the",
-    "title": "$6,520,000 Drained From First Horizon Customer’s Accounts After He’s Impersonated in Calls to the Bank, According to Lawsuit",
-    "tags": [
-      "First Horizon"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T07:04:52.000Z"
-  },
-  {
-    "id": "1221e3125e784579",
-    "slug": "lendwell-signs-multi-year-ai-mortgage-deal-with-spf-private-clients",
-    "title": "LendWell Signs Multi-Year AI Mortgage Deal with SPF Private Clients",
-    "tags": [
-      "LendWell",
-      "SPF Private Clients",
-      "United Kingdom"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T07:01:26.000Z"
-  },
-  {
-    "id": "a7ac2661fd69e7dd",
-    "slug": "bitcoin-is-busier-than-ever-but-bitcoin-mining-isn-t-getting-paid-more",
-    "title": "Bitcoin Is Busier Than Ever, but Bitcoin Mining Isn’t Getting Paid More",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T06:48:05.000Z"
-  },
-  {
-    "id": "0fddc68a32707cd8",
-    "slug": "notcoin-not-price-prediction-2026-2027-2030-is-not-set-for-a-gradual-comeback",
-    "title": "Notcoin (NOT) Price Prediction 2026, 2027 – 2030: Is NOT Set for a Gradual Comeback?",
-    "tags": [
-      "Notcoin",
-      "Telegram"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T06:45:00.000Z"
-  },
-  {
-    "id": "49222c7e1677a12c",
-    "slug": "old-wallet-addresses-trap-coindcx-users-triggering-potential-losses",
-    "title": "Old wallet addresses trap CoinDCX users, triggering potential losses",
-    "tags": [
-      "CoinDCX",
-      "ZachXBT"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T06:30:31.000Z"
-  },
-  {
-    "id": "f1dad1c288b4b03d",
-    "slug": "ai-stock-sell-off-in-asia-prompts-shift-to-safer-assets-like-us-treasuries",
-    "title": "AI stock sell-off in Asia prompts shift to safer assets like US Treasuries",
-    "tags": [
-      "Asia",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T06:28:08.000Z"
-  },
-  {
-    "id": "ae3c47face39ea99",
-    "slug": "us-public-pensions-gain-138b-from-ai-stocks-despite-political-scrutiny-wsj",
-    "title": "US public pensions gain $138B from AI stocks despite political scrutiny: WSJ",
-    "tags": [
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T06:19:46.000Z"
-  },
-  {
-    "id": "fbe1a2c1f0eaefd1",
-    "slug": "iran-unveils-underground-drone-facility-amid-regional-tensions",
-    "title": "Iran unveils underground drone facility amid regional tensions",
-    "tags": [
-      "Iran",
-      "Houthi"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T06:19:21.000Z"
-  },
-  {
-    "id": "b4878b43751e6622",
-    "slug": "gold-falls-below-4-000-for-the-first-time-since-july-what-s-next",
-    "title": "Gold Falls Below $4,000 for the First Time Since July. What’s Next?",
-    "tags": [
-      "Wall Street"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T06:16:52.000Z"
-  },
-  {
-    "id": "20a8dcb2291a8ee4",
-    "slug": "asian-shares-wobble-as-ai-spending-fears-spark-biggest-treasury-rally-in-over-three-years",
-    "title": "Asian shares wobble as AI spending fears spark biggest Treasury rally in over three years",
-    "tags": [
-      "Treasury",
-      "Asia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T06:14:16.000Z"
-  },
-  {
-    "id": "7f95f4785ed1429d",
-    "slug": "bitcoin-could-be-hacked-and-fall-to-zero-warns-chamath-palihapitiya",
-    "title": "Bitcoin Could Be Hacked and Fall to Zero, Warns Chamath Palihapitiya",
-    "tags": [
-      "Bitcoin",
-      "Chamath Palihapitiya"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T06:06:08.000Z"
-  },
-  {
-    "id": "1f189a034f328c1a",
-    "slug": "can-this-recent-update-hike-in-network-activity-sustain-pump-s-price-rally",
-    "title": "Can THIS recent update, hike in network activity sustain PUMP’s price rally?",
-    "tags": [
-      "Pump.fun",
-      "PUMP"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T06:00:28.000Z"
-  },
-  {
-    "id": "e2ad09e9ed8fc674",
-    "slug": "meta-paper-reveals-ai-agents-improve-learning-through-hindsight-review",
-    "title": "Meta paper reveals AI agents improve learning through hindsight review",
-    "tags": [
-      "Meta"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T05:58:16.000Z"
-  },
-  {
-    "id": "a8489f3da22db3c0",
-    "slug": "ethereum-delays-glamsterdam-test-upgrade-over-security-concerns",
-    "title": "Ethereum delays Glamsterdam test upgrade over security concerns",
-    "tags": [
-      "Ethereum"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T05:17:00.000Z"
-  },
-  {
-    "id": "61f06de12e37681d",
-    "slug": "bitcoin-to-dodge-ai-crash-analyst-says",
-    "title": "Bitcoin to Dodge AI Crash, Analyst Says",
-    "tags": [
-      "Bitcoin",
-      "CryptoQuant",
-      "Ki Young Ju"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T05:16:11.000Z"
-  },
-  {
-    "id": "38baffe7303da360",
-    "slug": "ethereum-delays-glamsterdam-hoodi-testnet-launch-over-security-risks",
-    "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
-    "tags": [
-      "Ethereum",
-      "ChainSecurity",
-      "Glamsterdam"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T05:09:41.000Z"
-  },
-  {
-    "id": "f457bcc3c5959594",
-    "slug": "7x-launches-adeed-finance-to-link-uae-sme-supply-chains-to-banks",
-    "title": "7X Launches ADEED Finance to Link UAE SME Supply Chains to Banks",
-    "tags": [
-      "7X",
-      "ADEED Finance",
-      "FINTX",
-      "UAE"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T05:00:32.000Z"
-  },
-  {
-    "id": "135b43f209228515",
-    "slug": "moderna-slides-up-to-25-as-cancer-vaccine-meets-sky-high-expectations",
-    "title": "Moderna Slides Up to 25% as Cancer Vaccine Meets Sky-High Expectations",
-    "tags": [
-      "Moderna"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T04:51:00.000Z"
-  },
-  {
-    "id": "0736559efaf1b719",
-    "slug": "xrp-holders-hit-a-record-8-24-million-so-why-is-the-price-still-sliding",
-    "title": "XRP Holders Hit a Record 8.24 Million, So Why Is the Price Still Sliding?",
-    "tags": [
-      "XRP",
-      "Santiment"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T04:37:07.000Z"
-  },
-  {
-    "id": "54b7705d79d47522",
-    "slug": "cardano-holders-are-being-asked-to-bet-5-million-on-copper-hitting-a-new-record",
-    "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
-    "tags": [
-      "Cardano",
-      "Toto Finance"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T04:36:51.000Z"
-  },
-  {
-    "id": "f67f45a8400ed342",
-    "slug": "bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find",
-    "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
-    "tags": [
-      "Bitcoin Core"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T04:34:14.000Z"
-  },
-  {
-    "id": "577a355e86eb025b",
-    "slug": "cz-says-ai-hacking-fears-in-crypto-are-overblown-warns-phishing-is-the-real-threat",
-    "title": "CZ says AI hacking fears in crypto are overblown, warns phishing is the real threat",
-    "tags": [
-      "CZ",
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T04:23:43.000Z"
-  },
-  {
-    "id": "3e2e4a0bfad40fe9",
-    "slug": "near-proposal-slashes-yield-by-36-dividing-network-validators",
-    "title": "NEAR proposal slashes yield by 36%, dividing network validators",
-    "tags": [
-      "NEAR"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T04:10:18.000Z"
-  },
-  {
-    "id": "030362f0bd04da61",
-    "slug": "80-of-xao-dao-s-xrp-treasury-set-for-firelight-deployment",
-    "title": "80% of XAO DAO’s XRP Treasury Set for Firelight Deployment",
-    "tags": [
-      "XAO DAO",
-      "XRP"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T04:09:15.000Z"
-  },
-  {
-    "id": "0f5e8c732d1fb874",
-    "slug": "bitcoin-open-interest-jumps-8-why-btc-price-faces-liquidation-risks",
-    "title": "Bitcoin Open Interest jumps 8% – Why BTC price faces liquidation risks",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T04:00:22.000Z"
-  },
-  {
-    "id": "cef215731abdb6b9",
-    "slug": "bybit-adds-stock-trading-and-tokenised-equities-in-tradfi-push",
-    "title": "Bybit Adds Stock Trading and Tokenised Equities in TradFi push",
-    "tags": [
-      "Bybit",
-      "Mantle",
-      "United States",
-      "Dubai"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T04:00:18.000Z"
-  },
-  {
-    "id": "8c20ab1625cd0a66",
-    "slug": "nasdaq-ceo-warns-against-tokenized-stock-derivatives-that-obscure-market-trading",
-    "title": "Nasdaq CEO warns against tokenized stock derivatives that obscure market trading",
-    "tags": [
-      "Nasdaq"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T03:58:21.000Z"
-  },
-  {
-    "id": "09715ba409dc9be9",
-    "slug": "peter-brandt-s-eur-jpy-short-is-his-firm-s-largest-position-as-yen-gains",
-    "title": "Peter Brandt's EUR/JPY Short Is His Firm's Largest Position as Yen Gains",
-    "tags": [
-      "Peter Brandt",
-      "EUR/JPY",
-      "Bank of Japan",
-      "Japan",
-      "Europe"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T03:54:00.000Z"
-  },
-  {
-    "id": "0b8850ee1f3a3bf3",
-    "slug": "uniswap-expands-trading-routes-bringing-outside-swaps-into-uni-burns",
-    "title": "Uniswap expands trading routes, bringing outside swaps into UNI burns",
-    "tags": [
-      "Uniswap",
-      "UNI"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T03:30:34.000Z"
-  },
-  {
-    "id": "4f47a5723e7e27ce",
-    "slug": "is-the-s-p-500-no-longer-the-economy-datatrek-s-nick-colas-weighs-in",
-    "title": "Is the S&P 500 No Longer the Economy? DataTrek's Nick Colas Weighs In",
-    "tags": [
-      "S&P 500",
-      "DataTrek",
-      "Nick Colas"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T03:20:00.000Z"
-  },
-  {
-    "id": "9f38e6b1352117da",
-    "slug": "ethereum-investor-names-the-best-new-crypto-that-could-repeat-what-eth-did-in-2017-and-turn-400",
-    "title": "Ethereum Investor Names the Best New Crypto That Could Repeat What ETH Did in 2017 and Turn $400 Into $12,000",
-    "tags": [
-      "Ethereum"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T03:17:35.000Z"
-  },
-  {
-    "id": "209f4e15b41f04fe",
-    "slug": "bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-100",
-    "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T03:13:01.000Z"
-  },
-  {
-    "id": "2028978ec0fc8b2c",
-    "slug": "apple-s-foldable-iphone-duo-launches-in-china-delivery-into-2027",
-    "title": "Apple’s foldable iPhone Duo launches in China, delivery into 2027",
-    "tags": [
-      "Apple",
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T03:03:51.000Z"
-  },
-  {
-    "id": "0949608ab8991364",
-    "slug": "ai-tech-fears-push-global-credit-spreads-to-17-month-high",
-    "title": "AI tech fears push global credit spreads to 17-month high",
-    "tags": [
-      "AI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T02:25:54.000Z"
-  },
-  {
-    "id": "a55931ea1fe0e1f0",
-    "slug": "coreweave-faces-refinancing-risks-amid-35b-debt-challenge",
-    "title": "CoreWeave faces refinancing risks amid $35B debt challenge",
-    "tags": [
-      "CoreWeave"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T02:23:58.000Z"
   }
 ]
