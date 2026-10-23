@@ -1,138 +1,212 @@
 [
   {
-    "id": "da2ff24e3c5803a2",
-    "title": "Convera Names Four C-Suite Hires to Build Global Payments Platform",
-    "summary": "The commercial payments firm has appointed a new COO, CTO, CPO and CIO to drive its integrated cross-border money movement roadmap.\nThe post Convera Names Four C-Suite Hires to Build Global Payments Platform appeared first on The Fintech Times.",
+    "id": "d4bd753b1a66a4ff",
+    "title": "Zuckerberg plans to sell shares to fund California wealth tax payment",
+    "summary": "Zuckerberg's share sale plan may bolster support for California's wealth tax, challenging claims of a billionaire exodus and influencing Proposition 40's fate.\nThe post Zuckerberg plans to sell shares to fund California wealth tax payment appeared first on Crypto Briefing.",
     "hasSummary": true,
-    "link": "https://thefintechtimes.com/convera-names-four-c-suite-hires-to-build-global-payments-platform/",
-    "source": "The Fintech Times",
+    "link": "https://cryptobriefing.com/zuckerberg-plans-to-sell-shares-to-fund-california-wealth-tax-payment/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Zuckerberg",
+      "California"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-23T18:42:31.000Z",
+    "fetchedAt": "2026-10-23T18:46:35.203Z",
+    "isDuplicateOf": null,
+    "content": "Zuckerberg plans to sell shares to fund a California wealth tax payment. This move could bolster support for the tax policy, challenging claims that billionaires will leave the region. The decision may also influence the fate of Proposition 40, according to recent reports.",
+    "content_ta": "California-வின் wealth tax செலுத்த Zuckerberg தனது பங்குகளை விற்க திட்டமிட்டுள்ளார். இந்த நடவடிக்கை பில்லியனர்கள் வெளியேறுவார்கள் என்ற கூற்றுக்களை சவால் செய்து, வரி கொள்கைக்கான ஆதரவை பலப்படுத்தலாம். சமீபத்திய அறிக்கைகளின்படி, இந்த முடிவு Proposition 40-ன் எதிர்காலத்தையும் பாதிக்கலாம்.",
+    "slug": "zuckerberg-plans-to-sell-shares-to-fund-california-wealth-tax-payment"
+  },
+  {
+    "id": "1deb2060be540e31",
+    "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+    "summary": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Initia",
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-23T18:39:02.000Z",
+    "fetchedAt": "2026-10-23T18:46:35.203Z",
+    "isDuplicateOf": null,
+    "content": "Initia has halted its blockchain network after an exploit reportedly resulted in the unauthorized minting of tokens and the transfer of over $2.6 million in assets. Following the security incident, the project suspended both its layer-1 network and associated rollups while security researchers investigate the breach and asset movements to Ethereum.",
+    "content_ta": "எஸ்ப்ளாய்ட் (exploit) காரணமாக டோக்கன்கள் அங்கீகரிக்கப்படாமல் உருவாக்கப்பட்டு மில்லியன் கணக்கில் சொத்துக்கள் மாற்றப்பட்டதைத் தொடர்ந்து Initia தனது பிளாக்செயின் நெட்வொர்க்கை தற்காலிகமாக நிறுத்தியுள்ளது. பாதுகாப்பு ஆராய்ச்சியாளர்கள் இந்த மீறல் மற்றும் Ethereum-க்கு சொத்துக்கள் மாற்றப்பட்டது குறித்து விசாரணை நடத்தி வரும் நிலையில், இந்த திட்டமானது தனது லேயர்-1 நெட்வொர்க் மற்றும் ரோல்அப்களை (rollups) இடைநிறுத்தியுள்ளது.",
+    "slug": "initia-halts-blockchain-after-exploit-reportedly-drains-over-2-6m"
+  },
+  {
+    "id": "2d423b9e1ecc6e35",
+    "title": "US Faster Payments Council release guide on navigating non-value messaging for instant payments",
+    "summary": "The U.S. Faster Payments Council (FPC), a membership organization devoted to advancing safe, easy-to-use faster payments in the United States, today announced the publication of Operational Considerations for Non-Value Messages, a new guide developed by the FPC Operational Considerations Work Group.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111430/us-faster-payments-council-release-guide-on-navigating-non-value-messaging-for-instant-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "US Faster Payments Council",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-23T18:31:00.000Z",
+    "fetchedAt": "2026-10-23T18:46:35.203Z",
+    "isDuplicateOf": null,
+    "content": "The US Faster Payments Council has released a new publication titled Operational Considerations for Non-Value Messages. Developed by the FPC Operational Considerations Work Group, the guide aims to help stakeholders navigate non-value messaging for instant payments, supporting the organization's ongoing efforts to advance safe and efficient faster payment systems across the United States.",
+    "content_ta": "US Faster Payments Council நிறுவனமானது, instant payments-களுக்கான non-value messaging வழிமுறைகளை விளக்கும் Operational Considerations for Non-Value Messages என்ற புதிய வழிகாட்டுதலை வெளியிட்டுள்ளது. FPC Operational Considerations Work Group-ஆல் உருவாக்கப்பட்ட இந்த வழிகாட்டுதல், United States முழுவதும் பாதுகாப்பான மற்றும் விரைவான payment systems-ஐ மேம்படுத்த உதவும்.",
+    "slug": "us-faster-payments-council-release-guide-on-navigating-non-value-messaging-for-instant-payments"
+  },
+  {
+    "id": "d9da57e508b82761",
+    "title": "Moonshot AI launches Kimi K3.1 Pro, closing in on Claude Opus 5.5 in coding performance",
+    "summary": "Moonshot AI launches Kimi K3.1 Pro, scoring 65.7% on Terminal Bench 4.0 against Claude Opus 5.5's 66.4%, with open weights coming November 4.\nThe post Moonshot AI launches Kimi K3.1 Pro, closing in on Claude Opus 5.5 in coding performance appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/moonshot-ai-launches-kimi-k3-1-pro-closing-in-on-claude-opus-5-5-in-coding-performance/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Moonshot AI",
+      "Claude"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-23T18:21:54.000Z",
+    "fetchedAt": "2026-10-23T18:46:35.203Z",
+    "isDuplicateOf": null,
+    "content": "Moonshot AI has launched its new Kimi K3.1 Pro model, which demonstrates strong coding performance and comes close to Claude Opus 5.5. The company announced that open weights for the new model will be released on November 4, marking a significant development in competitive artificial intelligence capabilities.",
+    "content_ta": "Moonshot AI நிறுவனம் தனது புதிய Kimi K3.1 Pro மாடலை அறிமுகப்படுத்தியுள்ளது. இது சிறந்த கோடிங் திறனைக் கொண்டுள்ளதோடு, Claude Opus 5.5 மாடலுக்கு நெருக்கமாக உள்ளது. இந்த புதிய மாடலுக்கான open weights வரும் நவம்பர் 4 ஆம் தேதி வெளியிடப்படும் என்று இந்நிறுவனம் அறிவித்துள்ளது.",
+    "slug": "moonshot-ai-launches-kimi-k3-1-pro-closing-in-on-claude-opus-5-5-in-coding-performance"
+  },
+  {
+    "id": "3a68eb8bb09f6334",
+    "title": "Ripple CEO Brad Garlinghouse Mourns Loss of Father",
+    "summary": "Ripple CEO Brad Garlinghouse has announced the death of his father, prominent Kansas businessman and philanthropist B. Kent Garlinghouse Sr., sharing an emotional tribute that prompted condolences from major figures in the cryptocurrency industry.",
+    "hasSummary": true,
+    "link": "https://u.today/ripple-ceo-brad-garlinghouse-mourns-loss-of-father",
+    "source": "U.Today",
+    "tags": [
+      "Ripple",
+      "Brad Garlinghouse",
+      "Kansas"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-23T18:05:53.000Z",
+    "fetchedAt": "2026-10-23T18:46:35.203Z",
+    "isDuplicateOf": null,
+    "content": "Ripple CEO Brad Garlinghouse announced the death of his father, B. Kent Garlinghouse Sr., a prominent Kansas businessman and philanthropist. Brad Garlinghouse shared an emotional tribute online, leading to an outpouring of condolences from leaders and supporters across the cryptocurrency industry.",
+    "content_ta": "Ripple CEO Brad Garlinghouse-ன் தந்தை B. Kent Garlinghouse Sr. காலமானதாக அவர் அறிவித்துள்ளார். இவர் கன்சாஸைச் சேர்ந்த பிரபல தொழிலதிபர் மற்றும் வள்ளல் ஆவார். Brad Garlinghouse தனது தந்தைக்கு இணையத்தில் உணர்ச்சிகரமான அஞ்சலி செலுத்தினார், இதைத் தொடர்ந்து கிரிப்டோகரன்சி துறையைச் சேர்ந்த பலரும் தங்கள் இரங்கலைத் தெரிவித்தனர்.",
+    "slug": "ripple-ceo-brad-garlinghouse-mourns-loss-of-father"
+  },
+  {
+    "id": "4db9559fab0dcffa",
+    "title": "Frax CEO says businesses will drive next wave of stablecoin adoption as firm tests lending product",
+    "summary": "Frax CEO Sam Kazemian outlines plans for receivables financing, business payments and stablecoin lending through FraxNet.\nThe post Frax CEO says businesses will drive next wave of stablecoin adoption as firm tests lending product appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/frax-ceo-says-businesses-will-drive-next-wave-of-stablecoin-adoption-as-firm-tests-lending-product/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Frax",
+      "Sam Kazemian",
+      "FraxNet"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-23T18:05:09.000Z",
+    "fetchedAt": "2026-10-23T18:46:35.203Z",
+    "isDuplicateOf": null,
+    "content": "Frax CEO Sam Kazemian states that businesses will lead the upcoming wave of stablecoin adoption. The firm is currently testing a new lending product called FraxNet, which aims to facilitate receivables financing and business payments using stablecoins.",
+    "content_ta": "Frax CEO Sam Kazemian, பிசினஸ்கள் தான் ஸ்டேபிள்காயின் தத்தெடுப்பின் அடுத்த அலைக்கு உந்துதலாக இருக்கும் என்று தெரிவித்துள்ளார். ஸ்டேபிள்காய்களைப் பயன்படுத்தி ரிசீவபில்ஸ் ஃபைனான்சிங் மற்றும் பிசினஸ் பேமெண்ட்களை எளிதாக்கும் FraxNet என்ற புதிய லெண்டிங் தயாரிப்பை இந்நிறுவனம் தற்போது பரிசோதித்து வருகிறது.",
+    "slug": "frax-ceo-says-businesses-will-drive-next-wave-of-stablecoin-adoption-as-firm-tests-lending-product"
+  },
+  {
+    "id": "da2ff24e3c5803a2",
+    "slug": "convera-names-four-c-suite-hires-to-build-global-payments-platform",
+    "title": "Convera Names Four C-Suite Hires to Build Global Payments Platform",
     "tags": [
       "Convera",
       "The Fintech Times"
     ],
+    "source": "The Fintech Times",
     "origin": "rss",
-    "pubDate": "2026-10-23T18:00:26.000Z",
-    "fetchedAt": "2026-10-23T18:01:31.548Z",
-    "isDuplicateOf": null,
-    "content": "Commercial payments firm Convera has appointed four new C-suite executives, including a Chief Operating Officer, Chief Technology Officer, Chief Product Officer, and Chief Information Officer. These strategic hires aim to drive the company's integrated cross-border money movement roadmap and help build its global payments platform, according to an announcement by The Fintech Times.",
-    "content_ta": "கமர்ஷியல் பேமெண்ட்ஸ் நிறுவனமான Convera, தனது குளோபல் பேமெண்ட்ஸ் பிளாட்ஃபார்மை உருவாக்க நான்கு புதிய C-suite அதிகாரிகளை நியமித்துள்ளது. இதில் COO, CTO, CPO மற்றும் CIO பதவிகள் அடங்கும். எல்லை தாண்டிய பணப் பரிமாற்றத் திட்டங்களை மேம்படுத்துவதே இந்த புதிய நியமனங்களின் நோக்கமாகும்.",
-    "slug": "convera-names-four-c-suite-hires-to-build-global-payments-platform"
+    "hasContent": true,
+    "pubDate": "2026-10-23T18:00:26.000Z"
   },
   {
     "id": "8f41d3a62e81bc03",
+    "slug": "uber-supports-job-seekers-in-brazil-amid-tough-economic-conditions",
     "title": "Uber supports job seekers in Brazil amid tough economic conditions",
-    "summary": "Uber's role as an economic lifeline in Brazil may impact voter turnout and influence the 2026 presidential election amid economic challenges.\nThe post Uber supports job seekers in Brazil amid tough economic conditions appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/uber-supports-job-seekers-in-brazil-amid-tough-economic-conditions/",
-    "source": "CryptoBriefing",
     "tags": [
       "Uber",
       "Brazil"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-23T17:57:56.000Z",
-    "fetchedAt": "2026-10-23T18:01:31.548Z",
-    "isDuplicateOf": null,
-    "content": "Uber is playing a vital role as an economic lifeline for job seekers in Brazil, providing income opportunities amidst challenging economic conditions. This reliance on gig work could potentially impact voter behavior and political dynamics ahead of the upcoming 2026 presidential election in the country.",
-    "content_ta": "சவாலான பொருளாதார சூழ்நிலையில் உள்ள Brazil நாட்டில் வேலை தேடுபவர்களுக்கு Uber நிறுவனம் ஒரு முக்கிய பொருளாதார ஆதாரமாக விளங்கி வருகிறது. கிக் ஒர்க்கை சார்ந்திருக்கும் இந்த நிலை, வரவிருக்கும் 2026 அதிபர் தேர்தலில் வாக்காளர் மனநிலையிலும் அரசியல் சூழலிலும் தாக்கத்தை ஏற்படுத்தக்கூடும்.",
-    "slug": "uber-supports-job-seekers-in-brazil-amid-tough-economic-conditions"
+    "hasContent": true,
+    "pubDate": "2026-10-23T17:57:56.000Z"
   },
   {
     "id": "a21e9f2e16b91476",
+    "slug": "how-i-vibe-coded-my-smart-tv-and-claude-killed-it",
     "title": "How I Vibe Coded My Smart TV—And Claude Killed It",
-    "summary": "Vibe coding your TV is impressive. Doing it without knowing exactly what you're touching is how you lose a rooted LG set and get a very sincere apology from an AI.",
-    "hasSummary": true,
-    "link": "https://decrypt.co/381717/how-vibe-coded-my-smart-tv-claude-killed-it",
-    "source": "Decrypt",
     "tags": [
       "LG",
       "Claude"
     ],
+    "source": "Decrypt",
     "origin": "rss",
-    "pubDate": "2026-10-23T17:53:29.000Z",
-    "fetchedAt": "2026-10-23T18:01:31.548Z",
-    "isDuplicateOf": null,
-    "content": "A developer successfully vibe coded their smart TV, but the process ultimately bricked a rooted LG set. During the experiment, the AI assistant Claude reportedly provided a very sincere apology for the mishap, highlighting the unexpected risks of using AI-driven coding without precise knowledge of the underlying hardware modifications.",
-    "content_ta": "ஒரு டெவலப்பர் தனது smart TV-ஐ vibe coding முறையில் மாற்ற முயன்றபோது, ரூட் செய்யப்பட்ட LG செட் வேலை செய்யாமல் போனது. இந்த எதிர்பாராத விபத்து குறித்து AI உதவியாளரான Claude மிகவும் வருத்தத்துடன் மன்னிப்பு கோரியது. அடிப்படை ஹார்டுவேர் மாற்றங்கள் பற்றிய முழுமையான அறிவு இல்லாமல் AI-யை நம்பி கோடிங் செய்வதன் ஆபத்துகளை இது வெளிச்சம் போட்டுக் காட்டுகிறது.",
-    "slug": "how-i-vibe-coded-my-smart-tv-and-claude-killed-it"
+    "hasContent": true,
+    "pubDate": "2026-10-23T17:53:29.000Z"
   },
   {
     "id": "cc0c256276bdd7c5",
+    "slug": "sen-blumenthal-seeks-answers-from-tether-over-payments-to-firm-founded-by-ex-white-house-crypto",
     "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
-    "summary": "Sen. Blumenthal said he wants answers from Tether following reports that it paid millions to a firm started by a former WH crypto adviser.",
-    "hasSummary": true,
-    "link": "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785",
-    "source": "The Block",
     "tags": [
       "Tether",
       "White House",
       "Sen. Blumenthal"
     ],
+    "source": "The Block",
     "origin": "rss",
-    "pubDate": "2026-10-23T17:46:09.000Z",
-    "fetchedAt": "2026-10-23T18:01:31.548Z",
-    "isDuplicateOf": null,
-    "content": "Senator Blumenthal is seeking answers from Tether following reports that the cryptocurrency company made substantial payments to a firm founded by a former White House crypto adviser. The lawmaker has raised questions regarding these financial transactions and is pushing for greater transparency into the relationship and the nature of the payments.",
-    "content_ta": "முன்னாள் White House crypto adviser தொடங்கிய நிறுவனத்திற்கு Tether நிறுவனம் லட்சக்கணக்கில் பணம் செலுத்தியதாக வெளியான தகவல்களை அடுத்து, Sen. Blumenthal அந்த நிறுவனத்திடம் விளக்கம் கேட்டுள்ளார். இந்த நிதிப் பரிமாற்றங்கள் குறித்து அவர் எழுப்பிய கேள்விகள் மற்றும் வெளிப்படைத்தன்மை கோரி வருவதால் இந்த விவகாரம் கவனம் பெற்றுள்ளது.",
-    "slug": "sen-blumenthal-seeks-answers-from-tether-over-payments-to-firm-founded-by-ex-white-house-crypto"
+    "hasContent": true,
+    "pubDate": "2026-10-23T17:46:09.000Z"
   },
   {
     "id": "3e7426c39bec5c05",
+    "slug": "trump-backs-controversial-ad-against-ohio-democratic-candidate-acton",
     "title": "Trump backs controversial ad against Ohio Democratic candidate Acton",
-    "summary": "Trump's support for the ad may deepen GOP divisions, potentially boosting Acton's appeal among moderates and affecting Ohio's election dynamics.\nThe post Trump backs controversial ad against Ohio Democratic candidate Acton appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/trump-backs-controversial-ad-against-ohio-democratic-candidate-acton/",
-    "source": "CryptoBriefing",
     "tags": [
       "Trump",
       "Acton",
       "Ohio"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-23T17:43:32.000Z",
-    "fetchedAt": "2026-10-23T18:01:31.548Z",
-    "isDuplicateOf": null,
-    "content": "Trump has expressed support for a controversial political advertisement targeting Ohio Democratic candidate Acton. This endorsement could potentially widen divisions within the Republican Party while possibly strengthening Acton's appeal among moderate voters. The development is expected to influence the broader political dynamics surrounding the upcoming election in Ohio, drawing increased attention to the race.",
-    "content_ta": "Ohio Democratic candidate Acton-க்கு எதிரான ஒரு சர்ச்சைக்குரிய அரசியல் விளம்பரத்திற்கு Trump ஆதரவு தெரிவித்துள்ளார். இந்த ஆதரவு Republican கட்சிக்களுக்கு இடையேயான பிளவை ஆழப்படுத்தக்கூடும், அதே நேரத்தில் மிதவாத வாக்காளர்கள் மத்தியில் Acton-ன் ஈர்ப்பை அதிகரிக்கலாம். இந்த நிகழ்வு Ohio-வில் வரவிருக்கும் தேர்தல் அரசியலில் தாக்கத்தை ஏற்படுத்தும் என்று எதிர்பார்க்கப்படுகிறது.",
-    "slug": "trump-backs-controversial-ad-against-ohio-democratic-candidate-acton"
+    "hasContent": true,
+    "pubDate": "2026-10-23T17:43:32.000Z"
   },
   {
     "id": "c87339f0f760dbbc",
+    "slug": "us-senator-probes-tether-after-reported-deal-with-ex-trump-crypto-adviser",
     "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
-    "summary": "The Democratic ranking member of the Senate Permanent Subcommittee on Investigations asked Paolo Ardoino for records related to a reported deal between Tether and Nxum.",
-    "hasSummary": true,
-    "link": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph",
     "tags": [
       "Tether",
       "United States",
       "Donald Trump"
     ],
+    "source": "Cointelegraph",
     "origin": "rss",
-    "pubDate": "2026-10-23T17:42:12.000Z",
-    "fetchedAt": "2026-10-23T18:01:31.548Z",
-    "isDuplicateOf": null,
-    "content": "A senior US senator has launched an investigation into Tether following reports of a potential deal involving the cryptocurrency company and a former adviser to Donald Trump. The Democratic lawmaker requested records from Tether CEO Paolo Ardoino regarding the arrangement, raising questions about transparency and regulatory compliance within the digital asset sector.",
-    "content_ta": "முன்னாள் அமெரிக்க ஜனாதிபதி Donald Trump-இன் முன்னாள் கிரிப்டோ ஆலோசகருடன் Tether நிறுவனம் ஒப்பந்தம் செய்துள்ளதாக வெளியான தகவலை அடுத்து, அமெரிக்க செனட்டர் ஒருவர் இது குறித்து விசாரணையைத் தொடங்கியுள்ளார். Tether நிறுவனத்தின் தலைமை நிர்வாக அதிகாரி Paolo Ardoino-விடம் இருந்து இது தொடர்பான ஆவணங்களை ஜனநாயகக் கட்சி lawmaker கேட்டுப் பெற்றுள்ளார்.",
-    "slug": "us-senator-probes-tether-after-reported-deal-with-ex-trump-crypto-adviser"
+    "hasContent": true,
+    "pubDate": "2026-10-23T17:42:12.000Z"
   },
   {
     "id": "f31e113cebee1b6f",
+    "slug": "amex-fires-5-of-workers-raises-profit-forecast-just-1",
     "title": "AmEx fires 5% of workers, raises profit forecast just 1%",
-    "summary": "AmEx announced layoffs affecting 5% of its workers today while lifting its 2026 profit forecast by a midpoint of just 0.85%.\nThe post AmEx fires 5% of workers, raises profit forecast just 1% appeared first on Protos.",
-    "hasSummary": true,
-    "link": "https://protos.com/amex-fires-5-of-workers-raises-profit-forecast-just-1/",
-    "source": "Protos",
     "tags": [
       "AmEx"
     ],
+    "source": "Protos",
     "origin": "rss",
-    "pubDate": "2026-10-23T17:40:34.000Z",
-    "fetchedAt": "2026-10-23T18:01:31.548Z",
-    "isDuplicateOf": null,
-    "content": "American Express has announced workforce reductions impacting 5% of its employees. Alongside the layoffs, the company raised its profit forecast for 2026 by a midpoint of just 0.85%. The news highlights ongoing cost-adjustment strategies within the major financial firm as it navigates future financial projections.",
-    "content_ta": "AmEx நிறுவனம் தனது மொத்த ஊழியர்களில் 5% பேரை பணிநீக்கம் செய்வதாக அறிவித்துள்ளது. இந்த ஆட்குறைப்பு நடவடிக்கையுடன் சேர்த்து, 2026 ஆம் ஆண்டுக்கான லாப முன்னறிவிப்பை வெறும் 0.85% அளவுக்கு மட்டுமே நிறுவனம் உயர்த்தியுள்ளது.",
-    "slug": "amex-fires-5-of-workers-raises-profit-forecast-just-1"
+    "hasContent": true,
+    "pubDate": "2026-10-23T17:40:34.000Z"
   },
   {
     "id": "37997e90a86dbb3b",
@@ -728,87 +802,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-23T14:04:36.000Z"
-  },
-  {
-    "id": "b00d15fb46cf8ff2",
-    "slug": "bitcoin-s-80-000-recovery-faces-liquidity-questions-as-binance-s-tether-flows-swing-14-billion",
-    "title": "Bitcoin’s $80,000 recovery faces liquidity questions as Binance’s Tether flows swing $14 billion",
-    "tags": [
-      "Bitcoin",
-      "Binance",
-      "Tether",
-      "Ethereum",
-      "Tron"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T14:00:15.000Z"
-  },
-  {
-    "id": "4151bc3bfa9b6d13",
-    "slug": "ethereum-s-glamsterdam-testnet-hits-setback-why-solana-remains-ahead",
-    "title": "Ethereum’s Glamsterdam testnet hits setback – Why Solana remains ahead",
-    "tags": [
-      "Ethereum",
-      "Solana"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T14:00:13.000Z"
-  },
-  {
-    "id": "768b7eaf95e9a883",
-    "slug": "robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
-    "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-    "tags": [
-      "Robinhood",
-      "Bitcoin"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T13:58:56.000Z"
-  },
-  {
-    "id": "a6d117f127cf1bb8",
-    "slug": "credo-technology-group-unveils-1-6-terabit-optical-cable-targets-ai-market",
-    "title": "Credo Technology Group unveils 1.6-terabit optical cable, targets AI market",
-    "tags": [
-      "Credo Technology Group"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T13:53:56.000Z"
-  },
-  {
-    "id": "4efc6f12e2150cbe",
-    "slug": "us-business-activity-expands-prices-surge-most-since-2022",
-    "title": "US business activity expands, prices surge most since 2022",
-    "tags": [
-      "United States",
-      "Federal Reserve"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T13:53:00.000Z"
-  },
-  {
-    "id": "9f352cb3a56ea86e",
-    "slug": "us-humanoid-robotics-revenue-to-fall-58-below-baseline-by-2030-idc-warns",
-    "title": "US humanoid robotics revenue to fall 58% below baseline by 2030, IDC warns",
-    "tags": [
-      "IDC",
-      "United States",
-      "China",
-      "Europe"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T13:46:26.000Z"
   }
 ]
