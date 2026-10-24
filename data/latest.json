@@ -1,152 +1,434 @@
 [
   {
-    "id": "ad329f6c41a4679a",
-    "title": "Initia halts L1 and rollups after $2.7 million exploit — What happened?",
-    "summary": "Initia’s security incident has once again raised fresh concerns about bridge vulnerabilities.",
+    "id": "827834ffc40901e0",
+    "slug": "wall-street-s-359-billion-a-day-repo-market-has-found-a-use-for-blockchain",
+    "title": "Wall Street’s $359 billion-a-day repo market has found a use for blockchain",
+    "tags": [
+      "Wall Street",
+      "CryptoSlate"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-24T12:00:47.000Z"
+  },
+  {
+    "id": "1c928c33a75891de",
+    "slug": "u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
+    "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
+    "tags": [
+      "Apex Group",
+      "Peter Hughes",
+      "United States",
+      "Asia",
+      "Middle East"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-24T12:00:00.000Z"
+  },
+  {
+    "id": "75cd39753f9de79a",
+    "slug": "tether-s-mining-development-kit-gets-backing-from-15-mining-firms",
+    "title": "Tether’s mining development kit gets backing from 15 mining firms",
+    "tags": [
+      "Tether",
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-24T11:54:09.000Z"
+  },
+  {
+    "id": "f3eeda063bc6ee96",
+    "title": "Gilead To Hand $45,000,000 to Texas After Allegedly Using “Free Nurses” as Kickbacks To Boost Medicaid Prescriptions",
+    "summary": "Gilead Sciences has agreed to pay $45 million to settle Texas allegations that it used free nursing and reimbursement support services as kickbacks to influence Medicaid prescriptions. The company denies wrongdoing.\nThe post Gilead To Hand $45,000,000 to Texas After Allegedly Using “Free Nurses” as Kickbacks To Boost Medicaid Prescriptions appeared first on The Daily Hodl.",
     "hasSummary": true,
-    "link": "https://ambcrypto.com/initia-halts-l1-and-rollups-after-2-7-million-exploit-what-happened/",
+    "link": "https://dailyhodl.com/2026/10/24/gilead-to-hand-45000000-to-texas-after-allegedly-using-free-nurses-as-kickbacks-to-boost-medicaid-prescriptions/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "Gilead Sciences",
+      "Texas",
+      "Medicaid"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-24T11:45:25.000Z",
+    "fetchedAt": "2026-10-24T12:01:20.442Z",
+    "isDuplicateOf": null,
+    "content": "Gilead Sciences has agreed to pay $45 million to settle allegations brought by Texas. The company was accused of using free nursing and reimbursement support services as kickbacks to improperly influence Medicaid prescriptions. Gilead has denied any wrongdoing in connection with the settlement.",
+    "content_ta": "Texas-ன் குற்றச்சாட்டுகளை தீர்க்க Gilead நிறுவனமானது $45 மில்லியன் செலுத்த ஒப்புக்கொண்டுள்ளது. Medicaid பரிந்துரைகளை செல்வாக்கு செலுத்த இலவச செவிலியர் சேவைகளை லஞ்சமாக பயன்படுத்தியதாக இந்நிறுவனம் மீது குற்றம் சாட்டப்பட்டது. இந்த விவகாரத்தில் Gilead எந்த தவறும் செய்யவில்லை என மறுத்துள்ளது.",
+    "slug": "gilead-to-hand-45-000-000-to-texas-after-allegedly-using-free-nurses-as-kickbacks-to-boost-medicaid"
+  },
+  {
+    "id": "5e8aa3b536009895",
+    "slug": "cardano-ada-eyes-20-move-as-rising-channel-pattern-faces-critical-test",
+    "title": "Cardano (ADA) Eyes 20% Move as Rising Channel Pattern Faces Critical Test",
+    "tags": [
+      "Cardano"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-24T11:40:03.000Z"
+  },
+  {
+    "id": "7d79f5caba97449f",
+    "slug": "injective-ceo-meets-white-house-sec-and-cftc-officials-on-onchain-finance",
+    "title": "Injective CEO meets White House, SEC and CFTC officials on onchain finance",
+    "tags": [
+      "Injective",
+      "White House",
+      "SEC",
+      "CFTC",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-24T11:33:16.000Z"
+  },
+  {
+    "id": "9c2f447fd4e69b0b",
+    "slug": "joseph-lubin-predicts-ai-and-crypto-will-merge-on-ethereum",
+    "title": "Joseph Lubin predicts AI and crypto will merge on Ethereum",
+    "tags": [
+      "Ethereum",
+      "Joseph Lubin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-24T11:27:19.000Z"
+  },
+  {
+    "id": "0cd7b63c1e488f1e",
+    "slug": "us-tech-stocks-under-pressure-3-stocks-to-watch-before-next-week-s-earnings",
+    "title": "US Tech Stocks Under Pressure: 3 Stocks to Watch Before Next Week’s Earnings",
+    "tags": [
+      "Microsoft",
+      "Alphabet",
+      "Amazon",
+      "United States"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-24T11:21:56.000Z"
+  },
+  {
+    "id": "e742bbf6e5e339d0",
+    "slug": "nvidia-ceo-jensen-huang-says-ai-demand-is-soaring-but-financing-lags",
+    "title": "Nvidia CEO Jensen Huang says AI demand is soaring, but financing lags",
+    "tags": [
+      "Nvidia",
+      "Jensen Huang"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-24T11:10:51.000Z"
+  },
+  {
+    "id": "49813777478c8400",
+    "slug": "arweave-ar-price-prediction-2026-2027-2030-can-ar-rally-to-6-this-year",
+    "title": "Arweave (AR) Price Prediction 2026, 2027-2030: Can AR Rally to $6 This Year?",
+    "tags": [
+      "Arweave"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-24T11:04:00.000Z"
+  },
+  {
+    "id": "35494293370a5b53",
+    "slug": "neuralink-plans-first-blindsight-vision-implants-within-6-to-12-months",
+    "title": "Neuralink plans first Blindsight vision implants within 6 to 12 months",
+    "tags": [
+      "Neuralink"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-24T10:54:29.000Z"
+  },
+  {
+    "id": "b18959faff0f5cf2",
+    "slug": "bitcoin-miners-are-fleeing-to-ai-so-why-is-the-hash-rate-surging",
+    "title": "Bitcoin Miners Are Fleeing to AI: So Why Is the Hash Rate Surging?",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-24T10:48:29.000Z"
+  },
+  {
+    "id": "a5033655d86aa2d9",
+    "slug": "solana-outshines-xrp-with-higher-transactions-and-stablecoin-usage-motley-fool",
+    "title": "Solana outshines XRP with higher transactions and stablecoin usage: Motley Fool",
+    "tags": [
+      "Solana",
+      "XRP",
+      "Motley Fool"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-24T10:33:53.000Z"
+  },
+  {
+    "id": "d4882d7b1689ffe2",
+    "slug": "bloomberg-adds-basel-crypto-exposure-classification-for-banks-and-asset-managers",
+    "title": "Bloomberg Adds Basel Crypto Exposure Classification For Banks And Asset Managers",
+    "tags": [
+      "Bloomberg"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-24T10:30:00.000Z"
+  },
+  {
+    "id": "2533d587aadfad98",
+    "slug": "micron-outlines-memory-and-storage-roadmap-through-2030",
+    "title": "Micron outlines memory and storage roadmap through 2030",
+    "tags": [
+      "Micron"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-24T10:22:27.000Z"
+  },
+  {
+    "id": "4de4983e7f37bbd9",
+    "title": "Conflux Price Prediction 2026, 2027 – 2030: Will CFX Price Hit $1?",
+    "summary": "The post Conflux Price Prediction 2026, 2027 – 2030: Will CFX Price Hit $1? appeared first on Coinpedia Fintech News\nStory Highlights The live price of the CFX crypto is . Conflux price could reach a high of $0.233 in 2026. This altcoin, with a potential surge, may reach a high of $3.80 by 2030. Conflux (CFX) is a high-performance Layer-1 blockchain designed to deliver fast, secure, and low-cost transactions for decentralized applications.  Powered by …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/price-prediction/conflux-cfx-price-prediction/",
+    "source": "Coinpedia",
+    "tags": [
+      "Conflux",
+      "CFX"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-24T10:19:00.000Z",
+    "fetchedAt": "2026-10-24T12:01:20.442Z",
+    "isDuplicateOf": null,
+    "content": "A recent price prediction analysis for the CFX crypto estimates its potential market performance through 2030. According to the report, the Conflux token could reach a high of $0.233 in 2026. Looking further ahead, the altcoin has the potential to surge and hit a high of $3.80 by 2030, driven by its high-performance Layer-1 blockchain infrastructure.",
+    "content_ta": "CFX கிரிப்டோகரன்சியின் எதிர்கால விலை குறித்த கணிப்பு ஒன்று வெளியிடப்பட்டுள்ளது. இந்த அறிக்கையின்படி, Conflux டோக்கன் 2026-ஆம் ஆண்டில் $0.233 வரை உயரக்கூடும். மேலும், அதன் செயல்திறன் மிக்க Layer-1 பிளாக்செயின் தொழில்நுட்பத்தின் ஆதரவுடன், இந்த altcoin 2030-ஆம் ஆண்டிற்குள் $3.80 என்ற உச்சத்தை அடைய வாய்ப்புள்ளது.",
+    "slug": "conflux-price-prediction-2026-2027-2030-will-cfx-price-hit-1"
+  },
+  {
+    "id": "d36e92c00934669b",
+    "slug": "uniswap-sees-biggest-wallet-surge-in-4-years-will-uni-rally",
+    "title": "Uniswap Sees Biggest Wallet Surge in 4 Years. Will UNI Rally?",
+    "tags": [
+      "Uniswap",
+      "UNI",
+      "Santiment"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-24T10:12:15.000Z"
+  },
+  {
+    "id": "839dfb80998b5989",
+    "slug": "coinbase-derivatives-pauses-futures-trading-for-up-to-nine-hours-of-maintenance",
+    "title": "Coinbase Derivatives pauses futures trading for up to nine hours of maintenance",
+    "tags": [
+      "Coinbase Derivatives"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-24T10:04:27.000Z"
+  },
+  {
+    "id": "a73ba9e181f5c34a",
+    "slug": "how-quack-ai-s-22-price-crash-puts-q-s-0-06-support-in-focus",
+    "title": "How Quack AI’s 22% price crash puts Q’s $0.06 support in focus",
+    "tags": [
+      "Quack AI"
+    ],
     "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-24T10:00:58.000Z"
+  },
+  {
+    "id": "47ad0729842d4647",
+    "title": "Pendle Price Prediction 2026, 2027 – 2030: Is PENDLE Coin Worth A Buy?",
+    "summary": "The post Pendle Price Prediction 2026, 2027 – 2030: Is PENDLE Coin Worth A Buy? appeared first on Coinpedia Fintech News\nStory Highlights The PENDLE price today is Pendle Coin’s price could hit a maximum of $5.416 in 2026 Pendle coin, with a potential uptrend, may peak at $41.52 by 2030. Pudgy Penguins (PENGU) is the official token of the Pudgy Penguins ecosystem, one of the most recognized NFT brands in the crypto industry. What started …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/price-prediction/pendle-price-prediction/",
+    "source": "Coinpedia",
+    "tags": [
+      "Pendle",
+      "Pudgy Penguins"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-24T09:52:00.000Z",
+    "fetchedAt": "2026-10-24T12:01:20.442Z",
+    "isDuplicateOf": null,
+    "content": "Recent price predictions for PENDLE outline potential long-term growth for the cryptocurrency. Analysts suggest that the coin could reach a maximum of $5.416 by 2026. Looking further ahead toward 2030, the token might potentially peak at $41.52 during a strong uptrend. Additionally, the Pudgy Penguins ecosystem and its PENGU token are gaining attention within the broader crypto and NFT industry.",
+    "content_ta": "PENDLE கிரிப்டோகரன்சிக்கான சமீபத்திய விலை கணிப்புகள் நீண்ட கால வளர்ச்சிக்கான சாத்தியக்கூறுகளைக் காட்டுகின்றன. 2026ஆம் ஆண்டிற்குள் இந்த காயின் அதிகபட்சமாக $5.416 வரை உயரக்கூடும் என்று ஆய்வாளர்கள் குறிப்பிடுகின்றனர். 2030ஆம் ஆண்டை நோக்கி பார்க்கும்போது, வலுவான சந்தை வளர்ச்சியின் மூலம் இந்த டோக்கன் $41.52 வரை உச்சம் பெற வாய்ப்புள்ளது. கூடுதலாக, Pudgy Penguins சுற்றுச்சூழல் அமைப்பு மற்றும் அதன் PENGU டோக்கன் ஆகியவை கிரிப்டோ மற்றும் NFT துறையில் கவனம் பெற்று வருகின்றன.",
+    "slug": "pendle-price-prediction-2026-2027-2030-is-pendle-coin-worth-a-buy"
+  },
+  {
+    "id": "073a973f8a639baf",
+    "slug": "ai-bubble-fears-trigger-a-surprising-shift-to-swiss-stocks",
+    "title": "AI Bubble Fears Trigger a Surprising Shift to Swiss Stocks",
+    "tags": [
+      "Swiss Market Index",
+      "Euro Stoxx 50",
+      "Switzerland",
+      "Europe"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-24T09:36:57.000Z"
+  },
+  {
+    "id": "28afa42b4e4fe2f4",
+    "slug": "1-xrp-for-1-btc-this-date-remains-etched-in-xrpl-history",
+    "title": "1 XRP for 1 BTC? This Date Remains Etched in XRPL History",
+    "tags": [
+      "XRP Ledger",
+      "XRP",
+      "Bitcoin"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-24T09:30:26.000Z"
+  },
+  {
+    "id": "876cdc8777d07f7b",
+    "title": "Georgia Social Media Star Allegedly Siphons $4,000,000 in Food Benefits Through 350+ Fake SNAP Accounts",
+    "summary": "A Georgia social media personality known as Shawty Dred is accused of stealing more than $4 million in SNAP food benefits through more than 350 fake accounts.\nThe post Georgia Social Media Star Allegedly Siphons $4,000,000 in Food Benefits Through 350+ Fake SNAP Accounts appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/10/24/georgia-social-media-star-allegedly-siphons-4000000-in-food-benefits-through-350-fake-snap-accounts/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "Georgia",
+      "Shawty Dred",
+      "SNAP"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-24T09:15:26.000Z",
+    "fetchedAt": "2026-10-24T12:01:20.442Z",
+    "isDuplicateOf": null,
+    "content": "A Georgia social media star, known as Shawty Dred, has been accused of allegedly siphons $4,000,000 in food benefits. The suspect reportedly utilized more than 350 fake SNAP accounts to carry out the multimillion-dollar fraud scheme. Federal authorities are investigating the case involving the massive government assistance scam.",
+    "content_ta": "Georgia-வை சேர்ந்த சமூக வலைதள பிரபலமவர் Shawty Dred, $4,000,000 மதிப்பிலான SNAP உணவு நலத்திட்ட உதவிகளைத் திருடியதாகக் குற்றம் சாட்டப்பட்டுள்ளார். இந்த மோசடி வழக்கில் 350-க்கும் மேற்பட்ட போலியான கணக்குகள் பயன்படுத்தப்பட்டதாகக் கூறப்படுவதால் அதிகாரிகள் விசாரணை நடத்தி வருகின்றனர்.",
+    "slug": "georgia-social-media-star-allegedly-siphons-4-000-000-in-food-benefits-through-350-fake-snap"
+  },
+  {
+    "id": "ad329f6c41a4679a",
+    "slug": "initia-halts-l1-and-rollups-after-2-7-million-exploit-what-happened",
+    "title": "Initia halts L1 and rollups after $2.7 million exploit — What happened?",
     "tags": [
       "Initia"
     ],
+    "source": "AMBCrypto",
     "origin": "rss",
-    "pubDate": "2026-10-24T09:00:08.000Z",
-    "fetchedAt": "2026-10-24T09:01:31.464Z",
-    "isDuplicateOf": null,
-    "content": "Initia has halted its L1 and rollups following a security exploit resulting in a loss of approximately $2.7 million. This incident has reignited concerns surrounding the vulnerabilities inherent in blockchain bridges.",
-    "content_ta": "$2.7 மில்லியன் திருட்டு போனதைத் தொடர்ந்து Initia தனது L1 மற்றும் rollups-ஐ தற்காலிகமாக நிறுத்தியுள்ளது. இந்தச் சம்பவம் பிரிட்ஜ் (bridge) தொடர்பான பாதுகாப்பு குறைகள் குறித்த கவலைகளை மீண்டும் எழுப்பியுள்ளது.",
-    "slug": "initia-halts-l1-and-rollups-after-2-7-million-exploit-what-happened"
+    "hasContent": true,
+    "pubDate": "2026-10-24T09:00:08.000Z"
   },
   {
     "id": "49b311e0bf22228b",
+    "slug": "btcc-reports-387-billion-in-futures-trading-as-tradfi-linked-contracts-grow",
     "title": "BTCC Reports $387 Billion In Futures Trading As TradFi-Linked Contracts Grow",
-    "summary": "Crypto exchange BTCC says quarterly futures volume reached $387 billion and its TradFi-linked trading category increased to $16.3 billion, based on company-reported data.",
-    "hasSummary": true,
-    "link": "https://www.newsbtc.com/crypto-news/btcc-387-billion-futures-volume-tradfi-linked-contracts/",
-    "source": "NewsBTC",
     "tags": [
       "BTCC"
     ],
+    "source": "NewsBTC",
     "origin": "rss",
-    "pubDate": "2026-10-24T09:00:00.000Z",
-    "fetchedAt": "2026-10-24T09:01:31.464Z",
-    "isDuplicateOf": null,
-    "content": "Crypto exchange BTCC reported $387 billion in quarterly futures trading volume, according to company data. Additionally, the platform's TradFi-linked trading category grew to $16.3 billion, highlighting the expansion of these specialized contracts on the exchange.",
-    "content_ta": "Crypto exchange BTCC-ன் காலாண்டு ஃபியூச்சர்ஸ் வர்த்தகப் பரிமாற்ற அளவு $387 பில்லியனை எட்டியுள்ளதாக நிறுவனம் தெரிவித்துள்ளது. மேலும், TradFi-தொடர்புடைய வர்த்தகப் பிரிவு $16.3 பில்லியனாக வளர்ச்சியடைந்துள்ளது.",
-    "slug": "btcc-reports-387-billion-in-futures-trading-as-tradfi-linked-contracts-grow"
+    "hasContent": true,
+    "pubDate": "2026-10-24T09:00:00.000Z"
   },
   {
     "id": "02c7967c2b11b73d",
+    "slug": "switzerland-s-bitcoin-etf-is-more-important-than-it-looks-here-s-why",
     "title": "Switzerland’s Bitcoin ETF Is More Important Than It Looks: Here’s Why",
-    "summary": "The green light might appear as just another addition to the growing list of regulated crypto platforms, but the structure makes it more significant than it appears.",
-    "hasSummary": true,
-    "link": "https://cryptopotato.com/switzerlands-bitcoin-etf-is-more-important-than-it-looks-heres-why/",
-    "source": "CryptoPotato",
     "tags": [
       "Switzerland",
       "Bitcoin"
     ],
+    "source": "CryptoPotato",
     "origin": "rss",
-    "pubDate": "2026-10-24T08:29:22.000Z",
-    "fetchedAt": "2026-10-24T09:01:31.464Z",
-    "isDuplicateOf": null,
-    "content": "Switzerland has approved a new Bitcoin ETF, which analysts consider far more significant than it initially appears. While it may seem like just another regulated cryptocurrency platform, the unique underlying structure of this financial product makes it particularly noteworthy for the broader digital asset market and investors watching European adoption.",
-    "content_ta": "ஸ்விட்சர்லாந்து நாட்டில் புதிதாக அனுமதிக்கப்பட்டுள்ள Bitcoin ETF, ஆரம்பத்தில் தோன்றுவதை விட மிகவும் முக்கியமானதாக நிபுணர்களால் கருதப்படுகிறது. இது மற்றொரு ஒழுங்குபடுத்தப்பட்ட cryptocurrency தளம் போலத் தோன்றினாலும், இதன் தனித்துவமான கட்டமைப்பு ஐரோப்பிய சந்தையில் டிஜிட்டல் சொத்துக்களின் வளர்ச்சியை உன்னிப்பாகக் கவனிக்கும் முதலீட்டாளர்களுக்கு மிகவும் குறிப்பிடத்தக்கதாக அமைகிறது.",
-    "slug": "switzerland-s-bitcoin-etf-is-more-important-than-it-looks-here-s-why"
+    "hasContent": true,
+    "pubDate": "2026-10-24T08:29:22.000Z"
   },
   {
     "id": "a943e09d0be99e0d",
+    "slug": "bitdeer-reports-1-355-bitcoin-mined-in-september-while-building-ai-capacity",
     "title": "Bitdeer Reports 1,355 Bitcoin Mined In September While Building AI Capacity",
-    "summary": "Bitdeer says its September Bitcoin production reached 1,355 BTC, highlighting the miner’s expanding hash rate alongside separate data-center and AI-service plans.",
-    "hasSummary": true,
-    "link": "https://www.newsbtc.com/bitcoin-news/bitdeer-september-2026-1355-bitcoin-mining-ai/",
-    "source": "NewsBTC",
     "tags": [
       "Bitdeer",
       "Bitcoin"
     ],
+    "source": "NewsBTC",
     "origin": "rss",
-    "pubDate": "2026-10-24T08:15:00.000Z",
-    "fetchedAt": "2026-10-24T09:01:31.464Z",
-    "isDuplicateOf": null,
-    "content": "Bitdeer announced that its September Bitcoin production reached 1,355 BTC. The company highlighted its expanding hash rate during the month while continuing to work on separate data-center and artificial intelligence service plans to broaden its business operations.",
-    "content_ta": "செப்டம்பர் மாதத்தில் Bitdeer நிறுவனம் 1,355 Bitcoin-களை மைனிங் செய்துள்ளதாக அறிவித்துள்ளது. மேலும், தனது டேட்டா சென்டர் மற்றும் AI சேவை திட்டங்களை விரிவுபடுத்தும் பணிகளிலும் நிறுவனம் ஈடுபட்டு வருவதாகத் தெரிவித்துள்ளது.",
-    "slug": "bitdeer-reports-1-355-bitcoin-mined-in-september-while-building-ai-capacity"
+    "hasContent": true,
+    "pubDate": "2026-10-24T08:15:00.000Z"
   },
   {
     "id": "76ef4daf68ab8a8c",
+    "slug": "ai-market-potential-raises-job-displacement-concerns-impacts-anthropic-outlook",
     "title": "AI market potential raises job displacement concerns, impacts Anthropic outlook",
-    "summary": "AI's potential for job displacement raises economic and social concerns, impacting investor confidence and valuation prospects for AI firms.\nThe post AI market potential raises job displacement concerns, impacts Anthropic outlook appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/ai-market-potential-raises-job-displacement-concerns-impacts-anthropic-outlook/",
-    "source": "CryptoBriefing",
     "tags": [
       "Anthropic"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-24T08:04:59.000Z",
-    "fetchedAt": "2026-10-24T09:01:31.464Z",
-    "isDuplicateOf": null,
-    "content": "The growing market potential of artificial intelligence has sparked widespread discussions regarding potential job displacement and broader economic impacts. These concerns are increasingly influencing investor confidence and shaping the valuation outlook for leading AI firms, including Anthropic, as the industry navigates the balance between technological advancement and workforce stability.",
-    "content_ta": "செயற்கை நுண்ணறிவு (AI) சந்தையின் வளர்ச்சி வேலைவாய்ப்பு இழப்பு குறித்த கவலைகளை ஏற்படுத்தியுள்ளது. இந்த பொருளாதார மற்றும் சமூகக் கவலைகள் முதலீட்டாளர்களின் நம்பிக்கையையும், Anthropic போன்ற முக்கிய AI நிறுவனங்களின் மதிப்பு மற்றும் எதிர்கால வளர்ச்சியையும் பாதிக்கின்றன.",
-    "slug": "ai-market-potential-raises-job-displacement-concerns-impacts-anthropic-outlook"
+    "hasContent": true,
+    "pubDate": "2026-10-24T08:04:59.000Z"
   },
   {
     "id": "361e5d1ea9f0df70",
+    "slug": "anna-kelly-emerges-as-leading-contender-for-trump-s-press-secretary-role",
     "title": "Anna Kelly emerges as leading contender for Trump’s Press Secretary role",
-    "summary": "Anna Kelly's rising odds highlight market speculation and uncertainty, reflecting broader deliberations within Trump's administration on key appointments.\nThe post Anna Kelly emerges as leading contender for Trump’s Press Secretary role appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/anna-kelly-emerges-as-leading-contender-for-trumps-press-secretary-role/",
-    "source": "CryptoBriefing",
     "tags": [
       "Anna Kelly",
       "Trump"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-24T08:02:28.000Z",
-    "fetchedAt": "2026-10-24T09:01:31.464Z",
-    "isDuplicateOf": null,
-    "content": "Anna Kelly has emerged as a leading contender for the role of Trump’s Press Secretary. This development highlights ongoing speculation and uncertainty regarding key appointments within the incoming administration. Market observers are closely watching these deliberations as decisions on top communications roles take shape.",
-    "content_ta": "Trump-ன் Press Secretary பதவிக்கு Anna Kelly முன்னிலை வகிக்கும் வேட்பாளராக உருவெடுத்துள்ளார். நிர்வாகத்தின் முக்கிய நியமனங்கள் குறித்த ஊகங்களையும் நிச்சயமற்ற தன்மையையும் இந்த நகர்வு வெளிச்சம் போட்டுக் காட்டுகிறது.",
-    "slug": "anna-kelly-emerges-as-leading-contender-for-trump-s-press-secretary-role"
+    "hasContent": true,
+    "pubDate": "2026-10-24T08:02:28.000Z"
   },
   {
     "id": "d475acddb35d36e5",
+    "slug": "ethereum-s-deflationary-edge-fades-is-an-eth-btc-breakout-still-possible",
     "title": "Ethereum’s deflationary edge fades – Is an ETH/BTC breakout still possible?",
-    "summary": "Ethereum whales turn bullish as ETH/BTC mirrors its 2021 setup.",
-    "hasSummary": true,
-    "link": "https://ambcrypto.com/ethereums-deflationary-edge-fades-is-an-eth-btc-breakout-still-possible/",
-    "source": "AMBCrypto",
     "tags": [
       "Ethereum",
       "Bitcoin"
     ],
+    "source": "AMBCrypto",
     "origin": "rss",
-    "pubDate": "2026-10-24T08:00:51.000Z",
-    "fetchedAt": "2026-10-24T09:01:31.464Z",
-    "isDuplicateOf": null,
-    "content": "Ethereum's deflationary edge is beginning to fade, raising questions about the possibility of a breakout for the ETH/BTC trading pair. Despite this shift, large investors, often referred to as whales, have turned increasingly bullish. Observers note that current market behavior mirrors the setup seen in 2021, keeping market participants attentive to future price movements.",
-    "content_ta": "Ethereum-ன் deflationary தன்மை குறையத் தொடங்கியுள்ள நிலையில், ETH/BTC ஜோடியின் வர்த்தகத்தில் ஒரு breakout சாத்தியமா என்ற கேள்வி எழுந்துள்ளது. இருப்பினும், பெரிய முதலீட்டாளர்களான whales மேலும் bullish நிலைக்கு மாறியுள்ளனர். தற்போதைய சந்தைப் போக்கு 2021-ல் இருந்த நிலையை ஒத்துள்ளதாக ஆய்வாளர்கள் குறிப்பிடுகின்றனர்.",
-    "slug": "ethereum-s-deflationary-edge-fades-is-an-eth-btc-breakout-still-possible"
+    "hasContent": true,
+    "pubDate": "2026-10-24T08:00:51.000Z"
   },
   {
     "id": "a1145464a08bbb86",
+    "slug": "hive-commits-more-than-250-million-to-build-an-ai-hub-in-paraguay",
     "title": "HIVE commits more than $250 million to build an AI hub in Paraguay",
-    "summary": "HIVE's investment in Paraguay could boost local economy, enhance tech education, and influence regional AI development and diplomatic relations.\nThe post HIVE commits more than $250 million to build an AI hub in Paraguay appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/hive-250-million-ai-hub-paraguay/",
-    "source": "CryptoBriefing",
     "tags": [
       "HIVE",
       "Paraguay"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-24T07:45:35.000Z",
-    "fetchedAt": "2026-10-24T09:01:31.464Z",
-    "isDuplicateOf": null,
-    "content": "HIVE has committed over $250 million to construct a major artificial intelligence hub in Paraguay. This substantial investment is expected to significantly boost the local economy, advance technological education, and shape regional AI development and diplomatic ties.",
-    "content_ta": "பராகுவாயில் ஒரு பெரிய AI hub-ஐ உருவாக்குவதற்காக HIVE நிறுவனம் 250 மில்லியன் டாலருக்கும் அதிகமான தொகையை முதலீடு செய்ய உறுதியளித்துள்ளது. இந்த குறிப்பிடத்தக்க முதலீடு உள்ளூர் பொருளாதாரத்தை மேம்படுத்தவும், தொழில்நுட்ப கல்வியை உயர்த்தவும், பிராந்திய AI வளர்ச்சியை வடிவமைக்கவும் உதவும் என்று எதிர்பார்க்கப்படுகிறது.",
-    "slug": "hive-commits-more-than-250-million-to-build-an-ai-hub-in-paraguay"
+    "hasContent": true,
+    "pubDate": "2026-10-24T07:45:35.000Z"
   },
   {
     "id": "1b9633b48c7b514d",
@@ -540,310 +822,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-23T21:27:00.000Z"
-  },
-  {
-    "id": "1919cbbe58c7b11a",
-    "slug": "obama-endorses-amy-acton-in-2026-ohio-governor-race",
-    "title": "Obama endorses Amy Acton in 2026 Ohio governor race",
-    "tags": [
-      "Barack Obama",
-      "Amy Acton",
-      "Ohio",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T21:26:30.000Z"
-  },
-  {
-    "id": "0ff0a085c7e3835e",
-    "slug": "government-corruption-tops-voter-concerns-ahead-of-nov-3-midterms-cnbc-survey",
-    "title": "Government corruption tops voter concerns ahead of Nov. 3 midterms: CNBC survey",
-    "tags": [
-      "CNBC",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T21:18:46.000Z"
-  },
-  {
-    "id": "84de8b08085fda47",
-    "slug": "texas-attorney-general-ken-paxton-sues-openai-and-sam-altman-over-chatgpt-safety-claims",
-    "title": "Texas Attorney General Ken Paxton sues OpenAI and Sam Altman over ChatGPT safety claims",
-    "tags": [
-      "Texas",
-      "OpenAI",
-      "Sam Altman"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T20:47:40.000Z"
-  },
-  {
-    "id": "de6c58d42d52bc4b",
-    "slug": "anthropic-employees-confident-in-ai-breakthroughs-by-2030-wall-street-skeptical",
-    "title": "Anthropic employees confident in AI breakthroughs by 2030, Wall Street skeptical",
-    "tags": [
-      "Anthropic",
-      "Wall Street"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T20:32:44.000Z"
-  },
-  {
-    "id": "297efc97a3155848",
-    "slug": "uk-s-fca-says-crypto-apps-may-need-licenses-when-algorithms-choose-trade-routes",
-    "title": "UK’s FCA says crypto apps may need licenses when algorithms choose trade routes",
-    "tags": [
-      "UK",
-      "FCA"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T20:30:00.000Z"
-  },
-  {
-    "id": "334a90fc8aa05aee",
-    "slug": "maine-firefighter-union-backs-collins-in-2026-senate-race",
-    "title": "Maine firefighter union backs Collins in 2026 Senate race",
-    "tags": [
-      "Collins",
-      "Maine"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T20:25:20.000Z"
-  },
-  {
-    "id": "88002f0f209fb61a",
-    "slug": "argentine-payment-infrastructure-company-rebill-raises-5-4m",
-    "title": "Argentine payment infrastructure company Rebill raises $5.4m",
-    "tags": [
-      "Rebill",
-      "Argentina"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T20:24:00.000Z"
-  },
-  {
-    "id": "4d27763b53746412",
-    "slug": "senate-democrat-probes-tether-payments-to-ex-white-house-crypto-adviser-s-firm",
-    "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
-    "tags": [
-      "Tether",
-      "Nxum",
-      "Bo Hines",
-      "Richard Blumenthal",
-      "White House"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T20:16:02.000Z"
-  },
-  {
-    "id": "f58b40436632cfe7",
-    "slug": "ripple-s-xrp-risks-losing-spot-among-top-10-cryptos-by-2030-unless-this-crucial-shift-happens",
-    "title": "Ripple’s XRP Risks Losing Spot Among Top 10 Cryptos by 2030 Unless This Crucial Shift Happens, Pundit Warns",
-    "tags": [
-      "Ripple",
-      "XRP"
-    ],
-    "source": "ZyCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T19:53:54.000Z"
-  },
-  {
-    "id": "198ef3e666b8d0b7",
-    "slug": "ten-credit-union-selects-bankjoy-for-its-corelation-keystone-conversion",
-    "title": "TEN Credit Union selects Bankjoy for its Corelation KeyStone conversion",
-    "tags": [
-      "TEN Credit Union",
-      "Bankjoy",
-      "Corelation KeyStone"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T19:46:00.000Z"
-  },
-  {
-    "id": "9b4fb9001a2c9726",
-    "slug": "solayer-pay-adds-five-blockchain-networks-for-direct-stablecoin-card-deposits",
-    "title": "Solayer Pay Adds Five Blockchain Networks For Direct Stablecoin Card Deposits",
-    "tags": [
-      "Solayer Pay",
-      "Solana",
-      "Ethereum",
-      "Arbitrum",
-      "BNB Chain",
-      "Base"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T19:45:00.000Z"
-  },
-  {
-    "id": "c8eea15a1863d15e",
-    "slug": "irys-crypto-jumps-nearly-580-as-traders-betting-against-it-lose-21m",
-    "title": "IRYS crypto jumps nearly 580% as traders betting against it lose $21M",
-    "tags": [
-      "IRYS"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T19:43:13.000Z"
-  },
-  {
-    "id": "147955d8911b1e78",
-    "slug": "block-unveils-dessa-an-ai-voice-model-trained-only-on-human-conversation",
-    "title": "Block unveils Dessa, an AI voice model trained only on human conversation",
-    "tags": [
-      "Block",
-      "Dessa"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T19:35:56.000Z"
-  },
-  {
-    "id": "4ed7e0f67a4febcb",
-    "slug": "cftc-data-shows-bitcoin-futures-speculators-net-long-2-418-contracts",
-    "title": "CFTC data shows Bitcoin futures speculators net long 2,418 contracts",
-    "tags": [
-      "Bitcoin",
-      "CFTC"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T19:35:14.000Z"
-  },
-  {
-    "id": "0f9c53f7d32f0682",
-    "slug": "franklin-templeton-to-launch-two-95-stock-5-bitcoin-etfs",
-    "title": "Franklin Templeton to launch two 95% stock, 5% Bitcoin ETFs",
-    "tags": [
-      "Franklin Templeton",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T19:30:39.000Z"
-  },
-  {
-    "id": "10803f2b625b2bdf",
-    "slug": "openai-to-train-frontier-models-without-internet-access-after-dns-misconfiguration-incident",
-    "title": "OpenAI to train frontier models without internet access after DNS misconfiguration incident",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T19:24:08.000Z"
-  },
-  {
-    "id": "fe538c413d4369c9",
-    "slug": "amazon-gives-trainium3-native-pytorch-support-to-win-over-ai-researchers",
-    "title": "Amazon gives Trainium3 native PyTorch support to win over AI researchers",
-    "tags": [
-      "Amazon",
-      "PyTorch"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T19:21:27.000Z"
-  },
-  {
-    "id": "aa285074c7c8e3c2",
-    "slug": "spacex-perpetual-futures-traded-about-6-billion-after-earnings",
-    "title": "SpaceX perpetual futures traded about $6 billion after earnings",
-    "tags": [
-      "SpaceX",
-      "Binance",
-      "Hyperliquid"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T19:10:43.000Z"
-  },
-  {
-    "id": "ee2b820836bfc2d3",
-    "slug": "amazon-ceo-jassy-highlights-ai-cost-challenges-untapped-market-potential",
-    "title": "Amazon CEO Jassy highlights AI cost challenges, untapped market potential",
-    "tags": [
-      "Amazon",
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T19:04:48.000Z"
-  },
-  {
-    "id": "90fcf927f4c89e97",
-    "slug": "coreweave-stock-falls-30-amid-refinancing-concerns-in-ai-sector",
-    "title": "CoreWeave stock falls 30% amid refinancing concerns in AI sector",
-    "tags": [
-      "CoreWeave"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T19:02:46.000Z"
-  },
-  {
-    "id": "1f20ba36b64f251d",
-    "slug": "genlayer-founder-ai-agents-to-drive-crypto-use-in-digital-currency-shift",
-    "title": "GenLayer founder: AI agents to drive crypto use in digital currency shift",
-    "tags": [
-      "GenLayer"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T19:02:04.000Z"
-  },
-  {
-    "id": "591ff2d5d986ac96",
-    "slug": "xsolla-adds-co-marketing-tool-linking-payment-providers-to-game-devs",
-    "title": "Xsolla Adds Co-Marketing Tool Linking Payment Providers to Game Devs",
-    "tags": [
-      "Xsolla"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T19:00:44.000Z"
-  },
-  {
-    "id": "b4c246b6d27cb68f",
-    "slug": "xrp-once-exploded-62-000-after-two-years-of-stagnation-why-patience-could-pay-again",
-    "title": "XRP Once Exploded 62,000% After Two Years of Stagnation — Why Patience Could Pay Again",
-    "tags": [
-      "XRP"
-    ],
-    "source": "ZyCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-23T19:00:25.000Z"
   }
 ]
