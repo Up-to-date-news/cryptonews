@@ -1,62 +1,99 @@
 [
   {
-    "id": "e2762be95b26fe6a",
-    "title": "Can NEAR Protocol defend $4.30 support after a 10% price drop?",
-    "summary": "Over the next week, NEAR buyers have to keep hold of the $4.30 level to maintain the H4 bullish bias.",
+    "id": "6df7dfcf523c555f",
+    "title": "PEPE reclaims $2B market cap – Can memecoin FOMO lift altcoins?",
+    "summary": "PEPE returns to a $2 billion market cap as traders assess whether its rally could mark a turning point for altcoins in Q4.",
     "hasSummary": true,
-    "link": "https://ambcrypto.com/can-near-protocol-defend-4-30-support-after-a-10-price-drop/",
+    "link": "https://ambcrypto.com/pepe-reclaims-2b-market-cap-can-memecoin-fomo-lift-altcoins/",
     "source": "AMBCrypto",
+    "tags": [
+      "PEPE"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-25T03:00:04.000Z",
+    "fetchedAt": "2026-10-25T03:01:28.832Z",
+    "isDuplicateOf": null,
+    "content": "PEPE has successfully reclaimed a $2 billion market cap, sparking renewed interest across the market. Traders and analysts are now closely watching to see if this memecoin rally can drive broader momentum for altcoins as the fourth quarter progresses.",
+    "content_ta": "PEPE மீண்டும் $2 பில்லியன் மார்க்கெட் கேப்பை எட்டியுள்ளது, இது சந்தையில் புதிய ஆர்வத்தைத் தூண்டியுள்ளது. நான்காம் காலாண்டில் இந்த memecoin பேரணி altcoins-க்கு பரந்த உத்வேகத்தைத் தர முடியுமா என்பதை வர்த்தகர்கள் உன்னிப்பாக கவனித்து வருகின்றனர்.",
+    "slug": "pepe-reclaims-2b-market-cap-can-memecoin-fomo-lift-altcoins"
+  },
+  {
+    "id": "e1cb347ae0738abc",
+    "title": "Circle CEO Jeremy Allaire says Democrats won’t reverse the GENIUS Act",
+    "summary": "The GENIUS Act's bipartisan support suggests stablecoin regulation will remain stable, impacting the digital dollar's role and market certainty.\nThe post Circle CEO Jeremy Allaire says Democrats won’t reverse the GENIUS Act appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/circle-allaire-genius-act-bipartisan-support/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Circle",
+      "Jeremy Allaire"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-25T02:38:09.000Z",
+    "fetchedAt": "2026-10-25T03:01:28.832Z",
+    "isDuplicateOf": null,
+    "content": "Circle CEO Jeremy Allaire stated that Democrats will not reverse the GENIUS Act. Due to strong bipartisan support for the legislation, stablecoin regulation is expected to remain stable. This outlook provides increased market certainty and highlights the growing importance of the digital dollar in the modern financial landscape, according to insights shared by industry leaders.",
+    "content_ta": "Circle-ன் CEO Jeremy Allaire, Democrats கட்சியினர் GENIUS Act-ஐ மாற்ற மாட்டார்கள் என்று தெரிவித்துள்ளார். இந்தச் சட்டத்திற்கு இரு கட்சிகளின் ஆதரவு வலுவாக இருப்பதால், stablecoin ஒழுங்குமுறை நிலையாக இருக்கும் என்று எதிர்பார்க்கப்படுகிறது. இந்தச் சூழல் சந்தையில் உறுதியை அதிகரிப்பதோடு, டிஜிட்டல் டாலரின் முக்கியத்துவத்தையும் எடுத்துக்காட்டுகிறது.",
+    "slug": "circle-ceo-jeremy-allaire-says-democrats-won-t-reverse-the-genius-act"
+  },
+  {
+    "id": "c9bbf41319811aa7",
+    "title": "Aave Says V3.8 Security Proposal Preserves Flash-Loan Liquidations",
+    "summary": "Aave’s V3.8 clarification addresses how its proposed security guard would interact with flash-loan integrations and liquidations.",
+    "hasSummary": true,
+    "link": "https://www.newsbtc.com/news/defi/aave-v3-8-flash-loan-liquidation-guard-proposal/",
+    "source": "NewsBTC",
+    "tags": [
+      "Aave"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-25T02:00:00.000Z",
+    "fetchedAt": "2026-10-25T03:01:28.832Z",
+    "isDuplicateOf": null,
+    "content": "Aave has clarified that its proposed V3.8 security update will maintain flash-loan liquidations. The statement addresses concerns within the community about how the new security guard feature would interact with existing flash-loan integrations and liquidation processes, ensuring functionality remains secure and operational.",
+    "content_ta": "தங்களது V3.8 பாதுகாப்பு மேம்பாடு flash-loan liquidations-ஐ தொடர்ந்து தக்கவைக்கும் என்று Aave தெளிவுபடுத்தியுள்ளது. புதிய பாதுகாப்பு அம்சங்கள் flash-loan ஒருங்கிணைப்புகள் மற்றும் liquidation செயல்முறைகளுடன் எவ்வாறு செயல்படும் என்பது குறித்த சமூகத்தினரின் கவலைகளுக்கு இந்த விளக்கம் அளிக்கப்பட்டுள்ளது.",
+    "slug": "aave-says-v3-8-security-proposal-preserves-flash-loan-liquidations"
+  },
+  {
+    "id": "e2762be95b26fe6a",
+    "slug": "can-near-protocol-defend-4-30-support-after-a-10-price-drop",
+    "title": "Can NEAR Protocol defend $4.30 support after a 10% price drop?",
     "tags": [
       "NEAR Protocol"
     ],
+    "source": "AMBCrypto",
     "origin": "rss",
-    "pubDate": "2026-10-25T01:00:03.000Z",
-    "fetchedAt": "2026-10-25T01:58:18.387Z",
-    "isDuplicateOf": null,
-    "content": "NEAR Protocol recently experienced a 10 percent price drop, bringing its market value into focus. Over the coming week, buyers of NEAR must successfully defend the critical $4.30 support level. Maintaining this price threshold is essential for the asset to preserve its current H4 bullish bias and avoid further downward pressure in the near term.",
-    "content_ta": "NEAR Protocol சமீபத்தில் 10 சதவீத விலை வீழ்ச்சியைச் சந்தித்துள்ளது. வரவிருக்கும் வாரத்தில், NEAR வாங்குவோர் $4.30 ஆதரவு நிலையை வெற்றிகரமாகப் பாதுகாக்க வேண்டும். இந்த விலை வரம்பைப் பராமரிப்பது, தற்போதைய H4 புல்லிஷ் போக்கைப் பாதுகாக்கவும் மேலும் சரிவைத் தவிர்க்கவும் அவசியமாகும்.",
-    "slug": "can-near-protocol-defend-4-30-support-after-a-10-price-drop"
+    "hasContent": true,
+    "pubDate": "2026-10-25T01:00:03.000Z"
   },
   {
     "id": "0c713f0d861ec316",
+    "slug": "aave-opens-its-first-externally-curated-v4-markets-with-sentora",
     "title": "Aave Opens Its First Externally Curated V4 Markets With Sentora",
-    "summary": "Sentora is managing Aave V4’s first externally curated markets, bringing a new division of lending strategy, liquidity and governance controls to Ethereum.",
-    "hasSummary": true,
-    "link": "https://www.newsbtc.com/news/defi/aave-v4-sentora-externally-curated-markets/",
-    "source": "NewsBTC",
     "tags": [
       "Aave",
       "Sentora",
       "Ethereum"
     ],
+    "source": "NewsBTC",
     "origin": "rss",
-    "pubDate": "2026-10-25T01:00:00.000Z",
-    "fetchedAt": "2026-10-25T01:58:18.387Z",
-    "isDuplicateOf": null,
-    "content": "Aave has launched its first externally curated V4 markets managed by Sentora. This development introduces a new division of lending strategy, liquidity management, and governance controls to the Ethereum ecosystem, marking a significant step in decentralized finance operations.",
-    "content_ta": "Sentora-ன் நிர்வாகத்தின் கீழ் Aave தனது முதல் வெளிப்புறமாக நிர்வகிக்கப்படும் V4 மார்க்கெட்டுகளைத் தொடங்கியுள்ளது. இந்த நகர்வு Ethereum சுற்றுச்சூழல் அமைப்பிற்கு புதிய கடன் வழங்கும் உத்தி, பணப்புழக்க மேலாண்மை மற்றும் ஆளுகைக் கட்டுப்பாடுகளைக் கொண்டுவருகிறது.",
-    "slug": "aave-opens-its-first-externally-curated-v4-markets-with-sentora"
+    "hasContent": true,
+    "pubDate": "2026-10-25T01:00:00.000Z"
   },
   {
     "id": "c887535994840914",
+    "slug": "meta-platforms-sec-filing-reveals-mark-zuckerberg-s-boardroom-leverage-over-ai-funding-and",
     "title": "Meta Platforms SEC Filing Reveals Mark Zuckerberg’s Boardroom Leverage Over AI Funding and California Tax Threat",
-    "summary": "A recent US Securities and Exchange Commission (SEC) filing from Meta Platforms (NASDAQ: META) has laid bare a months-long, often tense negotiation between Mark Zuckerberg and a special committee of the company’s independent directors over how to raise equity capital for an enormous artificial intelligence... Read More",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/10/320425-meta-platforms-sec-filing-reveals-mark-zuckerbergs-boardroom-leverage-over-ai-funding-and-california-tax-threat/",
-    "source": "Crowdfund Insider",
     "tags": [
       "Meta Platforms",
       "Mark Zuckerberg",
       "United States",
       "California"
     ],
+    "source": "Crowdfund Insider",
     "origin": "rss",
-    "pubDate": "2026-10-25T00:49:27.000Z",
-    "fetchedAt": "2026-10-25T01:58:18.387Z",
-    "isDuplicateOf": null,
-    "content": "A recent SEC filing from Meta Platforms reveals tense negotiations between Mark Zuckerberg and independent directors regarding equity capital for artificial intelligence funding and potential California tax threats. The documents highlight Zuckerberg's significant boardroom leverage in shaping the tech giant's financial and strategic decisions.",
-    "content_ta": "Meta Platforms-ன் சமீபத்திய SEC தாக்கல் செய்த ஆவணம், AI நிதி மற்றும் கலிபோர்னியா வரி அச்சுறுத்தல் தொடர்பாக Mark Zuckerberg மற்றும் சுயாதீன இயக்குநர்களுக்கு இடையே நடந்த கடுமையான பேச்சுவார்த்தைகளை வெளிப்படுத்தியுள்ளது. தொழில்நுட்ப ஜாம்பவானின் நிதி மற்றும் மூலோபாய முடிவுகளை எடுப்பதில் Zuckerberg-ன் செல்வாக்கை இந்த ஆவணங்கள் அடிக்கோடிட்டுக் காட்டுகின்றன.",
-    "slug": "meta-platforms-sec-filing-reveals-mark-zuckerberg-s-boardroom-leverage-over-ai-funding-and"
+    "hasContent": true,
+    "pubDate": "2026-10-25T00:49:27.000Z"
   },
   {
     "id": "1c67611642ff4839",
@@ -756,46 +793,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-24T14:00:00.000Z"
-  },
-  {
-    "id": "2e73dd3c8e84bc9c",
-    "slug": "franklin-moves-bitcoin-drip-etfs-toward-nasdaq-with-dividend-reinvestment-plan",
-    "title": "Franklin Moves Bitcoin DRIP ETFs Toward Nasdaq With Dividend Reinvestment Plan",
-    "tags": [
-      "Franklin",
-      "Bitcoin",
-      "Nasdaq",
-      "United States"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-24T14:00:00.000Z"
-  },
-  {
-    "id": "5ecb99ce31cb7a97",
-    "slug": "ethereum-sees-biggest-exchange-withdrawal-in-four-months-as-october-etf-losses-top-1-billion",
-    "title": "Ethereum sees biggest exchange withdrawal in four months as October ETF losses top $1 billion",
-    "tags": [
-      "Ethereum",
-      "Santiment"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-24T13:30:53.000Z"
-  },
-  {
-    "id": "b90163ba14c4e844",
-    "slug": "hyperliquid-founder-urges-us-focus-on-market-operators-for-regulatory-access",
-    "title": "Hyperliquid founder urges US focus on market operators for regulatory access",
-    "tags": [
-      "Hyperliquid",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-24T13:25:55.000Z"
   }
 ]
