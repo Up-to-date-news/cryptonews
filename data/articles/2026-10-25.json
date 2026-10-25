@@ -342,5 +342,271 @@
     "content": "A Louisiana woman lost over $10,000 and nearly her home after falling victim to a monthslong online romance scam. The fraudster used sophisticated AI video technology to impersonate celebrity Jon Bon Jovi, deceiving the victim into transferring funds and risking her property before the deception came to light.",
     "content_ta": "Louisiana-வைச் சேர்ந்த பெண் ஒருவர், Jon Bon Jovi போல ஏமாற்றிய AI நபர் நடத்திய ஆன்லைன் காதலில் சிக்கி $10,000-க்கும் அதிகமான பணத்தை இழந்துள்ளார். மேலும் தன் வீட்டை இழக்கும் அபாயத்திற்கும் ஆளாகியுள்ளார். பல மாதங்களாக நீடித்த இந்த மோசடியில் AI வீடியோக்கள் பயன்படுத்தப்பட்டுள்ளன.",
     "slug": "louisiana-woman-loses-over-10-000-and-nearly-her-home-after-ai-impersonator-poses-as-jon-bon-jovi"
+  },
+  {
+    "id": "2a0ea411438f9105",
+    "title": "A 20-month Polkadot wallet breach reveals the dark side of faster crypto withdrawals",
+    "summary": "Polkadot’s earlier reduction in nominator exit times leaves less time to coordinate help before exposed funds become withdrawable.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/a-20-month-polkadot-wallet-breach-reveals-the-dark-side-of-faster-crypto-withdrawals/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Polkadot"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-25T11:20:15.000Z",
+    "fetchedAt": "2026-10-25T12:01:34.721Z",
+    "isDuplicateOf": null,
+    "content": "A recent Polkadot wallet breach has highlighted the risks associated with faster cryptocurrency withdrawals. Polkadot previously reduced nominator exit times, which now leaves significantly less time to coordinate help and secure accounts before exposed funds can be withdrawn by attackers. This security issue exposes the darker side of increasing transaction speeds in the blockchain ecosystem.",
+    "content_ta": "சமீபத்திய Polkadot வாலட் திருட்டுச் சம்பவம், வேகமான கிரிப்டோகரன்சி பணப் பரிமாற்றங்களுடன் தொடர்புடைய ஆபத்துகளை வெளிச்சம் போட்டுக் காட்டியுள்ளது. Polkadot முன்பு நமிட்டர்களின் வெளியேறும் நேரத்தைக் குறைத்தது, இது பாதிக்கப்பட்ட நிதியைத் தாக்குபவர்கள் எடுப்பதற்கு முன்பு உதவியை ஒருங்கிணைக்க குறைந்த நேரத்தையே வழங்குகிறது. இந்த பாதுகாப்புச் சிக்கல் பிளாக்செயின் சுற்றுச்சூழல் அமைப்பில் வேகமான பரிமாற்றங்களின் மற்றொரு பக்கத்தை வெளிப்படுத்துகிறது.",
+    "slug": "a-20-month-polkadot-wallet-breach-reveals-the-dark-side-of-faster-crypto-withdrawals"
+  },
+  {
+    "id": "831cb8ba356bda74",
+    "title": "Tether Wins Mining Industry Support For Its Open Automation Toolkit",
+    "summary": "Tether is trying to make Bitcoin mining equipment easier to operate as one system. Its October 24 announcement brings 15 industry participants behind an open software framework, shifting the focus from buying more machines to making existing infrastructure work together.",
+    "hasSummary": true,
+    "link": "https://www.newsbtc.com/bitcoin-news/tether-mdk-mining-industry-support-open-automation/",
+    "source": "NewsBTC",
+    "tags": [
+      "Tether",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-25T12:00:00.000Z",
+    "fetchedAt": "2026-10-25T12:01:34.721Z",
+    "isDuplicateOf": null,
+    "content": "Tether has gained significant industry support for its new open automation toolkit designed for Bitcoin mining. Announced recently, the initiative unites 15 industry participants behind an open software framework. The project aims to simplify the operation of mining equipment by helping existing infrastructure work together seamlessly as a single system, shifting the focus away from merely acquiring new hardware.",
+    "content_ta": "Bitcoin மைனிங் பணிகளை எளிதாக்கும் வகையில் Tether நிறுவனம் அறிமுகப்படுத்தியுள்ள புதிய ஓப்பன் ஆட்டோமேஷன் டூல்கிட்-க்கு துறையில் உள்ளவர்களிடம் இருந்து பெரும் ஆதரவு கிடைத்துள்ளது. சமீபத்தில் அறிவிக்கப்பட்ட இந்தத் திட்டத்தின் மூலம், 15 க்கும் மேற்பட்ட தொழில்துறை பங்களிப்பாளர்கள் ஒரு திறந்தநிலை மென்பொருள் கட்டமைப்பின் கீழ் இணைந்துள்ளனர். புதிய உபகரணங்களை வாங்குவதை விட, தற்போதுள்ள உள்கட்டமைப்பை ஒருங்கிணைத்து ஒற்றை அமைப்பாக திறம்பட செயல்படச் செய்வதே இதன் முக்கிய நோக்கமாகும்.",
+    "slug": "tether-wins-mining-industry-support-for-its-open-automation-toolkit"
+  },
+  {
+    "id": "9031d96cfedad63c",
+    "title": "Electrum Fixes Bitcoin Wallet Flaw That Could Turn A Fee Bump Into Theft",
+    "summary": "Electrum disclosed a wallet flaw on October 24 that could turn a Bitcoin fee adjustment into an unintended payment. Its advisory explains how an apparently routine approval became dangerous.",
+    "hasSummary": true,
+    "link": "https://www.newsbtc.com/bitcoin-news/electrum-483-bitcoin-wallet-fee-bump-security-fix/",
+    "source": "NewsBTC",
+    "tags": [
+      "Electrum",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-25T11:00:00.000Z",
+    "fetchedAt": "2026-10-25T12:01:34.721Z",
+    "isDuplicateOf": null,
+    "content": "Electrum has disclosed and fixed a wallet flaw affecting Bitcoin users. Revealed on October 24, the vulnerability could have mistakenly turned a routine fee adjustment into an unintended payment or theft. The advisory detailed how an apparently harmless approval process became dangerous, prompting the prompt security update to protect user funds from potential exploitation.",
+    "content_ta": "Bitcoin வாலட்டில் இருந்த ஒரு பாதுகாப்பு குறைபாட்டை Electrum நிறுவனம் கண்டறிந்து சரி செய்துள்ளது. அக்டோபர் 24 அன்று வெளிப்படுத்தப்பட்ட இந்த குறைபாடு, கட்டண மாற்றத்தை எதிர்பாராத கட்டணமாக அல்லது திருட்டாக மாற்றக்கூடும் என்று எச்சரிக்கப்பட்டது. வழக்கமான ஒப்புதல் செயல்முறை எவ்வாறு ஆபத்தாக மாறக்கூடும் என்பதை விளக்கி, பயனர்களின் நிதியைப் பாதுகாக்க இந்த பாதுகாப்பு மேம்பாடு வெளியிடப்பட்டுள்ளது.",
+    "slug": "electrum-fixes-bitcoin-wallet-flaw-that-could-turn-a-fee-bump-into-theft"
+  },
+  {
+    "id": "f5a2460143cd8bdf",
+    "title": "Another Big Pi Network Update Is Live: Here’s What Pioneers Need to Know",
+    "summary": "The team has released another major upgrade, removing a key technical barrier for SoloHost while strengthening app security.",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/another-big-pi-network-update-is-live-heres-what-pioneers-need-to-know/",
+    "source": "CryptoPotato",
+    "tags": [
+      "Pi Network",
+      "SoloHost"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-25T09:48:44.000Z",
+    "fetchedAt": "2026-10-25T12:01:34.721Z",
+    "isDuplicateOf": null,
+    "content": "The Pi Network team has released a major new upgrade for its platform. This update successfully removes a key technical barrier for SoloHost users while introducing enhanced security measures for applications. Pioneers are encouraged to review these changes and learn how the latest technical improvements impact their ongoing network participation and app development activities.",
+    "content_ta": "Pi Network அணி தங்கள் தளத்திற்காக மற்றொரு முக்கிய புதிய மேம்படுத்தலை வெளியிட்டுள்ளது. இந்த அப்டேட் SoloHost பயனர்களுக்கான ஒரு முக்கிய தொழில்நுட்ப தடையை வெற்றிகரமாக நீக்குவதோடு, செயலிகளுக்கான பாதுகாப்பு அம்சங்களையும் பலப்படுத்துகிறது. Pioneers இந்த மாற்றங்களை ஆய்வு செய்து, இந்த சமீபத்திய தொழில்நுட்ப மேம்பாடுகள் நெட்வொர்க் பங்களிப்பை எவ்வாறு பாதிக்கின்றன என்பதைத் தெரிந்து கொள்ளுமாறு கேட்டுக் கொள்ளப்படுகிறார்கள்.",
+    "slug": "another-big-pi-network-update-is-live-here-s-what-pioneers-need-to-know"
+  },
+  {
+    "id": "84aac1094b3b772b",
+    "title": "XRP ETFs buck Bitcoin and Ethereum outflows – Can price follow?",
+    "summary": "XRP’s recovery faces a key test as ETF demand improves but bearish momentum and liquidation risks keep traders cautious.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/xrp-etfs-buck-bitcoin-and-ethereum-outflows-can-price-follow/",
+    "source": "AMBCrypto",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-10-25T11:00:32.000Z",
+    "fetchedAt": "2026-10-25T12:01:34.721Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "xrp-etfs-buck-bitcoin-and-ethereum-outflows-can-price-follow"
+  },
+  {
+    "id": "bf50e7db55f307b4",
+    "title": "Ripple CTO Emeritus Warns Against AI Content Filters in XRP Scam Debate",
+    "summary": "Ripple’s top architect slams state lawsuits against Meta, explaining why automated fraud filtering a dead end.",
+    "hasSummary": true,
+    "link": "https://u.today/ripple-cto-emeritus-warns-against-ai-content-filters-in-xrp-scam-debate",
+    "source": "U.Today",
+    "tags": [
+      "Ripple",
+      "XRP",
+      "Meta"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-25T10:24:25.000Z",
+    "fetchedAt": "2026-10-25T12:01:34.721Z",
+    "isDuplicateOf": null,
+    "content": "Ripple CTO Emeritus has cautioned against relying on automated artificial intelligence content filters to combat scams in the XRP community. Commenting on ongoing state lawsuits against Meta, the Ripple executive argued that automated fraud filtering is ultimately a dead end for solving digital deception issues.",
+    "content_ta": "XRP scam விவாதம் தொடர்பாக, AI content filters-ஐ நம்புவது குறித்து Ripple CTO Emeritus எச்சரித்துள்ளார். Meta நிறுவனத்திற்கு எதிரான மாநில வழக்குகள் குறித்து கருத்து தெரிவித்த Ripple அதிகாரி, தானியங்கி மோசடி வடிகட்டுதல் என்பது டிஜிட்டல் ஏமாற்று வேலைகளுக்கு ஒரு முடிவற்ற பாதை என்று வாதிட்டார்.",
+    "slug": "ripple-cto-emeritus-warns-against-ai-content-filters-in-xrp-scam-debate"
+  },
+  {
+    "id": "07053790cb26250b",
+    "title": "Dogecoin Community Gets Crucial Warning as Hardware Wallet Reveals Security Incident",
+    "summary": "Dogecoin community receives security warning following a data breach disclosed by hardware wallet provider Keystone.",
+    "hasSummary": true,
+    "link": "https://u.today/dogecoin-community-gets-crucial-warning-as-hardware-wallet-reveals-security-incident",
+    "source": "U.Today",
+    "tags": [
+      "Dogecoin",
+      "Keystone"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-25T09:45:00.000Z",
+    "fetchedAt": "2026-10-25T12:01:34.721Z",
+    "isDuplicateOf": null,
+    "content": "The Dogecoin community has received an important security warning after hardware wallet provider Keystone disclosed a recent security incident. The data breach has raised concerns among users regarding the safety of their digital assets. Experts advise community members to remain vigilant, update their security protocols, and monitor their accounts closely for any suspicious activity while further details about the breach are being investigated.",
+    "content_ta": "ஹார்டுவேர் வாலட் வழங்கும் Keystone நிறுவனம் பாதுகாப்பு மீறலை வெளிப்படுத்தியதைத் தொடர்ந்து, Dogecoin சமூகத்தினருக்கு ஒரு முக்கியமான பாதுகாப்பு எச்சரிக்கை விடுக்கப்பட்டுள்ளது. இந்த தரவு மீறல் பயனர்கள் மத்தியில் கவலையை ஏற்படுத்தியுள்ளது. பயனர்கள் விழிப்புடன் இருக்குமாறும், தங்களது பாதுகாப்பு நெறிமுறைகளைப் புதுப்பிக்குமாறும் நிபுணர்கள் அறிவுறுத்துகின்றனர்.",
+    "slug": "dogecoin-community-gets-crucial-warning-as-hardware-wallet-reveals-security-incident"
+  },
+  {
+    "id": "5c4bc71b599a5755",
+    "title": "ETF Investors Pouring Millions Back Into Zcash as Bitcoin Falls",
+    "summary": "Bitcoin ETFs lost more than half a billion in just two days last week. Meanwhile, Wall Street investors poured $41.1 million into Zcash. Are they anticipating another rally for ZEC? Grayscale’s Zcash ETF recorded its strongest weekly inflows since mid-September, raising questions about whether investors are returning to the privacy-focused cryptocurrency ahead of a broader\nThe post ETF Investors Pouring Millions Back Into Zcash as Bitcoin Falls appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/zcash-etf-biggest-inflow-since-september/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Zcash",
+      "Bitcoin",
+      "Grayscale"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-25T11:08:42.000Z",
+    "fetchedAt": "2026-10-25T12:01:34.721Z",
+    "isDuplicateOf": null,
+    "content": "Wall Street investors are pouring millions into Zcash through Grayscale's Zcash ETF, marking its strongest weekly inflows since mid-September. This surge in interest for the privacy-focused cryptocurrency comes as Bitcoin experiences a downturn, with Bitcoin ETFs recording significant losses over a two-day period last week.",
+    "content_ta": "பிட்காயின் (Bitcoin) வீழ்ச்சியடைந்து வரும் நிலையில், Wall Street முதலீட்டாளர்கள் Grayscale-ன் Zcash ETF மூலம் மில்லியன் கணக்கில் பணத்தை முதலீடு செய்து வருகின்றனர். செப்டம்பர் மாதத்திற்குப் பிறகு இந்த பிரைவசி-போகஸ்டு கிரிப்டோகரன்சிக்கான மிக வலிமையான வாராந்திர முதலீட்டு வரத்து இதுவாகும்.",
+    "slug": "etf-investors-pouring-millions-back-into-zcash-as-bitcoin-falls"
+  },
+  {
+    "id": "7c3a146fab9ad9e4",
+    "title": "Silver Price Hits 2026 Low. Will It Crash Further?",
+    "summary": "Silver has lost more than half its value since January, and traders are increasingly preparing for further losses. The precious metal closed Friday at $53.83, down nearly 56% from its record high of $121.74. That marks its weakest finish of 2026, as gold also slipped below $4,000. Silver’s collapse began when January’s speculative rally reversed\nThe post Silver Price Hits 2026 Low. Will It Crash Further? appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/silver-price-2026-low-crowded-shorts/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Silver",
+      "Gold"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-25T10:31:25.000Z",
+    "fetchedAt": "2026-10-25T12:01:34.721Z",
+    "isDuplicateOf": null,
+    "content": "Silver prices have dropped significantly, losing over half their value since January and hitting a 2026 low. The precious metal closed at $53.83, marking a steep decline from its record high of $121.74. Traders are bracing for potential further losses as the speculative rally from earlier in the year continues to reverse, alongside a dip in gold prices.",
+    "content_ta": "Silver விலை கணிசமாகக் குறைந்துள்ளது, ஜனவரியில் இருந்த மதிப்பில் பாதியை இழந்து 2026-ன் மிகக் குறைந்த அளவை எட்டியுள்ளது. இந்த விலை $53.83-ல் நிறைவடைந்துள்ளது, இது அதன் சாதனை உச்சமான $121.74-லிருந்து பெரும் சரிவைக் குறிக்கிறது. ஆண்டின் தொடக்கத்தில் ஏற்பட்ட ஊக வாணிப உயர்வின் தாக்கம் மாறிவருவதால், வர்த்தகர்கள் மேலும் சரிவை எதிர்கொள்ளத் தயாராகி வருகின்றனர்.",
+    "slug": "silver-price-hits-2026-low-will-it-crash-further"
+  },
+  {
+    "id": "73e296e6527f3347",
+    "title": "Fomo co-founder rules out new token or Pump.fun rival, citing a market already flooded with coins",
+    "summary": "Fomo's decision to avoid launching a new token highlights a strategic focus on sustainable trading growth over speculative token proliferation.\nThe post Fomo co-founder rules out new token or Pump.fun rival, citing a market already flooded with coins appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/fomo-cofounder-no-token-pump-fun-rival/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Fomo",
+      "Pump.fun"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-25T11:35:02.000Z",
+    "fetchedAt": "2026-10-25T12:01:34.721Z",
+    "isDuplicateOf": null,
+    "content": "The co-founder of Fomo has officially ruled out launching a new token or creating a rival to Pump.fun. The decision comes as the market is already seen as heavily saturated with digital coins. This approach emphasizes a strategic focus on sustainable trading growth rather than participating in the ongoing trend of speculative token creation across the cryptocurrency ecosystem.",
+    "content_ta": "Fomo நிறுவனத்தின் co-founder, புதிய token ஒன்றை வெளியிடவோ அல்லது Pump.fun-க்கு போட்டியாக புதிய தளத்தை உருவாக்கவோ போவதில்லை என்று திட்டவட்டமாகத் தெரிவித்துள்ளார். சந்தையில் ஏற்கனவே அதிக அளவில் coins புழக்கத்தில் உள்ளதே இதற்குக் காரணம் என்று அவர் சுட்டிக்காட்டியுள்ளார். ஊக அடிப்படையிலான token உருவாக்கத்தில் கவனம் செலுத்துவதற்குப் பதிலாக, நிலையான வர்த்தக வளர்ச்சியை ஏற்படுத்துவதே இந்த முடிவின் முக்கிய நோக்கமாகும்.",
+    "slug": "fomo-co-founder-rules-out-new-token-or-pump-fun-rival-citing-a-market-already-flooded-with-coins"
+  },
+  {
+    "id": "938a9404ef0d9e28",
+    "title": "Nvidia CEO Jensen Huang says quantum computers could help train AI",
+    "summary": "Quantum computing's integration with AI could revolutionize scientific research, enhancing data fidelity and accelerating innovation.\nThe post Nvidia CEO Jensen Huang says quantum computers could help train AI appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/jensen-huang-quantum-computing-ai-training/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Nvidia",
+      "Jensen Huang"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-25T11:08:13.000Z",
+    "fetchedAt": "2026-10-25T12:01:34.721Z",
+    "isDuplicateOf": null,
+    "content": "Nvidia CEO Jensen Huang stated that quantum computers could potentially assist in training artificial intelligence systems. Integrating quantum computing with AI is expected to revolutionize scientific research by enhancing data fidelity and accelerating overall innovation, according to recent insights from the industry.",
+    "content_ta": "Nvidia CEO Jensen Huang, குவாண்டம் கணினிகள் செயற்கை நுண்ணறிவு (AI) அமைப்புகளைப் பயிற்றுவிக்க உதவக்கூடும் என்று தெரிவித்துள்ளார். குவாண்டம் கணினி முறைகளை AI உடன் இணைப்பது அறிவியல் ஆராய்ச்சியில் புரட்சியை ஏற்படுத்தும் என்றும், தரவு துல்லியத்தை அதிகரித்து ஒட்டுமொத்த கண்டுபிடிப்புகளை துரிதப்படுத்தும் என்றும் எதிர்பார்க்கப்படுகிறது.",
+    "slug": "nvidia-ceo-jensen-huang-says-quantum-computers-could-help-train-ai"
+  },
+  {
+    "id": "f7ffc2e346eebc10",
+    "title": "AI agents solve 49 of 50 unpublished physics problems in DeepMind-backed study",
+    "summary": "AI's near-perfect problem-solving in theoretical physics highlights its potential to revolutionize research efficiency and accuracy.\nThe post AI agents solve 49 of 50 unpublished physics problems in DeepMind-backed study appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/ai-agents-solve-49-of-50-physics-problems/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "DeepMind"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-25T10:49:39.000Z",
+    "fetchedAt": "2026-10-25T12:01:34.721Z",
+    "isDuplicateOf": null,
+    "content": "A new DeepMind-backed study reveals that AI agents successfully solved 49 out of 50 unpublished physics problems. This near-perfect performance in theoretical physics demonstrates artificial intelligence's growing potential to dramatically enhance research efficiency and accuracy in complex scientific fields.",
+    "content_ta": "DeepMind ஆதரவு பெற்ற புதிய ஆய்வில், AI agents வெளியிடப்படாத 50 இயற்பியல் பிரச்சினைகளில் 49-ஐ வெற்றிகரமாகத் தீர்த்துள்ளதாகக் கண்டறியப்பட்டுள்ளது. கோட்பாட்டு இயற்பியலில் இந்தச் சாதனை, சிக்கலான அறிவியல் துறைகளில் ஆராய்ச்சியின் செயல்திறனையும் துல்லியத்தையும் மேம்படுத்துவதில் செயற்கை நுண்ணறிவின் ஆற்றலைக் காட்டுகிறது.",
+    "slug": "ai-agents-solve-49-of-50-unpublished-physics-problems-in-deepmind-backed-study"
+  },
+  {
+    "id": "591dff54c6398835",
+    "title": "New York Resident Siphons $54,406,742 in Ponzi-Style Investor Fraud, Faces Decades Behind Bars",
+    "summary": "Federal prosecutors have obtained a guilty plea from a New York man accused of running a multi-decade scheme that stole more than $54 million from investors through nonexistent equipment loans. Richard Teplitsky, 72, of Williamsville, was the president of Woodhill Capital Corporation and admitted to mail fraud before U.S. District Judge John L. Sinatra, Jr., […]\nThe post New York Resident Siphons $54,406,742 in Ponzi-Style Investor Fraud, Faces Decades Behind Bars appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/10/25/new-york-resident-siphons-54406742-in-ponzi-style-investor-fraud-faces-decades-behind-bars/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "Richard Teplitsky",
+      "Woodhill Capital Corporation",
+      "New York",
+      "Williamsville",
+      "John L. Sinatra, Jr."
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-25T11:45:31.000Z",
+    "fetchedAt": "2026-10-25T12:01:34.721Z",
+    "isDuplicateOf": null,
+    "content": "A 72-year-old New York resident, Richard Teplitsky, has pleaded guilty to mail fraud after running a multi-decade Ponzi-style investment scheme. As president of Woodhill Capital Corporation, Teplitsky stole over $54 million from investors using nonexistent equipment loans. He now faces decades in federal prison for the massive fraud.",
+    "content_ta": "நியூயார்க்கைச் சேர்ந்த 72 வயதான Richard Teplitsky, பல ஆண்டுகளாக போன்சி முறை முதலீட்டு மோசடியில் ஈடுபட்டு அஞ்சல் வழி மோசடி செய்ததை ஒப்புக்கொண்டுள்ளார். Woodhill Capital Corporation நிறுவனத்தின் தலைவராக இருந்த Teplitsky, போலியான உபகரணக் கடன்கள் மூலம் முதலீட்டாளர்களிடமிருந்து $54 மில்லியனுக்கும் அதிகமான பணத்தைத் திருடியுள்ளார். இந்த மாபெரும் மோசடிக்காக அவர் பல ஆண்டுகள் ஃபெடரல் சிறைத்தண்டனையை எதிர்கொள்கிறார்.",
+    "slug": "new-york-resident-siphons-54-406-742-in-ponzi-style-investor-fraud-faces-decades-behind-bars"
+  },
+  {
+    "id": "ce0ca656b2c67144",
+    "title": "TEG’s SmartPay Passes £478m as Same-Day Pay Hits UK Hauliers",
+    "summary": "TEG's embedded-finance platform has moved £478m into UK freight carriers' accounts, with £418m processed in the last 12 months alone.\nThe post TEG’s SmartPay Passes £478m as Same-Day Pay Hits UK Hauliers appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/tegs-smartpay-passes-478m-as-same-day-pay-hits-uk-hauliers/",
+    "source": "The Fintech Times",
+    "tags": [
+      "TEG",
+      "SmartPay",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-25T10:00:20.000Z",
+    "fetchedAt": "2026-10-25T12:01:34.721Z",
+    "isDuplicateOf": null,
+    "content": "TEG's embedded-finance platform, SmartPay, has successfully processed £478m in payments for UK freight carriers. A significant portion of this total, £418m, was handled within the past 12 months alone, highlighting the growing adoption of same-day pay solutions among hauliers across the UK.",
+    "content_ta": "TEG நிறுவனத்தின் SmartPay எம்படெட்-ஃபைனான்ஸ் பிளாட்ஃபார்ம் மூலம் UK சரக்கு போக்குவரத்து நிறுவனங்களுக்கு £478m வழங்கப்பட்டுள்ளது. இதில் £418m கடந்த 12 மாதங்களில் மட்டுமே கையாளப்பட்டுள்ளது, இது UK-ல் உள்ள hauliers மத்தியில் same-day pay தீர்வுகளின் பயன்பாடு அதிகரித்து வருவதைக் காட்டுகிறது.",
+    "slug": "teg-s-smartpay-passes-478m-as-same-day-pay-hits-uk-hauliers"
   }
 ]
