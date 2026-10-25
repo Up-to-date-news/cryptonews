@@ -1,85 +1,77 @@
 [
   {
-    "id": "341a05d2a531939d",
-    "title": "AAVE whale moves $22.8M in tokens – Is $140 support at risk?",
-    "summary": "A long term institutional investor moved 156,690 AAVE, worth $22.86 million, possibly to sell",
+    "id": "1c67611642ff4839",
+    "title": "Bitcoin – Why Coinbase warns BTC could fall to $75K amid macro risks",
+    "summary": "Options traders were actively hedging against downside risks.",
     "hasSummary": true,
-    "link": "https://ambcrypto.com/aave-whale-moves-22-8m-in-tokens-is-140-support-at-risk/",
+    "link": "https://ambcrypto.com/bitcoin-why-coinbase-warns-btc-could-fall-to-75k-amid-macro-risks/",
     "source": "AMBCrypto",
+    "tags": [
+      "Bitcoin",
+      "Coinbase"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-25T00:00:46.000Z",
+    "fetchedAt": "2026-10-25T00:01:23.426Z",
+    "isDuplicateOf": null,
+    "content": "Coinbase has warned that Bitcoin could potentially face a decline down to seventy-five thousand dollars due to various macroeconomic risks. In response to these growing market uncertainties, options traders have been actively hedging their positions to protect against potential downside price movements.",
+    "content_ta": "மேக்ரோ பொருளாதார ஆபத்துகள் காரணமாக Bitcoin விலை எழுபது ஐயாயிரம் டாலராக குறையக்கூடும் என்று Coinbase எச்சரித்துள்ளது. இந்த சந்தை நிச்சயமற்ற தன்மையைக் கருத்தில் கொண்டு, ஆப்ஷன் வர்த்தகர்கள் விலைச் சரிவிலிருந்து தங்களைப் பாதுகாத்துக் கொள்ள தீவிரமாக ஹெட்ஜிங் செய்து வருகின்றனர்.",
+    "slug": "bitcoin-why-coinbase-warns-btc-could-fall-to-75k-amid-macro-risks"
+  },
+  {
+    "id": "341a05d2a531939d",
+    "slug": "aave-whale-moves-22-8m-in-tokens-is-140-support-at-risk",
+    "title": "AAVE whale moves $22.8M in tokens – Is $140 support at risk?",
     "tags": [
       "AAVE"
     ],
+    "source": "AMBCrypto",
     "origin": "rss",
-    "pubDate": "2026-10-24T22:00:29.000Z",
-    "fetchedAt": "2026-10-24T22:02:50.449Z",
-    "isDuplicateOf": null,
-    "content": "A long-term institutional investor recently moved 156,690 AAVE tokens, valued at approximately $22.86 million, sparking market speculation about a potential sell-off. This substantial transfer by a crypto whale has raised concerns among traders as to whether the crucial $140 support level for the AAVE token is currently at risk.",
-    "content_ta": "ஒரு நீண்ட கால இன்ஸ்டிடியூஷனல் முதலீட்டாளர் சமீபத்தில் 156,690 AAVE டோக்கன்களை நகர்த்தியுள்ளார். இதன் மதிப்பு தோராயமாக $22.86 மில்லியன் ஆகும். இந்த திடீர் மாற்றத்தால் AAVE-ன் $140 சப்போர்ட் லெவல் ஆபத்தில் உள்ளதா என்ற சந்தேகம் வர்த்தகர்களிடையே எழுந்துள்ளது.",
-    "slug": "aave-whale-moves-22-8m-in-tokens-is-140-support-at-risk"
+    "hasContent": true,
+    "pubDate": "2026-10-24T22:00:29.000Z"
   },
   {
     "id": "c4ca8fdf1f19d945",
+    "slug": "bcg-study-puts-custody-at-the-center-of-banks-digital-asset-plans",
     "title": "BCG Study Puts Custody At The Center Of Banks’ Digital Asset Plans",
-    "summary": "New BCG research examines how custody controls, technology choices and integration affect banks’ plans for digital asset services.",
-    "hasSummary": true,
-    "link": "https://www.newsbtc.com/business/bcg-ripple-custody-bank-digital-asset-study/",
-    "source": "NewsBTC",
     "tags": [
       "BCG"
     ],
+    "source": "NewsBTC",
     "origin": "rss",
-    "pubDate": "2026-10-24T22:00:00.000Z",
-    "fetchedAt": "2026-10-24T22:02:50.449Z",
-    "isDuplicateOf": null,
-    "content": "A new study by BCG highlights custody as a central component of banks' digital asset strategies. The research explores how custody controls, technology choices, and integration processes influence financial institutions as they develop services for digital assets.",
-    "content_ta": "BCG நடத்திய புதிய ஆய்வு ஒன்று, வங்கிகளின் டிஜிட்டல் சொத்து உத்திகளில் கஸ்டடி (custody) மிக முக்கிய பங்கு வகிக்கிறது என்பதை வெளிக்காட்டுகிறது. டிஜிட்டல் சொத்து சேவைகளை உருவாக்கும்போது, கஸ்டடி கட்டுப்பாடுகள், தொழில்நுட்பத் தேர்வுகள் மற்றும் ஒருங்கிணைப்பு செயல்முறைகள் ஆகியவை நிதி நிறுவனங்களை எவ்வாறு பாதிக்கின்றன என்பதை இந்த ஆய்வு ஆராய்கிறது.",
-    "slug": "bcg-study-puts-custody-at-the-center-of-banks-digital-asset-plans"
+    "hasContent": true,
+    "pubDate": "2026-10-24T22:00:00.000Z"
   },
   {
     "id": "2cb9373a94f15d6f",
+    "slug": "evernorth-ceo-explains-why-he-chose-xrp-over-bitcoin",
     "title": "Evernorth CEO Explains Why He Chose XRP Over Bitcoin",
-    "summary": "In the interview, Evernorth's CEO explained why his company chose XRP over Bitcoin, saying that XRP investments have greater capabilities on-chain.",
-    "hasSummary": true,
-    "link": "https://zycrypto.com/evernorth-ceo-explains-why-he-chose-xrp-over-bitcoin/",
-    "source": "ZyCrypto",
     "tags": [
       "Evernorth",
       "XRP",
       "Bitcoin"
     ],
+    "source": "ZyCrypto",
     "origin": "rss",
-    "pubDate": "2026-10-24T21:48:30.000Z",
-    "fetchedAt": "2026-10-24T22:02:50.449Z",
-    "isDuplicateOf": null,
-    "content": "In a recent interview, the CEO of Evernorth discussed the company's decision to invest in XRP rather than Bitcoin. According to the executive, the primary reason for choosing XRP was its superior on-chain capabilities, which offer greater utility and functionality for their specific investment strategies and operations.",
-    "content_ta": "ச recent நேர்காணலில், Evernorth நிறுவனத்தின் CEO, Bitcoin-ஐ விட XRP-ஐ தேர்ந்தெடுத்ததற்கான காரணத்தை விளக்கியுள்ளார். ஆன்-செயின் (on-chain) நடவடிக்கைகளில் XRP அதிக திறன்களைக் கொண்டுள்ளதே தங்கள் நிறுவனத்தின் முதலீட்டிற்கான முக்கிய காரணம் என்று அவர் தெரிவித்தார்.",
-    "slug": "evernorth-ceo-explains-why-he-chose-xrp-over-bitcoin"
+    "hasContent": true,
+    "pubDate": "2026-10-24T21:48:30.000Z"
   },
   {
     "id": "fe82b7e19b4d0b14",
+    "slug": "elon-musk-agentic-ai-demand-growing-faster-than-anything-i-ve-seen",
     "title": "Elon Musk: Agentic AI demand growing faster than anything I’ve seen",
-    "summary": "The rapid rise in agentic AI demand could intensify competition, drive innovation, and reshape market dynamics in the AI sector.\nThe post Elon Musk: Agentic AI demand growing faster than anything I’ve seen appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/elon-musk-agentic-ai-demand-growing-faster-than-anything-ive-seen/",
-    "source": "CryptoBriefing",
     "tags": [
       "Elon Musk"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-24T21:47:52.000Z",
-    "fetchedAt": "2026-10-24T22:02:50.449Z",
-    "isDuplicateOf": null,
-    "content": "Elon Musk has highlighted a massive surge in demand for agentic AI, describing its growth rate as unprecedented. This rapid increase in interest for advanced artificial intelligence highlights the fast-paced evolution of the sector, which could significantly accelerate technological innovation and intensify competition across the global industry.",
-    "content_ta": "Agentic AI-க்கான தேவை இதுவரை தான் கண்டிராத அளவிற்கு மிக வேகமாக வளர்ந்து வருவதாக Elon Musk தெரிவித்துள்ளார். மேம்பட்ட செயற்கை நுண்ணறிவுத் துறைக்கான இந்த திடீர் மற்றும் அதீத வளர்ச்சி, தொழில்நுட்ப கண்டுபிடிப்புகளை விரைவுபடுத்துவதோடு உலகளாவிய சந்தையில் போட்டியையும் தீவிரப்படுத்தக்கூடும்.",
-    "slug": "elon-musk-agentic-ai-demand-growing-faster-than-anything-i-ve-seen"
+    "hasContent": true,
+    "pubDate": "2026-10-24T21:47:52.000Z"
   },
   {
     "id": "639b9aaea17e1fc7",
+    "slug": "ethereum-s-rwa-dominance-slips-as-solana-bnb-chain-stellar-and-avalanche-gain-ground-data",
     "title": "Ethereum’s RWA Dominance Slips as Solana, BNB Chain, Stellar, and Avalanche Gain Ground: Data",
-    "summary": "The RWA market is evolving rapidly, according to a new report shared today by institutional platform GSR. Although Ethereum continues to lead the sector, the new data revealed that its dominance has declined as other major crypto networks gain significant market relevance. Ethereum’s grip loosens in RWA tokenization   The data shows an alarming trend: Ethereum’s […]",
-    "hasSummary": true,
-    "link": "https://zycrypto.com/ethereums-rwa-dominance-slips-as-solana-bnb-chain-stellar-and-avalanche-gain-ground-data/",
-    "source": "ZyCrypto",
     "tags": [
       "Ethereum",
       "Solana",
@@ -88,50 +80,35 @@
       "Avalanche",
       "GSR"
     ],
+    "source": "ZyCrypto",
     "origin": "rss",
-    "pubDate": "2026-10-24T21:43:17.000Z",
-    "fetchedAt": "2026-10-24T22:02:50.449Z",
-    "isDuplicateOf": null,
-    "content": "A new report from institutional platform GSR reveals that Ethereum's dominance in the real-world asset (RWA) market is slipping. While Ethereum still leads the sector in tokenization, other major crypto networks including Solana, BNB Chain, Stellar, and Avalanche are rapidly gaining ground and increasing their market relevance.",
-    "content_ta": "நிறுவன தளமான GSR-இன் புதிய அறிக்கையின்படி, உண்மையான உலக சொத்து (RWA) சந்தையில் Ethereum-இன் ஆதிக்கம் சரிந்து வருகிறது. டோக்கனைசேஷன் துறையில் Ethereum தொடர்ந்து முன்னணியில் இருந்தாலும், Solana, BNB Chain, Stellar மற்றும் Avalanche உள்ளிட்ட பிற முக்கிய கிரிப்டோ நெட்வொர்க்குகள் விரைவாக வளர்ந்து சந்தையில் தங்கள் பங்கை அதிகரித்து வருகின்றன.",
-    "slug": "ethereum-s-rwa-dominance-slips-as-solana-bnb-chain-stellar-and-avalanche-gain-ground-data"
+    "hasContent": true,
+    "pubDate": "2026-10-24T21:43:17.000Z"
   },
   {
     "id": "16cb4a1b7d140dd2",
+    "slug": "tesla-unveils-optimus-academy-to-let-humanoid-robots-teach-themselves",
     "title": "Tesla unveils Optimus Academy to let humanoid robots teach themselves",
-    "summary": "Tesla's Optimus Academy could revolutionize AI training, potentially accelerating humanoid robot development and deployment across industries.\nThe post Tesla unveils Optimus Academy to let humanoid robots teach themselves appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/tesla-optimus-academy-self-teaching-robots/",
-    "source": "CryptoBriefing",
     "tags": [
       "Tesla"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-24T21:33:40.000Z",
-    "fetchedAt": "2026-10-24T22:02:50.449Z",
-    "isDuplicateOf": null,
-    "content": "Tesla has announced the launch of Optimus Academy, an initiative designed to allow humanoid robots to teach themselves. This development could revolutionize artificial intelligence training and significantly accelerate the deployment of humanoid robots across various industries, marking a major step forward in automation technology.",
-    "content_ta": "Humanoid robots தங்களாகவே கற்றுக்கொள்ளும் வகையில் Optimus Academy தொடங்குவதாக Tesla அறிவித்துள்ளது. இந்த புதிய முன்னெடுப்பு AI பயிற்சியில் புரட்சியை ஏற்படுத்தி, பல்வேறு தொழில்களில் humanoid robots-களின் பயன்பாட்டை விரைவுபடுத்துவதன் மூலம் ஆட்டோமேஷன் தொழில்நுட்பத்தில் ஒரு முக்கிய மைல்கல்லாக அமையும்.",
-    "slug": "tesla-unveils-optimus-academy-to-let-humanoid-robots-teach-themselves"
+    "hasContent": true,
+    "pubDate": "2026-10-24T21:33:40.000Z"
   },
   {
     "id": "8f787664e14ba65c",
+    "slug": "nvidia-and-spil-plan-15x-expansion-of-co-packaged-optics-capacity-by-mid-2027",
     "title": "Nvidia and SPIL plan 15x expansion of co-packaged optics capacity by mid-2027",
-    "summary": "The expansion of optical networking capacity could significantly enhance AI data center efficiency, driving technological and infrastructure growth.\nThe post Nvidia and SPIL plan 15x expansion of co-packaged optics capacity by mid-2027 appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/nvidia-jensen-huang-optical-volume-ai-data-centers/",
-    "source": "CryptoBriefing",
     "tags": [
       "Nvidia",
       "SPIL"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-24T21:23:06.000Z",
-    "fetchedAt": "2026-10-24T22:02:50.449Z",
-    "isDuplicateOf": null,
-    "content": "Nvidia and SPIL have announced plans for a massive 15x expansion of co-packaged optics capacity by mid-2027. This significant scaling of optical networking capacity aims to enhance artificial intelligence data center efficiency, supporting future technological advancements and robust infrastructure growth within the sector.",
-    "content_ta": "மதிய 2027-க்குள் கோ-பேக்கேஜ் செய்யப்பட்ட ஆப்டிக்ஸ் திறனை 15 மடங்கு விரிவுபடுத்த Nvidia மற்றும் SPIL திட்டமிட்டுள்ளதாக அறிவித்துள்ளன. இந்த ஆப்டிகல் நெட்வொர்க்கிங் திறனின் விரிவாக்கம் AI டேட்டா சென்டர் செயல்திறனை கணிசமாக மேம்படுத்தவும், தொழில்நுட்ப மற்றும் உள்கட்டமைப்பு வளர்ச்சியை ஆதரிக்கவும் உதவும்.",
-    "slug": "nvidia-and-spil-plan-15x-expansion-of-co-packaged-optics-capacity-by-mid-2027"
+    "hasContent": true,
+    "pubDate": "2026-10-24T21:23:06.000Z"
   },
   {
     "id": "9f4d64f9274e817e",
@@ -811,20 +788,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-24T13:09:58.000Z"
-  },
-  {
-    "id": "465ef1602ce21b8d",
-    "slug": "morpho-hires-coinbase-veteran-brian-foster-as-deposits-hit-17bn",
-    "title": "Morpho Hires Coinbase Veteran Brian Foster as Deposits Hit $17bn",
-    "tags": [
-      "Morpho",
-      "Coinbase",
-      "Brian Foster",
-      "BlackRock"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-24T13:00:47.000Z"
   }
 ]
