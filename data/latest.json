@@ -1,5 +1,713 @@
 [
   {
+    "id": "95a01b27abc76562",
+    "slug": "sui-adds-cetus-ai-tools-and-samsung-access-why-is-capital-leaving",
+    "title": "SUI adds Cetus AI tools and Samsung access – Why is capital leaving?",
+    "tags": [
+      "SUI",
+      "Cetus",
+      "Samsung"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T18:00:03.000Z"
+  },
+  {
+    "id": "935ee6ae92fd8e42",
+    "slug": "y-combinator-backed-mochatrade-raises-5-5-million-to-offer-us-stock-perpetuals-to-indian-traders",
+    "title": "Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders",
+    "tags": [
+      "Mochatrade",
+      "Y Combinator",
+      "United States",
+      "India"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T17:55:02.000Z"
+  },
+  {
+    "id": "aea223c62625b6ea",
+    "slug": "payward-aims-to-be-first-cftc-regulated-deployer-on-hyperliquid-s-hip-3",
+    "title": "Payward aims to be first CFTC-regulated deployer on Hyperliquid’s HIP-3",
+    "tags": [
+      "Payward",
+      "Hyperliquid",
+      "CFTC",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T17:54:06.000Z"
+  },
+  {
+    "id": "60257b876e8ad0da",
+    "slug": "bedrock-robotics-raises-600m-as-its-self-driving-excavators-head-to-real-job-sites",
+    "title": "Bedrock Robotics raises $600M as its self-driving excavators head to real job sites",
+    "tags": [
+      "Bedrock Robotics"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T17:51:29.000Z"
+  },
+  {
+    "id": "be117b25d3f9bbb5",
+    "slug": "bnb-standard-ceo-outlines-plans-for-a-bnb-chain-validator-as-firm-heads-to-nasdaq-bell",
+    "title": "BNB Standard CEO outlines plans for a BNB Chain validator as firm heads to Nasdaq bell",
+    "tags": [
+      "BNB Standard",
+      "BNB Chain",
+      "Nasdaq"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T17:44:02.000Z"
+  },
+  {
+    "id": "800d2d12ab7baaeb",
+    "slug": "bitcoin-wallet-fixes-critical-flaw-that-redirected-funds-to-attackers",
+    "title": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
+    "tags": [
+      "Bitcoin",
+      "Electrum"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T17:41:21.000Z"
+  },
+  {
+    "id": "53395f1fff000096",
+    "slug": "kraken-parent-payward-to-launch-cftc-regulated-futures-for-us-clients",
+    "title": "Kraken parent Payward to launch CFTC-regulated futures for US clients",
+    "tags": [
+      "Payward",
+      "Kraken",
+      "CFTC",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T17:38:20.000Z"
+  },
+  {
+    "id": "916c122fccc74e3c",
+    "slug": "ibm-and-nvidia-link-ai-agent-identity-to-runtime-access-controls",
+    "title": "IBM and Nvidia link AI agent identity to runtime access controls",
+    "tags": [
+      "IBM",
+      "Nvidia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T17:37:19.000Z"
+  },
+  {
+    "id": "b4b506d107efd6b5",
+    "slug": "anthropic-token-use-on-openrouter-jumps-about-3-5x-as-cheaper-models-land",
+    "title": "Anthropic token use on OpenRouter jumps about 3.5x as cheaper models land",
+    "tags": [
+      "Anthropic",
+      "OpenRouter"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T17:30:09.000Z"
+  },
+  {
+    "id": "ad5164c6741d64b3",
+    "slug": "anthropic-s-claude-ai-predicts-a-huge-move-for-solana-by-2027",
+    "title": "Anthropic’s Claude AI Predicts a Huge Move for Solana by 2027",
+    "tags": [
+      "Anthropic",
+      "Solana"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T17:25:44.000Z"
+  },
+  {
+    "id": "51ec944df90e2394",
+    "slug": "incredibly-frustrating-ethereum-foundation-s-latest-eth-sale-draws-criticism",
+    "title": "‘Incredibly Frustrating:’ Ethereum Foundation’s Latest ETH Sale Draws Criticism",
+    "tags": [
+      "Ethereum Foundation",
+      "Ethereum"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T17:25:11.000Z"
+  },
+  {
+    "id": "80e64ff5724e5f8f",
+    "slug": "anthropic-predicts-ai-will-surpass-human-intelligence-control-computers-soon",
+    "title": "Anthropic predicts AI will surpass human intelligence, control computers soon",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T17:17:37.000Z"
+  },
+  {
+    "id": "523defb72d3934be",
+    "slug": "brazil-suffers-worst-selloff-in-decades-on-lula-win-as-hyperliquid-tokenized-perp-led-price",
+    "title": "Brazil suffers worst selloff in decades on Lula win as Hyperliquid tokenized perp led price discovery",
+    "tags": [
+      "Brazil",
+      "Lula",
+      "Hyperliquid"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T17:13:25.000Z"
+  },
+  {
+    "id": "a179922af7b54a70",
+    "slug": "chatgpt-ai-predicts-an-insane-pi-crypto-price-for-2027",
+    "title": "ChatGPT AI Predicts an Insane Pi Crypto Price for 2027",
+    "tags": [
+      "ChatGPT",
+      "OpenAI",
+      "Pi Network"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T17:12:31.000Z"
+  },
+  {
+    "id": "83765598eec721c0",
+    "slug": "california-challenges-sec-crypto-proposal-over-reduced-state-oversight-of-offerings",
+    "title": "California Challenges SEC Crypto Proposal Over Reduced State Oversight of Offerings",
+    "tags": [
+      "California",
+      "Securities and Exchange Commission",
+      "Department of Financial Protection and Innovation"
+    ],
+    "source": "Crowdfund Insider",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T17:09:49.000Z"
+  },
+  {
+    "id": "4f37eaa0522e8be5",
+    "slug": "tokenized-stocks-now-account-for-82-of-onchain-rwa-holders",
+    "title": "Tokenized stocks now account for 82% of onchain RWA holders",
+    "tags": [
+      "Crypto Briefing"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T17:08:49.000Z"
+  },
+  {
+    "id": "1aec744a8ae696cb",
+    "slug": "podcast-from-fragmentation-to-infrastructure-the-lasting-value-of-modernizing-insurance-payments",
+    "title": "[Podcast] From Fragmentation to Infrastructure: The Lasting Value of Modernizing Insurance Payments",
+    "tags": [
+      "Insurance Payments"
+    ],
+    "source": "Banking Dive",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T17:05:07.000Z"
+  },
+  {
+    "id": "994de0a3f1a5b655",
+    "slug": "sakana-ai-will-build-domestic-ai-models-from-scratch-in-japan",
+    "title": "Sakana AI will build domestic AI models from scratch in Japan",
+    "tags": [
+      "Sakana AI",
+      "Japan"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T17:02:10.000Z"
+  },
+  {
+    "id": "697d64394c6f0c12",
+    "slug": "ripple-treasury-svp-unveils-always-on-ai-treasury-what-it-means-for-xrp-ecosystem",
+    "title": "Ripple Treasury SVP Unveils Always-On AI Treasury: What It Means for XRP Ecosystem",
+    "tags": [
+      "Ripple",
+      "XRP",
+      "American Airlines",
+      "Subway",
+      "Christian Louboutin"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T17:00:05.000Z"
+  },
+  {
+    "id": "62ef01185daf0a29",
+    "slug": "cohere-flags-qwen3-8-flash-next-for-probing-its-sandbox-during-testing",
+    "title": "Cohere flags Qwen3.8-Flash-Next for probing its sandbox during testing",
+    "tags": [
+      "Cohere",
+      "Qwen3.8-Flash-Next"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:58:40.000Z"
+  },
+  {
+    "id": "e39c3307ef4379cd",
+    "slug": "anthropic-s-s-1-shows-how-claude-is-built-to-keep-enterprise-customers",
+    "title": "Anthropic’s S-1 shows how Claude is built to keep enterprise customers",
+    "tags": [
+      "Anthropic",
+      "Claude"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:54:45.000Z"
+  },
+  {
+    "id": "b3d37a3f1793c790",
+    "slug": "injective-launches-sici-can-onchain-ai-compute-become-a-new-market",
+    "title": "Injective Launches SICI: Can Onchain AI Compute Become a New Market?",
+    "tags": [
+      "Injective",
+      "NVIDIA"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:53:11.000Z"
+  },
+  {
+    "id": "54d6a8148e8e76d5",
+    "slug": "anthropic-s-seven-co-founders-each-hold-stakes-worth-over-13-billion",
+    "title": "Anthropic’s seven co-founders each hold stakes worth over $13 billion",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-10-26T16:52:33.000Z"
+  },
+  {
+    "id": "958b32f3a21b128a",
+    "slug": "odix-pay-a-payment-app-and-prepaid-card-built-around-stablecoin-top-ups",
+    "title": "Odix Pay: A Payment App and Prepaid Card Built Around Stablecoin Top-Ups",
+    "tags": [
+      "Odix Pay",
+      "USDT",
+      "USDC"
+    ],
+    "source": "ZyCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:50:25.000Z"
+  },
+  {
+    "id": "5297f39b12b7926c",
+    "slug": "replit-launches-replit-for-business-to-tame-chaotic-ai-agent-deployments",
+    "title": "Replit launches Replit for Business to tame chaotic AI agent deployments",
+    "tags": [
+      "Replit"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:41:28.000Z"
+  },
+  {
+    "id": "58f45cc836da4c5d",
+    "slug": "chainlink-custodysync-targets-institutional-defi-with-700-billion-opportunity",
+    "title": "Chainlink CustodySync Targets Institutional DeFi With $700 Billion Opportunity",
+    "tags": [
+      "Chainlink"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:39:54.000Z"
+  },
+  {
+    "id": "38d89d5a26560b64",
+    "slug": "prediction-markets-and-derivatives-drive-bernstein-s-crypto-stock-outlook-for-coinbase-robinhood",
+    "title": "Prediction markets and derivatives drive Bernstein’s crypto stock outlook for Coinbase, Robinhood and Circle",
+    "tags": [
+      "Bernstein",
+      "Coinbase",
+      "Robinhood",
+      "Circle"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:36:43.000Z"
+  },
+  {
+    "id": "fe650d3071c1043c",
+    "slug": "us-allows-vetted-private-firms-to-counter-north-korean-crypto-theft",
+    "title": "US allows vetted private firms to counter North Korean crypto theft",
+    "tags": [
+      "North Korea",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:35:22.000Z"
+  },
+  {
+    "id": "b0263df852728878",
+    "slug": "pump-fun-offers-2-5m-prize-as-traders-boycott-its-missing-airdrop",
+    "title": "Pump Fun offers $2.5M prize as traders boycott its missing airdrop",
+    "tags": [
+      "Pump Fun",
+      "Kimchi"
+    ],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:33:22.000Z"
+  },
+  {
+    "id": "fc2e71a3b8d47706",
+    "slug": "justin-sun-prize-partners-with-mathdb-led-by-caltech-professor-tony-yue-yu-on-50-problem-pilot",
+    "title": "Justin Sun Prize Partners With MathDB, Led by Caltech Professor Tony Yue Yu, on 50-Problem Pilot",
+    "tags": [],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-10-26T16:32:36.000Z"
+  },
+  {
+    "id": "25a2a8a0f51f39e7",
+    "slug": "republicans-may-face-challenges-in-texas-as-border-security-loses-voter-priority",
+    "title": "Republicans may face challenges in Texas as border security loses voter priority",
+    "tags": [
+      "Texas",
+      "Republicans"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:32:34.000Z"
+  },
+  {
+    "id": "07f4293138176edb",
+    "slug": "ritual-launches-ai-native-layer-1-for-autonomous-agents",
+    "title": "Ritual Launches AI-Native Layer 1 for Autonomous Agents",
+    "tags": [
+      "Ritual",
+      "Polychain Capital"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:31:03.000Z"
+  },
+  {
+    "id": "03778f37424aae97",
+    "slug": "dutch-crypto-investors-may-divest-over-proposed-wealth-tax-reform",
+    "title": "Dutch crypto investors may divest over proposed wealth-tax reform",
+    "tags": [
+      "Netherlands"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:30:34.000Z"
+  },
+  {
+    "id": "bfb1dfeaccd6b7c1",
+    "slug": "who-owns-dogecoin-doge-controversial-corporate-merger-splits-community",
+    "title": "Who Owns Dogecoin (DOGE)? Controversial Corporate Merger Splits Community",
+    "tags": [
+      "Dogecoin"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:30:05.000Z"
+  },
+  {
+    "id": "9014962f90669fad",
+    "slug": "centrifuge-hires-johnny-reinsch-to-lead-its-digital-transfer-agency-push",
+    "title": "Centrifuge hires Johnny Reinsch to lead its digital transfer agency push",
+    "tags": [
+      "Centrifuge",
+      "Johnny Reinsch",
+      "Crypto Briefing"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:29:38.000Z"
+  },
+  {
+    "id": "e6147dbf3f2f20d1",
+    "slug": "anthropic-ipo-live-7-people-will-control-voting-power",
+    "title": "Anthropic IPO Live: 7 people will control voting power",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:25:00.000Z"
+  },
+  {
+    "id": "a95b93317241fd54",
+    "title": "Whop Announces Funding Round at $5.1B Valuation, Led by Sequoia and Shopify Ventures",
+    "summary": "Whop, the technology company on a mission to deliver everyone a sustainable income, today announced a $200 million Series D at a $5.1 billion valuation, led by Sequoia and Shopify Ventures.\nThe new capital will accelerate Whop's global expansion and R&D efforts to make payment and advertising markets radically more efficient. This round marks Whop's second fundraise this year following an announcement of a $200 million strategic investment from Tether at a $1.6B valuation in February 2026.\nWork is fundamentally changing and AI is calling traditional career paths into question. Entry level job opportunities are at an all time low. For a generation starting in a hole, Whop is a way for individuals to own their economic futures.\nWhop's core customers are business operators, ranging from heads of product at high growth startups, to 16 year old first time entrepreneurs. Whop provides business operators with a gamified UI and extensive API, powering distribution, business creation, and money.\nRoughly 25,000 business operators generate $550M on Whop each month. Whop also delivers an income to more than 50,000 other people who provide value to the businesses every month.\n\"We take inspiration from the traditional economy in designing Whop, and because businesses are the primary conduit by which people earn money and create value, we focus on them as our primary customer,\" said Steven Schwartz, Co-founder and CEO of Whop.\nMost businesses on Whop service hyper specific customer needs, rather than broad mass-market products. The internet has made it possible to reach customers in markets that were once too small or fragmented to build a business around. Businesses built natively on Whop include invoicing software for trucking companies, emergency tree removal services, private jet booking platforms, neobanks for dropshippers, and marketplaces supplying data to humanoid robotics companies.\n\"They're doing about a half billion revenue, business is doing great, and we're helping humanity create businesses for people who can't find a job\", said Doug Leone, Partner at Sequoia Capital.\nIn the past three months, Whop has launched:\nBusiness Blueprints, which lets new operators launch a ready-to-sell business in a few clicks. Over 21,000 businesses have been created via Blueprints since the product launched 6 weeks ago.\nWhop CLI, which debuted in July, making Whop's API compatible with any AI agent and allowing operators to run their businesses via prompts. The Whop CLI and MCP connectors collectively receive over 350,000 calls per day with over 14,700 monthly active users.\nEconomic Intelligence, a decision engine trained on millions of transactions that recommends the highest-ROI next move for each business. To access Economic Intelligence, businesses give an extra percentage of the revenue earned from using the system.\nWhop is headquartered in Palo Alto, California with offices in New York and is hiring across engineering, product, sales, and operations.\nNoYesFundraising News26 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/fundraising-news/whop-announces-funding-round-51b-valuation-led-sequoia-and-shopify-ventures",
+    "source": "Financial IT",
+    "tags": [
+      "Whop",
+      "Sequoia",
+      "Shopify Ventures",
+      "Tether",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-26T16:21:12.000Z",
+    "fetchedAt": "2026-10-26T18:01:25.671Z",
+    "isDuplicateOf": null,
+    "content": "Whop has announced a $200 million Series D funding round at a $5.1 billion valuation, led by Sequoia and Shopify Ventures. The new capital will accelerate the company's global expansion and R&D efforts. Whop previously secured a strategic investment from Tether earlier in the year. The platform currently supports thousands of business operators generating significant monthly revenue, helping individuals build and scale internet businesses.",
+    "content_ta": "Sequoia மற்றும் Shopify Ventures தலைமையில் Whop நிறுவனம் 5.1 பில்லியன் டாலர் மதிப்பீட்டில் 200 மில்லியன் டாலர் சீரிஸ் D நிதி திரட்டலை அறிவித்துள்ளது. இந்த புதிய நிதி நிறுவனத்தின் உலகளாவிய விரிவாக்கம் மற்றும் R&D முயற்சிகளை துரிதப்படுத்தும். இந்த ஆண்டு தொடக்கத்தில் Tether நிறுவனத்திடமிருந்தும் Whop முதலீட்டைப் பெற்றது குறிப்பிடத்தக்கது.",
+    "slug": "whop-announces-funding-round-at-5-1b-valuation-led-by-sequoia-and-shopify-ventures"
+  },
+  {
+    "id": "2583b76760aab19a",
+    "slug": "warren-urges-fed-occ-fdic-to-restore-bank-examiner-powers",
+    "title": "Warren urges Fed, OCC, FDIC to restore bank examiner powers",
+    "tags": [
+      "Federal Reserve",
+      "Office of the Comptroller of the Currency",
+      "Federal Deposit Insurance Corporation"
+    ],
+    "source": "Banking Dive",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:17:35.000Z"
+  },
+  {
+    "id": "34be88852a0e663c",
+    "slug": "coinbase-opens-spot-trading-for-ritual-s-ritual-token",
+    "title": "Coinbase opens spot trading for Ritual’s RITUAL token",
+    "tags": [
+      "Coinbase",
+      "Ritual"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:14:42.000Z"
+  },
+  {
+    "id": "6540b45f62fe14a4",
+    "slug": "openai-s-roon-says-codex-has-no-reverse-engineering-ban-accidental-blocks-being-fixed",
+    "title": "OpenAI’s Roon says Codex has no reverse engineering ban, accidental blocks being fixed",
+    "tags": [
+      "OpenAI",
+      "Codex"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:10:19.000Z"
+  },
+  {
+    "id": "fd446635381a8eec",
+    "slug": "jason-furman-says-he-would-pick-ai-over-a-staff-of-economists-at-the-cea",
+    "title": "Jason Furman says he would pick AI over a staff of economists at the CEA",
+    "tags": [
+      "Jason Furman",
+      "CEA"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:09:38.000Z"
+  },
+  {
+    "id": "7624ecf9c1aa35f8",
+    "slug": "xt-exchange-from-following-hyperliquid-traders-to-copying-their-strategies",
+    "title": "XT Exchange: From Following Hyperliquid Traders to Copying Their Strategies",
+    "tags": [
+      "XT Exchange",
+      "Hyperliquid"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:07:56.000Z"
+  },
+  {
+    "id": "277fecaee59336f0",
+    "slug": "tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
+    "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+    "tags": [
+      "Tom Lee",
+      "Bitmine",
+      "Ether"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:05:12.000Z"
+  },
+  {
+    "id": "b6c0ef66e49bc193",
+    "slug": "brazil-s-stock-market-crashes-after-lula-s-upset-victory",
+    "title": "Brazil’s Stock Market Crashes After Lula’s Upset Victory",
+    "tags": [
+      "Brazil",
+      "Luiz Inácio Lula da Silva",
+      "Flávio Bolsonaro"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:04:51.000Z"
+  },
+  {
+    "id": "5d355197f85cecdb",
+    "slug": "quack-ai-q-falls-28-before-241m-token-unlock-can-this-hold",
+    "title": "Quack AI [Q] falls 28% before 241M token unlock – Can THIS hold?",
+    "tags": [
+      "Quack AI"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:00:35.000Z"
+  },
+  {
+    "id": "f6e9d5025349d94c",
+    "slug": "treasury-dealers-net-bill-holdings-hit-a-two-year-high-as-october-30-funding-pressure-nears",
+    "title": "Treasury dealers’ net bill holdings hit a two-year high as October 30 funding pressure nears",
+    "tags": [
+      "FHLBNY",
+      "Bitcoin"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:00:30.000Z"
+  },
+  {
+    "id": "c26591588185c924",
+    "slug": "justin-sun-prize-partners-with-mathdb-led-by-caltech-professor-tony-yue-yu-on-50-problem-pilot-2026-10-26",
+    "title": "Justin Sun Prize Partners With MathDB, Led by Caltech Professor Tony Yue Yu, on 50-Problem Pilot",
+    "tags": [
+      "Justin Sun",
+      "MathDB",
+      "Caltech",
+      "Tony Yue Yu"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T16:00:00.000Z"
+  },
+  {
+    "id": "c7fca40de3a80e48",
+    "slug": "nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+    "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+    "tags": [
+      "NBA",
+      "NFL",
+      "CFTC",
+      "Kalshi",
+      "Polymarket"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T15:59:55.000Z"
+  },
+  {
+    "id": "3282ff230b52ba4c",
+    "slug": "polymarket-us-logs-record-74-million-trades-in-october",
+    "title": "Polymarket US logs record 74 million trades in October",
+    "tags": [
+      "Polymarket"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T15:59:40.000Z"
+  },
+  {
+    "id": "1b29b96532d86f19",
+    "slug": "kalshi-strikes-deal-with-s-p-dow-jones-indices-to-expand-financial-event-contracts",
+    "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
+    "tags": [
+      "Kalshi",
+      "S&P Dow Jones Indices",
+      "Wall Street"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T15:54:15.000Z"
+  },
+  {
+    "id": "de7bf5001100259c",
+    "slug": "anthropic-s-public-ipo-filing-shows-a-266-billion-cloud-risk",
+    "title": "Anthropic’s Public IPO Filing Shows a $266 Billion Cloud Risk",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T15:51:51.000Z"
+  },
+  {
+    "id": "5eba59b186bec255",
+    "slug": "occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+    "title": "OCC calls on community banks to enter the stablecoin payments market",
+    "tags": [
+      "OCC",
+      "United States"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T15:45:51.000Z"
+  },
+  {
+    "id": "06ad3ba1e45fb5bc",
+    "slug": "dogeos-taps-redstone-to-provide-oracle-data-for-dogecoin-defi-applications",
+    "title": "DogeOS taps RedStone to provide oracle data for Dogecoin DeFi applications",
+    "tags": [
+      "DogeOS",
+      "RedStone",
+      "Dogecoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T15:45:16.000Z"
+  },
+  {
     "id": "fdb15f54077c0587",
     "slug": "anthropic-plans-early-share-sales-post-ipo-for-liquidity-boost",
     "title": "Anthropic plans early share sales post-IPO for liquidity boost",
@@ -84,743 +792,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-26T14:25:22.000Z"
-  },
-  {
-    "id": "cfda1248e7e72709",
-    "slug": "anthropic-insiders-may-sell-up-to-10-of-locked-up-shares-on-ipo-day",
-    "title": "Anthropic insiders may sell up to 10% of locked-up shares on IPO day",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T14:24:11.000Z"
-  },
-  {
-    "id": "efa70c08b50ae9a5",
-    "slug": "canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
-    "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-    "tags": [
-      "Canada"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T14:23:41.000Z"
-  },
-  {
-    "id": "4febd924292ab36a",
-    "slug": "anthropic-now-earns-2-08-for-every-1-it-spends-on-compute",
-    "title": "Anthropic now earns $2.08 for every $1 it spends on compute",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T14:21:26.000Z"
-  },
-  {
-    "id": "7acd60c3518de1cf",
-    "slug": "ai-is-now-the-apex-predator-and-almost-no-one-noticed",
-    "title": "AI Is Now the Apex Predator, and Almost No One Noticed",
-    "tags": [
-      "Charles Edwards"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T14:21:07.000Z"
-  },
-  {
-    "id": "6921bf93655fa2cf",
-    "slug": "leveraged-etfs-filed-ahead-of-anthropic-s-anticipated-1-5t-ipo",
-    "title": "Leveraged ETFs filed ahead of Anthropic’s anticipated $1.5T IPO",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T14:18:56.000Z"
-  },
-  {
-    "id": "da26a0aeb76a1780",
-    "slug": "nevis-raises-70m-series-b-to-build-ai-agents-for-financial-advisors",
-    "title": "Nevis raises $70M Series B to build AI agents for financial advisors",
-    "tags": [
-      "Nevis"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T14:14:23.000Z"
-  },
-  {
-    "id": "8d5b8179ca9a0741",
-    "slug": "injective-launches-super-intelligence-compute-index-for-ai-compute-trading",
-    "title": "Injective launches Super Intelligence Compute Index for AI compute trading",
-    "tags": [
-      "Injective"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T14:11:03.000Z"
-  },
-  {
-    "id": "35292b4227644510",
-    "slug": "japan-tells-banks-to-review-cyber-policies-following-wave-of-attacks",
-    "title": "Japan tells banks to review cyber policies following wave of attacks",
-    "tags": [
-      "Japan"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T14:10:00.000Z"
-  },
-  {
-    "id": "e85111cc34e2cf56",
-    "slug": "bitcoin-vs-gold-why-btc-s-42-q3-rally-leaves-q4-hedge-thesis-unfinished",
-    "title": "Bitcoin vs Gold: Why BTC’s 42% Q3 rally leaves Q4 hedge thesis unfinished",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T14:00:15.000Z"
-  },
-  {
-    "id": "df44dc16e4ea3164",
-    "slug": "bitcoin-faces-an-inflation-warning-beneath-steady-us-consumer-sentiment",
-    "title": "Bitcoin faces an inflation warning beneath steady US consumer sentiment",
-    "tags": [
-      "Bitcoin",
-      "United States"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T14:00:14.000Z"
-  },
-  {
-    "id": "172995666686ae92",
-    "title": "NatWest and Mastercard Warn Students Face £20m Fraud Loss This Year",
-    "summary": "New research shows university students are twice as likely to encounter a scam as the general population, with only 27% confident they can spot one.\nThe post NatWest and Mastercard Warn Students Face £20m Fraud Loss This Year appeared first on The Fintech Times.",
-    "hasSummary": true,
-    "link": "https://thefintechtimes.com/natwest-and-mastercard-warn-students-face-20m-fraud-loss-this-year/",
-    "source": "The Fintech Times",
-    "tags": [
-      "NatWest",
-      "Mastercard"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-10-26T14:00:14.000Z",
-    "fetchedAt": "2026-10-26T15:01:31.916Z",
-    "isDuplicateOf": null,
-    "content": "New research from NatWest and Mastercard reveals that university students face potential fraud losses of £20 million this year. The data shows students are twice as likely to encounter scams compared to the general public, with fewer than three in ten feeling confident about identifying fraudulent activity.",
-    "content_ta": "NatWest மற்றும் Mastercard நடத்திய புதிய ஆராய்ச்சியின் படி, இந்த ஆண்டு பல்கலைக்கழக மாணவர்கள் 20 மில்லியன் பவுண்டுகள் வரை மோசடி இழப்பைச் சந்திக்க நேரிடும் என்று எச்சரிக்கப்பட்டுள்ளது. பொதுமக்களைக் காட்டிலும் மாணவர்களுக்கு மோசடியில் சிக்கும் வாய்ப்பு இரு மடங்கு அதிகம் உள்ளதாகவும், மூன்றில் ஒரு பங்கு மாணவர்கள்கூட மோசடிகளைத் துல்லியமாகக் கண்டறிய முடியாது என்றும் ஆய்வுகள் தெரிவிக்கின்றன.",
-    "slug": "natwest-and-mastercard-warn-students-face-20m-fraud-loss-this-year"
-  },
-  {
-    "id": "51424b3f25cb11ab",
-    "title": "CFTC and National Basketball Association Sign MOU to Protect Integrity in Professional Basketball",
-    "summary": "CFTC and National Basketball Association Sign MOU to Protect Integrity in Professional Basketball | CFTC /PressRoom/PressReleases/9314-26 Skip to main content October 26, 2026 WASHINGTON — The Commodity Futures Trading Commission and the National Basketball Association today announced their signing of a Memorandum of Understanding intended to protect the integrity of",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/10/320630-cftc-and-national-basketball-association-sign-mou-to-protect-integrity-in-professional-basketball/",
-    "source": "Crowdfund Insider",
-    "tags": [
-      "Commodity Futures Trading Commission",
-      "National Basketball Association",
-      "United States"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-10-26T14:00:00.000Z",
-    "fetchedAt": "2026-10-26T15:01:31.916Z",
-    "isDuplicateOf": null,
-    "content": "The Commodity Futures Trading Commission and the National Basketball Association have signed a Memorandum of Understanding. Announced in Washington, the agreement is intended to protect the integrity of professional basketball. Both organizations aim to collaborate closely through this partnership, focusing on shared regulatory and monitoring interests to safeguard the sport against potential misconduct.",
-    "content_ta": "Commodity Futures Trading Commission மற்றும் National Basketball Association ஆகியவை Memorandum of Understanding ஒன்றில் கையெழுத்திட்டுள்ளன. வாஷிங்டனில் அறிவிக்கப்பட்ட இந்த ஒப்பந்தம், தொழில்முறை கூடைப்பந்து விளையாட்டின் நேர்மையைப் பாதுகாப்பதை நோக்கமாகக் கொண்டுள்ளது. சாத்தியமான தவறான நடத்தைகளிலிருந்து விளையாட்டைப் பாதுகாக்க, பகிரப்பட்ட ஒழுங்குமுறை மற்றும் கண்காணிப்பு நலன்களில் கவனம் செலுத்தி, இந்த கூட்டாண்மை மூலம் இரு நிறுவனங்களும் நெருக்கமாக ஒத்துழைக்கக் குறிக்கோள் கொண்டுள்ளன.",
-    "slug": "cftc-and-national-basketball-association-sign-mou-to-protect-integrity-in-professional-basketball"
-  },
-  {
-    "id": "f4b250e999c1fb9b",
-    "slug": "anthropic-completes-1-for-1-000-reverse-stock-split-of-class-t-shares",
-    "title": "Anthropic completes 1-for-1,000 reverse stock split of Class T shares",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T13:55:41.000Z"
-  },
-  {
-    "id": "77b6f1f1cb092e7b",
-    "slug": "anthropic-reports-10-8b-in-contracted-revenue-as-265m-financing-commitment-stays-unconfirmed",
-    "title": "Anthropic reports $10.8B in contracted revenue as $265M financing commitment stays unconfirmed",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T13:52:21.000Z"
-  },
-  {
-    "id": "955c1a975e42b0fb",
-    "slug": "anthropic-spent-2-7-million-on-dario-amodei-s-personal-security-last-year",
-    "title": "Anthropic spent $2.7 million on Dario Amodei’s personal security last year",
-    "tags": [
-      "Anthropic",
-      "Dario Amodei"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T13:51:01.000Z"
-  },
-  {
-    "id": "253abaa2ffe0e3ad",
-    "slug": "anthropic-makes-ipo-filing-public-plans-nasdaq-listing-under-ant",
-    "title": "Anthropic Makes IPO Filing Public, Plans Nasdaq Listing Under ‘ANT’",
-    "tags": [
-      "Anthropic",
-      "Securities and Exchange Commission",
-      "Nasdaq"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T13:50:22.000Z"
-  },
-  {
-    "id": "28fcb16be897b89f",
-    "slug": "anthropic-says-rule-breaking-customers-made-up-5-to-7-of-its-2026-revenue",
-    "title": "Anthropic says rule-breaking customers made up 5% to 7% of its 2026 revenue",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T13:45:09.000Z"
-  },
-  {
-    "id": "9be494b2c5599e10",
-    "slug": "barclays-names-anita-tanna-chief-ai-officer",
-    "title": "Barclays names Anita Tanna chief AI officer",
-    "tags": [
-      "Barclays",
-      "Anita Tanna"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T13:38:00.000Z"
-  },
-  {
-    "id": "3ea919f462455d76",
-    "slug": "cadence-unveils-maestro-ai-models-for-chip-design-with-early-access-expected-in-q4-2026",
-    "title": "Cadence unveils Maestro AI models for chip design, with early access expected in Q4 2026",
-    "tags": [
-      "Cadence"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T13:34:19.000Z"
-  },
-  {
-    "id": "08127f8f8572faee",
-    "slug": "bitcoin-hyper-launches-wallet-could-its-testnet-make-early-investors-rich",
-    "title": "Bitcoin Hyper Launches Wallet: Could Its Testnet Make Early Investors Rich?",
-    "tags": [
-      "Bitcoin",
-      "Bitcoin Hyper"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T13:28:12.000Z"
-  },
-  {
-    "id": "4d94c6e4e8925d3d",
-    "slug": "ai-giant-anthropic-files-for-blockbuster-ipo",
-    "title": "AI giant Anthropic files for blockbuster IPO",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T13:22:09.000Z"
-  },
-  {
-    "id": "11188a18d6ef3fcd",
-    "slug": "forum-edge-ai-signs-94-4-million-fireworks-deal-for-nvidia-b300-gpu-capacity",
-    "title": "Forum Edge AI signs $94.4 million Fireworks deal for Nvidia B300 GPU capacity",
-    "tags": [
-      "Forum Edge AI",
-      "Fireworks",
-      "Nvidia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T13:19:55.000Z"
-  },
-  {
-    "id": "7a211044276c01a4",
-    "slug": "uniswap-is-coming-to-elysium-the-high-speed-chain-built-for-hype-trading",
-    "title": "Uniswap is coming to Elysium, the high-speed chain built for HYPE trading",
-    "tags": [
-      "Uniswap",
-      "Elysium",
-      "Uniswap Labs"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T13:16:08.000Z"
-  },
-  {
-    "id": "c30fe5d778f132dc",
-    "title": "Sygnum Bank and Debifi Launch MultiSYG : Bitcoin backed Loans with Shared Multi-Signature Collateral as BTC Tops 80% of Pledged Assets",
-    "summary": "Sygnum Bank and Debifi introduced MultiSYG on 23 October 2026, a regulated Bitcoin-backed lending product that keeps pledged collateral in a dedicated multi-signature wallet rather than under sole bank custody. Keys for each client’s Bitcoin are shared among the borrower, Sygnum Bank, and independent institutional... Read More",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/10/320609-sygnum-bank-and-debifi-launch-multisyg-bitcoin-backed-loans-with-shared-multi-signature-collateral-as-btc-tops-80-of-pledged-assets/",
-    "source": "Crowdfund Insider",
-    "tags": [
-      "Sygnum Bank",
-      "Debifi",
-      "Bitcoin"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-10-26T13:11:02.000Z",
-    "fetchedAt": "2026-10-26T15:01:31.916Z",
-    "isDuplicateOf": null,
-    "content": "Sygnum Bank and Debifi have launched MultiSYG, a regulated Bitcoin-backed lending solution. Announced on October 23, 2026, the product utilizes a shared multi-signature wallet to hold pledged collateral instead of relying on sole bank custody. Keys are distributed among the borrower, Sygnum Bank, and an independent institution, while Bitcoin accounts for over 80 percent of the pledged assets.",
-    "content_ta": "Sygnum Bank மற்றும் Debifi இணைந்து ஒழுங்குபடுத்தப்பட்ட Bitcoin-ஆதரிக்கப்பட்ட கடன் வழங்கும் சேவையான MultiSYG-ஐ அறிமுகப்படுத்தியுள்ளன. அக்டோபர் 23, 2026 அன்று அறிவிக்கப்பட்ட இம்முறையில், அடமானப் பொருட்கள் ஒற்றை வங்கியின் கட்டுப்பாட்டில் இல்லாமல், பகிரப்பட்ட பல-கையொப்ப (multi-signature) வாலட்டில் பாதுகாக்கப்படுகின்றன. இதன் சாவிகள் கடன் வாங்குபவர், Sygnum Bank மற்றும் ஒரு தனிப்பட்ட நிறுவனத்தின் வசம் பகிர்ந்தளிக்கப்படுகின்றன.",
-    "slug": "sygnum-bank-and-debifi-launch-multisyg-bitcoin-backed-loans-with-shared-multi-signature-collateral"
-  },
-  {
-    "id": "2bd3fe9cb93faf8e",
-    "slug": "bitcoin-dips-below-80-000-ahead-of-fed-decision-midterms",
-    "title": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
-    "tags": [
-      "Bitcoin",
-      "Federal Reserve",
-      "HashKey"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T13:02:43.000Z"
-  },
-  {
-    "id": "4cc0f5eafe6485a9",
-    "slug": "david-schwartz-explains-why-banks-should-pick-xrp-over-ethereum-and-solana",
-    "title": "David Schwartz explains why banks should pick XRP over Ethereum and Solana",
-    "tags": [
-      "David Schwartz",
-      "Ripple",
-      "XRP",
-      "Ethereum",
-      "Solana"
-    ],
-    "source": "ZyCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T13:02:21.000Z"
-  },
-  {
-    "id": "77c8e47e2c2d044d",
-    "slug": "brave-plans-rewards-card-as-waitlist-passes-230-000-sign-ups",
-    "title": "Brave plans Rewards Card as waitlist passes 230,000 sign-ups",
-    "tags": [
-      "Brave",
-      "BAT"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T13:00:56.000Z"
-  },
-  {
-    "id": "3a1bed5b1d1f20b2",
-    "slug": "btcpay-s-api-key-fix-is-merged-but-its-latest-release-still-predates-the-patch",
-    "title": "BTCPay’s API key fix is merged, but its latest release still predates the patch",
-    "tags": [
-      "BTCPay"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T13:00:44.000Z"
-  },
-  {
-    "id": "4524b4b804159f9b",
-    "slug": "galaxy-says-bitcoin-bear-market-is-over-now-is-the-time-to-buy-and-hold",
-    "title": "Galaxy says bitcoin bear market is over; now is the time to buy and hold",
-    "tags": [
-      "Galaxy",
-      "Bitcoin"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T13:00:00.000Z"
-  },
-  {
-    "id": "aedaeda2f65b0fc8",
-    "slug": "are-xrp-holders-quietly-accumulating-before-the-fed-the-data-is-mixed",
-    "title": "Are XRP Holders Quietly Accumulating Before the Fed? The Data Is Mixed",
-    "tags": [
-      "XRP",
-      "Binance",
-      "Federal Reserve"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T13:00:00.000Z"
-  },
-  {
-    "id": "10ae1c64d44b832b",
-    "slug": "bitcoin-is-dead-searches-hit-highest-level-since-2022-as-cz-calls-it-a-buying-opportunity",
-    "title": "‘Bitcoin is dead’ searches hit highest level since 2022 as CZ calls it a buying opportunity",
-    "tags": [
-      "Bitcoin",
-      "Binance",
-      "CZ"
-    ],
-    "source": "ZyCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T12:57:17.000Z"
-  },
-  {
-    "id": "e9bce97c526fd85e",
-    "title": "Payment Gateway vs. Payment Processor vs. Acquirer: Where Each Layer Ends",
-    "summary": "Ask three payment teams where a gateway ends and a processor begins, and you will probably get three different answers. The industry's own reference points don't settle it: the PCI Security Standards Council glossary lists ‘payment gateway' and 'PSP' as alternative names for a payment processor.\nFor a merchant with one provider and one market, the blur is harmless. At scale, it gets expensive. The payment gateway vs payment processor question is really a question of ownership: who holds the card data, who talks to the card schemes, who moves the money, and who pays when something goes wrong. Each answer points to a different contract, a different cost line, and a different switching cost.\nHere is how we draw those lines at Corefy, where we connect merchants and payment institutions to providers across many markets, and where orchestration fits once the lines are clear.\nThe ownership test: what each layer actually controls\nThe fastest way to place any provider in your stack is to ask what it owns and who it answers to.\n \n\n\n\n\n\nLayer\nWhat it owns\nWho it answers to\nWhat it does not do\nPayment gateway\nSecure capture and transmission of payment data from the checkout\nThe merchant; PCI DSS as a service provider\nMove funds or carry credit risk\nPayment processor\nAuthorization and clearing messages to and from the card schemes\nThe acquirer, which registers it with the schemes\nSign merchants or settle funds in its own name\nAcquiring bank\nThe merchant agreement, settlement, and financial liability\nThe card schemes and their financial regulator\nDecide what happens to a transaction before it arrives\nPayment orchestrator\nRouting logic, data normalization, and reporting across providers\nThe merchant\nHold an acquiring license or absorb chargeback liability\n \nIn practice, these layers rarely arrive separately. A typical PSP contract bundles gateway, processing, and acquiring into one integration, one contract, and one invoice. That is a sensible way to start. The cost shows up later, when you want to change one layer and discover the other two come with it.\n\nPayment gateway vs payment processor: two jobs that usually share a contract\nThe gateway is the merchant-facing end. It receives card data from a checkout page, app, or terminal, encrypts and forwards it. Because it handles cardholder data on someone else's behalf, PCI DSS treats it as a service provider, with the heavier compliance obligations that status carries. A gateway does not move money. You can replace it without touching your settlement arrangements, which makes it the cheapest layer to change.\nThe processor sits one step deeper. It converts the transaction into the message formats the card schemes expect, sends authorization requests, and handles clearing at the end of the day. Its client is usually the acquirer. Visa requires acquirers to register every third-party agent that performs services on their behalf, and the acquirer answers for them.\n\n \nThat relationship defines the processor's risk profile. A processor outage fails transactions, so its risk is operational. But the processor is not the party that pays when a merchant's chargebacks exceed its reserves.\nThe lines blur because vendors span layers: many gateways also process, and many processors sell a gateway. A practical test works regardless of branding: if a provider can fail your transaction but cannot be held financially liable, it sits at the gateway or processor layer.\nThe acquiring bank: where money and liability sit\nThe acquiring bank is the only layer the card schemes define. PCI SSC describes the acquirer as an entity the payment brand designates as an acquirer, bound by that brand's rules on merchant compliance. It signs the merchant agreement, assigns the merchant ID and category code, and settles funds to the merchant's account.\nIt also carries the liability. Visa's Acceptance Risk Standards make the acquirer responsible for overseeing its merchants and third-party agents, and for the losses they incur. Even payment facilitators, which onboard sub-merchants themselves, must partner with an acquirer that meets Visa's requirements. However many intermediaries sit in between, responsibility flows up to a licensed institution.\nThis is also where pricing is set. Interchange flows from the acquirer to the card issuer and, in the EU, is capped at 0.2% for consumer debit and 0.3% for consumer credit transactions. Scheme fees pass through on top. The negotiable part is the acquirer's margin and its appetite for your risk profile. When a merchant says it negotiated better processing fees, it almost always negotiated with an acquiring bank.\nThat makes the acquirer the one layer you cannot abstract away. You can only add more acquirers, and that's where most payment stacks start to strain.\nPayment orchestration vs payment gateway: the layer above the stack\nPayment orchestration vs payment gateway is the comparison I see confused most often, partly because both present to the merchant as a single API. The difference lies in where decisions are made.\nA gateway connects a checkout to one processing path, or to a few paths its owner has chosen. An orchestration layer sits above gateways, processors, and acquiring banks, and connects to many of them on the merchant's terms.\nIn practice, that means it:\ndecides which provider handles each transaction, based on market, currency, card type, cost, or recent approval rates;\nretries soft declines through an alternative route instead of returning a failure to the customer;\nnormalizes response codes, fees, and settlement data from different providers into one format;\ntokenizes card data at its own layer, so stored credentials are not tied to a single provider.\nWhat orchestration does not do matters as much. It holds no acquiring license, takes on no chargeback liability, and replaces none of the merchant agreements you hold with acquiring banks. It works on top of those contracts. We built Corefy on that premise: the merchant keeps its direct provider relationships, and the orchestration layer gives its payment team control over how they are used.\nThe need for that control shows in the data. In our payment maturity study of 672 businesses, 58.5% operate at a fragmented stage, running several providers through separate dashboards, reports, and processes. Single-provider dependency fell to 33.5%, and the clearest maturity signal appears at five or more providers. Connecting providers has become easy. Running them as one system has not.\nThe strongest objection deserves a straight answer. Orchestration adds a layer, an integration, and a vendor. For a merchant in one market with one acquirer and stable approval rates, that cost is hard to justify, and I would tell them so. The calculation changes when a second acquirer arrives, whether for redundancy, local acquiring in a new market, or a better rate. From there, payment routing, reconciliation, and provider comparison become work someone has to do. The only choice is whether it lives in custom code and spreadsheets or in infrastructure built for it.\nMapping your own stack: five questions per provider\nMost payment teams know their providers by brand name. Fewer know which layer each one actually occupies. Run every provider contract through these five questions:\nWhose name is on the merchant agreement? That entity is your acquirer of record, regardless of what the provider calls itself.\nWhich fees are pass-through and which are margin? An interchange++ breakdown shows where your cost sits; a blended rate hides it.\nWho holds your stored card tokens, and can you export them? If migrating customers' cards needs the provider's cooperation, your switching cost is higher than the contract suggests.\nIf approval rates fall in one market, which layer would you change? If the honest answer is 'all of them, because they come as a bundle', the bundle is limiting you.\nWhere does your reconciliation data come from? If each provider sends settlement reports in its own format, someone on your team is doing an orchestrator's job by hand.\nFinal thought\nGateways, processors, and acquiring banks are defined by what they own: data in transit, messages to the schemes, and money together with its liability. Orchestration owns none of these. It owns the decision about which of them handles each payment, and that decision now shapes approval rates, costs, and resilience more than any single provider contract does.\nFor payment leaders, the practical step is to know where each layer in your stack ends and who controls the boundaries between them. If the answer is 'our providers', it is worth revisiting.\n#paymentsDenys KyrychenkoCo-Founder & CEOCorefy26 Oct, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/blog/payments/payment-gateway-vs-payment-processor-vs-acquirer-where-each-layer-ends",
-    "source": "Financial IT",
-    "tags": [
-      "Corefy",
-      "Visa"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-10-26T12:51:30.000Z",
-    "fetchedAt": "2026-10-26T15:01:31.916Z",
-    "isDuplicateOf": null,
-    "content": "Understanding the differences between payment gateways, processors, acquiring banks, and payment orchestrators is crucial for scaling businesses. Each layer dictates specific ownership, compliance, and financial liability. While bundled PSP contracts simplify early-stage operations, relying on a single provider can become expensive and restrictive over time. Properly mapping your payment stack helps control costs, improve approval rates, and reduce provider lock-in as your business expands globally.",
-    "content_ta": "பேமெண்ட் கேட்வேக்கள், ப்ராசசர்கள், அக்வாயரிங் வங்கிகள் மற்றும் பேமெண்ட் ஆர்ட்ஜெஸ்ட்ரேட்டர்கள் ஆகியவற்றுக்கு இடையேயான வித்தியாசங்களைப் புரிந்துகொள்வது வணிக வளர்சிக்கு மிகவும் அவசியமானது. ஒவ்வொரு அடுக்கிலும் குறிப்பிட்ட பொறுப்புகள் மற்றும் சட்டதிட்டங்கள் உள்ளன. பல சேவைகள் ஒன்றாக இணைக்கப்பட்ட ஒப்பந்தங்கள் ஆரம்பத்தில் எளிதாக இருந்தாலும், காலப்போக்கில் அவை அதிக செலவையும் கட்டுப்பாடுகளையும் உருவாக்கும். உங்கள் பேமெண்ட் கட்டமைப்பைச் சரியாக அமைப்பது செலவைக் கட்டுப்படுத்தவும், ஒப்புதல் விகிதங்களை மேம்படுத்தவும் உதவும்.",
-    "slug": "payment-gateway-vs-payment-processor-vs-acquirer-where-each-layer-ends"
-  },
-  {
-    "id": "9f5848cd5db4deb3",
-    "slug": "dogecoin-bulls-zero-in-on-0-081-as-whale-buying-and-a-key-buy-signal-align",
-    "title": "Dogecoin Bulls Zero In on $0.081 as Whale Buying and a Key Buy Signal Align",
-    "tags": [
-      "Dogecoin",
-      "Ali Martinez"
-    ],
-    "source": "ZyCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T12:49:17.000Z"
-  },
-  {
-    "id": "b1aba2775e2f5be5",
-    "title": "Ethereum (ETH) Sheds $54 Billion in Market Value in 3 Weeks Amid Sharp Open Interest Decline",
-    "summary": "Ethereum (ETH) has experienced a notable pullback in recent weeks, with the second-largest cryptocurrency by market capitalization shedding approximately $54 billion in value over a span of less than three weeks. This equates to a decline of roughly 15 percent in ETH’s price, reflecting broader... Read More",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/10/320611-ethereum-eth-sheds-54-billion-in-market-value-in-3-weeks-amid-sharp-open-interest-decline/",
-    "source": "Crowdfund Insider",
-    "tags": [
-      "Ethereum"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-10-26T12:40:44.000Z",
-    "fetchedAt": "2026-10-26T15:01:31.916Z",
-    "isDuplicateOf": null,
-    "content": "Ethereum (ETH) has suffered a significant market downturn, shedding approximately $54 billion in market value over a period of less than three weeks. This represents a decline of about 15 percent in the price of ETH. The drop coincides with a sharp decline in open interest, reflecting a broader bearish trend and reduced momentum for the second-largest cryptocurrency.",
-    "content_ta": "Ethereum (ETH) சந்தையில் பெரும் சரிவை சந்தித்துள்ளது, மூன்று வாரங்களுக்கும் குறைவான காலத்தில் அதன் சந்தை மதிப்பு சுமார் $54 பில்லியன் வரை குறைந்துள்ளது. இது ETH விலையில் கிட்டத்தட்ட 15 சதவீத சரிவைக் குறிக்கிறது. திறந்த வட்டி விகிதத்தில் ஏற்பட்ட கூர்மையான வீழ்ச்சியுடன் இந்த சரிவு இணைந்துள்ளது, இது பரந்த கரடி சந்தை போக்கு மற்றும் இரண்டாவது பெரிய கிரிப்டோகரன்திக்கான குறைந்த வேகத்தை பிரதிபலிக்கிறது.",
-    "slug": "ethereum-eth-sheds-54-billion-in-market-value-in-3-weeks-amid-sharp-open-interest-decline"
-  },
-  {
-    "id": "0d91d39395e92393",
-    "title": "Blockchain Tech and Artificial Intelligence are Merging, Crypto focused Projects are Enabling AI Buildout : Analysis",
-    "summary": "The convergence of blockchain technology and artificial intelligence is accelerating, with decentralized networks increasingly filling critical gaps in the physical and data infrastructure required to scale AI systems. Asset manager Grayscale Investments has identified three crypto projects that are actively supporting this AI buildout, each... Read More",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/10/320607-blockchain-tech-and-artificial-intelligence-are-merging-crypto-focused-projects-are-enabling-ai-buildout-analysis/",
-    "source": "Crowdfund Insider",
-    "tags": [
-      "Grayscale Investments"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-10-26T12:36:36.000Z",
-    "fetchedAt": "2026-10-26T15:01:31.916Z",
-    "isDuplicateOf": null,
-    "content": "The convergence of blockchain technology and artificial intelligence is accelerating, as decentralized networks help address infrastructure gaps needed to scale AI systems. According to an analysis by Grayscale Investments, specific cryptocurrency projects are now actively supporting this critical AI buildout by providing essential physical and data resources, highlighting a growing synergy between the two sectors.",
-    "content_ta": "Blockchain தொழில்நுட்பமும் செயற்கை நுண்ணறிவும் (AI) இணைந்து வருவது வேகமாக அதிகரித்து வருகிறது. AI அமைப்புகளை வளர்க்கத் தேவையான உள்கட்டமைப்பு இடைவெளிகளை நிரப்ப பரவலாக்கப்பட்ட நெட்வொர்க்குகள் உதவுகின்றன. Grayscale Investments நிறுவனத்தின் பகுப்பாய்வின்படி, குறிப்பிட்ட கிரிப்டோகரன்சி திட்டங்கள் இந்த AI உள்கட்டமைப்பு வளர்ச்சிக்குத் தீவிரமாக ஆதரவளித்து வருவதாகத் தெரியவந்துள்ளது.",
-    "slug": "blockchain-tech-and-artificial-intelligence-are-merging-crypto-focused-projects-are-enabling-ai"
-  },
-  {
-    "id": "cbc64fc8ad8b4b8e",
-    "title": "Digital Bank Revolut Introduces Personal Loans in the United Kingdom",
-    "summary": "Digital bank Revolut has begun providing unsecured personal loans to customers in the United Kingdom, marking a key expansion into traditional consumer credit. UK chief executive Francesca Carlesi confirmed the development to Reuters, positioning the company—widely regarded as Europe’s highest-valued startup—to contest a profitable lending... Read More",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/10/320623-digital-bank-revolut-introduces-personal-loans-in-the-united-kingdom/",
-    "source": "Crowdfund Insider",
-    "tags": [
-      "Revolut",
-      "United Kingdom"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-10-26T12:32:46.000Z",
-    "fetchedAt": "2026-10-26T15:01:31.916Z",
-    "isDuplicateOf": null,
-    "content": "Digital bank Revolut has expanded its financial services by introducing unsecured personal loans for customers in the United Kingdom. This launch marks a major strategic move for the prominent European startup as it enters the traditional consumer credit market to compete with established lenders in the region.",
-    "content_ta": "டிஜிட்டல் வங்கியான Revolut, United Kingdom-ல் உள்ள தனது வாடிக்கையாளர்களுக்கு பாதுகாப்பற்ற தனிநபர் கடன்களை வழங்கத் தொடங்கியுள்ளது. இப்பகுதியில் உள்ள பாரம்பரிய கடன் வழங்குநர்களுடன் போட்டியிட இது ஒரு முக்கிய நகர்வாக பார்க்கப்படுகிறது.",
-    "slug": "digital-bank-revolut-introduces-personal-loans-in-the-united-kingdom"
-  },
-  {
-    "id": "67ea30e0e1936614",
-    "slug": "bitcoin-hacking-challenge-finally-falls-as-researcher-proves-critical-php-flaw-is-exploitable",
-    "title": "Bitcoin hacking challenge finally falls as researcher proves critical PHP flaw is exploitable",
-    "tags": [
-      "Bitcoin",
-      "PHP",
-      "CryptoSlate"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T12:30:03.000Z"
-  },
-  {
-    "id": "579e3c69cbab9d44",
-    "slug": "fed-decision-this-week-3-stocks-to-buy-before-wall-street-reacts",
-    "title": "Fed Decision This Week: 3 Stocks to Buy Before Wall Street Reacts",
-    "tags": [
-      "Federal Reserve",
-      "Wall Street"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T12:27:51.000Z"
-  },
-  {
-    "id": "6a889ccbea0c7a3e",
-    "title": "Tech Mahindra and Mastercard team on embedded B2B payments",
-    "summary": "Tech Mahindra (NSE: TECHM), a leading provider of AI-powered digital transformation and technology consulting solutions to enterprises across industries, announced a partnership with Mastercard to help global enterprises modernize B2B payments by embedding secure virtual card and payment capabilities directly into their enterprise resource planning (ERP) and procurement platforms.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/pressarticle/111438/tech-mahindra-and-mastercard-team-on-embedded-b2b-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "tags": [
-      "Tech Mahindra",
-      "Mastercard"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-10-26T12:20:00.000Z",
-    "fetchedAt": "2026-10-26T15:01:31.916Z",
-    "isDuplicateOf": null,
-    "content": "Tech Mahindra has announced a partnership with Mastercard to help global enterprises modernize their B2B payment systems. By integrating secure virtual card and payment capabilities directly into enterprise resource planning and procurement platforms, the collaboration aims to streamline financial transactions and enhance security for businesses worldwide.",
-    "content_ta": "Tech Mahindra நிறுவனம் Mastercard உடன் ஒரு புதிய கூட்டை அறிவித்துள்ளது. உலகளாவிய நிறுவனங்கள் தங்கள் B2B கட்டண முறைகளை நவீனப்படுத்த உதவுவதே இதன் நோக்கமாகும். நிறுவனங்களின் பிணையம் மற்றும் கொள்முதல் தளங்களில் பாதுகாப்பான விர்ச்சுவல் கார்டு மற்றும் கட்டண வசதிகளை நேரடியாக இணைப்பதன் மூலம் நிதிப் பரிவர்த்தனைகளை எளிதாக்க இந்த ஒத்துழைப்பு உதவுகிறது.",
-    "slug": "tech-mahindra-and-mastercard-team-on-embedded-b2b-payments"
-  },
-  {
-    "id": "ed8f1d355a859e2c",
-    "slug": "jio-ipo-today-19-lead-managers-shared-just-196-2-crore-60-less-than-hyundai",
-    "title": "Jio IPO Today: 19 Lead Managers Shared Just ₹196.2 Crore, 60% Less Than Hyundai",
-    "tags": [
-      "Jio",
-      "Hyundai"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T12:17:22.000Z"
-  },
-  {
-    "id": "17f400759dadbdb5",
-    "slug": "morning-minute-bitcoin-breaks-below-80-000-as-iran-fears-hit-the-weekend",
-    "title": "Morning Minute: Bitcoin Breaks Below $80,000 as Iran Fears Hit the Weekend",
-    "tags": [
-      "Bitcoin",
-      "Iran"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T12:16:12.000Z"
-  },
-  {
-    "id": "f0ef95cb5d8bb7f3",
-    "slug": "strive-makes-largest-ever-bitcoin-purchase-with-6-182-btc-buy",
-    "title": "Strive Makes Largest-Ever Bitcoin Purchase With 6,182 BTC Buy",
-    "tags": [
-      "Strive",
-      "Bitcoin",
-      "Semler Scientific"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T12:12:35.000Z"
-  },
-  {
-    "id": "20b7cf72ac8e87d4",
-    "slug": "satoshi-s-most-underrated-bitcoin-innovation-has-litecoin-dogecoin-in-it",
-    "title": "Satoshi's 'Most Underrated' Bitcoin Innovation Has Litecoin, Dogecoin in It",
-    "tags": [
-      "Bitcoin",
-      "Litecoin",
-      "Dogecoin",
-      "Zcash",
-      "Satoshi Nakamoto"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T12:10:47.000Z"
-  },
-  {
-    "id": "b00b4c3ad626298f",
-    "slug": "altcoin-season-2026-will-solana-sui-and-render-lead-a-20-crypto-rebound-this-week",
-    "title": "Altcoin Season 2026: Will Solana, SUI And Render Lead A 20% Crypto Rebound This Week?",
-    "tags": [
-      "Bitcoin",
-      "Solana",
-      "SUI",
-      "Render"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T12:10:41.000Z"
-  },
-  {
-    "id": "b3c47b1c9d1bf79e",
-    "slug": "hyperliquid-s-95-high-to-76-low-a-whale-deposit-deepens-hype-s-bearish-case",
-    "title": "Hyperliquid’s $95 high to $76 low: A whale deposit deepens HYPE’s bearish case",
-    "tags": [
-      "Hyperliquid",
-      "Coinbase",
-      "HYPE"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T12:00:52.000Z"
-  },
-  {
-    "id": "53f4e52ea62a5306",
-    "slug": "bitcoin-price-rebounds-again-peter-schiff-repeats-his-crash-warnings",
-    "title": "Bitcoin Price Rebounds Again, Peter Schiff Repeats His Crash Warnings",
-    "tags": [
-      "Bitcoin",
-      "Peter Schiff"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T11:58:16.000Z"
-  },
-  {
-    "id": "c08810cd76a371ca",
-    "slug": "derive-options-traders-pile-into-bitcoin-calls-ahead-of-us-midterm-elections",
-    "title": "Derive options traders pile into Bitcoin calls ahead of US midterm elections",
-    "tags": [
-      "Bitcoin",
-      "Derive",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T11:58:09.000Z"
-  },
-  {
-    "id": "d94ccf93dbc4e2b6",
-    "slug": "a-68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-90-000",
-    "title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T11:53:07.000Z"
-  },
-  {
-    "id": "64b76df050dea760",
-    "slug": "xrp-ledger-payment-volume-soars-2-633-what-s-the-drive",
-    "title": "XRP Ledger Payment Volume Soars 2,633%: What's the Drive?",
-    "tags": [
-      "XRP Ledger",
-      "XRP"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T11:42:30.000Z"
-  },
-  {
-    "id": "505d8e4d5778b20b",
-    "slug": "anthropic-to-release-s-1-ipo-filing-at-9-am-est",
-    "title": "Anthropic to release S-1 IPO filing at 9 AM EST",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T11:38:50.000Z"
-  },
-  {
-    "id": "ba51c1112365fa7d",
-    "slug": "jasmycoin-price-prediction-2026-2027-2030-is-jasmy-a-good-long-term-investment",
-    "title": "JasmyCoin Price Prediction 2026, 2027 – 2030: Is JASMY a Good Long-Term Investment?",
-    "tags": [
-      "JasmyCoin"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T11:38:00.000Z"
-  },
-  {
-    "id": "a3abf9f46701a73c",
-    "slug": "tesla-stock-surges-as-barclays-turns-bullish-here-s-the-details",
-    "title": "Tesla Stock Surges as Barclays Turns Bullish: Here’s the Details",
-    "tags": [
-      "Tesla",
-      "Barclays",
-      "SpaceX"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T11:37:09.000Z"
-  },
-  {
-    "id": "03f10c5302d49fce",
-    "slug": "xt-exchange-putting-idle-assets-to-work-without-losing-sight-of-their-next-use",
-    "title": "XT Exchange: Putting Idle Assets to Work Without Losing Sight of Their Next Use",
-    "tags": [
-      "XT Exchange",
-      "XT Earn"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T11:30:00.000Z"
   }
 ]
