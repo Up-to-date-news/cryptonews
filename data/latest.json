@@ -1,79 +1,381 @@
 [
   {
-    "id": "426d070133c3ed79",
-    "title": "MetaMask offers Anthropic pre-IPO perpetual contracts via Hyperliquid",
-    "summary": "The introduction of pre-IPO contracts for Anthropic may boost market engagement and liquidity, influencing perceptions of its future valuation.\nThe post MetaMask offers Anthropic pre-IPO perpetual contracts via Hyperliquid appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/metamask-offers-anthropic-pre-ipo-perpetual-contracts-via-hyperliquid/",
+    "id": "b29e559ff5fe6cc6",
+    "slug": "south-korea-arrests-seven-in-first-big-ai-assisted-hacking-case",
+    "title": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
+    "tags": [
+      "South Korea",
+      "Seoul"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T20:06:02.000Z"
+  },
+  {
+    "id": "3160d03c82b72333",
+    "slug": "bnb-chain-leads-all-blockchains-in-tokenized-fund-growth-adding-3-7-billion",
+    "title": "BNB Chain leads all blockchains in tokenized fund growth, adding $3.7 billion",
+    "tags": [
+      "BNB Chain"
+    ],
     "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T20:05:57.000Z"
+  },
+  {
+    "id": "dbf24c64e70685b7",
+    "slug": "franklin-templeton-registers-bitcoin-etfs-that-put-dividends-to-work",
+    "title": "Franklin Templeton registers Bitcoin ETFs that put dividends to work",
+    "tags": [
+      "Franklin Templeton",
+      "Bitcoin"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T20:00:46.000Z"
+  },
+  {
+    "id": "f1f0ab8d42ae0607",
+    "slug": "solana-s-next-latency-idea-has-a-geographic-trade-off-validators-cannot-ignore",
+    "title": "Solana’s Next Latency Idea Has a Geographic Trade-Off Validators Cannot Ignore",
+    "tags": [
+      "Solana"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T20:00:00.000Z"
+  },
+  {
+    "id": "688814f10c574e95",
+    "slug": "benson-leads-james-by-12-4-points-in-michigan-governor-race-msu-poll",
+    "title": "Benson leads James by 12.4 points in Michigan governor race: MSU poll",
+    "tags": [
+      "Benson",
+      "James",
+      "Michigan",
+      "MSU"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T19:58:53.000Z"
+  },
+  {
+    "id": "88b0ef9ae9543fb8",
+    "title": "Fed’s Debit Card Swipe Fee Rule Quashed By Appeals Court",
+    "summary": "A federal appeals court has upheld a lower court ruling striking down the Federal Reserve’s 21-cent cap on debit card interchange fees. This latest decision was handed down Monday (Oct. 26) by a three-judge panel of the 8th U.S. Circuit Court of Appeals, affirming a ruling last year that vacated the cap. The decision stems […]\nThe post Fed’s Debit Card Swipe Fee Rule Quashed By Appeals Court appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/legal/2026/feds-debit-card-swipe-fee-rule-quashed-by-appeals-court/",
+    "source": "PYMNTS",
+    "tags": [
+      "Federal Reserve",
+      "8th U.S. Circuit Court of Appeals",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-26T19:56:49.000Z",
+    "fetchedAt": "2026-10-26T20:12:33.999Z",
+    "isDuplicateOf": null,
+    "content": "A federal appeals court has upheld a lower court ruling striking down the Federal Reserve’s debit card interchange fee cap. The decision was handed down by a three-judge panel of the 8th U.S. Circuit Court of Appeals, affirming a previous ruling that vacated the fee limit. This legal development impacts financial regulations surrounding debit card swipe fees.",
+    "content_ta": "பெடரல் ரிசர்வ் அமைப்பின் டெபிட் கார்டு பரிமாற்ற கட்டண வரம்பை ரத்து செய்த கீழமை நீதிமன்றத்தின் தீர்ப்பை மேல்முறையீட்டு நீதிமன்றம் உறுதி செய்துள்ளது. 8வது U.S. சர்க்யூட் கோர்ட் ஆஃப் அப்பீல்ஸின் மூன்று நீதிபதிகள் கொண்ட அமர்வு இந்த தீர்ப்பை வழங்கியுள்ளது. இந்த சட்டப்பூர்வ நடவடிக்கை டெபிட் கார்டு ஸ்வைப் கட்டணங்கள் தொடர்பான நிதி ஒழுங்குமுறைகளை பாதிக்கிறது.",
+    "slug": "fed-s-debit-card-swipe-fee-rule-quashed-by-appeals-court"
+  },
+  {
+    "id": "a2fee44371a5e8e3",
+    "slug": "ai-bubble-bursts-in-china-wiping-480-billion-is-america-next",
+    "title": "AI Bubble Bursts in China, Wiping $480 Billion: Is America Next?",
+    "tags": [
+      "China",
+      "United States",
+      "Microsoft",
+      "Alphabet",
+      "Amazon"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T19:56:30.000Z"
+  },
+  {
+    "id": "92b6ce51d3dfd6f0",
+    "slug": "amd-heads-into-earnings-as-cracks-spread-across-the-ai-trade",
+    "title": "AMD heads into earnings as cracks spread across the AI trade",
+    "tags": [
+      "AMD"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T19:47:47.000Z"
+  },
+  {
+    "id": "0e20d373c87c293d",
+    "slug": "canada-opens-consultation-on-stablecoins-citing-us-genius-act",
+    "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
+    "tags": [
+      "Canada",
+      "United States"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T19:47:40.000Z"
+  },
+  {
+    "id": "04358e59abc2be05",
+    "slug": "cz-pitches-bnb-chain-s-role-in-ai-as-bnb-standard-rings-nasdaq-bell",
+    "title": "CZ pitches BNB Chain’s role in AI as BNB Standard rings Nasdaq bell",
+    "tags": [
+      "BNB Chain",
+      "BNB Standard",
+      "Nasdaq"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T19:43:47.000Z"
+  },
+  {
+    "id": "3285971dfbab1b4a",
+    "slug": "openai-s-agent-leads-say-user-interfaces-aren-t-going-anywhere",
+    "title": "OpenAI’s agent leads say user interfaces aren’t going anywhere",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T19:36:03.000Z"
+  },
+  {
+    "id": "468898e8ac005b2b",
+    "slug": "bitcoin-s-80k-consolidation-could-end-within-days-as-macro-events-approach-arp-digital-says",
+    "title": "Bitcoin’s $80K consolidation could end within days as macro events approach, ARP Digital says",
+    "tags": [
+      "Bitcoin",
+      "ARP Digital"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T19:35:53.000Z"
+  },
+  {
+    "id": "ba94c1bf2792638a",
+    "slug": "anthropic-paused-frontier-model-training-over-security-fears-ipo-filing-shows",
+    "title": "Anthropic paused frontier model training over security fears, IPO filing shows",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T19:34:54.000Z"
+  },
+  {
+    "id": "a7d3d5aa8919bc08",
+    "title": "Hacker Drains Nearly $1,000,000 in SOL From Solana Trading Bot Users in 94 Seconds",
+    "summary": "A hacker has drained about 9,408 SOL, worth nearly $1 million, from 49 wallets belonging to nine users of the Bloom Telegram trading bot. Bloom says it will fully repay the losses.\nThe post Hacker Drains Nearly $1,000,000 in SOL From Solana Trading Bot Users in 94 Seconds appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/10/26/hacker-drains-nearly-1000000-in-sol-from-solana-trading-bot-users-in-94-seconds/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "Bloom",
+      "Solana",
+      "SOL"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-26T19:33:38.000Z",
+    "fetchedAt": "2026-10-26T20:12:33.999Z",
+    "isDuplicateOf": null,
+    "content": "A hacker stole nearly $1 million worth of SOL in just 94 seconds from multiple wallets linked to users of the Bloom Telegram trading bot. Approximately 9,408 SOL was drained across nearly 50 wallets belonging to nine affected users. Following the security breach, the Bloom team announced plans to fully reimburse all the users who suffered losses in the exploit.",
+    "content_ta": "Bloom Telegram trading bot-ஐப் பயன்படுத்திய பயனர்களின் வாலெட்டுகளில் இருந்து ஹேக்கர் ஒருவர் வெறும் 94 விநாடிகளுக்குள் கிட்டத்தட்ட $1 மில்லியன் மதிப்புள்ள SOL-ஐத் திருடிவிட்டார். பாதிக்கப்பட்ட ஒன்பது பயனர்களின் சுமார்ட் 50 வாலெட்டுகளில் இருந்து சுமார் 9,408 SOL கொள்ளையடிக்கப்பட்டது. இந்த பாதுகாப்பு மீறலைத் தொடர்ந்து, பாதிக்கப்பட்ட பயனர்களின் இழப்புகளை முழுமையாக ஈடுசெய்வதாக Bloom நிறுவனம் அறிவித்துள்ளது.",
+    "slug": "hacker-drains-nearly-1-000-000-in-sol-from-solana-trading-bot-users-in-94-seconds"
+  },
+  {
+    "id": "1d91c08db1f02bea",
+    "slug": "cathedral-ai-agents-find-access-paths-into-anthropic-systems-in-under-12-hours",
+    "title": "Cathedral AI agents find access paths into Anthropic systems in under 12 hours",
+    "tags": [
+      "Cathedral",
+      "Anthropic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T19:33:30.000Z"
+  },
+  {
+    "id": "1456f9d2a75f03e4",
+    "slug": "ai-agents-found-a-way-into-anthropic-s-business-systems-in-under-12-hours",
+    "title": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T19:31:02.000Z"
+  },
+  {
+    "id": "58ec82611d03d13d",
+    "slug": "bitcoin-creator-satoshi-nakamoto-praised-by-billionaire-tim-draper",
+    "title": "Bitcoin Creator Satoshi Nakamoto Praised by Billionaire Tim Draper",
+    "tags": [
+      "Bitcoin",
+      "Satoshi Nakamoto",
+      "Tim Draper"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T19:25:47.000Z"
+  },
+  {
+    "id": "7346425b4e0150ec",
+    "slug": "tsmc-reportedly-weighs-cowos-price-hikes-of-up-to-20-as-ai-packaging-stays-scarce",
+    "title": "TSMC reportedly weighs CoWoS price hikes of up to 20% as AI packaging stays scarce",
+    "tags": [
+      "TSMC"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T19:22:11.000Z"
+  },
+  {
+    "id": "397383d9934f502c",
+    "slug": "americans-pay-more-for-gas-in-trump-s-second-term-than-under-biden-aaa",
+    "title": "Americans pay more for gas in Trump’s second term than under Biden: AAA",
+    "tags": [
+      "Donald Trump",
+      "Joe Biden",
+      "AAA",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T19:18:39.000Z"
+  },
+  {
+    "id": "074e8ae6b373f701",
+    "slug": "senate-democrats-to-investigate-trump-s-oil-profits-amid-rising-gas-prices",
+    "title": "Senate Democrats to investigate Trump’s oil profits amid rising gas prices",
+    "tags": [
+      "Senate"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T19:13:32.000Z"
+  },
+  {
+    "id": "369de6a4e9dc2024",
+    "title": "Amex Publishes Intent-Authentication Framework for AI Agent Payments",
+    "summary": "American Express has detailed how it will capture and authenticate customer instructions to AI agents before a payment is made, shifting liability to intent records.\nThe post Amex Publishes Intent-Authentication Framework for AI Agent Payments appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/amex-publishes-intent-authentication-framework-for-ai-agent-payments/",
+    "source": "The Fintech Times",
+    "tags": [
+      "American Express"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-26T19:01:20.000Z",
+    "fetchedAt": "2026-10-26T20:12:33.999Z",
+    "isDuplicateOf": null,
+    "content": "American Express has introduced a new intent-authentication framework designed for AI agent payments. The system outlines how customer instructions will be captured and verified before any transaction is completed. This approach shifts liability to established intent records, providing a secure method for managing automated financial interactions and ensuring proper authorization as artificial intelligence plays a growing role in commerce.",
+    "content_ta": "AI ஏஜென்ட் பேமெண்ட்களுக்காக புதிய இன்டென்ட்-ஆத்தெண்டிகேஷன் ஃபிரேம்வொர்க்கை Amex வெளியிட்டுள்ளது. எந்தவொரு பரிவர்த்தனையும் நிறைவடைவதற்கு முன்பாக வாடிக்கையாளர்களின் அறிவுறுத்தல்களைப் பதிவு செய்து சரிபார்ப்பது எப்படி என்பதை இந்த முறை விளக்குகிறது. செயற்கை நுண்ணறிவு வணிகத்தில் முக்கிய பங்கு வகிக்கும் வேளையில், பாதுகாப்பான முறையில் பரிவர்த்தனைகளை நிர்வகிக்க இந்த அமைப்பு உதவுகிறது.",
+    "slug": "amex-publishes-intent-authentication-framework-for-ai-agent-payments"
+  },
+  {
+    "id": "02356d82dd5bf2b9",
+    "title": "RedotPay Targets $5 Billion Valuation in Crypto IPO",
+    "summary": "Cryptocurrency company RedotPay is considering filing for a confidential initial public offering in the United States by the year’s end, Bloomberg reported Monday (Oct. 26). Hong Kong-based RedotPay, which offers physical and virtual cards for crypto transactions, has been in deliberations and regulatory troubles for months, according to the report, which cited unnamed sources. It […]\nThe post RedotPay Targets $5 Billion Valuation in Crypto IPO appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/news/investment-tracker/ipo/2026/redotpay-targets-5-billion-dollar-valuation-cryptocurrency-ipo/",
+    "source": "PYMNTS",
+    "tags": [
+      "RedotPay",
+      "United States",
+      "Hong Kong"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-26T19:00:03.000Z",
+    "fetchedAt": "2026-10-26T20:12:33.999Z",
+    "isDuplicateOf": null,
+    "content": "Cryptocurrency company RedotPay is reportedly considering a confidential initial public offering in the United States by the end of the year. The Hong Kong-based firm, which provides cards for crypto transactions, is targeting a valuation of $5 billion. The potential IPO plans come amid ongoing regulatory discussions.",
+    "content_ta": "கிரிப்டோகரன்சி நிறுவனமான RedotPay இந்த ஆண்டின் இறுதிக்குள் United States-ல் இரகசியமான முறையில் பங்குச் சந்தை வெளியீட்டிற்கு (IPO) திட்டமிட்டுள்ளதாகத் தகவல்கள் வெளியாகியுள்ளன. கிரிப்டோ பரிவர்த்தனைகளுக்கான கார்டுகளை வழங்கும் Hong Kong-ஐ தளமாகக் கொண்ட இந்நிறுவனம், $5 பில்லியன் மதிப்பீட்டை இலக்காகக் கொண்டுள்ளது. இந்த சாத்தியமான IPO திட்டம் ஒழுங்குமுறை விவாதங்களுக்கு மத்தியில் வந்துள்ளது.",
+    "slug": "redotpay-targets-5-billion-valuation-in-crypto-ipo"
+  },
+  {
+    "id": "c97cc700e03c5f8b",
+    "slug": "tokenised-us-stock-venues-must-give-30-days-public-notice-sec-clarifies",
+    "title": "Tokenised US Stock Venues Must Give 30 Days’ Public Notice, SEC Clarifies",
+    "tags": [
+      "SEC",
+      "United States"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T19:00:00.000Z"
+  },
+  {
+    "id": "426d070133c3ed79",
+    "slug": "metamask-offers-anthropic-pre-ipo-perpetual-contracts-via-hyperliquid",
+    "title": "MetaMask offers Anthropic pre-IPO perpetual contracts via Hyperliquid",
     "tags": [
       "MetaMask",
       "Anthropic",
       "Hyperliquid"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-26T18:32:14.000Z",
-    "fetchedAt": "2026-10-26T18:48:08.497Z",
-    "isDuplicateOf": null,
-    "content": "MetaMask now offers pre-IPO perpetual contracts for Anthropic through Hyperliquid. This new integration allows users to trade contracts related to the company before its official public offering. Market analysts suggest this development could increase liquidity and shape early expectations regarding the valuation of Anthropic, as digital asset platforms expand their offerings to include pre-IPO equity derivatives.",
-    "content_ta": "Hyperliquid மூலம் Anthropic நிறுவனத்தின் pre-IPO perpetual காண்டிராக்ட்களை MetaMask தற்போது வழங்குகிறது. இந்த புதிய ஒருங்கிணைப்பு மூலம் பயனர்கள் அதிகாரப்பூர்வ பொதுப் பங்கு வெளியீட்டிற்கு முன்பே வர்த்தகம் செய்ய முடியும். டிஜிட்டல் சொத்து தளங்கள் pre-IPO ஈக்விட்டி டெரிவேட்டிவ்களை உள்ளடக்கியதாக தங்கள் சேவைகளை விரிவுபடுத்துவதால், இந்த வளர்ச்சி சந்தை ஈடுதலை அதிகரிக்கும் என்று சந்தை ஆய்வாளர்கள் கருதுகின்றனர்.",
-    "slug": "metamask-offers-anthropic-pre-ipo-perpetual-contracts-via-hyperliquid"
+    "hasContent": true,
+    "pubDate": "2026-10-26T18:32:14.000Z"
   },
   {
     "id": "87b69f65add9f7e3",
+    "slug": "google-deepmind-study-finds-llms-can-t-reliably-roll-their-own-dice",
     "title": "Google DeepMind study finds LLMs can’t reliably roll their own dice",
-    "summary": "The inability of LLMs to generate true randomness poses security risks, necessitating external random inputs for reliable AI decision-making.\nThe post Google DeepMind study finds LLMs can’t reliably roll their own dice appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/google-deepmind-llms-random-sampling-flaws/",
-    "source": "CryptoBriefing",
     "tags": [
       "Google DeepMind"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-26T18:28:55.000Z",
-    "fetchedAt": "2026-10-26T18:48:08.497Z",
-    "isDuplicateOf": null,
-    "content": "A new study by Google DeepMind reveals that large language models struggle to generate true randomness when attempting to roll virtual dice. This limitation in producing reliable random numbers creates potential security risks for artificial intelligence systems. Researchers emphasize that these models require external random inputs to ensure safe and dependable decision-making in various applications.",
-    "content_ta": "Google DeepMind நடத்திய புதிய ஆய்வில், பெரிய மொழி மாதிரிகளால் (LLMs) தாங்களாகவே நம்பகமான முறையில் சீரற்ற தன்மையை (randomness) உருவாக்க முடியவில்லை என்பது தெரியவந்துள்ளது. முறையான சீரற்ற எண்களை உருவாக்க முடியாத இந்த குறைபாடு, செயற்கை நுண்ணறிவு அமைப்புகளுக்கு பாதுகாப்பு அபாயங்களை ஏற்படுத்துகிறது. பாதுகாப்பான முடிவெடுப்பதற்கு இந்த அமைப்புகளுக்கு வெளிப்புற சீரற்ற உள்ளீடுகள் தேவைப்படுவதாக ஆராய்ச்சியாளர்கள் வலியுறுத்துகின்றனர்.",
-    "slug": "google-deepmind-study-finds-llms-can-t-reliably-roll-their-own-dice"
+    "hasContent": true,
+    "pubDate": "2026-10-26T18:28:55.000Z"
   },
   {
     "id": "fe55a26b59705b17",
+    "slug": "sofi-s-tokenized-deposits-put-banks-in-competition-with-stablecoins-truth-ventures-ceo-says",
     "title": "SoFi’s tokenized deposits put banks in competition with stablecoins, Truth Ventures CEO says",
-    "summary": "SoFi's tokenized deposits may drive innovation in banking, challenging stablecoins and prompting regulatory and consumer protection considerations.\nThe post SoFi’s tokenized deposits put banks in competition with stablecoins, Truth Ventures CEO says appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/tokenized-deposits-competition-banks-stablecoins/",
-    "source": "CryptoBriefing",
     "tags": [
       "SoFi",
       "Truth Ventures"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-26T18:26:58.000Z",
-    "fetchedAt": "2026-10-26T18:48:08.497Z",
-    "isDuplicateOf": null,
-    "content": "SoFi's introduction of tokenized deposits is positioning traditional banking institutions in direct competition with stablecoins, according to the CEO of Truth Ventures. This development could spark new innovation across the financial sector while highlighting important considerations regarding regulatory frameworks and consumer protection as digital assets evolve.",
-    "content_ta": "SoFi-ன் tokenized deposits நடைமுறை பாரம்பரிய வங்கித்துறையை stablecoins-களுடன் நேரடிப் போட்டியில் ஈடுபடுத்துவதாக Truth Ventures-ன் CEO தெரிவித்துள்ளார். டிஜிட்டல் சொத்துக்கள் வளர்ச்சியடைந்து வரும் நிலையில், இந்த நகர்வு நிதித்துறையில் புதிய மாற்றங்களை உருவாக்குவதோடு, ஒழுங்குமுறை மற்றும் நுகர்வோர் பாதுகாப்பு குறித்த முக்கிய விவாதங்களையும் தூண்டக்கூடும்.",
-    "slug": "sofi-s-tokenized-deposits-put-banks-in-competition-with-stablecoins-truth-ventures-ceo-says"
+    "hasContent": true,
+    "pubDate": "2026-10-26T18:26:58.000Z"
   },
   {
     "id": "86cb87f332ee9633",
+    "slug": "openai-puts-gpt-6-1-terra-into-agent-arena-and-code-arena-for-public-testing",
     "title": "OpenAI puts GPT-6.1 Terra into Agent Arena and Code Arena for public testing",
-    "summary": "Public testing of GPT-6.1 Terra could redefine AI evaluation standards, offering insights into real-world applicability and cost efficiency.\nThe post OpenAI puts GPT-6.1 Terra into Agent Arena and Code Arena for public testing appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/openai-gpt-6-1-terra-agent-arena/",
-    "source": "CryptoBriefing",
     "tags": [
       "OpenAI",
       "GPT-6.1 Terra"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-26T18:21:18.000Z",
-    "fetchedAt": "2026-10-26T18:48:08.497Z",
-    "isDuplicateOf": null,
-    "content": "OpenAI has introduced GPT-6.1 Terra into the Agent Arena and Code Arena for public testing. This testing phase aims to evaluate the AI model's performance, real-world applicability, and cost efficiency, potentially setting new standards for artificial intelligence evaluation in the industry.",
-    "content_ta": "OpenAI நிறுவனத்தின் புதிய GPT-6.1 Terra மாடல் Agent Arena மற்றும் Code Arena-வில் பொதுமக்கள் சோதனைக்காக அறிமுகப்படுத்தப்பட்டுள்ளது. இந்தச் சோதனை மூலம் AI-ன் உண்மையான பயன்பாட்டுத் திறன் மற்றும் செயல்திறனை மதிப்பிட முடியும் என எதிர்பார்க்கப்படுகிறது.",
-    "slug": "openai-puts-gpt-6-1-terra-into-agent-arena-and-code-arena-for-public-testing"
+    "hasContent": true,
+    "pubDate": "2026-10-26T18:21:18.000Z"
   },
   {
     "id": "95a01b27abc76562",
@@ -507,308 +809,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-26T16:30:34.000Z"
-  },
-  {
-    "id": "bfb1dfeaccd6b7c1",
-    "slug": "who-owns-dogecoin-doge-controversial-corporate-merger-splits-community",
-    "title": "Who Owns Dogecoin (DOGE)? Controversial Corporate Merger Splits Community",
-    "tags": [
-      "Dogecoin"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T16:30:05.000Z"
-  },
-  {
-    "id": "9014962f90669fad",
-    "slug": "centrifuge-hires-johnny-reinsch-to-lead-its-digital-transfer-agency-push",
-    "title": "Centrifuge hires Johnny Reinsch to lead its digital transfer agency push",
-    "tags": [
-      "Centrifuge",
-      "Johnny Reinsch",
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T16:29:38.000Z"
-  },
-  {
-    "id": "e6147dbf3f2f20d1",
-    "slug": "anthropic-ipo-live-7-people-will-control-voting-power",
-    "title": "Anthropic IPO Live: 7 people will control voting power",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "Protos",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T16:25:00.000Z"
-  },
-  {
-    "id": "a95b93317241fd54",
-    "slug": "whop-announces-funding-round-at-5-1b-valuation-led-by-sequoia-and-shopify-ventures",
-    "title": "Whop Announces Funding Round at $5.1B Valuation, Led by Sequoia and Shopify Ventures",
-    "tags": [
-      "Whop",
-      "Sequoia",
-      "Shopify Ventures",
-      "Tether",
-      "United States"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T16:21:12.000Z"
-  },
-  {
-    "id": "2583b76760aab19a",
-    "slug": "warren-urges-fed-occ-fdic-to-restore-bank-examiner-powers",
-    "title": "Warren urges Fed, OCC, FDIC to restore bank examiner powers",
-    "tags": [
-      "Federal Reserve",
-      "Office of the Comptroller of the Currency",
-      "Federal Deposit Insurance Corporation"
-    ],
-    "source": "Banking Dive",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T16:17:35.000Z"
-  },
-  {
-    "id": "34be88852a0e663c",
-    "slug": "coinbase-opens-spot-trading-for-ritual-s-ritual-token",
-    "title": "Coinbase opens spot trading for Ritual’s RITUAL token",
-    "tags": [
-      "Coinbase",
-      "Ritual"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T16:14:42.000Z"
-  },
-  {
-    "id": "6540b45f62fe14a4",
-    "slug": "openai-s-roon-says-codex-has-no-reverse-engineering-ban-accidental-blocks-being-fixed",
-    "title": "OpenAI’s Roon says Codex has no reverse engineering ban, accidental blocks being fixed",
-    "tags": [
-      "OpenAI",
-      "Codex"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T16:10:19.000Z"
-  },
-  {
-    "id": "fd446635381a8eec",
-    "slug": "jason-furman-says-he-would-pick-ai-over-a-staff-of-economists-at-the-cea",
-    "title": "Jason Furman says he would pick AI over a staff of economists at the CEA",
-    "tags": [
-      "Jason Furman",
-      "CEA"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T16:09:38.000Z"
-  },
-  {
-    "id": "7624ecf9c1aa35f8",
-    "slug": "xt-exchange-from-following-hyperliquid-traders-to-copying-their-strategies",
-    "title": "XT Exchange: From Following Hyperliquid Traders to Copying Their Strategies",
-    "tags": [
-      "XT Exchange",
-      "Hyperliquid"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T16:07:56.000Z"
-  },
-  {
-    "id": "277fecaee59336f0",
-    "slug": "tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
-    "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
-    "tags": [
-      "Tom Lee",
-      "Bitmine",
-      "Ether"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T16:05:12.000Z"
-  },
-  {
-    "id": "b6c0ef66e49bc193",
-    "slug": "brazil-s-stock-market-crashes-after-lula-s-upset-victory",
-    "title": "Brazil’s Stock Market Crashes After Lula’s Upset Victory",
-    "tags": [
-      "Brazil",
-      "Luiz Inácio Lula da Silva",
-      "Flávio Bolsonaro"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T16:04:51.000Z"
-  },
-  {
-    "id": "5d355197f85cecdb",
-    "slug": "quack-ai-q-falls-28-before-241m-token-unlock-can-this-hold",
-    "title": "Quack AI [Q] falls 28% before 241M token unlock – Can THIS hold?",
-    "tags": [
-      "Quack AI"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T16:00:35.000Z"
-  },
-  {
-    "id": "f6e9d5025349d94c",
-    "slug": "treasury-dealers-net-bill-holdings-hit-a-two-year-high-as-october-30-funding-pressure-nears",
-    "title": "Treasury dealers’ net bill holdings hit a two-year high as October 30 funding pressure nears",
-    "tags": [
-      "FHLBNY",
-      "Bitcoin"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T16:00:30.000Z"
-  },
-  {
-    "id": "c26591588185c924",
-    "slug": "justin-sun-prize-partners-with-mathdb-led-by-caltech-professor-tony-yue-yu-on-50-problem-pilot-2026-10-26",
-    "title": "Justin Sun Prize Partners With MathDB, Led by Caltech Professor Tony Yue Yu, on 50-Problem Pilot",
-    "tags": [
-      "Justin Sun",
-      "MathDB",
-      "Caltech",
-      "Tony Yue Yu"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T16:00:00.000Z"
-  },
-  {
-    "id": "c7fca40de3a80e48",
-    "slug": "nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
-    "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
-    "tags": [
-      "NBA",
-      "NFL",
-      "CFTC",
-      "Kalshi",
-      "Polymarket"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T15:59:55.000Z"
-  },
-  {
-    "id": "3282ff230b52ba4c",
-    "slug": "polymarket-us-logs-record-74-million-trades-in-october",
-    "title": "Polymarket US logs record 74 million trades in October",
-    "tags": [
-      "Polymarket"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T15:59:40.000Z"
-  },
-  {
-    "id": "1b29b96532d86f19",
-    "slug": "kalshi-strikes-deal-with-s-p-dow-jones-indices-to-expand-financial-event-contracts",
-    "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
-    "tags": [
-      "Kalshi",
-      "S&P Dow Jones Indices",
-      "Wall Street"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T15:54:15.000Z"
-  },
-  {
-    "id": "de7bf5001100259c",
-    "slug": "anthropic-s-public-ipo-filing-shows-a-266-billion-cloud-risk",
-    "title": "Anthropic’s Public IPO Filing Shows a $266 Billion Cloud Risk",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T15:51:51.000Z"
-  },
-  {
-    "id": "5eba59b186bec255",
-    "slug": "occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
-    "title": "OCC calls on community banks to enter the stablecoin payments market",
-    "tags": [
-      "OCC",
-      "United States"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T15:45:51.000Z"
-  },
-  {
-    "id": "06ad3ba1e45fb5bc",
-    "slug": "dogeos-taps-redstone-to-provide-oracle-data-for-dogecoin-defi-applications",
-    "title": "DogeOS taps RedStone to provide oracle data for Dogecoin DeFi applications",
-    "tags": [
-      "DogeOS",
-      "RedStone",
-      "Dogecoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T15:45:16.000Z"
-  },
-  {
-    "id": "fdb15f54077c0587",
-    "slug": "anthropic-plans-early-share-sales-post-ipo-for-liquidity-boost",
-    "title": "Anthropic plans early share sales post-IPO for liquidity boost",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T15:00:48.000Z"
-  },
-  {
-    "id": "2695789c126bf716",
-    "slug": "cz-s-comment-puts-bnb-back-on-the-radar-social-volume-hits-weekly-highs",
-    "title": "CZ’s comment puts BNB back on the radar – Social volume hits weekly highs",
-    "tags": [],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-10-26T15:00:38.000Z"
-  },
-  {
-    "id": "ead43544ebaf5304",
-    "slug": "privacy-horror-researcher-uncovers-extent-of-samsung-smart-tv-user-tracking",
-    "title": "'Privacy Horror’: Researcher Uncovers Extent of Samsung Smart TV User Tracking",
-    "tags": [
-      "Samsung"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-26T15:00:02.000Z"
   }
 ]
