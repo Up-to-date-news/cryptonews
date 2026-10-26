@@ -1,23 +1,313 @@
 [
   {
-    "id": "16a16ac1ae0093f6",
-    "title": "L2 Capital Picks Newton to Tokenize $500m Pre-IPO AI Shares",
-    "summary": "The Hong Kong investment firm will use Newton Labs' compliance protocol to put late-stage private technology holdings onchain for eligible investors.\nThe post L2 Capital Picks Newton to Tokenize $500m Pre-IPO AI Shares appeared first on The Fintech Times.",
+    "id": "6b2af580407310f8",
+    "slug": "xrp-takes-over-new-york-city-subway-advertising",
+    "title": "XRP Takes Over New York City Subway Advertising",
+    "tags": [
+      "XRP",
+      "Ripple",
+      "New York City"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T05:47:15.000Z"
+  },
+  {
+    "id": "6f3d1adfd2a3d2fe",
+    "slug": "anthropic-s-draft-ai-bill-draws-fire-for-setting-a-high-bar-on-federal-action",
+    "title": "Anthropic’s draft AI bill draws fire for setting a high bar on federal action",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T05:45:07.000Z"
+  },
+  {
+    "id": "98b7fb8545fd1c42",
+    "slug": "india-s-largest-crypto-exchange-absorbs-16-million-loss-from-internal-process-failure-tied-to",
+    "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
+    "tags": [
+      "India",
+      "Mumbai"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T05:39:17.000Z"
+  },
+  {
+    "id": "22ae9624ceba206f",
+    "slug": "what-time-is-jio-ipo-allotment-today",
+    "title": "What TIME Is Jio IPO Allotment Today?",
+    "tags": [
+      "Jio Platforms",
+      "NSE",
+      "BSE"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T05:35:39.000Z"
+  },
+  {
+    "id": "e7781717a32defa3",
+    "slug": "what-is-the-jio-platforms-ipo-gmp-before-listing",
+    "title": "What is the Jio Platforms IPO GMP before listing?",
+    "tags": [
+      "Jio Platforms"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T05:23:08.000Z"
+  },
+  {
+    "id": "946317393ca71235",
+    "slug": "goldman-sachs-names-one-trade-to-hedge-an-ai-market-shock",
+    "title": "Goldman Sachs Names One Trade to Hedge an AI Market Shock",
+    "tags": [
+      "Goldman Sachs",
+      "Japan",
+      "Nikkei 225"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T05:22:51.000Z"
+  },
+  {
+    "id": "d827681cfc411b0f",
+    "slug": "when-will-jio-platforms-ipo-shares-be-credited-to-demat-accounts",
+    "title": "When will Jio Platforms IPO shares be credited to demat accounts?",
+    "tags": [
+      "Jio Platforms"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T05:16:43.000Z"
+  },
+  {
+    "id": "a5597ec7cfbdd3ea",
+    "slug": "bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
+    "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T05:15:20.000Z"
+  },
+  {
+    "id": "c0cb00e4014e7441",
+    "slug": "musk-warns-over-200-ai-neoclouds-face-guppy-level-death",
+    "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
+    "tags": [
+      "Elon Musk",
+      "Gartner"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T05:13:33.000Z"
+  },
+  {
+    "id": "ce2a422e7765a7a2",
+    "slug": "pancakeswap-tells-cake-holders-on-opbnb-to-bridge-out-before-november-23",
+    "title": "PancakeSwap tells CAKE holders on opBNB to bridge out before November 23",
+    "tags": [
+      "PancakeSwap",
+      "CAKE",
+      "opBNB",
+      "LayerZero"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T05:01:37.000Z"
+  },
+  {
+    "id": "6577e7d55aaee564",
+    "slug": "reflect-makes-branded-token-issuance-easier-while-leaving-the-collateral-in-charge",
+    "title": "Reflect Makes Branded Token Issuance Easier While Leaving The Collateral In Charge",
+    "tags": [
+      "Reflect",
+      "Solana"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T05:00:00.000Z"
+  },
+  {
+    "id": "93fc9a610d422675",
+    "slug": "bloomtrading-bot-users-lose-nearly-1m-as-wallets-get-drained",
+    "title": "BloomTrading bot users lose nearly $1M as wallets get drained",
+    "tags": [
+      "BloomTrading"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T04:45:59.000Z"
+  },
+  {
+    "id": "64f7071ea3fec426",
+    "slug": "bitcoin-slips-under-80-000-as-traders-de-risk-ahead-of-fed-meeting",
+    "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+    "tags": [
+      "Bitcoin",
+      "Ether",
+      "XRP",
+      "Federal Reserve",
+      "Goldman Sachs",
+      "Kospi"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T04:37:02.000Z"
+  },
+  {
+    "id": "a168b71f1c9cd814",
+    "slug": "elon-musk-says-lenders-have-nearly-stopped-funding-ai-data-center-firms",
+    "title": "Elon Musk says lenders have nearly stopped funding AI data center firms",
+    "tags": [
+      "Elon Musk",
+      "SpaceX"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T04:34:22.000Z"
+  },
+  {
+    "id": "62bb269d6d9b4cbe",
+    "slug": "canada-proposes-direct-stablecoin-cash-outs-for-small-holders-with-a-1-fee-cap",
+    "title": "Canada proposes direct stablecoin cash-outs for small holders with a 1% fee cap",
+    "tags": [
+      "Canada"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T04:30:57.000Z"
+  },
+  {
+    "id": "1dacca849d372657",
+    "slug": "bnb-chain-outlines-plans-for-a-high-performance-evm-layer-1-with-cz-backing-bnb-as-its-sole-token",
+    "title": "BNB Chain outlines plans for a high-performance EVM layer-1, with CZ backing BNB as its sole token",
+    "tags": [
+      "BNB Chain",
+      "BNB",
+      "CZ"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T04:05:43.000Z"
+  },
+  {
+    "id": "fb51ce64b912cfd3",
+    "slug": "xrp-etfs-resume-winning-streak-while-sol-funds-stay-in-the-red",
+    "title": "XRP ETFs Resume Winning Streak While SOL Funds Stay in the Red",
+    "tags": [
+      "XRP",
+      "Solana"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T04:03:10.000Z"
+  },
+  {
+    "id": "cb6089903f5bf6da",
+    "slug": "hardware-wallets-are-dead-why-keystone-s-security-fix-cannot-end-risks-from-leaked-shipping-data",
+    "title": "‘Hardware wallets are dead’ – Why Keystone’s security fix cannot end risks from leaked shipping data",
+    "tags": [],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-10-26T04:00:59.000Z"
+  },
+  {
+    "id": "efee66ccd3ae5668",
+    "slug": "ripple-swell-preview-the-evidence-to-watch-when-finance-and-developers-meet",
+    "title": "Ripple Swell Preview: The Evidence To Watch When Finance And Developers Meet",
+    "tags": [
+      "Ripple",
+      "New York"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T04:00:00.000Z"
+  },
+  {
+    "id": "dac2847efecf606f",
+    "title": "Phantom Begins Gradual US Rollout of Kalshi Prediction Markets After CFTC Relief",
+    "summary": "Phantom has started offering US users access to prediction markets through its first domestic integration with the CFTC-registered exchange Kalshi. In a statement published on October 23, 2026, the company’s general counsel, Kevin Jacobs, announced that the feature is beginning a phased rollout, with broader... Read More",
     "hasSummary": true,
-    "link": "https://thefintechtimes.com/l2-capital-picks-newton-to-tokenize-500m-pre-ipo-ai-shares/",
-    "source": "The Fintech Times",
+    "link": "https://www.crowdfundinsider.com/2026/10/320549-phantom-begins-gradual-us-rollout-of-kalshi-prediction-markets-after-cftc-relief/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Phantom",
+      "Kalshi",
+      "CFTC",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-26T03:48:29.000Z",
+    "fetchedAt": "2026-10-26T06:01:35.083Z",
+    "isDuplicateOf": null,
+    "content": "Phantom has begun a gradual rollout of Kalshi prediction markets for users in the United States. Following regulatory relief from the CFTC, the integration allows domestic users to access prediction markets directly through Phantom. General counsel Kevin Jacobs announced the phased deployment, marking a significant expansion for the platform's US offerings.",
+    "content_ta": "Phantom நிறுவனம் US-ல் உள்ள பயனர்களுக்காக Kalshi prediction markets-ஐ படிப்படியாக வெளியிடத் தொடங்கியுள்ளது. CFTC-யின் ஒழுங்குமுறை அனுமதியைத் தொடர்ந்து, இந்த ஒருங்கிணைப்பு உள்நாட்டு பயனர்கள் நேரடியாக prediction markets-ஐ அணுக அனுமதிக்கிறது. பொது ஆலோசகர் Kevin Jacobs இந்த கட்டம் கட்டமான வெளியீட்டை அறிவித்தார், இது நிறுவனத்தின் US சேவைகளில் ஒரு முக்கியமான விரிவாக்கமாகும்.",
+    "slug": "phantom-begins-gradual-us-rollout-of-kalshi-prediction-markets-after-cftc-relief"
+  },
+  {
+    "id": "9f9b4f29cdb9bc03",
+    "slug": "hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise",
+    "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+    "tags": [
+      "Hong Kong",
+      "Nasdaq",
+      "Solana"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T03:21:26.000Z"
+  },
+  {
+    "id": "b3be51ce79c6fbe7",
+    "slug": "elon-musk-issues-a-warning-for-ai-neoclouds-as-spacex-borrows-40-billion-for-chips",
+    "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
+    "tags": [
+      "SpaceX",
+      "Elon Musk"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-26T03:11:39.000Z"
+  },
+  {
+    "id": "16a16ac1ae0093f6",
+    "slug": "l2-capital-picks-newton-to-tokenize-500m-pre-ipo-ai-shares",
+    "title": "L2 Capital Picks Newton to Tokenize $500m Pre-IPO AI Shares",
     "tags": [
       "L2 Capital",
       "Newton Labs",
       "Hong Kong"
     ],
+    "source": "The Fintech Times",
     "origin": "rss",
-    "pubDate": "2026-10-26T03:01:18.000Z",
-    "fetchedAt": "2026-10-26T03:01:18.703Z",
-    "isDuplicateOf": null,
-    "content": "Hong Kong investment firm L2 Capital has selected Newton Labs to tokenize five hundred million dollars worth of pre-IPO artificial intelligence shares. The firm will utilize Newton Labs' compliance protocol to bring late-stage private technology holdings onchain, making them accessible to eligible investors.",
-    "content_ta": "ஹாங்காங்கைச் சேர்ந்த முதலீட்டு நிறுவனமான L2 Capital, pre-IPO AI பங்குகளில் ஐநூறு மில்லியன் டாலர் மதிப்பை டோக்கனைஸ் செய்ய Newton Labs நிறுவனத்தைத் தேர்ந்தெடுத்துள்ளது. தகுதியான முதலீட்டாளர்களுக்கு பிந்தைய கட்ட தனியார் தொழில்நுட்ப பங்குகளை ஆன்லைனில் கொண்டுவர Newton Labs இன் இணக்க நெறிமுறையை இந்நிறுவனம் பயன்படுத்தும்.",
-    "slug": "l2-capital-picks-newton-to-tokenize-500m-pre-ipo-ai-shares"
+    "hasContent": true,
+    "pubDate": "2026-10-26T03:01:18.000Z"
   },
   {
     "id": "ef2a34a56530c6a8",
@@ -506,306 +796,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-25T16:32:04.000Z"
-  },
-  {
-    "id": "669c9bdb977d3928",
-    "slug": "is-ethereum-setting-up-to-outperform-bitcoin-in-november",
-    "title": "Is Ethereum setting up to outperform Bitcoin in November?",
-    "tags": [
-      "Ethereum",
-      "Bitcoin"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-25T16:00:26.000Z"
-  },
-  {
-    "id": "48af63d450aeda2a",
-    "slug": "cardano-leios-plan-makes-higher-throughput-a-series-of-votes-and-tests",
-    "title": "Cardano Leios Plan Makes Higher Throughput A Series Of Votes And Tests",
-    "tags": [
-      "Cardano",
-      "Input Output"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-25T16:00:00.000Z"
-  },
-  {
-    "id": "cd45e9c3408258f0",
-    "slug": "pump-fun-s-biggest-winners-may-be-impossible-to-copy-as-752-million-study-exposes-hidden-trading-gap",
-    "title": "Pump.fun’s biggest winners may be impossible to copy as $752 million study exposes hidden trading gap",
-    "tags": [
-      "Bitquery",
-      "Pump.fun"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-25T15:50:20.000Z"
-  },
-  {
-    "id": "65f4f64edfff84d0",
-    "slug": "ai-data-center-tenants-now-want-more-than-5-million-a-day-for-delays",
-    "title": "AI data center tenants now want more than $5 million a day for delays",
-    "tags": [
-      "AI Data Center"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-25T15:47:23.000Z"
-  },
-  {
-    "id": "99349bd5a3c2f5e7",
-    "slug": "sam-altman-says-he-cannot-stop-chatgpt-from-aiding-cybersecurity-work",
-    "title": "Sam Altman says he cannot stop ChatGPT from aiding cybersecurity work",
-    "tags": [
-      "OpenAI",
-      "Sam Altman",
-      "ChatGPT"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-25T15:34:29.000Z"
-  },
-  {
-    "id": "b21a2c9346c13937",
-    "slug": "alphabet-s-google-cloud-revenue-surges-82-gemini-hits-950m-users",
-    "title": "Alphabet’s Google Cloud revenue surges 82%, Gemini hits 950M users",
-    "tags": [
-      "Alphabet",
-      "Google",
-      "Gemini"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-25T15:13:32.000Z"
-  },
-  {
-    "id": "1eaf3292a92de73d",
-    "slug": "ecb-official-sees-digital-euro-as-key-to-protecting-eu-sovereignty",
-    "title": "ECB official sees digital euro as key to protecting EU ‘sovereignty’",
-    "tags": [
-      "European Central Bank",
-      "European Union"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-25T15:11:00.000Z"
-  },
-  {
-    "id": "df200e1545bf9de1",
-    "slug": "bitcoin-price-today-weak-bounce-puts-75k-in-play-if-80k-breaks",
-    "title": "Bitcoin Price Today: Weak Bounce Puts $75K In Play If $80K Breaks",
-    "tags": [
-      "Bitcoin",
-      "Federal Reserve"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-25T15:10:55.000Z"
-  },
-  {
-    "id": "bb19f8c3b890cb12",
-    "slug": "us-russia-diesel-deal-moscow-offers-unlimited-fuel-as-kyiv-and-congress-push-back",
-    "title": "US-Russia Diesel Deal: Moscow Offers Unlimited Fuel As Kyiv And Congress Push Back",
-    "tags": [
-      "Russia",
-      "United States",
-      "Kyiv",
-      "Congress",
-      "Alexander Novak",
-      "Trump"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-25T15:06:24.000Z"
-  },
-  {
-    "id": "16cb0ee89bf5e1a2",
-    "slug": "israel-s-netanyahu-defends-crypto-sanctions-plan-i-do-what-i-think-is-right",
-    "title": "Israel’s Netanyahu defends crypto sanctions plan – ‘I do what I think is right’",
-    "tags": [
-      "Israel",
-      "Benjamin Netanyahu"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-25T15:00:43.000Z"
-  },
-  {
-    "id": "efb06a6b6a4c20ce",
-    "slug": "latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus",
-    "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
-    "tags": [
-      "Latvia",
-      "Viktors Valainis"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-25T15:00:00.000Z"
-  },
-  {
-    "id": "795fcda564ad8c13",
-    "slug": "ripple-and-arf-target-the-short-funding-gap-behind-cross-border-payments",
-    "title": "Ripple And Arf Target The Short Funding Gap Behind Cross-Border Payments",
-    "tags": [
-      "Ripple",
-      "Arf",
-      "RLUSD"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-25T15:00:00.000Z"
-  },
-  {
-    "id": "93fc7dabfa64818e",
-    "slug": "can-the-federal-reserve-keep-rates-high-without-breaking-something",
-    "title": "Can the Federal Reserve Keep Rates High Without Breaking Something?",
-    "tags": [
-      "Federal Reserve",
-      "Bitcoin"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-25T14:49:27.000Z"
-  },
-  {
-    "id": "96c7673c50ce275f",
-    "slug": "evernorth-takes-a-page-from-michael-saylor-s-bitcoin-playbook-with-new-80-million-xrp-funding-plan",
-    "title": "Evernorth takes a page from Michael Saylor’s Bitcoin playbook with new $80 million XRP funding plan",
-    "tags": [
-      "Evernorth",
-      "Michael Saylor",
-      "Bitcoin",
-      "XRP",
-      "Cantor"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-25T14:30:16.000Z"
-  },
-  {
-    "id": "2420a427038d8dd5",
-    "slug": "video-game-giant-hit-by-breach-affecting-11-774-247-records-email-addresses-and-login-data-at-risk",
-    "title": "Video Game Giant Hit by Breach Affecting 11,774,247 Records – Email Addresses and Login Data at Risk",
-    "tags": [
-      "Capcom"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-25T14:30:04.000Z"
-  },
-  {
-    "id": "4810e4076320c912",
-    "slug": "solana-tether-and-xrp-ledger-drive-new-wave-of-asset-tokenization",
-    "title": "Solana, Tether, and XRP Ledger Drive New Wave of Asset Tokenization",
-    "tags": [
-      "Solana",
-      "Tether",
-      "XRP Ledger",
-      "Ethereum"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-25T13:15:45.000Z"
-  },
-  {
-    "id": "54b010b6280b9507",
-    "slug": "worldcoin-team-deposits-4-86m-in-wld-to-okx-as-price-tests-0-45-support",
-    "title": "Worldcoin team deposits $4.86M in WLD to OKX – As price tests $0.45 support",
-    "tags": [
-      "Worldcoin",
-      "OKX",
-      "WLD"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-25T13:00:06.000Z"
-  },
-  {
-    "id": "5e7204ee7c1709fa",
-    "slug": "not-good-for-zcash-key-developer-josh-swihart-halts-zec-staking-upgrade",
-    "title": "'Not Good for Zcash': Key Developer Josh Swihart Halts ZEC Staking Upgrade",
-    "tags": [
-      "Zcash",
-      "Josh Swihart",
-      "Vitalik Buterin"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-25T12:54:30.000Z"
-  },
-  {
-    "id": "b107339fb2e52d2f",
-    "slug": "why-bitcoin-s-next-market-cycle-may-look-very-different-blofin-ceo",
-    "title": "Why Bitcoin's Next Market Cycle May Look Very Different – BloFin CEO",
-    "tags": [
-      "Bitcoin",
-      "BloFin",
-      "Singapore"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-25T12:53:27.000Z"
-  },
-  {
-    "id": "cca9e7f33b281238",
-    "slug": "women-voters-poised-to-influence-2026-elections-in-key-states",
-    "title": "Women voters poised to influence 2026 elections in key states",
-    "tags": [
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-25T12:16:59.000Z"
-  },
-  {
-    "id": "831cb8ba356bda74",
-    "slug": "tether-wins-mining-industry-support-for-its-open-automation-toolkit",
-    "title": "Tether Wins Mining Industry Support For Its Open Automation Toolkit",
-    "tags": [
-      "Tether",
-      "Bitcoin"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-25T12:00:00.000Z"
-  },
-  {
-    "id": "591dff54c6398835",
-    "slug": "new-york-resident-siphons-54-406-742-in-ponzi-style-investor-fraud-faces-decades-behind-bars",
-    "title": "New York Resident Siphons $54,406,742 in Ponzi-Style Investor Fraud, Faces Decades Behind Bars",
-    "tags": [
-      "Richard Teplitsky",
-      "Woodhill Capital Corporation",
-      "New York",
-      "Williamsville",
-      "John L. Sinatra, Jr."
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-25T11:45:31.000Z"
   }
 ]
