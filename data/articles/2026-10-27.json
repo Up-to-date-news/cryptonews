@@ -671,5 +671,315 @@
     "content": "Applicants in the Jio Platforms IPO can now check their share allotment status after the basis of allotment was finalized. Successful investors will receive shares in their demat accounts, while blocked funds for unsuccessful applicants are being released. Investors can check their allotment results online through the official registrar or stock exchange websites to confirm if they received shares.",
     "content_ta": "Jio Platforms IPO-ல் பங்கު ஒதுக்கப்பட்டதா என்பதை விண்ணப்பதாரர்கள் இப்போது சரிபார்க்கலாம். வெற்றிகரமான முதலீட்டாளர்களின் demat கணக்குகளில் பங்குகள் வரவு வைக்கப்படும், அதே நேரத்தில் விண்ணப்பித்து கிடைக்காதவர்களின் முடக்கப்பட்ட நிதியும் விடுவிக்கப்படும். முதலீட்டாளர்கள் தங்களுக்கு பங்குகள் கிடைத்துள்ளதா என்பதை அதிகாரப்பூர்வ வலைத்தளங்கள் மூலம் ஆன்லைனில் சரிபார்த்துக் கொள்ளலாம்.",
     "slug": "were-you-among-70-retail-winners-in-jio-ipo-allotment-here-s-how-to-check"
+  },
+  {
+    "id": "ea6e172fb46ef027",
+    "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
+    "summary": "Charging for bug reports may deter low-quality submissions, but it risks excluding less-funded researchers and could impact overall security.\nThe post Solana’s Firedancer team now charges 1 SOL per bug report to curb AI spam appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
+    "source": "CoinDesk",
+    "tags": [
+      "Solana",
+      "Firedancer"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-27T07:44:04.000Z",
+    "fetchedAt": "2026-10-27T08:13:12.705Z",
+    "isDuplicateOf": null,
+    "content": "Solana's Firedancer team has introduced a fee of 1 SOL for submitting bug reports. This measure was implemented to prevent artificial intelligence systems from overwhelming security teams with spam submissions. While charging a fee aims to filter out low-quality reports, critics note it may discourage independent researchers with limited funding and potentially affect the overall security assessment process.",
+    "content_ta": "Solana-வின் Firedancer குழு, பிழை (bug) அறிக்கைகளை சமர்ப்பிக்க 1 SOL கட்டணத்தை அறிமுகப்படுத்தியுள்ளது. AI அமைப்புகள் மூலம் பாதுகாப்பு குழுக்களுக்கு ஸ்பேம் அறிக்கைகள் வருவதை தடுக்க இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது. தரமற்ற அறிக்கைகளை தவிர்க்க இந்த கட்டணம் உதவினாலும், குறைந்த நிதி கொண்ட ஆய்வாளர்களை இது தவிர்க்கக்கூடும் என்றும், ஒட்டுமொத்த பாதுகாப்பு செயல்முறையையும் பாதிக்கலாம் என்றும் கூறப்படுகிறது.",
+    "slug": "solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam"
+  },
+  {
+    "id": "6b5e94957695da7b",
+    "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
+    "summary": "Developers initially rejected the change before reversing course, as testing delays gave them more time to examine a flaw in Ethereum's upcoming Glamsterdam upgrade.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
+    "source": "CoinDesk",
+    "tags": [
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-27T07:09:56.000Z",
+    "fetchedAt": "2026-10-27T08:13:12.705Z",
+    "isDuplicateOf": null,
+    "content": "Ethereum developers successfully fixed a bug in the upcoming Glamsterdam upgrade. The flaw could have potentially misdirected staking deposits to block builders. Although developers initially rejected making the change, they reversed their decision after testing delays allowed them more time to thoroughly examine the vulnerability.",
+    "content_ta": "Ethereum டெவலப்பர்கள் வரவிருக்கும் Glamsterdam அப்கிரேடில் இருந்த ஒரு பக்ஸை வெற்றிகரமாக சரிசெய்துள்ளனர். இந்தத் தடையானது ஸ்டேக்கிங் டெபாசிட்களைத் தவறாக வழிநடத்தியிருக்கக்கூடும். ஆரம்பத்தில் டெவலப்பர்கள் இந்த மாற்றத்தை நிராகரித்தாலும், பரிசோதனை தாமதங்கள் இந்த குறைபாட்டை மேலும் ஆராய அவகாசம் அளித்ததால் அவர்கள் தங்கள் முடிவை மாற்றிக் கொண்டனர்.",
+    "slug": "ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders"
+  },
+  {
+    "id": "1ad5d1960076023a",
+    "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
+    "summary": "Sean Bowe’s proposal would send the committee’s 8% share of newly created ZEC to a reserve for future miners. The committee would keep the money it has already received.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
+    "source": "CoinDesk",
+    "tags": [
+      "Zcash",
+      "Sean Bowe"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-27T06:14:41.000Z",
+    "fetchedAt": "2026-10-27T08:13:12.705Z",
+    "isDuplicateOf": null,
+    "content": "Zcash co-founder Sean Bowe has proposed ending the grant funding system, pointing to the project's $125 million treasury. The proposal suggests redirecting the committee's 8% share of newly minted ZEC toward a reserve for future miners, while allowing the committee to retain its currently held funds.",
+    "content_ta": "Zcash-ன் இணை நிறுவனர் Sean Bowe, திட்டத்தின் $125 மில்லியன் கருவூலத்தை சுட்டிக் காட்டி, மானிய நிதி வழங்குவதை முடிவுக்குக் கொண்டுவரப் பரிந்துரைத்துள்ளார். புதிய ZEC-ன் 8% பங்கை எதிர்கால மைனர்களுக்கான ஒதுக்கப்பட்ட நிதிக்கு மாற்ற இந்தப் பரிந்துரை வழிவகுக்கிறது. அதே நேரத்தில், கமிட்டி ஏற்கனவே பெற்ற நிதியைத் தன்வசம் வைத்திருக்க அனுமதிக்கிறது.",
+    "slug": "zcash-co-founder-proposes-ending-grants-funding-citing-125-million-treasury"
+  },
+  {
+    "id": "b6ea99213516fc50",
+    "title": "Bitcoin ETFs claw back $110M after $774M exit",
+    "summary": "US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday’s rebound.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Bitcoin",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-27T07:35:37.000Z",
+    "fetchedAt": "2026-10-27T08:13:12.705Z",
+    "isDuplicateOf": null,
+    "content": "US spot Bitcoin ETFs saw a rebound, clawing back $110 million following a significant $774 million exit. Despite Monday's positive inflows, these investment products remained in the red for the month of October, recording about $202 million in total net outflows.",
+    "content_ta": "US spot Bitcoin ETF-களில் குறிப்பிடத்தக்க $774 மில்லியன் வெளியேற்றத்திற்குப் பிறகு, சந்தை மீண்டு $110 மில்லியனை மீண்டும் ஈர்த்துள்ளது. திங்கட்கிழமை நேர்மறையான முதலீடுகள் வந்தபோதிலும், அக்டோபர் மாதத்திற்கு ஒட்டுமொத்தமாக சுமார் $202 மில்லியன் நிகர வெளி outflows உடன் இந்த முதலீட்டுப் பொருட்கள் சரிவிலேயே தொடர்ந்தன.",
+    "slug": "bitcoin-etfs-claw-back-110m-after-774m-exit"
+  },
+  {
+    "id": "50ce45216fe63b05",
+    "title": "Circle faces up to 20% revenue risk from AI agents, Mizuho says",
+    "summary": "AI-driven financial advice could significantly impact Circle's revenue, highlighting the growing influence of AI on financial markets.\nThe post Circle faces 20% revenue risk from AI agents, Mizuho warns appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826",
+    "source": "The Block",
+    "tags": [
+      "Circle",
+      "Mizuho"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-27T06:28:34.000Z",
+    "fetchedAt": "2026-10-27T08:13:12.705Z",
+    "isDuplicateOf": null,
+    "content": "Financial services firm Mizuho warns that Circle could face a revenue risk of up to 20% due to the rising adoption of autonomous AI agents. The report highlights how automated financial advice and tools could significantly impact traditional market structures and revenue models for companies in the sector, as artificial intelligence continues to exert growing influence.",
+    "content_ta": "Circle நிறுவனம் AI ஏஜெண்டுகளின் வளர்ச்சியால் தனது வருவாயில் 20 சதவீதம் வரை ஆபத்தை எதிர்கொள்ளக்கூடும் என்று Mizuho எச்சரித்துள்ளது. நிதிச் சந்தைகளில் AI-இன் செல்வாக்கு அதிகரித்து வருவதால், இது போன்ற தொழில்நுட்பங்கள் நிறுவனங்களின் வருவாய் மாதிரிகளை எவ்வாறு பாதிக்கலாம் என்பதை இந்த அறிக்கை சுட்டிக்காட்டுகிறது.",
+    "slug": "circle-faces-up-to-20-revenue-risk-from-ai-agents-mizuho-says"
+  },
+  {
+    "id": "d68620cffe4b0fd0",
+    "title": "Bitcoin Price Is Heading for Another Red October, but Galaxy Says the Worst Is Over",
+    "summary": "Bitcoin faces a second red October, but Galaxy says the bear market is over as it holds above its 50-week moving average.\nThe post Bitcoin Price Is Heading for Another Red October, but Galaxy Says the Worst Is Over appeared first on Cryptonews.",
+    "hasSummary": true,
+    "link": "https://cryptonews.com/news/bitcoin-price-is-heading-for-another-red-october-but-galaxy-says-the-worst-is-over/",
+    "source": "CryptoNews",
+    "tags": [
+      "Bitcoin",
+      "Galaxy"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-27T07:54:26.000Z",
+    "fetchedAt": "2026-10-27T08:13:12.705Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin is heading toward another negative October performance, continuing a challenging trend for the cryptocurrency. However, analysis from Galaxy indicates that the worst of the bear market may be over, as Bitcoin manages to hold its position above a key historical technical indicator, the 50-week moving average.",
+    "content_ta": "Bitcoin மீண்டும் ஒரு எதிர்மறையான அக்டோபர் மாதத்தை நோக்கி நகர்ந்து வருகிறது. இருப்பினும், Bitcoin அதன் முக்கிய தொழில்நுட்பக் குறியீடான 50-வார நகரும் சராசரிக்கு மேல் நிலைபெற்றுள்ளதால், கரடி சந்தையின் (bear market) மிக மோசமான காலம் முடிந்துவிட்டதாக Galaxy தெரிவித்துள்ளது.",
+    "slug": "bitcoin-price-is-heading-for-another-red-october-but-galaxy-says-the-worst-is-over"
+  },
+  {
+    "id": "fcdd294bda7114d1",
+    "title": "Chainlink launches CustodySync with Anchorage – But LINK is testing $11 support",
+    "summary": "Bearish market conditions threatened LINK's recovery prospects.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/chainlink-launches-custodysync-with-anchorage-but-link-is-testing-11-support/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Chainlink",
+      "Anchorage",
+      "LINK"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-27T07:45:42.000Z",
+    "fetchedAt": "2026-10-27T08:13:12.705Z",
+    "isDuplicateOf": null,
+    "content": "Chainlink has officially launched CustodySync in partnership with Anchorage, aiming to enhance institutional digital asset custody solutions. Despite this significant technological development and expansion in the blockchain ecosystem, the platform's native token, LINK, is currently facing downward pressure as it tests crucial $11 support levels amid broader bearish market conditions that threaten its recent recovery prospects.",
+    "content_ta": "Chainlink நிறுவனம் Anchorage உடன் இணைந்து CustodySync சேவையை அதிகாரப்பூர்வமாக அறிமுகப்படுத்தியுள்ளது. இந்த முக்கிய தொழில்நுட்ப வளர்ச்சியைக் கடந்து, கரடியின் சந்தை சூழல் காரணமாக LINK டோக்கன் தற்போது $11 ஆதரவு நிலையை சோதித்து வருகிறது, இது அதன் மீட்சி முயற்சிகளுக்கு சவாலாக உள்ளது.",
+    "slug": "chainlink-launches-custodysync-with-anchorage-but-link-is-testing-11-support"
+  },
+  {
+    "id": "b8dc8a9f4f2cc43d",
+    "title": "Arbitrum retraces September’s impulse move — Here are the key levels to watch!",
+    "summary": "ARB swing traders will want to see a bullish reaction from $0.162 first.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/arbitrum-retraces-septembers-impulse-move-here-are-the-key-levels-to-watch/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Arbitrum",
+      "ARB"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-27T07:00:50.000Z",
+    "fetchedAt": "2026-10-27T08:13:12.705Z",
+    "isDuplicateOf": null,
+    "content": "Arbitrum has retraced its September impulse move, drawing the attention of ARB swing traders. Market participants are closely monitoring the charts for potential price reactions. Analysts note that key support levels must hold, with swing traders specifically looking for a bullish reaction around the $0.162 mark first to determine the next directional trend.",
+    "content_ta": "Arbitrum தனது செப்டம்பர் மாத விலை உயர்வின் பின்வாக்கத்தைச் சந்தித்துள்ளது, இது ARB ஸ்விங் டிரேடர்களின் கவனத்தை ஈர்த்துள்ளது. சந்தை ஆய்வாளர்கள் சாத்தியமான விலை மாற்றங்களை உன்னிப்பாகக் கவனித்து வருகின்றனர். அடுத்த கட்டப் போக்கைத் தீர்மானிக்க, முக்கிய ஆதரவு நிலைகளைக் காக்க வேண்டியதன் அவசியத்தை அவர்கள் சுட்டிக்காட்டுகின்றனர். குறிப்பாக, $0.162 என்ற அளவில் புல்லிஷ் எதிர்வினை ஏற்படுமா என்பதை ஸ்விங் டிரேடர்கள் எதிர்பார்த்துக் காத்துள்ளனர்.",
+    "slug": "arbitrum-retraces-september-s-impulse-move-here-are-the-key-levels-to-watch"
+  },
+  {
+    "id": "4b5a8111de6510f6",
+    "title": "Bitcoin and ETH Holders Could Face a Deeper Pullback, Ansem Warns",
+    "summary": "Crypto trader Ansem turns bearish on Bitcoin and ETH, blaming a blow-off top in AI stocks and warning that both could slide faster from here.\nThe post Bitcoin and ETH Holders Could Face a Deeper Pullback, Ansem Warns appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/ansem-bearish-on-bitcoin-eth-ai-stocks/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Bitcoin",
+      "ETH",
+      "Ansem"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-27T07:38:39.000Z",
+    "fetchedAt": "2026-10-27T08:13:12.705Z",
+    "isDuplicateOf": null,
+    "content": "Crypto trader Ansem has turned bearish on Bitcoin and ETH, warning holders that a deeper pullback could be on the horizon. Ansem pointed to a recent blow-off top in AI stocks as a contributing factor, cautioning that both major cryptocurrencies may experience faster downward price movement from their current levels.",
+    "content_ta": "Crypto வர்த்தகரான Ansem, Bitcoin மற்றும் ETH மீது மந்தநிலையான (bearish) பார்வையை கொண்டுள்ளார். மேலும், ஹோல்டர்கள் மேலும் கடுமையான விலிறக்கத்தை சந்திக்க நேரிடலாம் என்றும் எச்சரித்துள்ளார். AI பங்குகளின் சரிவு இதற்கு ஒரு முக்கிய காரணம் என்றும், இந்த இரண்டு முக்கிய cryptocurrencies-களின் விலையும் தற்போதைய மட்டத்திலிருந்து வேகமாக குறையக்கூடும் என்றும் அவர் எச்சரித்துள்ளார்.",
+    "slug": "bitcoin-and-eth-holders-could-face-a-deeper-pullback-ansem-warns"
+  },
+  {
+    "id": "e75d6c8fe3399ef8",
+    "title": "Yardeni Says AI Bubble Is Deflating, Not Bursting, as Bond Market Steps In",
+    "summary": "Ed Yardeni says air is leaving the AI bubble without a burst, as bond markets ration capital to weaker AI borrowers.\nThe post Yardeni Says AI Bubble Is Deflating, Not Bursting, as Bond Market Steps In appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/yardeni-ai-bubble-deflating-bond-market/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Ed Yardeni",
+      "BeInCrypto"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-27T06:43:54.000Z",
+    "fetchedAt": "2026-10-27T08:13:12.705Z",
+    "isDuplicateOf": null,
+    "content": "Ed Yardeni states that the artificial intelligence bubble is currently deflating rather than bursting completely. According to the analysis, the bond market is playing a crucial role by limiting capital access for weaker borrowers in the artificial intelligence sector, which helps manage the market's overall trajectory and prevents a sudden crash.",
+    "content_ta": "Ed Yardeni கூறுகையில், artificial intelligence பப்பில் முழுமையாக வெடிக்காமல், தற்போது மெதுவாகக் குறைந்து வருகிறது என்றார். bond market-ன் தலையீட்டால் பலவீனமான AI நிறுவனங்களுக்கு மூலதனம் கிடைப்பது கட்டுப்படுத்தப்படுவதாகவும், இதனால் சந்தையில் திடீர் சரிவு தவிர்க்கப்படுவதாகவும் பகுப்பாய்வு தெரிவிக்கின்றது.",
+    "slug": "yardeni-says-ai-bubble-is-deflating-not-bursting-as-bond-market-steps-in"
+  },
+  {
+    "id": "1ac18f45e37475ca",
+    "title": "Microsoft Opens the Exit Door to 60,000 Staff Days Before Earnings",
+    "summary": "Microsoft is offering voluntary buyouts to about 60,000 employees. The time-limited program covers staff at level 70 and below in the US, Canada, India, and the UK. The offer arrives just before Microsoft reports fiscal first-quarter results on Wednesday. Investors will use that report to judge whether the company’s AI spending is starting to pay\nThe post Microsoft Opens the Exit Door to 60,000 Staff Days Before Earnings appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/microsoft-buyouts-60000-employees-earnings/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Microsoft",
+      "United States",
+      "Canada",
+      "India",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-27T06:34:52.000Z",
+    "fetchedAt": "2026-10-27T08:13:12.705Z",
+    "isDuplicateOf": null,
+    "content": "Microsoft has announced a voluntary buyout program affecting approximately 60,000 employees at level 70 and below across the US, Canada, India, and the UK. This time-limited exit offer comes just days before the company is scheduled to report its fiscal first-quarter earnings. Investors are closely watching these upcoming financial results to evaluate whether Microsoft's heavy investments in artificial intelligence are beginning to show financial returns.",
+    "content_ta": "Microsoft நிறுவனம் US, Canada, India மற்றும் UK ஆகிய நாடுகளில் level 70 மற்றும் அதற்கு கீழுள்ள சுமார் 60,000 ஊழியர்களுக்கு விருப்ப ஓய்வுத் திட்டத்தை அறிவித்துள்ளது. நிறுவனத்தின் முதல் காலாண்டு நிதி முடிவுகள் வெளியாகவிருக்கும் நிலையில் இந்த அறிவிப்பு வந்துள்ளது. AI மீதான Microsoft-ன் முதலீடுகள் லாபத்தைத் தருகிறதா என்பதை அறிய முதலீட்டாளர்கள் இந்த நிதி அறிக்கையை எதிர்நோக்கியுள்ளனர்.",
+    "slug": "microsoft-opens-the-exit-door-to-60-000-staff-days-before-earnings"
+  },
+  {
+    "id": "8fbff309088cc579",
+    "title": "US gas prices surpass Biden-era average under Trump",
+    "summary": "Rising gas prices amid geopolitical tensions may influence U.S. political dynamics, potentially affecting Senate race outcomes and public sentiment.\nThe post US gas prices surpass Biden-era average under Trump appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/us-gas-prices-surpass-biden-era-average-under-trump/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-27T08:11:55.000Z",
+    "fetchedAt": "2026-10-27T08:13:12.705Z",
+    "isDuplicateOf": null,
+    "content": "U.S. gas prices have recently surpassed the average levels seen during the Biden administration, moving into a new phase under Trump. This increase comes amid ongoing geopolitical tensions, which are raising concerns about broader economic and political impacts. Observers note that these shifting market dynamics could influence upcoming Senate races and overall public sentiment across the country.",
+    "content_ta": "அமெரிக்காவில் எரிபொருள் விலை Biden ஆட்சிக் காலத்தில் இருந்த சராசரி அளவை தாண்டி, தற்போது Trump நிர்வாகத்தின் கீழ் உயர்ந்துள்ளது. புவிசார் அரசியல் பதற்றங்களுக்கு மத்தியில் ஏற்பட்டுள்ள இந்த விலை உயர்வு, பரந்த பொருளாதார மற்றும் அரசியல் தாக்கங்கள் குறித்த கவலைகளை எழுப்பியுள்ளது. இந்த சந்தை மாற்றங்கள் வரவிருக்கும் Senate தேர்தல்களையும் பொதுமக்களின் மனநிலையையும் பாதிக்கலாம் என்று நிபுணர்கள் குறிப்பிடுகின்றனர்.",
+    "slug": "us-gas-prices-surpass-biden-era-average-under-trump"
+  },
+  {
+    "id": "497fcaee6ace6113",
+    "title": "Canton Network targets European and Asian government bonds after US Treasuries",
+    "summary": "Canton Network's expansion into European and Asian bonds could revolutionize global bond markets by enhancing liquidity and settlement efficiency.\nThe post Canton Network targets European and Asian government bonds after US Treasuries appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/canton-network-european-asian-government-bonds/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Canton Network",
+      "Europe",
+      "Asia",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-27T08:06:38.000Z",
+    "fetchedAt": "2026-10-27T08:13:12.705Z",
+    "isDuplicateOf": null,
+    "content": "Canton Network is expanding its focus to include European and Asian government bonds following its previous work with US Treasuries. This strategic move aims to improve liquidity and settlement efficiency across global bond markets, potentially transforming how traditional fixed-income assets are traded and managed on distributed networks.",
+    "content_ta": "US Treasuries-உடன் தொடர்புடைய பணிகளுக்குப் பிறகு, Canton Network தற்போது ஐரோப்பிய மற்றும் ஆசிய அரசுப் பத்திரங்களிலும் தனது கவனத்தை விரிவுபடுத்துகிறது. இந்த மூலோபாய நடவடிக்கையானது உலகளாவிய பாண்ட் சந்தைகளில் பணப்புழக்கம் மற்றும் தீர்வு செயல்திறனை மேம்படுத்துவதை நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "canton-network-targets-european-and-asian-government-bonds-after-us-treasuries"
+  },
+  {
+    "id": "57b4428d44e852c9",
+    "title": "Binance lists 227 futures pairs in 2026, with most tracking traditional assets",
+    "summary": "Binance's focus on traditional assets in futures trading could blur lines between crypto and traditional finance, impacting market dynamics globally.\nThe post Binance lists 227 futures pairs in 2026, with most tracking traditional assets appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/binance-227-futures-pairs-2026-tradfi/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Binance"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-27T07:24:41.000Z",
+    "fetchedAt": "2026-10-27T08:13:12.705Z",
+    "isDuplicateOf": null,
+    "content": "Binance has listed 227 futures pairs, with the majority tracking traditional assets. This move by Binance highlights a growing focus on traditional financial markets within the crypto space. Such expansion could blur the boundaries between traditional finance and cryptocurrency trading, potentially influencing global market dynamics and trading strategies in the near future.",
+    "content_ta": "Binance நிறுவனம் 227 பியூச்சர்ஸ் ஜோடிகளைப் பட்டியலிட்டுள்ளது, இதில் பெரும்பான்மையானவை பாரம்பரிய சொத்துக்களைப் பின்தொடர்கின்றன. Binance-ன் இந்த நகர்வு கிரிப்டோ துறையில் பாரம்பரிய நிதி சந்தைகள் மீதான கவனத்தை அதிகரிப்பதைக் காட்டுகிறது. இந்த விரிவாக்கம் பாரம்பரிய நிதி மற்றும் கிரிப்டோ வர்த்தகத்திற்கு இடையிலான எல்லைகளை மங்கச் செய்து, உலகளாவிய சந்தை இயக்கவியலை பாதிக்கக்கூடும்.",
+    "slug": "binance-lists-227-futures-pairs-in-2026-with-most-tracking-traditional-assets"
+  },
+  {
+    "id": "172ec52461798587",
+    "title": "BNB Chain tokenized assets surge in Q3 as RWA supply reaches $4.96B",
+    "summary": "BNB Chain's Q3 growth in tokenized assets highlights its emerging role in DeFi, though concentration risks and market volatility remain concerns.\nThe post BNB Chain tokenized assets surge in Q3 as RWA supply reaches $4.96B appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/bnb-chain-tokenized-assets-q3-rwa-supply/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "BNB Chain"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-27T07:23:51.000Z",
+    "fetchedAt": "2026-10-27T08:13:12.705Z",
+    "isDuplicateOf": null,
+    "content": "BNB Chain experienced significant growth in tokenized assets during the third quarter, with real-world asset supply reaching $4.96 billion. This expansion highlights the network's increasing prominence in the decentralized finance sector. However, analysts note that ongoing concerns regarding market volatility and asset concentration risks still persist for the platform.",
+    "content_ta": "மூன்றாம் காலாண்டில் BNB Chain-இன் டோக்கன் செய்யப்பட்ட சொத்துக்கள் குறிப்பிடத்தக்க வளர்ச்சியைப் பெற்றுள்ளன, இதன் RWA சப்ளை $4.96 பில்லியன் அளவுக்கு உயர்ந்துள்ளது. இந்த எழுச்சி DeFi துறையில் நெட்வொர்க்கின் வளர்ந்து வரும் பங்கை எடுத்துக்காட்டுகிறது. எவ்வாறாயினும், சந்தை நிலையற்ற தன்மை மற்றும் சொத்து குவிப்பு அபாயங்கள் இன்னும் கவலைக்குரியதாகவே உள்ளன என்று ஆய்வாளர்கள் குறிப்பிடுகின்றனர்.",
+    "slug": "bnb-chain-tokenized-assets-surge-in-q3-as-rwa-supply-reaches-4-96b"
+  },
+  {
+    "id": "44815761934eb4ed",
+    "title": "Bitcoin, XRP and Ethereum 3X ETFs Face Delay Until November 30",
+    "summary": "The post Bitcoin, XRP and Ethereum 3X ETFs Face Delay Until November 30 appeared first on Coinpedia Fintech News\nThe U.S. Securities and Exchange Commission (SEC) has delayed the launch of GraniteShares’ proposed 3X leveraged crypto ETFs to November 30, 2026. The move affects products linked to Bitcoin, XRP, Ethereum, and Solana, just days before the November 3 U.S. midterm elections. GraniteShares Pushes Back Launch Date for Eight Crypto ETFs On October 26, GraniteShares …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/news/sec-delays-graniteshares-3x-bitcoin-xrp-and-ethereum-etfs-ahead-of-us-midterms/",
+    "source": "Coinpedia",
+    "tags": [
+      "GraniteShares",
+      "Bitcoin",
+      "XRP",
+      "Ethereum",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-27T06:24:53.000Z",
+    "fetchedAt": "2026-10-27T08:13:12.705Z",
+    "isDuplicateOf": null,
+    "content": "The U.S. Securities and Exchange Commission has delayed the proposed launch of GraniteShares 3X leveraged crypto exchange-traded funds to November 30. The delay impacts several proposed products tied to major digital assets including Bitcoin, XRP, and Ethereum, pushing back the timeline for these investment vehicles as regulatory review continues in the United States.",
+    "content_ta": "Bitcoin, XRP மற்றும் Ethereum தொடர்பான GraniteShares நிறுவனத்தின் 3X leveraged crypto ETF-களின் வெளியீட்டை நவம்பர் 30-ம் தேதிக்கு U.S. Securities and Exchange Commission ஒத்திவைத்துள்ளது. இதனால் அமெரிக்காவில் இந்த முதலீட்டுத் திட்டங்களின் வெளியீட்டு காலம் தள்ளிப்போந்துள்ளது.",
+    "slug": "bitcoin-xrp-and-ethereum-3x-etfs-face-delay-until-november-30"
   }
 ]
