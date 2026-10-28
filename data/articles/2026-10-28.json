@@ -459,5 +459,485 @@
     "content": "Anthropic has expanded its artificial intelligence agreement with the United States government, offering a significant discount of 40% amid ongoing disputes with the Pentagon over military applications. This strategic public sector expansion could bolster the company's market position and valuation, despite the sensitivities surrounding defense-related deployments.",
     "content_ta": "Anthropic நிறுவனம் Pentagon உடன் ராணுவ பயன்பாடுகள் தொடர்பான சர்ச்சைக்கு மத்தியில், United States அரசாச்சத்துடனான தனது செயற்கை நுண்ணறிவு ஒப்பந்தத்தை விரிவாக்கியுள்ளது. இந்த ஒப்பந்தத்தில் 40% தள்ளுபடி வழங்கப்பட்டுள்ளது. பாதுகாப்புத் துறை சார்ந்த பயன்பாடுகள் குறித்த தயக்கங்கள் இருந்தபோதிலும், பொதுத் துறையில் மேற்கொள்ளப்படும் இந்த மூலோபாய விரிவாக்கம் நிறுவனத்தின் சந்தை நிலையையும் மதிப்பையும் உயர்த்தக்கூடும்.",
     "slug": "anthropic-expands-us-government-ai-deal-with-40-discount-amid-pentagon-dispute"
+  },
+  {
+    "id": "a16e3e891ea482ce",
+    "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+    "summary": "The incident highlights the vulnerability of relying on third-party vendors, emphasizing the need for robust security measures and user vigilance.\nThe post Coinbase denies data breach after Amplitude vendor incident appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+    "source": "CoinDesk",
+    "tags": [
+      "Coinbase",
+      "Amplitude"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T03:11:14.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.773Z",
+    "isDuplicateOf": null,
+    "content": "Cryptocurrency exchange Coinbase assured users that their funds remain secure following a security incident involving a third-party vendor, Amplitude. The vendor exposure resulted in customer contact information being compromised. Coinbase denied that a direct data breach occurred on its own systems, though the event underscores ongoing security vulnerabilities related to third-party vendor dependencies in the digital asset industry.",
+    "content_ta": "மூன்றாம் தரப்பு விற்பனையாளரான Amplitude-ஐப் பாதித்த பாதுகாப்பு சம்பவத்தைத் தொடர்ந்து, பயனர்களின் நிதி பாதுகாப்பாக இருப்பதாக கிரிப்டோகரன்சி பரிமாற்ற நிறுவனமான Coinbase உறுதிப்படுத்தியுள்ளது. இந்த விவகாரத்தால் வாடிக்கையாளர்களின் தொடர்புத் தகவல்கள் வெளிப்படுத்தப்பட்டன. தனது சொந்த அமைப்புகளில் நேரடி தரவு மீறல் எதுவும் நடக்கவில்லை என்று Coinbase மறுத்துள்ளது, இருப்பினும் இது போன்ற சம்பவங்கள் மூன்றாம் தரப்பு சார்ந்திருப்பதில் உள்ள பாதுகாப்புக் குறைபாடுகளை வெளிச்சம் போட்டுக் காட்டுகின்றன.",
+    "slug": "coinbase-says-user-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info"
+  },
+  {
+    "id": "5147fc1a71bcb7a7",
+    "title": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’",
+    "summary": "Robinhood CEO Vlad Tenev says tokenized equities need more than a temporary SEC exemption to flourish in the US.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Robinhood",
+      "Vlad Tenev",
+      "Securities and Exchange Commission",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T03:55:57.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.773Z",
+    "isDuplicateOf": null,
+    "content": "Robinhood CEO Vlad Tenev warned that regulatory uncertainty surrounding tokenization in the US is deterring serious assets from entering the market. According to Tenev, tokenized equities require more than temporary SEC exemptions to truly flourish and attract institutional confidence within the country.",
+    "content_ta": "US-ல் tokenization தொடர்பான ஒழுங்குமுறை நிச்சயமற்ற தன்மை காரணமாக தீவிரமான சொத்துக்கள் சந்தைக்கு வருவதைத் தடுக்கிறது என்று Robinhood CEO Vlad Tenev எச்சரித்துள்ளார். Tenev-ன் கூற்றுப்படி, tokenized பங்குகள் நாட்டில் வளர்ச்சியடையவும் நிறுவனங்களின் நம்பிக்கையைப் பெறவும் தற்காலிக SEC விலக்குகளை விட அதிகமானவை தேவைப்படுகின்றன.",
+    "slug": "robinhood-s-tenev-warns-us-tokenization-uncertainty-deters-serious-assets"
+  },
+  {
+    "id": "c43163fa35c2ab34",
+    "title": "Bitcoin apps risk massive fee drain, and 2 library bugs are blamed",
+    "summary": "Applications importing PSBTs can miscalculate miner fees and miss an excessive-fee warning if they rely on the vulnerable library's accounting.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/bitcoin-apps-risk-massive-fee-drain-and-2-library-bugs-are-blamed/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T05:30:00.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.773Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin applications face the risk of massive fee drains due to two library bugs. Applications importing PSBTs can miscalculate miner fees and fail to trigger excessive-fee warnings if they rely on the vulnerable library's accounting methods. Developers are urged to address these security concerns to protect users from unexpected high transaction costs.",
+    "content_ta": "இரண்டு library bugs காரணமாக Bitcoin அப்ளிகேஷன்கள் அதிக கட்டண இழப்பை சந்திக்கும் அபாயம் ஏற்பட்டுள்ளது. PSBTs-ஐ இறக்குமதி செய்யும் அப்ளிகேஷன்கள், பாதிக்கப்படக்கூடிய library-யின் கணக்கீட்டை நம்பியிருந்தால், மைனர் கட்டணங்களை தவறாக கணக்கிட்டு அதிக கட்டண எச்சரிக்கையைத் தவறவிடலாம்.",
+    "slug": "bitcoin-apps-risk-massive-fee-drain-and-2-library-bugs-are-blamed"
+  },
+  {
+    "id": "14a45234d186bccd",
+    "title": "BNY offers XRP custody, but only 1 rollout type exists",
+    "summary": "Eligible clients can now hold XRP through BNY, while transfers of existing tokens would not establish additional purchases.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/bny-offers-xrp-custody-but-only-1-rollout-type-exists/",
+    "source": "CryptoSlate",
+    "tags": [
+      "BNY",
+      "XRP",
+      "CryptoSlate"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T03:40:09.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.773Z",
+    "isDuplicateOf": null,
+    "content": "BNY now offers XRP custody services to eligible clients. However, the rollout is currently limited to a single type, meaning that transfers of existing tokens will not establish additional purchases. CryptoSlate reports that clients can now hold the digital asset through the institution, marking a notable development in traditional financial custody for cryptocurrencies.",
+    "content_ta": "தற்போது BNY தனது தகுதியான கிளைண்டுகளுக்கு XRP கஸ்டடி சேவைகளை வழங்கத் தொடங்கியுள்ளது. இருப்பினும், இந்த சேவையானது ஒரு குறிப்பிட்ட முறையில் மட்டுமே வெளியிடப்பட்டுள்ளது. அதாவது, ஏற்கனவே உள்ள டோக்கன்களை மாற்றுவது மூலமாக கூடுதல் கொள்முதல்களை நிறுவ முடியாது என்று CryptoSlate செய்தி வெளியிட்டுள்ளது.",
+    "slug": "bny-offers-xrp-custody-but-only-1-rollout-type-exists"
+  },
+  {
+    "id": "f5ed1c8df310816a",
+    "title": "Kraken Gets In-Principle Approval for Kazakhstan Crypto Operations",
+    "summary": "Kraken parent Payward announced on October 21 that it had received in-principle approval from the Astana Financial Services Authority for a proposed.",
+    "hasSummary": true,
+    "link": "https://www.newsbtc.com/news/kraken-gets-in-principle-approval-for-kazakhstan-crypto-operations/",
+    "source": "NewsBTC",
+    "tags": [
+      "Kraken",
+      "Payward",
+      "Astana Financial Services Authority",
+      "Kazakhstan"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T05:00:00.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.773Z",
+    "isDuplicateOf": null,
+    "content": "Cryptocurrency exchange Kraken's parent company, Payward, announced that it has received in-principle approval from the Astana Financial Services Authority to operate in Kazakhstan. This regulatory milestone brings the platform closer to offering its digital asset services within the region under official oversight.",
+    "content_ta": "Cryptocurrency exchange Kraken-ன் தாய் நிறுவனமான Payward, Kazakhstan-ல் தனது சேவைகளை வழங்க Astana Financial Services Authority-மிடமிருந்து கொள்கை அளவிலான அனுமதியைப் பெற்றுள்ளதாக அறிவித்துள்ளது. இந்த ஒழுங்குமுறை மைல்கல், அதிகாரப்பூர்வ மேற்பார்வையின் கீழ் அந்தப் பகுதியில் தனது டிஜிட்டல் சொத்து சேவைகளை வழங்குவதற்கு இந்த தளத்தை மேலும் நெருக்கமாகக் கொண்டுவருகிறது.",
+    "slug": "kraken-gets-in-principle-approval-for-kazakhstan-crypto-operations"
+  },
+  {
+    "id": "a4a2004a55d29260",
+    "title": "Coinbase and Thunes Tie Stablecoins to Local Bank and Wallet Payouts",
+    "summary": "Coinbase announced a collaboration with global payment network Thunes to connect stablecoin infrastructure with local bank-account and mobile-wallet.",
+    "hasSummary": true,
+    "link": "https://www.newsbtc.com/news/coinbase-and-thunes-tie-stablecoins-to-local-bank-and-wallet-payouts/",
+    "source": "NewsBTC",
+    "tags": [
+      "Coinbase",
+      "Thunes"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T04:00:00.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.774Z",
+    "isDuplicateOf": null,
+    "content": "Coinbase has announced a collaboration with global payment network Thunes. The partnership aims to connect stablecoin infrastructure directly with local bank accounts and mobile wallets. This integration is designed to improve the speed and accessibility of international payouts, bridging traditional financial systems with digital assets.",
+    "content_ta": "Coinbase மற்றும் Thunes நிறுவனங்கள் இணைந்து ஒரு புதிய ஒத்துழைப்பை அறிவித்துள்ளன. இந்த கூட்டணி ஸ்டேபிள்காயின் கட்டமைப்பை உள்ளூர் வங்கி கணக்குகள் மற்றும் மொபைல் வாலட்டுகளுடன் இணைப்பதை நோக்கமாகக் கொண்டுள்ளது. பாரம்பரிய நிதி அமைப்புகளை டிஜிட்டல் சொத்துக்களுடன் இணைப்பதன் மூலம் சர்வதேச பணப்பரிமாற்றங்களை விரைவாகவும் எளிதாகவும் மாற்றுவதற்காக இந்த ஒருங்கிணைப்பு வடிவமைக்கப்பட்டுள்ளது.",
+    "slug": "coinbase-and-thunes-tie-stablecoins-to-local-bank-and-wallet-payouts"
+  },
+  {
+    "id": "0b402f5934bd96c5",
+    "title": "xStocks buyers put in $4 for every $1 lost to falling prices, but what does that really mean?",
+    "summary": "SOLx saw net inflows of nearly 135% over the month!",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/xstocks-buyers-put-in-4-for-every-1-lost-to-falling-prices-but-what-does-that-really-mean/",
+    "source": "AMBCrypto",
+    "tags": [
+      "xStocks",
+      "SOLx"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T05:00:17.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.774Z",
+    "isDuplicateOf": null,
+    "content": "Despite falling prices, xStocks buyers have invested four dollars for every single dollar lost. Meanwhile, SOLx experienced significant growth, recording net inflows of nearly 135 percent over the course of the month. Analysts and market observers are examining what these heavy capital inflows truly indicate for the broader market and investor sentiment moving forward.",
+    "content_ta": "விலை சரிவை சந்தித்த போதிலும், xStocks வாங்குபவர்கள் இழந்த ஒவ்வொரு டாலருக்கும் நான்கு டாலர்களை முதலீடு செய்துள்ளனர். இதற்கிடையில், SOLx குறிப்பிடத்தக்க வளர்ச்சியைப் பெற்றுள்ளது, இந்த மாதத்தில் கிட்டத்தட்ட 135 சதவீத நிகர முதலீட்டைப் பதிவு செய்துள்ளது. இந்த மூலதன வரவுகள் சந்தைக்கும் முதலீட்டாளர் மனநிலைக்கும் என்ன அர்த்தம் என்பதை ஆய்வாளர்கள் ஆராய்ந்து வருகின்றனர்.",
+    "slug": "xstocks-buyers-put-in-4-for-every-1-lost-to-falling-prices-but-what-does-that-really-mean"
+  },
+  {
+    "id": "5298ca72e7901a02",
+    "title": "XRP eyes $1.50 rebound as rare 3-day buy signal rears its head — Details",
+    "summary": "Depressed XRP Open Interest could be a positive sign for the market in the form of deleveraging.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/xrp-eyes-1-50-rebound-as-rare-3-day-buy-signal-rears-its-head-details/",
+    "source": "AMBCrypto",
+    "tags": [
+      "XRP"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T04:30:45.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.774Z",
+    "isDuplicateOf": null,
+    "content": "XRP is showing potential for a rebound toward $1.50 following the appearance of a rare three-day buy signal on the charts. Additionally, depressed Open Interest levels in the market could serve as a positive indicator, suggesting that recent deleveraging has helped clear excessive speculative pressure and paved the way for potential upward price movement.",
+    "content_ta": "சார்ட்டுகளில் அரிதான 3 நாள் பை சிგნல் தோன்றியதைத் தொடர்ந்து XRP மதிப்பு $1.50 வரை உயரக்கூடும் என்ற எதிர்பார்ப்பு எழுந்துள்ளது. மேலும், சந்தையில் திறந்த வட்டி (Open Interest) குறைந்திருப்பது ஒரு நேர்மறையான அறிகுறியாக இருக்கக்கூடும், ஏனெனில் இது அதிகப்படியான ஊக வணிக அழுத்தம் குறைந்திருப்பதைக் குறிக்கிறது.",
+    "slug": "xrp-eyes-1-50-rebound-as-rare-3-day-buy-signal-rears-its-head-details"
+  },
+  {
+    "id": "b756a548848bf6d8",
+    "title": "Hyperliquid draws Kraken parent’s interest – But HYPE’s $75 floor faces THIS",
+    "summary": "The HYPE token price action has been bearish in recent weeks and a drop below $75 would be a stern warning of a trend shift.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/hyperliquid-draws-kraken-parents-interest-but-hypes-75-floor-faces-this/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Hyperliquid",
+      "Kraken",
+      "HYPE"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T04:00:04.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.774Z",
+    "isDuplicateOf": null,
+    "content": "Hyperliquid has recently attracted interest from the parent company of Kraken. However, the HYPE token's price action has been bearish in recent weeks. Market observers note that a drop below the critical $75 floor would serve as a stern warning of a potential trend shift for the digital asset.",
+    "content_ta": "Hyperliquid தற்பொழுது Kraken நிறுவனத்திடமிருந்து கவனத்தை ஈர்த்துள்ளது. இருப்பினும், சமீப வாரங்களாக HYPE டோக்கனின் விலை வீழ்ச்சியை சந்தித்து வருகிறது. இந்த டோக்கன் $75 விலைக்கு கீழே சரிந்தால், அது சந்தை போக்கில் பெரிய மாற்றத்தை ஏற்படுத்தும் என்று எச்சரிக்கையாக பார்க்கப்படுகிறது.",
+    "slug": "hyperliquid-draws-kraken-parent-s-interest-but-hype-s-75-floor-faces-this"
+  },
+  {
+    "id": "9b07a5873a95df75",
+    "title": "Garlinghouse Celebrates Historic Ripple Swell Milestone",
+    "summary": "Ripple CEO Brad Garlinghouse has celebrated a historic milestone as the company's flagship Swell conference marks its 10th anniversary.",
+    "hasSummary": true,
+    "link": "https://u.today/garlinghouse-celebrates-historic-ripple-swell-milestone",
+    "source": "U.Today",
+    "tags": [
+      "Ripple",
+      "Brad Garlinghouse",
+      "Swell"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T05:24:48.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.774Z",
+    "isDuplicateOf": null,
+    "content": "Ripple CEO Brad Garlinghouse celebrated a historic milestone as the company's flagship Swell conference marked its 10th anniversary. The annual event brings together industry leaders and experts to discuss developments and the future of blockchain and digital payments.",
+    "content_ta": "Ripple நிறுவனத்தின் CEO Brad Garlinghouse, நிறுவனத்தின் முக்கிய நிகழ்வான Swell மாநாட்டின் 10வது ஆண்டு நிறைவை வரலாற்றுச் சிறப்புமிக்க மைல்கல்லாகக் கொண்டாடியுள்ளார். இந்த ஆண்டு விழாவில் துறைசார் தலைவர்களும் நிபுணர்களும் ஒன்றிணைந்து பிளாக்செயின் மற்றும் டிஜிட்டல் பரிவர்த்தனைகளின் எதிர்காலம் குறித்து விவாதித்தனர்.",
+    "slug": "garlinghouse-celebrates-historic-ripple-swell-milestone"
+  },
+  {
+    "id": "c896d25a09021239",
+    "title": "The Soldier, VPN and $400K Test To CFTC's Reach as Polymarket Probe Returns",
+    "summary": "The CFTC is reportedly reviving a Polymarket probe as a soldier's $400K VPN insider-betting case tests its swaps authority.\nThe post The Soldier, VPN and $400K Test To CFTC's Reach as Polymarket Probe Returns appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/polymarket-probe-cftc-soldier-vpn-case/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Polymarket",
+      "Commodity Futures Trading Commission"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T05:02:00.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.774Z",
+    "isDuplicateOf": null,
+    "content": "The Commodity Futures Trading Commission is reportedly reviving its investigation into Polymarket. This development comes as a new insider-betting case involving a soldier, a VPN, and four hundred thousand dollars tests the agency's regulatory authority over swaps.",
+    "content_ta": "Commodity Futures Trading Commission நிறுவனம் Polymarket தொடர்பான விசாரணையை மீண்டும் தொடங்குவதாகத் தகவல்கள் வெளியாகியுள்ளன. ஒரு soldier, VPN மற்றும் நாலாயிரத்து ஐநூறு டாலர்களைப் (நான்கு லட்சம் டாலர்கள்) பயன்படுத்திய insider-betting வழக்கு மூலம் swaps மீதான நிறுவனத்தின் அதிகார வரம்பு சோதிக்கப்படுகிறது.",
+    "slug": "the-soldier-vpn-and-400k-test-to-cftc-s-reach-as-polymarket-probe-returns"
+  },
+  {
+    "id": "31298256aace06f1",
+    "title": "Bonds Could Become the Hedge Against AI Selloff as Correlation Turns Negative",
+    "summary": "Fidelity's Jurrien Timmer says the AI selloff flipped AI stocks' link to Treasuries negative, reviving the bond hedge.\nThe post Bonds Could Become the Hedge Against AI Selloff as Correlation Turns Negative appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/bonds-hedge-ai-selloff-correlation-negative/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Fidelity"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T03:30:00.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.774Z",
+    "isDuplicateOf": null,
+    "content": "Bonds may act as a hedge against an AI market selloff following a shift in correlation. According to Fidelity's Jurrien Timmer, the recent selloff has turned the relationship between AI stocks and Treasuries negative. This development revives the potential role of bonds as a traditional hedge for investors navigating the volatile artificial intelligence sector.",
+    "content_ta": "காரிலேஷன் மாறியதன் காரணமாக AI மார்க்கெட் சரிவுக்கு எதிராக பாண்டுகள் ஹெட்ஜ் ஆக செயல்படக்கூடும். Fidelity-ன் Jurrien Timmer இன் கூற்றுப்படி, சமீபத்திய சரிவு AI பங்குகளுக்கும் Treasuries-க்கும் இடையிலான தொடர்பை நெகட்டிவ் ஆக மாற்றியுள்ளது. இந்த வளர்ச்சியானது, நிலையற்ற ஆர்டஃபிஷியல் இன்டெலிஜென்ஸ் துறையில் முதலீடு செய்பவர்களுக்கு பாண்டுகளை பாரம்பரிய ஹெட்டாகப் பயன்படுத்தும் சாத்தியத்தை மீண்டும் உயிர்ப்பிக்கிறது.",
+    "slug": "bonds-could-become-the-hedge-against-ai-selloff-as-correlation-turns-negative"
+  },
+  {
+    "id": "d983940d6c5def05",
+    "title": "Australia moves to ban AI chatbots from simulating emotional intimacy with kids",
+    "summary": "Australia's AI chatbot ban could reshape digital safety norms, prompting global tech firms to reassess child interaction strategies.\nThe post Australia moves to ban AI chatbots from simulating emotional intimacy with kids appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/australia-bill-bans-ai-chatbot-emotional-intimacy/",
+    "source": "CryptoBriefing",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-10-28T05:59:59.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.774Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "australia-moves-to-ban-ai-chatbots-from-simulating-emotional-intimacy-with-kids"
+  },
+  {
+    "id": "3f6ec1577c23ec6f",
+    "title": "India weighs pre-release safety checks for frontier AI models",
+    "summary": "India's shift towards stringent AI safety checks could increase compliance costs and delay product launches, impacting global AI competitiveness.\nThe post India weighs pre-release safety checks for frontier AI models appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/india-pre-release-safety-checks-frontier-ai/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "India"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T05:59:43.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.774Z",
+    "isDuplicateOf": null,
+    "content": "India is considering the implementation of pre-release safety checks for frontier AI models. This potential shift toward stricter artificial intelligence regulations could lead to higher compliance costs and delayed product rollouts. Industry experts warn that these extra hurdles might negatively impact the country's competitive standing in the fast-moving global artificial intelligence sector.",
+    "content_ta": "frontier AI மாடல்களுக்கு வெளியீட்டிற்கு முந்தைய பாதுகாப்பு சோதனைகளை அறிமுகப்படுத்துவது குறித்து India பரிசீலித்து வருகிறது. செயற்கை நுண்ணறிவுக்கான கடுமையான விதிமுறைகள் அமல்படுத்தப்பட்டால், நிறுவனங்களுக்கு இணக்கச் செலவுகள் அதிகரித்து, தயாரிப்புகள் வெளியிடப்படுவதில் தாமதம் ஏற்படலாம். இது உலகளாவிய AI துறையில் நாட்டின் போட்டித்தன்மையை பாதிக்கும் என்று நிபுணர்கள் எச்சரிக்கின்றனர்.",
+    "slug": "india-weighs-pre-release-safety-checks-for-frontier-ai-models"
+  },
+  {
+    "id": "3bce6505afaa6974",
+    "title": "CXMT plans HBM3E production even as most of its chips fail quality checks",
+    "summary": "CXMT's HBM3E production highlights China's strategic push in AI memory amid export controls, despite low yields and competitive gaps.\nThe post CXMT plans HBM3E production even as most of its chips fail quality checks appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/cxmt-hbm3e-production-low-yields/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "CXMT",
+      "China"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T05:44:21.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.774Z",
+    "isDuplicateOf": null,
+    "content": "Chinese memory chip maker CXMT is planning to begin production of HBM3E memory. This move highlights China's strategic push to advance its AI memory capabilities despite ongoing export controls, low manufacturing yields, and significant quality control challenges that result in many chips failing checks.",
+    "content_ta": "சீனாவின் மெமரி சிப் தயாரிப்பு நிறுவனமான CXMT, HBM3E மெமரி உற்பத்தியைத் தொடங்கத் திட்டமிட்டுள்ளது. ஏற்றுமதி கட்டுப்பாடுகள் மற்றும் குறைந்த உற்பத்தித் தரம் போன்ற சவால்கள் மற்றும் பெரும்பாலான சிப்கள் தரச் சோட்சனைகளில் தோல்வியடைந்தாலும், AI மெமரி துறையில் முன்னேற சீனா எடுக்கும் மூலோபாய முயற்சியை இந்த நடவடிக்கை எடுத்துக்காட்டுகிறது.",
+    "slug": "cxmt-plans-hbm3e-production-even-as-most-of-its-chips-fail-quality-checks"
+  },
+  {
+    "id": "b1c9a06f54d450bd",
+    "title": "IRGC orchestrates quasi-coup to control Iran’s sanctioned oil trade: report",
+    "summary": "The IRGC's actions could destabilize Iran's leadership, affecting oil trade dynamics and increasing political uncertainty.\nThe post IRGC orchestrates quasi-coup to control Iran’s sanctioned oil trade: report appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/irgc-orchestrates-quasi-coup-to-control-irans-sanctioned-oil-trade-report/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "IRGC",
+      "Iran"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T04:43:12.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.774Z",
+    "isDuplicateOf": null,
+    "content": "A new report reveals that the IRGC has allegedly orchestrated a quasi-coup to seize control of Iran's sanctioned oil trade. Observers warn that these aggressive maneuvers could further destabilize the country's internal leadership, alter critical oil trade dynamics, and significantly heighten political uncertainty surrounding the region's energy sector.",
+    "content_ta": "IRGC-ஆனது, sanctioned செய்யப்பட்ட Iran-ன் oil trade-ஐ தன் கட்டுப்பாட்டுக்குள் கொண்டுவர ஒரு quasi-coup-ஐ நடத்தியுள்ளதாக ஒரு புதிய அறிக்கை வெளிப்படுத்துந்துள்ளது. இந்த நடவடிக்கைகள் நாட்டின் தலைமையை மேலும் ஸ்திரத்தன்மையற்றதாக மாற்றக்கூடும் என்றும், oil trade இயக்கவியலைப் பாதித்து அரசியல் நிச்சயமற்ற தன்மையை அதிகரிக்கும் என்றும் ஆய்வாளர்கள் எச்சரிக்கின்றனர்.",
+    "slug": "irgc-orchestrates-quasi-coup-to-control-iran-s-sanctioned-oil-trade-report"
+  },
+  {
+    "id": "d1883cda39a52eca",
+    "title": "Bithumb among three South Korean financial firms reporting data breaches",
+    "summary": "The breaches highlight the urgent need for enhanced cybersecurity measures in South Korea's financial sector to protect sensitive data.\nThe post Bithumb among three South Korean financial firms reporting data breaches appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/bithumb-south-korean-firms-data-breaches/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Bithumb",
+      "South Korea"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T04:31:39.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.774Z",
+    "isDuplicateOf": null,
+    "content": "Bithumb is among three South Korean financial firms that have reported data breaches. These incidents highlight the urgent need for enhanced cybersecurity measures across the financial sector in South Korea to better protect sensitive customer and institutional data.",
+    "content_ta": "South Korea-வைச் சேர்ந்த Bithumb உள்ளிட்ட மூன்று நிதி நிறுவனங்கள் தரவு திருட்டு (data breach) சம்பவங்களைப் புகாரளித்துள்ளன. இந்தச் சம்பவங்கள், சென்சிடிவ் தரவுகளைப் பாதுகாக்க South Korea-வின் நிதித் துறையில் மேம்படுத்தப்பட்ட சைபர் பாதுகாப்பு நடவடிக்கைகள் எவ்வுளவு அவசியமாகிறது என்பதை வலியுறுத்துகின்றன.",
+    "slug": "bithumb-among-three-south-korean-financial-firms-reporting-data-breaches"
+  },
+  {
+    "id": "0165ae99feb400b5",
+    "title": "Jack Dorsey warns Bitcoin fails if reduced to digital gold",
+    "summary": "Dorsey's stance highlights the critical need for Bitcoin's evolution into a widely-used transactional currency to fulfill its original vision.\nThe post Jack Dorsey warns Bitcoin fails if reduced to digital gold appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/jack-dorsey-bitcoin-digital-gold-warning/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Jack Dorsey",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T04:16:17.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.774Z",
+    "isDuplicateOf": null,
+    "content": "Jack Dorsey has warned that Bitcoin will ultimately fail if it is reduced to acting merely as digital gold. According to Dorsey, the cryptocurrency needs to function as a widely used transactional currency to truly succeed and fulfill its original purpose. This perspective emphasizes the ongoing debate within the community regarding Bitcoin's primary role as either a store of value or a medium of exchange.",
+    "content_ta": "Bitcoin டிஜிட்டல் தங்கமாக மட்டுமே சுருக்கப்பட்டால் அது இறுதியில் தோல்வியடையும் என்று Jack Dorsey எச்சரித்துள்ளார். Bitcoin தனது உண்மையான நோக்கத்தை நிறைவேற்றவும் வெற்றிபெறவும் பரவலாகப் பயன்படுத்தப்படும் பரிவர்த்தனை நாணயமாக செயல்பட வேண்டும் என்று அவர் குறிப்பிட்டார்.",
+    "slug": "jack-dorsey-warns-bitcoin-fails-if-reduced-to-digital-gold"
+  },
+  {
+    "id": "4c54ea391ee1e073",
+    "title": "DBS survey finds 88% of large businesses are using or piloting tokenised money",
+    "summary": "The widespread adoption of tokenised money by large businesses signals a shift towards digital finance, impacting banking and corporate strategies.\nThe post DBS survey finds 88% of large businesses are using or piloting tokenised money appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/dbs-survey-businesses-tokenised-money/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "DBS"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T03:44:27.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.774Z",
+    "isDuplicateOf": null,
+    "content": "A recent DBS survey reveals that 88% of large businesses are actively using or piloting tokenised money. This widespread adoption highlights a significant shift toward digital finance among major corporations, which is set to impact traditional banking systems and corporate financial strategies moving forward.",
+    "content_ta": "DBS நடத்திய புதிய ஆய்வின்படி, 88 சதவீத பெரிய வணிக நிறுவனங்கள் டோக்கனைஸ்டு பணத்தைப் பயன்படுத்துகின்றன அல்லது சோதித்து வருகின்றன. பெருநிறுவனங்கள் மத்தியில் டிஜிட்டல் நிதித்துறை நோக்கி ஏற்பட்டுள்ள இந்த பரவலான மாற்றம், பாரம்பரிய வங்கி முறைகள் மற்றும் பெருநிறுவனங்களின் நிதி உத்திகளைப் பாதிக்கும்.",
+    "slug": "dbs-survey-finds-88-of-large-businesses-are-using-or-piloting-tokenised-money"
+  },
+  {
+    "id": "e93fab8e6a5616b5",
+    "title": "Binance credits ASMLB holders with $1.79 per share dividend in extra tokens",
+    "summary": "Binance's token dividend approach highlights the evolving landscape of tokenized equities, balancing reinvestment benefits with liquidity trade-offs.\nThe post Binance credits ASMLB holders with $1.79 per share dividend in extra tokens appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/binance-asmlb-dividend-179-per-share/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Binance",
+      "ASMLB"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T03:05:06.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.774Z",
+    "isDuplicateOf": null,
+    "content": "Binance has credited ASMLB holders with a dividend of $1.79 per share, distributed in the form of extra tokens. This tokenized approach illustrates the changing nature of tokenized equities, balancing the advantages of reinvestment against potential liquidity trade-offs in the digital asset ecosystem.",
+    "content_ta": "Binance நிறுவனம் ASMLB பங்குகளின் உரிமையாளர்களுக்கு ஒரு பங்குக்கு $1.79 வீதம் கூடுதல் டோக்கன்களாக ஈவுத்தொகையை வழங்கியுள்ளது. இந்த டோக்கன்மயமாக்கப்பட்ட ஈவுத்தொகை முறை, டிஜிட்டல் சொத்து சந்தையில் மறுமுதலீட்டு நன்மைகளையும் பணப்புழக்கச் சமநிலையையும் எடுத்துக்காட்டுகிறது.",
+    "slug": "binance-credits-asmlb-holders-with-1-79-per-share-dividend-in-extra-tokens"
+  },
+  {
+    "id": "1ab0f38bc031a10d",
+    "title": "Cowboy Space Corporation unveils Big Iron, a rocket that becomes an orbital data center",
+    "summary": "Cowboy Space's innovation could revolutionize data center operations by leveraging constant solar power in orbit, reducing terrestrial constraints.\nThe post Cowboy Space Corporation unveils Big Iron, a rocket that becomes an orbital data center appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/cowboy-space-big-iron-orbital-data-center/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Cowboy Space Corporation"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T03:04:53.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.774Z",
+    "isDuplicateOf": null,
+    "content": "Cowboy Space Corporation has announced Big Iron, a novel rocket designed to function as an orbital data center. This innovation aims to transform traditional data center operations by utilizing continuous solar power in space, thereby overcoming various terrestrial limitations and opening new possibilities for orbital computing.",
+    "content_ta": "Cowboy Space Corporation நிறுவனம் Big Iron என்ற புதிய ராக்கெட்டை அறிமுகப்படுத்தியுள்ளது. இது விண்வெளியில் ஒரு ஆர்பிட்டல் டேட்டா சென்டராக செயல்படும் வகையில் வடிவமைக்கப்பட்டுள்ளது. இந்த புதுமையான தொழில்நுட்பம் விண்வெளியில் உள்ள சூரிய சக்தியைப் பயன்படுத்தி டேட்டா சென்டர் செயல்பாடுகளில் புரட்சியை ஏற்படுத்தி, பூமி சார்ந்த பல தடைகளைத் தாண்டி விண்வெளி கணினி சேவைகளை மேம்படுத்தும்.",
+    "slug": "cowboy-space-corporation-unveils-big-iron-a-rocket-that-becomes-an-orbital-data-center"
+  },
+  {
+    "id": "a814bb1967d5ae43",
+    "title": "Ripple XRP News: Garlinghouse Celebrates OCC Charter As Bessent Promises CLARITY Act Workaround At Swell",
+    "summary": "The post Ripple XRP News: Garlinghouse Celebrates OCC Charter As Bessent Promises CLARITY Act Workaround At Swell appeared first on Coinpedia Fintech News\nRipple Swell’s main event had not even started yet. Even so, Ripple used the opening day of its tenth annual conference to sign Robinhood, deepen its ties with BNY, launch a corporate treasury product and celebrate a federal bank charter. The US Treasury Secretary was also on stage. The bigger story is how Washington now …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/news/ripple-xrp-news-garlinghouse-celebrates-occ-charter-as-bessent-promises-clarity-act-workaround-at-swell/",
+    "source": "Coinpedia",
+    "tags": [
+      "Ripple",
+      "XRP",
+      "Robinhood",
+      "BNY",
+      "Scott Bessent",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T05:05:13.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.774Z",
+    "isDuplicateOf": null,
+    "content": "At its tenth annual Ripple Swell conference, Ripple made major announcements, including signing Robinhood, expanding ties with BNY, launching a treasury product, and celebrating an OCC federal bank charter. US Treasury Secretary Scott Bessent also appeared on stage, discussing potential workarounds regarding the CLARITY Act.",
+    "content_ta": "Ripple நிறுவனத்தின் பத்தாவது ஆண்டு மாநாடான Ripple Swell-ல், Robinhood உடன் ஒப்பந்தம், BNY-உடன் உறவு மேம்பாடு மற்றும் புதிய தயாரிப்பு அறிமுகம் போன்ற முக்கிய அறிவிப்புகள் வெளியிடப்பட்டன. மேலும் OCC பெடரல் வங்கி உரிமம் கொண்டாடப்பட்டது. US Treasury Secretary Scott Bessent மேடையில் தோன்றி CLARITY Act தொடர்பான விவகாரங்கள் குறித்துப் பேசினார்.",
+    "slug": "ripple-xrp-news-garlinghouse-celebrates-occ-charter-as-bessent-promises-clarity-act-workaround-at"
+  },
+  {
+    "id": "485dc07b07ca0018",
+    "title": "Jio Share Price 2026: Should You Buy Today Or Wait?",
+    "summary": "The post Jio Share Price 2026: Should You Buy Today Or Wait? appeared first on Coinpedia Fintech News\nJio Platforms opened at ₹1,358 on Wednesday, 21.4% above its ₹1,119 issue price, leaving new buyers to decide whether to enter now or wait. The debut has already pushed the stock close to brokerage targets. Nomura’s ₹1,340 target has been crossed, while Motilal Oswal’s ₹1,350 and Elara’s ₹1,367 imply little room left from the listing …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/crypto-live-news/jio-share-price-2026-should-you-buy-today-or-wait/",
+    "source": "Coinpedia",
+    "tags": [
+      "Jio Platforms",
+      "Nomura",
+      "Motilal Oswal",
+      "Elara"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T04:55:41.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.774Z",
+    "isDuplicateOf": null,
+    "content": "Jio Platforms opened at ₹1,358 on Wednesday, marking a 21.4% increase above its ₹1,119 issue price. This strong debut has pushed the stock close to several brokerage targets, leaving investors to decide whether to buy now or wait for better entry points. Nomura's ₹1,340 target has already been crossed, while targets from Motilal Oswal and Elara suggest limited upside from current listing levels.",
+    "content_ta": "புதன்கிழமை அன்று Jio Platforms பங்குகளின் விலை ₹1,358 ஆகத் தொடங்கியது, இது அதன் வெளியீட்டு விலையான ₹1,119 ஐ விட 21.4% அதிகமாகும். இந்த வலுவான தொடக்கத்தால் பங்கு விலை தரகு நிறுவனங்களின் இலக்குகளை நெருங்கியுள்ளது, இதனால் முதலீட்டாளர்கள் இப்போது வாங்கலாமா அல்லது காத்திருக்கலாமா என்று யோசித்து வருகின்றனர். Nomura இன் ₹1,340 இலக்கு ஏற்கனவே தாண்டப்பட்டுள்ளது, அதே நேரத்தில் Motilal Oswal மற்றும் Elara இன் இலக்குகள் தற்போதைய மட்டத்திலிருந்து அதிக லாபத்திற்கான வாய்ப்பு குறைவு என்பதைக் காட்டுகின்றன.",
+    "slug": "jio-share-price-2026-should-you-buy-today-or-wait"
+  },
+  {
+    "id": "e6360f006d27c224",
+    "title": "Jio Grey Market Price Today Before Listing",
+    "summary": "The post Jio Grey Market Price Today Before Listing appeared first on Coinpedia Fintech News\nJio Platforms shares carried a grey market premium of ₹247 on listing morning, pointing to an opening price near ₹1,366, about 22.07% above the ₹1,119 issue price. Expectations are much weaker for Paras Healthcare, the other company listing on Wednesday, whose grey market premium stood at just ₹13 as of October 27. Paras Healthcare’s ₹1,450 …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/crypto-live-news/jio-gray-market-price-today-before-listing/",
+    "source": "Coinpedia",
+    "tags": [
+      "Jio Platforms",
+      "Paras Healthcare"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T04:19:11.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.774Z",
+    "isDuplicateOf": null,
+    "content": "Jio Platforms shares showed strong momentum on listing morning with a significant grey market premium, indicating a robust opening price well above the issue price. Meanwhile, expectations remained much weaker for Paras Healthcare, which is also listing this week, reflecting a much lower grey market premium ahead of its market debut.",
+    "content_ta": "லிஸ்டிங் தினத்திற்கு முன்பு Jio Platforms பங்குகளின் கிரே மார்க்கெட் பிரீமியம் உயர்ந்து காணப்பட்டது, இது வெளியீட்டு விலையை விட அதிக விலையில் தொடங்கும் என்பதைக் குறிக்கிறது. இதற்கிடையில், இந்த வாரம் பங்குச் சந்தையில் நுழையும் Paras Healthcare நிறுவனத்திற்கு குறைந்த எதிர்பார்ப்புகளே உள்ளன.",
+    "slug": "jio-grey-market-price-today-before-listing"
+  },
+  {
+    "id": "d9ccc9c37b0d8fa8",
+    "title": "Jio Share Price Target: Nomura, Motilal Oswal And Elara Start Coverage With Buy",
+    "summary": "The post Jio Share Price Target: Nomura, Motilal Oswal And Elara Start Coverage With Buy appeared first on Coinpedia Fintech News\nThree brokerages have started coverage of Jio Platforms with Buy ratings on its listing day, setting targets roughly 20% to 22% above the ₹1,119 issue price. Elara Securities has the highest target at ₹1,367, followed by Motilal Oswal at ₹1,350 and Nomura at ₹1,340. Nomura called Jio a scale leader moving into a phase of …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/crypto-live-news/jio-share-price-target-nomura-motilal-oswal-and-elara-start-coverage-with-buy/",
+    "source": "Coinpedia",
+    "tags": [
+      "Jio Platforms",
+      "Nomura",
+      "Motilal Oswal",
+      "Elara Securities"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-28T04:15:25.000Z",
+    "fetchedAt": "2026-10-28T06:01:30.774Z",
+    "isDuplicateOf": null,
+    "content": "Three major brokerages, Nomura, Motilal Oswal, and Elara Securities, have initiated coverage on Jio Platforms with Buy ratings on its listing day. The firms set price targets roughly 20% to 22% above the initial issue price of ₹1,119. Elara Securities announced the highest target at ₹1,367, followed by Motilal Oswal at ₹1,350 and Nomura at ₹1,340, highlighting Jio as a scale leader entering a new phase of growth.",
+    "content_ta": "Nomura, Motilal Oswal மற்றும் Elara Securities ஆகிய மூன்று முக்கிய தரகு நிறுவனங்கள் Jio Platforms நிறுவனத்தின் பங்குகளை வாங்குவதற்கான (Buy) பரிந்துரையுடன் தங்கள் ஆய்வைத் தொடங்கியுள்ளன. ஆரம்ப வெளியீட்டு விலையான ₹1,119-ஐ விட சுமார் 20% முதல் 22% வரை இலக்கு விலையை இந்த நிறுவனங்கள் நிர்ணயித்துள்ளன. Elara Securities அதிகபட்சமாக ₹1,367 இலக்கை நிர்ணயித்த நிலையில், Motilal Oswal ₹1,350 மற்றும் Nomura ₹1,340 என இலக்குகளை அறிவித்துள்ளன.",
+    "slug": "jio-share-price-target-nomura-motilal-oswal-and-elara-start-coverage-with-buy"
   }
 ]
