@@ -1,61 +1,614 @@
 [
   {
-    "id": "c26c797618acd5d2",
-    "title": "Former Swift CEO joins stablecoin firm OpenTrade as chairman",
-    "summary": "Lazaro Campos takes the board role as the London-based company reports $300 million in assets locked and more than $1 billion in annual transaction volume.",
-    "hasSummary": true,
-    "link": "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise",
+    "id": "8b9216eb78ba696a",
+    "slug": "treasury-secretary-bessent-says-ai-neocloud-debt-is-not-a-problem",
+    "title": "Treasury Secretary Bessent says AI neocloud debt is not a problem",
+    "tags": [
+      "Bessent"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T11:08:24.000Z"
+  },
+  {
+    "id": "7b3a7a74d036bdd4",
+    "slug": "north-korea-s-600-million-fake-worker-empire-has-a-hidden-crypto-connection",
+    "title": "North Korea’s $600 million fake-worker empire has a hidden crypto connection",
+    "tags": [
+      "North Korea",
+      "Ethereum",
+      "Tron"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T11:00:06.000Z"
+  },
+  {
+    "id": "53c64ac8562c66bf",
+    "slug": "curve-finance-launches-on-stellar-in-first-native-deployment-outside-evm-ecosystem",
+    "title": "Curve Finance launches on Stellar in first native deployment outside EVM ecosystem",
+    "tags": [
+      "Curve Finance",
+      "Stellar"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T11:00:00.000Z"
+  },
+  {
+    "id": "d289c99fdee93ed5",
+    "slug": "coast-raises-35-million-to-build-the-financial-platform-for-the-physical-economy",
+    "title": "Coast Raises $35 Million to Build the Financial Platform for the Physical Economy",
+    "tags": [
+      "Coast",
+      "Thomvest Ventures",
+      "Intuit Ventures",
+      "Small World Capital",
+      "Alpha Square Group"
+    ],
+    "source": "Financial IT",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:57:17.000Z"
+  },
+  {
+    "id": "cbbf7dc01733ba5b",
+    "slug": "cathie-wood-s-ark-buys-the-dip-on-robinhood-in-its-largest-purchase-in-6-months-after-23-slump",
+    "title": "Cathie Wood’s ARK buys the dip on Robinhood in its largest purchase in 6 months after 23% slump",
+    "tags": [
+      "Cathie Wood",
+      "ARK",
+      "Robinhood"
+    ],
     "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:51:10.000Z"
+  },
+  {
+    "id": "cc5534d454e62073",
+    "slug": "anthropic-openai-claim-ai-breakthrough-challenges-exponential-time-hypothesis",
+    "title": "Anthropic, OpenAI claim AI breakthrough challenges Exponential Time Hypothesis",
+    "tags": [
+      "Anthropic",
+      "OpenAI"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:48:46.000Z"
+  },
+  {
+    "id": "e3af0af8ffc5e4fb",
+    "slug": "bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k",
+    "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K",
+    "tags": [
+      "Bitcoin",
+      "Glassnode"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:46:43.000Z"
+  },
+  {
+    "id": "2dd501c26f71720b",
+    "slug": "fca-stops-htx-s-crypto-promotions",
+    "title": "FCA stops HTX’s crypto promotions",
+    "tags": [
+      "FCA",
+      "HTX",
+      "United Kingdom"
+    ],
+    "source": "Crowdfund Insider",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:46:09.000Z"
+  },
+  {
+    "id": "1579d2f30c8c709b",
+    "slug": "could-binance-have-a-future-in-europe-after-lagarde-s-ecb-exit",
+    "title": "Could Binance Have a Future in Europe After Lagarde's ECB Exit?",
+    "tags": [
+      "Binance",
+      "ECB",
+      "European Union",
+      "Christine Lagarde"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:46:06.000Z"
+  },
+  {
+    "id": "0207938d00375808",
+    "slug": "what-does-fair-value-look-like-in-practice-three-years-into-the-consumer-duty-here-s-what-we-ve",
+    "title": "What does ‘fair value’ look like in practice? Three years into the Consumer Duty, here’s what we’ve learned.",
+    "tags": [
+      "Consumer Duty"
+    ],
+    "source": "Crowdfund Insider",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:46:06.000Z"
+  },
+  {
+    "id": "0bcd1567409e7d44",
+    "slug": "hyphenate-raises-45m-series-a-following-86x-revenue-growth-as-cfos-move-to-autonomous-finance",
+    "title": "Hyphenate Raises $45M Series A Following 86x Revenue Growth as CFOs Move to Autonomous Finance",
+    "tags": [
+      "Hyphenate",
+      "Nexus Venture Partners",
+      "B Capital",
+      "Foundation Capital",
+      "Groupon",
+      "Synthesia"
+    ],
+    "source": "Financial IT",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:45:57.000Z"
+  },
+  {
+    "id": "16af112ad4f6b91e",
+    "slug": "how-to-get-offered-3-million-in-bitcoin-bets-call-it-a-dead-network-on-x",
+    "title": "How to Get Offered $3 Million in Bitcoin Bets: Call It a ‘Dead Network’ on X",
+    "tags": [
+      "Bitcoin",
+      "Jason Calacanis"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:45:53.000Z"
+  },
+  {
+    "id": "79d9d3f0f5615700",
+    "slug": "solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-160-million-after-validator-goes",
+    "title": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
+    "tags": [
+      "Solana",
+      "Solflare"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:44:48.000Z"
+  },
+  {
+    "id": "73a9682fa7916dd8",
+    "slug": "tokenized-commodities-supply-on-solana-hits-record-63-2-million",
+    "title": "Tokenized commodities supply on Solana hits record $63.2 million",
+    "tags": [
+      "Solana"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:43:01.000Z"
+  },
+  {
+    "id": "cfe58a212b767b95",
+    "slug": "nyse-parent-ice-teams-with-hyperliquid-linked-trade-xyz-to-bring-perpetual-futures-to-us-markets",
+    "title": "NYSE parent ICE teams with Hyperliquid-linked Trade.xyz to bring perpetual futures to US markets",
+    "tags": [
+      "NYSE",
+      "ICE",
+      "Trade.xyz",
+      "Hyperliquid",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:42:02.000Z"
+  },
+  {
+    "id": "f65a2bd3685e4809",
+    "slug": "openai-and-other-ai-labs-face-calls-for-real-time-monitoring-of-ai-agents",
+    "title": "OpenAI and other AI labs face calls for real-time monitoring of AI agents",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:38:42.000Z"
+  },
+  {
+    "id": "6911eaec02c6b287",
+    "slug": "wealthsimple-raises-425-million-at-13-8-billion-valuation-to-accelerate-growth",
+    "title": "Wealthsimple Raises $425 Million at $13.8 Billion Valuation to Accelerate Growth",
+    "tags": [
+      "Wealthsimple",
+      "GIC",
+      "Canada",
+      "Power Corporation of Canada",
+      "ICONIQ"
+    ],
+    "source": "Financial IT",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:38:00.000Z"
+  },
+  {
+    "id": "dfe9c377a37c8a2d",
+    "slug": "american-express-card-payments-now-accepted-through-tbc-channels-in-georgia",
+    "title": "American Express Card Payments Now Accepted Through TBC Channels in Georgia",
+    "tags": [
+      "American Express",
+      "TBC Georgia",
+      "Georgia"
+    ],
+    "source": "Financial IT",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:34:28.000Z"
+  },
+  {
+    "id": "91541a8900a75908",
+    "slug": "coinbase-s-october-30-deadline-raises-concerns-will-stablecoin-traders-move-to-dexs",
+    "title": "Coinbase’s October 30 deadline raises concerns – Will stablecoin traders move to DEXs?",
+    "tags": [
+      "Coinbase"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:30:27.000Z"
+  },
+  {
+    "id": "87a8b280ad207b98",
+    "slug": "ecb-president-christine-lagarde-to-step-down-in-february-2027",
+    "title": "ECB President Christine Lagarde to step down in February 2027",
+    "tags": [
+      "European Central Bank",
+      "Christine Lagarde"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:29:38.000Z"
+  },
+  {
+    "id": "0efb3539832f1607",
+    "title": "Mollie Enables 60+ Operational Financial Workflows in Everyday AI Tools",
+    "summary": "Mollie now enables businesses to manage their daily financial operations directly from their preferred AI assistants Claude and ChatGPT. The European financial services provider today launched official AI plugins an upgraded open Model Context Protocol (MCP) server, allowing companies to execute more than 60 business operations, from creating checkout links and managing subscriptions, through natural conversation, backed by bank-grade security and transparent human oversight.\nThe launch marks a significant shift in how companies interact with financial software. Instead of navigating separate menus for routine administrative tasks, operators and finance teams can now execute end-to-end workflows directly within the conversational tools they already use every day.\nReady in 60 seconds with clear permissions\nConnecting Mollie to an AI workspace requires zero technical configuration, code, or manual API handling:\nStandard Authorisation: Users connect securely via an intuitive OAuth authorisation screen supported across major AI assistant directories and platforms.\nTransparent Access Scopes: Operators can view and manage exactly what capabilities their AI assistant can prepare, keeping administrative boundaries clear.\nInstant Activation: Setup takes less than a minute, allowing non-technical teams to automate recurring workflows immediately without IT overhead.\nBreadth in action: 60+ operations across daily business\nMoving beyond simple reporting or text summaries, the integration gives AI assistants the ability to prepare concrete, multi-step actions across Mollie’s infrastructure:\nPayment Links & Checkouts:\n\nSubscription Management:\n\nDraft Invoicing:\n\nReal-Time Financial Intelligence:\n\n\nYou stay in control. Bank-grade security with human sign-off\nThe AI assistant functions as an operational partner that formats requests, verifies parameters, and removes administrative friction. However, human authorization remains front and center:\nThe assistant cannot move money autonomously. It formats the transaction, validates recipient details, and pauses. Funds only move after a user explicitly reviews and signs off on the transfer summary.\nThe integration adheres strictly to the existing roles, daily limits, and security controls already configured in the user’s Mollie account.\n\"Entrepreneurs and finance teams want to spend their time growing their business, not managing administrative routines,\" says Rogier Schoute, Chief Product Officer at Mollie. \"By bringing regulated financial capabilities directly into everyday conversational workspaces, we are making financial management intuitive and frictionless. Whether you are processing a refund in a single sentence or automating recurring billing workflows, the AI handles the operational prep work—while the business owner always stays firmly in the driver’s seat.\"\nNoYesArtificial Intelligence29 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/artificial-intelligence/mollie-enables-60-operational-financial-workflows-everyday-ai-tools",
+    "source": "Financial IT",
+    "tags": [
+      "Mollie",
+      "Claude",
+      "ChatGPT"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-29T10:28:02.000Z",
+    "fetchedAt": "2026-10-29T11:09:35.899Z",
+    "isDuplicateOf": null,
+    "content": "Mollie has launched official AI plugins and an upgraded Model Context Protocol server for Claude and ChatGPT. This integration allows European businesses to execute over 60 financial workflows, including creating checkout links and managing subscriptions, directly through natural conversation. The system features bank-grade security and requires explicit human authorization for all financial transfers, ensuring businesses maintain full control over their operations.",
+    "content_ta": "Claude மற்றும் ChatGPT க்கான அதிகாரப்பூர்வ AI பிளக்குகள் மற்றும் மேம்படுத்தப்பட்ட Model Context Protocol சேவையகத்தை Mollie அறிமுகப்படுத்தியுள்ளது. இந்த ஒருங்கிணைப்பு மூலம் ஐரோப்பிய வணிகங்கள் செக்ப் அவுட் இணைப்புகளை உருவாக்குவது மற்றும் சந்தாக்களை நிர்வகிப்பது உள்ளிட்ட 60 க்கும் மேற்பட்ட நிதிப் பணிகளை இயற்கை உரையாடல் மூலம் நேரடியாகச் செய்ய முடியும். இந்த அமைப்பு வங்கி தரத்திலான பாதுகாப்பைக் கொண்டுள்ளது மற்றும் அனைத்து நிதிப் பரிமாற்றங்களுக்கும் மனித ஒப்புதல் அவசியமாகும்.",
+    "slug": "mollie-enables-60-operational-financial-workflows-in-everyday-ai-tools"
+  },
+  {
+    "id": "7db22131fb23bff0",
+    "title": "Broadridge Extends Its CQG Multi-Asset Offering With Kalshi",
+    "summary": "Broadridge, a global Fintech leader, today announced that Kalshi event contracts are now available for trading through the front ends and APIs of CQG, a Broadridge Company, a leading provider of futures and options trading, execution management, and market connectivity. Kalshi event contracts will also be available to participants on the NYFIX network through the CQG-NYFIX integration. This new integration brings prediction markets directly into established trading workflows, giving retail and institutional investors a new way to trade on real-world events and manage exposure across asset classes.\n \n“Investors want to turn their views on real-world events into actionable trading strategies,” said Ryan Moroney, CEO of CQG. “With Kalshi live on CQG, we’re bringing that opportunity to a platform our clients already trust, alongside the markets they already trade. It’s a powerful next step in Broadridge’s multi-asset strategy, giving investors more choices and brokers a trusted way to meet demand for prediction markets.”\n \nAs prediction markets attract growing attention from investors and policymakers, the integration pairs Kalshi’s event contract marketplace with CQG’s trading, risk management and portfolio monitoring tools. Brokers and futures commission merchants (FCMs) can offer clients direct trading access and market data, while traders can incorporate event contracts into broader portfolio and hedging strategies within a single platform.\n \n\n\"Prediction markets are now part of investors’ trading toolkits, not separate from them,” said Andy Ross, Head of Institutional at Kalshi. “Working with Broadridge and CQG brings Kalshi to a broader audience, connecting event contracts with traditional markets. Traders can now precisely hedge their exposure, not by using some proxy, while trading and monitoring positions in the same environment they already use.”\n \nBringing Prediction Markets into Established Trading Workflows\n \nThe integration offers direct trading access and market data through CQG front-ends and APIs, broadening distribution of Kalshi markets to FCMs and brokers seeking access through an established trading platform. Additionally, trading access will be made available to over 1,700 buy-side clients who rely on the NYFIX network for their connectivity. Rather than treating prediction markets as a separate trading activity, investors can use their existing infrastructure and tools to monitor event contract positions within their wider trading portfolios and evaluate hedging opportunities across markets.\n \nThe launch expands Broadridge’s multi-asset trading offering while extending Kalshi’s reach among users of CQG technology. It responds to client demand in the United States and EMEA, with access subject to applicable eligibility and jurisdictional requirements.\nNoYesInfrastructure29 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/infrastructure/broadridge-extends-its-cqg-multi-asset-offering-kalshi",
+    "source": "Financial IT",
+    "tags": [
+      "Broadridge",
+      "Kalshi",
+      "CQG",
+      "NYFIX"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-29T10:22:51.000Z",
+    "fetchedAt": "2026-10-29T11:09:35.899Z",
+    "isDuplicateOf": null,
+    "content": "Broadridge has integrated Kalshi event contracts into its CQG multi-asset trading platform and the NYFIX network. This partnership allows retail and institutional investors to trade prediction markets alongside traditional assets, combining Kalshi's marketplace with CQG's execution and risk management tools to meet growing demand in the United States and EMEA.",
+    "content_ta": "Broadridge நிறுவனம் தனது CQG multi-asset வர்த்தக தளத்திலும் NYFIX வலையமைப்பிலும் Kalshi நிகழ்வு ஒப்பந்தங்களை இணைத்துள்ளது. இந்த கூட்டாண்மை மூலம் சில்லறை மற்றும் நிறுவன முதலீட்டாளர்கள் பாரம்பரிய சொத்துக்களுடன் கணிப்பு சந்தைகளிலும் (prediction markets) வர்த்தகம் செய்ய முடியும். அமெரிக்கா மற்றும் EMEA பிராந்தியங்களில் அதிகரித்து வரும் தேவையை பூர்த்தி செய்ய இந்த ஒருங்கிணைப்பு உதவுகிறது.",
+    "slug": "broadridge-extends-its-cqg-multi-asset-offering-with-kalshi"
+  },
+  {
+    "id": "0f93277f78cda49a",
+    "title": "Airtm and BVNK Partner to Expand Wallet-Native Payments to Emerging Markets",
+    "summary": "Airtm, the trusted last-mile financial network for the Global South, and stablecoin infrastructure provider BVNK, a Mastercard company, today announced a partnership that brings wallet-native payments to emerging markets.\nThe announcement, made today at the Stellar Meridian Conference, comes as Airtm launches Airtm Connect, which allows digital asset companies around the world, including BVNK, to build wallet connections with Airtm's global user base. Through the integration, Airtm users will be able to use funds held in their wallets to pay participating retailers enabled by BVNK, while also creating new ways to fund and receive money.\nA Wallet-Native Approach to Global Commerce\nThe partnership unites two distinct capabilities: Airtm's deep roots in emerging markets and trusted position as a last-mile network, and BVNK's proven stablecoin payment infrastructure and on-ramp connectivity across global banking corridors.\nAnd with BVNK now part of Mastercard, Airtm will also have access to the recently launched Mastercard Global Money Platform, a full-stack, modular infrastructure layer for fiat and stablecoin accounts, payments and money movement, while retaining the customer relationship and avoiding the complexity of integrating multiple providers.\nThe integration will leverage the Stellar blockchain, a high speed, low-cost payment rail which was recently added to the BVNK platform.\n\"We believe payments should move natively on-chain - it’s simply a better way to move money. But origination is only half the story. For stablecoin payments to truly work, origination and destination need to be tightly connected. That’s why we’re excited to partner with BVNK,\" said Rubén Galindo Steckel, CEO of Airtm. \"BVNK has solved one of the hardest problems in fintech: reliable, compliant on-ramping at scale. At Airtm, we’ve spent the last decade building the destination layer for the global dollar economy. Together, we're closing the loop. The magic happens when users can fund it reliably and use it more easily in the real-world. That's what this partnership delivers. We're not just adding another integration. We're building the complete on-ramp-to-commerce flow that emerging market users have needed for years.\"\n\"We're excited to power Airtm's vision of wallet-native commerce,\" said Kimberly Mescal Julien, Global Head of Partnerships at BVNK. \"Airtm Connect shows what's possible when fintech platforms stop thinking about wallets as silos and start treating them as distribution channels for real-world commerce. We're honored to be the infrastructure backbone.\"\nExpanding Financial Infrastructure Options\nBVNK's stablecoin payment capabilities add optionality to Airtm's existing financial infrastructure partners, allowing Airtm to serve customers across diverse funding paths and geographies. This flexibility is critical for a network that operates across multiple jurisdictions in the Global South, including markets where stablecoins are increasingly used as a payment and store of value option, and where regulatory certainty varies and liquidity corridors are fragmented.\n\"Our infrastructure strategy has always been about choice for Airtm and for our users,\" said Rubén Galindo Steckel, CEO of Airtm. \"We're not betting on a single provider or payment rail. We're building a truly distributed last-mile network. BVNK strengthens that.\"\nNoYesPayments29 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/payments/airtm-and-bvnk-partner-expand-wallet-native-payments-emerging-markets",
+    "source": "Financial IT",
+    "tags": [
+      "Airtm",
+      "BVNK",
+      "Mastercard",
+      "Stellar",
+      "Global South"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-29T10:19:30.000Z",
+    "fetchedAt": "2026-10-29T11:09:35.899Z",
+    "isDuplicateOf": null,
+    "content": "Airtm and BVNK have announced a partnership to expand wallet-native payments in emerging markets. Announced at the Stellar Meridian Conference alongside the launch of Airtm Connect, the collaboration integrates Airtm's financial network with BVNK's stablecoin infrastructure using the Stellar blockchain. The partnership aims to enable users to use wallet funds for merchant payments and improve global commerce connectivity across the Global South.",
+    "content_ta": "Emerging markets-ல் உள்ள வாடிக்கையாளர்களுக்கு wallet-native payments வசதியை விரிவுபடுத்துவதற்காக Airtm மற்றும் BVNK நிறுவனங்கள் ஒரு புதிய கூட்டணியை அறிவித்துள்ளன. Stellar Meridian Conference-ல் அறிவிக்கப்பட்ட இந்த ஒத்துழைப்பு, Airtm Connect வெளியீட்டுடன் இணைந்து செயல்படுகிறது. Stellar blockchain-ஐ பயன்படுத்தி உருவாக்கப்பட்டுள்ள இந்த ஒருங்கிணைப்பு, பயனர்கள் தங்கள் wallet நிதியை வர்த்தகக் கொடுப்பனவுகளுக்குப் பயன்படுத்தவும், Global South பகுதியில் பணப் பரிமாற்றங்களை எளிதாக்கவும் உதவுகிறது.",
+    "slug": "airtm-and-bvnk-partner-to-expand-wallet-native-payments-to-emerging-markets"
+  },
+  {
+    "id": "b8b053bfa9e732d3",
+    "title": "Ecommpay Launches Savi – the AI Payments Expert for 24/7 Small Business Support",
+    "summary": "Following the launch of Ecommpay for Small Businesses, inclusive global payment solutions provider Ecommpay has launched Savi – a new AI-powered chatbot that will provide immediate answers to payment questions from small businesses. Designed to keep support simple, helpful and human, Savi provides clear, plain English answers, friendly guidance and tailored suggestions, escalating to human support when necessary.\nAvailable 24/7 across Ecommpay’s small business landing page, technical documentation and merchant Dashboard, Savi offers practical guidance on everything from everyday payment questions and integration to onboarding and ongoing support.\n“Few small business owners are payments experts, but the payment stage of a transaction can make or break a customer journey,” commented Luke Pierce Ionides, small business champion at Ecommpay.  “We built Savi to make payments feel less like a puzzle. It provides clear, practical help, making payments feel more manageable, and supports small businesses as they scale.”\nSavi brings to life Ecommpay’s “Let’s grow, together” message, offering clear, energetic, easy-to-follow guidance that is focused on what individual businesses are trying to achieve. It is a supportive and collaborative tool that will point businesses to the right person in the Ecommpay team if it doesn’t have the precise answer required.\n “Savi is designed to be approachable but still speaks with confidence and gets merchants the answers they need without them needing to wade through documentation and jargon,” added Luke Pierce Ionides. “Whether businesses are just getting started or planning their next steps, Savi helps them make informed decisions about payments without losing momentum.”\nEcommpay has delivered global payment processing since 2012, serving enterprise clients across Europe and other markets, through other entities and partnerships. The new small business proposition makes the underlying infrastructure of that platform – including intelligent transaction routing designed to help optimise authorisation rates and enterprise-level fraud and risk management – available to small businesses for the first time, without a volume threshold or enterprise contract. The fully brandable Hosted Payment Page, which has been accredited for accessibility by the Digital Accessibility Centre, is also included as standard, accessible from the merchant Dashboard without any technical resource.\nNoYesArtificial Intelligence29 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/artificial-intelligence/ecommpay-launches-savi-ai-payments-expert-247-small-business-support",
+    "source": "Financial IT",
+    "tags": [
+      "Ecommpay"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-29T10:15:33.000Z",
+    "fetchedAt": "2026-10-29T11:09:35.899Z",
+    "isDuplicateOf": null,
+    "content": "Global payment solutions provider Ecommpay has launched Savi, a new AI-powered chatbot designed to provide 24/7 support for small businesses. Savi offers clear, plain English answers on payment questions, integration, and onboarding, escalating to human support when necessary. The tool makes Ecommpay’s payment infrastructure and fraud management accessible to small businesses without volume thresholds or enterprise contracts.",
+    "content_ta": "குளோபல் பேமெண்ட் சொல்யூஷன்ஸ் நிறுவனமான Ecommpay, சிறு வணிகங்களுக்கு 24 மணி நேரமும் ஆதரவளிக்க Savi என்ற புதிய AI-powered சாட்போட்டை அறிமுகப்படுத்தியுள்ளது. Savi பேமெண்ட் கேள்விகள், ஒருங்கிணைப்பு மற்றும் ஆன்போர்டிங் குறித்த தெளிவான பதில்களை வழங்குகிறது. தேவைப்படும்போது மனித ஆதரவுக்கு மாற்றுகிறது. இந்த கருவி சிறு வணிகங்கள் எளிதாக பேமெண்ட் கட்டமைப்பைப் பயன்படுத்த உதவுகிறது.",
+    "slug": "ecommpay-launches-savi-the-ai-payments-expert-for-24-7-small-business-support"
+  },
+  {
+    "id": "3c48318caa079e4b",
+    "slug": "mexc-reports-88-growth-in-ai-related-tokenized-u-s-stock-and-etf-trading-volume-in-september-with",
+    "title": "MEXC Reports 88% Growth in AI-Related Tokenized U.S. Stock and ETF Trading Volume in September, With Four Infrastructure Sectors Up Over 90%",
+    "tags": [
+      "MEXC",
+      "Micron",
+      "SK hynix",
+      "Sandisk",
+      "NVIDIA",
+      "Dell",
+      "AMD",
+      "OpenAI",
+      "Polymarket"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:11:36.000Z"
+  },
+  {
+    "id": "65b480b9775c1d1f",
+    "title": "Noewe Accounting Raises Half a Million Euros to Transform the Traditional Accounting Services Model",
+    "summary": "The company was valued at €2.5 million in this investment round. The funding will support the development of an accounting service powered by artificial intelligence (AI) and automation, enabling small and medium-sized enterprises (SMEs) to access structured financial data, CFO-level insights and tax recommendations on demand.\n“I believe in the accounting model being developed by Noewe Accounting, where technology and professional expertise enable businesses to quickly obtain the financial and tax insights they need to make decisions. I see significant potential for this model in Lithuania and other European Union markets. I am committed to contributing to the project’s success not only through investment but also by actively participating in the development of technological solutions and commercial expansion. Together with the team, we aim to create a service that companies will regard as an essential tool for day-to-day business management,” says Philip Van Goethem, an investor based in Lithuania.\n“We greatly appreciate Philip’s confidence in our team and the business we are building. An experienced investor’s decision to invest and actively contribute to the project is an important confirmation that we are on the right track and that the next-generation accounting services model we are developing has significant potential. Business leaders need to know what is happening in their businesses now. Information received a month later may explain past performance, but by then it is often too late to take action. That is why we are building Noewe Accounting to ensure clients receive structured financial data and the financial and tax insights derived from it in a timely manner, helping them make concrete business decisions,” says Gediminas Laucius, Managing Partner at Noewe\nTechnology Shortens the Journey from Transaction to Decision\nThe model being developed by Noewe Accounting addresses a familiar business problem: financial information often reaches decision-makers too late. At traditional accounting firms, where much of the work is performed manually, processing invoices and transactions, posting entries to the general ledger and preparing financial statements can take weeks. The data needed to make informed decisions may only become available a month later or even further down the line.\nAutomated data collection and processing, combined with AI solutions, will enable Noewe Accounting to significantly reduce the time between a business transaction taking place and its appearance in accounting records and management reports. Clients will no longer have to wait several weeks for large volumes of invoices and transactions to be processed. The funds raised will be allocated to developing technological solutions and refining the service model, laying the groundwork for further expansion in Lithuania and other EU markets.\nNoewe Accounting will be responsible for selecting and implementing the technological solutions. Working together with each client, the company will assess how data flows through their operations, where work is being duplicated and which processes can be automated. This will improve the efficiency of the entire data-processing chain, on which the speed and quality of information depend.\nCFO-Level and Analytical Expertise for Smaller Businesses\nFaster data processing also transforms the nature of the accounting service itself. With less time spent on data entry and repetitive tasks, specialists will be able to analyse more deeply what drives a client’s profitability, where costs are rising, how cash flows are changing and what actions should be considered.\nSmall and medium-sized enterprises using Noewe Accounting’s services will be able to access high-level financial analysis, insights and advice that have traditionally been available mainly to larger companies with their own chief financial officers (CFOs) and financial analysis teams. Financial data will be complemented by assessments of the factors driving business performance, forecasts and specific recommendations for management.\n“Clients need to understand why their margins are declining, when they might face a shortage of working capital or how a planned investment will affect their cash flow. Technology will enable us to prepare the data needed for analysis quickly, while our specialists will help assess the situation and possible courses of action. Clients will be able to access this expertise as needed, without having to establish a separate financial analysis department,” says Monika Šmigelskaitė, Head of Noewe Accounting.\nTax Monitoring and Advisory as Part of the Service\n“Accounting data can reveal tax opportunities a company has yet to take advantage of, as well as areas where its operations present the greatest risks. Our goal is to turn this data into timely, actionable recommendations: which tax relief measures a company could use, which risks it should manage and how and how to optimise its tax position appropriately in light of its business activities and investment plans. These insights will become an ongoing part of the accounting service, helping business leaders make well-informed decisions,” says Sandra Pavlova, Partner at Noewe, heading the Corporate Tax Services practice.\nThe model draws on the accounting, tax, legal and strategic management expertise available across the Noewe Group. Automated financial analysis and tax assessments will help identify opportunities and risks in a timely manner and evaluate how potential decisions could affect profitability, cash flow and tax liabilities. When clients need to claim tax relief, implement recommended measures or take legal action, tax and legal specialists will provide support. This will enable clients to receive assistance throughout the entire process, from data-driven insights to the practical implementation of decisions.\n“Small and medium-sized enterprises face complex financial and tax issues, yet maintaining an in-house team of specialists across all these fields is often too expensive. A technology-driven model allows us to make this expertise available as part of an everyday service. This is where we see the opportunity to fundamentally transform what businesses can expect from their accounting partner,” says G. Laucius.\nNoYesFundraising News29 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/fundraising-news/noewe-accounting-raises-half-million-euros-transform-traditional-accounting",
+    "source": "Financial IT",
+    "tags": [
+      "Noewe Accounting",
+      "Lithuania",
+      "European Union"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-29T10:11:35.000Z",
+    "fetchedAt": "2026-10-29T11:09:35.899Z",
+    "isDuplicateOf": null,
+    "content": "Noewe Accounting has successfully raised half a million euros in a new investment round, valuing the company at €2.5 million. The funding will be used to develop an AI-powered and automated accounting service aimed at helping small and medium-sized enterprises access structured financial data, CFO-level insights, and tax recommendations on demand, supporting the company's expansion across Lithuania and the European Union.",
+    "content_ta": "Noewe Accounting நிறுவனம் புதிய முதலீட்டு சுற்றில் அரை மில்லியன் யூரோக்களை வெற்றிகரமாகத் திரட்டியுள்ளது, இதன் மூலம் இந்நிறுவனத்தின் மதிப்பு 2.5 மில்லியன் யூரோக்களாக மதிப்பிடப்பட்டுள்ளது. இந்த நிதி முதலீடு AI மற்றும் ஆட்டோமேஷன் தொழில்நுட்ப அடிப்படையிலான கணக்கியல் சேவைகளை மேம்படுத்தப் பயன்படுத்தப்படும். இது லித்துவேனியா மற்றும் ஐரோப்பிய ஒன்றிய சந்தைகளில் உள்ள சிறு மற்றும் நடுத்தர நிறுவனங்களுக்கு கட்டமைக்கப்பட்ட நிதித் தரவுகள் மற்றும் வரிக் கருத்துகளை வழங்க உதவும்.",
+    "slug": "noewe-accounting-raises-half-a-million-euros-to-transform-the-traditional-accounting-services-model"
+  },
+  {
+    "id": "615339ac4008d449",
+    "slug": "omg-network-price-prediction-2026-2027-2030-when-will-omg-retest-its-all-time-high",
+    "title": "OMG Network Price Prediction 2026, 2027 -2030: When Will OMG Retest Its All-time High?",
+    "tags": [
+      "OMG Network",
+      "Ethereum"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:06:00.000Z"
+  },
+  {
+    "id": "11d9b40bd16b51a1",
+    "slug": "natwest-nationwide-and-hsbc-uk-join-cfit-financial-inclusion-coalition",
+    "title": "NatWest, Nationwide and HSBC UK Join CFIT Financial Inclusion Coalition",
+    "tags": [
+      "NatWest",
+      "Nationwide",
+      "HSBC UK",
+      "CFIT",
+      "United Kingdom"
+    ],
+    "source": "The Fintech Times",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:00:50.000Z"
+  },
+  {
+    "id": "b1b47c62af16eb6e",
+    "slug": "ripple-president-breaks-down-why-tokenization-is-crypto-s-next-big-chapter",
+    "title": "Ripple President Breaks Down Why Tokenization Is Crypto's Next Big Chapter",
+    "tags": [
+      "Ripple",
+      "Robinhood"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:00:23.000Z"
+  },
+  {
+    "id": "f9fe883d4ec1df04",
+    "slug": "bermuda-taps-walletconnect-to-advance-its-onchain-economy-plan",
+    "title": "Bermuda taps WalletConnect to advance its onchain economy plan",
+    "tags": [
+      "Bermuda",
+      "WalletConnect"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:00:00.000Z"
+  },
+  {
+    "id": "f43b2f3cc0f6455f",
+    "slug": "arbitrum-active-addresses-surge-to-1-09-million-copy",
+    "title": "Arbitrum Active Addresses Surge to 1.09 Million  Copy",
+    "tags": [
+      "Arbitrum",
+      "Ethereum"
+    ],
+    "source": "Bitcoinist",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T10:00:00.000Z"
+  },
+  {
+    "id": "04dce05aea62cc0c",
+    "slug": "elavon-ceo-trust-not-speed-will-rule-in-agentic-commerce",
+    "title": "Elavon CEO: Trust, not speed, will rule in agentic commerce",
+    "tags": [
+      "Elavon",
+      "Paze",
+      "Wally Mlynarski",
+      "U.S. Bank"
+    ],
+    "source": "Banking Dive",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T09:55:00.000Z"
+  },
+  {
+    "id": "7b1f333c0f85ecb2",
+    "slug": "bitcoin-could-reach-1-6-million-by-2036-but-82-of-the-forecast-rests-on-one-bet",
+    "title": "Bitcoin could reach $1.6 million by 2036, but 82% of the forecast rests on one bet",
+    "tags": [
+      "Bitcoin",
+      "JPMorgan",
+      "CryptoSlate"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T09:50:24.000Z"
+  },
+  {
+    "id": "172cc9c0f44ad352",
+    "slug": "big-tech-s-ai-boom-faces-a-quiet-threat-from-server-depreciation-math",
+    "title": "Big Tech’s AI boom faces a quiet threat from server depreciation math",
+    "tags": [
+      "Big Tech"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T09:35:36.000Z"
+  },
+  {
+    "id": "7ebbdb09477191c4",
+    "title": "Icon Solutions Appoints Raquel Guillot as Southern Europe Sales Director to Drive Global Adoption of the Icon Payments Framework",
+    "summary": "Icon Solutions – the UK fintech enabling banks globally to design and implement state-of-the-art payment systems – has appointed Raquel Guillot as Southern Europe Sales Director, to drive adoption of the Icon Payments Framework (IPF) across the region.\nGuillot brings around 20 years of experience spanning banking, analytics, fraud prevention, payments and core banking technology. She began her career at Citibank before moving into financial technology, holding roles at SAS, ACI Worldwide and other technology providers, including Thought Machine.\nIPF is the internationally proven payments development framework trusted by banks across the globe, including Citi, UBS, NatWest and BNP Paribas. It enables banks to transform their systems in an accelerated, structured and low-risk way, all on their own terms.\nBased in Madrid, Guillot will focus on expanding adoption of IPF among Tier 1 financial institutions across Southern Europe and Latin America, allowing them to deploy payment processing solutions much faster – while staying in total control of timelines and costs.\nCommenting on her appointment Raquel Guillot, said: “What attracted me to Icon was the combination of strong technology, a clear understanding of banks’ needs and a team that genuinely cares about its customers. Payments are evolving rapidly, and banks are increasingly recognising the need to modernise their infrastructure to remain competitive and deliver the experiences their customers expect. By consolidating fragmented systems and progressively moving towards a unified infrastructure that supports any payment, anytime, anywhere, banks can realise the foundational objectives of transformation – how to make more with less.”\nLiam Jeffs, Global Sales Director at Icon Solutions, commented: “Raquel’s role will be to help banks in this region understand how they can take greater control of their payment strategy, find the right path forward for their business and build the foundations for long-term growth and innovation. Raquel has the right experience to help them do just that – we are delighted to have her on board helping us with our continued expansion.”\nNoYesPeople Moves29 Oct, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/people-moves/icon-solutions-appoints-raquel-guillot-southern-europe-sales-director-drive-global",
+    "source": "Financial IT",
+    "tags": [
+      "Icon Solutions",
+      "Raquel Guillot",
+      "Citibank",
+      "SAS",
+      "ACI Worldwide",
+      "Thought Machine",
+      "Madrid",
+      "Southern Europe",
+      "Latin America"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-29T09:26:39.000Z",
+    "fetchedAt": "2026-10-29T11:09:35.899Z",
+    "isDuplicateOf": null,
+    "content": "Icon Solutions has appointed Raquel Guillot as Southern Europe Sales Director to drive global adoption of the Icon Payments Framework. Guillot brings nearly 20 years of experience in banking and financial technology, having previously worked at Citibank, SAS, ACI Worldwide, and Thought Machine. Based in Madrid, she will focus on expanding IPF adoption among financial institutions across Southern Europe and Latin America to help them modernize payment systems and accelerate digital transformation.",
+    "content_ta": "Icon Solutions நிறுவனத்தின் தெற்கு ஐரோப்பிய விற்பனை இயக்குநராக Raquel Guillot நியமிக்கப்பட்டுள்ளார். இதன் மூலம் Icon Payments Framework-இன் பயன்பாட்டை உலகளவில் விரிவுபடுத்துவதே நோக்கம் ஆகும். Citibank, SAS, ACI Worldwide மற்றும் Thought Machine போன்ற நிறுவனங்களில் பணியாற்றிய அனுபவம் கொண்ட இவர், Madrid-ஐ மையமாகக் கொண்டு செயல்படுவார். ஐரோப்பாவின் தெற்குப் பகுதி மற்றும் Latin America பகுதிகளில் உள்ள நிதி நிறுவனங்களுக்கு இந்த நவீன கட்டமைப்பு சேவையை கொண்டு சேர்ப்பதில் இவர் கவனம் செலுத்துவார்.",
+    "slug": "icon-solutions-appoints-raquel-guillot-as-southern-europe-sales-director-to-drive-global-adoption"
+  },
+  {
+    "id": "5c3c20c1eef2cec0",
+    "slug": "corporate-bitcoin-holdings-hit-1-3m-btc-almost-all-of-the-growth-came-from-one-company",
+    "title": "Corporate Bitcoin Holdings Hit 1.3M BTC — Almost All of the Growth Came From One Company",
+    "tags": [
+      "Bitcoin",
+      "CryptoQuant"
+    ],
+    "source": "ZyCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T09:16:39.000Z"
+  },
+  {
+    "id": "00342d4b390ac7d3",
+    "slug": "nvidia-ceo-jensen-huang-targeted-in-chinese-espionage-plot-ny-times-reports",
+    "title": "Nvidia CEO Jensen Huang targeted in Chinese espionage plot, NY Times reports",
+    "tags": [
+      "Nvidia",
+      "Jensen Huang",
+      "China",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T09:10:34.000Z"
+  },
+  {
+    "id": "79ae21ef22fab4f5",
+    "slug": "ankr-price-prediction-2026-2027-2030-will-ankr-price-go-up-soon",
+    "title": "ANKR Price Prediction 2026, 2027 – 2030: Will ANKR Price Go Up Soon?",
+    "tags": [
+      "Ankr",
+      "ANKR"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T09:10:00.000Z"
+  },
+  {
+    "id": "c26c797618acd5d2",
+    "slug": "former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman",
+    "title": "Former Swift CEO joins stablecoin firm OpenTrade as chairman",
     "tags": [
       "Swift",
       "OpenTrade",
       "London"
     ],
+    "source": "CoinDesk",
     "origin": "rss",
-    "pubDate": "2026-10-29T09:00:00.000Z",
-    "fetchedAt": "2026-10-29T09:01:31.038Z",
-    "isDuplicateOf": null,
-    "content": "Lazaro Campos, the former CEO of Swift, has joined London-based stablecoin firm OpenTrade as its new chairman. The appointment comes as the company reports significant milestones, including $300 million in assets locked and over $1 billion in annual transaction volume, highlighting its growing presence in the digital asset and financial technology sector.",
-    "content_ta": "Swift-ன் முன்னாள் CEO ஆன Lazaro Campos, லண்டனை தளமாகக் கொண்ட stablecoin நிறுவனமான OpenTrade-ல் புதிய தலைவராக (chairman) இணைந்துள்ளார். இந்நிறுவனம் 300 மில்லியன் டாலர் மதிப்பிலான முடக்கப்பட்ட சொத்துக்களையும் (assets locked), 1 பில்லியன் டாலருக்கும் அதிகமான வருடாந்திர பரிவர்த்தனை அளவையும் பதிவு செய்துள்ளதாக அறிவித்துள்ள நிலையில் இந்த நியமனம் வந்துள்ளது.",
-    "slug": "former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman"
+    "hasContent": true,
+    "pubDate": "2026-10-29T09:00:00.000Z"
   },
   {
     "id": "6f61642cce1c1a3c",
+    "slug": "uniswap-adds-13-137-new-addresses-in-its-biggest-growth-spike-since-2020",
     "title": "Uniswap Adds 13,137 New Addresses in Its Biggest Growth Spike Since 2020",
-    "summary": "Uniswap's latest address surge is its largest since 2020, but UNI still needs to defend $7 to keep recovery hopes alive.",
-    "hasSummary": true,
-    "link": "https://cryptopotato.com/uniswap-adds-13137-new-addresses-in-its-biggest-growth-spike-since-2020/",
-    "source": "CryptoPotato",
     "tags": [
       "Uniswap",
       "UNI"
     ],
+    "source": "CryptoPotato",
     "origin": "rss",
-    "pubDate": "2026-10-29T08:58:48.000Z",
-    "fetchedAt": "2026-10-29T09:01:31.039Z",
-    "isDuplicateOf": null,
-    "content": "Uniswap has recorded 13,137 new addresses in its largest growth spike since 2020. Despite this massive surge in network activity, the UNI token still needs to successfully defend the $7 price level in order to keep its current market recovery hopes alive.",
-    "content_ta": "Uniswap-ல் 2020-க்குப் பிறகு மிகப்பெரிய வளர்ச்சி எழுச்சியாக 13,137 புதிய அட்ரஸ்கள் சேர்க்கப்பட்டுள்ளன. நெட்வொர்க் செயல்பாட்டில் இந்த பெரிய எழுச்சி ஏற்பட்ட போதிலும், UNI தனது தற்போதைய சந்தை மீட்சி நம்பிக்கையைத் தக்கவைக்க $7 விலையை வெற்றிகரமாகப் பாதுகாக்க வேண்டியுள்ளது.",
-    "slug": "uniswap-adds-13-137-new-addresses-in-its-biggest-growth-spike-since-2020"
+    "hasContent": true,
+    "pubDate": "2026-10-29T08:58:48.000Z"
   },
   {
     "id": "aa2c43171b701371",
+    "slug": "house-democrats-demand-trump-preserve-records-of-ai-chatbot-conversations",
     "title": "House Democrats demand Trump preserve records of AI chatbot conversations",
-    "summary": "The demand highlights growing concerns over AI's role in governance, pushing for stricter oversight and transparency in digital communications.\nThe post House Democrats demand Trump preserve records of AI chatbot conversations appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/house-democrats-trump-preserve-ai-chatbot-records/",
-    "source": "CryptoBriefing",
     "tags": [
       "Donald Trump",
       "House Democrats"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-29T08:56:56.000Z",
-    "fetchedAt": "2026-10-29T09:01:31.039Z",
-    "isDuplicateOf": null,
-    "content": "House Democrats are calling on Donald Trump to ensure that all records of AI chatbot conversations are properly preserved. This demand underscores rising concerns regarding the transparency and governance of digital communications involving artificial intelligence tools in public office.",
-    "content_ta": "AI chatbot உரையாடல்களின் அனைத்து பதிவுகளையும் முறையாகப் பாதுகாக்க வேண்டும் என்று Donald Trump-யிடம் House Democrats கோரிக்கை விடுத்துள்ளனர். இந்த கோரிக்கையானது, பொது அலுவலகங்களில் செயற்கை நுண்ணறிவு கருவிகளைப் பயன்படுத்துவது தொடர்பான வெளிப்படைத்தன்மை குறித்த வளர்ந்து வரும் கவலைகளை எடுத்துக்காட்டுகிறது.",
-    "slug": "house-democrats-demand-trump-preserve-records-of-ai-chatbot-conversations"
+    "hasContent": true,
+    "pubDate": "2026-10-29T08:56:56.000Z"
   },
   {
     "id": "9627a98a5f736374",
@@ -311,515 +864,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-29T07:04:03.000Z"
-  },
-  {
-    "id": "fc176c6cfa1b5192",
-    "slug": "pi-network-pi-vs-cardano-ada-3-ais-predict-which-could-perform-better-in-q4",
-    "title": "Pi Network (PI) vs. Cardano (ADA): 3 AIs Predict Which Could Perform Better in Q4",
-    "tags": [
-      "Pi Network",
-      "Cardano"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T07:00:46.000Z"
-  },
-  {
-    "id": "d6dbc759b70dcf25",
-    "slug": "bitcoin-price-faces-11b-options-expiry-after-fomc-uncertainty-clears",
-    "title": "Bitcoin Price Faces $11B Options Expiry After FOMC Uncertainty Clears",
-    "tags": [
-      "Bitcoin",
-      "FOMC"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T07:00:25.000Z"
-  },
-  {
-    "id": "46d47c912f57d98d",
-    "slug": "chainlink-loses-21-in-october-even-as-tokens-keep-leaving-exchanges",
-    "title": "Chainlink Loses 21% in October Even as Tokens Keep Leaving Exchanges",
-    "tags": [
-      "Chainlink",
-      "Binance"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T06:51:25.000Z"
-  },
-  {
-    "id": "56d02b8566edf1a2",
-    "slug": "rosatom-explores-us-partnership-for-small-nuclear-plants-to-power-ai-data-centers",
-    "title": "Rosatom explores US partnership for small nuclear plants to power AI data centers",
-    "tags": [
-      "Rosatom",
-      "United States",
-      "Russia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T06:46:51.000Z"
-  },
-  {
-    "id": "57529f0115000763",
-    "slug": "sony-sonenium-incubation-program-targets-playstation-games-and-anime",
-    "title": "Sony Sonenium Incubation Program Targets PlayStation Games and Anime",
-    "tags": [
-      "Sony",
-      "Soneium",
-      "PlayStation"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T06:35:17.000Z"
-  },
-  {
-    "id": "9e111666fadfc6b0",
-    "slug": "bitcoin-price-news-why-btc-may-have-hit-its-cycle-low-near-80-000",
-    "title": "Bitcoin Price News: Why BTC May Have Hit Its Cycle Low Near $80,000",
-    "tags": [
-      "Bitcoin",
-      "Lyn Alden"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T06:30:11.000Z"
-  },
-  {
-    "id": "8b77769e31578532",
-    "slug": "uni-s-6-year-wallet-spike-may-not-mean-what-it-looks-like",
-    "title": "UNI’s 6-Year Wallet Spike May Not Mean What It Looks Like",
-    "tags": [
-      "Uniswap",
-      "UNI",
-      "Santiment",
-      "BeInCrypto"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T06:16:46.000Z"
-  },
-  {
-    "id": "47f2e009b93214ee",
-    "slug": "garlinghouse-2026-is-phenomenal-year-for-ripple",
-    "title": "Garlinghouse: 2026 Is Phenomenal Year for Ripple",
-    "tags": [
-      "Ripple",
-      "Brad Garlinghouse",
-      "XRP"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T06:06:22.000Z"
-  },
-  {
-    "id": "eabb39349178a920",
-    "slug": "solflare-halts-sol-staking-rewards-after-validator-operator-loses-security-keys-details",
-    "title": "Solflare halts SOL staking rewards after validator operator loses security keys — Details",
-    "tags": [
-      "Solflare",
-      "SOL"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T06:00:44.000Z"
-  },
-  {
-    "id": "6966318478a1a3db",
-    "slug": "ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
-    "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
-    "tags": [
-      "Bitcoin",
-      "Windows",
-      "Mac"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T05:54:39.000Z"
-  },
-  {
-    "id": "0e9f0088845a25c8",
-    "slug": "alphabet-misses-q3-revenue-targets-as-ai-spending-pushes-cash-flow-deep-into-the-red",
-    "title": "Alphabet misses Q3 revenue targets as AI spending pushes cash flow deep into the red",
-    "tags": [
-      "Alphabet"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T05:54:14.000Z"
-  },
-  {
-    "id": "e23f315f39ecc307",
-    "slug": "bitwise-projects-1-6-million-bitcoin-by-2036-does-gold-hold-the-key",
-    "title": "Bitwise Projects $1.6 Million Bitcoin by 2036. Does Gold Hold the Key?",
-    "tags": [
-      "Bitwise",
-      "Bitcoin",
-      "Gold"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T05:42:09.000Z"
-  },
-  {
-    "id": "2c7734b980cd686b",
-    "slug": "ethereum-clients-patch-vulnerability-to-prevent-eth-reward-redirection",
-    "title": "Ethereum clients patch vulnerability to prevent ETH reward redirection",
-    "tags": [
-      "Ethereum",
-      "ETH"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T05:37:58.000Z"
-  },
-  {
-    "id": "4896a757b14f321e",
-    "slug": "former-ftx-coo-constance-wang-slams-netflix-s-the-altruists-and-media-coverage-of-the-collapse",
-    "title": "Former FTX COO Constance Wang slams Netflix’s The Altruists and media coverage of the collapse",
-    "tags": [
-      "FTX",
-      "Constance Wang",
-      "Netflix"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T05:34:20.000Z"
-  },
-  {
-    "id": "516e36af856e8565",
-    "slug": "security-failure-at-indian-certificate-firm-bites-ethereum-as-developers-rush-out-fixes",
-    "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
-    "tags": [
-      "eMudhra",
-      "Ethereum",
-      "Teku",
-      "Besu",
-      "India"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T05:30:34.000Z"
-  },
-  {
-    "id": "d16cbd7211a87e23",
-    "slug": "bitcoin-s-uptober-rally-falters-why-btc-is-down-4-2-in-october",
-    "title": "Bitcoin’s ‘Uptober’ rally falters – Why BTC is down 4.2% in October",
-    "tags": [
-      "Bitcoin",
-      "Federal Reserve"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T05:00:05.000Z"
-  },
-  {
-    "id": "e0e33f7d481fb87f",
-    "slug": "bitgo-plans-in-platform-access-to-wisdomtree-tokenized-treasury-fund",
-    "title": "BitGo Plans In-Platform Access to WisdomTree Tokenized Treasury Fund",
-    "tags": [
-      "BitGo",
-      "WisdomTree"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T05:00:00.000Z"
-  },
-  {
-    "id": "ac665a0cbcc02d81",
-    "slug": "your-fridge-could-one-day-stake-ether-launch-memecoins-cftc-chair",
-    "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
-    "tags": [
-      "CFTC",
-      "Ether",
-      "Mike Selig"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T04:39:49.000Z"
-  },
-  {
-    "id": "3572bc4f8d350905",
-    "slug": "eu-energy-ministers-to-tackle-energy-supply-issues-amid-middle-east-tensions",
-    "title": "EU energy ministers to tackle energy supply issues amid Middle East tensions",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-10-29T04:35:29.000Z"
-  },
-  {
-    "id": "97ca98b47d280cf9",
-    "slug": "nvidia-unveils-dsx-pod-server-racks-to-speed-up-ai-factory-buildouts",
-    "title": "Nvidia unveils DSX POD server racks to speed up AI factory buildouts",
-    "tags": [
-      "Nvidia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T04:06:25.000Z"
-  },
-  {
-    "id": "cff7e4d84daf1629",
-    "slug": "cf-benchmarks-debuts-onchain-oracle-for-institutional-crypto-price-indices",
-    "title": "CF Benchmarks Debuts Onchain Oracle for Institutional Crypto Price Indices",
-    "tags": [
-      "CF Benchmarks",
-      "CFB Oracle",
-      "Ethereum",
-      "HyperEVM",
-      "Robinhood Chain"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T04:00:00.000Z"
-  },
-  {
-    "id": "ebf9462b778b8291",
-    "slug": "hyperliquid-burns-4b-in-hype-tokens-reducing-supply-by-nearly-5",
-    "title": "Hyperliquid burns $4B in HYPE tokens, reducing supply by nearly 5%",
-    "tags": [
-      "Hyperliquid",
-      "HYPE"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T03:53:07.000Z"
-  },
-  {
-    "id": "5f915640050484d3",
-    "slug": "z-ai-s-glm-5-3-completes-3-of-13-cyberattack-scenarios-in-irregular-s-simulated-tests",
-    "title": "Z.AI’s GLM-5.3 completes 3 of 13 cyberattack scenarios in Irregular’s simulated tests",
-    "tags": [
-      "Z.AI",
-      "GLM-5.3",
-      "Irregular"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T03:44:28.000Z"
-  },
-  {
-    "id": "1b5c8e2a51f1feb3",
-    "slug": "microsoft-and-oracle-rewarded-for-disciplined-ai-spending-alphabet-punished-for-cash-burn",
-    "title": "Microsoft and Oracle rewarded for disciplined AI spending, Alphabet punished for cash burn",
-    "tags": [
-      "Microsoft",
-      "Oracle",
-      "Alphabet"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T03:28:31.000Z"
-  },
-  {
-    "id": "5e54c4c1502df0d4",
-    "slug": "s-p-500-notches-third-straight-gain-as-fed-holds-rates-steady",
-    "title": "S&P 500 notches third straight gain as Fed holds rates steady",
-    "tags": [
-      "Federal Reserve",
-      "S&P 500"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T03:24:21.000Z"
-  },
-  {
-    "id": "aa830a5d1d50c1e4",
-    "slug": "mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
-    "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
-    "tags": [
-      "Wall Street Journal",
-      "Securitize"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T03:21:24.000Z"
-  },
-  {
-    "id": "730736a128fbbab6",
-    "slug": "tampered-ledger-wallets-cost-singapore-users-2-7m-police",
-    "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
-    "tags": [
-      "Ledger",
-      "Singapore"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T03:16:32.000Z"
-  },
-  {
-    "id": "7c86903314f6a490",
-    "slug": "tencent-cloud-chief-dowson-tong-proposes-ai-strategy-overhaul-centered-on-businesses",
-    "title": "Tencent cloud chief Dowson Tong proposes AI strategy overhaul centered on businesses",
-    "tags": [
-      "Tencent",
-      "Dowson Tong"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T02:53:29.000Z"
-  },
-  {
-    "id": "5c4df6688520f9fa",
-    "slug": "treasury-buyback-fills-6-billion-again-so-why-is-bitcoin-below-80k",
-    "title": "Treasury Buyback Fills $6 Billion Again: So Why Is Bitcoin Below $80K?",
-    "tags": [
-      "Bitcoin",
-      "United States"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T02:37:44.000Z"
-  },
-  {
-    "id": "20fc2bd275588c38",
-    "slug": "a-close-race-for-mayor-of-taiwan-s-capital-raises-doubts-about-one-of-the-opposition-s-brightest",
-    "title": "A close race for mayor of Taiwan’s capital raises doubts about one of the opposition’s brightest prospects",
-    "tags": [
-      "Taiwan",
-      "Taipei"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T02:33:04.000Z"
-  },
-  {
-    "id": "28d7c77f14f33474",
-    "slug": "cftc-chief-selig-envisions-ai-agents-trading-crypto-on-their-own",
-    "title": "CFTC chief Selig envisions AI agents trading crypto on their own",
-    "tags": [
-      "CFTC",
-      "Selig"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T02:29:25.000Z"
-  },
-  {
-    "id": "dc42a8cd6e0d3007",
-    "slug": "pendle-posts-first-tvl-gain-in-a-year-as-real-world-assets-take-over",
-    "title": "Pendle posts first TVL gain in a year as real-world assets take over",
-    "tags": [
-      "Pendle"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T02:16:23.000Z"
-  },
-  {
-    "id": "bbe7e8b5922a2e32",
-    "slug": "bloomberg-among-firms-paying-up-to-100k-a-month-for-donald-trump-s-posts",
-    "title": "Bloomberg Among Firms Paying Up to $100K a Month for Donald Trump's Posts",
-    "tags": [
-      "Bloomberg",
-      "Donald Trump",
-      "Truth Social",
-      "Susquehanna",
-      "Jump Trading"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T02:13:47.000Z"
-  },
-  {
-    "id": "39ff6475d9f09301",
-    "slug": "samsung-electronics-increases-foundry-investment-in-us-and-south-korea",
-    "title": "Samsung Electronics increases foundry investment in US and South Korea",
-    "tags": [
-      "Samsung Electronics",
-      "United States",
-      "South Korea"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T02:05:48.000Z"
-  },
-  {
-    "id": "a3af94fa9a213c5b",
-    "slug": "samsung-stock-falls-3-even-as-profit-tops-80-billion-is-a-record-quarter-not-enough",
-    "title": "Samsung Stock Falls 3% Even as Profit Tops $80 Billion: Is a Record Quarter Not Enough?",
-    "tags": [
-      "Samsung",
-      "SK Hynix"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T02:03:00.000Z"
-  },
-  {
-    "id": "a67ab38c10c45d55",
-    "slug": "ripple-and-drivewealth-link-stablecoin-settlement-to-global-brokerage",
-    "title": "Ripple and DriveWealth Link Stablecoin Settlement to Global Brokerage",
-    "tags": [
-      "DriveWealth",
-      "Ripple"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T02:00:00.000Z"
-  },
-  {
-    "id": "3a84265743d86251",
-    "slug": "canton-crypto-cancore-announces-7-2m-round-as-cc-rebounds-toward-0-10",
-    "title": "Canton crypto: Cancore announces $7.2M round as CC rebounds toward $0.10",
-    "tags": [
-      "Cancore",
-      "Canton Coin"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T01:30:29.000Z"
-  },
-  {
-    "id": "64be105404dc4fff",
-    "slug": "obama-endorses-keisha-lance-bottoms-in-2026-georgia-governor-race",
-    "title": "Obama endorses Keisha Lance Bottoms in 2026 Georgia governor race",
-    "tags": [
-      "Barack Obama",
-      "Keisha Lance Bottoms",
-      "Georgia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-29T01:22:30.000Z"
   }
 ]
