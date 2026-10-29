@@ -1,105 +1,379 @@
 [
   {
-    "id": "7c86903314f6a490",
-    "title": "Tencent cloud chief Dowson Tong proposes AI strategy overhaul centered on businesses",
-    "summary": "Tencent's AI strategy shift towards business-centric applications may enhance ROI and broaden its enterprise market appeal, impacting industry dynamics.\nThe post Tencent cloud chief Dowson Tong proposes AI strategy overhaul centered on businesses appeared first on Crypto Briefing.",
+    "id": "eabb39349178a920",
+    "slug": "solflare-halts-sol-staking-rewards-after-validator-operator-loses-security-keys-details",
+    "title": "Solflare halts SOL staking rewards after validator operator loses security keys — Details",
+    "tags": [
+      "Solflare",
+      "SOL"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T06:00:44.000Z"
+  },
+  {
+    "id": "6966318478a1a3db",
+    "slug": "ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
+    "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+    "tags": [
+      "Bitcoin",
+      "Windows",
+      "Mac"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T05:54:39.000Z"
+  },
+  {
+    "id": "0e9f0088845a25c8",
+    "title": "Alphabet misses Q3 revenue targets as AI spending pushes cash flow deep into the red",
+    "summary": "Alphabet's AI investments highlight the tension between innovation and profitability, challenging its historical financial stability and investor confidence.\nThe post Alphabet misses Q3 revenue targets as AI spending pushes cash flow deep into the red appeared first on Crypto Briefing.",
     "hasSummary": true,
-    "link": "https://cryptobriefing.com/tencent-dowson-tong-ai-strategy-overhaul/",
+    "link": "https://cryptobriefing.com/alphabet-misses-q3-revenue-cash-burn/",
     "source": "CryptoBriefing",
+    "tags": [
+      "Alphabet"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-29T05:54:14.000Z",
+    "fetchedAt": "2026-10-29T06:01:21.489Z",
+    "isDuplicateOf": null,
+    "content": "Alphabet missed its Q3 revenue targets as heavy spending on artificial intelligence significantly impacted its cash flow. The financial results highlight the growing tension between funding new AI innovations and maintaining strong profitability, which has drawn attention from investors regarding the company's short-term financial stability.",
+    "content_ta": "Alphabet நிறுவனத்தின் Q3 வருவாய் இலக்குகள் ஏமாற்றம் அளித்துள்ளன. AI தொழில்நுட்பத்திற்கான அதிகப்படியான முதலீடு நிறுவனத்தின் பணப்புழக்கத்தை பெரிதும் பாதித்துள்ளது. இந்த நிதி முடிவுகள் AI புதுமைகளுக்கான நிதி ஒதுக்கீடு மற்றும் லாபத்தை பராமரிப்புக்கு இடையேயான சவால்களை வெளிச்சம் போட்டுக் காட்டுகின்றன.",
+    "slug": "alphabet-misses-q3-revenue-targets-as-ai-spending-pushes-cash-flow-deep-into-the-red"
+  },
+  {
+    "id": "e23f315f39ecc307",
+    "slug": "bitwise-projects-1-6-million-bitcoin-by-2036-does-gold-hold-the-key",
+    "title": "Bitwise Projects $1.6 Million Bitcoin by 2036. Does Gold Hold the Key?",
+    "tags": [
+      "Bitwise",
+      "Bitcoin",
+      "Gold"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T05:42:09.000Z"
+  },
+  {
+    "id": "2c7734b980cd686b",
+    "title": "Ethereum clients patch vulnerability to prevent ETH reward redirection",
+    "summary": "The swift patching of Ethereum's vulnerability underscores the importance of robust governance and proactive security in blockchain upgrades.\nThe post Ethereum clients patch vulnerability to prevent ETH reward redirection appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/ethereum-patch-glamsterdam-deposit-vulnerability/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Ethereum",
+      "ETH"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-29T05:37:58.000Z",
+    "fetchedAt": "2026-10-29T06:01:21.489Z",
+    "isDuplicateOf": null,
+    "content": "Ethereum clients have successfully patched a critical vulnerability designed to prevent unauthorized ETH reward redirection. This swift action highlights the crucial role of robust governance and proactive security measures during blockchain upgrades, ensuring the continued safety and stability of the network.",
+    "content_ta": "Ethereum கிளைன்ட்கள் ETH வெகுமதி திசைதிருப்பலைத் தவிர்க்கும் வகையில் ஒரு முக்கியமான குறைபாட்டை வெற்றிகரமாக சரி செய்துள்ளன. பிளாக்செயின் மேம்படுத்தல்களின் போது வலுவான நிர்வாகம் மற்றும் பாதுகாப்பு நடவடிக்கைகளின் முக்கியத்துவத்தை இந்த விரைவான நடவடிக்கை எடுத்துக்காட்டுகிறது.",
+    "slug": "ethereum-clients-patch-vulnerability-to-prevent-eth-reward-redirection"
+  },
+  {
+    "id": "4896a757b14f321e",
+    "title": "Former FTX COO Constance Wang slams Netflix’s The Altruists and media coverage of the collapse",
+    "summary": "Wang's critique highlights the potential for media narratives to shape public perception, impacting reputations and future industry trust.\nThe post Former FTX COO Constance Wang slams Netflix’s The Altruists and media coverage of the collapse appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/constance-wang-netflix-altruists-ftx-coverage/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "FTX",
+      "Constance Wang",
+      "Netflix"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-29T05:34:20.000Z",
+    "fetchedAt": "2026-10-29T06:01:21.489Z",
+    "isDuplicateOf": null,
+    "content": "Former FTX COO Constance Wang has criticized Netflix’s upcoming production The Altruists and recent media reporting surrounding the collapse of the cryptocurrency exchange. Wang argued that the media narratives negatively shape public perception, potentially harming reputations and undermining trust within the industry as a whole.",
+    "content_ta": "முன்னாள் FTX COO Constance Wang, Netflix-ன் The Altruists தயாரிப்பு மற்றும் கிரிப்டோகரன்சி பரிமாற்றத்தின் வீழ்ச்சி குறித்த ஊடகங்களின் செய்திகளை விமர்சித்துள்ளார். பொதுமக்களின் பார்வையை ஊடகக் கதைகள் தவறாக வடிவமைப்பதாகவும், இது நற்பெயருக்கு தீங்கு விளைவித்து தொழில்துறையின் மீதான நம்பிக்கையைக் குலைப்பதாகவும் Wang வாதிட்டார்.",
+    "slug": "former-ftx-coo-constance-wang-slams-netflix-s-the-altruists-and-media-coverage-of-the-collapse"
+  },
+  {
+    "id": "516e36af856e8565",
+    "slug": "security-failure-at-indian-certificate-firm-bites-ethereum-as-developers-rush-out-fixes",
+    "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
+    "tags": [
+      "eMudhra",
+      "Ethereum",
+      "Teku",
+      "Besu",
+      "India"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T05:30:34.000Z"
+  },
+  {
+    "id": "d16cbd7211a87e23",
+    "slug": "bitcoin-s-uptober-rally-falters-why-btc-is-down-4-2-in-october",
+    "title": "Bitcoin’s ‘Uptober’ rally falters – Why BTC is down 4.2% in October",
+    "tags": [
+      "Bitcoin",
+      "Federal Reserve"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T05:00:05.000Z"
+  },
+  {
+    "id": "e0e33f7d481fb87f",
+    "slug": "bitgo-plans-in-platform-access-to-wisdomtree-tokenized-treasury-fund",
+    "title": "BitGo Plans In-Platform Access to WisdomTree Tokenized Treasury Fund",
+    "tags": [
+      "BitGo",
+      "WisdomTree"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T05:00:00.000Z"
+  },
+  {
+    "id": "ac665a0cbcc02d81",
+    "slug": "your-fridge-could-one-day-stake-ether-launch-memecoins-cftc-chair",
+    "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
+    "tags": [
+      "CFTC",
+      "Ether",
+      "Mike Selig"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T04:39:49.000Z"
+  },
+  {
+    "id": "3572bc4f8d350905",
+    "title": "EU energy ministers to tackle energy supply issues amid Middle East tensions",
+    "summary": "EU energy strategies amid geopolitical tensions could reshape global oil markets, influencing political outcomes and economic stability.\nThe post EU energy ministers to tackle energy supply issues amid Middle East tensions appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/eu-energy-ministers-to-tackle-energy-supply-issues-amid-middle-east-tensions/",
+    "source": "CryptoBriefing",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-10-29T04:35:29.000Z",
+    "fetchedAt": "2026-10-29T06:01:21.489Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "eu-energy-ministers-to-tackle-energy-supply-issues-amid-middle-east-tensions"
+  },
+  {
+    "id": "97ca98b47d280cf9",
+    "title": "Nvidia unveils DSX POD server racks to speed up AI factory buildouts",
+    "summary": "Nvidia's DSX PODs could revolutionize AI infrastructure by drastically reducing setup time, potentially accelerating AI advancements and economic gains.\nThe post Nvidia unveils DSX POD server racks to speed up AI factory buildouts appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/nvidia-dsx-pod-ai-factory-racks/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Nvidia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-29T04:06:25.000Z",
+    "fetchedAt": "2026-10-29T06:01:21.489Z",
+    "isDuplicateOf": null,
+    "content": "Nvidia has introduced DSX POD server racks designed to significantly accelerate the construction and setup of AI factories. This new infrastructure solution aims to drastically reduce deployment times, potentially driving faster AI advancements and greater economic growth across the technology sector.",
+    "content_ta": "AI தயாரிப்பு மற்றும் அமைவுப் பணிகளை விரைவுபடுத்துவதற்காக Nvidia நிறுவனம் புதிய DSX POD சர்வர் ரேக்குகளை அறிமுகப்படுத்தியுள்ளது. இந்த புதிய உள்கட்டமைப்பு தீர்வு அமைவு நேரத்தை கணிசமாகக் குறைத்து, தொழில்நுட்ப துறையில் விரைவான AI முன்னேற்றங்களுக்கும் பொருளாதார வளர்ச்சிக்கும் வழிவகுக்கும்.",
+    "slug": "nvidia-unveils-dsx-pod-server-racks-to-speed-up-ai-factory-buildouts"
+  },
+  {
+    "id": "cff7e4d84daf1629",
+    "slug": "cf-benchmarks-debuts-onchain-oracle-for-institutional-crypto-price-indices",
+    "title": "CF Benchmarks Debuts Onchain Oracle for Institutional Crypto Price Indices",
+    "tags": [
+      "CF Benchmarks",
+      "CFB Oracle",
+      "Ethereum",
+      "HyperEVM",
+      "Robinhood Chain"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T04:00:00.000Z"
+  },
+  {
+    "id": "ebf9462b778b8291",
+    "title": "Hyperliquid burns $4B in HYPE tokens, reducing supply by nearly 5%",
+    "summary": "The token burn may enhance scarcity, potentially boosting HYPE's value, but market confidence in reaching $100 by year-end remains low.\nThe post Hyperliquid burns $4B in HYPE tokens, reducing supply by nearly 5% appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/hyperliquid-burns-4b-in-hype-tokens-reducing-supply-by-nearly-5/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Hyperliquid",
+      "HYPE"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-29T03:53:07.000Z",
+    "fetchedAt": "2026-10-29T06:01:21.489Z",
+    "isDuplicateOf": null,
+    "content": "Hyperliquid has burned $4 billion worth of HYPE tokens, cutting its total supply by nearly 5%. This massive token burn is intended to increase scarcity, which could potentially boost the value of HYPE. However, despite the reduction in supply, overall market confidence regarding the token reaching $100 by the end of the year remains relatively low.",
+    "content_ta": "Hyperliquid நிறுவனம் மதிப்புமிக்க $4 பில்லியன் அளவிலான HYPE டோக்கன்களை அழித்துள்ளது, இதன் மூலம் அதன் மொத்த புழக்க சப்ளை சுமார் 5% குறைந்துள்ளது. இந்த டோக்கன் அழிப்பு நடவடிக்கையானது பற்றாக்குறையை அதிகரித்து HYPE-ன் மதிப்பை உயர்த்தக்கூடும் என்றாலும், ஆண்டின் இறுதிக்குள் அது $100-ஐ எட்டும் என்ற சந்தையின் நம்பிக்கை குறைவாகவே உள்ளது.",
+    "slug": "hyperliquid-burns-4b-in-hype-tokens-reducing-supply-by-nearly-5"
+  },
+  {
+    "id": "5f915640050484d3",
+    "title": "Z.AI’s GLM-5.3 completes 3 of 13 cyberattack scenarios in Irregular’s simulated tests",
+    "summary": "Open-weight AI models like GLM-5.3 pose security risks due to their accessibility, potentially enabling misuse despite their capabilities.\nThe post Z.AI’s GLM-5.3 completes 3 of 13 cyberattack scenarios in Irregular’s simulated tests appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/zai-glm-53-cyberattack-tests-irregular/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Z.AI",
+      "GLM-5.3",
+      "Irregular"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-29T03:44:28.000Z",
+    "fetchedAt": "2026-10-29T06:01:21.489Z",
+    "isDuplicateOf": null,
+    "content": "Z.AI’s open-weight AI model, GLM-5.3, has successfully completed 3 of 13 cyberattack scenarios during simulated tests conducted by Irregular. While these models showcase advanced capabilities, their open-weight accessibility highlights potential security risks and the possibility of misuse. Experts continue to evaluate the safety implications of deploying such powerful AI systems in various operational environments.",
+    "content_ta": "Z.AI-யின் open-weight AI மாடலான GLM-5.3, Irregular நடத்திய உருவகப்படுத்தப்பட்ட சோதனைகளில் 13 cyberattack சூழ்நிலைகளில் 3-ஐ வெற்றிகரமாக முடித்துள்ளது. இந்த மாடல்கள் மேம்பட்ட திறன்களைக் காட்டினாலும், அவற்றின் அணுகல்தன்மை சாத்தியமான பாதுகாப்பு அபாயங்கள் மற்றும் தவறான பயன்பாடு குறித்த கவலைகளை எழுப்புகிறது.",
+    "slug": "z-ai-s-glm-5-3-completes-3-of-13-cyberattack-scenarios-in-irregular-s-simulated-tests"
+  },
+  {
+    "id": "1b5c8e2a51f1feb3",
+    "title": "Microsoft and Oracle rewarded for disciplined AI spending, Alphabet punished for cash burn",
+    "summary": "Disciplined AI spending boosts investor confidence, highlighting the importance of sustainable growth strategies in tech industry valuations.\nThe post Microsoft and Oracle rewarded for disciplined AI spending, Alphabet punished for cash burn appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/microsoft-oracle-rewarded-alphabet-cash-burn/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Microsoft",
+      "Oracle",
+      "Alphabet"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-29T03:28:31.000Z",
+    "fetchedAt": "2026-10-29T06:01:21.489Z",
+    "isDuplicateOf": null,
+    "content": "Investors have rewarded Microsoft and Oracle for their disciplined spending on artificial intelligence, boosting market confidence. Conversely, Alphabet faced market punishment due to concerns over high cash burn. This trend highlights the growing importance of sustainable financial strategies and careful capital allocation in technology industry valuations as firms invest heavily in AI infrastructure.",
+    "content_ta": "செயற்கை நுண்ணறிவுத் துறையில் கட்டுப்படுத்தப்பட்ட செலவினங்களை மேற்கொண்ட Microsoft மற்றும் Oracle நிறுவனங்களுக்கு முதலீட்டாளர்கள் பாராட்டுத் தெரிவித்துள்ளனர். இதன் மூலம் சந்தை நம்பிக்கை அதிகரித்துள்ளது. மாறாக, அதிக பணப்புழக்க இழப்பு (cash burn) குறித்த கவலைகள் காரணமாக Alphabet நிறுவனம் சந்தையின் அதிருப்தியைச் சந்தித்துள்ளது. இந்தச் சூழல் தொழில்நுட்பத் துறை மதிப்பிட்டில் நிலையான நிதி உத்திகளின் முக்கியத்துவத்தை வெளிப்படுத்துகிறது.",
+    "slug": "microsoft-and-oracle-rewarded-for-disciplined-ai-spending-alphabet-punished-for-cash-burn"
+  },
+  {
+    "id": "5e54c4c1502df0d4",
+    "title": "S&P 500 notches third straight gain as Fed holds rates steady",
+    "summary": "The Fed's steady rates hint at future hikes, impacting rate-sensitive sectors and highlighting tech's pivotal role amid economic shifts.\nThe post S&P 500 notches third straight gain as Fed holds rates steady appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/sp-500-third-straight-gain-fed-holds/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Federal Reserve",
+      "S&P 500"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-10-29T03:24:21.000Z",
+    "fetchedAt": "2026-10-29T06:01:21.489Z",
+    "isDuplicateOf": null,
+    "content": "The S&P 500 recorded its third consecutive gain following the Federal Reserve's decision to keep interest rates steady. While the move provided a short-term boost to the market, the central bank's stance hints at potential future rate hikes, influencing rate-sensitive sectors and emphasizing the ongoing importance of technology stocks during these economic shifts.",
+    "content_ta": "வட்டி விகிதங்களை Fed மாற்றாமல் வைத்திருந்ததைத் தொடர்ந்து, S&P 500 தொடர்ந்து மூன்றாவது நாளாக லாபத்துடன் முடிவடைந்தது. இந்த முடிவு சந்தைக்கு தற்காலிக ஊக்கத்தை அளித்தாலும், மத்திய வங்கியின் இந்த நிலைப்பாடு எதிர்காலத்தில் வட்டி விகிதங்கள் உயரக்கூடும் என்பதைக் குறிக்கிறது. இது வட்டி விகிதங்களை அதிகம் சார்ந்த துறைகளைப் பாதிக்கிறது மற்றும் இந்த பொருளாதார மாற்றங்களின் போது தொழில்நுட்ப பங்குகளின் முக்கியத்துவத்தை வலியுறுத்துகிறது.",
+    "slug": "s-p-500-notches-third-straight-gain-as-fed-holds-rates-steady"
+  },
+  {
+    "id": "aa830a5d1d50c1e4",
+    "slug": "mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
+    "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
+    "tags": [
+      "Wall Street Journal",
+      "Securitize"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T03:21:24.000Z"
+  },
+  {
+    "id": "730736a128fbbab6",
+    "slug": "tampered-ledger-wallets-cost-singapore-users-2-7m-police",
+    "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
+    "tags": [
+      "Ledger",
+      "Singapore"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-10-29T03:16:32.000Z"
+  },
+  {
+    "id": "7c86903314f6a490",
+    "slug": "tencent-cloud-chief-dowson-tong-proposes-ai-strategy-overhaul-centered-on-businesses",
+    "title": "Tencent cloud chief Dowson Tong proposes AI strategy overhaul centered on businesses",
     "tags": [
       "Tencent",
       "Dowson Tong"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-29T02:53:29.000Z",
-    "fetchedAt": "2026-10-29T03:01:21.734Z",
-    "isDuplicateOf": null,
-    "content": "Tencent cloud chief Dowson Tong has proposed a significant overhaul of the company's artificial intelligence strategy. The new approach focuses heavily on business-centric applications rather than consumer products. This strategic shift aims to improve return on investment and expand Tencent's presence in the competitive enterprise technology market.",
-    "content_ta": "Tencent-ன் கிளவுட் பிரிவு தலைவர் Dowson Tong, நிறுவனத்தின் AI உத்தியில் ஒரு முக்கிய மாற்றத்தை முன்மொழிந்துள்ளார். இந்த புதிய அணுகுமுறையானது நுகர்வோர் தயாரிப்புகளை விட வணிகம் சார்ந்த பயன்பாடுகளில் அதிக கவனம் செலுத்துகிறது. முதலீட்டு வருவாயை மேம்படுத்துவதும், நிறுவன தொழில்நுட்ப சந்தையில் Tencent-ன் இருப்பை விரிவுபடுத்துவதும் இந்த மூலோபாய மாற்றத்தின் நோக்கமாகும்.",
-    "slug": "tencent-cloud-chief-dowson-tong-proposes-ai-strategy-overhaul-centered-on-businesses"
+    "hasContent": true,
+    "pubDate": "2026-10-29T02:53:29.000Z"
   },
   {
     "id": "5c4df6688520f9fa",
+    "slug": "treasury-buyback-fills-6-billion-again-so-why-is-bitcoin-below-80k",
     "title": "Treasury Buyback Fills $6 Billion Again: So Why Is Bitcoin Below $80K?",
-    "summary": "Treasury filled its $6 billion buyback again, but Bitcoin did not rally. Here is what changed since August's jump.\nThe post Treasury Buyback Fills $6 Billion Again: So Why Is Bitcoin Below $80K? appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/treasury-buyback-bitcoin-no-rally/",
-    "source": "BeInCrypto",
     "tags": [
       "Bitcoin",
       "United States"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-10-29T02:37:44.000Z",
-    "fetchedAt": "2026-10-29T03:01:21.734Z",
-    "isDuplicateOf": null,
-    "content": "The U.S. Treasury recently filled a $6 billion buyback operation, yet Bitcoin failed to rally and remained trading below the $80,000 mark. Analysts are examining market conditions to understand why the latest liquidity injection did not spark a price increase similar to the market's jump back in August.",
-    "content_ta": "அமெரிக்க Treasury சமீபத்தில் $6 பில்லியன் மதிப்பிலான buyback நடவடிக்கையை நிறைவு செய்தது, இருப்பினும் Bitcoin விலை உயரவில்லை மற்றும் தொடர்ந்து $80K-க்கு கீழே வர்த்தகமாகி வருகிறது. ஆகஸ்ட் மாதத்தில் காணப்பட்டது போன்ற விலை உயர்வை இந்த பணப்புழக்க ஊக்கம் ஏன் ஏற்படுத்தவில்லை என்பதை சந்தை வல்லுநர்கள் ஆராய்ந்து வருகின்றனர்.",
-    "slug": "treasury-buyback-fills-6-billion-again-so-why-is-bitcoin-below-80k"
+    "hasContent": true,
+    "pubDate": "2026-10-29T02:37:44.000Z"
   },
   {
     "id": "20fc2bd275588c38",
+    "slug": "a-close-race-for-mayor-of-taiwan-s-capital-raises-doubts-about-one-of-the-opposition-s-brightest",
     "title": "A close race for mayor of Taiwan’s capital raises doubts about one of the opposition’s brightest prospects",
-    "summary": "The tight Taipei mayoral race could reshape Taiwan's political dynamics, influencing future leadership and party strategies significantly.\nThe post A close race for mayor of Taiwan’s capital raises doubts about one of the opposition’s brightest prospects appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/a-close-race-for-mayor-of-taiwans-capital-raises-doubts-about-one-of-the/",
-    "source": "CryptoBriefing",
     "tags": [
       "Taiwan",
       "Taipei"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-29T02:33:04.000Z",
-    "fetchedAt": "2026-10-29T03:01:21.734Z",
-    "isDuplicateOf": null,
-    "content": "A surprisingly close mayoral race in Taipei, Taiwan's capital, has cast uncertainty over the future of a rising opposition politician. This tight contest could significantly reshape Taiwan's domestic political landscape, influencing upcoming leadership trajectories and broader party strategies as major elections approach.",
-    "content_ta": "Taiwan-ன் தலைநகரான Taipei-ல் நடந்துவரும் மிகவும் நெருக்கமான mayoral தேர்தல், எதிர்க்கட்சியின் முக்கிய அரசியல்வாதியின் எதிர்காலம் குறித்த சந்தேகங்களை எழுப்பியுள்ளது. இந்தப் போட்டியானது Taiwan-ன் அரசியல் சூழலில் பெரிய மாற்றங்களை ஏற்படுத்தக்கூடும்.",
-    "slug": "a-close-race-for-mayor-of-taiwan-s-capital-raises-doubts-about-one-of-the-opposition-s-brightest"
+    "hasContent": true,
+    "pubDate": "2026-10-29T02:33:04.000Z"
   },
   {
     "id": "28d7c77f14f33474",
+    "slug": "cftc-chief-selig-envisions-ai-agents-trading-crypto-on-their-own",
     "title": "CFTC chief Selig envisions AI agents trading crypto on their own",
-    "summary": "AI-driven autonomous trading could revolutionize markets, necessitating new regulations to ensure accountability and market integrity.\nThe post CFTC chief Selig envisions AI agents trading crypto on their own appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/cftc-selig-ai-autonomous-trading-crypto/",
-    "source": "CryptoBriefing",
     "tags": [
       "CFTC",
       "Selig"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-29T02:29:25.000Z",
-    "fetchedAt": "2026-10-29T03:01:21.734Z",
-    "isDuplicateOf": null,
-    "content": "CFTC chief Selig has shared a vision where AI agents independently trade cryptocurrency. This autonomous trading approach could significantly transform digital asset markets. Such developments highlight the growing need for updated regulatory frameworks to maintain market integrity, ensure accountability, and address potential risks associated with automated decision-making in the financial sector.",
-    "content_ta": "CFTC தலைவர் Selig, AI ஏஜெண்டுகள் தாமாகவே crypto வர்த்தகம் செய்யும் எதிர்காலக் பார்வையைப் பகிர்ந்துள்ளார். இந்த தன்னாட்சி வர்த்தக முறை டிஜிட்டல் சொத்து சந்தைகளில் பெரிய மாற்றங்களை ஏற்படுத்தலாம். சந்தையின் ஒருமைப்பாட்டைப் பேணவும், பொறுப்புக்கூறலை உறுதிப்படுத்தவும் புதிய ஒழுங்குமுறை விதிகள் அவசியமாகியுள்ளன என்பதை இது காட்டுகிறது.",
-    "slug": "cftc-chief-selig-envisions-ai-agents-trading-crypto-on-their-own"
+    "hasContent": true,
+    "pubDate": "2026-10-29T02:29:25.000Z"
   },
   {
     "id": "dc42a8cd6e0d3007",
+    "slug": "pendle-posts-first-tvl-gain-in-a-year-as-real-world-assets-take-over",
     "title": "Pendle posts first TVL gain in a year as real-world assets take over",
-    "summary": "Pendle's shift towards real-world assets and strategic buybacks could redefine DeFi growth models, emphasizing sustainable value over incentives.\nThe post Pendle posts first TVL gain in a year as real-world assets take over appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/pendle-q3-tvl-rises-43-percent-rwa/",
-    "source": "CryptoBriefing",
     "tags": [
       "Pendle"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-29T02:16:23.000Z",
-    "fetchedAt": "2026-10-29T03:01:21.735Z",
-    "isDuplicateOf": null,
-    "content": "Pendle has recorded its first Total Value Locked gain in a year, driven by a strategic transition toward real-world assets. This pivot away from traditional token incentives highlights a shifting trend within decentralized finance, as protocols increasingly focus on sustainable value generation and long-term growth models to attract capital.",
-    "content_ta": "real-world assets நோக்கிய உத்திகார்ந்த மாற்றத்தின் காரணமாக, Pendle தனது ஒரு வருட காலத்திற்குப் பிறகு முதல் முறையாக Total Value Locked (TVL)-ல் வளர்ச்சியைப் பதிவு செய்துள்ளது. பாரம்பரிய டோக்கன் சலுகைகளிலிருந்து விலகி நிலையான மதிப்பு உருவாக்கத்தில் கவனம் செலுத்துவது DeFi துறையில் புதிய போக்கைக் காட்டுகிறது.",
-    "slug": "pendle-posts-first-tvl-gain-in-a-year-as-real-world-assets-take-over"
+    "hasContent": true,
+    "pubDate": "2026-10-29T02:16:23.000Z"
   },
   {
     "id": "bbe7e8b5922a2e32",
+    "slug": "bloomberg-among-firms-paying-up-to-100k-a-month-for-donald-trump-s-posts",
     "title": "Bloomberg Among Firms Paying Up to $100K a Month for Donald Trump's Posts",
-    "summary": "Bloomberg, Susquehanna, and Jump Trading reportedly pay Truth Social for faster access to Donald Trump's posts.\nThe post Bloomberg Among Firms Paying Up to $100K a Month for Donald Trump's Posts appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/bloomberg-trading-firms-truth-social-access/",
-    "source": "BeInCrypto",
     "tags": [
       "Bloomberg",
       "Donald Trump",
@@ -107,71 +381,50 @@
       "Susquehanna",
       "Jump Trading"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-10-29T02:13:47.000Z",
-    "fetchedAt": "2026-10-29T03:01:21.734Z",
-    "isDuplicateOf": null,
-    "content": "Bloomberg is reportedly among several financial firms paying up to $100,000 a month to gain faster access to posts made by Donald Trump on Truth Social. Companies such as Susquehanna and Jump Trading are also involved in these arrangements, which provide expedited data feeds of the former president's social media activity for trading and monitoring purposes.",
-    "content_ta": "டொனால்ட் டிரம்ப் அவர்களின் Truth Social பதிவுகளை விரைவாக அணுக மாதத்திற்கு $100,000 வரை செலுத்தும் நிதி நிறுவனங்களில் Bloomberg நிறுவனமும் இருப்பதாகத் தகவல்கள் வெளியாகியுள்ளன. Susquehanna மற்றும் Jump Trading போன்ற நிறுவனங்களும் இதில் ஈடுபட்டுள்ளன.",
-    "slug": "bloomberg-among-firms-paying-up-to-100k-a-month-for-donald-trump-s-posts"
+    "hasContent": true,
+    "pubDate": "2026-10-29T02:13:47.000Z"
   },
   {
     "id": "39ff6475d9f09301",
+    "slug": "samsung-electronics-increases-foundry-investment-in-us-and-south-korea",
     "title": "Samsung Electronics increases foundry investment in US and South Korea",
-    "summary": "Samsung's expanded foundry investments could bolster its competitive edge in AI and HPC markets, influencing global semiconductor dynamics.\nThe post Samsung Electronics increases foundry investment in US and South Korea appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/samsung-foundry-investment-us-south-korea/",
-    "source": "CryptoBriefing",
     "tags": [
       "Samsung Electronics",
       "United States",
       "South Korea"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-29T02:05:48.000Z",
-    "fetchedAt": "2026-10-29T03:01:21.735Z",
-    "isDuplicateOf": null,
-    "content": "Samsung Electronics has announced plans to increase its foundry investments in both the United States and South Korea. This strategic expansion is expected to strengthen the company's competitive position in key sectors such as artificial intelligence and high-performance computing, while also impacting global semiconductor industry dynamics.",
-    "content_ta": "Samsung Electronics நிறுவனம் அமெரிக்கா மற்றும் தென் கொரியா ஆகிய நாடுகளில் தனது foundry முதலீடுகளை அதிகரிக்கத் திட்டமிட்டுள்ளதாக அறிவித்துள்ளது. இந்த மூலோபாய விரிவாக்கம் செயற்கை நுண்ணறிவு மற்றும் உயர் செயல்திறன் கணினி துறைகளில் நிறுவனத்தின் போட்டி நிலையை வலுப்படுத்தும் என்றும், உலகளாவிய செமி கண்டக்டர் சந்தையில் தாக்கத்தை ஏற்படுத்தக்கூடும் என்றும் எதிர்பார்க்கப்படுகிறது.",
-    "slug": "samsung-electronics-increases-foundry-investment-in-us-and-south-korea"
+    "hasContent": true,
+    "pubDate": "2026-10-29T02:05:48.000Z"
   },
   {
     "id": "a3af94fa9a213c5b",
+    "slug": "samsung-stock-falls-3-even-as-profit-tops-80-billion-is-a-record-quarter-not-enough",
     "title": "Samsung Stock Falls 3% Even as Profit Tops $80 Billion: Is a Record Quarter Not Enough?",
-    "summary": "Samsung shares fell 2.69% to 235,500 won by 10:11 a.m. Korea time on Thursday, shortly after the company reported a record quarterly operating profit of KRW 107.4 trillion, about $80 billion. The stock had traded higher before the release, adding to a 9% gain on Wednesday that followed SK Hynix’s own record quarter. It turned\nThe post Samsung Stock Falls 3% Even as Profit Tops $80 Billion: Is a Record Quarter Not Enough? appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/samsung-stock-falls-record-quarter/",
-    "source": "BeInCrypto",
     "tags": [
       "Samsung",
       "SK Hynix"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-10-29T02:03:00.000Z",
-    "fetchedAt": "2026-10-29T03:01:21.734Z",
-    "isDuplicateOf": null,
-    "content": "Samsung shares dropped 2.69% to 235,500 won despite the company reporting a record quarterly operating profit of KRW 107.4 trillion, approximately $80 billion. The stock had risen earlier following strong results from SK Hynix, but eventually declined as investors reacted to the earnings report.",
-    "content_ta": "Samsung நிறுவனத்தின் காலாண்டு இயக்க லாபம் சாதனை அளவாக 107.4 டிரில்லியன் KRW, அதாவது சுமார் $80 பில்லியன் எட்டிய போதிலும், அதன் பங்குகள் 2.69% சரிந்து 235,500 வோன் ஆனது. SK Hynix இன் வலுவான முடிவுகளைத் தொடர்ந்து பங்குகள் முதலில் உயர்ந்தன, ஆனால் பின்னர் சரிவை சந்தித்தன.",
-    "slug": "samsung-stock-falls-3-even-as-profit-tops-80-billion-is-a-record-quarter-not-enough"
+    "hasContent": true,
+    "pubDate": "2026-10-29T02:03:00.000Z"
   },
   {
     "id": "a67ab38c10c45d55",
+    "slug": "ripple-and-drivewealth-link-stablecoin-settlement-to-global-brokerage",
     "title": "Ripple and DriveWealth Link Stablecoin Settlement to Global Brokerage",
-    "summary": "Brokerage infrastructure provider DriveWealth is working with Ripple to incorporate stablecoin settlement and digital-asset capabilities across its global business.",
-    "hasSummary": true,
-    "link": "https://www.newsbtc.com/news/ripple-and-drivewealth-link-stablecoin-settlement-to-global-brokerage/",
-    "source": "NewsBTC",
     "tags": [
       "DriveWealth",
       "Ripple"
     ],
+    "source": "NewsBTC",
     "origin": "rss",
-    "pubDate": "2026-10-29T02:00:00.000Z",
-    "fetchedAt": "2026-10-29T03:01:21.734Z",
-    "isDuplicateOf": null,
-    "content": "Brokerage infrastructure provider DriveWealth has partnered with Ripple to integrate stablecoin settlement and digital asset capabilities into its global operations. This collaboration aims to enhance international brokerage services by leveraging blockchain technology for faster and more efficient transaction processing across DriveWealth's worldwide network.",
-    "content_ta": "குளோபல் ப்ரோக்கரேஜ் சேவைகளில் ஸ்டேபிள்காயின் செட்டில்மென்ட் மற்றும் டிஜிட்டல் சொத்து வசதிகளை இணைப்பதற்காக டிரைவ்வெல்த் (DriveWealth) நிறுவனம் ரிப்பிள் (Ripple) உடன் கூட்டாண்மை சேர்ந்துள்ளது. இந்த ஒத்துழைப்பின் மூலம் பிளாக்செயின் தொழில்நுட்பத்தைப் பயன்படுத்தி சர்வதேச பணப் பரிமாற்றங்களை விரைவாகவும் திறம்படவும் மேற்கொள்ள திட்டமிடப்பட்டுள்ளது.",
-    "slug": "ripple-and-drivewealth-link-stablecoin-settlement-to-global-brokerage"
+    "hasContent": true,
+    "pubDate": "2026-10-29T02:00:00.000Z"
   },
   {
     "id": "3a84265743d86251",
@@ -589,257 +842,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-28T22:07:38.000Z"
-  },
-  {
-    "id": "6bed59ecc6e48161",
-    "slug": "wall-street-moves-past-the-fed-pause-and-back-to-tech-earnings-and-ai",
-    "title": "Wall Street moves past the Fed pause and back to tech earnings and AI",
-    "tags": [
-      "Federal Reserve",
-      "Wall Street",
-      "Nasdaq"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-28T22:05:50.000Z"
-  },
-  {
-    "id": "eaed8b69b5ff6a70",
-    "slug": "microsoft-foundry-passes-120-000-customers-as-revenue-more-than-triples",
-    "title": "Microsoft Foundry passes 120,000 customers as revenue more than triples",
-    "tags": [
-      "Microsoft Foundry"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-28T21:54:52.000Z"
-  },
-  {
-    "id": "aa5bed7858188f4d",
-    "slug": "satya-nadella-says-ai-agents-now-open-over-40-of-github-pull-requests",
-    "title": "Satya Nadella says AI agents now open over 40% of GitHub pull requests",
-    "tags": [
-      "Satya Nadella",
-      "GitHub",
-      "Microsoft"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-28T21:54:20.000Z"
-  },
-  {
-    "id": "c0e266d7575029ea",
-    "slug": "stablecoin-payments-are-fast-but-they-have-a-cost-problem",
-    "title": "Stablecoin Payments Are Fast. But They Have a Cost Problem",
-    "tags": [
-      "Bank of Italy"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-28T21:47:37.000Z"
-  },
-  {
-    "id": "27b1700782a8c5dc",
-    "slug": "bitcoin-treasury-datavault-ai-says-it-can-t-access-its-btc-stock-tanks",
-    "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
-    "tags": [
-      "Datavault AI",
-      "Bitcoin",
-      "Biconomy",
-      "Scilex"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-28T21:46:02.000Z"
-  },
-  {
-    "id": "48c4394c12bdc317",
-    "slug": "republican-redistricting-may-not-yield-expected-gains-in-us-midterms",
-    "title": "Republican redistricting may not yield expected gains in US midterms",
-    "tags": [
-      "United States",
-      "Republican Party"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-28T21:33:01.000Z"
-  },
-  {
-    "id": "b518beb1c8b4f00b",
-    "slug": "fbi-seizes-virtualine-domain-as-trm-traces-criminal-crypto-payments",
-    "title": "FBI seizes Virtualine domain as TRM traces criminal crypto payments",
-    "tags": [
-      "Federal Bureau of Investigation",
-      "Virtualine",
-      "TRM"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-28T21:30:15.000Z"
-  },
-  {
-    "id": "c03699dd817c3e2c",
-    "slug": "fed-chair-kevin-warsh-does-not-see-ai-growth-as-necessarily-inflationary-says-tom-lee",
-    "title": "Fed Chair Kevin Warsh does not see AI growth as necessarily inflationary, says Tom Lee",
-    "tags": [
-      "Kevin Warsh",
-      "Tom Lee"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-28T21:27:11.000Z"
-  },
-  {
-    "id": "dec776e1aad849ee",
-    "slug": "bitcoin-core-bug-lets-malicious-peers-crash-windows-and-mac-nodes",
-    "title": "Bitcoin Core bug lets malicious peers crash Windows and Mac nodes",
-    "tags": [
-      "Bitcoin",
-      "Bitcoin Core",
-      "Windows",
-      "Mac"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-28T21:25:20.000Z"
-  },
-  {
-    "id": "f65950649e75038a",
-    "slug": "strategy-shares-hit-5-month-high-saylor-eyes-bitcoin-buys-at-100-mark",
-    "title": "Strategy shares hit 5-month high; Saylor eyes Bitcoin buys at $100 mark",
-    "tags": [
-      "Strategy",
-      "Saylor",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-28T21:22:54.000Z"
-  },
-  {
-    "id": "c472f754282a3a85",
-    "slug": "google-deepens-anthropic-tpu-partnership-as-broadcom-locks-in-chip-supply-through-2031",
-    "title": "Google deepens Anthropic TPU partnership as Broadcom locks in chip supply through 2031",
-    "tags": [
-      "Google",
-      "Anthropic",
-      "Broadcom"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-28T21:14:47.000Z"
-  },
-  {
-    "id": "0cc62a102034fc36",
-    "slug": "alphabet-reaffirms-195-billion-to-205-billion-capex-guidance-as-ai-spending-climbs",
-    "title": "Alphabet reaffirms $195 billion to $205 billion capex guidance as AI spending climbs",
-    "tags": [
-      "Alphabet"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-28T21:14:06.000Z"
-  },
-  {
-    "id": "0a7e0ba1464921bd",
-    "slug": "bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
-    "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
-    "tags": [
-      "Bitcoin",
-      "Canada"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-28T21:13:44.000Z"
-  },
-  {
-    "id": "16313400635cce9f",
-    "slug": "google-begins-testing-ads-in-ai-mode-for-personal-intelligence-users",
-    "title": "Google begins testing ads in AI Mode for Personal Intelligence users",
-    "tags": [
-      "Google"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-28T21:08:23.000Z"
-  },
-  {
-    "id": "391e06e2fc0cb920",
-    "slug": "alphabet-says-tpu-inventory-build-is-weighing-on-its-cash-flow",
-    "title": "Alphabet says TPU inventory build is weighing on its cash flow",
-    "tags": [
-      "Alphabet"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-28T21:06:03.000Z"
-  },
-  {
-    "id": "f3ad048c590324a0",
-    "slug": "apple-reportedly-agreed-1b-annual-deal-with-google-for-gemini-technology-access",
-    "title": "Apple reportedly agreed $1B annual deal with Google for Gemini technology access",
-    "tags": [
-      "Apple",
-      "Google",
-      "Gemini"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-28T21:04:47.000Z"
-  },
-  {
-    "id": "4133015137f80178",
-    "slug": "alphabet-says-google-search-queries-are-growing-at-their-fastest-pace-in-five-years",
-    "title": "Alphabet says Google Search queries are growing at their fastest pace in five years",
-    "tags": [
-      "Alphabet",
-      "Google"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-28T20:56:54.000Z"
-  },
-  {
-    "id": "d7590cc41b32b1a1",
-    "slug": "google-gemini-has-helped-advertisers-generate-more-than-1-5-billion-ad-assets",
-    "title": "Google Gemini has helped advertisers generate more than 1.5 billion ad assets",
-    "tags": [
-      "Google",
-      "Gemini"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-28T20:55:28.000Z"
-  },
-  {
-    "id": "3e897f274e02a869",
-    "slug": "google-says-visual-searches-now-top-50-billion-a-month",
-    "title": "Google says visual searches now top 50 billion a month",
-    "tags": [
-      "Google",
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-28T20:47:39.000Z"
   }
 ]
