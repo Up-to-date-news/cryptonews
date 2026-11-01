@@ -1,78 +1,73 @@
 [
   {
-    "id": "68290789d9dd890f",
-    "title": "xAI adds invisible text watermarking to Grok API models",
-    "summary": "xAI's adoption of watermarking reflects growing regulatory pressures for transparency in AI, potentially influencing industry standards globally.\nThe post xAI adds invisible text watermarking to Grok API models appeared first on Crypto Briefing.",
+    "id": "1c3f75c61930fc23",
+    "title": "Tether posts $1.5B Q3 profit – Can USDT’s $7.9B buffer withstand market panic?",
+    "summary": "Will Tether's push to fight scams, human trafficking and illicit funds get it off regulatory scrutiny?",
     "hasSummary": true,
-    "link": "https://cryptobriefing.com/xai-grok-text-watermarking-api/",
-    "source": "CryptoBriefing",
+    "link": "https://ambcrypto.com/tether-posts-1-5b-q3-profit-can-usdts-7-9b-buffer-withstand-market-panic/",
+    "source": "AMBCrypto",
+    "tags": [
+      "Tether",
+      "USDT"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-01T00:00:36.000Z",
+    "fetchedAt": "2026-11-01T00:01:24.252Z",
+    "isDuplicateOf": null,
+    "content": "Tether reported a strong $1.5 billion profit in the third quarter, backed by a significant $7.9 billion buffer. The stablecoin issuer is also intensifying its efforts to combat scams, human trafficking, and illicit funds. These proactive security measures aim to address ongoing regulatory scrutiny and ensure market stability during times of potential panic.",
+    "content_ta": "மூன்றாம் காலாண்டில் Tether நிறுவனம் 1.5 பில்லியன் டாலர் லாபத்தை ஈட்டியுள்ளதுடன், 7.9 பில்லியன் டாலர் பாதுகாப்பு பன்னரையும் கொண்டுள்ளது. மோசடிகள் மற்றும் சட்டவிரோத நிதிப் பரிமாற்றங்களை எதிர்த்துப் போராடுவதற்கான முயற்சிகளை இந்த ஸ்டேபிள்காயின் நிறுவனம் தீவிரப்படுத்தியுள்ளது. ஒழுங்குமுறைச் சோதனைகளை எதிர்கொள்ளவும், சந்தை பீதியைத் தவிர்க்கவும் இந்த பாதுகாப்பு நடவடிக்கைகள் உதவும்.",
+    "slug": "tether-posts-1-5b-q3-profit-can-usdt-s-7-9b-buffer-withstand-market-panic"
+  },
+  {
+    "id": "68290789d9dd890f",
+    "slug": "xai-adds-invisible-text-watermarking-to-grok-api-models",
+    "title": "xAI adds invisible text watermarking to Grok API models",
     "tags": [
       "xAI",
       "Grok"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-31T22:16:47.000Z",
-    "fetchedAt": "2026-10-31T22:53:35.949Z",
-    "isDuplicateOf": null,
-    "content": "xAI has integrated invisible text watermarking into its Grok API models. This move highlights increasing regulatory demands for transparency within the artificial intelligence sector and could help shape broader industry standards moving forward.",
-    "content_ta": "xAI தனது Grok API மாடல்களில் கண்ணுக்குத் தெரியாத டெக்ஸ்ட் வாட்டர்மார்க்கிங் முறையை இணைத்துள்ளது. இந்த நடவடிக்கை செயற்கை நுண்ணறிவுத் துறையில் வெளிப்படைத்தன்மைக்கான அதிகரித்து வரும் ஒழுங்குமுறை கோரிக்கைகளை எடுத்துக்காட்டுகிறது.",
-    "slug": "xai-adds-invisible-text-watermarking-to-grok-api-models"
+    "hasContent": true,
+    "pubDate": "2026-10-31T22:16:47.000Z"
   },
   {
     "id": "7e77c158fd626f8c",
+    "slug": "uniswap-adds-developer-analytics-as-swap-api-usage-crosses-2b",
     "title": "Uniswap Adds Developer Analytics as Swap API Usage Crosses $2B",
-    "summary": "Users of the developer dashboard can examine requests by endpoint, error counts, settled swaps, network-level activity and average trade size. A",
-    "hasSummary": true,
-    "link": "https://www.newsbtc.com/news/uniswap-adds-developer-analytics-as-swap-api-usage-crosses-2b/",
-    "source": "NewsBTC",
     "tags": [
       "Uniswap"
     ],
+    "source": "NewsBTC",
     "origin": "rss",
-    "pubDate": "2026-10-31T22:00:00.000Z",
-    "fetchedAt": "2026-10-31T22:53:35.949Z",
-    "isDuplicateOf": null,
-    "content": "Uniswap has introduced new developer analytics features for its Swap API, following a milestone where its usage crossed $2 billion. The newly launched developer dashboard allows users to examine requests by endpoint, track error counts, monitor settled swaps, analyze network-level activity, and review average trade sizes, providing enhanced insights for developers utilizing the platform's trading infrastructure.",
-    "content_ta": "Uniswap-ன் Swap API பயன்பாடு $2 பில்லியனைக் கடந்ததைத் தொடர்ந்து, டெவலப்பர்களுக்கான புதிய அனலிட்டிக்ஸ் வசதிகள் அறிமுகப்படுத்தப்பட்டுள்ளன. புதிய டெவலப்பர் டேஷ்போர்டு மூலம் பயனர்கள் எண்ட்பாயிண்ட் வாரியான கோரிக்கைகள், பிழை எண்ணிக்கை, நிறைவுற்ற ஸ்வாப்கள், நெட்வொர்க் அளவிலான செயல்பாடு மற்றும் சராசரி வர்த்தக அளவு ஆகியவற்றை ஆய்வு செய்ய முடியும்.",
-    "slug": "uniswap-adds-developer-analytics-as-swap-api-usage-crosses-2b"
+    "hasContent": true,
+    "pubDate": "2026-10-31T22:00:00.000Z"
   },
   {
     "id": "7a19d68f3e4f86c0",
+    "slug": "apple-ceo-john-ternus-says-the-company-won-t-ship-ai-for-ai-s-sake",
     "title": "Apple CEO John Ternus says the company won’t ship AI for AI’s sake",
-    "summary": "Apple's strategic focus on privacy and user-centric AI could redefine industry standards, emphasizing meaningful innovation over hype.\nThe post Apple CEO John Ternus says the company won’t ship AI for AI’s sake appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/apple-ceo-john-ternus-ai-strategy/",
-    "source": "CryptoBriefing",
     "tags": [
       "Apple"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-10-31T21:44:17.000Z",
-    "fetchedAt": "2026-10-31T22:53:35.949Z",
-    "isDuplicateOf": null,
-    "content": "Apple executive John Ternus has stated that the company will not release artificial intelligence features simply for the sake of following industry trends. Instead, Apple is focusing its strategic efforts on privacy and user-centric advancements, aiming to prioritize meaningful innovation over mere hype. This careful approach could potentially redefine standards across the technology sector.",
-    "content_ta": "Apple நிறுவனத்தின் John Ternus, வெறும் விளம்பரத்திற்காகவோ அல்லது சந்தை டிரெண்டைப் பின்பற்றுவதற்காகவோ AI அம்சங்களை வெளியிட மாட்டோம் என்று தெரிவித்துள்ளார். அதற்கு பதிலாக, பயனர்களின் தனியுரிமை மற்றும் பயனுள்ள புதுமைகளுக்கு Apple முன்னுரிமை அளிக்கிறது. இந்த தொலைநோக்கு அணுகுமுறை தொழில்நுட்பத் துறையில் புதிய தரங்களை உருவாக்கக்கூடும்.",
-    "slug": "apple-ceo-john-ternus-says-the-company-won-t-ship-ai-for-ai-s-sake"
+    "hasContent": true,
+    "pubDate": "2026-10-31T21:44:17.000Z"
   },
   {
     "id": "84fcfb72caa0cfdc",
+    "slug": "spacex-stock-fell-below-its-ipo-price-but-binance-s-cz-is-bullish",
     "title": "SpaceX Stock Fell Below Its IPO Price, But Binance’s CZ Is Bullish",
-    "summary": "SpaceX stock slips below its $135 IPO price as CZ calls it a long-term winner and options price a 14% swing.\nThe post SpaceX Stock Fell Below Its IPO Price, But Binance’s CZ Is Bullish appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/spacex-stock-below-ipo-price-cz/",
-    "source": "BeInCrypto",
     "tags": [
       "SpaceX",
       "Binance",
       "CZ"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-10-31T21:30:00.000Z",
-    "fetchedAt": "2026-10-31T22:53:35.949Z",
-    "isDuplicateOf": null,
-    "content": "SpaceX stock recently slipped below its initial public offering price. Despite this downward market movement, Binance executive CZ remains bullish on the company. CZ views SpaceX as a strong long-term winner, while market options currently price in a notable 14% potential price swing for the stock.",
-    "content_ta": "SpaceX-ன் பங்கு விலை அதன் ஆரம்ப பொதுப் பங்கு வெளியீட்டு விலைக்கு கீழே சரிந்துள்ளது. இந்த சரிவு நிலையிலும், Binance-ன் நிர்வாகியான CZ இந்நிறுவனத்தின் மீது நம்பிக்கை கொண்டுள்ளார். CZ இதை ஒரு நீண்ட கால வெற்றியாளராகக் கருதுகிறார், அதே நேரத்தில் சந்தை விருப்பங்கள் பங்குகளுக்கு குறிப்பிடத்தக்க 14% விலை மாற்றத்தை மதிப்பிடுகின்றன.",
-    "slug": "spacex-stock-fell-below-its-ipo-price-but-binance-s-cz-is-bullish"
+    "hasContent": true,
+    "pubDate": "2026-10-31T21:30:00.000Z"
   },
   {
     "id": "d69cdb9fa230dac0",
@@ -787,17 +782,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-10-31T13:27:17.000Z"
-  },
-  {
-    "id": "c6aff8be61914510",
-    "slug": "google-deepmind-builds-a-dancing-robot-from-a-single-text-prompt",
-    "title": "Google DeepMind builds a dancing robot from a single text prompt",
-    "tags": [
-      "Google DeepMind"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-10-31T13:23:11.000Z"
   }
 ]
