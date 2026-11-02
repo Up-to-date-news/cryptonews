@@ -181,5 +181,426 @@
     "content": "Varsity Tech founder Daniel Tan discusses how the Singapore-based fund operates systematically using AI agents for research and backtesting. The lean team of three people manages risk limits and controls the kill switch, highlighting a modern approach to fund management.",
     "content_ta": "Singapore-வைச் சேர்ந்த ஃபண்ட் நிறுவனமான Varsity Tech-ன் founder Daniel Tan, AI agents மூலம் research மற்றும் backtesting செய்து தங்கள் fund எவ்வாறு இயங்குகிறது என்பதை விவரிக்கிறார். மூன்று பேர் கொண்ட இந்த சிறிய குழு risk limits மற்றும் kill switch-ஐ நிர்வகிக்கிறது.",
     "slug": "how-varsity-tech-runs-a-systematic-fund-with-three-people"
+  },
+  {
+    "id": "0f31ba9842d76a16",
+    "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
+    "summary": "The 19 wallets holding 18,270 stolen BTC have taken in nothing since Thursday except payments worth under a dollar, each carrying a message, from pleas to laundering pitches to a token shill.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
+    "source": "CoinDesk",
+    "tags": [
+      "Binance",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-02T05:18:12.000Z",
+    "fetchedAt": "2026-11-02T06:01:22.555Z",
+    "isDuplicateOf": null,
+    "content": "Following a major exploit, the hacker's wallets holding stolen Bitcoin have received numerous small transactions. Rather than large-scale transfers, the addresses are being flooded with micro-payments worth less than a dollar. Each transaction includes a message, featuring personal pleas for financial help, laundering pitches, and promotional tokens sent by strangers hoping to reach the attacker.",
+    "content_ta": "ஒரு பெரிய பாதுகாப்பு மீறலைத் தொடர்ந்து, ஹேக்கரின் வாலட்களில் இருக்கும் ஸ்டென் செய்யப்பட்ட Bitcoin-களுக்கு பல சிறிய பரிவர்த்தனைகள் வந்துள்ளன. பெரிய அளவிலான பரிவர்த்தனைகளுக்குப் பதிலாக, ஒரு டாலருக்கும் குறைவான மதிப்புள்ள சிறிய தொகைகள் அந்த முகவரிகளுக்கு அனுப்பப்படுகின்றன. ஒவ்வொரு பரிவர்த்தனையுடனும் ஒரு செய்தியும் இணைக்கப்பட்டுள்ளது; அதில் நிதி உதவி கோரும் வேண்டுகோள்கள், பணமோசடி தொடர்பான ஆலோசனைகள் மற்றும் தாக்குபவரைத் தொடர்பு கொள்ள விரும்பும் அந்நியர்களின் விளம்பர டோக்கன்களும் அடங்கும்.",
+    "slug": "strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time"
+  },
+  {
+    "id": "8682ff6dabd1af82",
+    "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+    "summary": "ZEC led the majors and oil slid on a report that Trump wants to give Iran diplomacy more time, with U.S. midterm elections on Tuesday.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+    "source": "CoinDesk",
+    "tags": [
+      "Bitcoin",
+      "Iran"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-02T04:42:22.000Z",
+    "fetchedAt": "2026-11-02T06:01:22.555Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin climbed back toward $79,000 as financial markets recovered from a major cryptocurrency hack. Meanwhile, oil prices declined following reports regarding diplomatic approaches toward Iran ahead of upcoming elections.",
+    "content_ta": "Bitcoin விலை $79,000 நெருங்கி மீண்டு வந்தது. பெரிய அளவிலான crypto hack-க்குப் பிறகு சந்தைகள் மீண்டு வருவதால் இந்த உயர்வு ஏற்பட்டுள்ளது. இதற்கிடையில், தேர்தலை முன்னிட்டு Iran விவகாரத்தில் ராஜதந்திர முயற்சிகளுக்கு முன்னுரிமை அளிக்கப்படுவதாக வெளியான தகவல்களால் oil விலைகள் சரிந்தன.",
+    "slug": "bitcoin-claws-back-toward-79-000-as-markets-shake-off-crypto-s-biggest-hack"
+  },
+  {
+    "id": "d2f0ed060182ba05",
+    "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
+    "summary": "The open-source project says it is still investigating and hasn't given a loss figure or announced a fix. Its founder said the reports appear to involve versions older than 2.4.2.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
+    "source": "CoinDesk",
+    "tags": [
+      "Bitcoin",
+      "BTCPay"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-02T04:41:16.000Z",
+    "fetchedAt": "2026-11-02T06:01:22.555Z",
+    "isDuplicateOf": null,
+    "content": "BTCPay, a popular bitcoin payment tool, has advised its users to shut down their servers following reports of drained wallets. The open-source project is currently investigating the issue and has not yet provided a total loss figure or a fix. The project's founder indicated that the reported security incidents appear to affect software versions older than 2.4.2.",
+    "content_ta": "பிட்காயின் பேமெண்ட் டூலான BTCPay, வாலட்கள் காலியாகியுள்ளதாக வந்த புகார்களைத் தொடர்ந்து, பயனர்கள் தங்கள் சர்வர்களை தற்காலிகமாக அணைத்து வைக்குமாறு அறிவுறுத்தியுள்ளது. இந்த ஓப்பன் சோர்ஸ் திட்டம் தற்போது இது குறித்து விசாரித்து வருவதுடன், இழப்புத் தொகை குறித்த விவரங்களையோ அல்லது தீர்ர்வையோ இன்னும் வெளியிடவில்லை. பதிப்பு 2.4.2-க்கு முந்தைய வெர்ஷன்களில்தான் இந்தச் சிக்கல் ஏற்பட்டுள்ளதாகத் தெரிகிறது என்று இதன் நிறுவனர் தெரிவித்துள்ளார்.",
+    "slug": "btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained"
+  },
+  {
+    "id": "36c1062340d70564",
+    "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+    "summary": "BTCPay Server urged operators to shut down their servers after receiving reports of unauthorized attackers draining funds from hot wallets.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "BTCPay Server"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-02T05:34:02.000Z",
+    "fetchedAt": "2026-11-02T06:01:22.555Z",
+    "isDuplicateOf": null,
+    "content": "BTCPay Server has issued an urgent warning to operators running outdated software to shut down their servers immediately. The alert follows reports of unauthorized attackers successfully draining funds from hot wallets. Users are advised to secure their systems and update software to prevent further security breaches and financial losses.",
+    "content_ta": "பழைய சாஃப்ட்வேரைப் பயன்படுத்தி வரும் BTCPay Server ஆப்பரேட்டர்கள் உடனடியாக தங்கள் சர்வர்களை முடக்க வேண்டும் என்று எச்சரிக்கை விடுக்கப்பட்டுள்ளது. ஹாட் வாலட்களில் இருந்து அனுமதியின்றி நிதி திருடப்படுவதாக வந்த புகார்களைத் தொடர்ந்து இந்த எச்சரிக்கை வந்துள்ளது. மேலும் பாதுகாப்பு மீறல்கள் மற்றும் நிதி இழப்புகளைத் தவிர்க்க பயனர்கள் தங்கள் சிஸ்டம்களைப் பாதுகாக்குமாறு அறிவுறுத்தப்படுகிறார்கள்.",
+    "slug": "btcpay-server-warns-of-hot-wallet-thefts-running-on-outdated-software"
+  },
+  {
+    "id": "382c20a30d1bce02",
+    "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
+    "summary": "The Bank of Korea's survey could lead to enhanced regulatory measures, impacting financial stability and crypto market integration strategies.\nThe post Bank of Korea quizzes 31 financial firms on crypto shock scenarios appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Bank of Korea"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-02T03:55:50.000Z",
+    "fetchedAt": "2026-11-02T06:01:22.555Z",
+    "isDuplicateOf": null,
+    "content": "The Bank of Korea has launched a survey involving 31 financial firms to assess their exposure to cryptocurrency-related risks and potential shock scenarios. This initiative highlights growing regulatory scrutiny in the financial sector regarding digital assets. The findings could potentially lead to enhanced regulatory measures, significantly impacting financial stability and the broader integration strategies of the crypto market.",
+    "content_ta": "Bank of Korea, crypto சம்பந்தப்பட்ட அபாயங்கள் மற்றும் அதிர்ச்சி சூழ்நிலைகளை எதிர்கொள்ளும் நிதி நிறுவனங்களின் தயார்நிலை குறித்து ஆய்வு செய்ய 31 நிதி நிறுவனங்களிடம் விசாரணை நடத்தியுள்ளது. இந்த நடவடிக்கை டிஜிட்டல் சொத்துக்கள் தொடர்பான ஒழுங்குமுறை சோதனைகள் அதிகரித்து வருவதைக் காட்டுகிறது. இதன் முடிவுகள் நிதி ஸ்திரத்தன்மை மற்றும் crypto சந்தை ஒருங்கிணைப்பு உத்திகளை பாதிக்கக்கூடிய புதிய ஒழுங்குமுறை நடவடிக்கைகளுக்கு வழிவகுக்கலாம்.",
+    "slug": "bank-of-korea-probes-financial-firms-exposure-to-crypto-risks"
+  },
+  {
+    "id": "9973c47875bfcde6",
+    "title": "Ambire Ice Puts Safe Owner Changes and Approval Thresholds on the Signing Screen",
+    "summary": "Ambire says its Ice hardware wallet will decode Safe transactions and flag changes to account control. The design targets the decisions signers make before authorizing an action.",
+    "hasSummary": true,
+    "link": "https://www.newsbtc.com/news/ambire-ice-puts-safe-owner-changes-and-approval-thresholds-on-the-signing-screen/",
+    "source": "NewsBTC",
+    "tags": [
+      "Ambire",
+      "Safe"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-02T05:00:00.000Z",
+    "fetchedAt": "2026-11-02T06:01:22.555Z",
+    "isDuplicateOf": null,
+    "content": "Ambire has announced that its Ice hardware wallet will feature transaction decoding for Safe accounts. The design allows the signing screen to clearly display owner changes and approval thresholds before users authorize an action. This aims to improve security by helping signers easily identify critical modifications to account control.",
+    "content_ta": "Safe அக்கவுண்ட்களுக்கான பரிவர்த்தனை டிகோடிங் வசதியை தனது Ice ஹார்டுவேர் வாலட்டில் வழங்க உள்ளதாக Ambire அறிவித்துள்ளது. பயனர்கள் ஒரு செயலை அங்கீகரிப்பதற்கு முன்பாக, அக்கவுண்ட் ஓனர் மாற்றங்கள் மற்றும் அப்ரூவல் வரம்புகளை சைனிங் ஸ்கிரீனில் தெளிவாகக் காட்ட இந்த வடிவமைப்பு உதவுகிறது. அக்கவுண்ட் கட்டுப்பாட்டில் செய்யப்படும் முக்கியமான மாற்றங்களை சைனர்கள் எளிதில் அடையாளம் காண இது உதவியாக இருக்கும்.",
+    "slug": "ambire-ice-puts-safe-owner-changes-and-approval-thresholds-on-the-signing-screen"
+  },
+  {
+    "id": "4f5985d1c84e7a39",
+    "title": "Fail here and KITE retests support – Mapping the 2 paths from $0.122",
+    "summary": "KITE faces a major resistance barrier that could limit further gains.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/fail-here-and-kite-retests-support-mapping-the-2-paths-from-0-122/",
+    "source": "AMBCrypto",
+    "tags": [
+      "KITE"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-02T06:00:27.000Z",
+    "fetchedAt": "2026-11-02T06:01:22.555Z",
+    "isDuplicateOf": null,
+    "content": "KITE faces a crucial technical moment as it approaches a major resistance barrier. Analysts are mapping out two potential paths for the cryptocurrency, noting that a failure to break through this key resistance level could lead KITE to retest its support around the $0.122 mark.",
+    "content_ta": "KITE ஒரு முக்கியமான தொழில்நுட்ப நிலையை எதிர்கொண்டுள்ளது, ஏனெனில் இது ஒரு முக்கிய தடையாக உள்ள எதிர்ப்பைக் கடக்க முயல்கிறது. இந்த தடையை உடைக்கத் தவறினால், KITE தனது ஆதரவு விலையான $0.122 மதிப்பை மீண்டும் சோதிக்கக்கூடும் என்று ஆய்வாளர்கள் தெரிவிக்கின்றனர்.",
+    "slug": "fail-here-and-kite-retests-support-mapping-the-2-paths-from-0-122"
+  },
+  {
+    "id": "3d760e1552ee4f5d",
+    "title": "ZAMA jumps 15%, but can buyers clear THIS hurdle?",
+    "summary": "ZAMA’s network grew busier while exchange sentiment split. Which signal will buyers trust at resistance?",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/zama-jumps-15-but-can-buyers-clear-this-hurdle/",
+    "source": "AMBCrypto",
+    "tags": [
+      "ZAMA"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-02T05:00:27.000Z",
+    "fetchedAt": "2026-11-02T06:01:22.555Z",
+    "isDuplicateOf": null,
+    "content": "ZAMA recently saw a 15% price jump as its network experienced increased activity. However, exchange sentiment remains divided among traders. Market participants are now watching closely to see if buyers can overcome the current resistance level, as mixed signals create uncertainty about the next market move.",
+    "content_ta": "ZAMA நெட்வொர்க்கில் செயல்பாடு அதிகரித்ததைத் தொடர்ந்து அதன் விலை சமீபத்தில் 15% உயர்ந்துள்ளது. இருப்பினும், வர்த்தகர்களிடையே பரிமாற்ற கருத்துக்கள் பிளவுபட்டுள்ளன. தற்போதைய எதிர்ப்பு நிலையை வாங்குபவர்களால் தாண்ட முடியுமா என்பதை சந்தை பங்கேற்பாளர்கள் உன்னிப்பாக கவனித்து வருகின்றனர்.",
+    "slug": "zama-jumps-15-but-can-buyers-clear-this-hurdle"
+  },
+  {
+    "id": "61f4ab8c82c21f72",
+    "title": "40 Million XRP Moved From Binance Hacker Wallet",
+    "summary": "A wallet linked to the massive $6.3 billion Binance hack has moved 80 million XRP worth approximately $100.9 million to two unknown addresses.",
+    "hasSummary": true,
+    "link": "https://u.today/40-million-xrp-moved-from-binance-hacker-wallet",
+    "source": "U.Today",
+    "tags": [
+      "Binance",
+      "XRP"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-02T05:44:33.000Z",
+    "fetchedAt": "2026-11-02T06:01:22.555Z",
+    "isDuplicateOf": null,
+    "content": "A wallet linked to a massive Binance hack has transferred 80 million XRP tokens, valued at approximately $100.9 million, to two unknown addresses. The suspicious movement of these funds has raised concerns within the digital asset community, as investigators continue to monitor the stolen assets tied to the significant security breach.",
+    "content_ta": "பெரிய அளவிலான Binance ஹேக் சம்பவத்துடன் தொடர்புடைய ஒரு வாலட்டில் இருந்து தோராயமாக 100.9 மில்லியன் டாலர் மதிப்புள்ள 80 மில்லியன் XRP டோக்கன்கள் இரண்டு அறியப்படாத முகவரிகளுக்கு மாற்றப்பட்டுள்ளன. இந்த நிதி பரிமாற்றம் கிரிப்டோ சமூகத்தில் கவலையை ஏற்படுத்தியுள்ளது, மேலும் பாதுகாப்பு மீறல் தொடர்பான திருடப்பட்ட சொத்துக்களை புலனாய்வாளர்கள் தொடர்ந்து கண்காணித்து வருகின்றனர்.",
+    "slug": "40-million-xrp-moved-from-binance-hacker-wallet"
+  },
+  {
+    "id": "ce4a4fd3bbf4e65a",
+    "title": "HashKey On-Chain and RD Technologies Form Deep Partnership to Support On-Chain Testing for RDUSD",
+    "summary": "On-Chain Ecosystem Drives Institutional Adoption of RDUSD Across Cross-Border Trade, Financing, and Corporate Payments. HashKey On-Chain, an on-chain financial infrastructure provider, announced a major strategic partnership with RD Technologies. The two parties will engage in a series of technical and ecosystem explorations centered around RDUSD. Leveraging HashKey On-Chain’s full-stack comprehensive strengths in connecting on-chain infrastructure\nThe post HashKey On-Chain and RD Technologies Form Deep Partnership to Support On-Chain Testing for RDUSD appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/hashkey-on-chain-rd-technologies-deep-partnership/",
+    "source": "BeInCrypto",
+    "tags": [
+      "HashKey On-Chain",
+      "RD Technologies",
+      "RDUSD"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-02T05:02:43.000Z",
+    "fetchedAt": "2026-11-02T06:01:22.555Z",
+    "isDuplicateOf": null,
+    "content": "HashKey On-Chain and RD Technologies have announced a strategic partnership to support on-chain testing for RDUSD. The collaboration aims to drive institutional adoption of the stablecoin across cross-border trade, corporate payments, and financing. By leveraging HashKey On-Chain's infrastructure, the partnership will explore technical integrations to expand the utility of RDUSD within the digital asset ecosystem.",
+    "content_ta": "HashKey On-Chain மற்றும் RD Technologies நிறுவனங்கள் RDUSD-க்கான ஆன்-செயின் பரிசோதனைகளை ஆதரிக்க ஒரு புதிய வியூகக் கூட்டாண்ட்டை அறிவித்துள்ளன. எல்லை தாண்டிய வர்த்தகம், பெருநிறுவன செலுத்துதல்கள் மற்றும் நிதியுதவி ஆகியவற்றில் RDUSD-இன் நிறுவனப் பயன்பாட்டை அதிகரிப்பதை இந்தக் கூட்டாட்டு நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "hashkey-on-chain-and-rd-technologies-form-deep-partnership-to-support-on-chain-testing-for-rdusd"
+  },
+  {
+    "id": "005c96fe1bafab0e",
+    "title": "Bitcoin 39% Below Peak, Meme Coins Down Up to 99%, but S&P 500 Near Record",
+    "summary": "Bitcoin sits 39% below its high and meme coins up to 99%, while the S&P 500 trails its record by 3%. See the gap.\nThe post Bitcoin 39% Below Peak, Meme Coins Down Up to 99%, but S&P 500 Near Record appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/bitcoin-meme-coins-below-peak/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Bitcoin",
+      "S&P 500"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-02T05:00:00.000Z",
+    "fetchedAt": "2026-11-02T06:01:22.555Z",
+    "isDuplicateOf": null,
+    "content": "While major cryptocurrency Bitcoin sits significantly below its peak and meme coins face steeper drops of up to 99%, traditional markets show strong resilience. The S&P 500 index is trading near its record high, reflecting a notable performance gap between the digital asset sector and traditional stock markets.",
+    "content_ta": "முக்கியமான cryptocurrency ஆன Bitcoin அதன் உச்சத்தில் இருந்து கணிசமாகக் கீழே உள்ளதுடன், meme coins 99 சதவீதம் வரை பெரும் வீழ்ச்சியைச் சந்தித்துள்ளன. அதே நேரத்தில், பாரம்பரிய சந்தைகள் வலுவான மீட்சியைக் காட்டுகின்றன. S&P 500 குறியீட்டு எண் அதன் சாதனை உச்சத்திற்கு அருகில் வர்த்தகமாகி வருகிறது, இது டிஜிட்டல் சொத்துத் துறைக்கும் பாரம்பரிய பங்குச் சந்தைகளுக்கும் இடையிலான குறிப்பிடத்தக்க செயல்திறன் வித்தியாசத்தைக் காட்டுகிறது.",
+    "slug": "bitcoin-39-below-peak-meme-coins-down-up-to-99-but-s-p-500-near-record"
+  },
+  {
+    "id": "64a9cf7299d64e40",
+    "title": "Is a Stock-Pocalypse Coming This Week? Analysts Share Their Boldest Calls",
+    "summary": "Wall Street enters a high-stakes week after Friday’s sharp selloff. The Nasdaq fell 2.86%, its worst day since early June, while the S&P 500 lost 1.82%. Now, analysts warn that midterms, AI spending fears, and key earnings could trigger even bigger swings. What Sparked Wall Street’s “Stock-Pocalypse” Fears A stock-pocalypse is an informal term for\nThe post Is a Stock-Pocalypse Coming This Week? Analysts Share Their Boldest Calls appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/stock-pocalypse-us-stock-market-crash-this-week/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Wall Street",
+      "Nasdaq",
+      "S&P 500"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-02T04:48:15.000Z",
+    "fetchedAt": "2026-11-02T06:01:22.555Z",
+    "isDuplicateOf": null,
+    "content": "Wall Street faces a volatile week following a major market selloff on Friday. The Nasdaq dropped 2.86% and the S&P 500 fell 1.82% amid growing investor anxiety. Analysts warn that upcoming midterms, concerns over AI spending, and crucial earnings reports could drive further market swings as trading resumes.",
+    "content_ta": "வெள்ளிக்கிழமை ஏற்பட்ட கடுமையான பங்குச் சந்தை சரிவைத் தொடர்ந்து, Wall Street இந்த வாரம் பெரும் ஏற்றத்தாழ்வுகளை எதிர்கொள்கிறது. முதலீட்டாளர்களின் கவலைகளுக்கு இடையில், Nasdaq 2.86% சரிந்ததுடன், S&P 500 குறியீடு 1.82% சரிவைச் சந்தித்தது. வரவிருக்கும் இடைக்காலத் தேர்தல்கள், AI முதலீடுகள் குறித்த அச்சங்கள் மற்றும் முக்கிய நிறுவனங்களின் வருவாய் அறிக்கைகள் ஆகியவை மேலும் சந்தை மாற்றங்களை ஏற்படுத்தக்கூடும் என்று ஆய்வாளர்கள் எச்சரிக்கின்றனர்.",
+    "slug": "is-a-stock-pocalypse-coming-this-week-analysts-share-their-boldest-calls"
+  },
+  {
+    "id": "53a70a24de679ceb",
+    "title": "Ethereum ETFs Log Their Worst Month for Flows Since 2024 Launch",
+    "summary": "US spot Ethereum (ETH) exchange-traded funds (ETFs) lost $1.61 billion in October. That was their largest monthly outflow since launching in July 2024. The exits ended a 3-month inflow run and coincided with a 16.1% drop in ETH. That marked its weakest October since 2016, per CryptoRank. Five Straight Losing Weeks Broke Ethereum’s 3-Month Inflow\nThe post Ethereum ETFs Log Their Worst Month for Flows Since 2024 Launch appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/ethereum-etfs-record-october-outflow/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Ethereum",
+      "CryptoRank",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-02T04:17:55.000Z",
+    "fetchedAt": "2026-11-02T06:01:22.555Z",
+    "isDuplicateOf": null,
+    "content": "US spot Ethereum exchange-traded funds recorded their worst month for flows since launching in July 2024. The funds suffered $1.61 billion in outflows during October, ending a three-month streak of positive inflows. This downturn coincided with a 16.1 percent drop in the price of ETH, marking the cryptocurrency's weakest October performance since 2016 amid five consecutive weeks of losses.",
+    "content_ta": "US-ல் உள்ள spot Ethereum exchange-traded funds (ETFs), 2024 ஜூலை மாதம் தொடங்கப்பட்டதிலிருந்து மிக மோசமான மாதப் பணப்போக்கைப் பதிவு செய்துள்ளன. அக்டோபர் மாதத்தில் இந்த ஃபண்டுகளிலிருந்து 1.61 பில்லியன் டாலர் வெளியேறியுள்ளது, இதன் மூலம் தொடர்ச்சியான மூன்று மாத முதலீட்டு வரத்து முடிவுக்கு வந்தது. இந்த வீழ்ச்சியானது ETH விலையில் 16.1 சதவீதம் சரிவுடன் ஒத்துப்போனது, மேலும் தொடர்ச்சியாக ஐந்து வார இழப்புகளுக்கு மத்தியில், 2016-க்குப் பிறகு கிரிப்டோகரன்சியின் மிக மோசமான அக்டோபர் மாதமாக இது பதிவானது.",
+    "slug": "ethereum-etfs-log-their-worst-month-for-flows-since-2024-launch"
+  },
+  {
+    "id": "27f7659154ecc28f",
+    "title": "Midterms, Jobs Data, and Apple Earnings Test Wall Street This Week: Will Stocks Hold?",
+    "summary": "Midterms, jobs data and Apple earnings test Wall Street this week after the Nasdaq's worst month since March 2025.\nThe post Midterms, Jobs Data, and Apple Earnings Test Wall Street This Week: Will Stocks Hold? appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/wall-street-this-week-midterms-jobs/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Apple",
+      "Wall Street",
+      "Nasdaq",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-02T03:16:34.000Z",
+    "fetchedAt": "2026-11-02T06:01:22.555Z",
+    "isDuplicateOf": null,
+    "content": "Wall Street faces a major test this week with upcoming midterms, crucial jobs data, and earnings reports from Apple. These market events follow a difficult period for the Nasdaq, which experienced its worst month since March 2025. Investors are closely watching to see if stocks can hold their ground amid this heavy economic and political calendar.",
+    "content_ta": "இந்த வாரம் மி டேர்ம்கள், வேலைவாய்ப்பு தரவுகள் மற்றும் Apple நிறுவனத்தின் வருவாய் அறிக்கைகள் மூலம் Wall Street ஒரு பெரிய பரிட்சையை எதிர்கொள்கிறது. மார்ச் 2025-க்குப் பிறகு Nasdaq தனது மோசமான மாதத்தைச் சந்தித்ததைத் தொடர்ந்து இந்த சந்தை நிகழ்வுகள் வந்துள்ளன. இந்த பொருளாதார மற்றும் அரசியல் நிகழ்வுகளுக்கு மத்தியில் பங்குகள் நிலைநிறுத்தப்படுமா என்பதை முதலீட்டாளர்கள் உன்னிப்பாக கவனித்து வருகின்றனர்.",
+    "slug": "midterms-jobs-data-and-apple-earnings-test-wall-street-this-week-will-stocks-hold"
+  },
+  {
+    "id": "6012cd3aaf7f5a61",
+    "title": "UAE signs four agreements with OpenAI to advance AI governance",
+    "summary": "The collaboration could accelerate AI adoption in UAE's large enterprises, potentially transforming operational efficiencies and innovation.\nThe post OpenAI and Inception42 to offer tailored enterprise AI to large UAE organisations, ADMO says appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/uae-signs-four-agreements-with-openai/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "UAE",
+      "OpenAI",
+      "Inception42"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-02T05:33:34.000Z",
+    "fetchedAt": "2026-11-02T06:01:22.555Z",
+    "isDuplicateOf": null,
+    "content": "The UAE has signed four agreements with OpenAI to advance artificial intelligence governance and accelerate AI adoption among large enterprises. Through a collaboration with Inception42, the initiative aims to provide tailored enterprise AI solutions to major organizations in the UAE, driving operational efficiencies and fostering technological innovation across the region.",
+    "content_ta": "செயற்கை நுண்ணறிவு ஆளுமையை மேம்படுத்தவும், பெரிய நிறுவனங்களில் AI பயன்பாட்டை விரைவுபடுத்தவும் OpenAI உடன் UAE நான்கு ஒப்பந்தங்களில் கையெழுத்திட்டுள்ளது. Inception42 நிறுவனத்துடன் இணைந்து மேற்கொள்ளப்படும் இந்த ஒத்துழைப்பு, UAE-ல் உள்ள முக்கிய அமைப்புகளுக்கு ஏற்றவாறு தனிப்பயனாக்கப்பட்ட enterprise AI தீர்வுகளை வழங்குவதை நோக்கமாகக் கொண்டுள்ளது. இது இப்பகுதி முழுவதும் செயல்பாட்டுத் திறனை மேம்படுத்தவும் தொழில்நுட்ப புதுமைகளை வளர்க்கவும் உதவும்.",
+    "slug": "uae-signs-four-agreements-with-openai-to-advance-ai-governance"
+  },
+  {
+    "id": "6f57239df412e719",
+    "title": "Lee Jae Myung proposes record 2027 budget with $15.97 billion for AI",
+    "summary": "South Korea's AI-focused budget could boost economic growth, enhance global tech competitiveness, and potentially improve credit ratings.\nThe post Lee Jae Myung proposes record 2027 budget with $15.97 billion for AI appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/lee-jae-myung-record-budget-ai-investment/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Lee Jae Myung",
+      "South Korea"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-02T05:25:13.000Z",
+    "fetchedAt": "2026-11-02T06:01:22.555Z",
+    "isDuplicateOf": null,
+    "content": "Lee Jae Myung has proposed a record 2027 budget allocating $15.97 billion toward artificial intelligence development in South Korea. This significant investment aims to boost economic growth, enhance global technology competitiveness, and potentially improve the nation's credit ratings.",
+    "content_ta": "South Korea-வில் AI வளர்ச்சிக்காக record 2027 budget-ல் $15.97 billion ஒதுக்குவதாக Lee Jae Myung proposal அளித்துள்ளார். இந்த முதலீடு economic growth-ஐ அதிகரிக்கவும், global tech competitiveness-ஐ மேம்படுத்தவும் உதவும்.",
+    "slug": "lee-jae-myung-proposes-record-2027-budget-with-15-97-billion-for-ai"
+  },
+  {
+    "id": "2ed965203bc63b2d",
+    "title": "Binance hacker’s frozen-in-place Bitcoin stash is drawing begging notes and token shills",
+    "summary": "The incident highlights the immutable transparency of blockchain, where stolen assets remain visible yet untouchable, affecting user trust.\nThe post Binance hacker’s frozen-in-place Bitcoin stash is drawing begging notes and token shills appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/binance-hacker-wallets-op-return-messages/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Binance",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-02T05:22:41.000Z",
+    "fetchedAt": "2026-11-02T06:01:22.555Z",
+    "isDuplicateOf": null,
+    "content": "The frozen Bitcoin stash belonging to a Binance hacker has attracted numerous begging notes and promotional token shills on the blockchain. This incident highlights the unique immutable transparency of blockchain technology, where stolen assets remain permanently visible yet untouchable, impacting ongoing user trust across the digital asset ecosystem.",
+    "content_ta": "Binance-ன் ஹேக்கர் ஒருவர் முடக்கி வைக்கப்பட்டுள்ள Bitcoin சேமிப்பானது பிளாக்செயின் வலையமைப்பில் பலரது யாசகக் குறிப்புகளையும் டோக்கன் விளம்பரங்களையும் ஈர்த்துள்ளது. திருடப்பட்ட சொத்துக்கள் வெளிப்படையாகத் தெரிந்தாலும் தொட முடியாத அளவில் இருக்கும் பிளாக்செயினின் மாறாத வெளிப்படைத்தன்மையை இந்தச் சம்பவம் வெளிச்சம் போட்டுக் காட்டுகிறது.",
+    "slug": "binance-hacker-s-frozen-in-place-bitcoin-stash-is-drawing-begging-notes-and-token-shills"
+  },
+  {
+    "id": "d703206da025f795",
+    "title": "IMF warns of slowing Asia factory activity amid AI demand correction",
+    "summary": "The cooling AI demand in Asia could signal broader economic challenges, impacting growth forecasts and technology supply chains regionally.\nThe post IMF warns of slowing Asia factory activity amid AI demand correction appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/imf-asia-factory-activity-ai-slowdown/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "International Monetary Fund",
+      "Asia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-02T04:34:17.000Z",
+    "fetchedAt": "2026-11-02T06:01:22.555Z",
+    "isDuplicateOf": null,
+    "content": "The International Monetary Fund has issued a warning regarding a slowdown in factory activity across Asia, driven by a correction in artificial intelligence demand. This cooling trend in the region's technology sector could signal broader economic challenges, potentially impacting regional growth forecasts and vital technology supply chains.",
+    "content_ta": "Asia-வில் AI தேவை குறைந்து வருவதால், தொழிற்சாலைகளின் உற்பத்தி வேகம் மந்தமடைந்துள்ளதாக International Monetary Fund எச்சரித்துள்ளது. இப்பகுதியின் தொழில்நுட்பத் துறையில் ஏற்பட்டுள்ள இந்தத் தாக்கம், பரந்த பொருளாதார சவால்களை ஏற்படுத்தக்கூடும் என்றும், இது பிராந்திய வளர்ச்சி மதிப்பீடுகள் மற்றும் விநியோகச் சங்கிலிகளைப் பாதிக்கலாம் என்றும் தெரிவிக்கப்பட்டுள்ளது.",
+    "slug": "imf-warns-of-slowing-asia-factory-activity-amid-ai-demand-correction"
+  },
+  {
+    "id": "479b0894d134d9f8",
+    "title": "Tokenization offers enterprises a way to protect data without limiting AI, analyst says",
+    "summary": "Tokenization enables secure AI deployment, fostering innovation by balancing data protection with accessibility, thus accelerating enterprise AI growth.\nThe post Tokenization offers enterprises a way to protect data without limiting AI, analyst says appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/enterprise-data-tokenization-ai-protection/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Crypto Briefing"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-02T03:46:39.000Z",
+    "fetchedAt": "2026-11-02T06:01:22.555Z",
+    "isDuplicateOf": null,
+    "content": "Tokenization provides enterprises with an effective method to protect sensitive data while simultaneously supporting artificial intelligence initiatives. Analysts note that this approach balances strict data security with accessibility, enabling organizations to deploy and accelerate AI growth without compromising privacy or innovation.",
+    "content_ta": "நிறுவனங்கள் தங்களது முக்கியமான தரவுகளைப் பாதுகாப்பதற்கும், அதே நேரத்தில் AI தொழில்நுட்பத்தைப் பயன்படுத்துவதற்கும் டோக்கனைசேஷன் ஒரு சிறந்த வழியை வழங்குகிறது. தரவுப் பாதுகாப்பையும் அதன் பயன்பாட்டையும் சமநிலையில் வைத்திருப்பதன் மூலம், நிறுவனங்கள் தனியுரிமைக்குப் பங்கம் விளைவிக்காமல் AI வளர்ச்சியை விரைவுபடுத்த முடியும் என்று ஆய்வாளர்கள் குறிப்பிடுகின்றனர்.",
+    "slug": "tokenization-offers-enterprises-a-way-to-protect-data-without-limiting-ai-analyst-says"
+  },
+  {
+    "id": "4da986207f7c002e",
+    "title": "How long does it take to learn Solana blockchain development with no previous experience?",
+    "summary": "The post How long does it take to learn Solana blockchain development with no previous experience? appeared first on Coinpedia Fintech News\nSolana is one of the most efficient blockchains in the industry, having reached high-performance speeds at low transaction costs and being praised as an alternative to Ethereum. The Solana infrastructure can sustain thousands of transactions per second, attracting more investors to buy Solana and benefit from low transaction fees for micropayments and exposure to a …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/guest-post/how-long-does-it-take-to-learn-solana-blockchain-development-with-no-previous-experience/",
+    "source": "Coinpedia",
+    "tags": [
+      "Solana",
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-02T05:24:21.000Z",
+    "fetchedAt": "2026-11-02T06:01:22.555Z",
+    "isDuplicateOf": null,
+    "content": "Solana has emerged as a high-performance, cost-effective alternative to Ethereum, attracting significant interest from developers and investors. Known for its ability to sustain thousands of transactions per second with very low fees, the blockchain has become a major focus in the industry. Many individuals with no prior background are now exploring how long it takes to learn Solana blockchain development to enter this rapidly growing ecosystem.",
+    "content_ta": "Ethereum-க்கு மாற்றாக குறைந்த கட்டணத்தில் அதிக செயல்திறன் கொண்ட Solana பிளாக்செயின் உருவாகியுள்ளது. இது வினாடிக்கு ஆயிரக்கணக்கான பரிவர்த்தனைகளை செய்யும் திறனுக்காக டெவலப்பர்கள் மற்றும் முதலீட்டாளர்களை ஈர்த்து வருகிறது. எந்தவித முன்னனுபவமும் இல்லாதவர்கள் இந்த Solana பிளாக்செயின் வளர்ச்சியை கற்றுக்கொள்ள எவ்வளவு காலம் ஆகும் என்பதை தற்போது ஆராய்ந்து வருகின்றனர்.",
+    "slug": "how-long-does-it-take-to-learn-solana-blockchain-development-with-no-previous-experience"
+  },
+  {
+    "id": "8a5a7bf03e0fda92",
+    "title": "Why Businesses Should Not Have to Choose Between Traditional Banking and Crypto",
+    "summary": "The post Why Businesses Should Not Have to Choose Between Traditional Banking and Crypto appeared first on Coinpedia Fintech News\nFor much of the past decade, traditional banking and crypto have been presented as opposing systems. One is regulated, familiar and connected to the wider economy. The other is programmable, global and able to move value through digital networks at any hour. The more practical model is hybrid finance: bank accounts, payment networks, crypto services, …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/guest-post/why-businesses-should-not-have-to-choose-between-traditional-banking-crypto/",
+    "source": "Coinpedia",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-02T04:04:04.000Z",
+    "fetchedAt": "2026-11-02T06:01:22.555Z",
+    "isDuplicateOf": null,
+    "content": "Traditional banking and crypto have long been viewed as opposing systems, but businesses should not have to choose between them. Traditional banking offers regulation and connection to the broader economy, while crypto provides global and programmable digital value transfer. A more practical approach is hybrid finance, which combines bank accounts, payment networks, and crypto services into a unified model for modern enterprises.",
+    "content_ta": "வழக்கமான வங்கி அமைப்பும் crypto-வும் நீண்ட காலமாக எதிரெதிர் அமைப்புகளாகப் பார்க்கப்படுகின்றன, ஆனால் வணிகங்கள் அவற்றுக்கிடையே எதையாவது ஒன்றை மட்டுமே தேர்ந்தெடுக்க வேண்டிய கட்டாயம் இல்லை. வழக்கமான வங்கி முறை ஒழுங்குமுறையையும் பரந்த பொருளாதாரத்துடன் இணைப்பையும் வழங்குகிறது, அதே நேரத்தில் crypto உலகளாவிய மற்றும் நிரல்படுத்தக்கூடிய டிஜிட்டல் பரிமாற்றத்தை அளிக்கிறது. நவீன நிறுவனங்களுக்கு வங்கி கணக்குகள், கட்டண வலைப்பின்னல்கள் மற்றும் crypto சேவைகளை ஒருங்கிணைக்கும் ஒரு கலப்பின நிதி முறையே மிகவும் நடைமுறைக்கு உகந்த அணுகுமுறையாகும்.",
+    "slug": "why-businesses-should-not-have-to-choose-between-traditional-banking-and-crypto"
+  },
+  {
+    "id": "20bfcae6a84117af",
+    "title": "UAE Retail Investors Swap Software for AI Infrastructure Stocks",
+    "summary": "Oracle, Sandisk and Broadcom drew new UAE holders on etoro in Q3 2026 as software names such as NiCE, Wix and Salesforce lost ground with local investors.\nThe post UAE Retail Investors Swap Software for AI Infrastructure Stocks appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/uae-retail-investors-swap-software-for-ai-infrastructure-stocks/",
+    "source": "The Fintech Times",
+    "tags": [
+      "UAE",
+      "Oracle",
+      "Sandisk",
+      "Broadcom",
+      "NiCE",
+      "Wix",
+      "Salesforce"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-02T06:00:43.000Z",
+    "fetchedAt": "2026-11-02T06:01:22.555Z",
+    "isDuplicateOf": null,
+    "content": "During the third quarter of 2026, retail investors in the UAE shifted their focus on the eToro platform away from traditional software stocks toward artificial intelligence infrastructure companies. Stocks such as Oracle, Sandisk, and Broadcom attracted new local holders, while software names including NiCE, Wix, and Salesforce experienced a decline in popularity among investors in the region.",
+    "content_ta": "2026-ம் ஆண்டின் மூன்றாம் காலாண்டில், UAE-ஐச் சேர்ந்த சில்லறை முதலீட்டாளர்கள் eToro தளத்தில் பாரம்பரிய மென்பொருள் பங்குகளிலிருந்து செயற்கை நுண்ணறிவு உள்கட்டமைப்பு நிறுவனங்களுக்குத் தங்கள் கவனத்தைத் திருப்பினர். Oracle, Sandisk மற்றும் Broadcom போன்ற பங்குகள் புதிய உள்ளூர் முதலீட்டாளர்களை ஈர்த்தன, அதே நேரத்தில் NiCE, Wix மற்றும் Salesforce போன்ற மென்பொருள் பங்குகள் பிராந்தியத்தில் உள்ள முதலீட்டாளர்கள் மத்தியில் சரிவைச் சந்தித்தன.",
+    "slug": "uae-retail-investors-swap-software-for-ai-infrastructure-stocks"
   }
 ]
