@@ -1,112 +1,382 @@
 [
   {
-    "id": "6d405b742ecc20d9",
-    "title": "Canada to boost spending by C$142B over five years",
-    "summary": "Increased Canadian government spending may lead to cautious monetary policy adjustments, impacting interest rates and economic stability.\nThe post Canada to boost spending by C$142B over five years appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/canada-to-boost-spending-by-c142b-over-five-years/",
-    "source": "CryptoBriefing",
+    "id": "d4b9949c2c19138c",
+    "slug": "kalshi-ceo-pitches-insider-trading-rules-as-democrats-weigh-their-own",
+    "title": "Kalshi CEO Pitches Insider Trading Rules as Democrats Weigh Their Own",
     "tags": [
-      "Canada"
+      "Kalshi"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-11-05T21:11:54.000Z",
-    "fetchedAt": "2026-11-05T21:15:56.772Z",
-    "isDuplicateOf": null,
-    "content": "Canada plans to significantly increase government spending by C$142 billion over the next five years. This major fiscal expansion could prompt cautious monetary policy adjustments, potentially influencing interest rates and broader economic stability in the country.",
-    "content_ta": "அடுத்த ஐந்து ஆண்டுகளில் அரசின் செலவினங்களை C$142 பில்லியன் அளவுக்கு கணிசமாக அதிகரிக்க Canada திட்டமிட்டுள்ளது. இந்த முக்கிய நிதி விரிவாக்கம் எச்சரிக்கையான பணவியல் கொள்கை மாற்றங்களைத் தூண்டக்கூடும், இது நாட்டில் வட்டி விகிதங்களையும் பொருளாதார ஸ்திரத்தன்மையையும் பாதிக்கக்கூடும்.",
-    "slug": "canada-to-boost-spending-by-c-142b-over-five-years"
+    "hasContent": true,
+    "pubDate": "2026-11-06T02:39:00.000Z"
   },
   {
-    "id": "6ae950b30e28cf8f",
-    "title": "Gate Pioneers Proof of Security (PoSEC), Achieving 104.58% Cold Storage Coverage to Solidify Asset Security",
-    "summary": "Gate has officially introduced Proof of Security (PoSEC), a new asset security verification framework, becoming the first digital asset trading platform in the industry to launch a PoSEC security verification system. Since its founding in 2013, Gate has consistently placed user asset security at the forefront of its priorities. With the introduction of PoSEC, Gate extends security verification beyond reserve adequacy to include asset storage structures and risk coverage capabilities, further solidifying safeguards for user assets and providing a new practical approach to advancing industry security standards. PoSEC Focuses on Asset Storage Security and Quantifies Extreme-Risk Coverage Capabilities Unlike Proof of Reserves (PoR), which primarily verifies the adequacy of asset reserves, PoSEC places additional emphasis on asset storage security. By publicly disclosing the distribution of assets between platform cold storage and hot wallets, PoSEC provides visibility into asset storage structures and their ability to cover potential losses under extreme scenarios. PoSEC introduces the cold storage coverage ratio as a key metric to measure the extent to which cold storage covers total user assets. A coverage ratio ≥ 100% means that, under the applicable calculation methodology, cold storage alone would be sufficient to cover all user assets even if all assets held in hot wallets were lost. PoR and PoSEC serve complementary purposes, extending asset security verification from reserve adequacy to storage security and risk coverage, while providing users with more comprehensive and transparent information about asset security. Cold Storage Coverage Reaches 104.58%, with Open and Transparent Storage Structure According to the snapshot taken at 00:00 (UTC) on November 4, 2026, Gate’s cold storage coverage ratio reached 104.58%, with cold storage and hot wallet assets accounting for 88.26% and 11.74% of total assets, respectively. Cold storage assets include digital assets held offline and traditional assets under independent custody. To qualify, these assets must meet requirements such as not being directly used for routine deposits and withdrawals, being held offline or under independent custody, requiring multi-party authorization for transfers, and being independently verifiable. The current data is undergoing verification by an independent third-party audit firm. The review covers asset authenticity and control, valuation and calculation methodologies, and coverage ratio calculations. The audit report will be published on Gate’s official website upon completion, enhancing the transparency and credibility of asset security disclosures. From PoR to PoSEC: Continuously Strengthening Digital Asset Security Gate has long been committed to digital asset security and transparency. In 2020, Gate was among the first in the industry to introduce an open-source Proof of Reserves (PoR) mechanism and a Merkle Tree-based asset verification solution, establishing itself as an early contributor to reserve transparency in the industry. Gate subsequently incorporated technologies such as zk-SNARKs to enhance its asset reserve verification framework. As of October 18, 2026, Gate’s total reserves amounted to approximately $8.688 billion, with an overall reserve ratio of 118.49%. The platform also employs a range of security mechanisms, including hot and cold wallet segregation, multi-signature technology, Multi-Party Computation (MPC), dynamic risk monitoring, and zero-trust access control, to establish a multi-layered security framework covering asset reserves, storage management, and risk protection. From PoR, which verifies reserve adequacy, to PoSEC, which verifies asset storage security and risk coverage capabilities, Gate is progressively building a multi-layered security framework encompassing asset reserves, storage management, risk protection, and public verification. Looking ahead, Gate will continue to uphold its security-first principle, further develop PoSEC standards and verification mechanisms, and collaborate with more industry participants to enhance asset security and transparency, laying a stronger security foundation for the long-term, sustainable development of the digital asset industry.   Learn more: https://www.gate.com/proof-of-security About Gate Gate, founded in 2013 by Dr. Han, is one of the world’s leading cryptocurrency and integrated financial services platforms, spanning financial and everyday use cases including asset management, trading and payments. Serving over 62 million users globally, it supports trading across 5,400+ digital assets and 12,800+ stock assets and ETFs, while providing access to a comprehensive range of TradFi assets, including metals, stocks, indices, forex, and commodities to meet users’ end-to-end needs across asset holding, trading, and spending. As an industry benchmark, Gate was among the first platforms to implement 100% Proof of Reserves. Its ecosystem includes Gate Money, Gate Wallet, Gate Ventures, Gate for AI Agent, and a wide range of products and services.   For more information, please visit: Website | X | Telegram | LinkedIn| Instagram | YouTube   Disclaimer: This content does not constitute an offer, solicitation, or recommendation. You should always seek independent professional advice before making investment decisions. Note that Gate may restrict or prohibit certain services in specific jurisdictions. For more information, please read the User Agreement.",
+    "id": "f6281924d75e0482",
+    "slug": "hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
+    "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+    "tags": [
+      "Hyperliquid",
+      "United States"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T02:24:23.000Z"
+  },
+  {
+    "id": "dbfe7459d71baf2d",
+    "slug": "optimism-new-proposal-weakens-council-power-over-standalone-chains",
+    "title": "Optimism new proposal weakens council power over standalone chains",
+    "tags": [
+      "Optimism",
+      "CryptoSlate"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T02:10:05.000Z"
+  },
+  {
+    "id": "562d43c73ad3c30e",
+    "title": "Cathie Wood buys about $100M in Nvidia and SpaceX shares",
+    "summary": "Cathie Wood's strategic investments in Nvidia and SpaceX highlight ARK Invest's confidence in AI and space sectors, potentially influencing market trends.\nThe post Cathie Wood buys about $100M in Nvidia and SpaceX shares appeared first on Crypto Briefing.",
     "hasSummary": true,
-    "link": "https://www.newsbtc.com/news/gate-pioneers-proof-of-security-posec-achieving-104-58-cold-storage-coverage-to-solidify-asset-security/",
-    "source": "NewsBTC",
+    "link": "https://cryptobriefing.com/cathie-wood-ark-buys-nvidia-spacex/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Cathie Wood",
+      "Nvidia",
+      "SpaceX",
+      "ARK Invest"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-06T02:08:50.000Z",
+    "fetchedAt": "2026-11-06T02:43:26.335Z",
+    "isDuplicateOf": null,
+    "content": "Cathie Wood's investment firm has purchased approximately $100 million in shares of Nvidia and SpaceX. This strategic move underscores the firm's ongoing confidence in the artificial intelligence and aerospace sectors, reflecting broader market trends toward these high-growth industries.",
+    "content_ta": "Cathie Wood-யின் முதலீட்டு நிறுவனம் Nvidia மற்றும் SpaceX நிறுவனங்களின் பங்குகளில் தோராயமாக $100 மில்லியன் முதலீடு செய்துள்ளது. இந்த மூலோபாய நடவடிக்கை, செயற்கை நுண்ணறிவு மற்றும் விண்வெளித் துறைகளின் மீதுள்ள நம்பிக்கையை வெளிப்படுத்துகிறது.",
+    "slug": "cathie-wood-buys-about-100m-in-nvidia-and-spacex-shares"
+  },
+  {
+    "id": "fdee207fa0f68f7f",
+    "slug": "bitcoin-trader-lost-15-million-in-minutes-after-the-wall-street-crash",
+    "title": "Bitcoin Trader Lost $15 Million in Minutes After the Wall Street Crash",
+    "tags": [
+      "Bitcoin",
+      "Wall Street"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T02:00:00.000Z"
+  },
+  {
+    "id": "411860515e693658",
+    "slug": "why-did-apple-stock-hit-an-all-time-high-amid-us-stock-market-crash",
+    "title": "Why did Apple Stock Hit an All-Time High Amid US Stock Market Crash?",
+    "tags": [
+      "Apple",
+      "United States"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T01:50:26.000Z"
+  },
+  {
+    "id": "f224041368fcf84e",
+    "title": "China’s 10-year treasury futures hit record high amid yield drop",
+    "summary": "China's bond demand surge may alter global risk perceptions and yield expectations, potentially impacting U.S. Treasury market dynamics.\nThe post China’s 10-year treasury futures hit record high amid yield drop appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/chinas-10-year-treasury-futures-hit-record-high-amid-yield-drop/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "China",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-06T01:42:44.000Z",
+    "fetchedAt": "2026-11-06T02:43:26.335Z",
+    "isDuplicateOf": null,
+    "content": "China's 10-year treasury futures reached a record high as bond yields dropped. This significant surge in bond demand reflects shifting market conditions that could alter global risk perceptions and yield expectations. Analysts note that these developments in China may ultimately impact broader market dynamics, including those within the U.S. Treasury market.",
+    "content_ta": "சீனாவின் 10-year treasury futures, பாண்ட் ஈல்டு குறைந்ததால் வரலாற்று உச்சத்தை எட்டியுள்ளது. பாண்ட் தேவை அதிகரித்துள்ள இந்த மாற்றம், உலகளாவிய ரிஸ்க் மற்றும் ஈல்டு எதிர்பார்ப்புகளை மாற்றியமைக்கலாம். சீனா சந்தையில் ஏற்பட்டுள்ள இந்த மாற்றங்கள் U.S. Treasury சந்தை உட்பட ஒட்டுமொத்த நிதிச் சந்தை இயக்கவியலையும் பாதிக்கக்கூடும்.",
+    "slug": "china-s-10-year-treasury-futures-hit-record-high-amid-yield-drop"
+  },
+  {
+    "id": "19a72fb176dee8f2",
+    "slug": "hyperliquid-strategies-is-betting-us-fcm-status-matters-more-than-its-620-6m-profit",
+    "title": "Hyperliquid Strategies Is Betting US FCM Status Matters More Than Its $620.6M Profit",
+    "tags": [
+      "Hyperliquid Strategies",
+      "United States"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T01:40:00.000Z"
+  },
+  {
+    "id": "1a4aa0f9b42cb5d5",
+    "title": "Cory Fields proposes quantum landmines to deter Bitcoin theft",
+    "summary": "Fields' proposal highlights the need for innovative deterrents in Bitcoin's security, emphasizing economic disincentives over cryptographic upgrades.\nThe post Cory Fields proposes quantum landmines to deter Bitcoin theft appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/cory-fields-quantum-landmines-bitcoin-theft/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Cory Fields",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-06T01:35:06.000Z",
+    "fetchedAt": "2026-11-06T02:43:26.335Z",
+    "isDuplicateOf": null,
+    "content": "Developer Cory Fields has proposed the concept of quantum landmines to help deter Bitcoin theft. This proposal focuses on introducing innovative economic disincentives rather than relying solely on traditional cryptographic upgrades to enhance overall security within the ecosystem.",
+    "content_ta": "Bitcoin திருட்டைத் தடுப்பதற்காக டெவலப்பர் Cory Fields квантовый (quantum) லேண்ட்மைன் என்ற புதிய கருத்தை முன்மொழிந்துள்ளார். இந்தத் திட்டம் பாரம்பரிய கிரிப்டோகிராஃபிக் மேம்பாடுகளை மட்டும் நம்பியிராமல், புதிய பொருளாதாரத் தணிப்பு முறைகளை அறிமுகப்படுத்துவதன் மூலம் பாதுகாப்பை மேம்படுத்துவதை நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "cory-fields-proposes-quantum-landmines-to-deter-bitcoin-theft"
+  },
+  {
+    "id": "1bdca65b3884fffa",
+    "slug": "bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
+    "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
+    "tags": [],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-06T01:30:00.000Z"
+  },
+  {
+    "id": "b1fb911845c83a32",
+    "slug": "wall-street-s-ai-sell-off-spills-into-seoul-sinking-kospi-below-5-000",
+    "title": "Wall Street’s AI Sell-Off Spills Into Seoul, Sinking KOSPI Below 5,000",
+    "tags": [
+      "South Korea",
+      "KOSPI",
+      "SK Hynix",
+      "Wall Street"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T01:28:37.000Z"
+  },
+  {
+    "id": "066d97aea77ae2e1",
+    "title": "Ethereum prepares to overhaul its state structure with a Partitioned Binary Tree",
+    "summary": "Ethereum's state structure overhaul could enhance scalability and efficiency, paving the way for stateless clients and future state expiry.\nThe post Ethereum prepares to overhaul its state structure with a Partitioned Binary Tree appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/ethereum-partitioned-binary-tree-eip-8297/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-06T01:09:42.000Z",
+    "fetchedAt": "2026-11-06T02:43:26.335Z",
+    "isDuplicateOf": null,
+    "content": "Ethereum is preparing a major overhaul of its state structure by introducing a Partitioned Binary Tree. This upcoming upgrade aims to significantly enhance network scalability and operational efficiency. Furthermore, the improvements are expected to pave the way for the implementation of stateless clients and future state expiry features, marking a notable technical milestone for the blockchain network.",
+    "content_ta": "Ethereum தனது state structure-ஐ Partitioned Binary Tree மூலம் மாற்றி அமைக்கும் பணிகளில் ஈடுபட்டுள்ளது. இந்த வரவிருக்கும் மேம்பாடு நெட்வொர்க்கின் scalability மற்றும் efficiency-ஐ கணிசமாக அதிகரிக்கும் என்று எதிர்பார்க்கப்படுகிறது. மேலும், இந்த மாற்றங்கள் stateless clients மற்றும் future state expiry-ஐ செயல்படுத்த வழிவகுக்கும்.",
+    "slug": "ethereum-prepares-to-overhaul-its-state-structure-with-a-partitioned-binary-tree"
+  },
+  {
+    "id": "5e66ef4e90dc0cb4",
+    "slug": "bernie-sanders-wants-a-data-center-moratorium-here-s-what-congress-can-realistically-do",
+    "title": "Bernie Sanders Wants a Data Center Moratorium. Here's What Congress Can Realistically Do",
+    "tags": [
+      "Bernie Sanders",
+      "Congress"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T01:07:03.000Z"
+  },
+  {
+    "id": "b68691e7b33d57ad",
+    "slug": "bitrue-pivots-to-ai-with-bitrue-ai-building-on-its-xrp-roots",
+    "title": "Bitrue Pivots To AI With Bitrue AI, Building On Its XRP Roots",
+    "tags": [
+      "Bitrue",
+      "XRP",
+      "Costa Rica"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T01:02:56.000Z"
+  },
+  {
+    "id": "0aab94f372bdd521",
+    "title": "Oil nears $100 as Democrats’ win unsettles energy stocks",
+    "summary": "The Democratic win may lead to policy shifts affecting oil supply, increasing market volatility and potentially driving oil prices to new highs.\nThe post Oil nears $100 as Democrats’ win unsettles energy stocks appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/oil-nears-100-as-democrats-win-unsettles-energy-stocks/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Democratic Party",
+      "Crypto Briefing"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-06T01:01:46.000Z",
+    "fetchedAt": "2026-11-06T02:43:26.335Z",
+    "isDuplicateOf": null,
+    "content": "Oil prices are approaching the $100 mark following recent political shifts. A Democratic victory has created uncertainty within the energy sector, raising concerns over potential policy changes that could impact future oil supply. This market volatility is contributing to the upward pressure on prices, driving energy stocks down and pushing commodities closer to new highs as investors assess the evolving regulatory landscape.",
+    "content_ta": "அரசியல் மாற்றங்களைத் தொடர்ந்து கச்சா எண்ணெய் விலை 100 டாலரை நெருங்கி வருகிறது. ஒரு Democratic வெற்றி ஆற்றல் துறையில் நிச்சயமற்ற தன்மையை உருவாக்கியுள்ளது, இது எதிர்கால எண்ணெய் விநியோகத்தை பாதிக்கக்கூடிய சாத்தியமான கொள்கை மாற்றங்கள் பற்றிய கவலைகளை எழுப்புகிறது. இந்த சந்தை நிலையற்ற தன்மை விலை உயர்வுக்கு பங்களிக்கிறது.",
+    "slug": "oil-nears-100-as-democrats-win-unsettles-energy-stocks"
+  },
+  {
+    "id": "a53327cf6d39bf87",
+    "slug": "pearl-integrates-with-near-intents-to-expand-cross-chain-access-for-ai-miners-can-demand-follow",
+    "title": "PEARL integrates with NEAR Intents to expand cross-chain access for AI miners — Can demand follow?",
+    "tags": [
+      "PEARL",
+      "NEAR Intents"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T01:00:26.000Z"
+  },
+  {
+    "id": "9ee85ff77b3dcbb1",
+    "title": "Paraguay’s President Peña Faces Impeachment Over Ueno Bank Collapse",
+    "summary": "Paraguay’s Chamber of Deputies opened an extraordinary session on Thursday to decide whether to impeach President Santiago Peña, two days after the central bank took over Ueno Bank, one of the country’s largest lenders. The political pressure escalated hours before the session. The ruling Colorado Party backed an impeachment trial against Peña, its leader and\nThe post Paraguay’s President Peña Faces Impeachment Over Ueno Bank Collapse appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/paraguays-president-impeachment-ueno-bank-collapse/",
+    "source": "BeInCrypto",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-06T00:43:27.000Z",
+    "fetchedAt": "2026-11-06T02:43:26.335Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "paraguay-s-president-pena-faces-impeachment-over-ueno-bank-collapse"
+  },
+  {
+    "id": "eb70340909ed23bd",
+    "slug": "gate-boasts-104-cold-reserve-coverage-but-separate-snapshot-dates-raise-red-flags",
+    "title": "Gate boasts 104% cold reserve coverage, but separate snapshot dates raise red flags",
     "tags": [
       "Gate"
     ],
+    "source": "CryptoSlate",
     "origin": "rss",
-    "pubDate": "2026-11-05T21:11:00.000Z",
-    "fetchedAt": "2026-11-05T21:15:56.772Z",
-    "isDuplicateOf": null,
-    "content": "Gate has officially introduced Proof of Security (PoSEC), a new asset security verification framework. Becoming the first digital asset trading platform to launch such a system, Gate achieved a cold storage coverage ratio of 104.58%. The framework extends verification beyond reserve adequacy to include asset storage structures and extreme-risk coverage capabilities, reinforcing asset security and industry standards.",
-    "content_ta": "Gate நிறுவனம் Proof of Security (PoSEC) எனப்படும் புதிய சொத்து பாதுகாப்பு சரிபார்ப்பு முறையை அதிகாரப்பூர்வமாக அறிமுகப்படுத்தியுள்ளது. இத்தகைய அமைப்பைத் தொடங்கிய முதல் டிஜிட்டல் சொத்து வர்த்தக தளமான Gate, 104.58% கோல்டு ஸ்டோரேஜ் கவரேஜ் விகிதத்தை எட்டியுள்ளது. இந்த கட்டமைப்பு, இருப்பு adequacy-ஐ தாண்டி சொத்து சேமிப்பு கட்டமைப்புகள் மற்றும் தீவிர-ஆபத்து கவரேஜ் திறன்களை உள்ளடக்கியது, இது பயனர் சொத்து பாதுகாப்பை மேலும் பலப்படுத்துகிறது.",
-    "slug": "gate-pioneers-proof-of-security-posec-achieving-104-58-cold-storage-coverage-to-solidify-asset"
+    "hasContent": true,
+    "pubDate": "2026-11-06T00:40:44.000Z"
   },
   {
-    "id": "5962636629d580a7",
-    "title": "Canada sets 380,000 annual immigration target, renews monetary policy framework",
-    "summary": "Canada's economic strategy continuity may stabilize markets, but potential rate hikes hinge on inflation data and global oil price shifts.\nThe post Canada sets 380,000 annual immigration target, renews monetary policy framework appeared first on Crypto Briefing.",
+    "id": "a8a988c39939c292",
+    "title": "IREN’s Texas data center for Microsoft falls behind schedule",
+    "summary": "The delays at IREN's data center highlight the risks of dependency on third-party infrastructure, prompting Microsoft to reassess its strategy.\nThe post IREN’s Texas data center for Microsoft falls behind schedule appeared first on Crypto Briefing.",
     "hasSummary": true,
-    "link": "https://cryptobriefing.com/canada-sets-380000-annual-immigration-target-renews-monetary-policy-framework/",
+    "link": "https://cryptobriefing.com/iren-texas-data-center-microsoft-delays/",
     "source": "CryptoBriefing",
+    "tags": [
+      "IREN",
+      "Microsoft",
+      "Texas"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-06T00:32:42.000Z",
+    "fetchedAt": "2026-11-06T02:43:26.335Z",
+    "isDuplicateOf": null,
+    "content": "IREN's data center project in Texas, intended to support Microsoft, has fallen behind schedule. This delay highlights the operational risks associated with relying on third-party infrastructure. As a result, Microsoft is now prompted to reassess its current infrastructure strategy to better manage potential disruptions.",
+    "content_ta": "Microsoft நிறுவனத்திற்காக Texas-ல் அமைக்கப்பட்டு வந்த IREN-ன் டேட்டா சென்டர் திட்டம் திட்டமிட்ட நேரத்திற்கு பின் தங்கியுள்ளது. இந்த தாமதம், மூன்றாம் தரப்பு உள்கட்டமைப்பை சார்ந்து இருப்பதிலுள்ள ஆபத்துகளை வெளிச்சம் போட்டுக் காட்டுகிறது. இதன் காரணமாக, Microsoft தனது உள்கட்டமைப்பு உத்தியை மறுபரிசீலனை செய்யத் தூண்டப்பட்டுள்ளது.",
+    "slug": "iren-s-texas-data-center-for-microsoft-falls-behind-schedule"
+  },
+  {
+    "id": "98d1676dbee5ebf1",
+    "title": "Meta, Google and TikTok sue California AG to block teen social media law",
+    "summary": "The lawsuits highlight the tension between state regulation and tech companies' autonomy, potentially reshaping digital content delivery norms.\nThe post Meta, Google and TikTok sue California AG to block teen social media law appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/meta-google-tiktok-sue-california-teen-law/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Meta",
+      "Google",
+      "TikTok",
+      "California"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-06T00:06:11.000Z",
+    "fetchedAt": "2026-11-06T02:43:26.335Z",
+    "isDuplicateOf": null,
+    "content": "Major tech companies including Meta, Google, and TikTok have filed lawsuits against the California Attorney General. The legal action aims to block a new state law designed to protect teenagers on social media. This clash underscores the ongoing tension between state-level regulation and tech industry autonomy, which could significantly impact digital content delivery and online safety norms moving forward.",
+    "content_ta": "Meta, Google மற்றும் TikTok போன்ற முன்னணி தொழில்நுட்ப நிறுவனங்கள், கலிபோர்னியா AG-க்கு எதிராக வழக்கு தொடர்ந்துள்ளன. சமூக வலைத்தளங்களில் டீனேஜ் பயனர்களைப் பாதுகாக்கும் நோக்கில் கொண்டுவரப்பட்ட புதிய மாநில சட்டத்தை தடுப்பதே இந்த வழக்கின் முக்கிய நோக்கமாகும். மாநில அளவிலான ஒழுங்குமுறைகளுக்கும் தொழில்நுட்ப நிறுவனங்களின் சுதந்திரத்திற்கும் இடையிலான மோதலை இந்த விவகாரம் வெளிச்சம் போட்டுக் காட்டுகிறது.",
+    "slug": "meta-google-and-tiktok-sue-california-ag-to-block-teen-social-media-law"
+  },
+  {
+    "id": "6d405b742ecc20d9",
+    "slug": "canada-to-boost-spending-by-c-142b-over-five-years",
+    "title": "Canada to boost spending by C$142B over five years",
     "tags": [
       "Canada"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-05T21:10:15.000Z",
-    "fetchedAt": "2026-11-05T21:15:56.772Z",
-    "isDuplicateOf": null,
-    "content": "Canada has announced a target of 380,000 annual immigrants and renewed its monetary policy framework. This economic continuity aims to help stabilize markets. However, potential interest rate hikes will depend on upcoming inflation data and fluctuations in global oil prices.",
-    "content_ta": "கனடா ஆண்டுதோறும் 380,000 குடியேற்றங்களை இலக்காக நிர்ணயித்துள்ளதாகவும், தனது நாணயக் கொள்கை கட்டமைப்பைப் புதுப்பித்துள்ளதாகவும் அறிவித்துள்ளது. இந்த பொருளாதார தொடர்ச்சியானது சந்தைகளை நிலைநிறுத்த உதவும். இருப்பினும், சாத்தியமான வட்டி விகித உயர்வு என்பது பணவீக்க தரவுகள் மற்றும் உலகளாவிய கச்சா எண்ணெய் விலை மாற்றங்களைப் பொறுத்தது.",
-    "slug": "canada-sets-380-000-annual-immigration-target-renews-monetary-policy-framework"
+    "hasContent": true,
+    "pubDate": "2026-11-05T21:11:54.000Z"
+  },
+  {
+    "id": "6ae950b30e28cf8f",
+    "slug": "gate-pioneers-proof-of-security-posec-achieving-104-58-cold-storage-coverage-to-solidify-asset",
+    "title": "Gate Pioneers Proof of Security (PoSEC), Achieving 104.58% Cold Storage Coverage to Solidify Asset Security",
+    "tags": [
+      "Gate"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-05T21:11:00.000Z"
+  },
+  {
+    "id": "5962636629d580a7",
+    "slug": "canada-sets-380-000-annual-immigration-target-renews-monetary-policy-framework",
+    "title": "Canada sets 380,000 annual immigration target, renews monetary policy framework",
+    "tags": [
+      "Canada"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-05T21:10:15.000Z"
   },
   {
     "id": "9c6efc34d85b3734",
+    "slug": "canada-to-borrow-c-611b-in-2027-28-72-for-refinancing-maturing-debt",
     "title": "Canada to borrow C$611B in 2027/28, 72% for refinancing maturing debt",
-    "summary": "Canada's increased borrowing for debt refinancing may limit the Bank of Canada's rate hike options, impacting future fiscal strategies.\nThe post Canada to borrow C$611B in 2027/28, 72% for refinancing maturing debt appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/canada-to-borrow-c611b-in-202728-72-for-refinancing-maturing-debt/",
-    "source": "CryptoBriefing",
     "tags": [
       "Canada",
       "Bank of Canada"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-05T21:10:12.000Z",
-    "fetchedAt": "2026-11-05T21:15:56.772Z",
-    "isDuplicateOf": null,
-    "content": "Canada announced plans to borrow C$611 billion in the 2027/28 fiscal year, with 72% of this amount dedicated to refinancing maturing debt. This significant increase in borrowing requirements could potentially limit the Bank of Canada's options regarding future interest rate hikes, ultimately shaping the nation's broader fiscal and monetary strategies moving forward.",
-    "content_ta": "2027/28 நிதியாண்டில் C$611 பில்லியன் கடனாகப் பெற உள்ளதாக Canada அறிவித்துள்ளது. இதில் 72% முதிர்வடையும் கடன்களைத் திரும்பச் செலுத்தப் பயன்படுத்தப்பட உள்ளது. கடனுக்கான இந்த அதிகரித்த தேவை Bank of Canada-வின் எதிர்கால வட்டி விகித உயர்வுகளுக்கான வாய்ப்புகளைக் கட்டுப்படுத்தக்கூடும்.",
-    "slug": "canada-to-borrow-c-611b-in-2027-28-72-for-refinancing-maturing-debt"
+    "hasContent": true,
+    "pubDate": "2026-11-05T21:10:12.000Z"
   },
   {
     "id": "677edcb577d3f7be",
+    "slug": "canada-projects-c-62b-deficit-for-2026-27-amid-supply-disruptions",
     "title": "Canada projects C$62B deficit for 2026-27 amid supply disruptions",
-    "summary": "The projected deficit may constrain Canada's fiscal flexibility, potentially affecting economic growth and influencing monetary policy decisions.\nThe post Canada projects C$62B deficit for 2026-27 amid supply disruptions appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/canada-projects-c62b-deficit-for-2026-27-amid-supply-disruptions/",
-    "source": "CryptoBriefing",
     "tags": [
       "Canada"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-05T21:07:33.000Z",
-    "fetchedAt": "2026-11-05T21:15:56.772Z",
-    "isDuplicateOf": null,
-    "content": "Canada has projected a significant budget deficit of C$62 billion for the 2026-27 fiscal year, driven largely by ongoing supply disruptions. Economic analysts note that this substantial shortfall could constrain the nation's fiscal flexibility, potentially impacting broader economic growth and influencing future monetary policy decisions.",
-    "content_ta": "supply disruptions காரணமாக Canada நாட்டில் 2026-27 நிதி ஆண்டிற்காக C$62 billion பட்ஜெட் பற்றாக்குறை ஏற்படும் என்று கணிக்கப்பட்டுள்ளது. இந்த நிதிப் பற்றாக்குறை நாட்டின் பொருளாதார நெகிழ்வுத்தன்மையைக் கட்டுப்படுத்தக்கூடும் என்றும், பொருளாதார வளர்ச்சி மற்றும் எதிர்கால monetary policy முடிவுகளை இது பாதிக்கலாம் என்றும் பொருளாதார வல்லுநர்கள் குறிப்பிடுகின்றனர்.",
-    "slug": "canada-projects-c-62b-deficit-for-2026-27-amid-supply-disruptions"
+    "hasContent": true,
+    "pubDate": "2026-11-05T21:07:33.000Z"
   },
   {
     "id": "c2e603963f1c1034",
+    "slug": "khosla-ai-and-quantum-computers-to-break-encryption-by-2030",
     "title": "Khosla: AI and quantum computers to break encryption by 2030",
-    "summary": "The potential for AI and quantum computing to break encryption by 2030 could destabilize digital security, urging swift cryptographic advancements.\nThe post Khosla: AI and quantum computers to break encryption by 2030 appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/khosla-ai-and-quantum-computers-to-break-encryption-by-2030/",
-    "source": "CryptoBriefing",
     "tags": [
       "Vinod Khosla"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-05T21:05:35.000Z",
-    "fetchedAt": "2026-11-05T21:15:56.772Z",
-    "isDuplicateOf": null,
-    "content": "Tech venture capitalist Vinod Khosla warns that artificial intelligence and quantum computers could break current encryption methods by the year 2030. This potential technological advancement poses a significant risk to global digital security, highlighting an urgent need for the development of advanced cryptographic solutions to protect sensitive data before these threats materialize.",
-    "content_ta": "AI மற்றும் குவாண்டம் கம்ப்யூட்டர்கள் மூலம் 2030-க்குள் என்கிரிப்ஷன் முறை உடைக்கப்படலாம் என்று வென்ச்சர் கேப்பிடலிஸ்ட் Vinod Khosla எச்சரித்துள்ளார். இந்த சாத்தியமான தொழில்நுட்ப வளர்ச்சி உலகளாவிய டிஜிட்டல் பாதுகாப்பிற்கு பெரிய ஆபத்தை விளைவிக்கும் என்பதால், மேம்பட்ட கிரிப்டோகிராஃப்ரிக் தீர்வுகளை அவசரமாக உருவாக்க வேண்டிய அவசியத்தை இது வலியுறுத்துகிறது.",
-    "slug": "khosla-ai-and-quantum-computers-to-break-encryption-by-2030"
+    "hasContent": true,
+    "pubDate": "2026-11-05T21:05:35.000Z"
   },
   {
     "id": "6219b53ee689a1e8",
@@ -516,255 +786,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-05T18:49:35.000Z"
-  },
-  {
-    "id": "59fd7c04a44fefbd",
-    "slug": "bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
-    "title": "Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees 'glass half full'",
-    "tags": [],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-05T18:48:40.000Z"
-  },
-  {
-    "id": "2008a8cee94fbb87",
-    "slug": "tabs-partners-adyen-to-bring-payment-processing-directly-into-invoicing-and-revenue-platform",
-    "title": "Tabs partners Adyen to bring payment processing directly into invoicing and revenue platform",
-    "tags": [
-      "Tabs",
-      "Adyen",
-      "Tabs Pay"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-05T18:37:00.000Z"
-  },
-  {
-    "id": "94f363d8d7f1796f",
-    "slug": "coinbase-moves-271-9-million-usdc-from-its-institutional-arm-to-its-exchange",
-    "title": "Coinbase moves 271.9 million USDC from its institutional arm to its exchange",
-    "tags": [
-      "Coinbase",
-      "USDC"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-05T18:36:18.000Z"
-  },
-  {
-    "id": "17427aef3d6808d8",
-    "slug": "openai-partners-with-jpmorgan-chase-to-bring-ai-to-cybersecurity-and-engineering",
-    "title": "OpenAI partners with JPMorgan Chase to bring AI to cybersecurity and engineering",
-    "tags": [
-      "OpenAI",
-      "JPMorgan Chase"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-05T18:36:06.000Z"
-  },
-  {
-    "id": "405774886ee34b76",
-    "slug": "morpho-hits-record-4-1-billion-in-usdc-deposits",
-    "title": "Morpho hits record $4.1 billion in USDC deposits",
-    "tags": [
-      "Morpho",
-      "USDC"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-05T18:35:30.000Z"
-  },
-  {
-    "id": "1b758594f411d96b",
-    "slug": "veriff-adds-audio-analysis-to-detect-coached-sign-ups-and-payments",
-    "title": "Veriff adds audio analysis to detect coached sign-ups and payments",
-    "tags": [
-      "Veriff"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-05T18:35:00.000Z"
-  },
-  {
-    "id": "00401645fce09495",
-    "slug": "strategy-s-100-strc-comeback-could-turn-a-cash-drain-into-fresh-bitcoin-buying-power",
-    "title": "Strategy’s $100 STRC comeback could turn a cash drain into fresh Bitcoin buying power",
-    "tags": [
-      "Strategy",
-      "Bitcoin",
-      "Michael Saylor",
-      "STRC"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-05T18:30:02.000Z"
-  },
-  {
-    "id": "2ac2484da8c3fa70",
-    "slug": "google-study-finds-five-fake-documents-can-wreck-ai-search-retrieval",
-    "title": "Google study finds five fake documents can wreck AI search retrieval",
-    "tags": [
-      "Google"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-05T18:27:54.000Z"
-  },
-  {
-    "id": "98d0af14704ef669",
-    "slug": "here-is-why-the-crypto-market-erased-over-120-billion-today",
-    "title": "Here is Why the Crypto Market Erased Over $120 Billion Today",
-    "tags": [],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-05T18:24:39.000Z"
-  },
-  {
-    "id": "92840b5d0af23095",
-    "slug": "ai-stocks-face-further-declines-amid-us-economic-slowdown-academy-securities",
-    "title": "AI stocks face further declines amid US economic slowdown: Academy Securities",
-    "tags": [
-      "Academy Securities",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-05T18:22:58.000Z"
-  },
-  {
-    "id": "04a8bb8916d250a1",
-    "slug": "ethereum-eth-pumps-and-dumps-the-next-potential-targets-revealed",
-    "title": "Ethereum (ETH) Pumps and Dumps: The Next Potential Targets Revealed",
-    "tags": [
-      "Ethereum"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-05T18:22:13.000Z"
-  },
-  {
-    "id": "3f9f01b60543a8f3",
-    "slug": "core-scientific-plans-to-exit-bitcoin-mining-by-the-end-of-2026",
-    "title": "Core Scientific plans to exit Bitcoin mining by the end of 2026",
-    "tags": [
-      "Core Scientific",
-      "Bitcoin",
-      "MARA Holdings",
-      "Riot Platforms",
-      "HIVE Digital"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-05T18:18:27.000Z"
-  },
-  {
-    "id": "8ab4f9f23454f90c",
-    "slug": "cftc-staff-addresses-use-of-trust-companies-for-daily-settlements",
-    "title": "CFTC Staff Addresses Use of Trust Companies for Daily Settlements",
-    "tags": [
-      "Commodity Futures Trading Commission",
-      "Division of Clearing and Risk",
-      "United States"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-05T18:13:46.000Z"
-  },
-  {
-    "id": "167239f56a0f1a7f",
-    "slug": "arm-holdings-posts-record-quarterly-revenue-and-the-stock-falls-anyway",
-    "title": "Arm Holdings posts record quarterly revenue, and the stock falls anyway",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-05T17:54:40.000Z"
-  },
-  {
-    "id": "80eb5504f1a200d3",
-    "slug": "link-price-crashes-32-as-key-10-65-support-faces-pressure",
-    "title": "LINK Price Crashes 32% as Key $10.65 Support Faces Pressure",
-    "tags": [
-      "Chainlink",
-      "LINK"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-05T17:49:58.000Z"
-  },
-  {
-    "id": "004ff11a5de5b0c2",
-    "slug": "difc-courts-propose-a-dispute-resolution-oracle-to-enforce-rulings-on-tokenized-assets",
-    "title": "DIFC Courts propose a Dispute Resolution Oracle to enforce rulings on tokenized assets",
-    "tags": [
-      "DIFC Courts"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-05T17:45:52.000Z"
-  },
-  {
-    "id": "170134e3dbf5c411",
-    "slug": "openzeppelin-publishes-guide-for-building-usdt-vaults-on-tron",
-    "title": "OpenZeppelin publishes guide for building USDT vaults on TRON",
-    "tags": [
-      "OpenZeppelin",
-      "USDT",
-      "TRON"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-05T17:44:45.000Z"
-  },
-  {
-    "id": "744e7127a3d981e8",
-    "slug": "two-prime-ceo-says-bitcoin-l2-yields-are-drying-up-as-risks-pile-on",
-    "title": "Two Prime CEO says Bitcoin L2 yields are drying up as risks pile on",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-05T17:44:03.000Z"
-  },
-  {
-    "id": "1434602cf808a8ef",
-    "slug": "stargate-plugs-anubis-chain-into-layerzero-s-100-plus-chain-network",
-    "title": "Stargate plugs Anubis Chain into LayerZero’s 100-plus chain network",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-05T17:40:49.000Z"
-  },
-  {
-    "id": "7869810b0d9f4343",
-    "slug": "paraguay-president-resigns-after-collapse-of-ueno-digital-bank",
-    "title": "Paraguay president resigns after collapse of Ueno digital bank",
-    "tags": [
-      "Paraguay",
-      "Santiago Peña",
-      "Ueno Bank"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-05T17:40:25.000Z"
   }
 ]
