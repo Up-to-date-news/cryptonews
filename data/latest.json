@@ -1,21 +1,495 @@
 [
   {
-    "id": "d30187d97405aeae",
-    "title": "New York Man Steals $141,968 in Pension Payments Meant for Deceased Elderly Neighbor for Over Three Years",
-    "summary": "A New York caretaker has pleaded guilty to stealing $141,968 in pension payments that kept landing in his dead neighbor's bank account, and has paid $147,000 back.\nThe post New York Man Steals $141,968 in Pension Payments Meant for Deceased Elderly Neighbor for Over Three Years appeared first on The Daily Hodl.",
+    "id": "615d3b042e68faa6",
+    "slug": "us-treasury-walks-back-crypto-surveillance-travel-rule-proposal",
+    "title": "US Treasury walks back crypto surveillance ‘travel rule’ proposal",
+    "tags": [
+      "United States"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T20:37:34.000Z"
+  },
+  {
+    "id": "78f6e9e6ff664220",
+    "slug": "ibm-unveils-its-most-advanced-quantum-computer-in-chicago",
+    "title": "IBM unveils its most advanced quantum computer in Chicago",
+    "tags": [
+      "IBM",
+      "Chicago"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T20:20:10.000Z"
+  },
+  {
+    "id": "b497ced03c6b5944",
+    "slug": "justin-sun-warns-quantum-threat-could-hit-crypto-within-2-years-as-tron-pursues-resistance",
+    "title": "Justin Sun Warns Quantum Threat Could Hit Crypto Within 2 Years as TRON Pursues Resistance",
+    "tags": [
+      "Justin Sun",
+      "TRON"
+    ],
+    "source": "ZyCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T20:17:35.000Z"
+  },
+  {
+    "id": "edc856ed1d76aa72",
+    "slug": "apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
+    "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+    "tags": [
+      "Apple",
+      "Meta",
+      "OKX",
+      "ICE",
+      "Coinbase",
+      "Robinhood"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T20:09:18.000Z"
+  },
+  {
+    "id": "b3d114db710ee181",
+    "slug": "bullish-options-flow-on-micron-as-traders-pile-into-600-calls",
+    "title": "Bullish options flow on Micron as traders pile into $600 calls",
+    "tags": [
+      "Micron"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T20:08:07.000Z"
+  },
+  {
+    "id": "d2d46f6bfabe17d1",
+    "slug": "centrifuge-brings-schroders-emerging-markets-debt-fund-onchain-via-solana",
+    "title": "Centrifuge brings Schroders emerging markets debt fund onchain via Solana",
+    "tags": [
+      "Centrifuge",
+      "Schroders",
+      "Solana"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T20:05:09.000Z"
+  },
+  {
+    "id": "7366d94d8dd0b8a5",
+    "slug": "us-401-k-proposal-leaves-door-open-to-altcoins-but-hurdles-remain",
+    "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
+    "tags": [
+      "United States"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T20:04:27.000Z"
+  },
+  {
+    "id": "7dc66ee1591609f5",
+    "slug": "frontier-model-forum-releases-a-framework-to-rate-ai-cyber-jailbreaks",
+    "title": "Frontier Model Forum releases a framework to rate AI cyber jailbreaks",
+    "tags": [
+      "Frontier Model Forum"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T20:02:52.000Z"
+  },
+  {
+    "id": "0ae9aca1fc3419fa",
+    "slug": "solana-foundation-caps-its-validator-delegation-program-at-12-months-and-100-validators",
+    "title": "Solana Foundation caps its validator delegation program at 12 months and 100 validators",
+    "tags": [
+      "Solana Foundation"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T20:02:50.000Z"
+  },
+  {
+    "id": "1077d7866097530c",
+    "slug": "huawei-s-horinger-ai-data-center-has-about-7-of-colossus-2-s-capacity",
+    "title": "Huawei’s Horinger AI data center has about 7% of Colossus 2’s capacity",
+    "tags": [
+      "Huawei",
+      "Colossus 2"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T20:02:16.000Z"
+  },
+  {
+    "id": "d4271fcdccf81893",
+    "slug": "why-aren-t-xlm-crypto-traders-betting-big-before-the-23-november-vote",
+    "title": "Why aren’t XLM crypto traders betting big before the 23 November vote?",
+    "tags": [
+      "Stellar"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T20:00:50.000Z"
+  },
+  {
+    "id": "5201df674497eca6",
+    "title": "Charter Space and Project Omega Eye Nuclear Power for Sat Insurance",
+    "summary": "The specialty space insurer and nuclear power firm will jointly assess how long-duration radioisotope systems could cut spacecraft loss rates and reshape mission\nThe post Charter Space and Project Omega Eye Nuclear Power for Sat Insurance appeared first on The Fintech Times.",
     "hasSummary": true,
-    "link": "https://dailyhodl.com/2026/11/06/new-york-man-steals-141968-in-pension-payments-meant-for-deceased-elderly-neighbor-for-over-three-years/",
-    "source": "The Daily Hodl",
+    "link": "https://thefintechtimes.com/charter-space-and-project-omega-eye-nuclear-power-for-sat-insurance/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Charter Space",
+      "Project Omega"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-06T20:00:25.000Z",
+    "fetchedAt": "2026-11-06T20:38:41.945Z",
+    "isDuplicateOf": null,
+    "content": "Charter Space and Project Omega are teaming up to explore the use of nuclear power for satellite insurance. The specialty space insurer and the nuclear power firm will jointly evaluate how long-duration radioisotope systems can help reduce spacecraft loss rates and transform mission planning.",
+    "content_ta": "Charter Space மற்றும் Project Omega நிறுவனங்கள் இணைந்து சாட்டிலைட் இன்சூரன்ஸுக்காக நியூக்ளியர் பவர் பயன்பாட்டை ஆராயவுள்ளன. விண்வெளி காப்பீட்டு நிறுவனமும் அணுசக்தி நிறுவனமும் இணைந்து, நீண்ட கால ரேடியோஐசோடோப் அமைப்புகள் விண்கல இழப்பு விகிதங்களை எவ்வாறு குறைக்கலாம் மற்றும் மிஷன் திட்டமிடலை எவ்வாறு மாற்றியமைக்கலாம் என்பதை கூட்டாக மதிப்பிடும்.",
+    "slug": "charter-space-and-project-omega-eye-nuclear-power-for-sat-insurance"
+  },
+  {
+    "id": "d6095e66a89542d1",
+    "slug": "beincrypto-and-coinhold-wallet-to-host-ama-on-stablecoins-and-inflation-in-latin-america",
+    "title": "BeInCrypto and Coinhold Wallet to Host AMA on Stablecoins and Inflation in Latin America",
+    "tags": [
+      "BeInCrypto",
+      "Coinhold Wallet",
+      "Latin America"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T19:57:57.000Z"
+  },
+  {
+    "id": "fc5cfcdfb0af0554",
+    "slug": "circle-s-kris-gower-makes-the-case-for-arc-and-usdc-in-securities-lending",
+    "title": "Circle’s Kris Gower makes the case for Arc and USDC in securities lending",
+    "tags": [
+      "Circle",
+      "Arc",
+      "USDC",
+      "Kris Gower"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T19:47:09.000Z"
+  },
+  {
+    "id": "45ea4707d7a584b4",
+    "slug": "stellar-activates-protocol-30-bell-testnet-begins-testing-quantum-resistant-signatures",
+    "title": "Stellar Activates Protocol 30 Bell Testnet, Begins Testing Quantum-Resistant Signatures",
+    "tags": [
+      "Stellar"
+    ],
+    "source": "ZyCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T19:40:48.000Z"
+  },
+  {
+    "id": "46434a39509ce4d5",
+    "slug": "dow-jones-outperforms-nasdaq-for-the-first-time-since-2022",
+    "title": "Dow Jones outperforms Nasdaq for the first time since 2022",
+    "tags": [
+      "Dow Jones",
+      "Nasdaq"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T19:37:47.000Z"
+  },
+  {
+    "id": "71301681ddc4f353",
+    "slug": "bitcoin-could-be-done-falling-this-cycle-analyst-predicts",
+    "title": "Bitcoin Could Be Done Falling This Cycle, Analyst Predicts",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T19:35:51.000Z"
+  },
+  {
+    "id": "e41c65fd8faeea6c",
+    "slug": "lpl-financial-boosts-bitcoin-etf-stake-by-50-to-261-million",
+    "title": "LPL Financial boosts Bitcoin ETF stake by 50% to $261 million",
+    "tags": [
+      "LPL Financial",
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T19:25:57.000Z"
+  },
+  {
+    "id": "e673029c6f34dfa0",
+    "slug": "paraguay-protests-over-bank-lockout-intensify-as-impeachment-vote-nears",
+    "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
+    "tags": [
+      "Paraguay",
+      "Ueno Bank"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T19:16:03.000Z"
+  },
+  {
+    "id": "62658c646a4aaecb",
+    "slug": "avalanche-s-tokenized-asset-base-tops-1-7-billion-as-buidl-swings-and-axiym-sets-a-record",
+    "title": "Avalanche’s tokenized asset base tops $1.7 billion as BUIDL swings and Axiym sets a record",
+    "tags": [
+      "Avalanche",
+      "BUIDL",
+      "Axiym"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T19:10:00.000Z"
+  },
+  {
+    "id": "28d98ceb743f48fb",
+    "slug": "crypto-slump-could-be-far-from-over-barclays-analyst-warns",
+    "title": "Crypto Slump Could Be Far From Over, Barclays Analyst Warns",
+    "tags": [
+      "Barclays",
+      "Alexander Altmann",
+      "United States"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T19:07:25.000Z"
+  },
+  {
+    "id": "700cd9cc6a9392e7",
+    "slug": "japanese-credit-unions-hit-by-outage-amid-ai-stock-sell-off",
+    "title": "Japanese credit unions hit by outage amid AI stock sell-off",
+    "tags": [
+      "Japan",
+      "Shinkin Joint Center"
+    ],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T19:03:21.000Z"
+  },
+  {
+    "id": "9e37729dfdd6e48c",
+    "slug": "new-governors-pledge-to-halt-data-center-projects-affecting-41-of-us-capacity",
+    "title": "New governors pledge to halt data center projects, affecting 41% of US capacity",
+    "tags": [
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T19:02:58.000Z"
+  },
+  {
+    "id": "3412b726210e2684",
+    "slug": "is-crypto-s-2026-outlook-at-risk-as-regulatory-fud-returns-to-washington",
+    "title": "Is crypto’s 2026 outlook at risk as regulatory FUD returns to Washington?",
+    "tags": [
+      "Bitcoin",
+      "Washington"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T19:00:27.000Z"
+  },
+  {
+    "id": "ca42c1af9232aa97",
+    "slug": "canadian-dollar-set-for-worst-week-since-september-on-weak-jobs-data",
+    "title": "Canadian dollar set for worst week since September on weak jobs data",
+    "tags": [
+      "Canada",
+      "Bank of Canada"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T18:56:05.000Z"
+  },
+  {
+    "id": "28aecf930951ab52",
+    "slug": "vals-finds-open-ai-models-closing-the-hacking-gap-with-gated-frontier-systems",
+    "title": "Vals finds open AI models closing the hacking gap with gated frontier systems",
+    "tags": [
+      "Vals",
+      "OpenAI"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T18:51:03.000Z"
+  },
+  {
+    "id": "8d8e8c36325b1b25",
+    "title": "BMO launches AI agent to help credit card customers get answers",
+    "summary": "BMO is introducing AI Agent Assist to help clients get faster answers and resolutions when they contact BMO's Virtual Connect contact centre about their credit card transactions.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111609/bmo-launches-ai-agent-to-help-credit-card-customers-get-answers?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "BMO"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-06T18:43:00.000Z",
+    "fetchedAt": "2026-11-06T20:38:41.945Z",
+    "isDuplicateOf": null,
+    "content": "BMO has launched a new AI agent named AI Agent Assist to improve customer service for credit card holders. The tool is designed to help clients get faster answers and resolutions when contacting the BMO Virtual Connect contact centre regarding their credit card transactions.",
+    "content_ta": "கடன் அட்டை வாடிக்கையாளர்களுக்கு விரைவான பதில்களையும் தீர்வுகளையும் வழங்க BMO நிறுவனம் AI Agent Assist என்ற புதிய AI ஏஜென்ட்டை அறிமுகப்படுத்தியுள்ளது. BMO Virtual Connect மையத்தைத் தொடர்பொள்ளும் வாடிக்கையாளர்களுக்கு இந்த கருவி உதவியாக இருக்கும்.",
+    "slug": "bmo-launches-ai-agent-to-help-credit-card-customers-get-answers"
+  },
+  {
+    "id": "fa1319b73130b22c",
+    "slug": "pytorch-adds-a-flight-recorder-to-diagnose-gpu-training-job-hangs",
+    "title": "PyTorch adds a flight recorder to diagnose GPU training job hangs",
+    "tags": [
+      "PyTorch"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T18:41:32.000Z"
+  },
+  {
+    "id": "5127a6a61c48f218",
+    "title": "PayFacto intergrates Interac Konek digital wallet across merchant network",
+    "summary": "Interac Corp. (Interac) today announced that PayFacto Payments Inc. (PayFacto), a Montreal-based leader in payment and hospitality technology, is integrating Konek across its merchant and partner networks in Canada, giving businesses the option to enable account-based payments alongside card-based payments.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111608/payfacto-intergrates-interac-konek-digital-wallet-across-merchant-network?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "PayFacto",
+      "Interac",
+      "Canada"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-06T18:41:00.000Z",
+    "fetchedAt": "2026-11-06T20:38:41.945Z",
+    "isDuplicateOf": null,
+    "content": "PayFacto Payments Inc. is integrating the Interac Konek digital wallet across its merchant and partner networks in Canada. This collaboration allows businesses to offer account-based payment options alongside traditional card-based payments, expanding payment flexibility for merchants and customers alike.",
+    "content_ta": "PayFacto நிறுவனம் தனது வணிகர் மற்றும் பங்குதாரர் வலையமைப்புகளில் Interac Konek டிஜிட்டல் வாலட்டை இணைத்து வருகிறது. இந்த ஒத்துழைப்பு மூலம் வணிகங்கள் பாரம்பரிய கார்டு அடிப்படையிலான கட்டணங்களுடன் கணக்கு அடிப்படையிலான கட்டண முறைகளையும் வழங்க முடியும்.",
+    "slug": "payfacto-intergrates-interac-konek-digital-wallet-across-merchant-network"
+  },
+  {
+    "id": "ac34bf9670ffeb83",
+    "slug": "ethereum-software-bug-triggers-emergency-fixes-across-major-layer-2-networks",
+    "title": "Ethereum software bug triggers emergency fixes across major layer-2 networks",
+    "tags": [
+      "Ethereum"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T18:40:30.000Z"
+  },
+  {
+    "id": "0e1f346859b8389a",
+    "slug": "eve-ai-lab-and-anthropic-test-ai-agents-in-a-world-that-never-resets-and-sui-wants-that-market",
+    "title": "EVE AI Lab and Anthropic test AI agents in a world that never resets, and Sui wants that market",
+    "tags": [
+      "EVE AI Lab",
+      "Anthropic",
+      "Sui"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-06T18:39:09.000Z"
+  },
+  {
+    "id": "fa11315ea96ff5d0",
+    "title": "NCR Atleos launches ATM for retailers",
+    "summary": "NCR Atleos Corporation (NYSE: NATL) (“Atleos”), a leader in expanding self-service financial access for financial institutions, retailers and consumers, today announced AllTM, an ATM solution that helps US retailers transform the ATM from a traditional cash access point into a powerful driver of foot traffic, customer engagement and revenue growth through expanded capabilities.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111607/ncr-atleos-launches-atm-for-retailers?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "NCR Atleos",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-06T18:38:00.000Z",
+    "fetchedAt": "2026-11-06T20:38:41.945Z",
+    "isDuplicateOf": null,
+    "content": "NCR Atleos Corporation has announced the launch of AllTM, a new ATM solution designed specifically for US retailers. The system aims to transform traditional cash access points into tools for increasing foot traffic, boosting customer engagement, and driving revenue growth through expanded self-service financial capabilities.",
+    "content_ta": "NCR Atleos நிறுவனம் US சில்லறை விற்பனையாளர்களுக்காக AllTM என்ற புதிய ATM தீர்வை அறிமுகப்படுத்தியுள்ளது. பாரம்பரிய பணப் பரிவர்த்தனை மையங்களை வாடிக்கையாளர் வருகை மற்றும் வருவாயை அதிகரிக்கும் நவீன கருவிகளாக மாற்றுவதை இந்த அமைப்பு நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "ncr-atleos-launches-atm-for-retailers"
+  },
+  {
+    "id": "4ef1f4fcb65f76fd",
+    "title": "KCB Tanzania integrates PayPal into mobile banking",
+    "summary": "KCB Bank Tanzania has partnered with PayPal to integrate PayPal services into the KCB Mobile App, giving customers a simple, secure and convenient way to connect to global payments directly through their banking app.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111606/kcb-tanzania-integrates-paypal-into-mobile-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "KCB Bank Tanzania",
+      "PayPal",
+      "Tanzania"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-06T18:34:00.000Z",
+    "fetchedAt": "2026-11-06T20:38:41.945Z",
+    "isDuplicateOf": null,
+    "content": "KCB Bank Tanzania has partnered with PayPal to integrate PayPal services into the KCB Mobile App. This collaboration allows customers to easily and securely connect to global payments directly through their banking application, enhancing digital financial convenience for users in Tanzania.",
+    "content_ta": "KCB Bank Tanzania மற்றும் PayPal இணைந்து KCB Mobile App-ல் PayPal சேவைகளை ஒருங்கிணைத்துள்ளன. இந்த ஒத்துழைப்பின் மூலம் வாடிக்கையாளர்கள் தங்கள் வங்கிச் செயலி மூலமாகவே எளிமையாகவும் பாதுகாப்பாகவும் உலகளாவிய கட்டண சேவைகளைப் பெற முடியும்.",
+    "slug": "kcb-tanzania-integrates-paypal-into-mobile-banking"
+  },
+  {
+    "id": "1643971faf9c8c75",
+    "slug": "fed-s-daly-signals-further-policy-tightening-amid-inflation-concerns",
+    "title": "Fed’s Daly signals further policy tightening amid inflation concerns",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-06T18:13:34.000Z"
+  },
+  {
+    "id": "e0af019a21623e5d",
+    "slug": "near-near-plummets-15-weekly-yet-this-signal-hints-at-a-reversal",
+    "title": "Near (NEAR) Plummets 15% Weekly, Yet This Signal Hints at a Reversal",
+    "tags": [],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-06T18:11:48.000Z"
+  },
+  {
+    "id": "d30187d97405aeae",
+    "slug": "new-york-man-steals-141-968-in-pension-payments-meant-for-deceased-elderly-neighbor-for-over-three",
+    "title": "New York Man Steals $141,968 in Pension Payments Meant for Deceased Elderly Neighbor for Over Three Years",
     "tags": [
       "New York"
     ],
+    "source": "The Daily Hodl",
     "origin": "rss",
-    "pubDate": "2026-11-06T17:55:37.000Z",
-    "fetchedAt": "2026-11-06T18:01:30.320Z",
-    "isDuplicateOf": null,
-    "content": "A New York man has pleaded guilty to stealing $141,968 in pension payments intended for his deceased elderly neighbor. The illegal activity continued for over three years as the funds were deposited into the neighbor's bank account. Following his guilty plea, the caretaker has successfully paid $147,000 in restitution.",
-    "content_ta": "New York-ஐச் சேர்ந்த ஒருவர், இறந்துவிட்ட தனது முதிய அயலவருக்கு வர வேண்டிய $141,968 பென்ஷன் பணத்தைத் திருடியதாகக் குற்றம் சாட்டப்பட்டுள்ளார். அந்த நபரின் வங்கிக் கணக்கில் வரவு வைக்கப்பட்ட இந்தத் தொகையை, அவர் மூன்று ஆண்டுகளுக்கும் மேலாகத் திருடியுள்ளார். தன் குற்றத்தை ஒப்புக்கொண்டதைத் தொடர்ந்து, அவர் $147,000-ஐத் திருப்பிச் செலுத்தியுள்ளார்.",
-    "slug": "new-york-man-steals-141-968-in-pension-payments-meant-for-deceased-elderly-neighbor-for-over-three"
+    "hasContent": true,
+    "pubDate": "2026-11-06T17:55:37.000Z"
   },
   {
     "id": "53fdbba2c2e8841f",
@@ -97,22 +571,16 @@
   },
   {
     "id": "8e1d99cb133db303",
+    "slug": "se-asia-private-equity-deal-value-falls-56-in-q3-as-investors-pull-back",
     "title": "SE Asia Private Equity Deal Value Falls 56% in Q3 as Investors Pull Back",
-    "summary": "Private equity investment across Southeast Asia dropped sharply in Q3 as investors remained cautious amid valuation gaps and economic uncertainty, according to an EY-Parthenon report. The report noted that only five transactions were completed during the period. The five deals were worth a combined $410... Read More",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/11/321848-se-asia-private-equity-deal-value-falls-56-in-q3-as-investors-pull-back/",
-    "source": "Crowdfund Insider",
     "tags": [
       "Southeast Asia",
       "EY-Parthenon"
     ],
+    "source": "Crowdfund Insider",
     "origin": "rss",
-    "pubDate": "2026-11-06T17:33:32.000Z",
-    "fetchedAt": "2026-11-06T18:01:30.320Z",
-    "isDuplicateOf": null,
-    "content": "Private equity deal value in Southeast Asia fell sharply by 56 percent in the third quarter, according to an EY-Parthenon report. Investors remained cautious due to ongoing economic uncertainty and valuation gaps. During this period, only five transactions were completed, reaching a combined value of $410 million as market activity slowed down significantly.",
-    "content_ta": "தென்கிழக்கு ஆசியாவில் பிரைவேட் ஈக்விட்டி முதலீடுகள் நடப்பு ஆண்டின் மூன்றாம் காலாண்டில் 56 சதவீதம் வரை சரிந்துள்ளதாக EY-Parthenon அறிக்கை தெரிவிக்கிறது. பொருளாதார நிச்சயமற்ற தன்மை மற்றும் மதிப்பீட்டு இடைவெளிகள் காரணமாக முதலீட்டாளர்கள் எச்சரிக்கையுடன் செயல்பட்டு வருவதாக அந்த அறிக்கையில் கூறப்பட்டுள்ளது. இந்த காலகட்டத்தில் வெறும் ஐந்து ஒப்பந்தங்கள் மட்டுமே முடிக்கப்பட்டுள்ளன.",
-    "slug": "se-asia-private-equity-deal-value-falls-56-in-q3-as-investors-pull-back"
+    "hasContent": true,
+    "pubDate": "2026-11-06T17:33:32.000Z"
   },
   {
     "id": "8230c439967458dc",
@@ -129,21 +597,15 @@
   },
   {
     "id": "42e614f6483e0e22",
+    "slug": "dive-deposits-goldman-named-new-partners-but-left-other-details-out",
     "title": "Dive Deposits: Goldman named new partners but left other details out",
-    "summary": "The bank did not give a gender or racial breakdown for its largest partner class since 2010. That doesn’t necessarily mean it’s shelving diversity; it may be staying purposefully quiet.",
-    "hasSummary": true,
-    "link": "https://www.bankingdive.com/news/goldman-109-new-partners-women-gender-race-diversity-trump-solomon/874018/",
-    "source": "Banking Dive",
     "tags": [
       "Goldman Sachs"
     ],
+    "source": "Banking Dive",
     "origin": "rss",
-    "pubDate": "2026-11-06T17:28:31.000Z",
-    "fetchedAt": "2026-11-06T18:01:30.320Z",
-    "isDuplicateOf": null,
-    "content": "Goldman Sachs named its newest class of partners but omitted key details, including a gender or racial breakdown for the group. This marks the largest partner class for the bank since 2010. While the lack of demographic data led to questions, industry observers note that the bank may be choosing to remain purposefully quiet rather than abandoning its diversity efforts.",
-    "content_ta": "Goldman Sachs தனது புதிய பார்ட்னர்களின் பட்டியலை வெளியிட்டுள்ளது, ஆனால் பாலினம் அல்லது இனம் சார்ந்த விவரங்களை வெளியிடவில்லை. 2010 ஆம் ஆண்டுக்குப் பிறகு வங்கியின் மிகப்பெரிய பார்ட்னர் குழு இதுவாகும். இந்தத் தரவுகள் இல்லாதது கேள்விகளை எழுப்பினாலும், வங்கி தனது பன்முகத்தன்மை முயற்சிகளைக் கைவிடாமல், வேண்டுமென்றே அமைதியாக இருக்கக்கூடும் என்று நிபுணர்கள் கருதுகின்றனர்.",
-    "slug": "dive-deposits-goldman-named-new-partners-but-left-other-details-out"
+    "hasContent": true,
+    "pubDate": "2026-11-06T17:28:31.000Z"
   },
   {
     "id": "f1b53daf4a8783bb",
@@ -187,22 +649,16 @@
   },
   {
     "id": "e8f54719d1fef549",
+    "slug": "live-nasdaq-suffers-record-2-3-trillion-loss-as-ai-sell-off-deepens",
     "title": "LIVE: Nasdaq suffers record $2.3 trillion loss as AI sell-off deepens",
-    "summary": "AI and tech led yesterday’s historic US stock crash, wiping off more market capitalization within one day than any single session in history.\nThe post LIVE: Nasdaq suffers record $2.3 trillion loss as AI sell-off deepens appeared first on Protos.",
-    "hasSummary": true,
-    "link": "https://protos.com/live-nasdaq-suffers-record-2-3-trillion-loss-as-ai-sell-off-deepens/",
-    "source": "Protos",
     "tags": [
       "Nasdaq",
       "United States"
     ],
+    "source": "Protos",
     "origin": "rss",
-    "pubDate": "2026-11-06T17:19:03.000Z",
-    "fetchedAt": "2026-11-06T18:01:30.320Z",
-    "isDuplicateOf": null,
-    "content": "The Nasdaq suffered a historic single-session loss of $2.3 trillion as a massive sell-off in AI and technology stocks swept through the market. This unprecedented crash wiped out more market capitalization in a single day than any previous session in history, driven by widespread investor retreat from the tech sector.",
-    "content_ta": "Nasdaq சந்தையில் AI மற்றும் டெக் பங்குகள் பெருமளவில் விற்கப்பட்டதால், ஒரே நாளில் வரலாறு காணாத வகையில் 2.3 டிரில்லியன் டாலர் இழப்பு ஏற்பட்டுள்ளது. வரலாற்றில் எந்தவொரு அமர்வையும் விட, ஒரே நாளில் மிகப்பெரிய சந்தை மதிப்பு இந்தச் சரிவால் இழக்கப்பட்டுள்ளது.",
-    "slug": "live-nasdaq-suffers-record-2-3-trillion-loss-as-ai-sell-off-deepens"
+    "hasContent": true,
+    "pubDate": "2026-11-06T17:19:03.000Z"
   },
   {
     "id": "776b273fcfcc77c3",
@@ -299,40 +755,28 @@
   },
   {
     "id": "db83f315d70ed708",
+    "slug": "pyth-october-report-arr-jumps-18-9-as-data-expansion-accelerates",
     "title": "Pyth October Report: ARR Jumps 18.9% as Data Expansion Accelerates",
-    "summary": "The post Pyth October Report: ARR Jumps 18.9% as Data Expansion Accelerates appeared first on Coinpedia Fintech News\nPyth Network’s October numbers suggest its business is gaining traction, even as the crypto market keeps competing for attention. The latest report puts annual recurring revenue (ARR) at $13.67 million, up 18.9% month over month. More users are exploring Pyth Terminal, while new feeds and developer tools are pushing its market-data offering further. ARR Climbs …",
-    "hasSummary": true,
-    "link": "https://coinpedia.org/news/pyth-october-report-arr-jumps-18-9-as-data-expansion-accelerates/",
-    "source": "Coinpedia",
     "tags": [
       "Pyth Network"
     ],
+    "source": "Coinpedia",
     "origin": "rss",
-    "pubDate": "2026-11-06T16:40:03.000Z",
-    "fetchedAt": "2026-11-06T18:01:30.320Z",
-    "isDuplicateOf": null,
-    "content": "Pyth Network released its October report, highlighting a significant growth in business traction. The update revealed that annual recurring revenue (ARR) reached $13.67 million, marking an 18.9% increase month over month. This growth is driven by increased user adoption of Pyth Terminal, alongside the rollout of new data feeds and developer tools that enhance the platform's market-data offerings.",
-    "content_ta": "Pyth Network தனது அக்டோபர் மாத அறிக்கையை வெளியிட்டுள்ளது, இது வணிக வளர்ச்சியைக் காட்டுகிறது. அதன்படி, ஆண்டு தொடர் வருவாய் (ARR) 18.9% அதிகரித்து 13.67 மில்லியன் டாலரை எட்டியுள்ளது. Pyth Terminal பயன்பாடு அதிகரிப்பு மற்றும் புதிய தரவு ஊட்டங்கள் (data feeds) மற்றும் டெவலப்பர் கருவிகள் அறிமுகம் ஆகியவை இந்த வளர்ச்சிக்கு முக்கியக் காரணமாகும்.",
-    "slug": "pyth-october-report-arr-jumps-18-9-as-data-expansion-accelerates"
+    "hasContent": true,
+    "pubDate": "2026-11-06T16:40:03.000Z"
   },
   {
     "id": "d098185b918308ff",
+    "slug": "will-anthropic-go-public-this-year",
     "title": "Will Anthropic Go Public This Year?",
-    "summary": "The post Will Anthropic Go Public This Year? appeared first on Coinpedia Fintech News\nTraders on prediction market Kalshi have sharply cut their bets on an imminent Anthropic IPO announcement. Over the past week, the chance that the Claude developer announces a listing before December fell to 57% from close to 90%. Odds of an announcement before January dropped to 68% from around 90%. Anthropic confidentially submitted its IPO …",
-    "hasSummary": true,
-    "link": "https://coinpedia.org/crypto-live-news/will-anthropic-go-public-this-year/",
-    "source": "Coinpedia",
     "tags": [
       "Anthropic",
       "Kalshi"
     ],
+    "source": "Coinpedia",
     "origin": "rss",
-    "pubDate": "2026-11-06T16:39:22.000Z",
-    "fetchedAt": "2026-11-06T18:01:30.320Z",
-    "isDuplicateOf": null,
-    "content": "Traders on the prediction market Kalshi have significantly lowered their bets regarding an upcoming IPO announcement from AI developer Anthropic. Over the past week, probabilities of a public listing announcement before December dropped sharply from near ninety percent down to fifty-seven percent. Similarly, odds for an announcement before January saw a notable decline, reflecting decreasing market confidence in a near-term public debut for the company.",
-    "content_ta": "AI டெவலப்பரான Anthropic நிறுவனத்தின் வரவிருக்கும் IPO அறிவிப்பு குறித்த தங்கள் கணிப்புகளை Kalshi பிரிடிக்சன் மார்க்கெட் வர்த்தகர்கள் கணிசமாகக் குறைத்துள்ளனர். கடந்த வாரத்தில், டிசம்பருக்கு முன்பு பொதுப் பங்கு வெளியீட்டு அறிவிப்பு வெளியாகும் என்ற கணிப்பு கிட்டத்தட்ட தொண்ணூறு சதவீதத்திலிருந்து ஐம்பத்தி ஏழு சதவீமாகக் குறைந்துள்ளது. இதேபோல், ஜனவரி மாதத்திற்கு முன்பு அறிவிப்பு வெளியாகும் என்ற வாய்ப்புகளும் குறைந்துள்ளன.",
-    "slug": "will-anthropic-go-public-this-year"
+    "hasContent": true,
+    "pubDate": "2026-11-06T16:39:22.000Z"
   },
   {
     "id": "94bbaf363d8bb540",
@@ -361,487 +805,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-06T16:16:05.000Z"
-  },
-  {
-    "id": "d89edeab3ea4f0ad",
-    "slug": "france-sells-3-6m-barrels-of-diesel-from-strategic-reserves",
-    "title": "France sells 3.6M barrels of diesel from strategic reserves",
-    "tags": [
-      "France"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T16:13:20.000Z"
-  },
-  {
-    "id": "ac47e1df383b7f0f",
-    "slug": "kalshi-odds-for-an-anthropic-ipo-announcement-slide-to-57",
-    "title": "Kalshi odds for an Anthropic IPO announcement slide to 57%",
-    "tags": [
-      "Kalshi",
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T16:01:37.000Z"
-  },
-  {
-    "id": "f745dd87a10c464d",
-    "slug": "anthropic-s-ipo-gets-an-all-day-livestream-as-wall-street-sizes-up-the-ai-trade",
-    "title": "Anthropic’s IPO gets an all-day livestream as Wall Street sizes up the AI trade",
-    "tags": [
-      "Anthropic",
-      "Wall Street"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T16:00:17.000Z"
-  },
-  {
-    "id": "e0849b886f852d3b",
-    "slug": "cardano-node-11-2-brings-dijkstra-closer-but-why-did-its-price-fall-by-6",
-    "title": "Cardano Node 11.2 brings Dijkstra closer, but why did its price fall by 6%?",
-    "tags": [
-      "Cardano"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T16:00:01.000Z"
-  },
-  {
-    "id": "50b9da0be8c882ea",
-    "title": "California takes CoinFlip to task",
-    "summary": "The state ordered the crypto ATM company to pay $4.8 million to scam victims, and bashed federal regulators over failing to police for fraud.",
-    "hasSummary": true,
-    "link": "https://www.bankingdive.com/news/california-coinflip-crypto-atm-enforcement-fraud/874015/",
-    "source": "Banking Dive",
-    "tags": [
-      "California",
-      "CoinFlip"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-11-06T15:55:00.000Z",
-    "fetchedAt": "2026-11-06T18:01:30.320Z",
-    "isDuplicateOf": null,
-    "content": "California has taken action against CoinFlip, ordering the crypto ATM company to pay $4.8 million to victims of scams. In its announcement, the state also criticized federal regulators, accusing them of failing to adequately police the industry for fraud and protect consumers from financial losses.",
-    "content_ta": "CoinFlip நிறுவனத்திற்கு எதிராக கலிபோர்னியா நடவடிக்கை எடுத்துள்ளது. மோசடி பாதிக்கப்பட்டவர்களுக்கு $4.8 மில்லியன் இழப்பீடு வழங்குமாறு அந்த கிரிப்டோ ATM நிறுவனத்திற்கு மாநில அரசு உத்தரவிட்டுள்ளது. மேலும், துறையில் மோசடிகளைத் தடுப்பதிலும் நுகர்வோரைப் பாதுகாப்பதிலும் மத்திய ஒழுங்குமுறை அமைப்புகள் தவறிவிட்டதாக அரசு விமர்சித்துள்ளது.",
-    "slug": "california-takes-coinflip-to-task"
-  },
-  {
-    "id": "ea61c49a673294e1",
-    "title": "PNC boosts branch expansion, kicks off CFO transition",
-    "summary": "The Pittsburgh-based bank said it would add more than 50 locations in South Carolina and Georgia and named its retail chief to the CFO role, effective in March.",
-    "hasSummary": true,
-    "link": "https://www.bankingdive.com/news/pnc-branch-expansion-southeast-cfo-transition-reilly-overstrom/874005/",
-    "source": "Banking Dive",
-    "tags": [
-      "PNC",
-      "South Carolina",
-      "Georgia"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-11-06T15:54:42.000Z",
-    "fetchedAt": "2026-11-06T18:01:30.320Z",
-    "isDuplicateOf": null,
-    "content": "PNC has announced plans to expand its branch network by adding over 50 new locations across South Carolina and Georgia. Additionally, the Pittsburgh-based bank has named its retail chief to take over the chief financial officer role, with the transition scheduled to take effect in March.",
-    "content_ta": "South Carolina மற்றும் Georgia மாநிலங்களில் 50-க்கும் மேற்பட்ட புதிய கிளைகளைத் திறப்பதன் மூலம் தனது வலைப்பின்னலை விரிவுபடுத்தப் போவதாக PNC அறிவித்துள்ளது. கூடுதலாக, மார்ச் மாதத்தில் பொறுப்பேற்கும் வகையில் தனது சில்லறை வணிகப் பிரிவுத் தலைவரை புதிய CFO-வாக அந்தப் பிட்ச்பர்க் வங்கி நியமித்துள்ளது.",
-    "slug": "pnc-boosts-branch-expansion-kicks-off-cfo-transition"
-  },
-  {
-    "id": "f66ae9a4c95c48b2",
-    "slug": "elon-musk-targets-2027-for-solar-powered-data-centers-in-space",
-    "title": "Elon Musk targets 2027 for solar-powered data centers in space",
-    "tags": [
-      "Elon Musk"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T15:52:30.000Z"
-  },
-  {
-    "id": "27fcd842f5e226da",
-    "title": "Shift4 signals caution",
-    "summary": "The payments processor is navigating weak demand for travel to Europe, and softer sales at its restaurant and hotel customers.",
-    "hasSummary": true,
-    "link": "https://www.paymentsdive.com/news/shift4-signals-caution-retail-restaurants-travel/873947/",
-    "source": "Payments Dive",
-    "tags": [
-      "Shift4",
-      "Europe"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-11-06T15:50:04.000Z",
-    "fetchedAt": "2026-11-06T18:01:30.320Z",
-    "isDuplicateOf": null,
-    "content": "Payments processor Shift4 is expressing a cautious outlook as it navigates current market conditions. The company is experiencing weak demand for travel to Europe along with softer sales performance across its restaurant and hotel customers. These factors highlight a slowdown in certain consumer spending sectors impacting the processor's business operations.",
-    "content_ta": "Shift4 தனது வணிகத்தில் கவனமான அணுகுமுறையைக் கையாள்கிறது. ஐரோப்பிய நாடுகளுக்கான பயணங்களில் தேவை குறைந்துள்ளதுடன், அதன் ரெஸ்டாரன்ட் மற்றும் ஹோட்டல் வாடிக்கையாளர்களிடம் விற்பனையும் மந்தமாகியுள்ளது.",
-    "slug": "shift4-signals-caution"
-  },
-  {
-    "id": "b98dd41750731560",
-    "slug": "thieves-posing-as-a-food-hauler-made-off-with-11-4-million-in-nvidia-hardware",
-    "title": "Thieves posing as a food hauler made off with $11.4 million in Nvidia hardware",
-    "tags": [
-      "Nvidia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T15:44:01.000Z"
-  },
-  {
-    "id": "cca1ae095d026134",
-    "slug": "claude-ai-predicts-and-backs-claver-s-10k-xrp-price-prediction-as-anthropic-faces-pompliano-backlash",
-    "title": "Claude AI Predicts and Backs Claver’s $10K XRP Price Prediction as Anthropic Faces Pompliano Backlash",
-    "tags": [
-      "Claude AI",
-      "Anthropic",
-      "XRP",
-      "Jake Claver",
-      "Anthony Pompliano"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T15:42:00.000Z"
-  },
-  {
-    "id": "61e38dad8a57fdb6",
-    "slug": "democrats-plan-a-wave-of-ai-and-data-center-bills-when-they-take-congress-in-january-2027",
-    "title": "Democrats plan a wave of AI and data-center bills when they take Congress in January 2027",
-    "tags": [
-      "Democrats",
-      "Congress"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T15:38:28.000Z"
-  },
-  {
-    "id": "5b097fb9c15f051d",
-    "slug": "coingecko-cuts-x402-crypto-data-costs-by-50-to-0-005-per-call",
-    "title": "CoinGecko cuts x402 crypto data costs by 50% to $0.005 per call",
-    "tags": [
-      "CoinGecko",
-      "Polygon"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T15:34:51.000Z"
-  },
-  {
-    "id": "442f4b41ac93f35d",
-    "title": "Can Bitcoin Price Defend $75K Support as Futures Activity Raises Volatility Concerns?",
-    "summary": "The post Can Bitcoin Price Defend $75K Support as Futures Activity Raises Volatility Concerns? appeared first on Coinpedia Fintech News\nBitcoin is facing another critical test around $75,000 after failing to sustain its recovery above $80,000. The latest sell-off has extended pressure across the crypto market, with technology stocks weakening and leveraged positions facing heavy liquidations. Meanwhile, a sharp decline in Binance’s spot-to-futures volume ratio suggests derivatives trading is increasingly dominating Bitcoin activity. With Bitcoin …",
-    "hasSummary": true,
-    "link": "https://coinpedia.org/price-analysis/can-bitcoin-price-defend-75k-support-as-futures-activity-raises-volatility-concerns/",
-    "source": "Coinpedia",
-    "tags": [
-      "Bitcoin",
-      "Binance"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-11-06T15:33:12.000Z",
-    "fetchedAt": "2026-11-06T18:01:30.320Z",
-    "isDuplicateOf": null,
-    "content": "Bitcoin is facing a critical test around the $75,000 support level after failing to sustain its recovery above $80,000. The recent sell-off has increased pressure across the broader cryptocurrency market amid weakening technology stocks and heavy liquidations of leveraged positions. Additionally, a sharp decline in Binance's spot-to-futures volume ratio indicates that derivatives trading is increasingly driving market activity, raising concerns over heightened volatility.",
-    "content_ta": "பிட்காயின் விலை 80,000 டாலருக்கு மேல் மீண்டு வரத் தவறியதால், தற்போது 75,000 டாலர் ஆதரவு எல்லையில் ஒரு முக்கியமான சோதனையை எதிர்கொண்டு வருகிறது. தொழில்நுட்ப பங்குகளின் சரிவு மற்றும் அதிகப்படியான வர்த்தக நிலை liquidation காரணமாக பரந்த சந்தையில் அழுத்தம் அதிகரித்துள்ளது. இதற்கிடையில், Binance-இன் ஸ்பாட் மற்றும் ஃபியூச்சர்ஸ் வர்த்தக விகிதத்தில் ஏற்பட்டுள்ள சரிவு, derivatives வர்த்தகம் சந்தை நடவடிக்கைகளை அதிகம் இயக்குவதைக் காட்டுகிறது, இது மேலும் ஏற்ற இறக்கம் குறித்த கவலைகளை எழுப்புகிறது.",
-    "slug": "can-bitcoin-price-defend-75k-support-as-futures-activity-raises-volatility-concerns"
-  },
-  {
-    "id": "2a786eeee49c12d5",
-    "slug": "anthropic-is-using-claude-to-help-its-15-person-team-design-custom-ai-chips-cutting-development",
-    "title": "Anthropic is using Claude to help its 15-person team design custom AI chips, cutting development time compared with traditional methods",
-    "tags": [
-      "Anthropic",
-      "Claude"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T15:32:23.000Z"
-  },
-  {
-    "id": "fce4fe98d696e3b1",
-    "title": "Scammers Spoof Financial Institution’s Real Phone Number, Drain $7,000+ From Connecticut Woman’s Account Through Apple Cash: Report",
-    "summary": "A Connecticut woman has lost over $7,000 after scammers spoofed her credit union’s real phone number and talked her into sending her savings through Apple Cash. The 45-year-old Windsor resident, who asked not to be named, says the caller claimed to work in the fraud department at 360 Federal Credit Union, reports NBC Connecticut. She […]\nThe post Scammers Spoof Financial Institution’s Real Phone Number, Drain $7,000+ From Connecticut Woman’s Account Through Apple Cash: Report appeared first on The Daily Hodl.",
-    "hasSummary": true,
-    "link": "https://dailyhodl.com/2026/11/06/scammers-spoof-financial-institutions-real-phone-number-drain-more-than-7000-from-connecticut-womans-account-through-apple-cash-report/",
-    "source": "The Daily Hodl",
-    "tags": [
-      "360 Federal Credit Union",
-      "Apple Cash",
-      "Connecticut"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-11-06T15:30:48.000Z",
-    "fetchedAt": "2026-11-06T18:01:30.320Z",
-    "isDuplicateOf": null,
-    "content": "A Connecticut woman lost over $7,000 after scammers spoofed her credit union's real phone number. The fraudsters posed as fraud department workers from 360 Federal Credit Union and convinced the victim to transfer her savings using Apple Cash. Reports highlight an increasing trend of advanced phone spoofing tactics targeting bank customers.",
-    "content_ta": "கனெக்டிகட் மாநிலத்தைச் சேர்ந்த பெண் ஒருவர், ஸ்கேமர்கள் தனது கிரெடிட் யூனியனின் உண்மையான போன் நம்பரை ஸ்பூஃப் செய்ததால் 7,000 டாலருக்கும் அதிகமான தொகையை இழந்தார். 360 Federal Credit Union நிறுவனத்தின் மோசடி தடுப்புப் பிரிவிலிருந்து பேசுவதாகக் கூறி, பாதிக்கப்பட்ட பெண்ணை Apple Cash மூலம் தனது சேமிப்பை அனுப்பும்படி ஏமாற்றினர்.",
-    "slug": "scammers-spoof-financial-institution-s-real-phone-number-drain-7-000-from-connecticut-woman-s"
-  },
-  {
-    "id": "c6b115efa3b0f3d9",
-    "slug": "bitcoin-etfs-bought-nearly-twice-what-miners-produced-in-q3-but-430-million-left-on-thursday",
-    "title": "Bitcoin ETFs bought nearly twice what miners produced in Q3—but $430 million left on Thursday",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T15:30:30.000Z"
-  },
-  {
-    "id": "2238aa058cb85d23",
-    "slug": "bitcoin-finds-opportunity-as-1-1b-in-long-positions-disappear",
-    "title": "Bitcoin Finds Opportunity as $1.1B in Long Positions Disappear",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "Bitcoinist",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T15:28:36.000Z"
-  },
-  {
-    "id": "62284b0086fd416e",
-    "slug": "tesla-launching-in-argentina-on-november-20-2026",
-    "title": "Tesla launching in Argentina on November 20, 2026",
-    "tags": [
-      "Tesla",
-      "Argentina",
-      "Latin America"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T15:21:46.000Z"
-  },
-  {
-    "id": "d7be0ff1a7a0c8f3",
-    "slug": "a-december-hike-would-repeat-a-pattern-bitcoin-has-lost-every-time",
-    "title": "A December hike would repeat a pattern Bitcoin has lost every time",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T15:12:18.000Z"
-  },
-  {
-    "id": "335e2055a5921aa4",
-    "slug": "super-micro-posts-19-95-billion-quarter-and-lifts-its-full-year-outlook",
-    "title": "Super Micro posts $19.95 billion quarter and lifts its full-year outlook",
-    "tags": [
-      "Super Micro"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T15:09:53.000Z"
-  },
-  {
-    "id": "a3f0ba1918315ff0",
-    "slug": "xrp-bear-trap-alert-bitfinex-shorts-surge-652-as-supply-tightens",
-    "title": "XRP bear trap alert! Bitfinex shorts surge 652% as supply tightens",
-    "tags": [
-      "XRP",
-      "Bitfinex"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T15:00:01.000Z"
-  },
-  {
-    "id": "d02c265edbeb541a",
-    "slug": "aave-labs-buys-avon-team-in-fixed-rate-lending-push",
-    "title": "Aave Labs buys Avon team in fixed-rate lending push",
-    "tags": [
-      "Aave Labs",
-      "Avon"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T15:00:00.000Z"
-  },
-  {
-    "id": "0c0100b3e835677b",
-    "slug": "ai-investments-amplify-impact-of-nasdaq-100-s-2-3t-market-rout",
-    "title": "AI investments amplify impact of NASDAQ 100’s $2.3T market rout",
-    "tags": [
-      "NASDAQ 100",
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T14:57:26.000Z"
-  },
-  {
-    "id": "bbcf5b274deb3e99",
-    "slug": "rep-maxine-waters-calls-for-stricter-crypto-regulations-targeting-trump-projects",
-    "title": "Rep. Maxine Waters calls for stricter crypto regulations targeting Trump projects",
-    "tags": [
-      "Maxine Waters",
-      "Donald Trump"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T14:50:22.000Z"
-  },
-  {
-    "id": "1e52f8aac7172307",
-    "slug": "elon-musk-claims-softbank-is-defaulting-on-its-turbine-orders",
-    "title": "Elon Musk Claims SoftBank Is Defaulting on Its Turbine Orders",
-    "tags": [
-      "Elon Musk",
-      "SoftBank",
-      "OpenAI"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T14:40:48.000Z"
-  },
-  {
-    "id": "60cffe2484c6093e",
-    "slug": "rule-allowing-crypto-in-401-k-s-reaches-white-house-for-final-review",
-    "title": "Rule allowing crypto in 401(k)s reaches White House for final review",
-    "tags": [
-      "White House"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T14:39:28.000Z"
-  },
-  {
-    "id": "f1e4f0d75500c476",
-    "slug": "nace-ai-releases-drex-technical-report-and-27b-drex-max-decision-model",
-    "title": "Nace AI releases Drex technical report and 27B Drex Max decision model",
-    "tags": [
-      "Nace AI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T14:34:10.000Z"
-  },
-  {
-    "id": "8b0203d15204fc4e",
-    "slug": "bitrue-turns-8-with-bitrue-ai-and-100-000-usdt-rewards-for-new-traders",
-    "title": "Bitrue Turns 8 With Bitrue AI And 100,000 USDT Rewards For New Traders",
-    "tags": [
-      "Bitrue",
-      "USDT"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T14:31:34.000Z"
-  },
-  {
-    "id": "f63c91df7aac9ef9",
-    "slug": "bank-of-england-raises-rates-to-4-as-it-forecasts-inflation-near-5-next-year",
-    "title": "Bank of England raises rates to 4% as it forecasts inflation near 5% next year",
-    "tags": [
-      "Bank of England",
-      "Bitcoin",
-      "United Kingdom"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T14:30:41.000Z"
-  },
-  {
-    "id": "4de5e64166b66768",
-    "slug": "xrp-ledger-is-undisputed-leader-of-2026-in-commodities-tokenization-with-2-2-billion",
-    "title": "XRP Ledger Is Undisputed Leader of 2026 in Commodities Tokenization With $2.2 Billion",
-    "tags": [
-      "XRP Ledger"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T14:29:05.000Z"
-  },
-  {
-    "id": "39c2e0a07068531b",
-    "slug": "strive-reports-509-million-q3-income-as-bitcoin-gains-hit-534-million",
-    "title": "Strive reports $509 million Q3 income as Bitcoin gains hit $534 million",
-    "tags": [
-      "Strive",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T14:26:33.000Z"
-  },
-  {
-    "id": "48c5dcab0166590c",
-    "slug": "kevin-hassett-says-us-economy-can-thrive-despite-data-center-slowdown",
-    "title": "Kevin Hassett says US economy can thrive despite data center slowdown",
-    "tags": [
-      "Kevin Hassett",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T14:22:46.000Z"
-  },
-  {
-    "id": "9d245aea353db04d",
-    "slug": "27-stock-markets-worldwide-are-in-bear-territory-why-is-america-missing",
-    "title": "27 Stock Markets Worldwide Are in Bear Territory. Why Is America Missing?",
-    "tags": [
-      "Nasdaq",
-      "S&P 500",
-      "United States"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T14:12:09.000Z"
-  },
-  {
-    "id": "2c86d5d800c36c5d",
-    "slug": "claude-gets-personal-finance-tool",
-    "title": "Claude gets personal finance tool",
-    "tags": [
-      "Anthropic",
-      "Claude"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T14:11:00.000Z"
-  },
-  {
-    "id": "10d84c1357ec88e1",
-    "slug": "tsmc-weighs-a-move-into-advanced-memory-chips-the-information-reports",
-    "title": "TSMC weighs a move into advanced memory chips, The Information reports",
-    "tags": [
-      "TSMC"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-06T14:08:01.000Z"
   }
 ]
