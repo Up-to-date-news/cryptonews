@@ -1,158 +1,319 @@
 [
   {
-    "id": "497920c51494b9bb",
-    "title": "Bitcoin Mining Enters a New Reality: Even the China Ban Wasn’t This Bad",
-    "summary": "Bitcoin mining difficulty has now remained below its all-time high for longer than at any point in the asset's history.",
+    "id": "5bc101c4a3018d66",
+    "title": "Bitquery traces $6.01M theft to Keplr wallets created with Google and Apple logins",
+    "summary": "The incident highlights the risks of relying on third-party social logins for crypto wallets, emphasizing the need for robust security measures.\nThe post Bitquery traces $6.01M theft to Keplr wallets created with Google and Apple logins appeared first on Crypto Briefing.",
     "hasSummary": true,
-    "link": "https://cryptopotato.com/bitcoin-mining-enters-a-new-reality-even-the-china-ban-wasnt-this-bad/",
-    "source": "CryptoPotato",
+    "link": "https://cryptobriefing.com/keplr-social-login-wallets-6m-theft-bitquery/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Bitquery",
+      "Keplr",
+      "Google",
+      "Apple"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-08T11:32:36.000Z",
+    "fetchedAt": "2026-11-08T11:35:18.075Z",
+    "isDuplicateOf": null,
+    "content": "Blockchain analytics firm Bitquery has traced a theft of over $6 million to Keplr wallets. The compromised wallets were created using third-party social logins via Google and Apple. The security incident highlights the potential risks and vulnerabilities associated with relying on external authentication services for managing cryptocurrency wallets, emphasizing the urgent need for enhanced security practices in the digital asset space.",
+    "content_ta": "ப்ளாக்செயின் பகுப்பாய்வு நிறுவனமான Bitquery, Keplr வாலட்களில் நடந்த 6 மில்லியன் டாலருக்கும் அதிகமான திருட்டு சம்பவத்தைக் கண்டறிந்துள்ளது. இந்த பாதிக்கப்பட்ட வாலட்கள் Google மற்றும் Apple உள்நுழைவு சேவைகளைப் பயன்படுத்தி உருவாக்கப்பட்டவை. இந்த பாதுகாப்பு சம்பவம் கிரிப்டோ வாலட்களுக்கு வெளிப்புற அங்கீகார சேவைகளை நம்பியிருப்பதிலுள்ள அபாயங்களை வெளிச்சம் போட்டுக் காட்டுகிறது.",
+    "slug": "bitquery-traces-6-01m-theft-to-keplr-wallets-created-with-google-and-apple-logins"
+  },
+  {
+    "id": "015ab773c64dd996",
+    "title": "Gold is still 25% below its peak even as demand reaches $188B in Q3",
+    "summary": "Central banks bought more gold in the third quarter of 2026 than consumers worldwide bought for jewelry. According to the World Gold Council's latest demand report, central banks and other official institutions acquired an estimated net 321 metric tons, while jewelry consumption came to 313 tons. In the same quarter a year earlier, jewelry buyers…\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/gold-is-still-25-below-its-peak-while-demand-reaches-188b/",
+    "source": "CryptoSlate",
+    "tags": [
+      "World Gold Council"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-08T11:20:50.000Z",
+    "fetchedAt": "2026-11-08T11:35:18.075Z",
+    "isDuplicateOf": null,
+    "content": "Central banks purchased more gold in the third quarter than global consumers bought for jewelry, according to a report by the World Gold Council. Official institutions acquired an estimated net 321 metric tons, surpassing jewelry consumption of 313 tons. Despite this strong demand reaching $188 billion, gold prices remain 25% below their all-time peak.",
+    "content_ta": "World Gold Council-ன் சமீபத்திய அறிக்கையின்படி, உலகளாவிய நுகர்வோர் நகைகளுக்காக வாங்கியதை விட அதிகமான தங்கத்தை மத்திய வங்கிகள் மூன்றாம் காலாண்டில் வாங்கியுள்ளன. அதிகாரப்பூர்வ நிறுவனங்கள் தோராயமாக 321 மெட்ரிக் டன் நிகர தங்கத்தை வாங்கியுள்ளன, இது 313 டன் நுகர்வு கொண்ட நகை வாங்குதலை விட அதிகமாகும். $188 பில்லியன் அளவுக்கு வலுவான தேவை இருந்தபோதிலும், தங்கத்தின் விலை அதன் உச்சத்திலிருந்து 25% குறைவாகவே உள்ளது.",
+    "slug": "gold-is-still-25-below-its-peak-even-as-demand-reaches-188b-in-q3"
+  },
+  {
+    "id": "294ba089b0d06e12",
+    "title": "Anthropic leans on gas-fired power to feed its data center buildout",
+    "summary": "Anthropic's reliance on gas-fired power for data centers highlights potential financial risks and sustainability challenges amid rapid growth.\nThe post Anthropic leans on gas-fired power to feed its data center buildout appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/anthropic-gas-fired-power-data-centers/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Anthropic"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-08T11:07:23.000Z",
+    "fetchedAt": "2026-11-08T11:35:18.075Z",
+    "isDuplicateOf": null,
+    "content": "Anthropic is increasingly relying on gas-fired power to support its expanding data center infrastructure. This strategy underscores the growing energy demands of artificial intelligence development, while also raising potential financial risks and environmental sustainability challenges as the company experiences rapid growth.",
+    "content_ta": "Anthropic நிறுவனம் தனது விரிவடைந்து வரும் டேட்டா சென்டர் உள்கட்டமைப்பை ஆதரிக்க எரிவாயு மின்சாரத்தை அதிகளவில் சார்ந்துள்ளது. இந்த உள்கட்டமைப்பு வளர்ச்சி நிறுவனத்தின் விரைவான வளர்ச்சியின் போது நிதி ஆபத்துகள் மற்றும் சுற்றுச்சூழல் நிலைத்தன்மை சவால்களை எழுப்புகிறது.",
+    "slug": "anthropic-leans-on-gas-fired-power-to-feed-its-data-center-buildout"
+  },
+  {
+    "id": "287f85964dc30d51",
+    "title": "Anthropic secures $3B deal for gas-fired electricity ahead of IPO: FT",
+    "summary": "Anthropic's energy strategy may enhance investor confidence and market cap expectations, influencing its IPO success and financial stability.\nThe post Anthropic secures $3B deal for gas-fired electricity ahead of IPO: FT appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/anthropic-secures-3b-deal-for-gas-fired-electricity-ahead-of-ipo-ft/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Anthropic"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-08T11:05:56.000Z",
+    "fetchedAt": "2026-11-08T11:35:18.075Z",
+    "isDuplicateOf": null,
+    "content": "Anthropic has reportedly secured a $3 billion deal for gas-fired electricity ahead of its anticipated IPO. According to reports, this strategic energy move aims to support the company's growing operational demands. Market analysts suggest that securing reliable power sources could enhance investor confidence and positively influence Anthropic's overall valuation and financial stability as it prepares to enter the public market.",
+    "content_ta": "தமது வரவிருக்கும் IPO-க்கு முன்னதாக, Anthropic நிறுவனம் எரிவாயு மூலம் இயக்கப்படும் மின்சாரத்திற்காக 3 பில்லியன் டாலர் மதிப்புள்ள ஒப்பந்தத்தைப் பெற்றுள்ளதாகத் தகவல்கள் வெளியாகியுள்ளன. இந்த ஆற்றல் மூலோபாயம் நிறுவனத்தின் வளர்ந்து வரும் செயல்பாட்டுத் தேவைகளை ஆதரிக்கும் என்றும், முதலீட்டாளர்களின் நம்பிக்கையை அதிகரித்து சந்தை மதிப்பை உயர்த்த உதவும் என்றும் ஆய்வாளர்கள் கருதுகின்றனர்.",
+    "slug": "anthropic-secures-3b-deal-for-gas-fired-electricity-ahead-of-ipo-ft"
+  },
+  {
+    "id": "663025e39ecfda42",
+    "title": "Texas leads US in planned data center capacity at over 60 gigawatts",
+    "summary": "Texas's data center boom could strain its power grid, prompting regulatory scrutiny and impacting future energy infrastructure investments.\nThe post Texas leads US in planned data center capacity at over 60 gigawatts appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/texas-leads-us-planned-data-center-capacity/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Texas",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-08T11:05:36.000Z",
+    "fetchedAt": "2026-11-08T11:35:18.075Z",
+    "isDuplicateOf": null,
+    "content": "Texas is leading the United States in planned data center capacity, reaching over 60 gigawatts. This significant growth in data centers could potentially strain the state's power grid, which is drawing increased regulatory scrutiny and influencing future decisions regarding energy infrastructure investments.",
+    "content_ta": "Texas திட்டமிடப்பட்ட டேட்டா சென்டர் திறனில் 60 ஜிகாவாட்டுகளுக்கு மேல் எட்டி அமெரிக்காவிலேயே முன்னணியில் உள்ளது. டேட்டா சென்டர்களின் இந்த குறிப்பிடத்தக்க வளர்ச்சி மாநிலத்தின் மின்网த்தை அழுத்தத்திற்குள்ளாக்கக்கூடும், இது அதிக ஒழுங்குமுறை கவனத்தை ஈர்க்கிறது மற்றும் எதிர்கால ஆற்றல் உள்கட்டமைப்பு முதலீடுகளை பாதிக்கிறது.",
+    "slug": "texas-leads-us-in-planned-data-center-capacity-at-over-60-gigawatts"
+  },
+  {
+    "id": "29301966db5c9f68",
+    "title": "Nvidia, Broadcom, Micron seen as key buys post-semiconductor sell-off",
+    "summary": "The semiconductor sector's rebound potential highlights AI demand's resilience, suggesting strategic investment opportunities amid market volatility.\nThe post Nvidia, Broadcom, Micron seen as key buys post-semiconductor sell-off appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/nvidia-broadcom-micron-seen-as-key-buys-post-semiconductor-sell-off/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Nvidia",
+      "Broadcom",
+      "Micron"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-08T10:51:14.000Z",
+    "fetchedAt": "2026-11-08T11:35:18.075Z",
+    "isDuplicateOf": null,
+    "content": "Following a recent sector-wide sell-off, major semiconductor companies such as Nvidia, Broadcom, and Micron have been identified as key investment opportunities. Market analysts point to the ongoing resilience of artificial intelligence demand as a primary driver for a potential market rebound, offering strategic possibilities for investors navigating current market volatility.",
+    "content_ta": "சமீபத்திய துறைசார் சரிவுக்குப் பிறகு, Nvidia, Broadcom மற்றும் Micron போன்ற முன்னணி செமிகண்டக்டர் நிறுவனங்கள் முக்கிய முதலீட்டு வாய்ப்புகளாக அடையாளம் காணப்பட்டுள்ளன. செயற்கை நுண்ணறிவுக்கான (AI) தேவையின் தொடர்ச்சியான எழுச்சியே சந்தை மீண்டு வருவதற்கான முக்கியக் காரணமாக நிபுணர்களால் சுட்டிக்காட்டப்படுகிறது, இது சந்தை ஏற்ற இறக்கங்களுக்கு மத்தியில் முதலீட்டாளர்களுக்கு புதிய வாய்ப்புகளை வழங்குகிறது.",
+    "slug": "nvidia-broadcom-micron-seen-as-key-buys-post-semiconductor-sell-off"
+  },
+  {
+    "id": "bbb3a9ce5de8737f",
+    "title": "FCA AI Review Prompts Call to Keep Customer Needs Central",
+    "summary": "EQWIRE CEO Sophie Njagi urges fintechs to anchor AI product development in customer needs, citing the FCA's latest AI good-practice findings.\nThe post FCA AI Review Prompts Call to Keep Customer Needs Central appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/fca-ai-review-prompts-call-to-keep-customer-needs-central/",
+    "source": "The Fintech Times",
+    "tags": [
+      "EQWIRE",
+      "Sophie Njagi",
+      "Financial Conduct Authority"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-08T10:00:56.000Z",
+    "fetchedAt": "2026-11-08T11:35:18.075Z",
+    "isDuplicateOf": null,
+    "content": "EQWIRE CEO Sophie Njagi has urged fintech companies to prioritize customer needs during AI product development. This call follows the Financial Conduct Authority's latest findings on artificial intelligence good practices. Industry leaders are being encouraged to ensure that technological advancements directly benefit consumers while aligning with regulatory expectations.",
+    "content_ta": "EQWIRE-யின் CEO Sophie Njagi, AI தயாரிப்பு உருவாக்கத்தின் போது வாடிக்கையாளர்களின் தேவைகளுக்கு முக்கியத்துவம் அளிக்குமாறு ஃபின்டெக் நிறுவனங்களை வலியுறுத்தியுள்ளார். FCA-ன் சமீபத்திய செயற்கை நுண்ணறிவு தொடர்பான நல்ல நடைமுறை கண்டுபிடிப்புகளுக்குப் பிறகு இந்த அழைப்பு விடுக்கப்பட்டுள்ளது.",
+    "slug": "fca-ai-review-prompts-call-to-keep-customer-needs-central"
+  },
+  {
+    "id": "cf0bb036246e7299",
+    "title": "Robocurve tests AI models with real robot arms, finds safety issues",
+    "summary": "The findings highlight critical safety concerns in AI-controlled robotics, emphasizing the need for robust safeguards in real-world applications.\nThe post Robocurve tests AI models with real robot arms, finds safety issues appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/robocurve-ai-robot-arms-safety-tests/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Robocurve"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-08T09:56:12.000Z",
+    "fetchedAt": "2026-11-08T11:35:18.075Z",
+    "isDuplicateOf": null,
+    "content": "Robocurve recently conducted tests using artificial intelligence models paired with real robot arms to evaluate their performance. The testing revealed critical safety issues and concerns regarding AI-controlled robotics. These findings emphasize the urgent need for developing robust safeguards and safety protocols before deploying such autonomous technology in real-world applications.",
+    "content_ta": "Robocurve நிறுவனம் AI மாடல்களை உண்மையான ரோபோ கரங்களுடன் இணைத்து சோதித்ததில், சில முக்கிய பாதுகாப்பு சிக்கல்கள் கண்டறியப்பட்டுள்ளன. AI மூலம் கட்டுப்படுத்தப்படும் ரோபோட்டிக்ஸ் துறையில் உள்ள இந்த பாதுகாப்பு குறைபாடுகள், நிஜ உலக பயன்பாடுகளில் வலுவான பாதுகாப்பு வழிமுறைகளின் அவசியத்தை வலியுறுத்துகின்றன.",
+    "slug": "robocurve-tests-ai-models-with-real-robot-arms-finds-safety-issues"
+  },
+  {
+    "id": "68df7ecba1cd2424",
+    "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
+    "summary": "Dutch police said they detained 150-200 people for trespassing during the protest.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Microsoft",
+      "Amsterdam",
+      "Netherlands"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-08T09:48:48.000Z",
+    "fetchedAt": "2026-11-08T11:35:18.075Z",
+    "isDuplicateOf": null,
+    "content": "Dutch police detained between 150 and 200 people after protesters broke into the construction site of a Microsoft data center in Amsterdam. Authorities acted following reports of trespassing at the facility. The demonstration led to significant police intervention to secure the area and handle the large group of unauthorized individuals who had entered the property.",
+    "content_ta": "Amsterdam-ல் உள்ள Microsoft தரவு மைய கட்டுமானப் பகுதிக்குள் நுழைந்த போராட்டக்காரர்களைத் தொடர்ந்து, டச்சு காவல்துறை 150 முதல் 200 பேரை தடுத்து வைத்தனர். அந்த வளாகத்தில் அத்துமீறி நுழைந்ததாக வந்த புகார்களைத் தொடர்ந்து அதிகாரிகள் நடவடிக்கை எடுத்தனர்.",
+    "slug": "amsterdam-protesters-break-into-microsoft-data-center-construction-site-report"
+  },
+  {
+    "id": "ff0cbe47da18201f",
+    "title": "Shibarium Network Account Goes Silent as SHIB Community Seeks Answers",
+    "summary": "Shibarium network account stops posting, drawing attention from Shiba Inu community.",
+    "hasSummary": true,
+    "link": "https://u.today/shibarium-network-account-goes-silent-as-shib-community-seeks-answers",
+    "source": "U.Today",
+    "tags": [
+      "Shibarium",
+      "SHIB"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-08T09:40:13.000Z",
+    "fetchedAt": "2026-11-08T11:35:18.075Z",
+    "isDuplicateOf": null,
+    "content": "The official Shibarium network account has suddenly stopped posting on social media, leaving the SHIB community concerned and seeking answers. With the account going entirely silent, users and supporters are closely monitoring the situation for updates regarding the network's status and future communications.",
+    "content_ta": "Shibarium network-ன் அதிகாரப்பூர்வ கணக்கு சமூக வலைதளங்களில் பதிவிடுவதை திடீரென நிறுத்தியுள்ளது, இதனால் SHIB சமூகம் கவலை அடைந்துள்ளதுடன் பதில்களைத் தேடி வருகிறது. கணக்கு முற்றிலும் அமைதியாகிவிட்டதால், நெட்வொர்க்கின் நிலை மற்றும் எதிர்கால komunikasi-கள் குறித்த தகவல்களுக்காக பயனர்களும் ஆதரவாளர்களும் நிலைமையை உன்னிப்பாகக் கவனித்து வருகின்றனர்.",
+    "slug": "shibarium-network-account-goes-silent-as-shib-community-seeks-answers"
+  },
+  {
+    "id": "971684f21b4af244",
+    "title": "Bitcoin Technical Analysis: Bullish Checkmate Setup Near $76K",
+    "summary": "Bitcoin is going quiet after a violent week, and chart watchers think that calm could be the setup for the next move higher. Our Bitcoin technical analysis shows that currently, BTC is trading at $75,865, down 0.41% on the day, inside a tight range between $75,645 and $75,979. That is a 0.4% daily range after […]",
+    "hasSummary": true,
+    "link": "https://bitcoinist.com/bitcoin-technical-analysis-bullish-checkmate-setup-near-76k/",
+    "source": "Bitcoinist",
+    "tags": [
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-08T09:31:47.000Z",
+    "fetchedAt": "2026-11-08T11:35:18.075Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin is experiencing a period of quiet trading following a volatile week, with technical analysts suggesting this calm may precede another upward movement. BTC is currently trading near $75,865, showing a minor decrease of 0.41% on the day. Market observers note that the cryptocurrency is holding inside a very tight daily range, which could act as a setup for the next major price breakout.",
+    "content_ta": "ஒரு கொந்தளிப்பான வாரத்திற்குப் பிறகு Bitcoin அமைதியான வர்த்தகச் சூழலைச் சந்தித்து வருகிறது. இந்த அமைதியான நிலை அடுத்த மேலதிக நகர்வுக்கான தயாரிப்பாக இருக்கலாம் என்று சார்ட் நிபுணர்கள் கருதுகின்றனர். தற்போது BTC மதிப்பு $75,865 என்ற அளவில் வர்த்தகமாகிறது, இது அன்றைய நாளில் 0.41% சரிவைக் காட்டுகிறது. கிரிப்டோகரன்சி மிகவும் குறுகிய வரம்பிற்குள் நகர்வது அடுத்த விலை உயர்வுக்கு வழிவகுக்கலாம் என்று சந்தை பார்வையாளர்கள் குறிப்பிடுகின்றனர்.",
+    "slug": "bitcoin-technical-analysis-bullish-checkmate-setup-near-76k"
+  },
+  {
+    "id": "497920c51494b9bb",
+    "slug": "bitcoin-mining-enters-a-new-reality-even-the-china-ban-wasn-t-this-bad",
+    "title": "Bitcoin Mining Enters a New Reality: Even the China Ban Wasn’t This Bad",
     "tags": [
       "Bitcoin",
       "China"
     ],
+    "source": "CryptoPotato",
     "origin": "rss",
-    "pubDate": "2026-11-08T08:51:16.000Z",
-    "fetchedAt": "2026-11-08T09:01:27.030Z",
-    "isDuplicateOf": null,
-    "content": "Bitcoin mining has entered a challenging new reality as mining difficulty remains below its all-time high for longer than at any previous point in history. Industry analysts note that this current downturn has surpassed the historic impact of the strict China mining ban, reflecting unprecedented pressures currently facing the global Bitcoin mining network.",
-    "content_ta": "Bitcoin மைனிங் துறை தற்போது ஒரு புதிய சவாலான யதார்த்தத்தை எதிர்கொண்டுள்ளது. வரலாற்றில் எப்போதும் இல்லாத அளவுக்கு Bitcoin மைனிங் சிரமம் அதன் உச்ச அளவிற்குக் கீழே நீண்ட காலமாக நீடித்து வருகிறது. சீனா விதித்த கடுமையான மைனிங் தடை ஏற்படுத்திய தாக்கத்தை விட இந்த தற்போதைய சரிவு மிகவும் தீவிரமானது என்று துறைசார் ஆய்வாளர்கள் குறிப்பிடுகின்றனர்.",
-    "slug": "bitcoin-mining-enters-a-new-reality-even-the-china-ban-wasn-t-this-bad"
+    "hasContent": true,
+    "pubDate": "2026-11-08T08:51:16.000Z"
   },
   {
     "id": "1d7a234ee549f655",
+    "slug": "binance-s-finance-chief-kaiser-ng-to-leave-company-report-says",
     "title": "Binance’s  finance chief Kaiser Ng to leave company, report says",
-    "summary": "Ng will be replaced by Justin Yek, who was formerly vice-president of finance at Airwallex.",
-    "hasSummary": true,
-    "link": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph",
     "tags": [
       "Binance",
       "Kaiser Ng",
       "Justin Yek",
       "Airwallex"
     ],
+    "source": "Cointelegraph",
     "origin": "rss",
-    "pubDate": "2026-11-08T08:12:56.000Z",
-    "fetchedAt": "2026-11-08T09:01:27.030Z",
-    "isDuplicateOf": null,
-    "content": "Binance finance chief Kaiser Ng is reportedly leaving the company. He will be succeeded by Justin Yek, who previously served as the vice-president of finance at Airwallex. The leadership transition marks a notable change in the financial executive team at the cryptocurrency exchange as it continues to navigate shifting regulatory and market conditions globally.",
-    "content_ta": "Binance நிறுவனத்தின் நிதித் தலைவர் Kaiser Ng தனது பதவியில் இருந்து விலகுவதாக தகவல்கள் வெளியாகியுள்ளன. அவருக்குப் பதிலாக Airwallex நிறுவனத்தின் முன்னாள் நிதித் துணைத் தலைவராகப் பணியாற்றிய Justin Yek நியமிக்கப்பட உள்ளார். உலகளாவிய அளவில் மாறிவரும் சந்தைச் சூழல்களுக்கு மத்தியில் cryptocurrency பரிமாற்ற நிறுவனத்தில் நடைபெறும் இந்தத் தலைமை மாற்றமானது முக்கியத்துவம் பெறுகிறது.",
-    "slug": "binance-s-finance-chief-kaiser-ng-to-leave-company-report-says"
+    "hasContent": true,
+    "pubDate": "2026-11-08T08:12:56.000Z"
   },
   {
     "id": "6fd1987ea3b4a1b2",
+    "slug": "a-tower-in-riyadh-s-king-abdullah-financial-district-damaged-by-projectile-reuters-reports",
     "title": "A tower in Riyadh’s King Abdullah Financial District damaged by projectile, Reuters reports",
-    "summary": "The incident highlights regional security vulnerabilities, potentially impacting market confidence and prompting reassessment of airspace safety.\nThe post A tower in Riyadh’s King Abdullah Financial District damaged by projectile, Reuters reports appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/a-tower-in-riyadhs-king-abdullah-financial-district-damaged-by-projectile/",
-    "source": "CryptoBriefing",
     "tags": [
       "Riyadh",
       "King Abdullah Financial District",
       "Reuters"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-08T07:58:38.000Z",
-    "fetchedAt": "2026-11-08T09:01:27.030Z",
-    "isDuplicateOf": null,
-    "content": "A tower located in Riyadh’s King Abdullah Financial District sustained damage after being struck by a projectile, according to Reuters reports. The incident has raised concerns regarding regional security vulnerabilities and airspace safety, while potentially impacting broader market confidence.",
-    "content_ta": "Reuters வெளியிட்டுள்ள அறிக்கையின்படி, Riyadh-ல் உள்ள King Abdullah Financial District-ல் அமைந்துள்ள ஒரு டவர் புராஜெக்டைல் தாக்குதலுக்கு உள்ளாகி சேதமடைந்துள்ளது. இந்தச் சம்பவம் பிராந்திய பாதுகாப்பு மற்றும் வான்வெளி பாதுகாப்பு குறித்த கவலைகளை எழுப்பியுள்ளதுடன், சந்தை நம்பிக்கையையும் பாதிக்கலாம்.",
-    "slug": "a-tower-in-riyadh-s-king-abdullah-financial-district-damaged-by-projectile-reuters-reports"
+    "hasContent": true,
+    "pubDate": "2026-11-08T07:58:38.000Z"
   },
   {
     "id": "d945877cfc45c031",
+    "slug": "quantinuum-raises-2026-revenue-outlook-after-record-bookings",
     "title": "Quantinuum raises 2026 revenue outlook after record bookings",
-    "summary": "Quantinuum's raised revenue outlook signals growing confidence in quantum computing's commercial viability, potentially accelerating industry adoption.\nThe post Quantinuum raises 2026 revenue outlook after record bookings appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/quantinuum-raises-2026-revenue-outlook/",
-    "source": "CryptoBriefing",
     "tags": [
       "Quantinuum"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-08T07:35:00.000Z",
-    "fetchedAt": "2026-11-08T09:01:27.031Z",
-    "isDuplicateOf": null,
-    "content": "Quantinuum has raised its 2026 revenue outlook following a period of record bookings. This updated financial projection highlights growing market confidence in the commercial viability of quantum computing technologies, which could help drive broader adoption across the industry in the coming years.",
-    "content_ta": "ரெcord புக்ஜிங்குகள் காரணமாக Quantinuum நிறுவனம் தனது 2026 ஆம் ஆண்டுக்கான வருவாய் கணிப்பை உயர்த்தியுள்ளது. இந்த புதிய நிதி மதிப்பீடு குவாண்டம் கம்ப்யூட்டிங் தொழில்நுட்பங்களின் வணிக சாத்தியக்கூறுகள் மீதான சந்தையின் நம்பிக்கையை வெளிப்படுத்துகிறது, இது எதிர்காலத்தில் தொழில்துறையில் பரவலான பயன்பாட்டை அதிகரிக்கக்கூடும்.",
-    "slug": "quantinuum-raises-2026-revenue-outlook-after-record-bookings"
+    "hasContent": true,
+    "pubDate": "2026-11-08T07:35:00.000Z"
   },
   {
     "id": "8894008b01d0e09f",
+    "slug": "binance-s-cz-calls-for-crypto-industry-unity",
     "title": "Binance's CZ Calls for Crypto Industry Unity",
-    "summary": "Binance founder Changpeng Zhao (CZ) has called for greater unity across the cryptocurrency industry, arguing that infighting is counterproductive as the market grapples with the fallout from Binance's massive $6.34 billion hack.",
-    "hasSummary": true,
-    "link": "https://u.today/binances-cz-calls-for-crypto-industry-unity",
-    "source": "U.Today",
     "tags": [
       "Binance",
       "Changpeng Zhao"
     ],
+    "source": "U.Today",
     "origin": "rss",
-    "pubDate": "2026-11-08T07:28:11.000Z",
-    "fetchedAt": "2026-11-08T09:01:27.030Z",
-    "isDuplicateOf": null,
-    "content": "Binance founder Changpeng Zhao (CZ) has urged the cryptocurrency industry to unite and avoid counterproductive infighting. The call for solidarity comes as the market deals with the fallout following a massive $6.34 billion security breach at Binance, highlighting the urgent need for cooperation and collective resilience among digital asset platforms during challenging times.",
-    "content_ta": "Binance நிறுவனத்தின் நிறுவனர் Changpeng Zhao (CZ), cryptocurrency துறையில் உள்ளவர்கள் அனைவரும் ஒற்றுமையுடன் இருக்க வேண்டும் என்றும், தேவையற்ற மோதல்களைத் தவிர்க்க வேண்டும் என்றும் கேட்டுக்கொண்டுள்ளார். Binance-ல் நடைபெற்ற மிகப்பெரிய $6.34 பில்லியன் ஹேக் சம்பவத்தைத் தொடர்ந்து சந்தை எதிர்கொள்ளும் சவால்களுக்கு மத்தியில், இந்த ஒற்றுமைக்கான அழைப்பு விடுக்கப்பட்டுள்ளது.",
-    "slug": "binance-s-cz-calls-for-crypto-industry-unity"
+    "hasContent": true,
+    "pubDate": "2026-11-08T07:28:11.000Z"
   },
   {
     "id": "2d9d055d70c3de08",
+    "slug": "ripple-s-xrp-is-bleeding-but-whales-are-buying-are-bulls-preparing-for-a-violent-reversal",
     "title": "Ripple’s XRP Is Bleeding, but Whales Are Buying: Are Bulls Preparing for a Violent Reversal",
-    "summary": "Several analysts are pointing to signs that buyers may already be positioning for what could become a long-anticipated reversal.",
-    "hasSummary": true,
-    "link": "https://cryptopotato.com/ripples-xrp-is-bleeding-but-whales-are-buying-are-bulls-preparing-for-a-violent-reversal/",
-    "source": "CryptoPotato",
     "tags": [
       "Ripple",
       "XRP"
     ],
+    "source": "CryptoPotato",
     "origin": "rss",
-    "pubDate": "2026-11-08T06:44:57.000Z",
-    "fetchedAt": "2026-11-08T09:01:27.030Z",
-    "isDuplicateOf": null,
-    "content": "Ripple's XRP token is experiencing a notable decline in market value, yet large-scale investors, commonly known as whales, are actively accumulating the asset. Industry analysts suggest these strategic purchases may indicate that buyers are positioning themselves ahead of a potential and significant market reversal.",
-    "content_ta": "Ripple-ன் XRP மதிப்பில் சரிவை சந்தித்து வந்தாலும், whales எனப்படும் பெரிய முதலீட்டாளர்கள் தொடர்ந்து வாங்கி குவித்து வருகின்றனர். சந்தை ஆய்வாளர்களின் கூற்றுப்படி, இந்த முதலீடுகள் விரைவில் ஒரு பெரிய திருப்பம் ஏற்பட வாய்ப்பிருப்பதை சுட்டிக்காட்டுகின்றன.",
-    "slug": "ripple-s-xrp-is-bleeding-but-whales-are-buying-are-bulls-preparing-for-a-violent-reversal"
+    "hasContent": true,
+    "pubDate": "2026-11-08T06:44:57.000Z"
   },
   {
     "id": "64a1267c45317ecc",
+    "slug": "iranian-lawmakers-urge-president-pezeshkian-to-nominate-new-intelligence-minister",
     "title": "Iranian lawmakers urge President Pezeshkian to nominate new intelligence minister",
-    "summary": "The call for a new intelligence minister highlights Iran's political instability and potential shifts in power dynamics amid legislative debates.\nThe post Iranian lawmakers urge President Pezeshkian to nominate new intelligence minister appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/iranian-lawmakers-urge-president-pezeshkian-to-nominate-new-intelligence/",
-    "source": "CryptoBriefing",
     "tags": [
       "Iran",
       "Pezeshkian"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-08T06:34:21.000Z",
-    "fetchedAt": "2026-11-08T09:01:27.031Z",
-    "isDuplicateOf": null,
-    "content": "Iranian lawmakers have urged President Pezeshkian to nominate a new intelligence minister. This call underscores ongoing political instability and potential power shifts within Iran during current legislative debates, reflecting broader administrative challenges and evolving political dynamics in the region.",
-    "content_ta": "புதிய intelligence minister-ஐ நியமிக்குமாறு Iranian lawmakers, President Pezeshkian-ஐ வலியுறுத்தியுள்ளனர். இந்த கோரிக்கை Iran-ல் நிலவும் அரசியல் உறுதியற்ற தன்மையையும், தற்போதைய சட்டப்பேரவை விவாதங்களின் போது ஏற்படக்கூடிய அதிகார மாற்றங்களையும் எடுத்துக்காட்டுகிறது.",
-    "slug": "iranian-lawmakers-urge-president-pezeshkian-to-nominate-new-intelligence-minister"
+    "hasContent": true,
+    "pubDate": "2026-11-08T06:34:21.000Z"
   },
   {
     "id": "001f1cb07fd4c7c7",
+    "slug": "ripple-s-schwartz-speaks-out-about-his-influence-over-xrp-price",
     "title": "Ripple's Schwartz Speaks Out About His Influence Over XRP Price",
-    "summary": "Ripple's former CTO David Schwartz has pushed back against accusations that he is responsible for XRP's disappointing price performance, admitting that his influence on the cryptocurrency's price is minimal but not entirely nonexistent.",
-    "hasSummary": true,
-    "link": "https://u.today/ripples-schwartz-speaks-out-about-his-influence-over-xrp-price",
-    "source": "U.Today",
     "tags": [
       "Ripple",
       "David Schwartz",
       "XRP"
     ],
+    "source": "U.Today",
     "origin": "rss",
-    "pubDate": "2026-11-08T06:20:10.000Z",
-    "fetchedAt": "2026-11-08T09:01:27.030Z",
-    "isDuplicateOf": null,
-    "content": "Ripple's former Chief Technology Officer, David Schwartz, has responded to claims regarding his impact on the price of XRP. Schwartz addressed accusations that he is responsible for the cryptocurrency's underwhelming price performance, clarifying that while his influence is very minimal, it is not entirely non-existent.",
-    "content_ta": "Ripple நிறுவனத்தின் முன்னாள் CTO ஆன David Schwartz, XRP-யின் விலை நிலவரம் குறித்த குற்றச்சாட்டுகளுக்குப் பதிலளித்துள்ளார். கிரிப்டோகரன்சியின் விலை சரிவுக்குத் தான்தான் காரணம் என்ற குற்றச்சாட்டை மறுத்துள்ள அவர், சந்தையில் தனது தாக்கம் மிகக் குறைவாகவே உள்ளது என்றும், இருப்பினும் அது முற்றிலும் இல்லாமல் இல்லை என்றும் தெளிவுபடுத்தியுள்ளார்.",
-    "slug": "ripple-s-schwartz-speaks-out-about-his-influence-over-xrp-price"
+    "hasContent": true,
+    "pubDate": "2026-11-08T06:20:10.000Z"
   },
   {
     "id": "6d021960f947352c",
@@ -695,148 +856,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-07T16:55:05.000Z"
-  },
-  {
-    "id": "0dc8a4e6ab22bde3",
-    "slug": "syria-denies-troop-deployment-to-yemen-amid-saudi-military-cooperation",
-    "title": "Syria denies troop deployment to Yemen amid Saudi military cooperation",
-    "tags": [
-      "Syria",
-      "Yemen",
-      "Saudi Arabia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-07T16:47:12.000Z"
-  },
-  {
-    "id": "67384296283aa3c1",
-    "slug": "bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june",
-    "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
-    "tags": [
-      "Bitcoin",
-      "BlackRock",
-      "IBIT"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-07T16:46:02.000Z"
-  },
-  {
-    "id": "fbed2828a35aa807",
-    "slug": "venice-adds-openai-s-gpt-image-2-6-flare-and-sunburst-with-anonymous-editing",
-    "title": "Venice adds OpenAI’s GPT Image 2.6 Flare and Sunburst with anonymous editing",
-    "tags": [
-      "Venice",
-      "OpenAI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-07T16:35:39.000Z"
-  },
-  {
-    "id": "2d5f459ae55dd780",
-    "slug": "bitcoin-doesn-t-need-a-bank-yet-microstrategy-wants-to-become-one",
-    "title": "Bitcoin Doesn't Need a Bank, Yet MicroStrategy Wants to Become One",
-    "tags": [
-      "Bitcoin",
-      "MicroStrategy"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-07T16:30:40.000Z"
-  },
-  {
-    "id": "ef73146264f32945",
-    "slug": "grayscale-says-ethereum-leads-smart-contract-platforms-in-stablecoins-and-tokenized-assets",
-    "title": "Grayscale says Ethereum leads smart contract platforms in stablecoins and tokenized assets",
-    "tags": [
-      "Grayscale",
-      "Ethereum"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-07T16:25:23.000Z"
-  },
-  {
-    "id": "becdc07154c7cb5a",
-    "slug": "wall-street-can-stop-a-tokenized-share-but-can-it-stop-a-stock-perp",
-    "title": "Wall Street can stop a tokenized share, but can it stop a stock perp?",
-    "tags": [
-      "Costco",
-      "CryptoSlate"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-07T16:10:46.000Z"
-  },
-  {
-    "id": "ceee12b157cff0a6",
-    "slug": "xrp-taker-buy-sell-ratio-nears-balance-as-price-slips",
-    "title": "XRP Taker Buy/Sell Ratio Nears Balance as Price Slips",
-    "tags": [
-      "XRP",
-      "Binance"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-07T16:06:19.000Z"
-  },
-  {
-    "id": "ec94b83f71c0c179",
-    "slug": "hype-loses-80-support-as-team-distributions-institutional-selling-weigh-on-price-details",
-    "title": "HYPE loses $80 support as team distributions, institutional selling weigh on price — Details",
-    "tags": [
-      "HYPE"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-07T16:00:41.000Z"
-  },
-  {
-    "id": "d0c0663b48445bef",
-    "slug": "dogecoin-contributor-flags-social-signing-as-potential-wallet-security-risk",
-    "title": "Dogecoin Contributor Flags Social Signing as Potential Wallet Security Risk",
-    "tags": [
-      "Dogecoin"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-07T16:00:33.000Z"
-  },
-  {
-    "id": "3043ccdfd61752e3",
-    "slug": "5-year-treasury-yield-for-first-time-since-2007-impacting-reits",
-    "title": "5-year Treasury yield for first time since 2007, impacting REITs",
-    "tags": [
-      "Treasury",
-      "REITs"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-07T15:53:29.000Z"
-  },
-  {
-    "id": "6d9252e365239f36",
-    "slug": "we-are-still-early-one-brutal-wall-street-session-erased-more-than-the-entire-crypto-market",
-    "title": "We Are Still Early: One Brutal Wall Street Session Erased More Than the Entire Crypto Market",
-    "tags": [
-      "Wall Street",
-      "S&P 500"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-07T15:44:35.000Z"
   }
 ]
