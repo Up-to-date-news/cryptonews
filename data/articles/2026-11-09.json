@@ -327,5 +327,474 @@
     "content": "Philippine digital lender Skyro has expanded beyond its home market by launching its first lending product in Malaysia. The company is now offering cash loans of up to RM1,000 as it seeks to build a broader financial services business across Southeast Asia, marking its second major market entry.",
     "content_ta": "பிலிப்பைன்ஸின் டிஜிட்டல் கடன் வழங்கும் நிறுவனமான Skyro, தனது முதல் கடன் தயாரிப்பை Malaysia-வில் அறிமுகப்படுத்துவதன் மூலம் தனது சொந்த சந்தையைத் தாண்டி வளர்ந்துள்ளது. தென்கிழக்கு ஆசியாவில் தனது நிதிச் சேவைகளை விரிவுபடுத்தும் முயற்சியாக, இந்நிறுவனம் RM1,000 வரை ரொக்கக் கடன்களை வழங்கத் தொடங்கியுள்ளது.",
     "slug": "philppine-lender-skyro-launches-digital-cash-loans-in-malaysia"
+  },
+  {
+    "id": "dfe547cece72395d",
+    "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+    "summary": "The proposals aim to keep Ethereum’s planned gas changes from breaking existing contracts, using different approaches to what contracts see and what users pay.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+    "source": "CoinDesk",
+    "tags": [
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T05:16:54.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.715Z",
+    "isDuplicateOf": null,
+    "content": "Two rival Ethereum proposals have been introduced to address potential issues arising from the upcoming Glamsterdam upgrade. The planned gas changes risk breaking existing smart contracts. The new proposals offer different approaches regarding what contracts observe and what users are required to pay, aiming to ensure a seamless transition without disrupting legacy agreements.",
+    "content_ta": "வரவிருக்கும் Glamsterdam மேம்படுத்தலின் போது ஏற்படக்கூடிய சிக்கல்களைத் தவிர்க்க இரண்டு புதிய Ethereum முன்மொழிவுகள் அறிமுகப்படுத்தப்பட்டுள்ளன. திட்டமிடப்பட்ட எரிவாயு (gas) மாற்றங்கள் ஏற்கனவே உள்ள ஒப்பந்தங்களைச் சிதைக்கக்கூடும் என்பதால், ஒப்பந்தங்கள் எதைப் பார்க்கின்றன மற்றும் பயனர்கள் எதைச் செலுத்த வேண்டும் என்பதில் வெவ்வேறு அணுகுமுறைகளை இந்த முன்மொழிவுகள் வழங்குகின்றன.",
+    "slug": "two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts"
+  },
+  {
+    "id": "97096533e632942a",
+    "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+    "summary": "The exchange's once significant mining operation has nearly disappeared from Bitcoin's block-production rankings ahead of its November 10 closure.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+    "source": "CoinDesk",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-09T04:54:39.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears"
+  },
+  {
+    "id": "410087a3330cd0c6",
+    "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+    "summary": "Volatile price action has once again liquidated leveraged bullish plays worth millions.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+    "source": "CoinDesk",
+    "tags": [
+      "Bitcoin",
+      "Nvidia",
+      "Iran"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T03:21:49.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin experienced significant price volatility, dropping and then rebounding. The turbulent market movement was triggered by a combination of geopolitical tensions surrounding failed Iran talks and an unfolding cheating scandal involving Nvidia. This unexpected market action resulted in the liquidation of millions of dollars worth of leveraged bullish positions.",
+    "content_ta": "Bitcoin விலையில் திடீர் சரிவு மற்றும் மீள் எழுச்சியுடன் கூடிய பெரும் ஏற்றத்தாழ்வு ஏற்பட்டது. Iran பேச்சுவார்த்தைகள் தோல்வியடைந்ததால் ஏற்பட்ட புவிசார் அரசியல் அழுத்தங்கள் மற்றும் Nvidia தொடர்பான முறைகேடு சர்ச்சை ஆகியவை சந்தையில் இந்த நிலைக்கு காரணமாகின. இந்த திடீர் விலை மாற்றத்தால் பல மில்லியன் மதிப்பிலான லாப நோக்கிலான வர்த்தகங்கள் பாதிக்கப்பட்டன.",
+    "slug": "bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility"
+  },
+  {
+    "id": "1675d85bf3789042",
+    "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+    "summary": "Threshold halted its tBTC bridge on Oct. 30 as operators addressed a critical Linux kernel vulnerability that could allow attackers to execute code on unpatched servers.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Threshold",
+      "tBTC",
+      "Aave",
+      "Linux"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T04:03:08.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": "Threshold has partially resumed its tBTC bridge following a suspension on October 30. The temporary halt was implemented to allow operators to address a critical Linux kernel vulnerability that posed potential risks of remote code execution on unpatched servers. Meanwhile, a $120M reserve associated with Aave remains frozen as the network continues to work through the security measures.",
+    "content_ta": "Threshold தனது tBTC பிரிட்ஜ் சேவையை அக்டோபர் 30-ம் தேதிக்குப் பிறகு பகுதியாக மீண்டும் தொடங்கியுள்ளது. பேட்ச் செய்யப்படாத சர்வர்களில் தாக்குதல் நடத்துநர்கள் குறியீட்டை இயக்க வழிவகுக்கும் ஒரு முக்கியமான Linux கர்னல் பாதிப்பை ஆபரேட்டர்கள் சரிசெய்வதற்காக இந்த தற்காலிக நிறுத்தம் செயல்படுத்தப்பட்டது. இதற்கிடையில், Aave தொடர்பான $120M ரிசர்வ் இன்னும் உறைந்த நிலையிலேயே உள்ளது.",
+    "slug": "tbtc-bridge-partially-resumes-as-120m-aave-reserve-remains-frozen"
+  },
+  {
+    "id": "d6d964376e6952d3",
+    "title": "Nvidia perps slide as market reacts to CEO Jensen Huang’s Chinese spy scandal",
+    "summary": "Nvidia said its board of directors is investigating Huang's relationship with a woman identified by intelligence officials as a Chinese spy.",
+    "hasSummary": true,
+    "link": "https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047",
+    "source": "The Block",
+    "tags": [
+      "Nvidia",
+      "Jensen Huang",
+      "China"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T03:36:16.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": "Nvidia shares experienced a decline following market reactions to an investigation involving CEO Jensen Huang. The company stated that its board of directors is currently looking into Huang's relationship with a woman who has been identified by intelligence officials as a Chinese spy.",
+    "content_ta": "CEO Jensen Huang-டன் தொடர்புடைய ஒரு பெண் சீன உளவுத்துறை அதிகாரிகளால் உளவுப் பார்ப்பவராக அடையாளம் காணப்பட்டதை அடுத்து Nvidia நிறுவனத்தின் பங்குகள் சரிவை சந்தித்தன. இது குறித்து Huang-ன் உறவு குறித்து Nvidia-வின் இயக்குநர்கள் குழு தற்போது விசாரணை நடத்தி வருவதாக நிறுவனம் தெரிவித்துள்ளது.",
+    "slug": "nvidia-perps-slide-as-market-reacts-to-ceo-jensen-huang-s-chinese-spy-scandal"
+  },
+  {
+    "id": "1fa54d5525e93850",
+    "title": "BVNK Opens OUSD Minting and Payments Across Four Blockchains",
+    "summary": "BVNK says eligible business customers can now mint, redeem, hold and transfer Open USD (OUSD) on Ethereum, Solana, Base and Tempo. The November 6 rollout…",
+    "hasSummary": true,
+    "link": "https://www.newsbtc.com/technology/bvnk-opens-ousd-minting-and-payments-across-four-blockchains/",
+    "source": "NewsBTC",
+    "tags": [
+      "BVNK",
+      "Open USD",
+      "OUSD",
+      "Ethereum",
+      "Solana",
+      "Base",
+      "Tempo"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T05:00:00.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": "BVNK has launched Open USD (OUSD) minting and payment services for eligible business customers. The platform now supports minting, redeeming, holding, and transferring OUSD across four major blockchains: Ethereum, Solana, Base, and Tempo. This rollout expands the utility of stablecoin-based transactions for enterprise clients looking for multi-chain payment solutions.",
+    "content_ta": "தகுதிவாய்ந்த வணிக வாடிக்கையாளர்களுக்காக Open USD (OUSD) மிண்டிங் மற்றும் பேமெண்ட் சேவைகளை BVNK நிறுவனம் அறிமுகப்படுத்தியுள்ளது. Ethereum, Solana, Base மற்றும் Tempo ஆகிய நான்கு முக்கிய பிளாக்செயின்களில் OUSD-ஐ மிண்ட் செய்யவும், ரீடீம் செய்யவும், வைத்திருக்கவும், மாற்றவும் புதிய பிளாட்ஃபார்ம் இப்போது ஆதரவளிக்கிறது.",
+    "slug": "bvnk-opens-ousd-minting-and-payments-across-four-blockchains"
+  },
+  {
+    "id": "47c3620943262e05",
+    "title": "Vitalik Buterin Wants AI to Slow Down, Backs Anti-Data Center Movement",
+    "summary": "Vitalik Buterin defends the anti-data center movement, saying slower AI compute growth buys time to harden the world against cyber risks.\nThe post Vitalik Buterin Wants AI to Slow Down, Backs Anti-Data Center Movement appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/vitalik-buterin-anti-data-center-movement/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Vitalik Buterin",
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T05:00:00.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": "Ethereum co-founder Vitalik Buterin has expressed support for the anti-data center movement, arguing that slower growth in AI computing power can help buy valuable time. According to Buterin, this cautious approach would allow society to better prepare and harden its infrastructure against emerging cybersecurity risks before artificial intelligence advances further.",
+    "content_ta": "Ethereum-ன் இணை-நிறுவுனர் Vitalik Buterin, anti-data center இயக்கத்திற்கு தனது ஆதரவைத் தெரிவித்துள்ளார். AI கம்ப்யூட்டிங் வளர்ச்சியைக் குறைப்பது மதிப்புமிக்க நேரத்தைப் பெற உதவும் என்றும், எதிர்கால சைபர் பாதுகாப்பு ஆபத்துகளிலிருந்து உலகைப் பாதுகாக்க இந்த எச்சரிக்கையான அணுகுமுறை உதவும் என்றும் அவர் வாதிட்டுள்ளார்.",
+    "slug": "vitalik-buterin-wants-ai-to-slow-down-backs-anti-data-center-movement"
+  },
+  {
+    "id": "b4d261187d7fffd7",
+    "title": "UBS CEO Warns of an AI Buildout Slowdown as Data Center Construction Hits a Record",
+    "summary": "Spending on US data center construction has never been higher, but the boom may face a test in Washington. UBS CEO Sergio Ermotti said that the Democratic midterm sweep may slow the AI buildout. That spending reached a $96.5 billion annual pace, up 90% from a year earlier. Those figures measure work done on projects\nThe post UBS CEO Warns of an AI Buildout Slowdown as Data Center Construction Hits a Record appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/us-data-center-construction-record-ubs-warning/",
+    "source": "BeInCrypto",
+    "tags": [
+      "UBS",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T04:21:40.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": "UBS CEO Sergio Ermotti warned that the current record-breaking boom in US data center construction and AI buildout spending could face a slowdown following political shifts in Washington. While annual spending on US data center construction reached $96.5 billion, marking a 90% increase from the previous year, industry leaders caution that future growth may encounter new hurdles under upcoming policy environments.",
+    "content_ta": "UBS CEO Sergio Ermotti, US-ல் நடந்துவரும் டேட்டா சென்டர் கட்டுமானங்கள் மற்றும் AI கட்டமைப்பு செலவினங்களில் மிகப்பெரிய சாதனை வளர்ச்சி சற்று வேகம் குறைய வாய்ப்புள்ளதாக எச்சரித்துள்ளார். US-ல் டேட்டா சென்டர் கட்டுமானங்களுக்கான ஆண்டு செலவினம் 96.5 பில்லியன் டாலரை எட்டி கடந்த ஆண்டை விட 90% அதிகரித்துள்ள போதிலும், எதிர்கால வளர்ச்சி புதிய அரசியல் மாற்றங்களால் சில சவால்களை சந்திக்கலாம் என நிபுணர்கள் கருதுகின்றனர்.",
+    "slug": "ubs-ceo-warns-of-an-ai-buildout-slowdown-as-data-center-construction-hits-a-record"
+  },
+  {
+    "id": "5b023681c4d092be",
+    "title": "Senate Probe Puts Binance, Tether and Trump-Linked Crypto Firms on Notice",
+    "summary": "A Senate probe gives Binance, Tether and Trump-linked firms until January 4 to hand over records or face other measures.\nThe post Senate Probe Puts Binance, Tether and Trump-Linked Crypto Firms on Notice appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/senate-probe-binance-tether-trump-firms/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Binance",
+      "Tether",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T04:02:00.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": "A United States Senate probe has placed Binance, Tether, and several Trump-linked cryptocurrency firms on notice. The companies have been ordered to hand over relevant records by January 4. Failure to comply with the directive could result in further measures being taken against the firms.",
+    "content_ta": "United States Senate நடத்தும் விசாரணையில் Binance, Tether மற்றும் சில Trump-linked கிரிப்டோ நிறுவனங்கள் எச்சரிக்கப்பட்டுள்ளன. இந்த நிறுவனங்கள் ஜனவரி 4-க்குள் தொடர்புடைய ஆவணங்களை சமர்ப்பிக்க உத்தரவிடப்பட்டுள்ளது. இந்த உத்தரவை மீறினால் நிறுவனங்கள் மீது மேலும் நடவடிக்கைகள் எடுக்கப்படலாம்.",
+    "slug": "senate-probe-puts-binance-tether-and-trump-linked-crypto-firms-on-notice"
+  },
+  {
+    "id": "5933a20b94813254",
+    "title": "Vitalik Buterin Says ETH Fee Burn Will Not Drive Ethereum's Value",
+    "summary": "Vitalik Buterin says the ETH fee burn never was as strong as it seemed and argues ETH should focus on being a store of value instead.\nThe post Vitalik Buterin Says ETH Fee Burn Will Not Drive Ethereum's Value appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/vitalik-buterin-eth-fee-burn-store-of-value/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Ethereum",
+      "Vitalik Buterin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T03:55:58.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": "Ethereum co-founder Vitalik Buterin recently stated that the ETH fee burn mechanism will not single-handedly drive the value of Ethereum. He explained that the fee burn was never as strong as many believed. Instead, Buterin argued that Ethereum should focus on establishing itself as a reliable store of value rather than relying heavily on transaction fee burning mechanics to boost its long-term market price.",
+    "content_ta": "Ethereum-ன் இணை நிறுவனர் Vitalik Buterin, ETH கட்டண எரிப்பு (fee burn) முறை மட்டுமே Ethereum-ன் மதிப்பை உயர்த்தாது என்று சமீபத்தில் தெரிவித்துள்ளார். பலரும் நம்பியதைப் போல இந்த கட்டண எரிப்பு அவ்வளவு வலுவானதாக இருந்ததில்லை என்று அவர் விளக்கினார். அதற்கு பதிலாக, நீண்ட கால சந்தை மதிப்பை உயர்த்த பரிவர்த்தனை கட்டண எரிப்பை நம்பியிருப்பதை விட, Ethereum தன்னை ஒரு நம்பகமான மதிப்பு சேமிப்பாக (store of value) நிலைநிறுத்திக் கொள்வதில் கவனம் செலுத்த வேண்டும் என்று Buterin வாதிட்டார்.",
+    "slug": "vitalik-buterin-says-eth-fee-burn-will-not-drive-ethereum-s-value"
+  },
+  {
+    "id": "3df74c64567d0870",
+    "title": "Bitcoin’s 7-Week Bottom Signal Just Broke. Here Is What Happened the Last 2 Cycles",
+    "summary": "Bitcoin (BTC) closed the week ending November 8 at $74,968, 0.7% below its 50-week moving average. That ended a 7-week run above a line whose reclaim Galaxy’s Alex Thorn had tied to past bear market bottoms. For Bitcoin holders, attention now shifts to the June 28 weekly close of $59,517, the cycle’s lowest. Twice before,\nThe post Bitcoin’s 7-Week Bottom Signal Just Broke. Here Is What Happened the Last 2 Cycles appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/bitcoin-50-week-moving-average-break/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T03:39:24.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin recently closed a week below its 50-week moving average, ending a seven-week streak above a key technical level. This line had previously been linked by analysts to past bear market bottoms. As the seven-week signal breaks, market participants are closely monitoring upcoming weekly price closes to understand the potential direction of the current cycle.",
+    "content_ta": "Bitcoin சமீபத்தில் தனது 50-வார நகரும் சராசரிக்கு கீழே வாரத்தை நிறைவு செய்தது, இது ஒரு முக்கிய தொழில்நுட்ப மட்டத்திற்கு மேல் தொடர்ந்த ஏழு வார தொடர் உயர்வை முடிவுக்கு கொண்டுவந்தது. இந்த கோடு முன்பு கரடி சந்தையின் அடிப்பகுதிகளுடன் ஆய்வாளர்களால் இணைக்கப்பட்டிருந்தது. ஏழு வார சமிக்ஞை உடைந்துள்ளதால், தற்போதைய சுழற்சியின் சாத்தியமான திசையைப் புரிந்து கொள்ள சந்தைப் பங்கேற்பாளர்கள் வரவிருக்கும் வாராந்திர விலை முடிவுகளைக் கவனித்து வருகின்றனர்.",
+    "slug": "bitcoin-s-7-week-bottom-signal-just-broke-here-is-what-happened-the-last-2-cycles"
+  },
+  {
+    "id": "6f3a752605473811",
+    "title": "China's 5.7% Factory Inflation Could Complicate the Fed Path Before US CPI",
+    "summary": "China factory inflation hit 5.7% in October on oil costs. Traders now watch US CPI and the Fed's December hike odds.\nThe post China's 5.7% Factory Inflation Could Complicate the Fed Path Before US CPI appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/china-factory-inflation-fed-path-cpi/",
+    "source": "BeInCrypto",
+    "tags": [
+      "China",
+      "United States",
+      "Federal Reserve"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T03:26:00.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": "China's factory inflation reached 5.7 percent in October, driven largely by rising oil costs. This economic development could potentially complicate the path forward for the Federal Reserve. Financial markets and traders are now closely watching the upcoming US CPI release and assessing the odds of a December rate hike by the Fed.",
+    "content_ta": "அக்டோபர் மாதத்தில் சீனாவின் பேக்டரி பணவீக்கம் 5.7 சதவீதமாக உயர்ந்துள்ளது. எண்ணெய் விலையேற்றம் இதற்குக் முக்கியக் காரணமாகும். இந்த பொருளாதார வளர்ச்சியானது Federal Reserve-ன் எதிர்கால நடவடிக்கைகளைச் சிக்கலாக்கக்கூடும். வர்த்தகர்கள் தற்போது வரவிருக்கும் US CPI வெளியீட்டையும், Federal Reserve-ன் டிசம்பர் மாத வட்டி உயர்வு வாய்ப்புகளையும் உன்னிப்பாகக் கவனித்து வருகின்றனர்.",
+    "slug": "china-s-5-7-factory-inflation-could-complicate-the-fed-path-before-us-cpi"
+  },
+  {
+    "id": "95802a05b9a0b2df",
+    "title": "Linus Torvalds sees signs the AI-driven patch flood may have peaked",
+    "summary": "The AI-driven patch surge's decline may enhance maintainers' efficiency, balancing innovation with manageable workloads in software development.\nThe post Linus Torvalds sees signs the AI-driven patch flood may have peaked appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/linus-torvalds-ai-patch-flood-peaked/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Linus Torvalds",
+      "Linux"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T05:35:40.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": "Linux creator Linus Torvalds has noted signs that the recent surge of AI-driven patches in software development may have peaked. This potential decline in automated code submissions could help ease the workload for software maintainers, allowing them to manage contributions more efficiently while balancing technological innovation with sustainable review processes.",
+    "content_ta": "Linux-ன் உருவாக்குநரான Linus Torvalds, மென்பொருள் வளர்ச்சியில் AI-சார்ந்த பேட்ச்களின் அலை உச்சக்கட்டத்தை அடைந்துவிட்டதற்கான அறிகுறிகள் தென்படுவதாகத் தெரிவித்துள்ளார். தானியங்கி குறியீடு சமர்ப்பிப்புகளில் ஏற்படும் இந்த சாத்தியமான குறைவு, மென்பொருள் பராமரிப்பாளர்களுக்கான பணிச்சுமையைக் குறைக்க உதவக்கூடும்.",
+    "slug": "linus-torvalds-sees-signs-the-ai-driven-patch-flood-may-have-peaked"
+  },
+  {
+    "id": "d1e175d5e0f0260c",
+    "title": "Whale opens 10x short on 30,000 NVDA perps on Hyperliquid",
+    "summary": "The rise of decentralized derivatives platforms like Hyperliquid could challenge traditional brokerages by offering 24/7 leveraged trading.\nThe post Whale opens 10x short on 30,000 NVDA perps on Hyperliquid appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/whale-10x-short-nvda-hyperliquid/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Hyperliquid",
+      "NVIDIA"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T05:35:23.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": "A prominent crypto whale has opened a large 10x leveraged short position on 30,000 NVDA perpetual contracts using the decentralized derivatives platform Hyperliquid. This significant trade highlights the growing popularity of decentralized trading platforms that offer round-the-clock leveraged trading services, potentially challenging traditional brokerages in the evolving financial market.",
+    "content_ta": "ஒரு பெரிய crypto whale, Hyperliquid decentralized derivatives platform-ai பயன்படுத்தி 30,000 NVDA perpetual contracts மீது 10x leveraged short position-ஐத் தொடங்கியுள்ளார். 24 மணி நேரமும் செயல்படும் leveraged trading சேவைகளை வழங்கும் decentralized platforms-ன் வளர்ந்து வரும் பிரபலத்தை இந்த வர்த்தகம் எடுத்துக்காட்டுகிறது.",
+    "slug": "whale-opens-10x-short-on-30-000-nvda-perps-on-hyperliquid"
+  },
+  {
+    "id": "503172cb9c1c09e6",
+    "title": "Nvidia, Rebellions and SK Telecom team up on sovereign AI infrastructure",
+    "summary": "The collaboration could enhance South Korea's technological independence, leveraging local strengths in semiconductors and telecommunications.\nThe post Nvidia, Rebellions and SK Telecom team up on sovereign AI infrastructure appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/nvidia-rebellions-sk-telecom-sovereign-ai/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Nvidia",
+      "Rebellions",
+      "SK Telecom",
+      "South Korea"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T05:05:55.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": "Nvidia, Rebellions, and SK Telecom have partnered to develop sovereign AI infrastructure. This collaboration aims to boost South Korea's technological independence by combining local expertise in semiconductors and telecommunications with advanced artificial intelligence capabilities to strengthen the nation's digital ecosystem.",
+    "content_ta": "சவூரின் AI உள்கட்டமைப்பை உருவாக்க Nvidia, Rebellions மற்றும் SK Telecom ஆகியவை இணைந்துள்ளன. செமிக்கண்டக்டர்கள் மற்றும் தொலைத்தொடர்பு துறைகளில் உள்ள உள்ளூர் பலத்தைப் பயன்படுத்தி, நாட்டின் தொழில்நுட்ப சுதந்திரத்தை மேம்படுத்துவதை இந்தக் கூட்டு முயற்சி நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "nvidia-rebellions-and-sk-telecom-team-up-on-sovereign-ai-infrastructure"
+  },
+  {
+    "id": "3d754b215a389a08",
+    "title": "Arm-based servers lead 4Q26 growth as Nvidia faces supply constraints",
+    "summary": "Arm's rise amid Nvidia's supply woes may reshape AI server market dynamics, influencing investment strategies and stock valuations.\nThe post Arm-based servers lead 4Q26 growth as Nvidia faces supply constraints appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/arm-based-servers-lead-4q26-growth-as-nvidia-faces-supply-constraints/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Arm",
+      "Nvidia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T04:05:27.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": "Arm-based servers are driving significant growth in the fourth quarter of 2026 as competitor Nvidia struggles with ongoing supply constraints. This shift in the market dynamics of AI servers could potentially impact investment strategies and future stock valuations across the technology sector.",
+    "content_ta": "Nvidia-க்கு ஏற்பட்டுள்ள சப்ளை தட்டுப்பாடு காரணமாக, 2026-ன் நான்காம் காலாண்டில் Arm அடிப்படையிலான சர்வர்கள் குறிப்பிடத்தக்க வளர்ச்சியைப் பெற்றுள்ளன. AI சர்வர் சந்தையில் ஏற்பட்டுள்ள இந்த மாற்றம் முதலீட்டு உத்திகளையும் பங்கு மதிப்புகளையும் பாதிக்கக்கூடும்.",
+    "slug": "arm-based-servers-lead-4q26-growth-as-nvidia-faces-supply-constraints"
+  },
+  {
+    "id": "bfbbc5e78b865f71",
+    "title": "Chipmaker credit protection now costs more than hyperscaler protection",
+    "summary": "The shift in credit protection costs signals increased perceived risk in the AI supply chain, potentially impacting investment strategies.\nThe post Chipmaker credit protection now costs more than hyperscaler protection appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/chip-cds-wider-than-hyperscaler-cds/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "AI"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T03:51:34.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": "The cost of credit protection for chipmakers has risen above that of hyperscalers. This shift highlights growing risk perceptions within the artificial intelligence supply chain, which could potentially influence future investment strategies across the sector as market participants reassess financial exposure.",
+    "content_ta": "சிப் தயாரிப்பாளர்களுக்கான கிரெடிட் பாதுகாப்புச் செலவு ஹைபர்ஸ்கேலர்களைக் காட்டிலும் அதிகரித்துள்ளது. இந்த மாற்றம் AI சங்கிலியில் அதிகரித்து வரும் ஆபத்து உணர்வைச் சுட்டிக்காட்டுகிறது, இது எதிர்கால முதலீட்டு உத்திகளைப் பாதிக்கலாம்.",
+    "slug": "chipmaker-credit-protection-now-costs-more-than-hyperscaler-protection"
+  },
+  {
+    "id": "6a21e63bf12bf903",
+    "title": "Evan Luthra details Oxford kidnapping, losing over $2M in crypto",
+    "summary": "The incident highlights the vulnerability of crypto investors to physical threats and underscores the need for enhanced security measures and legal frameworks.\nThe post Evan Luthra details Oxford kidnapping, losing over $2M in crypto appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/evan-luthra-oxford-kidnapping-crypto-theft/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Evan Luthra",
+      "Oxford"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T03:39:39.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": "Evan Luthra recently shared details of a terrifying kidnapping incident in Oxford, where he was targeted and lost over $2 million in cryptocurrency. The ordeal underscores the growing physical threats faced by high-profile digital asset investors. Industry experts emphasize the urgent need for enhanced personal security measures and stronger legal frameworks to protect wealth holders from targeted physical crimes.",
+    "content_ta": "Oxford-ல் நடந்த பயங்கரமான கடத்தல் சம்பவம் குறித்து Evan Luthra விவரங்களைப் பகிர்ந்துள்ளார். இந்தச் சம்பவத்தில் அவர் இலக்கு வைக்கப்பட்டு, $2 மில்லியனுக்கும் அதிகமான மதிப்பிலான cryptocurrency-ஐ இழந்துள்ளார். இத்தகைய ஆபத்துகள் டிஜிட்டல் சொத்து முதலீட்டாளர்கள் எதிர்கொள்ளும் உடல் ரீதியான அச்சுறுத்தல்களை வெளிச்சம் போட்டுக் காட்டுகின்றன.",
+    "slug": "evan-luthra-details-oxford-kidnapping-losing-over-2m-in-crypto"
+  },
+  {
+    "id": "bc7ca76c1f301f6c",
+    "title": "Who Is Alice Huang And Why Is US Intelligence Watching Her?",
+    "summary": "The post Who Is Alice Huang And Why Is US Intelligence Watching Her? appeared first on Coinpedia Fintech News\nAlice Huang, also known as Huang Le, is a Chinese citizen and former senior executive at Singapore-based data centre firm Megaspeed, which bought more than $4.8 billion worth of Nvidia chips over two years, according to the New York Times. She is not related to Nvidia CEO Jensen Huang. A Chinese private fund database lists …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/crypto-live-news/who-is-alice-huang-and-why-is-us-intelligence-watching-her/",
+    "source": "Coinpedia",
+    "tags": [
+      "Alice Huang",
+      "Megaspeed",
+      "Nvidia",
+      "China",
+      "Singapore",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T04:35:42.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": "Alice Huang, also known as Huang Le, is a Chinese citizen and former senior executive at Megaspeed, a Singapore-based data centre firm. Reports indicate the firm purchased billions of dollars worth of Nvidia chips over a two-year period. US intelligence has reportedly focused attention on Huang amid these massive technology acquisitions, raising questions about her background and activities.",
+    "content_ta": "அலிஸ் ஹுவாங்க் (Huang Le என்றும் அழைக்கப்படுகிறார்) ஒரு சீன குடிமகன் மற்றும் சிங்கப்பூரை தளமாகக் கொண்ட Megaspeed டேட்டா சென்டர் நிறுவனத்தின் முன்னாள் மூத்த நிர்வாகி ஆவார். இந்த நிறுவனம் இரண்டு ஆண்டுகளில் பில்லியன் கணக்கான மதிப்பிலான Nvidia சிப்களை வாங்கியுள்ளதாக அறிக்கைகள் தெரிவிக்கின்றன. இந்த பெரிய தொழில்நுட்பக் கொள்முதல்களுக்கு மத்தியில் அமெரிக்க உளவுத்துறை ஹுவாங்கின் மீது கவனம் செலுத்தியுள்ளது.",
+    "slug": "who-is-alice-huang-and-why-is-us-intelligence-watching-her"
+  },
+  {
+    "id": "5a143446bc9811b6",
+    "title": "XRP News: XRP Ledger Powers $800M Argentina Energy Tokenization Push",
+    "summary": "The post XRP News: XRP Ledger Powers $800M Argentina Energy Tokenization Push appeared first on Coinpedia Fintech News\nArgentina’s YPF Luz is running electricity contracts on the XRP Ledger through Enertoken, a platform built by Buenos Aires firm Justoken that launched with more than $800 million in tokenized energy assets. Each JMWH token on the platform equals one megawatt-hour of electricity backed by energy contracts. Corporate buyers get consumption tracking, billing and cost …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/crypto-live-news/xrp-news-xrp-ledger-powers-800m-argentina-energy-tokenization-push/",
+    "source": "Coinpedia",
+    "tags": [
+      "XRP",
+      "Argentina",
+      "YPF Luz",
+      "Justoken"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T03:27:54.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": "Argentina's energy company YPF Luz has launched electricity contracts on the XRP Ledger through the Enertoken platform. Developed by Buenos Aires firm Justoken, the platform debuted with over $800 million in tokenized energy assets. Each JMWH token represents one megawatt-hour of electricity, offering corporate buyers advanced consumption tracking, billing, and cost management features.",
+    "content_ta": "அர்ஜென்டினாவைச் சேர்ந்த YPF Luz நிறுவனம், Justoken உருவாக்கிய Enertoken தளம் மூலம் XRP Ledger-ல் மின்சார ஒப்பந்தங்களை தொடங்கியுள்ளது. $800 மில்லியனுக்கும் அதிகமான டோக்கன் செய்யப்பட்ட எரிசக்தி சொத்துகளுடன் இந்த தளம் தொடங்கப்பட்டது. ஒவ்வொரு JMWH டோக்கனும் ஒரு மெகாவாட்-மணிநேர மின்சாரத்தைக் குறிக்கிறது, இது கார்ப்பரேட் வாங்குபவர்களுக்கு நுகர்வு கண்காணிப்பு மற்றும் பில்லிங் வசதிகளை வழங்குகிறது.",
+    "slug": "xrp-news-xrp-ledger-powers-800m-argentina-energy-tokenization-push"
+  },
+  {
+    "id": "6f5febc25eb7d841",
+    "title": "Singapore Financial Firms Urged to Maintain Scrutiny of North Korea, Iran and Myanmar Risks",
+    "summary": "Singapore’s financial institutions have been told to maintain heightened scrutiny of transactions and business relationships linked to North Korea, Iran and Myanmar. This comes as the Financial Action Task Force (FATF) warned of continuing risks from illicit financing, weapons proliferation and cyber scams. The Monetary... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/11/322501-singapore-financial-firms-urged-to-maintain-scrutiny-of-north-korea-iran-and-myanmar-risks/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Singapore",
+      "North Korea",
+      "Iran",
+      "Myanmar",
+      "Financial Action Task Force"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T04:26:26.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": "Singaporean financial institutions have been urged by authorities to maintain strict scrutiny over transactions and business relationships involving North Korea, Iran, and Myanmar. This directive follows a warning issued by the Financial Action Task Force regarding ongoing risks related to illicit financing, weapons proliferation, and cyber scams, prompting Singapore to ensure robust compliance and risk management across its financial sector.",
+    "content_ta": "North Korea, Iran மற்றும் Myanmar ஆகிய நாடுகளுடன் தொடர்புடைய பண பரிவர்த்தனைகள் மற்றும் வணிகத் தொடர்புகள் மீது கடுமையான கண்காணிப்பைத் தொடருமாறு சிங்கப்பூர் நிதி நிறுவனங்களுக்கு அறிவுறுத்தப்பட்டுள்ளது. சட்டவிரோத நிதிப் பரிமாற்றம், ஆயுதப் பெருக்கம் மற்றும் இணைய மோசடிகள் தொடர்பான தொடர்ச்சியான ஆபத்துகள் குறித்து Financial Action Task Force விடுத்த எச்சரிக்கையைத் தொடர்ந்து இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.",
+    "slug": "singapore-financial-firms-urged-to-maintain-scrutiny-of-north-korea-iran-and-myanmar-risks"
+  },
+  {
+    "id": "b6ea4ef99081b8ba",
+    "title": "UK’s Financial Conduct Authority (FCA) Launches Quantum Experimentation Group to Target Fraud and Money Laundering",
+    "summary": "The UK’s Financial Conduct Authority (FCA) has moved to test quantum computing as a practical tool for detecting financial crime, establishing the Quantum Experimentation Group as the first regulator-led effort of its kind. Announced in early November 2026, the initiative will convene banks, quantum technology... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/11/322445-uks-financial-conduct-authority-fca-launches-quantum-experimentation-group-to-target-fraud-and-money-laundering/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Financial Conduct Authority",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T04:00:03.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": "The UK’s Financial Conduct Authority (FCA) has launched the Quantum Experimentation Group to test quantum computing in detecting fraud and money laundering. As the first regulator-led initiative of its kind, the program brings together major banks and quantum technology experts to explore practical solutions for strengthening financial crime defenses.",
+    "content_ta": "UK-ன் Financial Conduct Authority (FCA) மோசடி மற்றும் பணமோசடியைக் கண்டறிய குவாண்டம் கம்ப்யூட்டிங்கை சோதிக்க Quantum Experimentation Group-ஐத் தொடங்கியுள்ளது. ஒழுங்குமுறை ஆணையத்தால் நடத்தப்படும் இதுபோன்ற முதல் முயற்சியாக, இந்தத் திட்டம் வங்கிகள் மற்றும் குவாண்டம் தொழில்நுட்ப நிபுணர்களை ஒன்றிணைத்து நிதிக் குற்றத் தடுப்பு முறைகளை வலுப்படுத்தவுள்ளது.",
+    "slug": "uk-s-financial-conduct-authority-fca-launches-quantum-experimentation-group-to-target-fraud-and"
+  },
+  {
+    "id": "a52a429180176beb",
+    "title": "SpaceX ($SPCX) Q4 Surge Expected by Elon Musk as Tesla ($TSLA) Eyes Robotics Growth",
+    "summary": "Elon Musk recently outlined an aggressive near-term revenue outlook for SpaceX (NASDAQ: SPCX) during a discussion at the Baron Investment Conference in New York. The company’s chief executive indicated that fourth-quarter sales should rise by roughly 70 percent from the third quarter’s already elevated base... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/11/322417-spacex-spcx-q4-surge-expected-by-elon-musk-as-tesla-tsla-eyes-robotics-growth/",
+    "source": "Crowdfund Insider",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-09T03:22:06.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "spacex-spcx-q4-surge-expected-by-elon-musk-as-tesla-tsla-eyes-robotics-growth"
+  },
+  {
+    "id": "9ed03a1947cb6be9",
+    "title": "Stablecoin Regulatory Frameworks, Travel Rule, Bitcoin ETFs, and Ethereum (ETH) Tokenization Analyzed in Crypto Regulation Report",
+    "summary": "PwC and PwC Legal’s fifth Global Crypto Regulation Report 2027, released in late October 2026, describes a turning point. Across more than thirty jurisdictions, licensing regimes and Travel Rule obligations are largely in force as of October 2026, while stablecoin frameworks remain more varied. Attention... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/11/322418-stablecoin-regulatory-frameworks-travel-rule-bitcoin-etfs-and-ethereum-eth-tokenization-analyzed-in-crypto-regulation-report/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "PwC",
+      "PwC Legal",
+      "Bitcoin",
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T03:19:38.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": "PwC and PwC Legal released their fifth Global Crypto Regulation Report, highlighting significant developments across more than thirty jurisdictions. By late 2026, licensing regimes and Travel Rule obligations are largely in force, whereas stablecoin regulatory frameworks continue to vary widely. The report also analyzes the ongoing growth of Bitcoin ETFs and Ethereum tokenization within the evolving global compliance landscape.",
+    "content_ta": "PwC மற்றும் PwC Legal நிறுவனங்களின் ஐந்தாவது Global Crypto Regulation Report வெளியிட்டுள்ளது. முப்பதுக்கும் மேற்பட்ட அதிகார வரம்புகளில் உரிம முறைமைகள் மற்றும் Travel Rule கடமைகள் நடைமுறைப்படுத்தப்பட்டுள்ளதாக இந்த அறிக்கை விளக்குகிறது. இதற்கிடையில், stablecoin ஒழுங்குமுறை கட்டமைப்புகள் தொடர்ந்து மாறுபடுகின்றன. மேலும், Bitcoin ETFs மற்றும் Ethereum டோக்கனாலைசேஷன் வளர்ச்சியையும் இந்த அறிக்கை ஆராய்கிறது.",
+    "slug": "stablecoin-regulatory-frameworks-travel-rule-bitcoin-etfs-and-ethereum-eth-tokenization-analyzed-in"
   }
 ]

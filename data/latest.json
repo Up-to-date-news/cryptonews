@@ -1,82 +1,396 @@
 [
   {
-    "id": "942cd3769b83aaa3",
-    "title": "Philppine Lender Skyro Launches Digital Cash Loans in Malaysia",
-    "summary": "Philippine digital lender Skyro has launched its first lending product in Malaysia, offering cash loans of up to RM1,000 ($250) as it expands beyond its home market and looks to build a wider financial services business in Southeast Asia. The launch marks Skyro’s second market... Read More",
-    "hasSummary": true,
-    "link": "https://www.crowdfundinsider.com/2026/11/322505-philppine-lender-skyro-launches-digital-cash-loans-in-malaysia/",
+    "id": "95802a05b9a0b2df",
+    "slug": "linus-torvalds-sees-signs-the-ai-driven-patch-flood-may-have-peaked",
+    "title": "Linus Torvalds sees signs the AI-driven patch flood may have peaked",
+    "tags": [
+      "Linus Torvalds",
+      "Linux"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-09T05:35:40.000Z"
+  },
+  {
+    "id": "d1e175d5e0f0260c",
+    "slug": "whale-opens-10x-short-on-30-000-nvda-perps-on-hyperliquid",
+    "title": "Whale opens 10x short on 30,000 NVDA perps on Hyperliquid",
+    "tags": [
+      "Hyperliquid",
+      "NVIDIA"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-09T05:35:23.000Z"
+  },
+  {
+    "id": "dfe547cece72395d",
+    "slug": "two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+    "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+    "tags": [
+      "Ethereum"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-09T05:16:54.000Z"
+  },
+  {
+    "id": "503172cb9c1c09e6",
+    "slug": "nvidia-rebellions-and-sk-telecom-team-up-on-sovereign-ai-infrastructure",
+    "title": "Nvidia, Rebellions and SK Telecom team up on sovereign AI infrastructure",
+    "tags": [
+      "Nvidia",
+      "Rebellions",
+      "SK Telecom",
+      "South Korea"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-09T05:05:55.000Z"
+  },
+  {
+    "id": "1fa54d5525e93850",
+    "slug": "bvnk-opens-ousd-minting-and-payments-across-four-blockchains",
+    "title": "BVNK Opens OUSD Minting and Payments Across Four Blockchains",
+    "tags": [
+      "BVNK",
+      "Open USD",
+      "OUSD",
+      "Ethereum",
+      "Solana",
+      "Base",
+      "Tempo"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-09T05:00:00.000Z"
+  },
+  {
+    "id": "47c3620943262e05",
+    "slug": "vitalik-buterin-wants-ai-to-slow-down-backs-anti-data-center-movement",
+    "title": "Vitalik Buterin Wants AI to Slow Down, Backs Anti-Data Center Movement",
+    "tags": [
+      "Vitalik Buterin",
+      "Ethereum"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-09T05:00:00.000Z"
+  },
+  {
+    "id": "97096533e632942a",
+    "slug": "binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+    "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+    "tags": [],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-09T04:54:39.000Z"
+  },
+  {
+    "id": "bc7ca76c1f301f6c",
+    "slug": "who-is-alice-huang-and-why-is-us-intelligence-watching-her",
+    "title": "Who Is Alice Huang And Why Is US Intelligence Watching Her?",
+    "tags": [
+      "Alice Huang",
+      "Megaspeed",
+      "Nvidia",
+      "China",
+      "Singapore",
+      "United States"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-09T04:35:42.000Z"
+  },
+  {
+    "id": "6f5febc25eb7d841",
+    "slug": "singapore-financial-firms-urged-to-maintain-scrutiny-of-north-korea-iran-and-myanmar-risks",
+    "title": "Singapore Financial Firms Urged to Maintain Scrutiny of North Korea, Iran and Myanmar Risks",
+    "tags": [
+      "Singapore",
+      "North Korea",
+      "Iran",
+      "Myanmar",
+      "Financial Action Task Force"
+    ],
     "source": "Crowdfund Insider",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-09T04:26:26.000Z"
+  },
+  {
+    "id": "b4d261187d7fffd7",
+    "slug": "ubs-ceo-warns-of-an-ai-buildout-slowdown-as-data-center-construction-hits-a-record",
+    "title": "UBS CEO Warns of an AI Buildout Slowdown as Data Center Construction Hits a Record",
+    "tags": [
+      "UBS",
+      "United States"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-09T04:21:40.000Z"
+  },
+  {
+    "id": "3d754b215a389a08",
+    "slug": "arm-based-servers-lead-4q26-growth-as-nvidia-faces-supply-constraints",
+    "title": "Arm-based servers lead 4Q26 growth as Nvidia faces supply constraints",
+    "tags": [
+      "Arm",
+      "Nvidia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-09T04:05:27.000Z"
+  },
+  {
+    "id": "1675d85bf3789042",
+    "slug": "tbtc-bridge-partially-resumes-as-120m-aave-reserve-remains-frozen",
+    "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+    "tags": [
+      "Threshold",
+      "tBTC",
+      "Aave",
+      "Linux"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-09T04:03:08.000Z"
+  },
+  {
+    "id": "5b023681c4d092be",
+    "slug": "senate-probe-puts-binance-tether-and-trump-linked-crypto-firms-on-notice",
+    "title": "Senate Probe Puts Binance, Tether and Trump-Linked Crypto Firms on Notice",
+    "tags": [
+      "Binance",
+      "Tether",
+      "United States"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-09T04:02:00.000Z"
+  },
+  {
+    "id": "b6ea4ef99081b8ba",
+    "slug": "uk-s-financial-conduct-authority-fca-launches-quantum-experimentation-group-to-target-fraud-and",
+    "title": "UK’s Financial Conduct Authority (FCA) Launches Quantum Experimentation Group to Target Fraud and Money Laundering",
+    "tags": [
+      "Financial Conduct Authority",
+      "United Kingdom"
+    ],
+    "source": "Crowdfund Insider",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-09T04:00:03.000Z"
+  },
+  {
+    "id": "5933a20b94813254",
+    "slug": "vitalik-buterin-says-eth-fee-burn-will-not-drive-ethereum-s-value",
+    "title": "Vitalik Buterin Says ETH Fee Burn Will Not Drive Ethereum's Value",
+    "tags": [
+      "Ethereum",
+      "Vitalik Buterin"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-09T03:55:58.000Z"
+  },
+  {
+    "id": "bfbbc5e78b865f71",
+    "slug": "chipmaker-credit-protection-now-costs-more-than-hyperscaler-protection",
+    "title": "Chipmaker credit protection now costs more than hyperscaler protection",
+    "tags": [
+      "AI"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-09T03:51:34.000Z"
+  },
+  {
+    "id": "6a21e63bf12bf903",
+    "slug": "evan-luthra-details-oxford-kidnapping-losing-over-2m-in-crypto",
+    "title": "Evan Luthra details Oxford kidnapping, losing over $2M in crypto",
+    "tags": [
+      "Evan Luthra",
+      "Oxford"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-09T03:39:39.000Z"
+  },
+  {
+    "id": "3df74c64567d0870",
+    "slug": "bitcoin-s-7-week-bottom-signal-just-broke-here-is-what-happened-the-last-2-cycles",
+    "title": "Bitcoin’s 7-Week Bottom Signal Just Broke. Here Is What Happened the Last 2 Cycles",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-09T03:39:24.000Z"
+  },
+  {
+    "id": "d6d964376e6952d3",
+    "slug": "nvidia-perps-slide-as-market-reacts-to-ceo-jensen-huang-s-chinese-spy-scandal",
+    "title": "Nvidia perps slide as market reacts to CEO Jensen Huang’s Chinese spy scandal",
+    "tags": [
+      "Nvidia",
+      "Jensen Huang",
+      "China"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-09T03:36:16.000Z"
+  },
+  {
+    "id": "5a143446bc9811b6",
+    "slug": "xrp-news-xrp-ledger-powers-800m-argentina-energy-tokenization-push",
+    "title": "XRP News: XRP Ledger Powers $800M Argentina Energy Tokenization Push",
+    "tags": [
+      "XRP",
+      "Argentina",
+      "YPF Luz",
+      "Justoken"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-09T03:27:54.000Z"
+  },
+  {
+    "id": "6f3a752605473811",
+    "slug": "china-s-5-7-factory-inflation-could-complicate-the-fed-path-before-us-cpi",
+    "title": "China's 5.7% Factory Inflation Could Complicate the Fed Path Before US CPI",
+    "tags": [
+      "China",
+      "United States",
+      "Federal Reserve"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-09T03:26:00.000Z"
+  },
+  {
+    "id": "a52a429180176beb",
+    "title": "SpaceX ($SPCX) Q4 Surge Expected by Elon Musk as Tesla ($TSLA) Eyes Robotics Growth",
+    "summary": "Elon Musk recently outlined an aggressive near-term revenue outlook for SpaceX (NASDAQ: SPCX) during a discussion at the Baron Investment Conference in New York. The company’s chief executive indicated that fourth-quarter sales should rise by roughly 70 percent from the third quarter’s already elevated base... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/11/322417-spacex-spcx-q4-surge-expected-by-elon-musk-as-tesla-tsla-eyes-robotics-growth/",
+    "source": "Crowdfund Insider",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-09T03:22:06.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "spacex-spcx-q4-surge-expected-by-elon-musk-as-tesla-tsla-eyes-robotics-growth"
+  },
+  {
+    "id": "410087a3330cd0c6",
+    "slug": "bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+    "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+    "tags": [
+      "Bitcoin",
+      "Nvidia",
+      "Iran"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-09T03:21:49.000Z"
+  },
+  {
+    "id": "9ed03a1947cb6be9",
+    "title": "Stablecoin Regulatory Frameworks, Travel Rule, Bitcoin ETFs, and Ethereum (ETH) Tokenization Analyzed in Crypto Regulation Report",
+    "summary": "PwC and PwC Legal’s fifth Global Crypto Regulation Report 2027, released in late October 2026, describes a turning point. Across more than thirty jurisdictions, licensing regimes and Travel Rule obligations are largely in force as of October 2026, while stablecoin frameworks remain more varied. Attention... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/11/322418-stablecoin-regulatory-frameworks-travel-rule-bitcoin-etfs-and-ethereum-eth-tokenization-analyzed-in-crypto-regulation-report/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "PwC",
+      "PwC Legal",
+      "Bitcoin",
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-09T03:19:38.000Z",
+    "fetchedAt": "2026-11-09T06:01:25.716Z",
+    "isDuplicateOf": null,
+    "content": "PwC and PwC Legal released their fifth Global Crypto Regulation Report, highlighting significant developments across more than thirty jurisdictions. By late 2026, licensing regimes and Travel Rule obligations are largely in force, whereas stablecoin regulatory frameworks continue to vary widely. The report also analyzes the ongoing growth of Bitcoin ETFs and Ethereum tokenization within the evolving global compliance landscape.",
+    "content_ta": "PwC மற்றும் PwC Legal நிறுவனங்களின் ஐந்தாவது Global Crypto Regulation Report வெளியிட்டுள்ளது. முப்பதுக்கும் மேற்பட்ட அதிகார வரம்புகளில் உரிம முறைமைகள் மற்றும் Travel Rule கடமைகள் நடைமுறைப்படுத்தப்பட்டுள்ளதாக இந்த அறிக்கை விளக்குகிறது. இதற்கிடையில், stablecoin ஒழுங்குமுறை கட்டமைப்புகள் தொடர்ந்து மாறுபடுகின்றன. மேலும், Bitcoin ETFs மற்றும் Ethereum டோக்கனாலைசேஷன் வளர்ச்சியையும் இந்த அறிக்கை ஆராய்கிறது.",
+    "slug": "stablecoin-regulatory-frameworks-travel-rule-bitcoin-etfs-and-ethereum-eth-tokenization-analyzed-in"
+  },
+  {
+    "id": "942cd3769b83aaa3",
+    "slug": "philppine-lender-skyro-launches-digital-cash-loans-in-malaysia",
+    "title": "Philppine Lender Skyro Launches Digital Cash Loans in Malaysia",
     "tags": [
       "Skyro",
       "Malaysia",
       "Southeast Asia",
       "Philippines"
     ],
+    "source": "Crowdfund Insider",
     "origin": "rss",
-    "pubDate": "2026-11-09T03:16:39.000Z",
-    "fetchedAt": "2026-11-09T03:17:11.645Z",
-    "isDuplicateOf": null,
-    "content": "Philippine digital lender Skyro has expanded beyond its home market by launching its first lending product in Malaysia. The company is now offering cash loans of up to RM1,000 as it seeks to build a broader financial services business across Southeast Asia, marking its second major market entry.",
-    "content_ta": "பிலிப்பைன்ஸின் டிஜிட்டல் கடன் வழங்கும் நிறுவனமான Skyro, தனது முதல் கடன் தயாரிப்பை Malaysia-வில் அறிமுகப்படுத்துவதன் மூலம் தனது சொந்த சந்தையைத் தாண்டி வளர்ந்துள்ளது. தென்கிழக்கு ஆசியாவில் தனது நிதிச் சேவைகளை விரிவுபடுத்தும் முயற்சியாக, இந்நிறுவனம் RM1,000 வரை ரொக்கக் கடன்களை வழங்கத் தொடங்கியுள்ளது.",
-    "slug": "philppine-lender-skyro-launches-digital-cash-loans-in-malaysia"
+    "hasContent": true,
+    "pubDate": "2026-11-09T03:16:39.000Z"
   },
   {
     "id": "796c28b2c77a93d1",
+    "slug": "king-yuan-electronics-keeps-its-texas-ai-chip-testing-plant-on-schedule",
     "title": "King Yuan Electronics keeps its Texas AI chip testing plant on schedule",
-    "summary": "KYEC's Texas plant underscores a strategic shift in AI chip supply chains, enhancing US capacity and reducing reliance on Asian testing hubs.\nThe post King Yuan Electronics keeps its Texas AI chip testing plant on schedule appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/king-yuan-electronics-texas-ai-chip-testing-plant/",
-    "source": "CryptoBriefing",
     "tags": [
       "King Yuan Electronics",
       "Texas",
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-09T03:07:50.000Z",
-    "fetchedAt": "2026-11-09T03:17:11.645Z",
-    "isDuplicateOf": null,
-    "content": "King Yuan Electronics is proceeding on schedule with its new AI chip testing plant in Texas. This development highlights a strategic shift within the artificial intelligence supply chain, aiming to boost capacity in the United States while decreasing dependence on testing hubs in Asia.",
-    "content_ta": "King Yuan Electronics தனது புதிய AI chip testing plant-ஐ Texas-ல் திட்டமிட்டபடி அமைத்து வருகிறது. இந்த நடவடிக்கை artificial intelligence supply chain-ல் ஒரு முக்கிய மாற்றத்தைக் குறிப்பதுடன், United States-ன் உற்பத்தி திறனை அதிகரித்து, Asia-வில் உள்ள testing hubs-தான சார்பைக் குறைக்க உதவுகிறது.",
-    "slug": "king-yuan-electronics-keeps-its-texas-ai-chip-testing-plant-on-schedule"
+    "hasContent": true,
+    "pubDate": "2026-11-09T03:07:50.000Z"
   },
   {
     "id": "02d44da8ade8337b",
+    "slug": "trump-defends-family-s-crypto-business-in-60-minutes-interview",
     "title": "Trump defends family’s crypto business in 60 Minutes interview",
-    "summary": "Trump's defense of his family's crypto ventures highlights ongoing concerns about potential conflicts of interest and regulatory scrutiny.\nThe post Trump defends family’s crypto business in 60 Minutes interview appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/trump-defends-family-crypto-60-minutes/",
-    "source": "CryptoBriefing",
     "tags": [
       "Trump"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-09T03:05:30.000Z",
-    "fetchedAt": "2026-11-09T03:17:11.645Z",
-    "isDuplicateOf": null,
-    "content": "In a recent 60 Minutes interview, Trump defended his family's cryptocurrency business ventures. This defense comes amid ongoing discussions regarding potential conflicts of interest and the prospect of heightened regulatory scrutiny facing the project. The discussion has drawn considerable attention from the digital asset community and observers monitoring the intersection of politics and finance.",
-    "content_ta": "சமீபத்திய 60 Minutes நேர்காணலில், Trump தனது குடும்பத்தின் crypto வணிக முயற்சிகளைப் பாதுகாத்துப் பேசினார். சாத்தியமான நல மோதல்கள் மற்றும் ஒழுங்குமுறைச் சோதனைகள் குறித்த கவலைகளுக்கு மத்தியில் இந்த விளக்கம் வந்துள்ளது.",
-    "slug": "trump-defends-family-s-crypto-business-in-60-minutes-interview"
+    "hasContent": true,
+    "pubDate": "2026-11-09T03:05:30.000Z"
   },
   {
     "id": "cb2a8f2ac81eeba6",
+    "slug": "fxstreet-surpasses-one-million-youtube-views-in-less-than-two-months",
     "title": "FXStreet Surpasses One million YouTube Views in Less Than Two Months",
-    "summary": "Barcelona, Spain, November 4th: FXStreet has surpassed 1 million views on its YouTube channel in less than two months, representing year-over-year growth of more than 1,500%, compared to the 61,000 views recorded during the same period last year. This milestone highlights the success of its video content strategy and reinforces the company’s efforts to diversify\nThe post FXStreet Surpasses One million YouTube Views in Less Than Two Months appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/fxstreet-youtube-views-surge-1500-percent-million/",
-    "source": "BeInCrypto",
     "tags": [
       "FXStreet",
       "Barcelona",
       "Spain"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-11-09T03:04:34.000Z",
-    "fetchedAt": "2026-11-09T03:17:11.645Z",
-    "isDuplicateOf": null,
-    "content": "FXStreet has achieved a major milestone by surpassing one million views on its YouTube channel in less than two months. This impressive growth reflects a year-over-year increase of over 1,500 percent compared to the previous year. The achievement highlights the strong performance of the company's video content strategy and its ongoing efforts to expand its digital reach from its base in Barcelona, Spain.",
-    "content_ta": "FXStreet தனது YouTube சேனலில் இரண்டு மாதங்களுக்கும் குறைவான காலத்தில் ஒரு மில்லியன் பார்வைகளைக் கடந்து ஒரு முக்கிய மைல்கல்லை எட்டியுள்ளது. இந்த ஈர்க்கக்கூடிய வளர்ச்சி கடந்த ஆண்டைக் காட்டிலும் 1,500 சதவீதத்திற்கும் அதிகமான ஆண்டுக்கு ஆண்டு அதிகரிப்பைக் குறிக்கிறது. ஸ்பெயினின் Barcelona-வைத் தலைமையிடமாகக் கொண்ட இந்நிறுவனத்தின் வீடியோ உள்ளடக்க உத்தியின் வெற்றியையும், அதன் டிஜிட்டல் வளர்ச்சிக்கான முயற்சிகளையும் இந்த சாதனை எடுத்துக்காட்டுகிறது.",
-    "slug": "fxstreet-surpasses-one-million-youtube-views-in-less-than-two-months"
+    "hasContent": true,
+    "pubDate": "2026-11-09T03:04:34.000Z"
   },
   {
     "id": "894750015d0b08ef",
@@ -497,317 +811,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-08T19:56:19.000Z"
-  },
-  {
-    "id": "b96a4e27b42f5beb",
-    "slug": "spacex-plans-24-billion-ai-supercomputer-and-gas-plant-in-starbase-texas",
-    "title": "SpaceX plans $24 billion AI supercomputer and gas plant in Starbase, Texas",
-    "tags": [
-      "SpaceX",
-      "Starbase",
-      "Texas"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T19:34:04.000Z"
-  },
-  {
-    "id": "2e67a7e1bd7764c0",
-    "slug": "lnbits-urges-users-to-shut-down-servers-amid-wave-of-attacks",
-    "title": "LNbits urges users to shut down servers amid wave of attacks",
-    "tags": [
-      "LNbits"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T19:31:24.000Z"
-  },
-  {
-    "id": "aeb3d8593627eb78",
-    "slug": "the-catch-in-recovering-a-hacked-crypto-wallet-the-thief-may-still-have-a-key",
-    "title": "The catch in recovering a hacked crypto wallet: the thief may still have a key",
-    "tags": [
-      "Keplr"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T19:30:55.000Z"
-  },
-  {
-    "id": "06763f62930f2cc1",
-    "slug": "stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
-    "title": "Stablecoin growth has stalled. The payments boom hasn't",
-    "tags": [
-      "Circle"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T19:16:42.000Z"
-  },
-  {
-    "id": "45ff53331dda2262",
-    "slug": "coinbase-wallet-plans-to-add-ai-agent-capabilities-this-year",
-    "title": "Coinbase Wallet plans to add AI agent capabilities this year",
-    "tags": [
-      "Coinbase",
-      "Coinbase Wallet"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T19:05:05.000Z"
-  },
-  {
-    "id": "d684cce8afd04426",
-    "slug": "pmtbox-adds-coupons-com-founder-steven-boal-to-its-board",
-    "title": "Pmtbox adds Coupons.com Founder Steven Boal to its Board",
-    "tags": [
-      "Pmtbox",
-      "Coupons.com",
-      "Steven Boal",
-      "CashStar"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T19:00:49.000Z"
-  },
-  {
-    "id": "4d643ba5f5c852f5",
-    "slug": "gpt-6-astra-proves-70-of-lean-theorems-but-solves-none-of-30-open-conjectures",
-    "title": "GPT-6 Astra proves 70% of Lean theorems but solves none of 30 open conjectures",
-    "tags": [
-      "GPT-6 Astra",
-      "Lean"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T18:51:15.000Z"
-  },
-  {
-    "id": "837e40420123e057",
-    "slug": "flare-ceo-pushes-back-against-xrp-fud",
-    "title": "Flare CEO Pushes Back Against XRP 'FUD'",
-    "tags": [
-      "Flare",
-      "Ripple",
-      "XRP",
-      "Hugo Philion"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T18:33:30.000Z"
-  },
-  {
-    "id": "fb1a5d505bb409b9",
-    "slug": "web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets",
-    "title": "Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets",
-    "tags": [],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-08T18:32:11.000Z"
-  },
-  {
-    "id": "5c011e350ba55031",
-    "slug": "the-diesel-problem-that-could-spoil-bitcoin-s-hopes-for-cheaper-money",
-    "title": "The diesel problem that could spoil Bitcoin’s hopes for cheaper money",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T18:30:39.000Z"
-  },
-  {
-    "id": "81cbb9e5169ff128",
-    "slug": "jensen-huang-spy-storm-will-nvidia-stock-and-ceo-survive-the-nov-11-deadline",
-    "title": "Jensen Huang Spy Storm: Will Nvidia Stock and CEO Survive the Nov. 11 Deadline?",
-    "tags": [
-      "Nvidia",
-      "Jensen Huang",
-      "United States"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T18:28:12.000Z"
-  },
-  {
-    "id": "791f4aae3600d6e8",
-    "slug": "hyperscalers-exceed-full-year-debt-forecasts-as-ai-bond-concessions-rise",
-    "title": "Hyperscalers exceed full-year debt forecasts as AI bond concessions rise",
-    "tags": [
-      "Treasury"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T18:27:54.000Z"
-  },
-  {
-    "id": "e070e343aa90a663",
-    "slug": "openai-partners-with-adnoc-to-bring-ai-agents-into-oil-and-gas-operations",
-    "title": "OpenAI partners with ADNOC to bring AI agents into oil and gas operations",
-    "tags": [
-      "OpenAI",
-      "ADNOC"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T18:04:41.000Z"
-  },
-  {
-    "id": "4831ca82d0c66a18",
-    "slug": "franklin-templeton-will-use-openai-chatgpt-to-predict-crypto",
-    "title": "Franklin Templeton Will Use OpenAI ChatGPT to Predict Crypto",
-    "tags": [
-      "Franklin Templeton",
-      "OpenAI"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T18:03:48.000Z"
-  },
-  {
-    "id": "30f200f9e676c215",
-    "slug": "tesla-expands-robotaxi-operating-hours-to-21-hours-per-day-in-austin",
-    "title": "Tesla expands Robotaxi operating hours to 21 hours per day in Austin",
-    "tags": [
-      "Tesla",
-      "Austin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T17:35:17.000Z"
-  },
-  {
-    "id": "d9e2dd2def5aec2f",
-    "slug": "one-blackrock-fund-dominates-bitcoin-s-billion-dollar-etf-exodus",
-    "title": "One BlackRock fund dominates Bitcoin’s billion-dollar ETF exodus",
-    "tags": [
-      "BlackRock",
-      "Bitcoin",
-      "Fidelity",
-      "IBIT"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T17:30:44.000Z"
-  },
-  {
-    "id": "2a8e09c1ca912808",
-    "slug": "bitcoin-s-blockchain-just-ran-backward-in-time-is-something-wrong",
-    "title": "Bitcoin's Blockchain Just Ran Backward in Time. Is Something Wrong?",
-    "tags": [
-      "Bitcoin",
-      "Alex Thorn",
-      "Galaxy"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T17:17:51.000Z"
-  },
-  {
-    "id": "dd7c30d923ac210a",
-    "slug": "btc-price-analysis-key-support-levels-to-watch-as-bitcoin-enters-a-crucial-week",
-    "title": "BTC Price Analysis: Key Support Levels to Watch as Bitcoin Enters a Crucial Week",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T17:12:38.000Z"
-  },
-  {
-    "id": "3109287aab1051e5",
-    "slug": "200-billion-lost-but-here-s-why-solana-s-tokenized-rwa-market-could-be-silver-lining",
-    "title": "$200 billion lost, but here’s why Solana’s tokenized RWA market could be silver lining",
-    "tags": [
-      "Solana"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T17:00:27.000Z"
-  },
-  {
-    "id": "5099e7814778afe2",
-    "slug": "web3auth-pauses-embedded-wallet-service-after-security-issue-keplr-users-hit",
-    "title": "Web3Auth pauses embedded wallet service after security issue, Keplr users hit",
-    "tags": [
-      "Web3Auth",
-      "Keplr"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T16:57:21.000Z"
-  },
-  {
-    "id": "7edd821045526835",
-    "slug": "nvidia-s-ceo-an-alleged-romance-and-a-suspected-chinese-spy-congress-wants-answers",
-    "title": "Nvidia’s CEO, an alleged romance and a suspected Chinese spy: Congress wants answers",
-    "tags": [
-      "Nvidia",
-      "United States"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T16:30:51.000Z"
-  },
-  {
-    "id": "391b2176c2eb5cbb",
-    "slug": "diamond-foundry-unveils-world-s-first-200mm-single-crystal-diamond-wafer",
-    "title": "Diamond Foundry unveils world’s first 200mm single-crystal diamond wafer",
-    "tags": [
-      "Diamond Foundry"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T15:30:53.000Z"
-  },
-  {
-    "id": "b2a846169eddcfa1",
-    "slug": "a-single-ai-forecast-inflates-us-power-auctions-by-5-7b",
-    "title": "A single AI forecast inflates US power auctions by $5.7B",
-    "tags": [
-      "Australia",
-      "Australian Bureau of Statistics"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T15:30:08.000Z"
-  },
-  {
-    "id": "918df1eceed7def8",
-    "slug": "jpmorgan-stock-slides-on-epstein-probe-fears-bitcoin-has-no-ceo-to-drag-into-the-scandal",
-    "title": "JPMorgan Stock Slides on Epstein Probe Fears: Bitcoin Has No CEO to Drag Into the Scandal",
-    "tags": [
-      "JPMorgan",
-      "Jeffrey Epstein",
-      "Bitcoin",
-      "United States"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-08T15:19:21.000Z"
   }
 ]
