@@ -1,135 +1,403 @@
 [
   {
-    "id": "24dedb62633171ea",
-    "title": "MARA lays out AI expansion plans and lands a $79M GPU contract",
-    "summary": "MARA's strategic shift towards AI and energy diversification could reduce crypto dependency, but hinges on regulatory approvals and execution.\nThe post MARA lays out AI expansion plans and lands a $79M GPU contract appeared first on Crypto Briefing.",
+    "id": "2f5fbf159084f5a0",
+    "title": "Hyundai Card’s Alphabet Sub-Brand Tops 150,000 Cards in Three Months",
+    "summary": "South Korea's Hyundai Card says its lifestyle-focused Alphabet Card sub-brand, stripped of corporate logos, issued 150,000 cards in its first quarter.\nThe post Hyundai Card’s Alphabet Sub-Brand Tops 150,000 Cards in Three Months appeared first on The Fintech Times.",
     "hasSummary": true,
-    "link": "https://cryptobriefing.com/mara-ai-expansion-79m-gpu-contract/",
+    "link": "https://thefintechtimes.com/hyundai-cards-alphabet-sub-brand-tops-150000-cards-in-three-months/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Hyundai Card",
+      "Alphabet Card",
+      "South Korea"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-10T03:00:44.000Z",
+    "fetchedAt": "2026-11-10T03:01:32.019Z",
+    "isDuplicateOf": null,
+    "content": "South Korea's Hyundai Card has announced that its lifestyle-focused Alphabet Card sub-brand has successfully issued 150,000 cards within the first three months of its launch. The new minimalist card line, which features a design stripped of standard corporate logos, has gained significant traction among consumers since its introduction to the market.",
+    "content_ta": "South Korea-г சேர்ந்த Hyundai Card-இன் lifestyle-focused Alphabet Card sub-brand அறிமுகப்படுத்தப்பட்ட முதல் மூன்று மாதங்களுக்குள் 150,000 கார்டுகளை வெற்றிகரமாக வெளியிட்டுள்ளதாக அறிவித்துள்ளது. வழக்கமான corporate logos இல்லாத இந்த புதிய minimal design கார்டுகளுக்கு சந்தையில்consumers மத்தியில் நல்ல வரவேற்பு கிடைத்துள்ளது.",
+    "slug": "hyundai-card-s-alphabet-sub-brand-tops-150-000-cards-in-three-months"
+  },
+  {
+    "id": "654a108f0e0a7051",
+    "slug": "mark-zuckerberg-meta-ai-predicts-top-3-zk-cryptos",
+    "title": "Mark Zuckerberg Meta AI Predicts Top 3 ZK Cryptos",
+    "tags": [
+      "Meta",
+      "zkSync",
+      "Starknet",
+      "Zcash"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-10T02:30:00.000Z"
+  },
+  {
+    "id": "3e520141d44dffd8",
+    "slug": "yankey-engineering-backlog-hits-record-nt-57-1-billion-as-kumamoto-fab-work-looms",
+    "title": "Yankey Engineering backlog hits record NT$57.1 billion as Kumamoto fab work looms",
+    "tags": [
+      "Yankey Engineering",
+      "Kumamoto"
+    ],
     "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-10T02:08:06.000Z"
+  },
+  {
+    "id": "ec4a1735af11db32",
+    "slug": "at-least-25-of-global-data-centers-face-seasonal-water-shortages-study-finds",
+    "title": "At least 25% of global data centers face seasonal water shortages, study finds",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-10T02:02:33.000Z"
+  },
+  {
+    "id": "174f0f104e5bd551",
+    "slug": "seoul-brakes-on-buying-again-as-kospi-jumps-nearly-5-will-it-stick-this-time",
+    "title": "Seoul Brakes on Buying Again as KOSPI Jumps Nearly 5%. Will It Stick This Time?",
+    "tags": [
+      "Korea Exchange",
+      "KOSPI",
+      "South Korea",
+      "United States"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-10T02:00:17.000Z"
+  },
+  {
+    "id": "7c2edd4192407765",
+    "slug": "21x-and-layerzero-report-10-000-onchain-order-matches-per-second-in-pilot",
+    "title": "21X and LayerZero Report 10,000 Onchain Order Matches Per Second in Pilot",
+    "tags": [
+      "21X",
+      "LayerZero",
+      "Zero"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-10T02:00:00.000Z"
+  },
+  {
+    "id": "cde1954ad12a24e5",
+    "slug": "nvidia-ceo-probe-hit-binance-stock-perps-while-wall-street-was-closed",
+    "title": "Nvidia CEO Probe Hit Binance Stock Perps While Wall Street Was Closed",
+    "tags": [
+      "Nvidia",
+      "Binance",
+      "Wall Street"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-10T01:57:37.000Z"
+  },
+  {
+    "id": "87a1e65422c8073d",
+    "slug": "tom-lee-says-a-vix-signal-points-to-a-stock-market-bottom",
+    "title": "Tom Lee Says a VIX Signal Points to a Stock Market Bottom",
+    "tags": [],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-10T01:55:32.000Z"
+  },
+  {
+    "id": "f033d0a1c46f1e40",
+    "slug": "altimeter-capital-management-targets-3b-for-private-markets-funds",
+    "title": "Altimeter Capital Management targets $3B for private markets funds",
+    "tags": [
+      "Altimeter Capital Management"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-10T01:50:53.000Z"
+  },
+  {
+    "id": "c2a385de322c3919",
+    "slug": "pendle-s-real-world-asset-tvl-tops-850-million-as-rwas-take-over-the-protocol",
+    "title": "Pendle’s real-world asset TVL tops $850 million as RWAs take over the protocol",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-10T01:37:48.000Z"
+  },
+  {
+    "id": "bb9e8eb22c0968ed",
+    "slug": "seven-tech-giants-reportedly-line-up-26b-anthropic-stake-at-ipo-price",
+    "title": "Seven tech giants reportedly line up $26B Anthropic stake at IPO price",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-10T01:21:25.000Z"
+  },
+  {
+    "id": "ff25f9b26e785b50",
+    "slug": "amd-shares-jump-13-after-google-cloud-taps-epyc-chips-for-tpu-8tx",
+    "title": "AMD shares jump 13% after Google Cloud taps EPYC chips for TPU 8tx",
+    "tags": [
+      "AMD",
+      "Google Cloud"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-10T01:13:58.000Z"
+  },
+  {
+    "id": "7fe3a9a05915c771",
+    "slug": "australia-weighs-mandatory-incident-reporting-for-ai-companies",
+    "title": "Australia weighs mandatory incident reporting for AI companies",
+    "tags": [
+      "Australia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-10T01:13:06.000Z"
+  },
+  {
+    "id": "73a34991b7adb2c3",
+    "slug": "why-fidelity-calls-solana-an-emerging-piece-of-financial-market-infrastructure",
+    "title": "Why Fidelity calls Solana ‘an emerging piece of financial market infrastructure’",
+    "tags": [
+      "Fidelity",
+      "Solana"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-10T01:00:49.000Z"
+  },
+  {
+    "id": "e09c557aa4e22eb1",
+    "slug": "katie-zacharia-seeks-white-house-return-through-media-outreach-to-trump",
+    "title": "Katie Zacharia seeks White House return through media, outreach to Trump",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-10T00:54:01.000Z"
+  },
+  {
+    "id": "211f884aa49589f3",
+    "slug": "hakeem-jeffries-demands-full-nvidia-briefing-as-china-chip-fight-heats-up",
+    "title": "Hakeem Jeffries demands full Nvidia briefing as China chip fight heats up",
+    "tags": [
+      "Hakeem Jeffries",
+      "Nvidia",
+      "China"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-10T00:53:29.000Z"
+  },
+  {
+    "id": "ba9d249e24ea4f0b",
+    "slug": "claude-fable-5-2-takes-first-place-on-artificial-analysis-aa-3d-benchmark",
+    "title": "Claude Fable 5.2 takes first place on Artificial Analysis’ AA-3D benchmark",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-10T00:46:30.000Z"
+  },
+  {
+    "id": "ce4302c3b53a881e",
+    "slug": "hive-mara-mine-more-bitcoin-but-earn-less-as-crypto-prices-fall",
+    "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
+    "tags": [
+      "HIVE",
+      "MARA",
+      "Bitcoin"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-10T00:42:39.000Z"
+  },
+  {
+    "id": "afbdd4877ba44b96",
+    "slug": "canada-opens-bank-stablecoin-access-but-strips-deposit-guarantees",
+    "title": "Canada opens bank stablecoin access, but strips deposit guarantees",
+    "tags": [
+      "Canada"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-10T00:40:28.000Z"
+  },
+  {
+    "id": "0faafdd27a4535c6",
+    "slug": "security-firm-warns-of-infostealer-posing-as-cracked-tradingview-premium",
+    "title": "Security Firm Warns of Infostealer Posing as Cracked TradingView Premium",
+    "tags": [
+      "SlowMist",
+      "TradingView",
+      "Telegram"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-10T00:35:19.000Z"
+  },
+  {
+    "id": "c8097f5b94ecd025",
+    "title": "Yang-Mills Working Group to publish OpenAI’s Lean code for review",
+    "summary": "The publication of AI-generated proofs for complex physics problems could revolutionize mathematical validation, enhancing collaboration and innovation.\nThe post Yang-Mills Working Group to publish OpenAI’s Lean code for review appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/yang-mills-group-publish-openai-lean-code/",
+    "source": "CryptoBriefing",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-10T00:20:10.000Z",
+    "fetchedAt": "2026-11-10T03:01:32.019Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "yang-mills-working-group-to-publish-openai-s-lean-code-for-review"
+  },
+  {
+    "id": "5431f5e16821b81d",
+    "title": "Crypto must solidify political influence to avoid regulatory rollback: McHenry",
+    "summary": "The crypto industry's political engagement is crucial to shaping favorable regulations and ensuring market stability amid legislative uncertainty.\nThe post Crypto must solidify political influence to avoid regulatory rollback: McHenry appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/crypto-must-solidify-political-influence-to-avoid-regulatory-rollback-mchenry/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "McHenry"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-10T00:17:42.000Z",
+    "fetchedAt": "2026-11-10T03:01:32.019Z",
+    "isDuplicateOf": null,
+    "content": "The crypto industry must strengthen its political influence and engagement to prevent potential regulatory rollbacks, according to McHenry. Industry advocates emphasize that active participation in the political process is crucial for shaping favorable regulations, ensuring market stability, and navigating legislative uncertainty as the sector continues to grow and face increased oversight from policymakers.",
+    "content_ta": "ஒழுங்குமுறை பின்னடைவுகளைத் தவிர்க்க கிரிப்டோ துறை தனது அரசியல் செல்வாக்கை வலுப்படுத்த வேண்டும் என்று McHenry தெரிவித்துள்ளார். கொள்கை வகுப்பாளர்களிடமிருந்து அதிகரித்துவரும் கண்காணிப்பை எதிர்கொள்ளும் வேளையில், சாதகமான விதிமுறைகளை வடிவமைப்பதற்கும் சந்தை ஸ்திரத்தன்மையை உறுதி செய்வதற்கும் அரசியல் செயல்முறைகளில் தீவிரமாக பங்கேற்பது மிகவும் முக்கியமானது என்று துறைசார் வல்லுநர்கள் வலியுறுத்துகின்றனர்.",
+    "slug": "crypto-must-solidify-political-influence-to-avoid-regulatory-rollback-mchenry"
+  },
+  {
+    "id": "9c107c52e0491e5f",
+    "title": "Anthropic brings its Mythos bug-hunting model to Cisco and IBM security products",
+    "summary": "Integrating Mythos into Cisco and IBM products could significantly enhance cybersecurity defenses, potentially reshaping the security landscape.\nThe post Anthropic brings its Mythos bug-hunting model to Cisco and IBM security products appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/anthropic-mythos-cisco-ibm-security/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Anthropic",
+      "Cisco",
+      "IBM"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-10T00:09:46.000Z",
+    "fetchedAt": "2026-11-10T03:01:32.019Z",
+    "isDuplicateOf": null,
+    "content": "Anthropic has integrated its advanced bug-hunting model, Mythos, into security products offered by Cisco and IBM. This strategic integration aims to significantly enhance cybersecurity defenses and potentially reshape the digital security landscape for enterprises utilizing these major technology platforms.",
+    "content_ta": "Anthropic நிறுவனம் தனது மேம்பட்ட bug-hunting மாடலான Mythos-ஐ Cisco மற்றும் IBM நிறுவனங்களின் பாதுகாப்பு தயாரிப்புகளில் இணைத்துள்ளது. இந்த மூலோபாய ஒருங்கிணைப்பு சைபர் பாதுகாப்புத் தற்காப்பை மேம்படுத்தவும், டிஜிட்டல் பாதுகாப்புத் துறையை மாற்றியமைக்கவும் இலக்காகக் கொண்டுள்ளது.",
+    "slug": "anthropic-brings-its-mythos-bug-hunting-model-to-cisco-and-ibm-security-products"
+  },
+  {
+    "id": "24dedb62633171ea",
+    "slug": "mara-lays-out-ai-expansion-plans-and-lands-a-79m-gpu-contract",
+    "title": "MARA lays out AI expansion plans and lands a $79M GPU contract",
     "tags": [
       "MARA"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-09T23:24:24.000Z",
-    "fetchedAt": "2026-11-09T23:37:46.880Z",
-    "isDuplicateOf": null,
-    "content": "MARA has announced strategic plans to expand into artificial intelligence and secured a significant $79 million GPU contract. This move aims to diversify its operations and reduce heavy dependency on cryptocurrency. However, the success of this expansion largely depends on successful execution and obtaining necessary regulatory approvals.",
-    "content_ta": "MARA நிறுவனம் செயற்கை நுண்ணறிவு (AI) துறையில் தனது விரிவாக்கத் திட்டங்களை அறிவித்துள்ளதுடன், 79 மில்லியன் டாலர் மதிப்புள்ள GPU ஒப்பந்தத்தையும் பெற்றுள்ளது. இந்த நடவடிக்கை நிறுவனத்தின் செயல்பாடுகளைப் பன்முகப்படுத்துவதையும், கிரிப்டோகரன்சி சார்ந்திருப்பதைக் குறைப்பதையும் நோக்கமாகக் கொண்டுள்ளது. எவ்வாறாயினும், இந்த விரிவாக்கத்தின் வெற்றி, ஒழுங்குமுறை ஒப்புதல்களைப் பெறுவதையும் சரியான முறையில் செயல்படுத்துவதையும் பொறுத்தது.",
-    "slug": "mara-lays-out-ai-expansion-plans-and-lands-a-79m-gpu-contract"
+    "hasContent": true,
+    "pubDate": "2026-11-09T23:24:24.000Z"
   },
   {
     "id": "80c7adea55b21ecd",
+    "slug": "institutional-bitcoin-adoption-requires-extensive-engagement-bitwise-cio",
     "title": "Institutional Bitcoin adoption requires extensive engagement: Bitwise CIO",
-    "summary": "Institutional Bitcoin adoption's slow pace may delay significant market impact, despite growing interest and regulatory advancements like ETFs.\nThe post Institutional Bitcoin adoption requires extensive engagement: Bitwise CIO appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/institutional-bitcoin-adoption-requires-extensive-engagement-bitwise-cio/",
-    "source": "CryptoBriefing",
     "tags": [
       "Bitcoin",
       "Bitwise"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-09T23:21:10.000Z",
-    "fetchedAt": "2026-11-09T23:37:46.880Z",
-    "isDuplicateOf": null,
-    "content": "Institutional Bitcoin adoption is currently progressing at a slow pace, according to the Bitwise CIO. Despite growing interest from institutional investors and recent regulatory advancements such as exchange-traded funds, achieving widespread market integration will require extensive ongoing engagement. This gradual timeline suggests that a significant impact on the broader market may take more time to fully materialize.",
-    "content_ta": "institucional Bitcoin adoption-ன் வேகம் தற்பொழுது மெதுவாகவே உள்ளது என Bitwise-ன் CIO தெரிவித்துள்ளார். நிறுவன முதலீட்டாளர்களின் ஆர்வம் மற்றும் ETF போன்ற ஒழுங்குமுறை முன்னேற்றங்கள் அதிகரித்து வந்தாலும், சந்தையில் பெரிய அளவில் தாக்கம் ஏற்படுத்த விரிவான ஈடுபாடு தேவைப்படுகிறது.",
-    "slug": "institutional-bitcoin-adoption-requires-extensive-engagement-bitwise-cio"
+    "hasContent": true,
+    "pubDate": "2026-11-09T23:21:10.000Z"
   },
   {
     "id": "1e2e46bffc4faf58",
+    "slug": "gate-certik-how-do-institutions-secure-tens-of-billions-of-dollars-in-digital-assets",
     "title": "Gate & CertiK: How Do Institutions Secure Tens of Billions of Dollars in Digital Assets?",
-    "summary": "Gate has launched Gate Security Academy, an educational series examining the security risks crypto users face. The first edition, produced together with security firm CertiK, focuses on how institutions protect large digital asset holdings. In crypto, protecting your own assets may be as simple as keeping your recovery phrase secure. But when an institution is\nThe post Gate & CertiK: How Do Institutions Secure Tens of Billions of Dollars in Digital Assets? appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/gate-certik-security-academy-institutional-crypto-wallets/",
-    "source": "BeInCrypto",
     "tags": [
       "Gate",
       "CertiK"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-11-09T23:14:18.000Z",
-    "fetchedAt": "2026-11-09T23:37:46.880Z",
-    "isDuplicateOf": null,
-    "content": "Gate has launched the Gate Security Academy educational series to examine crypto security risks. In its first edition, produced in partnership with security firm CertiK, the focus is on how financial institutions secure tens of billions of dollars in digital assets. While individual users often rely on recovery phrases, institutional protection requires much more advanced security measures.",
-    "content_ta": "Crypto பாதுகாப்பு ஆபத்துகள் குறித்த விழிப்புணர்வை ஏற்படுத்த Gate நிறுவனம் Gate Security Academy என்ற கல்வித் தொடரைத் தொடங்கியுள்ளது. பாதுகாப்பு நிறுவனமான CertiK-டன் இணைந்து தயாரிக்கப்பட்ட இதன் முதல் பதிப்பு, நிறுவனங்கள் தங்களின் கோடிக்கணக்கான ட மதிப்புள்ள டிஜிட்டல் சொத்துக்களை எவ்வாறு பாதுகாக்கின்றன என்பதைப் பற்றி விளக்குகிறது.",
-    "slug": "gate-certik-how-do-institutions-secure-tens-of-billions-of-dollars-in-digital-assets"
+    "hasContent": true,
+    "pubDate": "2026-11-09T23:14:18.000Z"
   },
   {
     "id": "65fd50f50dfd0ca4",
+    "slug": "anthropic-s-claude-fable-5-2-finishes-a-23-year-old-black-hole-calculation",
     "title": "Anthropic’s Claude Fable 5.2 finishes a 23-year-old black hole calculation",
-    "summary": "Anthropic's AI breakthrough in black hole physics highlights AI's potential to solve longstanding scientific problems, impacting future research methodologies.\nThe post Anthropic’s Claude Fable 5.2 finishes a 23-year-old black hole calculation appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/claude-fable-black-hole-calculation/",
-    "source": "CryptoBriefing",
     "tags": [
       "Anthropic"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-09T23:05:47.000Z",
-    "fetchedAt": "2026-11-09T23:37:46.880Z",
-    "isDuplicateOf": null,
-    "content": "Anthropic's Claude Fable 5.2 has successfully completed a complex black hole calculation that remained unsolved for 23 years. This major scientific breakthrough highlights the growing potential of artificial intelligence to assist researchers in solving longstanding and difficult problems, which could significantly impact future scientific research methodologies.",
-    "content_ta": "Anthropic-ன் Claude Fable 5.2, 23 ஆண்டுகளாக தீர்க்கப்படாமல் இருந்த ஒரு சிக்கலான பிளாக் ஹோல் கணக்கீட்டை வெற்றிகரமாக முடித்துள்ளது. இந்த முக்கிய அறிவியல் முன்னேற்றம், நீண்டகாலமாக தீர்க்கப்படாத அறிவியல் சவால்களை எதிர்கொள்ள AI எவ்வாறு உதவும் என்பதன் திறனை வெளிக்காட்டுகிறது.",
-    "slug": "anthropic-s-claude-fable-5-2-finishes-a-23-year-old-black-hole-calculation"
+    "hasContent": true,
+    "pubDate": "2026-11-09T23:05:47.000Z"
   },
   {
     "id": "9f634040bbeae92e",
+    "slug": "dinari-adds-broadridge-voting-rails-to-tokenized-us-shares",
     "title": "Dinari Adds Broadridge Voting Rails to Tokenized US Shares",
-    "summary": "Tokenized stocks have often promised easier access and faster settlement, but a less glamorous question keeps surfacing: can the holder vote? Broadridge and Dinari announced an integration on November 5 that aims to connect eligible holders of…",
-    "hasSummary": true,
-    "link": "https://www.newsbtc.com/news/dinari-adds-broadridge-voting-rails-to-tokenized-us-shares/",
-    "source": "NewsBTC",
     "tags": [
       "Dinari",
       "Broadridge",
       "United States"
     ],
+    "source": "NewsBTC",
     "origin": "rss",
-    "pubDate": "2026-11-09T23:00:00.000Z",
-    "fetchedAt": "2026-11-09T23:37:46.880Z",
-    "isDuplicateOf": null,
-    "content": "Dinari and Broadridge have announced an integration to bring voting rails to tokenized US shares. This development addresses a key question for tokenized stock holders regarding voting rights, combining faster settlement benefits with traditional shareholder participation capabilities.",
-    "content_ta": "Tokenized US shares-களில் வோட்டிங் வசதியை கொண்டு வருவதற்காக Dinari மற்றும் Broadridge நிறுவனங்கள் இணைந்துள்ளதாக அறிவிக்கப்பட்டுள்ளன. இந்த ஒருங்கிணைப்பு, tokenized stock வைத்திருப்பவர்களின் வோட்டிங் உரிமைகள் தொடர்பான முக்கிய கேள்விக்கு தீர்வாக அமைகிறது.",
-    "slug": "dinari-adds-broadridge-voting-rails-to-tokenized-us-shares"
+    "hasContent": true,
+    "pubDate": "2026-11-09T23:00:00.000Z"
   },
   {
     "id": "3020b139aac9a3db",
+    "slug": "securitize-pushes-into-6-trillion-asset-backed-finance-market-with-river-one-acquisition",
     "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
-    "summary": "The tokenization firm unveiled an acquisition and a $50 million stock buyback as quarterly revenue rose 13%. SECZ shares jumped 10% after hours.",
-    "hasSummary": true,
-    "link": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
-    "source": "CoinDesk",
     "tags": [
       "Securitize",
       "River One"
     ],
+    "source": "CoinDesk",
     "origin": "rss",
-    "pubDate": "2026-11-09T22:56:27.000Z",
-    "fetchedAt": "2026-11-09T23:37:46.880Z",
-    "isDuplicateOf": null,
-    "content": "Tokenization firm Securitize has expanded into the $6 trillion asset-backed finance market through the acquisition of River One. Alongside the deal, the company announced a $50 million stock buyback following a 13% increase in quarterly revenue. Following the announcements, SECZ shares experienced a 10% jump in after-hours trading.",
-    "content_ta": "டோக்கனைசேஷன் நிறுவனமான Securitize, River One நிறுவனத்தைக் கைப்பற்றியதன் மூலம் 6 டிரில்லியன் டாலர் மதிப்புள்ள சொத்து-ஆதரவு நிதி சந்தையில் காலடி எடுத்து வைத்துள்ளது. இந்த ஒப்பந்தத்துடன் சேர்ந்து, காலாண்டு வருவாய் 13 சதவீதம் அதிகரித்ததை அடுத்து 50 மில்லியன் டாலர் பங்கு மீள்வாங்குதலையும் நிறுவனம் அறிவித்தது. இந்த அறிவிப்புகளைத் தொடர்ந்து, SECZ பங்குகளின் மதிப்பு வர்த்தக நேரத்திற்குப் பிறகு 10 சதவீதம் உயர்ந்துள்ளது.",
-    "slug": "securitize-pushes-into-6-trillion-asset-backed-finance-market-with-river-one-acquisition"
+    "hasContent": true,
+    "pubDate": "2026-11-09T22:56:27.000Z"
   },
   {
     "id": "387ac8e4d2500d05",
+    "slug": "nvidia-ceo-jensen-huang-scandal-sparks-resignation-speculation",
     "title": "Nvidia CEO Jensen Huang scandal sparks resignation speculation",
-    "summary": "The scandal highlights the critical need for robust corporate governance and could influence market dynamics and investor confidence in AI firms.\nThe post Nvidia CEO Jensen Huang scandal sparks resignation speculation appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/nvidia-ceo-jensen-huang-scandal-sparks-resignation-speculation/",
-    "source": "CryptoBriefing",
     "tags": [
       "Nvidia",
       "Jensen Huang"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-09T22:49:52.000Z",
-    "fetchedAt": "2026-11-09T23:37:46.880Z",
-    "isDuplicateOf": null,
-    "content": "A recent scandal involving Nvidia CEO Jensen Huang has triggered speculation regarding a potential resignation. Market analysts note that this development emphasizes the critical importance of strong corporate governance. The situation could potentially impact overall investor confidence and market dynamics within the broader artificial intelligence sector.",
-    "content_ta": "Nvidia CEO Jensen Huang சம்பந்தப்பட்ட சமீபத்திய ஒரு ஊழல் அவர் பதவி விலகலாம் என்ற யூகங்களைத் தூண்டியுள்ளது. வலுவான கார்ப்பரேட் நிர்வாகத்தின் முக்கியத்துவத்தை இந்தச் சம்பவம் எடுத்துக்காட்டுவதாக சந்தை ஆய்வாளர்கள் குறிப்பிடுகின்றனர். இது AI துறையில் முதலீட்டாளர்களின் நம்பிக்கையையும் சந்தை இயக்கவியலையும் பாதிக்கக்கூடும்.",
-    "slug": "nvidia-ceo-jensen-huang-scandal-sparks-resignation-speculation"
+    "hasContent": true,
+    "pubDate": "2026-11-09T22:49:52.000Z"
   },
   {
     "id": "51f4600a62553734",
@@ -515,304 +783,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-09T20:07:48.000Z"
-  },
-  {
-    "id": "86c3c020cb438b13",
-    "slug": "circle-s-q3-earnings-show-usdc-getting-busier-even-as-crypto-cooled",
-    "title": "Circle’s Q3 earnings show USDC getting busier even as crypto cooled",
-    "tags": [
-      "Circle",
-      "USDC"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T20:07:43.000Z"
-  },
-  {
-    "id": "b0185cfa3fddf6c3",
-    "slug": "cisco-unveils-frontier-ai-red-teaming-and-agent-observability-tools",
-    "title": "Cisco unveils frontier AI red teaming and agent observability tools",
-    "tags": [
-      "Cisco"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T20:05:32.000Z"
-  },
-  {
-    "id": "9a48e9dc152576de",
-    "slug": "xrp-s-new-euro-cash-out-route-had-less-than-100-in-its-direct-market",
-    "title": "XRP’s new euro cash-out route had less than €100 in its direct market",
-    "tags": [
-      "XRP",
-      "GateHub"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T20:00:36.000Z"
-  },
-  {
-    "id": "80ce4e3465dc079c",
-    "slug": "california-dfpi-opposes-sec-crypto-rule-over-state-oversight-risk",
-    "title": "California DFPI Opposes SEC Crypto Rule Over State Oversight Risk",
-    "tags": [
-      "California DFPI",
-      "SEC",
-      "California",
-      "United States"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T20:00:26.000Z"
-  },
-  {
-    "id": "3e8f8e2c8bb7b41b",
-    "slug": "nvidia-stock-drops-18-in-two-weeks-amid-ai-semiconductor-concerns",
-    "title": "Nvidia stock drops 18% in two weeks amid AI, semiconductor concerns",
-    "tags": [
-      "Nvidia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T19:56:18.000Z"
-  },
-  {
-    "id": "36587095e3a97260",
-    "slug": "bnp-paribas-exec-says-the-bank-needs-an-abstraction-layer-to-reach-multiple-blockchains",
-    "title": "BNP Paribas exec says the bank needs an abstraction layer to reach multiple blockchains",
-    "tags": [
-      "BNP Paribas"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T19:47:14.000Z"
-  },
-  {
-    "id": "c3fe254bd3182686",
-    "slug": "miplata-launches-visa-prepaid-card-for-direct-stablecoin-spending",
-    "title": "MiPlata launches Visa prepaid card for direct stablecoin spending",
-    "tags": [
-      "MiPlata",
-      "Visa"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T19:44:37.000Z"
-  },
-  {
-    "id": "717c0a594c9ff230",
-    "slug": "study-finds-half-of-chatgpt-and-gemini-stock-picks-land-in-just-10-stocks",
-    "title": "Study finds half of ChatGPT and Gemini stock picks land in just 10 stocks",
-    "tags": [
-      "ChatGPT",
-      "Gemini"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T19:43:38.000Z"
-  },
-  {
-    "id": "4eefbe3f7fdf8366",
-    "slug": "robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
-    "title": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
-    "tags": [
-      "Robinhood",
-      "OKX",
-      "Intercontinental Exchange"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T19:36:15.000Z"
-  },
-  {
-    "id": "9dd3628316a42b3d",
-    "slug": "ethereum-stablecoin-and-tokenized-fund-market-cap-drops-19-to-168b",
-    "title": "Ethereum stablecoin and tokenized fund market cap drops 19% to $168B",
-    "tags": [
-      "Ethereum"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T19:25:20.000Z"
-  },
-  {
-    "id": "283d0dc7c5752240",
-    "slug": "peter-gostev-pits-fable-5-2-against-opus-across-more-than-100-generations",
-    "title": "Peter Gostev pits Fable 5.2 against Opus across more than 100 generations",
-    "tags": [
-      "Peter Gostev",
-      "Fable",
-      "Opus"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T19:20:22.000Z"
-  },
-  {
-    "id": "ec94bf725ab59e7d",
-    "slug": "transunion-adds-snappt-income-verification-to-its-smartmove-screening-platform",
-    "title": "TransUnion adds Snappt income verification to its SmartMove screening platform",
-    "tags": [
-      "TransUnion",
-      "Snappt",
-      "SmartMove"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T19:16:00.000Z"
-  },
-  {
-    "id": "85b2f3e73d319442",
-    "slug": "ubs-tech-sell-off-due-to-repositioning-ai-investment-remains-strong",
-    "title": "UBS: Tech sell-off due to repositioning, AI investment remains strong",
-    "tags": [
-      "UBS"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T19:15:16.000Z"
-  },
-  {
-    "id": "ea026b6892edfce7",
-    "slug": "epoch-ai-s-new-inference-index-shows-gb300-nvl72-far-outpaces-the-h100",
-    "title": "Epoch AI’s new inference index shows GB300 NVL72 far outpaces the H100",
-    "tags": [
-      "Epoch AI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T19:12:24.000Z"
-  },
-  {
-    "id": "8e665663b4722b4a",
-    "slug": "a-brazilian-crypto-exchange-plans-to-show-customers-their-money-not-let-them-move-it",
-    "title": "A Brazilian crypto exchange plans to show customers their money, not let them move it",
-    "tags": [
-      "Brazil",
-      "CryptoSlate"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T19:10:21.000Z"
-  },
-  {
-    "id": "2f682324d7f78c09",
-    "slug": "bitcoin-in-limbo-as-stocks-rebound-ahead-of-us-inflation-report",
-    "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
-    "tags": [
-      "Bitcoin",
-      "United States",
-      "Federal Reserve"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T19:06:03.000Z"
-  },
-  {
-    "id": "3dde97145596ba5a",
-    "slug": "opensea-mobile-launches-with-social-trading-feed-and-25-referral-fees",
-    "title": "OpenSea Mobile Launches with Social Trading Feed and 25% Referral Fees",
-    "tags": [
-      "OpenSea",
-      "The Fintech Times"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T19:00:38.000Z"
-  },
-  {
-    "id": "3b7bc21c0dac90d6",
-    "slug": "ai-selloff-could-push-bitcoin-toward-65k-before-capital-returns-to-crypto-hilbert-cio-says",
-    "title": "AI selloff could push Bitcoin toward $65K before capital returns to crypto, Hilbert CIO says",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T18:59:24.000Z"
-  },
-  {
-    "id": "66f06ec521913069",
-    "slug": "handshake-ai-reaches-1b-in-gross-annualized-revenue-in-about-a-year",
-    "title": "Handshake AI reaches $1B in gross annualized revenue in about a year",
-    "tags": [
-      "Handshake AI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T18:59:04.000Z"
-  },
-  {
-    "id": "e941e57ed3565b91",
-    "slug": "grok-nears-100-million-monthly-active-users-as-xai-s-chatbot-keeps-climbing",
-    "title": "Grok nears 100 million monthly active users as xAI’s chatbot keeps climbing",
-    "tags": [
-      "xAI",
-      "Grok"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T18:51:24.000Z"
-  },
-  {
-    "id": "f0c0ee8c23270940",
-    "slug": "google-says-gemini-is-helping-design-its-own-ai-chips-faster",
-    "title": "Google says Gemini is helping design its own AI chips faster",
-    "tags": [
-      "Google",
-      "Gemini"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T18:50:18.000Z"
-  },
-  {
-    "id": "0ea4ca7eb2454546",
-    "slug": "charles-schwab-expands-crypto-trading-to-sol-avax-and-link-xrp-not-included",
-    "title": "Charles Schwab Expands Crypto Trading to SOL, AVAX and LINK, XRP Not Included",
-    "tags": [
-      "Charles Schwab",
-      "Solana",
-      "Avalanche",
-      "Chainlink",
-      "XRP"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T18:37:51.000Z"
-  },
-  {
-    "id": "e3df55728962b9e1",
-    "slug": "tokenized-stocks-hit-3-740-000-000-in-distributed-value-as-platforms-expand-reach",
-    "title": "Tokenized Stocks Hit $3,740,000,000 in Distributed Value as Platforms Expand Reach",
-    "tags": [
-      "The Daily Hodl"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-09T18:32:06.000Z"
   }
 ]
