@@ -1,49 +1,751 @@
 [
   {
-    "id": "3a67d39eb74029e8",
-    "title": "New York federal judge denies Novig’s injunction bid, rules its sports event contracts are not swaps",
-    "summary": "A federal judge ruled New York can enforce gambling laws against Novig after finding its sports contracts are not swaps.",
-    "hasSummary": true,
-    "link": "https://www.theblock.co/news/regulation/2026-11-11-new-york-judge-denies-novig-injunction-bid-437828",
+    "id": "68f7162b81a715e3",
+    "slug": "kickstarter-brings-crowdfunding-orders-into-shopify-with-new-app",
+    "title": "Kickstarter Brings Crowdfunding Orders Into Shopify With New App",
+    "tags": [
+      "Kickstarter",
+      "Shopify"
+    ],
+    "source": "PYMNTS",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T12:00:03.000Z"
+  },
+  {
+    "id": "0a7c469671709a18",
+    "slug": "cequire-capital-to-deploy-100-million-in-stablecoins-ai-and-tokenized-assets",
+    "title": "Cequire Capital to deploy $100 million in stablecoins, AI and tokenized assets",
+    "tags": [
+      "Cequire Capital"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:59:35.000Z"
+  },
+  {
+    "id": "2f5ffa979c68d98b",
+    "slug": "zilch-expands-debt-facilities-to-395-million",
+    "title": "Zilch Expands Debt Facilities to £395 Million",
+    "tags": [
+      "Zilch",
+      "Deutsche Bank",
+      "United Kingdom"
+    ],
+    "source": "Financial IT",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:57:41.000Z"
+  },
+  {
+    "id": "edd90f28c12f2c03",
+    "slug": "barclays-boosts-blackrock-bitcoin-etf-stake-48-as-banks-expand-holdings",
+    "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
+    "tags": [
+      "Barclays",
+      "BlackRock",
+      "Bitcoin",
+      "Citigroup",
+      "Fidelity"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:56:23.000Z"
+  },
+  {
+    "id": "145c1a7cb727a372",
+    "slug": "fi-works-launches-signals-to-turn-predictive-insights-into-action-for-community-banks-and-credit",
+    "title": "FI Works Launches Signals to Turn Predictive Insights Into Action for Community Banks and Credit Unions",
+    "tags": [
+      "FI Works"
+    ],
+    "source": "Financial IT",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:47:49.000Z"
+  },
+  {
+    "id": "1f7ebe504805a138",
+    "slug": "western-union-scraps-intermex-deal-after-regulatory-fight",
+    "title": "Western Union Scraps Intermex Deal After Regulatory Fight",
+    "tags": [
+      "Western Union",
+      "International Money Express",
+      "California"
+    ],
+    "source": "PYMNTS",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:46:43.000Z"
+  },
+  {
+    "id": "f3c900b0fb5bc1bf",
+    "slug": "spacex-shares-extend-gains-premarket-climb-back-above-ipo-price",
+    "title": "SpaceX Shares Extend Gains Premarket, Climb Back Above IPO Price",
+    "tags": [],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-11T11:44:53.000Z"
+  },
+  {
+    "id": "47ae1c7f62369f12",
+    "slug": "baird-cuts-nvidia-price-target-to-200-cites-ai-slowdown-concerns",
+    "title": "Baird cuts Nvidia price target to $200, cites AI slowdown concerns",
+    "tags": [
+      "Baird",
+      "Nvidia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:44:42.000Z"
+  },
+  {
+    "id": "db95a36278361d46",
+    "slug": "german-antitrust-authority-probes-paypal-s-no-surcharge-policy",
+    "title": "German antitrust authority probes PayPal’s no-surcharge policy",
+    "tags": [
+      "PayPal",
+      "Germany",
+      "European Union"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:44:03.000Z"
+  },
+  {
+    "id": "db060944ebe40c09",
+    "slug": "bitcoin-and-blockchain-basics",
+    "title": "Bitcoin and Blockchain Basics",
+    "tags": [
+      "Bitcoin"
+    ],
     "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:43:50.000Z"
+  },
+  {
+    "id": "df81a720290c57a9",
+    "slug": "us-card-debt-hits-1-29-trillion-as-bitcoin-loans-expose-a-collateral-divide",
+    "title": "US card debt hits $1.29 trillion as Bitcoin loans expose a collateral divide",
+    "tags": [
+      "United States",
+      "Bitcoin",
+      "Coinbase",
+      "CryptoSlate"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:40:03.000Z"
+  },
+  {
+    "id": "5a6f8e25a1fa9e7b",
+    "slug": "bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
+    "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
+    "tags": [
+      "Bitcoin",
+      "United States"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:37:04.000Z"
+  },
+  {
+    "id": "751abbeaeaae93d8",
+    "slug": "teciem-appoints-mufg-americas-cio-alla-whitston-as-non-executive-director",
+    "title": "Teciem appoints MUFG Americas CIO Alla Whitston as non-executive director",
+    "tags": [
+      "Teciem",
+      "MUFG",
+      "Alla Whitston"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:36:00.000Z"
+  },
+  {
+    "id": "2003b2add89d0f3f",
+    "slug": "bank-of-england-s-cautious-interest-rate-rise-could-prolong-high-borrowing-costs-warns-niesr",
+    "title": "Bank of England’s Cautious Interest Rate Rise Could Prolong High Borrowing Costs, Warns NIESR",
+    "tags": [],
+    "source": "Financial IT",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-11T11:26:56.000Z"
+  },
+  {
+    "id": "f4b88c17418475c0",
+    "slug": "alphabet-plans-about-3-billion-debut-bond-sale-in-hong-kong-and-singapore-dollars",
+    "title": "Alphabet plans about $3 billion debut bond sale in Hong Kong and Singapore dollars",
+    "tags": [
+      "Alphabet",
+      "Hong Kong",
+      "Singapore"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:23:37.000Z"
+  },
+  {
+    "id": "61ec396dec2ad81e",
+    "slug": "solana-could-dip-to-74-as-fed-rate-hike-odds-hit-99",
+    "title": "Solana could  dip to $74 as Fed rate-hike odds hit 99%",
+    "tags": [
+      "Solana",
+      "Federal Reserve"
+    ],
+    "source": "CoinJournal",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:22:37.000Z"
+  },
+  {
+    "id": "3eb100b9b90cbc6b",
+    "slug": "bmll-and-vola-dynamics-partners-to-unify-historical-data-with-options-analytics",
+    "title": "BMLL and Vola Dynamics partners to unify historical data with options analytics",
+    "tags": [
+      "BMLL",
+      "Vola Dynamics"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:22:00.000Z"
+  },
+  {
+    "id": "59f1b3abfccbc59e",
+    "slug": "gala-price-prediction-2026-2027-2030-will-gala-price-record-2x-surge",
+    "title": "GALA Price Prediction 2026, 2027 – 2030: Will Gala Price Record 2X Surge?",
+    "tags": [
+      "GALA",
+      "Gala Games"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:21:35.000Z"
+  },
+  {
+    "id": "3b8f1805bd333f2d",
+    "slug": "yaspa-partners-with-the-big-leagues-to-deliver-instant-open-banking-payments-and-seamless",
+    "title": "Yaspa Partners With The Big Leagues to Deliver Instant Open Banking Payments and Seamless Onboarding for UK Sports Prize Draw Platform",
+    "tags": [
+      "Yaspa",
+      "The Big Leagues",
+      "United Kingdom"
+    ],
+    "source": "Financial IT",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:21:21.000Z"
+  },
+  {
+    "id": "f46831fa2cb40620",
+    "slug": "healthcare-just-hit-a-record-lead-over-tech-3-things-could-shrink-it",
+    "title": "Healthcare Just Hit a Record Lead Over Tech. 3 Things Could Shrink It",
+    "tags": [
+      "The Kobeissi Letter"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:20:53.000Z"
+  },
+  {
+    "id": "c0a025bcb5ee74ea",
+    "slug": "equifax-uk-and-clearscore-harness-rental-data-to-help-drive-financial-inclusion-for-millions-of",
+    "title": "Equifax UK and ClearScore Harness Rental Data to Help Drive Financial Inclusion for Millions of Renters",
+    "tags": [
+      "Equifax UK",
+      "ClearScore",
+      "United Kingdom"
+    ],
+    "source": "Financial IT",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:16:32.000Z"
+  },
+  {
+    "id": "5d9ed8424207b518",
+    "slug": "anthropic-ipo-valuation-reportedly-trimmed-as-meta-guides-up-to-145-billion-in-capex",
+    "title": "Anthropic IPO valuation reportedly trimmed as Meta guides up to $145 billion in capex",
+    "tags": [
+      "Anthropic",
+      "Meta"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:14:13.000Z"
+  },
+  {
+    "id": "f625dcdf347bf7ad",
+    "slug": "crypto-india-ed-probes-hashpay-over-fake-crypto-and-1-daily-return-promises",
+    "title": "Crypto India: ED Probes Hashpay Over Fake Crypto and 1% Daily Return Promises",
+    "tags": [
+      "Hashpay",
+      "Enforcement Directorate",
+      "TCX",
+      "India"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:12:39.000Z"
+  },
+  {
+    "id": "8f5389e2e3f09571",
+    "slug": "credit-agricole-deutschland-selects-enfuce-as-partner-for-visa-debit-cards",
+    "title": "Crédit Agricole Deutschland Selects Enfuce as Partner for Visa Debit Cards",
+    "tags": [
+      "Crédit Agricole Deutschland",
+      "Enfuce",
+      "Germany",
+      "Visa",
+      "Giesecke+Devrient"
+    ],
+    "source": "Financial IT",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:11:41.000Z"
+  },
+  {
+    "id": "6e31a25a651f731f",
+    "slug": "solana-lst-holders-earn-230m-in-staking-rewards-via-sanctum",
+    "title": "Solana LST holders earn $230M in staking rewards via Sanctum",
+    "tags": [
+      "Solana",
+      "Sanctum"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:09:12.000Z"
+  },
+  {
+    "id": "da6b782a8e05fdc1",
+    "slug": "kingdom-bank-goes-live-with-sandstone-technology",
+    "title": "Kingdom Bank goes live with Sandstone Technology",
+    "tags": [
+      "Sandstone Technology",
+      "Kingdom Bank",
+      "United Kingdom"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:08:00.000Z"
+  },
+  {
+    "id": "5c38b4b3f8dab57a",
+    "slug": "bitcoin-short-term-holders-send-47k-btc-to-exchanges-at-a-loss",
+    "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:05:26.000Z"
+  },
+  {
+    "id": "dc9a61e413357376",
+    "slug": "claroc-finds-35-578-grok-build-apps-open-to-anyone-with-a-link",
+    "title": "Claroc finds 35,578 Grok Build apps open to anyone with a link",
+    "tags": [
+      "Claroc",
+      "Grok Build"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:04:15.000Z"
+  },
+  {
+    "id": "3f072d56c34f5f57",
+    "slug": "mega-commits-30m-to-new-products-plans-decentralization-by-q1-2027",
+    "title": "MEGA commits $30M to new products, plans decentralization by Q1 2027",
+    "tags": [
+      "MEGA"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T11:01:52.000Z"
+  },
+  {
+    "id": "478f8efc26cb146e",
+    "slug": "crosschain-protocol-across-restores-systems-after-domain-hijack",
+    "title": "Crosschain protocol Across restores systems after domain hijack",
+    "tags": [
+      "Across",
+      "Namecheap"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T10:55:24.000Z"
+  },
+  {
+    "id": "4e9c16f51c426038",
+    "slug": "kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-1-1-billion",
+    "title": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
+    "tags": [
+      "Kraken",
+      "xStocks",
+      "DAX",
+      "United Kingdom",
+      "European Union",
+      "Hong Kong"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T10:51:34.000Z"
+  },
+  {
+    "id": "985dd6ea703302e6",
+    "slug": "bitcoin-holds-steady-as-coreweave-earnings-revive-ai-outlook-anthropic-said-to-raise-ipo-valuation",
+    "title": "Bitcoin holds steady as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
+    "tags": [
+      "Bitcoin",
+      "CoreWeave",
+      "Anthropic",
+      "Nasdaq"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T10:45:49.000Z"
+  },
+  {
+    "id": "b0227730639d4db4",
+    "slug": "helsing-unveils-clarity-a-european-rival-to-palantir-s-maven-ai-system",
+    "title": "Helsing unveils Clarity, a European rival to Palantir’s Maven AI system",
+    "tags": [
+      "Helsing",
+      "Palantir",
+      "Europe"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T10:44:41.000Z"
+  },
+  {
+    "id": "c6c7b6b2ea44fdb2",
+    "slug": "crypto-traders-need-to-do-this-before-thinking-about-making-money",
+    "title": "Crypto Traders Need to Do This Before Thinking About Making Money",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T10:36:58.000Z"
+  },
+  {
+    "id": "dcff1f030942790c",
+    "slug": "96-of-older-bitcoin-being-sent-to-exchanges-is-now-underwater",
+    "title": "96% of older Bitcoin being sent to exchanges is now underwater",
+    "tags": [
+      "Bitcoin",
+      "CryptoSlate"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T10:35:42.000Z"
+  },
+  {
+    "id": "71c12db961a8b65d",
+    "slug": "airdrop-trap-xrp-community-gets-targeted-by-11-5-million-scam-posts",
+    "title": "Airdrop Trap? XRP Community Gets Targeted by 11.5 Million Scam Posts",
+    "tags": [
+      "XRP"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T10:30:16.000Z"
+  },
+  {
+    "id": "c0fefb08ddd61a51",
+    "slug": "msci-set-to-announce-whether-strategy-and-metaplanet-stay-in-its-global-indexes",
+    "title": "MSCI set to announce whether Strategy and Metaplanet stay in its global indexes",
+    "tags": [
+      "MSCI",
+      "Strategy",
+      "Metaplanet"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T10:26:00.000Z"
+  },
+  {
+    "id": "bfd9d8e8d0650542",
+    "slug": "is-capital-abandoning-altcoins-ethereum-and-solana-price-struggle-as-bitcoin-dominance-rises",
+    "title": "Is Capital Abandoning Altcoins? Ethereum and Solana Price Struggle as Bitcoin Dominance Rises",
+    "tags": [
+      "Bitcoin",
+      "Ethereum",
+      "Solana"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T10:21:08.000Z"
+  },
+  {
+    "id": "ad3828307aa436c5",
+    "slug": "prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell",
+    "title": "Prisoner Jailed for 8 Years Over $2.7M Crypto Theft Plot Run From His Cell",
+    "tags": [
+      "Robert Barr",
+      "Crypto Briefing"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T10:20:53.000Z"
+  },
+  {
+    "id": "b4eb75ee61005dfa",
+    "slug": "loopring-lrc-price-prediction-2026-2027-2030-is-lrc-heading-for-recovery-or-collapse",
+    "title": "Loopring (LRC) Price Prediction 2026, 2027-2030: Is LRC Heading for Recovery or Collapse?",
+    "tags": [
+      "Loopring"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T10:16:00.000Z"
+  },
+  {
+    "id": "4b457caee86d5237",
+    "slug": "former-pennsylvania-bank-employee-accused-of-stealing-101-246-by-opening-fake-accounts-in-other",
+    "title": "Former Pennsylvania Bank Employee Accused of Stealing $101,246 by Opening Fake Accounts in Other People’s Names for 20 Years",
+    "tags": [
+      "Todd Michael Jones",
+      "First National Bank",
+      "Pennsylvania State Police",
+      "Pennsylvania"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T10:15:12.000Z"
+  },
+  {
+    "id": "88b91ca39be6e2b3",
+    "slug": "tesla-plans-to-start-battery-cell-production-in-germany-by-mid-2027",
+    "title": "Tesla plans to start battery cell production in Germany by mid-2027",
+    "tags": [
+      "Tesla",
+      "Germany",
+      "Europe"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T10:14:49.000Z"
+  },
+  {
+    "id": "021aadef9c9d5351",
+    "slug": "bytedance-readies-a-muse-style-ai-agent-as-meta-s-launch-sets-the-pace",
+    "title": "ByteDance readies a Muse-style AI agent as Meta’s launch sets the pace",
+    "tags": [
+      "ByteDance",
+      "Meta",
+      "Tencent"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T10:14:46.000Z"
+  },
+  {
+    "id": "1c9c8505daf66557",
+    "slug": "amd-says-mext-software-could-cut-server-costs-by-up-to-83-by-swapping-dram-for-flash",
+    "title": "AMD says Mext software could cut server costs by up to 83% by swapping DRAM for flash",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-11T10:07:15.000Z"
+  },
+  {
+    "id": "a6a4dbad067bb4f2",
+    "slug": "giancarlo-says-us-crypto-can-thrive-without-the-clarity-act",
+    "title": "Giancarlo says US crypto can thrive without the Clarity Act",
+    "tags": [
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T10:04:32.000Z"
+  },
+  {
+    "id": "f221e153d9a4da3f",
+    "title": "Emirates NBD and Bridgewise Launch AI-Powered Market Insights on ENBD X",
+    "summary": "Emirates NBD, a leading banking group in the Middle East, North Africa, Türkiye and South Asia (MENATSA) region, has announced the launch of real-time AI market insights for digital wealth customers on ENBD X, developed in collaboration with Bridgewise, the global leader in embedded investment AI. \nDelivered through a fully native experience within ENBD X with no additional cost, the new Bridgewise feature identifies significant global market movements across global equities and ETFs in the United States, Europe and Asia. Customers will receive timely, AI-generated analyses tailored to their current holdings, helping them understand key market drivers and the rationale behind price movements, without needing to monitor multiple third-party news sources. The new solution is now live, starting with a select group of customers and expanding to all customers by month-end. Feedback from early users will support an enhanced experience for the wider launch.\nThe launch builds on Emirates NBD’s commitment to making digital investment more accessible through ENBD X, where customers can invest in real time, 24/7, across local and global equities, ETFs, fractional bonds and sukuks, mutual funds and physical gold and silver.\nNeeraj Makin, Group Head of Strategy, Analytics and Venture Capital at Emirates NBD, said: “At Emirates NBD, we continue to invest in technologies that respond to our clients’ evolving needs and make their wealth journey simpler, more informed and more accessible. Our launch with Bridgewise brings AI-powered market intelligence and clear, actionable insights directly into our customers’ investment journey, helping them make more informed decisions through the platforms they already use every day.”\nMohammad Al Bastaki, Group Head of Private Banking and Wealth Management at Emirates NBD, said: “Investing can be complex, particularly when markets are moving quickly. By bringing Bridgewise’s AI-powered insights into ENBD X, we aim to make it easier for our customers to understand what is happening in the markets and what it could mean for their investments. It is another step towards making ENBD X a smarter, more intuitive wealth platform that helps customers make informed decisions with confidence.”\nThe launch aligns with strong regional demand for automated financial intelligence. Bridgewise’s State of AI for Wealth in 2026 report ranks the UAE first globally for momentum in adopting AI for investment research and second for overall optimism. Across the Middle East, 60% of respondents report using AI regularly for investment information, with 82% expressing confidence in the accuracy of its insights. The market insights solution is the first product to reach Emirates NBD customers under the partnership and extends Bridgewise’s presence in one of the region’s most active wealth markets.\n“Emirates NBD believed in us early, first as an investor and then as a partner, and bringing our solutions to its customers is a real milestone for us,\" said Dor Eligula, Co-Founder and CBO at Bridgewise. \"The UAE is one of the most AI-ready markets in the world, and Emirates NBD is building ambitiously for it. We are excited about what we can achieve together and we see this as the foundation for long-term growth.” \nThe launch is the first Bridgewise solution available to Emirates NBD’s digital wealth customers, building on the bank’s participation in Bridgewise’s Series A round through the Emirates NBD Innovation Fund, the bank’s corporate venture capital arm and Bridgewise securing its license from the Dubai International Financial Centre (DIFC).\nThe partnership also lays the foundation for further enhancements. Through 2026, the companies plan to expand alert coverage and introduce additional AI-enabled capabilities, including independent research supported by technical and fundamental analysis. Bridget™, Bridgewise’s regulatory-compliant conversational assistant, is planned as the next component.\nNoYesDigital banking11 Nov, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/digital-banking/emirates-nbd-and-bridgewise-launch-ai-powered-market-insights-enbd-x",
+    "source": "Financial IT",
+    "tags": [
+      "Emirates NBD",
+      "Bridgewise",
+      "United Arab Emirates",
+      "ENBD X"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-11T10:02:52.000Z",
+    "fetchedAt": "2026-11-11T12:01:26.645Z",
+    "isDuplicateOf": null,
+    "content": "Emirates NBD has launched real-time AI-powered market insights for digital wealth customers on its ENBD X platform, in partnership with Bridgewise. The new feature provides global equity and ETF analyses tailored to customer holdings at no additional cost. The collaboration aims to make digital investment more accessible and informed, aligning with strong regional demand for automated financial intelligence in the UAE.",
+    "content_ta": "Emirates NBD நிறுவனம் Bridgewise கூட்டாண்மையுடன் இணைந்து, தனது ENBD X தளத்தில் டிஜிட்டல் செல்வம் சார்ந்த வாடிக்கையாளர்களுக்காக நிகழ்நேர AI சந்தை நுண்ணறிவு சேவையைத் தொடங்கியுள்ளது. இந்த புதிய அம்சம் உலகளாவிய பங்குகள் மற்றும் ETF பகுப்பாய்வுகளை வாடிக்கையாளர்களின் முதலீடுகளுக்கு ஏற்ப கூடுதல் கட்டணமின்றி வழங்குகிறது. இந்த ஒத்துக்கழைப்பு டிஜிட்டல் முதலீட்டை மேலும் எளிமையாக்குவதை நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "emirates-nbd-and-bridgewise-launch-ai-powered-market-insights-on-enbd-x"
+  },
+  {
+    "id": "8b73b1f14d57b7cb",
+    "slug": "mojo-mortgages-income-caps-will-block-13-from-your-first-home",
+    "title": "Mojo Mortgages: Income Caps will Block 13% from ‘Your First Home’",
+    "tags": [
+      "Mojo Mortgages",
+      "London"
+    ],
+    "source": "The Fintech Times",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T10:00:04.000Z"
+  },
+  {
+    "id": "759487ea7b0ec569",
+    "slug": "bitget-wallet-reports-sevenfold-jump-in-crypto-phishing-risk-alerts",
+    "title": "Bitget Wallet reports sevenfold jump in crypto phishing risk alerts",
+    "tags": [
+      "Bitget Wallet"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T10:00:00.000Z"
+  },
+  {
+    "id": "34628355bf8e8afa",
+    "slug": "wasabicard-launches-local-issuing-across-more-than-100-markets",
+    "title": "WasabiCard launches local issuing across more than 100 markets",
+    "tags": [
+      "WasabiCard"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T10:00:00.000Z"
+  },
+  {
+    "id": "b7edd2e42266fa5e",
+    "title": "Payments Need an Operating System, Not Another Tool",
+    "summary": "Ask a Head of Payments how many systems they open to explain why approval rates dropped in Germany last Tuesday, and the answer is rarely fewer than four. A PSP dashboard, an acquirer portal, a fraud console, a finance spreadsheet. Each does its job. Together, they leave nobody in control.\nThat is the case for a payment operating system: one layer that runs the whole payment stack, rather than another product bolted onto it. Since we founded Corefy in 2018, I have watched teams solve connectivity again and again and still lose control of what happens after the connection. That gap is the next decision that separates payment teams who steer from those who react.\nMost payment stacks grew by accident\nPayment stacks are rarely planned. A second PSP gets added for redundancy, a local acquirer for a new market, a wallet because a product team asked for it, a fraud vendor after a bad quarter. Every decision made sense at the time, and the result is a stack that nobody has a full view of.\nOur own research shows how common this is. In The State of Payment Maturity 2025, 58.5% of the 672 businesses assessed ran fragmented payments, with disconnected providers and tools. Only 11.7% reached the responsive or agile stages, where payments are managed as one adaptive system. Manual processing has almost disappeared (1.0%), and single-provider setups keep declining, so connecting to providers is no longer the hard part. The remaining gap is control across them.\nEvery new tool adds another silo\nThe reflex answer to fragmentation is to buy something: a routing tool, a reconciliation tool, a monitoring tool. Each purchase is rational. Each also brings an integration, a dashboard, and a data model to maintain. The routing tool does not know what reconciliation found. The analytics tool sees transactions after the fact and cannot change how the next one is processed.\nI understand the best-of-breed argument, and for a team with a large platform engineering function it can work. The objection I hear most is, \"we can wire these together ourselves.\" Many do. The cost appears later, when adding a provider in a new market touches five systems and takes two quarters of engineering time. A stack of tools records decisions made at different moments by different people. It has no way to make them together.\nA payment operating system gives the stack one layer of control\nAn operating system does not replace the applications on a computer. It gives them shared resources, a common interface, and rules for who gets what. A payment operating system does the same for providers, methods, and data. Your PSPs and acquirers stay where they are, and the operating system sits above them.\nIn architectural terms, this is a payment hub architecture: providers connect to the hub once, and everything above it, from checkout to finance, talks to a single interface. Four layers define a payment infrastructure built this way:\nConnectivity. One integration replaces a project per provider. Corefy's catalog holds 650+ connectors with standardized APIs, webhooks, and error handling, which means enabling a provider becomes configuration instead of a build.\nControl. Routing & Cascading rules by BIN, geography, currency, risk, or provider performance decide where each transaction goes, then retry recoverable declines through the next eligible route. Payment managers change the logic themselves, without a ticket to engineering.\nData. Every transaction from every provider lands in one normalized record. Reconciliations match that record against provider statements and surface only the exceptions, so finance stops reviewing everything by hand.\nOperations. Payments and payouts, roles, merchant hierarchies, and alerts run from the same place as acceptance, so one team sees the full money flow.\nConcentrating control in one layer raises a fair question: does that create a new single point of failure and a new vendor lock-in? The risk is real, and the design answers it. Contracts, merchant accounts, and credentials stay with your providers. Corefy, for example, does not hold client funds. Insist that routing logic and transaction data remain exportable, and insist on failover inside the layer itself.\nThree signs your stack has outgrown its tools\nYou do not need a formal audit to know where you stand. Check three things:\nAdding a provider takes weeks of engineering instead of days of configuration.\nRouting changes need a developer, so nobody changes them, and last year's rules still run.\nPayments and finance disagree about last month's numbers, and settling the difference takes a spreadsheet and a meeting.\nIf two of the three sound familiar, you are managing integrations, not payments. That work belongs in a layer built for it.\nStart by adding to the stack, not replacing it\nThe usual objection is risk: nobody wants to rip out a live stack. A payment operating system does not require a big-bang migration. Start with what is new. Put the next provider, the next market, or the next payment method on the operating system first. If you already process through a gateway or another orchestration platform and only lack connectors, Payment Bridge adds 650+ of them without migration or downtime.\nThen move the routing logic for one market, then reconciliation. Old integrations retire on their own once nothing new depends on them. Founders building a payment business can follow the same path from the other side: a white-label foundation lets you launch on the operating system instead of writing one.\nRun payments as a system\nThe data says the first problem is behind us. Manual processing is gone, and connectors are a commodity. What separates a payment team that steers from one that reacts is a single place where routing, data, and operations meet. That is what a payment operating system provides, and it is the standard I expect payment teams to hold themselves to over the next few years.\nIf you want to see what this looks like on your own stack, talk to the Corefy team. Bring your provider list and your most frustrating report. We will start there.\n \nYes#paymentsDenys Kyrychenko, Co-Founder & CEOCorefy11 Nov, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/blog/payments/payments-need-operating-system-not-another-tool",
+    "source": "Financial IT",
+    "tags": [
+      "Corefy",
+      "Germany"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-11T09:57:36.000Z",
+    "fetchedAt": "2026-11-11T12:01:26.645Z",
+    "isDuplicateOf": null,
+    "content": "A recent industry analysis shows that many businesses run fragmented payment stacks with disconnected tools, creating operational challenges. Experts argue that adding more standalone tools only increases silos. Instead, adopting a payment operating system—a single control layer sitting above providers for connectivity, routing, data normalization, and operations—allows payment teams to regain control without requiring a complete migration of live stacks.",
+    "content_ta": "தற்போதைய தொழில்துறை பகுப்பாய்வு பல வணிகங்கள் துண்டிக்கப்பட்ட கருவிகளைக் கொண்ட சிதறிய கட்டண முறைகளைக் கொண்டுள்ளன என்பதை வெளிப்படுத்துகிறது. தனித்தனி கருவிகளை சேர்ப்பது மேலும் சிக்கல்களை மட்டுமே உருவாக்குகிறது என்று நிபுணர்கள் வாதிடுகின்றனர். அதற்கு பதிலாக, இணைப்புகள், ரூட்டிங், தரவு இயல்பாக்கம் மற்றும் செயல்பாடுகளுக்காக வழங்குநர்களுக்கு மேல் அமர்ந்திருக்கும் ஒற்றை கட்டுப்பாட்டு அடுக்கான பேமெண்ட் ஆப்பரேட்டிங் சிஸ்டத்தைப் பயன்படுத்துவது, முழுமையான இடம்பெயர்வு தேவையில்லாமல் கட்டுப்பாட்டை மீண்டும் பெற கட்டணக் குழுக்களை அனுமதிக்கிறது.",
+    "slug": "payments-need-an-operating-system-not-another-tool"
+  },
+  {
+    "id": "034f1e62719c1c64",
+    "slug": "3-surprising-factors-behind-bitcoin-s-brutal-8k-weekly-drop",
+    "title": "3 Surprising Factors Behind Bitcoin’s Brutal $8K Weekly Drop",
+    "tags": [],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-11T09:55:26.000Z"
+  },
+  {
+    "id": "34aca946f8c5199a",
+    "slug": "sec-enforcement-hits-35-year-low-under-trump-could-crypto-benefit",
+    "title": "SEC Enforcement Hits 35-Year Low Under Trump – Could Crypto Benefit?",
+    "tags": [
+      "SEC",
+      "Donald Trump",
+      "Bitcoin"
+    ],
+    "source": "Bitcoinist",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T09:49:13.000Z"
+  },
+  {
+    "id": "702e11bd7c25ce0f",
+    "title": "The Investment Hiding in Plain Sight",
+    "summary": "Every investment proposal arriving on a CFO's desk has to answer the same question: what is the return? Finance modernisation should be judged by the same standard. So the question, therefore, is what measurable return will an investment in modernising your finance function deliver.\nThe most compelling business cases are built on returns that begin to accrue from day one, and this is not a pipedream. Corpay’s research engaged with 300 UK CFOs and they agreed that finance modernisation can deliver this. Not eventually or after a multi-year transformation programme, but from the moment payment strategy begins to change.\nGetting more from your modernisation: improving liquidity before it improves technology\nWorking capital is often discussed as though it’s created through borrowing. Yet some of the quickest gains come from changing how money leaves the business. Card-led payment strategies can extend payment timing, which means organisations retain cash for longer without disrupting supplier relationships. That is liquidity improvement with minimum impact on technology, straightforward implementation, and limited upfront investment.\nWorking capital is a strategic asset. Finance teams with greater liquidity can respond to opportunities quicker, manage unexpected costs more comfortably and approach investment decisions from a position of greater confidence. Unsurprisingly, 99% of the CFOs in our research said that additional working capital flexibility would be at least somewhat valuable but getting there requires a more deliberate approach to how payments are executed.\nEvery payment can be the beginning of value creation\nEvery payment has traditionally been treated as the end of a transaction. Increasingly, finance leaders are recognising it can also be the beginning of value creation.\nWhen organisations consolidate qualifying spend onto card-based payments, they create the conditions for rebate income, creating a direct financial return on operational spending that would otherwise generate nothing beyond the transaction itself. When CFOs in our research were asked how they would reinvest a 1% rebate on qualifying spend, they prioritised automation, employee development and training.\nTaken together, improved working capital and commercial card rebates can turn operational spending into a source of financial value. That value can then be reinvested in further modernisation. Payments become a commercial lever, with returns beginning from the first qualifying transaction and growing as more eligible spend moves onto card.\nThe capacity question: what is reclaimed time actually worth?\nEarlier this year, we called this hidden operational burden the Manual Tax because every finance team pays it, whether it appears on a budget line or not. The hours absorbed by administration across expenses, invoices and supplier payments cost UK finance teams the equivalent of a working day per person, per week. 86% of finance teams are living with that reality right now, according to our research.\nThe next question is what that reclaimed capacity is actually worth to the business. When CFOs were asked how they would redeploy time if administrative workload were reduced by 25 to 50%, the answer was consistent: Forecasting, strategic planning and business partnering. These are the activities and work that define what a finance function can contribute to an organisation's overall performance.\nReducing that burden doesn’t require a full system replacement. Instead, it’s structuring spend at the point of payment rather than reconstructing it downstream. When transaction data is captured automatically, the reconciliation workload reduces significantly, control moves closer to the moment of spending, visibility improves in real time and finance teams recover capacity that can be directed toward higher-value work from the following week, not the following year.\nBuilding the case for more working capital\nI hope the examples I’ve provide show that finance modernisation does not have to begin with a large-scale and expensive transformation programme. The strongest business cases with immediate returns are often built through smaller, deliberate decisions that tackle less traditional finance functions.\nWorking capital flexibility and rebate income are all available to any organisation willing to take a more deliberate approach to how spend is authorised, executed and recorded. The returns are fast, measurable and more accessible than most CFOs assume.\nFor many organisations, that journey starts with payment strategy. Making modernisation pay is about making better decisions about how money moves through the business with as much attention on payment channels as other areas.\n#Investment Piero MacariVP Product Corporate PaymentsCorpay11 Nov, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/blog/investment/investment-hiding-plain-sight",
+    "source": "Financial IT",
+    "tags": [
+      "Corpay",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-11T09:47:27.000Z",
+    "fetchedAt": "2026-11-11T12:01:26.645Z",
+    "isDuplicateOf": null,
+    "content": "Finance modernisation does not require multi-year transformation programmes. According to recent research by Corpay involving UK CFOs, targeted changes to payment strategies can deliver immediate returns through improved working capital, commercial card rebates, and reduced manual administrative tasks. By optimising how money leaves the business and capturing transaction data automatically, finance teams can unlock liquidity and redirect reclaimed time toward strategic planning and business growth.",
+    "content_ta": "நிதி நவீனமயமாக்கலுக்கு பல ஆண்டுகள் நீடிக்கும் மாற்றங்கள் தேவையில்லை. UK-ஐச் சேர்ந்த CFO-க்களை உள்ளடக்கிய Corpay-யின் சமீபத்திய ஆராய்ச்சியின்படி, கட்டண உத்திகளில் இலக்கு வைக்கப்படும் மாற்றங்கள், மேம்பட்ட பணி மூலதனம் (working capital), வணிக அட்டை தள்ளுபடிகள் மற்றும் குறைந்த கைமுறை நிர்வாகப் பணிகள் மூலம் உடனடி பலன்களைத் தர முடியும். நிறுவனத்திலிருந்து பணம் வெளியேறும் முறையை மேம்படுத்துவதன் மூலமும், பரிவர்த்தனை தரவுகளைத் தானாகப் பதிவு செய்வதன் மூலமும், நிதி அணிகள் பணப்புழக்கத்தை அதிகரித்து, மூலோபாய திட்டமிடலில் நேரத்தைச் செலுத்த முடியும்.",
+    "slug": "the-investment-hiding-in-plain-sight"
+  },
+  {
+    "id": "3a67d39eb74029e8",
+    "slug": "new-york-federal-judge-denies-novig-s-injunction-bid-rules-its-sports-event-contracts-are-not-swaps",
+    "title": "New York federal judge denies Novig’s injunction bid, rules its sports event contracts are not swaps",
     "tags": [
       "Novig",
       "New York"
     ],
+    "source": "The Block",
     "origin": "rss",
-    "pubDate": "2026-11-11T09:40:46.000Z",
-    "fetchedAt": "2026-11-11T09:43:39.746Z",
-    "isDuplicateOf": null,
-    "content": "A New York federal judge has denied Novig’s bid for an injunction, ruling that the company's sports event contracts do not qualify as swaps. The decision allows New York to enforce its state gambling laws against Novig, dealing a setback to the platform's attempts to operate under alternative regulatory definitions.",
-    "content_ta": "Novig-ன் தடை உத்தரவு கோரிய மனுவை New York பெடரல் நீதிபதி தள்ளுபடி செய்துள்ளார். நிறுவனத்தின் sports event ஒப்பந்தங்கள் swaps அல்ல என்று தீர்ப்பளித்துள்ளார். இதன் மூலம் New York-ல் உள்ள சூதாட்ட சட்டங்களை Novig மீது அமல்படுத்த வழிவகை செய்யப்பட்டுள்ளது.",
-    "slug": "new-york-federal-judge-denies-novig-s-injunction-bid-rules-its-sports-event-contracts-are-not-swaps"
+    "hasContent": true,
+    "pubDate": "2026-11-11T09:40:46.000Z"
   },
   {
     "id": "3427cc3c17eba527",
+    "slug": "openai-posts-11b-loss-despite-10b-revenue-surge-wsj",
     "title": "OpenAI posts $11B loss despite $10B revenue surge: WSJ",
-    "summary": "OpenAI's financial trajectory raises concerns about its long-term viability, with potential solvency issues if current trends persist.\nThe post OpenAI posts $11B loss despite $10B revenue surge: WSJ appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/openai-posts-11b-loss-despite-10b-revenue-surge-wsj/",
-    "source": "CryptoBriefing",
     "tags": [
       "OpenAI",
       "Wall Street Journal"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-11T09:37:26.000Z",
-    "fetchedAt": "2026-11-11T09:43:39.746Z",
-    "isDuplicateOf": null,
-    "content": "OpenAI has reportedly recorded a significant $11 billion loss despite experiencing a massive $10 billion revenue surge, according to a recent Wall Street Journal report. This financial trajectory has sparked concerns within the industry regarding the long-term viability and potential solvency issues of the artificial intelligence firm if these current spending and growth trends continue over time.",
-    "content_ta": "Wall Street Journal அறிக்கையின்படி, OpenAI நிறுவனம் பத்தப் பில்லியன் டாலர் வருவாய் அதிகரிப்பைப் பெற்ற போதிலும், பதினொரு பில்லியன் டாலர் நஷ்டத்தைச் சந்தித்துள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது. இந்த நிதி நிலை போக்கு, நிறுவனத்தின் நீண்டகால நிலைத்தன்மை மற்றும் எதிர்காலச் solvency சிக்கல்கள் குறித்த கவலைகளை எழுப்பியுள்ளது.",
-    "slug": "openai-posts-11b-loss-despite-10b-revenue-surge-wsj"
+    "hasContent": true,
+    "pubDate": "2026-11-11T09:37:26.000Z"
   },
   {
     "id": "71868cf26876e75f",
+    "slug": "wirex-strengthens-uk-board-with-appointment-of-julian-sawyer-as-independent-non-executive-director",
     "title": "Wirex Strengthens UK Board With Appointment of Julian Sawyer as Independent Non-Executive Director",
-    "summary": "Wirex Limited, the UK headquartered payments provider, has appointed Julian Sawyer, co-founder and former Chief Operating Officer of Starling Bank, to the Board as an Independent Non-Executive Director. \nSawyer brings experience across digital banking, payments and digital assets. As an Independent Non-Executive Director, he will provide independent oversight and challenge to the Board, including on strategy, risk and controls, and customer oversight.  \nSawyer co-founded Starling Bank in 2015 and served as its Chief Operating Officer until 2019, leading the bank’s operations, including its card launch and Starling Payment Services, its platform giving other firms access to UK payment schemes. He went on to become Managing Director, Europe at Gemini, and then Chief Executive Officer of Bitstamp and Zodia Custody, and is an Independent Non-Executive Director of Recognise Bank. \nChetan Shah, CEO of Wirex Limited, said: “I’m delighted to welcome Julian to the Board of Wirex Limited. He has built and run some of the UK’s most successful, regulated financial businesses from the ground up, and his independent perspective will help Wirex to continue growing safely and sustainably. The UK has been our home for over a decade, and at such an important time for the UK payment sector, I look forward to working closely with Julian on the opportunities ahead.” \nJulian Sawyer said: “Having worked across banking and payments, I’ve seen how much the industry has matured. The next generation of financial services in the UK will be built on the foundations of trust, sound regulation and reliable infrastructure, and I’m excited to join the Board to supporting the Wirex team as they continue to implement that, with a strong focus on governance and customer outcomes as the business grows.” \nOn 12th November, Julian will be speaking at Full Stack London, Wirex’s new stablecoin infrastructure conference, a one-day, closed-door event where founders, CEOs and technical builders can discuss what it takes to make stablecoins work in payments. Opposite Wirex’s CCO, Daniel Rowlands, they’ll discuss why infrastructure provider models fail, and lessons from the industry, in a fireside chat. \nSawyer’s appointment follows that of Kulveer Ranger, The Lord Ranger of Northwood, as Board Adviser to Wirex Labs earlier this week, as Wirex builds out its leadership for its next stage of growth. \nNoYesPeople Moves11 Nov, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/people-moves/wirex-strengthens-uk-board-appointment-julian-sawyer-independent-non-executive",
-    "source": "Financial IT",
     "tags": [
       "Wirex",
       "Starling Bank",
@@ -52,67 +754,47 @@
       "Zodia Custody",
       "United Kingdom"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-11-11T09:33:16.000Z",
-    "fetchedAt": "2026-11-11T09:43:39.746Z",
-    "isDuplicateOf": null,
-    "content": "Wirex Limited has appointed Julian Sawyer as an Independent Non-Executive Director to its UK Board. Sawyer, co-founder of Starling Bank and former executive at Gemini, Bitstamp, and Zodia Custody, brings extensive digital banking and payments experience. The appointment aims to provide strategic oversight and support the company's sustainable growth in the UK market.",
-    "content_ta": "UK-ஐ தலைமையிடமாகக் கொண்ட payments provider நிறுவனமான Wirex, தனது UK Board-க்கு Independent Non-Executive Director-ஆக Julian Sawyer-ஐ நியமித்துள்ளது. Starling Bank-ன் co-founder மற்றும் Gemini, Bitstamp நிறுவனங்களில் முக்கிய பொறுப்புகளை வகித்த Sawyer, digital banking மற்றும் payments துறையில் ஆழ்ந்த அனுபவம் கொண்டவர். இந்நிறுவனத்தின் வளர்ச்சிக்கு strategic oversight வழங்குவதை இந்த நியமனம் நோக்கமாகக் கொண்டுள்ளது.",
-    "slug": "wirex-strengthens-uk-board-with-appointment-of-julian-sawyer-as-independent-non-executive-director"
+    "hasContent": true,
+    "pubDate": "2026-11-11T09:33:16.000Z"
   },
   {
     "id": "7c7853e04ac09a2f",
+    "slug": "htx-releases-october-performance-report-spot-liquidity-significantly-enhanced-apy-boosts-help-users",
     "title": "HTX Releases October Performance Report: Spot Liquidity Significantly Enhanced, APY Boosts Help Users Through a Warm Winter",
-    "summary": "Since the start of Q4, the crypto market has continued to weaken amid volatility. Major asset prices have pulled back from their highs, and market participants have become more cautious. As the market cools, HTX has focused its efforts on solidifying its trading fundamentals and offering diverse yield generation pathways. In October, HTX saw a significant overall improvement in the market depth of its core spot trading pairs, with the 0.05% depth for the BTC/USDT pair increasing by 78%. Meanwhile, the platform’s total count  of stock trading assets grew to 307, with cumulative TradFi trading volume surpassing 7.5 billion USDT. At the end of October, HTX Earn launched the APY Boost Promotion as part of the HTX Winter Campaign, delivering stable yield options for users amid fluctuating market conditions. Overall Spot Depth Enhancement, Ensuring Smoother Execution for Large-Volume Trades In October, HTX continued to strengthen its collaboration with professional market makers, improving market-making support, order book depth, and the overall trading environment, which contributed to an overall improvement in the market depth of its core spot trading pairs. Taking BTC/USDT as an example, the pair’s 0.01% depth increased by 42% in October, while its 0.05% depth jumped by 78%. Deeper market depth ensures that orders of the same size have a smaller price impact, allowing large-volume trades to be executed closer to market price. For core assets like BTC, this means users can easily execute trades even during periods of severe market volatility. Centered around the two core assets of BTC and ETH, HTX also rolled out a series of trading rewards in October, including trading challenges, fee rebates, trading lucky draws, and iPhone Duo theme activities, with the flagship trading challenge attracting over 10,000 participants. Asset Matrix Continues to Expand, Stock Trading Assets Reach 307 Types In October, HTX Futures launched 40 new assets, including 29 selected stocks and ETFs alongside 11 crypto assets. To date, the platform’s number of stock trading assets has grown to 307, covering core US stocks, major global indices and ETFs, biopharmaceuticals, energy infrastructure, and Asia-Pacific market leaders. Overall platform liquidity and user activity have both reached new highs. This month’s new listings focused on sectors including AI computing power and hardware innovation, biopharmaceuticals and healthcare, mass consumption and high-dividend blue chips, as well as Asia-Pacific core markets and frontier technologies. Targets such as STMicroelectronics (STM), United Microelectronics (UMC), Synopsys (SNPS), Constellation Energy (CEG), Pfizer (PFE), Boeing (BA), Procter & Gamble (PG), McDonald’s (MCD), Starbucks (SBUX), Indonesia Index ETF (EIDO), and Taiyo Yuden (TAIYOYUDEN) were rolled out in succession, offering a balanced mix of growth-oriented tech stocks and defensive assets like consumer goods and pharmaceuticals. As HTX continues to expand its asset offerings, cumulative TradFi trading volume has surpassed $7.5 billion, with $1.5 billion added in October alone. In the spot asset category, new listings introduced by HTX in October primarily centered around the AI sector, featuring projects such as POD, AXIS, DNA, and NMR. Notably, Axis Robotics (AXIS), which focuses on physical AI and robotics training data, was jointly launched as a primary listing by HTX, surging by up to 37% following its debut. HTX Earn Offers APY Boost on 7 Products, USDT Loan Rates Maintain Strong Competitiveness In October, user interest in HTX Earn continued to rise. SVIP Flexible subscriptions among users with large holdings remained exceptionally popular, with participating users increasing by 16.1% month-on-month and subscription volume surging by over 20% month-on-month. On October 31, HTX Earn launched an APY Boost Promotion as part of the HTX Winter Campaign. The promotion offers APY boosts on 7-day fixed products featuring an APY of up to 10% for three mainstream coins (BTC, ETH, TRX) and four stablecoins (USDT, USDC, USDS, USDD). Each user can subscribe for up to 2 million USDT worth of each respective asset in the 7-day fixed product for that asset. By subscribing to all seven assets, a user can access a combined  boosted APY quota of up to approximately 14 million USDT, fully accommodating the asset allocation needs of users with large holdings. After the products mature, users can subscribe again, ensuring strong liquidity for their funds. In terms of borrowing, HTX’s USDT loan interest rates maintained robust competitiveness across the industry. In October, the platform’s annualized USDT loan interest rate ranged from 4.75% to 5.3%, with discounted rates for large-volume borrowers as low as 3.84%, empowering users to unlock the capital potential of their holdings at lower costs. During the HTX Margin Autumn Craze, USDT loan scale grew by 18.6% month-on-month, and margin trading volume surged by over 128%. Currently, the HTX Margin Trading & Borrowing Bonanza Month is underway and will run through November 25, offering 7 tiers of rewards for USDT loans alongside up to a 50% fee rebate on trades during the Margin Trading Contest. In the OTC sector, HTX has continued to expand payment channels for its OTC Desk, partnering with multiple payment providers to further optimize the user trading experience and reduce transaction costs. $HTX Q3 Burn Performance Shines, TOKEN2049 Spotlights Brand Influence On October 15, HTX DAO completed its $HTX token burn for Q3 2026. A total of approximately 9.39 trillion $HTX tokens were burned, valued at roughly $15.48 million, representing a quarter-over-quarter burn volume increase of approximately 25.6%. This brings the cumulative total of $HTX burned and pledged to 127.17 trillion tokens to date. Under HTX DAO’s established mechanism, HTX acts as an ecosystem partner, dedicating 50% of its quarterly revenues to $HTX buybacks and burns. From October 6 to 8, global crypto attention converged on TOKEN2049 in Singapore. HTX Ventures, the global investment arm of HTX, made its presence felt at the Sands Expo and Convention Center in Singapore, where Unitree robots and Huobao (HTX mascot) IP parades, and multiple targeted lucky draws attracted large crowds of visitors . Meanwhile, HTX DAO hosted multiple sideline events during the summit. At HTX DAO Future Night, Justin Sun, Advisor to HTX and a core supporter of HTX DAO, delivered a video address sharing perspectives on crypto industry trends and the future development of the digital economy, highlighting the free flow of value within the digital world as a major trend worth watching over the coming decade. At the VIP private dinner, the HTX team engaged in deep dialogues with industry representatives, ecosystem contributors, and partners, exchanging viewpoints on industry evolution, market shifts, and product experiences to foster mutual understanding while optimizing services and expanding collaborations. Standing by Users Through Every Market Cycle Markets fluctuate. Facing market ups and downs, what the platform can do for users is deliver a better trading experience with each transaction, introduce valuable innovative products and practical rewards, and firmly safeguard user asset security. Compliance is the foundation of all these efforts. In October, HTX continued to deepen constructive communication with relevant regulatory authorities and work toward the proper resolution of relevant matters, while further strengthening its compliance measures. These efforts create more favorable conditions for focusing on user services and pursuing long-term development. Over the past 13 years, HTX has weathered market cycles one after another alongside users worldwide. This winter, HTX will continue to uphold a user-first philosophy, accompanying every user through the cold season and awaiting the arrival of the next cycle together.   About HTX Founded in 2013, HTX has evolved from a virtual asset exchange into a comprehensive ecosystem of blockchain businesses that span digital asset trading, derivatives, research, investments, incubation, and other businesses. Guided by its vision to “Achieve Financial Freedom for 8 Billion People Worldwide,” HTX works to make the digital asset space more accessible to a broader audience. The platform continues to develop its products and services in response to user needs and an evolving industry landscape. To learn more about HTX, please visit https://www.htx.com/ or HTX Square , and follow HTX on X, Telegram, andDiscord. For further inquiries, please contact glo-media@htx-inc.com.",
-    "hasSummary": true,
-    "link": "https://www.newsbtc.com/news/htx-releases-october-performance-report-spot-liquidity-significantly-enhanced-apy-boosts-help-users-through-a-warm-winter/",
-    "source": "NewsBTC",
     "tags": [
       "HTX",
       "HTX DAO",
       "Singapore"
     ],
+    "source": "NewsBTC",
     "origin": "rss",
-    "pubDate": "2026-11-11T09:30:56.000Z",
-    "fetchedAt": "2026-11-11T09:43:39.746Z",
-    "isDuplicateOf": null,
-    "content": "HTX released its October performance report, highlighting significant improvements in spot liquidity, an expanding asset matrix reaching 307 stock trading assets, and the launch of the HTX Earn APY Boost Promotion. The platform also reported strong Q3 token burn performance by HTX DAO and active engagement at global industry events like TOKEN2049, reinforcing its commitment to user-focused trading fundamentals and compliance amid market volatility.",
-    "content_ta": "HTX தனது அக்டோபர் மாத செயல்திறன் அறிக்கையை வெளியிட்டுள்ளது. இதில் ஸ்பாட் லிக்யூடிட்டி மேம்பாடு, 307 ஸ்டாக் டிரேடிங் சொத்துக்களை எட்டியுள்ள சொத்து விரிவு மற்றும் HTX Earn APY Boost விளம்பரத்தின் தொடக்கம் ஆகியவை சிறப்பிக்கப்பட்டுள்ளன. மேலும், HTX DAO மூலம் Q3 டோக்கன் பர்ன் செயல்திறன் மற்றும் TOKEN2049 போன்ற உலகளாவிய நிகழ்வுகளில் தீவிர ஈடுபாடு ஆகியவற்றை நிறுவனம் தெரிவித்துள்ளது.",
-    "slug": "htx-releases-october-performance-report-spot-liquidity-significantly-enhanced-apy-boosts-help-users"
+    "hasContent": true,
+    "pubDate": "2026-11-11T09:30:56.000Z"
   },
   {
     "id": "ddcaa28176247cf4",
+    "slug": "wise-expands-u-s-product-suite-giving-customers-new-ways-to-earn-returns",
     "title": "Wise Expands U.S. Product Suite, Giving Customers New Ways to Earn Returns",
-    "summary": "Wise, the global technology company building the best way to move and manage the world's money, today announced an expansion of its US product offering, giving people and businesses two new ways to earn a return on the money they hold with Wise.\nThe expansion introduces Wise Interest and Stocks, two new products available directly from customers' existing USD balance. Unlike traditional alternatives that require customers to move or lock away their money to earn a return, customers who opt in to these products keep instant access to their funds, meaning they can continue to send and spend from the same balance with no withdrawal penalties. Wise Interest and Stocks are offered by Wise US Assets Inc., a registered broker-dealer. Member of SIPC, which protects securities customers of its members up to $500,000 (including $250,000 for claims for cash). \nVinay Nilakantan, Head of Product for North America at Wise, said: \"People and businesses around the world are keeping more money with Wise than ever. Global customer holdings grew 40% to $39 billion last financial year alone. Now, we want to offer Wise customers more ways to put that money to work, without compromising the convenience and flexibility they expect from us.\n\"In the US, earning a competitive return too often means locking your money away or juggling multiple accounts. But with Wise Interest and Stocks, people and businesses in the US no longer have to choose between making their money work harder and actually being able to use it. They have the freedom to do both.\"\nIntroducing new ways for Wise customers to earn a return\nWise Interest allows customers to earn a return on USD held with Wise through a money market fund holding government-backed assets. Customers' money remains instantly available to send and spend within the same balance, offering greater convenience and flexibility. Returns, which are not guaranteed, are calculated daily and paid into customers' accounts monthly, and over 90% of returns earned may also be exempt from state and local income taxes.\nFor customers looking for potential longer-term returns, Stocks gives people and businesses a simple way to invest money held with Wise in an S&P 500 index fund. This lets them invest across a diverse range of leading US companies while keeping a high degree of liquidity. Investing involves risk, including possible loss of principal. Wise Interest seeks to preserve the value of an investment, but the investment value of Stocks will change with the market.\nCustomers can start using either product directly from their existing USD balances by simply selecting Wise Interest or Stocks. In line with Wise's commitment to transparency and low costs, customers will see the fees associated with each product clearly before opting in.\nExpanding Wise's existing US product suite\nThe launch comes as customers increasingly use Wise to hold more of their money and look for more ways to grow those funds. Income earned by US customers through Wise's existing Basic Interest offering, which allows customers in the US to receive interest on USD, GBP and EUR, increased by almost 17% year over year in FY26. Basic Interest is an opt-in feature that allows customers to earn interest on eligible balances held in a Wise account with Wise US Inc. Customer funds are held at Wise US Inc.'s program bank, which pays interest on those funds, and a portion of that interest is passed through to eligible customers.\nWise Interest and Stocks build on the range of existing products already available to Wise personal and business customers in the US. Today, customers can hold and convert more than 40 currencies, get paid in nine currencies using local account details, send money internationally with 77% of payments arriving instantly (in under 20 seconds), and spend around the world with the Wise Multi-Currency Card.\nThe launch of Wise Interest and Stocks marks the first time Wise has operationalized its US broker-dealer license, which it holds in all 50 states, to offer more tailored products to local customers.\nNoYesDigital banking11 Nov, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/digital-banking/wise-expands-us-product-suite-giving-customers-new-ways-earn-returns",
-    "source": "Financial IT",
     "tags": [
       "Wise",
       "United States"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-11-11T09:27:43.000Z",
-    "fetchedAt": "2026-11-11T09:43:39.746Z",
-    "isDuplicateOf": null,
-    "content": "Wise has expanded its US product suite by introducing Wise Interest and Stocks, giving customers new ways to earn returns on their USD balances. The new products allow individuals and businesses to earn a return through money market funds and an S&P 500 index fund while maintaining instant access to their funds for spending and transfers, without withdrawal penalties or locking away their money.",
-    "content_ta": "Wise நிறுவனம் அமெரிக்காவில் தனது சேவைகளை விரிவுபடுத்தியுள்ளது. இதன் மூலம் வாடிக்கையாளர்கள் தங்களது USD இருப்பின் மீது வருமானம் ஈட்ட புதிய வழிவகைகள் அறிமுகப்படுத்தப்பட்டுள்ளன. Wise Interest மற்றும் Stocks என்ற இந்த புதிய தயாரிப்புகள் மூலம் வாடிக்கையாளர்கள் தங்கள் பணத்தை முடக்கி வைக்காமல், உடனடியாக செலவழிக்கவும் அதே நேரத்தில் முதலீடுகள் மூலம் வருமானம் ஈட்டவும் முடியும்.",
-    "slug": "wise-expands-u-s-product-suite-giving-customers-new-ways-to-earn-returns"
+    "hasContent": true,
+    "pubDate": "2026-11-11T09:27:43.000Z"
   },
   {
     "id": "f862016e93728546",
+    "slug": "houthi-forces-claim-interception-of-saudi-f-15-over-sanaa-amid-rising-tensions",
     "title": "Houthi forces claim interception of Saudi F-15 over Sanaa amid rising tensions",
-    "summary": "The interception claim heightens regional instability, potentially affecting market perceptions and increasing the risk of further conflict.\nThe post Houthi forces claim interception of Saudi F-15 over Sanaa amid rising tensions appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/houthi-forces-claim-interception-of-saudi-f-15-over-sanaa-amid-rising-tensions/",
-    "source": "CryptoBriefing",
     "tags": [],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-11T09:20:34.000Z",
-    "fetchedAt": "2026-11-11T09:43:39.746Z",
-    "isDuplicateOf": null,
-    "content": null,
-    "slug": "houthi-forces-claim-interception-of-saudi-f-15-over-sanaa-amid-rising-tensions"
+    "hasContent": false,
+    "pubDate": "2026-11-11T09:20:34.000Z"
   },
   {
     "id": "265a363a9a4a3412",
@@ -125,694 +807,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-11T09:00:00.000Z"
-  },
-  {
-    "id": "f70682927f83620b",
-    "slug": "adyen-research-finds-72-of-young-shoppers-trust-ai-to-buy-on-their-behalf-but-big-ticket-purchases",
-    "title": "Adyen Research Finds 72% of Young Shoppers Trust AI to Buy on Their Behalf, but Big-Ticket Purchases Lag",
-    "tags": [
-      "Adyen"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T08:55:34.000Z"
-  },
-  {
-    "id": "8e5403d681b99fdf",
-    "slug": "cribl-acquires-tero-to-lead-observability-into-the-ai-era",
-    "title": "Cribl Acquires Tero to Lead Observability Into the AI Era",
-    "tags": [
-      "Cribl",
-      "Tero",
-      "Ben Johnson",
-      "Datadog",
-      "CardinalOps"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T08:53:55.000Z"
-  },
-  {
-    "id": "8b553854f595d5a4",
-    "slug": "feedzai-appoints-joost-van-mook-as-chief-revenue-officer-to-accelerate-global-expansion",
-    "title": "Feedzai Appoints Joost van Mook as Chief Revenue Officer to Accelerate Global Expansion",
-    "tags": [
-      "Feedzai",
-      "Joost van Mook",
-      "Backbase",
-      "SAP"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T08:45:55.000Z"
-  },
-  {
-    "id": "f65c85716dda4aae",
-    "slug": "sec-enforcement-actions-fall-24-crypto-cases-in-spotlight",
-    "title": "SEC enforcement actions fall 24%, crypto cases in spotlight",
-    "tags": [
-      "SEC",
-      "Bitcoin",
-      "FTX"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T08:43:30.000Z"
-  },
-  {
-    "id": "329f3f93dff4024e",
-    "slug": "airbnb-api-perk-becomes-first-to-integrate-it-for-work-travel",
-    "title": "Airbnb API: Perk Becomes First to Integrate It for Work Travel",
-    "tags": [],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-11T08:39:30.000Z"
-  },
-  {
-    "id": "b51c10319127b586",
-    "slug": "pavel-durov-calls-gram-ridiculously-undervalued-after-8-surge",
-    "title": "Pavel Durov Calls GRAM ‘Ridiculously Undervalued’ After 8% Surge",
-    "tags": [
-      "Pavel Durov",
-      "GRAM"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T08:30:54.000Z"
-  },
-  {
-    "id": "138518609f2a5829",
-    "slug": "coinbase-wins-national-trust-charter-and-strict-occ-mandates-apply",
-    "title": "Coinbase wins national trust charter, and strict OCC mandates apply",
-    "tags": [
-      "Coinbase",
-      "OCC"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T08:30:33.000Z"
-  },
-  {
-    "id": "ab79d244b093719f",
-    "slug": "why-bitcoin-nasdaq-ai-stocks-and-chips-move-together-the-liquidity-machine-explained",
-    "title": "Why Bitcoin, Nasdaq, AI Stocks, and Chips Move Together? The Liquidity Machine Explained",
-    "tags": [
-      "Bitcoin",
-      "Nasdaq",
-      "Federal Reserve"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T08:25:45.000Z"
-  },
-  {
-    "id": "bdeb18760fe287e7",
-    "slug": "end-of-crypto-hardware-wallets-sui-cancels-suiball-wallet-amid-cybersecurity-risks",
-    "title": "End of Crypto Hardware Wallets? Sui Cancels Suiball Wallet Amid Cybersecurity Risks",
-    "tags": [
-      "Sui",
-      "Suiball",
-      "Sui Foundation"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T08:10:00.000Z"
-  },
-  {
-    "id": "6f6d76a0e9019cc8",
-    "slug": "justice-department-sues-lyft-seeking-53-000-000-over-alleged-refusal-to-serve-riders-with",
-    "title": "Justice Department Sues Lyft, Seeking $53,000,000 Over Alleged Refusal To Serve Riders With Disabilities",
-    "tags": [
-      "Justice Department",
-      "Lyft",
-      "United States"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T08:04:20.000Z"
-  },
-  {
-    "id": "52be888d11c75371",
-    "slug": "bitgo-posts-44m-quarterly-profit-as-platform-assets-grow-but-adjusted-ebitda-stays-negative",
-    "title": "BitGo Posts $44M Quarterly Profit as Platform Assets Grow, But Adjusted EBITDA Stays Negative",
-    "tags": [
-      "BitGo"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T08:00:00.000Z"
-  },
-  {
-    "id": "f3b4ad471a679c12",
-    "slug": "msci-decision-today-could-trigger-2-8b-mstr-sell-off",
-    "title": "MSCI Decision Today Could Trigger $2.8B MSTR Sell-Off",
-    "tags": [
-      "Morgan Stanley Capital International",
-      "MicroStrategy",
-      "Bitcoin"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T07:51:47.000Z"
-  },
-  {
-    "id": "205e3caec4f9a563",
-    "slug": "singapore-opens-a-500-ton-gold-vault-for-central-banks-are-they-still-buying",
-    "title": "Singapore Opens a 500-Ton Gold Vault for Central Banks. Are They Still Buying?",
-    "tags": [
-      "Monetary Authority of Singapore",
-      "Singapore"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T07:44:44.000Z"
-  },
-  {
-    "id": "41ab6ccda29f629e",
-    "slug": "apple-harbor-turns-macs-into-private-ai-servers-with-no-cloud-fees",
-    "title": "Apple Harbor Turns Macs Into Private AI Servers With No Cloud Fees",
-    "tags": [
-      "Apple",
-      "App Store"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T07:18:08.000Z"
-  },
-  {
-    "id": "0b4c779f3ce23a53",
-    "slug": "anthropic-cuts-japan-share-offering-target-to-3-billion",
-    "title": "Anthropic cuts Japan share offering target to $3 billion",
-    "tags": [
-      "Anthropic",
-      "Japan"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T07:16:31.000Z"
-  },
-  {
-    "id": "e9b6a8f24246e755",
-    "slug": "nvidia-loses-430b-in-market-value-amid-espionage-allegations-against-ceo",
-    "title": "Nvidia loses $430B in market value amid espionage allegations against CEO",
-    "tags": [
-      "Nvidia",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T07:13:47.000Z"
-  },
-  {
-    "id": "0127f91fcf08a343",
-    "slug": "live-bitcoin-price-cooked-gensler-2-0-fears-as-fed-blocks-crypto-bank",
-    "title": "LIVE – Bitcoin Price Cooked? Gensler 2.0 Fears as Fed Blocks Crypto Bank",
-    "tags": [],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-11T07:12:16.000Z"
-  },
-  {
-    "id": "cbdd9798abbbc20a",
-    "slug": "former-ripple-cto-sells-most-crypto-holdings-citing-extreme-risk-aversion",
-    "title": "Former Ripple CTO sells most crypto holdings citing extreme risk aversion",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-11T07:10:22.000Z"
-  },
-  {
-    "id": "307cd84a020dc07a",
-    "slug": "lighthouse-issues-urgent-ethereum-node-patch-due-to-hidden-security-flaws",
-    "title": "Lighthouse issues urgent Ethereum node patch due to hidden security flaws",
-    "tags": [
-      "Ethereum",
-      "Lighthouse"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T07:10:08.000Z"
-  },
-  {
-    "id": "6aaf153ec19ff9d1",
-    "slug": "coinbase-kalshi-kraken-parent-seek-to-back-cftc-in-stock-perps-fight",
-    "title": "Coinbase, Kalshi, Kraken parent seek to back CFTC in stock perps fight",
-    "tags": [
-      "Coinbase",
-      "Kalshi",
-      "Kraken",
-      "CFTC",
-      "Cboe",
-      "Citadel Securities"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T07:00:44.000Z"
-  },
-  {
-    "id": "e4ed6d4e61779840",
-    "slug": "near-ai-discloses-sglang-security-incident-and-revokes-exposed-api-keys",
-    "title": "NEAR AI Discloses SGLang Security Incident and Revokes Exposed API Keys",
-    "tags": [
-      "NEAR AI"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T07:00:00.000Z"
-  },
-  {
-    "id": "0c4e632a94b30bc4",
-    "slug": "gram-is-only-bright-spot-in-crypto-bloodbath-durov-says",
-    "title": "Gram Is Only Bright Spot in Crypto Bloodbath, Durov Says",
-    "tags": [
-      "Telegram",
-      "Gram",
-      "Pavel Durov"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T06:49:18.000Z"
-  },
-  {
-    "id": "00d36186411cbf68",
-    "slug": "top-4-stocks-to-watch-as-tom-lee-says-stock-market-has-bottomed",
-    "title": "Top 4 Stocks to Watch as Tom Lee Says Stock Market Has Bottomed",
-    "tags": [
-      "Tom Lee",
-      "S&P 500"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T06:44:06.000Z"
-  },
-  {
-    "id": "ad9ece7018f8e8a4",
-    "slug": "xrp-investment-potential-questioned-amid-price-decline-and-market-skepticism",
-    "title": "XRP investment potential questioned amid price decline and market skepticism",
-    "tags": [
-      "XRP"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T06:32:28.000Z"
-  },
-  {
-    "id": "e256e75a2c710c9a",
-    "slug": "bitmine-reports-6-3-billion-net-loss-in-latest-fiscal-year-driven-by-44-ether-decline",
-    "title": "Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline",
-    "tags": [
-      "Bitmine",
-      "ether"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T06:22:32.000Z"
-  },
-  {
-    "id": "ac5e0ec1c56d5512",
-    "slug": "why-has-xrp-plunged-harder-than-most-analyst-blames-manipulation",
-    "title": "Why Has XRP Plunged Harder Than Most? Analyst Blames Manipulation",
-    "tags": [
-      "XRP"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T06:12:29.000Z"
-  },
-  {
-    "id": "02276512ed948c35",
-    "slug": "exim-bank-uganda-launches-terrapay-powered-cross-porder-payment-service",
-    "title": "Exim Bank Uganda Launches TerraPay-Powered Cross-Porder Payment Service",
-    "tags": [
-      "Exim Bank Uganda",
-      "TerraPay",
-      "Uganda"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T06:00:55.000Z"
-  },
-  {
-    "id": "2ecdb828a8a7d758",
-    "slug": "initia-confirms-second-exploit-in-3-weeks-3-27m-stolen-in-latest-attack",
-    "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
-    "tags": [
-      "Initia"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T05:52:14.000Z"
-  },
-  {
-    "id": "2192e8c09ac4521f",
-    "slug": "aave-passes-native-bitcoin-lending-proposal-but-hidden-liquidation-risks-remain",
-    "title": "Aave passes native Bitcoin lending proposal, but hidden liquidation risks remain",
-    "tags": [
-      "Aave",
-      "Bitcoin",
-      "Babylon"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T05:50:25.000Z"
-  },
-  {
-    "id": "17c11911ae62b6bc",
-    "slug": "ripple-ex-cto-david-schwartz-reveals-how-much-xrp-ethereum-and-bitcoin-he-owns",
-    "title": "Ripple Ex-CTO David Schwartz Reveals How Much XRP, Ethereum, and Bitcoin He Owns",
-    "tags": [
-      "Ripple",
-      "David Schwartz",
-      "XRP",
-      "Bitcoin",
-      "Ethereum"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T05:46:09.000Z"
-  },
-  {
-    "id": "6c04152ad773e869",
-    "slug": "fed-hike-bets-meet-ai-debt-boom-where-does-the-squeeze-land",
-    "title": "Fed Hike Bets Meet AI Debt Boom: Where Does the Squeeze Land?",
-    "tags": [
-      "CoreWeave",
-      "Federal Reserve"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T05:29:40.000Z"
-  },
-  {
-    "id": "f3b294eaea03a7f3",
-    "slug": "bitcoin-chatter-flips-back-to-bearish-here-s-what-price-did-last-time",
-    "title": "Bitcoin Chatter Flips Back to Bearish. Here’s What Price Did Last Time",
-    "tags": [
-      "Bitcoin",
-      "Ethereum",
-      "XRP",
-      "Santiment"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T05:23:16.000Z"
-  },
-  {
-    "id": "d4a616928dab5f58",
-    "slug": "2-reasons-why-bitcoin-btc-could-bleed-even-more-in-the-short-term",
-    "title": "2 Reasons Why Bitcoin (BTC) Could Bleed Even More in the Short Term",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T05:11:53.000Z"
-  },
-  {
-    "id": "0da556dce7566586",
-    "slug": "asia-vital-components-ships-double-sided-cold-plates-as-ai-servers-go-liquid",
-    "title": "Asia Vital Components ships double-sided cold plates as AI servers go liquid",
-    "tags": [
-      "Asia Vital Components"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T05:06:49.000Z"
-  },
-  {
-    "id": "dc16836f35d759b5",
-    "slug": "indian-stocks-hit-8-month-highs-on-lower-crude-prices-foreign-investment-boost",
-    "title": "Indian stocks hit 8-month highs on lower crude prices, foreign investment boost",
-    "tags": [
-      "India"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T05:03:17.000Z"
-  },
-  {
-    "id": "4b125725d51e39df",
-    "slug": "bitcoin-nears-a-thinly-traded-pocket-is-64k-next-for-btc",
-    "title": "Bitcoin nears a ‘thinly traded pocket’ – Is $64K next for BTC?",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T05:00:35.000Z"
-  },
-  {
-    "id": "926a6c72889414bf",
-    "slug": "why-a-zero-trust-approach-matters-to-banking-resilience",
-    "title": "Why a Zero Trust Approach Matters to Banking Resilience",
-    "tags": [
-      "QNB Group"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T05:00:29.000Z"
-  },
-  {
-    "id": "b64019a73a2a9670",
-    "slug": "nvidia-faces-new-chinese-challenger-as-alibaba-moves-to-spin-off-t-head",
-    "title": "Nvidia Faces New Chinese Challenger As Alibaba Moves To Spin Off T-Head",
-    "tags": [
-      "Alibaba",
-      "T-Head",
-      "Hong Kong",
-      "China Securities Regulatory Commission"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T04:52:09.000Z"
-  },
-  {
-    "id": "94d107d738b3797d",
-    "slug": "across-protocol-restores-website-after-hackers-hijack-domain",
-    "title": "Across Protocol restores website after hackers hijack domain",
-    "tags": [
-      "Across Protocol",
-      "Namecheap"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T04:42:30.000Z"
-  },
-  {
-    "id": "dadc1855e23570b1",
-    "slug": "maternal-ai-chatbot-shows-zero-postpartum-mental-health-gain",
-    "title": "Maternal AI chatbot shows zero postpartum mental health gain",
-    "tags": [
-      "CryptoSlate",
-      "Rosie"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T04:30:03.000Z"
-  },
-  {
-    "id": "660f21cefbbe1a6c",
-    "slug": "jim-cramer-ties-cpi-relief-to-40-oil-but-brent-trades-over-92",
-    "title": "Jim Cramer Ties CPI Relief to $40 Oil, but Brent Trades Over $92",
-    "tags": [
-      "Jim Cramer"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T04:25:30.000Z"
-  },
-  {
-    "id": "bad4ba8d349e970d",
-    "slug": "governments-push-faster-grid-connections-for-data-centers-amid-ai-boom-bloombergnef",
-    "title": "Governments push faster grid connections for data centers amid AI boom: BloombergNEF",
-    "tags": [
-      "BloombergNEF"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T04:13:27.000Z"
-  },
-  {
-    "id": "48e4431d855e3ef7",
-    "slug": "tron-inc-reports-22-rise-in-q3-net-income-as-unrealized-staking-revenue-grows",
-    "title": "Tron Inc reports 22% rise in Q3 net income as unrealized staking revenue grows",
-    "tags": [
-      "Tron Inc"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T04:02:02.000Z"
-  },
-  {
-    "id": "868644faef9cb8de",
-    "slug": "eu-seeks-experts-to-help-set-tokenisation-standards-as-financial-markets-move-onchain",
-    "title": "EU Seeks Experts to Help Set Tokenisation Standards as Financial Markets Move Onchain",
-    "tags": [
-      "European Union"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T04:00:00.000Z"
-  },
-  {
-    "id": "d06ca23f4b9e0cb0",
-    "slug": "americans-owe-a-record-1-29-trillion-on-credit-cards-who-pays-when-the-fed-hikes",
-    "title": "Americans Owe a Record $1.29 Trillion on Credit Cards. Who Pays When the Fed Hikes?",
-    "tags": [
-      "Federal Reserve"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T03:45:02.000Z"
-  },
-  {
-    "id": "8ef4189a6918d698",
-    "slug": "crypto-ally-tom-emmer-elected-house-gop-minority-whip",
-    "title": "Crypto ally Tom Emmer elected House GOP minority whip",
-    "tags": [
-      "Tom Emmer",
-      "House GOP",
-      "Congressional Crypto Caucus",
-      "Minnesota"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T03:07:45.000Z"
-  },
-  {
-    "id": "fbd88b8b2df8af3e",
-    "slug": "upbit-lists-hype-can-hyperliquid-narrow-its-45x-spot-trading-gap",
-    "title": "Upbit lists HYPE – Can Hyperliquid narrow its 45x Spot trading gap?",
-    "tags": [
-      "Upbit",
-      "Hyperliquid",
-      "HYPE"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T03:00:36.000Z"
-  },
-  {
-    "id": "061531d5bcfb799f",
-    "slug": "top-five-ai-crypto-projects-to-watch-as-ai-adoption-grows",
-    "title": "Top Five AI Crypto Projects to Watch as AI Adoption Grows",
-    "tags": [
-      "Artificial Analysis"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T02:22:23.000Z"
-  },
-  {
-    "id": "47fe3458ad444ec3",
-    "slug": "why-is-softbank-stock-crashing-today",
-    "title": "Why Is SoftBank Stock Crashing Today?",
-    "tags": [
-      "SoftBank",
-      "United States",
-      "Tokyo"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T02:18:33.000Z"
-  },
-  {
-    "id": "d2336517602fef5f",
-    "slug": "solana-perp-volume-explodes-65-amid-shrinking-spot-activity",
-    "title": "Solana perp volume explodes 65% amid shrinking spot activity",
-    "tags": [],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-11T02:10:48.000Z"
-  },
-  {
-    "id": "317701d81ff16770",
-    "slug": "sff-2026-five-forces-set-to-rewire-global-finance",
-    "title": "SFF 2026: Five Forces Set to Rewire Global Finance",
-    "tags": [
-      "Singapore"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T02:00:13.000Z"
-  },
-  {
-    "id": "f34478bf0194be75",
-    "slug": "peter-brandt-sees-30-year-yield-at-7-would-bitcoin-and-stocks-survive",
-    "title": "Peter Brandt Sees 30-Year Yield at 7%. Would Bitcoin and Stocks Survive?",
-    "tags": [
-      "Peter Brandt",
-      "Bitcoin"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T01:45:00.000Z"
-  },
-  {
-    "id": "47e2fa664d851253",
-    "slug": "after-terafab-chips-tesla-s-10-billion-crystal-sun-solar-factory-breaks-ground",
-    "title": "After Terafab Chips, Tesla’s $10 Billion Crystal Sun Solar Factory Breaks Ground",
-    "tags": [
-      "Tesla",
-      "Houston",
-      "Texas",
-      "United States"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-11T01:36:00.000Z"
   }
 ]
