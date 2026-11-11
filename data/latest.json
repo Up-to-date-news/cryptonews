@@ -1,24 +1,311 @@
 [
   {
-    "id": "8ef4189a6918d698",
-    "title": "Crypto ally Tom Emmer elected House GOP minority whip",
-    "summary": "The Minnesota lawmaker, who helped establish the Congressional Crypto Caucus, will stay on as Republican whip after Democrats won the midterms.",
+    "id": "02276512ed948c35",
+    "title": "Exim Bank Uganda Launches TerraPay-Powered Cross-Porder Payment Service",
+    "summary": "Exim Global Pay connects Ugandan retail and business customers to TerraPay's network spanning 156 countries and 7.5 billion bank accounts.\nThe post Exim Bank Uganda Launches TerraPay-Powered Cross-Porder Payment Service appeared first on The Fintech Times.",
     "hasSummary": true,
-    "link": "https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "link": "https://thefintechtimes.com/exim-bank-uganda-launches-terrapay-powered-cross-porder-payment-service/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Exim Bank Uganda",
+      "TerraPay",
+      "Uganda"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-11T06:00:55.000Z",
+    "fetchedAt": "2026-11-11T06:01:21.339Z",
+    "isDuplicateOf": null,
+    "content": "Exim Bank Uganda has launched a new cross-border payment service powered by TerraPay, named Exim Global Pay. This offering connects retail and business customers in Uganda to TerraPay's extensive global network, spanning 156 countries and billions of bank accounts, facilitating smoother international financial transactions.",
+    "content_ta": "Exim Bank Uganda நிறுவனம் TerraPay உடன் இணைந்து புதிய எல்லை தாண்டிய கட்டணச் சேவையை அறிமுகப்படுத்தியுள்ளது. Exim Global Pay என பெயரிடப்பட்டுள்ள இந்த சேவை, உகாண்டாவில் உள்ள சில்லறை மற்றும் வணிக வாடிக்கையாளர்களை உலகளாவிய TerraPay நெட்வொர்க்குடன் இணைக்கிறது. இது 156 நாடுகள் மற்றும் பில்லியன் கணக்கான வங்கிக் கணக்குகளை உள்ளடக்கியது.",
+    "slug": "exim-bank-uganda-launches-terrapay-powered-cross-porder-payment-service"
+  },
+  {
+    "id": "2ecdb828a8a7d758",
+    "slug": "initia-confirms-second-exploit-in-3-weeks-3-27m-stolen-in-latest-attack",
+    "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
+    "tags": [
+      "Initia"
+    ],
     "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T05:52:14.000Z"
+  },
+  {
+    "id": "2192e8c09ac4521f",
+    "slug": "aave-passes-native-bitcoin-lending-proposal-but-hidden-liquidation-risks-remain",
+    "title": "Aave passes native Bitcoin lending proposal, but hidden liquidation risks remain",
+    "tags": [
+      "Aave",
+      "Bitcoin",
+      "Babylon"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T05:50:25.000Z"
+  },
+  {
+    "id": "17c11911ae62b6bc",
+    "slug": "ripple-ex-cto-david-schwartz-reveals-how-much-xrp-ethereum-and-bitcoin-he-owns",
+    "title": "Ripple Ex-CTO David Schwartz Reveals How Much XRP, Ethereum, and Bitcoin He Owns",
+    "tags": [
+      "Ripple",
+      "David Schwartz",
+      "XRP",
+      "Bitcoin",
+      "Ethereum"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T05:46:09.000Z"
+  },
+  {
+    "id": "6c04152ad773e869",
+    "slug": "fed-hike-bets-meet-ai-debt-boom-where-does-the-squeeze-land",
+    "title": "Fed Hike Bets Meet AI Debt Boom: Where Does the Squeeze Land?",
+    "tags": [
+      "CoreWeave",
+      "Federal Reserve"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T05:29:40.000Z"
+  },
+  {
+    "id": "f3b294eaea03a7f3",
+    "slug": "bitcoin-chatter-flips-back-to-bearish-here-s-what-price-did-last-time",
+    "title": "Bitcoin Chatter Flips Back to Bearish. Here’s What Price Did Last Time",
+    "tags": [
+      "Bitcoin",
+      "Ethereum",
+      "XRP",
+      "Santiment"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T05:23:16.000Z"
+  },
+  {
+    "id": "d4a616928dab5f58",
+    "slug": "2-reasons-why-bitcoin-btc-could-bleed-even-more-in-the-short-term",
+    "title": "2 Reasons Why Bitcoin (BTC) Could Bleed Even More in the Short Term",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T05:11:53.000Z"
+  },
+  {
+    "id": "0da556dce7566586",
+    "title": "Asia Vital Components ships double-sided cold plates as AI servers go liquid",
+    "summary": "The shift to liquid cooling in AI servers could drive significant advancements in thermal management, impacting data center efficiency and sustainability.\nThe post Asia Vital Components ships double-sided cold plates as AI servers go liquid appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/asia-vital-components-double-sided-cold-plates/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Asia Vital Components"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-11T05:06:49.000Z",
+    "fetchedAt": "2026-11-11T06:01:21.339Z",
+    "isDuplicateOf": null,
+    "content": "Asia Vital Components has begun shipping double-sided cold plates as the demand for liquid cooling solutions in AI servers increases. This transition addresses growing thermal management challenges in data centers, aiming to improve overall energy efficiency and sustainability as artificial intelligence hardware continues to evolve.",
+    "content_ta": "AI serverகளில் லிக்விட் கூலிங் (liquid cooling) தொழில்நுட்பத்திற்கான தேவை அதிகரித்து வருவதால், Asia Vital Components நிறுவனம் டபுள்-சைடட் கோல்ட் பிளேட்களை (double-sided cold plates) விநியோகிக்கத் தொடங்கியுள்ளது. இந்த மாற்றம் டேட்டா சென்டர்களின் வெப்ப மேலாண்மை சவால்களை எதிர்கொண்டு, ஆற்றல் திறனை மேம்படுத்த உதவுகிறது.",
+    "slug": "asia-vital-components-ships-double-sided-cold-plates-as-ai-servers-go-liquid"
+  },
+  {
+    "id": "dc16836f35d759b5",
+    "title": "Indian stocks hit 8-month highs on lower crude prices, foreign investment boost",
+    "summary": "Rising Indian stocks signal potential economic resilience, driven by reduced oil import costs and increased foreign capital inflows.\nThe post Indian stocks hit 8-month highs on lower crude prices, foreign investment boost appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/indian-stocks-hit-8-month-highs-on-lower-crude-prices-foreign-investment-boost/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "India"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-11T05:03:17.000Z",
+    "fetchedAt": "2026-11-11T06:01:21.339Z",
+    "isDuplicateOf": null,
+    "content": "Indian stocks reached their highest levels in eight months, driven by declining crude oil prices and a significant increase in foreign capital inflows. This positive market movement highlights potential economic resilience in the region as reduced import costs and stronger investment boost investor confidence.",
+    "content_ta": "குறைந்த crude oil விலைகள் மற்றும் வெளிநாட்டு முதலீடுகள் அதிகரிப்பு காரணமாக இந்திய பங்குகள் எட்டு மாதங்களில் இல்லாத அளவுக்கு உயர்ந்துள்ளன. இறக்குமதி செலவுகள் குறைந்து முதலீட்டாளர் நம்பிக்கை அதிகரித்துள்ளதால், இந்த சந்தை உயர்வு பொருளாதாரத்தின் வலிமையைக் காட்டுகிறது.",
+    "slug": "indian-stocks-hit-8-month-highs-on-lower-crude-prices-foreign-investment-boost"
+  },
+  {
+    "id": "4b125725d51e39df",
+    "slug": "bitcoin-nears-a-thinly-traded-pocket-is-64k-next-for-btc",
+    "title": "Bitcoin nears a ‘thinly traded pocket’ – Is $64K next for BTC?",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T05:00:35.000Z"
+  },
+  {
+    "id": "926a6c72889414bf",
+    "title": "Why a Zero Trust Approach Matters to Banking Resilience",
+    "summary": "QNB Group's chief information security officer on why being inside a bank's network should never be mistaken for trust, and how a decade of zero trust has shaped its resilience.\nThe post Why a Zero Trust Approach Matters to Banking Resilience appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/why-a-zero-trust-approach-matters-to-banking-resilience/",
+    "source": "The Fintech Times",
+    "tags": [
+      "QNB Group"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-11T05:00:29.000Z",
+    "fetchedAt": "2026-11-11T06:01:21.339Z",
+    "isDuplicateOf": null,
+    "content": "QNB Group's chief information security officer emphasizes that being inside a bank's network should never imply automatic trust. Reflecting on a decade of implementing a zero trust approach, the banking institution highlights how this security strategy is fundamental to building long-term operational resilience in the financial sector.",
+    "content_ta": "QNB Group-ன் chief information security officer, ஒரு வங்கியின் நெட்வொர்க்கிற்குள் இருப்பது எப்போதுமே தானியங்கி நம்பிக்கையைக் குறிக்காது என்பதை வலியுறுத்துகிறார். Zero trust அணுகுமுறையைச் செயல்படுத்திய பத்தாண்டு கால அனுபவத்தைக் குறிப்பிடும் இந்த வங்கி நிறுவனம், நிதித்துறையில் நீண்ட கால செயல்பாட்டு மீள்தன்மையை உருவாக்குவதற்கு இந்தப் பாதுகாப்பு உத்தி எவ்வாறெல்லாம் அடிப்படையாக அமைகிறது என்பதை விளக்குகிறது.",
+    "slug": "why-a-zero-trust-approach-matters-to-banking-resilience"
+  },
+  {
+    "id": "b64019a73a2a9670",
+    "title": "Nvidia Faces New Chinese Challenger As Alibaba Moves To Spin Off T-Head",
+    "summary": "The post Nvidia Faces New Chinese Challenger As Alibaba Moves To Spin Off T-Head appeared first on Coinpedia Fintech News\nAlibaba plans to spin off its semiconductor arm T-Head through a public listing in Hong Kong, after the city’s stock exchange cleared the move. The offering still needs final approval from the Hong Kong exchange and the China Securities Regulatory Commission, and Alibaba has not given a date or deal size. The company said it …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/crypto-live-news/nvidia-faces-new-chinese-challenger-as-alibaba-moves-to-spin-off-t-head/",
+    "source": "Coinpedia",
+    "tags": [
+      "Alibaba",
+      "T-Head",
+      "Hong Kong",
+      "China Securities Regulatory Commission"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-11T04:52:09.000Z",
+    "fetchedAt": "2026-11-11T06:01:21.339Z",
+    "isDuplicateOf": null,
+    "content": "Alibaba is planning to spin off its semiconductor division, T-Head, through a public listing on the Hong Kong stock exchange. The proposed offering has received clearance from the exchange, though it still awaits final approval from both the Hong Kong exchange and the China Securities Regulatory Commission. No official date or deal size has been announced yet, marking a significant new competitive development in the chip industry.",
+    "content_ta": "Alibaba தனது semiconductor பிரிவான T-Head நிறுவனத்தை Hong Kong பங்குச் சந்தையில் public listing மூலம் பிரிக்க திட்டமிட்டுள்ளது. இந்த திட்டத்திற்கு Hong Kong பங்குச் சந்தை அனுமதி அளித்துள்ள நிலையில், Hong Kong பரிமாற்றம் மற்றும் China Securities Regulatory Commission ஆகியவற்றின் இறுதி ஒப்புதல்கள் இன்னும் பெறப்பட வேண்டும். இதன் அதிகாரப்பூர்வ தேதி அல்லது ஒப்பந்தத்தின் மதிப்பு இன்னும் அறிவிக்கப்படவில்லை.",
+    "slug": "nvidia-faces-new-chinese-challenger-as-alibaba-moves-to-spin-off-t-head"
+  },
+  {
+    "id": "94d107d738b3797d",
+    "slug": "across-protocol-restores-website-after-hackers-hijack-domain",
+    "title": "Across Protocol restores website after hackers hijack domain",
+    "tags": [
+      "Across Protocol",
+      "Namecheap"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T04:42:30.000Z"
+  },
+  {
+    "id": "dadc1855e23570b1",
+    "slug": "maternal-ai-chatbot-shows-zero-postpartum-mental-health-gain",
+    "title": "Maternal AI chatbot shows zero postpartum mental health gain",
+    "tags": [
+      "CryptoSlate",
+      "Rosie"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T04:30:03.000Z"
+  },
+  {
+    "id": "660f21cefbbe1a6c",
+    "title": "Jim Cramer Ties CPI Relief to $40 Oil, but Brent Trades Over $92",
+    "summary": "Jim Cramer ties CPI relief to $40 oil, but Brent trades near $91 and core inflation still ran hot in October.\nThe post Jim Cramer Ties CPI Relief to $40 Oil, but Brent Trades Over $92 appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/jim-cramer-40-oil-cpi-relief/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Jim Cramer"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-11T04:25:30.000Z",
+    "fetchedAt": "2026-11-11T06:01:21.339Z",
+    "isDuplicateOf": null,
+    "content": "Market commentator Jim Cramer suggested that significant relief from inflation and the Consumer Price Index requires oil prices to drop to $40. However, current market conditions show Brent crude trading at over $92, remaining far above that target. Additionally, core inflation remained hot in October, indicating that persistent price pressures continue to challenge the broader economy.",
+    "content_ta": "CPI-ல் இருந்து குறிப்பிடத்தக்க நிவாரணம் கிடைக்க எண்ணெய் விலை $40 ஆக குறைய வேண்டும் என்று Jim Cramer தெரிவித்துள்ளார். எனினும், தற்போதைய சந்தை நிலவரப்படி Brent க்ரூட் ஆயில் $92-க்கு மேல் வர்த்தகமாகி வருகிறது. மேலும், அக்டோபர் மாதத்தில் கோர் இன்ஃப்ளேஷன் அதிகமாகவே இருந்ததால், பொருளாதாரத்தில் விலை உயர்வு நீடித்து வருவது குறிப்பிடத்தக்கது.",
+    "slug": "jim-cramer-ties-cpi-relief-to-40-oil-but-brent-trades-over-92"
+  },
+  {
+    "id": "bad4ba8d349e970d",
+    "title": "Governments push faster grid connections for data centers amid AI boom: BloombergNEF",
+    "summary": "Accelerated grid integration for data centers could significantly curb fossil fuel reliance and emissions, impacting global energy strategies.\nThe post Governments push faster grid connections for data centers amid AI boom: BloombergNEF appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/governments-push-faster-grid-connections-for-data-centers-amid-ai-boom/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "BloombergNEF"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-11T04:13:27.000Z",
+    "fetchedAt": "2026-11-11T06:01:21.339Z",
+    "isDuplicateOf": null,
+    "content": "Governments are pushing for faster grid connections for data centers driven by the artificial intelligence boom, according to BloombergNEF. Accelerating grid integration for these facilities could help significantly reduce reliance on fossil fuels and lower emissions, which will ultimately impact global energy strategies moving forward.",
+    "content_ta": "AI துறையின் எழுச்சி காரணமாக டேட்டா சென்டர்களுக்கு விரைவான மின் கட்ட இணைப்பு வழங்குவதை அரசாங்கங்கள் ஊக்குவித்து வருவதாக BloombergNEF தெரிவித்துள்ளது. இந்த வசிகளுக்கான மின் கட்ட இணைப்பை துரிதப்படுத்துவது புதைபடிவ எரிபொருள் பயன்பாட்டைக் குறைக்கவும் உமிழ்வைக் கட்டுப்படுத்தவும் உதவும்.",
+    "slug": "governments-push-faster-grid-connections-for-data-centers-amid-ai-boom-bloombergnef"
+  },
+  {
+    "id": "48e4431d855e3ef7",
+    "slug": "tron-inc-reports-22-rise-in-q3-net-income-as-unrealized-staking-revenue-grows",
+    "title": "Tron Inc reports 22% rise in Q3 net income as unrealized staking revenue grows",
+    "tags": [
+      "Tron Inc"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T04:02:02.000Z"
+  },
+  {
+    "id": "868644faef9cb8de",
+    "slug": "eu-seeks-experts-to-help-set-tokenisation-standards-as-financial-markets-move-onchain",
+    "title": "EU Seeks Experts to Help Set Tokenisation Standards as Financial Markets Move Onchain",
+    "tags": [
+      "European Union"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-11T04:00:00.000Z"
+  },
+  {
+    "id": "d06ca23f4b9e0cb0",
+    "title": "Americans Owe a Record $1.29 Trillion on Credit Cards. Who Pays When the Fed Hikes?",
+    "summary": "Americans added $22 billion in credit card debt in the third quarter, New York Fed data shows. That lifted the total to a record $1.29 trillion. Those balances could soon cost more to carry, as traders now bet on a Fed rate hike in December. Record Card Balances Mask an Uneven Strain The card increase\nThe post Americans Owe a Record $1.29 Trillion on Credit Cards. Who Pays When the Fed Hikes? appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/credit-card-debt-record-fed-rate-hike/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Federal Reserve"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-11T03:45:02.000Z",
+    "fetchedAt": "2026-11-11T06:01:21.339Z",
+    "isDuplicateOf": null,
+    "content": "Americans have accumulated a record $1.29 trillion in credit card debt, according to data from the Federal Reserve Bank of New York. In the third quarter alone, debt increased by $22 billion. These rising balances may become even more expensive for consumers to carry, as traders increasingly expect the Federal Reserve to implement an interest rate hike.",
+    "content_ta": "New York Fed-ன் தரவுகளின்படி, அமெரிக்கர்களின் கிரெடிட் கார்டு கடன் $1.29 டிரில்லியன் என்ற சாதனை அளவை எட்டியுள்ளது. மூன்றாம் காலாண்டில் மட்டும் கடன் $22 பில்லியன் அதிகரித்துள்ளது. வட்டி விகிதத்தை அதிகரிக்க Federal Reserve திட்டமிட்டு வருவதால், இந்த அதிகரித்த கடன் சுமை நுகர்வோருக்கு மேலும் செலவை ஏற்படுத்தும்.",
+    "slug": "americans-owe-a-record-1-29-trillion-on-credit-cards-who-pays-when-the-fed-hikes"
+  },
+  {
+    "id": "8ef4189a6918d698",
+    "slug": "crypto-ally-tom-emmer-elected-house-gop-minority-whip",
+    "title": "Crypto ally Tom Emmer elected House GOP minority whip",
     "tags": [
       "Tom Emmer",
       "House GOP",
       "Congressional Crypto Caucus",
       "Minnesota"
     ],
+    "source": "Cointelegraph",
     "origin": "rss",
-    "pubDate": "2026-11-11T03:07:45.000Z",
-    "fetchedAt": "2026-11-11T03:25:28.679Z",
-    "isDuplicateOf": null,
-    "content": "Crypto ally Tom Emmer has been elected House GOP minority whip. The Minnesota lawmaker, known for helping establish the Congressional Crypto Caucus, will retain his leadership role within the Republican party following the midterm elections.",
-    "content_ta": "கிரிப்டோ ஆதரவாளரான Tom Emmer ஹவுஸ் GOP சிறுபான்மை விப்பாக தேர்ந்தெடுக்கப்பட்டுள்ளார். மிசோட்டா சட்டமியற்றுநரான இவர், Congressional Crypto Caucus-ஐ நிறுவ உதவியவர் என்பது குறிப்பிடத்தக்கது, மேலும் இடைக்காலத் தேர்தல்களுக்குப் பிறகு குடியரசுக் கட்சியின் தலைமைப் பதவியில் தொடர்வார்.",
-    "slug": "crypto-ally-tom-emmer-elected-house-gop-minority-whip"
+    "hasContent": true,
+    "pubDate": "2026-11-11T03:07:45.000Z"
   },
   {
     "id": "fbd88b8b2df8af3e",
@@ -557,250 +844,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-10T18:45:46.000Z"
-  },
-  {
-    "id": "ad521742f566ffad",
-    "slug": "wirex-appoints-former-starling-coo-julian-sawyer-to-board",
-    "title": "Wirex appoints former Starling COO Julian Sawyer to board",
-    "tags": [
-      "Wirex",
-      "Starling Bank",
-      "Julian Sawyer",
-      "United Kingdom"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-10T18:36:00.000Z"
-  },
-  {
-    "id": "72aebd07118c14a7",
-    "slug": "inkbox-raises-5-3-million-and-launches-cloud-hosted-ai-agents-with-persistent-computers",
-    "title": "Inkbox raises $5.3 million and launches cloud-hosted AI agents with persistent computers",
-    "tags": [
-      "Inkbox"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-10T18:33:49.000Z"
-  },
-  {
-    "id": "096eb044f31b0c64",
-    "slug": "goldman-citi-and-global-banks-commit-270-million-to-challenge-crypto-s-stablecoin-giants",
-    "title": "Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto’s Stablecoin Giants",
-    "tags": [
-      "Goldman Sachs",
-      "Citi",
-      "Deutsche Bank",
-      "Project Faro"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-10T18:33:37.000Z"
-  },
-  {
-    "id": "baaff3baa8f38f1d",
-    "slug": "ripple-linked-uphold-faces-withdrawal-delays-amid-bank-run-claims",
-    "title": "Ripple-linked Uphold faces withdrawal delays amid ‘bank run’ claims",
-    "tags": [
-      "Uphold",
-      "Ripple"
-    ],
-    "source": "Protos",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-10T18:28:54.000Z"
-  },
-  {
-    "id": "ee72a6ed3197ce9e",
-    "slug": "google-deepmind-and-artificial-analysis-launch-mka-benchmark-for-visual-ai-agents",
-    "title": "Google DeepMind and Artificial Analysis launch MKA benchmark for visual AI agents",
-    "tags": [
-      "Google DeepMind",
-      "Artificial Analysis"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-10T18:21:17.000Z"
-  },
-  {
-    "id": "124cfa24a0b319de",
-    "slug": "sharplink-onchain-yield-fund-anchors-launch-of-ushp-a-tokenized-us-home-price-index",
-    "title": "Sharplink Onchain Yield Fund anchors launch of USHP, a tokenized US home price index",
-    "tags": [
-      "Sharplink Onchain Yield Fund",
-      "USHP",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-10T18:20:26.000Z"
-  },
-  {
-    "id": "3bb46df54e8c0e7c",
-    "slug": "microsoft-beats-nvidia-for-the-first-time-since-2025-so-why-is-msft-stock-falling",
-    "title": "Microsoft Beats Nvidia for the First Time Since 2025: So Why Is MSFT Stock Falling?",
-    "tags": [
-      "Microsoft",
-      "Nvidia"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-10T18:19:32.000Z"
-  },
-  {
-    "id": "0486e83616061ee0",
-    "slug": "us-treasury-sets-5-coupon-on-10-year-notes-highest-since-2006",
-    "title": "US Treasury sets 5% coupon on 10-year notes, highest since 2006",
-    "tags": [
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-10T18:11:08.000Z"
-  },
-  {
-    "id": "768eff3dcbda19c6",
-    "slug": "bitcoin-gold-productive-land-your-shield-against-inflation-anthony-pompliano",
-    "title": "Bitcoin, Gold & Productive Land: Your Shield Against Inflation: Anthony Pompliano",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "ZyCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-10T17:51:40.000Z"
-  },
-  {
-    "id": "b8bbc9656290c070",
-    "slug": "fidelity-triples-its-strategy-stake-to-156-million-in-q3",
-    "title": "Fidelity triples its Strategy stake to $156 million in Q3",
-    "tags": [
-      "Fidelity",
-      "Strategy",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-10T17:50:15.000Z"
-  },
-  {
-    "id": "f6a7523da1011aa5",
-    "slug": "bitcoin-s-projected-difficulty-cut-would-still-leave-older-s19-rigs-short-at-5-cent-power",
-    "title": "Bitcoin’s projected difficulty cut would still leave older S19 rigs short at 5-cent power",
-    "tags": [],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-10T17:49:50.000Z"
-  },
-  {
-    "id": "429bc0b20eb21625",
-    "slug": "how-alice-huang-helped-nvidia-with-chinese-export-restrictions",
-    "title": "How Alice Huang helped Nvidia with Chinese export restrictions",
-    "tags": [],
-    "source": "Protos",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-10T17:49:36.000Z"
-  },
-  {
-    "id": "ccf21a7980eb8083",
-    "slug": "perplexity-computer-adds-google-s-gemini-4-carbon-for-pro-and-max-subscribers",
-    "title": "Perplexity Computer adds Google’s Gemini 4 Carbon for Pro and Max subscribers",
-    "tags": [
-      "Perplexity Computer",
-      "Google",
-      "Gemini 4 Carbon"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-10T17:47:55.000Z"
-  },
-  {
-    "id": "eb7007fc795b9471",
-    "slug": "token-terminal-expands-tokenized-stock-dataset-to-5-859-tokens-across-18-chains",
-    "title": "Token Terminal expands tokenized stock dataset to 5,859 tokens across 18 chains",
-    "tags": [
-      "Token Terminal"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-10T17:45:02.000Z"
-  },
-  {
-    "id": "bd554c859c430458",
-    "slug": "softbank-s-bankruptcy-odds-climb-to-33-as-financing-costs-surge",
-    "title": "SoftBank’s bankruptcy odds climb to 33% as financing costs surge",
-    "tags": [
-      "SoftBank"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-10T17:40:13.000Z"
-  },
-  {
-    "id": "c5c1462992d1ad95",
-    "slug": "hot-us-inflation-raises-odds-of-half-point-fed-hike-in-december",
-    "title": "Hot US inflation raises odds of half-point Fed hike in December",
-    "tags": [
-      "United States",
-      "Federal Reserve"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-10T17:31:09.000Z"
-  },
-  {
-    "id": "c04eb3e37ad78f10",
-    "slug": "anthropic-expands-claude-ai-suite-with-sheets-whiteboards-live-data-tools",
-    "title": "Anthropic expands Claude AI suite with Sheets, Whiteboards, live data tools",
-    "tags": [
-      "Anthropic",
-      "Claude"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-10T17:30:03.000Z"
-  },
-  {
-    "id": "37be4d13102b22fc",
-    "slug": "bybit-expands-wsot-2026-to-include-gold-oil-stocks-and-indices",
-    "title": "Bybit expands WSOT 2026 to include gold, oil, stocks and indices",
-    "tags": [
-      "Bybit"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-10T17:28:58.000Z"
-  },
-  {
-    "id": "785027d4acfe5aad",
-    "slug": "best-crypto-savings-accounts-in-2026-six-exchanges-ranked-by-flexible-fixed-and-rwa-yield",
-    "title": "Best Crypto Savings Accounts in 2026: Six Exchanges Ranked by Flexible, Fixed and RWA Yield",
-    "tags": [
-      "Bitcoin",
-      "Ethereum",
-      "Solana",
-      "USDT",
-      "USDC"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-10T17:27:43.000Z"
   }
 ]
