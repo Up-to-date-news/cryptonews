@@ -270,5 +270,216 @@
     "content": "Quantum DC has decided to halt its data center project in Australia following significant public backlash. This growing community opposition highlights the increasing scrutiny that data center developments face globally, which could potentially lead to stricter regulations and impact future market dynamics and project pipelines for the industry.",
     "content_ta": "பொது மக்களின் கடுமையான எதிர்ப்பைத் தொடர்ந்து, ஆஸ்திரேலியாவில் தனது டேட்டா சென்டர் திட்டத்தை நிறுத்துவதாக Quantum DC அறிவித்துள்ளது. டேட்டா சென்டர் திட்டங்கள் மீதான இந்த பொதுமக்களின் அதிகரித்துவரும் கண்காணிப்பு, எதிர்காலத்தில் கடுமையான விதிமுறைகளுக்கு வழிவகுக்கக்கூடும்.",
     "slug": "quantum-dc-halts-australia-data-center-amid-public-backlash"
+  },
+  {
+    "id": "a0251da5736254cc",
+    "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
+    "summary": "The flaw was fixed in October 2025 and kept quiet until Tuesday. It came out alongside a high-severity bug that could stop a miner from producing blocks until someone restarted it.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
+    "source": "CoinDesk",
+    "tags": [
+      "Bitcoin Core",
+      "Tor"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T05:22:31.000Z",
+    "fetchedAt": "2026-11-12T06:01:19.718Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin Core has revealed a previously hidden bug that allowed thousands of nodes to mistakenly trust unknown connections on the Tor network. The vulnerability was quietly patched in October and officially disclosed alongside another high-severity issue capable of halting block production for miners until a restart was performed.",
+    "content_ta": "Bitcoin Core தனது நெட்வொர்க்கில் பல ஆயிரம் நோட்கள் Tor-ல் உள்ள தெரியாத நபர்களை நம்ப வழிவகுத்த ஒரு பாதுகாப்பு குறைபாட்டை வெளிப்படுத்தியுள்ளது. இந்தத் தவறு அக்டோபர் மாதம் சரிசெய்யப்பட்டு தற்போது வெளியிடப்பட்டுள்ளது. மேலும், மைனர்களின் பிளாக் உற்பத்தியை நிறுத்தக்கூடிய மற்றொரு கடுமையான பிழையும் இதனுடன் வெளிவந்துள்ளது.",
+    "slug": "bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor"
+  },
+  {
+    "id": "c2db6d420c7d0227",
+    "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
+    "summary": "Lending support among the ledger’s 35 validators has climbed from 19 to 22 since mid-October, and no public tracker shows which validators switched.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
+    "source": "CoinDesk",
+    "tags": [
+      "Ripple",
+      "XRP Ledger"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T05:18:43.000Z",
+    "fetchedAt": "2026-11-12T06:01:19.718Z",
+    "isDuplicateOf": null,
+    "content": "Ripple’s proposed bank-lending system is moving closer to its official launch on the XRP Ledger. Support for the new lending feature among the ledger’s validators has increased recently. Since mid-October, the number of validating participants backing the system has climbed from 19 to 22. Public tracking data currently does not reveal the identities of the specific validators that switched their votes to support the upcoming release.",
+    "content_ta": "Ripple-ன் வங்கி கடன் வழங்கும் முறை XRP Ledger-ல் தொடங்குவதற்கு அருகில் சென்றுள்ளது. இந்த லெட்ஜரின் வேலிடேட்டர்கள் மத்தியில் இதற்கான ஆதரவு சமீபத்தில் அதிகரித்துள்ளது. அக்டோபர் மாத நடுப்பகுதியில் இருந்து, இந்த முறைக்கு ஆதரவளிக்கும் வேலிடேட்டர்களின் எண்ணிக்கை 19-ல் இருந்து 22 ஆக உயர்ந்துள்ளது. ஆதரவை மாற்றிய குறிப்பிட்ட வேலிடேட்டர்கள் யார் என்ற விவரங்களை எந்தவொரு பொது டிராக்கரும் வெளியிடவில்லை.",
+    "slug": "ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger"
+  },
+  {
+    "id": "a0670bd379e9c2d6",
+    "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
+    "summary": "In a July interview, Binance chief security officer Jimmy Su explained how fake coding assessments could compromise employee devices, a tactic later used in the exchange’s record-breaking hack.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Binance",
+      "Jimmy Su"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T05:07:11.000Z",
+    "fetchedAt": "2026-11-12T06:01:19.718Z",
+    "isDuplicateOf": null,
+    "content": "Months before a record-breaking $6.3 billion hack, Binance Chief Security Officer Jimmy Su discussed how fake coding assessments could compromise employee devices during a July interview. This security vulnerability explanation accurately previewed the exact tactic that hackers later employed to breach the exchange in the massive cyber attack.",
+    "content_ta": "Binance-ன் Chief Security Officer ஆன Jimmy Su, கடந்த ஜூலை மாத நேர்காணல் ஒன்றில், போலியான கோடிங் தேர்வுகள் மூலம் ஊழியர்களின் சாதனங்கள் எவ்வாறு முடக்கப்படலாம் என்பதை விளக்கினார். இந்த பாதுகாப்பு குறைபாடு குறித்த விளக்கம், பிற்காலத்தில் மிகப்பெரிய ஹேக் தாக்குதலில் ஹேக்கர்களால் பயன்படுத்தப்பட்ட அதே முறையை முன்கூட்டியே கணித்திருந்தது.",
+    "slug": "binance-cso-unwittingly-foreshadowed-6-3b-hack-tactic-months-before-attack"
+  },
+  {
+    "id": "1527048d37e111c4",
+    "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
+    "summary": "In today's newsletter, bitcoin 'ripe for a squeeze' as traders raise odds of sub-$70,000 Christmas; Bitmine reports $6.3 billion annual net loss as ether falls 44%; and more.",
+    "hasSummary": true,
+    "link": "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430",
+    "source": "The Block",
+    "tags": [
+      "Bitcoin",
+      "Bitmine"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T04:55:00.000Z",
+    "fetchedAt": "2026-11-12T06:01:19.718Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin traders have increased the odds of a sub-$70,000 price around Christmas as the market prepares for potential volatility. Meanwhile, Bitmine reported a massive $6.3 billion annual net loss, coinciding with a 44 percent drop in ether. Analysts note that current market conditions leave bitcoin ripe for a potential squeeze as traders reassess their positions amid broader digital asset declines.",
+    "content_ta": "கிறிஸ்மஸ் பண்டிகைக்குள் Bitcoin விலை 70,000 டாலருக்கும் கீழே சரிய வாய்ப்புள்ளதாக வர்த்தகர்கள் கருதுகின்றனர். இதற்கிடையில், Bitmine நிறுவனம் 6.3 பில்லியன் டாலர் வருடாந்திர நிகர இழப்பை சந்தித்துள்ளதாக அறிவித்துள்ளது. மேலும் ether விலை 44 சதவீதம் சரிந்துள்ளது. சந்தை நிலவரங்கள் காரணமாக Bitcoin விலையில் திடீர் மாற்றங்கள் ஏற்படலாம் என்று ஆய்வாளர்கள் தெரிவிக்கின்றனர்.",
+    "slug": "bitcoin-traders-raise-odds-of-sub-70-000-christmas-bitmine-reports-6-3-billion-annual-net-loss-and"
+  },
+  {
+    "id": "ecdebfd0beefe58e",
+    "title": "BTC, ETH, and XRP Face Extreme Fear, But Whales Are Sending Mixed Signals",
+    "summary": "Crypto traders are becoming increasingly bearish, but history suggests that widespread fear can sometimes create opportunities for a market-wide recovery.",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/btc-eth-and-xrp-face-extreme-fear-but-whales-are-sending-mixed-signals/",
+    "source": "CryptoPotato",
+    "tags": [
+      "Bitcoin",
+      "Ethereum",
+      "XRP"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T05:06:16.000Z",
+    "fetchedAt": "2026-11-12T06:01:19.718Z",
+    "isDuplicateOf": null,
+    "content": "Major cryptocurrencies like BTC, ETH, and XRP are currently facing extreme fear among retail traders. While market sentiment has turned increasingly bearish, historical trends show that such widespread fear can often signal potential opportunities for a market recovery. Meanwhile, large investors, known as whales, are displaying mixed signals in their trading behavior.",
+    "content_ta": "BTC, ETH மற்றும் XRP போன்ற முக்கிய கிரிப்டோகரன்சிகள் தற்போது கடுமையான சந்தை பயத்தை எதிர்கொண்டுள்ளன. வர்த்தகர்கள் மத்தியில் கரடி சந்தை மனப்பான்மை அதிகரித்து வந்தாலும், பரவலான இந்த பயம் சந்தை மீண்டு வருவதற்கான வாய்ப்புகளை உருவாக்கக்கூடும் என்று வரலாறு காட்டுகிறது. இதற்கிடையில், வேல்ஸ் எனப்படும் பெரிய முதலீட்டாளர்கள் கலவையான வர்த்தக நடவடிக்கைகளை வெளிப்படுத்தி வருகின்றனர்.",
+    "slug": "btc-eth-and-xrp-face-extreme-fear-but-whales-are-sending-mixed-signals"
+  },
+  {
+    "id": "7612dbbdee5d366f",
+    "title": "Kevin O'Leary Reveals What's Really Behind Crypto Market Crash",
+    "summary": "Shark Tank star Kevin O'Leary has revealed what he believes is really driving the crypto market crash, arguing that regulatory uncertainty is holding back institutional adoption of blockchain and stablecoins.",
+    "hasSummary": true,
+    "link": "https://u.today/kevin-oleary-reveals-whats-really-behind-crypto-market-crash",
+    "source": "U.Today",
+    "tags": [
+      "Kevin O'Leary",
+      "Shark Tank"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T05:42:34.000Z",
+    "fetchedAt": "2026-11-12T06:01:19.718Z",
+    "isDuplicateOf": null,
+    "content": "Shark Tank star Kevin O'Leary has shared his perspective on the recent cryptocurrency market crash. According to O'Leary, the primary factor driving the downturn and preventing widespread adoption of blockchain technology and stablecoins by large institutions is ongoing regulatory uncertainty.",
+    "content_ta": "Shark Tank star Kevin O'Leary கிரிப்டோ சந்தை வீழ்ச்சிக்கான உண்மையான காரணம் என்ன என்பதை விளக்கியுள்ளார். பெரிய நிறுவனங்கள் பிளாக்செயின் தொழில்நுட்பத்தையும் stablecoins-களையும் ஏற்றுக்கொள்வதைத் தற்போதைய ஒழுங்குமுறை நிச்சயதார்த்தமே தடுத்து வருவதாக அவர் கூறியுள்ளார்.",
+    "slug": "kevin-o-leary-reveals-what-s-really-behind-crypto-market-crash"
+  },
+  {
+    "id": "270dd16cd68388d3",
+    "title": "Georgia residents sue OpenAI over $20 billion data center deal",
+    "summary": "The lawsuits could reshape local governance, emphasizing transparency and public involvement in large-scale development projects.\nThe post Georgia residents sue OpenAI over $20 billion data center deal appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/georgia-residents-sue-openai-data-center/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "OpenAI",
+      "Georgia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T05:23:24.000Z",
+    "fetchedAt": "2026-11-12T06:01:19.718Z",
+    "isDuplicateOf": null,
+    "content": "Georgia residents have filed lawsuits against OpenAI following a massive $20 billion data center deal. The legal actions highlight growing concerns over local governance, transparency, and public involvement in large-scale technological developments within the region, potentially setting a precedent for future infrastructure projects.",
+    "content_ta": "OpenAI-யின் பிரம்மாண்டமான 20 பில்லியன் டாலர் டேட்டா சென்டர் ஒப்பந்தத்திற்கு எதிராக ஜார்ஜியா மாநிலவாசிகள் வழக்கு தொடர்ந்துள்ளனர். இந்த சட்ட நடவடிக்கைகள் உள்ளூர் நிர்வாகம், வெளிப்படைத்தன்மை மற்றும் பெருமளவிலான தொழில்நுட்ப வளர்ச்சித் திட்டங்களில் பொதுமக்களின் ஈடுபாடு குறித்த வளர்ந்து வரும் கவலைகளை எடுத்துக்காட்டுகின்றன.",
+    "slug": "georgia-residents-sue-openai-over-20-billion-data-center-deal"
+  },
+  {
+    "id": "06db6fd3ade0a45d",
+    "title": "Nvidia reportedly taps outside firm to scout potential CEO candidates",
+    "summary": "Nvidia's leadership transition could impact its strategic direction and regulatory landscape, affecting investor confidence and market stability.\nThe post Nvidia reportedly taps outside firm to scout potential CEO candidates appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/nvidia-outside-firm-ceo-candidates/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Nvidia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T05:05:32.000Z",
+    "fetchedAt": "2026-11-12T06:01:19.718Z",
+    "isDuplicateOf": null,
+    "content": "Chip giant Nvidia has reportedly engaged an external search firm to help identify potential candidates to succeed its longtime chief executive. This leadership planning reflects the growing scale and strategic importance of the company. Such a transition could influence Nvidia's future direction, impacting investor confidence and market stability across the technology sector.",
+    "content_ta": "சிப் தயாரிப்பு நிறுவனமான Nvidia, தனது நீண்டகால தலைமை நிர்வாக அதிகாரிக்குப் பதிலாகப் புதிய வேட்பாளர்களைத் தேர்ந்தெடுக்க ஒரு வெளி நிறுவனத்தை நியமித்துள்ளதாகத் தகவல்கள் வெளியாகியுள்ளன. இந்தத் தலைமைத்துவத் திட்டமிடல் நிறுவனத்தின் உத்திசார் முக்கியத்துவத்தைக் காட்டுகிறது. இந்த மாற்றம் எதிர்கால திசையை வடிவமைத்து, முதலீட்டாளர்களின் நம்பிக்கையையும் சந்தை ஸ்திரத்தன்மையையும் பாதிக்கலாம்.",
+    "slug": "nvidia-reportedly-taps-outside-firm-to-scout-potential-ceo-candidates"
+  },
+  {
+    "id": "e13dd01c506af6c1",
+    "title": "New Zealand bond demand hits decade high post-election, yields fall",
+    "summary": "Increased investor confidence post-election may enhance New Zealand's fiscal stability, influencing future economic policies and market dynamics.\nThe post New Zealand bond demand hits decade high post-election, yields fall appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/new-zealand-bond-demand-hits-decade-high-post-election-yields-fall/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "New Zealand"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T04:52:25.000Z",
+    "fetchedAt": "2026-11-12T06:01:19.718Z",
+    "isDuplicateOf": null,
+    "content": "New Zealand experienced a surge in bond demand following its recent election, reaching a decade-long high while yields declined. This notable shift highlights growing investor confidence in the region, which could significantly impact future fiscal stability, broader economic policies, and overall market dynamics moving forward.",
+    "content_ta": "New Zealand-ல் நடைபெற்ற தேர்தலுக்குப் பிறகு பாண்ட் (bond) தேவையில் மிகப்பெரிய எழுச்சி ஏற்பட்டுள்ளது. இது கடந்த பத்தாண்டுகளில் இல்லாத அளவுக்கு உச்சத்தை எட்டியுள்ளதுடன், ஈவுத்தொகையும் (yields) குறைந்துள்ளது. இந்த சாதகமான மாற்றம் முதலீட்டாளர்களின் நம்பிக்கையை வெளிப்படுத்துவதோடு, நாட்டின் எதிர்கால பொருளாதார ஸ்திரத்தன்மை மற்றும் சந்தை நிலவரங்களில் முக்கிய தாக்கத்தை ஏற்படுத்தும்.",
+    "slug": "new-zealand-bond-demand-hits-decade-high-post-election-yields-fall"
+  },
+  {
+    "id": "cbc1a577e786b621",
+    "title": "Aldar and ADIB Launch Co-Branded Darna Covered Cards in Abu Dhabi",
+    "summary": "Aldar and ADIB have launched two Visa co-branded cards tied to the Darna loyalty programme, offering up to 10% back on retail and hospitality\nThe post Aldar and ADIB Launch Co-Branded Darna Covered Cards in Abu Dhabi appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/aldar-and-adib-launch-co-branded-darna-covered-cards-in-abu-dhabi/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Aldar",
+      "ADIB",
+      "Abu Dhabi"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T06:00:20.000Z",
+    "fetchedAt": "2026-11-12T06:01:19.718Z",
+    "isDuplicateOf": null,
+    "content": "Aldar and ADIB have launched two Visa co-branded cards tied to the Darna loyalty programme in Abu Dhabi. The new covered cards offer users up to 10 percent back on retail and hospitality spending. This collaboration brings together major regional partners to enhance consumer rewards and shopping experiences within the local market.",
+    "content_ta": "Abu Dhabi நகரில் Ald மற்றும் ADIB நிறுவனங்கள் Darna லாயல்டி ப்ரோகிராம் உடன் இணைந்து இரண்டு புதிய Visa கோ-பிராண்டட் கார்டுகளை அறிமுகப்படுத்தியுள்ளது. இந்த புதிய கார்டுகள் மூலம் சில்லறை விற்பனை மற்றும் ஹாஸ்பிட்டாலிட்டி செலவுகளில் 10 சதவீதம் வரை கேஷ்பேக் பெறலாம். இந்த கூட்டு முயற்சியானது உள்ளூர் சந்தையில் நுகர்வோர் பலன்களை மேம்படுத்துவதை நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "aldar-and-adib-launch-co-branded-darna-covered-cards-in-abu-dhabi"
+  },
+  {
+    "id": "8564112fa1e139c7",
+    "title": "Neovision Launches ADGM Feeder Fund for UAE Retail Indian Equity Access",
+    "summary": "Neovision Wealth Management has opened the DSP Equity Opportunities Feeder Fund PC to UAE retail investors from $100, removing most legacy NRI onboarding steps.\nThe post Neovision Launches ADGM Feeder Fund for UAE Retail Indian Equity Access appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/neovision-launches-adgm-feeder-fund-for-uae-retail-indian-equity-access/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Neovision Wealth Management",
+      "ADGM",
+      "United Arab Emirates",
+      "India"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T05:00:42.000Z",
+    "fetchedAt": "2026-11-12T06:01:19.718Z",
+    "isDuplicateOf": null,
+    "content": "Neovision Wealth Management has launched the DSP Equity Opportunities Feeder Fund PC in the ADGM, providing UAE retail investors with accessible entry into Indian equities starting from $100. The new fund simplifies the investment process by eliminating many traditional Non-Resident Indian onboarding hurdles, opening up new opportunities for regional investors.",
+    "content_ta": "UAE சில்லறை முதலீட்டாளர்களுக்கு இந்திய பங்குச் சந்தைகளில் முதலீடு செய்யும் வாய்ப்பை வழங்கும் வகையில், Neovision Wealth Management நிறுவனம் ADGM-ல் DSP Equity Opportunities Feeder Fund PC-ஐ அறிமுகப்படுத்தியுள்ளது. குறைந்தபட்சம் $100 முதலீட்டில் தொடங்கப்படும் இந்த நிதியானது, பாரம்பரிய NRI ஆவணச் சரிபார்ப்பு முறைகளை நீக்கி முதலீட்டு செயல்முறையை எளிதாக்கியுள்ளது.",
+    "slug": "neovision-launches-adgm-feeder-fund-for-uae-retail-indian-equity-access"
   }
 ]
