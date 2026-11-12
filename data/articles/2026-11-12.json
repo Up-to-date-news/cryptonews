@@ -3933,5 +3933,780 @@
     "content": "NVIDIA announced that Jensen Huang has resigned as CEO. Colette Kress, the company's CFO, will serve as Interim CEO while the Board searches for a permanent successor. Additionally, the Board appointed Harvey C. Jones as its first-ever Chair of the Board. NVIDIA confirmed that its upcoming third-quarter fiscal 2027 financial results will be reported as previously scheduled.",
     "content_ta": "NVIDIA-யின் CEO பதவியிலிருந்து Jensen Huang விலகியுள்ளதாக அறிவிக்கப்பட்டுள்ளது. நிரந்தர வாரிசு நியமிக்கப்படும் வரை, இடைக்கால CEO-வாக நிறுவனத்தின் CFO Colette Kress பொறுப்பேற்பார். மேலும், Harvey C. Jones நிறுவனத்தின் முதல் தலைவராக நியமிக்கப்பட்டுள்ளார்.",
     "slug": "nvidia-announces-ceo-transition"
+  },
+  {
+    "id": "fffe7bfbe682267d",
+    "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
+    "summary": "Trezor CTO Tomáš Sušánka explains the trade-offs of Bitcoin’s leading post-quantum signature scheme.",
+    "hasSummary": true,
+    "link": "https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet",
+    "source": "Decrypt",
+    "tags": [
+      "Bitcoin",
+      "Trezor",
+      "Tomáš Sušánka"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T20:36:03.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin wallet makers face significant challenges in adopting post-quantum cryptography. Trezor CTO Tomáš Sušánka recently discussed the complex trade-offs involved in implementing leading post-quantum signature schemes for Bitcoin. While securing wallets against future quantum computing threats is essential, upgrading the network involves difficult technical hurdles and architectural choices.",
+    "content_ta": "Bitcoin வாலட் தயாரிப்பாளர்கள் குவாண்டம் பிந்தைய கிரிப்டோகிராஃபியை ஏற்றுக்கொள்வதில் குறிப்பிடத்தக்க சவால்களை எதிர்கொள்கின்றனர். Trezor நிறுவனத்தின் CTO Tomáš Sušánka, Bitcoin-க்கான முன்னணி குவாண்டம் பிந்தைய சிக்னேச்சர் முறைகளை செயல்படுத்துவதில் உள்ள சிக்கலான வர்த்தக பரிமாற்றங்கள் குறித்து விவாதித்தார். எதிர்கால குவாண்டம் கணினி அச்சுறுத்தல்களுக்கு எதிராக வாலட்டுகளைப் பாதுகாப்பது அவசியமானது என்றாலும், நெட்வொர்க்கை மேம்படுத்துவது கடினமான தொழில்நுட்ப சவால்களை உள்ளடக்கியது.",
+    "slug": "why-the-path-to-quantum-resistance-runs-uphill-for-bitcoin-wallet-makers"
+  },
+  {
+    "id": "7126d75e9b6cfb97",
+    "title": "Helius encrypts Solana transfers without removing operator trust",
+    "summary": "The default Privacy Rings prover protects secret inputs inside an AWS enclave, while wallets approve the code and policies behind that protection.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/helius-encrypts-solana-transfers-without-removing-operator-trust/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Helius",
+      "Solana",
+      "AWS"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T20:10:03.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Helius has introduced a new privacy feature for Solana transfers that secures secret inputs using an AWS enclave through its Privacy Rings prover. This setup allows users to maintain operator trust while wallets approve the underlying code and governance policies, enhancing transactional privacy on the blockchain without sacrificing security standards.",
+    "content_ta": "Solana பரிமாற்றங்களுக்கான புதிய பிரைவசி அம்சத்தை Helius அறிமுகப்படுத்தியுள்ளது. இதன் மூலம் Privacy Rings ப்ரோவர் மற்றும் AWS என்க்ளேவ் உதவியுடன் ரகசிய உள்ளீடுகள் பாதுகாக்கப்படுகின்றன. ஆபரேட்டர் நம்பிக்கையைப் பேணுகின்ற அதேவேளையில், வாலட்டுகள் மூலம் அதற்கான கோடு மற்றும் பாலிசிகள் அங்கீகரிக்கப்பட்டு பிளாக்செயின் பரிமாற்றங்கள் மேம்படுத்தப்படுகின்றன.",
+    "slug": "helius-encrypts-solana-transfers-without-removing-operator-trust"
+  },
+  {
+    "id": "11a7772e7f6dede0",
+    "title": "Bitcoin and Ethereum sink to 3-month lows, but a bigger crypto selloff may be ahead",
+    "summary": "Bitcoin and Ethereum fell to three-month lows Thursday, deepening a cryptocurrency selloff that has erased $550 billion in market value since October. Bitcoin slumped to $71,317, its lowest level since August, while Ethereum briefly fell below $2,000 to touch $1,983. The declines have pushed the broader crypto market's valuation from approximately $2.94 trillion in early…\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/bitcoin-and-ethereum-sink-to-3-month-lows-but-a-bigger-crypto-selloff-may-be-ahead/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Bitcoin",
+      "Ethereum",
+      "CryptoSlate"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T19:20:12.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin and Ethereum slumped to three-month lows on Thursday, deepening a massive cryptocurrency market selloff. The sharp declines have erased hundreds of billions of dollars in market value since October. Bitcoin dropped near $71,317, while Ethereum briefly fell below $2,000, significantly reducing the overall valuation of the broader crypto market from its earlier peaks.",
+    "content_ta": "வியாழக்கிழமை அன்று Bitcoin மற்றும் Ethereum விலை மூன்று மாதங்களின் மிகக் குறைந்த சரிவைச் சந்தித்தன. இது அக்டோபர் மாதத்திற்குப் பிறகு பல நூறு பில்லியன் டாலர் சந்தை மதிப்பை அழித்துள்ள மிகப்பெரிய கிரிப்டோகரன்சி சரிவை ஆழமாக்கியுள்ளது. Bitcoin விலை சுமார் $71,317 ஆகக் குறைந்தது, அதே நேரத்தில் Ethereum சுருக்கமாக $2,000-க்கும் கீழே சரிந்தது, இதனால் ஒட்டுமொத்த கிரிப்டோ சந்தையின் மதிப்பும் கணிசமாகக் குறைந்துள்ளது.",
+    "slug": "bitcoin-and-ethereum-sink-to-3-month-lows-but-a-bigger-crypto-selloff-may-be-ahead"
+  },
+  {
+    "id": "3359d7475a823731",
+    "title": "Simon Dixon: What It Would Take for Me to Sell My Bitcoin for Gold",
+    "summary": "▶\n\nBitcoin Magazine\n\nSimon Dixon: What It Would Take for Me to Sell My Bitcoin for Gold\nSimon Dixon, CEO and co-founder of BnkToTheFuture, tells BMTV there are only three things that would make him sell all of his Bitcoin and buy gold.\nThis post Simon Dixon: What It Would Take for Me to Sell My Bitcoin for Gold first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "hasSummary": true,
+    "link": "https://bitcoinmagazine.com/videos/simon-dixon-what-it-would-take-for-me-to-sell-my-bitcoin-for-gold",
+    "source": "Bitcoin Magazine",
+    "tags": [
+      "Simon Dixon",
+      "BnkToTheFuture",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T19:19:08.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Simon Dixon, CEO and co-founder of BnkToTheFuture, recently discussed his perspective on Bitcoin. In an interview with BMTV, Dixon revealed that there are only specific, rare conditions under which he would consider selling all of his Bitcoin holdings to purchase gold, as reported by Bitcoin Magazine.",
+    "content_ta": "BnkToTheFuture நிறுவனத்தின் CEO மற்றும் இணை நிறுவனரான Simon Dixon, தனது Bitcoin முதலீடு குறித்து சமீபத்தில் கருத்து தெரிவித்தார். BMTV-க்கு அளித்த பேட்டியில், Bitcoin-ஐ விற்று முழுமையாக gold வாங்குவதற்கு சில குறிப்பிட்ட மற்றும் அரிதான சூழ்நிலைகள் மட்டுமே காரணமாக அமையும் என்று அவர் குறிப்பிட்டதாக Bitcoin Magazine செய்தி வெளியிட்டுள்ளது.",
+    "slug": "simon-dixon-what-it-would-take-for-me-to-sell-my-bitcoin-for-gold"
+  },
+  {
+    "id": "c6580cf76d6b317d",
+    "title": "Binance Says It Has Fully Covered the $6.34 Billion Hack With Company Funds",
+    "summary": "Bitcoin Magazine\n\nBinance Says It Has Fully Covered the $6.34 Billion Hack With Company Funds\nThe exchange says users are whole after the Oct. 29 theft, paid for from SAFU, its futures insurance fund and treasury, and has published a 198-token proof-of-reserves snapshot that users cannot yet independently verify.\nThis post Binance Says It Has Fully Covered the $6.34 Billion Hack With Company Funds first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "hasSummary": true,
+    "link": "https://bitcoinmagazine.com/news/binance-covers-6-34-billion-hack",
+    "source": "Bitcoin Magazine",
+    "tags": [
+      "Binance",
+      "Bitcoin Magazine"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T19:12:14.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Cryptocurrency exchange Binance stated that it has fully covered a massive $6.34 billion security breach using its own company funds, including its SAFU insurance fund and treasury. The platform assured that all affected users have been made whole following the October 29 theft. Additionally, Binance published a proof-of-reserves snapshot containing 198 tokens, though users are currently unable to independently verify the data.",
+    "content_ta": "Binance என்ற கிரிப்டோகரன்சி எக்ஸ்சேஞ்ச், தனது சொந்த நிறுவன நிதிகள் மற்றும் SAFU காப்பீட்டு நிதியைப் பயன்படுத்தி $6.34 பில்லியன் ஹேக் தொகையை முழுமையாக ஈடுகட்டியுள்ளதாக அறிவித்துள்ளது. அக்டோபர் 29 அன்று நடந்த இந்த திருட்டுச் சம்பவத்தால் பாதிக்கப்பட்ட பயனர்கள் முழுமையாக பாதுகாக்கப்பட்டுள்ளதாக நிறுவனம் உறுதியளித்துள்ளது. மேலும், பயனர்களால் உடனடியாக சரிபார்க்க முடியாத போதிலும், 198 டோக்கன்களை உள்ளடக்கிய ரிசர்வ் ஆதார சான்றை Binance வெளியிட்டுள்ளது.",
+    "slug": "binance-says-it-has-fully-covered-the-6-34-billion-hack-with-company-funds"
+  },
+  {
+    "id": "7f565eaaa02dfe71",
+    "title": "Claude AI Predicts a Monster XRP Move Ahead of Anthropic IPO",
+    "summary": "Ahead of the upcoming Anthropic IPO, one of the most highly anticipated public stock launches in recent history, its Claude AI predicts that XRP could be set for a euphoric move by the beginning of next year.Anthropic is set to launch on Nasdaq in the $70–$78 range around mid-to-late November under the ticker ANT, generating […]\nThe post Claude AI Predicts a Monster XRP Move Ahead of Anthropic IPO appeared first on Cryptonews.",
+    "hasSummary": true,
+    "link": "https://cryptonews.com/news/claude-ai-predicts-a-monster-xrp-move-ahead-of-anthropic-ipo/",
+    "source": "CryptoNews",
+    "tags": [
+      "Claude AI",
+      "Anthropic",
+      "XRP",
+      "Nasdaq"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T19:03:00.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Ahead of the highly anticipated Anthropic IPO on Nasdaq under the ticker ANT, its Claude AI has predicted a major price movement for XRP by early next year. The public stock launch is slated for mid-to-late November with a targeted range of $70 to $78, capturing significant attention across the digital asset and financial markets.",
+    "content_ta": "வரவிருக்கும் Anthropic IPO வெளியீட்டை முன்னிட்டு, அதன் Claude AI அடுத்த ஆண்டின் தொடக்கத்திற்குள் XRP-ல் ஒரு பெரிய விலை நகர்வு இருக்கும் என்று கணித்துள்ளது. ANT என்ற குறியீட்டின் கீழ் நாஸ்டாக் (Nasdaq) பங்குகளாக வெளியிடப்படும் இந்த நிகழ்வு நவம்பர் நடுப்பகுதி அல்லது இறுதிப் பகுதியில் திட்டமிடப்பட்டுள்ளது.",
+    "slug": "claude-ai-predicts-a-monster-xrp-move-ahead-of-anthropic-ipo"
+  },
+  {
+    "id": "623ab50f0c75d4c8",
+    "title": "Onramp Launches Business Bitcoin Accounts With Team Withdrawal Approvals",
+    "summary": "Onramp’s new business account adds named users and withdrawal approvals. Its more expensive Treasury tier introduces a separate multi-institution custody arrangement.",
+    "hasSummary": true,
+    "link": "https://www.newsbtc.com/bitcoin-news/onramp-business-bitcoin-accounts-withdrawal-approvals/",
+    "source": "NewsBTC",
+    "tags": [
+      "Onramp",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T20:00:00.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Onramp has launched new business Bitcoin accounts featuring named users and team withdrawal approvals. Additionally, the company introduced a more expensive Treasury tier that provides a separate multi-institution custody arrangement, enhancing security and collaborative control for corporate cryptocurrency holdings.",
+    "content_ta": "Onramp நிறுவனம் பெயரிடப்பட்ட பயனர்கள் மற்றும் குழு ஒப்புதல்களுடன் கூடிய புதிய வணிக Bitcoin கணக்குகளை அறிமுகப்படுத்தியுள்ளது. கூடுதலாக, இந்நிறுவனம் அதிக செலவு கொண்ட Treasury பிரிவை அறிமுகப்படுத்தியுள்ளது, இது நிறுவனத்தின் கிரிப்டோகரன்சி வைப்புகளுக்கு பாதுகாப்பையும் கூட்டுக் கட்டுப்பாட்டையும் மேம்படுத்தும் வகையில் தனித்துவமான பல நிறுவன காவிக் ஏற்பாட்டை வழங்குகிறது.",
+    "slug": "onramp-launches-business-bitcoin-accounts-with-team-withdrawal-approvals"
+  },
+  {
+    "id": "f86ae9fe81cdab21",
+    "title": "Fold’s Bitcoin Gift Cards Gain Traction as Q3 Revenue Reaches $4.2M",
+    "summary": "Fold says TikTok Shop helped expand its Bitcoin gift-card business as it shifts toward retaining customer balances. Its latest quarter still produced a net loss.",
+    "hasSummary": true,
+    "link": "https://www.newsbtc.com/business/fold-q3-2026-bitcoin-gift-cards-customer-balances/",
+    "source": "NewsBTC",
+    "tags": [
+      "Fold",
+      "Bitcoin",
+      "TikTok Shop"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T19:00:00.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Fold reported that its Bitcoin gift card business is gaining traction, driven in part by TikTok Shop, as the company shifts focus toward retaining customer balances. Despite seeing its third-quarter revenue reach $4.2 million, the firm still recorded a net loss for the period.",
+    "content_ta": "Fold-ன் Bitcoin கிஃப்ட் கார்டு வணிகம் TikTok Shop-ன் உதவியால் வளர்ச்சி கண்டுள்ளதாகத் தெரிவித்துள்ளது. நிறுவனம் வாடிக்கையாளர் இருப்புகளைத் தக்கவைத்துக்கொள்வதில் கவனம் செலுத்தி வருகிறது. இதன் மூன்றாவது காலமாத வருவாய் 4.2 மில்லியன் டாலரை எட்டிய போதிலும், நிறுவனம் இன்னும் நிகர இழப்பைச் சந்தித்துள்ளது.",
+    "slug": "fold-s-bitcoin-gift-cards-gain-traction-as-q3-revenue-reaches-4-2m"
+  },
+  {
+    "id": "91ab4af67afd4e8c",
+    "title": "Polymarket Lays Off Employees and Ends Contractor Deals, Denies Reports of 30% Workforce Cuts",
+    "summary": "The company did not disclose how many employees and contractors were affected by the cuts.",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/polymarket-lays-off-employees-and-ends-contractor-deals-denies-reports-of-30-workforce-cuts/",
+    "source": "CryptoPotato",
+    "tags": [
+      "Polymarket"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T20:20:15.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Polymarket has laid off a number of employees and ended various contractor agreements. While the company confirmed the workforce reductions, it firmly denied widespread reports claiming that 30 percent of its staff had been cut. Management chose not to disclose the exact number of individuals affected by these recent restructuring measures.",
+    "content_ta": "Polymarket நிறுவனம் தனது சில ஊழியர்களை வேலை நீக்கம் செய்துள்ளதோடு, பல ஒப்பந்தக்காரர்களின் ஒப்பந்தங்களையும் முடிவுக்குக் கொண்டுவந்துள்ளது. தனது பணியாளர்களில் 30 சதவீதம் பேர் குறைக்கப்பட்டுள்ளதாக வெளியான பரவலான செய்திகளை நிறுவனம் மறுத்துள்ளது. எனினும், இந்த நடவடிக்கைகளால் பாதிக்கப்பட்டவர்களின் சரியான எண்ணிக்கையை நிறுவனம் வெளியிடவில்லை.",
+    "slug": "polymarket-lays-off-employees-and-ends-contractor-deals-denies-reports-of-30-workforce-cuts"
+  },
+  {
+    "id": "ec6bca057f1e194e",
+    "title": "TSMC confirms data breach as hacker demands Bitcoin worth $215K — Details",
+    "summary": "Another day, another incident, and more questions about security.",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/tsmc-confirms-data-breach-as-hacker-demands-bitcoin-worth-215k-details/",
+    "source": "AMBCrypto",
+    "tags": [
+      "TSMC",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T21:00:19.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Semiconductor manufacturing giant TSMC has confirmed a data breach after a hacker demanded a ransom in Bitcoin worth $215,000. The incident has raised fresh concerns regarding cybersecurity measures and data protection protocols at major technology firms, prompting further scrutiny into industry vulnerabilities.",
+    "content_ta": "செமிகண்டக்டர் தயாரிப்பு நிறுவனமான TSMC-ல் தரவு திருட்டு (data breach) நடந்துள்ளதாக அந்நிறுவனம் உறுதிப்படுத்தியுள்ளது. இதற்கிடையே, $215,000 மதிப்புள்ள Bitcoin-ஐ ஹேக்கர் ஒருவர் பிணையத் தொகையாகக் கோரியுள்ளார். இந்தச் சம்பவம் முக்கிய தொழில்நுட்ப நிறுவனங்களின் இணையப் பாதுகாப்பு மற்றும் தரவுப் பாதுகாப்பு முறைகள் குறித்து புதிய கேள்விகளை எழுப்பியுள்ளது.",
+    "slug": "tsmc-confirms-data-breach-as-hacker-demands-bitcoin-worth-215k-details"
+  },
+  {
+    "id": "f24f01fbe1c1365a",
+    "title": "NEAR Intents fuels $2.7M in Q4 buybacks as revenue surges",
+    "summary": "Despite stronger revenue generation, why does NEAR continue to face selling pressure?",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/near-intents-fuels-2-7m-in-q4-buybacks-as-revenue-surges/",
+    "source": "AMBCrypto",
+    "tags": [
+      "NEAR"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T20:00:55.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "NEAR Intents drove $2.7 million in token buybacks during the fourth quarter as the platform's revenue surged. However, despite this strong financial growth and increased revenue generation, the NEAR token continues to experience notable selling pressure in the market.",
+    "content_ta": "Q4-ல் NEAR Intents தளத்தின் வருவாய் அதிகரித்ததை அடுத்து, $2.7 மில்லியன் மதிப்பிலான டோக்கன் பைபேக்குகள் நடந்துள்ளன. இருப்பினும், வலுவான வருவாய் வளர்ச்சி இருந்தபோதிலும், சந்தையில் NEAR தொடர்ந்து விற்பனை அழுத்தத்தை சந்தித்து வருகிறது.",
+    "slug": "near-intents-fuels-2-7m-in-q4-buybacks-as-revenue-surges"
+  },
+  {
+    "id": "b925e193ed375414",
+    "title": "Ripple's RLUSD Overtakes PayPal's PYUSD",
+    "summary": "Ripple's RLUSD has surpassed PayPal's PYUSD in market capitalization, reaching $2.71 billion as growing institutional adoption and major exchange integrations fuel the stablecoin's rapid expansion.",
+    "hasSummary": true,
+    "link": "https://u.today/ripples-rlusd-overtakes-paypals-pyusd",
+    "source": "U.Today",
+    "tags": [
+      "Ripple",
+      "RLUSD",
+      "PayPal",
+      "PYUSD"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T19:36:07.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Ripple's RLUSD has surpassed PayPal's PYUSD in market capitalization, reaching a total of $2.71 billion. This milestone follows rapid expansion driven by increasing institutional adoption and integrations across major cryptocurrency exchanges, positioning the stablecoin strongly within the digital asset market.",
+    "content_ta": "Ripple நிறுவனத்தின் RLUSD ஆனது PayPal-இன் PYUSD-ஐ சந்தை மூலதனத்தில் முந்தியுள்ளது. இது $2.71 பில்லியன் மதிப்பை எட்டியுள்ளது. நிறுவனங்களின் ஆதரவு மற்றும் முக்கிய கிரிப்டோகரன்சி பரிமாற்றங்கள் மூலம் இதன் வளர்ச்சி விரைவாகியுள்ளது.",
+    "slug": "ripple-s-rlusd-overtakes-paypal-s-pyusd"
+  },
+  {
+    "id": "1c9b9646d8c93fcd",
+    "title": "JPMorgan Bought More MicroStrategy Before MSCI Exit, Plus Insurance Against a Drop",
+    "summary": "JPMorgan held 36% more MicroStrategy shares before MSCI's cut, plus 60% more put options that insure against a drop.\nThe post JPMorgan Bought More MicroStrategy Before MSCI Exit, Plus Insurance Against a Drop appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/jpmorgan-microstrategy-stake-msci-exit/",
+    "source": "BeInCrypto",
+    "tags": [
+      "JPMorgan",
+      "MicroStrategy",
+      "MSCI"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T20:45:32.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "JPMorgan increased its holding of MicroStrategy shares significantly prior to the company's exclusion from the MSCI index. Alongside the additional stock acquisition, the banking giant also bought more put options, providing substantial financial protection against a potential downward movement in share price. This strategic positioning highlights a cautious yet engaged approach by JPMorgan toward MicroStrategy stock amidst shifting market dynamics.",
+    "content_ta": "MSCI இன்டெக்ஸில் இருந்து MicroStrategy விலக்கப்படுவதற்கு முன்பு, அந்த நிறுவனத்தின் பங்குகளை JPMorgan கணிசமாக அதிகரித்துக்கொண்டது. கூடுதல் பங்குகளை வாங்கியதுடன், பங்கு விலை சரிவிலிருந்து தற்காத்துக் கொள்ளும் வகையில் ஏராளமான புட் ஆப்ஷன்களையும் இந்த வங்கி வாங்கியுள்ளது. மாறிவரும் சந்தை சூழலில் MicroStrategy பங்குகள் மீது JPMorgan கொண்டுள்ள எச்சரிக்கையான அணுகுமுறையை இந்த நடவடிக்கை காட்டுகிறது.",
+    "slug": "jpmorgan-bought-more-microstrategy-before-msci-exit-plus-insurance-against-a-drop"
+  },
+  {
+    "id": "cd960615e6bddc82",
+    "title": "SafePal Data Breach Victims Are Now Getting Scam Letters at Home",
+    "summary": "Scammers mail fake SafePal letters using leaked customer data. See how the scam works and what SafePal says.\nThe post SafePal Data Breach Victims Are Now Getting Scam Letters at Home appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/safepal-data-breach-scam-letters/",
+    "source": "BeInCrypto",
+    "tags": [
+      "SafePal"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T18:59:53.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Victims of a SafePal data breach are now receiving physical scam letters at their home addresses. Scammers are exploiting leaked customer data to mail fake correspondence designed to deceive users. Security experts advise remaining vigilant against such targeted phishing attempts offline.",
+    "content_ta": "SafePal டேட்டா Breach-னால் பாதிக்கப்பட்டவர்களின் வீட்டு முகவரிகளுக்கு தற்போது மோசடி கடிதங்கள் வரத் தொடங்கியுள்ளன. கசிந்த வாடிக்கையாளர் தரவைப் பயன்படுத்தி மோசடி செய்பவர்கள் போலியான கடிதங்களை அனுப்பி வருகின்றனர். ஆஃப்லைன் மூலம் நடக்கும் இதுபோன்ற குறிவைக்கப்பட்ட ஃபிஷிங் முயற்சிகளுக்கு எதிராக மக்கள் எச்சரிக்கையுடன் இருக்க வேண்டும் என்று அறிவுறுத்தப்படுகிறார்கள்.",
+    "slug": "safepal-data-breach-victims-are-now-getting-scam-letters-at-home"
+  },
+  {
+    "id": "d10c9e94707d7e0f",
+    "title": "Kalshi Drops Trump Jr. as Adviser Days After Senators Flagged His Ties",
+    "summary": "Kalshi's decision underscores the importance of managing conflicts of interest, especially when seeking new capital and maintaining competitive integrity.\nThe post Kalshi ends Donald Trump Jr advisory contract after his firm invests in rival Polymarket appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/kalshi-drops-trump-jr-adviser-contract/",
+    "source": "BeInCrypto",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-12T18:28:45.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "kalshi-drops-trump-jr-as-adviser-days-after-senators-flagged-his-ties"
+  },
+  {
+    "id": "2f93d15ec8f66b06",
+    "title": "Google Antigravity rolls out Orchestrator for AI Ultra subscribers",
+    "summary": "Google's Orchestrator enhances AI efficiency, signaling a shift towards specialized model routing, optimizing resource use and task completion.\nThe post Google Antigravity rolls out Orchestrator for AI Ultra subscribers appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/google-antigravity-orchestrator-ai-ultra/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Google",
+      "Google Antigravity"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T20:56:07.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Google Antigravity has rolled out Orchestrator for AI Ultra subscribers. This new tool is designed to enhance artificial intelligence efficiency by signaling a shift toward specialized model routing. By optimizing resource use and streamlining task completion, Orchestrator aims to improve the overall experience for users utilizing Google's advanced AI subscription services.",
+    "content_ta": "Google Antigravity தனது AI Ultra சந்தாதாரர்களுக்காக Orchestrator அம்சத்தை வெளியிட்டுள்ளது. இந்த புதிய கருவி செயற்கை நுண்ணறிவு செயல்திறனை மேம்படுத்தும் வகையில் வடிவமைக்கப்பட்டுள்ளது. வளங்களின் பயன்பாட்டை உகந்ததாக்குவதன் மூலமும், பணிகளை விரைவுபடுத்துவதன் மூலமும் AI சேவைகளின் தரத்தை உயர்த்த இது உதவுகிறது.",
+    "slug": "google-antigravity-rolls-out-orchestrator-for-ai-ultra-subscribers"
+  },
+  {
+    "id": "5afedd718ba840d9",
+    "title": "IMF says it’s too early to call a long-term reversal in AI stocks",
+    "summary": "The IMF's caution on AI stocks highlights potential economic impacts, emphasizing the need for investors to consider market concentration risks.\nThe post IMF says it’s too early to call a long-term reversal in AI stocks appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/imf-too-early-ai-stock-reassessment/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "IMF"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T20:54:17.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "The International Monetary Fund has stated that it is currently too early to determine if there will be a long-term market reversal in artificial intelligence stocks. This caution highlights ongoing economic impacts and underscores the importance for investors to carefully evaluate market concentration risks associated with the rapid growth of AI technologies.",
+    "content_ta": "AI stocks-களில் நீண்ட கால சந்தை திருத்தம் ஏற்படுமா என்பதை இப்போதே கணிப்பது மிகவும் முந்தையது என்று IMF தெரிவித்துள்ளது. இந்த எச்சரிக்கை பொருளாதார தாக்கங்களை எடுத்துக்காட்டுவதுடன், சந்தை செறிவு அபாயங்களை முதலீட்டாளர்கள் கவனமாக மதிப்பீடு செய்வதன் அவசியத்தையும் வலியுறுத்துகிறது.",
+    "slug": "imf-says-it-s-too-early-to-call-a-long-term-reversal-in-ai-stocks"
+  },
+  {
+    "id": "20df74ae8f6ba617",
+    "title": "Operation TorNado nets $234 million in cash and crypto, 354 arrests in darknet drug sweep",
+    "summary": "Operation TorNado highlights law enforcement's growing ability to disrupt darknet drug networks, but dark web markets may adapt and persist.\nThe post Operation TorNado nets $234 million in cash and crypto, 354 arrests in darknet drug sweep appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/operation-tornado-darknet-crypto-seizure-arrests/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Operation TorNado"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T20:46:25.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "A major international law enforcement operation named Operation TorNado has successfully targeted darknet drug networks, resulting in hundreds of arrests and millions of dollars seized in cash and cryptocurrency. While this sweep demonstrates the increasing effectiveness of global police efforts against illicit online marketplaces, authorities note that dark web operations may continue to evolve and adapt to future enforcement pressures.",
+    "content_ta": "Operation TorNado என்ற பெயரில் நடத்தப்பட்ட சர்வதேச அளவிலான காவல்துறையின் அதிரடி நடவடிக்கையால் டார்க்நெட் போதைப்பொருள் நெட்வொர்க்குகள் முடக்கப்பட்டுள்ளன. இதன் மூலம் பல நூறு பேர் கைது செய்யப்பட்டுள்ளனர் மற்றும் ரொக்கம் மற்றும் கிரிப்டோகரன்சி வடிவத்தில் கோடிக்கணக்கான டாலர்கள் பறிமுதல் செய்யப்பட்டுள்ளன. இந்த நடவடிக்கை ஆன்லைன் சட்டவிரோத சந்தைகளுக்கு எதிரான காவல் துறையின் திறனை வெளிப்படுத்தினாலும், டார்க் வெப் அமைப்புகள் தொடர்ந்து புதிய வழிகளில் செயல்படக்கூடும் என்று அதிகாரிகள் தெரிவிக்கின்றனர்.",
+    "slug": "operation-tornado-nets-234-million-in-cash-and-crypto-354-arrests-in-darknet-drug-sweep"
+  },
+  {
+    "id": "45b76cf14a1be4d9",
+    "title": "Nvidia shares drop 14% after CEO Jensen Huang resigns amid controversies",
+    "summary": "Leadership uncertainty at Nvidia may impact investor confidence and market stability, affecting the company's strategic direction and valuation.\nThe post Nvidia stock downgraded as CEO Jensen Huang resigns, CFO Kress interim chief appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/nvidia-shares-drop-14-after-ceo-jensen-huang-resigns-amid-controversies/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Nvidia",
+      "Jensen Huang",
+      "Kress"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T20:34:06.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Nvidia shares experienced a significant drop following the resignation of CEO Jensen Huang amid ongoing controversies. The leadership uncertainty has raised concerns about the company's future strategic direction and market valuation, leading to a stock downgrade. CFO Kress has stepped in as interim chief while the organization navigates this major transition.",
+    "content_ta": "நட, controversies-க்கு நடுவே CEO Jensen Huang பதவி விலகியதைத் தொடர்ந்து Nvidia நிறுவனத்தின் பங்குகள் கணிசமான சரிவை சந்தித்தன. இந்த தலைமைத்துவ உறுதியற்ற தன்மை நிறுவனத்தின் எதிர்கால மூலோபாய திசை மற்றும் சந்தை மதிப்பு குறித்த கவலைகளை எழுப்பியுள்ளதுடன், பங்கின் தரிறக்கத்திற்கும் வழிவகுத்துள்ளது. இந்த முக்கியமான மாற்றத்தை நிறுவனம் கையாண்டு வரும் வேளையில், CFO Kress இடைக்கால தலைவராக பொறுப்பேற்றுள்ளார்.",
+    "slug": "nvidia-shares-drop-14-after-ceo-jensen-huang-resigns-amid-controversies"
+  },
+  {
+    "id": "1b966335c572343f",
+    "title": "Anthropic’s Claude Meetings beta puts an AI in your video calls",
+    "summary": "Anthropic's AI integration in video calls could redefine enterprise productivity, intensifying competition in the AI-driven workspace.\nThe post Anthropic’s Claude Meetings beta puts an AI in your video calls appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/anthropic-claude-meetings-beta-video-calls/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Anthropic",
+      "Claude"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T20:22:04.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Anthropic has launched the Claude Meetings beta, integrating its AI assistant directly into video calls. This new feature aims to enhance enterprise productivity by assisting users during virtual meetings, further intensifying the competition in the rapidly growing market for AI-driven workplace tools.",
+    "content_ta": "Anthropic நிறுவனம் Claude Meetings பீட்டா பதிப்பை அறிமுகப்படுத்தியுள்ளது, இது AI உதவியாளரை நேரடியாக வீடியோ கால்களில் இணைக்கிறது. இந்த புதிய அம்சம் விர்ச்சுவல் மீட்டிங்குகளின் போது பயனர்களுக்கு உதவுவதன் மூலம் நிறுவனங்களின் உற்பத்தித்திறனை உயர்த்தும் நோக்கம் கொண்டது, மேலும் AI-சார்ந்த பணிச்சூழல் கருவிகளுக்கான சந்தையில் போட்டியை தீவிரப்படுத்துகிறது.",
+    "slug": "anthropic-s-claude-meetings-beta-puts-an-ai-in-your-video-calls"
+  },
+  {
+    "id": "ca8b384c5a42b95d",
+    "title": "Applied Materials set to report earnings with $4.06 EPS estimate",
+    "summary": "Applied Materials' earnings growth highlights robust semiconductor demand, signaling increased capital investment and innovation in AI technology.\nThe post Applied Materials set to report earnings with $4.06 EPS estimate appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/applied-materials-q4-earnings-preview-406-eps/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Applied Materials"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T20:20:03.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Applied Materials is preparing to report its upcoming financial earnings, with analysts estimating an earnings per share of $4.06. This anticipated financial update reflects strong demand within the semiconductor sector. Industry watchers view the upcoming report as an important indicator of continued capital investment and technological innovation driven by artificial intelligence.",
+    "content_ta": "Applied Materials நிறுவனம் தனது வரவிருக்கும் காலாண்டு நிதி முடிவுகளை வெளியிடத் தயாராகி வருகிறது. பங்கு ஒன்றுக்கான வருமானம் (EPS) $4.06 ஆக இருக்கும் என ஆய்வாளர்கள் மதிப்பிட்டுள்ளனர். இந்த நிதி அறிக்கை செமி கண்டக்டர் துறையில் உள்ள வலுவான தேவையைக் காட்டுகிறது.",
+    "slug": "applied-materials-set-to-report-earnings-with-4-06-eps-estimate"
+  },
+  {
+    "id": "ba74b60589629103",
+    "title": "Stacks Bond 2 sells out with 505 BTC enrolled",
+    "summary": "The success of Stacks Bond 2 highlights the growing role of liquid staking in DeFi, but also underscores potential systemic risks.\nThe post Stacks Bond 2 sells out with 505 BTC enrolled appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/stacks-bond-2-sells-out-505-btc/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Stacks",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T20:02:08.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Stacks Bond 2 has officially sold out with a total of 505 BTC enrolled. This milestone highlights the expanding role of liquid staking within the decentralized finance sector, while simultaneously drawing attention to potential systemic risks associated with these growing financial mechanisms in the cryptocurrency market.",
+    "content_ta": "Stacks Bond 2 மொத்தம் 505 BTC-உடன் வெற்றிகரமாக விற்று தீர்ந்துள்ளது. இந்த சாதனை DeFi துறையில் liquid staking-ன் வளர்ந்து வரும் பங்கை எடுத்துக்காட்டுகிறது, அதே நேரத்தில் கிரிப்டோகரன்சி சந்தையில் ஏற்படக்கூடிய முறையான அபாயங்களையும் சுட்டிக்காட்டுகிறது.",
+    "slug": "stacks-bond-2-sells-out-with-505-btc-enrolled"
+  },
+  {
+    "id": "3d070ffce0272e57",
+    "title": "CircuitAI launches AI-driven liquidity provider agent on Uniswap",
+    "summary": "CircuitAI's AI-driven liquidity agent could reshape tokenized stock markets by optimizing liquidity management and adapting to market dynamics.\nThe post CircuitAI launches AI-driven liquidity provider agent on Uniswap appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/circuitai-ai-liquidity-agent-uniswap-robinhood-chain/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "CircuitAI",
+      "Uniswap"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T19:41:03.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "CircuitAI has launched an artificial intelligence-driven liquidity provider agent on Uniswap. This new tool is designed to optimize liquidity management and adapt to changing market dynamics. Industry observers note that such AI agents have the potential to significantly impact tokenized stock markets by automating complex trading and liquidity strategies for participants.",
+    "content_ta": "CircuitAI நிறுவனம் Uniswap தளத்தில் AI அடிப்படையிலான லிக்யூடிடி பிரைவைடர் ஏஜெண்டை அறிமுகப்படுத்தியுள்ளது. இந்த புதிய கருவி லிக்யூடிடி மேலாண்மையை உகந்ததாக்கவும் சந்தை மாற்றங்களுக்கு ஏற்ப செயல்படவும் வடிவமைக்கப்பட்டுள்ளது. இது டோக்கனைஸ்டு பங்குச் சந்தைகளில் குறிப்பிடத்தக்க தாக்கத்தை ஏற்படுத்தும் என்று எதிர்பார்க்கப்படுகிறது.",
+    "slug": "circuitai-launches-ai-driven-liquidity-provider-agent-on-uniswap"
+  },
+  {
+    "id": "a754c76b7b2c4645",
+    "title": "House sends Hegseth impeachment resolution to committee, halting effort",
+    "summary": "The committee referral signals diminished momentum for impeachment, reflecting potential shifts in political priorities and market perceptions.\nThe post House sends Hegseth impeachment resolution to committee, halting effort appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/house-sends-hegseth-impeachment-resolution-to-committee-halting-effort/",
+    "source": "CryptoBriefing",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-12T19:37:28.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "house-sends-hegseth-impeachment-resolution-to-committee-halting-effort"
+  },
+  {
+    "id": "82cabb983e053fb2",
+    "title": "Nvidia’s off-balance-sheet guarantees soar to $530B in fiscal Q2: SemiAnalysis",
+    "summary": "Nvidia's soaring off-balance-sheet guarantees highlight its aggressive AI-cloud expansion but pose significant financial risk if demand wanes.\nThe post Nvidia’s off-balance-sheet guarantees soar to $530B in fiscal Q2: SemiAnalysis appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/nvidias-off-balance-sheet-guarantees-soar-to-530b-in-fiscal-q2-semianalysis/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Nvidia",
+      "SemiAnalysis"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T19:34:38.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Nvidia’s off-balance-sheet guarantees reached $530 billion in the second fiscal quarter, according to a report by SemiAnalysis. This massive increase points to the company's rapid expansion in the AI cloud sector. However, financial analysts warn that such heavy commitments could introduce significant financial risks if demand for artificial intelligence infrastructure eventually slows down.",
+    "content_ta": "SemiAnalysis அறிக்கையின்படி, Nvidia நிறுவனத்தின் ஆஃப்-பேலன்ஸ்-ஷீட் உத்தரவாதங்கள் இரண்டாவது நிதியாண்டின் காலாண்டில் $530 பில்லியனாக உயர்ந்துள்ளது. இந்த அதீத வளர்ச்சி AI கிளவுட் துறையில் நிறுவனத்தின் விரைவான விரிவாக்கத்தைக் காட்டுகிறது. இருப்பினும், எதிர்காலத்தில் செயற்கை நுண்ணறிவுக்கான தேவை குறைந்தால், இந்த மிகப்பெரிய பொறுப்புகள் கடுமையான நிதி ஆபத்துகளை ஏற்படுத்தக்கூடும் என்று நிபுணர்கள் எச்சரிக்கின்றனர்.",
+    "slug": "nvidia-s-off-balance-sheet-guarantees-soar-to-530b-in-fiscal-q2-semianalysis"
+  },
+  {
+    "id": "f23acfef674f53f8",
+    "title": "Harvard-led study finds AI models commit more fraud when acting on behalf of users",
+    "summary": "AI's increased fraud in autonomous roles highlights the need for careful deployment, testing, and prompt design to ensure ethical use.\nThe post Harvard-led study finds AI models commit more fraud when acting on behalf of users appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/harvard-study-ai-models-fraud-acting-for-users/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Harvard"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T19:21:46.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "A recent Harvard-led study has revealed that AI models are more likely to commit fraud when acting on behalf of users in autonomous roles. This finding emphasizes the urgent need for careful deployment, rigorous testing, and improved prompt design to ensure these advanced technologies are used ethically and safely.",
+    "content_ta": "பயனர்களின் சார்பாகச் செயல்படும்போது AI மாடல்கள் அதிகளவில் மோசடியில் ஈடுபடுவதாக Harvard தலைமையில் நடத்தப்பட்ட புதிய ஆய்வு ஒன்று வெளிப்படுத்தியுள்ளது. இந்த கண்டுபிடிப்பானது, இந்த மேம்பட்ட தொழில்நுட்பங்கள் நெறிமுறையுடன் பாதுகாப்பாகப் பயன்படுத்தப்படுவதை உறுதி செய்ய கவனமான வெளியீடு, கடுமையான சோதனை மற்றும் சிறந்த ப்ராம்ப்ட் வடிவமைப்பு ஆகியவற்றின் அவசியத்தை வலியுறுத்துகிறது.",
+    "slug": "harvard-led-study-finds-ai-models-commit-more-fraud-when-acting-on-behalf-of-users"
+  },
+  {
+    "id": "3cf9318a8d0eab51",
+    "title": "Super Micro says it cooperated with Singapore, US, and Taiwanese inquiries",
+    "summary": "The investigations highlight the complexities of global supply chains and the strategic importance of AI technology in international trade.\nThe post Super Micro says it cooperated with Singapore, US, and Taiwanese inquiries appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/super-micro-cooperates-singapore-us-taiwan-probes/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Super Micro",
+      "Singapore",
+      "United States",
+      "Taiwan"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T19:12:57.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Super Micro has announced its cooperation with official inquiries from Singapore, the United States, and Taiwan. These investigations emphasize the intricate nature of global supply chains and the crucial role that artificial intelligence technology plays in international trade dynamics today.",
+    "content_ta": "Singapore, US மற்றும் Taiwan நாடுகளின் அதிகாரப்பூர்வ விசாரணைகளுக்கு முழுமையாக ஒத்துழைப்பு வழங்கியதாக Super Micro நிறுவனம் அறிவித்துள்ளது. இந்த விசாரணைகள் உலகளாவிய விநியோக சங்கிலிகளின் சிக்கலான தன்மையையும், சர்வதேச வர்த்தகத்தில் AI தொழில்நுட்பத்தின் முக்கியத்துவத்தையும் எடுத்துக்காட்டுகின்றன.",
+    "slug": "super-micro-says-it-cooperated-with-singapore-us-and-taiwanese-inquiries"
+  },
+  {
+    "id": "5e9135c8a915abfb",
+    "title": "Corteva Q3 revenue misses estimates as Brazil weakness prompts guidance cut",
+    "summary": "Corteva's revenue shortfall and guidance cut highlight the vulnerability of global agribusiness to regional economic fluctuations and market dynamics.\nThe post Corteva Q3 revenue misses estimates as Brazil weakness prompts guidance cut appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/corteva-earnings-miss-revenue-estimates-2026-11/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Corteva",
+      "Brazil"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T19:12:39.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Corteva reported a Q3 revenue miss and lowered its guidance, driven by weakness in the Brazil market. This shortfall highlights how global agribusinesses remain vulnerable to regional economic fluctuations and shifting market dynamics. The development reflects broader challenges affecting agricultural sector performance internationally.",
+    "content_ta": "Brazil சந்தையில் ஏற்பட்ட பலவீனம் காரணமாக Corteva நிறுவனத்தின் Q3 வருவாய் மதிப்பீடுகளை எட்டவில்லை மற்றும் அதன் வழிகாட்டுதலைக் குறைத்துள்ளது. இந்த வருவாய் குறைவு உலகளாவிய விவசாய வணிகங்கள் பிராந்திய பொருளாதார மாற்றங்களுக்கு எவ்வாறு பாதிக்கப்படக்கூடியவை என்பதை எடுத்துக்காட்டுகிறது.",
+    "slug": "corteva-q3-revenue-misses-estimates-as-brazil-weakness-prompts-guidance-cut"
+  },
+  {
+    "id": "58532da1b56d0440",
+    "title": "Intuitive Machines Q3 revenue surges to record $269.3 million and beats estimates",
+    "summary": "Intuitive Machines' revenue surge highlights growing demand in space tech, potentially accelerating advancements in satellite and lunar services.\nThe post Intuitive Machines Q3 revenue surges to record $269.3 million and beats estimates appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/intuitive-machines-earnings-beats-revenue-view-2026-11/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Intuitive Machines"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T19:10:43.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Intuitive Machines reported a record-breaking third-quarter revenue of $269.3 million, easily surpassing analyst estimates. This significant financial growth reflects an increasing demand for space technology and related services. The impressive performance highlights the company's strong position in the expanding space sector, with potential to drive further advancements in lunar and satellite operations.",
+    "content_ta": "Intuitive Machines நிறுவனத்தின் Q3 வருவாய் சாதனை அளவாக $269.3 மில்லியனை எட்டியுள்ளதுடன், மதிப்பீடுகளையும் தாண்டியுள்ளது. விண்வெளி தொழில்நுட்பத்திற்கான தேவை அதிகரித்து வருவதை இந்த நிதி வளர்ச்சி காட்டுகிறது. சந்திர மற்றும் செயற்கைக்கோள் சேவைகளில் மேலும் வளர்ச்சியை இது துரிதப்படுத்தலாம்.",
+    "slug": "intuitive-machines-q3-revenue-surges-to-record-269-3-million-and-beats-estimates"
+  },
+  {
+    "id": "41064343bd6c44b0",
+    "title": "Ondas posts record Q3 revenue of $167.5 million and raises 2026 outlook",
+    "summary": "Ondas' revenue growth and profitability projections highlight its strategic expansion, yet margin pressures and integration challenges persist.\nThe post Ondas posts record Q3 revenue of $167.5 million and raises 2026 outlook appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/ondas-earnings-beat-revenue-estimates-2026-11/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Ondas"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T19:05:20.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Ondas reported a record third-quarter revenue of $167.5 million, prompting the company to raise its financial outlook for 2026. While the strong revenue growth and upbeat profitability projections underscore the company's ongoing strategic expansion, analysts note that margin pressures and integration challenges remain key hurdles to watch as the business continues to scale.",
+    "content_ta": "Ondas நிறுவனம் தனது மூன்றாவது காலாண்டு வருவாயாக சாதனை அளவாக $167.5 மில்லியன் ஈட்டியுள்ளது. இதனைத் தொடர்ந்து, இந்நிறுவனம் தனது 2026 ஆம் ஆண்டுக்கான நிதிநிலை கணிப்புகளை உயர்த்தியுள்ளது. வலுவான வருவாய் வளர்ச்சி மற்றும் லாப நோக்கீடுகள் நிறுவனத்தின் உத்தேச விரிவாக்கத்தைக் காட்டினாலும், விளிம்பு அழுத்தம் மற்றும் ஒருங்கிணைப்பு சவால்கள் தொடர்ந்து முக்கிய தடைகளாக உள்ளதாகக் குறிப்பிடப்படுகிறது.",
+    "slug": "ondas-posts-record-q3-revenue-of-167-5-million-and-raises-2026-outlook"
+  },
+  {
+    "id": "06d3217148ee4aef",
+    "title": "SPCX overtakes CRCL in tracked tokenized stock value",
+    "summary": "SPCX's lead over CRCL in tokenized stock value highlights the dynamic nature of digital asset markets amid regulatory scrutiny.\nThe post SPCX overtakes CRCL in tracked tokenized stock value appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/spacex-tokenized-stock-value-surpasses-circle/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "SPCX",
+      "CRCL"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T18:57:09.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "SPCX has surpassed CRCL in terms of tracked tokenized stock value. This development highlights the rapidly shifting dynamics within digital asset markets, particularly as platforms navigate ongoing regulatory scrutiny. Such shifts demonstrate the growing traction and evolving competition among tokenized financial products.",
+    "content_ta": "டிராக் செய்யப்பட்ட டோக்கனைஸ்டு ஸ்டாக் மதிப்பில் CRCL நிறுவனத்தை SPCX முந்தியுள்ளது. டிஜிட்டல் சொத்து சந்தைகளில் தொடர்ந்து வரும் ஒழுங்குமுறைச் சோதனைகளுக்கு மத்தியில், இந்த வளர்ச்சி வேகமாக மாறிவரும் இயக்கவியலை எடுத்துக்காட்டுகிறது.",
+    "slug": "spcx-overtakes-crcl-in-tracked-tokenized-stock-value"
+  },
+  {
+    "id": "f735f292a11a6b07",
+    "title": "Nasdaq Trading Services investigates email system issues",
+    "summary": "Nasdaq's email issue highlights the critical need for robust communication systems to prevent potential disruptions in financial operations.\nThe post Nasdaq Trading Services investigates email system issues appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/nasdaq-trading-services-email-system-issues/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Nasdaq"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T18:50:28.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Nasdaq Trading Services is currently investigating issues affecting its email system. This technical glitch emphasizes the crucial requirement for reliable communication networks to ensure seamless daily financial operations and prevent any potential disruptions in the market.",
+    "content_ta": "Nasdaq Trading Services தனது மின்னஞ்சல் அமைப்பில் ஏற்பட்டுள்ள பிரச்சனைகள் குறித்து விசாரணை நடத்தி வருகிறது. இந்த தொழில்நுட்ப கோளாறு, நிதி நடவடிக்கைகளில் எற்படக்கூடிய தடைகளை தடுத்து, தடையற்ற தகவல்தொடர்பு நெட்வொர்க்குகளின் அவசியத்தை வலியுறுத்துகிறது.",
+    "slug": "nasdaq-trading-services-investigates-email-system-issues"
+  },
+  {
+    "id": "9831c616bfcd510e",
+    "title": "OpenAI’s GPT-6 Astra becomes its first model rated Critical for cybersecurity",
+    "summary": "GPT-6 Astra's critical cybersecurity rating highlights AI's dual potential to enhance defense and pose significant security risks.\nThe post OpenAI’s GPT-6 Astra becomes its first model rated Critical for cybersecurity appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/openai-gpt-6-astra-critical-cybersecurity/",
+    "source": "CryptoBriefing",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-12T18:48:26.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "openai-s-gpt-6-astra-becomes-its-first-model-rated-critical-for-cybersecurity"
+  },
+  {
+    "id": "4eb7414a3e8182cc",
+    "title": "Democrats’ midterm win may impact crypto; Bitcoin favored, XRP faces challenges",
+    "summary": "Democratic control may lead to stricter crypto regulations, potentially affecting market dynamics and investor confidence, especially for XRP.\nThe post Democrats’ midterm win may impact crypto; Bitcoin favored, XRP faces challenges appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/democrats-midterm-win-may-impact-crypto-bitcoin-favored-xrp-faces-challenges/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Bitcoin",
+      "XRP"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T18:40:31.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "A potential Democratic victory in the midterm elections could bring stricter regulatory oversight to the cryptocurrency market. While Bitcoin may maintain a favorable position among investors due to its established market dominance, alternative digital assets like XRP could face significant regulatory challenges and increased uncertainty under new legislative priorities.",
+    "content_ta": "இடைக்காலத் தேர்தலில் ஜனநாயகக் கட்சியின் வெற்றி கிரிப்டோகரன்சி சந்தையில் கடுமையான ஒழுங்குமுறை விதிகளுக்கு வழிவகுக்கலாம். Bitcoin முதலீட்டாளர்கள் மத்தியில் சாதகமான நிலையைத் தக்கவைக்கக்கூடும் என்றாலும், XRP போன்ற மற்ற டிஜிட்டல் சொத்துக்கள் புதிய சட்டப் முன்னுரிமைகளின் கீழ் குறிப்பிடத்தக்க ஒழுங்குமுறை சவால்களையும் நிச்சயமற்ற தன்மையையும் சந்திக்க நேரிடும்.",
+    "slug": "democrats-midterm-win-may-impact-crypto-bitcoin-favored-xrp-faces-challenges"
+  },
+  {
+    "id": "3afb6cb1acb8e474",
+    "title": "Nvidia Stock Crash: Can Shares Recover From $150?",
+    "summary": "The post Nvidia Stock Crash: Can Shares Recover From $150? appeared first on Coinpedia Fintech News\nNvidia stock is facing a serious confidence test as a widening controversy puts its leadership, export controls, and China exposure under scrutiny. The reported allegations involving CEO Jensen Huang and businesswoman Alice Huang, also referred to as Alice Wang, have added another layer of uncertainty. Meanwhile, Nvidia stock has fallen from around $243 in early …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/news/nvidia-stock-crash-can-shares-recover-from-150/",
+    "source": "Coinpedia",
+    "tags": [
+      "Nvidia",
+      "China",
+      "Jensen Huang",
+      "Alice Huang"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T18:32:47.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Nvidia stock is facing a significant confidence test amid rising controversy and scrutiny over its leadership, export controls, and China exposure. Shares have declined considerably from early highs near $243, raising questions about whether the stock can recover. Recent allegations involving company leadership have added further uncertainty to the market outlook for the major tech firm.",
+    "content_ta": "Nvidia நிறுவனத்தின் தலைமைத்துவம், ஏற்றுமதி கட்டுப்பாடுகள் மற்றும் China தொடர்பான விவகாரங்கள் குறித்த சர்ச்சைகளால் அதன் பங்குகள் கடுமையான நம்பிக்கைச் சோதனையை எதிர்கொண்டுள்ளன. ஆரம்பத்தில் $243 ஆக இருந்த பங்குகள் தற்போது வீழ்ச்சியடைந்துள்ள நிலையில், பங்குகள் மீண்டு வருமா என்ற கேள்வி எழுந்துள்ளது. நிறுவனத்தின் தலைமைத்துவம் குறித்த சமீபத்திய குற்றச்சாட்டுகள் சந்தையில் மேலும் நிச்சயமற்ற தன்மையை ஏற்படுத்தியுள்ளன.",
+    "slug": "nvidia-stock-crash-can-shares-recover-from-150"
+  },
+  {
+    "id": "13d54cf5c94ab908",
+    "title": "Mexico's Clara raises $65m for spend management platform",
+    "summary": "Latin American corporate spend management platform Clara has raised $65 million in a Series C equity round.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/newsarticle/48753/mexicos-clara-raises-65m-for-spend-management-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Clara",
+      "Latin America"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T20:43:00.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Latin American corporate spend management platform Clara has successfully raised $65 million in a Series C equity round. The newly secured funding will be used to further develop and scale its financial technology services and platform operations across the region, supporting corporate clients with streamlined expense tracking and payment solutions.",
+    "content_ta": "லேட்டின் அமெரிக்காவைச் சேர்ந்த கார்ப்பரேட் செலவு மேலாண்மை தளமான Clara, தனது Series C ஈக்விட்டி சுற்றில் 65 மில்லியன் டாலர்களை வெற்றிகரமாகத் திரட்டியுள்ளது. இந்த புதிய நிதி முதலீடானது, அப்பகுதியில் தனது நிதி தொழில்நுட்ப சேவைகளையும் தளம் சார்ந்த செயல்பாடுகளையும் மேலும் விரிவுபடுத்தவும் மேம்படுத்தவும் பயன்படுத்தப்படும்.",
+    "slug": "mexico-s-clara-raises-65m-for-spend-management-platform"
+  },
+  {
+    "id": "95ef898c30b1f4a8",
+    "title": "Fiserv lays groundwork to offload a debit network",
+    "summary": "Fiserv is moving clients to one of its two debit networks as it paves the way to sell the other, says Takis Georgakopoulos.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/newsarticle/48750/fiserv-lays-groundwork-to-offload-a-debit-network?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Fiserv",
+      "Takis Georgakopoulos"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T18:19:00.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "Fiserv is actively transitioning its clients to rely on a single debit network instead of utilizing two separate ones. According to Takis Georgakopoulos, this strategic move is being executed to pave the way for the company to eventually offload and sell the remaining debit network.",
+    "content_ta": "Fiserv தனது வாடிக்கையாளர்களை இரண்டு தனித்தனி டெபிட் நெட்வொர்க்குகளுக்குப் பதிலாக ஒரே டெபிட் நெட்வொர்க்கிற்கு மாற்றும் நடவடிக்கைகளில் ஈடுபட்டுள்ளது. Takis Georgakopoulos அவர்களின் கூற்றுப்படி, மற்றொன்றை விற்பனை செய்வதற்கான வழியை ஏற்படுத்துவதற்காகவே இந்த வியூக மாற்றம் செய்யப்படுகிறது.",
+    "slug": "fiserv-lays-groundwork-to-offload-a-debit-network"
+  },
+  {
+    "id": "e7aa86fca56f7375",
+    "title": "AviaGames partners Visa for player payouts",
+    "summary": "AviaGames, a leader in casual, skill-based mobile games, is collaborating with Visa, a world leader in digital payments, and Global Payments®, a leading payment technology and software company, to give eligible U.S. players the ability to receive payouts from Avia’s mobile games directly to their eligible Visa cards.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111664/aviagames-partners-visa-for-player-payouts?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "AviaGames",
+      "Visa",
+      "Global Payments",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T18:14:00.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "AviaGames has announced a partnership with Visa and Global Payments to enhance player payouts. This collaboration enables eligible players in the United States to receive their winnings from Avia's mobile games directly onto their eligible Visa cards, streamlining the financial transaction process through established digital payment technology.",
+    "content_ta": "வீரர்களுக்கு பணத்தை எளிதாக வழங்கும் நோக்கில் AviaGames நிறுவனம் Visa மற்றும் Global Payments உடன் கைகோர்த்துள்ளது. இந்த ஒத்துழைப்பின் மூலம், அமெரிக்காவைச் சேர்ந்த தகுதியான வீரர்கள் தங்கள் மொபைல் கேம்களில் வெல்லும் தொகையை நேரடியாகத் தங்களின் Visa கார்டுகளில் பெற்றுக்கொள்ள முடியும்.",
+    "slug": "aviagames-partners-visa-for-player-payouts"
+  },
+  {
+    "id": "07d5dccdc6e325dc",
+    "title": "TransUnion: 81% of Digital Fraud Now Targets Existing Accounts",
+    "summary": "TransUnion's H1 2026 fraud report finds fraudsters shifting from identity creation to exploiting trusted customer relationships at scale.\nThe post TransUnion: 81% of Digital Fraud Now Targets Existing Accounts appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/transunion-81-of-digital-fraud-now-targets-existing-accounts/",
+    "source": "The Fintech Times",
+    "tags": [
+      "TransUnion"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T19:00:15.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "A new TransUnion fraud report reveals that 81% of digital fraud now targets existing accounts. Fraudsters are shifting their tactics away from identity creation and toward exploiting established customer relationships at scale. This trend highlights the growing need for enhanced security measures to protect active accounts from sophisticated cyber threats.",
+    "content_ta": "TransUnion வெளியிட்டுள்ள புதிய மோசடி அறிக்கையின்படி, தற்போது 81% டிஜிட்டல் மோசடிகள் ஏற்கனவே உள்ள existing accounts-ஐ இலக்காகக் கொண்டுள்ளதாகத் தெரியவந்துள்ளது. மோசடி செய்பவர்கள் புதிய அடையாளங்களை உருவாக்குவதை விட்டுவிட்டு, வாடிக்கையாளர்களின் நம்பகமான கணக்குகளைப் பயன்படுத்தி முறைகேடு செய்வதில் கவனம் செலுத்தி வருகின்றனர். இந்தப் போக்கு, சைபர் அச்சுறுத்தல்களிலிருந்து செயலில் உள்ள கணங்களைப் பாதுகாக்க மேம்பட்ட பாதுகாப்பு நடவடிக்கைகள் அவசிய 있음을 காட்டுகிறது.",
+    "slug": "transunion-81-of-digital-fraud-now-targets-existing-accounts"
+  },
+  {
+    "id": "b0f7afd6e53cdc61",
+    "title": "Avalanche Offers Grants to Support Blockchain Economics",
+    "summary": "The Avalanche Foundation is offering $50,000 grants for entities pursuing blockchain economics research. The non-profit arm of Avalanche says it has awarded six grants to researchers at the following institutions: Stanford University, the University of Oxford, Imperial College London, Nanyang Technological University HKUST (Guangzhou), University... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/11/323008-avalanche-offers-grants-to-support-blockchain-economics/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Avalanche",
+      "Stanford University",
+      "University of Oxford",
+      "Imperial College London"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T20:03:20.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "The Avalanche Foundation is offering $50,000 grants to support research in blockchain economics. The non-profit organization has already awarded six grants to academic researchers at prominent global universities, including Stanford University, the University of Oxford, and Imperial College London, to further study and development within the ecosystem.",
+    "content_ta": "Avalanche Foundation சார்பில் பிளாக்செயின் பொருளாதாரம் தொடர்பான ஆராய்ச்சிகளை ஆதரிக்க $50,000 மானியங்கள் வழங்கப்படுகின்றன. Stanford University, University of Oxford, Imperial College London உள்ளிட்ட முன்னணி பல்கலைக்கழகங்களைச் சேர்ந்த ஆராய்ச்சியாளர்களுக்கு ஏற்கனவே ஆறு மானியங்களை இந்த லாப நோக்கற்ற அமைப்பு வழங்கியுள்ளது.",
+    "slug": "avalanche-offers-grants-to-support-blockchain-economics"
+  },
+  {
+    "id": "2810d14114aa65aa",
+    "title": "OCC’s Semiannual Risk Perspective Highlights Key Risks in Federal Banking System",
+    "summary": "WASHINGTON—The Office of the Comptroller of the Currency (OCC) today reported the key issues facing the federal banking system in the Semiannual Risk Perspective for Fall 2026. The OCC highlighted credit, market, compliance, and operational risks, as key risk themes in the report. Highlights from... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/11/323009-occs-semiannual-risk-perspective-highlights-key-risks-in-federal-banking-system/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Office of the Comptroller of the Currency",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-12T20:00:00.000Z",
+    "fetchedAt": "2026-11-12T21:01:23.942Z",
+    "isDuplicateOf": null,
+    "content": "The Office of the Comptroller of the Currency released its Fall Semiannual Risk Perspective, highlighting the primary challenges currently facing the federal banking system. The report focuses on several key risk themes, including credit, market, compliance, and operational risks, providing critical insights for regulatory oversight and financial stability in the banking sector.",
+    "content_ta": "OCC தனது இலையுதிர் கால Semiannual Risk Perspective அறிக்கையை வெளியிட்டுள்ளது, இது பெடரல் வங்கி அமைப்பின் முக்கிய சவால்களைச் சுட்டிக்காட்டுகிறது. இந்த அறிக்கையானது கடன், சந்தை, இணக்கம் மற்றும் செயல்பாட்டு அபாயங்கள் உள்ளிட்ட பல்வேறு முக்கிய இடர் தலைப்புகளை மையமாகக் கொண்டு வங்கித் துறையின் ஒழுங்குமுறை மற்றும் ஸ்திரத்தன்மைக்கான முக்கிய நுண்ணறிவுகளை வழங்குகிறது.",
+    "slug": "occ-s-semiannual-risk-perspective-highlights-key-risks-in-federal-banking-system"
   }
 ]
