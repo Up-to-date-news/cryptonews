@@ -1,21 +1,328 @@
 [
   {
-    "id": "61e7be9be3ff9285",
-    "title": "Here’s why Zcash could remove 50,000 ZEC from its grants treasury",
-    "summary": "Zcash's proposed treasury restructuring comes as its developer community gains momentum.",
+    "id": "48091c99b3fd2626",
+    "slug": "trump-nominates-hester-peirce-successor-among-sec-cftc-picks",
+    "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
+    "tags": [
+      "SEC",
+      "CFTC",
+      "White House",
+      "Hester Peirce"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T02:29:27.000Z"
+  },
+  {
+    "id": "66e7efa759be9b4e",
+    "slug": "zach-herbert-explains-foundation-s-quantumlink-a-post-quantum-bluetooth-bet-for-hardware-wallets",
+    "title": "Zach Herbert explains Foundation’s QuantumLink, a post-quantum Bluetooth bet for hardware wallets",
+    "tags": [
+      "Zach Herbert",
+      "Foundation"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T02:08:04.000Z"
+  },
+  {
+    "id": "228bceaa8d443a22",
+    "slug": "asa-presses-court-to-halt-stock-perpetuals-putting-retail-risk-at-center-of-fight",
+    "title": "ASA Presses Court to Halt Stock Perpetuals, Putting Retail Risk at Center of Fight",
+    "tags": [
+      "American Securities Association"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T02:00:00.000Z"
+  },
+  {
+    "id": "29b2695c645378dc",
+    "slug": "applied-materials-earnings-beat-on-profit-revenue",
+    "title": "Applied Materials earnings beat on profit, revenue",
+    "tags": [
+      "Applied Materials"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T01:55:11.000Z"
+  },
+  {
+    "id": "507ad42399f4627d",
+    "slug": "maersk-s-legacy-system-incident-shows-m-a-s-new-cyber-requirement",
+    "title": "Maersk’s Legacy-System Incident Shows M&A’s New Cyber Requirement",
+    "tags": [
+      "A.P. Moller-Maersk",
+      "Maersk",
+      "PYMNTS.com"
+    ],
+    "source": "PYMNTS",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T01:50:14.000Z"
+  },
+  {
+    "id": "e3230b7015610e44",
+    "slug": "cisco-systems-earnings-beat-estimates",
+    "title": "Cisco Systems earnings beat estimates",
+    "tags": [
+      "Cisco Systems"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T01:42:02.000Z"
+  },
+  {
+    "id": "37f06bb0a3b92821",
+    "slug": "former-nvidia-ceo-huang-had-third-alleged-affair-reuters",
+    "title": "Former Nvidia CEO Huang had third alleged affair: Reuters",
+    "tags": [
+      "Nvidia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T01:36:49.000Z"
+  },
+  {
+    "id": "124d9dbd7e7faafb",
+    "slug": "35-000-exposed-grok-apps-reveal-vibe-coding-s-hidden-cost",
+    "title": "35,000 Exposed Grok Apps Reveal Vibe Coding’s Hidden Cost",
+    "tags": [
+      "Grok",
+      "Claroc"
+    ],
+    "source": "PYMNTS",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T01:35:44.000Z"
+  },
+  {
+    "id": "a69a4c35bd1ac309",
+    "slug": "akamai-completes-two-1-25-billion-convertible-notes-offerings",
+    "title": "Akamai completes two $1.25 billion convertible notes offerings",
+    "tags": [
+      "Akamai"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T01:32:17.000Z"
+  },
+  {
+    "id": "0f115a0794a6736a",
+    "slug": "trm-labs-launches-beacon-concierge-to-help-police-freeze-illicit-crypto",
+    "title": "TRM Labs launches Beacon Concierge to help police freeze illicit crypto",
+    "tags": [
+      "TRM Labs",
+      "Beacon Concierge"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T01:28:21.000Z"
+  },
+  {
+    "id": "9ea425d01579c731",
+    "slug": "chinese-e-commerce-giant-jd-com-completes-1-3-billion-takeover-of-german-retailer-ceconomy",
+    "title": "Chinese e-commerce giant JD.com completes €1.3 billion takeover of German retailer CECONOMY",
+    "tags": [
+      "JD.com",
+      "CECONOMY",
+      "China",
+      "Germany",
+      "Europe"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T01:17:51.000Z"
+  },
+  {
+    "id": "f09b953babe40db8",
+    "title": "Anthropic’s Claude Tops AI Rankings as OpenAI Limits Cyber Model",
+    "summary": "The frontier changed hands again this week. Anthropic’s Claude Fable 5.2 moved past Google’s Gemini 4 Carbon on the Artificial Analysis Intelligence Index, the independent scorecard both companies cite. Meta went the other direction with a model priced at $0.10 per million input tokens, built to do the grunt work while a bigger model plans. […]\nThe post Anthropic’s Claude Tops AI Rankings as OpenAI Limits Cyber Model  appeared first on PYMNTS.com.",
     "hasSummary": true,
-    "link": "https://ambcrypto.com/heres-why-zcash-could-remove-50000-zec-from-its-grants-treasury/",
-    "source": "AMBCrypto",
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-claude-tops-ai-rankings-as-openai-limits-cyber-model/",
+    "source": "PYMNTS",
+    "tags": [
+      "Anthropic",
+      "Google",
+      "OpenAI",
+      "Meta"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-13T01:12:36.000Z",
+    "fetchedAt": "2026-11-13T03:01:23.294Z",
+    "isDuplicateOf": null,
+    "content": "Anthropic’s Claude has overtaken Google’s Gemini on the Artificial Analysis Intelligence Index, claiming the top spot in the latest AI rankings. Meanwhile, OpenAI has introduced limitations on its cyber model, and Meta has released a cost-effective model designed for smaller tasks, highlighting ongoing shifts in the competitive artificial intelligence landscape.",
+    "content_ta": "Anthropic-ன் Claude, Artificial Analysis Intelligence Index தரவரிசையில் Google-ன் Gemini-ஐ பின்னுக்குத் தள்ளி முதலிடத்தைப் பிடித்துள்ளது. இதற்கிடையில், OpenAI தனது சைபர் மாடலில் சில வரம்புகளை விதித்துள்ளது. மேலும் Meta குறைந்த செலவில் எளிய பணிகளைச் செய்யும் புதிய மாடலை அறிமுகப்படுத்தியுள்ளது, இது AI துறையில் நிலவும் கடுமையான போட்டியைக் காட்டுகிறது.",
+    "slug": "anthropic-s-claude-tops-ai-rankings-as-openai-limits-cyber-model"
+  },
+  {
+    "id": "dbcba0572ac4fea1",
+    "slug": "btse-enterprise-solutions-wins-best-white-label-digital-asset-exchange-platform-at-digital-banker",
+    "title": "BTSE Enterprise Solutions Wins Best White-Label Digital Asset Exchange Platform at Digital Banker Awards 2026",
+    "tags": [
+      "BTSE Enterprise Solutions",
+      "Digital Banker Awards",
+      "Samoa"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T01:00:38.000Z"
+  },
+  {
+    "id": "d7b6069a95834bc3",
+    "slug": "arkham-partners-with-futu-holdings-to-bring-whale-signal-to-futu-and-moomoo",
+    "title": "Arkham partners with FUTU Holdings to bring Whale Signal to Futu and moomoo",
+    "tags": [
+      "Arkham",
+      "FUTU Holdings",
+      "Futu",
+      "moomoo"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T00:53:29.000Z"
+  },
+  {
+    "id": "aa1f25dec0a91989",
+    "slug": "gemini-s-quarterly-retail-trading-volume-sinks-to-3-year-low",
+    "title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
+    "tags": [
+      "Gemini"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T00:52:42.000Z"
+  },
+  {
+    "id": "0362bcf7f4289ba7",
+    "title": "AI Agent Emily Books, Bills and Refills for MUSC Health",
+    "summary": "Patients call a hospital to move an appointment, refill a prescription or ask about a bill. At MUSC Health, those calls frustrated patients and strained staff. The Medical University of South Carolina’s health system now sends them first to Emily, an artificial intelligence (AI) agent built on SoundHound AI’s platform. Emily has supported more than […]\nThe post AI Agent Emily Books, Bills and Refills for MUSC Health appeared first on PYMNTS.com.",
+    "hasSummary": true,
+    "link": "https://www.pymnts.com/healthcare/2026/ai-agent-emily-books-bills-and-refills-for-musc-health/",
+    "source": "PYMNTS",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-13T00:52:39.000Z",
+    "fetchedAt": "2026-11-13T03:01:23.294Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "ai-agent-emily-books-bills-and-refills-for-musc-health"
+  },
+  {
+    "id": "813a3701a6df2718",
+    "slug": "wirex-launches-navoka-an-ai-agent-that-pays-from-its-own-bank-account-and-card",
+    "title": "Wirex Launches Navoka, an AI Agent That Pays From Its Own Bank Account and Card",
+    "tags": [
+      "Wirex",
+      "Navoka",
+      "Full Stack London",
+      "London"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T00:46:05.000Z"
+  },
+  {
+    "id": "730c60f1e25f727f",
+    "slug": "xrp-announces-major-reset-on-november-25-will-price-react",
+    "title": "XRP Announces Major Reset on November 25 – Will Price React?",
+    "tags": [
+      "XRP"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T00:37:19.000Z"
+  },
+  {
+    "id": "156bb4d2d9213fa8",
+    "slug": "aave-user-loses-305-000-after-across-protocol-website-hijack",
+    "title": "Aave user loses $305,000 after Across Protocol website hijack",
+    "tags": [
+      "Aave",
+      "Across Protocol",
+      "Bitquery"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T00:30:17.000Z"
+  },
+  {
+    "id": "1cb408bbb62f02eb",
+    "slug": "former-openai-researcher-says-six-chinese-ai-models-were-built-on-banned-nvidia-chips",
+    "title": "Former OpenAI researcher says six Chinese AI models were built on banned Nvidia chips",
+    "tags": [
+      "OpenAI",
+      "Nvidia",
+      "China"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T00:23:53.000Z"
+  },
+  {
+    "id": "0e2a94d4af7d6594",
+    "title": "Sequoia Capital Backs AI Holding Firm Sequence and Agent-Ready Data Platform Edelbyte Amid Leadership Overhaul",
+    "summary": "Sequoia Capital is navigating a deliberate internal reset under co-stewards Alfred Lin and Pat Grady even as it continues high-conviction bets in artificial intelligence. Roughly a year after Roelof Botha stepped down as senior steward, the firm’s new leaders have moved to unwind elements associated... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/11/322983-sequoia-capital-backs-ai-holding-firm-sequence-and-agent-ready-data-platform-edelbyte-amid-leadership-overhaul/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Sequoia Capital",
+      "Sequence",
+      "Edelbyte",
+      "Alfred Lin",
+      "Pat Grady",
+      "Roelof Botha"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-13T00:18:10.000Z",
+    "fetchedAt": "2026-11-13T03:01:23.294Z",
+    "isDuplicateOf": null,
+    "content": "Sequoia Capital is undergoing a deliberate internal leadership reset under co-stewards Alfred Lin and Pat Grady. Despite this ongoing transition following Roelof Botha's departure, the prominent venture capital firm continues to make high-conviction investments in artificial intelligence, recently backing the AI holding firm Sequence and the agent-ready data platform Edelbyte.",
+    "content_ta": "Sequoia Capital நிறுவனத்தில் Alfred Lin மற்றும் Pat Grady தலைமையில் உள்நாட்டு தலைமைத்துவ மாற்றங்கள் நடைபெற்று வருகின்றன. Roelof Botha விலகியதைத் தொடர்ந்து இந்த மாற்றம் நிகழ்ந்தாலும், செயற்கை நுண்ணறிவு துறையில் அந்நிறுவனம் தனது முதலீடுகளைத் தொடர்ந்து வருகிறது. சமீபத்தில் AI ஹோல்டிங் நிறுவனமான Sequence மற்றும் Edelbyte தரவு தளம் ஆகியவற்றுக்கு Sequoia Capital ஆதரவு அளித்துள்ளது.",
+    "slug": "sequoia-capital-backs-ai-holding-firm-sequence-and-agent-ready-data-platform-edelbyte-amid"
+  },
+  {
+    "id": "a564ecea45a67c33",
+    "slug": "us-treasury-plans-bitcoin-custody-framework-as-cold-wallet-security-draws-scrutiny",
+    "title": "US Treasury plans Bitcoin custody framework as cold wallet security draws scrutiny",
+    "tags": [
+      "US Treasury",
+      "Bitcoin",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T00:06:32.000Z"
+  },
+  {
+    "id": "61e7be9be3ff9285",
+    "slug": "here-s-why-zcash-could-remove-50-000-zec-from-its-grants-treasury",
+    "title": "Here’s why Zcash could remove 50,000 ZEC from its grants treasury",
     "tags": [
       "Zcash"
     ],
+    "source": "AMBCrypto",
     "origin": "rss",
-    "pubDate": "2026-11-13T00:00:29.000Z",
-    "fetchedAt": "2026-11-13T00:01:27.926Z",
-    "isDuplicateOf": null,
-    "content": "Zcash is considering removing 50,000 ZEC from its grants treasury as part of a proposed restructuring plan. This potential change comes at a time when the developer community supporting the cryptocurrency is gaining significant momentum and looking closely at how project funds are managed and distributed.",
-    "content_ta": "Zcash தனது grants treasury-ல் இருந்து 50,000 ZEC-ஐ அகற்றுவது குறித்து ஆலோசித்து வருகிறது. இந்த முன்மொழியப்பட்ட மறுசீரமைப்பு திட்டமானது, cryptocurrency-ஐ ஆதரிக்கும் developer community கணிசமான வளர்ச்சியைப் பெற்றுள்ள நேரத்தில் வந்துள்ளது.",
-    "slug": "here-s-why-zcash-could-remove-50-000-zec-from-its-grants-treasury"
+    "hasContent": true,
+    "pubDate": "2026-11-13T00:00:29.000Z"
   },
   {
     "id": "3ea631f1b8d97a1a",
@@ -510,292 +817,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-12T20:22:04.000Z"
-  },
-  {
-    "id": "91ab4af67afd4e8c",
-    "slug": "polymarket-lays-off-employees-and-ends-contractor-deals-denies-reports-of-30-workforce-cuts",
-    "title": "Polymarket Lays Off Employees and Ends Contractor Deals, Denies Reports of 30% Workforce Cuts",
-    "tags": [
-      "Polymarket"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-12T20:20:15.000Z"
-  },
-  {
-    "id": "ca8b384c5a42b95d",
-    "slug": "applied-materials-set-to-report-earnings-with-4-06-eps-estimate",
-    "title": "Applied Materials set to report earnings with $4.06 EPS estimate",
-    "tags": [
-      "Applied Materials"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-12T20:20:03.000Z"
-  },
-  {
-    "id": "7126d75e9b6cfb97",
-    "slug": "helius-encrypts-solana-transfers-without-removing-operator-trust",
-    "title": "Helius encrypts Solana transfers without removing operator trust",
-    "tags": [
-      "Helius",
-      "Solana",
-      "AWS"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-12T20:10:03.000Z"
-  },
-  {
-    "id": "b0f7afd6e53cdc61",
-    "slug": "avalanche-offers-grants-to-support-blockchain-economics",
-    "title": "Avalanche Offers Grants to Support Blockchain Economics",
-    "tags": [
-      "Avalanche",
-      "Stanford University",
-      "University of Oxford",
-      "Imperial College London"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-12T20:03:20.000Z"
-  },
-  {
-    "id": "ba74b60589629103",
-    "slug": "stacks-bond-2-sells-out-with-505-btc-enrolled",
-    "title": "Stacks Bond 2 sells out with 505 BTC enrolled",
-    "tags": [
-      "Stacks",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-12T20:02:08.000Z"
-  },
-  {
-    "id": "f24f01fbe1c1365a",
-    "slug": "near-intents-fuels-2-7m-in-q4-buybacks-as-revenue-surges",
-    "title": "NEAR Intents fuels $2.7M in Q4 buybacks as revenue surges",
-    "tags": [
-      "NEAR"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-12T20:00:55.000Z"
-  },
-  {
-    "id": "623ab50f0c75d4c8",
-    "slug": "onramp-launches-business-bitcoin-accounts-with-team-withdrawal-approvals",
-    "title": "Onramp Launches Business Bitcoin Accounts With Team Withdrawal Approvals",
-    "tags": [
-      "Onramp",
-      "Bitcoin"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-12T20:00:00.000Z"
-  },
-  {
-    "id": "2810d14114aa65aa",
-    "slug": "occ-s-semiannual-risk-perspective-highlights-key-risks-in-federal-banking-system",
-    "title": "OCC’s Semiannual Risk Perspective Highlights Key Risks in Federal Banking System",
-    "tags": [
-      "Office of the Comptroller of the Currency",
-      "United States"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-12T20:00:00.000Z"
-  },
-  {
-    "id": "3d070ffce0272e57",
-    "slug": "circuitai-launches-ai-driven-liquidity-provider-agent-on-uniswap",
-    "title": "CircuitAI launches AI-driven liquidity provider agent on Uniswap",
-    "tags": [
-      "CircuitAI",
-      "Uniswap"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-12T19:41:03.000Z"
-  },
-  {
-    "id": "a754c76b7b2c4645",
-    "slug": "house-sends-hegseth-impeachment-resolution-to-committee-halting-effort",
-    "title": "House sends Hegseth impeachment resolution to committee, halting effort",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-12T19:37:28.000Z"
-  },
-  {
-    "id": "b925e193ed375414",
-    "slug": "ripple-s-rlusd-overtakes-paypal-s-pyusd",
-    "title": "Ripple's RLUSD Overtakes PayPal's PYUSD",
-    "tags": [
-      "Ripple",
-      "RLUSD",
-      "PayPal",
-      "PYUSD"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-12T19:36:07.000Z"
-  },
-  {
-    "id": "82cabb983e053fb2",
-    "slug": "nvidia-s-off-balance-sheet-guarantees-soar-to-530b-in-fiscal-q2-semianalysis",
-    "title": "Nvidia’s off-balance-sheet guarantees soar to $530B in fiscal Q2: SemiAnalysis",
-    "tags": [
-      "Nvidia",
-      "SemiAnalysis"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-12T19:34:38.000Z"
-  },
-  {
-    "id": "f23acfef674f53f8",
-    "slug": "harvard-led-study-finds-ai-models-commit-more-fraud-when-acting-on-behalf-of-users",
-    "title": "Harvard-led study finds AI models commit more fraud when acting on behalf of users",
-    "tags": [
-      "Harvard"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-12T19:21:46.000Z"
-  },
-  {
-    "id": "11a7772e7f6dede0",
-    "slug": "bitcoin-and-ethereum-sink-to-3-month-lows-but-a-bigger-crypto-selloff-may-be-ahead",
-    "title": "Bitcoin and Ethereum sink to 3-month lows, but a bigger crypto selloff may be ahead",
-    "tags": [
-      "Bitcoin",
-      "Ethereum",
-      "CryptoSlate"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-12T19:20:12.000Z"
-  },
-  {
-    "id": "3359d7475a823731",
-    "slug": "simon-dixon-what-it-would-take-for-me-to-sell-my-bitcoin-for-gold",
-    "title": "Simon Dixon: What It Would Take for Me to Sell My Bitcoin for Gold",
-    "tags": [
-      "Simon Dixon",
-      "BnkToTheFuture",
-      "Bitcoin"
-    ],
-    "source": "Bitcoin Magazine",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-12T19:19:08.000Z"
-  },
-  {
-    "id": "3cf9318a8d0eab51",
-    "slug": "super-micro-says-it-cooperated-with-singapore-us-and-taiwanese-inquiries",
-    "title": "Super Micro says it cooperated with Singapore, US, and Taiwanese inquiries",
-    "tags": [
-      "Super Micro",
-      "Singapore",
-      "United States",
-      "Taiwan"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-12T19:12:57.000Z"
-  },
-  {
-    "id": "5e9135c8a915abfb",
-    "slug": "corteva-q3-revenue-misses-estimates-as-brazil-weakness-prompts-guidance-cut",
-    "title": "Corteva Q3 revenue misses estimates as Brazil weakness prompts guidance cut",
-    "tags": [
-      "Corteva",
-      "Brazil"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-12T19:12:39.000Z"
-  },
-  {
-    "id": "c6580cf76d6b317d",
-    "slug": "binance-says-it-has-fully-covered-the-6-34-billion-hack-with-company-funds",
-    "title": "Binance Says It Has Fully Covered the $6.34 Billion Hack With Company Funds",
-    "tags": [
-      "Binance",
-      "Bitcoin Magazine"
-    ],
-    "source": "Bitcoin Magazine",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-12T19:12:14.000Z"
-  },
-  {
-    "id": "58532da1b56d0440",
-    "slug": "intuitive-machines-q3-revenue-surges-to-record-269-3-million-and-beats-estimates",
-    "title": "Intuitive Machines Q3 revenue surges to record $269.3 million and beats estimates",
-    "tags": [
-      "Intuitive Machines"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-12T19:10:43.000Z"
-  },
-  {
-    "id": "41064343bd6c44b0",
-    "slug": "ondas-posts-record-q3-revenue-of-167-5-million-and-raises-2026-outlook",
-    "title": "Ondas posts record Q3 revenue of $167.5 million and raises 2026 outlook",
-    "tags": [
-      "Ondas"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-12T19:05:20.000Z"
-  },
-  {
-    "id": "7f565eaaa02dfe71",
-    "slug": "claude-ai-predicts-a-monster-xrp-move-ahead-of-anthropic-ipo",
-    "title": "Claude AI Predicts a Monster XRP Move Ahead of Anthropic IPO",
-    "tags": [
-      "Claude AI",
-      "Anthropic",
-      "XRP",
-      "Nasdaq"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-12T19:03:00.000Z"
-  },
-  {
-    "id": "07d5dccdc6e325dc",
-    "slug": "transunion-81-of-digital-fraud-now-targets-existing-accounts",
-    "title": "TransUnion: 81% of Digital Fraud Now Targets Existing Accounts",
-    "tags": [
-      "TransUnion"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-12T19:00:15.000Z"
   }
 ]
