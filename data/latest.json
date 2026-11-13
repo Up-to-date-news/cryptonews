@@ -1,218 +1,788 @@
 [
   {
-    "id": "d4455bde654afc3e",
-    "title": "MANTRA halts new unstaking requests amid Web3Auth and Keplr exploit",
-    "summary": "The suspension highlights the critical need for enhanced security measures in decentralized finance to protect user assets from sophisticated exploits.\nThe post MANTRA halts new unstaking requests amid Web3Auth and Keplr exploit appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/mantra-unbonding-transaction-freeze/",
+    "id": "804c81cde8ac92d9",
+    "slug": "tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains",
+    "title": "Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains",
+    "tags": [
+      "Twenty One Capital",
+      "Tether",
+      "Bitcoin"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:50:49.000Z"
+  },
+  {
+    "id": "68112963235b4168",
+    "slug": "elevenlabs-launches-elevenai-app-for-meeting-notes-and-dictation",
+    "title": "ElevenLabs launches ElevenAI app for meeting notes and dictation",
+    "tags": [],
     "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-13T14:48:38.000Z"
+  },
+  {
+    "id": "f24b667808cf9dbb",
+    "slug": "microsoft-extends-email-timeout-by-48-hours-amid-major-outage",
+    "title": "Microsoft extends email timeout by 48 hours amid major outage",
+    "tags": [
+      "Microsoft",
+      "Outlook",
+      "Teams",
+      "Copilot"
+    ],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:45:31.000Z"
+  },
+  {
+    "id": "5a14af200b909347",
+    "slug": "global-game-connect-ggc-2027-officially-opens-sponsorship-exhibition-opportunities-in-sri-lanka",
+    "title": "Global Game Connect (GGC) 2027 Officially Opens Sponsorship & Exhibition Opportunities in Sri Lanka!",
+    "tags": [
+      "Global Game Connect",
+      "Sri Lanka"
+    ],
+    "source": "Financial IT",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:39:43.000Z"
+  },
+  {
+    "id": "f987f00942e6b136",
+    "slug": "anthropic-holds-132b-in-cash-third-largest-among-non-bank-us-firms",
+    "title": "Anthropic holds $132B in cash, third-largest among non-bank US firms",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-13T14:39:10.000Z"
+  },
+  {
+    "id": "c927a869ddee96a1",
+    "slug": "clearscore-launches-free-uk-rent-reporting-to-all-three-credit-bureaus",
+    "title": "ClearScore launches free UK rent reporting to all three credit bureaus",
+    "tags": [
+      "ClearScore",
+      "UK"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:38:00.000Z"
+  },
+  {
+    "id": "ab56918d45eef16c",
+    "slug": "howard-lutnick-under-pressure-over-nvidia-scandal-faces-white-house-role-risk",
+    "title": "Howard Lutnick under pressure over Nvidia scandal, faces White House role risk",
+    "tags": [
+      "Howard Lutnick",
+      "Nvidia",
+      "White House",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:37:48.000Z"
+  },
+  {
+    "id": "b95fd82269a7e167",
+    "slug": "the-cost-of-a-70-000-bitcoin-hedge-more-than-doubled-in-a-day",
+    "title": "The cost of a $70,000 Bitcoin hedge more than doubled in a day",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:30:05.000Z"
+  },
+  {
+    "id": "7b63dfd89412f3fb",
+    "slug": "applied-digital-stock-under-pressure-as-debt-load-tests-its-ai-data-center-ambitions",
+    "title": "Applied Digital stock under pressure as debt load tests its AI data center ambitions",
+    "tags": [
+      "Applied Digital"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:25:00.000Z"
+  },
+  {
+    "id": "d41da873e31bc9cd",
+    "slug": "marvell-brings-ai-memory-and-interconnect-tech-to-sc26-in-chicago",
+    "title": "Marvell brings AI memory and interconnect tech to SC26 in Chicago",
+    "tags": [
+      "Marvell",
+      "Chicago"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:17:26.000Z"
+  },
+  {
+    "id": "c134c66469bf7dfb",
+    "slug": "multi-currency-payments-where-the-fx-and-settlement-costs-hide",
+    "title": "Multi-Currency Payments: Where the FX and Settlement Costs Hide",
+    "tags": [
+      "Corefy",
+      "EU",
+      "UK"
+    ],
+    "source": "Financial IT",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:15:52.000Z"
+  },
+  {
+    "id": "b78fd12b48c50ce4",
+    "slug": "ethereum-and-layer-1s-explained",
+    "title": "Ethereum and Layer 1s Explained",
+    "tags": [
+      "Ethereum"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:12:23.000Z"
+  },
+  {
+    "id": "ec087a46307672ea",
+    "slug": "france-urges-more-pressure-on-yemen-s-houthis-to-halt-saudi-attacks",
+    "title": "France urges more pressure on Yemen’s Houthis to halt Saudi attacks",
+    "tags": [
+      "France",
+      "Yemen",
+      "Houthis",
+      "Saudi Arabia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:11:57.000Z"
+  },
+  {
+    "id": "a6c514c5d7d490f6",
+    "slug": "xai-prioritizes-ai-coding-tools-and-its-grok-bot-agent-product",
+    "title": "xAI prioritizes AI coding tools and its Grok Bot agent product",
+    "tags": [
+      "xAI"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:09:53.000Z"
+  },
+  {
+    "id": "bfcd14e15333b53c",
+    "slug": "sk-hynix-solidigm-and-others-pitch-ai-memory-beyond-hbm-at-ocp-global-summit",
+    "title": "SK hynix, Solidigm and others pitch AI memory beyond HBM at OCP Global Summit",
+    "tags": [
+      "SK hynix",
+      "Solidigm",
+      "OCP Global Summit"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:08:16.000Z"
+  },
+  {
+    "id": "3c7a439926b358fc",
+    "slug": "jensen-huang-s-exit-caps-a-year-of-wrecked-nvidia-predictions",
+    "title": "Jensen Huang’s exit caps a year of wrecked Nvidia predictions",
+    "tags": [
+      "Nvidia",
+      "Jensen Huang"
+    ],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:07:00.000Z"
+  },
+  {
+    "id": "90f5878b7f1bc093",
+    "slug": "spacex-s-ai-group-cuts-about-60-jobs-from-grok-imagine-video-team",
+    "title": "SpaceX’s AI group cuts about 60 jobs from Grok Imagine video team",
+    "tags": [
+      "SpaceX",
+      "Grok"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:06:04.000Z"
+  },
+  {
+    "id": "c7361bd89c5b69a4",
+    "slug": "anthropic-s-claude-duet-wants-to-be-the-coworker-who-never-logs-off",
+    "title": "Anthropic’s Claude Duet wants to be the coworker who never logs off",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:04:15.000Z"
+  },
+  {
+    "id": "3d24ad8bfbcc0be4",
+    "slug": "xt-exchange-and-the-foundations-of-trust-in-digital-finance",
+    "title": "XT Exchange and the Foundations of Trust in Digital Finance",
+    "tags": [
+      "XT Exchange"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:03:41.000Z"
+  },
+  {
+    "id": "f90eb67cf6aaa5d7",
+    "slug": "crwv-seeks-4b-loan-backed-by-meta-contracts",
+    "title": "CRWV seeks $4B loan backed by Meta contracts",
+    "tags": [
+      "CoreWeave",
+      "Meta"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:03:30.000Z"
+  },
+  {
+    "id": "252349a8632b2b39",
+    "title": "Marble Launches With $11 Million Seed Funding Led by Polychain Capital to Build Institutional Frontier Markets Trading and AI Infrastructure Finance",
+    "summary": "Marble today announced its launch and an $11 million seed round led by Polychain Capital with participation from Maven 11, Ripple, Susquehanna Crypto, Lattice, Blockwall and other venture and strategic investors, along with a select group of AI-focused angels.\nMarble powers the world's frontier markets with capital and liquidity through two businesses. Marble Compute builds institutional private credit rails for AI infrastructure, connecting institutional lenders with neoclouds and GPU operators driving the AI buildout. Marble Markets is building an institutional trading platform across digital assets, real-world assets, prediction markets and compute.\nMatt Ballensweig and Leon Marshall founded Marble and serve as co-CEOs. Ballensweig was most recently Global Head of Trading at BitGo, where he built and led the institutional trading business. He previously co-headed trading and lending at Genesis. Marshall was CEO of Galaxy Digital's European business and previously held roles at Genesis, Apollo and Trafigura. Marble is actively expanding its team with senior hires from leading trading firms, exchanges and AI infrastructure companies over the coming months.\n\"Matt and Leon have built and run institutional trading and lending businesses at scale through multiple market cycles, and they understand market structure from the inside,\" said Angelo Goepel, Partner at Polychain Capital. \"That experience positions Marble to compete in two of the largest opportunities of this decade: bringing institutional trading to frontier markets and building the credit markets that AI infrastructure needs. We're excited to lead Marble's seed.\"\nMarble Compute is building private credit rails and financing products for independent neoclouds and GPU operators. It gives institutional lenders access to the mid-market operators building AI infrastructure, through both traditionally structured and on-chain credit opportunities.\nThe largest publicly traded neoclouds can fund their growth through public markets and large bank lenders. Smaller independent operators often have fewer financing options, even when customers have committed to buying their capacity. Marble Compute plans to originate, underwrite and structure financing for these operators and bring the opportunities to lenders.\nMarble's underwriting will assess the equipment, the creditworthiness of contracted customers and the operator's ability to service its debt. Marble Markets' strategy includes compute forwards that allow operators to agree on a rental price today for capacity they will deliver in the future. Subject to applicable regulatory approvals, Marble intends to finance these opportunities through a series of single-opportunity funds, building toward multi-opportunity funds all through one asset management platform.\n\"Two GPU operators can buy identical hardware and raise very different amounts of debt against it. A lender wants to know who's buying the compute, at what price and for how long,\" said Leon Marshall, co-founder and co-CEO of Marble. \"We're bringing buyers, operators and lenders together so operators can secure customers for their capacity, lock in pricing on the share they want to hedge and raise financing against those cash flows. That gives lenders a clearer basis for deciding how much they can lend and operators a clearer view of how much equity they'll need to build the next cluster.\"\nMarble Markets is building a platform through which institutions can trade across multiple markets with Marble as their counterparty. Marble is developing spot trading, lending and derivatives for digital assets, alongside block trading in prediction markets and over-the-counter forwards on compute capacity. Its longer-term plans include tokenized equities and equity swaps, subject to applicable regulatory approvals. The platform is designed to improve capital efficiency by letting clients use eligible digital and traditional assets held with participating custodians and brokerages as collateral, reducing the need to prefund trades separately with each counterparty.\n\"Institutions want exposure to the markets that will define the next decade, from prediction markets to AI compute, but the liquidity and credit in those markets are still fragmented,\" said Matt Ballensweig, co-founder and co-CEO of Marble. \"Marble brings the trading and financing infrastructure institutions rely on to the markets they actually want to be in.\"\n\"As a liquidity provider across the digital asset ecosystem, we see every day how quickly market structure is evolving,\" said Chase Lax, CEO of Susquehanna Crypto. \"Matt and Leon see that evolution the same way we do, and they've spent their careers operating through it. We're looking forward to seeing what Marble builds.\"\n\"We've worked and traded with both Matt and Leon over the years through BitGo and Galaxy, and few people have a clearer view of where institutional markets are headed in a continuously changing environment,\" said Balder Bomans, CIO at Maven 11 Capital. \"The market needs a more nimble, dynamic player to bring these frontier markets together on one platform, and we're confident Marble can be that firm.\"\nNoYesFundraising News13 Nov, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/fundraising-news/marble-launches-11-million-seed-funding-led-polychain-capital-build",
+    "source": "Financial IT",
+    "tags": [
+      "Marble",
+      "Polychain Capital",
+      "Maven 11",
+      "Ripple",
+      "Susquehanna Crypto"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-13T14:03:24.000Z",
+    "fetchedAt": "2026-11-13T15:01:41.634Z",
+    "isDuplicateOf": null,
+    "content": "Marble has launched with $11 million in seed funding led by Polychain Capital. The company aims to build institutional trading and AI infrastructure finance. Marble operates through two main arms: Marble Compute, which provides private credit rails for AI infrastructure and GPU operators, and Marble Markets, an institutional trading platform spanning digital assets, real-world assets, prediction markets, and compute.",
+    "content_ta": "Polychain Capital தலைமையிலான 11 மில்லியன் டாலர் சீட் ஃபண்டிங்குடன் Marble நிறுவனம் தொடங்கப்பட்டுள்ளது. இந்நிறுவனம் இன்ஸ்டிடியூஷனல் டிரேடிங் மற்றும் AI இன்ஃப்ராஸ்ட்ரக்சர் ஃபைனான்ஸ் சேவைகளை உருவாக்க இலக்கு நிர்ணயித்துள்ளது. Marble Compute மற்றும் Marble Markets ஆகிய இரண்டு முக்கியப் பிரிவுகள் மூலம் இந்நிறுவனம் செயல்படுகிறது.",
+    "slug": "marble-launches-with-11-million-seed-funding-led-by-polychain-capital-to-build-institutional"
+  },
+  {
+    "id": "a3a1742378b9eacb",
+    "slug": "kraken-parent-payward-posts-60m-q3-adjusted-ebitda-up-163-qoq",
+    "title": "Kraken parent Payward posts $60M Q3 adjusted EBITDA, up 163% QoQ",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-13T14:02:59.000Z"
+  },
+  {
+    "id": "b401f9fa86539e88",
+    "slug": "kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
+    "title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
+    "tags": [
+      "Kraken",
+      "Payward"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:02:00.000Z"
+  },
+  {
+    "id": "34e3d6ce2de7feb8",
+    "slug": "bitcoin-climbs-above-70k-and-gold-rises-after-cooler-ppi-report",
+    "title": "Bitcoin climbs above $70K and gold rises after cooler PPI report",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:01:59.000Z"
+  },
+  {
+    "id": "f1117dce76a8a4eb",
+    "slug": "cooler-us-ppi-catches-a-52-million-bitcoin-bear-off-guard",
+    "title": "Cooler US PPI Catches a $52 Million Bitcoin Bear Off Guard",
+    "tags": [
+      "Bitcoin",
+      "United States"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:01:15.000Z"
+  },
+  {
+    "id": "6ad6712396b2ec48",
+    "slug": "dogecoin-cofounder-makes-i-m-a-shiba-inu-statement",
+    "title": "Dogecoin Cofounder Makes 'I’m a Shiba Inu' Statement",
+    "tags": [
+      "Dogecoin",
+      "Shiba Inu"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:00:55.000Z"
+  },
+  {
+    "id": "47c1f35646400ce5",
+    "slug": "glovo-and-pragmago-bring-embedded-lending-to-polish-merchants",
+    "title": "Glovo and PragmaGO Bring Embedded Lending to Polish Merchants",
+    "tags": [
+      "Glovo",
+      "PragmaGO",
+      "Poland"
+    ],
+    "source": "The Fintech Times",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T14:00:54.000Z"
+  },
+  {
+    "id": "0b1235e7a1559c73",
+    "slug": "ethereum-dancing-on-two-fronts-as-quantum-upgrade-advances-and-treasury-leverage-bites",
+    "title": "Ethereum Dancing on Two Fronts as Quantum Upgrade Advances and Treasury Leverage Bites",
+    "tags": [
+      "Ethereum",
+      "BTCS",
+      "Aave"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T13:59:38.000Z"
+  },
+  {
+    "id": "568a174a512b14d7",
+    "title": "Klarna Names Chris Koegel as Chief Financial Officer",
+    "summary": "Klarna Group plc (NYSE: KLAR), the everyday finance network, has appointed Chris Koegel as Chief Financial Officer, effective 1 January 2027, subject to regulatory approval. The appointment has been approved and endorsed by the Klarna Group plc board. He will succeed Niclas Neglén, who will remain CFO until the end of 2026.\nKoegel joins from Robinhood Markets Inc., where he is Vice President, Head of Corporate Finance and Investor Relations. He joined Robinhood in 2022 and has served on the Leadership Team through a period of significant growth; the company’s valuation has grown from less than $10bn and has exceeded $100bn during his tenure. Before Robinhood, he was Head of Investor Relations at LPL Financial LLC (NASDAQ: LPLA) from 2015 to 2022, after spending 13 years at Bain & Company. Koegel has a BA in Mathematics from Williams College, an MBA from Dartmouth College, and is based in the US in the Boston, MA area.\n“Chris’s experience as a Finance leader at a US-listed consumer fintech business with a strong track record of growth and shareholder value creation will be invaluable as we enter the next phase in Klarna’s growth story,” said Sebastian Siemiatkowski, Co-Founder and CEO of Klarna.\n“Klarna has built a large-scale global network that customers love. I’m excited to join Sebastian and the Klarna team as we work to deliver innovative products and value for customers, a productive and rewarding experience for employees, and long-term profitable growth for shareholders,” said Chris Koegel.\nNoYesPeople Moves13 Nov, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/people-moves/klarna-names-chris-koegel-chief-financial-officer",
+    "source": "Financial IT",
+    "tags": [
+      "Klarna",
+      "Robinhood Markets",
+      "Chris Koegel",
+      "Niclas Neglén"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-13T13:55:47.000Z",
+    "fetchedAt": "2026-11-13T15:01:41.634Z",
+    "isDuplicateOf": null,
+    "content": "Klarna Group plc has appointed Chris Koegel as its new Chief Financial Officer, effective January 1, 2027. Koegel will succeed Niclas Neglén, who will remain in the role until the end of 2026. Koegel joins Klarna from Robinhood Markets Inc., where he served as Vice President and Head of Corporate Finance and Investor Relations, bringing extensive financial leadership experience to the everyday finance network as it prepares for its next growth phase.",
+    "content_ta": "Klarna Group plc நிறுவனத்தின் புதிய Chief Financial Officer-ாக Chris Koegel நியமிக்கப்பட்டுள்ளார். இந்த நியமனம் ஜனவரி 1, 2027 முதல் நடைமுறைக்கு வருகிறது. 2026 ஆம் ஆண்டின் இறுதி வரை இந்தப் பதவியில் தொடரும் Niclas Neglén-க்கு பதிலாக இவர் பொறுப்பேற்பார். Robinhood Markets Inc. நிறுவனத்தில் Vice President மற்றும் Head of Corporate Finance and Investor Relations-ஆக பணியாற்றிய இவர், தனது விரிவான நிதித்துறை அனுபவத்துடன் Klarna நிறுவனத்தில் இணைந்துள்ளார்.",
+    "slug": "klarna-names-chris-koegel-as-chief-financial-officer"
+  },
+  {
+    "id": "6a0a4f193e4e5b09",
+    "slug": "crypto-laundering-a-material-risk-for-uk-ahead-of-fatf-review-rusi",
+    "title": "Crypto Laundering a 'Material Risk' for UK Ahead of FATF Review: RUSI",
+    "tags": [
+      "RUSI",
+      "United Kingdom"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T13:55:25.000Z"
+  },
+  {
+    "id": "5197c5d2fdd72f71",
+    "slug": "bessent-criticizes-commerce-for-not-blacklisting-megaspeed-over-nvidia-chip-diversion",
+    "title": "Bessent criticizes Commerce for not blacklisting Megaspeed over Nvidia chip diversion",
+    "tags": [
+      "Megaspeed",
+      "Nvidia",
+      "Bessent",
+      "Department of Commerce"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T13:54:10.000Z"
+  },
+  {
+    "id": "7d0b95d34aecd7bd",
+    "slug": "nvidia-ceo-scandal-puts-southeast-asia-s-chip-industry-under-the-microscope",
+    "title": "Nvidia CEO scandal puts Southeast Asia’s chip industry under the microscope",
+    "tags": [
+      "Nvidia",
+      "Southeast Asia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T13:50:17.000Z"
+  },
+  {
+    "id": "0b84c688160f5bb4",
+    "slug": "data-center-boom-fuels-inflation-concerns-complicates-fed-policy-decisions",
+    "title": "Data center boom fuels inflation concerns, complicates Fed policy decisions",
+    "tags": [
+      "Federal Reserve"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T13:47:58.000Z"
+  },
+  {
+    "id": "fcca597949be6537",
+    "slug": "twenty-one-capital-swings-to-1-1-billion-profit-on-bitcoin-rebound",
+    "title": "Twenty One Capital swings to $1.1 billion profit on Bitcoin rebound",
+    "tags": [
+      "Twenty One Capital",
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T13:45:30.000Z"
+  },
+  {
+    "id": "ee9449404bb6b1c4",
+    "slug": "arthur-hayes-flattered-as-coinbase-backs-us-stock-perps",
+    "title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
+    "tags": [
+      "Arthur Hayes",
+      "Coinbase",
+      "United States"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T13:41:26.000Z"
+  },
+  {
+    "id": "aa0332d05648792f",
+    "slug": "roadmap-is-complete-cardano-founder-charles-hoskinson-says",
+    "title": "‘Roadmap is Complete,' Cardano Founder Charles Hoskinson Says",
+    "tags": [],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-13T13:36:29.000Z"
+  },
+  {
+    "id": "068c15bdf362f31f",
+    "slug": "bitcoin-s-futures-pile-has-a-problem-less-cash-to-fuel-a-rebound",
+    "title": "Bitcoin’s futures pile has a problem: less cash to fuel a rebound",
+    "tags": [
+      "Bitcoin",
+      "DWF Labs"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T13:30:48.000Z"
+  },
+  {
+    "id": "306804980e10614a",
+    "slug": "hyundai-card-launches-new-ai-powered-credit-card-model",
+    "title": "Hyundai Card launches new AI-powered credit card model",
+    "tags": [
+      "Hyundai Card",
+      "South Korea"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T13:11:00.000Z"
+  },
+  {
+    "id": "65c0c25dc7aa4064",
+    "slug": "boost-cto-rinku-sharma-s-recipe-for-artificial-intelligence-payments-success",
+    "title": "Boost CTO Rinku Sharma’s Recipe For Artificial Intelligence Payments Success",
+    "tags": [
+      "Boost",
+      "Rinku Sharma"
+    ],
+    "source": "Crowdfund Insider",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T13:05:38.000Z"
+  },
+  {
+    "id": "f4b40f391de55ef0",
+    "slug": "nakamoto-shares-fall-6-premarket-after-q3-revenue-turns-negative",
+    "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
+    "tags": [
+      "Nakamoto",
+      "Bitcoin"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T13:04:19.000Z"
+  },
+  {
+    "id": "6802f61084d46e4c",
+    "slug": "morning-minute-crypto-plummets-as-jensen-huang-exits-nvidia",
+    "title": "Morning Minute: Crypto Plummets as Jensen Huang Exits Nvidia",
+    "tags": [
+      "Bitcoin",
+      "Nvidia",
+      "Jensen Huang"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T13:03:40.000Z"
+  },
+  {
+    "id": "2e4ce45c87ae2c88",
+    "slug": "paypal-partners-with-workday-to-enhance-employee-financial-wellbeing",
+    "title": "PayPal partners with Workday to enhance employee financial wellbeing",
+    "tags": [
+      "PayPal",
+      "Workday",
+      "United States"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T13:01:00.000Z"
+  },
+  {
+    "id": "790e1ad54d3aa05f",
+    "slug": "supreme-court-to-decide-tax-bill-for-prediction-market-operators",
+    "title": "Supreme Court to decide tax bill for prediction market operators",
+    "tags": [
+      "Supreme Court",
+      "Robinhood"
+    ],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T12:58:18.000Z"
+  },
+  {
+    "id": "ded47d3b3f3eee80",
+    "slug": "anthropic-ant-ipo-becomes-new-benchmark-after-spacex-debut-ripple-effects-could-impact-tesla-and",
+    "title": "Anthropic ANT IPO Becomes New Benchmark After SpaceX Debut, Ripple Effects Could Impact Tesla and Broader Tech Stocks Ecosystem",
+    "tags": [
+      "Anthropic",
+      "SpaceX",
+      "Tesla"
+    ],
+    "source": "Crowdfund Insider",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T12:57:24.000Z"
+  },
+  {
+    "id": "453f348d55e17164",
+    "slug": "telegram-android-flaw-sparks-bybit-security-warning-for-crypto-users",
+    "title": "Telegram Android Flaw Sparks Bybit Security Warning for Crypto Users",
+    "tags": [
+      "Telegram",
+      "Bybit"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T12:57:15.000Z"
+  },
+  {
+    "id": "cd94800d75d6c9e0",
+    "slug": "claude-is-down-microsoft-365-outage-disrupts-ai-tools",
+    "title": "Claude is Down? Microsoft 365 Outage Disrupts AI Tools",
+    "tags": [
+      "Microsoft",
+      "United States"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T12:53:06.000Z"
+  },
+  {
+    "id": "82f950381b783822",
+    "slug": "chiliz-price-tests-critical-channel-support-as-bulls-eye-0-95",
+    "title": "Chiliz Price Tests Critical Channel Support as Bulls Eye $0.95",
+    "tags": [],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-13T12:46:11.000Z"
+  },
+  {
+    "id": "6fdcfb709eda9082",
+    "slug": "wisconsin-retiree-loses-more-than-400-000-in-gold-courier-scam-even-after-her-bank-questioned-her",
+    "title": "Wisconsin Retiree Loses More Than $400,000 in Gold Courier Scam, Even After Her Bank Questioned Her Cash Withdrawals",
+    "tags": [
+      "Wisconsin",
+      "Mary",
+      "WFSB"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T12:45:43.000Z"
+  },
+  {
+    "id": "d4455bde654afc3e",
+    "slug": "mantra-halts-new-unstaking-requests-amid-web3auth-and-keplr-exploit",
+    "title": "MANTRA halts new unstaking requests amid Web3Auth and Keplr exploit",
     "tags": [
       "MANTRA",
       "Web3Auth",
       "Keplr"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-13T12:36:13.000Z",
-    "fetchedAt": "2026-11-13T12:41:45.892Z",
-    "isDuplicateOf": null,
-    "content": "MANTRA has temporarily suspended new unstaking requests following a security exploit involving Web3Auth and Keplr. This incident underscores the urgent need for heightened security measures within decentralized finance to safeguard user funds against sophisticated cyber threats.",
-    "content_ta": "Web3Auth மற்றும் Keplr exploit காரணமாக MANTRA நிறுவனம் புதிய unstaking கோரிக்கைகளை தற்காலிகமாக நிறுத்தி வைத்துள்ளது. கிரிப்டோ சொத்துக்களை சைபர் அச்சுறுத்தல்களில் இருந்து பாதுகாக்க மேம்பட்ட பாதுகாப்பு நடவடிக்கைகள் அவசியம் என்பதை இந்தச் சம்பவம் வெளிச்சம் போட்டுக் காட்டுகிறது.",
-    "slug": "mantra-halts-new-unstaking-requests-amid-web3auth-and-keplr-exploit"
+    "hasContent": true,
+    "pubDate": "2026-11-13T12:36:13.000Z"
   },
   {
     "id": "088057132ea74f77",
+    "slug": "jensen-huang-reportedly-called-interim-nvidia-ceo-colette-kress-a-deer-in-the-headlights",
     "title": "Jensen Huang reportedly called interim Nvidia CEO Colette Kress ‘a deer in the headlights’",
-    "summary": "Nvidia's leadership transition may impact strategic direction and financing policies, affecting investor confidence and customer expectations.\nThe post Jensen Huang reportedly called interim Nvidia CEO Colette Kress ‘a deer in the headlights’ appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/jensen-huang-colette-kress-deer-headlights/",
-    "source": "CryptoBriefing",
     "tags": [
       "Nvidia",
       "Jensen Huang",
       "Colette Kress"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-13T12:32:04.000Z",
-    "fetchedAt": "2026-11-13T12:41:45.892Z",
-    "isDuplicateOf": null,
-    "content": "Jensen Huang reportedly described interim Nvidia CEO Colette Kress as 'a deer in the headlights.' This leadership transition at Nvidia raises questions about the company's future strategic direction and financing policies, which could influence investor confidence and customer expectations moving forward.",
-    "content_ta": "Jensen Huang, Nvidia-யின் தற்காலிக CEO ஆன Colette Kress-ஐ 'a deer in the headlights' என்று வர்ணித்துள்ளதாக தகவல்கள் வெளியாகியுள்ளன. Nvidia-யின் இந்த தலைமை மாற்றமானது நிறுவனத்தின் எதிர்கால மூலோபாய திசை மற்றும் நிதிக் கொள்கைகள் குறித்து கேள்விகளை எழுப்பியுள்ளது, இது முதலீட்டாளர்களின் நம்பிக்கையையும் வாடிக்கையாளர்களின் எதிர்பார்ப்புகளையும் பாதிக்கலாம்.",
-    "slug": "jensen-huang-reportedly-called-interim-nvidia-ceo-colette-kress-a-deer-in-the-headlights"
+    "hasContent": true,
+    "pubDate": "2026-11-13T12:32:04.000Z"
   },
   {
     "id": "a0c2c46e06ef00ff",
+    "slug": "the-catch-in-crypto-s-anthropic-ipo-rush-lock-up-your-money-and-you-could-still-miss-out",
     "title": "The catch in crypto’s Anthropic IPO rush: lock up your money and you could still miss out",
-    "summary": "Kraken, Bitget and BigONE disclose uncertain fills, while successful allocations carry extra charges and different delivery schedules.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-    "hasSummary": true,
-    "link": "https://cryptoslate.com/the-catch-in-cryptos-anthropic-ipo-rush-lock-up-your-money-and-you-could-still-miss-out/",
-    "source": "CryptoSlate",
     "tags": [
       "Kraken",
       "Bitget",
       "BigONE",
       "Anthropic"
     ],
+    "source": "CryptoSlate",
     "origin": "rss",
-    "pubDate": "2026-11-13T12:30:32.000Z",
-    "fetchedAt": "2026-11-13T12:41:45.892Z",
-    "isDuplicateOf": null,
-    "content": "Cryptocurrency platforms such as Kraken, Bitget, and BigONE have highlighted uncertainties surrounding allocations and fills in recent Anthropic IPO-related offerings. Investors face potential challenges, including locked-up funds, additional charges, and varied delivery schedules that mean participants could still miss out despite committing capital.",
-    "content_ta": "Kraken, Bitget மற்றும் BigONE போன்ற கிரிப்டோ தளங்கள், Anthropic IPO-ல் பங்குகளை ஒதுக்குவதில் உள்ள நிச்சயமற்ற தன்மைகளை வெளிப்படுத்தியுள்ளன. முதலீட்டாளர்கள் தங்கள் பணம் முடக்கப்படுவது, கூடுதல் கட்டணங்கள் மற்றும் மாறுபட்ட டெலிவரி அட்டவணைகள் போன்ற சவால்களை எதிர்கொள்கின்றனர், இதனால் மூலதனத்தை முதலீடு செய்தாலும் அவர்கள் வாய்ப்பை இழக்க நேரிடும்.",
-    "slug": "the-catch-in-crypto-s-anthropic-ipo-rush-lock-up-your-money-and-you-could-still-miss-out"
+    "hasContent": true,
+    "pubDate": "2026-11-13T12:30:32.000Z"
   },
   {
     "id": "8cadc60261a81554",
+    "slug": "the-financial-services-industry-is-getting-better-at-selling-to-itself-its-customers-still-have",
     "title": "The financial services industry is getting better at selling to itself. Its customers still have problems, though.",
-    "summary": "The “Letter from the Editor” is a biweekly series of exclusive insight and opinion-driven analysis from Tearsheet’s Managing Editor Sara Khairi, connecting ideas, questioning assumptions, and tracking shifts across both mature and emerging trends in financial services. This is now PRO-only content. Subscribe to PRO so you never miss a Letter from the Editor exclusive. … \nContinue reading \"The financial services industry is getting better at selling to itself. Its customers still have problems, though.\"\nThe post The financial services industry is getting better at selling to itself. Its customers still have problems, though. appeared first on Tearsheet.",
-    "hasSummary": true,
-    "link": "https://tearsheet.co/opinion/the-financial-services-industry-is-getting-better-at-selling-to-itself-its-customers-still-have-problems-though/?utm_source=rss&utm_medium=rss&utm_campaign=the-financial-services-industry-is-getting-better-at-selling-to-itself-its-customers-still-have-problems-though",
-    "source": "Tearsheet",
     "tags": [
       "Tearsheet",
       "Sara Khairi"
     ],
+    "source": "Tearsheet",
     "origin": "rss",
-    "pubDate": "2026-11-13T12:30:00.000Z",
-    "fetchedAt": "2026-11-13T12:41:45.892Z",
-    "isDuplicateOf": null,
-    "content": "A recent analysis by Tearsheet highlights that the financial services industry is increasingly focusing on selling products and services to itself rather than addressing the core problems faced by everyday customers. This insight, part of the Managing Editor's biweekly series, emphasizes a growing disconnect between industry priorities and consumer needs. Such exclusive commentary and trend analysis are now restricted to Tearsheet PRO subscribers.",
-    "content_ta": "நிதி சேவைகள் துறை அன்றாட வாடிக்கையாளர்களின் பிரச்சினைகளைத் தீர்ப்பதை விட, தனக்குள்ளேயே தயாரிப்புகளை விற்பனை செய்வதில் அதிக கவனம் செலுத்துவதாக Tearsheet-ன் சமீபத்திய பகுப்பாய்வு சுட்டிக்காட்டுகிறது. இந்த பிரத்யேக பகுப்பாய்வு மற்றும் போக்கு பற்றிய தகவல்கள் இப்போது Tearsheet PRO சந்தாதாரர்களுக்கு மட்டுமே கிடைக்கும்.",
-    "slug": "the-financial-services-industry-is-getting-better-at-selling-to-itself-its-customers-still-have"
+    "hasContent": true,
+    "pubDate": "2026-11-13T12:30:00.000Z"
   },
   {
     "id": "14b5883a80154fde",
+    "slug": "uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking",
     "title": "UK, Singapore, and Thailand central banks complete foreign exchange settlement trial linking traditional and tokenized systems",
-    "summary": "Three central banks published findings from a cross-border FX settlement trial using Partior's synchronization prototype.",
-    "hasSummary": true,
-    "link": "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692",
-    "source": "The Block",
     "tags": [
       "United Kingdom",
       "Singapore",
       "Thailand",
       "Partior"
     ],
+    "source": "The Block",
     "origin": "rss",
-    "pubDate": "2026-11-13T12:27:41.000Z",
-    "fetchedAt": "2026-11-13T12:41:45.892Z",
-    "isDuplicateOf": null,
-    "content": "The central banks of the UK, Singapore, and Thailand have successfully completed a cross-border foreign exchange settlement trial. The project tested the integration of traditional financial systems with tokenized systems using Partior's synchronization prototype. The participating central banks published their collaborative findings, highlighting how synchronized settlement can improve efficiency in international transactions.",
-    "content_ta": "UK, Singapore மற்றும் Thailand நாடுகளின் central banks இணைந்து cross-border foreign exchange settlement trial-ஐ வெற்றிகரமாக நிறைவு செய்துள்ளன. Partior-ன் synchronization prototype-ஐப் பயன்படுத்தி, traditional financial systems மற்றும் tokenized systems ஆகியவற்றை இணைப்பதன் மூலம் இந்த சோதனை நடத்தப்பட்டது. International transactions-ல் efficiency-ஐ மேம்படுத்த இந்த collaborative findings உதவும் என்று central banks தெரிவித்துள்ளன.",
-    "slug": "uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking"
+    "hasContent": true,
+    "pubDate": "2026-11-13T12:27:41.000Z"
   },
   {
     "id": "60c36732aa63cc9e",
+    "slug": "coinbase-to-delist-12-crypto-trading-pairs-ada-eth-and-xlm-btc-among-them",
     "title": "Coinbase to Delist 12 Crypto Trading Pairs, ADA-ETH and XLM-BTC Among Them",
-    "summary": "Coinbase drops Cardano, Stellar non-USD trading pairs and 10 others in liquidity shake-up.",
-    "hasSummary": true,
-    "link": "https://u.today/coinbase-to-delist-12-crypto-trading-pairs-ada-eth-and-xlm-btc-among-them",
-    "source": "U.Today",
     "tags": [
       "Coinbase",
       "Cardano",
       "Stellar"
     ],
+    "source": "U.Today",
     "origin": "rss",
-    "pubDate": "2026-11-13T12:25:10.000Z",
-    "fetchedAt": "2026-11-13T12:41:45.892Z",
-    "isDuplicateOf": null,
-    "content": "Cryptocurrency exchange Coinbase has announced plans to delist 12 trading pairs, including ADA-ETH and XLM-BTC. The platform decided to drop these Cardano and Stellar non-USD pairs, alongside ten others, as part of a liquidity shake-up to improve overall market quality and trading experience.",
-    "content_ta": "கிரிப்டோகரன்சி எக்ஸ்சேஞ்ச் ஆன Coinbase, ADA-ETH மற்றும் XLM-BTC உள்ளிட்ட 12 டிரேடிங் ஜோடிகளை நீக்க உள்ளதாக அறிவித்துள்ளது. ஒட்டுமொத்த சந்தை தரத்தை மேம்படுத்தும் நடவடிக்கையின் ஒரு பகுதியாக, இந்த Cardano மற்றும் Stellar தொடர்பான ஜோடிகள் நீக்கப்படுகின்றன.",
-    "slug": "coinbase-to-delist-12-crypto-trading-pairs-ada-eth-and-xlm-btc-among-them"
+    "hasContent": true,
+    "pubDate": "2026-11-13T12:25:10.000Z"
   },
   {
     "id": "dd5dfd7399522e32",
+    "slug": "israeli-police-arrest-five-in-5m-whatsapp-crypto-trading-probe",
     "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
-    "summary": "Police suspect the group drew up fictitious loan agreements to disguise crypto trading proceeds it transferred directly into bank accounts.",
-    "hasSummary": true,
-    "link": "https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph",
     "tags": [
       "WhatsApp",
       "Israel"
     ],
+    "source": "Cointelegraph",
     "origin": "rss",
-    "pubDate": "2026-11-13T12:19:01.000Z",
-    "fetchedAt": "2026-11-13T12:41:45.892Z",
-    "isDuplicateOf": null,
-    "content": "Israeli police have arrested five suspects in connection with a five million dollar cryptocurrency trading investigation. Authorities suspect the group utilized fictitious loan agreements to conceal proceeds generated from crypto trading. The illicit funds were allegedly transferred directly into traditional bank accounts as part of the scheme. Law enforcement continues to probe the financial network.",
-    "content_ta": "ஐக்கிய நாடுகள் அல்லது வேறு குறிப்பிட்ட நாடுகளைப் பற்றி அல்லாமல், Israeli காவல்துறையினர் 5 மில்லியன் டாலர் மதிப்பிலான WhatsApp crypto வர்த்தகம் தொடர்பான விசாரணையில் ஐந்து பேரைக் கைது செய்துள்ளனர். crypto வர்த்தகத்தின் மூலம் கிடைத்த வருமானத்தை மறைக்க போலியான கடன் ஒப்பந்தங்களை இந்தக் குழு பயன்படுத்தியதாக காவல்துறையினர் சந்தேகிக்கின்றனர். இந்த முறைகேடான நிதி நேரடியாக வங்கிக் கணக்குகளுக்கு மாற்றப்பட்டுள்ளது.",
-    "slug": "israeli-police-arrest-five-in-5m-whatsapp-crypto-trading-probe"
+    "hasContent": true,
+    "pubDate": "2026-11-13T12:19:01.000Z"
   },
   {
     "id": "56c5bfd0b65366fe",
+    "slug": "us-job-market-may-soon-fuel-inflationary-pressures-as-wages-rise",
     "title": "US job market may soon fuel inflationary pressures as wages rise",
-    "summary": "Rising wages may prompt the Federal Reserve to adjust interest rates, impacting borrowing costs and economic growth strategies.\nThe post US job market may soon fuel inflationary pressures as wages rise appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/us-job-market-may-soon-fuel-inflationary-pressures-as-wages-rise/",
-    "source": "CryptoBriefing",
     "tags": [
       "United States",
       "Federal Reserve"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-13T12:17:53.000Z",
-    "fetchedAt": "2026-11-13T12:41:45.892Z",
-    "isDuplicateOf": null,
-    "content": "The US job market is showing signs of wage growth that could soon drive up inflationary pressures. This trend may prompt the Federal Reserve to adjust interest rates. Such monetary policy changes could directly impact borrowing costs and broader economic growth strategies, according to insights shared by Crypto Briefing.",
-    "content_ta": "US-ல் அதிகரித்து வரும் ஊதியங்களால் பணவீக்க அழுத்தங்கள் உருவாகக்கூடும் என எதிர்பார்க்கப்படுகிறது. இந்த சூழ்நிலையில், Federal Reserve வட்டி விகிதங்களில் மாற்றங்களைச் செய்ய வாய்ப்புள்ளது. இந்த நிதி மாற்றங்கள் கடன் வாங்கும் செலவுகள் மற்றும் பொருளாதார வளர்ச்சி உத்திகளை பாதிக்கலாம் என Crypto Briefing தெரிவிக்கின்றது.",
-    "slug": "us-job-market-may-soon-fuel-inflationary-pressures-as-wages-rise"
+    "hasContent": true,
+    "pubDate": "2026-11-13T12:17:53.000Z"
   },
   {
     "id": "8134aa26362be43d",
+    "slug": "ai-and-bitcoin-are-on-one-big-trade-now-says-anthony-pompliano",
     "title": "‘AI and Bitcoin Are on One Big Trade Now,’ Says Anthony Pompliano",
-    "summary": "Anthony Pompliano sends a comforting message to Bitcoin holders as the asset’s correction continues to deepen, with Bitcoin falling sharply to a three-month low.",
-    "hasSummary": true,
-    "link": "https://u.today/ai-and-bitcoin-are-on-one-big-trade-now-says-anthony-pompliano",
-    "source": "U.Today",
     "tags": [
       "Bitcoin",
       "Anthony Pompliano"
     ],
+    "source": "U.Today",
     "origin": "rss",
-    "pubDate": "2026-11-13T12:15:27.000Z",
-    "fetchedAt": "2026-11-13T12:41:45.892Z",
-    "isDuplicateOf": null,
-    "content": "Anthony Pompliano recently offered reassuring words to Bitcoin holders as the cryptocurrency's ongoing market correction deepened. During the downturn, Bitcoin experienced a sharp decline, reaching a three-month low. Amidst this volatility, Pompliano highlighted a strong connection between artificial intelligence and Bitcoin, suggesting they are currently moving together as part of a single major market trade.",
-    "content_ta": "Bitcoin சரிவு தொடர்ந்து அதிகரித்து வரும் நிலையில், Bitcoin வைத்திருப்பவர்களுக்கு Anthony Pompliano ஆறுதல் வார்த்தைகளைக் கூறியுள்ளார். இந்த சந்தை சரிவின் போது Bitcoin விலை கடுமையாகக் குறைந்து மூன்று மாதக் குறைந்த அளவை எட்டியது. இந்த நிலையற்ற தன்மையின் மத்தியில், AI மற்றும் Bitcoin ஆகிய இரண்டும் தற்போது ஒரே பெரிய வர்த்தகத்தின் கீழ் ஒன்றாக நகர்வதாக Anthony Pompliano குறிப்பிட்டார்.",
-    "slug": "ai-and-bitcoin-are-on-one-big-trade-now-says-anthony-pompliano"
+    "hasContent": true,
+    "pubDate": "2026-11-13T12:15:27.000Z"
   },
   {
     "id": "ffb914f6360e73e7",
+    "slug": "bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-60-000",
     "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
-    "summary": "Your day-ahead look for Nov. 13, 2026",
-    "hasSummary": true,
-    "link": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
-    "source": "CoinDesk",
     "tags": [
       "Bitcoin"
     ],
+    "source": "CoinDesk",
     "origin": "rss",
-    "pubDate": "2026-11-13T12:14:22.000Z",
-    "fetchedAt": "2026-11-13T12:41:45.892Z",
-    "isDuplicateOf": null,
-    "content": "Bitcoin is facing downward pressure as its market momentum indicators turn bearish. Analysts are watching the cryptocurrency closely as changing market conditions suggest prices could drop below the key sixty thousand dollar threshold in the near term. Market participants are preparing for potential volatility in the coming sessions.",
-    "content_ta": "Bitcoin-ன் சந்தை வேகம் குறைந்து வருவதால் விலை மேலும் சரியக்கூடும் என்று ஆய்வாளர்கள் எச்சரிக்கின்றனர். சந்தை நிலவரங்களின்படி, விலை விரைவில் 60,000 டாலருக்கும் கீழே குறைய வாய்ப்புள்ளதாக கூறப்படுகிறது.",
-    "slug": "bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-60-000"
+    "hasContent": true,
+    "pubDate": "2026-11-13T12:14:22.000Z"
   },
   {
     "id": "11db79e5902153e3",
+    "slug": "tsmc-signs-seven-year-deal-with-xintec-to-expand-cowos-packaging",
     "title": "TSMC signs seven-year deal with Xintec to expand CoWoS packaging",
-    "summary": "TSMC's strategic expansion with Xintec highlights the growing demand for advanced chip packaging, underscoring long-term industry reliance on CoWoS.\nThe post TSMC signs seven-year deal with Xintec to expand CoWoS packaging appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/tsmc-xintec-seven-year-cowos-deal/",
-    "source": "CryptoBriefing",
     "tags": [
       "TSMC",
       "Xintec"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-13T12:08:53.000Z",
-    "fetchedAt": "2026-11-13T12:41:45.892Z",
-    "isDuplicateOf": null,
-    "content": "TSMC has signed a long-term seven-year agreement with Xintec to expand advanced CoWoS packaging capacity. This strategic collaboration highlights the rapidly growing global demand for advanced semiconductor packaging solutions, reflecting the industry's continued reliance on innovative manufacturing technologies to support next-generation hardware developments.",
-    "content_ta": "அட்வான்ஸ்டு CoWoS பேக்கேஜிங் திறனை விரிவுபடுத்துவதற்காக TSMC நிறுவனம் Xintec உடன் ஏழு ஆண்டு கால ஒப்பந்தத்தில் கையெழுத்திட்டுள்ளது. இந்த வியூகக் கூட்டுறவு, மேம்பட்ட செமிகண்டக்டர் பேக்கேஜிங் தீர்வுகளுக்கான உலகளாவிய தேவையின் விரைவான வளர்ச்சியைக் காட்டுகிறது.",
-    "slug": "tsmc-signs-seven-year-deal-with-xintec-to-expand-cowos-packaging"
+    "hasContent": true,
+    "pubDate": "2026-11-13T12:08:53.000Z"
   },
   {
     "id": "5a8a5723a861fd69",
@@ -226,656 +796,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-13T11:58:47.000Z"
-  },
-  {
-    "id": "39bdd1c8ff802856",
-    "slug": "louisiana-judge-orders-sweeping-restraining-order-against-kalshi-polymarket-coinbase-and-other",
-    "title": "Louisiana judge orders sweeping restraining order against Kalshi, Polymarket, Coinbase, and other prediction market operators",
-    "tags": [
-      "Kalshi",
-      "Polymarket",
-      "Coinbase",
-      "United States",
-      "Louisiana"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T11:47:39.000Z"
-  },
-  {
-    "id": "7e3bed8012d1dc7f",
-    "slug": "bitso-integrates-hyperliquid-opening-200-plus-on-chain-perpetual-markets",
-    "title": "Bitso integrates Hyperliquid, opening 200-plus on-chain perpetual markets",
-    "tags": [
-      "Bitso",
-      "Hyperliquid"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T11:44:21.000Z"
-  },
-  {
-    "id": "a3ae9059c9f26a6f",
-    "slug": "microsoft-365-outage-passes-12-hours-hitting-users-in-74-countries",
-    "title": "Microsoft 365 outage passes 12 hours, hitting users in 74 countries",
-    "tags": [
-      "Microsoft 365"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T11:37:44.000Z"
-  },
-  {
-    "id": "b003ae4f910bc955",
-    "slug": "howard-marks-asks-claude-to-grade-ai-predictability-and-frontier-labs-score-2-out-of-10",
-    "title": "Howard Marks asks Claude to grade AI predictability, and frontier labs score 2 out of 10",
-    "tags": [
-      "Howard Marks",
-      "Claude"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T11:36:31.000Z"
-  },
-  {
-    "id": "ccb5cf7f6c0afb84",
-    "slug": "ai-helped-find-66-security-flaws-with-no-fixes-planned-for-some-older-devices",
-    "title": "AI helped find 66 security flaws, with no fixes planned for some older devices",
-    "tags": [
-      "Siemens",
-      "CryptoSlate"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T11:30:31.000Z"
-  },
-  {
-    "id": "d2734f341c5a84e9",
-    "slug": "nvidia-s-investment-commitments-in-france-remain-intact-says-station-f-s-roxanne-varza",
-    "title": "Nvidia’s investment commitments in France remain intact, says Station F’s Roxanne Varza",
-    "tags": [
-      "Nvidia",
-      "France",
-      "Station F"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T11:30:22.000Z"
-  },
-  {
-    "id": "24ff3b45f65511a7",
-    "slug": "pi-network-pi-hit-by-volatility-solana-sol-braces-for-additional-sell-off-bits-recap-nov-13",
-    "title": "Pi Network (PI) Hit by Volatility, Solana (SOL) Braces for Additional Sell-off: Bits Recap Nov 13",
-    "tags": [
-      "Pi Network",
-      "Solana",
-      "Zcash"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T11:29:28.000Z"
-  },
-  {
-    "id": "810eaaf0abe32cb4",
-    "slug": "spacex-stock-premarket-today",
-    "title": "SpaceX Stock Premarket Today",
-    "tags": [
-      "SpaceX",
-      "Starship",
-      "Starbase",
-      "Texas"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T11:24:17.000Z"
-  },
-  {
-    "id": "8a40f154f448571b",
-    "slug": "a-solana-treasury-firm-made-66-6m-without-making-much-revenue",
-    "title": "A Solana Treasury Firm Made $66.6M Without Making Much Revenue",
-    "tags": [
-      "DeFi Development",
-      "Solana"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T11:18:50.000Z"
-  },
-  {
-    "id": "2c2d487d1afd9a3a",
-    "slug": "triple-a-enables-stablecoin-membership-payments-for-singapore-fintech-association",
-    "title": "Triple-A Enables Stablecoin Membership Payments for Singapore FinTech Association",
-    "tags": [
-      "Triple-A",
-      "Singapore FinTech Association",
-      "Singapore"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T11:18:48.000Z"
-  },
-  {
-    "id": "eb397f5a6e9d86cd",
-    "slug": "avax-one-drops-data-center-plans-to-go-all-in-on-avalanche-treasury-strategy",
-    "title": "AVAX One drops data center plans to go all in on Avalanche treasury strategy",
-    "tags": [
-      "AVAX One",
-      "Avalanche"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T11:12:43.000Z"
-  },
-  {
-    "id": "8820cbafdadb96fc",
-    "slug": "the-bank-of-england-the-monetary-authority-of-singapore-and-the-bank-of-thailand-project-meridian",
-    "title": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
-    "tags": [
-      "Bank of England",
-      "Monetary Authority of Singapore",
-      "Bank of Thailand",
-      "Partior",
-      "Reserve Bank of Australia",
-      "Bangko Sentral ng Pilipinas"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T11:05:23.000Z"
-  },
-  {
-    "id": "c5bd802d4eb39b99",
-    "slug": "bitcoin-volatility-falls-to-45-here-s-what-it-does-not-mean-for-btc",
-    "title": "Bitcoin volatility falls to 45% – Here’s what it does NOT mean for BTC",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T11:00:22.000Z"
-  },
-  {
-    "id": "66f84cd40d368d07",
-    "slug": "corgi-insurance-appoints-eric-tamez-as-vice-president-of-specialty-lines",
-    "title": "Corgi Insurance Appoints Eric Tamez as Vice President of Specialty Lines",
-    "tags": [
-      "Corgi Insurance",
-      "Eric Tamez",
-      "Corix Insurance",
-      "Vouch Insurance",
-      "Chubb"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:59:12.000Z"
-  },
-  {
-    "id": "ad8e0507ff3cabf3",
-    "slug": "arcus-pays-out-2-234-391-usdg-after-integer-underflow-exploit",
-    "title": "Arcus pays out 2,234,391 USDG after integer underflow exploit",
-    "tags": [
-      "Arcus",
-      "USDG"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:57:25.000Z"
-  },
-  {
-    "id": "ee4167b0755e8305",
-    "slug": "jpmorgan-increases-mstr-and-ibit-holdings-despite-larger-put-exposure",
-    "title": "JPMorgan Increases MSTR and IBIT Holdings Despite Larger Put Exposure",
-    "tags": [
-      "JPMorgan",
-      "Strategy",
-      "BlackRock",
-      "Bitcoin"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:56:34.000Z"
-  },
-  {
-    "id": "41429eb4ef36138f",
-    "slug": "rain-agent-vaults-bring-embedded-payments-to-ai-agents",
-    "title": "Rain Agent Vaults Bring Embedded Payments to AI Agents",
-    "tags": [
-      "Rain",
-      "Visa",
-      "Mastercard",
-      "Agentic Payments Alliance"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:55:55.000Z"
-  },
-  {
-    "id": "bc114cb111d416d4",
-    "slug": "congress-summons-ex-nvidia-ceo-jensen-huang-lutnick-over-chip-exports-to-china",
-    "title": "Congress Summons Ex-Nvidia CEO Jensen Huang, Lutnick Over Chip Exports to China",
-    "tags": [
-      "Nvidia",
-      "Jensen Huang",
-      "United States",
-      "China"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:55:54.000Z"
-  },
-  {
-    "id": "2c433d61575c4014",
-    "slug": "microsoft-365-down-email-timeout-window-stretched-to-48-hours-during-recovery",
-    "title": "Microsoft 365 Down: Email Timeout Window Stretched To 48 Hours During Recovery",
-    "tags": [
-      "Microsoft",
-      "Outlook",
-      "Microsoft 365"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:50:48.000Z"
-  },
-  {
-    "id": "1d97da4599960a28",
-    "slug": "bank-of-russia-issues-ordinance-on-cryptocurrency-trading",
-    "title": "Bank of Russia Issues Ordinance on Cryptocurrency Trading",
-    "tags": [
-      "Bank of Russia",
-      "Ministry of Justice of Russia"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:50:13.000Z"
-  },
-  {
-    "id": "cff9d4cb081c205b",
-    "slug": "kucoin-crypto-loans-review-can-you-borrow-bitcoin-without-selling",
-    "title": "KuCoin Crypto Loans Review: Can You Borrow Bitcoin Without Selling?",
-    "tags": [
-      "KuCoin",
-      "Bitcoin",
-      "Galaxy Research"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:48:54.000Z"
-  },
-  {
-    "id": "b440a3ff43b9f172",
-    "slug": "oracle-helps-financial-institutions-make-faster-more-informed-treasury-and-customer-decisions-with",
-    "title": "Oracle Helps Financial Institutions Make Faster, More Informed Treasury and Customer Decisions With AI-Assisted Analytics",
-    "tags": [
-      "Oracle"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:46:23.000Z"
-  },
-  {
-    "id": "204374e55d83d714",
-    "slug": "15-years-since-david-schwartz-first-coded-xrp-ledger-s-foundation-xrpl-s-first-step",
-    "title": "15 Years Since David Schwartz First Coded XRP Ledger’s Foundation, XRPL’s First Step?",
-    "tags": [
-      "David Schwartz",
-      "XRP Ledger"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:45:56.000Z"
-  },
-  {
-    "id": "376f8f1e9211a243",
-    "slug": "no-kyc-crypto-exchange-checklist-7-things-to-verify-we-ran-0trace-through-it",
-    "title": "No KYC Crypto Exchange Checklist: 7 Things to Verify (We Ran 0trace Through It)",
-    "tags": [
-      "0trace",
-      "USDC",
-      "USDT",
-      "Ethereum"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:44:37.000Z"
-  },
-  {
-    "id": "5fbf1050513162ad",
-    "slug": "86-of-financial-services-firms-use-ai-but-formal-testing-and-documented-oversight-lag-aca-and-nscp",
-    "title": "86% of Financial Services Firms Use AI, but Formal Testing and Documented Oversight Lag, ACA and NSCP Survey Finds",
-    "tags": [
-      "ACA Group",
-      "NSCP"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:43:07.000Z"
-  },
-  {
-    "id": "7bbf819fa770363a",
-    "slug": "engie-and-google-plan-chateauroux-data-center-that-could-heat-the-town",
-    "title": "ENGIE and Google plan Châteauroux data center that could heat the town",
-    "tags": [
-      "ENGIE",
-      "Google",
-      "Châteauroux"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:42:48.000Z"
-  },
-  {
-    "id": "f6abc8c4b33f118e",
-    "slug": "jane-street-boosts-fidelity-bitcoin-etf-shares-nearly-8x-in-q3",
-    "title": "Jane Street boosts Fidelity Bitcoin ETF shares nearly 8x in Q3",
-    "tags": [
-      "Jane Street",
-      "Fidelity",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:35:14.000Z"
-  },
-  {
-    "id": "c4dd4b6600643df2",
-    "slug": "anthropic-investigates-authentication-errors-hitting-claude-ai-and-claude-code",
-    "title": "Anthropic investigates authentication errors hitting Claude AI and Claude Code",
-    "tags": [
-      "Anthropic",
-      "Claude AI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:34:46.000Z"
-  },
-  {
-    "id": "cff6ccdfb03a12e0",
-    "slug": "american-medical-association-seeks-liability-shield-for-doctors-using-ai",
-    "title": "American Medical Association seeks liability shield for doctors using AI",
-    "tags": [
-      "American Medical Association",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:33:55.000Z"
-  },
-  {
-    "id": "546aead6b343cafe",
-    "slug": "rlusd-transfer-volume-beats-ethereum-but-supply-tells-a-different-story",
-    "title": "RLUSD Transfer Volume Beats Ethereum, but Supply Tells a Different Story",
-    "tags": [
-      "Ripple",
-      "Ethereum"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:31:16.000Z"
-  },
-  {
-    "id": "68fb59d4aa52756d",
-    "slug": "klarna-taps-robinhood-vp-chris-koegel-as-cfo",
-    "title": "Klarna taps Robinhood VP Chris Koegel as CFO",
-    "tags": [
-      "Klarna",
-      "Robinhood",
-      "Chris Koegel"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:31:00.000Z"
-  },
-  {
-    "id": "746977ac77f68ef4",
-    "slug": "google-s-new-ai-can-make-100-decisions-in-under-a-second-without-writing-an-answer",
-    "title": "Google’s new AI can make 100 decisions in under a second, without writing an answer",
-    "tags": [
-      "Google",
-      "CryptoSlate"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:30:16.000Z"
-  },
-  {
-    "id": "5b0653fb3fa4903f",
-    "slug": "important-ethereum-eth-bug-might-be-finally-fixed",
-    "title": "Important Ethereum (ETH) Bug Might Be Finally Fixed",
-    "tags": [
-      "Ethereum"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:15:00.000Z"
-  },
-  {
-    "id": "cf32fe6617b7a06c",
-    "slug": "whale-alert-four-traders-liquidated-for-more-than-10m-apiece",
-    "title": "Whale Alert: Four Traders Liquidated for More Than $10M Apiece",
-    "tags": [
-      "Ethereum",
-      "Bitcoin"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:07:28.000Z"
-  },
-  {
-    "id": "0e1b106bf0098e24",
-    "slug": "strategy-ceo-phong-le-calls-msci-exclusion-of-mstr-immaterial-on-cnbc",
-    "title": "Strategy CEO Phong Le calls MSCI exclusion of MSTR immaterial on CNBC",
-    "tags": [
-      "MicroStrategy",
-      "MSCI",
-      "CNBC",
-      "Phong Le"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:06:34.000Z"
-  },
-  {
-    "id": "b7f19bdfa5f912fd",
-    "slug": "deloitte-acquires-flipside-crypto-s-ai-business-and-launches-edisyl",
-    "title": "Deloitte acquires Flipside Crypto's AI business and launches Edisyl",
-    "tags": [
-      "Deloitte",
-      "Flipside Crypto",
-      "Edisyl"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:04:00.000Z"
-  },
-  {
-    "id": "cd596b8ee47dad9c",
-    "slug": "chainstack-traces-customer-data-breach-to-exposed-admin-tools",
-    "title": "Chainstack Traces Customer Data Breach to Exposed Admin Tools",
-    "tags": [
-      "Chainstack"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T10:00:00.000Z"
-  },
-  {
-    "id": "3f4251b34d691908",
-    "slug": "jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrock-s-bitcoin-etf",
-    "title": "JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock’s bitcoin ETF",
-    "tags": [
-      "JPMorgan",
-      "Strategy",
-      "BlackRock",
-      "Bitcoin"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T09:59:16.000Z"
-  },
-  {
-    "id": "46e5dd0cd3a17205",
-    "slug": "unocoin-keeps-deposits-and-withdrawals-halted-over-suspect-transfers",
-    "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
-    "tags": [
-      "Unocoin",
-      "BitGo"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T09:58:21.000Z"
-  },
-  {
-    "id": "f6af8f75ec76fa45",
-    "slug": "us-moves-to-recover-1-2-billion-in-stolen-crypto-could-it-impact-bitcoin",
-    "title": "US Moves To Recover $1.2 Billion In Stolen Crypto — Could It Impact Bitcoin?",
-    "tags": [
-      "United States",
-      "Bitcoin"
-    ],
-    "source": "Bitcoinist",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T09:49:37.000Z"
-  },
-  {
-    "id": "277f8602e21ec9df",
-    "slug": "the-rise-of-the-pre-prime-over-12-million-uk-adults-who-pay-every-bill-on-time-still-turned-down",
-    "title": "The Rise of the ‘Pre-Prime’: Over 12 Million UK Adults Who Pay Every Bill on Time Still Turned Down for Credit",
-    "tags": [
-      "Loqbox",
-      "United Kingdom"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T09:32:51.000Z"
-  },
-  {
-    "id": "c1a8fe8cbdca6694",
-    "slug": "doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi",
-    "title": "DOJ, CFTC sue Arkansas to block state enforcement action against Kalshi",
-    "tags": [
-      "DOJ",
-      "CFTC",
-      "Arkansas",
-      "Kalshi"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T09:32:39.000Z"
-  },
-  {
-    "id": "a976e429072d2cb8",
-    "slug": "bitcoin-could-face-a-cash-squeeze-without-another-fed-rate-hike",
-    "title": "Bitcoin could face a cash squeeze without another Fed rate hike",
-    "tags": [
-      "Bitcoin",
-      "Federal Reserve"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T09:30:12.000Z"
-  },
-  {
-    "id": "de9176a163cf396b",
-    "slug": "global-oil-markets-swing-to-surplus-as-gulf-shipments-rebound-ft",
-    "title": "Global oil markets swing to surplus as Gulf shipments rebound: FT",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-13T09:17:04.000Z"
-  },
-  {
-    "id": "2d775cf63e609886",
-    "slug": "live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
-    "title": "Live news: Bitcoin drops below 200-week moving average as dollar strength pressures risk assets",
-    "tags": [],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-13T09:16:58.000Z"
-  },
-  {
-    "id": "15ee6c52aa27b33f",
-    "slug": "velera-says-credit-unions-can-learn-digital-money-together",
-    "title": "Velera Says Credit Unions Can Learn Digital Money Together",
-    "tags": [
-      "Velera",
-      "PYMNTS",
-      "Scott P. Young"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T09:00:33.000Z"
-  },
-  {
-    "id": "8d1399c1430b025a",
-    "slug": "60-of-small-business-ai-users-do-more-without-adding-staff",
-    "title": "60% of Small Business AI Users Do More Without Adding Staff",
-    "tags": [
-      "PYMNTS"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T09:00:15.000Z"
-  },
-  {
-    "id": "0cac91dc0e683c10",
-    "slug": "wolters-kluwer-introduces-complianceone-plus-streamlining-commercial-and-consumer-lending",
-    "title": "Wolters Kluwer Introduces ComplianceOne Plus, Streamlining Commercial and Consumer Lending",
-    "tags": [
-      "Wolters Kluwer",
-      "ComplianceOne Plus",
-      "Expere",
-      "North Central Bank",
-      "ICBA"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T08:49:35.000Z"
   }
 ]
