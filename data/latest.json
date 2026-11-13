@@ -1,111 +1,679 @@
 [
   {
-    "id": "f6af8f75ec76fa45",
-    "title": "US Moves To Recover $1.2 Billion In Stolen Crypto — Could It Impact Bitcoin?",
-    "summary": "The US government has taken another major step toward recovering billions of dollars in stolen cryptocurrency, raising questions about how the assets could eventually return to the market. As Bitcoin investors monitor government-linked crypto movements, the Department of Justice has announced court authorization to seize or restrain more than $1.2 billion in digital assets connected […]",
+    "id": "5a8a5723a861fd69",
+    "slug": "nvidia-employees-push-board-to-bring-back-jensen-huang-report",
+    "title": "Nvidia Employees Push Board to Bring Back Jensen Huang: Report",
+    "tags": [
+      "Nvidia",
+      "Jensen Huang"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T11:58:47.000Z"
+  },
+  {
+    "id": "39bdd1c8ff802856",
+    "slug": "louisiana-judge-orders-sweeping-restraining-order-against-kalshi-polymarket-coinbase-and-other",
+    "title": "Louisiana judge orders sweeping restraining order against Kalshi, Polymarket, Coinbase, and other prediction market operators",
+    "tags": [
+      "Kalshi",
+      "Polymarket",
+      "Coinbase",
+      "United States",
+      "Louisiana"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T11:47:39.000Z"
+  },
+  {
+    "id": "7e3bed8012d1dc7f",
+    "slug": "bitso-integrates-hyperliquid-opening-200-plus-on-chain-perpetual-markets",
+    "title": "Bitso integrates Hyperliquid, opening 200-plus on-chain perpetual markets",
+    "tags": [
+      "Bitso",
+      "Hyperliquid"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T11:44:21.000Z"
+  },
+  {
+    "id": "a3ae9059c9f26a6f",
+    "slug": "microsoft-365-outage-passes-12-hours-hitting-users-in-74-countries",
+    "title": "Microsoft 365 outage passes 12 hours, hitting users in 74 countries",
+    "tags": [
+      "Microsoft 365"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T11:37:44.000Z"
+  },
+  {
+    "id": "b003ae4f910bc955",
+    "slug": "howard-marks-asks-claude-to-grade-ai-predictability-and-frontier-labs-score-2-out-of-10",
+    "title": "Howard Marks asks Claude to grade AI predictability, and frontier labs score 2 out of 10",
+    "tags": [
+      "Howard Marks",
+      "Claude"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T11:36:31.000Z"
+  },
+  {
+    "id": "ccb5cf7f6c0afb84",
+    "slug": "ai-helped-find-66-security-flaws-with-no-fixes-planned-for-some-older-devices",
+    "title": "AI helped find 66 security flaws, with no fixes planned for some older devices",
+    "tags": [
+      "Siemens",
+      "CryptoSlate"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T11:30:31.000Z"
+  },
+  {
+    "id": "d2734f341c5a84e9",
+    "slug": "nvidia-s-investment-commitments-in-france-remain-intact-says-station-f-s-roxanne-varza",
+    "title": "Nvidia’s investment commitments in France remain intact, says Station F’s Roxanne Varza",
+    "tags": [
+      "Nvidia",
+      "France",
+      "Station F"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T11:30:22.000Z"
+  },
+  {
+    "id": "24ff3b45f65511a7",
+    "slug": "pi-network-pi-hit-by-volatility-solana-sol-braces-for-additional-sell-off-bits-recap-nov-13",
+    "title": "Pi Network (PI) Hit by Volatility, Solana (SOL) Braces for Additional Sell-off: Bits Recap Nov 13",
+    "tags": [
+      "Pi Network",
+      "Solana",
+      "Zcash"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T11:29:28.000Z"
+  },
+  {
+    "id": "810eaaf0abe32cb4",
+    "slug": "spacex-stock-premarket-today",
+    "title": "SpaceX Stock Premarket Today",
+    "tags": [
+      "SpaceX",
+      "Starship",
+      "Starbase",
+      "Texas"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T11:24:17.000Z"
+  },
+  {
+    "id": "8a40f154f448571b",
+    "slug": "a-solana-treasury-firm-made-66-6m-without-making-much-revenue",
+    "title": "A Solana Treasury Firm Made $66.6M Without Making Much Revenue",
+    "tags": [
+      "DeFi Development",
+      "Solana"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T11:18:50.000Z"
+  },
+  {
+    "id": "2c2d487d1afd9a3a",
+    "title": "Triple-A Enables Stablecoin Membership Payments for Singapore FinTech Association",
+    "summary": "Triple-A, a globally licensed stablecoin payments company headquartered in Singapore, today announced that it is enabling the Singapore FinTech Association (SFA) to accept stablecoin payments for membership fees through its payment infrastructure.\nNow, existing members and new applicants will be able to pay their SFA membership fees in supported stablecoins. Triple-A will manage payment processing and ongoing transaction monitoring, with SFA receiving settlement directly in Singapore dollars.\nThe launch shows how Triple-A is turning the growing use of stablecoins in business payments into a practical payment option that any organization can offer. Stablecoins are increasingly being used for cross-border payments, treasury management and settlement. Sixty-three percent of senior finance and business leaders already use stablecoins, according to a recent DBS survey of 422 leaders from large enterprises across 11 markets, conducted by EY for DBS in June and July 2026. Triple-A's infrastructure allows organizations such as SFA to offer this payment method without changing how they operate, while continuing to receive funds in local currency.\nSingapore's active fintech ecosystem and regulatory environment have helped establish the country as an important centre for digital payment innovation. Triple-A, headquartered in Singapore and licensed as a Major Payment Institution by the Monetary Authority of Singapore (MAS), provides the infrastructure for organizations to accept stablecoin payments without needing to hold digital assets or change how they manage their finances in local currency.\n\"Singapore has been home to Triple-A since the beginning, and we've seen first-hand how its fintech ecosystem has helped drive financial innovation,\" said Eric Barbier, Founder and CEO of Triple-A. \"The Singapore FinTech Association has played an important role in bringing this community together. Our goal is to make stablecoin payments as straightforward as any other payment method. Enabling SFA to accept them for membership fees shows how simple that can be for any organization.\"\n“Singapore has been at the forefront of digital payments innovation, and stablecoins are playing an increasingly important role in the global payments landscape,” said Holly Fang, President of Singapore FinTech Association. At SFA, we believe in embracing innovations that deliver practical value to our members. Introducing stablecoin payments for membership fees gives our members greater flexibility and choice in how they transact. It also marks a meaningful step towards wider adoption and reinforcing Singapore’s position as a leading hub for payments innovation.”\nMembers choosing to pay in stablecoins will be able to select the stablecoin payment option when paying their membership fee, and complete the transaction using a supported digital wallet. Triple-A will process the payment, convert the funds into Singapore dollars and settle them to SFA. SFA does not hold or handle digital assets, and stablecoins are offered as an additional payment option alongside existing methods.\nNoYesPayments13 Nov, 2026",
     "hasSummary": true,
-    "link": "https://bitcoinist.com/us-moves-to-recover-1-2-billion-in-stolen-crypto-could-it-impact-bitcoin/",
-    "source": "Bitcoinist",
+    "link": "https://financialit.net/news/payments/triple-enables-stablecoin-membership-payments-singapore-fintech-association",
+    "source": "Financial IT",
+    "tags": [
+      "Triple-A",
+      "Singapore FinTech Association",
+      "Singapore"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-13T11:18:48.000Z",
+    "fetchedAt": "2026-11-13T12:01:23.346Z",
+    "isDuplicateOf": null,
+    "content": "Triple-A, a licensed stablecoin payments company based in Singapore, is enabling the Singapore FinTech Association (SFA) to accept stablecoin payments for membership fees. Triple-A will manage the payment processing and transaction monitoring, converting the funds so the SFA receives settlements directly in Singapore dollars. This partnership highlights the growing practical adoption of stablecoins for business payments while allowing organizations to operate without holding digital assets.",
+    "content_ta": "Singapurasee ulla licensed stablecoin payments company-ana Triple-A, Singapore FinTech Association (SFA)-ku membership fees-ai stablecoin mulayamaga seluthum vasatiyai uruvakkullatu. Triple-A payment processing-ai kavanithu, athai Singapore dollars-agak mathi SFA-ku anuppum. Intha partnership mulam SFA digital assets-ai vekkamalye stablecoin payment-ai petrukkolla mudiyum.",
+    "slug": "triple-a-enables-stablecoin-membership-payments-for-singapore-fintech-association"
+  },
+  {
+    "id": "eb397f5a6e9d86cd",
+    "slug": "avax-one-drops-data-center-plans-to-go-all-in-on-avalanche-treasury-strategy",
+    "title": "AVAX One drops data center plans to go all in on Avalanche treasury strategy",
+    "tags": [
+      "AVAX One",
+      "Avalanche"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T11:12:43.000Z"
+  },
+  {
+    "id": "8820cbafdadb96fc",
+    "title": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
+    "summary": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand today published the findings from their collaboration on foreign exchange (FX) settlement under Project Meridian FX APAC.\nThe project showed that synchronisation – a service that coordinates movements of central bank money – could be one approach to supporting interoperability across wholesale settlement environments built on different technologies and operating models. This marks significant progress in making cross-border FX transactions safer and more efficient, and supporting interoperability as different forms of money evolve in different ways. In light of the Bank of England’s plans to launch a live synchronisation interface in 2028, the findings provide valuable insight into how the approach could be developed into a live service.\nBuilding on the earlier work, Project Meridian FX APAC tested payment-versus-payment FX settlement and multilateral net FX across the three central banks’ test environments, spanning both Real-Time Gross Settlement and Distributed Ledger Technology-based settlement systems. The project encompassed a wider range of currencies, technologies, infrastructures and time zones. Partior, the project’s delivery partner, developed, integrated and tested the Synchronisation Operator prototype for the trial.\nThe trial demonstrated that synchronised settlement can be achieved across central bank systems with different technologies and capabilities, while identifying the requirements and trade-offs involved. They also demonstrated how multilateral net FX settlement can support banks in using their liquidity more efficiently by netting payments against each other.\nThe project also examined the legal, regulatory and oversight considerations for applying synchronised FX settlement across diverse wholesale settlement systems. The analysis was informed by perspectives from the Reserve Bank of Australia and Bangko Sentral ng Pilipinas, who participated as observer central banks.\nThe project’s findings and insights are published across three complementary reports: Introduction and Executive Summary, Technical Report, and Policy Report. Together, they set out the experimental results, key technical findings and policy considerations.\nThese results provide insights for further exploration of synchronisation as a means of enabling safer and more efficient FX settlement across diverse wholesale settlement systems. Future work could involve extending the existing approach to additional jurisdictions and industry participants, a wider range of currencies and transaction scenarios, and further consider the legal arrangements needed in practice.\nTom Mutton, Executive Director of Payments, Innovation and Fintech at the Bank of England, said, ‘Innovation has the greatest impact when it addresses real world challenges. Project Meridian FX APAC provides practical evidence of how synchronised settlement could help reduce risk and improve efficiency in cross-border FX transactions. The results provide a strong foundation for further collaboration as we explore how this approach could be developed towards real-world use’.\nKenneth Gay, Chief FinTech Officer at the Monetary Authority of Singapore, said, ‘Cross-border settlement increasingly takes place across systems built on different technologies and operating models. Project Meridian FX APAC has shown how synchronisation could help enable PvP settlement across these diverse environments, reducing settlement risk while supporting greater interoperability’.\nPucktada Treeratpituk, Director of Payment Systems and Financial Technology Policy Department at the Bank of Thailand, said, ‘Project Meridian FX APAC successfully demonstrated that synchronisation can work across diverse wholesale settlement systems, making cross-border FX safer and more efficient while preserving trust in central bank money. The insights on technical integration, operating models and regulatory considerations established a practical foundation for modernising wholesale settlement infrastructure’.\nNoYesBanking13 Nov, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/banking/bank-england-monetary-authority-singapore-and-bank-thailand-project-meridian-fx-apac",
+    "source": "Financial IT",
+    "tags": [
+      "Bank of England",
+      "Monetary Authority of Singapore",
+      "Bank of Thailand",
+      "Partior",
+      "Reserve Bank of Australia",
+      "Bangko Sentral ng Pilipinas"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-13T11:05:23.000Z",
+    "fetchedAt": "2026-11-13T12:01:23.346Z",
+    "isDuplicateOf": null,
+    "content": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand published findings from Project Meridian FX APAC. The collaboration explored foreign exchange settlement using synchronisation to connect wholesale settlement systems built on different technologies. The trial demonstrated that synchronised settlement and multilateral net FX can improve cross-border transaction safety and efficiency across diverse infrastructures.",
+    "content_ta": "Bank of England, Monetary Authority of Singapore மற்றும் Bank of Thailand ஆகியவை Project Meridian FX APAC குறித்த தங்கள் கூட்டு ஆய்வு முடிவுகளை வெளியிட்டுள்ளன. பல்வேறு தொழில்நுட்பங்களில் உருவாக்கப்பட்ட மொத்த தீர்வு அமைப்புகளை இணைக்க ஒத்திசைவு முறையைப் பயன்படுத்தி வெளிநாட்டு பரிமாற்ற தீர்வுகளை இந்த ஒத்துழைப்பு ஆராய்ந்தது. பல்வேறு உள்கட்டமைப்புகளில் எல்லை தாண்டிய பரிவர்த்தனை பாதுகாப்பையும் திறனையும் மேம்படுத்த ஒத்திசைவு தீர்வு உதவக்கூடும் என்பதை இந்த சோதனை நிரூபித்துள்ளது.",
+    "slug": "the-bank-of-england-the-monetary-authority-of-singapore-and-the-bank-of-thailand-project-meridian"
+  },
+  {
+    "id": "c5bd802d4eb39b99",
+    "slug": "bitcoin-volatility-falls-to-45-here-s-what-it-does-not-mean-for-btc",
+    "title": "Bitcoin volatility falls to 45% – Here’s what it does NOT mean for BTC",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T11:00:22.000Z"
+  },
+  {
+    "id": "66f84cd40d368d07",
+    "title": "Corgi Insurance Appoints Eric Tamez as Vice President of Specialty Lines",
+    "summary": "Corgi Insurance today announced the appointment of Eric Tamez as Vice President of Specialty Lines, bringing extensive underwriting experience across emerging industries, complex risks, and specialty insurance products.\nTamez joins Corgi from Corix Insurance, where he served as AVP, Underwriting Manager. In this role, he focused on enterprise AI, fintech and digital assets, health and life sciences, consumer hardware, and professional services. His underwriting expertise spans cyber, errors and omissions (E&O), media liability, directors and officers (D&O), employment practices liability (EPL), crime, general liability, and property insurance.\nPrior to Corix, Tamez served as Portfolio Underwriting Manager at Vouch Insurance, where he worked from August 2024 to August 2025.\nEarlier in his career, Tamez spent three years at Chubb, serving as Senior Underwriter from September 2021 to August 2023 before being promoted to Executive Underwriter, a position he held through August 2024.\nAs VP of Specialty Lines at Corgi, Tamez will help expand the company's specialty insurance offerings, strengthen underwriting capabilities, and develop coverage solutions for businesses operating in increasingly complex and evolving industries.\nHis appointment reflects Corgi's continued investment in experienced insurance leadership as the company expands its product portfolio and underwriting infrastructure.\nNoYesPeople Moves13 Nov, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/people-moves/corgi-insurance-appoints-eric-tamez-vice-president-specialty-lines",
+    "source": "Financial IT",
+    "tags": [
+      "Corgi Insurance",
+      "Eric Tamez",
+      "Corix Insurance",
+      "Vouch Insurance",
+      "Chubb"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-13T10:59:12.000Z",
+    "fetchedAt": "2026-11-13T12:01:23.346Z",
+    "isDuplicateOf": null,
+    "content": "Corgi Insurance has announced the appointment of Eric Tamez as Vice President of Specialty Lines. Tamez joins with extensive underwriting experience, having previously worked at Corix Insurance, Vouch Insurance, and Chubb. In his new role at Corgi, he will help expand the company's specialty insurance offerings, strengthen underwriting capabilities, and develop coverage solutions for businesses operating in complex and evolving industries.",
+    "content_ta": "Corgi Insurance நிறுவனத்தின் ஸ்பெஷாலிட்டி லைன்ஸின் துணைத் தலைவராக Eric Tamez நியமிக்கப்பட்டுள்ளதாக அறிவிக்கப்பட்டுள்ளது. Corix Insurance, Vouch Insurance மற்றும் Chubb உள்ளிட்ட நிறுவனங்களில் பணியாற்றிய அனுபவம் கொண்ட Eric Tamez, Corgi நிறுவனத்தின் காப்பீட்டுச் சேவைகளை விரிவுபடுத்தவும், சிக்கலான தொழில்களுக்கான புதிய காப்பீட்டுத் தீர்வுகளை உருவாக்கவும் உதவ உள்ளார்.",
+    "slug": "corgi-insurance-appoints-eric-tamez-as-vice-president-of-specialty-lines"
+  },
+  {
+    "id": "ad8e0507ff3cabf3",
+    "slug": "arcus-pays-out-2-234-391-usdg-after-integer-underflow-exploit",
+    "title": "Arcus pays out 2,234,391 USDG after integer underflow exploit",
+    "tags": [
+      "Arcus",
+      "USDG"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T10:57:25.000Z"
+  },
+  {
+    "id": "ee4167b0755e8305",
+    "slug": "jpmorgan-increases-mstr-and-ibit-holdings-despite-larger-put-exposure",
+    "title": "JPMorgan Increases MSTR and IBIT Holdings Despite Larger Put Exposure",
+    "tags": [
+      "JPMorgan",
+      "Strategy",
+      "BlackRock",
+      "Bitcoin"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T10:56:34.000Z"
+  },
+  {
+    "id": "41429eb4ef36138f",
+    "title": "Rain Agent Vaults Bring Embedded Payments to AI Agents",
+    "summary": "Rain, the global payments platform for human and agentic transactions, today introduced Rain Agent Vaults, embedded payment infrastructure that lets an AI agent spend, receive, and send money from a balance its owner funds, within rules the owner sets. A vault is funded by bank transfer, card, or stablecoins, and the agent can only pay or send what is in it. Rain issues a scoped card for each purchase, accepted at 175 million merchant locations in 200 countries and territories, and agents can send funds to local bank accounts in more than 80 countries.\nHow Rain Agent Vaults work\nToday, AI agents can search, compare, and shop, but paying remains a significant challenge. The options available to the companies building them have been a raw card number, which is a standing permission with no limit on what it can be used for, or a third-party wallet, which puts another company's login inside their app, that company's name on their users' statements, and one limit on the whole balance, set in that company's app. Companies enabling agentic experiences want their users to fund a balance once and never be asked again, and they want the relationship, the brand, and the payment to stay in their own product.\n\"People want to use AI agents that can move money as freely as humans do. An agent that can search for a new pair of shoes but cannot pay for them is not doing its job,\" said Farooq Malik, CEO and co-founder of Rain. \"With Rain Agent Vaults, developers can build embedded payment solutions directly into their agents, giving businesses and consumers the ability to load a balance, set rules, and allow agents to pay in a trusted fashion. All of this is available in a single integration while the user, the rules, and the balance sit with the partner that built the agent.\"\nRain Agent Vaults are built for business and consumer use cases. Rain partners can embed agent vaults within their own apps and platforms, maintaining their own branding and customer relationship. A business can then fund an agent vault from its business bank account, enabling payouts to more than 80 countries around the world once specific rules and circumstances are met. Alternatively, a consumer can load funds directly into the agent vault from their card, set the rules, and a Rain-issued scoped card is created inside those rules for each purchase. The card information is then retired, preventing overspending.\nFor example, a bakery owner moves $5,000 into her bakery's vault, sets the rules so the agent may only pay suppliers and must ask her above $1,500, and leaves for the weekend. On Saturday the agent sees a run of orders for the week ahead and gets a card for $640 to buy 20 bags of flour from the mill. On Monday a catering order comes in and the agent gets a second card for $800 for 25 bags more. Both are suppliers, both are under her limit, and both go through. When the agent finds a mixer for $2,400, equipment is outside the rules, so the purchase is held for her to approve even though the money is in the vault.\nRain Agent Vaults build on the company's Agent Control Layer and scoped cards, which Rain partners already use to give agents real-world spending power. Rain started with stablecoin-powered cards and has grown into a full-stack platform where partners issue cards, run wallets, move money, and settle across card and blockchain networks through one integration. Every product a partner adds works with the ones they already run, so a balance that arrives by bank transfer can be spent by an agent on a card and paid out to a bank account in another country without a second vendor. Rain is a founding member of the Agentic Payments Alliance. Rain is enabling its programs for Visa Intelligent Commerce and Mastercard Agent Pay, so a scoped card issued from a vault will carry the networks' agent credential, which signals the user's consent to the merchant and the issuer, alongside the rules the partner set.\nNoYesArtificial Intelligence13 Nov, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/artificial-intelligence/rain-agent-vaults-bring-embedded-payments-ai-agents",
+    "source": "Financial IT",
+    "tags": [
+      "Rain",
+      "Visa",
+      "Mastercard",
+      "Agentic Payments Alliance"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-13T10:55:55.000Z",
+    "fetchedAt": "2026-11-13T12:01:23.346Z",
+    "isDuplicateOf": null,
+    "content": "Rain has introduced Rain Agent Vaults, a new embedded payment infrastructure that allows AI agents to securely spend, receive, and send money within user-defined rules. Funded via bank transfers, cards, or stablecoins, the system issues scoped cards for each purchase to prevent overspending. The solution integrates directly into developer apps, enabling seamless agentic transactions across global merchant locations while maintaining the partner's brand and customer relationship.",
+    "content_ta": "AI ஏஜென்ட்டுகள் பாதுகாப்பாக பணம் அனுப்பவும் பெறவும் உதவும் வகையில் Rain நிறுவனம் புதிய Rain Agent Vaults வசதியை அறிமுகப்படுத்தியுள்ளது. பயனர்கள் நிர்ணயிக்கும் விதிகளின்படி இந்த ஏஜென்ட்டுகள் செயல்படும். வங்கிப் பரிமாற்றங்கள் அல்லது ஸ்டேபிள்காயின்கள் மூலம் நிதியளிக்கப்படும் இந்த அமைப்பு, அதிகப்படியான செலவைத் தவிர்க்க ஒவ்வொரு வாங்குதலுக்கும் தனிப்பட்ட கார்டுகளை வழங்குகிறது. இந்தத் தொழில்நுட்பம் டெவலப்பர்களின் ஆப்களில் நேரடியாக இணைக்கப்பட்டு, உலகளாவிய வர்த்தகர்களிடம் தடையற்ற பணப் பரிமாற்றங்களை உறுதி செய்கிறது.",
+    "slug": "rain-agent-vaults-bring-embedded-payments-to-ai-agents"
+  },
+  {
+    "id": "bc114cb111d416d4",
+    "slug": "congress-summons-ex-nvidia-ceo-jensen-huang-lutnick-over-chip-exports-to-china",
+    "title": "Congress Summons Ex-Nvidia CEO Jensen Huang, Lutnick Over Chip Exports to China",
+    "tags": [
+      "Nvidia",
+      "Jensen Huang",
+      "United States",
+      "China"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T10:55:54.000Z"
+  },
+  {
+    "id": "2c433d61575c4014",
+    "slug": "microsoft-365-down-email-timeout-window-stretched-to-48-hours-during-recovery",
+    "title": "Microsoft 365 Down: Email Timeout Window Stretched To 48 Hours During Recovery",
+    "tags": [
+      "Microsoft",
+      "Outlook",
+      "Microsoft 365"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T10:50:48.000Z"
+  },
+  {
+    "id": "1d97da4599960a28",
+    "title": "Bank of Russia Issues Ordinance on Cryptocurrency Trading",
+    "summary": "Exchanges are authorised to begin cryptocurrency trading from 22 November 2026, provided that they obtain the regulator’s concurrence with their trading rules. The Ministry of Justice of Russia has registered the Bank of Russia Ordinance which sets out requirements for organised trading in digital currencies and digital rights.\nExchanges will be required to register cryptocurrency trading participants (e.g. brokers, trust managers, central counterparties), maintain registers of orders and transactions and monitor trading. They are further required to calculate price indicators, such as current, weighted average, market and closing prices.\nExchanges must provide the Bank of Russia with information on the progress and results of trading following the same procedure as they currently do for other assets.\nNoYesCryptocurrencies13 Nov, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/cryptocurrencies/bank-russia-issues-ordinance-cryptocurrency-trading",
+    "source": "Financial IT",
+    "tags": [
+      "Bank of Russia",
+      "Ministry of Justice of Russia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-13T10:50:13.000Z",
+    "fetchedAt": "2026-11-13T12:01:23.346Z",
+    "isDuplicateOf": null,
+    "content": "The Bank of Russia has issued an ordinance establishing requirements for cryptocurrency trading by exchanges. Starting November 22, 2026, authorized exchanges can begin trading digital currencies and digital rights after getting approval for their trading rules from the regulator. Exchanges must register participants, monitor trading, calculate price indicators, and report progress to the Bank of Russia, following registration of the rules by the Ministry of Justice of Russia.",
+    "content_ta": "எக்ஸ்சேஞ்சுகளில் Cryptocurrency வர்த்தகத்திற்கான விதிமுறைகளை Bank of Russia வெளியிட்டுள்ளது. ஒழுங்குமுறை அதிகாரியின் ஒப்புதலைப் பெற்ற பிறகு, நவம்பர் 22, 2026 முதல் அங்கீகரிக்கப்பட்ட எக்ஸ்சேஞ்சுகள் digital currencies மற்றும் digital rights வர்த்தகத்தைத் தொடங்கலாம். Ministry of Justice of Russia இந்த விதிமுறைகளைப் பதிவு செய்துள்ளது. எக்ஸ்சேஞ்சுகள் பங்கேற்பாளர்களைப் பதிவுசெய்து, வர்த்தகத்தைக் கண்காணித்து, விலை indikator-களைக் கணக்கிட்டு, Bank of Russia-விற்குத் தகவல் தெரிவிக்க வேண்டும்.",
+    "slug": "bank-of-russia-issues-ordinance-on-cryptocurrency-trading"
+  },
+  {
+    "id": "cff9d4cb081c205b",
+    "slug": "kucoin-crypto-loans-review-can-you-borrow-bitcoin-without-selling",
+    "title": "KuCoin Crypto Loans Review: Can You Borrow Bitcoin Without Selling?",
+    "tags": [
+      "KuCoin",
+      "Bitcoin",
+      "Galaxy Research"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T10:48:54.000Z"
+  },
+  {
+    "id": "b440a3ff43b9f172",
+    "title": "Oracle Helps Financial Institutions Make Faster, More Informed Treasury and Customer Decisions With AI-Assisted Analytics",
+    "summary": "Oracle today announced Oracle Financial Services Data Intelligence Treasury Analytics and Oracle Financial Services Data Intelligence Customer Analytics, new analytics applications that combine curated financial services data with AI-assisted exploration to help financial institutions and insurers analyze complex data and inform business decisions. Generally available globally, the solutions leverage Oracle Analytics Cloud’s AI Assistant and Auto Insights, enabling business users to ask questions in natural language to generate visualizations, and automatically discover patterns in their data to make faster, more informed decisions.\nTurning data into faster decisions\nFinancial institutions are under increasing pressure to optimize liquidity, manage balance sheet risk, improve profitability, deepen customer relationships, and respond more quickly to changing market conditions. Yet disconnected reports, manual analysis, and inconsistent data definitions can make timely analysis more difficult.\nOracle Financial Services Data Intelligence Treasury Analytics and Customer Analytics provide a unified, AI-assisted analytical foundation that helps business leaders examine trends, identify contributors to changes in performance, and use those insights to act more decisively.\n“Financial institutions don’t need more dashboards—they need faster answers they can trust,” said Jason Wynne, senior vice president, product management, Oracle Financial Services. “With Oracle Financial Services Data Intelligence Treasury Analytics and Customer Analytics, we’re combining curated financial services data with conversational AI and automated insight discovery to help customers explore business performance and use those insights to inform their decisions. Together, these applications establish a foundation for continued AI innovation across Oracle Financial Services, with the goal of making insights more accessible and relevant to financial services teams.”\nOracle Financial Services Data Intelligence Treasury Analytics\nOracle Financial Services Data Intelligence Treasury Analytics helps treasury, finance, and risk leaders gain a connected view of liquidity, funding, cash flow, balance sheet performance, and market risk. Using natural-language questions and automatically generated insights, treasury, finance, and risk leaders can explore liquidity and funding trends, investigate unusual patterns, and identify contributors to changes in balance sheet performance to inform funding and liquidity decisions.\nOracle Financial Services Data Intelligence Customer Analytics\nOracle Financial Services Data Intelligence Customer Analytics enables financial institutions to better understand customer profitability, product adoption, portfolio performance, and retention opportunities by bringing together customer, product, channel, geography, lifecycle, and profitability data into a unified analytical experience. AI-assisted exploration helps businesses examine customer profitability, product adoption, and changes in customer behavior to investigate growth and retention opportunities. The unified data foundation reduces the need to manually reconcile information across customer, ledger, profitability and cost management, treasury, and risk systems.\nBoth applications are part of Oracle Financial Services Data Intelligence, a suite of platforms and prebuilt applications that unify financial, risk, and operational data and support AI-assisted analytics. Built on analytics-ready data models and Oracle applications, financial institutions can leverage existing data investments and support faster adoption of targeted analytics use cases.\nThe new capabilities complement on-premises Oracle Financial Services Analytical Applications (OFSAA) customer environments and can help current customers modernize their analytics by moving to the cloud while allowing customers to continue running their on-premises applications.\nNoYesArtificial Intelligence13 Nov, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/artificial-intelligence/oracle-helps-financial-institutions-make-faster-more-informed-treasury",
+    "source": "Financial IT",
+    "tags": [
+      "Oracle"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-13T10:46:23.000Z",
+    "fetchedAt": "2026-11-13T12:01:23.346Z",
+    "isDuplicateOf": null,
+    "content": "Oracle has announced two new analytics applications, Oracle Financial Services Data Intelligence Treasury Analytics and Customer Analytics. Powered by Oracle Analytics Cloud, the solutions combine curated financial data with AI-assisted exploration and natural language capabilities. The tools aim to help financial institutions and insurers analyze complex data, optimize liquidity, manage risk, and improve customer profitability for faster business decisions.",
+    "content_ta": "Oracle நிறுவனமானது Treasury Analytics மற்றும் Customer Analytics ஆகிய இரண்டு புதிய பகுப்பாய்வு செயலிகளை அறிமுகப்படுத்தியுள்ளது. Oracle Analytics Cloud தொழில்நுட்பத்தால் இயக்கப்படும் இந்த செயலிகள், நிதித் தரவுகளை செயற்கை நுண்ணறிவு உதவியுடன் ஆராயவும், இயற்கை மொழி கேள்விகள் மூலம் விரைவான வணிக முடிவுகளை எடுக்கவும் நிதி நிறுவனங்களுக்கு உதவுகின்றன.",
+    "slug": "oracle-helps-financial-institutions-make-faster-more-informed-treasury-and-customer-decisions-with"
+  },
+  {
+    "id": "204374e55d83d714",
+    "slug": "15-years-since-david-schwartz-first-coded-xrp-ledger-s-foundation-xrpl-s-first-step",
+    "title": "15 Years Since David Schwartz First Coded XRP Ledger’s Foundation, XRPL’s First Step?",
+    "tags": [
+      "David Schwartz",
+      "XRP Ledger"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T10:45:56.000Z"
+  },
+  {
+    "id": "376f8f1e9211a243",
+    "slug": "no-kyc-crypto-exchange-checklist-7-things-to-verify-we-ran-0trace-through-it",
+    "title": "No KYC Crypto Exchange Checklist: 7 Things to Verify (We Ran 0trace Through It)",
+    "tags": [
+      "0trace",
+      "USDC",
+      "USDT",
+      "Ethereum"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T10:44:37.000Z"
+  },
+  {
+    "id": "5fbf1050513162ad",
+    "title": "86% of Financial Services Firms Use AI, but Formal Testing and Documented Oversight Lag, ACA and NSCP Survey Finds",
+    "summary": "AI adoption is widespread across financial services firms, and compliance teams are shifting their focus to assurance. According to the 2026 AI Benchmarking Survey by ACA Group (ACA) and the National Society of Compliance Professionals (NSCP), firms are increasingly focused on verifying that their AI tools perform as intended.\nThe third annual AI Benchmarking Survey found that 86% of respondents’ firms formally use AI, a 15-point increase from 2025 and a 41-point increase from 2024. Most respondents report using AI only for internal use cases. The survey found that 69% of firms limit AI to internal use cases, while 18% also use AI in client-facing applications. Nearly one in four are experimenting with agentic AI. Enterprise or private generative AI tools (e.g., ChatGPT Enterprise, Claude Enterprise) are the most widely used, with 85% of firms adopting these tools, compared with 18% using free or public generative AI tools.\nThe 2026 AI Benchmarking Survey was completed in September by 261 NSCP members and ACA clients. Across the three annual surveys, respondents’ focus has evolved from whether to use AI, to how to govern it through policies and committees, and now to how to test and validate it.\n“Human review of AI outputs is increasingly common,” said Aaron Pinnick, Senior Manager, Thought Leadership, ACA. “But it must be supported by a disciplined approach to oversight, and with clear evaluation criteria and the right expertise. Without a disciplined approach, human review can become a procedural exercise rather than an effective control. Firms need to go further with formal testing, technical controls, and documentation that demonstrates effective oversight.”\nOther key findings include:\nConfidence in oversight is higher than the ability to document it: 81% of respondents agree or strongly agree that their compliance oversight is calibrated to the risk of the AI activity, but only 51% are confident they could produce documentation of that oversight on short notice.\nFormal testing remains limited: 60% of firms have implemented human review of AI outputs on an ongoing basis, and 26% do so on an ad hoc basis, but only 38% have a formal program to test or validate AI outputs. Firms are aware of the importance of establishing formal AI testing programs. AI testing was the most common priority for compliance leaders over the next 24 months, and 24% of respondents are actively developing formal testing programs.\nAI policies and training are widespread: Among firms that have adopted AI, 89% have policies governing employee AI use, up from 70% in 2025, and 66% have an AI governance committee or similar working group, up from 48%. Firms have also updated cybersecurity training (64%) and privacy training (65%) to address AI-related concerns.\nCompliance teams are seeing value: 43% of firms use AI for at least one compliance activity, with firms using AI for an average of approximately three compliance tasks. Marketing and advertising review is the most common compliance use case: 41% of firms using AI for compliance tasks apply it to this activity. Among those using AI for marketing and advertising reviews, 90% report improved efficiency.\nAI risk concerns are widespread, while technical-control adoption remains limited: Information security (68%), data privacy (59%), and cybersecurity (55%) remain respondents' top AI concerns, as in prior years. However, technical controls around AI tools that could help firms manage these risks are still inconsistently used by firms, with no technical control used by more than 36% of firms. Preparation for AI-related incidents and disruptions remains limited, but only 18% have an incident response plan that addresses AI-specific incidents and disruptions.\nEnhanced due diligence of AI vendors is increasing: 55% of firms have enhanced their due diligence on AI vendors, up from 43% last year. As more firms rely on third-party AI tools, and these tools become increasingly integrated into operations, thorough vendor due diligence is important to managing AI risk.\n“AI adoption and governance are top priorities for firms, compliance professionals, regulators, and investors. Today, however, if an examiner asks how a firm reviewed AI-assisted decisions and outputs, only about half of respondents felt confident they could promptly produce the documentation necessary to demonstrate effective oversight of AI,” said Carlo di Florio, President, ACA. “Although the SEC has not adopted a rule specifically governing AI use, firms remain subject to existing requirements related to fiduciary duty, governance, compliance, recordkeeping, vendor oversight, data protection, and other applicable obligations. Building testing and documentation into AI governance programs now will make regulator and investor conversations easier.”\n“AI is no longer an emerging consideration for compliance professionals. It's increasingly part of their day-to-day responsibilities,” said Melissa Loner, CEO of NSCP. “What's encouraging is the progress firms are making in establishing governance frameworks, but this year's findings also highlight the work ahead in testing, documentation, and demonstrating effective oversight. Our continued collaboration with ACA gives compliance professionals valuable benchmarks to evaluate their programs, identify gaps and prioritize next steps.”\nNoYesArtificial Intelligence13 Nov, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/artificial-intelligence/86-financial-services-firms-use-ai-formal-testing-and-documented",
+    "source": "Financial IT",
+    "tags": [
+      "ACA Group",
+      "NSCP"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-13T10:43:07.000Z",
+    "fetchedAt": "2026-11-13T12:01:23.346Z",
+    "isDuplicateOf": null,
+    "content": "A new survey by ACA Group and the NSCP reveals that 86% of financial services firms now use artificial intelligence, a significant increase from previous years. While adoption and policy creation are growing, the survey highlights a lag in formal testing and documentation of oversight. Most firms limit AI to internal uses, and compliance teams are increasingly focused on governance and risk management.",
+    "content_ta": "ACA Group மற்றும் NSCP நடத்திய புதிய ஆய்வின்படி, 86 சதவீத நிதி சேவைக் நிறுவனங்கள் இப்போது Artificial Intelligence-ஐப் பயன்படுத்துகின்றன, இது முந்தைய ஆண்டுகளுடன் ஒப்பிடும்போது குறிப்பிடத்தக்க வளர்ச்சியாகும். பயன்பாடு மற்றும் கொள்கை உருவாக்கம் அதிகரித்து வரும் நிலையில், முறையான பரிசோதனை மற்றும் மேற்பார்வை ஆவணப்படுத்தலில் பின்தங்கிய நிலை உள்ளதாக இந்த ஆய்வு சுட்டிக்காட்டுகிறது. பெரும்பாலான நிறுவனங்கள் AI-ஐ உள்நாட்டு பயன்பாட்டிற்காக மட்டுமே வரம்பிற்குட்படுத்தியுள்ளன.",
+    "slug": "86-of-financial-services-firms-use-ai-but-formal-testing-and-documented-oversight-lag-aca-and-nscp"
+  },
+  {
+    "id": "7bbf819fa770363a",
+    "slug": "engie-and-google-plan-chateauroux-data-center-that-could-heat-the-town",
+    "title": "ENGIE and Google plan Châteauroux data center that could heat the town",
+    "tags": [
+      "ENGIE",
+      "Google",
+      "Châteauroux"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T10:42:48.000Z"
+  },
+  {
+    "id": "f6abc8c4b33f118e",
+    "slug": "jane-street-boosts-fidelity-bitcoin-etf-shares-nearly-8x-in-q3",
+    "title": "Jane Street boosts Fidelity Bitcoin ETF shares nearly 8x in Q3",
+    "tags": [
+      "Jane Street",
+      "Fidelity",
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T10:35:14.000Z"
+  },
+  {
+    "id": "c4dd4b6600643df2",
+    "slug": "anthropic-investigates-authentication-errors-hitting-claude-ai-and-claude-code",
+    "title": "Anthropic investigates authentication errors hitting Claude AI and Claude Code",
+    "tags": [
+      "Anthropic",
+      "Claude AI"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T10:34:46.000Z"
+  },
+  {
+    "id": "cff6ccdfb03a12e0",
+    "slug": "american-medical-association-seeks-liability-shield-for-doctors-using-ai",
+    "title": "American Medical Association seeks liability shield for doctors using AI",
+    "tags": [
+      "American Medical Association",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T10:33:55.000Z"
+  },
+  {
+    "id": "546aead6b343cafe",
+    "slug": "rlusd-transfer-volume-beats-ethereum-but-supply-tells-a-different-story",
+    "title": "RLUSD Transfer Volume Beats Ethereum, but Supply Tells a Different Story",
+    "tags": [
+      "Ripple",
+      "Ethereum"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T10:31:16.000Z"
+  },
+  {
+    "id": "68fb59d4aa52756d",
+    "title": "Klarna taps Robinhood VP Chris Koegel as CFO",
+    "summary": "Klarna has appointed Chris Koegel as their new chief financial officer starting from January 2027.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/newsarticle/48754/klarna-taps-robinhood-vp-chris-koegel-as-cfo?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Klarna",
+      "Robinhood",
+      "Chris Koegel"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-13T10:31:00.000Z",
+    "fetchedAt": "2026-11-13T12:01:23.346Z",
+    "isDuplicateOf": null,
+    "content": "Klarna has appointed Chris Koegel as its new Chief Financial Officer. Koegel, who previously served as a Vice President at Robinhood, will officially step into his new financial leadership role beginning in January 2027.",
+    "content_ta": "Klarna நிறுவனம் தனது புதிய தலைமை நிதி அதிகாரியாக (CFO) Chris Koegel-ஐ நியமித்துள்ளது. இதற்கு முன்பு Robinhood நிறுவனத்தில் துணைத் தலைவராகப் பணியாற்றிய Chris Koegel, வரும் ஜனவரி 2027 முதல் தனது புதிய பொறுப்பை அதிகாரப்பூர்வமாக ஏற்க உள்ளார்.",
+    "slug": "klarna-taps-robinhood-vp-chris-koegel-as-cfo"
+  },
+  {
+    "id": "746977ac77f68ef4",
+    "slug": "google-s-new-ai-can-make-100-decisions-in-under-a-second-without-writing-an-answer",
+    "title": "Google’s new AI can make 100 decisions in under a second, without writing an answer",
+    "tags": [
+      "Google",
+      "CryptoSlate"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T10:30:16.000Z"
+  },
+  {
+    "id": "5b0653fb3fa4903f",
+    "slug": "important-ethereum-eth-bug-might-be-finally-fixed",
+    "title": "Important Ethereum (ETH) Bug Might Be Finally Fixed",
+    "tags": [
+      "Ethereum"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T10:15:00.000Z"
+  },
+  {
+    "id": "cf32fe6617b7a06c",
+    "slug": "whale-alert-four-traders-liquidated-for-more-than-10m-apiece",
+    "title": "Whale Alert: Four Traders Liquidated for More Than $10M Apiece",
+    "tags": [
+      "Ethereum",
+      "Bitcoin"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T10:07:28.000Z"
+  },
+  {
+    "id": "0e1b106bf0098e24",
+    "slug": "strategy-ceo-phong-le-calls-msci-exclusion-of-mstr-immaterial-on-cnbc",
+    "title": "Strategy CEO Phong Le calls MSCI exclusion of MSTR immaterial on CNBC",
+    "tags": [
+      "MicroStrategy",
+      "MSCI",
+      "CNBC",
+      "Phong Le"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T10:06:34.000Z"
+  },
+  {
+    "id": "b7f19bdfa5f912fd",
+    "title": "Deloitte acquires Flipside Crypto's AI business and launches Edisyl",
+    "summary": "Deloitte today introduced Edisyl Inc., an enterprise AI company formed in connection with Deloitte's acquisition of the AI business of Flipside Crypto Inc., which was completed in July.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111666/deloitte-acquires-flipside-cryptos-ai-business-and-launches-edisyl?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Deloitte",
+      "Flipside Crypto",
+      "Edisyl"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-13T10:04:00.000Z",
+    "fetchedAt": "2026-11-13T12:01:23.346Z",
+    "isDuplicateOf": null,
+    "content": "Deloitte has launched Edisyl Inc., a new enterprise artificial intelligence company. This venture was formed following Deloitte's acquisition of the AI business from Flipside Crypto. The acquisition deal was completed in July and expands Deloitte's enterprise capabilities in the artificial intelligence sector.",
+    "content_ta": "Flipside Crypto-ன் AI வணிகத்தை வாங்கியதன் மூலம் உருவாக்கப்பட்ட Edisyl Inc. என்ற புதிய என்டர்பிரைஸ் AI நிறுவனத்தை Deloitte அறிமுகப்படுத்தியுள்ளது. இந்த கையகப்படுத்தல் கடந்த ஜூலை மாதம் நிறைவடைந்தது.",
+    "slug": "deloitte-acquires-flipside-crypto-s-ai-business-and-launches-edisyl"
+  },
+  {
+    "id": "cd596b8ee47dad9c",
+    "slug": "chainstack-traces-customer-data-breach-to-exposed-admin-tools",
+    "title": "Chainstack Traces Customer Data Breach to Exposed Admin Tools",
+    "tags": [
+      "Chainstack"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T10:00:00.000Z"
+  },
+  {
+    "id": "3f4251b34d691908",
+    "slug": "jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrock-s-bitcoin-etf",
+    "title": "JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock’s bitcoin ETF",
+    "tags": [
+      "JPMorgan",
+      "Strategy",
+      "BlackRock",
+      "Bitcoin"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T09:59:16.000Z"
+  },
+  {
+    "id": "46e5dd0cd3a17205",
+    "slug": "unocoin-keeps-deposits-and-withdrawals-halted-over-suspect-transfers",
+    "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
+    "tags": [
+      "Unocoin",
+      "BitGo"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-13T09:58:21.000Z"
+  },
+  {
+    "id": "f6af8f75ec76fa45",
+    "slug": "us-moves-to-recover-1-2-billion-in-stolen-crypto-could-it-impact-bitcoin",
+    "title": "US Moves To Recover $1.2 Billion In Stolen Crypto — Could It Impact Bitcoin?",
     "tags": [
       "United States",
       "Bitcoin"
     ],
+    "source": "Bitcoinist",
     "origin": "rss",
-    "pubDate": "2026-11-13T09:49:37.000Z",
-    "fetchedAt": "2026-11-13T09:51:40.826Z",
-    "isDuplicateOf": null,
-    "content": "The United States Department of Justice has received court authorization to seize or restrain over $1.2 billion in stolen cryptocurrency. This major enforcement action has sparked discussions among investors regarding how these substantial digital assets might eventually impact the broader market, particularly Bitcoin, as market participants closely monitor potential government-linked asset liquidations.",
-    "content_ta": "ஸ்டென் செய்யப்பட்ட டிஜிட்டல் சொத்துகளில் 1.2 பில்லியன் டாலருக்கும் அதிகமான தொகையை கைப்பற்ற அல்லது முடக்க அமெரிக்க நீதித்துறை நீதிமன்ற அனுமதியைப் பெற்றுள்ளது. அரசுக்கு சொந்தமான இந்த crypto சொத்துகள் எதிர்காலத்தில் சந்தையை எவ்வாறு பாதிக்கும் என்பது குறித்து Bitcoin முதலீட்டாளர்கள் மத்தியில் இந்த நடவடிக்கை கேள்விகளை எழுப்பியுள்ளது.",
-    "slug": "us-moves-to-recover-1-2-billion-in-stolen-crypto-could-it-impact-bitcoin"
+    "hasContent": true,
+    "pubDate": "2026-11-13T09:49:37.000Z"
   },
   {
     "id": "277f8602e21ec9df",
+    "slug": "the-rise-of-the-pre-prime-over-12-million-uk-adults-who-pay-every-bill-on-time-still-turned-down",
     "title": "The Rise of the ‘Pre-Prime’: Over 12 Million UK Adults Who Pay Every Bill on Time Still Turned Down for Credit",
-    "summary": "Millions of people are locked out of mainstream credit with no clear way in, according to Building Better Borrowers, the first Impact Report from credit-building and financial wellbeing platform Loqbox, published today.\nDrawing on data from more than 291,000 members, compared with more than 300,000 similar consumers who hadn’t used Loqbox, it finds that when people are given an alternative way to demonstrate their financial reliability, they can build stronger credit profiles without relying on high-cost borrowing.\nThe UK credit system works well for those already established in it. But between four and five million people have little or no credit history, more than 16 million have experienced adverse credit, and many self-employed people earn in a way that doesn’t fit the pattern lenders expect. \nThese consumers are usually labelled ‘sub-prime’, which describes where their credit file sits today and says little about the borrower they could become. Loqbox calls them pre-prime: people who haven’t yet had the chance to prove themselves, with many already doing the right thing. A new survey of 2,000 UK adults, commissioned alongside the report, found that nearly two-thirds (62%) have been declined for credit, a phone contract or a rental in the last two years, and more than a third (37%) of those say they paid every bill on time.\nThere’s also been a lot more focus across the industry on how people can build a stronger credit profile safely and effectively. Last year, the FCA published findings that questioned how effective certain credit builder products are for consumers.\nThe cost of getting started\nFor anyone starting out, the standard advice is to take out a credit card, use it a little and repay it every month. But the cards most readily available to people with little or no credit history are among the most expensive on the market. Almost half (49%) of UK adults have taken out credit they didn’t need just to build their score, and almost half of those (48%) struggled to repay it.\nThis is the price of the ‘first-rung premium’: credit builder cards average around 36% APR, nearly double the 18.9% on student cards. Yet nearly seven in ten 18-year-olds hadn’t secured a university or college place by results day this year, so for many young people, that cheaper option isn’t on the table. A product sold as a stepping stone can become a long-term cost, and the people least equipped to manage high-cost credit are often the ones most likely to be offered it.\nWhat building better borrowers can look like\nAnalysis of almost 600,000 consumers revealed that members who paid Loqbox every month for a year, and didn’t miss payments elsewhere, saw their credit score rise by around 73 points on average. Comparable consumers who didn’t use Loqbox saw no increase. Among members new to credit, credit card holding rose from 15% to over 46% (against 22% to 29% for comparable consumers), while average balances stayed broadly stable at around £450.\nWhen people can build a track record without carrying high-interest balances, they arrive in the mainstream credit market better prepared, gaining access without a build-up of debt. That’s what “building better borrowers” means: responsible access, rather than access at any cost.\nTom Eyre, Co-Founder and CEO of Loqbox, said: “Millions of people shut out of mainstream credit are managing their money responsibly and could be the prime customers of tomorrow. They just haven’t had the chance to prove it on paper. Our first Impact Report shows what can happen when they’re given a safer way to build a track record: stronger credit profiles, wider access to mainstream products and no build-up of debt along the way. The task is not to lower the standards for accessing credit. It is to give more people a fair opportunity to meet them.”\nMore than a score\nThe impact of a limited or adverse credit file goes beyond the score itself. Nearly half (43%) of UK adults say their credit history has delayed a major life milestone, including buying a home (21%), moving out (18%) or leaving a relationship (14%), according to the new survey.\nFor Loqbox members, the benefits go beyond credit scores too. Since 2021, over 370,000 members have saved more than £151 million, and 47% of surveyed members feel more confident about their finances.\nResponsible behaviour often goes unseen by the credit system: rent paid on time, irregular but well-managed income, or a credit history built overseas. Declan Jarvis, a Loqbox member who moved to the UK from South Africa and works in finance, found he didn’t exist to lenders despite being a UK citizen with no history of debt: “Every time I checked, it just said I didn’t exist. I literally live here, but the system refused to acknowledge me. When I couldn’t pass a credit check for a flat, it suddenly felt really stressful, because I knew it would only get harder when it came to a car or a home. You assume if you’re sensible with money, it’ll all work itself out. It doesn’t.”\nA better way in\nGreater access isn’t always a better outcome. Credit needs to be appropriate, affordable and offered when someone is equipped to manage it.\nThat’s why Loqbox is calling for a better way in: an end to high-cost credit as the default first step, a restart of the FCA’s work on minimum payments, and updated guidance that reflects the range of ways people can now build a credit history and is clearer about the cost of the products most often recommended. The public agrees: 91% say people should be taught other ways to build credit besides a credit card, and 84% say people shouldn’t have to take on debt to prove they can be trusted.\nBy recognising progress, rewarding responsible behaviour and matching access to readiness, the industry can build better borrowers and give credit where credit’s due.\nNoYesInfrastructure13 Nov, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/infrastructure/rise-pre-prime-over-12-million-uk-adults-who-pay-every-bill-time-still-turned",
-    "source": "Financial IT",
     "tags": [
       "Loqbox",
       "United Kingdom"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-11-13T09:32:51.000Z",
-    "fetchedAt": "2026-11-13T09:51:40.826Z",
-    "isDuplicateOf": null,
-    "content": "A new report from financial platform Loqbox reveals that over 12 million UK adults who pay every bill on time are still rejected for mainstream credit. The study highlights that millions are labelled sub-prime despite managing money responsibly, often forced into high-cost borrowing just to build a credit score. Loqbox advocates for safer alternatives that allow consumers to establish reliable credit histories without accumulating unnecessary debt.",
-    "content_ta": "Loqbox ஃபைனான்சியல் பிளாட்ஃபார்மின் புதிய அறிக்கையின்படி, UK-ல் சரியான நேரத்தில் அனைத்து பில்களையும் செலுத்தும் 12 மில்லியனுக்கும் அதிகமான பெரியவர்கள் மெயின்ஸ்ட்ரீம் கிரெடிட் பெறுவதில் நிராகரிக்கப்படுகிறார்கள். பொறுப்புடன் பணம் நிர்வகித்தாலும் மில்லியன் கணக்கானவர்கள் சப்-பிரைம் என முத்திரை குத்தப்படுவதை இந்த ஆய்வு எடுத்துக்காட்டுகிறது. எந்தவொரு தேவையற்ற கடனும் இன்றி நுகர்வோர் நம்பகமான கிரெடிட் வரலாற்றை உருவாக்க பாதுகாப்பான மாற்று வழிகளை Loqbox ஆதரிக்கிறது.",
-    "slug": "the-rise-of-the-pre-prime-over-12-million-uk-adults-who-pay-every-bill-on-time-still-turned-down"
+    "hasContent": true,
+    "pubDate": "2026-11-13T09:32:51.000Z"
   },
   {
     "id": "c1a8fe8cbdca6694",
+    "slug": "doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi",
     "title": "DOJ, CFTC sue Arkansas to block state enforcement action against Kalshi",
-    "summary": "Arkansas previously sued Kalshi on Nov. 4, alleging that it operated an illegal gambling platform in the state.",
-    "hasSummary": true,
-    "link": "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669",
-    "source": "The Block",
     "tags": [
       "DOJ",
       "CFTC",
       "Arkansas",
       "Kalshi"
     ],
+    "source": "The Block",
     "origin": "rss",
-    "pubDate": "2026-11-13T09:32:39.000Z",
-    "fetchedAt": "2026-11-13T09:51:40.826Z",
-    "isDuplicateOf": null,
-    "content": "The U.S. Department of Justice and the CFTC have filed a lawsuit against Arkansas to block a state enforcement action involving Kalshi. This legal move follows an earlier lawsuit filed by Arkansas against Kalshi on November 4, which alleged that the platform operated illegally as a gambling site within the state.",
-    "content_ta": "Arkansas மாநிலத்தின் Kalshi நிறுவனத்திற்கு எதிரான அமலாக்க நடவடிக்கையைத் தடுப்பதற்காக DOJ மற்றும் CFTC இணைந்து வழக்கு தொடர்ந்துள்ளன. மாநிலத்தில் உள்ள Kalshi இயங்குதளம் சட்டவிரோதமான சூதாட்ட தளமாகச் செயல்படுவதாகக் கூறி, நவம்பர் 4 அன்று Arkansas மாநிலம் ஏற்கனவே Kalshi மீது வழக்குத் தொடர்ந்திருந்ததைத் தொடர்ந்து இந்த புதிய நடவடிக்கை எடுக்கப்பட்டுள்ளது.",
-    "slug": "doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi"
+    "hasContent": true,
+    "pubDate": "2026-11-13T09:32:39.000Z"
   },
   {
     "id": "a976e429072d2cb8",
+    "slug": "bitcoin-could-face-a-cash-squeeze-without-another-fed-rate-hike",
     "title": "Bitcoin could face a cash squeeze without another Fed rate hike",
-    "summary": "The November 12 update uses Q2 2026 data, pointing to a potential financing channel that could matter before another Fed hike.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-    "hasSummary": true,
-    "link": "https://cryptoslate.com/bitcoin-could-face-a-cash-squeeze-without-another-fed-rate-hike/",
-    "source": "CryptoSlate",
     "tags": [
       "Bitcoin",
       "Federal Reserve"
     ],
+    "source": "CryptoSlate",
     "origin": "rss",
-    "pubDate": "2026-11-13T09:30:12.000Z",
-    "fetchedAt": "2026-11-13T09:51:40.826Z",
-    "isDuplicateOf": null,
-    "content": "Bitcoin could face potential liquidity pressures if the Federal Reserve does not implement further interest rate hikes. According to an update utilizing Q2 2026 data, a specific financing channel may emerge as a crucial factor for the market before any subsequent central bank rate decisions. Observers note this highlights the evolving relationship between macroeconomic policy and cryptocurrency liquidity.",
-    "content_ta": "Fed-ன் வட்டி உயர்வு இல்லாத பட்சத்தில் Bitcoin பணப்புழக்க நெருக்கடியைச் சந்திக்கக்கூடும். Q2 2026 தரவுகளைப் பயன்படுத்தும் இந்த நிலவரம், மத்திய வங்கியின் அடுத்த வட்டி முடிவுகளுக்கு முன்பு சந்தைக்கு உதவக்கூடிய ஒரு நிதியுதவி வழியைச் சுட்டிக்காட்டுகிறது.",
-    "slug": "bitcoin-could-face-a-cash-squeeze-without-another-fed-rate-hike"
+    "hasContent": true,
+    "pubDate": "2026-11-13T09:30:12.000Z"
   },
   {
     "id": "de9176a163cf396b",
+    "slug": "global-oil-markets-swing-to-surplus-as-gulf-shipments-rebound-ft",
     "title": "Global oil markets swing to surplus as Gulf shipments rebound: FT",
-    "summary": "The oil surplus may stabilize global markets, reducing price volatility and impacting future production strategies and geopolitical dynamics.\nThe post Global oil markets swing to surplus as Gulf shipments rebound: FT appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/global-oil-markets-swing-to-surplus-as-gulf-shipments-rebound-ft/",
-    "source": "CryptoBriefing",
     "tags": [],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-13T09:17:04.000Z",
-    "fetchedAt": "2026-11-13T09:51:40.826Z",
-    "isDuplicateOf": null,
-    "content": null,
-    "slug": "global-oil-markets-swing-to-surplus-as-gulf-shipments-rebound-ft"
+    "hasContent": false,
+    "pubDate": "2026-11-13T09:17:04.000Z"
   },
   {
     "id": "2d775cf63e609886",
+    "slug": "live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
     "title": "Live news: Bitcoin drops below 200-week moving average as dollar strength pressures risk assets",
-    "summary": "Bitcoin fell below its 200-week moving average as the Dollar Index held above 103, while gold struggled to recover and oil prices rebounded.",
-    "hasSummary": true,
-    "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
-    "source": "CoinDesk",
     "tags": [],
+    "source": "CoinDesk",
     "origin": "rss",
-    "pubDate": "2026-11-13T09:16:58.000Z",
-    "fetchedAt": "2026-11-13T09:51:40.826Z",
-    "isDuplicateOf": null,
-    "content": null,
-    "slug": "live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets"
+    "hasContent": false,
+    "pubDate": "2026-11-13T09:16:58.000Z"
   },
   {
     "id": "15ee6c52aa27b33f",
@@ -303,547 +871,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-13T08:26:01.000Z"
-  },
-  {
-    "id": "de4d20498edddee6",
-    "slug": "bitcoin-analyst-reveals-5-reasons-he-s-buying-btc-as-price-drops-below-69-000",
-    "title": "Bitcoin Analyst Reveals 5 Reasons He’s Buying BTC As Price Drops Below $69,000",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "Bitcoinist",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T08:16:18.000Z"
-  },
-  {
-    "id": "dbed41c6c549c192",
-    "slug": "new-jersey-repeat-mail-fraudster-charged-with-targeting-12-000-000-from-bank-and-mailing-36-000",
-    "title": "New Jersey Repeat Mail Fraudster Charged With Targeting $12,000,000 From Bank and Mailing 36,000 Fake Invoices to Schools",
-    "tags": [
-      "New Jersey",
-      "Turnersville",
-      "Robert Armstrong"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T08:04:15.000Z"
-  },
-  {
-    "id": "ca5db373d84a4453",
-    "slug": "peter-schiff-predicts-more-losses-for-bitcoin-as-btc-goes-below-2021-high",
-    "title": "Peter Schiff Predicts More Losses for Bitcoin as BTC Goes Below 2021 High",
-    "tags": [
-      "Bitcoin",
-      "Peter Schiff",
-      "X"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T07:58:50.000Z"
-  },
-  {
-    "id": "21a9fdd149861d76",
-    "slug": "bitrue-futures-adds-mercadolibre-meli-nuscale-smr-and-ewzs-perpetuals",
-    "title": "Bitrue Futures Adds MercadoLibre (MELI), NuScale (SMR) and EWZS Perpetuals",
-    "tags": [
-      "Bitrue",
-      "MercadoLibre",
-      "NuScale",
-      "Latin America"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T07:41:53.000Z"
-  },
-  {
-    "id": "a870ad011ff5f566",
-    "slug": "nakamoto-kraken-loan-extension-buys-time-not-safety",
-    "title": "Nakamoto Kraken Loan Extension Buys Time, Not Safety",
-    "tags": [
-      "Nakamoto",
-      "Kraken",
-      "USDT"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T07:40:40.000Z"
-  },
-  {
-    "id": "38262be9201e2601",
-    "slug": "read-what-microsoft-said-in-its-latest-1-pm-ist-update-about-outlook",
-    "title": "Read What Microsoft Said In Its Latest 1 PM IST Update About Outlook",
-    "tags": [
-      "Microsoft",
-      "Outlook",
-      "Teams",
-      "Microsoft 365"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T07:38:15.000Z"
-  },
-  {
-    "id": "6550233a10cd8b13",
-    "slug": "major-crypto-etfs-bled-1-5-billion-while-wall-street-went-dip-shopping",
-    "title": "Major Crypto ETFs Bled $1.5 Billion While Wall Street Went Dip Shopping",
-    "tags": [
-      "Wall Street",
-      "S&P 500",
-      "United States"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T07:36:28.000Z"
-  },
-  {
-    "id": "3dfe64d25600d851",
-    "slug": "ethereum-foundation-sells-2-000-eth-as-price-hovers-near-2-000",
-    "title": "Ethereum Foundation sells 2,000 ETH as price hovers near $2,000",
-    "tags": [
-      "Ethereum Foundation",
-      "Ethereum"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T07:10:03.000Z"
-  },
-  {
-    "id": "51a6d5c5fb332b5f",
-    "slug": "juvrixai-a-platform-for-ai-agents-with-built-in-spending-limits-on-near-protocol-launches-its",
-    "title": "JuvrixAI, a Platform for AI Agents With Built-In Spending Limits on NEAR Protocol, Launches Its Presale",
-    "tags": [
-      "JuvrixAI",
-      "NEAR Protocol"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T07:09:00.000Z"
-  },
-  {
-    "id": "e8452f256d1e0975",
-    "slug": "sk-hynix-and-intel-explore-shared-memory-pools-to-ease-ai-bottlenecks",
-    "title": "SK Hynix and Intel explore shared memory pools to ease AI bottlenecks",
-    "tags": [
-      "SK Hynix",
-      "Intel"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T07:07:28.000Z"
-  },
-  {
-    "id": "e25f7c9dcd544c73",
-    "slug": "ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-64-million-aave-loan-healthy",
-    "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
-    "tags": [
-      "BTCS",
-      "Ethereum",
-      "Aave"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T07:05:29.000Z"
-  },
-  {
-    "id": "8cfd7628074e329c",
-    "slug": "bitcoin-dominance-hits-61-but-this-will-decide-when-is-altcoin-season",
-    "title": "Bitcoin dominance hits 61%, but THIS will decide when is altcoin season!",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T07:00:47.000Z"
-  },
-  {
-    "id": "51795df5a76b081a",
-    "slug": "satoshi-era-bitcoin-address-from-2010-suddenly-activates-with-3-4-million",
-    "title": "Satoshi-Era Bitcoin Address From 2010 Suddenly Activates With $3.4 Million",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T06:56:49.000Z"
-  },
-  {
-    "id": "6db6723194441043",
-    "slug": "when-will-the-next-crypto-bull-run-finally-begin-3-ais-reveal-their-predictions",
-    "title": "When Will the Next Crypto Bull Run Finally Begin? 3 AIs Reveal Their Predictions",
-    "tags": [
-      "AI"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T06:25:18.000Z"
-  },
-  {
-    "id": "901a8bf167b72ee8",
-    "slug": "ethereum-unveils-quantum-safe-accounts-with-a-costly-catch",
-    "title": "Ethereum unveils quantum-safe accounts, with a costly catch",
-    "tags": [
-      "Ethereum",
-      "Ethlabs",
-      "CryptoSlate"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T06:20:37.000Z"
-  },
-  {
-    "id": "0348810a48fb320e",
-    "slug": "nakamoto-owes-kraken-165m-more-than-the-market-says-it-is-worth",
-    "title": "Nakamoto owes Kraken $165M, more than the market says it is worth",
-    "tags": [
-      "Nakamoto",
-      "Kraken"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T06:08:07.000Z"
-  },
-  {
-    "id": "06484218be585741",
-    "slug": "rechitta-v2-adds-chat-mode-after-100-000-minutes-of-broker-use",
-    "title": "Rechitta V2 Adds Chat Mode after 100,000 Minutes of Broker Use",
-    "tags": [
-      "Rechitta",
-      "Dubai"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T06:00:49.000Z"
-  },
-  {
-    "id": "44fec9842de52a26",
-    "slug": "bitcoin-etfs-are-now-down-over-1-5-billion-in-net-outflows-for-the-year",
-    "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T05:45:26.000Z"
-  },
-  {
-    "id": "ec1b4c33ed6085d1",
-    "slug": "microsoft-outlook-down-and-outage-next-update-at-11-30-am-ist",
-    "title": "Microsoft Outlook Down And Outage Next Update At 11:30 AM IST",
-    "tags": [
-      "Microsoft",
-      "Microsoft Outlook",
-      "Microsoft Teams"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T05:35:21.000Z"
-  },
-  {
-    "id": "e972991518d0551e",
-    "slug": "trump-s-ai-task-force-weighs-how-to-get-critical-sectors-to-report-ai-powered-cyberattacks",
-    "title": "Trump’s AI task force weighs how to get critical sectors to report AI-powered cyberattacks",
-    "tags": [
-      "Trump"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T05:35:16.000Z"
-  },
-  {
-    "id": "a9bc51a797d60810",
-    "slug": "spain-s-psoe-faces-uphill-battle-as-pp-vox-eye-parliamentary-majority",
-    "title": "Spain’s PSOE faces uphill battle as PP, Vox eye parliamentary majority",
-    "tags": [
-      "Spain",
-      "PSOE",
-      "PP",
-      "Vox",
-      "European Union"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T05:23:41.000Z"
-  },
-  {
-    "id": "2210191d4d32ea84",
-    "slug": "us-moves-to-seize-1-2-billion-from-binance-hack-where-is-the-rest",
-    "title": "US Moves to Seize $1.2 Billion From Binance Hack. Where Is the Rest?",
-    "tags": [
-      "Binance",
-      "United States",
-      "North Korea"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T05:18:27.000Z"
-  },
-  {
-    "id": "5baaa417bce2e016",
-    "slug": "smfg-tightens-data-center-financing-focuses-on-strong-credit-hyperscalers",
-    "title": "SMFG tightens data center financing, focuses on strong credit hyperscalers",
-    "tags": [
-      "SMFG"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T05:07:23.000Z"
-  },
-  {
-    "id": "ae5d05a19ab49112",
-    "slug": "rand-stablecoins-gain-checkout-traction-on-moneybadger-network",
-    "title": "Rand Stablecoins Gain Checkout Traction on MoneyBadger Network",
-    "tags": [
-      "MoneyBadger Network",
-      "ZARU",
-      "South Africa"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T05:00:50.000Z"
-  },
-  {
-    "id": "ac5ff4e16f3fcfac",
-    "slug": "solana-company-reports-3-4m-quarterly-revenue-as-staking-business-expands",
-    "title": "Solana Company Reports $3.4M Quarterly Revenue as Staking Business Expands",
-    "tags": [
-      "Solana Company",
-      "Asia-Pacific"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T05:00:00.000Z"
-  },
-  {
-    "id": "8f3c1e8d3b6e9c3d",
-    "slug": "white-house-sends-crypto-relevant-picks-to-fill-sec-and-cftc-seats",
-    "title": "White House sends crypto-relevant picks to fill SEC and CFTC seats",
-    "tags": [
-      "White House",
-      "SEC",
-      "CFTC",
-      "Crypto Council for Innovation"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T04:56:47.000Z"
-  },
-  {
-    "id": "c75f781a3df5e2bb",
-    "slug": "bitcoin-price-dumps-below-69k-as-liquidations-top-1-4b-xrp-and-eth-bleed-heavy",
-    "title": "Bitcoin Price Dumps Below $69K as Liquidations Top $1.4B: XRP and ETH Bleed Heavy",
-    "tags": [
-      "Bitcoin",
-      "Ethereum",
-      "Ripple",
-      "XRP"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T04:46:32.000Z"
-  },
-  {
-    "id": "8ddc5ef8b327c267",
-    "slug": "bitcoin-falls-to-12-week-low-strategy-and-metaplanet-to-lose-msci-index-membership-and-more",
-    "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
-    "tags": [
-      "Bitcoin",
-      "Jensen Huang",
-      "Nvidia",
-      "Strategy",
-      "Metaplanet",
-      "MSCI"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T04:20:00.000Z"
-  },
-  {
-    "id": "b16e8f6612bd0a42",
-    "slug": "samsung-breaks-ground-on-onyang-hbm-packaging-hub-as-cheonan-runs-out-of-room",
-    "title": "Samsung breaks ground on Onyang HBM packaging hub as Cheonan runs out of room",
-    "tags": [
-      "Samsung",
-      "Onyang",
-      "Cheonan",
-      "South Korea"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T04:07:29.000Z"
-  },
-  {
-    "id": "698ec970d9cdb11c",
-    "slug": "can-trx-eth-extend-its-23-rally-after-tron-takes-the-lead-with-usdt",
-    "title": "Can TRX/ETH extend its 23% rally after Tron takes the lead with USDT?",
-    "tags": [
-      "Tron",
-      "Ethereum",
-      "USDT",
-      "TRX",
-      "ETH"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T04:00:37.000Z"
-  },
-  {
-    "id": "924da0d12ed8a679",
-    "slug": "circle-hands-usdc-reserves-to-eu-regulators-risking-higher-fees",
-    "title": "Circle hands USDC reserves to EU regulators risking higher fees",
-    "tags": [
-      "Circle",
-      "USDC",
-      "European Union",
-      "France"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T03:30:19.000Z"
-  },
-  {
-    "id": "48091c99b3fd2626",
-    "slug": "trump-nominates-hester-peirce-successor-among-sec-cftc-picks",
-    "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
-    "tags": [
-      "SEC",
-      "CFTC",
-      "White House",
-      "Hester Peirce"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T02:29:27.000Z"
-  },
-  {
-    "id": "66e7efa759be9b4e",
-    "slug": "zach-herbert-explains-foundation-s-quantumlink-a-post-quantum-bluetooth-bet-for-hardware-wallets",
-    "title": "Zach Herbert explains Foundation’s QuantumLink, a post-quantum Bluetooth bet for hardware wallets",
-    "tags": [
-      "Zach Herbert",
-      "Foundation"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T02:08:04.000Z"
-  },
-  {
-    "id": "228bceaa8d443a22",
-    "slug": "asa-presses-court-to-halt-stock-perpetuals-putting-retail-risk-at-center-of-fight",
-    "title": "ASA Presses Court to Halt Stock Perpetuals, Putting Retail Risk at Center of Fight",
-    "tags": [
-      "American Securities Association"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T02:00:00.000Z"
-  },
-  {
-    "id": "29b2695c645378dc",
-    "slug": "applied-materials-earnings-beat-on-profit-revenue",
-    "title": "Applied Materials earnings beat on profit, revenue",
-    "tags": [
-      "Applied Materials"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T01:55:11.000Z"
-  },
-  {
-    "id": "507ad42399f4627d",
-    "slug": "maersk-s-legacy-system-incident-shows-m-a-s-new-cyber-requirement",
-    "title": "Maersk’s Legacy-System Incident Shows M&A’s New Cyber Requirement",
-    "tags": [
-      "A.P. Moller-Maersk",
-      "Maersk",
-      "PYMNTS.com"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T01:50:14.000Z"
-  },
-  {
-    "id": "e3230b7015610e44",
-    "slug": "cisco-systems-earnings-beat-estimates",
-    "title": "Cisco Systems earnings beat estimates",
-    "tags": [
-      "Cisco Systems"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T01:42:02.000Z"
-  },
-  {
-    "id": "37f06bb0a3b92821",
-    "slug": "former-nvidia-ceo-huang-had-third-alleged-affair-reuters",
-    "title": "Former Nvidia CEO Huang had third alleged affair: Reuters",
-    "tags": [
-      "Nvidia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T01:36:49.000Z"
-  },
-  {
-    "id": "124d9dbd7e7faafb",
-    "slug": "35-000-exposed-grok-apps-reveal-vibe-coding-s-hidden-cost",
-    "title": "35,000 Exposed Grok Apps Reveal Vibe Coding’s Hidden Cost",
-    "tags": [
-      "Grok",
-      "Claroc"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T01:35:44.000Z"
-  },
-  {
-    "id": "a69a4c35bd1ac309",
-    "slug": "akamai-completes-two-1-25-billion-convertible-notes-offerings",
-    "title": "Akamai completes two $1.25 billion convertible notes offerings",
-    "tags": [
-      "Akamai"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T01:32:17.000Z"
   }
 ]
