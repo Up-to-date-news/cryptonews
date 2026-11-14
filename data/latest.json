@@ -1,116 +1,99 @@
 [
   {
-    "id": "06b3370d314215ba",
-    "title": "FAA ground stop leads Air Canada to cancel US flights tonight",
-    "summary": "The FAA's ground stop highlights vulnerabilities in aviation infrastructure, affecting market stability and prompting scrutiny of communication systems.\nThe post FAA ground stop leads Air Canada to cancel US flights tonight appeared first on Crypto Briefing.",
+    "id": "89f9e6273b3e022f",
+    "title": "Fed’s Jefferson: AI labor disruptions may need non-monetary solutions",
+    "summary": "AI-driven labor shifts may prompt the Fed to explore non-monetary policies, potentially altering future rate hike strategies and market dynamics.\nThe post Fed’s Jefferson: AI labor disruptions may need non-monetary solutions appeared first on Crypto Briefing.",
     "hasSummary": true,
-    "link": "https://cryptobriefing.com/faa-ground-stop-leads-air-canada-to-cancel-us-flights-tonight/",
+    "link": "https://cryptobriefing.com/feds-jefferson-ai-labor-disruptions-may-need-non-monetary-solutions/",
     "source": "CryptoBriefing",
+    "tags": [
+      "Federal Reserve",
+      "Jefferson"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-14T02:56:25.000Z",
+    "fetchedAt": "2026-11-14T03:01:42.451Z",
+    "isDuplicateOf": null,
+    "content": "Federal Reserve official Jefferson stated that potential labor market disruptions caused by artificial intelligence may require non-monetary solutions. This suggests that future economic shifts driven by AI automation could prompt policymakers to look beyond traditional monetary tools, potentially influencing broader market dynamics and policy strategies.",
+    "content_ta": "Fed-ன் Jefferson, artificial intelligence காரணமாய் வேலைவாய்ப்பு சந்தையில் ஏற்படும் மாற்றங்களை எதிர்கொள்ள non-monetary தீர்வுகள் தேவைப்படலாம் என்று தெரிவித்துள்ளார். AI ஆட்டோமேஷன் காரணமாக எதிர்காலத்தில் ஏற்படும் பொருளாதார மாற்றங்கள், பாரம்பரிய monetary கருவிகளைத் தாண்டி புதிய கொள்கைகளை ஆராய கொள்கை வகுப்பாளர்களைத் தூண்டக்கூடும்.",
+    "slug": "fed-s-jefferson-ai-labor-disruptions-may-need-non-monetary-solutions"
+  },
+  {
+    "id": "06b3370d314215ba",
+    "slug": "faa-ground-stop-leads-air-canada-to-cancel-us-flights-tonight",
+    "title": "FAA ground stop leads Air Canada to cancel US flights tonight",
     "tags": [
       "FAA",
       "Air Canada",
       "United States"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-14T02:20:28.000Z",
-    "fetchedAt": "2026-11-14T02:36:45.294Z",
-    "isDuplicateOf": null,
-    "content": "A recent Federal Aviation Administration ground stop forced Air Canada to cancel several flights to the United States. This disruption highlights ongoing vulnerabilities within aviation infrastructure and communication systems, prompting increased scrutiny and potential impacts on market stability across the affected travel sectors.",
-    "content_ta": "சமீபத்திய Federal Aviation Administration தடையின் காரணமாக Air Canada தனது சில அமெரிக்க விமான சேவைகளை ரத்து செய்துள்ளது. இந்தத் தடையானது வான்வழி உள்கட்டமைப்பு மற்றும் தகவல் தொடர்பு அமைப்புகளில் உள்ள பலவீனங்களை வெளிச்சம் போட்டுக் காட்டுவதுடன், சந்தை ஸ்திரத்தன்மை குறித்தும் உன்னிப்பான கவனத்தை ஈர்த்துள்ளது.",
-    "slug": "faa-ground-stop-leads-air-canada-to-cancel-us-flights-tonight"
+    "hasContent": true,
+    "pubDate": "2026-11-14T02:20:28.000Z"
   },
   {
     "id": "ae25518d64856577",
+    "slug": "globalfoundries-posts-record-gross-margin-as-optical-networking-takes-center-stage",
     "title": "GlobalFoundries posts record gross margin as optical networking takes center stage",
-    "summary": "GlobalFoundries' strategic pivot to optical networking and AI data centers signals a transformative shift in semiconductor industry dynamics.\nThe post GlobalFoundries posts record gross margin as optical networking takes center stage appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/globalfoundries-record-margin-optical-networking/",
-    "source": "CryptoBriefing",
     "tags": [
       "GlobalFoundries"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-14T02:19:57.000Z",
-    "fetchedAt": "2026-11-14T02:36:45.294Z",
-    "isDuplicateOf": null,
-    "content": "GlobalFoundries has reported a record gross margin, driven by a strategic shift toward optical networking and AI data centers. This development highlights a significant transformation within the semiconductor industry as companies adapt to meet the growing technological demands of modern data infrastructure and high-speed communications.",
-    "content_ta": "ஆப்டிகல் நெட்வொர்க்கிங் மற்றும் AI டேட்டா சென்டர்களை நோக்கிய மூலோபாய மாற்றத்தால், GlobalFoundries நிறுவனம் சாதனை அளவிலான மொத்த லாபத்தைப் பதிவு செய்துள்ளது. நவீன டேட்டா இன்ஃப்ராஸ்ட்ரக்சர் மற்றும் அதிவேகத் தொடர்புத் தேவைகளைப் பூர்த்தி செய்ய செமி கண்டக்டர் துறை மாறி வருவதை இந்த வளர்ச்சி காட்டுகிறது.",
-    "slug": "globalfoundries-posts-record-gross-margin-as-optical-networking-takes-center-stage"
+    "hasContent": true,
+    "pubDate": "2026-11-14T02:19:57.000Z"
   },
   {
     "id": "15824493d3b40850",
+    "slug": "unocoin-halts-all-services-after-hackers-bypass-bitgo-freeze",
     "title": "Unocoin halts all services after hackers bypass BitGo freeze",
-    "summary": "Unocoin says disputed transfers were signed outside BitGo while it investigates suspected misuse of a backup mechanism.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-    "hasSummary": true,
-    "link": "https://cryptoslate.com/unocoin-halts-all-services-after-hackers-bypass-bitgo-freeze/",
-    "source": "CryptoSlate",
     "tags": [
       "Unocoin",
       "BitGo"
     ],
+    "source": "CryptoSlate",
     "origin": "rss",
-    "pubDate": "2026-11-14T02:10:17.000Z",
-    "fetchedAt": "2026-11-14T02:36:45.294Z",
-    "isDuplicateOf": null,
-    "content": "Cryptocurrency exchange Unocoin has halted all services following a security breach where hackers reportedly bypassed a BitGo freeze. Unocoin stated that disputed transfers were signed outside of BitGo as the company investigates a suspected misuse of its backup mechanism. The platform is working to resolve the issue and ensure the security of user funds while the investigation remains ongoing.",
-    "content_ta": "கிரிப்டோகரன்சி எக்ஸ்சேஞ்ச் ஆன Unocoin, ஹேக்கர்கள் BitGo ஃப்ரீஸைத் தாண்டியதாகக் கூறப்படும் பாதுகாப்பு மீறலைத் தொடர்ந்து தனது அனைத்து சேவைகளையும் நிறுத்தியுள்ளது. தங்களுடைய காப்புப் பிரதி பொறிமுறையானது தவறாகப் பயன்படுத்தப்பட்டிருக்கலாம் என்று சந்தேகிக்கப்படும் நிலையில், சர்ச்சைக்குரிய பரிமாற்றங்கள் BitGo-க்கு வெளியே கையெழுத்திடப்பட்டதாக Unocoin தெரிவித்துள்ளது. இந்தச் சம்பவம் குறித்த விசாரணை நடைபெற்று வரும் நிலையில், பயனர்களின் நிதுப் பாதுகாப்பை உறுதி செய்ய இந்நிறுவனம் தீவிரமாகச் செயல்பட்டு வருகிறது.",
-    "slug": "unocoin-halts-all-services-after-hackers-bypass-bitgo-freeze"
+    "hasContent": true,
+    "pubDate": "2026-11-14T02:10:17.000Z"
   },
   {
     "id": "d77f81191ea823fb",
+    "slug": "nvidia-s-jensen-huang-described-megaspeed-customer-dealings-as-normal-and-not-unusual",
     "title": "Nvidia’s Jensen Huang described Megaspeed customer dealings as “normal and not unusual”",
-    "summary": "Nvidia's handling of export controls and internal communications may impact shareholder trust and regulatory scrutiny, influencing future compliance strategies.\nThe post Nvidia’s Jensen Huang described Megaspeed customer dealings as “normal and not unusual” appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/nvidia-jensen-huang-megaspeed-standard-practice/",
-    "source": "CryptoBriefing",
     "tags": [
       "Nvidia",
       "Jensen Huang",
       "Megaspeed"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-14T00:25:46.000Z",
-    "fetchedAt": "2026-11-14T02:36:45.294Z",
-    "isDuplicateOf": null,
-    "content": "Nvidia CEO Jensen Huang recently described the company's dealings with Megaspeed as normal and customary. This follows discussions surrounding Nvidia's internal communications and export control compliance. The situation could potentially impact shareholder confidence and draw increased regulatory attention, prompting the company to carefully evaluate its future compliance and operational strategies.",
-    "content_ta": "Nvidia-வின் CEO Jensen Huang, Megaspeed நிறுவனத்துடனான தங்களது வணிகத் தொடர்புகள் சாதாரணமானவை என்றும் வழக்கமானவை என்றும் குறிப்பிட்டுள்ளார். Nvidia-வின் ஏற்றுமதி கட்டுப்பாடுகள் மற்றும் உள்நாட்டுத் தொடர்புகள் குறித்த விவாதங்களை இது தொடர்ந்துள்ளது. இந்தச் சூழ்நிலை பங்குதாரர்களின் நம்பிக்கையைப் பாதிக்கலாம் மற்றும் ஒழுங்குமுறை அதிகாரிகளின் கவனத்தை ஈர்க்கலாம்.",
-    "slug": "nvidia-s-jensen-huang-described-megaspeed-customer-dealings-as-normal-and-not-unusual"
+    "hasContent": true,
+    "pubDate": "2026-11-14T00:25:46.000Z"
   },
   {
     "id": "e5201442a248389e",
+    "slug": "former-anthropic-researcher-says-an-ipo-roadshow-slide-helped-push-him-out",
     "title": "Former Anthropic researcher says an IPO roadshow slide helped push him out",
-    "summary": "Coxon's departure highlights growing concerns about AI's rapid advancement, emphasizing the need for robust safety measures and ethical oversight.\nThe post Former Anthropic researcher says an IPO roadshow slide helped push him out appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/former-anthropic-researcher-ipo-slide-departure/",
-    "source": "CryptoBriefing",
     "tags": [
       "Anthropic"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-14T00:11:35.000Z",
-    "fetchedAt": "2026-11-14T02:36:45.294Z",
-    "isDuplicateOf": null,
-    "content": "A former Anthropic researcher has revealed that an IPO roadshow slide played a key role in his decision to leave the company. The departure underscores growing concerns within the artificial intelligence sector regarding the pace of technological advancement, while highlighting the critical need for stronger safety measures and rigorous ethical oversight as companies scale up operations.",
-    "content_ta": "Anthropic நிறுவனத்தின் முன்னாள் ஆராய்ச்சியாளர் ஒருவர், ஐபிஓ ரோட்ஷோ ஸ்லைடு ஒன்றுதான் தான் நிறுவனத்தை விட்டு வெளியேற உதவிய முக்கிய காரணங்களில் ஒன்று என்று கூறியுள்ளார். செயற்கை நுண்ணறிவுத்துறையின் வளர்ச்சியின் வேகம் குறித்த அதிகரித்து வரும் கவலைகளையும், நிறுவனங்கள் விரிவடையும்போது வலுவான பாதுகாப்பு நடவடிக்கைகளும் நெறிமுறை மேற்பார்வையும் அவசியமாகிறது என்பதையும் இந்த விலகல் வெளிச்சம் போட்டுக் காட்டுகிறது.",
-    "slug": "former-anthropic-researcher-says-an-ipo-roadshow-slide-helped-push-him-out"
+    "hasContent": true,
+    "pubDate": "2026-11-14T00:11:35.000Z"
   },
   {
     "id": "e6444dcf67d2d09f",
+    "slug": "fed-s-jefferson-says-ai-may-lift-productivity-but-inflation-still-calls-the-shots",
     "title": "Fed’s Jefferson says AI may lift productivity, but inflation still calls the shots",
-    "summary": "AI's potential to boost productivity may be overshadowed by inflationary pressures, complicating the Fed's dual mandate of employment and price stability.\nThe post Fed’s Jefferson says AI may lift productivity, but inflation still calls the shots appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/fed-jefferson-ai-productivity-monetary-policy/",
-    "source": "CryptoBriefing",
     "tags": [
       "Federal Reserve"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-14T00:05:26.000Z",
-    "fetchedAt": "2026-11-14T02:36:45.294Z",
-    "isDuplicateOf": null,
-    "content": "Federal Reserve official Jefferson stated that artificial intelligence could potentially enhance economic productivity over time. However, persistent inflation remains the primary factor guiding monetary policy decisions. These ongoing inflationary pressures continue to complicate the central bank's dual mandate of achieving maximum employment and maintaining stable prices.",
-    "content_ta": "செயற்கை நுண்ணறிவு பொருளாதாரத்தின் உற்பத்தித் திறனை அதிகரிக்கக்கூடும் என்று Fed அதிகாரி Jefferson தெரிவித்துள்ளார். எனினும், தொடரும் பணவீக்கமே தற்போதைய நிதிக் கொள்கை முடிவுகளைத் தீர்மானிக்கும் முக்கிய காரணியாக உள்ளது. இந்த பணவீக்க அழுத்தங்கள் மத்திய வங்கியின் பணிகளை மேலும் சிக்கலாக்குகின்றன.",
-    "slug": "fed-s-jefferson-says-ai-may-lift-productivity-but-inflation-still-calls-the-shots"
+    "hasContent": true,
+    "pubDate": "2026-11-14T00:05:26.000Z"
   },
   {
     "id": "c8506b978934268e",
@@ -825,20 +808,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-13T17:06:51.000Z"
-  },
-  {
-    "id": "d5c81aad4bd777de",
-    "slug": "u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
-    "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
-    "tags": [
-      "U.S. Senate",
-      "SEC",
-      "Donald Trump",
-      "United States"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-13T17:05:43.000Z"
   }
 ]
