@@ -1,191 +1,402 @@
 [
   {
-    "id": "ed4e1fd7ee6a516c",
-    "title": "Is Ethereum the “worst asset of all time,” amid estimated $8.83 billion BitMine loss ?",
-    "summary": "The image shared by @ThinkingUSD pairs November holdings with an August average cost, while BitMine supplies no updated basis in its November release.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-    "hasSummary": true,
-    "link": "https://cryptoslate.com/is-ethereum-the-worst-asset-of-all-time-amid-estimated-8-83-billion-bitmine-loss/",
+    "id": "325d72c3f39e6276",
+    "slug": "robots-now-run-ai-written-code-without-an-ai-calling-the-shots-succeeding-92-of-the-time",
+    "title": "Robots now run AI-written code without an AI calling the shots, succeeding 92% of the time",
+    "tags": [
+      "CryptoSlate"
+    ],
     "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-15T14:40:28.000Z"
+  },
+  {
+    "id": "d401fe9aaec78abd",
+    "slug": "attackers-hijack-about-64-000-bitcoin-miners-and-point-13-eh-s-at-ocean",
+    "title": "Attackers hijack about 64,000 Bitcoin miners and point 13 EH/s at OCEAN",
+    "tags": [
+      "Bitcoin",
+      "OCEAN"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-15T14:35:53.000Z"
+  },
+  {
+    "id": "ff6f4328d8c9a913",
+    "slug": "1973-oil-crisis-echoes-in-current-market-volatility-concerns",
+    "title": "1973 oil crisis echoes in current market volatility concerns",
+    "tags": [
+      "Crypto Briefing"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-15T14:34:20.000Z"
+  },
+  {
+    "id": "42d1a2eb223f0ab0",
+    "slug": "enterprise-blockchain-is-going-to-come-back-from-the-dead",
+    "title": "Enterprise blockchain is going to come back from the dead",
+    "tags": [
+      "Enterprise blockchain"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-15T14:30:00.000Z"
+  },
+  {
+    "id": "f2d1db2f2851b8c6",
+    "slug": "best-reason-to-exist-dogecoin-creator-defends-bitcoin-s-role-as-401-k-alternative",
+    "title": "'Best Reason to Exist': Dogecoin Creator Defends Bitcoin’s Role as 401(k) Alternative",
+    "tags": [
+      "Dogecoin",
+      "Bitcoin"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-15T14:25:57.000Z"
+  },
+  {
+    "id": "75286341b01db517",
+    "title": "Second explosion reported in Marib amid rising tensions with Houthis",
+    "summary": "The escalating tensions in Marib could destabilize the region further, potentially impacting broader geopolitical dynamics and energy security.\nThe post Second explosion reported in Marib amid rising tensions with Houthis appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/second-explosion-reported-in-marib-amid-rising-tensions-with-houthis/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Marib",
+      "Houthis"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-15T14:23:20.000Z",
+    "fetchedAt": "2026-11-15T15:01:24.147Z",
+    "isDuplicateOf": null,
+    "content": "A second explosion has been reported in Marib amid rising security tensions involving the Houthis. This escalation in the region raises concerns about potential further destabilization, which could impact broader geopolitical stability and energy security. Observers are closely monitoring the unfolding situation as tensions continue to mount.",
+    "content_ta": "Houthis உடன் நிலவி வரும் பாதுகாப்புப் பதற்றங்களுக்கு மத்தியில் Marib-ல் இரண்டாவது வெடிவிபத்து பதிவாகியுள்ளது. இப்பகுதியில் அதிகரித்து வரும் பதற்றங்கள் மேலும் நிலையற்ற தன்மையை ஏற்படுத்தக்கூடும் என்ற கவலையை எழுப்பியுள்ளன, இது பரந்த புவிசார் அரசியல் ஸ்திரத்தன்மை மற்றும் எரிசக்தி பாதுகாப்பை பாதிக்கலாம்.",
+    "slug": "second-explosion-reported-in-marib-amid-rising-tensions-with-houthis"
+  },
+  {
+    "id": "4ef6d9485f48d1de",
+    "slug": "bitcoin-rebounds-5-5-off-62-000-low-as-satoshi-ally-adam-back-sees-bouncy-strength",
+    "title": "Bitcoin Rebounds 5.5% Off $62,000 Low as Satoshi Ally Adam Back Sees ‘Bouncy’ Strength",
+    "tags": [
+      "Bitcoin",
+      "Blockstream",
+      "Adam Back"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-15T14:11:45.000Z"
+  },
+  {
+    "id": "53b8b2287c66adb2",
+    "title": "Onramper Launches Chrome Extension for Crypto Quote Comparison",
+    "summary": "The Amsterdam fiat-to-crypto aggregator is bringing live quotes from 30+ licensed providers into Chrome's side panel for in-browser buying.\nThe post Onramper Launches Chrome Extension for Crypto Quote Comparison appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/onramper-launches-chrome-extension-for-crypto-quote-comparison/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Onramper",
+      "Amsterdam"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-15T14:00:18.000Z",
+    "fetchedAt": "2026-11-15T15:01:24.147Z",
+    "isDuplicateOf": null,
+    "content": "Onramper, a fiat-to-crypto aggregator based in Amsterdam, has launched a new Chrome extension designed for cryptocurrency quote comparison. The tool integrates live pricing quotes from over 30 licensed providers directly into the Chrome side panel, allowing users to conveniently buy digital assets while browsing the internet.",
+    "content_ta": "Amsterdam-ட்டை தலைமையிடமாகக் கொண்ட fiat-to-crypto திரட்டியான Onramper, கிரிப்டோகரன்சி விலைகளை ஒப்பிடுவதற்காக புதிய Chrome extension-ஐ அறிமுகப்படுத்தியுள்ளது. இந்த கருவியானது 30-க்கும் மேற்பட்ட உரிமம் பெற்ற வழங்குநர்களின் நேரலை விலைப்புள்ளிகளை நேரடியாக Chrome-ன் பக்கவாட்டுப் பலகத்தில் ஒருங்கிணைக்கிறது, இதன் மூலம் பயனர்கள் இணையத்தில் உலாவும்போது எளிதாக டிஜிட்டல் சொத்துக்களை வாங்க முடியும்.",
+    "slug": "onramper-launches-chrome-extension-for-crypto-quote-comparison"
+  },
+  {
+    "id": "11d28ec49b28e0ac",
+    "title": "Microsoft Ignite kicks off Nov. 17 with Copilot expected to take center stage",
+    "summary": "Microsoft's focus on AI at Ignite 2026 highlights the growing importance of adaptive tech in enterprise solutions and evolving billing models.\nThe post Microsoft Ignite kicks off Nov. 17 with Copilot expected to take center stage appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/microsoft-ignite-2026-copilot-updates/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Microsoft",
+      "Copilot"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-15T13:46:46.000Z",
+    "fetchedAt": "2026-11-15T15:01:24.147Z",
+    "isDuplicateOf": null,
+    "content": "Microsoft Ignite is scheduled to kick off on November 17, with Copilot expected to take center stage. The event is set to highlight Microsoft's strong focus on artificial intelligence, showcasing the growing importance of adaptive technology in enterprise solutions and evolving billing models for businesses worldwide.",
+    "content_ta": "Microsoft Ignite மாநாடு நவம்பர் 17-ஆம் தேதி தொடங்க உள்ளது, இதில் Copilot முக்கிய இடத்தைப் பிடிக்கும் என்று எதிர்பார்க்கப்படுகிறது. நிறுவனங்களின் தீர்வுகளில் செயற்கை நுண்ணறிவின் (AI) முக்கியத்துவத்தையும், வளர்ந்து வரும் தொழில்நுட்ப மாற்றங்களையும் இந்த நிகழ்வு முன்னிலைப்படுத்தவுள்ளது.",
+    "slug": "microsoft-ignite-kicks-off-nov-17-with-copilot-expected-to-take-center-stage"
+  },
+  {
+    "id": "b1e39e24eb2957ee",
+    "title": "Credo Technology outpaces Broadcom in AI networking growth",
+    "summary": "Credo's rapid AI networking growth highlights the potential for specialized tech firms to disrupt established giants, reshaping industry dynamics.\nThe post Credo Technology outpaces Broadcom in AI networking growth appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/credo-technology-outpaces-broadcom-ai-networking/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Credo Technology",
+      "Broadcom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-15T13:42:02.000Z",
+    "fetchedAt": "2026-11-15T15:01:24.147Z",
+    "isDuplicateOf": null,
+    "content": "Credo Technology has outpaced Broadcom in AI networking growth, showcasing the ability of specialized technology firms to challenge established industry giants. This rapid growth highlights shifting dynamics within the artificial intelligence networking sector, where smaller companies are increasingly making significant inroads.",
+    "content_ta": "AI நெட்வொர்க்கிங் வளர்ச்சியில் Broadcom நிறுவனத்தை விட Credo Technology வேகமாக முன்னேறியுள்ளது. இது நிறுவப்பட்ட மிகப்பெரிய நிறுவனங்களுக்கு சவாலளிக்கும் வகையில் சிறப்பு தொழில்நுட்ப நிறுவனங்களின் திறனைக் காட்டுகிறது. இந்த விரைவான வளர்ச்சி AI நெட்வொர்க்கிங் துறையில் மாறிவரும் சூழ்நிலையை வெளிப்படுத்துகிறது.",
+    "slug": "credo-technology-outpaces-broadcom-in-ai-networking-growth"
+  },
+  {
+    "id": "d81ae0a26c4cf036",
+    "title": "AMD lands a key role in Google’s new TPU 8tx AI system",
+    "summary": "AMD's enhanced security features in confidential computing could set a precedent for cloud providers, potentially expanding its market influence.\nThe post AMD lands a key role in Google’s new TPU 8tx AI system appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/amd-google-tpu-8tx-epyc-partnership/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "AMD",
+      "Google"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-15T13:28:57.000Z",
+    "fetchedAt": "2026-11-15T15:01:24.147Z",
+    "isDuplicateOf": null,
+    "content": "AMD has secured a significant role in Google’s newly introduced TPU 8tx AI system. The partnership highlights AMD's growing footprint in the cloud infrastructure and artificial intelligence sectors, potentially expanding its market influence as cloud providers increasingly adopt advanced hardware solutions.",
+    "content_ta": "Google-ன் புதிய TPU 8tx AI அமைப்பில் AMD ஒரு முக்கிய பங்கை பெற்றுள்ளது. இந்த ஒத்துழைப்பு கிளவுட் இன்ஃப்ராஸ்ட்ரக்சர் மற்றும் செயற்கை நுண்ணறிவு துறைகளில் AMD-ன் வளர்ந்து வரும் தாக்கத்தை எடுத்துக்காட்டுகிறது, மேலும் கிளவுட் வழங்குநர்கள் மேம்பட்ட வன்பொருள் தீர்வுகளை தொடர்ந்து ஏற்றுக்கொள்ளும்போது அதன் சந்தை செல்வாக்கை இது மேலும் விரிவுபடுத்தக்கூடும்.",
+    "slug": "amd-lands-a-key-role-in-google-s-new-tpu-8tx-ai-system"
+  },
+  {
+    "id": "9e8824aa107d18fc",
+    "title": "iShares Bitcoin Trust weathers $2.35B in outflows but stays positive for 2026",
+    "summary": "Despite significant outflows, iShares Bitcoin Trust's resilience highlights its dominance and suggests investor confidence in larger ETFs.\nThe post iShares Bitcoin Trust weathers $2.35B in outflows but stays positive for 2026 appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/ishares-bitcoin-trust-2026-flows-reversal/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "iShares Bitcoin Trust",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-15T13:21:29.000Z",
+    "fetchedAt": "2026-11-15T15:01:24.147Z",
+    "isDuplicateOf": null,
+    "content": "Despite facing substantial outflows totaling billions of dollars, the iShares Bitcoin Trust has demonstrated remarkable resilience. The fund managed to maintain a positive outlook for the year, highlighting its market dominance and sustained investor confidence in major exchange-traded funds within the evolving digital asset sector.",
+    "content_ta": "கோடிக்கணக்கான டாலர் வெளியேற்றங்களை எதிர்கொண்ட போதிலும், iShares Bitcoin Trust குறிப்பிடத்தக்க மீள்திறனைக் காட்டியுள்ளது. வளர்ந்துவரும் டிஜிட்டல் சொத்துத் துறையில் பெரிய அளவிலான எக்ஸ்சேஞ்ச்-ட்ரேடட் ஃபண்டுகளின் மீது முதலீட்டாளர்களின் நம்பிக்கையையும், அதன் சந்தை ஆதிக்கத்தையும் இந்த நிதி ஆதரித்துள்ளது.",
+    "slug": "ishares-bitcoin-trust-weathers-2-35b-in-outflows-but-stays-positive-for-2026"
+  },
+  {
+    "id": "66d6bffb4feca7eb",
+    "title": "Solana activates Breakpoint mode as its annual conference opens in London",
+    "summary": "Solana's conference in London highlights its strategic push to bridge traditional finance with crypto, potentially reshaping financial ecosystems.\nThe post Solana activates Breakpoint mode as its annual conference opens in London appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/solana-breakpoint-mode-london-conference/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Solana",
+      "London"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-15T13:05:34.000Z",
+    "fetchedAt": "2026-11-15T15:01:24.147Z",
+    "isDuplicateOf": null,
+    "content": "Solana has kicked off its annual Breakpoint conference in London. The major event focuses on bridging traditional finance with the crypto ecosystem, exploring potential ways to reshape global financial systems. Industry leaders and developers gathered to discuss strategic growth and upcoming developments for the network.",
+    "content_ta": "லண்டனில் Solana-வின் வருடாந்திர Breakpoint மாநாடு தொடங்கியது. பாரம்பரிய நிதியியலை crypto சுற்றுச்சூழல் அமைப்புடன் இணைப்பதில் இந்த முக்கிய நிகழ்வு கவனம் செலுத்துகிறது. உலகளாவிய நிதி அமைப்புகளை மறுவடிவமைப்பதற்கான சாத்தியக்கூறுகள் குறித்து இதில் விவாதிக்கப்படுகிறது.",
+    "slug": "solana-activates-breakpoint-mode-as-its-annual-conference-opens-in-london"
+  },
+  {
+    "id": "91b757c68cfff8aa",
+    "slug": "the-fed-could-rescue-bond-markets-and-still-make-life-harder-for-bitcoin",
+    "title": "The Fed could rescue bond markets and still make life harder for Bitcoin",
+    "tags": [
+      "Federal Reserve",
+      "Bitcoin"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-15T12:50:56.000Z"
+  },
+  {
+    "id": "154485307fdf7962",
+    "slug": "hyperliquid-whale-who-lost-10-million-now-bets-on-solana",
+    "title": "Hyperliquid Whale Who Lost $10 Million Now Bets on Solana",
+    "tags": [
+      "Hyperliquid",
+      "Ethereum",
+      "Solana"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-15T12:49:42.000Z"
+  },
+  {
+    "id": "385a878ba0545520",
+    "title": "Florida Woman Sentenced to Three Years in Business Email Scam That Drained $1,500,000+ From Victims",
+    "summary": "Federal prosecutors have secured a three-year prison sentence against a Florida woman involved in a business email compromise scheme that stole more than $1.5 million from victims across the country. Zamar McPherson, 50, of Boynton Beach, Florida, pleaded guilty to one count of conspiracy to commit bank and wire fraud along with two counts of […]\nThe post Florida Woman Sentenced to Three Years in Business Email Scam That Drained $1,500,000+ From Victims appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/11/15/florida-woman-sentenced-to-three-years-for-business-email-scam-defrauding-victims-of-millions/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "Florida",
+      "Boynton Beach",
+      "Zamar McPherson"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-15T12:45:21.000Z",
+    "fetchedAt": "2026-11-15T15:01:24.147Z",
+    "isDuplicateOf": null,
+    "content": "A Florida woman has been sentenced to three years in federal prison for her role in a business email compromise scheme. The scam defrauded victims across the country of more than $1,500,000. The defendant previously pleaded guilty to conspiracy to commit bank and wire fraud charges brought by federal prosecutors.",
+    "content_ta": "பிசினஸ் இமெயில் மோசடியில் ஈடுபட்டதற்காக ஃபுளோரிடாவைச் சேர்ந்த பெண்ணுக்கு மூன்று ஆண்டுகள் ஃபெடரல் சிறை தண்டனை விதிக்கப்பட்டுள்ளது. இந்த மோசதியின் மூலம் நாடு முழுவதும் உள்ள பாதிக்கப்பட்டவர்களிடமிருந்து 1,500,000 டாலருக்கும் அதிகமான தொகை ஏமாற்றப்பட்டுள்ளது. வங்கிக் மற்றும் ஒயர் மோசடி செய்ய சதி செய்த குற்றச்சாட்டைத்被告 முன்னதாக ஒப்புக்கொண்டார்.",
+    "slug": "florida-woman-sentenced-to-three-years-in-business-email-scam-that-drained-1-500-000-from-victims"
+  },
+  {
+    "id": "74a32f669c77e730",
+    "slug": "crypto-traders-blame-binance-for-bitcoin-drop-but-data-points-to-coinbase",
+    "title": "Crypto Traders Blame Binance for Bitcoin Drop, But Data Points to Coinbase",
+    "tags": [
+      "Binance",
+      "Bitcoin",
+      "Coinbase"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-15T12:26:20.000Z"
+  },
+  {
+    "id": "ed4e1fd7ee6a516c",
+    "slug": "is-ethereum-the-worst-asset-of-all-time-amid-estimated-8-83-billion-bitmine-loss",
+    "title": "Is Ethereum the “worst asset of all time,” amid estimated $8.83 billion BitMine loss ?",
     "tags": [
       "Ethereum",
       "BitMine"
     ],
+    "source": "CryptoSlate",
     "origin": "rss",
-    "pubDate": "2026-11-15T11:55:50.000Z",
-    "fetchedAt": "2026-11-15T12:01:37.182Z",
-    "isDuplicateOf": null,
-    "content": "A recent social media post questioned Ethereum's value following reports of an estimated billion-dollar loss tied to BitMine. However, analysis shows the comparison used mismatched dates by pairing November holdings with an August average cost, while BitMine provided no updated basis in its latest release.",
-    "content_ta": "BitMine உடன் தொடர்புடைய கோடிக்கணக்கான டாலர் இழப்பு பற்றிய தகவல்களுக்கு மத்தியில் Ethereum-ன் மதிப்பு குறித்து சமூக வலைதளங்களில் கேள்வி எழுப்பப்பட்டுள்ளது. இருப்பினும், நவம்பர் மாத இருப்புக்களுடன் ஆகஸ்ட் மாத சராசரி விலையை ஒப்பிட்டு தவறான தேதிகள் பயன்படுத்தப்பட்டதாக ஆய்வுகள் காட்டுகின்றன.",
-    "slug": "is-ethereum-the-worst-asset-of-all-time-amid-estimated-8-83-billion-bitmine-loss"
+    "hasContent": true,
+    "pubDate": "2026-11-15T11:55:50.000Z"
   },
   {
     "id": "63d7c5c0214b69c7",
+    "slug": "germany-s-bundestag-approves-customs-powers-to-seize-suspected-illicit-assets-including-crypto",
     "title": "Germany’s Bundestag approves customs powers to seize suspected illicit assets, including crypto",
-    "summary": "Germany's new law could set a precedent for other EU nations, enhancing scrutiny on asset origins and potentially increasing state revenues.\nThe post Germany’s Bundestag approves customs powers to seize suspected illicit assets, including crypto appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/germany-bundestag-customs-seize-illicit-assets-crypto/",
-    "source": "CryptoBriefing",
     "tags": [
       "Germany",
       "Bundestag",
       "European Union"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-15T11:51:06.000Z",
-    "fetchedAt": "2026-11-15T12:01:37.182Z",
-    "isDuplicateOf": null,
-    "content": "Germany's Bundestag has approved new customs powers allowing authorities to seize suspected illicit assets, including cryptocurrency. This legislation aims to enhance scrutiny regarding the origins of assets and could potentially establish a precedent for other European Union nations to follow in the fight against financial crimes.",
-    "content_ta": "ஜெர்மனியின் Bundestag அமைப்பு, கிரிப்டோகரன்சி உள்ளிட்ட சந்தேகத்திற்கிடமான சட்டவிரோத சொத்துக்களை பறிமுதல் செய்யும் புதிய சுங்க அதிகாரங்களுக்கு ஒப்புதல் அளித்துள்ளது. சொத்துக்களின் தோற்றம் குறித்த சோதனைகளை பலப்படுத்துவதை இந்த சட்டம் நோக்கமாகக் கொண்டுள்ளதுடன், நிதி குற்றங்களை எதிர்த்துப் போராடுவதில் ஐரோப்பிய ஒன்றியத்தின் பிற நாடுகளுக்கு ஒரு முன்மாதிரியாகவும் திகழக்கூடும்.",
-    "slug": "germany-s-bundestag-approves-customs-powers-to-seize-suspected-illicit-assets-including-crypto"
+    "hasContent": true,
+    "pubDate": "2026-11-15T11:51:06.000Z"
   },
   {
     "id": "b61c9a69b2383371",
+    "slug": "ethereum-price-analysis-can-eth-bounce-back-before-1-5k-comes-into-play",
     "title": "Ethereum Price Analysis: Can ETH Bounce Back Before $1.5K Comes Into Play?",
-    "summary": "Ethereum has rebounded toward $1.82K after a sharp selloff reached the marked liquidity level near $1.71K. Daily momentum is oversold, creating room for a relief rally, but the broader bearish structure remains intact as large futures orders appear during the decline. Ethereum Price Analysis: The Daily Chart The daily chart shows ETH extending its decline […]",
-    "hasSummary": true,
-    "link": "https://cryptopotato.com/ethereum-price-analysis-can-eth-bounce-back-before-1-5k-comes-into-play/",
-    "source": "CryptoPotato",
     "tags": [
       "Ethereum"
     ],
+    "source": "CryptoPotato",
     "origin": "rss",
-    "pubDate": "2026-11-15T11:40:33.000Z",
-    "fetchedAt": "2026-11-15T12:01:37.182Z",
-    "isDuplicateOf": null,
-    "content": "Ethereum recently rebounded toward $1.82K following a sharp selloff that neared the $1.71K liquidity level. Although daily momentum remains oversold and suggests the possibility of a relief rally, the overall bearish market structure persists. Traders continue to monitor price action closely as large futures orders appear amid the ongoing market decline.",
-    "content_ta": "Ethereum விலை கடந்த வீழ்ச்சிக்கு பிறகு $1.82K வரை மீண்டுள்ளது. சந்தை நிலவரம் தொடர்ந்து கரடி சந்தையின் பிடியில் இருப்பதால், வர்த்தகர்கள் விலை மாற்றங்களை உன்னிப்பாக கவனித்து வருகின்றனர்.",
-    "slug": "ethereum-price-analysis-can-eth-bounce-back-before-1-5k-comes-into-play"
+    "hasContent": true,
+    "pubDate": "2026-11-15T11:40:33.000Z"
   },
   {
     "id": "dbaa90563321cf94",
+    "slug": "southern-armed-forces-reposition-troops-focus-shifts-to-defending-aden",
     "title": "Southern Armed Forces reposition troops, focus shifts to defending Aden",
-    "summary": "The troop repositioning may create a power vacuum, increasing the risk of Houthi advances and impacting regional stability and market perceptions.\nThe post Southern Armed Forces reposition troops, focus shifts to defending Aden appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/southern-armed-forces-reposition-troops-focus-shifts-to-defending-aden/",
-    "source": "CryptoBriefing",
     "tags": [
       "Aden",
       "Southern Armed Forces",
       "Houthi"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-15T10:40:41.000Z",
-    "fetchedAt": "2026-11-15T12:01:37.182Z",
-    "isDuplicateOf": null,
-    "content": "The Southern Armed Forces have repositioned their troops, shifting their primary focus to defending Aden. This strategic movement could potentially create a power vacuum, raising concerns about possible Houthi advances. Observers note that these developments may impact overall regional stability as well as broader market perceptions.",
-    "content_ta": "Southern Armed Forces தங்கள் படைகளை மறுசீரமைத்து, Aden-ஐ பாதுகாப்பதில் தங்கள் கவனத்தை திருப்பியுள்ளன. இந்த நகர்வு ஒரு அதிகார வெற்றிடத்தை உருவாக்கி, Houthi முன்னேற்றங்கள் குறித்த அச்சத்தை அதிகரிக்கக்கூடும். இந்த மாற்றங்கள் பிராந்திய ஸ்திரத்தன்மை மற்றும் சந்தை நிலவரங்களை பாதிக்கலாம்.",
-    "slug": "southern-armed-forces-reposition-troops-focus-shifts-to-defending-aden"
+    "hasContent": true,
+    "pubDate": "2026-11-15T10:40:41.000Z"
   },
   {
     "id": "9b865a953642f6a0",
+    "slug": "cardano-s-hoskinson-says-everyone-will-be-happy-next-year",
     "title": "Cardano's Hoskinson Says Everyone Will Be Happy Next Year",
-    "summary": "Cardano founder Charles Hoskinson has assured frustrated ADA holders that things will get better next year, even as the cryptocurrency plunges 95% from its all-time high and risks falling out of the top 20.",
-    "hasSummary": true,
-    "link": "https://u.today/cardanos-hoskinson-says-everyone-will-be-happy-next-year",
-    "source": "U.Today",
     "tags": [],
+    "source": "U.Today",
     "origin": "rss",
-    "pubDate": "2026-11-15T10:40:24.000Z",
-    "fetchedAt": "2026-11-15T12:01:37.182Z",
-    "isDuplicateOf": null,
-    "content": null,
-    "slug": "cardano-s-hoskinson-says-everyone-will-be-happy-next-year"
+    "hasContent": false,
+    "pubDate": "2026-11-15T10:40:24.000Z"
   },
   {
     "id": "8bf48de6470a69a0",
+    "slug": "strategy-is-officially-out-of-msci-what-it-could-mean-for-mstr-and-bitcoin",
     "title": "Strategy Is Officially Out of MSCI: What It Could Mean for MSTR and Bitcoin",
-    "summary": "Will BTC feel the impact directly?",
-    "hasSummary": true,
-    "link": "https://cryptopotato.com/strategy-is-officially-out-of-msci-what-it-could-mean-for-mstr-and-bitcoin/",
-    "source": "CryptoPotato",
     "tags": [
       "MicroStrategy",
       "MSCI",
       "Bitcoin"
     ],
+    "source": "CryptoPotato",
     "origin": "rss",
-    "pubDate": "2026-11-15T10:32:13.000Z",
-    "fetchedAt": "2026-11-15T12:01:37.182Z",
-    "isDuplicateOf": null,
-    "content": "MicroStrategy has officially exited the MSCI indices, sparking questions about the potential impact on MSTR stock and Bitcoin. Investors are closely watching how this exclusion will influence market dynamics and institutional interest in the company's aggressive cryptocurrency investment strategy moving forward.",
-    "content_ta": "MicroStrategy நிறுவனம் அதிகாரப்பூர்வமாக MSCI குறியீடுகளில் இருந்து வெளியேறி உள்ளது. இது MSTR பங்குகள் மற்றும் Bitcoin மீதான சாத்தியமான தாக்கம் குறித்து கேள்விகளை எழுப்பியுள்ளது. இந்த விலகல் சந்தை இயக்கவியலையும், நிறுவனத்தின் கிரிப்டோகரன்சி முதலீட்டு உத்தியையும் எவ்வாறு பாதிக்கும் என்பதை முதலீட்டாளர்கள் உன்னிப்பாக கவனித்து வருகின்றனர்.",
-    "slug": "strategy-is-officially-out-of-msci-what-it-could-mean-for-mstr-and-bitcoin"
+    "hasContent": true,
+    "pubDate": "2026-11-15T10:32:13.000Z"
   },
   {
     "id": "53df252c38848b15",
+    "slug": "bank-of-america-sued-by-investors-who-claim-bank-hid-anti-money-laundering-failures-before-over-1",
     "title": "Bank of America Sued by Investors Who Claim Bank Hid Anti-Money-Laundering Failures Before Over $1,210,000,000 in Penalties",
-    "summary": "A class action lawsuit has accused Bank of America of hiding major anti-money-laundering failures from its investors. The suit alleges the bank assured shareholders that its compliance programs were sound while its systems were failing, reports InvestmentNews. The complaint was filed in federal court in New York on November 12th. A December 2024 consent order […]\nThe post Bank of America Sued by Investors Who Claim Bank Hid Anti-Money-Laundering Failures Before Over $1,210,000,000 in Penalties appeared first on The Daily Hodl.",
-    "hasSummary": true,
-    "link": "https://dailyhodl.com/2026/11/15/bank-of-america-sued-by-investors-who-claim-bank-hid-anti-money-laundering-failures-before-over-1210000000-in-penalties/",
-    "source": "The Daily Hodl",
     "tags": [
       "Bank of America",
       "United States"
     ],
+    "source": "The Daily Hodl",
     "origin": "rss",
-    "pubDate": "2026-11-15T10:15:52.000Z",
-    "fetchedAt": "2026-11-15T12:01:37.182Z",
-    "isDuplicateOf": null,
-    "content": "Bank of America faces a class action lawsuit filed by investors in federal court in New York. The complaint alleges that the bank concealed significant anti-money-laundering compliance failures from shareholders while assuring them that its systems were sound, prior to facing massive financial penalties.",
-    "content_ta": "Bank of America- மீது முதலீட்டாளர்கள் நியூயார்க் பெடரல் நீதிமன்றத்தில் வகுப்பு நடவடிக்கை வழக்கை தாக்கல் செய்துள்ளனர். வங்கி தனது கணினி அமைப்புகள் சிறந்த முறையில் செயல்படுவதாக பங்குதாரர்களுக்கு உறுதியளித்துவிட்டு, பெரிய அளவிலான பணமோசடி தடுப்பு முறைசார் தோல்விகளை மறைத்ததாக இந்த வழக்கின் புகார் குற்றம்சாட்டுகிறது.",
-    "slug": "bank-of-america-sued-by-investors-who-claim-bank-hid-anti-money-laundering-failures-before-over-1"
+    "hasContent": true,
+    "pubDate": "2026-11-15T10:15:52.000Z"
   },
   {
     "id": "2f0344e5359984e0",
+    "slug": "bahrain-intercepts-iranian-drone-attacks-amid-regional-tensions",
     "title": "Bahrain intercepts Iranian drone attacks amid regional tensions",
-    "summary": "Bahrain's interception of Iranian drones signals escalating regional tensions, impacting military strategies and potential airspace disruptions.\nThe post Bahrain intercepts Iranian drone attacks amid regional tensions appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/bahrain-intercepts-iranian-drone-attacks-amid-regional-tensions/",
-    "source": "CryptoBriefing",
     "tags": [
       "Bahrain",
       "Iran"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-15T10:13:00.000Z",
-    "fetchedAt": "2026-11-15T12:01:37.182Z",
-    "isDuplicateOf": null,
-    "content": "Bahrain successfully intercepted Iranian drone attacks amid escalating regional tensions. This security incident highlights the growing military volatility in the region, impacting defense strategies and raising concerns over potential airspace disruptions. The event underscores the heightened state of alert among nations responding to cross-border aerial threats.",
-    "content_ta": "ம â வ â பத â இ â ண â",
-    "slug": "bahrain-intercepts-iranian-drone-attacks-amid-regional-tensions"
+    "hasContent": true,
+    "pubDate": "2026-11-15T10:13:00.000Z"
   },
   {
     "id": "44922df9e1681eff",
+    "slug": "new-monero-privacy-update-might-be-coming-soon-key-improvement",
     "title": "New Monero Privacy Update Might Be Coming Soon: Key Improvement",
-    "summary": "A new Monero pull request aims to close a timing gap that can expose transactions arriving from Tor and I2P.",
-    "hasSummary": true,
-    "link": "https://u.today/new-monero-privacy-update-might-be-coming-soon-key-improvement",
-    "source": "U.Today",
     "tags": [
       "Monero",
       "Tor",
       "I2P"
     ],
+    "source": "U.Today",
     "origin": "rss",
-    "pubDate": "2026-11-15T10:05:00.000Z",
-    "fetchedAt": "2026-11-15T12:01:37.182Z",
-    "isDuplicateOf": null,
-    "content": "A new Monero pull request is currently in development, aiming to implement a key improvement for the privacy-focused cryptocurrency. The upcoming update is designed to close a timing gap that could potentially expose transactions arriving from privacy networks like Tor and I2P. This enhancement is expected to further strengthen user anonymity and security on the Monero network once integrated.",
-    "content_ta": "மனேரோ (Monero) கிரிப்டோகரன்சியின் பிரைவசியை மேம்படுத்தும் வகையில் புதிய புல் ரிக்வெஸ்ட் (pull request) ஒன்று உருவாக்கப்பட்டு வருகிறது. Tor மற்றும் I2P போன்ற பிரைவசி நெட்வொர்க்குகளில் இருந்து வரும் பரிவர்த்தனைகளை வெளிப்படுத்தக்கூடிய நேர இடைவெளியை (timing gap) மூடுவதே இந்த வரவிருக்கும் அப்டேட்டின் முக்கிய நோக்கமாகும். இந்த அம்சம் இணைக்கப்படும் போது, ​​நெட்வொர்க்கில் பயனர்களின் பாதுகாப்பும் அநாமதேயமும் மேலும் பலப்படுத்தப்படும்.",
-    "slug": "new-monero-privacy-update-might-be-coming-soon-key-improvement"
+    "hasContent": true,
+    "pubDate": "2026-11-15T10:05:00.000Z"
   },
   {
     "id": "1ddf9aecc3ebbff7",
+    "slug": "ai-agent-identity-needs-blockchain-legal-experts-say",
     "title": "AI Agent Identity Needs Blockchain, Legal Experts Say",
-    "summary": "AI agents already spend money, but the law still expects a human. Legal experts say AI agent identity built on ZK proofs can close the gap.\nThe post AI Agent Identity Needs Blockchain, Legal Experts Say appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/ai-agent-identity-blockchain-legal-experts/",
-    "source": "BeInCrypto",
     "tags": [
       "BeInCrypto"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-11-15T10:00:00.000Z",
-    "fetchedAt": "2026-11-15T12:01:37.182Z",
-    "isDuplicateOf": null,
-    "content": "AI agents are increasingly managing transactions and spending money, yet current legal frameworks still require a human counterpart. Legal experts emphasize that establishing decentralized AI agent identity using blockchain technology and zero-knowledge proofs is essential to bridge this gap between autonomous digital actors and existing legal systems.",
-    "content_ta": "AI ஏஜெண்டுகள் தற்போது பணப்பரிமாற்றங்களை மேற்கொண்டு வரும் நிலையில், தற்போதைய சட்டங்கள் இன்னும் ஒரு மனிதனின் பங்களிப்பையே எதிர்பார்க்கின்றன. இந்த இடைவெளியை நிரப்ப பிளாக்சைன் தொழில்நுட்பம் மற்றும் ZK proofs ஐப் பயன்படுத்தி AI ஏஜெண்டுகளுக்கு தனித்துவமான அடையாளத்தை உருவாக்குவது அவசியம் என்று சட்ட வல்லுநர்கள் தெரிவிக்கின்றனர்.",
-    "slug": "ai-agent-identity-needs-blockchain-legal-experts-say"
+    "hasContent": true,
+    "pubDate": "2026-11-15T10:00:00.000Z"
   },
   {
     "id": "713b058517de2ba4",
@@ -624,228 +835,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-14T20:42:38.000Z"
-  },
-  {
-    "id": "2499a1d5a2cebf0d",
-    "slug": "us-government-holds-about-20-billion-in-bitcoin-and-ether",
-    "title": "US government holds about $20 billion in Bitcoin and Ether",
-    "tags": [
-      "United States",
-      "Bitcoin",
-      "Ether"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-14T20:35:47.000Z"
-  },
-  {
-    "id": "39b8bd674a5463bc",
-    "slug": "trump-nominates-4-sec-and-cftc-picks-including-clarity-act-negotiators",
-    "title": "Trump Nominates 4 SEC and CFTC Picks, Including CLARITY Act Negotiators",
-    "tags": [
-      "SEC",
-      "CFTC",
-      "Senate Banking Committee",
-      "Kristin Johnson",
-      "Steven Levine",
-      "Donald Trump"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-14T20:28:55.000Z"
-  },
-  {
-    "id": "3d532f2d7cf799ad",
-    "slug": "amd-just-had-its-biggest-run-against-nvidia-since-1999-can-it-survive-earnings",
-    "title": "AMD Just Had Its Biggest Run Against Nvidia Since 1999. Can It Survive Earnings?",
-    "tags": [
-      "AMD",
-      "Nvidia"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-14T20:06:56.000Z"
-  },
-  {
-    "id": "a4be0ee842b83700",
-    "slug": "xrp-price-prediction-these-two-factors-can-help-altcoin-reclaim-1-2-level",
-    "title": "XRP price prediction — These TWO factors can help altcoin reclaim $1.2-level",
-    "tags": [],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-14T20:00:23.000Z"
-  },
-  {
-    "id": "7dcd3350cdfc2496",
-    "slug": "analyst-explains-why-bitcoin-dumped-to-65k-on-saturday-details",
-    "title": "Analyst Explains Why Bitcoin Dumped to $65K on Saturday: Details",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-14T19:47:28.000Z"
-  },
-  {
-    "id": "1c1e199855355bd2",
-    "slug": "your-wallet-may-show-a-dollar-balance-for-fake-usdt-that-you-cannot-sell",
-    "title": "Your wallet may show a dollar balance for fake USDT that you cannot sell",
-    "tags": [
-      "USDT",
-      "CryptoSlate"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-14T19:40:06.000Z"
-  },
-  {
-    "id": "b19ae9723b72b80c",
-    "slug": "monolithic-power-crosses-1-billion-in-quarterly-revenue-as-ai-data-center-demand-surges",
-    "title": "Monolithic Power crosses $1 billion in quarterly revenue as AI data center demand surges",
-    "tags": [
-      "Monolithic Power"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-14T19:34:36.000Z"
-  },
-  {
-    "id": "84374d1f915410bf",
-    "slug": "hoskinson-credits-cardano-s-staking-model-after-binance-hack-leaves-network-unaffected",
-    "title": "Hoskinson Credits Cardano’s Staking Model After Binance Hack Leaves Network Unaffected",
-    "tags": [
-      "Charles Hoskinson",
-      "Cardano",
-      "Binance",
-      "Midnight"
-    ],
-    "source": "ZyCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-14T19:21:45.000Z"
-  },
-  {
-    "id": "1d829ea32f6f9289",
-    "slug": "louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency",
-    "title": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
-    "tags": [
-      "CFTC",
-      "Louisiana"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-14T19:06:59.000Z"
-  },
-  {
-    "id": "00da6122cd68148f",
-    "slug": "silicon-motion-reports-record-560-2-million-quarter-guides-for-at-least-40-growth-in-2027",
-    "title": "Silicon Motion reports record $560.2 million quarter, guides for at least 40% growth in 2027",
-    "tags": [
-      "Silicon Motion"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-14T19:06:12.000Z"
-  },
-  {
-    "id": "85874e0b419de7bb",
-    "slug": "amazon-named-as-fermi-s-600-mw-customer-for-project-matador",
-    "title": "Amazon named as Fermi’s 600 MW customer for Project Matador",
-    "tags": [
-      "Amazon",
-      "Fermi"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-14T19:05:24.000Z"
-  },
-  {
-    "id": "6f2a10c856087f82",
-    "slug": "allegro-reports-277m-in-q2-sales-as-ai-data-centers-and-cars-lift-chip-demand",
-    "title": "Allegro reports $277M in Q2 sales as AI data centers and cars lift chip demand",
-    "tags": [
-      "Allegro"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-14T18:51:07.000Z"
-  },
-  {
-    "id": "31e4e1e524e73bda",
-    "slug": "mica-gave-crypto-a-passport-but-customers-still-face-borders",
-    "title": "MiCA gave crypto a passport, but customers still face borders",
-    "tags": [
-      "Hungary",
-      "Bitvavo"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-14T18:40:48.000Z"
-  },
-  {
-    "id": "9b57bb0e67043e71",
-    "slug": "new-york-attorney-sentenced-in-connecticut-for-embezzling-over-500-000-from-trust",
-    "title": "New York Attorney Sentenced in Connecticut for Embezzling Over $500,000 from Trust",
-    "tags": [
-      "Edward W. Miller",
-      "New York",
-      "Connecticut"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-14T17:55:34.000Z"
-  },
-  {
-    "id": "69d1d86bdd56a668",
-    "slug": "eth-tanks-another-5-as-ethereum-foundation-keeps-selling-and-schiff-sounds-the-alarm",
-    "title": "ETH Tanks Another 5% as Ethereum Foundation Keeps Selling and Schiff Sounds the Alarm",
-    "tags": [
-      "Ethereum",
-      "Ethereum Foundation",
-      "Peter Schiff"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-14T17:05:53.000Z"
-  },
-  {
-    "id": "839fe8948a8cc10c",
-    "slug": "petition-for-jensen-huang-s-return-as-nvidia-ceo-hits-100-000-signatures",
-    "title": "Petition for Jensen Huang’s return as Nvidia CEO hits 100,000 signatures",
-    "tags": [
-      "Jensen Huang",
-      "Nvidia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-14T17:04:02.000Z"
-  },
-  {
-    "id": "819687e41f2932c6",
-    "slug": "why-isn-t-avalanche-s-295-defi-deposit-surge-enough-for-avax-s-price",
-    "title": "Why isn’t Avalanche’s 295% DeFi deposit surge enough for AVAX’s price?",
-    "tags": [
-      "Avalanche",
-      "AVAX"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-14T17:00:39.000Z"
   }
 ]
