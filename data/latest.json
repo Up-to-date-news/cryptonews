@@ -1,162 +1,132 @@
 [
   {
-    "id": "10f2123f431ea0be",
-    "title": "Aave’s revenue falls $10M in Q3, but one metric tells a new story",
-    "summary": "Aave Labs’ quarterly breakdown shows lower liquidation receipts explain 39% of the revenue decline, while a separate dashboard reports rising net income.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "id": "9a38fc36eebf400a",
+    "title": "Analyzing XRP’s $44M liquidation imbalance – Is a market reset underway?",
+    "summary": "XRP's derivatives market is cooling after a wave of forced liquidations, but persistent ETF withdrawals could limit any price recovery.",
     "hasSummary": true,
-    "link": "https://cryptoslate.com/aaves-revenue-falls-10m-in-q3-but-one-metric-tells-a-new-story/",
-    "source": "CryptoSlate",
+    "link": "https://ambcrypto.com/analyzing-xrps-44m-liquidation-imbalance-is-a-market-reset-underway/",
+    "source": "AMBCrypto",
+    "tags": [
+      "XRP"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-17T00:00:34.000Z",
+    "fetchedAt": "2026-11-17T00:01:34.035Z",
+    "isDuplicateOf": null,
+    "content": "XRP's derivatives market is currently cooling following a significant wave of forced liquidations, resulting in a notable $44 million liquidation imbalance. While these liquidations indicate that the market is adjusting, persistent ETF withdrawals could potentially limit any near-term price recovery for the cryptocurrency as traders monitor upcoming market trends.",
+    "content_ta": "XRP-ன் டெரிவேட்டிவ்ஸ் சந்தையானது குறிப்பிடத்தக்க கட்டாய லிக்யிடேஷன்களுக்குப் பிறகு தற்போது அமைதியடைந்து வருகிறது, இதன் காரணமாக 44 மில்லியன் டாலர் லிக்யிடேஷன் ஏற்றத்தாழ்வு ஏற்பட்டுள்ளது. சந்தை சரிசெய்யப்படுவதை இது காட்டினாலும், தொடர்ந்து நடைபெறும் ETF வெளியேற்றங்கள் இந்த கிரிப்டோகரன்சியின் விலை மீட்சியை கட்டுப்படுத்தக்கூடும்.",
+    "slug": "analyzing-xrp-s-44m-liquidation-imbalance-is-a-market-reset-underway"
+  },
+  {
+    "id": "10f2123f431ea0be",
+    "slug": "aave-s-revenue-falls-10m-in-q3-but-one-metric-tells-a-new-story",
+    "title": "Aave’s revenue falls $10M in Q3, but one metric tells a new story",
     "tags": [
       "Aave",
       "Aave Labs",
       "CryptoSlate"
     ],
+    "source": "CryptoSlate",
     "origin": "rss",
-    "pubDate": "2026-11-16T23:30:57.000Z",
-    "fetchedAt": "2026-11-16T23:33:38.462Z",
-    "isDuplicateOf": null,
-    "content": "DeFi protocol Aave experienced a $10 million drop in revenue during the third quarter. According to quarterly data, a significant portion of this decline was driven by lower liquidation receipts. However, a separate dashboard highlights that the platform's net income actually increased, presenting a more complex financial picture for the project.",
-    "content_ta": "DeFi புரோட்டோகால் ஆன Aave-ன் வருவாய் மூன்றாம் காலாண்டில் 10 மில்லியன் டாலர் சரிவை சந்தித்துள்ளது. காலாண்டு தரவுகளின்படி, இந்த வருவாய் குறைவுக்குக் குறைந்த அளவிலான லிக்விடேஷன் ரசீதுகளே முக்கியக் காரணம் ஆகும். இருப்பினும், மற்றொரு தரவுப் பலகம் பிளாட்ஃபார்மின் நிகர வருமானம் உண்மையில் அதிகரித்துள்ளதைக் காட்டுகிறது.",
-    "slug": "aave-s-revenue-falls-10m-in-q3-but-one-metric-tells-a-new-story"
+    "hasContent": true,
+    "pubDate": "2026-11-16T23:30:57.000Z"
   },
   {
     "id": "676ae43e05058ae6",
+    "slug": "cftc-backs-blockchain-based-derivatives-infrastructure-as-backpack-tzero-win-approvals",
     "title": "CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals",
-    "summary": "The CFTC has approved the first set of applications to establish regulated derivatives and exchange clearing operations that use blockchain.",
-    "hasSummary": true,
-    "link": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
-    "source": "The Block",
     "tags": [
       "CFTC",
       "Backpack",
       "tZERO"
     ],
+    "source": "The Block",
     "origin": "rss",
-    "pubDate": "2026-11-16T23:27:15.000Z",
-    "fetchedAt": "2026-11-16T23:33:38.462Z",
-    "isDuplicateOf": null,
-    "content": "The Commodity Futures Trading Commission has backed blockchain-based derivatives infrastructure by approving the first set of applications for regulated derivatives and exchange clearing operations utilizing blockchain technology. Companies including Backpack and tZERO secured key regulatory approvals in this significant milestone for digital asset market infrastructure and distributed ledger integration within traditional financial systems.",
-    "content_ta": "பிளாக்செயின் தொழில்நுட்பத்தைப் பயன்படுத்தி ஒழுங்குபடுத்தப்பட்ட டெரிவேட்டிவ்கள் மற்றும் பரிமாற்ற கிளியரிங் செயல்பாடுகளை நிறுவுவதற்கான முதல் தொகுதி விண்ணப்பங்களுக்கு CFTC ஒப்புதல் அளித்துள்ளது. இந்த முக்கிய மைல்கல்லில் Backpack மற்றும் tZERO உள்ளிட்ட நிறுவனங்கள் ஒழுங்குமுறை ஒப்புதல்களைப் பெற்றுள்ளன.",
-    "slug": "cftc-backs-blockchain-based-derivatives-infrastructure-as-backpack-tzero-win-approvals"
+    "hasContent": true,
+    "pubDate": "2026-11-16T23:27:15.000Z"
   },
   {
     "id": "45f79c08e5acb20a",
+    "slug": "paypal-tracks-53-billion-in-treasury-cash-with-an-ai-agent",
     "title": "PayPal Tracks $53 Billion in Treasury Cash With an AI Agent",
-    "summary": "Ask PayPal’s treasury team where its cash sits, and the answer now comes from a chat window. A Deutsche Bank case study describes how that change unfolded inside the company. The system handles $53 billion in corporate cash and customer funds, and the team once relied on 90 spreadsheets to track it. Cash visibility across […]\nThe post PayPal Tracks $53 Billion in Treasury Cash With an AI Agent appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/paypal-tracks-53-billion-in-treasury-cash-with-an-ai-agent/",
-    "source": "PYMNTS",
     "tags": [
       "PayPal",
       "Deutsche Bank"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-11-16T23:21:16.000Z",
-    "fetchedAt": "2026-11-16T23:33:38.463Z",
-    "isDuplicateOf": null,
-    "content": "PayPal is utilizing an artificial intelligence chat agent to manage and track $53 billion in corporate treasury cash and customer funds. According to a Deutsche Bank case study, this new system replaces a cumbersome process that previously relied on 90 different spreadsheets, significantly improving cash visibility and efficiency for the company's treasury team.",
-    "content_ta": "PayPal நிறுவனம் தனது கார்ப்பரேட் கருவூல பணத்தையும் வாடிக்கையாளர் நிதியையும் கண்காணிக்கவும் நிர்வகிக்கவும் AI சாட் முகவரைப் பயன்படுத்துகிறது. Deutsche Bank-ன் ஆய்வுப்படி, முன்னர் 90 ஸ்பிரட்சீட்களை நம்பியிருந்த சிக்கலான முறைக்கு மாற்றாக இந்த புதிய அமைப்பு வந்துள்ளது, இது கருவூலக் குழுவின் பணப் பார்வையை மற்றும் செயல்திறனை கணிசமாக மேம்படுத்தியுள்ளது.",
-    "slug": "paypal-tracks-53-billion-in-treasury-cash-with-an-ai-agent"
+    "hasContent": true,
+    "pubDate": "2026-11-16T23:21:16.000Z"
   },
   {
     "id": "c86529a8198b3b33",
+    "slug": "backpack-wins-us-clearing-registration-as-separate-exchange-bid-remains-pending",
     "title": "Backpack Wins US Clearing Registration as Separate Exchange Bid Remains Pending",
-    "summary": "Backpack Clearing’s CFTC registration covers specified derivatives, while TLD Markets’ separate US exchange application remains pending.",
-    "hasSummary": true,
-    "link": "https://www.newsbtc.com/regulation/backpack-cftc-clearing-registration-exchange-bid-pending/",
-    "source": "NewsBTC",
     "tags": [
       "Backpack",
       "TLD Markets",
       "CFTC",
       "United States"
     ],
+    "source": "NewsBTC",
     "origin": "rss",
-    "pubDate": "2026-11-16T23:00:00.000Z",
-    "fetchedAt": "2026-11-16T23:33:38.462Z",
-    "isDuplicateOf": null,
-    "content": "Backpack Clearing has successfully secured US regulatory registration from the CFTC to cover specified derivatives. Meanwhile, a separate application submitted by TLD Markets to operate a US exchange continues to remain pending with regulators as the companies pursue their respective operational approvals.",
-    "content_ta": "Backpack Clearing நிறுவனம் CFTC-யிடமிருந்து குறிப்பிட்ட டெரிவேட்டிவ்களை நிர்வகிக்க அமெரிக்க ஒழுங்குமுறைப் பதிவு அனுமதியைப் பெற்றுள்ளது. இதற்கிடையில், TLD Markets நிறுவனத்தின் தனித்த அமெரிக்க பரிவர்த்தனைக்கான விண்ணப்பம் இன்னும் பரிசீலனையில் உள்ளது.",
-    "slug": "backpack-wins-us-clearing-registration-as-separate-exchange-bid-remains-pending"
+    "hasContent": true,
+    "pubDate": "2026-11-16T23:00:00.000Z"
   },
   {
     "id": "1b6c19c649b066a2",
+    "slug": "how-to-buy-the-anthropic-ipo-stock-crypto-traders-already-price-it-26-higher",
     "title": "How to Buy the Anthropic IPO Stock? Crypto Traders Already Price It 26% Higher",
-    "summary": "Anthropic, the company behind the Claude chatbot, is expected to price its stock market debut on Wednesday. Its shares are due to start trading on Nasdaq under the ticker ANT on Thursday. Crypto traders have already set their own price. A contract tracking ANT on Hyperliquid, a crypto trading platform, traded at $98.67 on Monday.\nThe post How to Buy the Anthropic IPO Stock? Crypto Traders Already Price It 26% Higher appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/how-to-buy-anthropic-ipo-ant-shares/",
-    "source": "BeInCrypto",
     "tags": [
       "Anthropic",
       "Claude",
       "Nasdaq",
       "Hyperliquid"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-11-16T23:00:00.000Z",
-    "fetchedAt": "2026-11-16T23:33:38.462Z",
-    "isDuplicateOf": null,
-    "content": "Anthropic, the creator of the Claude chatbot, is preparing for its highly anticipated stock market debut. Shares are scheduled to begin trading on Nasdaq under the ticker ANT. Meanwhile, crypto traders on the Hyperliquid platform have already established a market price for the asset, trading the tokenized contract at a significant premium ahead of the official public offering.",
-    "content_ta": "Claude chatbot-ஐ உருவாக்கிய நிறுவனமான Anthropic, தனது பங்குச் சந்தை அறிமுகத்திற்கு தயாராகி வருகிறது. ANT என்ற குறியீட்டின் கீழ் Nasdaq-ல் இதன் பங்குகள் வர்த்தகம் செய்யப்பட உள்ளன. இதற்கிடையில், Hyperliquid தளத்தில் உள்ள கிரிப்டோ வர்த்தகர்கள் இந்த சொத்துக்கான விலையை ஏற்கனவே நிர்ணயித்துள்ளனர், மேலும் அதிகாரப்பூர்வ பொதுப் பங்கு வெளியீட்டிற்கு முன்பே டோக்கன் செய்யப்பட்ட ஒப்பந்தத்தை வர்த்தகம் செய்து வருகின்றனர்.",
-    "slug": "how-to-buy-the-anthropic-ipo-stock-crypto-traders-already-price-it-26-higher"
+    "hasContent": true,
+    "pubDate": "2026-11-16T23:00:00.000Z"
   },
   {
     "id": "4e584e02bc638a8f",
+    "slug": "german-lawmakers-back-crypto-freezes-outside-criminal-cases",
     "title": "German lawmakers back crypto freezes outside criminal cases",
-    "summary": "Customs authorities could hold “suspicious” assets for 30 days under the bill, with court oversight for extensions and disputed confiscation.",
-    "hasSummary": true,
-    "link": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph",
     "tags": [
       "Germany"
     ],
+    "source": "Cointelegraph",
     "origin": "rss",
-    "pubDate": "2026-11-16T22:46:44.000Z",
-    "fetchedAt": "2026-11-16T23:33:38.462Z",
-    "isDuplicateOf": null,
-    "content": "German lawmakers have backed a new bill allowing customs authorities to freeze crypto assets outside of criminal cases. Under the proposed legislation, suspicious digital assets can be held for up to 30 days. Extensions and any disputed confiscations will require court oversight. This measure aims to strengthen regulatory control and prevent illicit financial activities involving digital currencies.",
-    "content_ta": "கிரிப்டோ சொத்துக்களை கிரிமினல் வழக்குகள் இல்லாமலேயே முடக்க அனுமதிக்கும் புதிய மசோதாவிற்கு ஜெர்மன் நாடாளுமன்ற உறுப்பினர்கள் ஆதரவு அளித்துள்ளனர். இந்த மசோதாவின் கீழ், சந்தேகத்திற்கிடமான டிஜிட்டல் சொத்துக்களை சுங்கத்துறை அதிகாரிகள் 30 நாட்கள் வரை வைத்திருக்க முடியும். இந்த கால நீட்டிப்பு மற்றும் பறிமுதல் தொடர்பான சர்ச்சைகளுக்கு நீதிமன்ற மேற்பார்வை தேவைப்படும்.",
-    "slug": "german-lawmakers-back-crypto-freezes-outside-criminal-cases"
+    "hasContent": true,
+    "pubDate": "2026-11-16T22:46:44.000Z"
   },
   {
     "id": "9fe3299b54d4be4e",
+    "slug": "berkshire-hathaway-s-only-new-q3-position-is-a-company-few-investors-recognize",
     "title": "Berkshire Hathaway's Only New Q3 Position Is a Company Few Investors Recognize",
-    "summary": "Berkshire Hathaway's only new Q3 position is a $689 million Bending Spoons stake in the Italian owner of AOL and Evernote.\nThe post Berkshire Hathaway's Only New Q3 Position Is a Company Few Investors Recognize appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/berkshire-bending-spoons-q3-new-position/",
-    "source": "BeInCrypto",
     "tags": [
       "Berkshire Hathaway",
       "Bending Spoons",
       "AOL",
       "Evernote"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-11-16T22:45:33.000Z",
-    "fetchedAt": "2026-11-16T23:33:38.462Z",
-    "isDuplicateOf": null,
-    "content": "Berkshire Hathaway's only new investment position for the third quarter is a stake in Bending Spoons, an Italian technology company known for owning familiar digital brands like AOL and Evernote. The sizable stake caught the attention of market observers, as the firm is relatively unfamiliar to many everyday investors compared to Berkshire's usual large-scale holdings.",
-    "content_ta": "Berkshire Hathaway நிறுவனத்தின் Q3 காலத்திற்கான ஒரே புதிய முதலீடு Bending Spoons நிறுவனத்தில் மேற்கொள்ளப்பட்டுள்ளது. AOL மற்றும் Evernote போன்ற பிரபல டிஜிட்டல் பிராண்டுகளை நடத்தும் இத்தாலிய நிறுவனமான இதில் மேற்கொள்ளப்பட்ட இந்த முதலீடு பல சந்தை ஆய்வாளர்களின் கவனத்தை ஈர்த்துள்ளது.",
-    "slug": "berkshire-hathaway-s-only-new-q3-position-is-a-company-few-investors-recognize"
+    "hasContent": true,
+    "pubDate": "2026-11-16T22:45:33.000Z"
   },
   {
     "id": "ca10821fcd160629",
+    "slug": "this-isn-t-a-crypto-crash-fed-hike-bets-are-hitting-everything",
     "title": "This Isn’t a Crypto Crash. Fed Hike Bets Are Hitting Everything",
-    "summary": "Bitcoin, stocks and gold all fell as Fed hike bets grew, showing the crypto crash is part of a wider rates shock.\nThe post This Isn’t a Crypto Crash. Fed Hike Bets Are Hitting Everything appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/crypto-crash-fed-rate-hike-bets/",
-    "source": "BeInCrypto",
     "tags": [
       "Bitcoin",
       "Federal Reserve"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-11-16T22:41:46.000Z",
-    "fetchedAt": "2026-11-16T23:33:38.462Z",
-    "isDuplicateOf": null,
-    "content": "Bitcoin, stocks, and gold experienced a synchronized decline as expectations for Federal Reserve interest rate hikes increased across global markets. Analysts note that the recent downturn is not isolated to the cryptocurrency sector, but rather part of a broader macroeconomic shock driven by tightening monetary policy and shifting investor sentiment toward risk assets.",
-    "content_ta": "Federal Reserve-ன் வட்டி விகித உயர்வு குறித்த எதிர்பார்ப்புகள் அதிகரித்ததால், Bitcoin, பங்குகள் மற்றும் தங்கம் ஆகியவற்றின் விலைகள் சரிவை சந்தித்துள்ளன. இந்த வீழ்ச்சி crypto துறைக்கு மட்டும் உரியதல்ல என்றும், அது உலகளாவிய பொருளாதார மாற்றங்களின் ஒரு பகுதி என்றும் ஆய்வாளர்கள் குறிப்பிடுகின்றனர்.",
-    "slug": "this-isn-t-a-crypto-crash-fed-hike-bets-are-hitting-everything"
+    "hasContent": true,
+    "pubDate": "2026-11-16T22:41:46.000Z"
   },
   {
     "id": "322a98cc645d66bd",
@@ -828,17 +798,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-16T19:17:48.000Z"
-  },
-  {
-    "id": "b86d545ec81499ed",
-    "slug": "popular-altcoin-suddenly-crashes-32-ceo-promises-investigation",
-    "title": "Popular Altcoin Suddenly Crashes 32%, CEO Promises Investigation",
-    "tags": [
-      "Leonard"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-16T19:12:56.000Z"
   }
 ]
