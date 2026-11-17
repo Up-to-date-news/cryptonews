@@ -1,11 +1,290 @@
 [
   {
-    "id": "f7299ed45f93e93e",
-    "title": "Cyberattack Hits 178 Organizations Through Optimizely Web Platform",
-    "summary": "The post Cyberattack Hits 178 Organizations Through Optimizely Web Platform appeared first on Coinpedia Fintech News\nA cyberattack has targeted 178 major organizations, including Zoom, CNN, BBC, Fox News, HSBC, Ledger, Equifax, Salesforce, IKEA and Air France-KLM, by injecting malicious code into the Optimizely Web platform. According to security firm Report URI, the malware exposed website visitors to scripts designed to steal payment data and exploit iOS devices. The banking and …",
+    "id": "6a83475c499ede8e",
+    "title": "47% of Financial Institutions Cite Disconnected Systems as a Payments Barrier",
+    "summary": "Banks are preparing to take more of the decision-making out of customers’ payments, with 35% of financial institutions planning centralized systems to coordinate how money moves. That finding, cited in the PYMNTS Intelligence report “Why Multi-Rail Strategy Is Banking’s Next Competitive Edge,” points to a practical opportunity for banks. Offering cards, Automated Clearing House transfers, […]\nThe post 47% of Financial Institutions Cite Disconnected Systems as a Payments Barrier appeared first on PYMNTS.com.",
     "hasSummary": true,
-    "link": "https://coinpedia.org/crypto-live-news/cyberattack-hits-178-organizations-through-optimizely-web-platform/",
+    "link": "https://www.pymnts.com/news/banking/2026/47percent-of-financial-institutions-cite-disconnected-systems-as-a-payments-barrier/",
+    "source": "PYMNTS",
+    "tags": [
+      "PYMNTS"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-17T09:00:36.000Z",
+    "fetchedAt": "2026-11-17T09:01:27.882Z",
+    "isDuplicateOf": null,
+    "content": "A recent PYMNTS Intelligence report highlights that 47% of financial institutions view disconnected systems as a major barrier to payments. To address this, 35% of banks are planning to implement centralized systems to better coordinate money movement across various rails like cards and Automated Clearing House transfers, creating a strategic competitive advantage.",
+    "content_ta": "PYMNTS Intelligence வெளியிட்ட சமீபத்திய அறிக்கையின்படி, 47% நிதி நிறுவனங்கள் துண்டிக்கப்பட்ட அமைப்புகளைப் பணப் பரிமாற்றத்திற்கான ஒரு பெரிய தடையாகக் கருதுகின்றன. இதை நிவர்த்தி செய்ய, 35% வங்கிகள் கார்டுகள் மற்றும் Automated Clearing House பரிமாற்றங்கள் போன்ற பல்வேறு வழிகளில் பணப் பரிமாற்றத்தை ஒருங்கிணைக்க மையப்படுத்தப்பட்ட அமைப்புகளைச் செயல்படுத்தத் திட்டமிட்டுள்ளன.",
+    "slug": "47-of-financial-institutions-cite-disconnected-systems-as-a-payments-barrier"
+  },
+  {
+    "id": "24ad30646961c761",
+    "slug": "tether-s-bitcoin-firm-bought-the-dip-while-its-own-stock-sank",
+    "title": "Tether’s Bitcoin Firm Bought the Dip While Its Own Stock Sank",
+    "tags": [
+      "Twenty One Capital",
+      "Bitcoin",
+      "Tether"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T08:36:57.000Z"
+  },
+  {
+    "id": "b08a2a7dfc403ba0",
+    "slug": "major-crypto-stealing-exploit-in-javascript-emerges-zoom-cnn-hsbc-affected",
+    "title": "Major Crypto-Stealing Exploit in JavaScript Emerges: Zoom, CNN, HSBC Affected",
+    "tags": [
+      "Optimizely",
+      "Zoom",
+      "CNN",
+      "HSBC"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T08:35:00.000Z"
+  },
+  {
+    "id": "27d8f2cd079344b0",
+    "slug": "178-organizations-hit-by-optimizely-javascript-supply-chain-attack",
+    "title": "178 Organizations Hit by Optimizely JavaScript Supply-Chain Attack",
+    "tags": [
+      "Optimizely"
+    ],
     "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T08:29:55.000Z"
+  },
+  {
+    "id": "818ba4881d9fdcb3",
+    "slug": "hackers-hijack-178-major-websites-including-bbc-zoom-cnn-hsbc-and-ledger",
+    "title": "Hackers Hijack 178 Major Websites, Including BBC, Zoom, CNN, HSBC, and Ledger",
+    "tags": [
+      "BBC",
+      "Zoom",
+      "CNN",
+      "HSBC",
+      "Ledger",
+      "Optimizely",
+      "Google"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T08:01:01.000Z"
+  },
+  {
+    "id": "4599e0144806e5c5",
+    "slug": "bitcoin-s-16-slide-cost-yi-he-97m-but-her-message-to-investors-remains-hodl",
+    "title": "Bitcoin’s 16% slide cost Yi He $97M, but her message to investors remains — HODL!",
+    "tags": [],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-17T08:00:01.000Z"
+  },
+  {
+    "id": "5dc876e424d522aa",
+    "slug": "kenya-directs-crypto-providers-to-apply-for-vasp-licences",
+    "title": "Kenya Directs Crypto Providers to Apply for VASP Licences",
+    "tags": [
+      "Kenya"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T08:00:00.000Z"
+  },
+  {
+    "id": "08e0b531a64754ce",
+    "slug": "backpack-secures-major-us-exchange-approval-native-token-soars-20",
+    "title": "Backpack Secures Major US Exchange Approval, Native Token Soars 20%",
+    "tags": [
+      "Backpack",
+      "CFTC",
+      "United States"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T07:49:57.000Z"
+  },
+  {
+    "id": "2eae3019eb94e17b",
+    "slug": "wall-street-stocks-enter-solana-defi-as-jupiter-unveils-new-lending-market",
+    "title": "Wall Street Stocks Enter Solana DeFi As Jupiter Unveils New Lending Market",
+    "tags": [
+      "Solana",
+      "Jupiter",
+      "Bullish",
+      "New York Stock Exchange"
+    ],
+    "source": "Bitcoinist",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T07:48:26.000Z"
+  },
+  {
+    "id": "442e4929288edc64",
+    "slug": "grayscale-says-crypto-pullback-offers-compelling-entry-points-as-bitcoin-falls-to-64-000",
+    "title": "Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000",
+    "tags": [
+      "Grayscale",
+      "Bitcoin",
+      "Zach Pandl"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T07:39:17.000Z"
+  },
+  {
+    "id": "c91f1c79312011f5",
+    "slug": "bitcoin-could-slide-into-the-50-000s-as-fed-rate-hike-bets-build-wintermute-says",
+    "title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
+    "tags": [
+      "Bitcoin",
+      "Wintermute",
+      "Federal Reserve"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T07:38:07.000Z"
+  },
+  {
+    "id": "525fba7eafef8207",
+    "slug": "live-bitcoin-price-holds-64k-ahead-of-nvidia-earnings-ai-bubble-finally-pops",
+    "title": "LIVE – Bitcoin Price Holds $64K Ahead of Nvidia Earnings: AI Bubble Finally Pops?",
+    "tags": [],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-17T07:15:13.000Z"
+  },
+  {
+    "id": "c423f73b43b2f3e7",
+    "title": "Finmo and J.P. Morgan Payments Collaborate to Help Businesses Move and Manage Money More Efficiently Across Borders",
+    "summary": "Finmo, the treasury operating system for global businesses, today announced a collaboration with J.P. Morgan Payments to leverage the bank’s global infrastructure for cross-border payments, collections, and FX on its platform, giving Finmo’s clients the reach of a global bank alongside a clear view of their cash.\nFinance teams at businesses operating in multiple markets need to know where cash sits across accounts and entities, forecast upcoming obligations, manage currency exposure, and decide when and how to pay. Those decisions are harder when payments, banking and cash data sit in separate systems.\n“Global businesses need more than the ability to move money. They need to understand their financial position and make decisions about cash, currencies and payments with the right context. Our relationship with J.P. Morgan Payments strengthens the infrastructure behind these flows, while Finmo Treasury connects clients to the broader financial picture at their organisation. Until now, that combination of bank-grade infrastructure and real decision support has been out of reach for most growing businesses. This collaboration, alongside the recent launch of our Business Account, is how we change that,” said David Hanna, Co-Founder and CEO of Finmo.\n“At J.P. Morgan Payments, our scale, global network and cross-border capabilities enable us to support innovative fintechs as they help businesses navigate increasingly complex treasury needs,” said Christine Tan, APAC Head of FIG Sales at J.P. Morgan Payments. “By combining these capabilities with Finmo’s technology, we can make treasury simpler and more seamless for businesses looking to expand their global footprint.”\nJ.P. Morgan Payments combines treasury services, trade & working capital, blockchain and tokenization, and card and merchant services capabilities to help clients pay customers or employees, in different currencies, around the world. It processes nearly US$12 trillion in payments daily, operating in over 160 countries and over 120 currencies.\nWhat it means for businesses\nPayments and collections: Collections in 40+ currencies and payouts in 120+ currencies across 160+ countries, so businesses can pay suppliers, staff and partners, and collect from customers, more predictably across borders.\nForeign exchange: Institutional-grade FX pricing and liquidity, so businesses can hold and convert currencies with confidence.\nCash visibility: Payment activity flows into Finmo Treasury, so finance teams can see cash positions, upcoming obligations and movements across all accounts, entities and currencies, and with each payment or conversion understand the impact on the company’s position.\nResilience: Bank-grade infrastructure behind Finmo’s delivery of financial services across its markets.\nBringing bank-grade infrastructure to growing businesses\nThe collaboration follows the recent launch of the Finmo Business Account, which brings the cash visibility, forecasting and decision tools of Finmo Treasury to Singapore businesses without a dedicated finance team. With J.P. Morgan Payments’ infrastructure supporting cross-border flows, companies at every stage now have access to the reach of a global bank together with the intelligence to decide how and when their money should move.\nBusinesses now move more than US$1 billion through Finmo’s platform each month. The announcement also follows the opening of Finmo’s global headquarters at Suntec City, Singapore, in September 2026. As businesses operate across more entities, currencies and markets, Finmo remains focused on connecting the infrastructure that moves money with the intelligence needed to manage it.\nNoYesPayments17 Nov, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/payments/finmo-and-jp-morgan-payments-collaborate-help-businesses-move-and-manage-money-more",
+    "source": "Financial IT",
+    "tags": [
+      "Finmo",
+      "J.P. Morgan Payments",
+      "Singapore"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-17T07:13:15.000Z",
+    "fetchedAt": "2026-11-17T09:01:27.882Z",
+    "isDuplicateOf": null,
+    "content": "Finmo has announced a collaboration with J.P. Morgan Payments to leverage the bank's global infrastructure for cross-border payments, collections, and foreign exchange. This partnership allows Finmo's clients to benefit from global banking reach combined with enhanced cash visibility and treasury management tools. The initiative aims to help growing businesses navigate complex cross-border financial needs more efficiently and securely across multiple markets and currencies.",
+    "content_ta": "Finmo நிறுவனம், தனது பிளாட்பாரத்தின் மூலம் எல்லை தாண்டிய கட்டணங்கள், வசூல்கள் மற்றும் அந்நிய செலாவணி சேவைகளை மேம்படுத்துவதற்காக J.P. Morgan Payments உடன் கைகோர்த்துள்ளதாக அறிவித்துள்ளது. இந்த ஒத்துழைப்பு மூலம் Finmo வாடிக்கையாளர்கள் உலகளாவிய வங்கி சேவைகளுடன் மேம்பட்ட பண நிர்வாக கருவிகளையும் பெறுகின்றனர். பல சந்தைகளில் வணிகங்கள் தங்கள் எல்லை தாண்டிய நிதித் தேவைகளை எளிதாகக் கையாள இது உதவும்.",
+    "slug": "finmo-and-j-p-morgan-payments-collaborate-to-help-businesses-move-and-manage-money-more-efficiently"
+  },
+  {
+    "id": "82a70b37356a8c8b",
+    "slug": "gary-gensler-s-ai-bubble-timeline-puts-bitcoin-s-2028-halving-in-the-blast-zone",
+    "title": "Gary Gensler’s AI Bubble Timeline Puts Bitcoin’s 2028 Halving in the Blast Zone",
+    "tags": [
+      "Gary Gensler",
+      "SEC",
+      "Bitcoin"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T07:04:48.000Z"
+  },
+  {
+    "id": "0e6a631756e7eb29",
+    "slug": "why-hyperliquid-fell-over-8-03-in-the-last-week-despite-listings-on-upbit-bithumb",
+    "title": "Why Hyperliquid fell over 8.03% in the last week despite listings on Upbit, Bithumb",
+    "tags": [
+      "Hyperliquid",
+      "Upbit",
+      "Bithumb"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T07:00:27.000Z"
+  },
+  {
+    "id": "ae3ca07da85332c4",
+    "slug": "sbi-and-cambodia-plan-a-yen-stablecoin-trial-behind-everyday-remittances",
+    "title": "SBI and Cambodia Plan a Yen Stablecoin Trial Behind Everyday Remittances",
+    "tags": [
+      "SBI",
+      "Cambodia",
+      "Japan"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T07:00:00.000Z"
+  },
+  {
+    "id": "5f2de238e3fe5b01",
+    "slug": "crypto-bear-market-isn-t-over-despite-btc-falling-to-62k-wintermute-warns",
+    "title": "Crypto Bear Market Isn’t Over Despite BTC Falling to $62K, Wintermute Warns",
+    "tags": [
+      "Bitcoin",
+      "Wintermute"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T06:49:36.000Z"
+  },
+  {
+    "id": "d158b18b35e9fc97",
+    "slug": "us-approves-blockchain-based-derivatives-exchange-in-major-win-for-crypto",
+    "title": "US Approves Blockchain-Based Derivatives Exchange In Major Win For Crypto",
+    "tags": [
+      "Commodity Futures Trading Commission",
+      "Backpack",
+      "United States"
+    ],
+    "source": "Bitcoinist",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T06:45:40.000Z"
+  },
+  {
+    "id": "32a72dd22fa8d072",
+    "slug": "pi-network-summit-begins-today-as-pi-price-hits-record-low-can-ai-updates-trigger-a-recovery",
+    "title": "Pi Network Summit Begins Today as PI Price Hits Record Low: Can AI Updates Trigger a Recovery?",
+    "tags": [
+      "Pi Network",
+      "PI"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T06:44:20.000Z"
+  },
+  {
+    "id": "4dcfc4742215a2bb",
+    "slug": "anthropic-s-claude-builds-custom-gadget-blueprints-but-consistency-stays-hidden",
+    "title": "Anthropic’s Claude builds custom gadget blueprints, but consistency stays hidden",
+    "tags": [
+      "Anthropic",
+      "Claude",
+      "Diode"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T06:40:09.000Z"
+  },
+  {
+    "id": "f7299ed45f93e93e",
+    "slug": "cyberattack-hits-178-organizations-through-optimizely-web-platform",
+    "title": "Cyberattack Hits 178 Organizations Through Optimizely Web Platform",
     "tags": [
       "Optimizely",
       "Zoom",
@@ -19,40 +298,28 @@
       "IKEA",
       "Air France-KLM"
     ],
+    "source": "Coinpedia",
     "origin": "rss",
-    "pubDate": "2026-11-17T05:54:54.000Z",
-    "fetchedAt": "2026-11-17T06:01:22.831Z",
-    "isDuplicateOf": null,
-    "content": "A cyberattack has impacted 178 major organizations, including Zoom, CNN, BBC, Fox News, HSBC, Ledger, Equifax, Salesforce, IKEA, and Air France-KLM. Attackers injected malicious code into the Optimizely Web platform, exposing website visitors to scripts designed to steal payment data and exploit iOS devices.",
-    "content_ta": "Zoom, CNN, BBC, Fox News, HSBC, Ledger, Equifax, Salesforce, IKEA மற்றும் Air France-KLM உள்ளிட்ட 178 முக்கிய நிறுவனங்களை சைபர் தாக்குதல் பாதித்துள்ளது. Optimizely Web பிளாட்ஃபார்மில் மால்வேர் கோட் ஊடுருவப்பட்டதன் மூலம், இணையதள பார்வையாளர்களின் பேமெண்ட் டேட்டாவைத் திருடும் மற்றும் iOS சாதனங்களை இலக்காகக் கொண்ட ஸ்கிரிப்ட்கள் வெளிப்படுத்தப்பட்டுள்ளன.",
-    "slug": "cyberattack-hits-178-organizations-through-optimizely-web-platform"
+    "hasContent": true,
+    "pubDate": "2026-11-17T05:54:54.000Z"
   },
   {
     "id": "02bc1c498d22c959",
+    "slug": "chase-outage-today-bank-says-glitch-was-not-a-cyber-attack",
     "title": "Chase Outage Today: Bank Says Glitch Was Not A Cyber Attack",
-    "summary": "The post Chase Outage Today: Bank Says Glitch Was Not A Cyber Attack appeared first on Coinpedia Fintech News\nA software problem at JPMorgan Chase disrupted banking services across the US on Monday, delaying payments for customers at several other major banks. Chase said the issue came from a bug in an on-site hardware system and was not linked to a cyber attack. Because Chase is the largest US bank and handles a huge …",
-    "hasSummary": true,
-    "link": "https://coinpedia.org/crypto-live-news/chase-outage-today-bank-says-glitch-was-not-a-cyber-attack/",
-    "source": "Coinpedia",
     "tags": [
       "JPMorgan Chase",
       "United States"
     ],
+    "source": "Coinpedia",
     "origin": "rss",
-    "pubDate": "2026-11-17T05:52:41.000Z",
-    "fetchedAt": "2026-11-17T06:01:22.831Z",
-    "isDuplicateOf": null,
-    "content": "A software problem at JPMorgan Chase caused a temporary outage that disrupted banking services across the United States on Monday and delayed customer payments. The massive bank confirmed that the issue stemmed from a bug in an on-site hardware system rather than a cyber attack. Because JPMorgan Chase is the country's largest bank, the technical glitch impacted transactions involving several other major financial institutions.",
-    "content_ta": "திங்கட்கிழமை அன்று ஏற்பட்ட ஒரு மென்பொருள் கோளாறு காரணமாக United States முழுவதும் JPMorgan Chase நிறுவனத்தின் வங்கி சேவைகள் பாதிக்கப்பட்டு, வாடிக்கையாளர்களின் பணப்பரிமாற்றங்களில் தாமதம் ஏற்பட்டது. இது சைபர் தாக்குதல் அல்ல என்றும், ஆன்-சைட் ஹார்டுவேர் அமைப்பில் ஏற்பட்ட பிழையே காரணம் என்றும் வங்கி தரப்பில் உறுதிப்படுத்தப்பட்டுள்ளது. நாட்டின் மிகப்பெரிய வங்கி என்பதால், இந்த தொழில்நுட்பக் கோளாறு மற்ற முக்கிய நிதி நிறுவனங்களையும் பாதித்தது.",
-    "slug": "chase-outage-today-bank-says-glitch-was-not-a-cyber-attack"
+    "hasContent": true,
+    "pubDate": "2026-11-17T05:52:41.000Z"
   },
   {
     "id": "a37316b46ddaacd4",
+    "slug": "what-banks-are-down-right-now",
     "title": "What Banks Are Down Right Now?",
-    "summary": "The post What Banks Are Down Right Now? appeared first on Coinpedia Fintech News\nCustomers at JPMorgan Chase, Bank of America, Wells Fargo, US Bank, Truist and Capital One reported problems logging in and moving money on Monday. Only Chase confirmed a technical fault on its own systems. US Bank said its systems were not directly affected, while Capital One and Truist said their services were running normally. The …",
-    "hasSummary": true,
-    "link": "https://coinpedia.org/crypto-live-news/what-banks-are-down-right-now/",
-    "source": "Coinpedia",
     "tags": [
       "JPMorgan Chase",
       "Bank of America",
@@ -61,21 +328,15 @@
       "Truist",
       "Capital One"
     ],
+    "source": "Coinpedia",
     "origin": "rss",
-    "pubDate": "2026-11-17T05:49:03.000Z",
-    "fetchedAt": "2026-11-17T06:01:22.831Z",
-    "isDuplicateOf": null,
-    "content": "Customers at several major banks, including JPMorgan Chase, Bank of America, Wells Fargo, US Bank, Truist, and Capital One, experienced login and money transfer issues on Monday. JPMorgan Chase confirmed a technical fault on its systems. Meanwhile, US Bank stated its systems were unaffected, and Capital One and Truist reported that their services were running normally.",
-    "content_ta": "திங்கட்கிழமை அன்று JPMorgan Chase, Bank of America, Wells Fargo, US Bank, Truist மற்றும் Capital One உள்ளிட்ட பல முக்கிய வங்கியின் வாடிக்கையாளர்கள் உள்நுழைவு மற்றும் பணம் மாற்றுவதில் சிக்கல்களை எதிர்கொண்டனர். JPMorgan Chase தனது அமைப்புகளில் தொழில்நுட்பக் கோளாறு ஏற்பட்டுள்ளதாக உறுதிப்படுத்தியது. இதற்கிடையில், US Bank தனது அமைப்புகள் பாதிக்கப்படவில்லை என்றும், Capital One மற்றும் Truist ஆகியவை தங்களது சேவைகள் வழக்கம்போல இயங்குவதாகவும் தெரிவித்தன.",
-    "slug": "what-banks-are-down-right-now"
+    "hasContent": true,
+    "pubDate": "2026-11-17T05:49:03.000Z"
   },
   {
     "id": "094f1dcf9a704d55",
+    "slug": "cz-denies-binance-sold-crypto-bitwise-sees-solana-at-1-100-by-2031-and-more",
     "title": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
-    "summary": "In today's newsletter, CZ denies Binance sold crypto as bitcoin rebounds from four-month low; Bitwise sees Solana reaching $1,100 by 2031 in bull case; and more.",
-    "hasSummary": true,
-    "link": "https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584",
-    "source": "The Block",
     "tags": [
       "Binance",
       "CZ",
@@ -83,51 +344,36 @@
       "Bitwise",
       "Solana"
     ],
+    "source": "The Block",
     "origin": "rss",
-    "pubDate": "2026-11-17T05:45:00.000Z",
-    "fetchedAt": "2026-11-17T06:01:22.831Z",
-    "isDuplicateOf": null,
-    "content": "Binance co-founder CZ has denied claims that the exchange sold cryptocurrency as Bitcoin begins to recover following a recent four-month low. Meanwhile, asset manager Bitwise has released a bullish prediction, suggesting that Solana could reach $1,100 by the year 2031 under favorable market conditions.",
-    "content_ta": "Bitcoin சமீபத்திய நான்கு மாதக் குறைவிலிருந்து மீண்டு வரும் நிலையில், பைனான்ஸ் நிறுவனத்தின் கிரிப்டோ விற்பனை குறித்த குற்றச்சாட்டுகளை அதன் இணை நிறுவனர் CZ மறுத்துள்ளார். இதற்கிடையில், சாதகமான சந்தை நிலைமைகளின் கீழ் 2031-ம் ஆண்டிற்குள் Solana $1,100-ஐ எட்டக்கூடும் என்று பிட்வைஸ் (Bitwise) சொத்து மேலாண்மை நிறுவனம் கணித்துள்ளது.",
-    "slug": "cz-denies-binance-sold-crypto-bitwise-sees-solana-at-1-100-by-2031-and-more"
+    "hasContent": true,
+    "pubDate": "2026-11-17T05:45:00.000Z"
   },
   {
     "id": "c39ee6b61d2378b8",
+    "slug": "trump-holders-bought-the-crash-for-a-dinner-seat-will-they-hold-after-dessert",
     "title": "TRUMP Holders Bought the Crash for a Dinner Seat. Will They Hold After Dessert?",
-    "summary": "Large holders of the Official Trump (TRUMP) meme coin kept adding tokens over the past month. They did so as the token sank to record lows before the November 22 Trump gala dinner. The dinner contest rewarded wallets for holding, but its rules end with the event. If winners sell afterward, the token could face\nThe post TRUMP Holders Bought the Crash for a Dinner Seat. Will They Hold After Dessert? appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/trump-meme-coin-whales-gala-dinner/",
-    "source": "BeInCrypto",
     "tags": [
       "TRUMP"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-11-17T05:42:37.000Z",
-    "fetchedAt": "2026-11-17T06:01:22.831Z",
-    "isDuplicateOf": null,
-    "content": "Large holders of the TRUMP meme coin continued buying tokens as the asset sank to record lows ahead of a gala dinner on November 22. The dinner contest rewarded wallets for holding tokens, but the rules conclude with the event, raising concerns that winners might sell their holdings afterward and cause further price declines.",
-    "content_ta": "நவம்பர் 22 அன்று நடக்கவிருக்கும் gala dinner-க்கு முன்பு TRUMP meme coin-ன் விலை சாதனை அளவுக்கு குறைந்தபோதும், அதன் முக்கிய holders தொடர்ந்து tokens-ஐ வாங்கி குவித்தனர். இந்த dinner contest-ல் tokens-ஐ வைத்திருப்பவர்களுக்கு பரிசுகள் வழங்கப்பட்டன, ஆனால் இந்த நிகழ்வுடன் விதிகள் முடிவடைவதால், வெற்றியாளர்கள் அதற்குப் பிறகு விற்பனை செய்வார்களா என்ற அச்சம் எழுந்துள்ளது.",
-    "slug": "trump-holders-bought-the-crash-for-a-dinner-seat-will-they-hold-after-dessert"
+    "hasContent": true,
+    "pubDate": "2026-11-17T05:42:37.000Z"
   },
   {
     "id": "6eb021fdf9a9a034",
+    "slug": "wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-2-35-billion",
     "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
-    "summary": "Wall Street’s relationship with Bitcoin continues to strengthen. Wells Fargo has disclosed a significant increase in its holdings of BlackRock’s spot Bitcoin exchange-traded fund (ETF), bringing its reported position to approximately $2.35 billion. The development highlights how Bitcoin is becoming increasingly integrated into traditional financial portfolios, even as cryptocurrency markets experience volatility. The disclosure adds […]",
-    "hasSummary": true,
-    "link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
-    "source": "CoinDesk",
     "tags": [
       "Wells Fargo",
       "BlackRock",
       "Bitcoin"
     ],
+    "source": "CoinDesk",
     "origin": "rss",
-    "pubDate": "2026-11-17T05:37:23.000Z",
-    "fetchedAt": "2026-11-17T06:01:22.831Z",
-    "isDuplicateOf": null,
-    "content": "Wells Fargo has significantly increased its holdings in BlackRock's spot Bitcoin exchange-traded fund, with reported positions reaching approximately $2.35 billion. This development highlights the growing integration of Bitcoin into traditional financial portfolios by major Wall Street institutions, despite ongoing market volatility.",
-    "content_ta": "Wells Fargo நிறுவனம் BlackRock-இன் spot Bitcoin ETF-இல் தனது முதலீட்டை கணிசமாக உயர்த்தியுள்ளது. இதன் மூலம் அதன் மொத்த முதலீடு சுமார் $2.35 பில்லியன் அளவை எட்டியுள்ளது. சந்தையின் நிலையற்ற தன்மையிலும் கூட, பாரம்பரிய நிதி நிறுவனங்கள் Bitcoin-ஐ எவ்வாறு தங்களின் முதலீட்டுத் திட்டங்களில் இணைத்து வருகின்றன என்பதை இந்த நிகழ்வு காட்டுகிறது.",
-    "slug": "wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-2-35-billion"
+    "hasContent": true,
+    "pubDate": "2026-11-17T05:37:23.000Z"
   },
   {
     "id": "11567e3b8fc1b433",
@@ -582,268 +828,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-16T23:27:15.000Z"
-  },
-  {
-    "id": "45f79c08e5acb20a",
-    "slug": "paypal-tracks-53-billion-in-treasury-cash-with-an-ai-agent",
-    "title": "PayPal Tracks $53 Billion in Treasury Cash With an AI Agent",
-    "tags": [
-      "PayPal",
-      "Deutsche Bank"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-16T23:21:16.000Z"
-  },
-  {
-    "id": "c86529a8198b3b33",
-    "slug": "backpack-wins-us-clearing-registration-as-separate-exchange-bid-remains-pending",
-    "title": "Backpack Wins US Clearing Registration as Separate Exchange Bid Remains Pending",
-    "tags": [
-      "Backpack",
-      "TLD Markets",
-      "CFTC",
-      "United States"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-16T23:00:00.000Z"
-  },
-  {
-    "id": "1b6c19c649b066a2",
-    "slug": "how-to-buy-the-anthropic-ipo-stock-crypto-traders-already-price-it-26-higher",
-    "title": "How to Buy the Anthropic IPO Stock? Crypto Traders Already Price It 26% Higher",
-    "tags": [
-      "Anthropic",
-      "Claude",
-      "Nasdaq",
-      "Hyperliquid"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-16T23:00:00.000Z"
-  },
-  {
-    "id": "4e584e02bc638a8f",
-    "slug": "german-lawmakers-back-crypto-freezes-outside-criminal-cases",
-    "title": "German lawmakers back crypto freezes outside criminal cases",
-    "tags": [
-      "Germany"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-16T22:46:44.000Z"
-  },
-  {
-    "id": "9fe3299b54d4be4e",
-    "slug": "berkshire-hathaway-s-only-new-q3-position-is-a-company-few-investors-recognize",
-    "title": "Berkshire Hathaway's Only New Q3 Position Is a Company Few Investors Recognize",
-    "tags": [
-      "Berkshire Hathaway",
-      "Bending Spoons",
-      "AOL",
-      "Evernote"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-16T22:45:33.000Z"
-  },
-  {
-    "id": "ca10821fcd160629",
-    "slug": "this-isn-t-a-crypto-crash-fed-hike-bets-are-hitting-everything",
-    "title": "This Isn’t a Crypto Crash. Fed Hike Bets Are Hitting Everything",
-    "tags": [
-      "Bitcoin",
-      "Federal Reserve"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-16T22:41:46.000Z"
-  },
-  {
-    "id": "322a98cc645d66bd",
-    "slug": "binance-hack-may-push-institutions-to-outside-custody-falconx-exec-says",
-    "title": "Binance hack may push institutions to outside custody, FalconX exec says",
-    "tags": [
-      "Binance",
-      "FalconX",
-      "Joshua Lim"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-16T22:19:41.000Z"
-  },
-  {
-    "id": "bcde4cf9463e5eaa",
-    "slug": "bitcoin-wallet-maker-trezor-says-customer-data-was-exposed-again",
-    "title": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
-    "tags": [
-      "Bitcoin",
-      "Trezor"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-16T22:18:03.000Z"
-  },
-  {
-    "id": "8547076cdd4ae5fd",
-    "slug": "sam-altman-s-chatgpt-ai-predicts-a-crazy-ada-crypto-price",
-    "title": "Sam Altman’s ChatGPT AI Predicts a Crazy ADA Crypto Price",
-    "tags": [
-      "Sam Altman",
-      "ChatGPT",
-      "Cardano",
-      "ADA"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-16T22:18:00.000Z"
-  },
-  {
-    "id": "a635bb041fa3655b",
-    "slug": "bitcoin-lightning-developers-patch-bug-that-could-make-completed-payments-disappear",
-    "title": "Bitcoin Lightning developers patch bug that could make completed payments disappear",
-    "tags": [
-      "Bitcoin",
-      "Lightning Network"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-16T22:10:43.000Z"
-  },
-  {
-    "id": "62739b2e26c0d135",
-    "slug": "customers-report-problems-accessing-online-accounts-at-major-banks",
-    "title": "Customers Report Problems Accessing Online Accounts at Major Banks",
-    "tags": [],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-16T22:01:32.000Z"
-  },
-  {
-    "id": "55ea066915b6f513",
-    "slug": "aster-rebounds-4-29-after-sharp-selloff",
-    "title": "Aster rebounds 4.29% after sharp selloff",
-    "tags": [],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-16T22:00:49.000Z"
-  },
-  {
-    "id": "1d49155a57961a7b",
-    "slug": "unocoin-estimates-200-000-loss-as-backup-key-finding-explains-wallet-transfers",
-    "title": "Unocoin Estimates $200,000 Loss as Backup-Key Finding Explains Wallet Transfers",
-    "tags": [
-      "Unocoin",
-      "BitGo"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-16T22:00:00.000Z"
-  },
-  {
-    "id": "8ef0d2d2c80b69bc",
-    "slug": "former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
-    "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
-    "tags": [
-      "Robinhood",
-      "Hyperliquid",
-      "Huaisong Xiang"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-16T21:51:04.000Z"
-  },
-  {
-    "id": "8bb8ab25eb6e2ceb",
-    "slug": "trezor-hit-by-another-shipping-partner-data-leak-affecting-27-000-skladon-orders",
-    "title": "Trezor hit by another shipping partner data leak, affecting 27,000 Skladon orders",
-    "tags": [
-      "Trezor",
-      "Skladon"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-16T21:44:25.000Z"
-  },
-  {
-    "id": "d2d8ee26c83a4ba7",
-    "slug": "cloudflare-gives-ai-agents-a-browser-of-their-own",
-    "title": "Cloudflare Gives AI Agents a Browser of Their Own",
-    "tags": [
-      "Cloudflare",
-      "Kitesurf"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-16T21:28:01.000Z"
-  },
-  {
-    "id": "b878454081e691c4",
-    "slug": "google-intros-maps-updates-to-help-with-holiday-travel",
-    "title": "Google Intros Maps Updates to Help With Holiday Travel",
-    "tags": [
-      "Google",
-      "Google Maps"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-16T21:20:52.000Z"
-  },
-  {
-    "id": "8916c8953d4e0cfc",
-    "slug": "hackers-redirected-bitcoin-miner-rewards-via-ai-attack-luxor-ceo-says",
-    "title": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
-    "tags": [
-      "Luxor",
-      "Bitcoin"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-16T21:16:03.000Z"
-  },
-  {
-    "id": "0e03107f040dc499",
-    "slug": "google-says-ai-rewrote-a-video-decoder-and-made-it-20-30-faster-in-tests",
-    "title": "Google says AI rewrote a video decoder and made it 20–30% faster in tests",
-    "tags": [
-      "Google",
-      "CryptoSlate"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-16T21:10:44.000Z"
-  },
-  {
-    "id": "cf6f29cacb41f3d0",
-    "slug": "druckenmiller-s-latest-13f-shows-gold-miners-in-alphabet-out",
-    "title": "Druckenmiller’s latest 13F shows gold miners in, Alphabet out",
-    "tags": [
-      "Stanley Druckenmiller",
-      "Alphabet"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-16T20:59:12.000Z"
   }
 ]
