@@ -1,21 +1,683 @@
 [
   {
-    "id": "6a83475c499ede8e",
-    "title": "47% of Financial Institutions Cite Disconnected Systems as a Payments Barrier",
-    "summary": "Banks are preparing to take more of the decision-making out of customers’ payments, with 35% of financial institutions planning centralized systems to coordinate how money moves. That finding, cited in the PYMNTS Intelligence report “Why Multi-Rail Strategy Is Banking’s Next Competitive Edge,” points to a practical opportunity for banks. Offering cards, Automated Clearing House transfers, […]\nThe post 47% of Financial Institutions Cite Disconnected Systems as a Payments Barrier appeared first on PYMNTS.com.",
+    "id": "26feed537c91b738",
+    "slug": "ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
+    "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
+    "tags": [
+      "OpenAI",
+      "Bitcoin",
+      "IREN",
+      "Bloom Energy",
+      "Nebius",
+      "SanDisk"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T12:00:55.000Z"
+  },
+  {
+    "id": "8d473b0878289fe7",
+    "slug": "lighter-reopens-withdrawals-after-trader-s-api-key-leak-returns-about-5-million-in-usdc",
+    "title": "Lighter reopens withdrawals after trader’s API key leak, returns about $5 million in USDC",
+    "tags": [
+      "Lighter",
+      "USDC"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T12:00:41.000Z"
+  },
+  {
+    "id": "c6bea7321119c80b",
+    "slug": "saylor-and-strategy-buy-a-little-orange-as-bitcoin-slides-to-64-800-details",
+    "title": "Saylor and Strategy buy ‘a little orange’ as Bitcoin slides to $64,800 — Details",
+    "tags": [
+      "MicroStrategy",
+      "Bitcoin",
+      "MSCI"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T12:00:15.000Z"
+  },
+  {
+    "id": "6b3b1c51beccc00a",
+    "slug": "hong-kong-property-firm-international-business-settlement-sells-300-bitcoin-to-finance-planned",
+    "title": "Hong Kong property firm International Business Settlement sells 300 Bitcoin to finance planned acquisition",
+    "tags": [
+      "International Business Settlement",
+      "Bitcoin",
+      "Hong Kong"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T11:54:14.000Z"
+  },
+  {
+    "id": "08ed67a5045830a5",
+    "slug": "optimjack-malware-targets-crypto-card-details-on-186-major-websites",
+    "title": "OPTIMJACK malware targets crypto, card details on 186 major websites",
+    "tags": [
+      "CNN",
+      "BBC",
+      "Fox News",
+      "Zoom"
+    ],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T11:49:15.000Z"
+  },
+  {
+    "id": "c0a3d2498c609c31",
+    "slug": "donald-trump-announces-critical-minerals-deals",
+    "title": "Donald Trump Announces Critical Minerals Deals",
+    "tags": [
+      "Donald Trump",
+      "India",
+      "Japan",
+      "Australia",
+      "Quad"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T11:38:04.000Z"
+  },
+  {
+    "id": "be9daff602c39783",
+    "slug": "us-senators-seek-sec-answers-on-tokenized-stock-money-laundering-risks",
+    "title": "US senators seek SEC answers on tokenized stock money laundering risks",
+    "tags": [
+      "SEC",
+      "United States"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T11:36:26.000Z"
+  },
+  {
+    "id": "b876ec02adbb32a4",
+    "slug": "bitcoin-remains-penned-in-near-64-000-even-as-etf-outflow-streak-ends",
+    "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T11:36:07.000Z"
+  },
+  {
+    "id": "dafe25e7e36d2068",
+    "slug": "trump-xi-summit-china-calls-trilateral-meeting-with-putin-groundbreaking-amid-nuclear-talks",
+    "title": "Trump-Xi Summit: China Calls Trilateral Meeting With Putin ‘Groundbreaking’ Amid Nuclear Talks",
+    "tags": [
+      "United States",
+      "China",
+      "Russia",
+      "Donald Trump",
+      "Xi Jinping",
+      "Vladimir Putin"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T11:31:25.000Z"
+  },
+  {
+    "id": "1e159c2e00708d70",
+    "slug": "solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
+    "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
+    "tags": [
+      "Solana Foundation",
+      "CoinGecko",
+      "GeckoTerminal",
+      "Solana"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T11:29:51.000Z"
+  },
+  {
+    "id": "825dff0df9e490e8",
+    "slug": "new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
+    "title": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
+    "tags": [
+      "Animoca Brands"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T11:25:58.000Z"
+  },
+  {
+    "id": "7e2b1c760a05a8e4",
+    "slug": "nyse-owner-moves-into-bitcoin-backed-lending-as-wall-street-adoption-grows",
+    "title": "NYSE Owner Moves Into Bitcoin-Backed Lending As Wall Street Adoption Grows",
+    "tags": [
+      "New York Stock Exchange",
+      "Intercontinental Exchange",
+      "Abra",
+      "Bitcoin",
+      "Ethereum",
+      "Solana"
+    ],
+    "source": "Bitcoinist",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T11:24:36.000Z"
+  },
+  {
+    "id": "c6eff514c9b4132b",
+    "slug": "luminor-partners-with-plumery-to-accelerate-delivery-of-digital-banking-solutions",
+    "title": "Luminor Partners With Plumery to Accelerate Delivery of Digital Banking Solutions",
+    "tags": [
+      "Luminor",
+      "Plumery",
+      "Estonia",
+      "Latvia",
+      "Lithuania"
+    ],
+    "source": "Financial IT",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T11:17:15.000Z"
+  },
+  {
+    "id": "8d0343eaca9edbba",
+    "slug": "lbank-takes-its-brand-beyond-trading-with-new-in-sync-cultural-initiative",
+    "title": "LBank Takes Its Brand Beyond Trading With New IN SYNC Cultural Initiative",
+    "tags": [
+      "LBank"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T11:17:11.000Z"
+  },
+  {
+    "id": "5be35d53bf373af6",
+    "slug": "bitcoin-realized-loss-metric-beats-june-high-as-open-interest-eyes-2-year-low",
+    "title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T11:14:05.000Z"
+  },
+  {
+    "id": "55c8e7053b0101e5",
+    "slug": "nutanix-promotes-christian-turcati-to-vice-president-pre-sales-systems-engineering-emea",
+    "title": "Nutanix Promotes Christian Turcati to Vice President, Pre-Sales Systems Engineering, EMEA",
+    "tags": [
+      "Nutanix",
+      "Christian Turcati",
+      "EMEA"
+    ],
+    "source": "Financial IT",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T11:11:57.000Z"
+  },
+  {
+    "id": "dc630fe06b9ac469",
+    "slug": "gate-deepens-openpayd-partnership-to-strengthen-cross-border-fund-and-payment-infrastructure-for",
+    "title": "Gate Deepens OpenPayd Partnership to Strengthen Cross-Border Fund and Payment Infrastructure for Gate Money",
+    "tags": [
+      "Gate",
+      "OpenPayd"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T11:09:12.000Z"
+  },
+  {
+    "id": "45eb50a5cd032f78",
+    "slug": "kava-price-prediction-2026-2027-2030-will-kava-price-shoot-to-0-2",
+    "title": "Kava Price Prediction 2026, 2027 – 2030: Will KAVA Price Shoot to $0.2?",
+    "tags": [
+      "Kava",
+      "Ethereum",
+      "Cosmos"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T11:08:03.000Z"
+  },
+  {
+    "id": "1ef023e1cfa77e48",
+    "slug": "ai-won-t-trade-for-you-what-crypto-is-for-in-a-post-ai-world",
+    "title": "AI Won't Trade for You: What Crypto is For in a Post-AI World",
+    "tags": [
+      "Binance",
+      "Bitcoin"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T11:05:47.000Z"
+  },
+  {
+    "id": "431a466f3590d8a7",
+    "slug": "optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
+    "title": "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses",
+    "tags": [
+      "Optimizely",
+      "BBC"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T11:05:25.000Z"
+  },
+  {
+    "id": "d6b25160d99e0413",
+    "slug": "91-of-capital-markets-respondents-want-ai-to-deliver-greater-accuracy-and-fewer-errors",
+    "title": "91% of Capital Markets Respondents Want AI to Deliver Greater Accuracy and Fewer Errors",
+    "tags": [
+      "Broadridge",
+      "The ValueExchange",
+      "International Securities Services Association",
+      "DeepSee"
+    ],
+    "source": "Financial IT",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T10:58:04.000Z"
+  },
+  {
+    "id": "eadeb91da868e918",
+    "slug": "uphold-authorized-as-a-crypto-asset-service-provider-under-the-eu-s-mica-regulation",
+    "title": "Uphold Authorized as a Crypto-Asset Service Provider Under the EU's MiCA Regulation",
+    "tags": [
+      "Uphold",
+      "Banco de Portugal",
+      "Comissão do Mercado de Valores Mobiliários",
+      "Portugal",
+      "European Union"
+    ],
+    "source": "Financial IT",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T10:54:27.000Z"
+  },
+  {
+    "id": "25e96744685a1f42",
+    "slug": "why-is-ethereum-falling-two-warning-signals-put-eth-investors-on-alert",
+    "title": "Why Is Ethereum Falling? Two Warning Signals Put ETH Investors on Alert",
+    "tags": [
+      "Ethereum"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T10:51:58.000Z"
+  },
+  {
+    "id": "92aa9436a7695fe5",
+    "slug": "ethereum-price-and-1-16b-selling-threat-north-korea-s-binance-hacker-moves-137m",
+    "title": "Ethereum Price and $1.16B Selling Threat: North Korea’s Binance Hacker Moves $137M",
+    "tags": [
+      "Ethereum",
+      "Binance",
+      "North Korea"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T10:51:32.000Z"
+  },
+  {
+    "id": "87c5b1727974860f",
+    "title": "Pliant Named as Supplier on UK Government's £13.2 Billion Payment Solutions 3 Framework",
+    "summary": "Pliant, a global fintech specialising in modular B2B payment solutions, today announced that it has been named as a supplier on Government Commercial Agency's (GCA) Payment Solutions 3 framework (RM6383). The appointment gives UK central government departments and wider public-sector organisations access to Pliant's commercial card and digital payment solutions through the government's procurement framework.\nPliant was named to Lot 1, Commercial Cards and Digital Payments, alongside Barclays, HSBC, Lloyds and NatWest. Pliant is the only fintech and non-bank among the five suppliers, providing public-sector buyers with an alternative to established banking providers. The four-year lot has a total indicative value of £13.2 billion, including VAT, representing potential spending across all suppliers rather than committed revenue.\nThe framework provides public-sector organisations with a streamlined procurement route to commercial card and digital payment services. Pliant's appointment follows a competitive procurement process and marks an important step in the company's expansion into the UK and the broader public sector. Through the framework, eligible organisations can access Pliant's commercial payment capabilities to support spending management, visibility and financial controls.\n“Being named alongside four of the UK's largest banks is an important validation of what we've built and the role Pliant can play in modernising commercial payments,” said Malte Rau, CEO and co-founder of Pliant. “Public-sector organisations increasingly expect the same flexibility, control and digital capabilities from their payment infrastructure as businesses in the private sector. This framework gives them a new option and creates an exciting opportunity for Pliant to serve organisations across the UK.”\nPayment Solutions 3 runs from October 2026 through September 2030 and succeeds the UK government's Payment Solutions 2 framework.\nGovernment Commercial Agency (GCA) is the UK’s central commercial and procurement organisation, connecting public and private sectors to achieve the best outcomes for the UK and its citizens. GCA uses its commercial expertise to create a simpler procurement experience that redirects valuable resources into essential public services – creating value for the nation.\nNoYesPayments17 Nov, 2026",
     "hasSummary": true,
-    "link": "https://www.pymnts.com/news/banking/2026/47percent-of-financial-institutions-cite-disconnected-systems-as-a-payments-barrier/",
-    "source": "PYMNTS",
+    "link": "https://financialit.net/news/payments/pliant-named-supplier-uk-governments-ps132-billion-payment-solutions-3-framework",
+    "source": "Financial IT",
+    "tags": [
+      "Pliant",
+      "Barclays",
+      "HSBC",
+      "Lloyds",
+      "NatWest",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-17T10:51:00.000Z",
+    "fetchedAt": "2026-11-17T12:01:27.138Z",
+    "isDuplicateOf": null,
+    "content": "Pliant has been named as a supplier on the UK Government Commercial Agency's Payment Solutions 3 framework. Selected for Lot 1 alongside major banks such as Barclays, HSBC, Lloyds, and NatWest, Pliant is the only non-bank fintech on the lot. The four-year framework, running from 2026 to 2030 with an indicative value of £13.2 billion, provides public-sector organisations with streamlined access to digital payment and commercial card solutions.",
+    "content_ta": "UK Government Commercial Agency-ன் Payment Solutions 3 கட்டமைப்பில் ஒரு சப்ளையராக Pliant நிறுவனம் தேர்ந்தெடுக்கப்பட்டுள்ளது. Barclays, HSBC, Lloyds மற்றும் NatWest போன்ற பெரிய வங்கிகளுடன் லாட் 1-ல் இடம்பெற்றுள்ள Pliant, இந்த லாட்டில் உள்ள ஒரே வங்கி அல்லாத fintech நிறுவனமாகும். 2026 முதல் 2030 வரை நான்கு ஆண்டுகள் செயல்படும் இக்கட்டமைப்பு, பொதுத்துறை நிறுவனங்களுக்கு டிஜிட்டல் கட்டணம் மற்றும் வணிக அட்டை தீர்வுகளை எளிதாகப் பெற உதவுகிறது.",
+    "slug": "pliant-named-as-supplier-on-uk-government-s-13-2-billion-payment-solutions-3-framework"
+  },
+  {
+    "id": "45ad48d348f28813",
+    "slug": "fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
+    "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
+    "tags": [
+      "Federal Reserve",
+      "Michael Barr",
+      "Italy"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T10:48:12.000Z"
+  },
+  {
+    "id": "de57838aef870555",
+    "slug": "ethereum-price-decline-may-be-linked-to-nvidia-selloff-and-anthropic-ipo-says-tom-lee",
+    "title": "Ethereum Price Decline May Be Linked to Nvidia Selloff and Anthropic IPO, Says Tom Lee",
+    "tags": [
+      "Ethereum",
+      "Nvidia",
+      "Anthropic",
+      "Tom Lee",
+      "BitMine"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T10:47:20.000Z"
+  },
+  {
+    "id": "48296411124a321f",
+    "title": "TBC Uzbekistan Launches Business and Corporate Cards, Expands Offering for SMEs",
+    "summary": "TBC Uzbekistan, Central Asia’s leading digital financial ecosystem and part of London-listed TBC Bank Group, today announces the launch of business and corporate debit cards, further strengthening its offering for small and medium-sized enterprises (SMEs) in Central Asia’s most populous nation.\nThe new card products are part of TBC Business, Uzbekistan’s first fully digital banking solution for businesses. Since its launch in December 2024, TBC Business has seen growing demand, with more than 45,000 businesses now registered with the platform.\nBusiness debit cards are aimed at individual entrepreneurs, enabling them to withdraw cash directly from their business account, manage all business-related expenses and create clearer separation between their personal and business finances. The card is part of TBC Uzbekistan’s wider offering for small businesses, through which they can accept customer payments, pay suppliers and make key business purchases, all online and without ever having to visit a branch.\nCorporate cards are designed for legal entities to issue to their employees, providing a seamless, cashless way for employees to handle day-to-day business expenditures such as travel, business meetings and hospitality. Companies can set individual spending limits per employee and per transaction type, allowing them to maintain close oversight of employee spending.\nNika Kurdiani, CEO of TBC Uzbekistan, commented: “TBC Business is designed to help Uzbekistan’s growing pool of SMEs seamlessly handle their daily financial needs, from banking and payments to accessing the capital they need to grow. With the launch of corporate and business cards, we’re continuing to add new capabilities, taking the hassle out of business banking while giving entrepreneurs and businesses more control and oversight over day-to-day company expenditure. SMEs continue to be a key engine of national economic growth, and we’re proud to be playing an important role in helping them reach their full potential”.\nBoth cards are issued as Visa Business Platinum cards. Cardholders can access airport business (CIP) lounges and take advantage of special offers provided through the Visa Business Platinum programme, subject to the applicable terms and conditions.\nThe launch comes as TBC Uzbekistan continues to build the region’s leading two-sided ecosystem for businesses and consumers. It represents the latest addition to TBC Business, following the introduction of a dedicated mobile app, unsecured and secured SME loans, a fully digital payroll product and QR-code payment functionality.\nIn addition to rolling out new features, TBC Uzbekistan further strengthened its business offering via the acquisition of a majority stake in BILLZ in June 2025. BILLZ, Uzbekistan’s leading retail management SaaS platform, has added new capabilities to TBC Business, positioning it as a leading one-stop shop for businesses to handle all their financial and operational needs.\nNoYesBanking17 Nov, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/banking/tbc-uzbekistan-launches-business-and-corporate-cards-expands-offering-smes",
+    "source": "Financial IT",
+    "tags": [
+      "TBC Uzbekistan",
+      "TBC Business",
+      "Visa",
+      "BILLZ",
+      "Uzbekistan"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-17T10:47:12.000Z",
+    "fetchedAt": "2026-11-17T12:01:27.138Z",
+    "isDuplicateOf": null,
+    "content": "TBC Uzbekistan has launched business and corporate debit cards through its TBC Business platform, expanding financial services for small and medium-sized enterprises. The Visa Business Platinum cards help entrepreneurs manage expenses, separate personal and business finances, and issue cards to employees with custom spending limits. This move further strengthens TBC Uzbekistan's digital banking ecosystem for businesses in the region.",
+    "content_ta": "TBC Uzbekistan நிறுவனம் தனது TBC Business தளம் மூலம் வணிக மற்றும் கார்ப்பரேட் டெபிட் கார்டுகளை அறிமுகப்படுத்தியுள்ளது, இது சிறு மற்றும் நடுத்தர வணிகங்களுக்கான நிதி சேவைகளை விரிவுபடுத்துகிறது. இந்த Visa Business Platinum கார்டுகள் தொழில்முனைவோர் செலவுகளை நிர்வகிக்கவும், தனிப்பட்ட மற்றும் வணிக நிதிகளைப் பிரிக்கவும் உதவுகின்றன. இந்த நடவடிக்கை இப்பகுதியில் உள்ள வணிகங்களுக்கான TBC Uzbekistan இன் டிஜிட்டல் வங்கி சுற்றுச்சூழல் அமைப்பை மேலும் பலப்படுத்துகிறது.",
+    "slug": "tbc-uzbekistan-launches-business-and-corporate-cards-expands-offering-for-smes"
+  },
+  {
+    "id": "aea027452e146551",
+    "slug": "as-crypto-turns-red-bitrue-ai-research-finds-ai-trading-agents-on-the-rise",
+    "title": "As Crypto Turns Red, Bitrue AI Research Finds AI Trading Agents on the Rise",
+    "tags": [
+      "Bitrue",
+      "Bitcoin"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T10:46:08.000Z"
+  },
+  {
+    "id": "1ccf5b84f189912c",
+    "slug": "xrp-ledger-jumps-50-in-the-most-important-network-metric-for-now",
+    "title": "XRP Ledger Jumps 50% in the Most Important Network Metric for Now",
+    "tags": [
+      "XRP"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T10:35:00.000Z"
+  },
+  {
+    "id": "00837e53338c2e15",
+    "slug": "will-bitcoin-ethereum-and-xrp-prices-crash-or-rally-after-nvidia-earnings-today",
+    "title": "Will Bitcoin, Ethereum and XRP Prices Crash or Rally After Nvidia Earnings Today?",
+    "tags": [
+      "Nvidia",
+      "Bitcoin",
+      "Ethereum",
+      "XRP",
+      "United States"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T10:30:32.000Z"
+  },
+  {
+    "id": "0c8fe162e3b40e00",
+    "slug": "hackers-plant-crypto-stealing-code-on-178-major-websites-including-hsbc-and-ledger",
+    "title": "Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger",
+    "tags": [
+      "Optimizely",
+      "HSBC",
+      "Ledger",
+      "BBC"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T10:22:18.000Z"
+  },
+  {
+    "id": "b842a75cd9c8a579",
+    "title": "Newland Payment Technology Reaches 15 Million Terminal Deployments in Brazil as Focus Shifts to Android",
+    "summary": "Newland Payment Technology (NPT), a global provider of payment terminals and technology solutions, has reached more than 15 million payment terminal deployments in Brazil since entering the market in 2018. The company is now building on its success in Brazil to deepen acquirer partnerships across Latin America and develop new services as customers upgrade to Android terminals. \nBrazil is one of Newland NPT’s key markets globally, with terminals manufactured locally through partner facilities in Amazonas and São Paulo. The two locations provide production flexibility and help maintain supply if operations at either site are disrupted. Local teams manage component supply and customer orders, while a dedicated repair and after-sales operation provides technical expertise, spare parts and capacity to support large terminal estates.  \nThese capabilities allow Newland NPT to support acquirers from initial deployment through the working life of their devices. Alongside this operational support, the company makes R&D resources available to customers to adapt products to local requirements and develop new solutions together. \nIn Brazil, that adaptation includes supporting card payments alongside Pix, the country’s instant payment system, so merchants can accept both through a single device. \nA growing focus is the transition from conventional terminals to Android devices, which give acquirers more flexibility to offer business applications alongside payments. With suitable software, merchants can issue tax receipts, manage inventory and take payments on the shop floor. This allows acquirers to build services around the needs of different merchants and play a greater role in their daily operations. \n\nGilson Carvalho, General Manager for Latin America at Newland Payment Technology, said: “Reaching 15 million deployments reflects the depth of our relationships with Brazilian acquirers. What I’m most proud of is that customers come back to us and involve us in their plans. They know we can deliver the volumes they need, but they also want our help with what comes next. Our R&D teams work with them to understand what would make their services more useful to merchants and how we can bring those ideas to market. \n“Android gives us more scope to do that. Acquirers can build their own services around the device, and we can work with them to develop new uses for it. That’s an exciting part of our growth across Latin America: helping customers do more with the technology, backed by the production and support to deliver it.” \nThe Brazil milestone provides a foundation for Newland NPT’s next stage of growth across Latin America. The company is focused on deepening acquirer partnerships across the region and building on its combination of reliable technology, global capabilities and local delivery. \nNoYesPayments17 Nov, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/payments/newland-payment-technology-reaches-15-million-terminal-deployments-brazil-focus-shifts",
+    "source": "Financial IT",
+    "tags": [
+      "Newland Payment Technology",
+      "Brazil",
+      "Latin America"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-17T10:21:58.000Z",
+    "fetchedAt": "2026-11-17T12:01:27.138Z",
+    "isDuplicateOf": null,
+    "content": "Newland Payment Technology has achieved a major milestone by reaching over 15 million payment terminal deployments in Brazil since its market entry in 2018. The company is now focusing on expanding its presence across Latin America and shifting toward Android-based terminals. These advanced devices offer merchants greater flexibility, combining card payments with instant payment systems like Pix and enabling additional business applications such as inventory management.",
+    "content_ta": "Newland Payment Technology நிறுவனம் Brazil-ல் 15 மில்லியனுக்கும் அதிகமான பேமெண்ட் டெர்மினல்களை விநியோகித்து முக்கிய மைல்கல்லை எட்டியுள்ளது. 2018-ல் சந்தையில் நுழைந்த இந்நிறுவனம், தற்போது Latin America முழுவதும் தன் சேவையை விரிவுபடுத்தவும், Android டெர்மினல்களுக்கு முக்கியத்துவம் அளிக்கவும் திட்டமிட்டுள்ளது. இந்த அதிநவீன சாதனங்கள் கார்டு பேமெண்ட்களுடன் Pix போன்ற உடனடி பணப்பரிமாற்ற முறைகளையும் இணைக்க வியாபாரிகளுக்கு உதவுகின்றன.",
+    "slug": "newland-payment-technology-reaches-15-million-terminal-deployments-in-brazil-as-focus-shifts-to"
+  },
+  {
+    "id": "ca706a741b02e258",
+    "title": "Paysafe Launches the PaysafeGo Solution, Helping Businesses Offer Their Own Digital Wallet",
+    "summary": "Paysafe, a global payments platform built for the experience economy, today announced the launch of the PaysafeGo wallet solution, a new merchant wallet offering that enables businesses to deliver their own branded digital wallet experience while leveraging Paysafe's regulated infrastructure, operational expertise and decades of digital wallet experience.\nBuilt on the expertise gained from operating global digital wallet brands for decades, the PaysafeGo solution provides enterprises with a simple and compliant way to launch a branded wallet experience, helping them own the customer relationship while avoiding the operational and regulatory complexity typically associated with becoming a wallet operator.\nThe PaysafeGo solution is designed for businesses across industries including travel, retail, gaming, marketplaces, gig economy and creator platforms that are increasingly looking beyond payments acceptance to create deeper, ongoing relationships with their customers. By enabling users to receive, hold, transfer and spend funds within a branded wallet environment, businesses can transform payments from a transactional touchpoint into an engagement and loyalty driver.\n\"Consumers increasingly expect seamless experiences wherever they engage with brands, and payments are a critical part of that journey,\" said Bob Legters, Chief Product Officer at Paysafe. \"The PaysafeGo wallet solution enables businesses to launch their own branded wallet experience without taking on the burden of licensing, compliance, fraud management, issuing and operational support. By combining the flexibility merchants need with the regulated infrastructure and expertise Paysafe provides, we're helping our partners create stronger customer connections, simplify money movement and unlock new opportunities for growth, so they can spend less time managing payments complexity and more time serving their customers.\"\nThe PaysafeGo wallet solution is available through two deployment models designed to accommodate different business requirements.\nThe Embedded Wallet model enables businesses to integrate a fully branded wallet experience directly into their existing applications and platforms through Paysafe APIs and SDKs. Businesses maintain control over the customer experience and user interface, while Paysafe manages complex backend services including KYC, AML, issuing, settlement, reconciliation, fraud management, compliance, and cross-border payouts.\nThe Turnkey Wallet model offers a faster path to market through a co-branded wallet experience hosted and managed by Paysafe. In this model, Paysafe manages infrastructure, security, compliance and virtual card issuing, while enabling businesses to maintain a strong branded presence and customer relationship.\nKey capabilities of the PaysafeGo wallet solution include real-time payouts, seamless bank and peer-to-peer transfers, branded prepaid cards, customer loyalty and rewards experiences, integrated security and compliance controls, and end-to-end operational support. The solution is designed to help businesses reduce payment and payout costs, eliminate manual operational workflows, increase platform engagement and create new recurring revenue opportunities.\nThe PaysafeGo solution is built on Paysafe's licensed and regulated infrastructure, with embedded KYC, AML, fraud controls and compliance capabilities designed to help businesses meet regulatory requirements while delivering secure and convenient experiences for their customers.\nNoYesPayments17 Nov, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/payments/paysafe-launches-paysafego-solution-helping-businesses-offer-their-own-digital-wallet",
+    "source": "Financial IT",
+    "tags": [
+      "Paysafe"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-17T10:18:04.000Z",
+    "fetchedAt": "2026-11-17T12:01:27.138Z",
+    "isDuplicateOf": null,
+    "content": "Global payments platform Paysafe has launched PaysafeGo, a new wallet solution allowing businesses to offer their own branded digital wallets. The service is available in embedded and turnkey models, helping companies across travel, retail, and gaming enhance customer engagement while Paysafe handles regulatory compliance, fraud management, and backend operations.",
+    "content_ta": "குளோபல் பேமெண்ட்ஸ் பிளாட்ஃபார்மான Paysafe, வணிகங்கள் தங்களது சொந்த பிராண்டட் டிஜிட்டல் வாலட்டை வழங்க உதவும் வகையில் PaysafeGo வாலட் தீர்வை அறிமுகப்படுத்தியுள்ளது. இந்தச் சேவை எம்படெட் மற்றும் டர்ன் கீ மாடல்களில் கிடைக்கிறது. இதன் மூலம், ஒழுங்குமுறை இணக்கம் மற்றும் மோசடி மேலாண்மை போன்றவற்றை Paysafe பார்த்துக் கொள்ளும்போது, நிறுவனங்கள் வாடிக்கையாளர் ஈடுபாட்டை மேம்படுத்த முடியும்.",
+    "slug": "paysafe-launches-the-paysafego-solution-helping-businesses-offer-their-own-digital-wallet"
+  },
+  {
+    "id": "6560b1a68ccf5e7e",
+    "slug": "nvidia-faces-first-earnings-test-without-jensen-huang-as-ai-stocks-slide",
+    "title": "Nvidia faces first earnings test without Jensen Huang as AI stocks slide",
+    "tags": [
+      "Nvidia"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T10:17:01.000Z"
+  },
+  {
+    "id": "9361a6c5b3eda829",
+    "slug": "hackers-steal-driver-s-license-data-of-nearly-150-000-uber-drivers-in-ai-provider-data-breach",
+    "title": "Hackers Steal Driver’s License Data of Nearly 150,000 Uber Drivers in AI Provider Data Breach",
+    "tags": [
+      "Uber"
+    ],
+    "source": "The Daily Hodl",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T10:15:06.000Z"
+  },
+  {
+    "id": "3d67e94923214708",
+    "title": "Charity Bank Selects Temenos SaaS for Core Banking and Payments",
+    "summary": "Temenos, a global leader in banking technology, today announced that Charity Bank, a UK social purpose bank that uses savers’ deposits to provide loans to charities, social enterprises and other organizations creating positive social and environmental impact, has selected Temenos to modernize its core banking and payments platform.\nCharity Bank will adopt Temenos Core and Payments delivered as SaaS and hosted on Microsoft Azure. The bank selected Temenos for the breadth of its core banking and payments functionality, its UK banking capabilities and its experience serving specialist banks.\nThe move to Temenos SaaS will give Charity Bank a simpler, scalable technology foundation to support its growth, with Temenos managing platform operations, maintenance and upgrades. This will help the bank adapt as its needs evolve while freeing resources to focus on serving the financial needs of charities and social purpose organizations.\nEd Siegel, Chief Executive, Charity Bank, commented: “Charity Bank exists to use money for good. We use our savers’ deposits to provide loans to charities, social enterprises and other organizations creating positive social and environmental impact across the UK. Selecting Temenos is an important step in modernizing our technology and strengthening the platform that supports our customers. We believe its banking capabilities and experience will help us build a more resilient and scalable service as Charity Bank develops.”\nMark Yamin-Ali, Managing Director, Europe, Temenos, said: “Supporting Charity Bank’s growth reflects our commitment to helping banks create opportunities for their customers while making a positive contribution to society. Specialist banks such as Charity Bank stand out through their understanding of the customers and communities they serve, and the Temenos SaaS offering helps them operate more efficiently while focusing on those relationships.”\nThis latest announcement adds to Temenos’ track record in the UK specialist banking market, following Reliance Bank’s selection of Temenos SaaS for core banking, digital and payments, and Kingdom Bank’s go-live with Temenos Core, Payments and Financial Crime Mitigation on Temenos SaaS.\nNoYesBanking17 Nov, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/banking/charity-bank-selects-temenos-saas-core-banking-and-payments",
+    "source": "Financial IT",
+    "tags": [
+      "Charity Bank",
+      "Temenos",
+      "Microsoft Azure",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-17T10:09:19.000Z",
+    "fetchedAt": "2026-11-17T12:01:27.138Z",
+    "isDuplicateOf": null,
+    "content": "Charity Bank has selected Temenos SaaS for its core banking and payments platform modernization. Hosted on Microsoft Azure, the new technology foundation will help the UK social purpose bank scale its operations, improve efficiency, and support growth. This partnership strengthens Temenos' presence in the UK specialist banking market, following similar agreements with other regional financial institutions.",
+    "content_ta": "Charity Bank தனது கோர் பேங்கிங் மற்றும் பேமெண்ட்ஸ் தளத்தை நவீனமயமாக்க Temenos SaaS-ஐத் தேர்ந்தெடுத்துள்ளது. Microsoft Azure-ல் இயங்கும் இந்த புதிய தொழில்நுட்பம், UK-ஐச் சேர்ந்த சமூக நோக்கிலான வங்கி தனது செயல்பாடுகளை விரிவாக்கவும், செயல்திறனை மேம்படுத்தவும் உதவும்.",
+    "slug": "charity-bank-selects-temenos-saas-for-core-banking-and-payments"
+  },
+  {
+    "id": "575728800b8e8ff0",
+    "slug": "google-says-hackers-use-ai-agents-to-find-and-exploit-software-flaws",
+    "title": "Google says hackers use AI agents to find and exploit software flaws",
+    "tags": [
+      "Google"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T10:05:59.000Z"
+  },
+  {
+    "id": "3daf364d4e36cba2",
+    "slug": "crypto-wallet-ledger-confirms-security-incident-involving-third-party-service",
+    "title": "Crypto Wallet Ledger Confirms Security Incident Involving Third-Party Service",
+    "tags": [
+      "Ledger"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T10:00:39.000Z"
+  },
+  {
+    "id": "4f9b66ea0196110f",
+    "slug": "seven-straight-red-weeks-can-sui-avoid-a-steep-drop-towards-0-65-lows",
+    "title": "Seven straight red weeks! Can Sui avoid a steep drop towards $0.65 lows?",
+    "tags": [
+      "Sui"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T10:00:08.000Z"
+  },
+  {
+    "id": "86850ae1cd98b222",
+    "slug": "stusdt-begins-wind-down-as-justlend-plans-to-remove-its-wrapped-token-market",
+    "title": "stUSDT Begins Wind-Down as JustLend Plans to Remove Its Wrapped Token Market",
+    "tags": [
+      "stUSDT",
+      "JustLend",
+      "wstUSDT"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T10:00:00.000Z"
+  },
+  {
+    "id": "793e80c4e95fe7c0",
+    "slug": "a-25-million-mev-ruling-exposes-a-dangerous-blind-spot-in-wall-street-s-tokenization-push",
+    "title": "A $25 million MEV ruling exposes a dangerous blind spot in Wall Street’s tokenization push",
+    "tags": [
+      "Wall Street",
+      "CryptoSlate"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T09:30:15.000Z"
+  },
+  {
+    "id": "dd6b7b60508b021f",
+    "slug": "us-judge-clears-brothers-in-25m-ethereum-mev-case-after-mistrial",
+    "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
+    "tags": [
+      "Ethereum",
+      "United States"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T09:30:05.000Z"
+  },
+  {
+    "id": "56ef13271cc218a0",
+    "slug": "near-token-recovers-to-3-26-as-governance-finalizes-1-6-inflation-cut",
+    "title": "NEAR Token Recovers to $3.26 as Governance Finalizes 1.6% Inflation Cut",
+    "tags": [
+      "NEAR",
+      "Arthur Hayes"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T09:11:10.000Z"
+  },
+  {
+    "id": "02fb9a55d5a05b61",
+    "slug": "why-do-most-crypto-press-releases-get-no-coverage-and-what-do-editors-pick-up",
+    "title": "Why do most crypto press releases get no coverage, and what do editors pick up?",
+    "tags": [
+      "CoinJournal"
+    ],
+    "source": "CoinJournal",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T09:10:28.000Z"
+  },
+  {
+    "id": "2f4e657ab298af8d",
+    "slug": "goldman-sachs-reports-1-22b-in-ether-etfs-as-etha-share-count-jumps",
+    "title": "Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps",
+    "tags": [
+      "Goldman Sachs",
+      "Ether",
+      "Bitcoin"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-17T09:08:32.000Z"
+  },
+  {
+    "id": "6a83475c499ede8e",
+    "slug": "47-of-financial-institutions-cite-disconnected-systems-as-a-payments-barrier",
+    "title": "47% of Financial Institutions Cite Disconnected Systems as a Payments Barrier",
     "tags": [
       "PYMNTS"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-11-17T09:00:36.000Z",
-    "fetchedAt": "2026-11-17T09:01:27.882Z",
-    "isDuplicateOf": null,
-    "content": "A recent PYMNTS Intelligence report highlights that 47% of financial institutions view disconnected systems as a major barrier to payments. To address this, 35% of banks are planning to implement centralized systems to better coordinate money movement across various rails like cards and Automated Clearing House transfers, creating a strategic competitive advantage.",
-    "content_ta": "PYMNTS Intelligence வெளியிட்ட சமீபத்திய அறிக்கையின்படி, 47% நிதி நிறுவனங்கள் துண்டிக்கப்பட்ட அமைப்புகளைப் பணப் பரிமாற்றத்திற்கான ஒரு பெரிய தடையாகக் கருதுகின்றன. இதை நிவர்த்தி செய்ய, 35% வங்கிகள் கார்டுகள் மற்றும் Automated Clearing House பரிமாற்றங்கள் போன்ற பல்வேறு வழிகளில் பணப் பரிமாற்றத்தை ஒருங்கிணைக்க மையப்படுத்தப்பட்ட அமைப்புகளைச் செயல்படுத்தத் திட்டமிட்டுள்ளன.",
-    "slug": "47-of-financial-institutions-cite-disconnected-systems-as-a-payments-barrier"
+    "hasContent": true,
+    "pubDate": "2026-11-17T09:00:36.000Z"
   },
   {
     "id": "24ad30646961c761",
@@ -167,23 +829,17 @@
   },
   {
     "id": "c423f73b43b2f3e7",
+    "slug": "finmo-and-j-p-morgan-payments-collaborate-to-help-businesses-move-and-manage-money-more-efficiently",
     "title": "Finmo and J.P. Morgan Payments Collaborate to Help Businesses Move and Manage Money More Efficiently Across Borders",
-    "summary": "Finmo, the treasury operating system for global businesses, today announced a collaboration with J.P. Morgan Payments to leverage the bank’s global infrastructure for cross-border payments, collections, and FX on its platform, giving Finmo’s clients the reach of a global bank alongside a clear view of their cash.\nFinance teams at businesses operating in multiple markets need to know where cash sits across accounts and entities, forecast upcoming obligations, manage currency exposure, and decide when and how to pay. Those decisions are harder when payments, banking and cash data sit in separate systems.\n“Global businesses need more than the ability to move money. They need to understand their financial position and make decisions about cash, currencies and payments with the right context. Our relationship with J.P. Morgan Payments strengthens the infrastructure behind these flows, while Finmo Treasury connects clients to the broader financial picture at their organisation. Until now, that combination of bank-grade infrastructure and real decision support has been out of reach for most growing businesses. This collaboration, alongside the recent launch of our Business Account, is how we change that,” said David Hanna, Co-Founder and CEO of Finmo.\n“At J.P. Morgan Payments, our scale, global network and cross-border capabilities enable us to support innovative fintechs as they help businesses navigate increasingly complex treasury needs,” said Christine Tan, APAC Head of FIG Sales at J.P. Morgan Payments. “By combining these capabilities with Finmo’s technology, we can make treasury simpler and more seamless for businesses looking to expand their global footprint.”\nJ.P. Morgan Payments combines treasury services, trade & working capital, blockchain and tokenization, and card and merchant services capabilities to help clients pay customers or employees, in different currencies, around the world. It processes nearly US$12 trillion in payments daily, operating in over 160 countries and over 120 currencies.\nWhat it means for businesses\nPayments and collections: Collections in 40+ currencies and payouts in 120+ currencies across 160+ countries, so businesses can pay suppliers, staff and partners, and collect from customers, more predictably across borders.\nForeign exchange: Institutional-grade FX pricing and liquidity, so businesses can hold and convert currencies with confidence.\nCash visibility: Payment activity flows into Finmo Treasury, so finance teams can see cash positions, upcoming obligations and movements across all accounts, entities and currencies, and with each payment or conversion understand the impact on the company’s position.\nResilience: Bank-grade infrastructure behind Finmo’s delivery of financial services across its markets.\nBringing bank-grade infrastructure to growing businesses\nThe collaboration follows the recent launch of the Finmo Business Account, which brings the cash visibility, forecasting and decision tools of Finmo Treasury to Singapore businesses without a dedicated finance team. With J.P. Morgan Payments’ infrastructure supporting cross-border flows, companies at every stage now have access to the reach of a global bank together with the intelligence to decide how and when their money should move.\nBusinesses now move more than US$1 billion through Finmo’s platform each month. The announcement also follows the opening of Finmo’s global headquarters at Suntec City, Singapore, in September 2026. As businesses operate across more entities, currencies and markets, Finmo remains focused on connecting the infrastructure that moves money with the intelligence needed to manage it.\nNoYesPayments17 Nov, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/payments/finmo-and-jp-morgan-payments-collaborate-help-businesses-move-and-manage-money-more",
-    "source": "Financial IT",
     "tags": [
       "Finmo",
       "J.P. Morgan Payments",
       "Singapore"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-11-17T07:13:15.000Z",
-    "fetchedAt": "2026-11-17T09:01:27.882Z",
-    "isDuplicateOf": null,
-    "content": "Finmo has announced a collaboration with J.P. Morgan Payments to leverage the bank's global infrastructure for cross-border payments, collections, and foreign exchange. This partnership allows Finmo's clients to benefit from global banking reach combined with enhanced cash visibility and treasury management tools. The initiative aims to help growing businesses navigate complex cross-border financial needs more efficiently and securely across multiple markets and currencies.",
-    "content_ta": "Finmo நிறுவனம், தனது பிளாட்பாரத்தின் மூலம் எல்லை தாண்டிய கட்டணங்கள், வசூல்கள் மற்றும் அந்நிய செலாவணி சேவைகளை மேம்படுத்துவதற்காக J.P. Morgan Payments உடன் கைகோர்த்துள்ளதாக அறிவித்துள்ளது. இந்த ஒத்துழைப்பு மூலம் Finmo வாடிக்கையாளர்கள் உலகளாவிய வங்கி சேவைகளுடன் மேம்பட்ட பண நிர்வாக கருவிகளையும் பெறுகின்றனர். பல சந்தைகளில் வணிகங்கள் தங்கள் எல்லை தாண்டிய நிதித் தேவைகளை எளிதாகக் கையாள இது உதவும்.",
-    "slug": "finmo-and-j-p-morgan-payments-collaborate-to-help-businesses-move-and-manage-money-more-efficiently"
+    "hasContent": true,
+    "pubDate": "2026-11-17T07:13:15.000Z"
   },
   {
     "id": "82a70b37356a8c8b",
@@ -198,635 +854,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-17T07:04:48.000Z"
-  },
-  {
-    "id": "0e6a631756e7eb29",
-    "slug": "why-hyperliquid-fell-over-8-03-in-the-last-week-despite-listings-on-upbit-bithumb",
-    "title": "Why Hyperliquid fell over 8.03% in the last week despite listings on Upbit, Bithumb",
-    "tags": [
-      "Hyperliquid",
-      "Upbit",
-      "Bithumb"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T07:00:27.000Z"
-  },
-  {
-    "id": "ae3ca07da85332c4",
-    "slug": "sbi-and-cambodia-plan-a-yen-stablecoin-trial-behind-everyday-remittances",
-    "title": "SBI and Cambodia Plan a Yen Stablecoin Trial Behind Everyday Remittances",
-    "tags": [
-      "SBI",
-      "Cambodia",
-      "Japan"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T07:00:00.000Z"
-  },
-  {
-    "id": "5f2de238e3fe5b01",
-    "slug": "crypto-bear-market-isn-t-over-despite-btc-falling-to-62k-wintermute-warns",
-    "title": "Crypto Bear Market Isn’t Over Despite BTC Falling to $62K, Wintermute Warns",
-    "tags": [
-      "Bitcoin",
-      "Wintermute"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T06:49:36.000Z"
-  },
-  {
-    "id": "d158b18b35e9fc97",
-    "slug": "us-approves-blockchain-based-derivatives-exchange-in-major-win-for-crypto",
-    "title": "US Approves Blockchain-Based Derivatives Exchange In Major Win For Crypto",
-    "tags": [
-      "Commodity Futures Trading Commission",
-      "Backpack",
-      "United States"
-    ],
-    "source": "Bitcoinist",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T06:45:40.000Z"
-  },
-  {
-    "id": "32a72dd22fa8d072",
-    "slug": "pi-network-summit-begins-today-as-pi-price-hits-record-low-can-ai-updates-trigger-a-recovery",
-    "title": "Pi Network Summit Begins Today as PI Price Hits Record Low: Can AI Updates Trigger a Recovery?",
-    "tags": [
-      "Pi Network",
-      "PI"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T06:44:20.000Z"
-  },
-  {
-    "id": "4dcfc4742215a2bb",
-    "slug": "anthropic-s-claude-builds-custom-gadget-blueprints-but-consistency-stays-hidden",
-    "title": "Anthropic’s Claude builds custom gadget blueprints, but consistency stays hidden",
-    "tags": [
-      "Anthropic",
-      "Claude",
-      "Diode"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T06:40:09.000Z"
-  },
-  {
-    "id": "f7299ed45f93e93e",
-    "slug": "cyberattack-hits-178-organizations-through-optimizely-web-platform",
-    "title": "Cyberattack Hits 178 Organizations Through Optimizely Web Platform",
-    "tags": [
-      "Optimizely",
-      "Zoom",
-      "CNN",
-      "BBC",
-      "Fox News",
-      "HSBC",
-      "Ledger",
-      "Equifax",
-      "Salesforce",
-      "IKEA",
-      "Air France-KLM"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T05:54:54.000Z"
-  },
-  {
-    "id": "02bc1c498d22c959",
-    "slug": "chase-outage-today-bank-says-glitch-was-not-a-cyber-attack",
-    "title": "Chase Outage Today: Bank Says Glitch Was Not A Cyber Attack",
-    "tags": [
-      "JPMorgan Chase",
-      "United States"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T05:52:41.000Z"
-  },
-  {
-    "id": "a37316b46ddaacd4",
-    "slug": "what-banks-are-down-right-now",
-    "title": "What Banks Are Down Right Now?",
-    "tags": [
-      "JPMorgan Chase",
-      "Bank of America",
-      "Wells Fargo",
-      "US Bank",
-      "Truist",
-      "Capital One"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T05:49:03.000Z"
-  },
-  {
-    "id": "094f1dcf9a704d55",
-    "slug": "cz-denies-binance-sold-crypto-bitwise-sees-solana-at-1-100-by-2031-and-more",
-    "title": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
-    "tags": [
-      "Binance",
-      "CZ",
-      "Bitcoin",
-      "Bitwise",
-      "Solana"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T05:45:00.000Z"
-  },
-  {
-    "id": "c39ee6b61d2378b8",
-    "slug": "trump-holders-bought-the-crash-for-a-dinner-seat-will-they-hold-after-dessert",
-    "title": "TRUMP Holders Bought the Crash for a Dinner Seat. Will They Hold After Dessert?",
-    "tags": [
-      "TRUMP"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T05:42:37.000Z"
-  },
-  {
-    "id": "6eb021fdf9a9a034",
-    "slug": "wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-2-35-billion",
-    "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
-    "tags": [
-      "Wells Fargo",
-      "BlackRock",
-      "Bitcoin"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T05:37:23.000Z"
-  },
-  {
-    "id": "11567e3b8fc1b433",
-    "slug": "is-your-money-at-risk-banking-glitch-hits-chase-wells-fargo-and-bofa",
-    "title": "Is Your Money at Risk? Banking Glitch Hits Chase, Wells Fargo and BofA",
-    "tags": [
-      "JPMorgan Chase",
-      "Wells Fargo",
-      "Bank of America",
-      "United States"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T05:19:48.000Z"
-  },
-  {
-    "id": "b36f55d0963402a2",
-    "slug": "google-ai-agents-audit-signal-s-code-and-one-major-flaw-stays-hidden",
-    "title": "Google AI agents audit Signal’s code and one major flaw stays hidden",
-    "tags": [
-      "Google",
-      "Signal",
-      "CryptoSlate"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T05:10:11.000Z"
-  },
-  {
-    "id": "30a87cbda2dc77f8",
-    "slug": "ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
-    "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
-    "tags": [
-      "Ripple",
-      "Evernorth",
-      "XRP"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T05:02:05.000Z"
-  },
-  {
-    "id": "524f825ed415da29",
-    "slug": "big-banks-piled-into-bitcoin-etfs-weeks-before-2-35-billion-fled-the-funds",
-    "title": "Big Banks Piled Into Bitcoin ETFs Weeks Before $2.35 Billion Fled the Funds",
-    "tags": [
-      "Wells Fargo",
-      "Bitcoin"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T04:59:23.000Z"
-  },
-  {
-    "id": "69fad6e8ab811fef",
-    "slug": "powell-industries-q4-revenue-rises-33-to-397-million",
-    "title": "Powell Industries Q4 revenue rises 33% to $397 million",
-    "tags": [
-      "Powell Industries"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T04:20:44.000Z"
-  },
-  {
-    "id": "858adb0c23d75927",
-    "slug": "italy-places-revolut-under-oversight-after-46-million-in-mafia-linked-transfers",
-    "title": "Italy Places Revolut Under Oversight After $46 Million in Mafia-Linked Transfers",
-    "tags": [
-      "Revolut",
-      "Italy"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T04:12:51.000Z"
-  },
-  {
-    "id": "1ce54bd2562f65a3",
-    "slug": "invesco-bitcoin-etf-adds-bny-mellon-custody-while-keeping-coinbase-arrangement",
-    "title": "Invesco Bitcoin ETF Adds BNY Mellon Custody While Keeping Coinbase Arrangement",
-    "tags": [
-      "Invesco",
-      "Galaxy",
-      "Bitcoin",
-      "BNY Mellon",
-      "Coinbase"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T04:00:00.000Z"
-  },
-  {
-    "id": "36ee561e128ad6c6",
-    "slug": "aon-completes-17-billion-acquisition-of-usi",
-    "title": "Aon completes $17 billion acquisition of USI",
-    "tags": [
-      "Aon",
-      "USI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T03:57:42.000Z"
-  },
-  {
-    "id": "91f056610e226b37",
-    "slug": "hormel-foods-signs-1-billion-term-loan-closes-brakebush-deal",
-    "title": "Hormel Foods signs $1 billion term loan, closes Brakebush deal",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-17T03:53:25.000Z"
-  },
-  {
-    "id": "30cca04848a43892",
-    "slug": "twenty-one-capital-buys-the-bitcoin-dip-after-weekend-selloff",
-    "title": "Twenty One Capital buys the Bitcoin dip after weekend selloff",
-    "tags": [
-      "Twenty One Capital",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T03:46:35.000Z"
-  },
-  {
-    "id": "f0f08a1aa04c8ccd",
-    "slug": "trezor-customer-data-exposed-in-3rd-partner-breach-this-year",
-    "title": "Trezor customer data exposed in 3rd partner breach this year",
-    "tags": [
-      "Trezor"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T03:46:22.000Z"
-  },
-  {
-    "id": "0f13d10c857c8219",
-    "slug": "uniswap-freezes-300-000-in-stranded-fees-halting-automatic-token-burns",
-    "title": "Uniswap freezes $300,000 in stranded fees, halting automatic token burns",
-    "tags": [
-      "Uniswap",
-      "UNI"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T03:30:05.000Z"
-  },
-  {
-    "id": "8c758c8198c53e3f",
-    "slug": "why-eip-8037-is-the-least-bad-path-to-scaling-ethereum-execution-vitalik-buterin",
-    "title": "Why EIP-8037 Is the ‘Least Bad’ Path to Scaling Ethereum Execution: Vitalik Buterin",
-    "tags": [
-      "Ethereum",
-      "Vitalik Buterin"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T03:15:29.000Z"
-  },
-  {
-    "id": "d4fc198c864ee4c2",
-    "slug": "hackers-breach-fireworks-ai-and-steal-data-from-uber-notion-and-cursor",
-    "title": "Hackers Breach Fireworks AI and Steal Data From Uber, Notion and Cursor",
-    "tags": [
-      "Fireworks AI",
-      "Uber",
-      "Notion",
-      "Cursor",
-      "TechCrunch"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T02:38:56.000Z"
-  },
-  {
-    "id": "8ea66f1d5290c38e",
-    "slug": "intel-sits-61-below-the-peak-when-jim-cramer-called-it-his-favorite",
-    "title": "Intel Sits 61% Below the Peak When Jim Cramer Called It His Favorite",
-    "tags": [
-      "Intel",
-      "Jim Cramer"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T02:31:09.000Z"
-  },
-  {
-    "id": "451ea56393f63c31",
-    "slug": "arthur-hayes-says-4-crypto-horsemen-will-pump-then-usher-in-ai-bubble-s-end",
-    "title": "Arthur Hayes Says 4 Crypto ‘Horsemen' Will Pump, Then Usher in AI Bubble's End",
-    "tags": [
-      "Arthur Hayes",
-      "ETH",
-      "ZEC",
-      "NEAR",
-      "VVV"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T02:25:33.000Z"
-  },
-  {
-    "id": "4b1a37bb15a1b335",
-    "slug": "ethereum-test-exposes-flaw-that-lets-transactions-skip-payments",
-    "title": "Ethereum test exposes flaw that lets transactions skip payments",
-    "tags": [
-      "Ethereum",
-      "Juicebox V6",
-      "Glamsterdam"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T02:10:39.000Z"
-  },
-  {
-    "id": "d35b8263021e2449",
-    "slug": "why-is-smart-money-adding-bullish-ethereum-exposure-as-eth-etfs-bleed",
-    "title": "Why is smart money adding bullish Ethereum exposure as ETH ETFs bleed?",
-    "tags": [
-      "Ethereum",
-      "Bitcoin"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T02:00:16.000Z"
-  },
-  {
-    "id": "b81008cfc34ed77e",
-    "slug": "google-warns-autonomous-cyberattacks-have-arrived",
-    "title": "Google warns autonomous cyberattacks have arrived",
-    "tags": [
-      "Google"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T01:57:22.000Z"
-  },
-  {
-    "id": "8cbcdb19216cce5e",
-    "slug": "digital-assets-thoughts-of-the-week-2027-predictions-on-payments-risk-compliance-fraud",
-    "title": "Digital Assets Thoughts of the Week: 2027 Predictions on Payments, Risk, Compliance & Fraud",
-    "tags": [],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T01:50:31.000Z"
-  },
-  {
-    "id": "139c52b08e46f76d",
-    "slug": "openai-cfo-sarah-friar-says-a-raise-at-a-1-25t-valuation-wasn-t-planned",
-    "title": "OpenAI CFO Sarah Friar says a raise at a $1.25T valuation wasn’t planned",
-    "tags": [
-      "OpenAI",
-      "Sarah Friar"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T01:42:00.000Z"
-  },
-  {
-    "id": "1e90423ada8106ef",
-    "slug": "roubini-says-us-can-lock-china-out-of-frontier-ai-after-jensen-saga",
-    "title": "Roubini Says US Can Lock China Out of Frontier AI After ‘Jensen Saga'",
-    "tags": [
-      "Nvidia",
-      "Jensen Huang",
-      "Nouriel Roubini",
-      "United States",
-      "China"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T01:35:00.000Z"
-  },
-  {
-    "id": "dca4d8861071f3b4",
-    "slug": "apple-taps-26-year-insider-corey-fugman-to-lead-apple-pay-and-wallet",
-    "title": "Apple Taps 26-Year Insider Corey Fugman to Lead Apple Pay and Wallet",
-    "tags": [
-      "Apple",
-      "Corey Fugman",
-      "Jennifer Bailey",
-      "Bloomberg"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T01:15:30.000Z"
-  },
-  {
-    "id": "83554120810dfd87",
-    "slug": "crypto-traders-cash-out-stablecoins-as-bitcoin-hits-4-month-low",
-    "title": "Crypto Traders Cash Out Stablecoins as Bitcoin Hits 4-Month Low",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T01:14:09.000Z"
-  },
-  {
-    "id": "a685cf88082fcc13",
-    "slug": "treasury-nsc-bypass-commerce-to-restrict-chinese-ai-chip-access",
-    "title": "Treasury, NSC bypass Commerce to restrict Chinese AI-chip access",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-17T01:09:00.000Z"
-  },
-  {
-    "id": "19fd9e7553c44b00",
-    "slug": "hackers-inject-credit-card-crypto-stealing-malware-into-178-major-websites",
-    "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
-    "tags": [
-      "Ledger",
-      "Coinpass"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T01:02:05.000Z"
-  },
-  {
-    "id": "65d9850e572fcd2a",
-    "slug": "blockstream-and-thales-launch-hardware-based-bitcoin-custody-system-as-adam-back-calls-for-return",
-    "title": "Blockstream and Thales Launch Hardware-Based Bitcoin Custody System as Adam Back Calls for Return to Cold Storage Fundamentals",
-    "tags": [
-      "Blockstream",
-      "Thales",
-      "Bitcoin",
-      "Adam Back"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T01:00:25.000Z"
-  },
-  {
-    "id": "163dec75aa89c0a5",
-    "slug": "tom-lee-sees-no-cracks-in-the-ai-trade-despite-nasdaq-s-12-drop",
-    "title": "Tom Lee Sees No Cracks in the AI Trade Despite Nasdaq's 12% Drop",
-    "tags": [
-      "Tom Lee",
-      "Nasdaq",
-      "Nvidia"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T01:00:00.000Z"
-  },
-  {
-    "id": "91da4241592d60ca",
-    "slug": "visa-and-mastercard-hearing-puts-premium-card-pilots-on-the-line",
-    "title": "Visa and Mastercard Hearing Puts Premium Card Pilots on the Line",
-    "tags": [
-      "Visa",
-      "Mastercard",
-      "Walmart",
-      "National Retail Federation",
-      "United States"
-    ],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T00:56:22.000Z"
-  },
-  {
-    "id": "752f62415186d9f4",
-    "slug": "louisiana-blocks-prediction-markets-and-threatens-370m-in-revenue-from-exchanges",
-    "title": "Louisiana blocks prediction markets and threatens $370M in revenue from exchanges",
-    "tags": [
-      "Louisiana",
-      "CryptoSlate"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T00:50:05.000Z"
-  },
-  {
-    "id": "24b30d942728e221",
-    "slug": "california-regulator-weighs-court-action-against-ai-companies-that-break-state-rules",
-    "title": "California regulator weighs court action against AI companies that break state rules",
-    "tags": [
-      "California"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T00:46:00.000Z"
-  },
-  {
-    "id": "9a38fc36eebf400a",
-    "slug": "analyzing-xrp-s-44m-liquidation-imbalance-is-a-market-reset-underway",
-    "title": "Analyzing XRP’s $44M liquidation imbalance – Is a market reset underway?",
-    "tags": [
-      "XRP"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T00:00:34.000Z"
-  },
-  {
-    "id": "10f2123f431ea0be",
-    "slug": "aave-s-revenue-falls-10m-in-q3-but-one-metric-tells-a-new-story",
-    "title": "Aave’s revenue falls $10M in Q3, but one metric tells a new story",
-    "tags": [
-      "Aave",
-      "Aave Labs",
-      "CryptoSlate"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-16T23:30:57.000Z"
-  },
-  {
-    "id": "676ae43e05058ae6",
-    "slug": "cftc-backs-blockchain-based-derivatives-infrastructure-as-backpack-tzero-win-approvals",
-    "title": "CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals",
-    "tags": [
-      "CFTC",
-      "Backpack",
-      "tZERO"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-16T23:27:15.000Z"
   }
 ]
