@@ -1,5 +1,513 @@
 [
   {
+    "id": "f0992681d8a29ecc",
+    "title": "Beyond fraud detection: Why dispute management needs an overhaul",
+    "summary": "Post-incident fraud management needs to adapt. But how?",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-18T15:00:00.000Z",
+    "fetchedAt": "2026-11-18T15:01:37.062Z",
+    "isDuplicateOf": null,
+    "content": "Traditional post-incident fraud detection and dispute management systems require a significant overhaul to keep pace with modern challenges. As fraudulent activities evolve, businesses must adapt their strategies beyond basic detection to effectively handle customer disputes and streamline the resolution process.",
+    "content_ta": "பாரம்பரிய பிந்தைய மோசடி கண்டறிதல் மற்றும் தகராறு மேலாண்மை அமைப்புகளில் நவீன சவால்களை எதிர்கொள்ள பெரிய அளவில் மாற்றங்கள் செய்யப்பட வேண்டும். மோசடி நடவடிக்கைகள் நாளுக்கு நாள் மாறுவதால், வணிக நிறுவனங்கள் அடிப்படை கண்டறிதலை தாண்டி வாடிக்கையாளர் தகராடுகளை திறம்பட கையாள்வதற்கும் தீர்வுகளை விரைவுபடுத்துவதற்கும் தங்கள் உத்திகளை மாற்றியமைக்க வேண்டும்.",
+    "slug": "beyond-fraud-detection-why-dispute-management-needs-an-overhaul"
+  },
+  {
+    "id": "67a0efa616cae0f5",
+    "slug": "democrats-probe-howard-lutnick-s-ties-to-cantor-fitzgerald-over-nvidia-chip-export-decision",
+    "title": "Democrats probe Howard Lutnick’s ties to Cantor Fitzgerald over Nvidia chip export decision",
+    "tags": [
+      "Howard Lutnick",
+      "Cantor Fitzgerald",
+      "Nvidia",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T14:55:50.000Z"
+  },
+  {
+    "id": "632988dabe72f59b",
+    "slug": "jp-morgan-and-hyundai-card-tests-ai-powered-payments-without-humans",
+    "title": "JP Morgan and Hyundai Card Tests AI-Powered Payments Without Humans",
+    "tags": [
+      "JP Morgan",
+      "Hyundai Card"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T14:51:16.000Z"
+  },
+  {
+    "id": "a03a5fa8624ffb68",
+    "slug": "bitcoin-faces-a-new-threat-as-us-prices-surge-at-fastest-pace-in-38-years",
+    "title": "Bitcoin faces a new threat as US prices surge at fastest pace in 38 years",
+    "tags": [
+      "Bitcoin",
+      "United States",
+      "Federal Reserve"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T14:50:59.000Z"
+  },
+  {
+    "id": "453825d3dc8c2b46",
+    "slug": "backpack-secures-nfa-approval-completing-licensing-stack-for-us-derivatives-launch",
+    "title": "Backpack secures NFA approval, completing licensing stack for US derivatives launch",
+    "tags": [
+      "Backpack",
+      "National Futures Association",
+      "Commodity Futures Trading Commission",
+      "United States"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T14:49:00.000Z"
+  },
+  {
+    "id": "fe1aadae998f4d22",
+    "slug": "hyperliquid-policy-center-urges-fca-to-treat-blockchains-as-neutral-infrastructure",
+    "title": "Hyperliquid Policy Center urges FCA to treat blockchains as neutral infrastructure",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-18T14:46:14.000Z"
+  },
+  {
+    "id": "cb5025ec5f365609",
+    "slug": "circle-s-direct-bank-cash-for-usdc-fell-roughly-2b-in-q3-as-total-reserves-edged-higher",
+    "title": "Circle’s direct bank cash for USDC fell roughly $2B in Q3 as total reserves edged higher",
+    "tags": [
+      "Circle",
+      "USDC"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T14:45:37.000Z"
+  },
+  {
+    "id": "f663f534f3ddcece",
+    "slug": "nvidia-shares-fall-despite-beating-q3-expectations-down-36-from-peak",
+    "title": "Nvidia shares fall despite beating Q3 expectations, down 36% from peak",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-18T14:44:55.000Z"
+  },
+  {
+    "id": "4a70ad3564a1610b",
+    "slug": "bitcoin-miners-collect-lowest-yearly-transaction-fees-since-2011",
+    "title": "Bitcoin miners collect lowest yearly transaction fees since 2011",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T14:44:07.000Z"
+  },
+  {
+    "id": "15c1513b650b910b",
+    "slug": "bitcoin-lags-tech-stocks-as-fed-s-waller-renews-call-for-50-basis-point-hike",
+    "title": "Bitcoin lags tech stocks as Fed’s Waller renews call for 50-basis-point hike",
+    "tags": [
+      "Bitcoin",
+      "Federal Reserve",
+      "Waller"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T14:41:05.000Z"
+  },
+  {
+    "id": "4bcfd8a9f2377d58",
+    "slug": "ledger-users-drained-for-1m-in-suspected-spyware-incidents",
+    "title": "Ledger users drained for $1M in suspected spyware incidents",
+    "tags": [
+      "Ledger",
+      "Dubai",
+      "Germany"
+    ],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T14:39:16.000Z"
+  },
+  {
+    "id": "3e2ff24ad4e4d5a6",
+    "slug": "ondo-finance-to-launch-anton-token-tracking-anthropic-shares-on-nasdaq-debut-day",
+    "title": "Ondo Finance to launch ANTon token tracking Anthropic shares on Nasdaq debut day",
+    "tags": [
+      "Ondo Finance",
+      "ANTon",
+      "Anthropic",
+      "Nasdaq",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T14:34:32.000Z"
+  },
+  {
+    "id": "feacb5e01b6e17ed",
+    "title": "Visa expands Agentic Ready programme to acceptance ecosystem",
+    "summary": "Visa has expanded its Agentic Ready programme to the merchant acceptance ecosystem, signing up big names including Fiserv, PayPal and Stripe.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/newsarticle/48777/visa-expands-agentic-ready-programme-to-acceptance-ecosystem?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Visa",
+      "Fiserv",
+      "PayPal",
+      "Stripe"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-18T14:29:00.000Z",
+    "fetchedAt": "2026-11-18T15:01:37.062Z",
+    "isDuplicateOf": null,
+    "content": "Visa has announced the expansion of its Agentic Ready programme into the merchant acceptance ecosystem. Major industry players such as Fiserv, PayPal, and Stripe have joined the initiative. This move aims to enhance and adapt payment acceptance infrastructure for new digital commerce trends and emerging technologies, fostering broader collaboration across the global financial and merchant networks.",
+    "content_ta": "Visa தனது Agentic Ready திட்டத்தை merchant acceptance ecosystem-ல் விரிவுபடுத்துவதாக அறிவித்துள்ளது. Fiserv, PayPal மற்றும் Stripe உள்ளிட்ட முன்னணி நிறுவனங்கள் இதில் இணைந்துள்ளன. புதிய டிஜிட்டல் வர்த்தக போக்குகள் மற்றும் வளர்ந்து வரும் தொழில்நுட்பங்களுக்கு ஏற்ப கட்டண ஏற்பாட்டு உள்கட்டமைப்பை மேம்படுத்துவதை இந்த நடவடிக்கை நோக்கமாகக் கொண்டுள்ளது.",
+    "slug": "visa-expands-agentic-ready-programme-to-acceptance-ecosystem"
+  },
+  {
+    "id": "4a121ad0b53ee7bf",
+    "slug": "german-court-sets-december-3-hearing-in-movie2k-piracy-case-involving-40-000-bitcoin",
+    "title": "German court sets December 3 hearing in Movie2k piracy case involving 40,000 Bitcoin",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-18T14:28:14.000Z"
+  },
+  {
+    "id": "b2edbdfda0f91fa1",
+    "slug": "morpho-unveils-new-developer-platform-with-rest-apis-for-integration",
+    "title": "Morpho unveils new Developer Platform with REST APIs for integration",
+    "tags": [
+      "Morpho"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T14:27:24.000Z"
+  },
+  {
+    "id": "a74eb37cd19f0df9",
+    "slug": "maple-finance-s-sid-powell-sees-an-opening-in-us-stablecoin-yield-limits",
+    "title": "Maple Finance’s Sid Powell sees an opening in US stablecoin yield limits",
+    "tags": [
+      "Maple Finance",
+      "Sid Powell",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T14:26:55.000Z"
+  },
+  {
+    "id": "d9f66b71ff74f747",
+    "slug": "nvidia-faces-historic-challenges-with-stock-decline-tokenized-versions-diverge",
+    "title": "Nvidia faces historic challenges with stock decline, tokenized versions diverge",
+    "tags": [
+      "Nvidia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T14:22:19.000Z"
+  },
+  {
+    "id": "6d56967c2aa1de98",
+    "slug": "movie2k-defendant-could-hand-over-40-000-bitcoin-to-end-trial-and-stay-a-billionaire",
+    "title": "Movie2K Defendant Could Hand Over 40,000 Bitcoin to End Trial—and Stay a Billionaire",
+    "tags": [
+      "Movie2K",
+      "Bitcoin",
+      "Germany"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T14:20:52.000Z"
+  },
+  {
+    "id": "6c6ccabea0647703",
+    "slug": "two-major-xrp-funds-post-massive-withdrawals-despite-1-price-retrieval",
+    "title": "Two Major XRP Funds Post Massive Withdrawals Despite $1 Price Retrieval",
+    "tags": [],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-18T14:17:38.000Z"
+  },
+  {
+    "id": "514a8f4b911d4d81",
+    "slug": "xrp-trading-is-seeing-a-major-shift-here-s-why-it-matters-for-price",
+    "title": "XRP Trading Is Seeing a Major Shift: Here’s Why It Matters for Price",
+    "tags": [
+      "XRP",
+      "Binance"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T14:11:27.000Z"
+  },
+  {
+    "id": "88174cd695b05b71",
+    "slug": "binance-leads-the-opening-of-new-ethereum-positions-after-a-deleveraging-wave",
+    "title": "Binance leads the opening of new Ethereum positions after a deleveraging wave",
+    "tags": [
+      "Binance",
+      "Ethereum"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T14:11:10.000Z"
+  },
+  {
+    "id": "94cacc94f4aa1c72",
+    "slug": "america-s-1-trillion-ai-data-center-boom-just-suffered-its-first-slowdown-in-over-a-year",
+    "title": "America’s $1 trillion AI data center boom just suffered its first slowdown in over a year",
+    "tags": [
+      "America",
+      "Cleanview"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T14:10:54.000Z"
+  },
+  {
+    "id": "21b75d9d98b3d200",
+    "slug": "us-commerce-department-targets-the-cloud-loophole-in-ai-chip-export-controls",
+    "title": "US Commerce Department targets the cloud loophole in AI chip export controls",
+    "tags": [
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T14:10:41.000Z"
+  },
+  {
+    "id": "030e882b408eac3d",
+    "slug": "bytedance-in-advanced-talks-to-spend-an-extra-500-million-on-microsoft-cloud",
+    "title": "ByteDance in advanced talks to spend an extra $500 million on Microsoft cloud",
+    "tags": [
+      "ByteDance",
+      "Microsoft"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T14:08:28.000Z"
+  },
+  {
+    "id": "2d7b53220bcb3f4a",
+    "slug": "google-stock-price-today-and-news",
+    "title": "Google Stock Price Today and News",
+    "tags": [
+      "Google",
+      "Alphabet",
+      "Anthropic",
+      "Amazon"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T14:08:22.000Z"
+  },
+  {
+    "id": "e84916cd0585fcce",
+    "slug": "crypto-treasuries-are-bad-business",
+    "title": "Crypto treasuries are bad business",
+    "tags": [],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T14:06:57.000Z"
+  },
+  {
+    "id": "1324d6adcfb19bd6",
+    "slug": "bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted",
+    "title": "Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T14:04:50.000Z"
+  },
+  {
+    "id": "95668e8211cb8857",
+    "slug": "gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says",
+    "title": "‘Gift from the market’: Bitcoin shows signs of a local bottom after six weeks of losses, analyst says",
+    "tags": [],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-18T14:01:54.000Z"
+  },
+  {
+    "id": "d6321bb8a6c107e1",
+    "slug": "binance-hacker-unleashes-137-million-eth-dump-swaps-it-for-btc",
+    "title": "Binance Hacker Unleashes $137 Million ETH Dump, Swaps It for BTC",
+    "tags": [
+      "Binance",
+      "ETH",
+      "THORchain",
+      "Bitcoin"
+    ],
+    "source": "ZyCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T14:00:12.000Z"
+  },
+  {
+    "id": "567f2cefd5d43ae7",
+    "title": "Miden and Visa partner on commercial card issuing for African businesses",
+    "summary": "Miden, an enterprise payment infrastructure provider, has announced a collaboration with Visa, a global leader in digital payments, aimed at expanding digital commercial payment capabilities for mid to large sized African businesses.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111717/miden-and-visa-partner-on-commercial-card-issuing-for-african-businesses?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "Miden",
+      "Visa",
+      "Africa"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-18T13:55:00.000Z",
+    "fetchedAt": "2026-11-18T15:01:37.062Z",
+    "isDuplicateOf": null,
+    "content": "Enterprise payment infrastructure provider Miden has partnered with Visa to enhance commercial card issuing for African businesses. This collaboration is designed to expand digital commercial payment capabilities, specifically targeting mid-to-large-sized enterprises across the African continent to streamline their financial operations and foster digital growth.",
+    "content_ta": "எண்டர்பிரைஸ் பேமெண்ட் இன்ஃப்ராஸ்ட்ரக்சர் வழங்குநரான Miden, ஆப்பிரிக்க வணிகங்களுக்கான கமர்ஷியல் கார்டு வழங்கும் சேவையை மேம்படுத்த Visa உடன் கூட்டு சேர்ந்துள்ளது. இந்த ஒத்துழைப்பு ஆப்பிரிக்க கண்டத்தில் உள்ள நடுத்தர மற்றும் பெரிய நிறுவனங்களை குறிவைத்து டிஜிட்டல் வணிகப் பரிவர்த்தனை திறன்களை விரிவுபடுத்தும் நோக்கம் கொண்டது.",
+    "slug": "miden-and-visa-partner-on-commercial-card-issuing-for-african-businesses"
+  },
+  {
+    "id": "65431eb3780b7d54",
+    "title": "Nomupay joins Amazon Web Services marketplace",
+    "summary": "Nomupay, the global fintech that offers a unified end-to-end payments platform through a single integration, announced today that it has joined the Amazon Web Services (AWS) Independent Software Vendor (ISV) Accelerate Program, a co-sell program for AWS Partners that provides software solutions that run on or integrate with AWS.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111716/nomupay-joins-amazon-web-services-marketplace?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-18T13:54:00.000Z",
+    "fetchedAt": "2026-11-18T15:01:37.062Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "nomupay-joins-amazon-web-services-marketplace"
+  },
+  {
+    "id": "f4c0979cdd63526b",
+    "slug": "ondo-finance-joins-mas-s-project-guardian-to-advance-asset-tokenization",
+    "title": "Ondo Finance joins MAS’s Project Guardian to advance asset tokenization",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-18T13:53:57.000Z"
+  },
+  {
+    "id": "04b26e237e23a84f",
+    "slug": "xrp-ledger-secures-certik-attestation-against-gl1-architecture-and-resiliency-principles",
+    "title": "XRP Ledger secures CertiK attestation against GL1 architecture and resiliency principles",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-18T13:52:58.000Z"
+  },
+  {
+    "id": "69ed4efde8213682",
+    "slug": "trade-xyz-nvda-perp-hits-5-5b-weekly-volume-dwarfing-hyperliquid-rivals",
+    "title": "Trade.xyz NVDA perp hits $5.5B weekly volume, dwarfing Hyperliquid rivals",
+    "tags": [
+      "Trade.xyz",
+      "Nvidia",
+      "Hyperliquid"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T13:50:32.000Z"
+  },
+  {
+    "id": "0cca36a312635893",
+    "title": "The Intersection of Autonomous AI Agents, Enterprise Liability, and Insurance Underwriting",
+    "summary": "Author: A finextra community member",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/blogposting/33503/the-intersection-of-autonomous-ai-agents-enterprise-liability-and-insurance-underwriting?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-18T13:48:29.000Z",
+    "fetchedAt": "2026-11-18T15:01:37.062Z",
+    "isDuplicateOf": null,
+    "content": "The rise of autonomous AI agents in the enterprise sector introduces complex questions surrounding liability and risk management. As these intelligent systems make independent operational decisions, insurers face new challenges in underwriting and determining accountability when errors occur. Industry experts are actively examining how corporate insurance frameworks must adapt to address the unique legal and financial exposures associated with fully automated business processes.",
+    "content_ta": "எண்டர்பிரைஸ் துறையில் தன்னாட்சி AI ஏஜெண்டுகளின் எழுச்சி, பொறுப்பு மற்றும் ஆபத்து மேலாண்மை தொடர்பான சிக்கலான கேள்விகளை எழுப்புகிறது. இந்த அமைப்புகள் சுதந்திரமான முடிவுகளை எடுப்பதால், பிழைகள் ஏற்படும் போது காப்பீட்டு நிறுவனங்கள் புதிய சவால்களை எதிர்கொள்கின்றன.",
+    "slug": "the-intersection-of-autonomous-ai-agents-enterprise-liability-and-insurance-underwriting"
+  },
+  {
+    "id": "34d9fa91d8ffb217",
+    "slug": "founders-fund-backed-altius-labs-invests-in-edgex-to-develop-global-trading-and-liquidity-network",
+    "title": "Founders Fund–backed Altius Labs invests in edgeX to develop global trading and liquidity network",
+    "tags": [
+      "Altius Labs",
+      "edgeX",
+      "Founders Fund"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T13:47:10.000Z"
+  },
+  {
+    "id": "f4b8eade7e6d6bfe",
+    "slug": "etherscan-hacked-crypto-users-have-had-enough-as-support-security-scare-sparks-alarm",
+    "title": "Etherscan Hacked? Crypto Users Have Had Enough as Support Security Scare Sparks Alarm",
+    "tags": [
+      "Etherscan",
+      "Freshworks",
+      "Optimizely"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T13:47:02.000Z"
+  },
+  {
+    "id": "83297407b00df13a",
+    "slug": "blackrock-to-acquire-brazil-s-sulamerica-investimentos",
+    "title": "BlackRock to acquire Brazil’s SulAmérica Investimentos",
+    "tags": [
+      "BlackRock",
+      "SulAmérica Investimentos",
+      "Brazil"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T13:42:21.000Z"
+  },
+  {
     "id": "18603605ed028a6d",
     "slug": "brightai-bets-sensors-can-retire-a-2-000-year-old-maintenance-habit",
     "title": "BrightAI bets sensors can retire a 2,000-year-old maintenance habit",
@@ -40,18 +548,13 @@
   },
   {
     "id": "4b2ef964239e561c",
+    "slug": "investor-communications-platform-proxymity-unveils-mikadii-compliance-solution",
     "title": "Investor communications platform  Proxymity unveils MiKaDii compliance solution",
-    "summary": "Proxymity, the digital investor communications platform, is set to launch its MiKaDiv Compliance Solution as Germany’s new dividend reporting regime takes effect in January 2027, giving German issuers a single place to manage their new obligations to the Federal Central Tax Office (BZSt).",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/pressarticle/111712/investor-communications-platform--proxymity-unveils-mikadii-compliance-solution?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
     "tags": [],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-11-18T13:22:00.000Z",
-    "fetchedAt": "2026-11-18T13:31:43.760Z",
-    "isDuplicateOf": null,
-    "content": null,
-    "slug": "investor-communications-platform-proxymity-unveils-mikadii-compliance-solution"
+    "hasContent": false,
+    "pubDate": "2026-11-18T13:22:00.000Z"
   },
   {
     "id": "493aee2801d4fd3c",
@@ -69,22 +572,16 @@
   },
   {
     "id": "aaf9dadc95b11ccb",
+    "slug": "singapore-s-nets-boosts-app",
     "title": "Singapore's Nets boosts app",
-    "summary": "Network for Electronic Transfers (NETS), Singapore’s leading payment services group, today announced enhancements to the NETS App to make everyday payments more inclusive.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/pressarticle/111711/singapores-nets-boosts-app?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
     "tags": [
       "NETS",
       "Singapore"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-11-18T13:20:00.000Z",
-    "fetchedAt": "2026-11-18T13:31:43.760Z",
-    "isDuplicateOf": null,
-    "content": "Network for Electronic Transfers (NETS), Singapore's leading payment services group, has announced new enhancements to the NETS App. These updates are designed to make everyday digital payments more inclusive and accessible for users across the country, improving the overall user experience for daily transactions.",
-    "content_ta": "சிங்கப்பூரின் முன்னணி கட்டணச் சேவை குழுமமான NETS, தனது NETS App செயலியில் புதிய மேம்பாடுகளை அறிவித்துள்ளது. நாட்டின் அனைத்து தரப்பினரும் அன்றாட டிஜிட்டல் கட்டணங்களை எளிதாகப் பயன்படுத்தும் வகையில் இந்த மாற்றங்கள் கொண்டுவரப்பட்டுள்ளன.",
-    "slug": "singapore-s-nets-boosts-app"
+    "hasContent": true,
+    "pubDate": "2026-11-18T13:20:00.000Z"
   },
   {
     "id": "73a9dce0b9996e39",
@@ -101,42 +598,30 @@
   },
   {
     "id": "be376fedf45e3478",
+    "slug": "holvi-connects-business-accounts-to-chtgpt-and-claude",
     "title": "Holvi connects business accounts to ChtGPT and Claude",
-    "summary": "Holvi, the digital finance platform for the self-employed and small businesses, is bringing AI agents into financial management. The company has built its own MCP server, which lets compatible AI tools such as ChatGPT and Claude access Holvi data with the customer’s consent.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/pressarticle/111710/holvi-connects-business-accounts-to-chtgpt-and-claude?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
     "tags": [
       "Holvi",
       "ChatGPT",
       "Claude"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-11-18T13:18:00.000Z",
-    "fetchedAt": "2026-11-18T13:31:43.760Z",
-    "isDuplicateOf": null,
-    "content": "Digital finance platform Holvi is integrating AI agents into financial management by connecting its business accounts to popular AI tools like ChatGPT and Claude. Using a custom Model Context Protocol server, Holvi allows compatible AI assistants to securely access customer financial data with their explicit consent, bridging the gap between business banking and artificial intelligence for self-employed users and small businesses.",
-    "content_ta": "சுயதொழில் செய்பவர்கள் மற்றும் சிறு வணிகர்களுக்கான டிஜிட்டல் நிதி தளமான Holvi, தனது வணிக கணக்குகளை ChatGPT மற்றும் Claude போன்ற AI கருவிகளுடன் இணைத்து நிதி மேலாண்மையில் AI தொழில்நுட்பத்தை புகுத்துகிறது. வாடிக்கையாளர்களின் அனுமதியுடன், அவர்களின் நிதி தரவுகளை AI கருவிகள் அணுகுவதற்கு ஏதுவாக Holvi தனது சொந்த MCP சேவையகத்தை உருவாக்கியுள்ளது.",
-    "slug": "holvi-connects-business-accounts-to-chtgpt-and-claude"
+    "hasContent": true,
+    "pubDate": "2026-11-18T13:18:00.000Z"
   },
   {
     "id": "3863dc7d7edac572",
+    "slug": "visa-brings-contactless-payments-to-the-drc",
     "title": "Visa brings contactless payments to the DRC",
-    "summary": "Visa today announced the launch of Tap to Pay on Visa Pay in the Democratic Republic of Congo (DRC), enabling eligible users to make secure contactless payments by tapping their NFC-enabled Android smartphones wherever Visa contactless payments are accepted.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/pressarticle/111708/visa-brings-contactless-payments-to-the-drc?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
     "tags": [
       "Visa",
       "Democratic Republic of Congo"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-11-18T13:11:00.000Z",
-    "fetchedAt": "2026-11-18T13:31:43.760Z",
-    "isDuplicateOf": null,
-    "content": "Visa has launched its Tap to Pay service in the Democratic Republic of Congo. The new offering allows eligible users to make secure contactless payments by tapping their NFC-enabled Android smartphones at any location that accepts Visa contactless payments.",
-    "content_ta": "Democratic Republic of Congo நாட்டில் Tap to Pay சேவையை Visa அறிமுகப்படுத்தியுள்ளது. இந்த புதிய சேவையின் மூலம், தகுதியுள்ள பயனர்கள் தங்கள் NFC-இயக்கப்பட்ட Android smartphones-களைப் பயன்படுத்தி பாதுகாப்பான contactless payments செய்ய முடியும்.",
-    "slug": "visa-brings-contactless-payments-to-the-drc"
+    "hasContent": true,
+    "pubDate": "2026-11-18T13:11:00.000Z"
   },
   {
     "id": "dcdb698d19fe324d",
@@ -191,22 +676,16 @@
   },
   {
     "id": "788bf5483af7520e",
+    "slug": "ziina-launches-split-bill-to-simplify-shared-group-payments",
     "title": "Ziina Launches Split Bill to Simplify Shared Group Payments",
-    "summary": "UAE fintech Ziina launches Split Bill, letting users divide group expenses, automate payment reminders, and track settlements as annual volume tops $2 billion.\nThe post Ziina Launches Split Bill to Simplify Shared Group Payments appeared first on The Fintech Times.",
-    "hasSummary": true,
-    "link": "https://thefintechtimes.com/ziina-launches-split-bill-to-simplify-shared-group-payments/",
-    "source": "The Fintech Times",
     "tags": [
       "Ziina",
       "UAE"
     ],
+    "source": "The Fintech Times",
     "origin": "rss",
-    "pubDate": "2026-11-18T13:00:28.000Z",
-    "fetchedAt": "2026-11-18T13:31:43.760Z",
-    "isDuplicateOf": null,
-    "content": "UAE fintech company Ziina has launched a new feature called Split Bill. This tool is designed to simplify shared group payments by allowing users to easily divide group expenses, automate payment reminders, and track settlements. The launch comes as Ziina's annual transaction volume crosses the $2 billion milestone, highlighting significant growth in the region's digital payment sector.",
-    "content_ta": "UAE-ஐச் சேர்ந்த Ziina என்ற ஃபின்டெக் நிறுவனம், Split Bill என்ற புதிய அம்சத்தை அறிமுகப்படுத்தியுள்ளது. பயனர்கள் தங்களின் குழு செலவுகளை எளிதாகப் பிரிக்கவும், கட்டண நினைவூட்டல்களைத் தானியங்குபடுத்தவும், கணக்குகளைத் துல்லியமாக நிர்வகிக்கவும் இந்த வசதி உதவுகிறது. Ziina-வின் ஆண்டு பரிவர்த்தனை அளவு $2 பில்லியனைக் கடந்துள்ள நிலையில் இந்த புதிய அம்சம் வெளியிடப்பட்டுள்ளது.",
-    "slug": "ziina-launches-split-bill-to-simplify-shared-group-payments"
+    "hasContent": true,
+    "pubDate": "2026-11-18T13:00:28.000Z"
   },
   {
     "id": "45117c0b933198f7",
@@ -224,37 +703,26 @@
   },
   {
     "id": "a2228341ecdd8c4c",
+    "slug": "how-stablecoin-linked-cards-could-change-the-future-of-everyday-payment-funding",
     "title": "How Stablecoin-Linked Cards Could Change the Future of Everyday Payment Funding",
-    "summary": "In this interview, Paymentology's Jeff Parker discusses the demand for and management of stablecoin-linked cards.",
-    "hasSummary": true,
-    "link": "https://www.finextra.com/videoarticle/3647/how-stablecoin-linked-cards-could-change-the-future-of-everyday-payment-funding?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
     "tags": [
       "Paymentology",
       "Jeff Parker"
     ],
+    "source": "Finextra",
     "origin": "rss",
-    "pubDate": "2026-11-18T13:00:00.000Z",
-    "fetchedAt": "2026-11-18T13:31:43.760Z",
-    "isDuplicateOf": null,
-    "content": "Stablecoin-linked cards are emerging as a transformative tool for everyday payment funding. In a recent interview, Paymentology's Jeff Parker explored the growing demand for these digital asset cards and how financial institutions manage them. As adoption increases, experts believe this technology could significantly reshape how consumers fund their daily transactions, bridging the gap between traditional payment systems and digital currencies.",
-    "content_ta": "ஸ்டேபிள்காயின் இணைக்கப்பட்ட கார்டுகள் அன்றாட கட்டண நிதி பரிமாற்றங்களை மாற்றியமைக்கும் கருவியாக உருவெடுத்து வருகின்றன. சமீபத்திய பேட்டியில், Paymentology நிறுவனத்தின் Jeff Parker இந்த டிஜிட்டல் சொத்து கார்டுகளுக்கான வளர்ந்து வரும் தேவையையும் அவற்றை நிர்வகிக்கும் முறைகளையும் பற்றி விவாதித்தார். இந்த தொழில்நுட்பத்தின் பயன்பாடு அதிகரிக்கும் போது, நுகர்வோர் தங்கள் அன்றாட பணப்பரிமாற்றங்களை மேற்கொள்ளும் முறையை இது கணிசமாக மாற்றக்கூடும் என்று நிபுணர்கள் நம்புகின்றனர்.",
-    "slug": "how-stablecoin-linked-cards-could-change-the-future-of-everyday-payment-funding"
+    "hasContent": true,
+    "pubDate": "2026-11-18T13:00:00.000Z"
   },
   {
     "id": "9e6069bc91457d28",
+    "slug": "the-decade-long-transformation-behind-happen-bank-led-by-ceo-scott-sanborn",
     "title": "The decade-long transformation behind Happen Bank, led by CEO Scott Sanborn",
-    "summary": "Transforming a financial institution means making difficult calls about what the business needs to leave behind, what is worth preserving, and how far its leaders are willing to take it. CEO Scott Sanborn’s tenure at LendingClub, now Happen Bank, has been defined by those decisions. After joining LendingClub in 2010 and rising through the roles … \nContinue reading \"The decade-long transformation behind Happen Bank, led by CEO Scott Sanborn\"\nThe post The decade-long transformation behind Happen Bank, led by CEO Scott Sanborn appeared first on Tearsheet.",
-    "hasSummary": true,
-    "link": "https://tearsheet.co/banking/the-decade-long-transformation-behind-happen-bank-led-by-ceo-scott-sanborn/?utm_source=rss&utm_medium=rss&utm_campaign=the-decade-long-transformation-behind-happen-bank-led-by-ceo-scott-sanborn",
-    "source": "Tearsheet",
     "tags": [],
+    "source": "Tearsheet",
     "origin": "rss",
-    "pubDate": "2026-11-18T13:00:00.000Z",
-    "fetchedAt": "2026-11-18T13:31:43.760Z",
-    "isDuplicateOf": null,
-    "content": null,
-    "slug": "the-decade-long-transformation-behind-happen-bank-led-by-ceo-scott-sanborn"
+    "hasContent": false,
+    "pubDate": "2026-11-18T13:00:00.000Z"
   },
   {
     "id": "330cb9aea8773ea7",
@@ -321,535 +789,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-18T12:50:16.000Z"
-  },
-  {
-    "id": "a13fc93eefa9f016",
-    "slug": "anthropic-ai-model-flagged-civilians-schools-as-military-targets-in-tests",
-    "title": "Anthropic AI model flagged civilians, schools as military targets in tests",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T12:48:18.000Z"
-  },
-  {
-    "id": "e61d233885939a7f",
-    "slug": "bullish-reports-results-and-agrees-to-buy-equiniti-in-a-4-2-billion-deal",
-    "title": "Bullish reports results and agrees to buy Equiniti in a $4.2 billion deal",
-    "tags": [
-      "Bullish",
-      "Equiniti"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T12:45:23.000Z"
-  },
-  {
-    "id": "147243f48010ccde",
-    "title": "Ransomware Gang Claims Visa and JPMorgan Chase as Victims, Sets 48-Hour Leak Deadline",
-    "summary": "A newly emerged ransomware gang has listed Visa and JPMorgan Chase as alleged victims and threatens to leak stolen data within 48 hours. The gang, which goes by the name n0n, has given the two companies 48 hours to negotiate, reports Cybernews. Visa says it is aware of the claims and that the incident involved […]\nThe post Ransomware Gang Claims Visa and JPMorgan Chase as Victims, Sets 48-Hour Leak Deadline appeared first on The Daily Hodl.",
-    "hasSummary": true,
-    "link": "https://dailyhodl.com/2026/11/18/ransomware-gang-claims-visa-and-jpmorgan-chase-as-victims-sets-48-hour-leak-deadline/",
-    "source": "The Daily Hodl",
-    "tags": [
-      "Visa",
-      "JPMorgan Chase"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-11-18T12:45:04.000Z",
-    "fetchedAt": "2026-11-18T13:31:43.760Z",
-    "isDuplicateOf": null,
-    "content": "A newly emerged ransomware gang named n0n has claimed Visa and JPMorgan Chase as its victims, threatening to leak alleged stolen data within 48 hours unless negotiations occur. Visa stated it is aware of the claims and is currently investigating the incident. The cyber extortion threat has raised concerns regarding the security of major financial institutions.",
-    "content_ta": "n0n எனப்படும் புதிய ransomware கும்பல் Visa மற்றும் JPMorgan Chase ஆகிய நிறுவனங்களை தங்களது இலக்குகளாகக் குறிப்பிட்டுள்ளது. திருடப்பட்ட தரவுகளை 48 மணி நேரத்திற்குள் வெளியிடப் போவதாக அவர்கள் மிரட்டல் விடுத்துள்ளனர். இந்த குற்றச்சாட்டு குறித்து தங்களுக்குத் தெரியும் என்றும், சம்பவம் குறித்து விசாரித்து வருவதாகவும் Visa தெரிவித்துள்ளது.",
-    "slug": "ransomware-gang-claims-visa-and-jpmorgan-chase-as-victims-sets-48-hour-leak-deadline"
-  },
-  {
-    "id": "e8dca8782302223f",
-    "title": "First Internet Bank’s Dave Becker on cleaning up consent orders and putting AI to work on SBA loans",
-    "summary": "A consent order used to end an acquisition conversation. Capital One bought Discover, HomeTrust agreed to buy Blue Ridge, and First Financial signed on for Finward, each with regulatory history attached. Becker says many recent orders trace to BSA/AML gaps in fintech partnerships, where community banks assumed the fintech owned the compliance work and examiners … \nContinue reading \"First Internet Bank’s Dave Becker on cleaning up consent orders and putting AI to work on SBA loans\"\nThe post First Internet Bank’s Dave Becker on cleaning up consent orders and putting AI to work on SBA loans appeared first on Tearsheet.",
-    "hasSummary": true,
-    "link": "https://tearsheet.co/podcasts/first-internet-banks-dave-becker-on-cleaning-up-consent-orders-and-putting-ai-to-work-on-sba-loans/?utm_source=rss&utm_medium=rss&utm_campaign=first-internet-banks-dave-becker-on-cleaning-up-consent-orders-and-putting-ai-to-work-on-sba-loans",
-    "source": "Tearsheet",
-    "tags": [
-      "First Internet Bank",
-      "Dave Becker"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-11-18T12:45:00.000Z",
-    "fetchedAt": "2026-11-18T13:31:43.760Z",
-    "isDuplicateOf": null,
-    "content": "First Internet Bank CEO Dave Becker recently discussed the challenges of resolving regulatory consent orders and the growing role of artificial intelligence in processing SBA loans. Becker noted that many recent consent orders stem from Bank Secrecy Act and anti-money laundering gaps in fintech partnerships, where community banks mistakenly assumed their partners managed the compliance obligations.",
-    "content_ta": "First Internet Bank-ன் CEO Dave Becker, ஒழுங்குமுறை ஒப்புதல் உத்தரவுகளை (consent orders) தீர்ப்பது மற்றும் SBA கடன்களை வழங்குவதில் செயற்கை நுண்ணறிவின் (AI) பங்கு குறித்து விவாதித்தார். பல சமீபத்து உத்தரவுகள் fintech கூட்டாண்மைகளில் உள்ள BSA/AML இடைவெளிகளிலிருந்து ஏற்படுவதாக அவர் குறிப்பிட்டார்.",
-    "slug": "first-internet-bank-s-dave-becker-on-cleaning-up-consent-orders-and-putting-ai-to-work-on-sba-loans"
-  },
-  {
-    "id": "eadf3e22f18dc08b",
-    "slug": "malaysia-orders-data-centres-to-follow-us-rules-on-ai-chips",
-    "title": "Malaysia orders data centres to follow US rules on AI chips",
-    "tags": [
-      "Malaysia",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T12:43:54.000Z"
-  },
-  {
-    "id": "fd1551c4f3d4001f",
-    "slug": "fed-s-waller-warns-inflation-heading-wrong-direction-may-prompt-rate-hikes",
-    "title": "Fed’s Waller warns inflation heading wrong direction, may prompt rate hikes",
-    "tags": [
-      "Federal Reserve",
-      "Waller"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T12:41:40.000Z"
-  },
-  {
-    "id": "00e7495825baa677",
-    "slug": "bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes",
-    "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
-    "tags": [
-      "Bullish"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T12:41:09.000Z"
-  },
-  {
-    "id": "06c356ddc9032ed5",
-    "slug": "jpmorgan-hyundai-card-ai-agents-test-hits-strict-bank-limits",
-    "title": "JPMorgan Hyundai Card AI Agents Test Hits Strict Bank Limits",
-    "tags": [
-      "Hyundai Card",
-      "JPMorgan",
-      "Kinexys"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T12:31:42.000Z"
-  },
-  {
-    "id": "03f5f65d5cd62188",
-    "slug": "satoshi-ally-adam-back-flags-bitcoin-s-new-68-000-mathematical-floor",
-    "title": "Satoshi Ally Adam Back Flags Bitcoin’s New $68,000 ‘Mathematical Floor’",
-    "tags": [
-      "Blockstream",
-      "Adam Back",
-      "Bitcoin"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T12:28:25.000Z"
-  },
-  {
-    "id": "e8c43ac9210ba741",
-    "slug": "circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia",
-    "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
-    "tags": [
-      "Circle",
-      "DBS",
-      "USDC",
-      "Asia"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T12:25:14.000Z"
-  },
-  {
-    "id": "685bc9de6bc1f8a4",
-    "slug": "pendle-launches-fixed-term-usde-markets-in-partnership-with-ethena",
-    "title": "Pendle launches fixed-term USDe markets in partnership with Ethena",
-    "tags": [
-      "Pendle",
-      "Ethena",
-      "USDe"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T12:20:06.000Z"
-  },
-  {
-    "id": "2c9860edee69b977",
-    "slug": "blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say",
-    "title": "Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say",
-    "tags": [
-      "Anthropic",
-      "Bitcoin"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T12:15:00.000Z"
-  },
-  {
-    "id": "203a54364523ee77",
-    "title": "LIVE: A bad week for critical infrastructure",
-    "summary": "Airlines, banks, payroll, and software keep failing across the US, and officials keep blaming old equipment for the outages.\nThe post LIVE: A bad week for critical infrastructure appeared first on Protos.",
-    "hasSummary": true,
-    "link": "https://protos.com/live-us-infrastructure-outages-mount/",
-    "source": "Protos",
-    "tags": [
-      "United States"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-11-18T12:14:28.000Z",
-    "fetchedAt": "2026-11-18T13:31:43.760Z",
-    "isDuplicateOf": null,
-    "content": "Critical infrastructure across the United States has experienced a troubling week of widespread outages. Essential sectors including airlines, banking institutions, payroll systems, and software services have suffered consecutive failures. Government and industry officials have repeatedly pointed to aging and outdated equipment as the primary cause behind these recurring technical disruptions, raising concerns about the reliability of national systems.",
-    "content_ta": "United States-ல் உள்ள முக்கியமான உள்கட்டமைப்பு கடந்த வாரத்தில் தொடர்ச்சியான தொழில்நுட்பக் கோளாறுகளைச் சந்தித்துள்ளது. விமான சேவைகள், வங்கிகள், ஊதிய அமைப்பு மற்றும் மென்பொருள் சேவைகள் உள்ளிட்ட பல முக்கிய துறைகள் செயலிழந்துள்ளன. இந்தத் தொடர்ச்சியான முடக்கங்களுக்குப் பழமையான மற்றும் பழுதடைந்த சாதனங்களே காரணம் என்று அதிகாரிகள் குற்றம்சாட்டியுள்ளனர்.",
-    "slug": "live-a-bad-week-for-critical-infrastructure"
-  },
-  {
-    "id": "2c69cd37c7c953cd",
-    "slug": "ai-will-make-the-next-12-months-a-slaughterhouse-for-crypto-security-anchorage-exec",
-    "title": "AI Will Make the Next 12 Months 'a Slaughterhouse' for Crypto Security: Anchorage Exec",
-    "tags": [
-      "Solana",
-      "North Korea"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T12:10:27.000Z"
-  },
-  {
-    "id": "99c5e2107625e650",
-    "slug": "oxford-economics-warns-us-growth-may-be-hiding-recession-risk",
-    "title": "Oxford Economics warns US growth may be hiding recession risk",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-18T12:09:41.000Z"
-  },
-  {
-    "id": "f3a8137f9c521d86",
-    "slug": "bitcoin-miners-found-a-way-to-profit-without-mining-btc-but-the-advantage-may-not-last",
-    "title": "Bitcoin miners found a way to profit without mining BTC, but the advantage may not last",
-    "tags": [
-      "Bitcoin",
-      "Luxor",
-      "Riot",
-      "West Texas"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T12:00:26.000Z"
-  },
-  {
-    "id": "6534ff6babd8945b",
-    "slug": "riff-teams-up-with-griffin-to-power-automated-savings-across-fscs-protected-banks",
-    "title": "Riff Teams Up With Griffin to Power Automated Savings Across FSCS-Protected Banks",
-    "tags": [
-      "Riff",
-      "Griffin",
-      "FSCS"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T11:59:44.000Z"
-  },
-  {
-    "id": "db06c059476f86a8",
-    "slug": "uk-wealth-managers-face-heavier-workloads-than-global-peers-avaloq-research-reveals",
-    "title": "UK Wealth Managers Face Heavier Workloads Than Global Peers, Avaloq Research Reveals",
-    "tags": [
-      "UK",
-      "Avaloq"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T11:56:31.000Z"
-  },
-  {
-    "id": "36533a9e77568c66",
-    "slug": "ai-trade-is-alive-and-well-yardeni-says",
-    "title": "AI trade is ‘alive and well,’ Yardeni says",
-    "tags": [
-      "Anthropic",
-      "Yardeni",
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T11:54:26.000Z"
-  },
-  {
-    "id": "96c1c18727cce99b",
-    "slug": "lianlian-digitech-and-visa-advance-trusted-b2b-agentic-commerce-for-small-and-medium-sized",
-    "title": "Lianlian DigiTech and Visa Advance Trusted B2B Agentic Commerce for Small and Medium-Sized Businesses",
-    "tags": [
-      "Lianlian DigiTech",
-      "Visa",
-      "Asia Pacific",
-      "Singapore Fintech Festival"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T11:53:22.000Z"
-  },
-  {
-    "id": "ead73c9364b5deba",
-    "slug": "coinshares-sells-all-its-treasury-ethereum-and-half-its-solana-to-fund-40m-buyback",
-    "title": "CoinShares sells all its treasury Ethereum and half its Solana to fund $40M buyback",
-    "tags": [
-      "CoinShares",
-      "Ethereum",
-      "Solana"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T11:52:37.000Z"
-  },
-  {
-    "id": "4e449366e04ba689",
-    "slug": "polygon-eyes-us-banking-licence-with-50-million-to-100-million-acquisition-plans-report",
-    "title": "Polygon eyes US banking licence with $50 million to $100 million acquisition plans: Report",
-    "tags": [
-      "Polygon",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T11:49:40.000Z"
-  },
-  {
-    "id": "5f185952b82f2e44",
-    "slug": "important-binance-announcement-concerning-turkish-users-details-inside",
-    "title": "Important Binance Announcement Concerning Turkish Users: Details Inside",
-    "tags": [
-      "Binance",
-      "Turkey"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T11:46:51.000Z"
-  },
-  {
-    "id": "8ed0328f79c9be5c",
-    "slug": "supermicro-and-amd-achieving-deterministic-performance-in-next-gen-trading",
-    "title": "Supermicro and AMD: Achieving Deterministic Performance in Next‐Gen Trading",
-    "tags": [
-      "Supermicro",
-      "AMD"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T11:43:31.000Z"
-  },
-  {
-    "id": "c84fe78252f76b00",
-    "slug": "coinshares-swings-to-39-6-million-q3-profit-as-aum-climbs-to-7-4-billion",
-    "title": "CoinShares swings to $39.6 million Q3 profit as AUM climbs to $7.4 billion",
-    "tags": [
-      "CoinShares"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T11:42:05.000Z"
-  },
-  {
-    "id": "90a7cbe70442be9b",
-    "slug": "apicunia-and-paypoint-partner-to-extend-european-payee-verification",
-    "title": "Apicunia and PayPoint Partner to Extend European Payee Verification",
-    "tags": [
-      "Apicunia",
-      "PayPoint",
-      "United Kingdom",
-      "Europe"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T11:39:48.000Z"
-  },
-  {
-    "id": "9b4308a4bfee6558",
-    "slug": "humyn-labs-raises-47m-to-feed-us-robotics-labs-real-world-human-data",
-    "title": "Humyn Labs raises $47M to feed US robotics labs real-world human data",
-    "tags": [
-      "Humyn Labs",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T11:34:05.000Z"
-  },
-  {
-    "id": "a934915ab6cab6ca",
-    "slug": "nvidia-leadership-crisis-puts-gulf-ai-ambitions-on-uncertain-footing",
-    "title": "Nvidia leadership crisis puts Gulf AI ambitions on uncertain footing",
-    "tags": [
-      "Nvidia",
-      "Gulf"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T11:29:04.000Z"
-  },
-  {
-    "id": "572ffe62dd6051f9",
-    "slug": "anthropic-stock-demand-explodes-with-10-billion-investor-orders",
-    "title": "Anthropic Stock Demand Explodes With $10 Billion Investor Orders",
-    "tags": [
-      "Anthropic",
-      "Altimeter Capital",
-      "Bessemer Venture Partners"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T11:28:27.000Z"
-  },
-  {
-    "id": "ed03ecacfa4113e8",
-    "slug": "michael-saylor-says-banks-are-bringing-bitcoin-to-clients-but-who-really-owns-the-2-35-billion",
-    "title": "Michael Saylor Says Banks Are Bringing Bitcoin To Clients — But Who Really Owns The $2.35 Billion?",
-    "tags": [
-      "Michael Saylor",
-      "Bitcoin",
-      "Wells Fargo",
-      "BlackRock",
-      "Wall Street"
-    ],
-    "source": "Bitcoinist",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T11:26:46.000Z"
-  },
-  {
-    "id": "f769ba8ec465e9aa",
-    "slug": "credit-chiefs-warn-of-debt-repricing-impact-on-weaker-borrowers",
-    "title": "Credit chiefs warn of debt repricing impact on weaker borrowers",
-    "tags": [
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T11:23:01.000Z"
-  },
-  {
-    "id": "ef3457af10fdc769",
-    "slug": "coinbase-brings-chatgpt-into-crypto-trading-as-pancake-rebrand-signals-binance-rivalry",
-    "title": "Coinbase Brings ChatGPT Into Crypto Trading as Pancake Rebrand Signals Binance Rivalry",
-    "tags": [
-      "Coinbase",
-      "ChatGPT",
-      "Pancake",
-      "Binance"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T11:18:25.000Z"
-  },
-  {
-    "id": "86dc554ce7b4f0f6",
-    "slug": "coinkite-ceo-says-coldcard-flaw-hit-0-17-of-users-as-galaxy-tallies-116m-in-stolen-bitcoin",
-    "title": "Coinkite CEO says Coldcard flaw hit 0.17% of users as Galaxy tallies $116M in stolen Bitcoin",
-    "tags": [
-      "Coinkite",
-      "Coldcard",
-      "Galaxy",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T11:15:45.000Z"
-  },
-  {
-    "id": "1851758bb48c9bc9",
-    "slug": "nvidia-s-interim-ceo-colette-kress-reassures-investors-after-huang-s-exit",
-    "title": "Nvidia’s interim CEO Colette Kress reassures investors after Huang’s exit",
-    "tags": [
-      "Nvidia",
-      "Colette Kress"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T11:14:17.000Z"
-  },
-  {
-    "id": "17486bbd98a7ddc4",
-    "slug": "trump-administration-weighs-forcing-companies-to-disclose-chinese-ai-model-use",
-    "title": "Trump administration weighs forcing companies to disclose Chinese AI model use",
-    "tags": [
-      "Trump administration",
-      "United States",
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T11:11:17.000Z"
-  },
-  {
-    "id": "7c674a456cc57219",
-    "slug": "data-silos-threaten-banks-competitive-edge-in-ai",
-    "title": "Data silos threaten banks’ competitive edge in AI",
-    "tags": [
-      "ChatGPT",
-      "Claude",
-      "Gemini",
-      "McKinsey"
-    ],
-    "source": "Banking Dive",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T11:11:00.000Z"
-  },
-  {
-    "id": "5049a1f7e29ce0e7",
-    "slug": "td-cowen-tempers-ether-outlook-maintains-buy-rating-on-sharplink",
-    "title": "TD Cowen tempers ether outlook, maintains Buy rating on Sharplink",
-    "tags": [
-      "TD Cowen",
-      "Sharplink",
-      "Ether"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T11:08:27.000Z"
-  },
-  {
-    "id": "6cde4a054c02c7a7",
-    "slug": "bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike",
-    "title": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
-    "tags": [
-      "Bitcoin",
-      "Federal Reserve"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T10:58:36.000Z"
   }
 ]
