@@ -1,172 +1,373 @@
 [
   {
-    "id": "5182f8bb3653281e",
-    "title": "Brad Gerstner says Anthropic could support its 2027 revenue forecast with about 500 MW of compute",
-    "summary": "Anthropic's strategic allocation of compute resources to paying clients signals robust revenue growth potential, influencing future market valuations.\nThe post Brad Gerstner says 26% of Anthropic’s compute budget served paying customers in early 2026 appeared first on Crypto Briefing.",
+    "id": "35c4bef1c95eb246",
+    "slug": "jim-cramer-asked-nvidia-s-interim-ceo-the-uncomfortable-question",
+    "title": "Jim Cramer Asked Nvidia’s Interim CEO the Uncomfortable Question",
+    "tags": [
+      "Nvidia",
+      "Jim Cramer",
+      "Colette Kress"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T05:40:23.000Z"
+  },
+  {
+    "id": "015549c20684898d",
+    "slug": "u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-25-million-fraud",
+    "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
+    "tags": [
+      "Ethereum",
+      "United States"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T05:30:10.000Z"
+  },
+  {
+    "id": "6983d984d93d5f4d",
+    "title": "Can an AI Agent Drain Your Crypto Wallet? 5 Rules to Keep Your Funds Safe",
+    "summary": "Can an AI agent drain your crypto wallet? BeInCrypto and Dune researchers explain the real risks and five rules to stay safe.\nThe post Can an AI Agent Drain Your Crypto Wallet? 5 Rules to Keep Your Funds Safe appeared first on BeInCrypto.",
     "hasSummary": true,
-    "link": "https://cryptobriefing.com/brad-gerstner-anthropic-compute-efficiency/",
+    "link": "https://beincrypto.com/ai-agent-drain-crypto-wallet-rules/",
+    "source": "BeInCrypto",
+    "tags": [
+      "BeInCrypto",
+      "Dune"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-18T05:17:54.000Z",
+    "fetchedAt": "2026-11-18T06:01:28.523Z",
+    "isDuplicateOf": null,
+    "content": "Researchers from BeInCrypto and Dune have highlighted potential security risks regarding whether AI agents can drain crypto wallets. To help users protect their digital assets, experts have outlined five essential rules to keep funds safe when interacting with new technologies in the digital asset space.",
+    "content_ta": "AI ஏஜெண்டுகள் உங்கள் crypto வலெட்டை காலி செய்ய முடியுமா என்பது குறித்து BeInCrypto மற்றும் Dune ஆராய்ச்சியாளர்கள் சாத்தியமான பாதுகாப்பு அபாயங்களை எடுத்துரைத்துள்ளனர். பயனர்களின் டிஜிட்டல் சொத்துக்களைப் பாதுகாக்க, ஐந்து அவசியமான விதிகளை நிபுணர்கள் பரிந்துரைத்துள்ளனர்.",
+    "slug": "can-an-ai-agent-drain-your-crypto-wallet-5-rules-to-keep-your-funds-safe"
+  },
+  {
+    "id": "a569b2fa2268e403",
+    "title": "Nvidia’s Singapore unit reports $104B revenue for 2025: FT",
+    "summary": "Nvidia's revenue reporting shift may obscure true market dynamics, impacting transparency and potentially influencing stock valuations and strategies.\nThe post Nvidia’s Singapore unit reports $104B revenue for 2025: FT appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/nvidias-singapore-unit-reports-104b-revenue-for-2025-ft/",
     "source": "CryptoBriefing",
+    "tags": [
+      "Nvidia",
+      "Singapore"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-18T05:13:40.000Z",
+    "fetchedAt": "2026-11-18T06:01:28.523Z",
+    "isDuplicateOf": null,
+    "content": "According to the Financial Times, Nvidia's Singapore unit reported a massive $104 billion in revenue for 2025. This significant revenue figure and the company's reporting shifts have raised questions among analysts. Experts suggest these practices may obscure true market dynamics, potentially impacting market transparency, influencing stock valuations, and affecting strategic decisions in the technology sector.",
+    "content_ta": "Financial Times வெளியிட்ட தகவலின்படி, 2025 ஆம் ஆண்டிற்கான $104 பில்லியன் வருவாயை Nvidia-வின் Singapore பிரிவு பதிவு செய்துள்ளது. இந்த பெரிய வருவாய் அளவும், நிறுவனத்தின் நிதி அறிக்கை நடைமுறைகளும் சந்தை வெளிப்படைத்தன்மை மற்றும் பங்கு மதிப்புகளை பாதிக்கலாம் என்று ஆய்வாளர்கள் கருதுகின்றனர்.",
+    "slug": "nvidia-s-singapore-unit-reports-104b-revenue-for-2025-ft"
+  },
+  {
+    "id": "538a9358026902db",
+    "slug": "uniswap-why-uni-traders-must-watch-these-levels-below-4-70",
+    "title": "Uniswap: Why UNI traders must watch THESE levels below $4.70",
+    "tags": [
+      "Uniswap"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T05:00:27.000Z"
+  },
+  {
+    "id": "c339f7a38f81760b",
+    "slug": "cypherpunk-reports-8-967-zec-mined-as-zcash-treasury-nears-342-000-tokens",
+    "title": "Cypherpunk Reports 8,967 ZEC Mined as Zcash Treasury Nears 342,000 Tokens",
+    "tags": [
+      "Cypherpunk Technologies",
+      "Zcash"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T05:00:00.000Z"
+  },
+  {
+    "id": "ee2e391b3695e7f3",
+    "title": "Why Circle (CRCL) Stock Is Falling Despite the World Bank’s USDC Plan",
+    "summary": "World Bank taps Circle's USDC for a development payments test, but CRCL stock fell 5% as reserve income shrinks.\nThe post Why Circle (CRCL) Stock Is Falling Despite the World Bank’s USDC Plan appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/circle-world-bank-usdc-crcl-stock/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Circle",
+      "World Bank",
+      "USDC"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-18T04:51:25.000Z",
+    "fetchedAt": "2026-11-18T06:01:28.523Z",
+    "isDuplicateOf": null,
+    "content": "Circle stock recently fell despite the World Bank selecting its USDC stablecoin for a development payments test. Although the integration highlights growing adoption, CRCL shares dropped as investors reacted to shrinking reserve income, which remains a key financial concern for the company.",
+    "content_ta": "World Bank-ன் வளர்ச்சிப் பணப் பரிமாற்ற சோதனைக்கு Circle-ன் USDC தேர்வு செய்யப்பட்ட போதிலும், CRCL பங்கு விலை சமீபத்தில் சரிந்தது. இந்த ஒருங்கிணைப்பு வளர்ந்து வரும் ஏற்றுக்கொள்ளலைக் காட்டினாலும், ரிசர்வ் வருமானம் குறைவது குறித்த முதலீட்டாளர்களின் கவலை காரணமாக CRCL பங்குகள் சரிவை சந்தித்தன.",
+    "slug": "why-circle-crcl-stock-is-falling-despite-the-world-bank-s-usdc-plan"
+  },
+  {
+    "id": "c85141496e184d27",
+    "title": "Should You Buy Nvidia Stock Now As Goldman Sachs Sticks With Buy Rating?",
+    "summary": "The post Should You Buy Nvidia Stock Now As Goldman Sachs Sticks With Buy Rating? appeared first on Coinpedia Fintech News\nGoldman Sachs has maintained its Buy rating on Nvidia with a $220 price target, citing an attractive risk-reward profile despite concerns surrounding the chipmaker’s leadership transition and ongoing investigations. The firm raised its 2027 revenue growth forecast to 75% from 70%, factoring in new US Commerce Department restrictions on data centre rentals involving customers operating …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/crypto-live-news/should-you-buy-nvidia-stock-now-as-goldman-sachs-sticks-with-buy-rating/",
+    "source": "Coinpedia",
+    "tags": [
+      "Goldman Sachs",
+      "Nvidia",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-18T04:48:00.000Z",
+    "fetchedAt": "2026-11-18T06:01:28.523Z",
+    "isDuplicateOf": null,
+    "content": "Goldman Sachs has maintained its Buy rating on Nvidia alongside a $220 price target. The financial firm highlighted an attractive risk-reward profile for the chipmaker despite concerns over leadership changes and regulatory investigations. Additionally, Goldman Sachs increased its 2027 revenue growth forecast to 75%, incorporating recent trade restrictions issued by the US Commerce Department concerning data center rentals.",
+    "content_ta": "Goldman Sachs நிறுவனம் Nvidia பங்கின் Buy தரமதிப்பீட்டை $220 விலை இலக்குடன் தக்கவைத்துள்ளது. தலைமை மாற்றங்கள் மற்றும் விசாரணைகள் குறித்த கவலைகள் இருந்தபோதிலும், இந்நிறுவனம் சாதகமான வர்த்தக சூழலைக் கொண்டுள்ளது என்று தெரிவிக்கப்பட்டுள்ளது. மேலும், அமெரிக்க வர்த்தகத்துறையின் புதிய கட்டுப்பாடுகளைக் கருத்தில் கொண்டு, 2027ஆம் ஆண்டுக்கான வருவாய் வளர்ச்சி மதிப்பீட்டை Goldman Sachs 75 சதவீதமாக உயர்த்தியுள்ளது.",
+    "slug": "should-you-buy-nvidia-stock-now-as-goldman-sachs-sticks-with-buy-rating"
+  },
+  {
+    "id": "26dd3458e8785e84",
+    "title": "OpenAI board member puts 10% chance of AI takeover within a year",
+    "summary": "The rising probability of AI takeover underscores the urgent need for robust safeguards to prevent potential catastrophic outcomes.\nThe post OpenAI board member puts 10% chance of AI takeover within a year appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/openai-board-member-ai-takeover-warning/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "OpenAI"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-18T04:44:18.000Z",
+    "fetchedAt": "2026-11-18T06:01:28.523Z",
+    "isDuplicateOf": null,
+    "content": "An OpenAI board member has estimated a ten percent chance that artificial intelligence could take over within the next year. This rising probability highlights the urgent need for strong safeguards and safety measures to prevent potential catastrophic outcomes as AI technology continues to advance rapidly.",
+    "content_ta": "OpenAI-யின் board member ஒருவர், அடுத்த ஒரு வருடத்திற்குள் AI உலகைக் கட்டுப்படுத்துவதற்கான வாய்ப்பு பத்து சதவீதம் இருப்பதாகத் தெரிவித்துள்ளார். AI தொழில்நுட்பம் வேகமாக வளர்ச்சியடைந்து வரும் நிலையில், சாத்தியமான பெரிய ஆபங்களைத் தவிர்க்க வலுவான பாதுகாப்பு வழிமுறைகள் அவசியமாக இருப்பதை இந்த உயர்ந்துவரும் கணிப்பு காட்டுகிறது.",
+    "slug": "openai-board-member-puts-10-chance-of-ai-takeover-within-a-year"
+  },
+  {
+    "id": "9115d813586e9e68",
+    "slug": "binance-resets-anthropic-futures-wiping-out-stop-loss-orders",
+    "title": "Binance resets Anthropic futures, wiping out stop-loss orders",
+    "tags": [
+      "Binance",
+      "Anthropic"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T04:40:27.000Z"
+  },
+  {
+    "id": "8ce0df7c586aa86f",
+    "slug": "bitcoin-s-12-slide-through-key-support-looks-scary-but-history-says-give-it-3-months",
+    "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T04:34:21.000Z"
+  },
+  {
+    "id": "8647d9159b3dc4a5",
+    "slug": "beware-over-178-popular-websites-hit-by-crypto-stealing-malware",
+    "title": "Beware: Over 178 Popular Websites Hit by Crypto-Stealing Malware",
+    "tags": [
+      "Apple"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T04:15:16.000Z"
+  },
+  {
+    "id": "b510d3c147e2d9ed",
+    "title": "Nvidia invests over $1B in Kinsus to boost AI substrate capacity by 2028",
+    "summary": "Nvidia's strategic investment in Kinsus underscores its commitment to AI growth, potentially stabilizing the market and boosting its valuation.\nThe post Nvidia invests over $1B in Kinsus to boost AI substrate capacity by 2028 appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/nvidia-invests-over-1b-in-kinsus-to-boost-ai-substrate-capacity-by-2028/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Nvidia",
+      "Kinsus"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-18T04:05:43.000Z",
+    "fetchedAt": "2026-11-18T06:01:28.523Z",
+    "isDuplicateOf": null,
+    "content": "Nvidia has announced a strategic investment of over $1 billion in Kinsus. The funding aims to significantly boost artificial intelligence substrate capacity by the year 2028. This move highlights Nvidia's ongoing commitment to supporting the growth of AI infrastructure and strengthening its position in the broader technology and hardware market.",
+    "content_ta": "Nvidia நிறுவனம் Kinsus-ல் 1 பில்லியன் அமெரிக்க டாலருக்கும் அதிகமான முதலீட்டை அறிவித்துள்ளது. 2028-ஆம் ஆண்டுக்குள் AI சப்ஸ்ட்ரேட் திறனை கணிசமாக அதிகரிப்பதை இந்த நிதி நோக்கமாகக் கொண்டுள்ளது. இந்த நடவடிக்கை AI உள்கட்டமைப்பின் வளர்ச்சியை ஆதரிப்பதற்கான Nvidia-வின் உறுதிப்பாட்டை வெளிப்படுத்துகிறது.",
+    "slug": "nvidia-invests-over-1b-in-kinsus-to-boost-ai-substrate-capacity-by-2028"
+  },
+  {
+    "id": "7e975bc964ca5d37",
+    "slug": "pepe-price-prediction-does-a-mini-rebound-mean-much-for-the-memecoin",
+    "title": "PEPE price prediction — Does a mini-rebound mean much for the memecoin?",
+    "tags": [
+      "PEPE"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-18T04:00:21.000Z"
+  },
+  {
+    "id": "fa7c456a2c84153f",
+    "title": "Hong Kong AI Group Calls on Businesses to Strengthen Controls as AI Agents Advance",
+    "summary": "Businesses should put tighter controls around artificial intelligence systems as they move beyond answering questions to carrying out tasks and making decisions, according to new guidelines issued by the Artificial Intelligence Association of Hong Kong (AIHK). The association’s Safety & Governance Council said companies adopting... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/11/323415-hong-kong-ai-group-calls-on-businesses-to-strengthen-controls-as-ai-agents-advance/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Artificial Intelligence Association of Hong Kong",
+      "Hong Kong"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-18T03:41:33.000Z",
+    "fetchedAt": "2026-11-18T06:01:28.523Z",
+    "isDuplicateOf": null,
+    "content": "The Artificial Intelligence Association of Hong Kong has urged businesses to implement stricter controls on AI systems. As AI agents evolve from simply answering questions to executing complex tasks and making autonomous decisions, the Safety & Governance Council warns that companies adopting these advanced technologies must ensure robust governance to mitigate potential risks and maintain safety standards.",
+    "content_ta": "AI-ஐப் பயன்படுத்தும் வணிகங்கள் கடுமையான கட்டுப்பாடுகளை நடைமுறைப்படுத்த வேண்டும் என Artificial Intelligence Association of Hong Kong கேட்டுக்கொண்டுள்ளது. கேள்விகளுக்குப் பதிலளிப்பதில் தொடங்கி தன்னிச்சையாக முடிவுகளை எடுக்கும் அளவுக்கு AI Agents வளர்ந்து வருவதால், நிறுவனங்கள் உரிய பாதுகாப்பு நெறிமுறைகளைப் பின்பற்ற வேண்டும் என்று Safety & Governance Council எச்சரித்துள்ளது.",
+    "slug": "hong-kong-ai-group-calls-on-businesses-to-strengthen-controls-as-ai-agents-advance"
+  },
+  {
+    "id": "0200114a17a5ab68",
+    "title": "From wallet to full-stack fintech: Murtaza Ali on JazzCash’s path to 2030",
+    "summary": "Murtaza Ali, CEO of JazzCash, on 64 million users, lending, insurance and government payments in Pakistan, and the road to 2030. The Fintech Times SFF 2026 cover story.\nThe post From wallet to full-stack fintech: Murtaza Ali on JazzCash’s path to 2030 appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/from-wallet-to-full-stack-fintech-murtaza-ali-jazzcash/",
+    "source": "The Fintech Times",
+    "tags": [
+      "JazzCash",
+      "Murtaza Ali",
+      "Pakistan"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-18T03:30:10.000Z",
+    "fetchedAt": "2026-11-18T06:01:28.523Z",
+    "isDuplicateOf": null,
+    "content": "JazzCash CEO Murtaza Ali recently discussed the company's evolution from a digital wallet into a full-stack fintech platform in Pakistan. In a featured interview, Ali outlined the platform's vast user base, alongside its expansion into lending, insurance, and government payments. He also shared the company's strategic vision and roadmap leading up to the year 2030.",
+    "content_ta": "JazzCash CEO Murtaza Ali, பாகிஸ்தானில் டிஜிட்டல் வாலட் சேவையில் இருந்து முழு அளவிலான fintech தளமாக நிறுவனம் வளர்ந்தது குறித்து சமீபத்தில் விவரித்தார். ஒரு சிறப்பு நேர்காணலில், நிறுவனத்தின் பரந்த பயனர் தளம் குறித்தும், கடன் வழங்குதல், காப்பீடு மற்றும் அரசுப் பணம் செலுத்துதல் போன்ற சேவைகளின் விரிவாக்கம் குறித்தும் அவர் பேசினார். மேலும் 2030 ஆம் ஆண்டுக்கான வியூக இலக்குகளையும் அவர் பகிர்ந்துகொண்டார்.",
+    "slug": "from-wallet-to-full-stack-fintech-murtaza-ali-on-jazzcash-s-path-to-2030"
+  },
+  {
+    "id": "5182f8bb3653281e",
+    "slug": "brad-gerstner-says-anthropic-could-support-its-2027-revenue-forecast-with-about-500-mw-of-compute",
+    "title": "Brad Gerstner says Anthropic could support its 2027 revenue forecast with about 500 MW of compute",
     "tags": [
       "Brad Gerstner",
       "Anthropic"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-18T02:48:38.000Z",
-    "fetchedAt": "2026-11-18T03:01:46.691Z",
-    "isDuplicateOf": null,
-    "content": "Brad Gerstner stated that Anthropic could potentially support its 2027 revenue forecast using approximately 500 megawatts of compute. Recent reports indicate that a significant portion of Anthropic's compute budget was dedicated to serving paying customers in early 2026, highlighting strong growth potential and influencing future market valuations for the company.",
-    "content_ta": "2027-ம் ஆண்டுக்கான வருவாய் கணிப்பை ஆதரிக்க Anthropic நிறுவனம் சுமார் 500 மெகாவாட் கம்ப்யூட் திறனைப் பயன்படுத்தலாம் என்று Brad Gerstner தெரிவித்துள்ளார். 2026-ன் தொடக்கத்தில் Anthropic-ன் கம்ப்யூட் பட்ஜெட்டில் கணிசமான பகுதி கட்டணம் செலுத்தும் வாடிக்கையாளர்களுக்குச் சேவை செய்யப் பயன்படுத்தப்பட்டதாக சமீபத்திய அறிக்கைகள் காட்டுகின்றன.",
-    "slug": "brad-gerstner-says-anthropic-could-support-its-2027-revenue-forecast-with-about-500-mw-of-compute"
+    "hasContent": true,
+    "pubDate": "2026-11-18T02:48:38.000Z"
   },
   {
     "id": "12756b1cf5393d74",
+    "slug": "coinbase-ai-defense-blocks-4-7-million-from-being-sent-to-deepfake-elon-musk-scam",
     "title": "Coinbase AI defense blocks $4.7 million from being sent to deepfake Elon Musk scam",
-    "summary": "The company said the system prevented about 91% of the attempted transfers linked to the fake Tesla livestream, with no human intervention.",
-    "hasSummary": true,
-    "link": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918",
-    "source": "The Block",
     "tags": [
       "Coinbase",
       "Elon Musk",
       "Tesla"
     ],
+    "source": "The Block",
     "origin": "rss",
-    "pubDate": "2026-11-18T02:47:51.000Z",
-    "fetchedAt": "2026-11-18T03:01:46.691Z",
-    "isDuplicateOf": null,
-    "content": "Coinbase announced that its AI defense system successfully blocked $4.7 million from being sent to a deepfake Elon Musk scam. According to the company, the automated system prevented about 91% of attempted transfers related to a fake Tesla livestream without requiring any human intervention.",
-    "content_ta": "Elon Musk-ன் டீப்ஃபேக் மோசடிக்கு அனுப்பப்படவிருந்த 4.7 மில்லியன் டாலர்களை Coinbase-ன் AI பாதுகாப்பு அமைப்பு வெற்றிகரமாகத் தடுத்ததாக அறிவிக்கப்பட்டுள்ளது. எந்தவொரு மனித தலவுமின்றி, போலி Tesla லைவ்ஸ்ட்ரீம் தொடர்பான முயற்சிகளில் சுமார் 91 சதவீதப் பணப் பரிமாற்றங்களை இந்த தானியங்கி அமைப்பு தடுத்ததாக நிறுவனம் தெரிவித்துள்ளது.",
-    "slug": "coinbase-ai-defense-blocks-4-7-million-from-being-sent-to-deepfake-elon-musk-scam"
+    "hasContent": true,
+    "pubDate": "2026-11-18T02:47:51.000Z"
   },
   {
     "id": "c54d51a704385cba",
+    "slug": "what-s-happening-to-crypto-startup-valuations",
     "title": "What’s happening to crypto startup valuations?",
-    "summary": "The markdowns in crypto unicorns may dampen investor confidence, impacting broader market sentiment and Ethereum's future price trajectory.\nThe post Crypto unicorns from 2021 boom see 50%-70% markdowns in secondary markets appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://www.theblock.co/newsletters/the-funding/2026-11-17-crypto-startup-valuations-442903",
-    "source": "The Block",
     "tags": [
       "Ethereum"
     ],
+    "source": "The Block",
     "origin": "rss",
-    "pubDate": "2026-11-18T02:40:00.000Z",
-    "fetchedAt": "2026-11-18T03:01:46.691Z",
-    "isDuplicateOf": null,
-    "content": "Crypto unicorns from the 2021 boom are facing severe markdowns of 50% to 70% in secondary markets. These steep valuation cuts are dampening investor confidence, which may impact broader market sentiment and potentially influence the future price trajectory of Ethereum.",
-    "content_ta": "2021 பூம் காலத்து Crypto யூனிகார்ன்கள் இரண்டாம் நிலை சந்தைகளில் 50% முதல் 70% வரை கடுமையான விலை வீழ்ச்சியை சந்தித்து வருகின்றன. இந்த மதிப்பீட்டு குறைப்பு முதலீட்டாளர்களின் நம்பிக்கையை குலைத்து, பரந்த சந்தை உணர்வை பாதிப்பதோடு, Ethereum இன் எதிர்கால விலை போக்கையும் பாதிக்கக்கூடும்.",
-    "slug": "what-s-happening-to-crypto-startup-valuations"
+    "hasContent": true,
+    "pubDate": "2026-11-18T02:40:00.000Z"
   },
   {
     "id": "8217d3334f051f38",
+    "slug": "ledger-hardware-implant-saga-reaches-dubai-s-virgin-megastore",
     "title": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
-    "summary": "Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai.",
-    "hasSummary": true,
-    "link": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph",
     "tags": [
       "Ledger",
       "Virgin Megastore",
       "Dubai"
     ],
+    "source": "Cointelegraph",
     "origin": "rss",
-    "pubDate": "2026-11-18T02:39:52.000Z",
-    "fetchedAt": "2026-11-18T03:01:46.691Z",
-    "isDuplicateOf": null,
-    "content": "The controversy surrounding compromised Ledger hardware wallets has reached Dubai after two owners reported losing a combined $604,000 in cryptocurrency. The victims stated they purchased their devices from an authorized Virgin Megastore location in Dubai, raising serious security concerns regarding the retail supply chain and the safety of physical crypto storage devices bought from mainstream authorized stores.",
-    "content_ta": "compromising செய்யப்பட்ட Ledger ஹார்டுவேர் வாலட்கள் தொடர்பான சர்ச்சை துபாயை எட்டியுள்ளது. அங்கீகரிக்கப்பட்ட சில்லறை விற்பனையாளரான Virgin Megastore-ல் வாங்கிய வாலட்கள் மூலம் தங்களின் cryptocurrency-களை இழந்ததாக இரண்டு உரிமையாளர்கள் புகார் அளித்துள்ளனர். இதில் மொத்தம் $604,000 இழப்பு ஏற்பட்டுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது. இந்தச் சம்பவம் சில்லறை விநியோகச் சங்கிலி மற்றும் பாதுகாப்பு குறித்து தீவிர கவலைகளை எழுப்பியுள்ளது.",
-    "slug": "ledger-hardware-implant-saga-reaches-dubai-s-virgin-megastore"
+    "hasContent": true,
+    "pubDate": "2026-11-18T02:39:52.000Z"
   },
   {
     "id": "8965640b75382e4d",
+    "slug": "microsoft-stock-hits-seven-week-low-is-a-bigger-drop-coming",
     "title": "Microsoft Stock Hits Seven-Week Low: Is a Bigger Drop Coming?",
-    "summary": "Microsoft stock hit a 2-month low as rate-hike bets, an Anthropic rival, and outages hit MSFT. See the key support levels.\nThe post Microsoft Stock Hits Seven-Week Low: Is a Bigger Drop Coming? appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/microsoft-stock-two-month-low-outages/",
-    "source": "BeInCrypto",
     "tags": [
       "Microsoft",
       "Anthropic"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-11-18T02:26:43.000Z",
-    "fetchedAt": "2026-11-18T03:01:46.691Z",
-    "isDuplicateOf": null,
-    "content": "Microsoft stock recently touched a seven-week low, driven by rate-hike expectations, competition from an Anthropic rival, and recent service outages. Market analysts are closely watching the key support levels to determine if the technology giant's shares will experience a larger decline in the near future.",
-    "content_ta": "Microsoft பங்குகளின் விலை சமீபத்தில் ஏழு வாரங்களில் இல்லாத அளவுக்குக் குறைந்துள்ளது. வட்டி விகித உயர்வு குறித்த எதிர்பார்ப்புகள், Anthropic நிறுவனத்தின் போட்டியாளர் மற்றும் சேவைத் தடையால் இந்த வீழ்ச்சி ஏற்பட்டுள்ளது. MSFT பங்குகளின் அடுத்த கட்ட நகர்வுகளை முதலீட்டாளர்கள் உன்னிப்பாகக் கவனித்து வருகின்றனர்.",
-    "slug": "microsoft-stock-hits-seven-week-low-is-a-bigger-drop-coming"
+    "hasContent": true,
+    "pubDate": "2026-11-18T02:26:43.000Z"
   },
   {
     "id": "c5041db59608410f",
+    "slug": "coreweave-stock-rises-as-nvidia-emphasizes-disciplined-financing-approach",
     "title": "CoreWeave stock rises as Nvidia emphasizes disciplined financing approach",
-    "summary": "Nvidia's disciplined financing boosts market confidence in CoreWeave, reducing bankruptcy concerns and signaling strong neocloud support.\nThe post CoreWeave stock rises as Nvidia emphasizes disciplined financing approach appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/coreweave-stock-rises-as-nvidia-emphasizes-disciplined-financing-approach/",
-    "source": "CryptoBriefing",
     "tags": [
       "CoreWeave",
       "Nvidia"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-18T02:03:31.000Z",
-    "fetchedAt": "2026-11-18T03:01:46.691Z",
-    "isDuplicateOf": null,
-    "content": "CoreWeave stock experienced an increase following statements from Nvidia regarding a disciplined financing approach. This stance by Nvidia has helped boost market confidence in CoreWeave, alleviating concerns related to potential bankruptcy and highlighting strong support for neocloud providers.",
-    "content_ta": "Nvidia நிறுவனத்தின் கட்டுப்படுத்தப்பட்ட நிதி அணுகுமுறை குறித்த அறிவிப்பைத் தொடர்ந்து, CoreWeave நிறுவனத்தின் பங்கு விலை உயர்ந்துள்ளது. Nvidia-வின் இந்த நிலைப்பாடு சந்தையில் நம்பிக்கையை அதிகரித்துள்ளதுடன், திவாலாகும் என்ற கவலைகளைக் குறைத்து வலுவான ஆதரவை வெளிப்படுத்தியுள்ளது.",
-    "slug": "coreweave-stock-rises-as-nvidia-emphasizes-disciplined-financing-approach"
+    "hasContent": true,
+    "pubDate": "2026-11-18T02:03:31.000Z"
   },
   {
     "id": "96a71fa3d2bfb645",
+    "slug": "bitcoin-tests-62k-support-can-btc-bulls-hold-without-spot-demand",
     "title": "Bitcoin tests $62K support – Can BTC bulls hold without Spot demand?",
-    "summary": "Despite the price bounce from $62k, selling pressure has not begun to ease noticeably, as the apparent demand metric showed.",
-    "hasSummary": true,
-    "link": "https://ambcrypto.com/bitcoin-tests-62k-support-can-btc-bulls-hold-without-spot-demand/",
-    "source": "AMBCrypto",
     "tags": [
       "Bitcoin"
     ],
+    "source": "AMBCrypto",
     "origin": "rss",
-    "pubDate": "2026-11-18T02:00:06.000Z",
-    "fetchedAt": "2026-11-18T03:01:46.691Z",
-    "isDuplicateOf": null,
-    "content": "Bitcoin recently tested the $62,000 support level, sparking questions about whether bulls can maintain this price without significant spot demand. Although the price experienced a bounce from $62,000, market data indicates that selling pressure has not eased noticeably, suggesting ongoing caution among investors as the apparent demand metric continues to be closely monitored.",
-    "content_ta": "Bitcoin சமீபத்தில் $62,000 ஆதரவு நிலையைச் சோதித்தது, இது ஸ்பாட் தேவை இல்லாமல் பம்புகள் (bulls) இந்த விலையைத் தக்கவைக்க முடியுமா என்ற கேள்விகளை எழுப்பியுள்ளது. $62,000-ல் இருந்து விலை மீண்டெழுந்த போதிலும், விற்பனை அழுத்தம் குறிப்பிடத்தக்க அளவில் குறையவில்லை என்று சந்தை தரவுகள் காட்டுகின்றன, இதனால் முதலீட்டாளர்கள் தொடர்ந்து எச்சரிக்கையுடன் இருக்கின்றனர்.",
-    "slug": "bitcoin-tests-62k-support-can-btc-bulls-hold-without-spot-demand"
+    "hasContent": true,
+    "pubDate": "2026-11-18T02:00:06.000Z"
   },
   {
     "id": "4713372924b90b34",
+    "slug": "lighter-reopens-withdrawals-after-nonce-reuse-error-exposes-trader-api-keys",
     "title": "Lighter Reopens Withdrawals After Nonce-Reuse Error Exposes Trader API Keys",
-    "summary": "Decentralized derivatives venue Lighter says deposits and withdrawals have resumed following a November 16 security incident that initially froze access. The latest.",
-    "hasSummary": true,
-    "link": "https://www.newsbtc.com/security/lighter-reopens-withdrawals-after-nonce-reuse-error-exposes-trader-api-keys/",
-    "source": "NewsBTC",
     "tags": [
       "Lighter"
     ],
+    "source": "NewsBTC",
     "origin": "rss",
-    "pubDate": "2026-11-18T02:00:00.000Z",
-    "fetchedAt": "2026-11-18T03:01:46.691Z",
-    "isDuplicateOf": null,
-    "content": "Decentralized derivatives venue Lighter has resumed deposits and withdrawals following a security incident that temporarily froze user access. The platform experienced a nonce-reuse error that exposed trader API keys. Lighter confirmed that operations are now back to normal after addressing the vulnerability.",
-    "content_ta": "டீசென்ட்ரலைஸ்டு டெரிவேட்டிவ்ஸ் தளமான Lighter, பாதுகாப்புப் பிரச்சனை காரணமாக தற்காலிகமாக நிறுத்தப்பட்டிருந்த டெபாசிட் மற்றும் வித்ட்ராவல் சேவைகளை மீண்டும் தொடங்கியுள்ளது. டிரேடர்களின் API கீகளை வெளிப்படுத்திய 'nonce-reuse' பிழை காரணமாக இந்த பாதுகாப்புச் சம்பவம் ஏற்பட்டது. இந்தச் சிக்கலைத் சரிசெய்த பிறகு செயல்பாடுகள் வழக்க நிலைக்குத் திரும்பியுள்ளதாக Lighter உறுதிப்படுத்தியுள்ளது.",
-    "slug": "lighter-reopens-withdrawals-after-nonce-reuse-error-exposes-trader-api-keys"
+    "hasContent": true,
+    "pubDate": "2026-11-18T02:00:00.000Z"
   },
   {
     "id": "b865e8d80b64612c",
+    "slug": "global-kiwi-labs-raises-4-million-to-bring-exchange-infrastructure-to-crypto",
     "title": "Global Kiwi Labs raises $4 million to bring exchange infrastructure to crypto",
-    "summary": "Global Kiwi Labs' initiative could level the playing field in crypto trading, potentially enhancing market fairness and liquidity for all participants.\nThe post Global Kiwi Labs raises $4 million to bring exchange infrastructure to crypto appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/global-kiwi-labs-crypto-exchange/",
-    "source": "CryptoBriefing",
     "tags": [
       "Global Kiwi Labs"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-18T01:58:30.000Z",
-    "fetchedAt": "2026-11-18T03:01:46.691Z",
-    "isDuplicateOf": null,
-    "content": "Global Kiwi Labs has successfully raised $4 million in funding to develop and expand exchange infrastructure for the cryptocurrency sector. This fresh capital aims to improve market liquidity and fairness, creating a more level playing field for all trading participants. The initiative highlights continued investor interest in foundational technology within the digital asset ecosystem.",
-    "content_ta": "Crypto துறையில் exchange infrastructure-ஐ மேம்படுத்துவதற்காக Global Kiwi Labs நிறுவனம் $4 மில்லியன் நிதி திரட்டியுள்ளது. இந்த முதலீடு சந்தையில் liquidity-ஐ அதிகரிக்கவும், அனைத்து வர்த்தகர்களுக்கும் நியாயமான சூழலை உருவாக்கவும் உதவும் என்று எதிர்பார்க்கப்படுகிறது. இந்த நடவடிக்கை digital asset துறையில் முதலீட்டாளர்களின் தொடர்ச்சியான ஆர்வத்தைக் காட்டுகிறது.",
-    "slug": "global-kiwi-labs-raises-4-million-to-bring-exchange-infrastructure-to-crypto"
+    "hasContent": true,
+    "pubDate": "2026-11-18T01:58:30.000Z"
   },
   {
     "id": "15256fcf33b8e835",
@@ -619,218 +820,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-17T21:28:14.000Z"
-  },
-  {
-    "id": "2792c9f5f693895c",
-    "slug": "nvidia-tops-estimates-issues-strong-guidance-shares-rise",
-    "title": "Nvidia tops estimates, issues strong guidance; shares rise",
-    "tags": [
-      "Nvidia"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T21:25:50.000Z"
-  },
-  {
-    "id": "576f515a4ddcc46c",
-    "slug": "blackrock-holds-123-056-strategy-shares-ahead-of-msci-exit-but-how-much-must-it-sell",
-    "title": "BlackRock holds 123,056 Strategy shares ahead of MSCI exit, but how much must it sell?",
-    "tags": [
-      "BlackRock",
-      "MSCI",
-      "Strategy"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T21:20:02.000Z"
-  },
-  {
-    "id": "387b6e59f2db4b76",
-    "slug": "gpt-6-2-astra-takes-first-place-on-the-aa-3d-benchmark-for-3d-experiences",
-    "title": "GPT-6.2 Astra takes first place on the AA-3D benchmark for 3D experiences",
-    "tags": [
-      "GPT-6.2 Astra",
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T21:17:53.000Z"
-  },
-  {
-    "id": "7efdbc2a27b8d98f",
-    "slug": "qonto-wins-european-banking-license-and-targets-small-business-lending",
-    "title": "Qonto Wins European Banking License and Targets Small Business Lending",
-    "tags": [],
-    "source": "PYMNTS",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-17T21:16:29.000Z"
-  },
-  {
-    "id": "5cc161a9b61272e0",
-    "slug": "defi-firms-compete-for-traditional-bank-deposits",
-    "title": "DeFi Firms Compete for Traditional Bank Deposits",
-    "tags": [
-      "DeFi"
-    ],
-    "source": "Bitcoinist",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T21:10:36.000Z"
-  },
-  {
-    "id": "45c358a147e95a46",
-    "slug": "world-bank-taps-circle-and-citi-to-test-stablecoins-for-development-payments",
-    "title": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
-    "tags": [
-      "World Bank",
-      "Circle",
-      "Citi",
-      "USDC"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T20:56:03.000Z"
-  },
-  {
-    "id": "0548825c6478b355",
-    "slug": "dave-submits-bank-charter-application",
-    "title": "Dave Submits Bank Charter Application",
-    "tags": [
-      "Dave",
-      "Office of the Comptroller of the Currency",
-      "Federal Deposit Insurance Corporation",
-      "United States"
-    ],
-    "source": "Finovate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T20:45:26.000Z"
-  },
-  {
-    "id": "875628f0327ac53c",
-    "slug": "bitcoin-investors-are-capitulating-that-s-historically-been-a-bottom-signal",
-    "title": "Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal",
-    "tags": [
-      "Bitcoin",
-      "Glassnode"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T20:36:03.000Z"
-  },
-  {
-    "id": "28ddee37a1e099ae",
-    "slug": "nvidia-faces-a-guidance-dilemma-as-ubs-forecasts-a-third-quarter-revenue-beat",
-    "title": "Nvidia faces a guidance dilemma as UBS forecasts a third-quarter revenue beat",
-    "tags": [
-      "Nvidia",
-      "UBS"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T20:35:57.000Z"
-  },
-  {
-    "id": "239635d0fcc075b4",
-    "slug": "siebert-pegs-msci-driven-selling-of-strategy-at-13-million-shares",
-    "title": "Siebert pegs MSCI-driven selling of Strategy at 13 million shares",
-    "tags": [
-      "Siebert",
-      "MSCI",
-      "Strategy",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T20:26:31.000Z"
-  },
-  {
-    "id": "b36f5fbf0f9f9966",
-    "slug": "perplexity-launches-orchestrator-api-for-flexible-model-selection",
-    "title": "Perplexity launches Orchestrator API for flexible model selection",
-    "tags": [
-      "Perplexity"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T20:18:20.000Z"
-  },
-  {
-    "id": "d50d906b76801ff3",
-    "slug": "muddy-waters-discloses-nvidia-short-questions-ex-executive-s-possible-link-to-china-chip-smuggling",
-    "title": "Muddy Waters discloses Nvidia short, questions ex-executive’s possible link to China chip smuggling case",
-    "tags": [
-      "Muddy Waters",
-      "Nvidia",
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T20:17:36.000Z"
-  },
-  {
-    "id": "361845c4316b8fba",
-    "slug": "maple-finance-ceo-sid-powell-says-loan-book-is-performing-after-executive-exits",
-    "title": "Maple Finance CEO Sid Powell says loan book is performing after executive exits",
-    "tags": [
-      "Maple Finance",
-      "Sid Powell"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T20:10:31.000Z"
-  },
-  {
-    "id": "1eb3b99b9dea1c69",
-    "slug": "dow-drops-sharply-as-wall-street-braces-for-nvidia-earnings",
-    "title": "Dow drops sharply as Wall Street braces for Nvidia earnings",
-    "tags": [
-      "Dow Jones",
-      "Wall Street",
-      "Nvidia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T20:10:08.000Z"
-  },
-  {
-    "id": "6682fcc55ff0c3a5",
-    "slug": "strive-ceo-matt-cole-says-sats-preferred-stock-keeps-bitcoin-buys-going-during-selloff",
-    "title": "Strive CEO Matt Cole says SATS preferred stock keeps Bitcoin buys going during selloff",
-    "tags": [
-      "Strive",
-      "Matt Cole",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T20:09:14.000Z"
-  },
-  {
-    "id": "39968e3ca9422dcb",
-    "slug": "eastern-europe-crypto-flows-fall-7-9-as-ukraine-draws-12b-in-stablecoins",
-    "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
-    "tags": [
-      "Chainalysis",
-      "Eastern Europe",
-      "Ukraine"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-17T20:05:04.000Z"
   }
 ]
