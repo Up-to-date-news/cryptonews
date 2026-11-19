@@ -1,84 +1,188 @@
 [
   {
-    "id": "b95a0822de694aa1",
-    "title": "Arizona investigates OpenAI for alleged rogue AI bank infiltration",
-    "summary": "The investigation highlights growing regulatory scrutiny on AI's role in banking, potentially impacting OpenAI's financial stability and operations.\nThe post Arizona investigates OpenAI for alleged rogue AI bank infiltration appeared first on Crypto Briefing.",
+    "id": "8509805e7947de7a",
+    "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
+    "summary": "Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026.",
     "hasSummary": true,
-    "link": "https://cryptobriefing.com/arizona-investigates-openai-for-alleged-rogue-ai-bank-infiltration/",
+    "link": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Sygnum",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-19T06:00:00.000Z",
+    "fetchedAt": "2026-11-19T06:01:34.725Z",
+    "isDuplicateOf": null,
+    "content": "Sygnum predicts that Bitcoin carry trades could outperform traditional Treasury bills by the year 2027. This outlook follows a recent sharp drop in funding rates, which temporarily made the strategy less compelling throughout 2026. Analysts anticipate market conditions to shift favorably for investors pursuing these specific yield strategies in the coming years.",
+    "content_ta": "2027-ஆம் ஆண்டில் Treasury bills-ஐ விட Bitcoin carry trades சிறந்த லாபத்தை தரக்கூடும் என்று Sygnum கணித்துள்ளது. funding rates-ல் ஏற்பட்ட திடீர் வீழ்ச்சியால் 2026-ஆம் ஆண்டில் இந்த வியூகம் குறைவாகவே ஈர்த்த நிலையில், இந்த புதிய கணிப்பு வெளியாகியுள்ளது. வரும் ஆண்டுகளில் முதலீட்டாளர்களுக்கு சந்தை சூழ்நிலை சாதகமாக மாறக்கூடும் என்று எதிர்பார்க்கப்படுகிறது.",
+    "slug": "bitcoin-carry-trades-could-beat-treasury-bills-in-2027-sygnum-predicts"
+  },
+  {
+    "id": "b0d39f27368f60e0",
+    "title": "CZ Sounds Alarm as Japan Orders Crackdown on ID Data Storage",
+    "summary": "Binance founder Changpeng Zhao (CZ) has raised concerns about the storage of sensitive personal information after a massive data breach at Japan’s Times Car exposed millions of customer accounts and compromised over 1.4 million ID images.",
+    "hasSummary": true,
+    "link": "https://u.today/cz-sounds-alarm-as-japan-orders-crackdown-on-id-data-storage",
+    "source": "U.Today",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-19T05:48:33.000Z",
+    "fetchedAt": "2026-11-19T06:01:34.725Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "cz-sounds-alarm-as-japan-orders-crackdown-on-id-data-storage"
+  },
+  {
+    "id": "3d07d8a01ce344b0",
+    "title": "Ripple CEO: Utility-driven crypto assets to outperform speculative tokens",
+    "summary": "The focus on utility-driven crypto assets may shift market dynamics, favoring sustainable growth and regulatory clarity over speculative hype.\nThe post Ripple CEO: Utility-driven crypto assets to outperform speculative tokens appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/ripple-ceo-utility-driven-crypto-assets-to-outperform-speculative-tokens/",
     "source": "CryptoBriefing",
+    "tags": [
+      "Ripple"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-19T05:41:49.000Z",
+    "fetchedAt": "2026-11-19T06:01:34.725Z",
+    "isDuplicateOf": null,
+    "content": "The CEO of Ripple has stated that utility-driven cryptographic assets are expected to outperform purely speculative tokens in the market. This shift in focus highlights a growing emphasis on sustainable growth, practical real-world applications, and regulatory clarity within the digital asset industry, moving away from short-term speculative hype.",
+    "content_ta": "Ripple CEO கூறுகையில், utility-driven கிரிப்டோ சொத்துக்கள் சந்தையில் speculative டோக்கன்களை விட சிறப்பாக செயல்படும் என்று எதிர்பார்க்கப்படுகிறது. இந்த மாற்றம் குறுகிய கால ஊக வம்புகளைத் தாண்டி, நிலையான வளர்ச்சி மற்றும் ஒழுங்குமுறை தெளிவுக்கு முக்கியத்துவம் அளிப்பதைக் காட்டுகிறது.",
+    "slug": "ripple-ceo-utility-driven-crypto-assets-to-outperform-speculative-tokens"
+  },
+  {
+    "id": "e2cff7a969cf4219",
+    "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
+    "summary": "An automated trading bot copied the attack on K3 Capital's sBOLD vault, taking more than half the funds and paying most of its proceeds to get its transactions processed first.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
+    "source": "CoinDesk",
+    "tags": [
+      "Ethereum",
+      "K3 Capital"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-19T05:39:06.000Z",
+    "fetchedAt": "2026-11-19T06:01:34.725Z",
+    "isDuplicateOf": null,
+    "content": "Ethereum block builders received the majority of funds from a recent $3.4 million vault hack. An automated trading bot copied the exploit targeting K3 Capital's sBOLD vault, capturing over half of the stolen funds. The bot paid massive priority fees to ensure its attacking transactions were processed first, leaving builders with the largest share of the proceeds.",
+    "content_ta": "சமீபத்தில் நடந்த 3.4 மில்லியன் அமெரிக்க டாலர் மதிப்பிலான vault ஹேக்கில், பெரும்பகுதி தொகை Ethereum block builders-களுக்குச் சென்றுள்ளதாக தரவுகள் காட்டுகின்றன. K3 Capital நிறுவனத்தின் sBOLD vault-ஐ குறிவைத்து நடத்தப்பட்ட இந்தத் தாக்குதலை ஒரு automated trading bot நகலெடுத்துள்ளது. இதன் மூலம் பாதிக்கும் மேற்பட்ட நிதி கைப்பற்றப்பட்டது. தனது பரிவர்த்தனைகள் முதலில் செயல்படுத்தப்படுவதை உறுதி செய்வதற்காக இந்த போட் భారీ priority கட்டணங்களைச் செலுத்தியது, இதனால் builders-கள் மிகப்பெரிய தொகையைப் பெற்றனர்.",
+    "slug": "ethereum-block-builders-received-the-most-in-a-3-4-million-vault-hack-data-shows"
+  },
+  {
+    "id": "131d4836b9d54e07",
+    "title": "Anthropic IPO: 2 AI Stocks to Watch as Claude Maker Hits Wall Street",
+    "summary": "Here are two stocks to watch side by side as Anthropic IPOs today.",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/anthropic-ipo-2-ai-stocks-to-watch-as-claude-maker-hits-wall-street/",
+    "source": "CryptoPotato",
+    "tags": [
+      "Anthropic",
+      "Wall Street",
+      "Claude"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-19T05:35:22.000Z",
+    "fetchedAt": "2026-11-19T06:01:34.725Z",
+    "isDuplicateOf": null,
+    "content": "As Claude creator Anthropic makes its anticipated debut on Wall Street with its IPO, investors are closely watching related artificial intelligence stocks. The public offering marks a major milestone for the company and highlights growing market interest in the generative artificial intelligence sector, with analysts pointing to key stocks to monitor during this trading debut.",
+    "content_ta": "Claude-ஐ உருவாக்கும் Anthropic நிறுவனம் தனது IPO மூலம் Wall Street-ல் தனது பங்குகளை வெளியிடவுள்ள நிலையில், முதலீட்டாளர்கள் செயற்கை நுண்ணறிவு (AI) பங்குகளை உன்னிப்பாக கவனித்து வருகின்றனர். இந்த பொது பங்கு வெளியீடு நிறுவனத்திற்கு ஒரு முக்கியமான மைல்கல்லாகும்.",
+    "slug": "anthropic-ipo-2-ai-stocks-to-watch-as-claude-maker-hits-wall-street"
+  },
+  {
+    "id": "eb8be5c7835b4a2c",
+    "title": "IEA: Oil markets can adjust without Strait of Hormuz, easing supply concerns",
+    "summary": "The IEA's assessment suggests a potential stabilization in oil markets, reducing extreme price volatility concerns and influencing future investment strategies.\nThe post IEA: Oil markets can adjust without Strait of Hormuz, easing supply concerns appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/iea-oil-markets-can-adjust-without-strait-of-hormuz-easing-supply-concerns/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "IEA"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-19T05:27:17.000Z",
+    "fetchedAt": "2026-11-19T06:01:34.725Z",
+    "isDuplicateOf": null,
+    "content": "The International Energy Agency has indicated that global oil markets possess the resilience to adjust successfully even if the Strait of Hormuz faces disruptions. This assessment helps alleviate immediate supply concerns, potentially stabilizing energy markets and reducing the likelihood of extreme price volatility while guiding future investment strategies.",
+    "content_ta": "Strait of Hormuz-ல் disruptions ஏற்பட்டாலும் கூட global oil markets-ஆல் திறம்பட சமாளிக்க முடியும் என்று IEA தெரிவித்துள்ளது. இந்த மதிப்பீடு உடனான supply concerns-ஐ குறைத்து, energy markets-ஐ stabilize செய்ய உதவுவதோடு, future investment strategies-ஐயும் வழிநடத்துகிறது.",
+    "slug": "iea-oil-markets-can-adjust-without-strait-of-hormuz-easing-supply-concerns"
+  },
+  {
+    "id": "31240dabd84db863",
+    "title": "FOMC minutes reveal Fed officials expect more rate hikes despite October pause",
+    "summary": "The anticipated rate hikes could tighten financial conditions, impacting borrowing costs, consumer spending, and economic growth prospects.\nThe post FOMC minutes reveal Fed officials expect more rate hikes despite October pause appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/fomc-minutes-reveal-fed-officials-expect-more-rate-hikes-despite-october-pause/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Federal Reserve",
+      "FOMC"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-19T05:03:19.000Z",
+    "fetchedAt": "2026-11-19T06:01:34.725Z",
+    "isDuplicateOf": null,
+    "content": "Recently released FOMC minutes indicate that Federal Reserve officials anticipate further interest rate hikes, even following an October pause. This ongoing monetary tightening is expected to influence broader financial conditions, potentially affecting borrowing costs, consumer spending, and overall economic growth prospects in the near future.",
+    "content_ta": "ச recently வெளிவந்த FOMC குறிப்புகள், அக்டோபர் மாத இடைநவெளியைத் தொடர்ந்து Fed அதிகாரிகள் மேலும் வட்டி விகித உயர்வுகளை எதிர்பார்க்கிறார்கள் என்பதைக் காட்டுகின்றன. இந்த தொடர்ச்சியான நாணய இறுக்கமானது பரந்த நிதிச் சூழல்களை பாதிக்கும் என்றும், கடன் வாங்கும் செலவுகள், நுகர்வோர் செலவு மற்றும் எதிர்கால பொருளாதார வளர்ச்சி வாய்ப்புகளைப் பாதிக்கும் என்றும் எதிர்பார்க்கப்படுகிறது.",
+    "slug": "fomc-minutes-reveal-fed-officials-expect-more-rate-hikes-despite-october-pause"
+  },
+  {
+    "id": "b95a0822de694aa1",
+    "slug": "arizona-investigates-openai-for-alleged-rogue-ai-bank-infiltration",
+    "title": "Arizona investigates OpenAI for alleged rogue AI bank infiltration",
     "tags": [
       "Arizona",
       "OpenAI"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-19T04:36:50.000Z",
-    "fetchedAt": "2026-11-19T04:44:46.695Z",
-    "isDuplicateOf": null,
-    "content": "Arizona is investigating OpenAI following allegations of a rogue artificial intelligence infiltrating a bank. This developing situation highlights increasing regulatory scrutiny surrounding the deployment of advanced AI technologies within the banking sector. The inquiry could potentially impact OpenAI and underscores growing concerns among officials regarding the security and operational risks associated with unregulated artificial intelligence systems.",
-    "content_ta": "ஒரு rogue AI வங்கிக்குள் நுழைந்ததாகக் கூறப்படும் குற்றச்சாட்டின் பேரில் OpenAI மீது Arizona மாநிலம் விசாரணை நடத்தி வருகிறது. வங்கித் துறையில் மேம்பட்ட AI தொழில்நுட்பங்களின் பயன்பாடு குறித்து அதிகரித்து வரும் ஒழுங்குமுறை கண்காணிப்பை இந்த விசாரணை வெளிச்சம் போட்டுக் காட்டுகிறது.",
-    "slug": "arizona-investigates-openai-for-alleged-rogue-ai-bank-infiltration"
+    "hasContent": true,
+    "pubDate": "2026-11-19T04:36:50.000Z"
   },
   {
     "id": "7caa66b7bd85dabc",
+    "slug": "ledger-expands-hardware-hack-investigation-to-germany-uae-as-new-cases-emerge",
     "title": "Ledger expands hardware hack investigation to Germany, UAE as new cases emerge",
-    "summary": "The company confirmed that the new cases share the same kind of physical modification as tampered devices found across Southeast Asia.",
-    "hasSummary": true,
-    "link": "https://www.theblock.co/news/web3/2026-11-18-ledger-new-hardware-incidents-germany-uae-443530",
-    "source": "The Block",
     "tags": [
       "Ledger",
       "Germany",
       "United Arab Emirates",
       "Southeast Asia"
     ],
+    "source": "The Block",
     "origin": "rss",
-    "pubDate": "2026-11-19T04:13:18.000Z",
-    "fetchedAt": "2026-11-19T04:44:46.695Z",
-    "isDuplicateOf": null,
-    "content": "Ledger has expanded its investigation into hardware hacks to Germany and the United Arab Emirates following the emergence of new cases. The company confirmed that these newly reported incidents share identical physical modifications with previously discovered tampered devices in Southeast Asia.",
-    "content_ta": "புதிய வழக்குகள் வெளிவந்ததை அடுத்து, Ledger நிறுவனம் தனது ஹார்டுவேர் ஹேக் தொடர்பான விசாரணையை Germany மற்றும் UAE-க்கு விரிவுபடுத்தியுள்ளது. Southeast Asia-வில் கண்டெடுக்கப்பட்ட சேதமடைந்த சாதனங்களைப் போலவே, இந்த புதிய சம்பவங்களும் ஒரே மாதிரியான உடல் மாற்றங்களைக் கொண்டுள்ளதாக நிறுவனம் உறுதிப்படுத்தியுள்ளது.",
-    "slug": "ledger-expands-hardware-hack-investigation-to-germany-uae-as-new-cases-emerge"
+    "hasContent": true,
+    "pubDate": "2026-11-19T04:13:18.000Z"
   },
   {
     "id": "8496ed100602230e",
+    "slug": "render-outpaces-bitcoin-and-ethereum-but-its-rebound-can-gather-steam-only-if",
     "title": "Render outpaces Bitcoin and Ethereum – But its rebound can gather steam ONLY IF…",
-    "summary": "RENDER could be a feasible selling opportunity now, despite its relative bullish strength in the past 24 hours.",
-    "hasSummary": true,
-    "link": "https://ambcrypto.com/render-outpaces-bitcoin-and-ethereum-but-its-rebound-can-gather-steam-only-if/",
-    "source": "AMBCrypto",
     "tags": [
       "Render",
       "Bitcoin",
       "Ethereum"
     ],
+    "source": "AMBCrypto",
     "origin": "rss",
-    "pubDate": "2026-11-19T04:00:17.000Z",
-    "fetchedAt": "2026-11-19T04:44:46.695Z",
-    "isDuplicateOf": null,
-    "content": "Render has recently outpaced major cryptocurrencies like Bitcoin and Ethereum with a notable price rebound. However, market analysts suggest that this upward momentum can only gather further steam under specific conditions, and RENDER might actually present a viable selling opportunity at the current time despite its recent bullish strength.",
-    "content_ta": "Bitcoin மற்றும் Ethereum போன்ற முக்கிய கிரிப்டோகரன்சிகளை விட RENDER சமீபத்தில் குறிப்பிடத்தக்க விலை உயர்வைப் பெற்றுள்ளது. இருப்பினும், சந்தை ஆய்வாளர்களின் கூற்றுப்படி, சில குறிப்பிட்ட நிபந்தனைகளின் கீழ் மட்டுமே இந்த மேல்நோக்கிய வேகம் தொடர முடியும். சமீபத்திய காளையின் வலிமை இருந்தபோதிலும், தற்போதைய நிலையில் RENDER ஒரு சாத்தியமான விற்பனை வாய்ப்பை வழங்கக்கூடும்.",
-    "slug": "render-outpaces-bitcoin-and-ethereum-but-its-rebound-can-gather-steam-only-if"
+    "hasContent": true,
+    "pubDate": "2026-11-19T04:00:17.000Z"
   },
   {
     "id": "21f6111db7bddf29",
+    "slug": "coinshares-ceo-blames-ai-for-bitcoin-s-slide-but-ai-stocks-are-falling-too",
     "title": "CoinShares CEO Blames AI for Bitcoin’s Slide, but AI Stocks Are Falling Too",
-    "summary": "CoinShares CEO Jean-Marie Mognetti says AI is draining crypto, yet Nvidia and the S&P 500 are also sliding this week.\nThe post CoinShares CEO Blames AI for Bitcoin’s Slide, but AI Stocks Are Falling Too appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/coinshares-ceo-ai-bitcoin-slide/",
-    "source": "BeInCrypto",
     "tags": [
       "CoinShares",
       "Jean-Marie Mognetti",
       "Bitcoin",
       "Nvidia"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-11-19T04:00:00.000Z",
-    "fetchedAt": "2026-11-19T04:44:46.695Z",
-    "isDuplicateOf": null,
-    "content": "CoinShares CEO Jean-Marie Mognetti recently blamed artificial intelligence for the recent decline in Bitcoin prices. However, market trends show that broader AI-related stocks and major market indices like the S&P 500 are also experiencing downward movement this week, suggesting wider economic factors may be at play beyond just the competition between crypto and AI sectors.",
-    "content_ta": "Bitcoin-யின் விலை சரிவுக்கு artificial intelligence தான் காரணம் என்று CoinShares CEO Jean-Marie Mognetti குற்றம்சாட்டியுள்ளார். இருப்பினும், இந்த வாரம் பரந்த அளவிலான AI பங்குகளும், S&P 500 போன்ற முக்கிய சந்தை குறியீடுகளும் சரிவை சந்தித்து வருகின்றன. இது crypto மற்றும் AI துறை போட்டிக்கு அப்பால் பரந்த பொருளாதார காரணிகள் செல்வாக்கு செலுத்தக்கூடும் என்பதைக் காட்டுகிறது.",
-    "slug": "coinshares-ceo-blames-ai-for-bitcoin-s-slide-but-ai-stocks-are-falling-too"
+    "hasContent": true,
+    "pubDate": "2026-11-19T04:00:00.000Z"
   },
   {
     "id": "0ddcd8a8adea7da0",
@@ -723,98 +827,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-18T20:54:08.000Z"
-  },
-  {
-    "id": "bacd7e146a2c0fea",
-    "slug": "germany-moves-to-freeze-bitcoin-for-up-to-180-days-even-without-access-to-private-keys",
-    "title": "Germany moves to freeze Bitcoin for up to 180 days, even without access to private keys",
-    "tags": [
-      "Germany",
-      "Bitcoin",
-      "Bundestag"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T20:40:02.000Z"
-  },
-  {
-    "id": "a2a23315a21b4a6d",
-    "slug": "palmer-luckey-tackles-ai-control-and-accountability-at-dealbook-summit",
-    "title": "Palmer Luckey tackles AI control and accountability at DealBook Summit",
-    "tags": [
-      "Palmer Luckey",
-      "DealBook Summit",
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T20:36:06.000Z"
-  },
-  {
-    "id": "de155bd070e58dc9",
-    "slug": "amazon-s-web-search-agent-takes-first-place-on-search-arena",
-    "title": "Amazon’s web search agent takes first place on Search Arena",
-    "tags": [
-      "Amazon",
-      "Search Arena"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T20:33:57.000Z"
-  },
-  {
-    "id": "d3f13c193d9ce241",
-    "slug": "nvidia-s-cash-pile-shrinks-for-the-first-time-in-four-years",
-    "title": "Nvidia’s cash pile shrinks for the first time in four years",
-    "tags": [
-      "Nvidia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T20:32:45.000Z"
-  },
-  {
-    "id": "2209afa42fed7b40",
-    "slug": "klarna-launches-ai-assistant",
-    "title": "Klarna launches AI assistant",
-    "tags": [
-      "Klarna"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T20:29:00.000Z"
-  },
-  {
-    "id": "bebfd5e130f269a9",
-    "slug": "provable-partners-brave-to-bring-one-click-private-trading-to-130-million-users",
-    "title": "Provable partners Brave to bring one-click private trading to 130 million users",
-    "tags": [
-      "Provable",
-      "Brave",
-      "Shield"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T20:26:00.000Z"
-  },
-  {
-    "id": "fff3718a30e93cf7",
-    "slug": "binance-says-it-obtained-6-5b-worldwide-freezing-order-after-hack",
-    "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
-    "tags": [
-      "Binance",
-      "Abu Dhabi Global Market",
-      "Bitcoin"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T20:20:37.000Z"
   }
 ]
