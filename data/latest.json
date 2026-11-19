@@ -1,5 +1,47 @@
 [
   {
+    "id": "0ddcd8a8adea7da0",
+    "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
+    "summary": "Changpeng Zhao says Anthropic-linked tokens from bStocks, Ondo and xStocks will hit BNB Chain on day one of the AI giant’s Nasdaq debut. This follows a $500 million pre-IPO rush that comes with notable fine print.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
+    "source": "CoinDesk",
+    "tags": [
+      "Changpeng Zhao",
+      "Anthropic",
+      "BNB Chain",
+      "Nasdaq",
+      "Ondo"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-19T03:40:48.000Z",
+    "fetchedAt": "2026-11-19T03:45:02.050Z",
+    "isDuplicateOf": null,
+    "content": "Changpeng Zhao announced that tokenized Anthropic shares from bStocks, Ondo, and xStocks will launch on BNB Chain on the day of the AI company's Nasdaq debut. The move follows a significant pre-IPO rush involving substantial investments, highlighting growing interest in bringing traditional equities onto blockchain platforms.",
+    "content_ta": "Anthropic நிறுவனத்தின் IPO நாளில் அதன் tokenized பங்குகள் bStocks, Ondo மற்றும் xStocks மூலம் BNB Chain-ல் வெளியிடப்படும் என்று Changpeng Zhao அறிவித்துள்ளார். AI நிறுவனத்தின் Nasdaq debuts-ஐத் தொடர்ந்து இந்த நடவடிக்கை வந்துள்ளது, இது பாரம்பரிய பங்குகளை பிளாக்செயின் தளங்களுக்கு கொண்டுவருவதில் அதிகரிக்கும் ஆர்வத்தை காட்டுகிறது.",
+    "slug": "cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day"
+  },
+  {
+    "id": "9f9790d96adcd3d6",
+    "title": "Kraken parent Payward to acquire Tribe Capital to expand private-market offerings",
+    "summary": "The deal will add private-market sourcing, underwriting, and fund management capabilities to Payward's platform.",
+    "hasSummary": true,
+    "link": "https://www.theblock.co/news/business/2026-11-18-kraken-parent-payward-tribe-capital-443522",
+    "source": "The Block",
+    "tags": [
+      "Payward",
+      "Kraken",
+      "Tribe Capital"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-19T03:18:53.000Z",
+    "fetchedAt": "2026-11-19T03:45:02.050Z",
+    "isDuplicateOf": null,
+    "content": "Payward, the parent company of cryptocurrency exchange Kraken, has agreed to acquire Tribe Capital. This strategic acquisition is designed to expand Payward's private-market offerings by integrating new capabilities in private-market sourcing, underwriting, and fund management directly into its existing platform.",
+    "content_ta": "கிரிப்டோகரன்சி பரிமாற்ற நிறுவனமான Kraken-ன் தாய் நிறுவனமான Payward, Tribe Capital நிறுவனத்தை வாங்க ஒப்புக்கொண்டுள்ளது. இந்த மூலோபாய கையகப்படுத்தல், தனியார் சந்தை மூலப்பொருள், அண்டர்ரைட்டிங் மற்றும் நிதி மேலாண்மை திறன்களை Payward-ன் தளத்தில் இணைப்பதன் மூலம் அதன் தனியார் சந்தை சேவைகளை விரிவுபடுத்தும் நோக்கம் கொண்டது.",
+    "slug": "kraken-parent-payward-to-acquire-tribe-capital-to-expand-private-market-offerings"
+  },
+  {
     "id": "4ce5af83cf37a6fa",
     "slug": "anthropic-sets-record-with-81-3-billion-share-sale-before-nasdaq-debut",
     "title": "Anthropic Sets Record With $81.3 Billion Share Sale Before Nasdaq Debut",
@@ -242,40 +284,28 @@
   },
   {
     "id": "798feb5143d2aa0b",
+    "slug": "visa-and-pymnts-agree-cfos-are-moving-payment-security-upstream",
     "title": "Visa and PYMNTS Agree: CFOs Are Moving Payment Security Upstream",
-    "summary": "A company can outsource its payment processing, automate its accounts payable and delegate fraud monitoring to specialized providers. What it cannot wholly outsource is the financial damage when those systems fail. A compromised supplier, payment processor or technology platform can expose businesses to losses that extend beyond the fraudulent transaction itself, including operational disruption, recovery […]\nThe post Visa and PYMNTS Agree: CFOs Are Moving Payment Security Upstream appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/visa-and-pymnts-agree-cfos-are-moving-payment-security-upstream/",
-    "source": "PYMNTS",
     "tags": [
       "Visa",
       "PYMNTS"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-11-19T00:31:02.000Z",
-    "fetchedAt": "2026-11-19T03:01:26.997Z",
-    "isDuplicateOf": null,
-    "content": "According to Visa and PYMNTS, corporate CFOs are prioritizing payment security upstream by addressing vulnerabilities before they affect operations. While businesses can outsource payment processing, automation, and fraud monitoring, they remain financially and operationally responsible when third-party systems fail. A breach involving a supplier or platform can cause severe disruptions beyond immediate transaction losses, prompting financial leaders to take stricter preventative measures.",
-    "content_ta": "Visa மற்றும் PYMNTS அறிக்கையின்படி, கார்ப்பரேட் CFO-கள் செயல்பாடுகளைப் பாதிக்கும் முன்பே பாதுகாப்பு நடவடிக்கைகளில் அதிக கவனம் செலுத்துகின்றனர். வணிகங்கள் கட்டண செயலாக்கம் மற்றும் மோசடி கண்காணிப்பு ஆகியவற்றை வெளியாட்களிடம் ஒப்படைக்க முடிந்தாலும், மூன்றாம் தரப்பு அமைப்புகள் தோல்வியடையும் போது நிறுவனங்களே நிதி மற்றும் செயல்பாட்டு இழப்புகளுக்கு பொறுப்பாகின்றன. சப்ளையர் அல்லது தளம் சார்ந்த பாதுகாப்பு மீறல்கள் பெரும் பாதிப்புகளை ஏற்படுத்துவதால், நிதித் தலைவர்கள் கடுமையான தடுப்பு நடவடிக்கைகளை மேற்கொண்டு வருகின்றனர்.",
-    "slug": "visa-and-pymnts-agree-cfos-are-moving-payment-security-upstream"
+    "hasContent": true,
+    "pubDate": "2026-11-19T00:31:02.000Z"
   },
   {
     "id": "ffa0aafc282e294f",
+    "slug": "snapchat-deploys-new-ai-tools-for-brands-and-creators",
     "title": "Snapchat Deploys New AI Tools for Brands and Creators",
-    "summary": "Snapchat has introduced a new augmented reality (AR) tool and additional creator advertising solutions, the company said in a pair of Wednesday (Nov. 18) press releases. The AR tool, Easy Lens CLI, enables developers to use artificial intelligence coding assistants such as Claude Code, Codex and Cursor to build Snapchat Lenses, according to one press release. […]\nThe post Snapchat Deploys New AI Tools for Brands and Creators appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/snapchat-deploys-new-ai-tools-for-brands-and-creators/",
-    "source": "PYMNTS",
     "tags": [
       "Snapchat"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-11-19T00:28:11.000Z",
-    "fetchedAt": "2026-11-19T03:01:26.997Z",
-    "isDuplicateOf": null,
-    "content": "Snapchat has introduced new artificial intelligence tools and augmented reality solutions aimed at brands and creators. The platform released the Easy Lens CLI tool, which allows developers to use AI coding assistants to build Snapchat Lenses. Additionally, the company announced new creator advertising solutions designed to expand marketing opportunities within the app.",
-    "content_ta": "Snapchat நிறுவனம் பிராண்டுகள் மற்றும் கிரியேட்டர்களுக்காக புதிய செயற்கை நுண்ணறிவு கருவிகள் மற்றும் ஆக்மென்டெட் ரியாலிட்டி தீர்வுகளை அறிமுகப்படுத்தியுள்ளது. டெவலப்பர்கள் AI கோடிங் அசிஸ்டன்ட்களைப் பயன்படுத்தி Snapchat Lenses உருவாக்க உதவும் Easy Lens CLI என்ற புதிய கருவியை இந்நிறுவனம் வெளியிட்டுள்ளது. மேலும், செயலியில் சந்தைப்படுத்தல் வாய்ப்புகளை விரிவுபடுத்தும் வகையில் புதிய கிரியேட்டருக்கான விளம்பர தீர்வுகளையும் இந்நிறுவனம் அறிவித்துள்ளது.",
-    "slug": "snapchat-deploys-new-ai-tools-for-brands-and-creators"
+    "hasContent": true,
+    "pubDate": "2026-11-19T00:28:11.000Z"
   },
   {
     "id": "e7830b016e900453",
@@ -305,24 +335,18 @@
   },
   {
     "id": "b1626bea368c7bb3",
+    "slug": "nvidia-leadership-floats-pay-hikes-during-first-post-huang-all-hands-meeting",
     "title": "Nvidia Leadership Floats Pay Hikes During First Post-Huang All-Hands Meeting",
-    "summary": "Nvidia Interim CEO Colette Kress told employees “let’s move forward” and mentioned pay raises and an earlier yearly review process Wednesday (Nov. 18) during the company’s first all-hands meeting since the company’s founder, Jensen Huang, resigned, CNBC reported, citing an unnamed source. The hour-long meeting was not unusual, as Nvidia traditionally holds an all-hands meeting the day after each of the company’s […]\nThe post Nvidia Leadership Floats Pay Hikes During First Post-Huang All-Hands Meeting appeared first on PYMNTS.com.",
-    "hasSummary": true,
-    "link": "https://www.pymnts.com/personnel/2026/nvidia-leadership-floats-pay-hikes-during-first-post-huang-all-hands-meeting/",
-    "source": "PYMNTS",
     "tags": [
       "Nvidia",
       "Jensen Huang",
       "Colette Kress",
       "CNBC"
     ],
+    "source": "PYMNTS",
     "origin": "rss",
-    "pubDate": "2026-11-19T00:02:53.000Z",
-    "fetchedAt": "2026-11-19T03:01:26.997Z",
-    "isDuplicateOf": null,
-    "content": "Nvidia's leadership recently addressed employees during an all-hands meeting following the resignation of founder Jensen Huang. Interim CEO Colette Kress encouraged staff to move forward and discussed potential pay raises along with an earlier yearly review process. The gathering followed the company's traditional schedule, offering workers insight into future internal adjustments under new interim leadership.",
-    "content_ta": "Nvidia நிறுவனர் Jensen Huang இன் ராஜிநாமாவுக்குப் பிறகு நடைபெற்ற ஊழியர்கள் கூட்டத்தில் நிறுவனத்தின் புதிய தலைமை சில முக்கிய விஷயங்களைப் பகிர்ந்து கொண்டது. இடைக்கால CEO Colette Kress ஊழியர்களை முன்னோக்கிச் செல்ல ஊக்குவித்ததுடன், சம்பள உயர்வு மற்றும் முந்தைய ஆண்டு மதிப்பீட்டு முறை குறித்தும் விவாதித்தார்.",
-    "slug": "nvidia-leadership-floats-pay-hikes-during-first-post-huang-all-hands-meeting"
+    "hasContent": true,
+    "pubDate": "2026-11-19T00:02:53.000Z"
   },
   {
     "id": "ff0dc564a9d4597d",
@@ -771,31 +795,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-18T20:00:10.000Z"
-  },
-  {
-    "id": "2b5b6e086d73ede1",
-    "slug": "mara-holdings-stock-slides-again-as-options-traders-lean-bearish",
-    "title": "MARA Holdings stock slides again as options traders lean bearish",
-    "tags": [
-      "MARA Holdings",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T19:48:27.000Z"
-  },
-  {
-    "id": "aa0ed6ae1c0cba78",
-    "slug": "nvidia-touts-record-quarter-despite-major-red-flags",
-    "title": "Nvidia touts ‘record’ quarter despite major red flags",
-    "tags": [
-      "Nvidia",
-      "SEC"
-    ],
-    "source": "Protos",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T19:48:23.000Z"
   }
 ]
