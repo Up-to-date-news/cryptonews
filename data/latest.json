@@ -1,24 +1,605 @@
 [
   {
-    "id": "d5fd276437124ca9",
-    "title": "After Money20/20 Middle East, The Question Is What Follows Access",
-    "summary": "Vennre's Ziad Mabsout argues that giving people more ways to invest was only the first step, and that wealth platforms must now show them the whole portfolio.\nThe post After Money20/20 Middle East, The Question Is What Follows Access appeared first on The Fintech Times.",
+    "id": "5c93382b4d2088fe",
+    "slug": "live-anthropic-goes-public-in-one-of-the-largest-ipos-ever",
+    "title": "LIVE: Anthropic goes public in one of the largest IPOs ever",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:58:50.000Z"
+  },
+  {
+    "id": "83d80cca8445aaf9",
+    "slug": "amazon-and-google-now-own-more-of-anthropic-than-its-founders-do",
+    "title": "Amazon and Google now own more of Anthropic than its founders do",
+    "tags": [
+      "Amazon",
+      "Google",
+      "Anthropic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:53:40.000Z"
+  },
+  {
+    "id": "29e8adcd44cea7e0",
+    "slug": "bitcoin-s-next-major-move-tied-to-gta-vi-traders-spot-a-bizarre-pattern",
+    "title": "Bitcoin’s Next Major Move Tied to GTA VI? Traders Spot a Bizarre Pattern",
+    "tags": [
+      "Bitcoin",
+      "GTA VI"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:52:48.000Z"
+  },
+  {
+    "id": "ad0ea1b67b9221ce",
+    "slug": "godaddy-proposes-agent-name-service-to-give-ai-agents-a-verifiable-identity",
+    "title": "GoDaddy proposes Agent Name Service to give AI agents a verifiable identity",
+    "tags": [
+      "GoDaddy"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:45:59.000Z"
+  },
+  {
+    "id": "982753d9319c3eaa",
+    "slug": "rene-haas-to-take-over-nvidia-what-will-happen-to-crypto",
+    "title": "Rene Haas to Take Over Nvidia? What Will Happen to Crypto?",
+    "tags": [
+      "Rene Haas",
+      "Nvidia",
+      "Arm",
+      "Bitcoin"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:36:22.000Z"
+  },
+  {
+    "id": "9f5b459a2120e9be",
+    "slug": "broadridge-named-leader-in-inaugural-everest-group-bfs-agentic-business-operations-peak-matrix",
+    "title": "Broadridge Named Leader in Inaugural Everest Group BFS Agentic Business Operations PEAK Matrix® Assessment 2026",
+    "tags": [
+      "Broadridge",
+      "Everest Group"
+    ],
+    "source": "Financial IT",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:34:58.000Z"
+  },
+  {
+    "id": "b5740a862818afd2",
+    "slug": "tether-invests-in-scrypt-to-build-out-institutional-stablecoin-infrastructure",
+    "title": "Tether invests in SCRYPT to build out institutional stablecoin infrastructure",
+    "tags": [
+      "Tether",
+      "SCRYPT"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:32:14.000Z"
+  },
+  {
+    "id": "5aa189baee884adc",
+    "slug": "lithuanian-sme-bank-modernises-core-with-saascada-ahead-of-european-expansion",
+    "title": "Lithuanian SME bank modernises core with SaaScada ahead of European expansion",
+    "tags": [
+      "SME Bank",
+      "SaaScada",
+      "Lithuania",
+      "Netherlands",
+      "European Central Bank"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:32:00.000Z"
+  },
+  {
+    "id": "67d1da221973ed4c",
+    "slug": "imf-warns-ai-boom-could-push-interest-rates-higher",
+    "title": "IMF warns AI boom could push interest rates higher",
+    "tags": [
+      "IMF"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:31:05.000Z"
+  },
+  {
+    "id": "e6a59df0b4100d71",
+    "slug": "bpc-and-huawei-launch-solution-partnership-to-accelerate-digital-payments-modernisation",
+    "title": "BPC and Huawei Launch Solution Partnership to Accelerate Digital Payments Modernisation",
+    "tags": [
+      "BPC",
+      "Huawei",
+      "Singapore"
+    ],
+    "source": "Financial IT",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:30:56.000Z"
+  },
+  {
+    "id": "dc2307aef07df43c",
+    "slug": "chainlink-and-ubs-develop-blockchain-solution-for-2-trillion-structured-products-market",
+    "title": "Chainlink and UBS develop blockchain solution for $2 trillion structured-products market",
+    "tags": [
+      "Chainlink",
+      "UBS"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:30:12.000Z"
+  },
+  {
+    "id": "184d9842bd6238e9",
+    "slug": "ethereum-s-new-defi-security-tool-raises-questions-over-censorship",
+    "title": "Ethereum’s new DeFi security tool raises questions over censorship",
+    "tags": [
+      "Ethereum",
+      "Phylax"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:30:00.000Z"
+  },
+  {
+    "id": "212e4b84daf4cc53",
+    "slug": "eleos-life-integrates-iress-protection-sourcing-tech-into-adviser-platform",
+    "title": "Eleos Life integrates Iress protection sourcing tech into adviser platform",
+    "tags": [
+      "Eleos Life",
+      "Iress"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:29:00.000Z"
+  },
+  {
+    "id": "cd84e1d878795ab7",
+    "slug": "hyperliquid-sfc-warning-raises-fresh-questions-over-hype",
+    "title": "Hyperliquid SFC Warning Raises Fresh Questions Over HYPE",
+    "tags": [
+      "Hyperliquid",
+      "Securities and Futures Commission",
+      "Hong Kong"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:28:49.000Z"
+  },
+  {
+    "id": "ed8285f8a272c927",
+    "slug": "brookson-financial-renews-twenty7tec-partnership",
+    "title": "Brookson Financial renews Twenty7tec partnership",
+    "tags": [
+      "Twenty7tec",
+      "Brookson Financial"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:27:00.000Z"
+  },
+  {
+    "id": "8e0bc721af3790f0",
+    "slug": "brazil-s-daycoval-picks-temenos-saas-to-support-us-expansion",
+    "title": "Brazil's Daycoval picks Temenos SaaS to support US expansion",
+    "tags": [
+      "Banco Daycoval",
+      "Temenos",
+      "Microsoft",
+      "United States",
+      "Brazil"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:26:00.000Z"
+  },
+  {
+    "id": "9d843a669bef87a3",
+    "slug": "alipay-connects-global-e-wallets-with-brazil-s-pix",
+    "title": "Alipay+ connects global e-wallets with Brazil's Pix",
+    "tags": [
+      "Ant International",
+      "Alipay+",
+      "Pix",
+      "Brazil"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:23:00.000Z"
+  },
+  {
+    "id": "ebf6a3174a9e1291",
+    "slug": "xrp-outperforms-solana-and-dogecoin-in-japan",
+    "title": "XRP Outperforms Solana and Dogecoin in Japan",
+    "tags": [
+      "XRP",
+      "Solana",
+      "Dogecoin",
+      "Bitcoin",
+      "Ethereum",
+      "Japan"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:21:12.000Z"
+  },
+  {
+    "id": "8c607d6ac029b740",
+    "slug": "anthropic-researcher-warns-superhuman-ai-could-leave-most-humans-unemployable",
+    "title": "Anthropic researcher warns superhuman AI could leave most humans unemployable",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:20:44.000Z"
+  },
+  {
+    "id": "de2dc75cb9edf707",
+    "slug": "bitcoin-flashes-a-signal-seen-at-four-previous-market-bottoms-as-62-000-comes-under-pressure",
+    "title": "Bitcoin flashes a signal seen at four previous market bottoms as $62,000 comes under pressure",
+    "tags": [
+      "Bitcoin",
+      "CryptoSlate"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:20:33.000Z"
+  },
+  {
+    "id": "d7153e5b71940664",
+    "slug": "xrp-out-at-royal-bank-of-canada-leveraged-fund-cut-to-zero",
+    "title": "XRP Out at Royal Bank of Canada: Leveraged Fund Cut to Zero",
+    "tags": [
+      "Royal Bank of Canada",
+      "XRP",
+      "SEC",
+      "Canada"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:19:40.000Z"
+  },
+  {
+    "id": "4288c59341c43c0b",
+    "slug": "pine-labs-unveils-platform-to-connect-stablecoins-and-card-payments",
+    "title": "Pine Labs unveils platform to connect stablecoins and card payments",
+    "tags": [
+      "Pine Labs"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:19:00.000Z"
+  },
+  {
+    "id": "2bb924a298250128",
+    "slug": "india-s-axis-bank-tackles-digital-fraud-threat-with-safe-banking-initiative",
+    "title": "India's Axis Bank tackles digital fraud threat with safe banking initiative",
+    "tags": [
+      "Axis Bank",
+      "India"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:18:00.000Z"
+  },
+  {
+    "id": "a8cf36ec9e73abf9",
+    "slug": "sky-s-2-7b-usdc-reserve-sits-in-a-single-wallet-and-that-creates-a-freeze-risk",
+    "title": "Sky’s $2.7B USDC reserve sits in a single wallet, and that creates a freeze risk",
+    "tags": [
+      "Sky",
+      "USDC"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:17:06.000Z"
+  },
+  {
+    "id": "5607ea8e6a278d5f",
+    "slug": "google-taps-blue-origin-to-launch-solar-powered-ai-satellites-in-2029",
+    "title": "Google taps Blue Origin to launch solar-powered AI satellites in 2029",
+    "tags": [
+      "Google",
+      "Blue Origin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:12:35.000Z"
+  },
+  {
+    "id": "d5414201a7a29025",
+    "slug": "singapore-s-mas-upgrades-tokenized-settlement-rails-and-moves-to-verify-ai-agents",
+    "title": "Singapore’s MAS upgrades tokenized settlement rails and moves to verify AI agents",
+    "tags": [
+      "Singapore",
+      "MAS"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T13:09:22.000Z"
+  },
+  {
+    "id": "76ccb5a3653c5164",
+    "slug": "fifth-third-bank-s-approach-to-retooling-jeanie-into-an-intent-driven-assistant",
+    "title": "Fifth Third Bank’s approach to retooling Jeanie into an intent-driven assistant",
+    "tags": [],
+    "source": "Tearsheet",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-19T13:00:00.000Z"
+  },
+  {
+    "id": "d95a4f64b87ac5df",
+    "slug": "futu-earnings-miss-revenue-estimates",
+    "title": "Futu earnings miss revenue estimates",
+    "tags": [
+      "Futu"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T12:57:59.000Z"
+  },
+  {
+    "id": "b61020be6fa18dd6",
+    "slug": "solana-targets-doubling-compute-capacity-cutting-costs-by-80-by-2027",
+    "title": "Solana targets doubling compute capacity, cutting costs by 80% by 2027",
+    "tags": [
+      "Solana"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T12:54:50.000Z"
+  },
+  {
+    "id": "2ab4c7cdd61d9008",
+    "slug": "ethereum-processes-25-8-trillion-in-stablecoin-transfers-is-wall-street-underestimating-eth",
+    "title": "Ethereum Processes $25.8 Trillion In Stablecoin Transfers — Is Wall Street Underestimating ETH?",
+    "tags": [],
+    "source": "Bitcoinist",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-19T12:54:42.000Z"
+  },
+  {
+    "id": "6e7cb641ddfe7152",
+    "slug": "alibaba-executive-signals-its-20-gw-data-center-target-may-shrink",
+    "title": "Alibaba executive signals its 20 GW data center target may shrink",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-19T12:51:38.000Z"
+  },
+  {
+    "id": "f992786f82045b87",
+    "slug": "amber-group-shifts-focus-to-ai-investments-and-incubation-scales-back-trading",
+    "title": "Amber Group shifts focus to AI investments and incubation, scales back trading",
+    "tags": [
+      "Amber Group"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T12:44:26.000Z"
+  },
+  {
+    "id": "4de1c8928800daa6",
+    "title": "Unzer and i80 Group Partner to Accelerate Buy Now, Pay Later Growth With Up to €200 Million in Financing",
+    "summary": "Unzer, a leading European payment company, and investment firm i80 Group have agreed on a receivables financing facility of up to €200 million to support further growth of Unzer's Buy Now, Pay Later (BNPL) business. The facility will fund Unzer's invoice and instalment payment solutions to support growing merchant and customer demand.\nThe partnership comes as Unzer reports strong demand for its BNPL services. The number of merchants actively using these services has increased by around 50% compared with the same period last year, according to Unzer.\nInvoice payments remain particularly popular in Germany. According to the EHI Retail Institute, purchase on invoice was the country's second-largest online payment method in 2025, accounting for more than 25% of online sales. For merchants, offering customers their preferred way to pay makes it easier to complete purchases and can help increase sales.\n“Our BNPL business has grown strongly this year, and we want to keep that momentum going,” says Dr. Götz Möller, CFO of Unzer. “But growth also means you need the right financing behind you. That's why we're really pleased to have i80 as a strong financing partner on board. Given their substantial experience in this area as well as the excellent collaboration, we can bring our BNPL solutions to even more merchants.”\n“Unzer has built a scaled BNPL business with deep merchant relationships across the DACH region and a disciplined, data-driven approach to underwriting,” says Jomart Tleujan, Investment Director at i80 Group. “We worked closely with the Unzer team to design a bespoke facility that scales sustainably with their BNPL volumes. The transaction reflects i80 Group’s focus on providing flexible, privately structured asset-based financing to established platform lenders and we look forward to supporting Unzer’s next phase of growth.”\nHogan Lovells Cadwalader acted as transaction counsel for the agreements, Alvarez & Marsal acted as advisor to Unzer. Credibur was appointed as calculation and verification agent and back-up servicer. Circumference acts as cash manager and corporate services provider for the underlying Special Purpose Vehicle.\nNoYesLending19 Nov, 2026",
     "hasSummary": true,
-    "link": "https://thefintechtimes.com/after-money20-20-middle-east-the-question-is-what-follows-access/",
-    "source": "The Fintech Times",
+    "link": "https://financialit.net/news/lending/unzer-and-i80-group-partner-accelerate-buy-now-pay-later-growth-eu200-million-financing",
+    "source": "Financial IT",
+    "tags": [
+      "Unzer",
+      "i80 Group",
+      "Germany",
+      "Hogan Lovells Cadwalader",
+      "Alvarez & Marsal"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-19T12:43:17.000Z",
+    "fetchedAt": "2026-11-19T13:59:08.115Z",
+    "isDuplicateOf": null,
+    "content": "Unzer has partnered with investment firm i80 Group to secure a receivables financing facility of up to €200 million. The agreement aims to accelerate the growth of Unzer's Buy Now, Pay Later (BNPL) business, funding invoice and instalment payment solutions to meet rising merchant and customer demand. The partnership highlights the strong performance and continued expansion of Unzer's payment services across its key operating markets.",
+    "content_ta": "Unzer நிறுவனம் i80 Group உடன் இணைந்து 200 மில்லியன் யூரோ வரை நிதியுதவி பெறும் ஒப்பந்தத்தை மேற்கொண்டுள்ளது. Unzer-ன் Buy Now, Pay Later (BNPL) சேவைகளின் வளர்ச்சியை விரைவுபடுத்துவதே இந்த ஒப்பந்தத்தின் நோக்கமாகும். இதன் மூலம் வணிகர்கள் மற்றும் வாடிக்கையாளர்களின் தேவைகளை பூர்த்தி செய்ய முடியும்.",
+    "slug": "unzer-and-i80-group-partner-to-accelerate-buy-now-pay-later-growth-with-up-to-200-million-in"
+  },
+  {
+    "id": "15ca52071ceb1190",
+    "slug": "trump-media-wants-to-clear-884-million-of-debt-without-selling-its-bitcoin",
+    "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
+    "tags": [
+      "Trump Media",
+      "Truth Social",
+      "Bitcoin"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T12:40:12.000Z"
+  },
+  {
+    "id": "6092099736bc1d1e",
+    "slug": "hyperliquid-diversifies-revenue-with-crypto-perps-accounting-for-two-thirds",
+    "title": "Hyperliquid diversifies revenue with crypto perps accounting for two-thirds",
+    "tags": [
+      "Hyperliquid"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T12:39:42.000Z"
+  },
+  {
+    "id": "7c00d6d38324a7d8",
+    "slug": "gta-vi-publisher-racks-up-nearly-3x-nvidia-s-tokenized-stock-volume",
+    "title": "GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume",
+    "tags": [
+      "Take-Two Interactive",
+      "Nvidia",
+      "Solana"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T12:33:46.000Z"
+  },
+  {
+    "id": "48c3325542dea4c4",
+    "slug": "stablecoin-market-loses-billions-where-is-crypto-s-liquidity-going",
+    "title": "Stablecoin Market Loses Billions: Where Is Crypto’s Liquidity Going?",
+    "tags": [
+      "USDT",
+      "USDC"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T12:30:54.000Z"
+  },
+  {
+    "id": "8aa08c666a2b451a",
+    "slug": "walmart-earnings-today-can-wmt-stock-rally-ahead-of-black-friday",
+    "title": "Walmart Earnings Today: Can WMT Stock Rally Ahead of Black Friday?",
+    "tags": [
+      "Walmart"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T12:26:32.000Z"
+  },
+  {
+    "id": "19c4ea63c48c5aa6",
+    "title": "$658bn Lost to Money Laundering in the US Last Year as Canada Climbs to Second in Global AML Index",
+    "summary": "An estimated $658.43bn was lost to money laundering in the US last year, equivalent to 2.14% of the country's GDP, according to Napier AI. The US ranked 16th out of 42 markets assessed, while its northern neighbor Canada climbed to second, highlighting the continued scale of illicit finance moving through the American economy.\nDespite maintaining one of the strongest AML effectiveness scores globally for three consecutive years, the US continues to spend an estimated $59.91bn on anti-money laundering (AML) compliance, yet remains the second-largest contributor to illicit flows of all 42 markets assessed, with only China reporting higher total money laundering losses.\nThe findings come from the Napier AI / AML Index 2026 – 2027, in partnership with GlobalData.\nCanada, which shares the world's longest land border with the US, rose from eighth to second on the Index this year, with money laundering losses falling from 3.16% of GDP in 2024 to 2.75% in 2025. But its position next to the country that has historically set the global sanctions agenda carries its own costs, with Canada's compliance costs relative to its losses creeping up.\nThe Index's new border line of financial crime analysis, which examines how geographic and political proximity to sanctioned nations shapes money laundering risk, identifies a paradox in the US. The country shows the sharpest political disagreement of any market studied with the countries it sanctions, yet its compliance spend is comparatively light when set against its own money laundering losses.\nGreg Watson, CEO of Napier AI, commented: “The scale of money laundering remains staggering even with promising signs of pushback in the fight against financial crime. For too long it has been assumed that the rising cost of financial crime was an inevitability, but our research proves otherwise. \nHowever, conflicts and rapidly changing sanctions regimes have resulted in an uneven regulatory environment and gaps in financial crime defenses which criminals exploit. Our newest analysis traces these trends that create the border line of financial crime and outlines how geographic and political proximity impact risk exposure as much as domestic defenses and regulatory red tape. So, despite the headline progress made, nations cannot afford complacency. Financial crime moves as fast, so AML must innovate faster.”\nDr. Janet Bastiman, Chief Data Scientist at Napier AI, commented: “Over $3 trillion in AML recovery offers huge potential for economies and organisations, and our data shows that spending more on compliance isn’t the only answer. Better detection and underlying data, underpinned by AI, gives compliance teams a more accurate picture of their financial risk and allowing them to focus on the largest money laundering threats.\nBut that AI must be explainable and every automated decision must be auditable by a regulator. It requires human judgement to both own the decisions and also understand the patterns that criminals are using to stop illicit flows.” \nThe Index also reports a fall in the cost of AML compliance for the US, decreasing 10.2% from $66.74bn in 2024 to $59.91bn in 2025. Across the Americas, the US accounts for roughly six in every seven dollars spent on financial crime compliance, reflecting its economic scale rather than markedly higher risk.\nNoYesAML and KYC19 Nov, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/aml-and-kyc/658bn-lost-money-laundering-us-last-year-canada-climbs-second-global-aml-index",
+    "source": "Financial IT",
+    "tags": [
+      "Napier AI",
+      "GlobalData",
+      "United States",
+      "Canada",
+      "China"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-19T12:25:38.000Z",
+    "fetchedAt": "2026-11-19T13:59:08.115Z",
+    "isDuplicateOf": null,
+    "content": "A recent Napier AI index reveals that the US lost an estimated $658bn to money laundering last year, accounting for over two percent of its GDP. Meanwhile, Canada climbed to second place globally on the AML Index, reflecting ongoing regional challenges with illicit finance. Despite spending billions on compliance, experts emphasize that leveraging advanced, explainable AI is crucial to better detect and combat financial crime threats.",
+    "content_ta": "Napier AI வெளியிட்டுள்ள புதிய குறியீட்டின்படி, கடந்த ஆண்டு அமெரிக்காவில் பணமோசடி காரணமாக சுமார் $658bn இழப்பு ஏற்பட்டுள்ளது. இதற்கிடையில், AML குறியீட்டில் கனடா உலகளவில் இரண்டாவது இடத்திற்கு முன்னேறியுள்ளது. இணக்கத்தன்மைக்காக பਿில்லியன் கணக்கில் செலவிட்டாலும், நிதி குற்ற அச்சுறுத்தல்களை திறம்பட கண்டறிந்து எதிர்த்துப் போராட மேம்பட்ட AI தொழில்நுட்பத்தைப் பயன்படுத்துவது அவசியம் என்று நிபுணர்கள் வலியுறுத்துகின்றனர்.",
+    "slug": "658bn-lost-to-money-laundering-in-the-us-last-year-as-canada-climbs-to-second-in-global-aml-index"
+  },
+  {
+    "id": "dddb5a80798cab9f",
+    "title": "Zopa Calls on Brits to ‘January-Proof’ Christmas With AI as Customers Get Chance to Win £10,000",
+    "summary": "Zopa, the British digital bank pioneer with 2 million customers, is calling on Brits to ‘January-proof’ their Christmas by embracing a responsible and personalised approach to festive spending using AI. \nPart of Zopa’s award-winning Biscuit current account, “Ask Zopa” is designed to help millions of Brits manage their money simply by asking. \nCustomers can use it to plan upcoming spending, understand their finances, split bills, set savings goals and complete everyday banking tasks – making it particularly useful at Christmas, when plans and spending can change quickly.\nThat could mean creating a Christmas spending pot with a fixed amount inside, setting real time spending alerts to stay on budget, or simply understanding what expenses are coming up and asking Zopa to help plan for the longer stretch into January.\nTaking the guesswork out of gifting\nThis festive season Zopa is also introducing a new AI-powered wish list generator that helps take the guesswork out of your Christmas list. \nAvailable simply by asking, the tool suggests personalised gift ideas based on a customer’s unique transaction history. Customers can then refine the suggestions through conversation, before sharing items from the finished list with friends and family so that gifting cash is well spent.\nThe feature makes Zopa the first UK bank to offer AI-powered Christmas gift recommendations.\nThe five long weeks of Christmas\nWith festive spending starting early and December salaries needing to stretch further, the Christmas AI features launch as new Zopa research* reveals the importance of seasonal budgeting. \nNearly half (43%) of UK workers will be facing a wait of five weeks or more between their December and January paydays, compared with just 6% during a typical pay cycle.\nAmong those facing a five-week or longer wait, the average customer spends 70% of their December pay before January’s salary arrives. For those waiting six weeks or more, this rises to 90%.\nBut the pressure on festive finances starts well before December payday.\nRetail spending rises by 37% in December compared with a typical month, while spending on groceries and going out increases by 23% and 19% respectively, putting further pressure on household budgets.\nThe Christmas shopping rush peaks around Black Friday and Cyber Monday, with retail spending on Cyber Monday last year reaching 2.1 times that of a normal Monday, meaning Christmas shopping is already well underway before December even begins.\nWinning back the cost of Christmas\nAlongside its new smart tools for budgeting and Christmas gifting, Zopa is now also giving its Biscuit current account customers the chance to win back the cost of Christmas.\nNew and existing Biscuit customers who make at least five transactions by 4 January 2027 will have the chance to win the £10,000 top prize, with a further 15 customers winning up to £2,000 each. Winners will be announced on 18 January 2027.\nClare Gambardella, Chief Customer Officer at Zopa Bank, said: “Christmas spending often starts weeks before December payday, and that salary then has to stretch across a much longer wait until January. That’s why we’re encouraging consumers to ‘January-proof’ their Christmas now, by planning for the entire festive period.\n“Zopa Bank always aims to offer ease and value to customers and with Ask Zopa, customers can simply talk through their plans, get help managing their money and take budgeting actions, all in one place, without needing spreadsheets or complicated trackers.\"\nZopa launched its Biscuit current account in 2025, quickly establishing it as the UK’s best current account for everyday value, rated #1 by MoneySavingExpert for cashback, perks and regular savings.\nDrawing on the different ways customers manage their everyday finances, Zopa’s Biscuit has now evolved into one of the UK’s most customisable current accounts, giving customers the flexibility to choose the benefits that suit them best and switch them as their priorities change. \nIn addition to:\nA 1% AER variable on all balances \nOne free coffee per month \nFee-free card spending abroad \nAccess to the UK's most advanced banking AI\nCustomers can choose between:\n3% AER variable interest on their balance OR\n3% cashback on up to £150 of eating-out spend each month OR\n3% cashback on up to £150 of Direct Debits each month\nZopa was voted the UK’s Best App for 2026 at the British Banks Awards. \nOne of the UK’s highest-rated and most celebrated financial brands, it has won more than 10 British Bank Awards, holds a 4.6/5 rating on Trustpilot, and consistently receives among the highest customer satisfaction scores in the industry.\nNoYesPersonal Finance19 Nov, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/personal-finance/zopa-calls-brits-january-proof-christmas-ai-customers-get-chance-win-ps10000",
+    "source": "Financial IT",
+    "tags": [
+      "Zopa",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-19T12:23:06.000Z",
+    "fetchedAt": "2026-11-19T13:59:08.115Z",
+    "isDuplicateOf": null,
+    "content": "Zopa Bank has launched new AI-powered tools on its Biscuit current account to help UK customers budget and plan their festive spending. The features include 'Ask Zopa' for financial management and an AI wish list generator. To celebrate, Zopa is offering customers the chance to win up to £10,000 by making at least five transactions by early January.",
+    "content_ta": "UK வாடிக்கையாளர்கள் தங்கள் பண்டிகை கால செலவுகளைத் திட்டமிட உதவும் வகையில் Zopa Bank தனது Biscuit கரண்ட் அக்கவுண்டில் புதிய AI கருவிகளை அறிமுகப்படுத்தியுள்ளது. நிதி மேலாண்மைக்காக 'Ask Zopa' மற்றும் AI விஷ் லிஸ்ட் ஜெனரேட்டர் போன்ற அம்சங்கள் இதில் அடங்கும். இதைக் கொண்டாடும் வகையில், ஜனவரி தொடக்கத்திற்குள் குறைந்தபட்சம் ஐந்து பரிவர்த்தனைகளைச் செய்யும் வாடிக்கையாளர்களுக்கு £10,000 வரை வெல்லும் வாய்ப்பை Zopa வழங்குகிறது.",
+    "slug": "zopa-calls-on-brits-to-january-proof-christmas-with-ai-as-customers-get-chance-to-win-10-000"
+  },
+  {
+    "id": "a9460e9765a0ede7",
+    "slug": "bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
+    "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
+    "tags": [
+      "Bitcoin",
+      "Anthropic",
+      "Nasdaq"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T12:20:39.000Z"
+  },
+  {
+    "id": "60e692a93907ed0c",
+    "slug": "nyse-owner-targets-hyperliquid-s-5-billion-trading-boom-but-the-liquidity-may-not-follow",
+    "title": "NYSE owner targets Hyperliquid’s $5 billion trading boom, but the liquidity may not follow",
+    "tags": [
+      "NYSE",
+      "Hyperliquid",
+      "United States"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T12:20:23.000Z"
+  },
+  {
+    "id": "7dfa742b0951bade",
+    "slug": "hyperliquid-hits-hong-kong-alert-list-as-hype-erases-5-drop",
+    "title": "Hyperliquid Hits Hong Kong Alert List as HYPE Erases 5% Drop",
+    "tags": [
+      "Hyperliquid",
+      "Hong Kong"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T12:19:20.000Z"
+  },
+  {
+    "id": "d5fd276437124ca9",
+    "slug": "after-money20-20-middle-east-the-question-is-what-follows-access",
+    "title": "After Money20/20 Middle East, The Question Is What Follows Access",
     "tags": [
       "Money20/20 Middle East",
       "Vennre",
       "Ziad Mabsout",
       "Middle East"
     ],
+    "source": "The Fintech Times",
     "origin": "rss",
-    "pubDate": "2026-11-19T12:00:42.000Z",
-    "fetchedAt": "2026-11-19T12:01:34.147Z",
-    "isDuplicateOf": null,
-    "content": "Following the Money20/20 Middle East event, industry discussions have shifted toward the future of digital wealth management. Experts note that while initial platforms successfully expanded user access to investments, the next crucial step requires providing users with comprehensive portfolio visibility to sustain engagement and growth in the region's evolving financial sector.",
-    "content_ta": "Money20/20 Middle East நிகழ்வுக்குப் பிறகு, டிஜிட்டல் வெல்த் மேனேஜ்மென்ட் துறையின் அடுத்த கட்டம் குறித்து நிபுணர்கள் விவாதித்து வருகின்றனர். முதலீடுகளுக்கான அணுகலைத் தድረங்குங்கள் வழங்குவது மட்டுமே முதல் படியாகும் என்றும், இனி போர்ட்ஃபோலியோ குறித்த முழுமையான பார்வையை பிளாட்ஃபார்ம்கள் வாடிக்கையாளர்களுக்கு வழங்க வேண்டும் என்றும் தெரிவிக்கப்பட்டுள்ளது.",
-    "slug": "after-money20-20-middle-east-the-question-is-what-follows-access"
+    "hasContent": true,
+    "pubDate": "2026-11-19T12:00:42.000Z"
   },
   {
     "id": "5ed56bcd36672acd",
@@ -62,22 +643,16 @@
   },
   {
     "id": "205108525cc35bc4",
+    "slug": "nomupay-joins-aws-isv-accelerate-program",
     "title": "Nomupay Joins AWS ISV Accelerate Program",
-    "summary": "Nomupay, the global fintech that offers a unified end-to-end payments platform through a single integration, announced today that it has joined the Amazon Web Services (AWS) Independent Software Vendor (ISV) Accelerate Program, a co-sell program for AWS Partners that provides software solutions that run on or integrate with AWS. The program helps AWS Partners drive new business by directly connecting participating ISVs with the AWS Sales organization.   \nThe Nomupay platform brings acceptance, payouts, and reporting together via a single platform, providing enterprises with a single integration and contract, rather than a patchwork of providers. The problem that enterprises scaling in APAC and EMEA often face is that every new market brings its own acquirer, integrations, local payment methods, and compliance consideration; and, often, a separate route for paying out partners and suppliers. The result is slower market launches, higher operating overhead, and a compromised checkout experience. \nNomupay enables enterprises to accept payments locally across Europe and Asia, and access global card processing via Visa, Mastercard, UnionPay, and over 200 local payment methods, including Alipay, WeChat Pay, Google Pay, Apple Pay, and Wero. Merchants can also pay out cross-border in 40+ markets across Europe and Asia, with flexible fund flows and treasury management. Nomupay holds local acquiring licences across Europe and APAC, giving merchants direct market access, reducing reliance on third-party networks. \nNomupay uses Amazon Bedrock across its payout operations and merchant onboarding, applying generative AI to payment investigations and compliance review with sensitive data redacted, full audit trails and human approval built in. Nomupay is a PCI DSS Level 1 certified service provider, and uses AWS services including Lambda, EMR, API Gateway, AWS ECS, DynamoDB , Managed Workflows for Apache Airflow, AWS RDS, AWS Kinesis and Bedrock. \nMark Stannard, Chief Business Officer, Nomupay, says, “Every enterprise we speak to wants to grow into new markets without taking on a new payment provider for each one. Working alongside AWS to make Nomupay available in the AWS Marketplace enables enterprises to integrate cross-border payments into their stack as they build their products, rather than bolting it onto their product suite at the end of the build cycle. Nomupay utilises Amazon Bedrock to add generative AI to payment investigations and compliance review, with a human in the loop. We are excited to bring these advanced solutions to merchants via AWS Marketplace\"\nThe AWS ISV Accelerate Program provides Nomupay with co-sell support and benefits to meet customer needs through collaboration with AWS field sellers globally. Co-selling provides better customer outcomes and assures mutual commitment from AWS and its partners.  \nAWS ISV Accelerate Program members are held to the industry’s highest standards and must undergo a comprehensive evaluation to gain acceptance into the program. Nomupay participated in a thorough architectural and security review to ensure the quality and design of our solutions. Proof of customer excellence was also reviewed to validate the successes Nomupay customers have achieved across industry verticals.  \nNoYesCloud19 Nov, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/cloud/nomupay-joins-aws-isv-accelerate-program",
-    "source": "Financial IT",
     "tags": [
       "Nomupay",
       "Amazon Web Services"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-11-19T11:51:27.000Z",
-    "fetchedAt": "2026-11-19T12:01:34.147Z",
-    "isDuplicateOf": null,
-    "content": "Global fintech platform Nomupay has joined the Amazon Web Services ISV Accelerate Program. This collaboration aims to help enterprises scale across Europe and Asia by integrating cross-border payments, payouts, and reporting into a single platform. Nomupay also utilizes AWS services like Amazon Bedrock to support its generative AI-driven payment investigations and compliance reviews.",
-    "content_ta": "குளோபல் ஃபின்டெக் நிறுவனமான Nomupay, Amazon Web Services-ன் ISV Accelerate Program-ல் இணைந்துள்ளது. ஐரோப்பா மற்றும் ஆசியா முழுவதும் நிறுவனங்கள் தங்களின் வர்த்தகத்தை விரிவுபடுத்த உதவிகரமாக, கிராஸ்-பேமெண்ட்டுகள், பேஅவுட்டுகள் மற்றும் அறிக்கையிடல்களை ஒரே தளத்தில் இந்த ஒத்துழைப்பு ஒருங்கிணைக்கிறது. மேலும், தனது ஜெனரேட்டிவ் AI அடிப்படையிலான கட்டண விசாரணைகள் மற்றும் இணக்க ஆய்வுகளுக்கு Nomupay நிறுவனம் Amazon Bedrock போன்ற AWS சேவைகளைப் பயன்படுத்துகிறது.",
-    "slug": "nomupay-joins-aws-isv-accelerate-program"
+    "hasContent": true,
+    "pubDate": "2026-11-19T11:51:27.000Z"
   },
   {
     "id": "669eb04d48635a28",
@@ -95,11 +670,8 @@
   },
   {
     "id": "43cf273895cdca01",
+    "slug": "mastercard-and-ant-international-advance-trusted-agentic-commerce-in-asia-pacific",
     "title": "Mastercard and Ant International Advance Trusted Agentic Commerce in Asia Pacific",
-    "summary": "Mastercard today announced two milestones that advance trusted agentic commerce in Asia Pacific: a live consumer transaction through Antom, Ant International's merchant payment and digitalization platform, demonstrating how AI agents can act on verified consumer instructions; and a completed Mastercard Agent Pay for Machines (AP4M) pilot with Antom in Singapore, demonstrating how businesses can control and authorize purchases made by their AI agents.\nAs agentic commerce moves from experimentation toward real-world adoption, AI agents are increasingly positioned to act and transact on behalf of consumers and businesses. Together, Mastercard and Ant International are helping address a critical requirement for this emerging ecosystem: the ability to verify an agent's identity and authority to act. Whether an agent is shopping for a consumer or purchasing services for a business, there needs to be a reliable way to establish who it represents, what it has permission to do and whether it is acting within those parameters.\nProving what a consumer authorized\nIn the live transaction, an AI agent purchased a cup of coffee based on the consumer's pre-captured intent, with acceptance supported by Antom. The transaction ran on Mastercard Agent Pay with Verifiable Intent, creating a verifiable record of what the consumer had authorized the agent to do.\nMastercard Agent Pay brings together capabilities including network tokenization, authentication and consumer intent to enable secure and trusted agentic payments. As part of this framework, Verifiable Intent is designed as an open, standards-based and protocol-agnostic trust layer that helps merchants and other participants establish trust in agent-initiated transactions by making consumer authorization verifiable.\nExtending the same principle to business payments\nFor businesses, the same challenge takes a different form: how to delegate purchasing authority to an AI agent while maintaining control over what it can buy and how much it can spend. As agents increasingly transact directly with digital services and other machines, payments also need to keep pace with the speed of machine commerce.\n \nIntroduced in June this year, Mastercard Agent Pay for Machines enables businesses to credential their AI agents, define what those agents are authorized to purchase and spend and enforce those limits at the point of payment. Every transaction leaves an auditable record, and merchants can identify which business an agent represents.\nBuilding on Mastercard's recent live demonstration of AP4M at Cloudflare Connect, the completed pilot in Singapore tested the identity, governance and payment controls businesses need to delegate routine purchasing to agents with confidence. Antom enabled the AI agent to successfully use AP4M's credentialing, policy controls and payment authorization capabilities to purchase digital services within parameters set by the business.\n“AI agents are already capable of completing payments. The bigger challenge now is creating the trust for consumers, businesses and merchants to embrace them,” said Joyce Bo, Executive Vice President, Core Payments, Asia Pacific, Mastercard. “Together with Ant International, we’re putting the safeguards needed for agentic commerce into practice across consumer and business payments. By giving people and businesses greater control over what their agents are authorized to do, we can help move agentic commerce from concept to adoption at scale.”\nBuilding trust as agentic commerce scales\nTogether, the two milestones demonstrate how the same fundamental principles of identity, authorization and accountability apply whether an AI agent is acting for a consumer or a business. Antom brings together consumer payment and merchant acceptance capabilities to help put these principles into practice.\n“We’re pleased to work with Mastercard to help merchants succeed in agentic commerce. Our collaboration lets merchants confidently accept purchases from AI agents acting within consumer- or business-approved permissions. That trust creates a foundation for merchants to rethink how they deliver value — from reaching more customers through AI agents to offering services in smaller, flexible units that agents can discover, combine and purchase, opening up new business models. Powered by Ant International's full-stack, AI-native solutions across payments, accounts, FX, treasury and growth operations, we aim to help merchants turn AI capabilities into practical business value — serving customers better, managing operations more efficiently, and preparing for new opportunities as commerce evolves in the agentic era,” said Chunmao Zhu, VP, Technology & Business, Antom.  \nThrough their work together, Mastercard and Ant International are putting these capabilities into practice while helping advance an open, interoperable approach to agentic commerce as adoption grows.\n \n \nNoYesArtificial Intelligence19 Nov, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/artificial-intelligence/mastercard-and-ant-international-advance-trusted-agentic-commerce-asia",
-    "source": "Financial IT",
     "tags": [
       "Mastercard",
       "Ant International",
@@ -107,13 +679,10 @@
       "Asia Pacific",
       "Singapore"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-11-19T11:45:37.000Z",
-    "fetchedAt": "2026-11-19T12:01:34.147Z",
-    "isDuplicateOf": null,
-    "content": "Mastercard and Ant International have advanced trusted agentic commerce in Asia Pacific through two key milestones. A live consumer transaction used Antom and Mastercard Agent Pay with Verifiable Intent to show AI agents can act on verified instructions. Additionally, a completed pilot in Singapore tested Agent Pay for Machines, enabling businesses to control and authorize purchases made by their AI agents.",
-    "content_ta": "Mastercard மற்றும் Ant International நிறுவனங்கள் Asia Pacific பகுதியில் நம்பிக்கையான agentic commerce சேவையை முன்னெடுத்துள்ளன. Antom மற்றும் Mastercard Agent Pay தொழில்நுட்பத்தைப் பயன்படுத்தி நுகர்வோர் மற்றும் வணிக பரிவர்த்தனைகளை AI agents மூலம் வெற்றிகரமாக சோதித்துள்ளனர். Singapore-ல் நடைபெற்ற இந்த சோதனையின் மூலம் AI agents-ன் வாங்குವ அதிகாரத்தை வணிகங்கள் கட்டுப்படுத்த முடியும் என்பது நிரூபிக்கப்பட்டுள்ளது.",
-    "slug": "mastercard-and-ant-international-advance-trusted-agentic-commerce-in-asia-pacific"
+    "hasContent": true,
+    "pubDate": "2026-11-19T11:45:37.000Z"
   },
   {
     "id": "88e03d9ed0605241",
@@ -131,22 +700,16 @@
   },
   {
     "id": "7d7f4f158f040f3e",
+    "slug": "visa-unveils-next-generation-of-subscription-management-solutions-with-visa-recurrent",
     "title": "Visa Unveils Next Generation of Subscription Management Solutions With Visa Recurrent",
-    "summary": "Visa, a world leader in digital payments, today announced Visa Recurrent, a new solution that connects consumers, financial institutions and participating merchants across the recurring payments lifecycle. It enables consumers to view and manage recurring payments through their financial institution’s digital banking experiences, giving them greater visibility and control over recurring payments, at the same time helping financial institutions and merchants deliver more seamless payment experiences.\nVisa also announced that Kiwibank is the first issuer globally to deploy Visa Recurrent through its mobile banking app and internet banking, to help give Kiwibank customers a simpler way to understand and manage recurring payments commitments on a channel they already use and trust.\n\"At Kiwibank, we're always looking for practical ways to make managing money easier,” said Mark Stephen, Chief Customer Officer – Retail at Kiwibank. “We're proud to work with Visa to bring this capability to our Kiwi customers first. It's an exciting milestone and a great example of what can be achieved when organisations work together with a clear focus on customer outcomes.”\nMeet Visa Recurrent: More Control, Less Hassle\nFrom streaming and fitness memberships to software and household bills, recurring payments have become a part of everyday life. Yet managing those commitments can still require navigating multiple websites, apps, and customer-service channels. Through participating financial institutions, Visa Recurrent enables consumers to access a consolidated view of eligible recurring payments and take supported actions directly within their digital banking experience.\nFor participating merchants, Visa Recurrent creates a more connected way to manage customer relationships throughout the recurring payment lifecycle. When consumers take supported actions through their financial institution, merchants may receive timely notifications and use redirects to engage the customer directly.\n“Consumers shouldn’t have to hunt across websites, apps and customer service channels just to understand or manage their subscriptions,” said T.R. Ramachandran, Head of Products and Solutions, Asia Pacific, Visa. “Visa Recurrent helps financial institutions bring that visibility and control into the digital banking experiences consumers already use and trust. This makes recurring payments easier to manage while giving banks another way to strengthen their everyday relationship with customers.”\nBuilt for the Way People Pay Today\nConsumers increasingly expect simple ways to manage recurring payments, while merchants and financial institutions need clearer signals to manage those relationships efficiently. According to Visa research, one in three New Zealand consumers say they've continued paying for a service they no longer use, and 86% want their bank to provide tools that help them manage recurring payments. Visa Recurrent responds to that demand by enabling participating financial institutions to provide a more connected management experience through their existing digital channels.\nNoYesPayments19 Nov, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/payments/visa-unveils-next-generation-subscription-management-solutions-visa-recurrent",
-    "source": "Financial IT",
     "tags": [
       "Visa",
       "Kiwibank"
     ],
+    "source": "Financial IT",
     "origin": "rss",
-    "pubDate": "2026-11-19T11:40:51.000Z",
-    "fetchedAt": "2026-11-19T12:01:34.147Z",
-    "isDuplicateOf": null,
-    "content": "Visa has announced Visa Recurrent, a new solution designed to help consumers view and manage recurring payments and subscriptions directly through their financial institutions' digital banking apps. Kiwibank is the first global issuer to deploy the service for its customers. The platform aims to give users greater visibility and control over their subscription commitments, while helping merchants and banks streamline the recurring payment experience.",
-    "content_ta": "டிஜிட்டல் பேமெண்ட்ஸ் நிறுவனமான Visa, வாடிக்கையாளர்கள் தங்களது ரெக்கரிங் பேமெண்ட்ஸ் மற்றும் சப்ஸ்கிரிப்ஷன்களை எளிதாக நிர்வகிக்க உதவும் Visa Recurrent தீர்வை அறிமுகப்படுத்தியுள்ளது. இதன் மூலம் வாடிக்கையாளர்கள் தங்களது வங்கிச் செயலிகள் மூலமாகவே சப்ஸ்கிரிப்ஷன்களைக் கண்காணிக்க முடியும். இந்த சேவையை உலகளவில் முதலில் வழங்கும் நிறுவனமாக Kiwibank அறிவிக்கப்பட்டுள்ளது.",
-    "slug": "visa-unveils-next-generation-of-subscription-management-solutions-with-visa-recurrent"
+    "hasContent": true,
+    "pubDate": "2026-11-19T11:40:51.000Z"
   },
   {
     "id": "2749fc49731c2dac",
@@ -255,617 +818,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-19T11:10:49.000Z"
-  },
-  {
-    "id": "5e4494bf9d2407c8",
-    "slug": "fourth-circuit-affirms-maryland-s-authority-to-regulate-kalshi-prediction-markets",
-    "title": "Fourth Circuit Affirms Maryland’s Authority to Regulate Kalshi Prediction Markets",
-    "tags": [
-      "Maryland",
-      "Kalshi",
-      "Fourth Circuit",
-      "United States"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T11:10:00.000Z"
-  },
-  {
-    "id": "bbdc88b9e2a1919b",
-    "slug": "should-you-invest-in-anthropic-when-it-goes-public-5-things-investors-need-to-know",
-    "title": "Should You Invest in Anthropic When It Goes Public? 5 Things Investors Need to Know",
-    "tags": [
-      "Anthropic",
-      "Claude"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T11:01:26.000Z"
-  },
-  {
-    "id": "f649c28de061c20b",
-    "slug": "bitcoin-faces-fresh-60-000-threat-as-fed-minutes-reveal-overwhelming-support-for-more-rate-hikes",
-    "title": "Bitcoin faces fresh $60,000 threat as Fed minutes reveal overwhelming support for more rate hikes",
-    "tags": [
-      "Bitcoin",
-      "Federal Reserve",
-      "CryptoSlate"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T11:00:43.000Z"
-  },
-  {
-    "id": "f8e257fdc313cff4",
-    "slug": "1inch-integrates-hyperliquid-s-perpetual-futures-contracts-into-its-dapp-and-wallet-platform",
-    "title": "1inch integrates Hyperliquid’s perpetual futures contracts into its dApp and wallet platform",
-    "tags": [
-      "1inch",
-      "Hyperliquid"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T11:00:00.000Z"
-  },
-  {
-    "id": "73d99ba37e30a03e",
-    "slug": "highly-advanced-quantum-computers-could-crack-financial-encryption-in-five-years",
-    "title": "‘Highly advanced’ quantum computers could crack financial encryption in five years",
-    "tags": [],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-19T10:55:29.000Z"
-  },
-  {
-    "id": "27488bf634c680be",
-    "slug": "coreweave-s-co-founder-just-made-a-30-million-bet-it-isn-t-on-the-stock",
-    "title": "CoreWeave’s Co-Founder Just Made a $30 Million Bet. It Isn’t on the Stock.",
-    "tags": [
-      "CoreWeave",
-      "Brian Venturo"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T10:53:46.000Z"
-  },
-  {
-    "id": "ea90407b225a477b",
-    "title": "Update Settlement Infrastructure for New Games, Build a Multi-Rail Trust Layer, and Close the Accessibility Gap in the AI Economy: Ant International’s Peng Yang at SFF 2026",
-    "summary": "Speaking at the 2026 Singapore FinTech Festival, Ant International’s CEO Peng Yang argued that our settlement infrastructure needs to evolve beyond today’s four-party payments model to assign effectively roles and responsibilities.\nAnt International processed the equivalent of 1.1 trillion USD on its WhaleRTP blockchain settlement network in the last 12 months in collaboration with 23 leading global banks; expected to double in 2027.\nHe also said that agentic economy needs to rest on a stronger multi-rail, multi-modal and multi-asset trust layer, and that good AI solutions design can power a new, more inclusive globalization project by putting the little guys on a level playing field.\n\nAnt International at the Singapore Fintech Festival 2026\nAt the Singapore FinTech Festival, Ant International CEO Peng Yang (YP) joined Swift’s Javier Pérez-Tasso and HSBC’s Surendra Rosha for the panel “From Digital to Intelligent: Who Will Build the Next Financial System?”, moderated by Arjun Vir Singh of Arthur D. Little.\nYP highlighted three critical angles to tackle the future financial system: \nHow should settlement infrastructure evolve in the AI + blockchain era to establish new game rules? \nHow to build cross-rail, cross-modal trust for the agentic economy? \nHow to mainstream inclusion into AI design to close the accessibility gap for SMEs? \n\nPeng Yang (R), CEO of Ant International, speaks at the Singapore Fintech Festival 2026.\nThe Missing Debate: Rewiring settlement infrastructure\nThe four-party payment model — issuer, acquirer, network, regulator — has served as a mature bedrock for traditional economy. However, would we still need the acquirer or the network as we know it when CBDCs, blockchain and web3 currencies go mainstream? \nYang argued the industry should brace for new post-4-party models of accountability and new game rules for a world increasingly dominated by account-to-account transactions as merchants begin to run entire transactions on a rail built on tokenization. \n“The settlement layer, the invisible rail—still matters most. Only at this layer can new rules of the game be defined, so everyone plays on the expanded field with clear responsibilities and new boundaries.” \nWhile pushing the intelligence and application frontiers of AI and blockchain, Ant International felt strongly that its settlement infrastructure needed to evolve, so trust and responsibility can be effectively assigned inside new forms of regulated businesses. \nThe shift is already visible. On WhaleRTP, Ant International’s blockchain platform connecting 23 leading global and regional banks, the company settled the equivalent of USD 1.1 trillion in last 12 months. The processing volume is likely to double in 2027.\nBut the ledger itself is not the challenge. \n“Blockchain is not rocket science,” he said. The hard parts are compliance, the business mechanism, and proving the authenticity of the assets on the rail. To achieve that, banks, fintechs and partners such as Swift need to work together.\nThe trust layer: no one builds it alone in the multi-rail, multi-modal age\nSuch foundational technology and institutional changes require a new trust layer. Yang cited a top priority for agentic commerce: KYA – or Know Your Agent. Financial institutions used to run separate, siloed KYC structures. In the KYA era, monitoring and verification happen around the clock across rails and networks. Ant International’s own KYA interoperability framework with Visa and Mastercard is a timely move in that direction. \n\nAnt International CEO Peng Yang speaks on a panel at Singapore Fintech Festival 2026\nThe encouraging part, Yang said, is how fast collaboration can move. Ant International proposed the bank-to-wallet direct remit idea to Swift; eight months later it was live, moving funds from a Standard Chartered account to a DANA wallet in seven seconds — a pace that is rare across a field of many private-sector partners.\n“We don’t want to do everything ourselves,” Yang said. “Seven years ago nothing existed, so we had to — that’s how Whale was built. Today Swift is building, JP Morgan is building, Citi is building, some countries run fast payment systems, and networks are forming across Southeast Asia.”\nIn the future, Yang believes there will be an open, connected network where AI picks the best route for each merchant — fastest or cheapest. Builders of the intelligence layer like Ant International would need rails to be open and reliable so each player can use them on behalf of its own clients.\nThe accessibility gap: if only big tech captures the AI bonus, “that future is boring”\n“If technology fast-forwards and only the big enterprises and big tech companies capture the AI premium, that future is boring,” Yang said. Technology has to be democratized so that SMEs and the little guys share in the benefit, not only the largest firms.\nGlobalization 1.0, while creating unprecedented wealth and prosperity by bringing productivity gains to large enterprises, has left many small businesses, individuals and communities behind, leading to today’s fragmentation. To move the world forward, our re-globalization project has to ensure broader inclusion of the smallest participants. \nFrom Ant International’s perspective, artificial intelligence – when proactively engineered – will make the task possible. “In our products and solutions design, Ai can narrow the distance between large and small: with agent help, a small enterprise or an individual can compete with the giants.”\nFrom AI breakthroughs to Grassroots Empowerment\nIn an afternoon session, “Driving Financial Inclusion and Shared Prosperity in an Age of Uncertainty”, Yang recalled a trek through northern Iraq on the Abraham’s Path project, where he and his colleagues saw what connectivity and access to technology, information and choice meant for a remote mountain village. He closed with two ambitions.\n“First, payment should be like the internet and email — nobody asks whether an email is domestic or international; the internet killed the concept of a border. Payments still draw a distinct line between local and cross-border. With agentic, with tokenization, with public-private initiatives for interoperability, we should remove those differences — so even the most remote people can enjoy borderless payment, remittance and purchase, online and offline.” YP told fellow panelists, William Ury, Professor at Harvard Law School, Alexandre Chade, Founder & Chairman of Dotz, and Luay Obaidi, and Chief Product Officer, Qi Card.\n“Second, if a small player has a big dream, they should be able to access the financial support they need to thrive — with new wallets and financial institutions empowered by technology, that should become the new normal of our economy.”\nSingapore Fintech Festival 2026 has seen Ant International rolling out partnerships in the spirit of cross-sector and cross-rail collaboration: \nNew developments on trusted agent transactions in agentic commerce with Visa and Mastercard \nPartnership with Singapore's NETS as the first national rail to join Ant International's Agentic Mobile Protocol \nCo-innovation efforts with the Monetary Authority of Singapore as a pioneering partner for its PayNow NQR upgrade with live use cases\nLaunched the Whale Orchestration Protocol that was developed under the Monetary Authority of Singapore’s (MAS) BLOOM initiative for interoperability between tokenised deposits and tokenised money market funds, as a major upgrade to Ant International’s blockchain-based wholesale settlement platform, WhaleRTP\nAlipay+, Ant International’s global wallet gateway that links over 50 global digital wallets and banking apps, is connected to Pix, Brazil's national instant payment system, expanding cross-border digital payment access for international travellers\nNoYesPayments19 Nov, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/payments/update-settlement-infrastructure-new-games-build-multi-rail-trust-layer-and-close",
-    "source": "Financial IT",
-    "tags": [
-      "Ant International",
-      "Peng Yang",
-      "Singapore FinTech Festival",
-      "Swift",
-      "Visa",
-      "Mastercard",
-      "HSBC",
-      "Monetary Authority of Singapore",
-      "Brazil"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-11-19T10:53:12.000Z",
-    "fetchedAt": "2026-11-19T12:01:34.147Z",
-    "isDuplicateOf": null,
-    "content": "Speaking at the Singapore FinTech Festival 2026, Ant International CEO Peng Yang discussed the future of the financial system in the AI and blockchain era. He highlighted the need to evolve settlement infrastructure beyond traditional payment models, build a multi-rail trust layer for the agentic economy, and close the accessibility gap to empower small and medium enterprises through inclusive AI design and new cross-border partnerships.",
-    "content_ta": "Singapore FinTech Festival 2026-ൽ பேசிய Ant International CEO Peng Yang, AI மற்றும் blockchain யுகத்தில் நிதி அமைப்பின் எதிர்காலம் குறித்து விவாதித்தார். பாரம்பரிய கட்டண முறைகளுக்கு அப்பால் தீர்வு உள்கட்டமைப்பை மேம்படுத்துதல், agentic economy-க்கான நம்பிக்கைத் தளத்தை உருவாக்குதல் மற்றும் சிறு வணிகங்களை மேம்படுத்துதல் ஆகியவற்றின் முக்கியத்துவத்தை அவர் வலியுறுத்தினார்.",
-    "slug": "update-settlement-infrastructure-for-new-games-build-a-multi-rail-trust-layer-and-close-the"
-  },
-  {
-    "id": "cab06c8be8a4add9",
-    "slug": "live-updates-bitcoin-nears-64-000-as-anthropic-s-record-ipo-lifts-tech",
-    "title": "Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech",
-    "tags": [
-      "Bitcoin",
-      "Anthropic"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T10:48:26.000Z"
-  },
-  {
-    "id": "a356cbdf40de8ac9",
-    "slug": "saudi-arabia-overtakes-uae-as-india-s-no-2-oil-supplier-russia-retains-lead",
-    "title": "Saudi Arabia overtakes UAE as India’s No. 2 oil supplier; Russia retains lead",
-    "tags": [
-      "Saudi Arabia",
-      "UAE",
-      "India",
-      "Russia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T10:42:40.000Z"
-  },
-  {
-    "id": "3bfe6c363e5be590",
-    "slug": "17-years-ago-satoshi-nakamoto-opens-his-bitcointalk-account-what-happened-next",
-    "title": "17 Years Ago, Satoshi Nakamoto Opens His BitcoinTalk Account: What Happened Next",
-    "tags": [
-      "Satoshi Nakamoto",
-      "Bitcoin",
-      "BitcoinTalk",
-      "Wall Street"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T10:40:00.000Z"
-  },
-  {
-    "id": "b9e0facb55fc5de2",
-    "slug": "ant-international-launches-protocol-for-real-time-settlement-between-tokenized-deposits-and-money",
-    "title": "Ant International launches protocol for real-time settlement between tokenized deposits and money market funds",
-    "tags": [
-      "Ant International"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T10:39:29.000Z"
-  },
-  {
-    "id": "7927008296240646",
-    "slug": "bitcoin-btc-demand-hits-2026-low-as-price-retests-62-000",
-    "title": "Bitcoin (BTC) Demand Hits 2026 Low as Price Retests $62,000",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T10:35:02.000Z"
-  },
-  {
-    "id": "339128722a99bcb5",
-    "title": "Why Stable Back-Office SaaS Will Win in the K-Shaped Recovery, Bidding Wars and Exits in 2027",
-    "summary": "Over the past few years, I’ve heard many conversations and read articles about the so-called “SaaSpocalypse” - and many who don’t have boots on the ground in the advisory space may believe that due to macroeconomic uncertainties, capital has evaporated from software M&A and the value of software companies will never return to what they used to be.\nHowever, when we observe the market ourselves today, it is nothing like that. In fact, we do not see a dead SaaS investment market. Rather, we see an extreme K-shaped recovery. While average software companies experience long and drawn-out processes with little interest, the very best companies are drawing tremendous levels of interest and competitive bidding – in fact, competitive bidding is at or exceeds levels seen during the best days of the software M&A bull market.\nThe valuation gap between these best-in-class software companies and the rest of the market is now between $3 and $4 billion. There is a valuation gap between clear leaders in the market and those that do not. Because of these macroeconomic uncertainties, buyer psychology has changed, resulting in a strict and absolute flight to quality. High-value software businesses, based on solid financial metrics and clear structural protection from automating technology, are obtaining higher double-digit annual recurring revenue multiples. Conversely, all other software businesses are settling for reasonable two- to three-times revenue multiples or have had extreme difficulty in transacting.\nThis dual-track software M&A market is one we have actively navigated. In an environment where software transactions above GBP 200 million face high bars, we witness immense capital interest for top-tier assets. The sale of Origo to iPipeline (Roper Technologies) and BrightAnalytics' majority partnership with PSG Equity highlight key exit options: strategic sales versus sponsor recapitalisations. For founders, a sponsor recapitalisation offers a 'second bite at the apple' by rolling over equity into a growth partnership, though it requires a significant operational shift as founders transition from running an independent company to managing a business with a board-backed growth partner. For those in the top 25% of performers, capital is available, but the bar to reach that level remains at a historical high.\nThe Mechanics of the Modern Bidding War\nThe extreme premium currently being paid for the best-in-class software assets is indicative of the amazing imbalance between buyers’ willingness to buy and sellers’ willingness to sell. Strategic buyers with the most cash available on their balance sheets, combined with the global Private Equity industry’s historical record of having $1.2 trillion of dry powder capital waiting to be deployed, have created a flood of long-term demand for top-tier apps but with much higher levels of buyer risk aversion than ever before. No one wants to make a mistake on these types of deals in this extremely volatile environment, so everyone is increasingly drawn to the same small pool of best-in-class assets. This creates an explosive environment for the transaction process. \nWe have seen instances of this dynamic already during the launch of Origo; the number of bidders who engaged in the bidding process was 2-3 times what we originally expected because of the scarcity factor at work. Buyers competing aggressively for such assets are effectively insulating them from the volatility inherent in the wider market. However, it will take time and resources to fully extract the potential value of winning these bidding wars. The most significant way to maximise your value is through rigorous examination of the technology’s underlying capabilities. \nBuyers are becoming extremely savvy when making technology acquisitions and have learned to see through the smoke-and-mirrors associated with the descriptions of AI roadmaps and a wrapper around a 3rd-party large language model. These same buyers are looking for real technical defensibility, structural moats, and high workflow gravity in any software they are seeking to acquire. The term “high workflow gravity” refers to software positioning itself at the epicentre of a customer’s daily routine/workflows. \nTherefore, any solution a customer uses with high workflow gravity has created such friction for the customer that it would be virtually impossible to remove the product from their environment. Buyers look for proprietary data routing loops, which are incredibly difficult to replicate with automated code, and for embedded middle-tier infrastructure logic within their technologies, which cannot be easily replicated or commoditised using script-based generative AI models.\nThe ultimate reason for Origo receiving a price premium was its role as the digital rails for the UK pensions industry. Implementing a unique piece of technology with the operational efficiency and reproducibility of Origo would take decades to replicate. In addition, the adherence to the anticipated use-case data flow has helped in the creation of long-term stickiness, as demonstrated by BrightAnalytics. Their incredible operational stickiness has been derived from the excessive complexity associated with their sophisticated data integrations and reporting. Establishing the above-mentioned technology narratives, and backing them up with objective operational metrics, is the ultimate method to preserving maximum valuation in the sale of technology businesses.\nThe Blueprint for a 2027 Exit\nContinued improvement in the macroeconomic environment will be reflected in an increased number of exits; however, all of the current regulations and policies will remain the same as they have in the past. The previous growth-at-all-costs mentality is no longer viable. A business that achieves a balanced profile based on the Factor of 40, such as 20% growth in sales and a 20% EBITDA, will achieve a much greater premium than a business that is investing in building up its business and spending large amounts of money on chasing raw growth. Buyers now want stable, predictable businesses that can produce a reliable stream of revenue and earnings at a reasonable rate.\nIf your ultimate goal is to exit your business, you must create your process well in advance and not wait until your process begins to identify the weaknesses within your business.\nAssess Technical Resiliency: Conduct an initial technical assessment to identify two or more concrete examples of your data mass, and conduct an independent engineering due diligence to verify them before you proceed to selling.\nEstablish Core Metrics: Defend your gross and net retention rates (GRR/NRR) and include higher customer switching costs in your product design.\nMake the Most of Advisors: Engage corporate finance advisors six to nine months prior to an official launch date, as this affords you plenty of time to establish a rapport with target buyers, assess interest levels in the marketplace, and craft an effective financial story ahead of a formal sale.\nIt is still possible to achieve premium valuations in the current marketplace; however, institutional investors now require a much higher degree of institutionalisation than ever before in order to invest at this level. While capital exists for these companies, it is essential for the business owner to demonstrate sufficient evidence and support for the position that the business has moved to the right side of the K-Shaped Curve.\nNote: All statistics and market data cited are pulled from GP Bullhound’s internal transaction records and proprietary market analysis.\n#SaaSMatt StampPartnerGP Bullhound19 Nov, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/blog/saas/why-stable-back-office-saas-will-win-k-shaped-recovery-bidding-wars-and-exits-2027",
-    "source": "Financial IT",
-    "tags": [
-      "Origo",
-      "BrightAnalytics",
-      "iPipeline",
-      "Roper Technologies",
-      "PSG Equity",
-      "GP Bullhound"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-11-19T10:33:29.000Z",
-    "fetchedAt": "2026-11-19T12:01:34.147Z",
-    "isDuplicateOf": null,
-    "content": "The software M&A market is experiencing a K-shaped recovery where top-tier companies draw intense competitive bidding, while average firms struggle. Buyers are strictly favoring quality, defensible technology with high workflow gravity over growth-at-all-costs models. To secure premium exits by 2027, founders must focus on balanced metrics like the Rule of 40, technical resiliency, and early preparation with advisors.",
-    "content_ta": "மென்பொருள் M&A சந்தையானது K-வடிவிலான மீட்சியை சந்தித்து வருகிறது, இதில் சிறந்த நிறுவனங்கள் கடுமையான போட்டி ஏலங்களை ஈர்க்கின்றன, அதே நேரத்தில் சராசரி நிறுவனங்கள் சிரமப்படுகின்றன. வாங்குபவர்கள் வளர்ச்சி மட்டுமே என்ற கொள்கையை விட தரமான மற்றும் பாதுகாப்பான தொழில்நுட்பத்திற்கு அதிக முக்கியத்துவம் அளிக்கின்றனர். 2027-க்குள் பிரீமியம் எக்சிட்களை உறுதி செய்ய, நிறுவனர்கள் Rule of 40 போன்ற சமநிலையான அளவீடுகள் மற்றும் முன்கூட்டிய தயாரிப்புகளில் கவனம் செலுத்த வேண்டும்.",
-    "slug": "why-stable-back-office-saas-will-win-in-the-k-shaped-recovery-bidding-wars-and-exits-in-2027"
-  },
-  {
-    "id": "668ac9fa634618a2",
-    "slug": "iosco-warns-quantum-upgrades-could-slow-blockchains-leave-security-gaps",
-    "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
-    "tags": [
-      "IOSCO",
-      "Solana"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T10:32:05.000Z"
-  },
-  {
-    "id": "948e241ec2802d72",
-    "slug": "omenx-announces-2-million-in-funding-from-informed-ventures-and-launches-on-demand-30-second",
-    "title": "OmenX announces $2 million in funding from Informed Ventures and launches on-demand 30-second Bitcoin predictions",
-    "tags": [
-      "OmenX",
-      "Informed Ventures",
-      "Bitcoin",
-      "Base",
-      "Toronto"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T10:29:05.000Z"
-  },
-  {
-    "id": "acaec756cfa4acf9",
-    "slug": "moonshot-ai-reportedly-ends-150-million-deal-for-nvidia-blackwell-chips-in-indonesia",
-    "title": "Moonshot AI reportedly ends $150 million deal for Nvidia Blackwell chips in Indonesia",
-    "tags": [
-      "Moonshot AI",
-      "Nvidia",
-      "Indonesia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T10:25:42.000Z"
-  },
-  {
-    "id": "aa9a28a32059cc91",
-    "slug": "the-ai-dollar-is-here-and-currency-analysts-can-t-agree-on-what-it-means",
-    "title": "The AI dollar is here, and currency analysts can’t agree on what it means",
-    "tags": [
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T10:24:29.000Z"
-  },
-  {
-    "id": "30bd137992818757",
-    "slug": "gta-6-flu-is-here-the-impact-on-crypto-markets",
-    "title": "GTA 6 Flu Is Here: The Impact on Crypto Markets",
-    "tags": [
-      "GTA 6"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T10:23:19.000Z"
-  },
-  {
-    "id": "6c5982abf1c6a98a",
-    "slug": "roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-indicate-low-demand",
-    "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
-    "tags": [
-      "Roundhill",
-      "Solana",
-      "XRP"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T10:22:12.000Z"
-  },
-  {
-    "id": "bb07a451f90caa86",
-    "slug": "enjin-coin-price-prediction-2026-2027-2030-will-enj-price-rise-again",
-    "title": "Enjin Coin Price Prediction 2026, 2027-2030: Will ENJ Price Rise Again?",
-    "tags": [
-      "Enjin"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T10:20:00.000Z"
-  },
-  {
-    "id": "500fccc75b9f7118",
-    "slug": "florida-man-accused-of-32-fraudulent-wire-transfers-worth-more-than-600-000",
-    "title": "Florida Man Accused of 32 Fraudulent Wire Transfers Worth More Than $600,000",
-    "tags": [
-      "Miami",
-      "Donnell Collier Jr.",
-      "CBS12"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T10:15:47.000Z"
-  },
-  {
-    "id": "ffb1660fddfbc931",
-    "slug": "ripple-ceo-says-crypto-could-rally-once-anthropic-s-ipo-is-done",
-    "title": "Ripple CEO Says Crypto Could Rally Once Anthropic’s IPO Is Done",
-    "tags": [
-      "Ripple",
-      "Anthropic"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T10:09:43.000Z"
-  },
-  {
-    "id": "0a75ac1a55b84324",
-    "slug": "dustin-moskovitz-is-uneasy-as-his-early-anthropic-bet-goes-public",
-    "title": "Dustin Moskovitz is uneasy as his early Anthropic bet goes public",
-    "tags": [
-      "Dustin Moskovitz",
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T10:09:03.000Z"
-  },
-  {
-    "id": "09b9909274d008b6",
-    "slug": "hyperliquid-added-to-hong-kong-s-list-of-suspicious-crypto-platforms",
-    "title": "Hyperliquid added to Hong Kong’s list of suspicious crypto platforms",
-    "tags": [
-      "Hong Kong",
-      "Hyperliquid"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T10:04:00.000Z"
-  },
-  {
-    "id": "485f87637e1c402e",
-    "title": "NCR Atleos Expands ATM Services Relationship With Circle K Across More Than 7,000 North American Stores",
-    "summary": "NCR Atleos Corporation, a leader in expanding self-service financial access for financial institutions, retailers and consumers, today announced a long term, multi-country ATM services relationship with Circle K, one of North America’s largest convenience and fuel retailers and a subsidiary of Alimentation Couche-Tard. Atleos was selected to manage all ATM services across more than 7,000 Circle K and Couche-Tard stores in the United States and Canada.\nAtleos will drive, manage and support Circle K’s ATM program through its managed services, network capabilities and established financial institution and fintech relationships. The collaboration reinforces a shared vision to provide consumers with convenient, reliable access to cash and self-service financial services while growing in-store engagement and converting visits into retail purchases. Atleos solutions, including Allpoint, will continue to drive foot traffic by connecting consumers with participating Circle K locations for financial services and convenience retail, saving them time and money.\n“Providing a seamless and consistent customer experience across our North American footprint is a key priority for Circle K,” said Kurt Fraschetti, Vice President of U.S. Merchandising for Circle K. “Atleos brings the scale, reliability and operational expertise needed to support our business today while helping us continue to meet the evolving needs of our customers. We are pleased to expand this relationship and continue delivering convenient financial access for the communities we serve.”\n“Circle K serves millions of consumers across North America, and we are proud to expand our long-standing relationship with one of the world’s leading convenience retailers,” said Stuart Mackinnon, Executive Vice President and Chief Operating Officer for Atleos. “Value and service consistency are increasingly important to consumers in their financial and retail destination choices. Pairing a relentless focus on service execution with foot traffic drivers such as Allpoint continues to power leading merchants like Circle K toward their growth objectives.”\nNoYesPayments19 Nov, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/payments/ncr-atleos-expands-atm-services-relationship-circle-k-across-more-7000-north-american",
-    "source": "Financial IT",
-    "tags": [
-      "NCR Atleos",
-      "Circle K",
-      "Alimentation Couche-Tard",
-      "United States",
-      "Canada"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-11-19T10:03:02.000Z",
-    "fetchedAt": "2026-11-19T12:01:34.147Z",
-    "isDuplicateOf": null,
-    "content": "NCR Atleos has announced an expanded, long-term ATM services relationship with Circle K. Under the agreement, Atleos will manage and support the ATM program across more than 7,000 Circle K and Couche-Tard stores throughout the United States and Canada. The collaboration aims to provide consumers with reliable access to cash and self-service financial services while driving in-store customer engagement.",
-    "content_ta": "NCR Atleos மற்றும் Circle K நிறுவனங்கள் தமது ATM சேவைகள் தொடர்பான நீண்ட கால ஒப்பந்தத்தை விரிவுபடுத்தியுள்ளன. இந்த ஒப்பந்தத்தின்படி, அமெரிக்கா மற்றும் கனடாவில் உள்ள 7,000-க்கும் மேற்பட்ட Circle K மற்றும் Couche-Tard கடைகளில் ATM சேவைகளை Atleos நிறுவனம் நிர்வகிக்கும். வாடிக்கையாளர்களுக்கு நம்பகமான பணப்பரிமாற்றம் மற்றும் சுயசேவை நிதிச் சேவைகளை வழங்குவதை இக்கூட்டாண்மை நோக்கமாகக் கொண்டுள்ளது.",
-    "slug": "ncr-atleos-expands-atm-services-relationship-with-circle-k-across-more-than-7-000-north-american"
-  },
-  {
-    "id": "c1bd7ccb3d7b95dd",
-    "slug": "strategy-may-be-forced-to-sell-bitcoin-to-defend-strc-schiff",
-    "title": "Strategy May Be Forced to Sell Bitcoin to Defend $STRC: Schiff",
-    "tags": [
-      "Strategy",
-      "Bitcoin",
-      "Peter Schiff"
-    ],
-    "source": "ZyCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T09:59:36.000Z"
-  },
-  {
-    "id": "e21cff84e3d66b66",
-    "slug": "ponke-price-prediction-2026-2027-2030-will-ponke-price-hit-10",
-    "title": "PONKE Price Prediction 2026, 2027-2030: Will PONKE Price Hit $10?",
-    "tags": [
-      "PONKE",
-      "Solana"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T09:55:00.000Z"
-  },
-  {
-    "id": "c6ee035cb0e0dc1e",
-    "title": "The Future of Agentic Banking: AI, Innovation & Digital Transformation | Cornel Dixon, Plumery",
-    "summary": "https://www.youtube.com/embed/jpn7AslEUGYThursday, November 19, 2026 - 10:00Yes",
-    "hasSummary": true,
-    "link": "https://financialit.net/content/future-agentic-banking-ai-innovation-digital-transformation-cornel-dixon-plumery",
-    "source": "Financial IT",
-    "tags": [
-      "Plumery",
-      "Cornel Dixon"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-11-19T09:49:32.000Z",
-    "fetchedAt": "2026-11-19T12:01:34.147Z",
-    "isDuplicateOf": null,
-    "content": "The Future of Agentic Banking discussion focuses on the integration of artificial intelligence, ongoing innovation, and digital transformation within the financial sector. Featuring insights from Cornel Dixon of Plumery, the session explores how modern technological advancements are reshaping banking operations and customer experiences through automated agentic systems.",
-    "content_ta": "Agentic Banking இன் எதிர்காலம் குறித்த விவாதம், நிதித்துறையில் செயற்கை நுண்ணறிவு, புதுமை மற்றும் டிஜிட்டல் மாற்றத்தை ஒருங்கிணைப்பதில் கவனம் செலுத்துகிறது. Plumery நிறுவனத்தைச் சேர்ந்த Cornel Dixon வழங்கும் நுண்ணறிவுகளுடன், நவீன தொழில்நுட்ப முன்னேற்றங்கள் வங்கி நடவடிக்கைகளையும் வாடிக்கையாளர் அனுபவங்களையும் எவ்வாறு மாற்றியமைக்கின்றன என்பதை இக்கூட்டம் ஆராய்கிறது.",
-    "slug": "the-future-of-agentic-banking-ai-innovation-digital-transformation-cornel-dixon-plumery"
-  },
-  {
-    "id": "a5476df69f911c3e",
-    "slug": "bitcoin-s-current-drawdown-ahead-of-anthropic-ipo-mirrors-spacex-listing-why-a-90k-rebound-could-be",
-    "title": "Bitcoin’s Current Drawdown Ahead of Anthropic IPO Mirrors SpaceX Listing — Why a $90K Rebound Could Be Coming by February",
-    "tags": [
-      "Bitcoin",
-      "SpaceX",
-      "Anthropic"
-    ],
-    "source": "ZyCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T09:44:52.000Z"
-  },
-  {
-    "id": "a919f41b5a6cdd53",
-    "slug": "coinshares-unloads-19-3m-in-eth-and-sol-yet-keeps-crypto-risk",
-    "title": "CoinShares unloads $19.3M in ETH and SOL, yet keeps crypto risk",
-    "tags": [
-      "CoinShares",
-      "ETH",
-      "SOL"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T09:40:29.000Z"
-  },
-  {
-    "id": "338e78213123452b",
-    "slug": "japan-pm-takaichi-receives-cool-reception-at-apec-no-talks-with-xi-jinping",
-    "title": "Japan PM Takaichi receives cool reception at APEC, no talks with Xi Jinping",
-    "tags": [
-      "Japan",
-      "China",
-      "APEC",
-      "Takaichi",
-      "Xi Jinping"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T09:32:18.000Z"
-  },
-  {
-    "id": "34c2a1476dcecf3b",
-    "slug": "fomc-minutes-resurface-rate-hike-fears-dragging-bitcoin-price-to-62-500-is-58-000-next",
-    "title": "FOMC Minutes Resurface Rate Hike Fears, Dragging Bitcoin Price to $62,500 – Is $58,000 Next?",
-    "tags": [
-      "Bitcoin",
-      "FOMC"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T09:27:51.000Z"
-  },
-  {
-    "id": "f90981263123f388",
-    "slug": "how-much-is-a-variational-airdrop-point-worth-after-the-1-5-billion-raise",
-    "title": "How Much Is a Variational Airdrop Point Worth After the $1.5 Billion Raise?",
-    "tags": [
-      "Variational",
-      "Omni",
-      "VAR"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T09:24:49.000Z"
-  },
-  {
-    "id": "ce181565bae2b641",
-    "slug": "online-casino-rankings-2026-how-automatenspielex-evaluates-canadian-casinos",
-    "title": "Online Casino Rankings 2026: How AutomatenSpieleX Evaluates Canadian Casinos",
-    "tags": [
-      "Canada",
-      "AutomatenSpieleX"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T09:05:15.000Z"
-  },
-  {
-    "id": "93fc98a1288372ab",
-    "slug": "singapore-settles-77-5m-tokenized-bill-sale-with-wholesale-cbdc",
-    "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
-    "tags": [
-      "Singapore",
-      "Monetary Authority of Singapore"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T08:54:58.000Z"
-  },
-  {
-    "id": "0eb7cd639841e554",
-    "slug": "solana-tokenized-stock-hits-1-2b-as-wall-street-moves-equities-onchain",
-    "title": "Solana Tokenized Stock Hits $1.2B as Wall Street Moves Equities Onchain",
-    "tags": [
-      "Solana",
-      "Ondo",
-      "xStocks"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T08:40:29.000Z"
-  },
-  {
-    "id": "562eb2e8852dcb9f",
-    "slug": "bitcoin-staking-could-be-replaced-by-a-new-lending-model-here-s-what-it-means-for-btc",
-    "title": "Bitcoin Staking Could Be Replaced By A New Lending Model — Here’s What It Means For BTC",
-    "tags": [
-      "Bitcoin",
-      "Babylon",
-      "Fisher"
-    ],
-    "source": "Bitcoinist",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T08:21:39.000Z"
-  },
-  {
-    "id": "6cfa913acf51a142",
-    "slug": "my-wallet-introduces-1-1-cross-chain-stablecoin-swaps-after-being-listed-first-on-walletconnect",
-    "title": "My Wallet Introduces 1:1 Cross-Chain Stablecoin Swaps After Being Listed First on WalletConnect",
-    "tags": [
-      "My Wallet",
-      "WalletConnect",
-      "Dubai",
-      "United Arab Emirates"
-    ],
-    "source": "The Daily Hodl",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T08:04:54.000Z"
-  },
-  {
-    "id": "14d87267a93283e2",
-    "slug": "btcpay-server-issues-emergency-update-for-5-security-flaws",
-    "title": "BTCPay Server issues emergency update for 5 security flaws",
-    "tags": [
-      "BTCPay Server"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T08:04:37.000Z"
-  },
-  {
-    "id": "42ccc1caa57aae85",
-    "slug": "live-bitcoin-price-gold-and-oil-fall-should-the-us-repeat-its-2-2t-2020-rescue",
-    "title": "LIVE – Bitcoin Price, Gold and Oil Fall: Should the US Repeat Its $2.2T 2020 Rescue?",
-    "tags": [
-      "Bitcoin",
-      "United States"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T07:59:40.000Z"
-  },
-  {
-    "id": "879abdcbe33ded6c",
-    "slug": "bitcoin-retests-62k-as-nasdaq-futures-rise-ahead-of-anthropic-debut",
-    "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
-    "tags": [
-      "Bitcoin",
-      "Nasdaq",
-      "Anthropic"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T07:55:56.000Z"
-  },
-  {
-    "id": "ca96ff86929aec43",
-    "slug": "from-bitcoin-to-ai-a-1-2-billion-bet-that-could-backfire",
-    "title": "From Bitcoin to AI: A $1.2 Billion Bet That Could Backfire",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T07:53:16.000Z"
-  },
-  {
-    "id": "44a932921f3fda83",
-    "slug": "xrp-flashes-biggest-volatility-warning-among-major-cryptocurrencies",
-    "title": "XRP Flashes Biggest Volatility Warning Among Major Cryptocurrencies",
-    "tags": [
-      "XRP",
-      "Coinbase"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-19T07:50:53.000Z"
   }
 ]
