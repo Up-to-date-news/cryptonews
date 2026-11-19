@@ -1,131 +1,364 @@
 [
   {
-    "id": "8509805e7947de7a",
-    "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
-    "summary": "Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026.",
-    "hasSummary": true,
-    "link": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "93fc98a1288372ab",
+    "slug": "singapore-settles-77-5m-tokenized-bill-sale-with-wholesale-cbdc",
+    "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
+    "tags": [
+      "Singapore",
+      "Monetary Authority of Singapore"
+    ],
     "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T08:54:58.000Z"
+  },
+  {
+    "id": "0eb7cd639841e554",
+    "slug": "solana-tokenized-stock-hits-1-2b-as-wall-street-moves-equities-onchain",
+    "title": "Solana Tokenized Stock Hits $1.2B as Wall Street Moves Equities Onchain",
+    "tags": [
+      "Solana",
+      "Ondo",
+      "xStocks"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T08:40:29.000Z"
+  },
+  {
+    "id": "562eb2e8852dcb9f",
+    "slug": "bitcoin-staking-could-be-replaced-by-a-new-lending-model-here-s-what-it-means-for-btc",
+    "title": "Bitcoin Staking Could Be Replaced By A New Lending Model — Here’s What It Means For BTC",
+    "tags": [
+      "Bitcoin",
+      "Babylon",
+      "Fisher"
+    ],
+    "source": "Bitcoinist",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T08:21:39.000Z"
+  },
+  {
+    "id": "6cfa913acf51a142",
+    "title": "My Wallet Introduces 1:1 Cross-Chain Stablecoin Swaps After Being Listed First on WalletConnect",
+    "summary": "Dubai, United Arab Emirates, 19th November 2026, Chainwire\nThe post My Wallet Introduces 1:1 Cross-Chain Stablecoin Swaps After Being Listed First on WalletConnect appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/11/19/my-wallet-introduces-11-cross-chain-stablecoin-swaps-after-being-listed-first-on-walletconnect/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "My Wallet",
+      "WalletConnect",
+      "Dubai",
+      "United Arab Emirates"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-19T08:04:54.000Z",
+    "fetchedAt": "2026-11-19T09:01:43.899Z",
+    "isDuplicateOf": null,
+    "content": "My Wallet has introduced 1:1 cross-chain stablecoin swaps following its initial listing on WalletConnect. The announcement was shared by Chainwire from Dubai, United Arab Emirates, marking a significant development for the platform as it expands its features for digital asset users and enhances interoperability across different blockchain networks.",
+    "content_ta": "WalletConnect-ல் முதன்முதலில் பட்டியலிடப்பட்டதைத் தொடர்ந்து, My Wallet நிறுவனம் 1:1 கிராஸ்-சையின் ஸ்டேபிள்காயின் ஸ்வாப் வசதியை அறிமுகப்படுத்தியுள்ளது. ஐக்கிய அரபு அமீரகத்தின் துபாயில் இருந்து Chainwire மூலம் இந்த அறிவிப்பு வெளியிடப்பட்டுள்ளது, இது டிஜிட்டல் சொத்து பயனர்களுக்கான அம்சங்களை விரிவுபடுத்துவதிலும் பிளாக்செயின் நெட்வொர்க்குகளுக்கு இடையேயான இணைப்பை மேம்படுத்துவதிலும் ஒரு முக்கியமான மைல்கல்லாகும்.",
+    "slug": "my-wallet-introduces-1-1-cross-chain-stablecoin-swaps-after-being-listed-first-on-walletconnect"
+  },
+  {
+    "id": "14d87267a93283e2",
+    "slug": "btcpay-server-issues-emergency-update-for-5-security-flaws",
+    "title": "BTCPay Server issues emergency update for 5 security flaws",
+    "tags": [
+      "BTCPay Server"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T08:04:37.000Z"
+  },
+  {
+    "id": "42ccc1caa57aae85",
+    "slug": "live-bitcoin-price-gold-and-oil-fall-should-the-us-repeat-its-2-2t-2020-rescue",
+    "title": "LIVE – Bitcoin Price, Gold and Oil Fall: Should the US Repeat Its $2.2T 2020 Rescue?",
+    "tags": [
+      "Bitcoin",
+      "United States"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T07:59:40.000Z"
+  },
+  {
+    "id": "879abdcbe33ded6c",
+    "slug": "bitcoin-retests-62k-as-nasdaq-futures-rise-ahead-of-anthropic-debut",
+    "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
+    "tags": [
+      "Bitcoin",
+      "Nasdaq",
+      "Anthropic"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T07:55:56.000Z"
+  },
+  {
+    "id": "ca96ff86929aec43",
+    "slug": "from-bitcoin-to-ai-a-1-2-billion-bet-that-could-backfire",
+    "title": "From Bitcoin to AI: A $1.2 Billion Bet That Could Backfire",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T07:53:16.000Z"
+  },
+  {
+    "id": "44a932921f3fda83",
+    "title": "XRP Flashes Biggest Volatility Warning Among Major Cryptocurrencies",
+    "summary": "XRP has flashed the biggest volatility warning among major cryptocurrencies, with Coinbase data showing that options traders are pricing in a seven-day price swing nearly twice as large as its historical median.",
+    "hasSummary": true,
+    "link": "https://u.today/xrp-flashes-biggest-volatility-warning-among-major-cryptocurrencies",
+    "source": "U.Today",
+    "tags": [
+      "XRP",
+      "Coinbase"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-19T07:50:53.000Z",
+    "fetchedAt": "2026-11-19T09:01:43.899Z",
+    "isDuplicateOf": null,
+    "content": "XRP has triggered the largest volatility warning among major cryptocurrencies. According to Coinbase data, options traders are currently pricing in a seven-day price swing that is nearly twice as large as the asset's historical median, highlighting heightened uncertainty and potential for significant market movement in the near term.",
+    "content_ta": "പ്രധാന cryptocurrencies-ல் XRP மிகப்பெரிய volatility எச்சரிக்கையைத் தூண்டியுள்ளது. Coinbase தரவுகளின்படி, options வர்த்தகர்கள் ஏழு நாள் விலை மாற்றத்தை அதன் வரலாற்று சராசரியை விட கிட்டத்தட்ட இரு மடங்கு அதிகமாக மதிப்பிடுகின்றனர், இது சந்தையில் அதிகப்படியான நிச்சயதார்த்தத்தைக் காட்டுகிறது.",
+    "slug": "xrp-flashes-biggest-volatility-warning-among-major-cryptocurrencies"
+  },
+  {
+    "id": "d77c3ac0f4b6908f",
+    "title": "Why Is Alibaba Stock Crashing Before Earnings?",
+    "summary": "Alibaba stock has lost 16.9% in five sessions, closing Wednesday at $84.37, its lowest finish since January 2025. A new U.S. chip rule, heavy AI spending, and a fading buyback are hitting the shares hours before earnings. Yet the cloud business is growing 45% a year. Shareholders are paying for that growth in cash, and\nThe post Why Is Alibaba Stock Crashing Before Earnings? appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/why-is-alibaba-stock-crashing/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Alibaba",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-19T07:37:37.000Z",
+    "fetchedAt": "2026-11-19T09:01:43.899Z",
+    "isDuplicateOf": null,
+    "content": "Alibaba stock fell sharply, losing nearly 17 percent over five sessions to reach its lowest finish since January 2025. The decline comes hours before the company's earnings report, driven by a new U.S. chip rule, heavy spending on artificial intelligence, and a slowing buyback program. Despite these pressures and significant cash costs for shareholders, the cloud business continues to show strong annual growth.",
+    "content_ta": "Alibaba பங்குகள் கடுமையாகச் சரிந்து, ஐந்து அமர்வுகளில் கிட்டத்தட்ட 17 சதவீதம் வீழ்ச்சியடைந்து 2025 ஜனவரிக்குப் பிறகு மிகக் குறைந்த மதிப்பை எட்டியுள்ளன. புதிய U.S. சிப் விதி, அதிகப்படியான செயற்கை நுண்ணறிவு செலவினங்கள் மற்றும் மந்தமான பங்கு வாங்குதல் போன்ற காரணங்களால், நிறுவனத்தின் வருவாய் அறிக்கை வெளியாகும் சில மணி நேரங்களுக்கு முன்பு இந்தச் சரிவு ஏற்பட்டுள்ளது. இந்த அழுத்தங்கள் இருந்தபோதிலும், கிளவுட் வணிகம் தொடர்ந்து வலுவான வருடாந்திர வளர்ச்சியைக் காட்டி வருகிறது.",
+    "slug": "why-is-alibaba-stock-crashing-before-earnings"
+  },
+  {
+    "id": "5491388136b496bb",
+    "slug": "aave-app-taps-91b-tron-liquidity-as-it-opens-android-early-access",
+    "title": "Aave App taps $91B Tron liquidity as it opens Android early access",
+    "tags": [
+      "Aave",
+      "Tron",
+      "Arbitrum",
+      "Android"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T07:30:59.000Z"
+  },
+  {
+    "id": "db4f69160c8b0bb6",
+    "title": "EPAA Maps Tokenised Money Rules Across 13 APAC Markets",
+    "summary": "EPAA launches the Tokenised Money Regulatory Heat Map at SFF 2026, tracking stablecoin and tokenised deposit rules across 13 Asia-Pacific markets.\nThe post EPAA Maps Tokenised Money Rules Across 13 APAC Markets appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/epaa-maps-tokenised-money-rules-across-13-apac-markets/",
+    "source": "The Fintech Times",
+    "tags": [
+      "EPAA",
+      "Asia-Pacific"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-19T07:00:46.000Z",
+    "fetchedAt": "2026-11-19T09:01:43.899Z",
+    "isDuplicateOf": null,
+    "content": "The EPAA has launched its Tokenised Money Regulatory Heat Map at the SFF 2026 event. This comprehensive tool tracks stablecoin and tokenised deposit rules across 13 key markets in the Asia-Pacific region, providing valuable regulatory clarity for industry participants.",
+    "content_ta": "SFF 2026 நிகழ்வில் EPAA நிறுவனம் Tokenised Money Regulatory Heat Map-ஐ அறிமுகப்படுத்தியுள்ளது. இந்த புதிய கருவி ஆசியா-பசிபிக் பிராந்தியத்தில் உள்ள 13 முக்கிய சந்தைகளில் stablecoin மற்றும் tokenised deposit விதிகளைக் கண்காணிக்க உதவுகிறது.",
+    "slug": "epaa-maps-tokenised-money-rules-across-13-apac-markets"
+  },
+  {
+    "id": "dd04864f767f6f98",
+    "title": "Asian Markets Split After Nvidia Rally: Nikkei and KOSPI Rise, Hang Seng Falls",
+    "summary": "The post Asian Markets Split After Nvidia Rally: Nikkei and KOSPI Rise, Hang Seng Falls appeared first on Coinpedia Fintech News\nNvidia’s record earnings gave Asia’s chip stocks another boost, but the rally did not reach every market. Japan’s Nikkei and South Korea’s KOSPI index posted strong gains today.  In contrast, Hong Kong’s Hang Seng index fell nearly 2% to hit a four-month low, as China tech stocks faced pressure from U.S. chip restrictions. Japan (Nikkei) …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/news/asian-markets-split-after-nvidia-rally-nikkei-and-kospi-rise-hang-seng-falls/",
+    "source": "Coinpedia",
+    "tags": [
+      "Nvidia",
+      "Japan",
+      "South Korea",
+      "Hong Kong",
+      "China",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-19T06:23:27.000Z",
+    "fetchedAt": "2026-11-19T09:01:43.899Z",
+    "isDuplicateOf": null,
+    "content": "Asian markets showed mixed results following Nvidia's record earnings report. While Japan's Nikkei and South Korea's KOSPI indices posted strong gains driven by a boost in chip stocks, Hong Kong's Hang Seng index dropped nearly two percent to reach a four-month low. This decline was largely attributed to ongoing pressure on Chinese technology stocks resulting from chip restrictions imposed by the United States.",
+    "content_ta": "Nvidia நிறுவனத்தின் சாதனை வருவாய் அறிக்கையைத் தொடர்ந்து ஆசிய சந்தைகள் கலவையான முடிவுகளைக் காட்டின. சிப் பங்குகளின் எழுச்சியால் ஜப்பானின் Nikkei மற்றும் தென் கொரியாவின் KOSPI குறியீடுகள் வலுவான லாபத்தைப் பதிவு செய்தன, அதே நேரத்தில் ஹொங்கங்கின் Hang Seng குறியீடு கிட்டத்தட்ட இரண்டு சதவீதம் சரிந்து நான்கு மாதக் குறைந்தளவை எட்டியது. சீன தொழில்நுட்ப பங்குகள் அமெரிக்காவின் சிப் கட்டுப்பாடுகள் காரணமாக அழுத்தத்தை எதிர்கொண்டதே இந்த சரித்திற்குக் முக்கிய காரணமாகும்.",
+    "slug": "asian-markets-split-after-nvidia-rally-nikkei-and-kospi-rise-hang-seng-falls"
+  },
+  {
+    "id": "7bc910a996602e2a",
+    "slug": "fed-s-rate-hike-push-may-be-a-mistake-here-s-why",
+    "title": "Fed's rate hike push may be a mistake. Here's why",
+    "tags": [
+      "Federal Reserve",
+      "United States"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T06:23:19.000Z"
+  },
+  {
+    "id": "c337fc71d630479e",
+    "title": "Can AI Hack Smart Contracts? How AI Agents Are Changing Blockchain Security",
+    "summary": "AI agents can already find and exploit smart contract vulnerabilities in tests, so DeFi teams need stronger defenses.",
+    "hasSummary": true,
+    "link": "https://u.today/guides/can-ai-hack-smart-contracts-how-ai-agents-are-changing-blockchain-security",
+    "source": "U.Today",
+    "tags": [
+      "AI",
+      "Blockchain",
+      "DeFi"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-19T06:23:00.000Z",
+    "fetchedAt": "2026-11-19T09:01:43.899Z",
+    "isDuplicateOf": null,
+    "content": "Artificial intelligence agents are increasingly capable of identifying and exploiting smart contract vulnerabilities in testing environments. This technological shift poses new challenges for decentralized finance security. As automated attacks become more sophisticated, DeFi development teams must adopt stronger and more advanced defensive strategies to protect blockchain networks and user assets from potential exploits.",
+    "content_ta": "செயற்கை நுண்ணறிவு முகவர்கள் சோதனை சூழல்களில் ஸ்மார்ட் ஒப்பந்த பலவீனங்களைக் கண்டறிந்து பயன்படுத்துவதில் அதிகளவில் திறன்பட்டு வருகின்றனர். இந்த தொழில்நுட்ப மாற்றம் டெசென்ட்ரலைஸ்டு ஃபைனான்ஸ் பாதுகாப்பிற்கு புதிய சவால்களை ஏற்படுத்துகிறது. தானியங்கு தாக்குதல்கள் மிகவும் சிக்கலானதாக மாறுவதால், பிளாக்செயின் நெட்வொர்க்குகளையும் பயனர் சொத்துகளையும் பாதுகாக்க DeFi மேம்பாட்டுக் குழுக்கள் வலுவான மற்றும் மேம்பட்ட தற்காப்பு உத்திகளைப் பின்பற்ற வேண்டும்.",
+    "slug": "can-ai-hack-smart-contracts-how-ai-agents-are-changing-blockchain-security"
+  },
+  {
+    "id": "3182195357244a28",
+    "title": "Anthropic options set to begin on Nasdaq Monday amid strong demand expectations",
+    "summary": "Anthropic's options debut on Nasdaq signals robust investor confidence, potentially boosting AI sector investments and market valuations.\nThe post Anthropic options set to begin on Nasdaq Monday amid strong demand expectations appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/anthropic-options-set-to-begin-on-nasdaq-monday-amid-strong-demand-expectations/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Anthropic",
+      "Nasdaq"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-19T06:17:30.000Z",
+    "fetchedAt": "2026-11-19T09:01:43.899Z",
+    "isDuplicateOf": null,
+    "content": "Anthropic options are scheduled to begin trading on Nasdaq on Monday, driven by strong expectations of market demand. This debut highlights robust investor confidence in the company and could potentially boost broader investments and valuations within the artificial intelligence sector.",
+    "content_ta": "Anthropic-ன் ஆப்ஷன்கள் திங்கட்கிழமை Nasdaq-ல் வர்த்தகத்தைத் தொடங்க திட்டமிடப்பட்டுள்ளன. சந்தையில் நிலவும் வலுவான தேவையின் எதிர்பார்ப்புகளால் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது. இந்த அறிமுகம் நிறுவனத்தின் மீது முதலீட்டாளர்களின் வலுவான நம்பிக்கையை வெளிப்படுத்துவதோடு, AI துறையில் முதலீடுகளையும் மதிப்பீடுகளையும் அதிகரிக்கக்கூடும்.",
+    "slug": "anthropic-options-set-to-begin-on-nasdaq-monday-amid-strong-demand-expectations"
+  },
+  {
+    "id": "da21b4dd99ec45b4",
+    "slug": "invesco-moves-stablecoin-reserves-on-chain-but-hides-a-liquidity-gap",
+    "title": "Invesco moves stablecoin reserves on-chain, but hides a liquidity gap",
+    "tags": [
+      "Invesco",
+      "Superstate",
+      "USDC"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-19T06:10:14.000Z"
+  },
+  {
+    "id": "8509805e7947de7a",
+    "slug": "bitcoin-carry-trades-could-beat-treasury-bills-in-2027-sygnum-predicts",
+    "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
     "tags": [
       "Sygnum",
       "Bitcoin"
     ],
+    "source": "Cointelegraph",
     "origin": "rss",
-    "pubDate": "2026-11-19T06:00:00.000Z",
-    "fetchedAt": "2026-11-19T06:01:34.725Z",
-    "isDuplicateOf": null,
-    "content": "Sygnum predicts that Bitcoin carry trades could outperform traditional Treasury bills by the year 2027. This outlook follows a recent sharp drop in funding rates, which temporarily made the strategy less compelling throughout 2026. Analysts anticipate market conditions to shift favorably for investors pursuing these specific yield strategies in the coming years.",
-    "content_ta": "2027-ஆம் ஆண்டில் Treasury bills-ஐ விட Bitcoin carry trades சிறந்த லாபத்தை தரக்கூடும் என்று Sygnum கணித்துள்ளது. funding rates-ல் ஏற்பட்ட திடீர் வீழ்ச்சியால் 2026-ஆம் ஆண்டில் இந்த வியூகம் குறைவாகவே ஈர்த்த நிலையில், இந்த புதிய கணிப்பு வெளியாகியுள்ளது. வரும் ஆண்டுகளில் முதலீட்டாளர்களுக்கு சந்தை சூழ்நிலை சாதகமாக மாறக்கூடும் என்று எதிர்பார்க்கப்படுகிறது.",
-    "slug": "bitcoin-carry-trades-could-beat-treasury-bills-in-2027-sygnum-predicts"
+    "hasContent": true,
+    "pubDate": "2026-11-19T06:00:00.000Z"
   },
   {
     "id": "b0d39f27368f60e0",
+    "slug": "cz-sounds-alarm-as-japan-orders-crackdown-on-id-data-storage",
     "title": "CZ Sounds Alarm as Japan Orders Crackdown on ID Data Storage",
-    "summary": "Binance founder Changpeng Zhao (CZ) has raised concerns about the storage of sensitive personal information after a massive data breach at Japan’s Times Car exposed millions of customer accounts and compromised over 1.4 million ID images.",
-    "hasSummary": true,
-    "link": "https://u.today/cz-sounds-alarm-as-japan-orders-crackdown-on-id-data-storage",
-    "source": "U.Today",
     "tags": [],
+    "source": "U.Today",
     "origin": "rss",
-    "pubDate": "2026-11-19T05:48:33.000Z",
-    "fetchedAt": "2026-11-19T06:01:34.725Z",
-    "isDuplicateOf": null,
-    "content": null,
-    "slug": "cz-sounds-alarm-as-japan-orders-crackdown-on-id-data-storage"
+    "hasContent": false,
+    "pubDate": "2026-11-19T05:48:33.000Z"
   },
   {
     "id": "3d07d8a01ce344b0",
+    "slug": "ripple-ceo-utility-driven-crypto-assets-to-outperform-speculative-tokens",
     "title": "Ripple CEO: Utility-driven crypto assets to outperform speculative tokens",
-    "summary": "The focus on utility-driven crypto assets may shift market dynamics, favoring sustainable growth and regulatory clarity over speculative hype.\nThe post Ripple CEO: Utility-driven crypto assets to outperform speculative tokens appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/ripple-ceo-utility-driven-crypto-assets-to-outperform-speculative-tokens/",
-    "source": "CryptoBriefing",
     "tags": [
       "Ripple"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-19T05:41:49.000Z",
-    "fetchedAt": "2026-11-19T06:01:34.725Z",
-    "isDuplicateOf": null,
-    "content": "The CEO of Ripple has stated that utility-driven cryptographic assets are expected to outperform purely speculative tokens in the market. This shift in focus highlights a growing emphasis on sustainable growth, practical real-world applications, and regulatory clarity within the digital asset industry, moving away from short-term speculative hype.",
-    "content_ta": "Ripple CEO கூறுகையில், utility-driven கிரிப்டோ சொத்துக்கள் சந்தையில் speculative டோக்கன்களை விட சிறப்பாக செயல்படும் என்று எதிர்பார்க்கப்படுகிறது. இந்த மாற்றம் குறுகிய கால ஊக வம்புகளைத் தாண்டி, நிலையான வளர்ச்சி மற்றும் ஒழுங்குமுறை தெளிவுக்கு முக்கியத்துவம் அளிப்பதைக் காட்டுகிறது.",
-    "slug": "ripple-ceo-utility-driven-crypto-assets-to-outperform-speculative-tokens"
+    "hasContent": true,
+    "pubDate": "2026-11-19T05:41:49.000Z"
   },
   {
     "id": "e2cff7a969cf4219",
+    "slug": "ethereum-block-builders-received-the-most-in-a-3-4-million-vault-hack-data-shows",
     "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
-    "summary": "An automated trading bot copied the attack on K3 Capital's sBOLD vault, taking more than half the funds and paying most of its proceeds to get its transactions processed first.",
-    "hasSummary": true,
-    "link": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
-    "source": "CoinDesk",
     "tags": [
       "Ethereum",
       "K3 Capital"
     ],
+    "source": "CoinDesk",
     "origin": "rss",
-    "pubDate": "2026-11-19T05:39:06.000Z",
-    "fetchedAt": "2026-11-19T06:01:34.725Z",
-    "isDuplicateOf": null,
-    "content": "Ethereum block builders received the majority of funds from a recent $3.4 million vault hack. An automated trading bot copied the exploit targeting K3 Capital's sBOLD vault, capturing over half of the stolen funds. The bot paid massive priority fees to ensure its attacking transactions were processed first, leaving builders with the largest share of the proceeds.",
-    "content_ta": "சமீபத்தில் நடந்த 3.4 மில்லியன் அமெரிக்க டாலர் மதிப்பிலான vault ஹேக்கில், பெரும்பகுதி தொகை Ethereum block builders-களுக்குச் சென்றுள்ளதாக தரவுகள் காட்டுகின்றன. K3 Capital நிறுவனத்தின் sBOLD vault-ஐ குறிவைத்து நடத்தப்பட்ட இந்தத் தாக்குதலை ஒரு automated trading bot நகலெடுத்துள்ளது. இதன் மூலம் பாதிக்கும் மேற்பட்ட நிதி கைப்பற்றப்பட்டது. தனது பரிவர்த்தனைகள் முதலில் செயல்படுத்தப்படுவதை உறுதி செய்வதற்காக இந்த போட் భారీ priority கட்டணங்களைச் செலுத்தியது, இதனால் builders-கள் மிகப்பெரிய தொகையைப் பெற்றனர்.",
-    "slug": "ethereum-block-builders-received-the-most-in-a-3-4-million-vault-hack-data-shows"
+    "hasContent": true,
+    "pubDate": "2026-11-19T05:39:06.000Z"
   },
   {
     "id": "131d4836b9d54e07",
+    "slug": "anthropic-ipo-2-ai-stocks-to-watch-as-claude-maker-hits-wall-street",
     "title": "Anthropic IPO: 2 AI Stocks to Watch as Claude Maker Hits Wall Street",
-    "summary": "Here are two stocks to watch side by side as Anthropic IPOs today.",
-    "hasSummary": true,
-    "link": "https://cryptopotato.com/anthropic-ipo-2-ai-stocks-to-watch-as-claude-maker-hits-wall-street/",
-    "source": "CryptoPotato",
     "tags": [
       "Anthropic",
       "Wall Street",
       "Claude"
     ],
+    "source": "CryptoPotato",
     "origin": "rss",
-    "pubDate": "2026-11-19T05:35:22.000Z",
-    "fetchedAt": "2026-11-19T06:01:34.725Z",
-    "isDuplicateOf": null,
-    "content": "As Claude creator Anthropic makes its anticipated debut on Wall Street with its IPO, investors are closely watching related artificial intelligence stocks. The public offering marks a major milestone for the company and highlights growing market interest in the generative artificial intelligence sector, with analysts pointing to key stocks to monitor during this trading debut.",
-    "content_ta": "Claude-ஐ உருவாக்கும் Anthropic நிறுவனம் தனது IPO மூலம் Wall Street-ல் தனது பங்குகளை வெளியிடவுள்ள நிலையில், முதலீட்டாளர்கள் செயற்கை நுண்ணறிவு (AI) பங்குகளை உன்னிப்பாக கவனித்து வருகின்றனர். இந்த பொது பங்கு வெளியீடு நிறுவனத்திற்கு ஒரு முக்கியமான மைல்கல்லாகும்.",
-    "slug": "anthropic-ipo-2-ai-stocks-to-watch-as-claude-maker-hits-wall-street"
+    "hasContent": true,
+    "pubDate": "2026-11-19T05:35:22.000Z"
   },
   {
     "id": "eb8be5c7835b4a2c",
+    "slug": "iea-oil-markets-can-adjust-without-strait-of-hormuz-easing-supply-concerns",
     "title": "IEA: Oil markets can adjust without Strait of Hormuz, easing supply concerns",
-    "summary": "The IEA's assessment suggests a potential stabilization in oil markets, reducing extreme price volatility concerns and influencing future investment strategies.\nThe post IEA: Oil markets can adjust without Strait of Hormuz, easing supply concerns appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/iea-oil-markets-can-adjust-without-strait-of-hormuz-easing-supply-concerns/",
-    "source": "CryptoBriefing",
     "tags": [
       "IEA"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-19T05:27:17.000Z",
-    "fetchedAt": "2026-11-19T06:01:34.725Z",
-    "isDuplicateOf": null,
-    "content": "The International Energy Agency has indicated that global oil markets possess the resilience to adjust successfully even if the Strait of Hormuz faces disruptions. This assessment helps alleviate immediate supply concerns, potentially stabilizing energy markets and reducing the likelihood of extreme price volatility while guiding future investment strategies.",
-    "content_ta": "Strait of Hormuz-ல் disruptions ஏற்பட்டாலும் கூட global oil markets-ஆல் திறம்பட சமாளிக்க முடியும் என்று IEA தெரிவித்துள்ளது. இந்த மதிப்பீடு உடனான supply concerns-ஐ குறைத்து, energy markets-ஐ stabilize செய்ய உதவுவதோடு, future investment strategies-ஐயும் வழிநடத்துகிறது.",
-    "slug": "iea-oil-markets-can-adjust-without-strait-of-hormuz-easing-supply-concerns"
+    "hasContent": true,
+    "pubDate": "2026-11-19T05:27:17.000Z"
   },
   {
     "id": "31240dabd84db863",
+    "slug": "fomc-minutes-reveal-fed-officials-expect-more-rate-hikes-despite-october-pause",
     "title": "FOMC minutes reveal Fed officials expect more rate hikes despite October pause",
-    "summary": "The anticipated rate hikes could tighten financial conditions, impacting borrowing costs, consumer spending, and economic growth prospects.\nThe post FOMC minutes reveal Fed officials expect more rate hikes despite October pause appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/fomc-minutes-reveal-fed-officials-expect-more-rate-hikes-despite-october-pause/",
-    "source": "CryptoBriefing",
     "tags": [
       "Federal Reserve",
       "FOMC"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-19T05:03:19.000Z",
-    "fetchedAt": "2026-11-19T06:01:34.725Z",
-    "isDuplicateOf": null,
-    "content": "Recently released FOMC minutes indicate that Federal Reserve officials anticipate further interest rate hikes, even following an October pause. This ongoing monetary tightening is expected to influence broader financial conditions, potentially affecting borrowing costs, consumer spending, and overall economic growth prospects in the near future.",
-    "content_ta": "ச recently வெளிவந்த FOMC குறிப்புகள், அக்டோபர் மாத இடைநவெளியைத் தொடர்ந்து Fed அதிகாரிகள் மேலும் வட்டி விகித உயர்வுகளை எதிர்பார்க்கிறார்கள் என்பதைக் காட்டுகின்றன. இந்த தொடர்ச்சியான நாணய இறுக்கமானது பரந்த நிதிச் சூழல்களை பாதிக்கும் என்றும், கடன் வாங்கும் செலவுகள், நுகர்வோர் செலவு மற்றும் எதிர்கால பொருளாதார வளர்ச்சி வாய்ப்புகளைப் பாதிக்கும் என்றும் எதிர்பார்க்கப்படுகிறது.",
-    "slug": "fomc-minutes-reveal-fed-officials-expect-more-rate-hikes-despite-october-pause"
+    "hasContent": true,
+    "pubDate": "2026-11-19T05:03:19.000Z"
   },
   {
     "id": "b95a0822de694aa1",
@@ -611,221 +844,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-18T21:48:06.000Z"
-  },
-  {
-    "id": "1f0aed927e26524c",
-    "slug": "chatgpt-claude-gemini-and-grok-helped-plan-terror-attacks-in-government-tests",
-    "title": "ChatGPT, Claude, Gemini and Grok Helped Plan Terror Attacks in Government Tests",
-    "tags": [
-      "ChatGPT",
-      "Claude",
-      "Gemini",
-      "Grok"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T21:46:03.000Z"
-  },
-  {
-    "id": "9b577f9d1849bf71",
-    "slug": "gemini-4-neon-takes-second-place-on-agent-arena-index-trailing-only-claude-fable-5-2",
-    "title": "Gemini 4 Neon takes second place on Agent Arena Index, trailing only Claude Fable 5.2",
-    "tags": [
-      "Gemini 4 Neon",
-      "Agent Arena Index",
-      "Claude Fable 5.2",
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T21:43:37.000Z"
-  },
-  {
-    "id": "cd1682571bd056c7",
-    "slug": "3-million-in-crypto-gone-out-of-reach-all-because-of-one-mistake",
-    "title": "$3 Million in Crypto, Gone Out of Reach, All Because of One Mistake",
-    "tags": [
-      "Merlin Chain"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T21:37:48.000Z"
-  },
-  {
-    "id": "e295c8367b47825b",
-    "slug": "citi-ceo-jane-fraser-expects-more-outages-amid-technology-upgrades",
-    "title": "Citi CEO Jane Fraser expects more outages amid technology upgrades",
-    "tags": [
-      "Citi"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T21:35:52.000Z"
-  },
-  {
-    "id": "fca61938582c3af5",
-    "slug": "anthropic-options-set-to-start-trading-monday-as-cboe-expects-heavy-demand",
-    "title": "Anthropic options set to start trading Monday as Cboe expects heavy demand",
-    "tags": [
-      "Anthropic",
-      "Cboe"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T21:35:16.000Z"
-  },
-  {
-    "id": "d71f0ac0195fbe38",
-    "slug": "gonka-ai-hit-by-1-million-exploit-as-hacker-drains-stablecoins",
-    "title": "Gonka AI Hit by $1 Million Exploit as Hacker Drains Stablecoins",
-    "tags": [],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-18T21:27:10.000Z"
-  },
-  {
-    "id": "dcf39c9f23dfb9c4",
-    "slug": "intel-ceo-lip-bu-tan-blames-memory-costs-for-q3-stumble-as-q4-guidance-disappoints",
-    "title": "Intel CEO Lip-Bu Tan blames memory costs for Q3 stumble as Q4 guidance disappoints",
-    "tags": [
-      "Intel"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T21:23:03.000Z"
-  },
-  {
-    "id": "733ee197ae37e79e",
-    "slug": "palmer-luckey-says-he-s-building-an-offshore-haven-for-industry-and-illegal-medicine",
-    "title": "Palmer Luckey Says He’s Building an Offshore Haven for Industry—And 'Illegal' Medicine",
-    "tags": [
-      "Palmer Luckey",
-      "Oculus"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T21:16:02.000Z"
-  },
-  {
-    "id": "9481cc10e39dbabe",
-    "slug": "retail-investors-now-own-40-of-us-equity-market-value-data-shows",
-    "title": "Retail investors now own 40% of US equity market value, data shows",
-    "tags": [
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T21:13:49.000Z"
-  },
-  {
-    "id": "a05daba0d9347bd8",
-    "slug": "why-citigroup-just-cut-its-bitcoin-and-ethereum-price-forecasts",
-    "title": "Why Citigroup Just Cut Its Bitcoin and Ethereum Price Forecasts",
-    "tags": [
-      "Citigroup",
-      "Bitcoin",
-      "Ethereum"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T21:10:10.000Z"
-  },
-  {
-    "id": "7867a0eb57145791",
-    "slug": "gemini-4-neon-reportedly-goes-live-in-google-ai-studio-after-days-of-leaks",
-    "title": "Gemini 4 Neon reportedly goes live in Google AI Studio after days of leaks",
-    "tags": [
-      "Google",
-      "Gemini"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T21:07:20.000Z"
-  },
-  {
-    "id": "ee657576c8fcce94",
-    "slug": "palo-alto-networks-agrees-to-buy-applied-compute-in-4-5-billion-all-stock-deal",
-    "title": "Palo Alto Networks agrees to buy Applied Compute in $4.5 billion all-stock deal",
-    "tags": [
-      "Palo Alto Networks",
-      "Applied Compute"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T21:06:29.000Z"
-  },
-  {
-    "id": "ab28b38b5185588d",
-    "slug": "robinhood-explains-why-the-app-won-t-list-mention-market-contracts",
-    "title": "Robinhood explains why the app won’t list mention-market contracts",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-18T20:59:10.000Z"
-  },
-  {
-    "id": "e7f706eff257474e",
-    "slug": "robinhood-s-vlad-tenev-nasdaq-s-adena-friedman-and-polymarket-s-shayne-coplan-to-speak-at-dealbook",
-    "title": "Robinhood’s Vlad Tenev, Nasdaq’s Adena Friedman and Polymarket’s Shayne Coplan to speak at DealBook Summit",
-    "tags": [
-      "Robinhood",
-      "Nasdaq",
-      "Polymarket"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T20:57:49.000Z"
-  },
-  {
-    "id": "ee1d68c238ce6f99",
-    "slug": "robinhood-ceo-vlad-tenev-warns-prediction-markets-are-easy-to-manipulate",
-    "title": "Robinhood CEO Vlad Tenev warns prediction markets are easy to manipulate",
-    "tags": [
-      "Robinhood",
-      "Vlad Tenev"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T20:57:28.000Z"
-  },
-  {
-    "id": "d76a650675b555f0",
-    "slug": "fed-officials-consider-rate-hike-above-25-basis-points-in-december",
-    "title": "Fed officials consider rate hike above 25 basis points in December",
-    "tags": [
-      "Federal Reserve"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T20:54:19.000Z"
-  },
-  {
-    "id": "4bed82a9a9ff1aed",
-    "slug": "major-institutional-milestone-for-xrp-xrpl-becomes-first-public-blockchain-to-pass-global-financial",
-    "title": "Major Institutional Milestone for XRP: XRPL Becomes First Public Blockchain to Pass Global Financial Infrastructure Standards Assessment",
-    "tags": [
-      "XRP",
-      "XRPL"
-    ],
-    "source": "ZyCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-18T20:54:08.000Z"
   }
 ]
