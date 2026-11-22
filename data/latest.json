@@ -1,129 +1,254 @@
 [
   {
-    "id": "f0b342fee3c7fee8",
-    "title": "Why Bitcoin May Fall Further Before December 9 Rate Decision",
-    "summary": "The post Why Bitcoin May Fall Further Before December 9 Rate Decision appeared first on Coinpedia Fintech News\nBitcoin may not have hit its bottom yet, according to an analyst who points to several warning signs that have marked past bear markets. Bitcoin, now trading near $55,700, has historically found its cycle low only after touching its realized price, the average price at which all coins last moved. That level sits around $54,000 …",
+    "id": "de024f486df8bc14",
+    "slug": "xrp-ledger-loses-60-of-users",
+    "title": "XRP Ledger Loses 60% of Users",
+    "tags": [
+      "XRP Ledger"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-22T08:50:00.000Z"
+  },
+  {
+    "id": "915d804b828c5100",
+    "slug": "pump-fun-ends-external-wallet-login-and-mark-karpeles-is-not-a-fan",
+    "title": "Pump.fun ends external wallet login, and Mark Karpelès is not a fan",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-22T08:34:24.000Z"
+  },
+  {
+    "id": "f0cc2f7d1a1fd8bb",
+    "slug": "trump-affirms-confidence-in-commerce-secretary-lutnick-amid-export-scrutiny",
+    "title": "Trump affirms confidence in Commerce Secretary Lutnick amid export scrutiny",
+    "tags": [
+      "Donald Trump",
+      "Lutnick"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-22T08:32:17.000Z"
+  },
+  {
+    "id": "a8ab7b18a1a6b4ea",
+    "slug": "anthony-scaramucci-predicts-bitcoin-bottom-this-week",
+    "title": "Anthony Scaramucci Predicts Bitcoin Bottom This Week",
+    "tags": [
+      "SkyBridge Capital",
+      "Anthony Scaramucci",
+      "Bitcoin"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-22T08:04:00.000Z"
+  },
+  {
+    "id": "6cf6b4991295b72b",
+    "slug": "mf-markets-adds-24-7-perpetual-futures-trading-for-palo-alto-networks",
+    "title": "MF Markets adds 24/7 perpetual futures trading for Palo Alto Networks",
+    "tags": [
+      "MF Markets",
+      "Palo Alto Networks"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-22T08:03:12.000Z"
+  },
+  {
+    "id": "4a92bafcc0a35f5b",
+    "slug": "pi-network-s-pi-rebounds-after-new-atl-btc-recovery-stopped-at-60k-weekend-watch",
+    "title": "Pi Network’s PI Rebounds After New ATL, BTC Recovery Stopped at $60K: Weekend Watch",
+    "tags": [
+      "Pi Network",
+      "Bitcoin",
+      "PIEVERSE",
+      "VVV",
+      "NIGHT",
+      "XMR"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-22T07:40:53.000Z"
+  },
+  {
+    "id": "7d16c38b169b048a",
+    "slug": "binance-bitcoin-funding-turns-negative-and-one-analyst-sees-a-possible-reversal",
+    "title": "Binance Bitcoin funding turns negative, and one analyst sees a possible reversal",
+    "tags": [
+      "Binance",
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-22T07:33:58.000Z"
+  },
+  {
+    "id": "a66548064018a88d",
+    "slug": "south-korean-exchanges-halt-cyber-transfers-amid-suspected-bridge-exploit",
+    "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+    "tags": [
+      "CYBER",
+      "Solana",
+      "Ethereum",
+      "South Korea"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-22T07:24:05.000Z"
+  },
+  {
+    "id": "59272035cad0d214",
+    "slug": "tesla-launches-cybercab-fueling-speculation-of-spacex-merger",
+    "title": "Tesla launches Cybercab, fueling speculation of SpaceX merger",
+    "tags": [
+      "Tesla",
+      "SpaceX",
+      "Cybercab"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-22T07:08:05.000Z"
+  },
+  {
+    "id": "915113638c0c53b0",
+    "slug": "bitcoin-s-weirdest-crash-yet-btc-briefly-dumped-to-17k-on-kraken",
+    "title": "Bitcoin’s Weirdest Crash Yet? BTC Briefly Dumped to $17K on Kraken",
+    "tags": [
+      "Bitcoin",
+      "Kraken"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-22T06:49:12.000Z"
+  },
+  {
+    "id": "7cd0261f55707da7",
+    "title": "Tokyo tax officials audit 91 crypto holders, uncover $24.5 million in unreported income",
+    "summary": "Japan's enhanced crypto tax enforcement signals a global trend towards stricter compliance, urging investors to maintain transparent records.\nThe post Tokyo tax officials audit 91 crypto holders, uncover $24.5 million in unreported income appeared first on Crypto Briefing.",
     "hasSummary": true,
-    "link": "https://coinpedia.org/crypto-live-news/why-bitcoin-may-fall-further-before-december-9-rate-decision/",
-    "source": "Coinpedia",
+    "link": "https://cryptobriefing.com/tokyo-tax-audit-91-crypto-holders/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Tokyo",
+      "Japan"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-22T06:36:17.000Z",
+    "fetchedAt": "2026-11-22T09:01:24.815Z",
+    "isDuplicateOf": null,
+    "content": "Tokyo tax officials recently audited 91 cryptocurrency holders and uncovered $24.5 million in unreported income. This enforcement action in Japan highlights an intensifying global regulatory focus on digital assets and signals a growing pressure on investors to maintain accurate and transparent financial records.",
+    "content_ta": "டோக்கியோவைச் சேர்ந்த வரி அதிகாரிகள் 91 crypto வைத்திருப்பவர்களை தணிக்கை செய்து, $24.5 million அளவுக்கு மறைக்கப்பட்ட வருவாயைக் கண்டறிந்துள்ளனர். ஜப்பானில் மேற்கொள்ளப்பட்டுள்ள இந்த கடுமையான வரி நடவடிக்கை, டிஜிட்டல் சொத்துக்கள் மீதான உலகளாவிய ஒழுங்குமுறை கண்காணிப்பு தீவிரமடைந்து வருவதைக் காட்டுகிறது.",
+    "slug": "tokyo-tax-officials-audit-91-crypto-holders-uncover-24-5-million-in-unreported-income"
+  },
+  {
+    "id": "8622d43f71cf19ef",
+    "slug": "bitcoin-s-55k-crash-was-historic-but-still-far-from-crypto-s-worst",
+    "title": "Bitcoin’s $55K Crash Was Historic – But Still Far From Crypto’s Worst",
+    "tags": [
+      "Bitcoin",
+      "Kobeissi Letter"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-22T06:08:45.000Z"
+  },
+  {
+    "id": "f0b342fee3c7fee8",
+    "slug": "why-bitcoin-may-fall-further-before-december-9-rate-decision",
+    "title": "Why Bitcoin May Fall Further Before December 9 Rate Decision",
     "tags": [
       "Bitcoin"
     ],
+    "source": "Coinpedia",
     "origin": "rss",
-    "pubDate": "2026-11-22T05:43:25.000Z",
-    "fetchedAt": "2026-11-22T06:01:22.788Z",
-    "isDuplicateOf": null,
-    "content": "Bitcoin may experience further price drops ahead of the upcoming rate decision on December 9. Analysts suggest that the cryptocurrency has not yet reached its market bottom. Trading near $55,700, Bitcoin has historically found its cycle low only after touching its realized price level, which currently sits around $54,000, according to warning signs resembling past bear markets.",
-    "content_ta": "டிசம்பர் 9-ம்தேதி வரவிருக்கும் வட்டி விகித முடிவுக்கும் முன்பு Bitcoin விலையில் மேலும் சரிவு ஏற்படக்கூடும் என்று ஆய்வாளர்கள் கூறுகின்றனர். சந்தையின் குறைந்தபட்ச விலையை இன்னும் அது எட்டவில்லை. கடந்த கால கரடி சந்தைகளைப் போலவே, உணர்தல் விலையான $54,000 அளவுக்கு அருகில் தொட்ட பின்னரே Bitcoin தனது சுழற்சி குறைந்தபட்ச விலையைக் கண்டறியும் என்று எச்சரிக்கை அறிகுறிகள் காட்டுகின்றன.",
-    "slug": "why-bitcoin-may-fall-further-before-december-9-rate-decision"
+    "hasContent": true,
+    "pubDate": "2026-11-22T05:43:25.000Z"
   },
   {
     "id": "874b310f1f9c72c0",
+    "slug": "bitcoin-price-prediction-how-low-can-btc-go-as-etf-buyers-sit-30-underwater",
     "title": "Bitcoin Price Prediction: How Low Can BTC Go as ETF Buyers Sit 30% Underwater?",
-    "summary": "The post Bitcoin Price Prediction: How Low Can BTC Go as ETF Buyers Sit 30% Underwater? appeared first on Coinpedia Fintech News\nBitcoin recently climbed back to about $60,200 after briefly dipping below $56,000. The coin is now down more than half from its all-time high, and the daily chart still shows no confirmed bottom. Most of the selling has come from spot ETF investors, many of whom have been losing money for most of the year. …",
-    "hasSummary": true,
-    "link": "https://coinpedia.org/news/bitcoin-price-prediction-how-low-can-btc-go-as-etf-buyers-sit-30-underwater/",
-    "source": "Coinpedia",
     "tags": [],
+    "source": "Coinpedia",
     "origin": "rss",
-    "pubDate": "2026-11-22T05:39:40.000Z",
-    "fetchedAt": "2026-11-22T06:01:22.788Z",
-    "isDuplicateOf": null,
-    "content": null,
-    "slug": "bitcoin-price-prediction-how-low-can-btc-go-as-etf-buyers-sit-30-underwater"
+    "hasContent": false,
+    "pubDate": "2026-11-22T05:39:40.000Z"
   },
   {
     "id": "481046b279e55734",
+    "slug": "thai-cyber-police-raid-chiang-mai-exchange-shop-tied-to-2-7-million-usdt-wallet",
     "title": "Thai cyber police raid Chiang Mai exchange shop tied to 2.7 million USDT wallet",
-    "summary": "The raid highlights vulnerabilities in Thailand's crypto market, emphasizing the need for stricter regulations to combat transnational money laundering.\nThe post Thai cyber police raid Chiang Mai exchange shop tied to 2.7 million USDT wallet appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/thai-police-raid-chiang-mai-usdt-exchange/",
-    "source": "CryptoBriefing",
     "tags": [
       "Chiang Mai",
       "Thailand",
       "USDT"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-22T05:35:58.000Z",
-    "fetchedAt": "2026-11-22T06:01:22.788Z",
-    "isDuplicateOf": null,
-    "content": "Thai cyber police have conducted a raid on an exchange shop in Chiang Mai connected to a USDT wallet holding 2.7 million dollars. This enforcement action highlights ongoing vulnerabilities within the country's cryptocurrency market, emphasizing an urgent need for much stricter regulations to effectively combat transnational money laundering operations.",
-    "content_ta": "தாய்லாந்து சைபர் போலீசார், Chiang Mai நகரில் உள்ள ஒரு எக்ஸ்சேஞ்ச் கடையில் திடீர் சோதனை நடத்தியுள்ளனர். இந்தச் சோதனையானது 2.7 மில்லியன் மதிப்புள்ள USDT வாலட்டுடன் தொடர்புடையது. இந்த நடவடிக்கை தாய்லாந்தின் கிரிப்டோ சந்தையில் உள்ள பலவீனங்களை வெளிச்சம் போட்டுக் காட்டுவதோடு, சர்வதேச பணமோசடியைத் தடுக்க கடுமையான விதிமுறைகள் அவசியத்தையும் வலியுறுத்துகிறது.",
-    "slug": "thai-cyber-police-raid-chiang-mai-exchange-shop-tied-to-2-7-million-usdt-wallet"
+    "hasContent": true,
+    "pubDate": "2026-11-22T05:35:58.000Z"
   },
   {
     "id": "4e03fcd99fd6ed2e",
+    "slug": "kraken-flags-disruption-in-cyber-optimism-funding-gateway-deposits-may-be-delayed",
     "title": "Kraken flags disruption in Cyber-Optimism funding gateway, deposits may be delayed",
-    "summary": "Kraken's recurring gateway disruptions highlight the challenges of maintaining complex crypto infrastructure, impacting user trust and market agility.\nThe post Kraken flags disruption in Cyber-Optimism funding gateway, deposits may be delayed appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/kraken-cyber-optimism-funding-gateway-disruption/",
-    "source": "CryptoBriefing",
     "tags": [
       "Kraken"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-22T04:57:14.000Z",
-    "fetchedAt": "2026-11-22T06:01:22.788Z",
-    "isDuplicateOf": null,
-    "content": "Cryptocurrency exchange Kraken has reported a disruption affecting its Cyber-Optimism funding gateway. As a result of this technical issue, user deposits may experience delays. Such recurring gateway problems highlight the ongoing challenges that platforms face in maintaining complex cryptocurrency infrastructure, which can impact user trust and operational efficiency.",
-    "content_ta": "கிரிப்டோகரன்சி பரிமாற்ற நிறுவனமான Kraken அதன் Cyber-Optimism ஃபண்டிங் கேட்வேயில் தொழில்நுட்பப் பிரச்சனை ஏற்பட்டுள்ளதாக அறிவித்துள்ளது. இந்தத் தொழில்நுட்பக் கோளாறு காரணமாக, பயனர் டெபாசிட்டுகள் தாமதமாகலாம். இதுபோன்ற தொடர்ச்சியான கேட்வே பிரச்சனைகள், சிக்கலான கிரிப்டோகரன்சி உள்கட்டமைப்பைப் பராமரிப்பதில் நிறுவனங்கள் எதிர்கொள்ளும் சவால்களை எடுத்துக்காட்டுகின்றன.",
-    "slug": "kraken-flags-disruption-in-cyber-optimism-funding-gateway-deposits-may-be-delayed"
+    "hasContent": true,
+    "pubDate": "2026-11-22T04:57:14.000Z"
   },
   {
     "id": "d26bfbf8c156becd",
+    "slug": "meta-platforms-commits-up-to-145b-to-ai-as-its-ad-machine-keeps-paying-off",
     "title": "Meta Platforms commits up to $145B to AI as its ad machine keeps paying off",
-    "summary": "Meta's massive AI investment could reshape digital advertising, enhancing user engagement and potentially redefining industry standards.\nThe post Meta Platforms commits up to $145B to AI as its ad machine keeps paying off appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/meta-145-billion-ai-capex-advertising/",
-    "source": "CryptoBriefing",
     "tags": [
       "Meta Platforms"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-22T04:13:55.000Z",
-    "fetchedAt": "2026-11-22T06:01:22.788Z",
-    "isDuplicateOf": null,
-    "content": "Meta Platforms is heavily investing in artificial intelligence, committing billions of dollars as its advertising business continues to generate strong revenue. This massive financial push into AI aims to reshape digital advertising, improve user engagement, and potentially set new industry standards as the technology evolves.",
-    "content_ta": "Meta Platforms நிறுவனம் தனது விளம்பர வணிகத்தின் மூலம் கிடைக்கும் வலுவான வருவாயைக் கொண்டு செயற்கை நுண்ணறிவு (AI) துறையில் பல பில்லியன் டாலர்களை முதலீடு செய்ய உறுதிபூண்டுள்ளது. AI துறையில் மேற்கொள்ளப்படும் இந்த மிகப்பெரிய நிதி முதலீடு, டிஜிட்டல் விளம்பரங்களை மாற்றியமைப்பதையும், பயனர் ஈடுதலை மேம்படுத்துவதையும் நோக்கமாகக் கொண்டுள்ளது.",
-    "slug": "meta-platforms-commits-up-to-145b-to-ai-as-its-ad-machine-keeps-paying-off"
+    "hasContent": true,
+    "pubDate": "2026-11-22T04:13:55.000Z"
   },
   {
     "id": "6fa48bd5c1a6e5db",
+    "slug": "coinbase-ceo-brian-armstrong-says-ai-agents-can-give-workers-an-unlimited-team-of-l5-level-staff",
     "title": "Coinbase CEO Brian Armstrong says AI agents can give workers an unlimited team of L5-level staff",
-    "summary": "AI agents could revolutionize workforce dynamics, shifting focus from hiring to oversight, but human judgment remains crucial for decision-making.\nThe post Coinbase CEO Brian Armstrong says AI agents can give workers an unlimited team of L5-level staff appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/brian-armstrong-ai-agents-coinbase-team/",
-    "source": "CryptoBriefing",
     "tags": [
       "Coinbase",
       "Brian Armstrong"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-22T04:04:33.000Z",
-    "fetchedAt": "2026-11-22T06:01:22.788Z",
-    "isDuplicateOf": null,
-    "content": "Coinbase CEO Brian Armstrong stated that artificial intelligence agents can provide workers with an unlimited team of L5-level staff. This development could transform workplace dynamics by shifting human focus toward oversight, though decision-making still relies on human judgment.",
-    "content_ta": "Coinbase-ன் CEO ஆன Brian Armstrong, AI agents-கள் ஊழியர்களுக்கு வரம்பற்ற L5-level ஊழியர்களைக் கொண்ட குழுவை வழங்க முடியும் என்று தெரிவித்துள்ளார். இந்த முன்னேற்றமானது மனிதர்களின் கவனத்தை மேற்பார்வை செய்வதில் திருப்பியமைப்பதன் மூலம் பணியிட இயக்கவியலில் மாற்றத்தை ஏற்படுத்தக்கூடும், எனினும் முடிவெடுப்பதற்கு மனிதனின் புத்திசாலித்தனம் இன்றியமையாததாகவே தொடர்கிறது.",
-    "slug": "coinbase-ceo-brian-armstrong-says-ai-agents-can-give-workers-an-unlimited-team-of-l5-level-staff"
+    "hasContent": true,
+    "pubDate": "2026-11-22T04:04:33.000Z"
   },
   {
     "id": "b10541c3dcc4354b",
+    "slug": "gold-price-is-moving-with-the-stock-market-and-that-s-bad",
     "title": "Gold Price Is Moving With the Stock Market, and That’s Bad",
-    "summary": "Many investors buy gold as insurance. When stocks crash, the metal is meant to hold its ground. This year, it has been sinking with them. The three-month correlation between the S&P 500 and gold has climbed to 0.35. That means both assets now tend to move in the same direction. A Safe Haven That Sank\nThe post Gold Price Is Moving With the Stock Market, and That’s Bad appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/gold-moving-with-stocks-hedge-role/",
-    "source": "BeInCrypto",
     "tags": [
       "S&P 500"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-11-22T04:00:00.000Z",
-    "fetchedAt": "2026-11-22T06:01:22.788Z",
-    "isDuplicateOf": null,
-    "content": "Gold is traditionally seen as a safe haven for investors when the stock market crashes. However, this year gold prices have been falling alongside stocks. The three-month correlation between the S&P 500 and gold has risen to 0.35, indicating that both assets are moving in the same direction, which reduces the metal's effectiveness as portfolio insurance.",
-    "content_ta": "பங்குச் சந்தை சரியும்போது தங்கம் ஒரு பாதுகாப்பான முதலீடாகக் கருதப்படுகின்றது. ஆனால், இந்த ஆண்டு தங்கம் விலையும் பங்குகளுடன் சேர்ந்து சரிந்து வருகிறது. S&P 500 குறியீட்டிற்கும் தங்கத்திற்கும் இடையிலான தொடர்பு 0.35 ஆக உயர்ந்துள்ளது, அதாவது இரண்டு சொத்துக்களும் ஒரே திசையில் நகர்கின்றன.",
-    "slug": "gold-price-is-moving-with-the-stock-market-and-that-s-bad"
+    "hasContent": true,
+    "pubDate": "2026-11-22T04:00:00.000Z"
   },
   {
     "id": "8f40749c0f36e46f",
@@ -659,167 +784,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-21T16:17:00.000Z"
-  },
-  {
-    "id": "9befd24184863f44",
-    "slug": "ethereum-price-analysis-did-eth-hit-its-macro-bottom-after-a-30-monthly-drop",
-    "title": "Ethereum Price Analysis: Did ETH Hit Its Macro Bottom After a 30% Monthly Drop?",
-    "tags": [
-      "Ethereum",
-      "Bitcoin",
-      "Federal Reserve"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-21T16:05:56.000Z"
-  },
-  {
-    "id": "93911cdcd78594af",
-    "slug": "signal-calls-os-level-ai-an-existential-threat-and-blocks-screenshots-to-fight-it",
-    "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
-    "tags": [
-      "Signal",
-      "iOS",
-      "Android"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-21T16:01:02.000Z"
-  },
-  {
-    "id": "79da813d401336eb",
-    "slug": "bitcoin-bottom-signals-strengthen-as-btc-nears-60k",
-    "title": "Bitcoin Bottom Signals Strengthen as BTC Nears $60K",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-21T16:00:37.000Z"
-  },
-  {
-    "id": "3482b2e3d4fe3486",
-    "slug": "ishares-head-explains-the-trade-off-behind-blackrock-s-exchange-traded-interval-funds",
-    "title": "iShares head explains the trade-off behind BlackRock’s exchange-traded interval funds",
-    "tags": [
-      "BlackRock",
-      "iShares"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-21T15:54:54.000Z"
-  },
-  {
-    "id": "d39ed0592c05d393",
-    "slug": "coins-ph-halts-transfers-to-self-custody-wallets-limits-users-to-regulated-exchanges",
-    "title": "Coins.ph halts transfers to self-custody wallets, limits users to regulated exchanges",
-    "tags": [
-      "Coins.ph"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-21T15:50:20.000Z"
-  },
-  {
-    "id": "8fd72a7e2c7aff98",
-    "slug": "tether-treasury-moves-165-9-million-usdt-to-an-unidentified-wallet",
-    "title": "Tether Treasury moves 165.9 million USDT to an unidentified wallet",
-    "tags": [
-      "Tether",
-      "USDT"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-21T15:47:16.000Z"
-  },
-  {
-    "id": "7adae4c5846021f1",
-    "slug": "cardano-lifeline-3-96-million-ada-buy-wall-emerges-on-binance",
-    "title": "Cardano Lifeline? 3.96 Million ADA Buy Wall Emerges on Binance",
-    "tags": [
-      "Cardano",
-      "ADA",
-      "Binance"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-21T15:45:00.000Z"
-  },
-  {
-    "id": "991e8636229d71a1",
-    "slug": "rapidus-reportedly-misses-2nm-sram-milestone-putting-2027-mass-production-in-doubt",
-    "title": "Rapidus reportedly misses 2nm SRAM milestone, putting 2027 mass production in doubt",
-    "tags": [
-      "Rapidus",
-      "Japan"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-21T15:38:09.000Z"
-  },
-  {
-    "id": "0b0ef0554159283d",
-    "slug": "chainalysis-reports-55-surge-in-china-linked-stablecoin-payments-after-us-ai-launches",
-    "title": "Chainalysis reports 55% surge in China-linked stablecoin payments after US AI launches",
-    "tags": [
-      "Chainalysis",
-      "China",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-21T15:35:05.000Z"
-  },
-  {
-    "id": "1e0c64d1a05167e6",
-    "slug": "chainflip-s-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key",
-    "title": "Chainflip’s FLIP drops 34% after attacker drains $4.86 million from vault with suspected key compromise",
-    "tags": [
-      "Chainflip",
-      "FLIP"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-21T15:24:14.000Z"
-  },
-  {
-    "id": "a5c3811b112eda92",
-    "slug": "one-bitcoin-miner-paid-an-11-9m-tariff-bill-four-years-after-delivery",
-    "title": "One Bitcoin miner paid an $11.9M tariff bill four years after delivery",
-    "tags": [
-      "Bitcoin",
-      "Bitfarms",
-      "Washington",
-      "Malaysia",
-      "United States"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-21T15:20:09.000Z"
-  },
-  {
-    "id": "8acc48da70c8d35c",
-    "slug": "vaneck-s-matthew-sigel-stays-bullish-on-bitcoin-after-the-midterms",
-    "title": "VanEck’s Matthew Sigel stays bullish on Bitcoin after the midterms",
-    "tags": [
-      "VanEck",
-      "Matthew Sigel",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-21T15:05:18.000Z"
   }
 ]
