@@ -1,5 +1,673 @@
 [
   {
+    "id": "8d5eadd6b58294ed",
+    "slug": "600k-stolen-from-trezor-and-exodus-wallets-how-did-it-happen",
+    "title": "$600K stolen from Trezor and Exodus wallets – How did it happen?",
+    "tags": [],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T15:00:59.000Z"
+  },
+  {
+    "id": "9fc721ca6f2b16a7",
+    "slug": "stripe-in-talks-for-tender-offer-that-could-value-it-above-200-billion",
+    "title": "Stripe in talks for tender offer that could value it above $200 billion",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:58:59.000Z"
+  },
+  {
+    "id": "551ea79d66159121",
+    "slug": "us-stocks-open-lower-as-nvidia-falls-4-and-anthropic-drops-5",
+    "title": "US stocks open lower as Nvidia falls 4% and Anthropic drops 5%",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:57:08.000Z"
+  },
+  {
+    "id": "f27af772a4ca9cbd",
+    "slug": "ubs-raises-tesla-price-target-to-430-but-keeps-its-neutral-rating",
+    "title": "UBS raises Tesla price target to $430 but keeps its Neutral rating",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:48:59.000Z"
+  },
+  {
+    "id": "fa0557eb1eb9ca41",
+    "slug": "nvidia-shares-fall-6-as-volatility-grips-the-chip-giant",
+    "title": "Nvidia shares fall 6% as volatility grips the chip giant",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:47:48.000Z"
+  },
+  {
+    "id": "632e17190b2e3d59",
+    "title": "Japan Ministry of Finance Hears Plans to Test Tokenized Government Bonds, Deposits and Stablecoins on Canton Network",
+    "summary": "A working group within Japan’s Digital Asset Co-Creation Consortium (DCC), whose secretariat is operated by Progmat, has detailed proposals for practical testing of tokenized Japanese government bonds (JGBs) alongside tokenized bank deposits and stablecoins. These plans appear in an interim summary from October 2026 that... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/11/324621-japan-ministry-of-finance-hears-plans-to-test-tokenized-government-bonds-deposits-and-stablecoins-on-canton-network/",
+    "source": "Crowdfund Insider",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-24T14:45:43.000Z",
+    "fetchedAt": "2026-11-24T15:01:33.927Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "japan-ministry-of-finance-hears-plans-to-test-tokenized-government-bonds-deposits-and-stablecoins"
+  },
+  {
+    "id": "d77e25b07103be7b",
+    "slug": "tesla-spacex-appoint-directors-for-merger-talks",
+    "title": "Tesla, SpaceX appoint directors for merger talks",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:45:06.000Z"
+  },
+  {
+    "id": "11acf21f79e8deee",
+    "slug": "arthur-hayes-names-his-crypto-four-horsemen-ethereum-zcash-near-and-venice-token",
+    "title": "Arthur Hayes names his crypto ‘Four Horsemen’: Ethereum, Zcash, NEAR and Venice Token",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:43:42.000Z"
+  },
+  {
+    "id": "8e0fa19d689677ae",
+    "slug": "hylo-rolls-out-xonyc-its-first-leveraged-yield-product-on-solana",
+    "title": "Hylo rolls out xONYC, its first leveraged yield product on Solana",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:42:33.000Z"
+  },
+  {
+    "id": "b5f385f8f2b76a06",
+    "title": "Ethereum L2 Base’s Everest Upgrade Lays Groundwork for Quantum-Resistant Wallets by 2027",
+    "summary": "Base, the Ethereum layer-2 network developed by Coinbase, has designated quantum security as a central focus for 2027. Network creator and protocol lead Jesse Pollak explained in a recent interview that the platform’s forthcoming Everest upgrade—its fifth major network improvement—will introduce a new transaction format... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/11/324827-ethereum-l2-bases-everest-upgrade-lays-groundwork-for-quantum-resistant-wallets-by-2027/",
+    "source": "Crowdfund Insider",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-24T14:42:11.000Z",
+    "fetchedAt": "2026-11-24T15:01:33.927Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "ethereum-l2-base-s-everest-upgrade-lays-groundwork-for-quantum-resistant-wallets-by-2027"
+  },
+  {
+    "id": "a4528ac932a81c1e",
+    "slug": "bitcoin-news-cftc-decision-to-push-btc-toward-80k",
+    "title": "Bitcoin News: CFTC Decision to Push BTC Toward $80K?",
+    "tags": [],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:41:31.000Z"
+  },
+  {
+    "id": "9b0d3a08deed1e23",
+    "slug": "south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
+    "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
+    "tags": [],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:40:53.000Z"
+  },
+  {
+    "id": "a11a0fcea0d5608f",
+    "slug": "worldremit-founder-launches-fintech-targeting-migrants-in-the-us",
+    "title": "WorldRemit founder launches fintech targeting migrants in the US",
+    "tags": [],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:36:00.000Z"
+  },
+  {
+    "id": "38c4a72e5c0e46ed",
+    "slug": "thermo-fisher-wins-fda-clearance-for-myeloma-monitoring-test",
+    "title": "Thermo Fisher wins FDA clearance for myeloma monitoring test",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:33:29.000Z"
+  },
+  {
+    "id": "5ddffff7a0ff496f",
+    "slug": "the-2027-stock-market-outlook-which-sectors-could-lead-the-next-bull-market",
+    "title": "The 2027 Stock Market Outlook: Which Sectors Could Lead the Next Bull Market?",
+    "tags": [],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:31:06.000Z"
+  },
+  {
+    "id": "0b3f4a0b763c0866",
+    "title": "Beyond the Model: Why Data Is Still the Hardest Problem in Enterprise AI",
+    "summary": "As frontier models become more widely available, OceanBase is betting on a unified “lakebase” platform and an open-source AI database to win over banks and global enterprises.\n \nAt fintech conferences over the past two years, one question has dominated conversations about AI: which model is smartest, fastest, or cheapest to use? Banks, insurers, and payment firms have invested heavily in testing frontier models, hoping the right choice might give them a lasting edge.\n \nOceanBase CEO Evan Yang believes the bigger challenge lies elsewhere: in the data behind the models.\n \nSpeaking at OceanBase’s AI Data Conference in Beijing on November 24, 2026, he argued that natural-language tools can make software development look deceptively easy, but the hard work has not disappeared. It has shifted.\n \nDrawing on Fred Brooks’s 1986 essay No Silver Bullet, Yang distinguished between “accidental” complexity—the friction better tools can reduce—and “essential” complexity, which remains. In enterprise AI, he said, much of that complexity sits in the data.\n \n\n“The more capable our models become, the more unforgiving our data problems look,” he said. “Solving that essential complexity is the work that will decide who actually captures value from this technology.”\n \nIntelligence is becoming more accessible. Proprietary data still matters.\n \nAs model capabilities spread and prices fall, access to raw intelligence alone may offer less lasting differentiation. For banks and insurers, a more distinctive asset is the data they already hold: transaction histories, risk decisions, operational records, and other information tied to their businesses.\n \nIn his keynote, Yang highlighted three areas where companies can do more with that data:\n \n\n\nPrivate data: Public information is only part of the picture. A company’s own records can provide context that general-purpose models do not have.\nMultimodal data: Rows and columns capture only part of reality. Text, images, audio, and sensor feeds can also matter, such as when an insurer assesses an accident or a lender evaluates non-standard collateral.\nWell-governed data: Large data volumes are of limited use if they are not indexed, governed, and connected to clear business meaning.\n \nOceanLake brings data and AI workloads together\n \nTo address those gaps, Yang outlined four principles for AI-era data infrastructure: a converged lakebase, multimodal data fusion, governance designed for agents, and openness.\n \nAt the conference, OceanBase introduced OceanLake, an integrated lakebase AI data platform built around those principles. Unveiled alongside the conference announcement, OceanLake brings transactional, analytical, and AI workloads together on a single copy of data, reducing the need to move information between separate databases, warehouses, and AI stores. The platform also includes a business semantic layer and an agent runtime intended to give AI agents shared context and guardrails.\n \nThis architectural convergence is notable: Databricks—named a Leader in Gartner’s Magic Quadrant for Cloud Database Management Systems for five consecutive years as of 2025—has made a similar bet with its own Lakebase and LTAP architecture, validating that the durable competitive layer in enterprise AI is the data infrastructure beneath the models.\n \nOceanBase cited an early deployment at Ping An Life Insurance, where typical data query delivery times were reportedly reduced from two to five days to about 15 minutes.\n \nOceanBase also announced that it is open-sourcing OceanSeek, its agent-focused AI database, under the Apache 2.0 licence. According to the announcement, OceanSeek combines real-time read and write capabilities with analytics, open lake storage, and hybrid search, offering developers an open foundation for agent workloads.\n \nFinancial-sector credentials and international growth\n \nFor financial institutions, a new data platform has to meet demanding requirements, especially when it supports payments, ledgers, or regulatory reporting. OceanBase is positioning its AI roadmap on top of a business built in those environments.\n \nAccording to OceanBase’s 2026 conference release, the company achieved revenue compound annual growth of more than 60% over the past five years and generated more than RMB 100 million in AI-related business revenue. Its release also states that it serves 70% of China’s mega-banks with assets above RMB 1 trillion, more than 100 major mid-sized banks, 95% of leading insurers, and 90% of top securities brokers, alongside an estimated share of nearly 30% in China’s financial distributed database market.\n \nInternationally, OceanBase’s announcement notes that revenue doubled year over year in 2026, exceeding 15% of total revenue, while its international customer count grew by 300%. Expansion is led by Southeast Asia, with activity also in Japan, the Middle East, and North Africa.\n \nCiting an Omdia report released in September 2026 based on 2025 revenue, the announcement notes that OceanBase ranked first among distributed transactional database vendors in Asia and Oceania with a 15.5% share. OceanBase’s release also states that its customer base includes more than 20 leading e-wallets, 50 payment institutions, and 30 fintechs, as well as HSBC, Sumitomo Mitsui Banking Corporation (SMBC), and Hang Seng Bank.\n \nOn the cloud side, OceanBase’s release states that public cloud revenue grew 80% year over year, with multi-cloud accounting for 35% of public cloud revenue and AWS-channel revenue rising 300%.\n \nWhy data matters in financial services\n \nBanks’ AI pilots frequently stall when they encounter fragmented data, inconsistent definitions, or strict access rules across legacy core systems. Those challenges are especially consequential in financial services, where institutions face strict requirements around auditability, regulatory explainability, and continuous uptime.\n \nOceanBase’s move into lakebase infrastructure and its decision to open-source OceanSeek reflect its view that enterprise AI will depend on more than capable models and well-crafted prompts. For financial institutions, making data accessible, governed, and meaningful remains a central part of turning AI experiments into dependable services.\nNoYesArtificial Intelligence24 Nov, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/artificial-intelligence/beyond-model-why-data-still-hardest-problem-enterprise-ai",
+    "source": "Financial IT",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-24T14:30:35.000Z",
+    "fetchedAt": "2026-11-24T15:01:33.927Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "beyond-the-model-why-data-is-still-the-hardest-problem-in-enterprise-ai"
+  },
+  {
+    "id": "e69ea68ee1586bee",
+    "slug": "oppenheimer-keeps-marvell-at-outperform-with-325-price-target",
+    "title": "Oppenheimer keeps Marvell at outperform with $325 price target",
+    "tags": [
+      "Oppenheimer",
+      "Marvell"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T14:30:00.000Z"
+  },
+  {
+    "id": "799568272026f4b5",
+    "slug": "mosaic-agrees-faustina-ammonia-plant-sale-to-cf-for-600-million",
+    "title": "Mosaic agrees Faustina ammonia plant sale to CF for $600 million",
+    "tags": [
+      "Mosaic",
+      "CF"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T14:28:57.000Z"
+  },
+  {
+    "id": "c7f04ffe51b0720a",
+    "slug": "unicredit-opens-bitcoin-to-retail-with-capital-protected-etp-certificate",
+    "title": "UniCredit opens Bitcoin to retail with capital-protected ETP certificate",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:27:13.000Z"
+  },
+  {
+    "id": "ed5324ad2bb91cb1",
+    "slug": "binance-partners-with-cboe-to-add-real-time-s-p-500-and-nasdaq-data",
+    "title": "Binance partners with Cboe to add real-time S&P 500 and Nasdaq data",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:24:29.000Z"
+  },
+  {
+    "id": "fe124c1c9d6c29df",
+    "title": "Smarter regulation means understanding the trade-offs",
+    "summary": "Regulation inevitably involves choices. Protecting consumers and maintaining confidence in our markets are fundamental to what we do. But rules also have costs. They can affect businesses’ decisions to invest, innovate and compete. Good regulation means recognising those trade-offs and using evidence to decide where... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/11/324895-smarter-regulation-means-understanding-the-trade-offs/",
+    "source": "Crowdfund Insider",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-24T14:20:54.000Z",
+    "fetchedAt": "2026-11-24T15:01:33.927Z",
+    "isDuplicateOf": null,
+    "content": "Effective regulation requires careful consideration of inherent trade-offs. While safeguarding consumers and market confidence is essential, rules also impose costs that can influence business decisions regarding investment, innovation, and competition. Good regulatory practices rely on recognizing these balances and utilizing empirical evidence to make informed choices.",
+    "content_ta": "பயனுள்ள ஒழுங்குமுறை என்பது உள்ளார்ந்த வர்த்தக மாற்றங்களை கவனமாக பரிசீலிப்பதை கோருகிறது. நுகர்வோரைப் பாதுகாப்பதும் சந்தை நம்பிக்கையைப் பேணுவதும் அவசியமானது என்றாலும், விதிகளால் ஏற்படும் செலவுகள் வணிகங்களின் முதலீடு மற்றும் புதுமை முடிவுகளைப் பாதிக்கலாம். நல்ல ஒழுங்குமுறை என்பது இந்த சமநிலைகளை உணர்ந்து ஆதாரங்களைப் பயன்படுத்தி முடிவெடிப்பதைச் சார்ந்துள்ளது.",
+    "slug": "smarter-regulation-means-understanding-the-trade-offs"
+  },
+  {
+    "id": "0c9996ae7b5f0a44",
+    "slug": "larry-ellison-overrode-oracle-vote-against-his-131m-payout",
+    "title": "Larry Ellison overrode Oracle vote against his $131M payout",
+    "tags": [],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:14:33.000Z"
+  },
+  {
+    "id": "fbef72bda1bdeae0",
+    "slug": "redstone-supplies-nav-feed-and-data-stack-for-realfi-s-stablecoins",
+    "title": "RedStone supplies NAV feed and data stack for RealFi’s stablecoins",
+    "tags": [
+      "RedStone",
+      "RealFi"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T14:10:36.000Z"
+  },
+  {
+    "id": "7c0716997d1db2d4",
+    "slug": "usdt-buyers-face-22-vat-when-moscow-exchange-opens-crypto-trading",
+    "title": "USDT buyers face 22% VAT when Moscow Exchange opens crypto trading",
+    "tags": [],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:10:23.000Z"
+  },
+  {
+    "id": "ccaef55d627b1e5e",
+    "slug": "bisq-2-desktop-users-must-update-to-keep-trading-bitcoin",
+    "title": "Bisq 2 desktop users must update to keep trading Bitcoin",
+    "tags": [],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:10:15.000Z"
+  },
+  {
+    "id": "8cb6684acc0b5162",
+    "slug": "circle-signs-mou-with-paribu-to-expand-onchain-finance-in-turkiye",
+    "title": "Circle signs MOU with Paribu to expand onchain finance in Türkiye",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:09:48.000Z"
+  },
+  {
+    "id": "63f7ac431b6d88c2",
+    "slug": "internet-computer-enables-app-deployment-from-smartphones-using-ai-agents",
+    "title": "Internet Computer enables app deployment from smartphones using AI agents",
+    "tags": [
+      "Internet Computer"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T14:07:49.000Z"
+  },
+  {
+    "id": "78a0c31a7397f9d5",
+    "slug": "morpho-midnight-completes-formal-verification-with-certora",
+    "title": "Morpho Midnight completes formal verification with Certora",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:03:50.000Z"
+  },
+  {
+    "id": "58fbb159c72db819",
+    "slug": "trustly-raises-60m-from-shareholders-for-ai-powered-growth-plan",
+    "title": "Trustly raises $60m from shareholders for AI-powered growth plan",
+    "tags": [],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:03:00.000Z"
+  },
+  {
+    "id": "3a8896f4ef9f29cf",
+    "slug": "ledn-expands-into-bitcoin-buying-with-cut-rate-pricing",
+    "title": "Ledn expands into Bitcoin buying with cut-rate pricing",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:01:10.000Z"
+  },
+  {
+    "id": "5f8c34405930669e",
+    "slug": "bitcoin-supply-in-profit-falls-below-50-but-is-btc-s-worst-over",
+    "title": "Bitcoin supply in profit falls below 50% – But is BTC’s worst over?",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T14:00:37.000Z"
+  },
+  {
+    "id": "7758e50db02b8d89",
+    "slug": "xrp-ledger-dex-volume-hits-4-51-million-xrp-a-day-in-q3-as-big-traders-take-over-evernorth",
+    "title": "XRP Ledger DEX volume hits 4.51 million XRP a day in Q3 as big traders take over: Evernorth",
+    "tags": [],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:00:02.000Z"
+  },
+  {
+    "id": "af24783786c413fa",
+    "slug": "ledn-brings-us-business-onshore-with-account-to-hold-swap-and-borrow-against-bitcoin",
+    "title": "Ledn brings US business onshore with account to hold, swap and borrow against bitcoin",
+    "tags": [],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:00:00.000Z"
+  },
+  {
+    "id": "7808d67185bd03bb",
+    "slug": "neuberger-berman-s-hinc-fund-brings-high-yield-credit-to-aave-s-institutional-lending-platform",
+    "title": "Neuberger Berman’s HINC fund brings high-yield credit to Aave’s institutional lending platform",
+    "tags": [],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T14:00:00.000Z"
+  },
+  {
+    "id": "6b6377b56b10e468",
+    "slug": "swiss-central-bank-ubs-and-six-study-ledger-for-tokenized-settlement",
+    "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
+    "tags": [],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T13:57:56.000Z"
+  },
+  {
+    "id": "d5b4b68596f517ca",
+    "slug": "coinbase-prime-offers-up-to-10x-leverage-on-bitcoin-basis-trades",
+    "title": "Coinbase Prime offers up to 10x leverage on Bitcoin basis trades",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T13:55:56.000Z"
+  },
+  {
+    "id": "3780cd1c24a2128f",
+    "slug": "certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
+    "title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
+    "tags": [],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T13:46:03.000Z"
+  },
+  {
+    "id": "ecf20f4e6c7240df",
+    "title": "Aviva Launches New Lifetime Pet Insurance via Price Comparison Websites",
+    "summary": "Aviva today announces the launch of its new Lifetime Pet Insurance product for cats and dogs, helping owners cover the cost of veterinary treatment throughout their pets’ lives.\nThe new product gives customers greater choice and flexibility when purchasing pet insurance, with a range of annual vet-fee limits, core cover, services such as televet, and optional add-ons, making it easier for them to choose insurance that suits their needs.\nThe launch forms part of Aviva’s ambition to grow its presence in the UK pet insurance market, building on the insurer’s existing pet insurance offerings available through its Direct Line and Churchill brands.\nFlexible lifetime cover\nCustomers can choose from annual vet fee limits ranging from £1,000 to £12,000, covering treatment for a range of illnesses and injuries, alongside variable excess and co-payment options.\nUnder the lifetime cover model, if a pet develops an ongoing condition, such as diabetes, after cover has started, customers can continue to claim for treatment year after year, subject to annual limits and provided the policy remains active.\nCover also includes dental treatment following an accident; emergency boarding if a policyholder or family member is unexpectedly hospitalised for more than four consecutive days and is unable to look after their pet; support if a pet is lost or stolen; and cover when travelling with pets in eligible EU countries. Third-party liability protection of up to £2 million is also included for eligible dogs.\nCustomers also benefit from access to Joii Pet Care, providing unlimited 24/7 chat and video consultations with RCVS*-registered vets via the Joii Pet Care app, as well as personalised treatment plans, symptom checking across 160+ conditions and pet health information.\nAviva Lifetime Pet Insurance will initially be available exclusively through MoneySuperMarket, one of the UK’s leading price comparison websites, before expanding to other major price comparison websites throughout 2027.\nNoYesInsurtech24 Nov, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/insurtech/aviva-launches-new-lifetime-pet-insurance-price-comparison-websites",
+    "source": "Financial IT",
+    "tags": [
+      "Aviva",
+      "Joii Pet Care",
+      "MoneySuperMarket",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-24T13:44:17.000Z",
+    "fetchedAt": "2026-11-24T15:01:33.927Z",
+    "isDuplicateOf": null,
+    "content": "Aviva has launched a new Lifetime Pet Insurance product for cats and dogs in the UK, offering flexible annual vet fee limits, dental cover, and 24/7 televet access via Joii Pet Care. The product is initially available exclusively through MoneySuperMarket, marking part of Aviva's broader strategy to expand its presence in the UK pet insurance market.",
+    "content_ta": "UK-ல் பூனைகள் மற்றும் நாய்களுக்கான புதிய Lifetime Pet Insurance தயாரிப்பை Aviva நிறுவனம் அறிமுகப்படுத்தியுள்ளது. இது நெகிழ்வான ஆண்டு கால்நடை கட்டண வரம்புகள், பல் சிகிச்சை பாதுகாப்பு மற்றும் 24/7 டெலிவெட் சேவைகளை வழங்குகிறது. இந்த புதிய காப்பீட்டுத் திட்டம் முதற்கட்டமாக MoneySuperMarket மூலம் பிரத்தியேகமாக வழங்கப்படுகிறது.",
+    "slug": "aviva-launches-new-lifetime-pet-insurance-via-price-comparison-websites"
+  },
+  {
+    "id": "2899d5d376431aed",
+    "slug": "why-are-oil-prices-falling-to-3-month-lows",
+    "title": "Why Are Oil Prices Falling to 3-Month Lows?",
+    "tags": [],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T13:33:16.000Z"
+  },
+  {
+    "id": "b389eb266aaac367",
+    "slug": "deel-launches-card-that-lets-contractors-spend-stablecoin-balance",
+    "title": "Deel launches card that lets contractors spend stablecoin balance",
+    "tags": [],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T13:23:00.000Z"
+  },
+  {
+    "id": "402cc9f0fa7976c0",
+    "slug": "ets-connect-plus-adds-uk-otc-derivatives-post-trade-data",
+    "title": "ETS Connect Plus adds UK OTC derivatives post-trade data",
+    "tags": [
+      "Etrading Software",
+      "ETS Connect Plus",
+      "United Kingdom"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T13:21:00.000Z"
+  },
+  {
+    "id": "f2d9218510372902",
+    "slug": "decred-dcr-price-prediction-2026-2027-2030-will-decred-price-hit-550",
+    "title": "Decred (DCR) Price Prediction 2026, 2027 – 2030: Will Decred Price Hit $550?",
+    "tags": [],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T13:19:00.000Z"
+  },
+  {
+    "id": "96115545c15e58d5",
+    "slug": "uk-retail-group-frasers-partners-visa-for-virtual-card",
+    "title": "UK retail group Frasers partners Visa for virtual card",
+    "tags": [],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T13:19:00.000Z"
+  },
+  {
+    "id": "d80a9ab297367cf7",
+    "slug": "blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors",
+    "title": "BlackRock opens tokenized money market fund with $100 million in assets to Hong Kong investors",
+    "tags": [],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T13:17:35.000Z"
+  },
+  {
+    "id": "58d2d70a84b6f43b",
+    "title": "Artificial Intelligence Thoughts of the Week",
+    "summary": "Artificial Intelligence is so hot, it has earned its own Thoughts of the Week column. Artificial Intelligence investment gaining focus “Bank of America’s latest fund manager survey shows technology exposure falling at its fastest monthly pace in two decades, with 38% of respondents concerned that... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/11/324166-artificial-intelligence-thoughts-of-the-week/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Bank of America"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-24T13:13:48.000Z",
+    "fetchedAt": "2026-11-24T15:01:33.927Z",
+    "isDuplicateOf": null,
+    "content": "Artificial Intelligence is gaining significant attention, prompting a dedicated column for weekly thoughts. Meanwhile, recent fund manager surveys indicate shifting technology exposures, with many investors closely monitoring the rapidly evolving sector and its broader market impacts.",
+    "content_ta": "Artificial Intelligence துறையானது மிகுந்த கவனத்தைப் பெற்றுள்ளது, இதன் காரணமாக வாரத்தின் சிந்தனைகள் என்ற புதிய பகுதி தொடங்கப்பட்டுள்ளது. இதற்கிடையில், சமீபத்திய நிதி மேலாளர் சர்வேக்கள் தொழில்நுட்ப முதலீடுகளில் மாற்றங்கள் ஏற்பட்டுள்ளதைக் காட்டுகின்றன, பல முதலீட்டாளர்கள் இந்த வளர்ந்து வரும் துறையை உன்னிப்பாகக் கவனித்து வருகின்றனர்.",
+    "slug": "artificial-intelligence-thoughts-of-the-week"
+  },
+  {
+    "id": "0980647a2212dd13",
+    "slug": "grayscale-calls-bitcoin-oversold-at-62k-but-warns-of-ai-risks",
+    "title": "Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks",
+    "tags": [],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T13:11:44.000Z"
+  },
+  {
+    "id": "5f33d563d67297e1",
+    "slug": "what-the-junk-bond-market-can-tell-bitcoin-traders-after-monday-s-rebound",
+    "title": "What the junk bond market can tell Bitcoin traders after Monday’s rebound",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T13:10:18.000Z"
+  },
+  {
+    "id": "8c94a2c3a8c905f5",
+    "slug": "morning-minute-jensen-returns-markets-soar-except-crypto",
+    "title": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)",
+    "tags": [],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T13:07:49.000Z"
+  },
+  {
+    "id": "70c3068e1b542f00",
+    "slug": "is-justin-sun-s-dad-selling-tron-inc-shares-to-justin-sun-s-mom",
+    "title": "Is Justin Sun’s dad selling Tron Inc. shares to Justin Sun’s mom?",
+    "tags": [],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T13:07:21.000Z"
+  },
+  {
+    "id": "5f225b8cf56e765f",
+    "slug": "pt-bank-danamon-indonesia-forms-ai-partnership-with-advance-intelligence-group",
+    "title": "PT Bank Danamon Indonesia forms AI partnership with Advance Intelligence Group",
+    "tags": [
+      "PT Bank Danamon Indonesia",
+      "Advance Intelligence Group",
+      "MUFG"
+    ],
+    "source": "Finextra",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T13:07:00.000Z"
+  },
+  {
+    "id": "3b08d350338cdf1a",
+    "slug": "doj-says-lazarus-hijacked-32-binance-platform-addresses",
+    "title": "DoJ says Lazarus hijacked 32 Binance platform addresses",
+    "tags": [],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T13:06:28.000Z"
+  },
+  {
+    "id": "ce922dccff16d481",
+    "slug": "nvidia-s-latest-twist-leaves-one-crypto-trader-with-a-massive-loss-details-inside",
+    "title": "Nvidia’s Latest Twist Leaves One Crypto Trader With a Massive Loss: Details Inside",
+    "tags": [],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T13:03:44.000Z"
+  },
+  {
+    "id": "13823d074eff931a",
+    "slug": "gta-6-pc-ports-nuked-just-days-before-devs-expected-it-to-be-playable",
+    "title": "GTA 6 PC Ports ‘Nuked’ Just Days Before Devs Expected It to Be Playable",
+    "tags": [],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T13:01:30.000Z"
+  },
+  {
+    "id": "562c374ecbe95a27",
+    "title": "FNBO’s Marc Butterfield on preparing for AI agents that shop for credit cards",
+    "summary": "Six months ago, Marc Butterfield sat in Omaha and typed “best sporting goods credit card” into ChatGPT. A card co-brand partner of FNBO’s and the top result in a standard web search for the query, didn’t appear. For Butterfield, Senior Vice President of Product and Innovation at FNBO, the result – or rather the lack … \nContinue reading \"FNBO’s Marc Butterfield on preparing for AI agents that shop for credit cards\"\nThe post FNBO’s Marc Butterfield on preparing for AI agents that shop for credit cards appeared first on Tearsheet.",
+    "hasSummary": true,
+    "link": "https://tearsheet.co/podcasts/fnbos-marc-butterfield-on-preparing-for-ai-agents-that-shop-for-credit-cards/?utm_source=rss&utm_medium=rss&utm_campaign=fnbos-marc-butterfield-on-preparing-for-ai-agents-that-shop-for-credit-cards",
+    "source": "Tearsheet",
+    "tags": [
+      "FNBO",
+      "Marc Butterfield",
+      "ChatGPT"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-24T13:00:00.000Z",
+    "fetchedAt": "2026-11-24T15:01:33.927Z",
+    "isDuplicateOf": null,
+    "content": "Marc Butterfield, Senior Vice President of Product and Innovation at FNBO, highlights the growing importance of preparing for AI shopping agents. After discovering that an FNBO co-brand partner failed to appear in ChatGPT search results for credit card recommendations, Butterfield emphasizes that financial institutions must adapt their digital strategies to ensure visibility when artificial intelligence systems make purchasing decisions on behalf of consumers.",
+    "content_ta": "FNBO-ன் Product and Innovation துறையின் Senior Vice President ஆன Marc Butterfield, AI ஷாப்பிங் ஏஜெண்டுகளுக்கு தயாராவதின் முக்கியத்துவத்தை வலியுறுத்துகிறார். கிரெடிட் கார்டு பரிந்துரைகளுக்கான ChatGPT தேடல் முடிவுகளில் FNBO-ன் கூட்டுப் பங்குதாரர் தோன்றத் தவறியதை உணர்ந்த பிறகு, நுகர்வோர் சார்பாக செயற்கை நுண்ணறிவு அமைப்புகள் வாங்கும் முடிவுகளை எடுக்கும்போது நிதி நிறுவனங்கள் தங்கள் டிஜிட்டல் உத்திகளை மாற்றியமைக்க வேண்டும் என்று அவர் குறிப்பிடுகிறார்.",
+    "slug": "fnbo-s-marc-butterfield-on-preparing-for-ai-agents-that-shop-for-credit-cards"
+  },
+  {
+    "id": "0cda3ae89c0b012a",
+    "slug": "live-updates-bitcoin-pulls-back-to-60-000-stock-rally-fades-as-tariffs-re-enter-the-picture",
+    "title": "Live updates: Bitcoin pulls back to $60,000, stock rally fades, as tariffs re-enter the picture",
+    "tags": [],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T12:47:40.000Z"
+  },
+  {
+    "id": "7ba414298009a29a",
+    "slug": "14-7b-in-lost-bitcoin-has-moved-since-2018-report",
+    "title": "$14.7B in ‘Lost’ Bitcoin Has Moved Since 2018: Report",
+    "tags": [],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T12:40:47.000Z"
+  },
+  {
+    "id": "bba1dcec4d4221f9",
+    "slug": "anthropic-falls-below-ipo-price-the-threat-wasn-t-nvidia-it-came-from-inside",
+    "title": "Anthropic Falls Below IPO Price. The Threat Wasn’t Nvidia, It Came From Inside",
+    "tags": [],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T12:28:10.000Z"
+  },
+  {
+    "id": "700fc6731d71af64",
+    "title": "Pieter van der Does to Retire as Adyen Co-CEO; Ingo Uytdehaage to Become Sole CEO",
+    "summary": "Adyen announces that co-founder and Co-CEO Pieter van der Does will retire effective December 31, 2026. Ingo Uytdehaage, Co-CEO since 2023, will become Adyen’s sole CEO.\nAdyen’s 20th anniversary is the right moment to complete the transition. As the company enters its next chapter, Pieter is retiring from his executive role, confident in the direction Adyen has set. He will remain an advisor to Adyen.\nPieter co-founded Adyen in 2006 and led it through its 2018 listing and its growth into a global financial technology platform, averaging double-digit annual growth since 2007. Pieter built Adyen to transform the payments landscape, and has since solved payment complexity for many of the world’s leading businesses. With the acquisitions of Talon.One and Orb, Adyen is extending its ability to deliver differentiated value and win across the full commerce lifecycle, with a strong leadership team in place.\n“After 20 years, this is the right moment for me to step down on a positive note and with a very good feeling”, says Pieter van der Does, co-founder and Co-CEO of Adyen. “Adyen has been my life’s work, and I’m incredibly proud of what our teams and customers have built together over the past two decades. Ingo and I have worked very closely together as Co-CEOs, and now we have completed the transition. I have full trust and confidence in Ingo to lead the company into its next exciting chapter.”\n“On behalf of the Supervisory Board, I want to thank Pieter for two decades of leadership,” says Herna Verhagen, chair of Adyen’s Supervisory Board. “He built Adyen with conviction, a long-term view and an unusual clarity about what merchants need, and he built it around its people, from a start-up in Amsterdam to a global platform and through its 2018 listing. The company he hands over is ready for its next chapter, and Ingo has the full support of the Supervisory Board as sole CEO. We are glad Pieter will remain available to the company as an advisor.”\n“Pieter built more than a company. He built a culture that shapes how we make decisions, how we treat each other and how we put our merchants first, and it will outlast any one of us,” says Ingo Uytdehaage, Co-CEO of Adyen. “I’ve had the privilege of building Adyen alongside him for more than 15 years. I’m grateful for what he has given the company, and our job now is to keep building on what he started. I look forward to executing on the strategy we built together.”\nAdyen confirms that there are no changes to standing financial objectives.\nNoYesPeople Moves24 Nov, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/people-moves/pieter-van-der-does-retire-adyen-co-ceo-ingo-uytdehaage-become-sole-ceo",
+    "source": "Financial IT",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-24T12:18:52.000Z",
+    "fetchedAt": "2026-11-24T15:01:33.927Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "pieter-van-der-does-to-retire-as-adyen-co-ceo-ingo-uytdehaage-to-become-sole-ceo"
+  },
+  {
+    "id": "ce5f7420b156fc3e",
+    "slug": "bitcoin-developers-propose-fix-for-transaction-verification-gap-affecting-lightning-wallets",
+    "title": "Bitcoin developers propose fix for transaction verification gap affecting Lightning wallets",
+    "tags": [],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T12:10:56.000Z"
+  },
+  {
     "id": "e4d1252dc0f9daf4",
     "slug": "fitch-issues-neutral-outlook-for-global-sovereigns-in-2027-amid-flat-gdp-growth",
     "title": "Fitch issues neutral outlook for global sovereigns in 2027 amid flat GDP growth",
@@ -10,825 +678,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-24T11:59:22.000Z"
-  },
-  {
-    "id": "e680978cdb4c7b90",
-    "slug": "cybersecurity-exhibitors-at-gitex-global-put-ai-agents-at-the-top-of-the-risk-agenda",
-    "title": "Cybersecurity Exhibitors at GITEX GLOBAL Put AI Agents at the Top of the Risk Agenda",
-    "tags": [
-      "GITEX GLOBAL",
-      "CrowdStrike",
-      "Cloudflare",
-      "Forcepoint",
-      "Rapid7",
-      "Keypasco",
-      "World Economic Forum",
-      "UAE Cyber Security Council",
-      "Dubai"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T11:55:57.000Z"
-  },
-  {
-    "id": "ed544ca08607c529",
-    "slug": "worldline-relaunches-global-collect-a-dedicated-cross-border-payments-brand-for-travel-and-digital",
-    "title": "Worldline Relaunches Global Collect: A Dedicated Cross-Border Payments Brand for Travel and Digital Commerce",
-    "tags": [
-      "Worldline",
-      "Global Collect",
-      "Pierre-Antoine Vacheron"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T11:50:14.000Z"
-  },
-  {
-    "id": "83a75163797bf9e6",
-    "slug": "gemini-names-john-york-as-new-coo-former-us-treasury-official",
-    "title": "Gemini names John York as new COO, former US Treasury official",
-    "tags": [
-      "Gemini",
-      "John York",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T11:48:27.000Z"
-  },
-  {
-    "id": "5fb5383035d6c42d",
-    "slug": "okx-and-ice-s-tokenized-stock-venue-sees-1-6-million-in-first-day-trades-allium-says",
-    "title": "OKX and ICE’s tokenized stock venue sees $1.6 million in first-day trades, Allium says",
-    "tags": [
-      "OKX",
-      "ICE",
-      "Allium"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T11:46:40.000Z"
-  },
-  {
-    "id": "171aa8fab949a50e",
-    "slug": "sandbox-sand-price-prediction-2026-2027-2030",
-    "title": "Sandbox (SAND) Price Prediction 2026, 2027 – 2030",
-    "tags": [
-      "Sandbox"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T11:45:02.000Z"
-  },
-  {
-    "id": "6696ebd6c0f361f2",
-    "slug": "gocardless-completes-fca-ai-live-testing-as-research-finds-44-of-brits-say-ai-providers-should-put",
-    "title": "GoCardless Completes FCA AI Live Testing as Research Finds 44% of Brits Say AI Providers Should Put Payment Mistakes Right",
-    "tags": [
-      "GoCardless",
-      "FCA",
-      "Trussell",
-      "United Kingdom"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T11:43:24.000Z"
-  },
-  {
-    "id": "99f8655fad5d62c0",
-    "slug": "raymond-james-keeps-nvidia-at-strong-buy-with-a-350-price-target",
-    "title": "Raymond James keeps Nvidia at Strong Buy with a $350 price target",
-    "tags": [
-      "Raymond James",
-      "Nvidia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T11:42:03.000Z"
-  },
-  {
-    "id": "1a57e2d7ff16a8de",
-    "slug": "trump-says-he-made-the-deal-to-reinstate-jensen-huang-sparking-bipartisan-backlash",
-    "title": "Trump Says He 'Made the Deal' to Reinstate Jensen Huang, Sparking Bipartisan Backlash",
-    "tags": [
-      "Donald Trump",
-      "Jensen Huang",
-      "Nvidia",
-      "White House"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T11:35:13.000Z"
-  },
-  {
-    "id": "ebc5312ae961aac7",
-    "slug": "xai-s-memphis-gas-turbines-seen-as-emblematic-of-the-off-grid-ai-data-center-trend",
-    "title": "xAI’s Memphis gas turbines seen as emblematic of the off-grid AI data center trend",
-    "tags": [
-      "xAI",
-      "Memphis"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T11:32:46.000Z"
-  },
-  {
-    "id": "fc26b7418e84a8f5",
-    "slug": "bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
-    "title": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
-    "tags": [
-      "Bitcoin",
-      "Nvidia"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T11:31:56.000Z"
-  },
-  {
-    "id": "8ea027e40d811fc2",
-    "slug": "solana-validators-can-now-stop-block-processing",
-    "title": "Solana Validators Can Now Stop Block Processing",
-    "tags": [
-      "Solana"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T11:30:00.000Z"
-  },
-  {
-    "id": "35d32afc0080bdd6",
-    "slug": "south-korea-s-draft-crypto-bill-sets-path-for-domestic-icos-while-capping-exchange-shareholder",
-    "title": "South Korea’s draft crypto bill sets path for domestic ICOs while capping exchange shareholder stakes at 20%",
-    "tags": [
-      "South Korea"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T11:25:24.000Z"
-  },
-  {
-    "id": "6fc81d1ef0f704c8",
-    "slug": "franklin-templeton-warns-investors-may-be-overly-concentrated-in-ai",
-    "title": "Franklin Templeton warns investors may be overly concentrated in AI",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T11:23:33.000Z"
-  },
-  {
-    "id": "020413525fc68941",
-    "slug": "spacex-stock-premarket-today-spcx-dips-as-jefferies-sets-210-target",
-    "title": "SpaceX Stock Premarket Today: SPCX Dips As Jefferies Sets $210 Target",
-    "tags": [
-      "SpaceX",
-      "Jefferies"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T11:20:16.000Z"
-  },
-  {
-    "id": "eb7cb69cdf54b910",
-    "slug": "citigroup-lifts-nvidia-price-target-to-240-keeps-buy-rating",
-    "title": "Citigroup lifts Nvidia price target to $240, keeps Buy rating",
-    "tags": [
-      "Citigroup",
-      "Nvidia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T11:15:30.000Z"
-  },
-  {
-    "id": "1a456c30359ceb75",
-    "slug": "hack-or-sell-off-ansem-s-wallet-dumps-2-million-as-his-meme-coin-crashes-40",
-    "title": "Hack or Sell-Off? Ansem's Wallet Dumps $2 Million as His Meme Coin Crashes 40%",
-    "tags": [
-      "ANSEM",
-      "Crypto Briefing"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T11:15:04.000Z"
-  },
-  {
-    "id": "2853f8061f91292c",
-    "slug": "bitcoin-s-drop-to-55-000-left-a-record-11-6-million-btc-underwater",
-    "title": "Bitcoin’s drop to $55,000 left a record 11.6 million BTC underwater",
-    "tags": [
-      "Bitcoin",
-      "FTX"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T11:11:38.000Z"
-  },
-  {
-    "id": "4af4665df62b5678",
-    "slug": "in-profile-mira-boora-coo-and-co-founder-at-yeeld",
-    "title": "In Profile: Mira Boora, COO and Co-Founder at Yeeld",
-    "tags": [
-      "Mira Boora",
-      "Yeeld",
-      "OFX",
-      "Stripe"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T11:01:19.000Z"
-  },
-  {
-    "id": "8bcdcdc7ccc9ec50",
-    "slug": "avalanche-eyes-a-new-economic-model-could-avax-finally-benefit-from-network-adoption",
-    "title": "Avalanche Eyes A New Economic Model – Could AVAX Finally Benefit From Network Adoption?",
-    "tags": [
-      "Avalanche",
-      "AVAX"
-    ],
-    "source": "Bitcoinist",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T10:56:59.000Z"
-  },
-  {
-    "id": "430f927263767153",
-    "title": "Form3 Partners With Coinbase Infrastructure to Bring Stablecoin Money Movement to Its Global Customer Base",
-    "summary": "Form3, a leading global fintech offering account-to-account payments technology, today announced it is using Coinbase infrastructure to bring stablecoin money movement to its global customer base, offering clients a single hub for money movement. \nStablecoins are becoming increasingly popular thanks to their ability to enable off-hours cash movement, lower transaction fees, expanded local payments access and faster processing. However, financial institutions moving between fiat and these digital assets face the problem of having to stitch together multiple banking and crypto holding systems, resulting in additional integrations, fragmented processes and the need for manual intervention. This new initiative brings stablecoin payment capabilities into the existing Form3 platform that Tier 1 banks already rely upon.\nForm3 customers with a regulated Coinbase account will be able to fund via fiat currency and then mint stablecoins in their Coinbase wallet through Form3’s API.\nForm3’s payments platform serves as the financial fabric that enables customers to connect to payment rails across North America, the UK and Europe to deliver seamless instant payments. This new development extends this connectivity to support clients’ adoption of new forms of money, including stablecoins. Form3’s customers include leading Tier 1 banks and fintechs, including J.P. Morgan Payments, Barclays, Santander, and Klarna.\nDave Scola, US CEO at Form3, commented: “Digital assets, like stablecoins, are continuing to gain traction as an effective cross-border payment method. However, unless banks and fintechs have practical ways to integrate stablecoins into their offering, their benefits will be confined to theory only. \nRather than building a separate asset stack, our focus is on leveraging our existing institutional-grade fiat payments infrastructure which our customers already rely on and collaborating with Coinbase, a market leader in this space, to enable our customers to unlock the value of stablecoins as part of everyday payment operations.”\nNoYesPayments24 Nov, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/payments/form3-partners-coinbase-infrastructure-bring-stablecoin-money-movement-its-global",
-    "source": "Financial IT",
-    "tags": [
-      "Form3",
-      "Coinbase",
-      "North America",
-      "United Kingdom",
-      "Europe"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-11-24T10:53:38.000Z",
-    "fetchedAt": "2026-11-24T12:01:31.972Z",
-    "isDuplicateOf": null,
-    "content": "Form3 has partnered with Coinbase Infrastructure to integrate stablecoin money movement into its global payments platform. The collaboration allows Form3 customers with regulated Coinbase accounts to fund via fiat currency and mint stablecoins using Form3's API, bridging traditional banking and digital assets for Tier 1 banks and financial institutions.",
-    "content_ta": "Form3 நிறுவனம் தனது உலகளாவிய கட்டண மேடையில் stablecoin பணப் பரிமாற்றங்களை இணைப்பதற்காக Coinbase Infrastructure உடன் கூட்டு சேர்ந்துள்ளது. இந்த ஒத்துழைப்பின் மூலம், regulat செய்யப்பட்ட Coinbase கணக்குகளைக் கொண்ட Form3 வாடிக்கையாளர்கள் fiat currency மூலம் நிதி வழங்கி, Form3 இன் API ஐப் பயன்படுத்தி stablecoins-களை உருவாக்க முடியும்.",
-    "slug": "form3-partners-with-coinbase-infrastructure-to-bring-stablecoin-money-movement-to-its-global"
-  },
-  {
-    "id": "417ee0a713e12d1e",
-    "slug": "bitcoin-dumps-below-60k-again-after-huang-s-reinstatement-altcoins-crash-market-watch",
-    "title": "Bitcoin Dumps Below $60K Again After Huang’s Reinstatement, Altcoins Crash: Market Watch",
-    "tags": [
-      "Bitcoin",
-      "ZEC"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T10:53:18.000Z"
-  },
-  {
-    "id": "081692946e1c5ff2",
-    "slug": "silver-hits-its-most-oversold-level-since-covid-without-2020-s-rate-cuts",
-    "title": "Silver Hits Its Most Oversold Level Since Covid, Without 2020's Rate Cuts",
-    "tags": [
-      "Silver"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T10:50:16.000Z"
-  },
-  {
-    "id": "e7f5a545aad671b2",
-    "slug": "anthropic-and-openai-staff-warn-unreleased-ai-models-may-be-too-risky-to-ship",
-    "title": "Anthropic and OpenAI staff warn unreleased AI models may be too risky to ship",
-    "tags": [
-      "Anthropic",
-      "OpenAI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T10:48:52.000Z"
-  },
-  {
-    "id": "2fa7f823d78ee23c",
-    "slug": "crowdstrike-stock-falls-9-despite-record-earnings-why-the-43-9-billion-zscaler-deal-spooked",
-    "title": "CrowdStrike Stock Falls 9% Despite Record Earnings: Why the $43.9 Billion Zscaler Deal Spooked Investors",
-    "tags": [
-      "CrowdStrike",
-      "Zscaler"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T10:45:19.000Z"
-  },
-  {
-    "id": "a65fab7b71f1f577",
-    "title": "BKN301 and Mambu Team Up to Accelerate the Adoption of Modern Banking Technologies",
-    "summary": "BKN301 and Mambu today announced a strategic partnership, joining forces to accelerate innovation and commercial expansion for financial institutions and fintechs by enabling the adoption of composable banking architectures.\nThe partnership combines Mambu’s Intelligent Core with BKN301’s sovereign AI and data infrastructure. Mambu’s Intelligent Core brings together Mambu’s core banking platform, Mambu Payments and Mambu Agentic, a native layer of AI connectivity, specialised agents and autonomous workflows connected directly to the core.\nThe BKN301 Orchestrator extends governed AI across the entire financial operation, unifying data from every system, including legacy and third-party platforms, and running AI on infrastructure the institution owns and controls, with no data leaving its perimeter. Together, they create a flexible, composable foundation that reduces complexity and integration risk, increasing agility and enabling faster adoption of modern banking technologies.\nThe collaboration is closely aligned with the vision outlined in Mambu’s Prediction Report 2026, which highlights a fundamental shift in the financial industry: banking is no longer defined by balance sheets and physical branches, but by the technology that connects products, services, and ecosystems. In this context, composable banking emerges as a strategic imperative for institutions seeking to remain competitive, scalable, and resilient.\nThrough this transformative partnership, institutions adopting Mambu gain a more effective way to access and implement Mambu’s Intelligent Core, thanks to the BKN301 Orchestrator acting as an enablement layer.\nAs an additional benefit, financial institutions increase the resilience of their banking infrastructure through BKN301’s Data Decoupling. By standardising and normalising data from all backend sources into a single, governed and continuously updated foundation, BKN301 improves data consistency, operational transparency, and provides a robust base for advanced analytics and AI-driven use cases.\nBy joining forces, BKN301 and Mambu redefine how financial institutions approach digital banking, shifting from rigid, monolithic infrastructures to flexible ecosystems that evolve together with market demands and customer expectations.\n“This partnership with Mambu reflects our shared vision of a more agile and accessible financial ecosystem,” said Stiven Muccioli, Founder & CEO at BKN301. “By combining Mambu’s cloud-native core with BKN301’s orchestration and data decoupling capabilities, we enable financial institutions to modernise faster, reduce complexity, and build AI-native, future-ready architectures without disruption.”\n“This partnership is about removing friction for our customers,” said Patrick Rood, Director of Partner Business at Mambu. “BKN301's orchestration and data decoupling capabilities make it easier for institutions to adopt Mambu's Intelligent Core and get more value from it, faster and without the integration overhead that typically slows modernisation down.”\nNoYesBanking24 Nov, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/banking/bkn301-and-mambu-team-accelerate-adoption-modern-banking-technologies",
-    "source": "Financial IT",
-    "tags": [],
-    "origin": "rss",
-    "pubDate": "2026-11-24T10:39:13.000Z",
-    "fetchedAt": "2026-11-24T12:01:31.972Z",
-    "isDuplicateOf": null,
-    "content": null,
-    "slug": "bkn301-and-mambu-team-up-to-accelerate-the-adoption-of-modern-banking-technologies"
-  },
-  {
-    "id": "a810578dc9ee9f35",
-    "slug": "coinshares-argues-the-real-ai-winners-may-own-the-power-plugs-not-the-models",
-    "title": "CoinShares argues the real AI winners may own the power plugs, not the models",
-    "tags": [
-      "CoinShares"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T10:32:59.000Z"
-  },
-  {
-    "id": "a5e130d84dfda2e0",
-    "slug": "gop-senators-question-nvidia-ceo-jensen-huang-s-reinstatement-amid-controversy",
-    "title": "GOP senators question Nvidia CEO Jensen Huang’s reinstatement amid controversy",
-    "tags": [
-      "Nvidia",
-      "Jensen Huang",
-      "GOP"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T10:32:20.000Z"
-  },
-  {
-    "id": "9d1fc339569af697",
-    "slug": "trezor-tells-crypto-users-never-to-enter-wallet-backups-on-phones-amid-theft-probe",
-    "title": "Trezor Tells Crypto Users Never to Enter Wallet Backups on Phones Amid Theft Probe",
-    "tags": [
-      "Trezor"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T10:30:00.000Z"
-  },
-  {
-    "id": "bbe984bbde33a002",
-    "slug": "south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
-    "title": "South Korea regulator backs bank-controlled stablecoins after months of dispute",
-    "tags": [
-      "South Korea"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T10:29:14.000Z"
-  },
-  {
-    "id": "a957f25d45696880",
-    "slug": "centrifuge-backed-n1ema-fund-wins-a-spot-in-project-harmonia-s-first-cohort",
-    "title": "Centrifuge-backed N1EMA fund wins a spot in Project Harmonia’s first cohort",
-    "tags": [
-      "Centrifuge",
-      "N1EMA",
-      "Project Harmonia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T10:25:47.000Z"
-  },
-  {
-    "id": "fdef26e59f146926",
-    "slug": "arkham-launches-government-tracker-dashboard-for-23-79b-in-on-chain-holdings",
-    "title": "Arkham launches government tracker dashboard for $23.79B in on-chain holdings",
-    "tags": [
-      "Arkham"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T10:24:19.000Z"
-  },
-  {
-    "id": "28d29f97292125e4",
-    "title": "Enfuce Appoints Vanessa Schotes as Chief Operating Officer, Unifying Focus on Operational Excellence as the Business Scales",
-    "summary": "Enfuce, Europe’s card issuing and processing powerhouse, today announces that Vanessa Schotes will take on the newly created role of Chief Operating Officer alongside her marketing remit. After four years as Chief Marketing Officer, Schotes will own the end-to-end customer journey and the quality of service Enfuce’s customers experience, from onboarding and everyday support through to the operational controls that keep its service reliable.\nQuality has always been Enfuce’s edge, and as the company scales, the appointment gives it a dedicated leader with a seat at the management table. Schotes will lead Customer Onboarding, Operations and Marketing, working across the business to set clear service standards, keep operations resilient and drive continuous improvement at every point where customers experience Enfuce.\nSchotes will also play a greater role in Enfuce’s growth in the DACH region, where it works with customers such as Porsche and Crédit Agricole Deutschland, and partners such as Giesecke+Devrient (G+D). Earlier this month, Crédit Agricole Deutschland selected Enfuce as card processor and BIN sponsor for its Visa debit card.\nEnfuce has been female-founded and led since 2016, with women in senior roles across its management team.\n“As Enfuce grows, we need to make sure the way we operate and serve our customers develops at the same pace as our technology and commercial capabilities. I want us to be more predictable, proactive and efficient, and make Happiness Built In something our customers experience every day.\nVanessa knows our business and our customers, and she brings the leadership, customer focus and drive for improvement that I believe we need for this next phase. I’m confident she will challenge how we work and help us build an operations organisation that can scale with our ambitions.”\nDenise Johansson\nCEO and Co-founder of Enfuce\n“Every card programme we run is a promise our customers make to their own customers, and quality is how we help them keep it. As COO, my focus is on clear service standards and continuous improvement at every point where customers experience Enfuce. I look forward to evolving our operational excellence even further as we continue to scale.“ \nVanessa Schotes\nChief Operating Officer and Chief Marketing Officer of Enfuce\nNoYesPeople Moves24 Nov, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/people-moves/enfuce-appoints-vanessa-schotes-chief-operating-officer-unifying-focus-operational",
-    "source": "Financial IT",
-    "tags": [
-      "Enfuce",
-      "Vanessa Schotes",
-      "Porsche",
-      "Crédit Agricole Deutschland",
-      "Giesecke+Devrient"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-11-24T10:22:39.000Z",
-    "fetchedAt": "2026-11-24T12:01:31.972Z",
-    "isDuplicateOf": null,
-    "content": "Enfuce has appointed Vanessa Schotes as Chief Operating Officer, combining her new operational duties with her existing marketing role. Schotes, who has spent four years as Chief Marketing Officer, will now oversee customer onboarding, operations, and marketing to drive service quality and operational resilience as the business scales. She will also support the company's growth in the DACH region.",
-    "content_ta": "Enfuce நிறுவனத்தின் புதிய Chief Operating Officer-ஆக Vanessa Schotes நியமிக்கப்பட்டுள்ளார். ஏற்கனவே Chief Marketing Officer-ஆக பணியாற்றி வரும் இவர், இனி வாடிக்கையாளர் சேவைகள் மற்றும் செயல்பாட்டு தரத்தை மேம்படுத்தும் பொறுப்பையும் கவனிப்பார். மேலும், DACH பிராந்தியத்தில் நிறுவனத்தின் வளர்ச்சியை அவர் ஊக்குவிப்பார்.",
-    "slug": "enfuce-appoints-vanessa-schotes-as-chief-operating-officer-unifying-focus-on-operational-excellence"
-  },
-  {
-    "id": "b3e712fe9fbcbd9a",
-    "slug": "anthropic-researcher-publishes-ai-built-lean-proof-of-the-riemann-hypothesis",
-    "title": "Anthropic researcher publishes AI-built Lean proof of the Riemann hypothesis",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T10:20:19.000Z"
-  },
-  {
-    "id": "fc63b531cdf59ae9",
-    "slug": "solana-token-crashes-60-amid-suspected-2-15-million-usdc-hack",
-    "title": "Solana token crashes 60% amid suspected $2.15 million USDC hack",
-    "tags": [
-      "Solana",
-      "USDC"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T10:16:03.000Z"
-  },
-  {
-    "id": "59d457a5d913baf5",
-    "slug": "coreweave-faces-mounting-risks-as-nvidia-turmoil-rattles-its-biggest-backer",
-    "title": "CoreWeave faces mounting risks as Nvidia turmoil rattles its biggest backer",
-    "tags": [
-      "CoreWeave",
-      "Nvidia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T10:15:24.000Z"
-  },
-  {
-    "id": "b2cee6491b8c71a2",
-    "slug": "nvidia-loses-2-7t-in-45-days-faces-hurdles-for-quick-rebound",
-    "title": "Nvidia loses $2.7T in 45 days, faces hurdles for quick rebound",
-    "tags": [
-      "Nvidia"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T10:10:17.000Z"
-  },
-  {
-    "id": "087a3456e19a46dc",
-    "slug": "nasdaq-100-surges-6-8-as-ai-stocks-rebound-what-does-it-mean-for-bitcoin",
-    "title": "Nasdaq 100 Surges 6.8% As AI Stocks Rebound – What Does It Mean For Bitcoin?",
-    "tags": [],
-    "source": "Bitcoinist",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T10:09:44.000Z"
-  },
-  {
-    "id": "6a3589afeccdb68b",
-    "slug": "bitcoin-falls-below-60-000-as-rally-on-jensen-huang-s-nvidia-return-fades",
-    "title": "Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades",
-    "tags": [
-      "Bitcoin",
-      "Nvidia",
-      "Nasdaq 100"
-    ],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T10:08:38.000Z"
-  },
-  {
-    "id": "48f1af086f0299bd",
-    "slug": "uk-government-backs-agon-dynamics-in-70-million-round-for-ai-defense-training",
-    "title": "UK government backs Agon Dynamics in $70 million round for AI defense training",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T10:07:48.000Z"
-  },
-  {
-    "id": "8fdbeb36dee178be",
-    "slug": "swiss-national-bank-ubs-and-six-explore-tokenized-settlement-under-project-helvetia",
-    "title": "Swiss National Bank, UBS and SIX explore tokenized settlement under Project Helvetia",
-    "tags": [
-      "Swiss National Bank",
-      "UBS",
-      "SIX",
-      "Project Helvetia",
-      "Switzerland"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T10:06:41.000Z"
-  },
-  {
-    "id": "1d5ff60ae48d4f1f",
-    "slug": "3-days-after-the-riemann-hypothesis-claude-proves-a-second-famous-math-problem-alone",
-    "title": "3 Days After the Riemann Hypothesis, Claude Proves a Second Famous Math Problem Alone",
-    "tags": [
-      "Claude",
-      "Bitcoin"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T10:04:54.000Z"
-  },
-  {
-    "id": "dba7cb36fcb298f4",
-    "slug": "okxice-goes-live-despite-objections-from-90-firms-details",
-    "title": "OKXICE goes live despite objections from 90% firms — Details!",
-    "tags": [
-      "OKXICE"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T10:00:00.000Z"
-  },
-  {
-    "id": "0caa874285615001",
-    "slug": "flop-labs-pushes-back-testnet-launch-amid-final-preparations",
-    "title": "Flop Labs Pushes Back Testnet Launch Amid Final Preparations",
-    "tags": [
-      "Flop Labs",
-      "FLOP Network"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T10:00:00.000Z"
-  },
-  {
-    "id": "faae8833fb9b04fb",
-    "title": "Pliant Secures More Than €200 Million in Additional Financing Capacity to Support European Growth",
-    "summary": "Pliant, a global fintech specializing in highly modular B2B payment solutions, today announced that it has secured more than €200 million in additional debt financing capacity through three transactions with Ascory Bank AG and Viola Credit. The financing strengthens Pliant's ability to support growing credit card payment volumes and customer credit card lines across Europe, providing a scalable refinancing foundation for its continued expansion.\nThe financing structures are designed to address the distinct liquidity requirements of commercial card issuing, including funding customer credit balances and meeting card scheme settlement collaterals. By securing secured financing against both, Pliant can support greater transaction volumes while maintaining a scalable and efficient funding model.\nThe transactions include two facilities provided by Ascory Bank, a long-standing partner of Pliant. The first uses a securitization structure backed by receivables from Pliant's European corporate credit card business. The second supports collateral requirements associated with Visa's card settlement process (Visa Prefunding Solution), helping Pliant manage the liquidity needed to support increasing card transaction volumes.\nThe third transaction extends Pliant's existing growth debt facility with Viola Credit, including an option to increase financing capacity. Together, the arrangements provide additional financial flexibility and are expected to support Pliant's anticipated European growth over at least the next two years.\n“As our European business continues to scale, it's critical that our financing infrastructure grows alongside it,” said Malte Rau, CEO and co-founder of Pliant. “These agreements give us significantly greater capacity to support our customers' payment needs while continuing to expand our commercial card business. They also reflect the strength of the financial infrastructure we've built and the confidence our financing partners have in Pliant's long-term growth.”\n“We have worked with Pliant for more than six years, so it is particularly rewarding to see how our partnership has developed over time,” said Lukas Diehl, Head of Corporate Clients at Ascory Bank. “During that period, both Pliant and Ascory have grown significantly, while maintaining the trust and close collaboration that have characterized our relationship from the beginning. With this financing, we are taking the next step and providing Pliant with a flexible solution that supports its continued growth.”\n“We’re excited to continue backing Pliant as the company expands into new markets while maintaining a strong European presence,” Elad Friedman, Managing Director at Viola Credit. “Over the past years Pliant has emerged as the leading Europe HQed provider of corporate credit card solutions, and together with the new capital raise will continue its growth into new verticals and markets.”\nThe announcement follows Pliant's recently announced $80 million Series C funding round, which will support further international expansion and development of its AI-powered payment infrastructure. The new debt financing arrangements complement that investment by providing additional capacity to support Pliant's growing European commercial card business.\nNoYesFundraising News24 Nov, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/fundraising-news/pliant-secures-more-eu200-million-additional-financing-capacity-support",
-    "source": "Financial IT",
-    "tags": [
-      "Pliant",
-      "Ascory Bank",
-      "Viola Credit",
-      "Visa",
-      "Europe"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-11-24T09:52:40.000Z",
-    "fetchedAt": "2026-11-24T12:01:31.972Z",
-    "isDuplicateOf": null,
-    "content": "Fintech company Pliant has secured more than €200 million in additional financing capacity through transactions with Ascory Bank and Viola Credit. The new funding will support the company's growing credit card payment volumes, customer credit lines, and overall European expansion. This follows a recent Series C funding round and will help fund Pliant's commercial card issuing and settlement requirements over the coming years.",
-    "content_ta": "ஃபின்டெக் நிறுவனமான Pliant, Ascory Bank மற்றும் Viola Credit நிறுவனங்களுடன் மேற்கொண்ட நிதி ஏற்பாடுகள் மூலம் €200 மில்லியனுக்கும் அதிகமான கூடுதல் நிதி வசதியைப் பெற்றுள்ளது. இந்த புதிய நிதி நிறுவனத்தின் வளர்ந்து வரும் கிரெடிட் கார்டு கட்டண அளவுகள், வாடிக்கையாளர் கடன் வரம்புகள் மற்றும் ஐரோப்பிய விரிவாக்கத்தை ஆதரிக்கும்.",
-    "slug": "pliant-secures-more-than-200-million-in-additional-financing-capacity-to-support-european-growth"
-  },
-  {
-    "id": "61ab60e41966fee3",
-    "slug": "16-polymarket-wallets-turn-20-000-into-350-000-before-jensen-huang-s-shock-nvidia-return",
-    "title": "16 Polymarket wallets turn $20,000 into $350,000 before Jensen Huang’s shock NVIDIA return",
-    "tags": [
-      "Polymarket",
-      "NVIDIA",
-      "Jensen Huang",
-      "Donald Trump"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T09:50:23.000Z"
-  },
-  {
-    "id": "4e15422729e82a2a",
-    "slug": "shiba-inu-shib-community-builds-new-shibarium-explorer-while-shytoshi-kusama-stays-silent",
-    "title": "Shiba Inu (SHIB) Community Builds New Shibarium Explorer While Shytoshi Kusama Stays Silent",
-    "tags": [
-      "Shiba Inu",
-      "Shibarium",
-      "Shytoshi Kusama"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T09:32:20.000Z"
-  },
-  {
-    "id": "d6a517535db38163",
-    "slug": "bitcoin-dips-back-under-60k-as-gold-seals-worst-60-day-loss-since-1980s",
-    "title": "Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T09:25:45.000Z"
-  },
-  {
-    "id": "3e8d84cf68f917d9",
-    "slug": "sui-price-tests-critical-0-65-support-is-a-recovery-finally-taking-shape-to-1",
-    "title": "SUI Price Tests Critical $0.65 Support – Is a Recovery Finally Taking Shape to $1?",
-    "tags": [
-      "SUI"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T09:20:57.000Z"
-  },
-  {
-    "id": "cb4e63f98befdb5f",
-    "title": "Zopa Bank Joins Warm Homes Loan Scheme to Help Millions of Brits Cut the Cost of Green Home Upgrades",
-    "summary": "Zopa, the British digital bank pioneer with 2 million customers, has joined the government’s Warm Homes Loan Scheme to help eligible customers lower the cost of their green home upgrades. \nZopa is offering eligible customers lower-cost financing on heat pumps, solar panels, and solar battery storage at rates ranging from 3.6% to 4.6% APR over 3 to 10 years, available through participating installation partners. \nFor example, a customer borrowing £10,000 over 10 years at 4.6% APR would pay £25.61 less each month than on an equivalent loan at 9.9% APR, cutting total interest costs by 55.7% and saving the customer approximately £3,073 across the full term.*\nApplications for Zopa finance are subject to eligibility, credit and affordability checks.\nThe announcement comes as more households and businesses invest in technology to generate and store energy than ever before. There were around 36,000 certified battery storage installations across the UK in the first half of 2026 alone, almost double the number recorded in the same period a year earlier.\nMaking these technologies more affordable will be key to sustaining that momentum. For many customers, however, the upfront cost remains a barrier to making these improvements. \nTim Waterman, Chief Commercial Officer at Zopa Bank, said: “Everyone should have the opportunity to live in a home that’s warmer, greener and more affordable to run. But for too many households, the upfront cost of technologies like heat pumps and solar panels stands in the way of that transition.\n“By joining the Warm Homes Loan Scheme, Zopa is helping to turn the ambition for a warmer, more affordable home into reality. By bringing down the cost of finance and giving eligible customers the option to spread payments over up to 120 monthly instalments, we’re enabling more people to take greater control of their energy use, offering more choice over how they pay alongside reassurance of a fully regulated experience.”\nMinister for Local Jobs and Energy Minister McCluskey said: “Zopa Bank joining the Warm Homes Loan Scheme is great news for consumers, as we have seen significant demand since we launched last month.\n“Low and no interest loans allow people to benefit from clean energy tech such as solar, heat pumps and batteries - with no upfront costs - so more families can save on their bills.”\nThe news further supports Zopa’s entry into green lending and Zopa for Business' provision of more payment and finance tools for UK businesses.\nIn 2024, Zopa partnered with Octopus Energy to enter the £23bn renewable energy market; in 2026, it has partnered with Hive Energy and Segen to give customers more financing options when upgrading their homes.\nThis year’s partnerships launched alongside Zopa for Business, Zopa’s bolstered business offering that brings payments, retail finance, auto finance and embedded partnerships into a single platform.\nDesigned to help businesses accept payments, offer finance and complete more sales by integrating once without juggling multiple providers, it follows Zopa’s acquisition of payments platform Rvvup in 2025 and point-of-sale finance platform DivideBuy in 2023.\nThese developments contribute to Zopa’s sustained profitable growth, having originated £1.6 billion in new lending in the first half of 2026, up 35% year on year. As a result, Zopa is now the UK’s largest open-market lender for personal loans by volume and among the top three by value. \nOne of the UK’s highest rated and most celebrated financial brands, Zopa has been recognised with over 10 British Bank Awards, holds a Trustpilot rating of 4.6/5, and has one of the highest customer satisfaction scores in the industry.  \nNoYesLending24 Nov, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/lending/zopa-bank-joins-warm-homes-loan-scheme-help-millions-brits-cut-cost-green-home-upgrades",
-    "source": "Financial IT",
-    "tags": [
-      "Zopa Bank",
-      "United Kingdom"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-11-24T09:14:15.000Z",
-    "fetchedAt": "2026-11-24T12:01:31.972Z",
-    "isDuplicateOf": null,
-    "content": "Zopa Bank has joined the UK government's Warm Homes Loan Scheme to provide affordable financing for green home upgrades like heat pumps and solar panels. The digital bank is offering reduced interest rates to help eligible customers cut upfront costs, lower energy bills, and make their homes more energy efficient. This move supports Zopa's broader expansion into renewable energy and green lending.",
-    "content_ta": "UK அரசின் Warm Homes Loan Scheme திட்டத்தில் Zopa Bank இணைந்துள்ளது. இதன் மூலம் ஹீட் பம்ப் மற்றும் சோலார் பேனல் போன்ற பசுமை இல்ல மேம்பாடுகளுக்கு குறைந்த வட்டியில் கடன் வழங்கப்படுகிறது. தகுதியுள்ள வாடிக்கையாளர்கள் அதிக செலவின்றி தங்கள் வீடுகளை ஆற்றல் திறன்மிக்கதாக மாற்ற இந்தத் திட்டம் உதவுகிறது.",
-    "slug": "zopa-bank-joins-warm-homes-loan-scheme-to-help-millions-of-brits-cut-the-cost-of-green-home-upgrades"
-  },
-  {
-    "id": "c18a532b0b70c732",
-    "title": "Cytora and GBG Partner to Bring Identity and Financial Crime Checks Into Commercial Underwriting",
-    "summary": "Cytora, the risk digitization and automation platform for commercial insurance, and GBG, the AI trust intelligence platform, today announced a partnership that puts identity verification, business verification and financial crime screening inside Cytora's risk workflows. \nEvery commercial submission raises two questions before anything else can happen: who is this, and can we do business with them? Today those answers usually arrive late, assembled by hand from company registries, sanctions lists and internal checks, often after an underwriter has already formed a view. Under this partnership, they arrive with the submission.\nAs each risk is digitized, the Cytora platform queries GBG to resolve the insured entity and return:\nIdentity verification (KYC): confirms the individuals behind the business are real and correctly identified\nBusiness verification (KYB): confirms the entity exists, and shows its structure and [ultimate ownership, where available by jurisdiction]\nSanctions, PEP and AML screening: checks against global watchlists, with the evidence attached to the record\nThe result is a decision-ready risk that can be evaluated against the insurer's own appetite rules. Clean risks flow through to straight-through processing. Anything that warrants a closer look is routed to specialist review with the supporting evidence already gathered, so the reviewer starts from a position of knowing rather than asking. Because the checks run inside the workflow, every one of them is logged and auditable.\nFor insurers writing financial lines, commercial package, specialty and other complex risks, this turns due diligence from a task performed after submission into a control that operates during it, without adding a step for the underwriter.\nGBG joins Cytora's Data Partner Ecosystem as its identity and financial crime intelligence partner. \nThe partnership adds a capability that has been largely absent from the commercial insurance data landscape. Cytora's ecosystem already spans property, climate, cyber, financial and geospatial data; identity and financial crime intelligence completes the picture at the point where every risk relationship begins.\nZurich scaled Cytora's agentic AI to five countries in 90 days and is scaling AI-powered risk digitization across 20+ markets within the first 16 months, reducing manual processing time by over 80 per cent. GBG supports more than 20,000 customers worldwide and processes around 800 million identity checks a year.\n“Every risk decision starts with knowing who you are dealing with. With GBG in our Data Partner Ecosystem, insurers can verify the entity and screen for financial crime as the submission is digitized, so underwriters start from a verified risk, not a question.”\nJuan De Castro, COO, Cytora\n“Financial crime checks shouldn't be the step that slows an underwriter down, or the one that gets skipped when the queue is long. Inside Cytora, they run as each submission arrives. Clean risks move. The ones that deserve a closer look get one, with the evidence already attached.”\nGus Tomlinson, Chief Product & Technology Officer, GBG\nNoYesCybersecurity24 Nov, 2026",
-    "hasSummary": true,
-    "link": "https://financialit.net/news/cybersecurity/cytora-and-gbg-partner-bring-identity-and-financial-crime-checks-commercial",
-    "source": "Financial IT",
-    "tags": [
-      "Cytora",
-      "GBG",
-      "Zurich"
-    ],
-    "origin": "rss",
-    "pubDate": "2026-11-24T09:09:17.000Z",
-    "fetchedAt": "2026-11-24T12:01:31.972Z",
-    "isDuplicateOf": null,
-    "content": "Cytora, a risk digitization platform for commercial insurance, has partnered with AI trust intelligence platform GBG. The collaboration integrates identity verification, business verification, and financial crime screening directly into Cytora's risk workflows. By automating these essential checks upon submission, insurers can improve due diligence, accelerate decision-making, and enhance compliance without adding manual steps for underwriters.",
-    "content_ta": "கமர்ஷியல் இன்சூரன்ஸுக்கான ரிஸ்க் டிஜிட்டைசேஷன் பிளாட்ஃபார்மான Cytora, ஏஐ டிரஸ்ட் இன்டலிஜென்ஸ் பிளாட்ஃபார்மான GBG-யுடன் கூட்டாண்மை அமைத்துள்ளது. இந்த ஒத்துழைப்பு மூலம் அடையாள சரிபார்ப்பு, வணிக சரிபார்ப்பு மற்றும் நிதி குற்றப் பரிசோதனைகள் அனைத்தும் Cytora-வின் ரிஸ்க் வொர்க்ஃப்ளோவில் நேரடியாக இணைக்கப்படுகின்றன. விண்ணப்பம் வந்தவுடன் இந்த சோதனைகளை தானியக்கமாக்குவதன் மூலம், இன்சூரன்ஸ் நிறுவனங்கள் மேனுவல் வேலைகளைக் குறைத்து விரைவாக முடிவெடுக்க முடியும்.",
-    "slug": "cytora-and-gbg-partner-to-bring-identity-and-financial-crime-checks-into-commercial-underwriting"
-  },
-  {
-    "id": "d0cbd0c18ace9952",
-    "slug": "pi-network-s-next-big-event-is-coming-here-s-the-key-deadline-for-pioneers",
-    "title": "Pi Network’s Next Big Event Is Coming: Here’s the Key Deadline for Pioneers",
-    "tags": [
-      "Pi Network"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T09:04:09.000Z"
-  },
-  {
-    "id": "cc241fafaad82cba",
-    "slug": "bitcoin-s-next-crash-may-come-from-holders-not-leverage-as-10-7-billion-gets-liquidated",
-    "title": "Bitcoin’s next crash may come from holders, not leverage, as $10.7 billion gets liquidated",
-    "tags": [
-      "Bitcoin",
-      "Glassnode",
-      "CryptoSlate"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T08:30:22.000Z"
-  },
-  {
-    "id": "6775e7bb15420a05",
-    "slug": "uk-ico-monitors-agentic-ai-rollout-and-engages-with-major-developers",
-    "title": "UK ICO monitors agentic AI rollout and engages with major developers",
-    "tags": [
-      "UK ICO",
-      "United Kingdom"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T08:15:58.000Z"
-  },
-  {
-    "id": "c847985f4bc5510c",
-    "slug": "binance-hack-us-moves-to-recover-1-1-billion-but-who-gets-the-money",
-    "title": "Binance Hack: US Moves to Recover $1.1 Billion, but Who Gets the Money?",
-    "tags": [
-      "Binance",
-      "Circle",
-      "USDC",
-      "United States",
-      "Abu Dhabi"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T08:09:55.000Z"
-  },
-  {
-    "id": "16df24f331e07881",
-    "slug": "adfw-2026-unveils-partner-led-programme-headlined-by-l-imad",
-    "title": "ADFW 2026 Unveils Partner-Led Programme Headlined by L’IMAD",
-    "tags": [
-      "Abu Dhabi Finance Week",
-      "L’IMAD",
-      "ADCB",
-      "Mubadala",
-      "Binance",
-      "HSBC",
-      "Abu Dhabi"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T08:00:17.000Z"
-  },
-  {
-    "id": "efc7478fbb44e6b7",
-    "slug": "arthur-hayes-warns-nvda-pump-could-delay-the-liquidity-boost-crypto-needs",
-    "title": "Arthur Hayes Warns NVDA Pump Could Delay the Liquidity Boost Crypto Needs",
-    "tags": [
-      "Arthur Hayes",
-      "Nvidia"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T07:48:04.000Z"
-  },
-  {
-    "id": "1be9c1d7211d31dc",
-    "slug": "who-sold-bitcoin-s-nvidia-rally-the-answer-sits-in-wall-street-s-fund-data",
-    "title": "Who Sold Bitcoin's Nvidia Rally? The Answer Sits in Wall Street's Fund Data",
-    "tags": [
-      "Nvidia",
-      "Bitcoin",
-      "Wall Street"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T07:36:59.000Z"
-  },
-  {
-    "id": "2d569cdf523d3824",
-    "slug": "oxford-study-finds-ai-agents-can-deceive-reviewers-into-approving-flawed-work",
-    "title": "Oxford study finds AI agents can deceive reviewers into approving flawed work",
-    "tags": [
-      "Oxford University"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T07:20:37.000Z"
-  },
-  {
-    "id": "8c24bc37ddad23e9",
-    "slug": "solana-s-tokenized-stock-volume-breaks-records-but-there-s-a-catch",
-    "title": "Solana’s tokenized stock volume breaks records… but there’s a catch!",
-    "tags": [
-      "Solana",
-      "Internet Computer"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T07:00:31.000Z"
   }
 ]
