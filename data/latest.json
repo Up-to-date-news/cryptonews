@@ -1,57 +1,625 @@
 [
   {
-    "id": "18191b4155cefb84",
-    "title": "Arcus lets Stock Token holders borrow USDG through Morpho markets",
-    "summary": "Arcus' integration with Morpho enhances liquidity options for token holders, potentially boosting DeFi adoption and financial flexibility.\nThe post Arcus lets Stock Token holders borrow USDG through Morpho markets appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/arcus-stock-tokens-borrow-usdg-morpho/",
+    "id": "30ab2f36c0632f9e",
+    "slug": "eric-trump-s-bitcoin-miner-surges-17-after-150-million-deal-to-avoid-selling-btc",
+    "title": "Eric Trump’s Bitcoin miner surges 17% after $150 million deal to avoid selling BTC",
+    "tags": [
+      "Eric Trump",
+      "Bitcoin",
+      "FalconX"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T18:00:31.000Z"
+  },
+  {
+    "id": "967d98e34a3b09d1",
+    "slug": "us-treasury-yields-overtake-bitcoin-futures-yields-after-billions-in-liquidations",
+    "title": "US Treasury yields overtake Bitcoin futures yields after billions in liquidations",
+    "tags": [
+      "Bitcoin",
+      "United States"
+    ],
     "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T17:55:48.000Z"
+  },
+  {
+    "id": "e86ad1de2a0e9590",
+    "slug": "fed-s-waller-warns-tokenized-assets-could-get-stranded-on-failed-blockchains",
+    "title": "Fed’s Waller warns tokenized assets could get stranded on failed blockchains",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T17:39:11.000Z"
+  },
+  {
+    "id": "8b81abbe30461401",
+    "slug": "backpack-wins-cftc-approval-for-us-derivatives-exchange-and-clearinghouse",
+    "title": "Backpack wins CFTC approval for US derivatives exchange and clearinghouse",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T17:38:02.000Z"
+  },
+  {
+    "id": "6f5508587a5c40be",
+    "slug": "gta-vi-players-log-78-000-years-on-playstation-in-four-days-sony",
+    "title": "GTA VI players log 78,000 years on PlayStation in four days: Sony",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T17:33:05.000Z"
+  },
+  {
+    "id": "53110a42e16e28db",
+    "slug": "bank-of-canada-warns-supply-disruptions-could-worsen-inflation-in-strong-economy",
+    "title": "Bank of Canada warns supply disruptions could worsen inflation in strong economy",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T17:30:19.000Z"
+  },
+  {
+    "id": "4108fcbfbfc9f482",
+    "title": "PNC gives No. 2 exec a $20M award, board seat",
+    "summary": "The moves may cement Mark Wiedman as a potential successor to CEO Bill Demchak and lend continuity to a bank that, while growing, has seen changes in two high-profile C-suite slots in 18 months.",
+    "hasSummary": true,
+    "link": "https://www.bankingdive.com/news/pnc-mark-wiedman-board-seat-20-million-award-5-years-demchak-succession/875643/",
+    "source": "Banking Dive",
+    "tags": [
+      "PNC",
+      "Mark Wiedman",
+      "Bill Demchak"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-24T17:11:13.000Z",
+    "fetchedAt": "2026-11-24T18:01:42.930Z",
+    "isDuplicateOf": null,
+    "content": "PNC has awarded its No. 2 executive, Mark Wiedman, a $20 million award and a board seat. These moves could position him as a potential successor to CEO Bill Demchak, while bringing leadership continuity to the growing bank following recent executive changes in its C-suite over the past 18 months.",
+    "content_ta": "PNC நிறுவனம் தனது இரண்டாவது முக்கிய நிர்வாகியான Mark Wiedman-க்கு 20 மில்லியன் டாலர் தொகையையும் வாரியத்தில் ஒரு இடத்தையும் வழங்கியுள்ளது. இந்த மாற்றங்கள் மூலம், CEO Bill Demchak-க்கு அடுத்த வாரிசாக அவர் வரக்கூடும் என்று எதிர்பார்க்கப்படுகிறது. கடந்த 18 மாதங்களில் நிர்வாக மட்டத்தில் பல மாற்றங்களைச் சந்தித்துள்ள இந்த வங்கிக்கு, இந்த முடிவு ஸ்திரத்தன்மையை வழங்கும்.",
+    "slug": "pnc-gives-no-2-exec-a-20m-award-board-seat"
+  },
+  {
+    "id": "8bb2cf9f8b384fbe",
+    "title": "XRP, Cardano, Polygon Face Brutal Snub as Crypto Executive Exposes Why He’s Avoiding These Altcoins in 2026",
+    "summary": "Are Ripple’s XRP, Cardano (ADA), and Polygon (POL) losing their appeal among crypto investors in 2026? Ben Simpson, founder of crypto investment platform Collective Shift, has named all three among six altcoins he says he wouldn’t touch with a 10-foot pole, citing concerns ranging from weak network activity and questionable valuations to intensifying competition. His […]",
+    "hasSummary": true,
+    "link": "https://zycrypto.com/xrp-cardano-polygon-face-brutal-snub-as-crypto-executive-exposes-why-hes-avoiding-these-altcoins-in-2026/",
+    "source": "ZyCrypto",
+    "tags": [
+      "XRP",
+      "Cardano",
+      "Polygon",
+      "Collective Shift"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-24T17:10:20.000Z",
+    "fetchedAt": "2026-11-24T18:01:42.930Z",
+    "isDuplicateOf": null,
+    "content": "Crypto executive Ben Simpson, founder of Collective Shift, has named XRP, Cardano, and Polygon among six altcoins he is avoiding in 2026. Simpson cited concerns regarding weak network activity, questionable valuations, and rising competition, suggesting these major digital assets are losing their appeal among certain investors.",
+    "content_ta": "Collective Shift நிறுவனத்தின் நிறுவனர் Ben Simpson, 2026-ம் ஆண்டில் தான் தவிர்க்கும் altcoins பட்டியலில் XRP, Cardano மற்றும் Polygon ஆகியவற்றை குறிப்பிட்டுள்ளார். பலவீனமான நெட்வொர்க் செயல்பாடு மற்றும் போட்டி அதிகரிப்பு போன்ற காரணங்களால் இந்த கிரிப்டோகரன்சிகள் முதலீட்டாளர்களின் கவனத்தை இழந்து வருவதாக அவர் தெரிவித்துள்ளார்.",
+    "slug": "xrp-cardano-polygon-face-brutal-snub-as-crypto-executive-exposes-why-he-s-avoiding-these-altcoins"
+  },
+  {
+    "id": "3176c45d185a8232",
+    "slug": "bitcoin-slides-amid-us-tariff-nerves-as-anthropic-falls-below-ipo-price",
+    "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
+    "tags": [
+      "Bitcoin",
+      "Anthropic",
+      "United States"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T17:09:11.000Z"
+  },
+  {
+    "id": "f1868426045099cf",
+    "slug": "chinese-influencers-are-dunking-on-the-us-for-ousting-jensen-huang",
+    "title": "Chinese Influencers are dunking on the US for ousting Jensen Huang",
+    "tags": [],
+    "source": "Protos",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T17:03:43.000Z"
+  },
+  {
+    "id": "dd5fbd32468bc41f",
+    "slug": "bybit-cuts-wsot-2026-trading-volume-requirements-by-up-to-90",
+    "title": "Bybit cuts WSOT 2026 trading volume requirements by up to 90%",
+    "tags": [
+      "Bybit"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T17:01:34.000Z"
+  },
+  {
+    "id": "88ddc20830fefc9b",
+    "slug": "robinhood-co-leads-5-million-seed-round-for-onchain-trading-platform-rialto",
+    "title": "Robinhood co-leads $5 million seed round for onchain trading platform Rialto",
+    "tags": [],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T17:00:02.000Z"
+  },
+  {
+    "id": "8f72474d37db7bda",
+    "title": "Adyen co-founder to step down",
+    "summary": "“I feel my cycle is complete,” Pieter van der Does, also co-CEO, wrote after 20 years with Adyen. “This is the right moment for me to step down.”",
+    "hasSummary": true,
+    "link": "https://www.bankingdive.com/news/adyen-co-founder-van-der-does-step-down-uytdehaage/875640/",
+    "source": "Banking Dive",
     "tags": [],
     "origin": "rss",
-    "pubDate": "2026-11-24T15:18:44.000Z",
-    "fetchedAt": "2026-11-24T15:22:43.079Z",
+    "pubDate": "2026-11-24T16:55:53.000Z",
+    "fetchedAt": "2026-11-24T18:01:42.930Z",
     "isDuplicateOf": null,
     "content": null,
-    "slug": "arcus-lets-stock-token-holders-borrow-usdg-through-morpho-markets"
+    "slug": "adyen-co-founder-to-step-down"
+  },
+  {
+    "id": "f53ed9606b62354d",
+    "title": "Digital Asset Clearing Centre establishes Digital Asset Distribution Alliance",
+    "summary": "Digital Asset Clearing Center \"DACC.HK\", an open FMI (Financial Market Infrastructure) built on permissionless ledger with CIPS and e-CNY settlement capabilities, is announcing the establishment of the Digital Asset Distribution Alliance (DADA).",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111775/digital-asset-clearing-centre-establishes-digital-asset-distribution-alliance?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-24T16:54:00.000Z",
+    "fetchedAt": "2026-11-24T18:01:42.930Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "digital-asset-clearing-centre-establishes-digital-asset-distribution-alliance"
+  },
+  {
+    "id": "24a8690c5b1f31c5",
+    "title": "Visa opens Cameroon office",
+    "summary": "Visa (NYSE: V), a world leader in digital payments, announced the opening of its representative office in Douala during the official launch event for Visa in Cameroon.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/pressarticle/111774/visa-opens-cameroon-office?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-24T16:53:00.000Z",
+    "fetchedAt": "2026-11-24T18:01:42.930Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "visa-opens-cameroon-office"
+  },
+  {
+    "id": "031c9cee428f34eb",
+    "slug": "ansem-denies-involvement-in-2-57-million-wallet-drain-black-bull-creator-coin-plummets-55",
+    "title": "Ansem denies involvement in $2.57 million wallet drain; Black Bull creator coin plummets 55%",
+    "tags": [],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T16:51:21.000Z"
+  },
+  {
+    "id": "1a4548f2fec085d1",
+    "slug": "microsoft-s-code-red-exposes-crypto-s-own-cloud-problem",
+    "title": "Microsoft’s ‘Code Red’ Exposes Crypto’s Own Cloud Problem",
+    "tags": [
+      "Microsoft",
+      "Coinbase",
+      "Amazon Web Services",
+      "Ethereum"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T16:50:14.000Z"
+  },
+  {
+    "id": "58467bdfa77fe29e",
+    "slug": "us-moves-to-seize-1-1-billion-from-binance-hackers-without-accessing-their-wallets",
+    "title": "US moves to seize $1.1 billion from Binance hackers without accessing their wallets",
+    "tags": [
+      "United States",
+      "Binance",
+      "Circle"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T16:50:10.000Z"
+  },
+  {
+    "id": "b497aebbb32b2976",
+    "slug": "xrp-price-stalls-below-1-as-xrpl-wipes-testnet-and-devnet",
+    "title": "XRP Price Stalls Below $1 as XRPL Wipes Testnet and Devnet",
+    "tags": [],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T16:48:00.000Z"
+  },
+  {
+    "id": "08db490dae7d2d0d",
+    "slug": "amd-breaks-below-400-for-the-first-time-since-may",
+    "title": "AMD breaks below $400 for the first time since May",
+    "tags": [
+      "AMD",
+      "China"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T16:46:58.000Z"
+  },
+  {
+    "id": "8a0dc91cfb290f0f",
+    "slug": "bitcoin-losses-hit-heaviest-level-since-the-ftx-collapse",
+    "title": "Bitcoin losses hit heaviest level since the FTX collapse",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T16:44:30.000Z"
+  },
+  {
+    "id": "b16e7067733055e2",
+    "slug": "cerebras-ceo-says-more-than-1-000-employees-became-millionaires-after-ipo",
+    "title": "Cerebras CEO says more than 1,000 employees became millionaires after IPO",
+    "tags": [
+      "Cerebras"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T16:41:19.000Z"
+  },
+  {
+    "id": "506588df69254468",
+    "slug": "cboe-launches-kpi-binary-options-on-robinhood-with-no-fees",
+    "title": "Cboe launches KPI binary options on Robinhood with no fees",
+    "tags": [
+      "Cboe",
+      "Robinhood"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T16:37:03.000Z"
+  },
+  {
+    "id": "a46456b54d5fd601",
+    "slug": "how-south-korea-s-proposed-20-cap-could-change-who-runs-upbit",
+    "title": "How South Korea’s proposed 20% cap could change who runs Upbit",
+    "tags": [],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T16:33:26.000Z"
+  },
+  {
+    "id": "56aa77385a35e060",
+    "slug": "21shares-says-bitcoin-s-bear-market-could-drag-the-price-toward-43-800",
+    "title": "21Shares says Bitcoin’s bear market could drag the price toward $43,800",
+    "tags": [
+      "21Shares",
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T16:28:46.000Z"
+  },
+  {
+    "id": "d360efcfe7223cb4",
+    "slug": "amd-powers-on-helios-ai-racks-inside-microsoft-azure-labs",
+    "title": "AMD powers on Helios AI racks inside Microsoft Azure labs",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T16:28:14.000Z"
+  },
+  {
+    "id": "361bb2df88439702",
+    "slug": "ethgas-builds-a-market-for-institutions-to-pay-validators-for-trade-protection",
+    "title": "ETHGas builds a market for institutions to pay validators for trade protection",
+    "tags": [
+      "ETHGas",
+      "Ethereum"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T16:27:09.000Z"
+  },
+  {
+    "id": "7f23165a90d5f758",
+    "slug": "saylor-spots-new-role-for-bitcoin",
+    "title": "Saylor Spots New Role for Bitcoin",
+    "tags": [],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T16:27:03.000Z"
+  },
+  {
+    "id": "d628fee803d6c3c8",
+    "title": "Bitcoin’s $41K Bottom Is Back in Focus as Four-Year Cycle and Cup-and-Handle Pattern Flash More Downside",
+    "summary": "Bitcoin might not be out of the woods yet, despite recently staging a relief rally toward $60,000 after renewed market optimism.",
+    "hasSummary": true,
+    "link": "https://zycrypto.com/bitcoins-41k-bottom-is-back-in-focus-as-four-year-cycle-and-cup-and-handle-pattern-flash-more-downside/",
+    "source": "ZyCrypto",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-24T16:21:22.000Z",
+    "fetchedAt": "2026-11-24T18:01:42.930Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "bitcoin-s-41k-bottom-is-back-in-focus-as-four-year-cycle-and-cup-and-handle-pattern-flash-more"
+  },
+  {
+    "id": "c720eb01b272ead4",
+    "slug": "microsoft-declares-code-red-for-m365-service-health-after-global-outage",
+    "title": "Microsoft declares ‘code red’ for M365 service health after global outage",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T16:21:01.000Z"
+  },
+  {
+    "id": "aa1c038149ec4989",
+    "slug": "kla-posts-4-14-billion-quarter-sees-wafer-equipment-market-topping-200-billion-in-2027",
+    "title": "KLA posts $4.14 billion quarter, sees wafer equipment market topping $200 billion in 2027",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T16:19:42.000Z"
+  },
+  {
+    "id": "45f96ee9331f3563",
+    "slug": "crusoe-s-energy-first-playbook-puts-solar-and-batteries-at-the-center-of-the-ai-power-fight",
+    "title": "Crusoe’s energy-first playbook puts solar and batteries at the center of the AI power fight",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T16:18:57.000Z"
+  },
+  {
+    "id": "4aa4a40bed199f0d",
+    "slug": "iren-buys-former-south-australian-school-to-house-workers-for-800mw-data-center",
+    "title": "IREN buys former South Australian school to house workers for 800MW data center",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T16:12:27.000Z"
+  },
+  {
+    "id": "921dc12bf7c46121",
+    "slug": "bitcoin-s-5-000-price-swing-and-anthropic-s-ipo-decline-expose-cracks-in-ai-driven-market-rally",
+    "title": "Bitcoin’s $5,000 price swing and Anthropic’s IPO decline expose cracks in AI-driven market rally",
+    "tags": [],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T16:10:02.000Z"
+  },
+  {
+    "id": "7f14fda7ec265e8a",
+    "title": "Bybit Introduces TradFi Earn, Unifying Access to Global ETFs and RWA",
+    "summary": "Dubai, United Arab Emirates, 24th November 2026, Chainwire\nThe post Bybit Introduces TradFi Earn, Unifying Access to Global ETFs and RWA appeared first on The Daily Hodl.",
+    "hasSummary": true,
+    "link": "https://dailyhodl.com/2026/11/24/bybit-introduces-tradfi-earn-unifying-access-to-global-etfs-and-rwa/",
+    "source": "The Daily Hodl",
+    "tags": [
+      "Bybit",
+      "TradFi Earn"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-24T16:09:20.000Z",
+    "fetchedAt": "2026-11-24T18:01:42.930Z",
+    "isDuplicateOf": null,
+    "content": "Bybit has announced the launch of TradFi Earn, a new product designed to unify user access to global ETFs and real-world assets (RWA). Revealed in late November 2026, the offering bridges traditional financial markets with digital asset platforms, allowing users to expand their investment opportunities directly through the exchange ecosystem.",
+    "content_ta": "குளோபல் ETF மற்றும் RWA-க்களுக்கான அணுகலை ஒன்றிணைக்கும் TradFi Earn சேவையை Bybit அறிமுகப்படுத்தியுள்ளது. பாரம்பரிய நிதிச் சந்தைகளையும் டிஜிட்டல் சொத்து தளங்களையும் இணைக்கும் வகையில் இந்த புதிய அம்சம் உருவாக்கப்பட்டுள்ளது.",
+    "slug": "bybit-introduces-tradfi-earn-unifying-access-to-global-etfs-and-rwa"
+  },
+  {
+    "id": "80de72ee140e7c1a",
+    "slug": "europol-traces-28m-in-crypto-behind-europe-s-illegal-streaming-industry",
+    "title": "Europol Traces $28M in Crypto Behind Europe's Illegal Streaming Industry",
+    "tags": [
+      "Europol",
+      "Europe"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T16:00:44.000Z"
+  },
+  {
+    "id": "0db4bb9ccefb1bc6",
+    "slug": "ai-trade-never-died-traders-see-room-for-market-recovery-but-bitcoin-s-participation-is-another",
+    "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T16:00:25.000Z"
+  },
+  {
+    "id": "77a1f727607423e3",
+    "slug": "italian-bank-offers-bitcoin-investment-with-a-no-loss-guarantee",
+    "title": "Italian Bank Offers Bitcoin Investment With a No-Loss Guarantee",
+    "tags": [
+      "UniCredit",
+      "Bitcoin",
+      "Italy"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T16:00:06.000Z"
+  },
+  {
+    "id": "01eefd722c99fdf5",
+    "slug": "attention-binance-users-key-functions-will-be-temporarily-suspended-this-week",
+    "title": "Attention Binance Users: Key Functions Will Be Temporarily Suspended This Week",
+    "tags": [],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T15:57:28.000Z"
+  },
+  {
+    "id": "8d502e875985e373",
+    "title": "NAB CEO hits out at Instagram account's salacious claims",
+    "summary": "The CEO of NAB says the Australian bank will act to protect staff from \"unfair and damaging posts\" on Instagram by a self-described \"customer advocate\" who has made a string of claims concerning drug use, affairs, bullying and corruption at the lender.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/newsarticle/48806/nab-ceo-hits-out-at-instagram-accounts-salacious-claims?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [
+      "NAB",
+      "Instagram",
+      "Australia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-24T15:48:00.000Z",
+    "fetchedAt": "2026-11-24T18:01:42.930Z",
+    "isDuplicateOf": null,
+    "content": "The CEO of NAB has responded to claims made on an Instagram account by a self-described customer advocate. The bank stated it will take action to protect its staff from unfair and damaging posts following allegations involving drug use, affairs, bullying, and corruption within the lender.",
+    "content_ta": "NAB CEO-வின் Instagram கணக்கில் வெளியிடப்பட்ட அவதூறான குற்றச்சாட்டுகளுக்கு வங்கி தரப்பில் பதிலடி கொடுக்கப்பட்டுள்ளது. வங்கியின் ஊழியர்களைப் பாதுகாப்பதற்காக உரிய நடவடிக்கைகள் எடுக்கப்படும் என்று NAB தெரிவித்துள்ளது. போதைப்பொருள் பயன்பாடு, உறவுகள், மிரட்டல் மற்றும் ஊழல் தொடர்பான குற்றச்சாட்டுகள் குறித்து இந்த கணக்கில் பதிவுகள் வெளியிடப்பட்டிருந்தன.",
+    "slug": "nab-ceo-hits-out-at-instagram-account-s-salacious-claims"
+  },
+  {
+    "id": "2e462a3844c767ad",
+    "title": "FM Summit London 2026 Brings Financial Services Leaders Together for a Day of Insights, Connections and Industry-Shaping Discussions",
+    "summary": "FM Summit London 2026 brought together the financial services industry at Old Billingsgate, London, for its 15th edition, creating a meeting point for senior decision-makers, industry leaders, financial institutions, brokers and technology providers.\nWith a programme focused on the developments transforming financial services, the summit combined high-level discussions, expert perspectives and valuable face-to-face connections.\nThroughout the summit day, the venue was filled with conversations, networking and business meetings, reflecting the continued importance of uniting the financial services community for direct, in-person connection.\nThe summit experience began ahead of the main event, with the Opening Networking Blitz at The Folly on 23 November, giving attendees an opportunity to reconnect with familiar faces and make new introductions before the main summit.\nConversations that matter: From financial services to digital assets\nThe conference programme provided a platform for some of the industry's most thought-provoking conversations, bringing different perspectives to the stage and encouraging attendees to look beyond current market developments.\nThe summit opened with a conversation on AI, “AI & Trading 2027: From Copilots to Colleagues”, an intriguing panel discussion featuring Steven J. Hatzakis, Global Director of Research at ForexBrokers.com, Yangling Li, Head Quant at BestX, Andrew Ralich, CEO & Co-Founder at oneZero, Jon Light, Senior Director of Product at Devexperts, Hugh Whelan, President of ACI UK, Financial Markets Association, and Christoforos Theodoulou, Chief Business Officer at MetaQuotes. The panelists took a deep dive into the applicability of AI in trading, data quality, models, controls, and beyond.\nLater in the day, Lord Peter Cruddas took a trip down memory lane when he founded CMC Markets, offering valuable insights into leadership and the brokerage firm’s longevity as CMC Markets turned 40. His perspective was captured in the CMC anniversary discussion titled “CMC at 35: Lord Peter Cruddas in Conversation,” a statement of brokerage leadership from tradition to the AI era.\nNext, “Part of The Landscape? Digital Assets & TradFi Liquidity” brought to the stage Ian Daniels, COO & Global Head at eFX, Chris Knight, Managing Director at LMAX Digital, Waqar Chodri, Managing Director, Global Head, Digital Assets at Standard Chartered Bank, Katryna Hanush, Managing Director, Business Development & Partnerships at Wintermute, and David Brickell, Head of Distribution at FRNT Financial, to examine the evolving relationship between traditional finance and digital assets. The discussion addressed the changing liquidity landscape and the implications for institutional markets and financial infrastructure.\nThe programme also welcomed Lord Kulveer Ranger for “From Westminster to the Boardroom: In Conversation With Lord Kulveer Ranger.” In conversation with Duska Nedeljkovic, Head of Conferences at Ultimate Group, Lord Ranger brought a perspective shaped by his experience in Westminster and business leadership, exploring the relationship between public policy, government and commercial decision-making.\nThese discussions reflected the summit's commitment to bringing relevant voices and perspectives together, addressing not only where the industry stands today but also the opportunities and challenges ahead.\nBringing the industry together\nBeyond the conference stages, the exhibition floor provided opportunities for companies to showcase their solutions, strengthen existing relationships and establish new business connections.\nLeading companies, including LMAX Group, Plus500, oneZero, PLUGIT, Adaptive, Edge Hound, AEGIS Trading Technology, MetaQuotes, Devexperts, Acuity and CXM Prime, were among the participating brands.\nBusiness Connect Roundtables and One-to-One meetings further supported meaningful conversations in a different format and enabled connections between professionals around shared business interests and industry priorities.\n15 editions of bringing the industry together\nReturning to Old Billingsgate for its 15th edition gave FM Summit London 2026 particular significance. The venue, closely associated with the event's legacy, provided the setting for another chapter in its ongoing journey of connecting the global financial services community.\nThe success of this edition reflects the importance of creating spaces where industry professionals can exchange ideas, build relationships and explore new opportunities.\nFM Summits would like to thank all attendees, speakers, sponsors, exhibitors, partners and supporting media for being part of FM Summit London 2026 and contributing to another memorable edition.\nAs the industry continues to evolve, the conversations started in London will continue well beyond the summit itself.\nOne Day. One Venue. One Industry.\n \nNoYesInfrastructure24 Nov, 2026",
+    "hasSummary": true,
+    "link": "https://financialit.net/news/infrastructure/fm-summit-london-2026-brings-financial-services-leaders-together-day-insights",
+    "source": "Financial IT",
+    "tags": [
+      "London",
+      "CMC Markets",
+      "Old Billingsgate",
+      "MetaQuotes",
+      "Standard Chartered Bank"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-24T15:45:28.000Z",
+    "fetchedAt": "2026-11-24T18:01:42.930Z",
+    "isDuplicateOf": null,
+    "content": "The FM Summit London 2026 successfully brought together financial services leaders, brokers, and technology providers at Old Billingsgate for its 15th edition. The event featured high-level discussions on artificial intelligence in trading, leadership insights from CMC Markets, digital assets, and public policy intersections. Industry stakeholders gathered for networking, roundtables, and exhibitions, reinforcing the importance of direct in-person collaboration for the global financial community.",
+    "content_ta": "FM Summit London 2026 மாநாடு லண்டனில் உள்ள Old Billingsgate-ல் தனது 15-வது பதிப்பாக நிதி சேவைகள் துறை தலைவர்கள், புரோக்கர்கள் மற்றும் தொழில்நுட்ப வழங்குநர்களை வெற்றிகரமாக ஒன்றிணைத்தது. வர்த்தகத்தில் செயற்கை நுண்ணறிவு, CMC Markets நிறுவனத்தின் தலைமைத்துவ நுண்ணறிவுகள், டிஜிட்டல் சொத்துக்கள் மற்றும் பொதுக் கொள்கை குறித்த உயர்மட்ட விவாதங்கள் இந்நிகழ்ச்சியில் இடம்பெற்றன. உலகளாவிய நிதி சமூகத்திற்கு நேரடி ஒத்துழைப்பின் முக்கியத்துவத்தை வலியுறுத்தும் வகையில் நெட்வொர்க்கிங் மற்றும் கண்காட்சிகள் நடைபெற்றன.",
+    "slug": "fm-summit-london-2026-brings-financial-services-leaders-together-for-a-day-of-insights-connections"
+  },
+  {
+    "id": "6180a6dd1b29ff72",
+    "slug": "grayscale-confirms-bitcoin-s-record-bear-market",
+    "title": "Grayscale Confirms Bitcoin’s Record Bear Market",
+    "tags": [
+      "Grayscale",
+      "Bitcoin"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-24T15:42:43.000Z"
+  },
+  {
+    "id": "fb7b0d93be954d6e",
+    "slug": "are-wall-street-s-biggest-money-managers-buying-or-selling-bitcoin",
+    "title": "Are Wall Street’s Biggest Money Managers Buying or Selling Bitcoin?",
+    "tags": [],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T15:38:06.000Z"
+  },
+  {
+    "id": "8c1e2d6db180d77e",
+    "slug": "blackrock-drives-bitcoin-etfs-to-worst-month-on-record-as-crypto-fund-withdrawals-near-6-billion",
+    "title": "BlackRock drives Bitcoin ETFs to worst month on record as crypto fund withdrawals near $6 billion",
+    "tags": [],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T15:30:51.000Z"
+  },
+  {
+    "id": "3f49491711b97384",
+    "title": "JP Morgan, HSBC and StoneX pilot digital gold trades",
+    "summary": "HSBC, JP Morgan and StoneX have carried out the first live trades of fractions of physical gold bars, using it as collateral in legally binding wholesale market transaction.",
+    "hasSummary": true,
+    "link": "https://www.finextra.com/newsarticle/48805/jp-morgan-hsbc-and-stonex-pilot-digital-gold-trades?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-24T15:29:00.000Z",
+    "fetchedAt": "2026-11-24T18:01:42.930Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "jp-morgan-hsbc-and-stonex-pilot-digital-gold-trades"
+  },
+  {
+    "id": "9904523e4a1e458e",
+    "slug": "ethereum-treasury-firm-btcs-sells-43-8-million-in-eth-to-cut-aave-debt-ceo-says-we-do-not-take-this",
+    "title": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says ‘we do not take this lightly’",
+    "tags": [],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T15:27:50.000Z"
+  },
+  {
+    "id": "18191b4155cefb84",
+    "slug": "arcus-lets-stock-token-holders-borrow-usdg-through-morpho-markets",
+    "title": "Arcus lets Stock Token holders borrow USDG through Morpho markets",
+    "tags": [],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-24T15:18:44.000Z"
   },
   {
     "id": "7e6bd4dbb0d5f22a",
+    "slug": "anchorage-digital-launches-61st-parallel-asset-management-to-pursue-bitcoin-yield",
     "title": "Anchorage Digital launches 61st Parallel Asset Management to pursue Bitcoin yield",
-    "summary": "Anchorage's move into Bitcoin yield management could reshape institutional crypto strategies, emphasizing regulatory compliance and fiduciary duty.\nThe post Anchorage Digital launches 61st Parallel Asset Management to pursue Bitcoin yield appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/anchorage-digital-61st-parallel-bitcoin-yield/",
-    "source": "CryptoBriefing",
     "tags": [
       "Anchorage Digital",
       "61st Parallel Asset Management",
       "Bitcoin"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-24T15:17:43.000Z",
-    "fetchedAt": "2026-11-24T15:22:43.079Z",
-    "isDuplicateOf": null,
-    "content": "Anchorage Digital has launched a new entity named 61st Parallel Asset Management to pursue Bitcoin yield opportunities. This strategic move aims to reshape institutional cryptocurrency strategies by focusing heavily on regulatory compliance and fiduciary duty, potentially expanding how traditional-leaning investors manage their digital asset holdings.",
-    "content_ta": "Anchorage Digital நிறுவனம் Bitcoin யீல்டு வாய்ப்புகளைப் பின்தொடர்வதற்காக 61st Parallel Asset Management என்ற புதிய நிறுவனத்தைத் தொடங்கியுள்ளது. இந்த மூலோபாய நகியானது ஒழுங்குமுறை இணக்கம் மற்றும் பொறுப்புணர்வில் அதிக கவனம் செலுத்துவதன் மூலம் நிறுவன அளவிலான கிரிப்டோகரன்சி உத்திகளை மாற்றியமைப்பதை நோக்கமாகக் கொண்டுள்ளது.",
-    "slug": "anchorage-digital-launches-61st-parallel-asset-management-to-pursue-bitcoin-yield"
+    "hasContent": true,
+    "pubDate": "2026-11-24T15:17:43.000Z"
   },
   {
     "id": "cb69663b507af945",
+    "slug": "deel-launches-visa-card-for-contractors-to-spend-dlusd-with-up-to-1-5-cashback",
     "title": "Deel launches Visa card for contractors to spend DLUSD with up to 1.5% cashback",
-    "summary": "Deel's Visa card empowers global contractors by simplifying USD spending and offering cashback, potentially enhancing financial stability.\nThe post Deel launches Visa card for contractors to spend DLUSD with up to 1.5% cashback appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/deel-visa-card-contractors-dlusd-cashback/",
-    "source": "CryptoBriefing",
     "tags": [
       "Deel",
       "Visa"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-24T15:17:14.000Z",
-    "fetchedAt": "2026-11-24T15:22:43.079Z",
-    "isDuplicateOf": null,
-    "content": "Deel has introduced a new Visa card designed specifically for global contractors. The card allows users to spend DLUSD easily while offering up to 1.5 percent cashback on transactions. This initiative aims to improve financial flexibility and simplify fund management for independent workers worldwide.",
-    "content_ta": "குளோபல் கான்ட்ராக்டர்களுக்காக பிரத்யேகமாக Visa கார்டை Deel அறிமுகப்படுத்தியுள்ளது. இந்த கார்டு மூலம் பயனர்கள் எளிதாக DLUSD செலவிட முடியும், மேலும் 1.5 சதவீதம் வரை கேஷ்பேக் பெறலாம். இந்த நடவடிக்கை உலகம் முழுவதும் உள்ள சுதந்திரமான பணியாளர்களுக்கு நிதி நிலைத்தன்மையை மேம்படுத்த உதவும்.",
-    "slug": "deel-launches-visa-card-for-contractors-to-spend-dlusd-with-up-to-1-5-cashback"
+    "hasContent": true,
+    "pubDate": "2026-11-24T15:17:14.000Z"
   },
   {
     "id": "8d5eadd6b58294ed",
@@ -162,499 +730,5 @@
     "origin": "rss",
     "hasContent": false,
     "pubDate": "2026-11-24T14:41:31.000Z"
-  },
-  {
-    "id": "9b0d3a08deed1e23",
-    "slug": "south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
-    "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
-    "tags": [],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T14:40:53.000Z"
-  },
-  {
-    "id": "a11a0fcea0d5608f",
-    "slug": "worldremit-founder-launches-fintech-targeting-migrants-in-the-us",
-    "title": "WorldRemit founder launches fintech targeting migrants in the US",
-    "tags": [],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T14:36:00.000Z"
-  },
-  {
-    "id": "38c4a72e5c0e46ed",
-    "slug": "thermo-fisher-wins-fda-clearance-for-myeloma-monitoring-test",
-    "title": "Thermo Fisher wins FDA clearance for myeloma monitoring test",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T14:33:29.000Z"
-  },
-  {
-    "id": "5ddffff7a0ff496f",
-    "slug": "the-2027-stock-market-outlook-which-sectors-could-lead-the-next-bull-market",
-    "title": "The 2027 Stock Market Outlook: Which Sectors Could Lead the Next Bull Market?",
-    "tags": [],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T14:31:06.000Z"
-  },
-  {
-    "id": "0b3f4a0b763c0866",
-    "slug": "beyond-the-model-why-data-is-still-the-hardest-problem-in-enterprise-ai",
-    "title": "Beyond the Model: Why Data Is Still the Hardest Problem in Enterprise AI",
-    "tags": [],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T14:30:35.000Z"
-  },
-  {
-    "id": "e69ea68ee1586bee",
-    "slug": "oppenheimer-keeps-marvell-at-outperform-with-325-price-target",
-    "title": "Oppenheimer keeps Marvell at outperform with $325 price target",
-    "tags": [
-      "Oppenheimer",
-      "Marvell"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T14:30:00.000Z"
-  },
-  {
-    "id": "799568272026f4b5",
-    "slug": "mosaic-agrees-faustina-ammonia-plant-sale-to-cf-for-600-million",
-    "title": "Mosaic agrees Faustina ammonia plant sale to CF for $600 million",
-    "tags": [
-      "Mosaic",
-      "CF"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T14:28:57.000Z"
-  },
-  {
-    "id": "c7f04ffe51b0720a",
-    "slug": "unicredit-opens-bitcoin-to-retail-with-capital-protected-etp-certificate",
-    "title": "UniCredit opens Bitcoin to retail with capital-protected ETP certificate",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T14:27:13.000Z"
-  },
-  {
-    "id": "ed5324ad2bb91cb1",
-    "slug": "binance-partners-with-cboe-to-add-real-time-s-p-500-and-nasdaq-data",
-    "title": "Binance partners with Cboe to add real-time S&P 500 and Nasdaq data",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T14:24:29.000Z"
-  },
-  {
-    "id": "fe124c1c9d6c29df",
-    "slug": "smarter-regulation-means-understanding-the-trade-offs",
-    "title": "Smarter regulation means understanding the trade-offs",
-    "tags": [],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T14:20:54.000Z"
-  },
-  {
-    "id": "0c9996ae7b5f0a44",
-    "slug": "larry-ellison-overrode-oracle-vote-against-his-131m-payout",
-    "title": "Larry Ellison overrode Oracle vote against his $131M payout",
-    "tags": [],
-    "source": "Protos",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T14:14:33.000Z"
-  },
-  {
-    "id": "fbef72bda1bdeae0",
-    "slug": "redstone-supplies-nav-feed-and-data-stack-for-realfi-s-stablecoins",
-    "title": "RedStone supplies NAV feed and data stack for RealFi’s stablecoins",
-    "tags": [
-      "RedStone",
-      "RealFi"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T14:10:36.000Z"
-  },
-  {
-    "id": "7c0716997d1db2d4",
-    "slug": "usdt-buyers-face-22-vat-when-moscow-exchange-opens-crypto-trading",
-    "title": "USDT buyers face 22% VAT when Moscow Exchange opens crypto trading",
-    "tags": [],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T14:10:23.000Z"
-  },
-  {
-    "id": "ccaef55d627b1e5e",
-    "slug": "bisq-2-desktop-users-must-update-to-keep-trading-bitcoin",
-    "title": "Bisq 2 desktop users must update to keep trading Bitcoin",
-    "tags": [],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T14:10:15.000Z"
-  },
-  {
-    "id": "8cb6684acc0b5162",
-    "slug": "circle-signs-mou-with-paribu-to-expand-onchain-finance-in-turkiye",
-    "title": "Circle signs MOU with Paribu to expand onchain finance in Türkiye",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T14:09:48.000Z"
-  },
-  {
-    "id": "63f7ac431b6d88c2",
-    "slug": "internet-computer-enables-app-deployment-from-smartphones-using-ai-agents",
-    "title": "Internet Computer enables app deployment from smartphones using AI agents",
-    "tags": [
-      "Internet Computer"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T14:07:49.000Z"
-  },
-  {
-    "id": "78a0c31a7397f9d5",
-    "slug": "morpho-midnight-completes-formal-verification-with-certora",
-    "title": "Morpho Midnight completes formal verification with Certora",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T14:03:50.000Z"
-  },
-  {
-    "id": "58fbb159c72db819",
-    "slug": "trustly-raises-60m-from-shareholders-for-ai-powered-growth-plan",
-    "title": "Trustly raises $60m from shareholders for AI-powered growth plan",
-    "tags": [],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T14:03:00.000Z"
-  },
-  {
-    "id": "3a8896f4ef9f29cf",
-    "slug": "ledn-expands-into-bitcoin-buying-with-cut-rate-pricing",
-    "title": "Ledn expands into Bitcoin buying with cut-rate pricing",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T14:01:10.000Z"
-  },
-  {
-    "id": "5f8c34405930669e",
-    "slug": "bitcoin-supply-in-profit-falls-below-50-but-is-btc-s-worst-over",
-    "title": "Bitcoin supply in profit falls below 50% – But is BTC’s worst over?",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T14:00:37.000Z"
-  },
-  {
-    "id": "7758e50db02b8d89",
-    "slug": "xrp-ledger-dex-volume-hits-4-51-million-xrp-a-day-in-q3-as-big-traders-take-over-evernorth",
-    "title": "XRP Ledger DEX volume hits 4.51 million XRP a day in Q3 as big traders take over: Evernorth",
-    "tags": [],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T14:00:02.000Z"
-  },
-  {
-    "id": "af24783786c413fa",
-    "slug": "ledn-brings-us-business-onshore-with-account-to-hold-swap-and-borrow-against-bitcoin",
-    "title": "Ledn brings US business onshore with account to hold, swap and borrow against bitcoin",
-    "tags": [],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T14:00:00.000Z"
-  },
-  {
-    "id": "7808d67185bd03bb",
-    "slug": "neuberger-berman-s-hinc-fund-brings-high-yield-credit-to-aave-s-institutional-lending-platform",
-    "title": "Neuberger Berman’s HINC fund brings high-yield credit to Aave’s institutional lending platform",
-    "tags": [],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T14:00:00.000Z"
-  },
-  {
-    "id": "6b6377b56b10e468",
-    "slug": "swiss-central-bank-ubs-and-six-study-ledger-for-tokenized-settlement",
-    "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
-    "tags": [],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T13:57:56.000Z"
-  },
-  {
-    "id": "d5b4b68596f517ca",
-    "slug": "coinbase-prime-offers-up-to-10x-leverage-on-bitcoin-basis-trades",
-    "title": "Coinbase Prime offers up to 10x leverage on Bitcoin basis trades",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T13:55:56.000Z"
-  },
-  {
-    "id": "3780cd1c24a2128f",
-    "slug": "certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
-    "title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
-    "tags": [],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T13:46:03.000Z"
-  },
-  {
-    "id": "ecf20f4e6c7240df",
-    "slug": "aviva-launches-new-lifetime-pet-insurance-via-price-comparison-websites",
-    "title": "Aviva Launches New Lifetime Pet Insurance via Price Comparison Websites",
-    "tags": [
-      "Aviva",
-      "Joii Pet Care",
-      "MoneySuperMarket",
-      "United Kingdom"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T13:44:17.000Z"
-  },
-  {
-    "id": "2899d5d376431aed",
-    "slug": "why-are-oil-prices-falling-to-3-month-lows",
-    "title": "Why Are Oil Prices Falling to 3-Month Lows?",
-    "tags": [],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T13:33:16.000Z"
-  },
-  {
-    "id": "b389eb266aaac367",
-    "slug": "deel-launches-card-that-lets-contractors-spend-stablecoin-balance",
-    "title": "Deel launches card that lets contractors spend stablecoin balance",
-    "tags": [],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T13:23:00.000Z"
-  },
-  {
-    "id": "402cc9f0fa7976c0",
-    "slug": "ets-connect-plus-adds-uk-otc-derivatives-post-trade-data",
-    "title": "ETS Connect Plus adds UK OTC derivatives post-trade data",
-    "tags": [
-      "Etrading Software",
-      "ETS Connect Plus",
-      "United Kingdom"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T13:21:00.000Z"
-  },
-  {
-    "id": "f2d9218510372902",
-    "slug": "decred-dcr-price-prediction-2026-2027-2030-will-decred-price-hit-550",
-    "title": "Decred (DCR) Price Prediction 2026, 2027 – 2030: Will Decred Price Hit $550?",
-    "tags": [],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T13:19:00.000Z"
-  },
-  {
-    "id": "96115545c15e58d5",
-    "slug": "uk-retail-group-frasers-partners-visa-for-virtual-card",
-    "title": "UK retail group Frasers partners Visa for virtual card",
-    "tags": [],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T13:19:00.000Z"
-  },
-  {
-    "id": "d80a9ab297367cf7",
-    "slug": "blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors",
-    "title": "BlackRock opens tokenized money market fund with $100 million in assets to Hong Kong investors",
-    "tags": [],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T13:17:35.000Z"
-  },
-  {
-    "id": "58d2d70a84b6f43b",
-    "slug": "artificial-intelligence-thoughts-of-the-week",
-    "title": "Artificial Intelligence Thoughts of the Week",
-    "tags": [
-      "Bank of America"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T13:13:48.000Z"
-  },
-  {
-    "id": "0980647a2212dd13",
-    "slug": "grayscale-calls-bitcoin-oversold-at-62k-but-warns-of-ai-risks",
-    "title": "Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks",
-    "tags": [],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T13:11:44.000Z"
-  },
-  {
-    "id": "5f33d563d67297e1",
-    "slug": "what-the-junk-bond-market-can-tell-bitcoin-traders-after-monday-s-rebound",
-    "title": "What the junk bond market can tell Bitcoin traders after Monday’s rebound",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T13:10:18.000Z"
-  },
-  {
-    "id": "8c94a2c3a8c905f5",
-    "slug": "morning-minute-jensen-returns-markets-soar-except-crypto",
-    "title": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)",
-    "tags": [],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T13:07:49.000Z"
-  },
-  {
-    "id": "70c3068e1b542f00",
-    "slug": "is-justin-sun-s-dad-selling-tron-inc-shares-to-justin-sun-s-mom",
-    "title": "Is Justin Sun’s dad selling Tron Inc. shares to Justin Sun’s mom?",
-    "tags": [],
-    "source": "Protos",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T13:07:21.000Z"
-  },
-  {
-    "id": "5f225b8cf56e765f",
-    "slug": "pt-bank-danamon-indonesia-forms-ai-partnership-with-advance-intelligence-group",
-    "title": "PT Bank Danamon Indonesia forms AI partnership with Advance Intelligence Group",
-    "tags": [
-      "PT Bank Danamon Indonesia",
-      "Advance Intelligence Group",
-      "MUFG"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T13:07:00.000Z"
-  },
-  {
-    "id": "3b08d350338cdf1a",
-    "slug": "doj-says-lazarus-hijacked-32-binance-platform-addresses",
-    "title": "DoJ says Lazarus hijacked 32 Binance platform addresses",
-    "tags": [],
-    "source": "Protos",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T13:06:28.000Z"
-  },
-  {
-    "id": "ce922dccff16d481",
-    "slug": "nvidia-s-latest-twist-leaves-one-crypto-trader-with-a-massive-loss-details-inside",
-    "title": "Nvidia’s Latest Twist Leaves One Crypto Trader With a Massive Loss: Details Inside",
-    "tags": [],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T13:03:44.000Z"
-  },
-  {
-    "id": "13823d074eff931a",
-    "slug": "gta-6-pc-ports-nuked-just-days-before-devs-expected-it-to-be-playable",
-    "title": "GTA 6 PC Ports ‘Nuked’ Just Days Before Devs Expected It to Be Playable",
-    "tags": [],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T13:01:30.000Z"
-  },
-  {
-    "id": "562c374ecbe95a27",
-    "slug": "fnbo-s-marc-butterfield-on-preparing-for-ai-agents-that-shop-for-credit-cards",
-    "title": "FNBO’s Marc Butterfield on preparing for AI agents that shop for credit cards",
-    "tags": [
-      "FNBO",
-      "Marc Butterfield",
-      "ChatGPT"
-    ],
-    "source": "Tearsheet",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-24T13:00:00.000Z"
-  },
-  {
-    "id": "0cda3ae89c0b012a",
-    "slug": "live-updates-bitcoin-pulls-back-to-60-000-stock-rally-fades-as-tariffs-re-enter-the-picture",
-    "title": "Live updates: Bitcoin pulls back to $60,000, stock rally fades, as tariffs re-enter the picture",
-    "tags": [],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T12:47:40.000Z"
-  },
-  {
-    "id": "7ba414298009a29a",
-    "slug": "14-7b-in-lost-bitcoin-has-moved-since-2018-report",
-    "title": "$14.7B in ‘Lost’ Bitcoin Has Moved Since 2018: Report",
-    "tags": [],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T12:40:47.000Z"
-  },
-  {
-    "id": "bba1dcec4d4221f9",
-    "slug": "anthropic-falls-below-ipo-price-the-threat-wasn-t-nvidia-it-came-from-inside",
-    "title": "Anthropic Falls Below IPO Price. The Threat Wasn’t Nvidia, It Came From Inside",
-    "tags": [],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-24T12:28:10.000Z"
   }
 ]
