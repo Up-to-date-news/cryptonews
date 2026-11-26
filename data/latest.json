@@ -1,96 +1,673 @@
 [
   {
-    "id": "83dc5130ee18ccc0",
-    "title": "AI agents can pass every accuracy test and still put your money at risk",
-    "summary": "In ShellBench, 2,589 of 26,151 runs that met every correctness criterion still failed at least one safety requirement.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-    "hasSummary": true,
-    "link": "https://cryptoslate.com/ai-agents-can-pass-every-accuracy-test-and-still-put-your-money-at-risk/",
+    "id": "9f2e85e98d665f66",
+    "slug": "openai-s-codex-helps-amateur-astronomer-uncover-two-possible-planets-nasa-s-data-had-missed",
+    "title": "OpenAI’s Codex helps amateur astronomer uncover two possible planets NASA’s data had missed",
+    "tags": [
+      "OpenAI",
+      "NASA",
+      "SETI Institute",
+      "Kepler"
+    ],
     "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T17:40:45.000Z"
+  },
+  {
+    "id": "1ba22a843565eab1",
+    "slug": "crypto-on-notice-as-hawkish-fed-risks-december-meltdown",
+    "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
+    "tags": [
+      "Federal Reserve",
+      "Robin Brooks"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T17:39:53.000Z"
+  },
+  {
+    "id": "b1aed4939518b27d",
+    "slug": "soxl-pulls-in-billions-as-traders-buy-the-chip-stock-dip",
+    "title": "SOXL pulls in billions as traders buy the chip stock dip",
+    "tags": [
+      "SOXL"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T17:39:40.000Z"
+  },
+  {
+    "id": "1872534872ee9794",
+    "slug": "bitcoin-core-contributor-shows-how-a-sub-35-cent-payment-can-expose-a-node-s-ip-address",
+    "title": "Bitcoin Core contributor shows how a sub-35-cent payment can expose a node’s IP address",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T17:35:07.000Z"
+  },
+  {
+    "id": "a91e8bfba9d2ba28",
+    "slug": "netflix-s-the-altruists-faces-backlash-for-distorting-sbf-s-story",
+    "title": "Netflix’s ‘The Altruists’ faces backlash for distorting SBF’s story",
+    "tags": [
+      "Netflix",
+      "SBF"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T17:34:53.000Z"
+  },
+  {
+    "id": "b1b0a06543f6e2d2",
+    "slug": "a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+    "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+    "tags": [
+      "Bitcoin",
+      "Bitcoin Core"
+    ],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T17:30:00.000Z"
+  },
+  {
+    "id": "552e9779f9f74185",
+    "slug": "switzerland-s-first-spot-bitcoin-etf-debuts-on-six-swiss-exchange-with-0-19-fee",
+    "title": "Switzerland’s First Spot Bitcoin ETF Debuts on SIX Swiss Exchange With 0.19% Fee",
+    "tags": [
+      "Switzerland",
+      "Bitcoin",
+      "SIX Swiss Exchange"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T17:25:11.000Z"
+  },
+  {
+    "id": "694bef4ed63d0a23",
+    "slug": "broadcom-slides-as-google-reportedly-trims-tpu-orders",
+    "title": "Broadcom slides as Google reportedly trims TPU orders",
+    "tags": [
+      "Broadcom",
+      "Google"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T17:24:45.000Z"
+  },
+  {
+    "id": "7e20f130e761b202",
+    "slug": "pepe-whales-are-sitting-on-21-million-in-tokens-and-one-wallet-keeps-getting-bigger",
+    "title": "PEPE Whales Are Sitting On $21 Million In Tokens, And One Wallet Keeps Getting Bigger",
+    "tags": [
+      "PEPE",
+      "Lookonchain",
+      "Binance",
+      "Deep Blue Alpha"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T17:23:52.000Z"
+  },
+  {
+    "id": "46e4273d062522d8",
+    "slug": "bank-of-america-s-hartnett-maps-s-p-500-scenarios-of-6-666-7-777-and-8-888-for-2027",
+    "title": "Bank of America’s Hartnett maps S&P 500 scenarios of 6,666, 7,777, and 8,888 for 2027",
+    "tags": [
+      "Bank of America",
+      "S&P 500"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T17:15:56.000Z"
+  },
+  {
+    "id": "949f724142434e67",
+    "slug": "dutch-consumer-groups-seek-ban-on-meta-smart-glasses-over-privacy-concerns",
+    "title": "Dutch consumer groups seek ban on Meta smart glasses over privacy concerns",
+    "tags": [
+      "Meta",
+      "Netherlands"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T17:14:33.000Z"
+  },
+  {
+    "id": "3ffe6510582d8876",
+    "slug": "xrp-price-eyes-1-but-these-signals-warn-traders-to-stay-cautious",
+    "title": "XRP price eyes $1 – But THESE signals warn traders to stay cautious",
+    "tags": [
+      "XRP"
+    ],
+    "source": "AMBCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T17:00:10.000Z"
+  },
+  {
+    "id": "a26ffd61935ea72f",
+    "slug": "bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+    "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+    "tags": [],
+    "source": "CoinDesk",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-26T16:50:23.000Z"
+  },
+  {
+    "id": "66af9763cba7f73f",
+    "slug": "coweta-county-voters-to-decide-fate-of-17-billion-project-sail-data-center",
+    "title": "Coweta County voters to decide fate of $17 billion Project Sail data center",
+    "tags": [
+      "Coweta County",
+      "Georgia",
+      "Project Sail"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T16:44:53.000Z"
+  },
+  {
+    "id": "f869b2a9e4a21a02",
+    "slug": "bis-chief-pablo-hernandez-de-cos-set-to-become-next-ecb-president-ft",
+    "title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
+    "tags": [
+      "Pablo Hernández de Cos",
+      "Bank for International Settlements",
+      "European Central Bank",
+      "European Union"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T16:40:44.000Z"
+  },
+  {
+    "id": "411050e94655fd19",
+    "slug": "standard-chartered-crypto-breach-raises-institutional-security-fears",
+    "title": "Standard Chartered Crypto Breach Raises Institutional Security Fears",
+    "tags": [
+      "Standard Chartered",
+      "Zodia Custody"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T16:38:40.000Z"
+  },
+  {
+    "id": "ec24cc0b9a6a2337",
+    "slug": "sff-2026-monzo-s-secret-for-growth-and-the-tokenisation-of-global-trade",
+    "title": "SFF 2026: Monzo’s Secret for Growth, and the Tokenisation of Global Trade",
+    "tags": [
+      "Monzo",
+      "Singapore"
+    ],
+    "source": "The Fintech Times",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T16:29:44.000Z"
+  },
+  {
+    "id": "6e7721e85758292a",
+    "slug": "blockchain-cannot-replace-legal-ownership-in-asset-tokenization-shipfinex-founder-says",
+    "title": "Blockchain cannot replace legal ownership in asset tokenization, Shipfinex founder says",
+    "tags": [
+      "Shipfinex"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T16:29:01.000Z"
+  },
+  {
+    "id": "4bad62cd80528f02",
+    "slug": "stellar-adds-80-4-million-in-tokenized-fund-value-in-a-single-day",
+    "title": "Stellar adds $80.4 million in tokenized fund value in a single day",
+    "tags": [
+      "Stellar",
+      "Ethereum"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T16:22:49.000Z"
+  },
+  {
+    "id": "a231f0e9f1b88380",
+    "slug": "plume-s-nopal-tops-12-million-in-supply-on-kamino",
+    "title": "Plume’s nOPAL tops $12 million in supply on Kamino",
+    "tags": [
+      "Plume",
+      "Kamino"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T16:22:09.000Z"
+  },
+  {
+    "id": "fdc7a38330cfc8bb",
+    "slug": "sap-reportedly-weighs-cutting-at-least-10-000-jobs-in-fresh-restructuring",
+    "title": "SAP reportedly weighs cutting at least 10,000 jobs in fresh restructuring",
+    "tags": [
+      "SAP"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T16:22:01.000Z"
+  },
+  {
+    "id": "6b27044d6425b01f",
+    "slug": "quantum-computing-funding-tops-621-million-in-uk",
+    "title": "Quantum Computing Funding Tops $621 Million in UK",
+    "tags": [
+      "Tracxn",
+      "United Kingdom"
+    ],
+    "source": "Crowdfund Insider",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T16:21:46.000Z"
+  },
+  {
+    "id": "6dd5562d1927616f",
+    "slug": "bitcoin-s-recovery-above-60-000-faces-a-threat-from-japan-while-wall-street-sleeps",
+    "title": "Bitcoin’s recovery above $60,000 faces a threat from Japan while Wall Street sleeps",
+    "tags": [
+      "Bitcoin",
+      "Japan",
+      "Tokyo",
+      "Wall Street"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T16:20:29.000Z"
+  },
+  {
+    "id": "b0760cb4401d72a4",
+    "slug": "at-fm-summit-london-brokers-and-panellists-weigh-uk-rules-and-on-chain-competition",
+    "title": "At FM Summit London, Brokers and Panellists Weigh UK Rules and On-Chain Competition",
+    "tags": [
+      "Finance Magnates Summit",
+      "BeInCrypto",
+      "United Kingdom",
+      "European Union"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T16:19:42.000Z"
+  },
+  {
+    "id": "53e89efc4ecfb270",
+    "slug": "jpmorgan-says-bitcoin-capitulation-signaled-by-strategy-s-record-low-nav-multiple",
+    "title": "JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple",
+    "tags": [
+      "JPMorgan",
+      "Bitcoin",
+      "Strategy"
+    ],
+    "source": "The Block",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T16:18:24.000Z"
+  },
+  {
+    "id": "f99aa9a57258a823",
+    "slug": "almost-5-billion-in-xrp-leaves-exchanges-in-30-days-as-xrp-rebounds-to-0-95",
+    "title": "Almost $5 Billion in XRP Leaves Exchanges in 30 Days as XRP Rebounds to $0.95",
+    "tags": [
+      "XRP",
+      "Binance",
+      "OKX"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T16:15:15.000Z"
+  },
+  {
+    "id": "79aa9bb19fa3ba7f",
+    "slug": "chip-sellers-threaten-to-cut-off-neoclouds-that-rent-nvidia-gpus-to-chinese-firms",
+    "title": "Chip sellers threaten to cut off neoclouds that rent Nvidia GPUs to Chinese firms",
+    "tags": [
+      "Nvidia",
+      "United States",
+      "China"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T16:13:48.000Z"
+  },
+  {
+    "id": "3d48841690014c92",
+    "slug": "coinshares-makes-the-case-for-compute-as-an-asset-class-with-caveats",
+    "title": "CoinShares makes the case for compute as an asset class, with caveats",
+    "tags": [
+      "CoinShares"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T16:06:01.000Z"
+  },
+  {
+    "id": "ca4ead09618374aa",
+    "slug": "arthur-hayes-denies-accusations-of-misleading-followers-on-trades",
+    "title": "Arthur Hayes denies accusations of misleading followers on trades",
+    "tags": [
+      "Arthur Hayes",
+      "Crypto Briefing"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T16:05:48.000Z"
+  },
+  {
+    "id": "132479f2ab261acd",
+    "slug": "anthropic-prices-record-ipo-as-grand-theft-auto-vi-smashes-entertainment-launch-marks",
+    "title": "Anthropic prices record IPO as Grand Theft Auto VI smashes entertainment launch marks",
+    "tags": [
+      "Anthropic",
+      "Grand Theft Auto VI"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T16:04:55.000Z"
+  },
+  {
+    "id": "ff48a3d267b874b0",
+    "slug": "uk-app-fraud-losses-rise-22-to-316-million-in-first-half-of-2026",
+    "title": "UK APP Fraud Losses Rise 22% to £316 Million in First Half of 2026",
+    "tags": [
+      "United Kingdom",
+      "UK Finance"
+    ],
+    "source": "Crowdfund Insider",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T16:04:12.000Z"
+  },
+  {
+    "id": "55c37cdbe8fa7d47",
+    "title": "Authorities complete 2026 review of payments Memorandum of Understanding",
+    "summary": "Read the MoU (PDF) Outcome of the review:   The review found that cooperation and coordination between the Authorities – the Bank, FCA, PRA and PSR – has strengthened and remains effective. We concluded that no changes to the MoU are needed at this time.... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/11/325263-authorities-complete-2026-review-of-payments-memorandum-of-understanding/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Bank",
+      "FCA",
+      "PRA",
+      "PSR"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T16:00:25.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "Authorities have completed the 2026 review of the payments Memorandum of Understanding. The review concluded that cooperation and coordination among the Bank, FCA, PRA, and PSR have strengthened and remain effective. As a result, regulators determined that no changes to the MoU are required at this time.",
+    "content_ta": "Authorities-ன் payments Memorandum of Understanding குறித்த 2026-ஆம் ஆண்டு ஆய்வு வெற்றிகரமாக முடிக்கப்பட்டுள்ளது. Bank, FCA, PRA மற்றும் PSR ஆகியவற்றுக்கு இடையேயான ஒத்துழைப்பும் ஒருங்கிணைப்பும் மேலும் வலுவடைந்து பயனுள்ளதாகத் தொடர்வதாக இந்த ஆய்வில் கண்டறியப்பட்டுள்ளது. இதன் காரணமாக, தற்போது MoU-ல் எந்த மாற்றங்களும் செய்யத் தேவையில்லை என்று முடிவு செய்யப்பட்டுள்ளது.",
+    "slug": "authorities-complete-2026-review-of-payments-memorandum-of-understanding"
+  },
+  {
+    "id": "3a2e377b7bf199ea",
+    "slug": "eu-sanctions-proposal-could-cut-off-kyrgyz-crypto-exchanges",
+    "title": "EU sanctions proposal could cut off Kyrgyz crypto exchanges",
+    "tags": [
+      "European Union",
+      "Kyrgyzstan"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T15:52:26.000Z"
+  },
+  {
+    "id": "4d756cc6281926df",
+    "slug": "microsoft-signs-cloud-inference-deal-with-cerebras-adding-a-fourth-ai-compute-path",
+    "title": "Microsoft signs cloud inference deal with Cerebras, adding a fourth AI compute path",
+    "tags": [
+      "Microsoft",
+      "Cerebras"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T15:50:52.000Z"
+  },
+  {
+    "id": "13b4a179155421dc",
+    "slug": "how-eu-brokers-could-lose-access-to-kyrgyz-crypto-exchanges",
+    "title": "How EU brokers could lose access to Kyrgyz crypto exchanges",
+    "tags": [
+      "Kyrgyzstan",
+      "European Union"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T15:45:07.000Z"
+  },
+  {
+    "id": "7cb8aca5c678b7f5",
+    "slug": "cango-contractor-dies-after-october-fire-at-georgia-bitcoin-mining-facility",
+    "title": "Cango contractor dies after October fire at Georgia Bitcoin mining facility",
+    "tags": [
+      "Cango",
+      "Bitcoin",
+      "Georgia"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T15:43:47.000Z"
+  },
+  {
+    "id": "32883931249f21f2",
+    "slug": "injective-eyes-125-as-7-3m-inj-burn-and-veyra-upgrade-strengthen-bullish-outlook",
+    "title": "Injective Eyes $125 as 7.3M INJ Burn and Veyra Upgrade Strengthen Bullish Outlook",
+    "tags": [
+      "Injective"
+    ],
+    "source": "Coinpedia",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T15:41:02.000Z"
+  },
+  {
+    "id": "325f50ebe774d865",
+    "slug": "monero-xmr-drops-12-on-kucoin-delisting-announcement-is-zcash-next",
+    "title": "Monero (XMR) Drops 12% on KuCoin Delisting Announcement: Is Zcash Next?",
+    "tags": [
+      "Monero",
+      "KuCoin",
+      "Zcash"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T15:39:51.000Z"
+  },
+  {
+    "id": "542066ee525b8880",
+    "slug": "bitcoin-news-swiss-etf-debut-meets-7b-options-expiry-and-us-strategic-reserve-push",
+    "title": "Bitcoin News: Swiss ETF Debut Meets $7B Options Expiry and US Strategic Reserve Push",
+    "tags": [
+      "Bitcoin",
+      "Switzerland",
+      "United States"
+    ],
+    "source": "CryptoNews",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T15:38:32.000Z"
+  },
+  {
+    "id": "caac8a90d3f344f4",
+    "slug": "starknet-highlights-quantum-computing-threats-to-elliptic-curve-snarks",
+    "title": "Starknet highlights quantum computing threats to elliptic-curve SNARKs",
+    "tags": [
+      "Starknet"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T15:37:44.000Z"
+  },
+  {
+    "id": "21d06ed2305cdbd6",
+    "slug": "huawei-to-unveil-hbm-design-with-double-the-data-connections-of-hbm4",
+    "title": "Huawei to unveil HBM design with double the data connections of HBM4",
+    "tags": [
+      "Huawei",
+      "China",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T15:24:16.000Z"
+  },
+  {
+    "id": "4023d4768993d3eb",
+    "slug": "meria-finance-joins-jupiter-s-jupsol-validator-set-with-a-compliance-pitch",
+    "title": "Meria Finance joins Jupiter’s JupSOL validator set with a compliance pitch",
+    "tags": [
+      "Meria Finance",
+      "Jupiter",
+      "JupSOL"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T15:21:43.000Z"
+  },
+  {
+    "id": "cb850642b4200a9d",
+    "slug": "solana-sol-has-its-worst-year-ever-can-it-get-worse",
+    "title": "Solana (SOL) Has Its Worst Year Ever: Can It Get Worse?",
+    "tags": [
+      "Solana"
+    ],
+    "source": "U.Today",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T15:20:53.000Z"
+  },
+  {
+    "id": "ff5220a8d2d162ab",
+    "slug": "zoomex-partnerships-elite-sports-gateway",
+    "title": "Zoomex Partnerships: Elite Sports Gateway",
+    "tags": [
+      "Zoomex",
+      "Wimbledon",
+      "Novak Djokovic"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T15:19:41.000Z"
+  },
+  {
+    "id": "bb87e0df67d2c7b8",
+    "title": "Securing Trust in the Quantum Era: Why the Financial Industry Must Prepare Together",
+    "summary": "Quantum computing can still feel like a distant prospect. And that distance can make its opportunities and risks easy to underestimate.\nYet looking beyond the technology itself reveals a much more immediate question: how do we continue to protect trust as the foundations of digital security are about to be challenged?\nToday’s financial system depends on trust. Trust that transactions are authentic, communications are secure and identities can be verified. For decades, that trust has rested on cryptographic techniques that are considered effectively unbreakable, provided they are regularly updated and strengthened over time.\nQuantum computing – an emerging technology that aims to solve computational problems significantly faster than traditional computers – is challenging that assumption. It has the potential to overcome mathematical problems on which many of today’s widely used cryptographic algorithms rely.\nIn practical terms, that means the safeguards that protect confidentiality, integrity and authentication today could be defeated in the future. Over time, attackers could convincingly fake digital signatures that secure financial transactions or decrypt sensitive communications.\nPreparing for the impact of quantum computing therefore requires decisive action across the financial ecosystem, including a transition from cryptographic methods that could become vulnerable to new, quantum-resistant standards.\nThat’s why post-quantum security readiness is a strategic priority at Swift. For nearly a decade, we have been actively preparing for this shift and helping shape the industry’s response to stay ahead of emerging risks and lead our community towards a quantum-ready future, preserving the security and trust on which global finance depends.\nQuantum risk goes to the heart of whether the integrity of the financial system can continue to be trusted as technology evolves.\n\n\n\n\n\nUnderstanding the scale of the shift\nTo understand why this preparation matters, let’s consider how quantum computing challenges the mechanisms that underpin trust in digital systems, including digital signatures, authentication and encryption.\nFor example, if digital signatures can be forged, attackers could impersonate trusted institutions without needing to steal private keys, no matter the strength of the key protection. If widely used key exchange mechanisms are broken, secure communication channels could be compromised.\nAnd if encrypted data can be decrypted retrospectively, sensitive information intercepted today could be exposed in the future, a risk often described as ‘harvest now, decrypt later’. Similarly, digital signatures trusted today could potentially be forged in the future, undermining non-repudiation and disrupting the auditable chain of trust.\nQuantum risk goes to the heart of whether the integrity of the financial system can continue to be trusted as technology evolves.\nBuilding the financial community’s post-quantum future\nThe industry’s response is the development of post-quantum cryptography (PQC). These are new cryptographic algorithms designed to replace those that could be broken by quantum computing, while operating securely on today’s systems.\nPQC algorithms deliver the same core functions as current cryptography, including key exchanges and digital signatures, but they rely on different mathematical foundations that are considered resistant to both classical and quantum attacks.\nStandardisation is well underway, and the first set of quantum-resistant algorithms were finalised in 2024. Their adoption, however, is not a simple replacement exercise.\nToday’s cryptography is deeply embedded across systems, applications and processes. Transitioning to new standards requires organisations to understand where they are exposed and manage change in a controlled and resilient way.\nRather than waiting for a complete inventory of cryptographic assets, organisations can prioritise their most critical and exposed systems and begin the PQC transition, while continuing to build a fuller view of their environment in parallel.\nAs the cryptographic landscape is expected to evolve more rapidly than in the past, greater cryptographic agility will help organisations adapt efficiently as standards evolve.\nWhy ecosystem readiness matters\nOrganisations are now at different stages of their PQC journey. Some have begun assessing their cryptographic exposure and experimenting with new algorithms. Others are at an earlier stage of awareness.\nThe challenge is not simply to migrate individual institutions to new cryptographic standards. It is ensuring that an interconnected financial ecosystem can transition securely and interoperably. That makes coordinated industry action critical.\nAt Swift, our experience demonstrates why early preparation matters. Post-quantum security readiness is a strategic priority, and for nearly a decade we have been monitoring developments in quantum computing and helping shape the industry’s response to emerging cryptographic risks.\nOur preparations have progressed from assessing the impact of quantum risk and evaluating PQC to implementation activities aligned with emerging standards. Initial implementation activities are now underway, focusing on our core services.\nOur experience also reinforces that customer readiness and interoperability have to be considered from the outset. Preparing our own infrastructure is just one part of the challenge.\nOver the coming months, we will ramp up the delivery of our PQC capabilities to help our community make this shift, while maintaining the security, stability and interoperability on which financial communications depend.\nSecuring trust for the future\nQuantum computing represents a fundamental shift in the technological landscape. While its full impact may still be years away, preparing an interconnected financial ecosystem for that change is essential.\nSecuring trust in the quantum era will require institutions to understand their exposure, plan their transition and coordinate with the wider ecosystem on which they depend.\nBy mobilising a coordinated transition today, we can collectively contribute to ensuring the foundations of financial trust endure into the quantum future.\nMike ManosChief Information OfficerSwiftYes",
+    "hasSummary": true,
+    "link": "https://financialit.net/content/securing-trust-quantum-era-why-financial-industry-must-prepare-together",
+    "source": "Financial IT",
+    "tags": [
+      "Swift"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T15:15:02.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "Quantum computing poses significant future risks to digital security in the financial industry, potentially breaking widely used cryptographic algorithms. To protect future transactions and sensitive communications, financial institutions must act together and transition to post-quantum cryptography standards. Swift is prioritizing this shift to ensure global financial stability and secure trust in the quantum era.",
+    "content_ta": "குவாண்டம் கம்ப்யூட்டிங் நிதித்துறையின் டிஜிட்டல் பாதுகாப்பிற்கு எதிர்காலத்தில் குறிப்பிடத்தக்க ஆபத்துகளை ஏற்படுத்துகிறது, இது பரவலாகப் பயன்படுத்தப்படும் கிரிப்டோகிராஃபிக் வழிமுறைகளை உடைக்கக்கூடும். எதிர்காலப் பரிமாற்றங்களைப் பாதுகாக்க, நிதி நிறுவனங்கள் இணைந்து செயல்பட்டு போஸ்ட்-குவாண்டம் கிரிப்டோகிராஃபி தரநிலைகளுக்கு மாற வேண்டும். குவாண்டம் காலகட்டத்தில் உலகளாவிய நிதி நிலைத்தன்மையையும் பாதுகாப்பான நம்பிக்கையையும் உறுதிப்படுத்த Swift இந்த மாற்றத்திற்கு முன்னுரிமை அளித்து வருகிறது.",
+    "slug": "securing-trust-in-the-quantum-era-why-the-financial-industry-must-prepare-together"
+  },
+  {
+    "id": "83dc5130ee18ccc0",
+    "slug": "ai-agents-can-pass-every-accuracy-test-and-still-put-your-money-at-risk",
+    "title": "AI agents can pass every accuracy test and still put your money at risk",
     "tags": [
       "ShellBench",
       "CryptoSlate"
     ],
+    "source": "CryptoSlate",
     "origin": "rss",
-    "pubDate": "2026-11-26T15:00:07.000Z",
-    "fetchedAt": "2026-11-26T15:01:39.577Z",
-    "isDuplicateOf": null,
-    "content": "Recent research reveals that AI agents passing standard accuracy tests can still pose significant financial risks. In a benchmark evaluation called ShellBench, numerous test runs met all correctness criteria yet failed crucial safety requirements. This highlights potential vulnerabilities in deploying automated financial agents without comprehensive risk controls.",
-    "content_ta": "AI ஏஜெண்டுகள் அனைத்து துல்லியத் தேர்வுகளிலும் வெற்றி பெற்றாலும் கூட நிதி சார்ந்த அபாயங்களை ஏற்படுத்தக்கூடும் என்று சமீபத்திய ஆய்வு காட்டுகிறது. ShellBench மதிப்பீட்டில், பல சோதனைகள் சரியான அளவுகோல்களைப் பூர்த்தி செய்தபோதிலும் முக்கிய பாதுகாப்புத் தேவைகளில் தோல்வியடைந்தன. விரிவான இடர் கட்டுப்பாடுகள் இல்லாமல் தானியங்கி நிதி ஏஜெண்டுகளைப் பயன்படுத்துவதில் உள்ள சாத்தியமான குறைபாடுகளை இது எடுத்துக்காட்டுகிறது.",
-    "slug": "ai-agents-can-pass-every-accuracy-test-and-still-put-your-money-at-risk"
+    "hasContent": true,
+    "pubDate": "2026-11-26T15:00:07.000Z"
   },
   {
     "id": "419a6482780804ed",
+    "slug": "altria-confirms-it-is-considering-an-offer-for-imperial-brands",
     "title": "Altria confirms it is considering an offer for Imperial Brands",
-    "summary": "Altria's potential acquisition of Imperial Brands could reshape the tobacco industry landscape, signaling strategic growth beyond the US.\nThe post Altria confirms it is considering an offer for Imperial Brands appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/altria-deal-imperial-brands-possible-offer-2026-11/",
-    "source": "CryptoBriefing",
     "tags": [
       "Altria",
       "Imperial Brands"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-26T14:58:35.000Z",
-    "fetchedAt": "2026-11-26T15:01:39.577Z",
-    "isDuplicateOf": null,
-    "content": "Tobacco giant Altria has confirmed it is exploring a potential offer for rival company Imperial Brands. This strategic move could significantly reshape the global tobacco industry, as companies look for new avenues of growth and expansion outside of the United States market.",
-    "content_ta": "புகையிலை நிறுவனமான Altria, தனது போட்டியாளரான Imperial Brands நிறுவனத்தை வாங்குவது குறித்து பரிசீலித்து வருவதாக உறுதிப்படுத்தியுள்ளது. அமெரிக்க சந்தைக்கு அப்பால் தங்கள் வளர்ச்சியை விரிவாக்க நிறுவனங்கள் முற்படும் நிலையில், இந்த வியூக நகர்வானது உலகளாவிய புகையிலை சந்தையை கணிசமாக மாற்றியமைக்கக்கூடும்.",
-    "slug": "altria-confirms-it-is-considering-an-offer-for-imperial-brands"
+    "hasContent": true,
+    "pubDate": "2026-11-26T14:58:35.000Z"
   },
   {
     "id": "b89ea0e588a5865d",
+    "slug": "bnb-chain-s-new-blockchain-hides-who-is-trading-but-not-what-they-trade",
     "title": "BNB Chain’s New Blockchain Hides Who Is Trading, But Not What They Trade",
-    "summary": "Key takeaways BNB Chain has proposed a new Layer 1 blockchain that allows users to interact with public DeFi applications using funds held in a shielded pool. Private payments conceal the parties, asset and amount, while certain public contract interactions remain visible. The proposed AtomicCall mechanism allows users to execute supported DeFi transactions without publicly […]",
-    "hasSummary": true,
-    "link": "https://bitcoinist.com/bnb-chain-new-blockchain-private-defi/",
-    "source": "Bitcoinist",
     "tags": [
       "BNB Chain"
     ],
+    "source": "Bitcoinist",
     "origin": "rss",
-    "pubDate": "2026-11-26T14:55:42.000Z",
-    "fetchedAt": "2026-11-26T15:01:39.577Z",
-    "isDuplicateOf": null,
-    "content": "BNB Chain has proposed a new Layer 1 blockchain designed to enhance user privacy in decentralized finance. The proposed network allows users to interact with public DeFi applications using funds held in a shielded pool. While private payments conceal the parties involved, assets, and amounts, certain public contract interactions remain visible to maintain transparency.",
-    "content_ta": "BNB Chain ஆனது பரவலாக்கப்பட்ட நிதியில் பயனர் தனியுரிமையை மேம்படுத்தும் வகையில் புதிய Layer 1 பிளாக்செயின் ஒன்றை அறிமுகப்படுத்தியுள்ளது. இந்த முன்மொழியப்பட்ட நெட்வொர்க், பாதுகாக்கப்பட்ட பூல் மூலம் பொது DeFi பயன்பாடுகளுடன் தொடர்பு கொள்ள பயனர்களை அனுமதிக்கிறது. தனிப்பட்ட கட்டணங்கள் சம்பந்தப்பட்ட தரப்பினரையும் தொகையையும் மறைக்கும் அதே வேளையில், சில பொது ஒப்பந்த தொடர்புகள் வெளிப்படைத்தன்மைக்காகத் தொடர்ந்து தெரியும்.",
-    "slug": "bnb-chain-s-new-blockchain-hides-who-is-trading-but-not-what-they-trade"
+    "hasContent": true,
+    "pubDate": "2026-11-26T14:55:42.000Z"
   },
   {
     "id": "cb462fa24dfb5c96",
+    "slug": "injective-submits-policy-letter-to-sec-advocating-for-onchain-orderbooks",
     "title": "Injective submits policy letter to SEC advocating for onchain orderbooks",
-    "summary": "Injective's advocacy for onchain orderbooks could pave the way for decentralized finance to gain regulatory acceptance, fostering innovation and growth.\nThe post Injective submits policy letter to SEC advocating for onchain orderbooks appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/injective-sec-letter-onchain-orderbooks/",
-    "source": "CryptoBriefing",
     "tags": [
       "Injective",
       "SEC"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-26T14:54:24.000Z",
-    "fetchedAt": "2026-11-26T15:01:39.577Z",
-    "isDuplicateOf": null,
-    "content": "Injective has submitted a formal policy letter to the SEC advocating for the recognition and integration of onchain orderbooks. This proactive regulatory approach aims to support the growth and acceptance of decentralized finance, potentially encouraging further innovation and clearer guidelines for digital asset platforms operating within the market.",
-    "content_ta": "Injective நிறுவனம் SEC-க்கு ஆன்லைன் ஆர்டர்புக்குகளை (onchain orderbooks) ஆதரித்து ஒரு கொள்கை கடினத்தை சமர்ப்பித்துள்ளது. இந்த ஒழுங்குமுறை முயற்சி பரவலாக்கப்பட்ட நிதித்துறையின் வளர்ச்சியை ஊக்குவிப்பதோடு, டிஜிட்டல் சொத்து தளங்களுக்கு தெளிவான வழிகாட்டுதல்களை உருவாக்க உதவும்.",
-    "slug": "injective-submits-policy-letter-to-sec-advocating-for-onchain-orderbooks"
+    "hasContent": true,
+    "pubDate": "2026-11-26T14:54:24.000Z"
   },
   {
     "id": "3b69eaf57073274f",
+    "slug": "gta-6-fans-targeted-by-crypto-stealing-malware-disguised-as-pc-download",
     "title": "GTA 6 fans targeted by crypto-stealing malware disguised as PC download",
-    "summary": "The GTA 6 malware apparently steals browser passwords, cookies, crypto wallet details, seed phrases, and various Steam and VPN credentials. \nThe post GTA 6 fans targeted by crypto-stealing malware disguised as PC download appeared first on Protos.",
-    "hasSummary": true,
-    "link": "https://protos.com/gta-6-fans-targeted-by-crypto-stealing-malware-disguised-as-pc-download/",
-    "source": "Protos",
     "tags": [
       "Grand Theft Auto 6"
     ],
+    "source": "Protos",
     "origin": "rss",
-    "pubDate": "2026-11-26T14:45:34.000Z",
-    "fetchedAt": "2026-11-26T15:01:39.577Z",
-    "isDuplicateOf": null,
-    "content": "Grand Theft Auto 6 fans are being targeted by a new malware campaign disguised as a PC download for the anticipated game. Security researchers discovered that the malicious software is designed to steal sensitive user information, including browser passwords, cookies, cryptocurrency wallet details, seed phrases, and credentials for services like Steam and VPNs.",
-    "content_ta": "எட்டவரும் GTA 6 கேமின் PC பதிப்பு போல் நடித்து, கிரிப்டோகரன்சியைத் திருடும் மால்வேர் மூலம் ரசிகர்கள் குறிவைக்கப்பட்டுள்ளனர். இந்த மால்வேர் உலாவி பாஸ்வேர்டுகள், குகிகள், கிரிப்டோ வாலட் விவரங்கள், சீட் பிரேஸ்கள் மற்றும் Steam மற்றும் VPN சான்றுகளைத் திருடுவதாக பாதுகாப்பு ஆராய்ச்சியாளர்கள் கண்டறிந்துள்ளனர்.",
-    "slug": "gta-6-fans-targeted-by-crypto-stealing-malware-disguised-as-pc-download"
+    "hasContent": true,
+    "pubDate": "2026-11-26T14:45:34.000Z"
   },
   {
     "id": "3f07f85860621124",
@@ -218,593 +795,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-26T14:05:58.000Z"
-  },
-  {
-    "id": "73ea1b1546e286e8",
-    "slug": "ai-attackers-don-t-wait-for-the-annual-pentest-nor-can-banks",
-    "title": "AI Attackers Don’t Wait for the Annual Pentest. Nor can Banks",
-    "tags": [
-      "Aikido Security"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T14:05:30.000Z"
-  },
-  {
-    "id": "251c08321e210f3e",
-    "slug": "polygon-brings-its-cross-border-payments-stack-to-coinbase-s-base",
-    "title": "Polygon Brings Its Cross-Border Payments Stack to Coinbase’s Base",
-    "tags": [],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-26T14:01:02.000Z"
-  },
-  {
-    "id": "cbe8ea594ab204d5",
-    "slug": "uk-fca-breaks-from-us-and-eu-with-tougher-defi-oversight",
-    "title": "UK FCA Breaks From US And EU With Tougher DeFi Oversight",
-    "tags": [
-      "UK FCA",
-      "United States",
-      "European Union"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:57:31.000Z"
-  },
-  {
-    "id": "2026066827aa2f84",
-    "slug": "research-note-suggests-credit-constraints-in-data-center-construction-raising-gpu-rental-rates",
-    "title": "Research note suggests credit constraints in data center construction raising GPU rental rates",
-    "tags": [
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:54:26.000Z"
-  },
-  {
-    "id": "f822577134ccf788",
-    "slug": "nasdaq-exec-pushes-for-common-eu-rules-on-tokenized-securities",
-    "title": "Nasdaq exec pushes for common EU rules on tokenized securities",
-    "tags": [
-      "Nasdaq",
-      "Roland Chai",
-      "European Union",
-      "Sweden"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:47:56.000Z"
-  },
-  {
-    "id": "b31162a06915005c",
-    "slug": "best-time-to-buy-bitcoin-btc-could-arrive-in-just-2-days-here-s-why",
-    "title": "Best Time to Buy Bitcoin (BTC) Could Arrive in Just 2 Days: Here’s Why",
-    "tags": [
-      "Bitcoin"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:45:28.000Z"
-  },
-  {
-    "id": "64df8e29d34e732d",
-    "slug": "stoxx-600-rises-1-7-as-global-stocks-rebound-on-ai-trade",
-    "title": "Stoxx 600 rises 1.7% as global stocks rebound on AI trade",
-    "tags": [
-      "Stoxx 600"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:42:48.000Z"
-  },
-  {
-    "id": "129b852d2bee80a4",
-    "slug": "td-cowen-s-vitanza-says-strategy-could-outlast-a-decade-long-crypto-winter",
-    "title": "TD Cowen’s Vitanza says Strategy could outlast a decade-long crypto winter",
-    "tags": [
-      "TD Cowen",
-      "Strategy"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:41:59.000Z"
-  },
-  {
-    "id": "d87da7f123c67831",
-    "slug": "fm-summit-london-2026-recap-ai-digital-assets-and-policy-take-focus",
-    "title": "FM Summit London 2026 recap: AI, digital assets and policy take focus",
-    "tags": [
-      "FM Summit London",
-      "Old Billingsgate",
-      "The Folly",
-      "London"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:40:52.000Z"
-  },
-  {
-    "id": "035f62998be0c2d2",
-    "slug": "us-government-could-be-barred-from-selling-its-strategic-bitcoin-holdings-for-20-years",
-    "title": "US government could be barred from selling its strategic Bitcoin holdings for 20 years",
-    "tags": [
-      "Bitcoin",
-      "United States"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:40:29.000Z"
-  },
-  {
-    "id": "1330fbac0c174474",
-    "slug": "7-bizarre-things-crypto-whales-spent-a-fortune-on",
-    "title": "7 bizarre things crypto whales spent a fortune on",
-    "tags": [],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:30:00.000Z"
-  },
-  {
-    "id": "d238c9637b001f41",
-    "slug": "apple-flags-wukong-food-delivery-app-as-malware-for-scanning-screenshots",
-    "title": "Apple flags Wukong food delivery app as malware for scanning screenshots",
-    "tags": [
-      "Apple"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:26:19.000Z"
-  },
-  {
-    "id": "04584248382b7ee3",
-    "slug": "apple-pulls-minimax-s-talkie-chatbot-from-app-store-after-child-safety-allegations",
-    "title": "Apple pulls MiniMax’s Talkie chatbot from App Store after child safety allegations",
-    "tags": [
-      "Apple",
-      "MiniMax",
-      "Talkie"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:25:24.000Z"
-  },
-  {
-    "id": "465009eb53d6eb51",
-    "slug": "zcash-whale-wakes-up-after-9-years-moves-11-39-million-to-kraken",
-    "title": "Zcash Whale Wakes Up After 9 Years, Moves $11.39 Million To Kraken",
-    "tags": [
-      "Zcash",
-      "Kraken",
-      "Lookonchain"
-    ],
-    "source": "NewsBTC",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:25:20.000Z"
-  },
-  {
-    "id": "121b124a5c379d26",
-    "slug": "semiconductor-exports-overtake-oil-and-gas-for-the-first-time-deutsche-bank-says",
-    "title": "Semiconductor exports overtake oil and gas for the first time, Deutsche Bank says",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-26T13:24:32.000Z"
-  },
-  {
-    "id": "94c1e888690f87a5",
-    "slug": "micron-stock-drops-as-hpe-warns-of-memory-supply-constraints-into-2028",
-    "title": "Micron stock drops as HPE warns of memory supply constraints into 2028",
-    "tags": [
-      "Micron",
-      "HPE"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:23:47.000Z"
-  },
-  {
-    "id": "839abe3c802374a9",
-    "slug": "the-time-to-prepare-for-a-cryptographic-breakthrough-is-before-it-happens-zcash-team-urges-faster",
-    "title": "‘The time to prepare for a cryptographic breakthrough is before it happens’: Zcash team urges faster deprecation of legacy shielded pool",
-    "tags": [
-      "Zcash",
-      "Sapling"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:22:47.000Z"
-  },
-  {
-    "id": "eaea0ff9fb749bd7",
-    "slug": "vitalik-buterin-is-designing-chips-could-ethereum-become-a-hardware-company-and-overtake-nvidia",
-    "title": "Vitalik Buterin Is Designing Chips: Could Ethereum Become a Hardware Company and Overtake Nvidia?",
-    "tags": [
-      "Vitalik Buterin",
-      "Ethereum",
-      "Nvidia"
-    ],
-    "source": "CryptoNews",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:20:05.000Z"
-  },
-  {
-    "id": "71f24735f73aeb6c",
-    "slug": "turron-by-plazo-expands-card-based-bnpl-offering-in-spain",
-    "title": "Turrón by Plazo expands card-based BNPL offering in Spain",
-    "tags": [
-      "Turrón by Plazo",
-      "ID Finance",
-      "Wonderbox",
-      "Spain"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:20:00.000Z"
-  },
-  {
-    "id": "cee1646518b94961",
-    "slug": "trump-tariffs-may-push-fed-toward-rate-hikes-amid-inflation-concerns",
-    "title": "Trump tariffs may push Fed toward rate hikes amid inflation concerns",
-    "tags": [
-      "Federal Reserve",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:17:13.000Z"
-  },
-  {
-    "id": "52d2ea2e995b203d",
-    "slug": "inverite-insights-launches-portfolio-intelligence-tool",
-    "title": "Inverite Insights launches portfolio intelligence tool",
-    "tags": [
-      "Inverite Insights",
-      "Canada"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:17:00.000Z"
-  },
-  {
-    "id": "3306cd8a007b8c20",
-    "slug": "nucula-unveils-open-hardware-point-of-sale-for-bitcoin-payments",
-    "title": "Nucula unveils open hardware point of sale for Bitcoin payments",
-    "tags": [
-      "Nucula",
-      "Bitcoin"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:16:09.000Z"
-  },
-  {
-    "id": "2e2c05cb52784c28",
-    "slug": "sale-edge-and-neumetria-offer-ai-agents-and-lenders-a-current-cross-bank-view-of-customers",
-    "title": "Sale Edge and Neumetria offer AI agents and lenders a current, cross-bank view of customers",
-    "tags": [
-      "Salt Edge",
-      "Neumetria",
-      "Europe",
-      "North America"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:15:00.000Z"
-  },
-  {
-    "id": "6595b1e7c2003223",
-    "slug": "tsmc-s-a14-1-4nm-class-node-opens-for-chip-design-with-boost-cells",
-    "title": "TSMC’s A14 1.4nm-class node opens for chip design with Boost Cells",
-    "tags": [
-      "TSMC"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:14:18.000Z"
-  },
-  {
-    "id": "eaa3b7c059a7a14e",
-    "slug": "standard-chartered-s-zodia-custody-says-hackers-accessed-client-contact-details",
-    "title": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
-    "tags": [
-      "Zodia Custody",
-      "Standard Chartered"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:13:19.000Z"
-  },
-  {
-    "id": "90d79a281bf34ebc",
-    "slug": "nbx-partners-visa-for-stablecoin-linked-card",
-    "title": "NBX partners Visa for stablecoin-linked card",
-    "tags": [
-      "Visa",
-      "NBX",
-      "Tieto",
-      "IDT Finance"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:11:00.000Z"
-  },
-  {
-    "id": "04797cd367d29a6c",
-    "slug": "velocitydex-resumes-trading-after-fixing-insurance-fund-bug",
-    "title": "VelocityDEX resumes trading after fixing insurance fund bug",
-    "tags": [
-      "VelocityDEX"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:09:16.000Z"
-  },
-  {
-    "id": "65eefbda7c5e263a",
-    "slug": "is-the-bitcoin-bottom-in-galaxy-s-13-signal-checklist-has-an-answer",
-    "title": "Is the Bitcoin Bottom In? Galaxy's 13-Signal Checklist Has an Answer",
-    "tags": [
-      "Bitcoin",
-      "Galaxy",
-      "United States"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:09:10.000Z"
-  },
-  {
-    "id": "634d1ea1b381d1c7",
-    "slug": "anthropic-unlikely-to-join-s-p-500-until-late-2027",
-    "title": "Anthropic unlikely to join S&P 500 until late 2027",
-    "tags": [
-      "Anthropic",
-      "S&P 500"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:09:07.000Z"
-  },
-  {
-    "id": "ca991de36fb26367",
-    "slug": "nvidia-s-jay-puri-tied-to-super-micro-through-marriage-as-chip-smuggling-case-widens",
-    "title": "Nvidia’s Jay Puri tied to Super Micro through marriage as chip-smuggling case widens",
-    "tags": [
-      "Nvidia",
-      "Super Micro",
-      "Jay Puri"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:06:03.000Z"
-  },
-  {
-    "id": "c4735e34b02710ab",
-    "slug": "toobit-appoints-yasser-elmansy-as-chief-growth-officer",
-    "title": "Toobit Appoints Yasser Elmansy as Chief Growth Officer",
-    "tags": [
-      "Toobit",
-      "Yasser Elmansy"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T13:05:43.000Z"
-  },
-  {
-    "id": "48511eefcbcf77fe",
-    "slug": "toobit-delivers-474k-in-net-slippage-subsidies",
-    "title": "Toobit Delivers $474K in Net Slippage Subsidies",
-    "tags": [],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-26T13:05:04.000Z"
-  },
-  {
-    "id": "eed2278e1e515405",
-    "slug": "is-strategy-out-of-options-as-mstr-hits-52-week-low",
-    "title": "Is Strategy ‘out of options’ as MSTR hits 52-week low?",
-    "tags": [
-      "Strategy",
-      "Two Prime",
-      "Alexander Blume",
-      "Nasdaq"
-    ],
-    "source": "Protos",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T12:57:21.000Z"
-  },
-  {
-    "id": "bd097f4deb0d9b51",
-    "slug": "fidelity-chainlink-etf-filing-proposes-link-fund-without-staking",
-    "title": "Fidelity Chainlink ETF Filing Proposes LINK Fund Without Staking",
-    "tags": [
-      "Fidelity",
-      "Chainlink",
-      "Nasdaq"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T12:53:45.000Z"
-  },
-  {
-    "id": "42215a475383b94d",
-    "slug": "pieverse-price-surges-35-as-open-interest-jumps-40-can-bulls-reclaim-5",
-    "title": "PIEVERSE Price Surges 35% as Open Interest Jumps 40% – Can Bulls Reclaim $5?",
-    "tags": [
-      "PIEVERSE"
-    ],
-    "source": "Coinpedia",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T12:52:36.000Z"
-  },
-  {
-    "id": "f33db0650ee687e5",
-    "slug": "credable-acquires-70-stake-in-reql",
-    "title": "CredAble acquires 70% stake in Reql",
-    "tags": [
-      "CredAble",
-      "Reql",
-      "India"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T12:52:00.000Z"
-  },
-  {
-    "id": "1674224085ea88fd",
-    "slug": "nvidia-brings-gtc-to-washington-with-four-livestreamed-executive-keynotes",
-    "title": "Nvidia brings GTC to Washington with four livestreamed executive keynotes",
-    "tags": [],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-26T12:48:19.000Z"
-  },
-  {
-    "id": "20b3834ebae9084e",
-    "slug": "gitex-global-and-expand-north-star-to-be-hosted-at-dubai-exhibition-centre-expo-city-dubai",
-    "title": "GITEX GLOBAL and Expand North Star to Be Hosted at Dubai Exhibition Centre, Expo City Dubai",
-    "tags": [
-      "Dubai",
-      "GITEX GLOBAL",
-      "Expand North Star"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T12:47:59.000Z"
-  },
-  {
-    "id": "4cd5fa884e29b45e",
-    "slug": "scammers-bait-tron-users-with-frozen-usdt-then-drain-their-trx-deposits",
-    "title": "Scammers bait TRON users with frozen USDT, then drain their TRX deposits",
-    "tags": [
-      "TRON",
-      "USDT",
-      "TRX"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T12:46:21.000Z"
-  },
-  {
-    "id": "e168346b50f904e4",
-    "slug": "bts-and-veridas-partner-to-strengthen-digital-identity-and-fraud-prevention",
-    "title": "BTS and Veridas partner to strengthen digital identity and fraud prevention",
-    "tags": [
-      "BTS",
-      "Veridas",
-      "Europe",
-      "Latin America",
-      "North America"
-    ],
-    "source": "Finextra",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T12:45:00.000Z"
-  },
-  {
-    "id": "6c5c4372daf8960a",
-    "slug": "maldives-islamic-bank-launches-visa-islamic-credit-card-proposition-with-bpc",
-    "title": "Maldives Islamic Bank Launches Visa Islamic Credit Card Proposition With BPC",
-    "tags": [
-      "Maldives Islamic Bank",
-      "BPC",
-      "Visa",
-      "Maldives"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T12:41:34.000Z"
-  },
-  {
-    "id": "540f34551af9eec8",
-    "slug": "shiba-inu-burn-transactions-near-22-000-in-key-milestone",
-    "title": "Shiba Inu Burn Transactions Near 22,000 in Key Milestone",
-    "tags": [
-      "Shiba Inu"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T12:30:00.000Z"
-  },
-  {
-    "id": "995e34f5dbd350bf",
-    "slug": "galaxy-research-withdraws-call-that-bitcoin-s-bear-market-is-over",
-    "title": "Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over",
-    "tags": [
-      "Galaxy Research",
-      "Bitcoin"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T12:26:08.000Z"
-  },
-  {
-    "id": "8e6d1cdc38dc2f1f",
-    "slug": "pump-fun-app-tops-fomo-in-daily-trading-volume-for-sixth-straight-day",
-    "title": "Pump.fun app tops Fomo in daily trading volume for sixth straight day",
-    "tags": [
-      "Pump.fun",
-      "Fomo"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T12:25:03.000Z"
-  },
-  {
-    "id": "4f1282df4cdf0ff3",
-    "slug": "ai-is-becoming-britain-s-financial-confidant-but-expert-warns-reassured-isn-t-the-same-as-well",
-    "title": "AI Is Becoming Britain’s Financial Confidant, but Expert Warns: ‘Reassured Isn’t the Same as Well Advised’",
-    "tags": [
-      "Moneybox",
-      "Britain"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T12:21:35.000Z"
   }
 ]

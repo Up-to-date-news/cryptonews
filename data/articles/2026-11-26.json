@@ -3150,5 +3150,869 @@
     "content": "Grand Theft Auto 6 fans are being targeted by a new malware campaign disguised as a PC download for the anticipated game. Security researchers discovered that the malicious software is designed to steal sensitive user information, including browser passwords, cookies, cryptocurrency wallet details, seed phrases, and credentials for services like Steam and VPNs.",
     "content_ta": "எட்டவரும் GTA 6 கேமின் PC பதிப்பு போல் நடித்து, கிரிப்டோகரன்சியைத் திருடும் மால்வேர் மூலம் ரசிகர்கள் குறிவைக்கப்பட்டுள்ளனர். இந்த மால்வேர் உலாவி பாஸ்வேர்டுகள், குகிகள், கிரிப்டோ வாலட் விவரங்கள், சீட் பிரேஸ்கள் மற்றும் Steam மற்றும் VPN சான்றுகளைத் திருடுவதாக பாதுகாப்பு ஆராய்ச்சியாளர்கள் கண்டறிந்துள்ளனர்.",
     "slug": "gta-6-fans-targeted-by-crypto-stealing-malware-disguised-as-pc-download"
+  },
+  {
+    "id": "b1b0a06543f6e2d2",
+    "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+    "summary": "A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+    "source": "CoinDesk",
+    "tags": [
+      "Bitcoin",
+      "Bitcoin Core"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T17:30:00.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": "A Bitcoin Core contributor has discovered a privacy vulnerability involving bitcoin wallets. The issue stems from the wallet behavior of resending stuck transactions. For less than 35 cents, anyone can exploit this process to link a specific wallet address to the IP address of the computer monitoring it, potentially exposing user privacy.",
+    "content_ta": "Bitcoin-ல் உள்ள wallet-களில் ஒரு புதிய தனியுரிமை குறைபாடு கண்டுபிடிக்கப்பட்டுள்ளது. பரிவர்த்தனைகள் தாமதமாகும் போது அவற்றை மீண்டும் அனுப்பும் பழக்கமே இந்த சிக்கலுக்குக் காரணம். 35 காசுகளுக்குக் குறைவான செலவில், ஒரு குறிப்பிட்ட wallet முகவரியை அதைக் கண்காணிக்கும் கணினியின் IP முகவரியுடன் இணைக்க முடியும் என்று டெவலப்பர் ஒருவர் கண்டறிந்துள்ளார்.",
+    "slug": "a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds"
+  },
+  {
+    "id": "a26ffd61935ea72f",
+    "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+    "summary": "Bitcoin's increasing dormant supply suggests reduced market liquidity, potentially stabilizing prices but complicating short-term trading dynamics.\nThe post Bitcoin dormant supply climbs toward 69% as holders sit tight through the slump appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+    "source": "CoinDesk",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-26T16:50:23.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases"
+  },
+  {
+    "id": "1ba22a843565eab1",
+    "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
+    "summary": "Economist Robin Brooks warned of dire consequences for stocks if the Federal Reserve fails to deliver dovish cues before the FOMC blackout period.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Federal Reserve",
+      "Robin Brooks"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T17:39:53.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": "Economist Robin Brooks warns that a hawkish Federal Reserve could trigger a significant market downturn for cryptocurrencies and stocks in December. If the central bank fails to provide dovish signals ahead of the upcoming FOMC blackout period, investors may face severe financial consequences amid growing economic uncertainty.",
+    "content_ta": "டெனாமிக்ஸ் Robin Brooks எச்சரித்துள்ளபடி, அமெரிக்க Federal Reserve வங்கியின் கடுமையான வட்டி விகித கொள்கை டிசம்பர் மாதத்தில் கிரிப்டோ மற்றும் பங்குச் சந்தைகளில் கடுமையான சரிவை ஏற்படுத்தக்கூடும். வரவிருக்கும் FOMC பிளாக்அவுட் காலத்திற்கு முன்பு மத்திய வங்கி ஆதரவான சமிக்ஞைகளை வழங்கத் தவறினால், முதலீட்டாளர்கள் கடுமையான நிதிச் சவால்களை எதிர்கொள்ள நேரிடும்.",
+    "slug": "crypto-on-notice-as-hawkish-fed-risks-december-meltdown"
+  },
+  {
+    "id": "f869b2a9e4a21a02",
+    "title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
+    "summary": "The Spanish economist has questioned the viability of stablecoins for widespread payments while backing the development of a digital euro.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Pablo Hernández de Cos",
+      "Bank for International Settlements",
+      "European Central Bank",
+      "European Union"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T16:40:44.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": "BIS chief Pablo Hernández de Cos is reportedly positioned to become the next president of the European Central Bank, according to the Financial Times. The Spanish economist has previously expressed skepticism regarding the viability of stablecoins for widespread payments, while concurrently offering his support for the ongoing development and implementation of a digital euro.",
+    "content_ta": "Financial Times அறிக்கையின்படி, BIS chief Pablo Hernández de Cos அவர்கள் அடுத்த ECB president பதவியை ஏற்கவுள்ளார். Spanish economist ஆன இவர், widespread payments-க்கு stablecoins சாத்தியமா என்ற சந்தேகத்தை எழுப்பியுள்ள அதே வேளையில், digital euro உருவாக்கத்திற்கு தனது ஆதரவையும் தெரிவித்துள்ளார்.",
+    "slug": "bis-chief-pablo-hernandez-de-cos-set-to-become-next-ecb-president-ft"
+  },
+  {
+    "id": "13b4a179155421dc",
+    "title": "How EU brokers could lose access to Kyrgyz crypto exchanges",
+    "summary": "A vote on Kyrgyzstan could make an exchange’s home country the deciding factor in whether a European broker can use it to settle a trade.",
+    "hasSummary": true,
+    "link": "https://cointelegraph.com/news/how-eu-brokers-could-lose-access-to-kyrgyz-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "tags": [
+      "Kyrgyzstan",
+      "European Union"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T15:45:07.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": "A potential vote regarding Kyrgyzstan could significantly impact European brokers. Under the proposed developments, the home country of an exchange may determine whether EU brokers are permitted to use it for settling trades, potentially restricting their access to certain crypto exchanges based in the region.",
+    "content_ta": "கிர்கிஸ்தான் தொடர்பான ஒரு வாக்கெடுப்பு ஐரோப்பிய ப்ரோக்கர்களை கடுமையாக பாதிக்கலாம். இதன் மூலம், ஒரு கிரிப்டோ எக்ஸ்சேஞ்ச் அமைந்துள்ள நாட்டைப் பொறுத்து, ஐரோப்பிய ப்ரோக்கர்கள் வர்த்தகங்களை முடிக்க அதைப் பயன்படுத்தலாமா என்பது நிர்ணயிக்கப்படலாம், இதனால் சில எக்ஸ்சேஞ்ச்களுக்கான அணுகல் கட்டுப்படுத்தப்படலாம்.",
+    "slug": "how-eu-brokers-could-lose-access-to-kyrgyz-crypto-exchanges"
+  },
+  {
+    "id": "53e89efc4ecfb270",
+    "title": "JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple",
+    "summary": "The record-low mNAV signals potential instability in Bitcoin markets, challenging investor confidence and Strategy's equity-funded growth model.\nThe post JPMorgan flags Strategy’s record-low mNAV as a Bitcoin capitulation signal appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
+    "source": "The Block",
+    "tags": [
+      "JPMorgan",
+      "Bitcoin",
+      "Strategy"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T16:18:24.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": "JPMorgan analysts indicate that Bitcoin may be facing a capitulation phase, highlighted by Strategy reaching a record-low net asset value multiple. This historic low in mNAV points to potential instability within the cryptocurrency markets, putting pressure on investor confidence and raising concerns regarding equity-funded growth models used in the sector.",
+    "content_ta": "Bitcoin சந்தையில் சரிவுக்கான சாத்தியக்கூறுகள் உள்ளதாக JPMorgan ஆய்வாளர்கள் தெரிவித்துள்ளனர். Strategy நிறுவனத்தின் நிகர சொத்து மதிப்பு பன்மடங்கு (NAV multiple) வரலாற்றுச் சாதனை அளவுக்கு குறைந்திருப்பது இதைக் குறிக்கிறது. இந்த வீழ்ச்சியானது முதலீட்டாளர்களின் நம்பிக்கைக்கு சவாலாக இருப்பதுடன், நிறுவனங்களின் வளர்ச்சி மாதிரிகள் குறித்தும் கவலைகளை எழுப்பியுள்ளது.",
+    "slug": "jpmorgan-says-bitcoin-capitulation-signaled-by-strategy-s-record-low-nav-multiple"
+  },
+  {
+    "id": "9f2e85e98d665f66",
+    "title": "OpenAI’s Codex helps amateur astronomer uncover two possible planets NASA’s data had missed",
+    "summary": "OpenAI says a SETI Institute astronomer independently recovered two recurring Kepler signals, giving astronomers targets for follow-up.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/openais-codex-helps-amateur-astronomer-uncover-two-possible-planets-nasas-data-had-missed/",
+    "source": "CryptoSlate",
+    "tags": [
+      "OpenAI",
+      "NASA",
+      "SETI Institute",
+      "Kepler"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T17:40:45.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": "An astronomer used OpenAI's Codex to independently recover two recurring Kepler signals that NASA's data had previously missed. This discovery provides researchers with exciting new targets for follow-up space observation.",
+    "content_ta": "NASA-வின் தரவுகளில் விடுபட்டிருந்த இரண்டு Kepler சமிக்ஞைகளைக் கண்டறிய ஒரு வானியலாளர் OpenAI-இன் Codex-ஐப் பயன்படுத்தினார். இந்த கண்டுபிடிப்பு ஆராய்ச்சியாளர்களுக்கு மேலதிக விண்வெளி கண்காணிப்புக்காக புதிய இலக்குகளை வழங்கியுள்ளது.",
+    "slug": "openai-s-codex-helps-amateur-astronomer-uncover-two-possible-planets-nasa-s-data-had-missed"
+  },
+  {
+    "id": "6dd5562d1927616f",
+    "title": "Bitcoin’s recovery above $60,000 faces a threat from Japan while Wall Street sleeps",
+    "summary": "Tokyo’s inflation report lands during the US ETF trading break, with yen moves and short-term Japanese yields offering clues to pressure on yen-funded trades.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/bitcoins-recovery-above-60000-faces-a-threat-from-japan-while-wall-street-sleeps/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Bitcoin",
+      "Japan",
+      "Tokyo",
+      "Wall Street"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T16:20:29.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin's recent recovery above $60,000 faces potential downward pressure from Japan. An upcoming Tokyo inflation report, released during the US ETF trading break, will provide crucial insights into yen moves and short-term Japanese yields. These economic factors could impact ongoing pressure on yen-funded trades while Wall Street markets are closed.",
+    "content_ta": "Bitcoin-ன் $60,000-க்கு அதிகமான மீள் எழுச்சியானது ஜப்பானிடமிருந்து அச்சுறுத்தலை எதிர்கொள்கிறது. US ETF வர்த்தக இடைவெளியின் போது வெளியாகும் டோக்கியோவின் பணவீக்க அறிக்கை, யென் மதிப்பு மாற்றங்கள் மற்றும் குறுகிய கால ஜப்பானிய ஈவுத்தொகைகள் பற்றிய முக்கிய குறிப்புகளை வழங்கும். வால்ஸ்ட்ரீட் சந்தைகள் மூடியிருக்கும் நேரத்தில் இந்த பொருளாதார காரணிகள் யென் நிதியுதவி வர்த்தகங்களில் தாக்கத்தை ஏற்படுத்தக்கூடும்.",
+    "slug": "bitcoin-s-recovery-above-60-000-faces-a-threat-from-japan-while-wall-street-sleeps"
+  },
+  {
+    "id": "542066ee525b8880",
+    "title": "Bitcoin News: Swiss ETF Debut Meets $7B Options Expiry and US Strategic Reserve Push",
+    "summary": "Bitcoin watch Friday's $7B options expiry, Switzerland's first spot Bitcoin ETF, and news on the US Strategic Bitcoin Reserve.\nThe post Bitcoin News: Swiss ETF Debut Meets $7B Options Expiry and US Strategic Reserve Push appeared first on Cryptonews.",
+    "hasSummary": true,
+    "link": "https://cryptonews.com/news/bitcoin-news-7b-options-expiry-swiss-etf-reserve-bill/",
+    "source": "CryptoNews",
+    "tags": [
+      "Bitcoin",
+      "Switzerland",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T15:38:32.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin is experiencing a major week marked by a large $7 billion options expiry, the debut of Switzerland's first spot Bitcoin ETF, and ongoing discussions surrounding a potential US Strategic Bitcoin Reserve. These developments highlight increasing institutional interest and market activity as investors monitor significant regulatory and financial milestones shaping the digital asset landscape.",
+    "content_ta": "Bitcoin சந்தையில் இந்த வாரம் பல முக்கிய நிகழ்வுகள் நடந்துள்ளன. குறிப்பாக 7 பில்லியன் டாலர் மதிப்புள்ள ஆப்ஷன்ஸ் காலாவதி, சுவிட்சர்லாந்து நாட்டின் முதல் ஸ்பாட் Bitcoin ETF அறிமுகம் மற்றும் அமெரிக்காவின் Strategic Bitcoin Reserve குறித்த விவாதங்கள் கவனம் பெற்றுள்ளன. இந்த வளர்ச்சிகள் டிஜிட்டல் சொத்து சந்தையில் நிறுவனங்களின் முதலீடுகள் மற்றும் ஆர்வம் அதிகரித்து வருவதைக் காட்டுகின்றன.",
+    "slug": "bitcoin-news-swiss-etf-debut-meets-7b-options-expiry-and-us-strategic-reserve-push"
+  },
+  {
+    "id": "7e20f130e761b202",
+    "title": "PEPE Whales Are Sitting On $21 Million In Tokens, And One Wallet Keeps Getting Bigger",
+    "summary": "Key takeaways Lookonchain reports PEPE whales hold more than six trillion tokens, about $21.16 million, most of it in one wallet (0x5011) that has been buying since November 17. That wallet holds 5.15 trillion PEPE, roughly $18.28 million and about 1.22% of total supply; a second wallet (0x6246) holds 868.16 billion PEPE, about $2.88 million. Not all large holders agree: Deep Blue Alpha data shows withdrawals were only about 36% of tracked whale transfers over seven days, so exchange deposits outweighed them. Exchange deposits are not necessarily sales, and withdrawals do not prove a fresh purchase. At this size, exiting at the quoted price depends on liquidity; a $0.000001 price move changes a 5.15 trillion position by $5.15 million. PEPE whales have accumulated more than six trillion tokens worth approximately $21.16 million, according to new data from blockchain monitoring platform Lookonchain. Most of that position belongs to a single unidentified wallet that has been accumulating the memecoin since November 17. The size of the position is unusual even by memecoin standards. One address now holds more than 1% of PEPE’s entire supply, and its owner has continued adding tokens despite weakness in the market. A Mystery PEPE Whale Keeps Adding To Its Position The wallet, identified by its opening characters 0x5011, accumulated 5.15 trillion PEPE over eight days. Lookonchain valued the holdings at $18.28 million, representing approximately 1.22% of the cryptocurrency’s total supply. The more interesting detail is how quickly the position has grown. Lookonchain’s transaction monitoring history shows that by November 19, the wallet had withdrawn around 1.9 trillion PEPE from Binance. That figure climbed to 2.878 trillion by November 23 and exceeded 3.3 trillion the following day. On Wednesday, Lookonchain reported that the address had accumulated 4.16 trillion tokens. By Thursday, its reported holdings had reached 5.15 trillion. Another wallet, beginning with 0x6246, accumulated 868.16 billion PEPE valued at approximately $2.88 million, bringing the combined reported value to more than $21 million. Large withdrawals are nothing new for the memecoin. NewsBTC previously covered a separate PEPE whale moving $14.7 million out of Binance. What makes the latest activity particularly interesting is the repeated accumulation within such a short period. The Other Side Of The PEPE Whale Trade Before treating these transactions as a bullish signal, it’s worth looking at what other large holders have been doing. Data from blockchain analytics platform Deep Blue Alpha showed that withdrawals accounted for approximately 36% of tracked PEPE whale transfers between wallets and exchanges over the preceding seven days, according to its November 26 update. In other words, exchange deposits outweighed withdrawals within that particular group of wallets. That doesn’t invalidate Lookonchain’s findings. It does, however, complicate the idea that large investors are collectively preparing for a PEPE recovery. One group of holders may be increasing its exposure while others are looking to reduce theirs. The distinction matters, especially in a market where a handful of transactions can attract more attention than the activity of dozens of other wallets. Exchange deposits aren’t necessarily sales, just as withdrawals don’t establish that a fresh purchase has taken place. Centralized exchange trading records remain largely invisible to outside observers. What A Trillion-Token Position Means For PEPE For an investor holding 5.15 trillion PEPE, even a movement of $0.000001 in the token’s price would change the value of the position by $5.15 million. That illustrates both the attraction and the risk of holding such a large quantity of a speculative asset. Building an $18 million position is one thing. Exiting it at the quoted market price is another. The amount an investor can actually realize depends on available liquidity, execution and the market’s ability to absorb the tokens. Concentrated holdings can therefore work in both directions. If tokens remain outside exchanges, they may reduce the supply immediately available for trading. If the same tokens return to exchanges, traders may suddenly find themselves watching for potential selling pressure. The next development worth following is whether these wallets continue accumulating or begin transferring tokens back to trading platforms. For now, two addresses hold an unusually large amount of PEPE. Whether the rest of the market shares their apparent appetite for the memecoin is a different question.",
+    "hasSummary": true,
+    "link": "https://www.newsbtc.com/altcoin-news/pepe-whales-21-million-accumulation/",
+    "source": "NewsBTC",
+    "tags": [
+      "PEPE",
+      "Lookonchain",
+      "Binance",
+      "Deep Blue Alpha"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T17:23:52.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": "Lookonchain data reveals PEPE whales hold over six trillion tokens worth approximately $21.16 million. A single mystery wallet, 0x5011, accumulated 5.15 trillion PEPE since November 17, representing about 1.22% of the total supply. While this massive accumulation draws attention, other analytics show exchange deposits still outweigh withdrawals among certain large holders, complicating broader recovery signals for the memecoin.",
+    "content_ta": "Lookonchain தரவுகளின்படி, PEPE வேல்ஸிடம் ஆறு டிரில்லியனுக்கும் அதிகமான டோக்கன்கள் சுமார் $21.16 மில்லியன் மதிப்பில் உள்ளன. நவம்பர் 17 முதல் ஒற்றை மர்ம வாலட் ஆன 0x5011, 5.15 டிரில்லியன் PEPE-ஐச் சேர்த்து மொத்த சப்ளையில் சுமார் 1.22% தன்வசம் வைத்துள்ளது. இந்த மிகப்பெரிய குவிப்பு கவனத்தை ஈர்த்தாலும், மற்ற பெரிய ஹோல்டர்களிடையே எக்ஸ்சேஞ்ச் டெபாசிட்டுகள் அதிகமாக உள்ளதாக பகுப்பாய்வுகள் காட்டுகின்றன.",
+    "slug": "pepe-whales-are-sitting-on-21-million-in-tokens-and-one-wallet-keeps-getting-bigger"
+  },
+  {
+    "id": "552e9779f9f74185",
+    "title": "Switzerland’s First Spot Bitcoin ETF Debuts on SIX Swiss Exchange With 0.19% Fee",
+    "summary": "BBIT's fund contract still lets it borrow up to 25% of net asset value to meet redemptions, a clause BIT's investment chief says the fund will never use.",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/switzerlands-first-spot-bitcoin-etf-debuts-on-six-swiss-exchange-with-0-19-fee/",
+    "source": "CryptoPotato",
+    "tags": [
+      "Switzerland",
+      "Bitcoin",
+      "SIX Swiss Exchange"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T17:25:11.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": "Switzerland has welcomed its first spot Bitcoin ETF, which has officially debuted on the SIX Swiss Exchange with a fee of 0.19%. While the fund's contract allows borrowing up to 25% of its net asset value to manage redemptions, the investment chief has assured that this particular clause will never actually be utilized by the fund.",
+    "content_ta": "சுவிட்சர்லாந்தின் முதல் spot Bitcoin ETF SIX Swiss Exchange-ல் 0.19% கட்டணத்துடன் அறிமுகமாகியுள்ளது. இந்த fund-ன் contract மூலம் redemptions-ஐ சமாளிக்க net asset value-ல் 25% வரை கடன் பெற அனுமதிக்கப்பட்டாலும், இந்த clause ஒருபோதும் பயன்படுத்தப்படாது என்று investment chief உறுதியளித்துள்ளார்.",
+    "slug": "switzerland-s-first-spot-bitcoin-etf-debuts-on-six-swiss-exchange-with-0-19-fee"
+  },
+  {
+    "id": "3ffe6510582d8876",
+    "title": "XRP price eyes $1 – But THESE signals warn traders to stay cautious",
+    "summary": "XRP was one of the top altcoins with a sizeable bounce in the past 24 hours- can the move continue?",
+    "hasSummary": true,
+    "link": "https://ambcrypto.com/xrp-price-eyes-1-but-these-signals-warn-traders-to-stay-cautious/",
+    "source": "AMBCrypto",
+    "tags": [
+      "XRP"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T17:00:10.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": "XRP recently saw a sizeable price bounce among top altcoins over the past 24 hours, raising questions about whether the upward momentum can continue. While the price eyes the $1 milestone, technical signals are prompting traders to exercise caution and remain vigilant about potential market shifts.",
+    "content_ta": "கடந்த 24 மணி நேரத்தில் top altcoins-ல் ஒன்றாக இருந்த XRP கணிசமான விலையேற்றத்தைக் கண்டுள்ளது. இந்த upward momentum தொடருமா என்ற கேள்வி எழுந்துள்ளது. விலை $1 என்ற மைல்கல்லை நோக்கி நகர்ந்தாலும், வர்த்தகர்கள் எச்சரிக்கையுடன் இருக்குமாறு சந்தை நிலவரங்கள் எச்சரிக்கின்றன.",
+    "slug": "xrp-price-eyes-1-but-these-signals-warn-traders-to-stay-cautious"
+  },
+  {
+    "id": "f99aa9a57258a823",
+    "title": "Almost $5 Billion in XRP Leaves Exchanges in 30 Days as XRP Rebounds to $0.95",
+    "summary": "Binance and OKX led 30-day XRP withdrawals of about 5 billion tokens, yet the analyst behind the data sees no proof of investor confidence .",
+    "hasSummary": true,
+    "link": "https://u.today/almost-5-billion-in-xrp-leaves-exchanges-in-30-days-as-xrp-rebounds-to-095",
+    "source": "U.Today",
+    "tags": [
+      "XRP",
+      "Binance",
+      "OKX"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T16:15:15.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": "Approximately $5 billion worth of XRP was withdrawn from crypto exchanges over a 30-day period as the digital asset rebounded to $0.95. Major platforms like Binance and OKX led these significant token outflows. However, analysts examining the on-chain data note that this massive movement away from exchanges does not necessarily indicate strong investor confidence.",
+    "content_ta": "சுமார் $5 பில்லியன் மதிப்புள்ள XRP டோக்கன்கள் கிரிப்டோ எக்ஸ்சேஞ்ச்களில் இருந்து 30 நாட்களுக்குள் வெளியேற்றப்பட்டுள்ளன. இதற்கிடையில் XRP விலை $0.95 ஆக மீண்டுள்ளது. Binance மற்றும் OKX போன்ற முன்னணி எக்ஸ்சேஞ்ச்களில் இருந்து இந்த வெளியேற்றம் அதிகம் நடந்துள்ளது. இருப்பினும், இது முதலீட்டாளர்களின் உறுதியான நம்பிக்கையைக் காட்டவில்லை என்று தரவுகளை ஆராய்ந்த ஆய்வாளர்கள் தெரிவிக்கின்றனர்.",
+    "slug": "almost-5-billion-in-xrp-leaves-exchanges-in-30-days-as-xrp-rebounds-to-0-95"
+  },
+  {
+    "id": "cb850642b4200a9d",
+    "title": "Solana (SOL) Has Its Worst Year Ever: Can It Get Worse?",
+    "summary": "Solana is down 25.7% in November and on track to match its 2022 record of nine losing months in a year. Another loss in December would set a record even though this year’s 43% decline is far smaller than the 94% collapse in 2022.",
+    "hasSummary": true,
+    "link": "https://u.today/solana-sol-has-its-worst-year-ever-can-it-get-worse",
+    "source": "U.Today",
+    "tags": [
+      "Solana"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T15:20:53.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": "Solana (SOL) is facing its worst year ever, dropping 25.7% in November. The cryptocurrency is on track to match its 2022 record of nine losing months in a year. While December could set a new record, the current yearly decline of 43% remains significantly smaller than the massive 94% collapse experienced in 2022.",
+    "content_ta": "Solana (SOL) அதன் மிகவும் மோசமான ஆண்டை எதிர்கொண்டு வருகிறது, இது நவம்பரில் 25.7% சரிந்துள்ளது. இந்த கிரிப்டோகரன்சி ஒரு ஆண்டில் ஒன்பது மாத இழப்புகளைச் சந்தித்த 2022 ஆம் ஆண்டு சாதனையை எட்டக்கூடும். டிசம்பரில் மீண்டும் சரிவு ஏற்பட்டால் புதிய சாதனை படைக்கப்படும், இருப்பினும் இந்த ஆண்டின் 43% சரிவு 2022 இன் பெரும் சரிவான 94% ஐ விட மிகக் குறைவாகவே உள்ளது.",
+    "slug": "solana-sol-has-its-worst-year-ever-can-it-get-worse"
+  },
+  {
+    "id": "411050e94655fd19",
+    "title": "Standard Chartered Crypto Breach Raises Institutional Security Fears",
+    "summary": "Zodia Custody's data leak exposed client emails as Standard Chartered's takeover awaits approval. Here's who pays.\nThe post Standard Chartered Crypto Breach Raises Institutional Security Fears appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/zodia-crypto-hack-custody-failure-regulators/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Standard Chartered",
+      "Zodia Custody"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T16:38:40.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": "A recent data leak at Zodia Custody exposed client email addresses, raising institutional security fears just as Standard Chartered's takeover awaits regulatory approval. The security incident highlights growing concerns over vulnerabilities in digital asset custody solutions as traditional financial institutions expand their presence in the crypto sector.",
+    "content_ta": "Zodia Custody-ல் ஏற்பட்ட தரவு கசிவு காரணமாக வாடிக்கையாளர்களின் மின்னஞ்சல் முகவரிகள் வெளிவந்துள்ளன. Standard Chartered-ன் கையகப்படுத்தல் ஒப்புதலுக்காகக் காத்திருக்கும் வேளையில், இந்தச் சம்பவம் நிறுவன அளவிலான பாதுகாப்பு அச்சங்களை எழுப்பியுள்ளது.",
+    "slug": "standard-chartered-crypto-breach-raises-institutional-security-fears"
+  },
+  {
+    "id": "b0760cb4401d72a4",
+    "title": "At FM Summit London, Brokers and Panellists Weigh UK Rules and On-Chain Competition",
+    "summary": "BeInCrypto attended the 15th edition of Finance Magnates Summit London on November 24 at Old Billingsgate. Our Global Head of News, Brian McGleenon, moderated a panel on UK and EU crypto regulation, and VP of Institutional Partnerships Yaniv Cohen met industry leaders. The one-day summit united professionals from online trading, brokerage, fintech, payments and digital\nThe post At FM Summit London, Brokers and Panellists Weigh UK Rules and On-Chain Competition appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/at-fm-summit-london-brokers-and-panellists-weigh-uk-rules-and-on-chain-competition/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Finance Magnates Summit",
+      "BeInCrypto",
+      "United Kingdom",
+      "European Union"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T16:19:42.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": "At the 15th edition of the Finance Magnates Summit London, industry professionals gathered to discuss evolving regulations and competition in the financial sector. Representatives from BeInCrypto moderated key discussions on UK and EU crypto regulation while connecting with leaders in online trading, brokerage, fintech, payments, and digital assets.",
+    "content_ta": "London-ல் நடைபெற்ற 15-வது Finance Magnates Summit-ல், நிதித்துறையில் வளர்ந்து வரும் விதிமுறைகள் மற்றும் போட்டி குறித்து விவாதிக்க துறைசார் நிபுணர்கள் கூடினர். BeInCrypto பிரதிநிதிகள் UK மற்றும் EU crypto regulation குறித்த முக்கிய விவாதங்களை நடத்தி, online trading, brokerage, fintech, payments மற்றும் digital assets துறை தலைவர்களைச் சந்தித்துப் பேசினர்.",
+    "slug": "at-fm-summit-london-brokers-and-panellists-weigh-uk-rules-and-on-chain-competition"
+  },
+  {
+    "id": "325f50ebe774d865",
+    "title": "Monero (XMR) Drops 12% on KuCoin Delisting Announcement: Is Zcash Next?",
+    "summary": "Monero (XMR) drops 12% after KuCoin sets a Nov. 30 delisting while keeping Zcash. Here is what is known about why.\nThe post Monero (XMR) Drops 12% on KuCoin Delisting Announcement: Is Zcash Next? appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/kucoin-delist-monero-xmr-price-falls/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Monero",
+      "KuCoin",
+      "Zcash"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T15:39:51.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": "Monero (XMR) experienced a 12 percent price drop following an announcement from KuCoin regarding the delisting of the privacy coin, with trading set to end on November 30. The exchange announced plans to remove Monero while retaining Zcash on its platform. The sudden market reaction highlights ongoing regulatory and exchange pressures facing privacy-focused cryptocurrencies.",
+    "content_ta": "KuCoin பரிமாற்றத்திலிருந்து நீக்கப்படுவதாக வெளியான அறிவிப்பைத் தொடர்ந்து Monero (XMR) விலையில் 12 சதவீதம் சரிவு ஏற்பட்டுள்ளது. நவம்பர் 30-க்குள் வர்த்தகம் முடிக்கப்பட உள்ளதாக அறிவிக்கப்பட்டுள்ளது. அதேசமயம் Zcash தொடர்ந்து தக்கவைக்கப்படும் என்றும் தெரிவிக்கப்பட்டுள்ளது. தனியுரிமையை மையமாகக் கொண்ட கிரிப்டோகரன்சிகள் எதிர்கொள்ளும் ஒழுங்குமுறை அழுத்தங்களை இந்தச் சரிவு காட்டுகிறது.",
+    "slug": "monero-xmr-drops-12-on-kucoin-delisting-announcement-is-zcash-next"
+  },
+  {
+    "id": "ff5220a8d2d162ab",
+    "title": "Zoomex Partnerships: Elite Sports Gateway",
+    "summary": "In 2026, one crypto brand showed up in places that have little to do with candlestick charts. It was linked to a goalkeeper who made a record 11 saves in a World Cup final. It was beside a Wimbledon player who reached the round of 16 and met Novak Djokovic. And it was at a\nThe post Zoomex Partnerships: Elite Sports Gateway appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/zoomex-partnerships-elite-sports-gateway/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Zoomex",
+      "Wimbledon",
+      "Novak Djokovic"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T15:19:41.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": "In 2026, the crypto brand Zoomex expanded its presence through major sports partnerships, appearing alongside high-profile athletes in international soccer and tennis. These strategic collaborations connect the cryptocurrency platform with elite sporting events and global audiences, marking a significant push into mainstream sports marketing.",
+    "content_ta": "2026-ஆம் ஆண்டில், Zoomex என்ற கிரிப்டோ நிறுவனம் முக்கிய விளையாட்டு கூட்டாண்மைகள் மூலம் தனது இருப்பை விரிவுபடுத்தியுள்ளது. சர்வதேச கால்பந்து மற்றும் டென்னிஸ் போட்டிகளில் பிரபல விளையாட்டு வீரர்களுடன் இணைந்து செயல்படும் இந்த உத்திகள், கிரிப்டோகரன்சி தளத்தை உலகளாவிய ரசிகர்களுடன் இணைக்க உதவுகின்றன.",
+    "slug": "zoomex-partnerships-elite-sports-gateway"
+  },
+  {
+    "id": "b1aed4939518b27d",
+    "title": "SOXL pulls in billions as traders buy the chip stock dip",
+    "summary": "The surge in SOXL inflows highlights investor confidence in semiconductors but underscores the risks of leveraged ETFs amid market volatility.\nThe post SOXL pulls in billions as traders buy the chip stock dip appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/soxl-inflows-traders-buy-chip-dip/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "SOXL"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T17:39:40.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": "The leveraged semiconductor ETF SOXL has attracted billions of dollars in inflows as traders aggressively buy the dip in chip stocks. This massive surge reflects continued investor confidence in the semiconductor sector. However, financial experts warn that it also highlights the heightened risks associated with leveraged exchange-traded funds during periods of ongoing market volatility.",
+    "content_ta": "சிப் பங்குகளின் விலை சரிந்தபோது டிரேடர்கள் வாங்கியதால், leveraged ETF-ஆன SOXL பில்லியன் கணக்கான டாலர்களை ஈர்த்துள்ளது. இந்த மாபெரும் முதலீட்டு எழுச்சி செமி கண்டக்டர் துறையின் மீதான முதலீட்டாளர்களின் தொடர்ச்சியான நம்பிக்கையைக் காட்டுகிறது. இருப்பினும், சந்தை ஏற்ற இறக்கங்களின் போது leveraged ETF-களில் உள்ள கூடுதல் ஆபத்துகளையும் இது குறிக்கிறது என்று நிபுணர்கள் எச்சரிக்கின்றனர்.",
+    "slug": "soxl-pulls-in-billions-as-traders-buy-the-chip-stock-dip"
+  },
+  {
+    "id": "1872534872ee9794",
+    "title": "Bitcoin Core contributor shows how a sub-35-cent payment can expose a node’s IP address",
+    "summary": "The exposure of IP addresses through small payments highlights ongoing privacy vulnerabilities in Bitcoin, urging enhanced security measures.\nThe post Bitcoin Core contributor shows how a sub-35-cent payment can expose a node’s IP address appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/bitcoin-core-dust-payment-ip-exposure/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T17:35:07.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": "A Bitcoin Core contributor has demonstrated that a transaction costing less than 35 cents can expose a Bitcoin node’s IP address. This privacy vulnerability highlights security concerns within the network, prompting discussions on the need for enhanced measures to protect user and node operators from potential exposure.",
+    "content_ta": "Bitcoin Core contributor-ன் புதிய கண்டுபிடிப்புப்படி, 35 சென்ட்டிற்கும் குறைவான கட்டணம் கொண்ட பரிவர்த்தனை மூலம் Bitcoin node-ன் IP முகவரியை வெளிப்படுத்த முடியும் என்பது தெரியவந்துள்ளது. இந்த தனியுரிமை குறைபாடு நெட்வொர்க்கில் பாதுகாப்பு கவலைகளை எழுப்பியுள்ளதுடன், பயனர்களின் பாதுகாப்பை மேம்படுத்த வேண்டிய அவசியத்தையும் வலியுறுத்துகிறது.",
+    "slug": "bitcoin-core-contributor-shows-how-a-sub-35-cent-payment-can-expose-a-node-s-ip-address"
+  },
+  {
+    "id": "a91e8bfba9d2ba28",
+    "title": "Netflix’s ‘The Altruists’ faces backlash for distorting SBF’s story",
+    "summary": "The backlash highlights the challenges of dramatizing real events, potentially influencing public perception and regulatory scrutiny of crypto.\nThe post Netflix’s ‘The Altruists’ faces backlash for distorting SBF’s story appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/netflix-altruists-sbf-ftx-backlash/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Netflix",
+      "SBF"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T17:34:53.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": "Netflix is facing criticism over its upcoming project 'The Altruists', with critics arguing the show distorts the story of SBF. The backlash highlights ongoing concerns regarding the dramatization of real-world financial events and the potential impact these portrayals can have on public perception and industry scrutiny.",
+    "content_ta": "Netflix நிறுவனத்தின் புதிய படைப்பான 'The Altruists' தொடர் SBF-இன் கதையைத் திரித்துக் கூறுவதாகக் கூறி கடுமையான எதிர்ப்புகள் எழுந்துள்ளன. நிஜ உலக நிதிச் சம்பவங்களை நாடகமாக்குவது பொதுமக்களின் கருத்துக்களையும் துறையின் மீதான பார்ரையையும் எவ்வாறு பாதிக்கும் என்ற கவலைகளை இந்த எதிர்ப்பு வெளிச்சம் போட்டுக் காட்டுகிறது.",
+    "slug": "netflix-s-the-altruists-faces-backlash-for-distorting-sbf-s-story"
+  },
+  {
+    "id": "694bef4ed63d0a23",
+    "title": "Broadcom slides as Google reportedly trims TPU orders",
+    "summary": "Broadcom's stock drop highlights the vulnerability of relying heavily on a single client, emphasizing the need for diversified revenue streams.\nThe post Broadcom slides as Google reportedly trims TPU orders appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/broadcom-slides-google-tpu-orders-report/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Broadcom",
+      "Google"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T17:24:45.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": "Broadcom shares experienced a significant decline following reports that Google has reduced its TPU orders. This drop underscores the potential risks associated with heavy reliance on a single major client, highlighting the ongoing importance for technology suppliers to diversify their revenue streams and reduce dependence on individual key partners.",
+    "content_ta": "Google தனது TPU ஆர்டர்களைக் குறைத்துள்ளதாக வெளியான செய்திகளைத் தொடர்ந்து Broadcom நிறுவனத்தின் பங்குகள் சரிவைச் சந்தித்துள்ளன. இந்த வீழ்ச்சியானது ஒற்றை முக்கிய வாடிக்கையாளரை மட்டுமே பெரிதும் நம்பியிருப்பதால் ஏற்படும் அபாயங்களை வெளிச்சம் போட்டுக் காட்டுகிறது.",
+    "slug": "broadcom-slides-as-google-reportedly-trims-tpu-orders"
+  },
+  {
+    "id": "46e4273d062522d8",
+    "title": "Bank of America’s Hartnett maps S&P 500 scenarios of 6,666, 7,777, and 8,888 for 2027",
+    "summary": "Hartnett's scenarios highlight the potential volatility in the S&P 500, urging investors to consider defensive strategies amid AI-driven risks.\nThe post Bank of America’s Hartnett maps S&P 500 scenarios of 6,666, 7,777, and 8,888 for 2027 appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/bank-of-america-hartnett-sp-500-2027-scenarios/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Bank of America",
+      "S&P 500"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T17:15:56.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.181Z",
+    "isDuplicateOf": null,
+    "content": "Bank of America strategist Hartnett has outlined future scenarios for the S&P 500, projecting possible levels of 6,666, 7,777, and 8,888 for the year 2027. These projections emphasize potential market volatility, with a focus on risks associated with artificial intelligence. Analysts are encouraging investors to adopt defensive strategies to protect their portfolios amidst these anticipated market shifts.",
+    "content_ta": "Bank of America-வின் strategist Hartnett, 2027-ம் ஆண்டிற்கான S&P 500 குறியீட்டின் எதிர்கால நிலைகளாக 6,666, 7,777 மற்றும் 8,888 ஆகிய இலக்குகளைக் கணித்துள்ளார். இந்த கணிப்புகள் சந்தையில் ஏற்படக்கூடிய ஏற்றத்தாழ்வுகளை எடுத்துக்காட்டுகின்றன. மேலும், AI தொடர்பான அபாயங்களைக் கருத்தில் கொண்டு முதலீட்டாளர்கள் தற்காப்பு உத்திகளைப் பின்பற்றுமாறு அவர் வலியுறுத்தியுள்ளார்.",
+    "slug": "bank-of-america-s-hartnett-maps-s-p-500-scenarios-of-6-666-7-777-and-8-888-for-2027"
+  },
+  {
+    "id": "949f724142434e67",
+    "title": "Dutch consumer groups seek ban on Meta smart glasses over privacy concerns",
+    "summary": "The lawsuit could set a precedent impacting global privacy standards and AI data practices, influencing future wearable tech regulations.\nThe post Dutch consumer groups seek ban on Meta smart glasses over privacy concerns appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/dutch-groups-sue-meta-smart-glasses-privacy/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Meta",
+      "Netherlands"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T17:14:33.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "Dutch consumer advocacy groups are seeking a ban on Meta smart glasses over serious privacy concerns. The legal challenge targets the data collection and recording features of the wearable technology. This lawsuit could establish a major precedent, potentially impacting global privacy standards, future wearable tech regulations, and AI data practices worldwide.",
+    "content_ta": "டச்சு நுகர்வோர் நல அமைப்புகள் Meta ஸ்மார்ட் கண்ணாடிகளுக்கு எதிராக தனியுரிமை கவலைகள் காரணமாக தடை கோரியுள்ளன. இந்த வழக்கு அணியக்கூடிய தொழில்நுட்பத்தின் தரவு சேகரிப்பு அம்சங்களை குறிவைக்கிறது. இந்த சட்ட நடவடிக்கை உலகளாவிய தனியுரிமை தரநிலைகள் மற்றும் எதிர்கால தொழில்நுட்ப விதிமுறைகளில் பெரும் தாக்கத்தை ஏற்படுத்தக்கூடும்.",
+    "slug": "dutch-consumer-groups-seek-ban-on-meta-smart-glasses-over-privacy-concerns"
+  },
+  {
+    "id": "66af9763cba7f73f",
+    "title": "Coweta County voters to decide fate of $17 billion Project Sail data center",
+    "summary": "The vote could set a precedent for rural communities in Georgia, influencing future industrial projects and local governance dynamics.\nThe post Coweta County voters to decide fate of $17 billion Project Sail data center appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/coweta-county-vote-17b-data-center/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Coweta County",
+      "Georgia",
+      "Project Sail"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T16:44:53.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "Coweta County voters will decide the future of the massive $17 billion Project Sail data center. This upcoming vote could establish a major precedent for rural communities across Georgia, potentially shaping how future industrial developments and local governance decisions are handled in the region.",
+    "content_ta": "கோவெடா கவுண்டி (Coweta County) வாக்காளர்கள் 17 பில்லியன் டாலர் மதிப்பிலான Project Sail தரவு மையத்தின் எதிர்காலம் குறித்து முடிவு செய்ய உள்ளனர். ஜார்ஜியா மாநிலத்தில் உள்ள கிராமப்புற சமூகங்களுக்கு இந்த வாக்கெடுப்பு ஒரு முன்னுதாரணமாக அமையக்கூடும்.",
+    "slug": "coweta-county-voters-to-decide-fate-of-17-billion-project-sail-data-center"
+  },
+  {
+    "id": "6e7721e85758292a",
+    "title": "Blockchain cannot replace legal ownership in asset tokenization, Shipfinex founder says",
+    "summary": "Legal frameworks remain crucial in asset tokenization, as blockchain alone cannot ensure ownership rights or protect against issuer insolvency.\nThe post Blockchain cannot replace legal ownership in asset tokenization, Shipfinex founder says appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/blockchain-token-ownership-warning/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Shipfinex"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T16:29:01.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "Blockchain technology cannot replace traditional legal ownership in asset tokenization, according to the founder of Shipfinex. Legal frameworks remain essential because blockchain alone cannot legally secure ownership rights or protect investors against issuer insolvency. Experts emphasize that robust legal systems are still required to back digital tokenized assets.",
+    "content_ta": "அசெட் டோக்கனைசேஷனில் பாரம்பரிய சட்டப்பூர்வ உரிமையை blockchain-ஆல் மாற்ற முடியாது என்று Shipfinex நிறுவனர் தெரிவித்துள்ளார். வெளியிடுபவர் திவாலாகும் போது blockchain மட்டுமே உரிமைகளைப் பாதுகாக்க முடியாது என்பதால் சட்டக் கட்டமைப்புகள் அவசியமாகின்றன.",
+    "slug": "blockchain-cannot-replace-legal-ownership-in-asset-tokenization-shipfinex-founder-says"
+  },
+  {
+    "id": "4bad62cd80528f02",
+    "title": "Stellar adds $80.4 million in tokenized fund value in a single day",
+    "summary": "Stellar's rapid tokenized fund growth highlights its potential to challenge Ethereum, but reliance on few issuers poses sustainability risks.\nThe post Stellar adds $80.4 million in tokenized fund value in a single day appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/stellar-tokenized-fund-value-80-million/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Stellar",
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T16:22:49.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "Stellar recently experienced a significant milestone by adding $80.4 million in tokenized fund value within a single day. This rapid growth highlights Stellar's rising potential to compete with major platforms like Ethereum in the tokenized asset space. However, industry observers note that the network's heavy reliance on a limited number of issuers introduces potential sustainability risks for its future expansion.",
+    "content_ta": "Stellar நெட்வொர்க் ஒரே நாளில் $80.4 மில்லியன் மதிப்பிலான tokenized fund மதிப்பைச் சேர்த்து புதிய மைல்கல்லை எட்டியுள்ளது. இந்த விரைவான வளர்ச்சி Ethereum-க்கு சவாலளிக்கும் Stellar-ன் திறனைக் காட்டுகிறது. இருப்பினும், குறைந்த எண்ணிக்கையிலான issuer-களை மட்டுமே அதிகமாக நம்பியிருப்பது எதிர்கால வளர்ச்சிக்கான ஆபத்துக்களை ஏற்படுத்தக்கூடும் என்று நிபுணர்கள் குறிப்பிடுகின்றனர்.",
+    "slug": "stellar-adds-80-4-million-in-tokenized-fund-value-in-a-single-day"
+  },
+  {
+    "id": "a231f0e9f1b88380",
+    "title": "Plume’s nOPAL tops $12 million in supply on Kamino",
+    "summary": "The rapid growth in nOPAL supply highlights increasing interest in DeFi lending backed by real-world assets, though credit risks remain.\nThe post Plume’s nOPAL tops $12 million in supply on Kamino appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/plume-nopal-12-million-kamino/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Plume",
+      "Kamino"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T16:22:09.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "Plume's nOPAL has surpassed $12 million in supply on Kamino. This rapid growth highlights the increasing interest and adoption of decentralized finance lending backed by real-world assets, while credit risks associated with these digital assets still remain a consideration for investors.",
+    "content_ta": "Plume இன் nOPAL, Kamino இல் $12 மில்லியனுக்கும் அதிகமான சப்ளையைக் கடந்துள்ளது. நிஜ உலக சொத்துக்களால் ஆதரிக்கப்படும் DeFi லெண்டிங் மீதான ஆர்வம் அதிகரித்து வருவதை இந்த விரைவான வளர்ச்சி காட்டுகிறது, அதே நேரத்தில் கடன் ஆபத்துகளும் தொடர்ந்து உள்ளன.",
+    "slug": "plume-s-nopal-tops-12-million-in-supply-on-kamino"
+  },
+  {
+    "id": "fdc7a38330cfc8bb",
+    "title": "SAP reportedly weighs cutting at least 10,000 jobs in fresh restructuring",
+    "summary": "SAP's potential job cuts could disrupt workforce stability, challenge leadership credibility, and impact employee morale and market perception.\nThe post SAP reportedly weighs cutting at least 10,000 jobs in fresh restructuring appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/sap-weighs-cutting-10000-jobs-restructuring/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "SAP"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T16:22:01.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "SAP is reportedly considering cutting at least 10,000 jobs as part of a new restructuring plan. This potential workforce reduction could significantly impact employee morale, challenge leadership credibility, and raise concerns regarding market stability and overall company perception moving forward.",
+    "content_ta": "புதிய மறுசீரமைப்புத் திட்டத்தின் ஒரு பகுதியாக SAP நிறுவனம் குறைந்தபட்சம் 10,000 வேலைகளைக் குறைக்க பரிசீலித்து வருவதாகத் தகவல்கள் வெளியாகியுள்ளன. இந்த சாத்தியமான பணியாளர் குறைப்பு ஊழியர்களின் மன உறுதியைப் பாதிக்கலாம், தலைமைத்துவத்தின் மீதான நம்பகத்தன்மைக்கு சவால் விடலாம் மற்றும் சந்தை நிலைத்தன்மை குறித்த கவலைகளை எழுப்பலாம்.",
+    "slug": "sap-reportedly-weighs-cutting-at-least-10-000-jobs-in-fresh-restructuring"
+  },
+  {
+    "id": "79aa9bb19fa3ba7f",
+    "title": "Chip sellers threaten to cut off neoclouds that rent Nvidia GPUs to Chinese firms",
+    "summary": "The new US rule on AI chip access could reshape global cloud markets, impacting revenue streams and altering supply-demand dynamics.\nThe post Chip sellers threaten to cut off neoclouds that rent Nvidia GPUs to Chinese firms appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/chip-sellers-withhold-nvidia-gpus-neoclouds-china/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Nvidia",
+      "United States",
+      "China"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T16:13:48.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "Chip sellers are threatening to cut off neoclouds that rent Nvidia GPUs to Chinese firms. This follows new United States rules regarding AI chip access, which could reshape global cloud markets, impact revenue streams, and alter supply-demand dynamics across the technology sector.",
+    "content_ta": "சீன நிறுவனங்களுக்கு Nvidia GPU-களை வாடகைக்கு வழங்கும் நியோகிளவுட் (neocloud) நிறுவனங்களுக்கு சிப் விற்பனையாளர்கள் தடை விதிப்பதாக எச்சரித்துள்ளனர். AI சிப் அணுகல் குறித்த புதிய அமெரிக்க விதிகளால், உலகளாவிய கிளவுட் சந்தைகள் மற்றும் வருவாய் முறைகள் பாதிக்கப்படலாம்.",
+    "slug": "chip-sellers-threaten-to-cut-off-neoclouds-that-rent-nvidia-gpus-to-chinese-firms"
+  },
+  {
+    "id": "3d48841690014c92",
+    "title": "CoinShares makes the case for compute as an asset class, with caveats",
+    "summary": "The emergence of compute as an asset class could reshape investment strategies, contingent on reliable pricing and enforceable contracts.\nThe post CoinShares makes the case for compute as an asset class, with caveats appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/coinshares-compute-asset-class-ai-financing/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "CoinShares"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T16:06:01.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "CoinShares has published a report arguing that compute is emerging as a new asset class. According to the analysis, this shift could significantly transform traditional investment strategies. However, the firm notes that the success of compute as a reliable investment depends heavily on establishing dependable pricing mechanisms and enforceable contracts within the market.",
+    "content_ta": "compute-ஐ ஒரு புதிய asset class-ஆக மாற்றுவது குறித்து CoinShares நிறுவனம் ஒரு அறிக்கையை வெளியிட்டுள்ளது. இந்த மாற்றமானது பாரம்பரிய முதலீட்டு உத்திகளை மாற்றி அமைக்கும் என்று அந்த ஆய்வு கூறுகிறது. இருப்பினும், நம்பகமான விலை நிர்ணயம் மற்றும் சட்டப்பூர்வ ஒப்பந்தங்கள் உருவாக்கப்பட்டால் மட்டுமே இது சாத்தியமாகும் என்று நிறுவனம் எச்சரித்துள்ளது.",
+    "slug": "coinshares-makes-the-case-for-compute-as-an-asset-class-with-caveats"
+  },
+  {
+    "id": "ca4ead09618374aa",
+    "title": "Arthur Hayes denies accusations of misleading followers on trades",
+    "summary": "The controversy highlights the risks of relying on influencer opinions in volatile markets, emphasizing the need for independent financial judgment.\nThe post Arthur Hayes denies accusations of misleading followers on trades appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/arthur-hayes-denies-misleading-followers-trades/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Arthur Hayes",
+      "Crypto Briefing"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T16:05:48.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "Arthur Hayes has denied accusations that he misled his followers regarding his cryptocurrency trades. The controversy underscores the significant risks associated with relying on influencer opinions within volatile markets, reminding investors of the importance of exercising independent financial judgment before making trading decisions.",
+    "content_ta": "தனது கிரிப்டோகரன்சி வர்த்தகங்கள் குறித்து தனது பின்தொடர்பவர்களைத் தவறாக வழிநடத்தியதாக எழுந்த குற்றச்சாட்டுகளை Arthur Hayes மறுத்துள்ளார். நிலையற்ற சந்தைகளில் இன்ஃப்ளூயன்ஸர்களின் கருத்துக்களை நம்பியிருப்பதால் ஏற்படும் குறிப்பிடத்தக்க ஆபத்துக்களை இந்தக் சர்ச்சை அடிக்கோடிட்டுக் காட்டுகிறது, மேலும் முதலீட்டாளர்கள் வர்த்தக முடிவுகளை எடுப்பதற்கு முன்பு சுயாதீனமான நிதித் தீர்ப்பைப் பயன்படுத்துவதன் அவசியத்தை இது நினைவூட்டுகிறது.",
+    "slug": "arthur-hayes-denies-accusations-of-misleading-followers-on-trades"
+  },
+  {
+    "id": "132479f2ab261acd",
+    "title": "Anthropic prices record IPO as Grand Theft Auto VI smashes entertainment launch marks",
+    "summary": "The unprecedented success of Anthropic's IPO and GTA VI's launch highlights the immense growth potential in tech and entertainment sectors.\nThe post Anthropic prices record IPO as Grand Theft Auto VI smashes entertainment launch marks appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/anthropic-ipo-gta-vi-record-launch/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Anthropic",
+      "Grand Theft Auto VI"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T16:04:55.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "Anthropic has priced a record-breaking initial public offering, marking a major milestone for the artificial intelligence sector. Meanwhile, Grand Theft Auto VI has shattered previous entertainment launch records, delivering massive commercial success. Together, these events highlight extraordinary growth and strong market demand within the technology and entertainment industries.",
+    "content_ta": "Anthropic நிறுவனம் சாதனை படைக்கும் வகையில் தனது IPO விலையை நிர்ணயித்துள்ளது. இதற்கிடையில், Grand Theft Auto VI வெளியீட்டு சாதனைகளை முறியடித்துள்ளது. இந்த நிகழ்வுகள் தொழில்நுட்ப மற்றும் பொழுதுபோக்கு துறைகளில் மகத்தான வளர்ச்சியைக் காட்டுகின்றன.",
+    "slug": "anthropic-prices-record-ipo-as-grand-theft-auto-vi-smashes-entertainment-launch-marks"
+  },
+  {
+    "id": "3a2e377b7bf199ea",
+    "title": "EU sanctions proposal could cut off Kyrgyz crypto exchanges",
+    "summary": "The EU's potential sanctions on Kyrgyz crypto exchanges could fragment liquidity and shift trading activity to other jurisdictions.\nThe post EU sanctions proposal could cut off Kyrgyz crypto exchanges appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/eu-sanctions-kyrgyz-crypto-exchanges/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "European Union",
+      "Kyrgyzstan"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T15:52:26.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "A proposed sanctions package by the EU could potentially impact Kyrgyz crypto exchanges. Industry analysts warn that such measures might fragment liquidity and force trading activity to migrate toward other jurisdictions. The developments highlight the ongoing regulatory scrutiny facing digital asset platforms in Central Asia.",
+    "content_ta": "EU-வின் முன்மொழியப்பட்டுள்ள புதிய தடைகள் Kyrgyz-ல் உள்ள crypto exchanges-ஐ பாதிக்கக்கூடும். இத்தகைய நடவடிக்கைகள் சந்தையின் liquidity-ஐ குறைக்கலாம் மற்றும் வர்த்தக நடவடிக்கைகளை வேறு நாடுகளுக்கு மாற்றக்கூடும் என்று துறை சார்ந்த வல்லுநர்கள் எச்சரிக்கின்றனர்.",
+    "slug": "eu-sanctions-proposal-could-cut-off-kyrgyz-crypto-exchanges"
+  },
+  {
+    "id": "4d756cc6281926df",
+    "title": "Microsoft signs cloud inference deal with Cerebras, adding a fourth AI compute path",
+    "summary": "Microsoft's deal with Cerebras highlights the growing diversification in AI hardware sourcing, potentially reshaping the competitive landscape.\nThe post Microsoft signs cloud inference deal with Cerebras, adding a fourth AI compute path appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/microsoft-cerebras-cloud-inference-agreement/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Microsoft",
+      "Cerebras"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T15:50:52.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "Microsoft has signed a new cloud inference agreement with Cerebras, establishing a fourth distinct artificial intelligence compute path for the tech giant. This collaboration underscores Microsoft's strategy to diversify its hardware sourcing for AI workloads, potentially altering the competitive landscape within the cloud computing and artificial intelligence infrastructure market.",
+    "content_ta": "Microsoft நிறுவனம் Cerebras உடன் புதிய cloud inference ஒப்பந்தத்தில் கையெழுத்திட்டுள்ளது. இது தொழில்நுட்ப ஜாம்பவானான Microsoft-க்கு நான்காவது செயற்கை நுண்ணறிவு கணக்கீட்டு வழியை உருவாக்குகிறது. இந்த ஒத்துழைப்பு Microsoft-ன் AI வன்பொருள் ஆதாரங்களை பல்வகைப்படுத்தும் உத்தியை அடிக்கோடிட்டுக் காட்டுகிறது, இது கிளவுட் கம்ப்யூட்டிங் சந்தையில் போட்டிச்சூழலை மாற்றியமைக்கலாம்.",
+    "slug": "microsoft-signs-cloud-inference-deal-with-cerebras-adding-a-fourth-ai-compute-path"
+  },
+  {
+    "id": "7cb8aca5c678b7f5",
+    "title": "Cango contractor dies after October fire at Georgia Bitcoin mining facility",
+    "summary": "The incident underscores the critical need for enhanced safety protocols in high-risk industries like Bitcoin mining to prevent future tragedies.\nThe post Cango contractor dies after October fire at Georgia Bitcoin mining facility appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/cango-contractor-dies-georgia-mining-fire/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Cango",
+      "Bitcoin",
+      "Georgia"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T15:43:47.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "A Cango contractor has passed away following a fire incident that occurred in October at a Bitcoin mining facility located in Georgia. The tragic event highlights significant safety concerns within the cryptocurrency mining sector, emphasizing the urgent need for stricter protocols to protect workers in high-risk industrial environments.",
+    "content_ta": "Georgia-ல் உள்ள ஒரு Bitcoin mining facility-ல் கடந்த October மாதத்தில் ஏற்பட்ட தீ விபத்தை தொடர்ந்து, Cango contractor ஒருவர் உயிரிழந்துள்ளார். இந்த துயர சம்பவம் cryptocurrency mining துறையில் பாதுகாப்பை மேம்படுத்துவது மற்றும் தொழிலாளர்களின் பாதுகாப்பை உறுதி செய்வதற்கான அவசியத்தை மீண்டும் ஒருமுறை வலியுறுத்துகிறது.",
+    "slug": "cango-contractor-dies-after-october-fire-at-georgia-bitcoin-mining-facility"
+  },
+  {
+    "id": "caac8a90d3f344f4",
+    "title": "Starknet highlights quantum computing threats to elliptic-curve SNARKs",
+    "summary": "The rise of quantum computing challenges traditional cryptographic systems, urging a shift towards more resilient, hash-based alternatives.\nThe post Starknet highlights quantum computing threats to elliptic-curve SNARKs appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/starknet-quantum-threats-elliptic-curve-snarks/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Starknet"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T15:37:44.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "Starknet has highlighted the growing threat that quantum computing poses to traditional elliptic-curve SNARKs. As quantum technology advances, standard cryptographic systems face potential vulnerabilities. The situation highlights the urgent need for the blockchain industry to transition toward more secure, hash-based alternatives to protect cryptographic integrity against future attacks.",
+    "content_ta": "பாரம்பரிய elliptic-curve SNARKs-க்கு quantum computing மூலம் ஏற்பட்டுள்ள அச்சுறுத்தல்களை Starknet சுட்டிக்காட்டியுள்ளது. quantum தொழில்நுட்பம் வளர்ச்சியடைந்து வருவதால், வழக்கமான கிரிப்டோகிராஃபிக் அமைப்புகள் சவால்களை எதிர்கொள்கின்றன. எதிர்கால சைபர் தாக்குதல்களிலிருந்து பாதுகாத்துக்கொள்ள hash-based மாற்றங்களை நோக்கி மாற வேண்டிய அவசியத்தை இது வலியுறுத்துகிறது.",
+    "slug": "starknet-highlights-quantum-computing-threats-to-elliptic-curve-snarks"
+  },
+  {
+    "id": "21d06ed2305cdbd6",
+    "title": "Huawei to unveil HBM design with double the data connections of HBM4",
+    "summary": "Huawei's HBM innovation could reshape China's AI hardware landscape, reducing dependency on foreign suppliers amid US sanctions.\nThe post Huawei to unveil HBM design with double the data connections of HBM4 appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/huawei-hbm-design-double-data-connections/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Huawei",
+      "China",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T15:24:16.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "Huawei is reportedly preparing to unveil a new High Bandwidth Memory (HBM) design. This innovative technology aims to double the data connections compared to HBM4. The development could significantly impact China's artificial intelligence hardware sector by helping local firms reduce their reliance on foreign suppliers amid ongoing international trade restrictions and US sanctions.",
+    "content_ta": "Huawei நிறுவனம் HBM4-ஐ விட இரட்டிப்பு டேட்டா இணைப்புகளைக் கொண்ட புதிய HBM வடிவமைப்பை வெளியிடத் தயாராகி வருவதாகத் தகவல்கள் வெளியாகியுள்ளன. இந்த புதிய தொழில்நுட்பம், அமெரிக்காவின் தடைகளுக்கு மத்தியில் வெளிநாட்டு சப்ளையர்களைச் சார்ந்திருப்பதைக் குறைத்து, China-வின் AI வன்பொருள் துறையில் பெரும் மாற்றத்தை ஏற்படுத்தும் என எதிர்பார்க்கப்படுகிறது.",
+    "slug": "huawei-to-unveil-hbm-design-with-double-the-data-connections-of-hbm4"
+  },
+  {
+    "id": "4023d4768993d3eb",
+    "title": "Meria Finance joins Jupiter’s JupSOL validator set with a compliance pitch",
+    "summary": "Meria Finance's compliance focus in joining JupSOL's validator set could enhance institutional trust and participation in liquid staking.\nThe post Meria Finance joins Jupiter’s JupSOL validator set with a compliance pitch appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/meria-finance-joins-jupsol-validator-set/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Meria Finance",
+      "Jupiter",
+      "JupSOL"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T15:21:43.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "Meria Finance has joined Jupiter’s JupSOL validator set, bringing a strong compliance focus to the platform. This strategic move aims to enhance institutional trust and drive greater participation in liquid staking within the growing decentralized finance ecosystem.",
+    "content_ta": "Meria Finance நிறுவனம் Jupiter-ன் JupSOL validator தொகுப்பில் இணைந்துள்ளது. இந்த வியூக நகர்வு நிறுவனங்களின் நம்பிக்கையை மேம்படுத்துவதோடு, லிக்யூடு ஸ்டேக்கிங்கில் அதிக பங்கேற்பை ஈர்க்கும் என எதிர்பார்க்கப்படுகிறது.",
+    "slug": "meria-finance-joins-jupiter-s-jupsol-validator-set-with-a-compliance-pitch"
+  },
+  {
+    "id": "32883931249f21f2",
+    "title": "Injective Eyes $125 as 7.3M INJ Burn and Veyra Upgrade Strengthen Bullish Outlook",
+    "summary": "The post Injective Eyes $125 as 7.3M INJ Burn and Veyra Upgrade Strengthen Bullish Outlook appeared first on Coinpedia Fintech News\nInjective (INJ) is building momentum on multiple fronts, and its latest ecosystem developments are giving investors more reasons to watch the project.  With more than 7.3 million INJ burned through its Community BuyBack, the Veyra Mainnet Upgrade now live, and institutional real-world asset (RWA) infrastructure expanding, Injective is strengthening its ecosystem while its token approaches …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/price-analysis/injective-eyes-125-as-7-3m-inj-burn-and-veyra-upgrade-strengthen-bullish-outlook/",
+    "source": "Coinpedia",
+    "tags": [
+      "Injective"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T15:41:02.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "Injective is gaining strong bullish momentum following significant ecosystem developments. The network recently surpassed 7.3 million INJ tokens burned through its Community BuyBack program. Additionally, the Veyra Mainnet Upgrade is now live, further expanding the platform's institutional real-world asset infrastructure and enhancing overall network capabilities.",
+    "content_ta": "Injective அதன் சுற்றுச்சூழல் அமைப்பில் ஏற்பட்ட குறிப்பிடத்தக்க வளர்ச்சிகளைத் தொடர்ந்து வலுவான நேர்மறையான ஏற்றத்தைப் பெற்றுள்ளது. Community BuyBack திட்டம் மூலம் 7.3 மில்லியனுக்கும் அதிகமான INJ டோக்கன்கள் அழிக்கப்பட்டுள்ளன. கூடுதலாக, Veyra Mainnet Upgrade இப்போது நேரலைக்கு வந்துள்ளது, இது பிளாட்ஃபார்மின் நிறுவன உள்கட்டமைப்பை மேலும் விரிவுபடுத்துகிறது.",
+    "slug": "injective-eyes-125-as-7-3m-inj-burn-and-veyra-upgrade-strengthen-bullish-outlook"
+  },
+  {
+    "id": "ec24cc0b9a6a2337",
+    "title": "SFF 2026: Monzo’s Secret for Growth, and the Tokenisation of Global Trade",
+    "summary": "Georgia Hanias rounds off Singapore FinTech Festival 2026 with Monzo CEO TS Anil's lessons on leadership and growth, plus the future of tokenised trade finance.\nThe post SFF 2026: Monzo’s Secret for Growth, and the Tokenisation of Global Trade appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/sff-2026-monzos-secret-for-growth-and-the-tokenisation-of-global-trade/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Monzo",
+      "Singapore"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T16:29:44.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "At the Singapore FinTech Festival 2026, Monzo CEO TS Anil shared valuable lessons on leadership and business growth. The event concluded with discussions highlighting the future of tokenised trade finance and how digital assets are transforming global trade operations.",
+    "content_ta": "Singapore FinTech Festival 2026 மாநாட்டில், Monzo நிறுவனத்தின் CEO TS Anil தலைமைத்துவம் மற்றும் வணிக வளர்ச்சி குறித்த முக்கிய கருத்துக்களைப் பகிர்ந்து கொண்டார். டிஜிட்டல் சொத்துக்கள் உலகளாவிய வர்த்தக நடவடிக்கைகளை எவ்வாறு மாற்றுகின்றன என்பது குறித்தும், டோக்கன் செய்யப்பட்ட வர்த்தக நிதியின் எதிர்காலம் குறித்தும் விவாதிக்கப்பட்டது.",
+    "slug": "sff-2026-monzo-s-secret-for-growth-and-the-tokenisation-of-global-trade"
+  },
+  {
+    "id": "6b27044d6425b01f",
+    "title": "Quantum Computing Funding Tops $621 Million in UK",
+    "summary": "Funding for quantum computing ventures is rising in the UK. According to Tracxn, so far in 2026, $621 million has been raised across 8 funding rounds. This contrasts with the $129 million raised in 2025 across 7 rounds. Quantum hardware firms account for three mega... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/11/325267-quantum-computing-funding-tops-621-million-in-uk/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Tracxn",
+      "United Kingdom"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T16:21:46.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "Quantum computing ventures in the UK have seen a significant increase in financial backing. Data from Tracxn shows that total funding reached $621 million across 8 rounds in 2026 so far. This marks a substantial rise compared to the $129 million raised across 7 rounds during the previous year, with quantum hardware firms leading the sector.",
+    "content_ta": "UK-ல் குவாண்டம் கம்ப்யூட்டிங் நிறுவனங்களுக்கான நிதி உதவி கணிசமாக அதிகரித்துள்ளது. Tracxn தரவுகளின்படி, 2026-ம் ஆண்டில் இதுவரை 8 சுற்றுகளில் மொத்தம் $621 மில்லியன் நிதி திரட்டப்பட்டுள்ளது. கடந்த ஆண்டின் இதே காலகட்டத்தில் 7 சுற்றுகளில் $129 மில்லியன் மட்டுமே திரட்டப்பட்டிருந்ததுடன் ஒப்பிடுகையில் இது மிகப்பெரிய வளர்ச்சியாகும். இதில் குவாண்டம் ஹார்டுவேர் நிறுவனங்கள் முன்னணியில் உள்ளன.",
+    "slug": "quantum-computing-funding-tops-621-million-in-uk"
+  },
+  {
+    "id": "ff48a3d267b874b0",
+    "title": "UK APP Fraud Losses Rise 22% to £316 Million in First Half of 2026",
+    "summary": "Losses linked to authorised push payment (APP) fraud in the United Kingdom increased substantially during the first six months of 2026, according to new figures released by the banking and finance industry body UK Finance. Total APP losses reached £316 million in the period, representing... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/11/325047-uk-app-fraud-losses-rise-22-to-316-million-in-first-half-of-2026/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "United Kingdom",
+      "UK Finance"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T16:04:12.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "Losses linked to authorised push payment fraud in the United Kingdom increased substantially during the first six months of 2026. According to figures released by UK Finance, total APP fraud losses reached £316 million during this period, representing a 22 percent rise compared to previous statistics.",
+    "content_ta": "2026-ஆம் ஆண்டின் முதல் ஆறு மாதங்களில் UK-ல் authorised push payment மோசடிகளால் ஏற்பட்ட இழப்புகள் குறிப்பிடத்தக்க அளவில் அதிகரித்துள்ளன. UK Finance வெளியிட்டுள்ள புதிய புள்ளிவிவரங்களின்படி, இந்த காலகட்டத்தில் ஒட்டுமொத்த APP மோசடி இழப்புகள் £316 மில்லியனை எட்டியுள்ளன.",
+    "slug": "uk-app-fraud-losses-rise-22-to-316-million-in-first-half-of-2026"
+  },
+  {
+    "id": "55c37cdbe8fa7d47",
+    "title": "Authorities complete 2026 review of payments Memorandum of Understanding",
+    "summary": "Read the MoU (PDF) Outcome of the review:   The review found that cooperation and coordination between the Authorities – the Bank, FCA, PRA and PSR – has strengthened and remains effective. We concluded that no changes to the MoU are needed at this time.... Read More",
+    "hasSummary": true,
+    "link": "https://www.crowdfundinsider.com/2026/11/325263-authorities-complete-2026-review-of-payments-memorandum-of-understanding/",
+    "source": "Crowdfund Insider",
+    "tags": [
+      "Bank",
+      "FCA",
+      "PRA",
+      "PSR"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T16:00:25.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "Authorities have completed the 2026 review of the payments Memorandum of Understanding. The review concluded that cooperation and coordination among the Bank, FCA, PRA, and PSR have strengthened and remain effective. As a result, regulators determined that no changes to the MoU are required at this time.",
+    "content_ta": "Authorities-ன் payments Memorandum of Understanding குறித்த 2026-ஆம் ஆண்டு ஆய்வு வெற்றிகரமாக முடிக்கப்பட்டுள்ளது. Bank, FCA, PRA மற்றும் PSR ஆகியவற்றுக்கு இடையேயான ஒத்துழைப்பும் ஒருங்கிணைப்பும் மேலும் வலுவடைந்து பயனுள்ளதாகத் தொடர்வதாக இந்த ஆய்வில் கண்டறியப்பட்டுள்ளது. இதன் காரணமாக, தற்போது MoU-ல் எந்த மாற்றங்களும் செய்யத் தேவையில்லை என்று முடிவு செய்யப்பட்டுள்ளது.",
+    "slug": "authorities-complete-2026-review-of-payments-memorandum-of-understanding"
+  },
+  {
+    "id": "bb87e0df67d2c7b8",
+    "title": "Securing Trust in the Quantum Era: Why the Financial Industry Must Prepare Together",
+    "summary": "Quantum computing can still feel like a distant prospect. And that distance can make its opportunities and risks easy to underestimate.\nYet looking beyond the technology itself reveals a much more immediate question: how do we continue to protect trust as the foundations of digital security are about to be challenged?\nToday’s financial system depends on trust. Trust that transactions are authentic, communications are secure and identities can be verified. For decades, that trust has rested on cryptographic techniques that are considered effectively unbreakable, provided they are regularly updated and strengthened over time.\nQuantum computing – an emerging technology that aims to solve computational problems significantly faster than traditional computers – is challenging that assumption. It has the potential to overcome mathematical problems on which many of today’s widely used cryptographic algorithms rely.\nIn practical terms, that means the safeguards that protect confidentiality, integrity and authentication today could be defeated in the future. Over time, attackers could convincingly fake digital signatures that secure financial transactions or decrypt sensitive communications.\nPreparing for the impact of quantum computing therefore requires decisive action across the financial ecosystem, including a transition from cryptographic methods that could become vulnerable to new, quantum-resistant standards.\nThat’s why post-quantum security readiness is a strategic priority at Swift. For nearly a decade, we have been actively preparing for this shift and helping shape the industry’s response to stay ahead of emerging risks and lead our community towards a quantum-ready future, preserving the security and trust on which global finance depends.\nQuantum risk goes to the heart of whether the integrity of the financial system can continue to be trusted as technology evolves.\n\n\n\n\n\nUnderstanding the scale of the shift\nTo understand why this preparation matters, let’s consider how quantum computing challenges the mechanisms that underpin trust in digital systems, including digital signatures, authentication and encryption.\nFor example, if digital signatures can be forged, attackers could impersonate trusted institutions without needing to steal private keys, no matter the strength of the key protection. If widely used key exchange mechanisms are broken, secure communication channels could be compromised.\nAnd if encrypted data can be decrypted retrospectively, sensitive information intercepted today could be exposed in the future, a risk often described as ‘harvest now, decrypt later’. Similarly, digital signatures trusted today could potentially be forged in the future, undermining non-repudiation and disrupting the auditable chain of trust.\nQuantum risk goes to the heart of whether the integrity of the financial system can continue to be trusted as technology evolves.\nBuilding the financial community’s post-quantum future\nThe industry’s response is the development of post-quantum cryptography (PQC). These are new cryptographic algorithms designed to replace those that could be broken by quantum computing, while operating securely on today’s systems.\nPQC algorithms deliver the same core functions as current cryptography, including key exchanges and digital signatures, but they rely on different mathematical foundations that are considered resistant to both classical and quantum attacks.\nStandardisation is well underway, and the first set of quantum-resistant algorithms were finalised in 2024. Their adoption, however, is not a simple replacement exercise.\nToday’s cryptography is deeply embedded across systems, applications and processes. Transitioning to new standards requires organisations to understand where they are exposed and manage change in a controlled and resilient way.\nRather than waiting for a complete inventory of cryptographic assets, organisations can prioritise their most critical and exposed systems and begin the PQC transition, while continuing to build a fuller view of their environment in parallel.\nAs the cryptographic landscape is expected to evolve more rapidly than in the past, greater cryptographic agility will help organisations adapt efficiently as standards evolve.\nWhy ecosystem readiness matters\nOrganisations are now at different stages of their PQC journey. Some have begun assessing their cryptographic exposure and experimenting with new algorithms. Others are at an earlier stage of awareness.\nThe challenge is not simply to migrate individual institutions to new cryptographic standards. It is ensuring that an interconnected financial ecosystem can transition securely and interoperably. That makes coordinated industry action critical.\nAt Swift, our experience demonstrates why early preparation matters. Post-quantum security readiness is a strategic priority, and for nearly a decade we have been monitoring developments in quantum computing and helping shape the industry’s response to emerging cryptographic risks.\nOur preparations have progressed from assessing the impact of quantum risk and evaluating PQC to implementation activities aligned with emerging standards. Initial implementation activities are now underway, focusing on our core services.\nOur experience also reinforces that customer readiness and interoperability have to be considered from the outset. Preparing our own infrastructure is just one part of the challenge.\nOver the coming months, we will ramp up the delivery of our PQC capabilities to help our community make this shift, while maintaining the security, stability and interoperability on which financial communications depend.\nSecuring trust for the future\nQuantum computing represents a fundamental shift in the technological landscape. While its full impact may still be years away, preparing an interconnected financial ecosystem for that change is essential.\nSecuring trust in the quantum era will require institutions to understand their exposure, plan their transition and coordinate with the wider ecosystem on which they depend.\nBy mobilising a coordinated transition today, we can collectively contribute to ensuring the foundations of financial trust endure into the quantum future.\nMike ManosChief Information OfficerSwiftYes",
+    "hasSummary": true,
+    "link": "https://financialit.net/content/securing-trust-quantum-era-why-financial-industry-must-prepare-together",
+    "source": "Financial IT",
+    "tags": [
+      "Swift"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T15:15:02.000Z",
+    "fetchedAt": "2026-11-26T17:50:59.182Z",
+    "isDuplicateOf": null,
+    "content": "Quantum computing poses significant future risks to digital security in the financial industry, potentially breaking widely used cryptographic algorithms. To protect future transactions and sensitive communications, financial institutions must act together and transition to post-quantum cryptography standards. Swift is prioritizing this shift to ensure global financial stability and secure trust in the quantum era.",
+    "content_ta": "குவாண்டம் கம்ப்யூட்டிங் நிதித்துறையின் டிஜிட்டல் பாதுகாப்பிற்கு எதிர்காலத்தில் குறிப்பிடத்தக்க ஆபத்துகளை ஏற்படுத்துகிறது, இது பரவலாகப் பயன்படுத்தப்படும் கிரிப்டோகிராஃபிக் வழிமுறைகளை உடைக்கக்கூடும். எதிர்காலப் பரிமாற்றங்களைப் பாதுகாக்க, நிதி நிறுவனங்கள் இணைந்து செயல்பட்டு போஸ்ட்-குவாண்டம் கிரிப்டோகிராஃபி தரநிலைகளுக்கு மாற வேண்டும். குவாண்டம் காலகட்டத்தில் உலகளாவிய நிதி நிலைத்தன்மையையும் பாதுகாப்பான நம்பிக்கையையும் உறுதிப்படுத்த Swift இந்த மாற்றத்திற்கு முன்னுரிமை அளித்து வருகிறது.",
+    "slug": "securing-trust-in-the-quantum-era-why-the-financial-industry-must-prepare-together"
   }
 ]
