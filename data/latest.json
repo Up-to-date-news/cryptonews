@@ -1,5 +1,305 @@
 [
   {
+    "id": "81c25fe50c4be09f",
+    "slug": "ase-reports-no-order-cancellations-despite-nvidia-shipment-halt-lifts-leap-target-past-4b",
+    "title": "ASE reports no order cancellations despite Nvidia shipment halt, lifts LEAP target past $4B",
+    "tags": [
+      "ASE",
+      "Nvidia",
+      "Taiwan"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T23:19:21.000Z"
+  },
+  {
+    "id": "49d5d59ed592eb64",
+    "slug": "tepco-plans-10-2-trillion-grid-and-nuclear-push-to-win-ai-data-centers",
+    "title": "TEPCO plans ¥10.2 trillion grid and nuclear push to win AI data centers",
+    "tags": [
+      "TEPCO",
+      "Japan"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T23:18:35.000Z"
+  },
+  {
+    "id": "fee122b88dd87923",
+    "slug": "xrp-sellers-could-lose-an-extra-3-146-on-a-large-trade-if-five-accounts-pull-their-buy-orders",
+    "title": "XRP sellers could lose an extra $3,146 on a large trade if five accounts pull their buy orders",
+    "tags": [
+      "XRP",
+      "CryptoSlate"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T23:10:43.000Z"
+  },
+  {
+    "id": "0ff66b6b518b45af",
+    "slug": "goldman-sees-17b-to-25b-in-annual-gpu-rent-at-risk-of-re-letting-from-china-linked-ai-load",
+    "title": "Goldman sees $17B to $25B in annual GPU rent at risk of re-letting from China-linked AI load",
+    "tags": [
+      "Goldman Sachs",
+      "China",
+      "United States"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T23:08:17.000Z"
+  },
+  {
+    "id": "00419d5408f8e43c",
+    "title": "Goldman Sachs: China-linked AI facilities may need to reassign up to 395,000 GPUs",
+    "summary": "The reassignment of GPUs could reshape global AI infrastructure dynamics, influencing market prices and highlighting geopolitical tech tensions.\nThe post Goldman Sachs: China-linked AI facilities may need to reassign up to 395,000 GPUs appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/goldman-sachs-china-linked-ai-facilities-may-need-to-reassign-up-to-395000-gpus/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Goldman Sachs",
+      "China"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T23:06:56.000Z",
+    "fetchedAt": "2026-11-26T23:23:36.258Z",
+    "isDuplicateOf": null,
+    "content": "According to Goldman Sachs, China-linked artificial intelligence facilities may need to reassign up to 395,000 graphics processing units. This potential shift could significantly reshape global AI infrastructure dynamics, influence hardware market prices, and further highlight ongoing geopolitical technology tensions surrounding the region.",
+    "content_ta": "Goldman Sachs அறிக்கையின்படி, China-னுடன் தொடர்புடைய AI வசதிகள் 39,000-க்கும் அதிகமான GPU-க்களை மாற்றி அமைக்க வேண்டியிருக்கலாம். இந்த மாற்றம் உலகளாவிய AI உள்கட்டமைப்பு இயக்கவியலை மாற்றியமைக்கவும், சந்தை விலைகளை பாதிக்கவும் கூடும்.",
+    "slug": "goldman-sachs-china-linked-ai-facilities-may-need-to-reassign-up-to-395-000-gpus"
+  },
+  {
+    "id": "940046cb25875e18",
+    "title": "Anthropic study finds AI models still hold cyberattack knowledge after unlearning",
+    "summary": "AI unlearning's limitations highlight the need for proactive safety measures during training, as residual knowledge poses security risks.\nThe post Anthropic study finds AI models still hold cyberattack knowledge after unlearning appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/anthropic-ai-unlearning-cyberattack-knowledge/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Anthropic"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T23:06:08.000Z",
+    "fetchedAt": "2026-11-26T23:23:36.258Z",
+    "isDuplicateOf": null,
+    "content": "A recent study by Anthropic reveals that AI models still retain cyberattack knowledge even after undergoing unlearning procedures. This residual knowledge poses significant security risks, highlighting the critical need for more effective safety measures during the initial training phases of artificial intelligence systems.",
+    "content_ta": "Anthropic நடத்திய புதிய ஆய்வில், AI மாடல்கள் unlearning முறைகளுக்குப் பிறகும் சைபர் தாக்குதல் தொடர்பான தகவல்களைத் தக்கவைத்துக் கொள்வது தெரியவந்துள்ளது. இந்த எஞ்சிய அறிவு பாதுகாப்பு அபாயங்களை ஏற்படுத்துவதால், AI அமைப்புகளின் பயிற்சி கட்டத்தில் மிகவும் பயனுள்ள பாதுகாப்பு நடவடிக்கைகள் அவசியம் என்பதை இது காட்டுகிறது.",
+    "slug": "anthropic-study-finds-ai-models-still-hold-cyberattack-knowledge-after-unlearning"
+  },
+  {
+    "id": "e5aad3731ebcc3c8",
+    "slug": "new-bitcoin-privacy-flaw-could-expose-your-location-for-just-0-35",
+    "title": "New Bitcoin Privacy Flaw Could Expose Your Location for Just $0.35",
+    "tags": [
+      "Bitcoin"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T23:04:34.000Z"
+  },
+  {
+    "id": "c5ea7a66220649df",
+    "title": "Nasdaq 100 posts its wildest five-day stretch since April 2025",
+    "summary": "Increased volatility in the Nasdaq 100 signals potential market stress, impacting tech-heavy portfolios and raising concerns for investors.\nThe post Nasdaq 100 posts its wildest five-day stretch since April 2025 appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/nasdaq-100-highest-volatility-since-april-2025/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Nasdaq 100"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T22:53:55.000Z",
+    "fetchedAt": "2026-11-26T23:23:36.258Z",
+    "isDuplicateOf": null,
+    "content": "The Nasdaq 100 experienced its most volatile five-day stretch since April 2025. This sudden increase in market turbulence has created uncertainty for tech-heavy portfolios, raising concerns among investors about potential ongoing market stress and shifting financial conditions.",
+    "content_ta": "Nasdaq 2025 ஏப்ரல் மாதத்திற்குப் பிறகு அதன் மிகவும் கொந்தளிப்பான ஐந்து நாள் காலகட்டத்தைச் சந்தித்தது. சந்தையில் ஏற்பட்டுள்ள இந்த திடீர் ஏற்ற இறக்கம் tech-heavy போர்ட்ஃபோலியோக்களுக்கு நிச்சயமற்ற தன்மையை ஏற்படுத்தியுள்ளதுடன், முதலீட்டாளர்கள் மத்தியில் கவலையையும் எழுப்பியுள்ளது.",
+    "slug": "nasdaq-100-posts-its-wildest-five-day-stretch-since-april-2025"
+  },
+  {
+    "id": "706055f3424c7cf7",
+    "slug": "a-green-black-friday-futures-rise-after-thanksgiving-close-as-nvidia-faces-test",
+    "title": "A Green Black Friday? Futures Rise After Thanksgiving Close as Nvidia Faces Test",
+    "tags": [
+      "S&P 500",
+      "Nvidia",
+      "United States"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T22:49:10.000Z"
+  },
+  {
+    "id": "2e1ed7ed082f60e2",
+    "title": "Samsung and SK Hynix reportedly license YMTC’s Xtacking NAND stacking technology",
+    "summary": "The potential shift in technological leadership could redefine competitive dynamics in the memory market, emphasizing scale and efficiency.\nThe post Samsung and SK Hynix reportedly license YMTC’s Xtacking NAND stacking technology appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/samsung-sk-hynix-ymtc-xtacking-license/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Samsung",
+      "SK Hynix",
+      "YMTC"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T22:43:45.000Z",
+    "fetchedAt": "2026-11-26T23:23:36.258Z",
+    "isDuplicateOf": null,
+    "content": "Samsung and SK Hynix have reportedly licensed YMTC’s Xtacking NAND stacking technology. This potential shift in technological leadership could redefine competitive dynamics in the memory market, emphasizing scale and efficiency as major industry players adapt to new advancements in semiconductor manufacturing.",
+    "content_ta": "Samsung மற்றும் SK Hynix ஆகியவை YMTC நிறுவனத்தின் Xtacking NAND ஸ்டாக்கிங் தொழில்நுட்பத்தை உரிமம் பெற்றுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது. தொழில்நுட்பத் துறையில் ஏற்பட்டுள்ள இந்த சாத்தியமான மாற்றம், செமி கண்டக்டர் உற்பத்தி சந்தையில் புதிய போட்டி இயக்கவியலை மறுவரையறை செய்யலாம்.",
+    "slug": "samsung-and-sk-hynix-reportedly-license-ymtc-s-xtacking-nand-stacking-technology"
+  },
+  {
+    "id": "895af4bd546f8fcb",
+    "slug": "very-racist-netflix-sbf-series-bitmart-s-319m-shortfall-asia-express",
+    "title": "‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express",
+    "tags": [
+      "Netflix",
+      "BitMart",
+      "CZ",
+      "Asia"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T22:39:46.000Z"
+  },
+  {
+    "id": "cb05b1b7a97d96ed",
+    "slug": "pump-fun-wants-to-make-token-launches-fairer-its-new-fee-targets-block0-buyers",
+    "title": "Pump.fun Wants to Make Token Launches Fairer: Its New Fee Targets Block0 Buyers",
+    "tags": [
+      "Pump.fun"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T22:29:19.000Z"
+  },
+  {
+    "id": "4732d392acf89199",
+    "title": "JERA plans AI data centers beside its power plants with Dell and RHAELM",
+    "summary": "JERA's strategic partnerships with tech giants highlight the growing intersection of energy and AI, emphasizing the need for sustainable power solutions.\nThe post Japan’s JERA is in talks with Amazon, Microsoft and Google over the AI power crunch appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/jera-ai-data-centers-anthropic-meta-power-plants/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "JERA",
+      "Dell",
+      "RHAELM",
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Japan"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T22:01:05.000Z",
+    "fetchedAt": "2026-11-26T23:23:36.258Z",
+    "isDuplicateOf": null,
+    "content": "JERA is planning to build AI data centers next to its power plants through partnerships with Dell and RHAELM. The company is also in talks with tech giants including Amazon, Microsoft, and Google to address the growing energy demands of artificial intelligence, highlighting the vital intersection between sustainable power solutions and the tech industry.",
+    "content_ta": "JERA நிறுவனம் Dell மற்றும் RHAELM உடன் இணைந்து தனது மின் நிலையங்களுக்கு அருகில் AI டேட்டா சென்டர்களை அமைக்க திட்டமிட்டுள்ளது. செயற்கை நுண்ணறிவு துறையின் வளர்ந்து வரும் மின் தேவைகளை பூர்த்தி செய்வதற்காக Amazon, Microsoft மற்றும் Google போன்ற முன்னணி நிறுவனங்களுடன் JERA பேச்சுவார்த்தை நடத்தி வருகிறது.",
+    "slug": "jera-plans-ai-data-centers-beside-its-power-plants-with-dell-and-rhaelm"
+  },
+  {
+    "id": "306908cb53d38088",
+    "slug": "vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown",
+    "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
+    "tags": [
+      "GTA 6",
+      "Take-Two"
+    ],
+    "source": "Decrypt",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T22:01:02.000Z"
+  },
+  {
+    "id": "04880d2fcc5eb5e6",
+    "title": "OpenRouter data shows 44x token growth as AI spending lags behind",
+    "summary": "AI's rapid usage growth without proportional spending increase suggests a shift towards cost-effective models, impacting revenue dynamics.\nThe post OpenRouter data shows 44x token growth as AI spending lags behind appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/openrouter-44x-token-growth-spending-lags/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "OpenRouter"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T21:51:08.000Z",
+    "fetchedAt": "2026-11-26T23:23:36.258Z",
+    "isDuplicateOf": null,
+    "content": "Recent data from OpenRouter reveals a massive 44-fold increase in token usage, while overall AI spending has lagged behind. This trend indicates that artificial intelligence usage is growing rapidly without a proportional increase in financial expenditure, pointing to a broader industry shift toward more cost-effective models and impacting revenue dynamics across the sector.",
+    "content_ta": "OpenRouter-யின் சமீபத்திய தரவுகள் டோக்கன் பயன்பாட்டில் 44 மடங்கு மிகப்பெரிய வளர்ச்சியை வெளிப்படுத்தியுள்ளன, அதே நேரத்தில் ஒட்டுமொத்த AI செலவினம் பின்தங்கியுள்ளது. இந்த போக்கு, நிதிச் செலவில் விகிதாசார அதிகரிப்பு இல்லாமல் செயற்கை நுண்ணறிவு பயன்பாடு வேகமாக வளர்ந்து வருவதைக் குறிக்கிறது, இது மிகவும் செலவு குறைந்த மாடல்களை நோக்கி பரந்த தொழில் மாற்றத்தைக் குறிக்கிறது மற்றும் வருவாய் இயக்கவியலை பாதிக்கிறது.",
+    "slug": "openrouter-data-shows-44x-token-growth-as-ai-spending-lags-behind"
+  },
+  {
+    "id": "e1516c4ad1d196aa",
+    "slug": "layerzero-locks-early-zro-deposits-behind-validators-users-cannot-choose",
+    "title": "LayerZero locks early ZRO deposits behind validators users cannot choose",
+    "tags": [
+      "LayerZero",
+      "ZRO",
+      "Four Pillars",
+      "Samsung Card"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T21:50:09.000Z"
+  },
+  {
+    "id": "057ce6837e1640b1",
+    "title": "OpenAI’s GPT-Live-1.1 tops Voice Arena’s Jarvis Bench, but humans still win the call",
+    "summary": "AI advancements in voice tech show promise, yet human preference highlights the enduring value of human interaction in customer service.\nThe post OpenAI’s GPT-Live-1.1 tops Voice Arena’s Jarvis Bench, but humans still win the call appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/openai-gpt-live-1-1-tops-jarvis-bench/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "OpenAI",
+      "Voice Arena",
+      "Jarvis Bench"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T21:43:15.000Z",
+    "fetchedAt": "2026-11-26T23:23:36.258Z",
+    "isDuplicateOf": null,
+    "content": "OpenAI’s GPT-Live-1.1 model recently achieved the top position on Voice Arena’s Jarvis Bench, demonstrating significant progress in artificial intelligence voice technology. However, despite these technical achievements, tests and evaluations indicate that human representatives still maintain an advantage in overall call interactions and customer preference, emphasizing the lasting value of the human touch in customer service applications.",
+    "content_ta": "OpenAI-யின் GPT-Live-1.1 மாடல் Voice Arena-வின் Jarvis Bench-ல் முதலிடத்தைப் பிடித்துள்ளது, இது செயற்கை நுண்ணறிவு குரல் தொழில்நுட்பத்தில் குறிப்பிடத்தக்க முன்னேற்றத்தைக் காட்டுகிறது. இருப்பினும், இந்த தொழில்நுட்ப சாதனைகள் இருந்தபோதிலும், மனித பிரதிநிதிகள் ஒட்டுமொத்த கால் உரையாடல்களிலும் வாடிக்கையாளர் விருப்பத்திலும் இன்னும் முன்னிலையில் இருப்பதாக மதிப்பீடுகள் சுட்டிக்காட்டுகின்றன.",
+    "slug": "openai-s-gpt-live-1-1-tops-voice-arena-s-jarvis-bench-but-humans-still-win-the-call"
+  },
+  {
+    "id": "68d8a979b0ebb353",
+    "slug": "bnb-chain-details-new-layer-1-for-trading-private-finance-and-ai",
+    "title": "BNB Chain details new layer-1 for trading, private finance and AI",
+    "tags": [
+      "BNB Chain",
+      "BNB Smart Chain",
+      "BNB"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T21:42:43.000Z"
+  },
+  {
+    "id": "f55346ba6df9e467",
+    "slug": "uk-is-getting-it-wrong-on-defi-regulation-says-coinbase",
+    "title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
+    "tags": [
+      "Coinbase",
+      "Stand With Crypto",
+      "United Kingdom"
+    ],
+    "source": "Cointelegraph",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-26T21:13:53.000Z"
+  },
+  {
     "id": "56cc5d02e34e1130",
     "slug": "why-hedera-bears-still-have-control-despite-hbar-s-9-price-surge",
     "title": "Why Hedera bears still have control despite HBAR’s 9% price surge",
@@ -106,22 +406,16 @@
   },
   {
     "id": "dc6e7bbd3e1ea219",
+    "slug": "altcoin-market-loses-408-billion-as-memecoin-dominance-falls-to-2",
     "title": "Altcoin Market Loses $408 Billion As Memecoin Dominance Falls to 2%",
-    "summary": "The altcoin market has contracted sharply, losing about $408 billion in market capitalization since its September peak.",
-    "hasSummary": true,
-    "link": "https://zycrypto.com/altcoin-market-loses-408-billion-as-memecoin-dominance-falls-to-2/",
-    "source": "ZyCrypto",
     "tags": [
       "Altcoin",
       "Memecoin"
     ],
+    "source": "ZyCrypto",
     "origin": "rss",
-    "pubDate": "2026-11-26T19:39:04.000Z",
-    "fetchedAt": "2026-11-26T21:01:31.482Z",
-    "isDuplicateOf": null,
-    "content": "The altcoin market has experienced a sharp contraction, losing approximately $408 billion in market capitalization since reaching its peak in September. Amid this significant downturn across alternative digital assets, memecoin dominance has also plummeted, falling to just 2% of the broader market share.",
-    "content_ta": "செப்டம்பர் மாத உச்சத்திற்குப் பிறகு altcoin சந்தையானது கடுமையான வீழ்ச்சியைச் சந்தித்துள்ளது, அதன் சந்தை மூலதனத்தில் தோராயமாக $408 பில்லியன் இழப்பு ஏற்பட்டுள்ளது. இந்த சந்தை சரிவின் மத்தியில், memecoin ஆதிக்கமும் கடுமையாகக் குறைந்து, பரந்த சந்தைப் பங்கில் வெறும் 2% மட்டுமே எட்டியுள்ளது.",
-    "slug": "altcoin-market-loses-408-billion-as-memecoin-dominance-falls-to-2"
+    "hasContent": true,
+    "pubDate": "2026-11-26T19:39:04.000Z"
   },
   {
     "id": "00cf44c3d0bf58bc",
@@ -138,24 +432,18 @@
   },
   {
     "id": "c3f3106fb094a219",
+    "slug": "whale-dumps-13-25m-hype-buys-7m-eth-leaves-hyperliquid",
     "title": "Whale Dumps $13.25M HYPE, Buys $7M ETH, Leaves Hyperliquid",
-    "summary": "London-based digital asset investment firm Abraxas Capital completed its profitable run on the Hyperliquid exchange after the withdrawal of the last $13.25M in $HYPE tokens.",
-    "hasSummary": true,
-    "link": "https://zycrypto.com/whale-dumps-13-25m-hype-buys-7m-eth-leaves-hyperliquid/",
-    "source": "ZyCrypto",
     "tags": [
       "Abraxas Capital",
       "Hyperliquid",
       "HYPE",
       "ETH"
     ],
+    "source": "ZyCrypto",
     "origin": "rss",
-    "pubDate": "2026-11-26T19:22:23.000Z",
-    "fetchedAt": "2026-11-26T21:01:31.482Z",
-    "isDuplicateOf": null,
-    "content": "London-based digital asset investment firm Abraxas Capital has concluded its profitable run on the Hyperliquid exchange. The firm recently dumped $13.25 million worth of HYPE tokens, purchased $7 million in ETH, and fully withdrew from the platform.",
-    "content_ta": "லண்டனை அடிப்படையாகக் கொண்ட டிஜிட்டல் சொத்து முதலீட்டு நிறுவனமான Abraxas Capital, Hyperliquid பரிமாற்றத்தில் தனது லாபகரமான பயணத்தை முடிவுக்குக் கொண்டுவந்துள்ளது. இந்த நிறுவனம் சமீபத்தில் $13.25 மில்லியன் மதிப்பிலான HYPE டோக்கன்களை விற்றுவிட்டு, $7 மில்லியனுக்கு ETH வாங்கியதுடன், அந்த தளத்திலிருந்து முழுமையாக வெளியேறியுள்ளது.",
-    "slug": "whale-dumps-13-25m-hype-buys-7m-eth-leaves-hyperliquid"
+    "hasContent": true,
+    "pubDate": "2026-11-26T19:22:23.000Z"
   },
   {
     "id": "1806816338dffb3f",
@@ -259,22 +547,16 @@
   },
   {
     "id": "2db53c4ce8186026",
+    "slug": "yearn-finance-yfi-price-prediction-for-2026-2027-2030-is-yfi-a-good-investment-for-the-future",
     "title": "Yearn.finance ($YFI) Price Prediction for 2026, 2027 – 2030: Is YFI A Good Investment For The Future?",
-    "summary": "The post Yearn.finance ($YFI) Price Prediction for 2026, 2027 – 2030: Is YFI A Good Investment For The Future? appeared first on Coinpedia Fintech News\nStory Highlights The Live Price Of Yearn.finance The Yearn.Finance (YFI) price has been forming a macro reversal pattern after being trapped in a multi-year falling trend. Several prediction models forecast the YFI price to retest its all-time high of around $26k by 2030. Yearn Finance (YFI) is a pioneering decentralised finance (DeFi) yield aggregator built …",
-    "hasSummary": true,
-    "link": "https://coinpedia.org/price-prediction/yearn-finance-yfi-price-prediction/",
-    "source": "Coinpedia",
     "tags": [
       "Yearn.finance",
       "YFI"
     ],
+    "source": "Coinpedia",
     "origin": "rss",
-    "pubDate": "2026-11-26T18:42:00.000Z",
-    "fetchedAt": "2026-11-26T21:01:31.482Z",
-    "isDuplicateOf": null,
-    "content": "Yearn.finance ($YFI) is showing signs of a macro reversal pattern following a multi-year falling trend. Recent price prediction models suggest the YFI token could potentially retest its all-time high of around $26k by the year 2030. Yearn.finance remains a notable decentralized finance yield aggregator within the digital asset sector, drawing interest from market analysts evaluating its long-term investment potential.",
-    "content_ta": "Yearn.finance ($YFI) பல வருடங்களாக தொடர்ந்து சரிவை சந்தித்து வந்த நிலையில், தற்போது ஒரு பெரிய மாறும் போக்கைக் காட்டி வருகிறது. சமீபத்திய விலை கணிப்புகளின்படி, 2030 ஆம் ஆண்டிற்குள் YFI டோக்கன் அதன் வரலாற்று உச்ச விலையான சுமார் $26k-ஐ மீண்டும் எட்டக்கூடும் என்று கணிக்கப்பட்டுள்ளது. டிஜிட்டல் சொத்து சந்தையில் Yearn.finance ஒரு குறிப்பிடத்தக்க வட்டி திரட்டியாக செயல்பட்டு வருகிறது.",
-    "slug": "yearn-finance-yfi-price-prediction-for-2026-2027-2030-is-yfi-a-good-investment-for-the-future"
+    "hasContent": true,
+    "pubDate": "2026-11-26T18:42:00.000Z"
   },
   {
     "id": "06a04d8a7ff7ab76",
@@ -303,22 +585,16 @@
   },
   {
     "id": "3b99b4d55b6a1225",
+    "slug": "is-sky-frontier-foundation-s-25m-payment-plan-another-gift-to-mev-bots",
     "title": "Is Sky Frontier Foundation’s $25M payment plan another gift to MEV bots?",
-    "summary": "Sky Frontier Foundation has proposed repayment of $25M of its $40M debt. But with MEV bots waiting to pounce, will it help stUSDS stakers?\nThe post Is Sky Frontier Foundation’s $25M payment plan another gift to MEV bots? appeared first on Protos.",
-    "hasSummary": true,
-    "link": "https://protos.com/is-sky-frontier-foundations-25m-payment-plan-another-gift-to-mev-bots/",
-    "source": "Protos",
     "tags": [
       "Sky Frontier Foundation",
       "stUSDS"
     ],
+    "source": "Protos",
     "origin": "rss",
-    "pubDate": "2026-11-26T18:32:39.000Z",
-    "fetchedAt": "2026-11-26T21:01:31.482Z",
-    "isDuplicateOf": null,
-    "content": "Sky Frontier Foundation has proposed a $25 million repayment plan for its $40 million debt. However, concerns have been raised regarding whether MEV bots might exploit the transaction, potentially impacting stUSDS stakers and questioning the effectiveness of the proposed debt recovery strategy.",
-    "content_ta": "Sky Frontier Foundation தனது $40 மில்லியன் கடனில் $25 மில்லியனைத் திருப்பிச் செலுத்தும் திட்டத்தை முன்மொழிந்துள்ளது. இருப்பினும், MEV bots இந்தப் பரிவர்த்தனையைச் பயன்படுத்தி stUSDS stakers-ஐப் பாதிக்கக்கூடும் என்ற கவலைகள் எழுந்துள்ளன.",
-    "slug": "is-sky-frontier-foundation-s-25m-payment-plan-another-gift-to-mev-bots"
+    "hasContent": true,
+    "pubDate": "2026-11-26T18:32:39.000Z"
   },
   {
     "id": "d268e5661fbe3887",
@@ -558,255 +834,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-26T17:14:33.000Z"
-  },
-  {
-    "id": "3ffe6510582d8876",
-    "slug": "xrp-price-eyes-1-but-these-signals-warn-traders-to-stay-cautious",
-    "title": "XRP price eyes $1 – But THESE signals warn traders to stay cautious",
-    "tags": [
-      "XRP"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T17:00:10.000Z"
-  },
-  {
-    "id": "a26ffd61935ea72f",
-    "slug": "bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
-    "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
-    "tags": [],
-    "source": "CoinDesk",
-    "origin": "rss",
-    "hasContent": false,
-    "pubDate": "2026-11-26T16:50:23.000Z"
-  },
-  {
-    "id": "66af9763cba7f73f",
-    "slug": "coweta-county-voters-to-decide-fate-of-17-billion-project-sail-data-center",
-    "title": "Coweta County voters to decide fate of $17 billion Project Sail data center",
-    "tags": [
-      "Coweta County",
-      "Georgia",
-      "Project Sail"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T16:44:53.000Z"
-  },
-  {
-    "id": "f869b2a9e4a21a02",
-    "slug": "bis-chief-pablo-hernandez-de-cos-set-to-become-next-ecb-president-ft",
-    "title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
-    "tags": [
-      "Pablo Hernández de Cos",
-      "Bank for International Settlements",
-      "European Central Bank",
-      "European Union"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T16:40:44.000Z"
-  },
-  {
-    "id": "411050e94655fd19",
-    "slug": "standard-chartered-crypto-breach-raises-institutional-security-fears",
-    "title": "Standard Chartered Crypto Breach Raises Institutional Security Fears",
-    "tags": [
-      "Standard Chartered",
-      "Zodia Custody"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T16:38:40.000Z"
-  },
-  {
-    "id": "ec24cc0b9a6a2337",
-    "slug": "sff-2026-monzo-s-secret-for-growth-and-the-tokenisation-of-global-trade",
-    "title": "SFF 2026: Monzo’s Secret for Growth, and the Tokenisation of Global Trade",
-    "tags": [
-      "Monzo",
-      "Singapore"
-    ],
-    "source": "The Fintech Times",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T16:29:44.000Z"
-  },
-  {
-    "id": "6e7721e85758292a",
-    "slug": "blockchain-cannot-replace-legal-ownership-in-asset-tokenization-shipfinex-founder-says",
-    "title": "Blockchain cannot replace legal ownership in asset tokenization, Shipfinex founder says",
-    "tags": [
-      "Shipfinex"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T16:29:01.000Z"
-  },
-  {
-    "id": "4bad62cd80528f02",
-    "slug": "stellar-adds-80-4-million-in-tokenized-fund-value-in-a-single-day",
-    "title": "Stellar adds $80.4 million in tokenized fund value in a single day",
-    "tags": [
-      "Stellar",
-      "Ethereum"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T16:22:49.000Z"
-  },
-  {
-    "id": "a231f0e9f1b88380",
-    "slug": "plume-s-nopal-tops-12-million-in-supply-on-kamino",
-    "title": "Plume’s nOPAL tops $12 million in supply on Kamino",
-    "tags": [
-      "Plume",
-      "Kamino"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T16:22:09.000Z"
-  },
-  {
-    "id": "fdc7a38330cfc8bb",
-    "slug": "sap-reportedly-weighs-cutting-at-least-10-000-jobs-in-fresh-restructuring",
-    "title": "SAP reportedly weighs cutting at least 10,000 jobs in fresh restructuring",
-    "tags": [
-      "SAP"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T16:22:01.000Z"
-  },
-  {
-    "id": "6b27044d6425b01f",
-    "slug": "quantum-computing-funding-tops-621-million-in-uk",
-    "title": "Quantum Computing Funding Tops $621 Million in UK",
-    "tags": [
-      "Tracxn",
-      "United Kingdom"
-    ],
-    "source": "Crowdfund Insider",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T16:21:46.000Z"
-  },
-  {
-    "id": "6dd5562d1927616f",
-    "slug": "bitcoin-s-recovery-above-60-000-faces-a-threat-from-japan-while-wall-street-sleeps",
-    "title": "Bitcoin’s recovery above $60,000 faces a threat from Japan while Wall Street sleeps",
-    "tags": [
-      "Bitcoin",
-      "Japan",
-      "Tokyo",
-      "Wall Street"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T16:20:29.000Z"
-  },
-  {
-    "id": "b0760cb4401d72a4",
-    "slug": "at-fm-summit-london-brokers-and-panellists-weigh-uk-rules-and-on-chain-competition",
-    "title": "At FM Summit London, Brokers and Panellists Weigh UK Rules and On-Chain Competition",
-    "tags": [
-      "Finance Magnates Summit",
-      "BeInCrypto",
-      "United Kingdom",
-      "European Union"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T16:19:42.000Z"
-  },
-  {
-    "id": "53e89efc4ecfb270",
-    "slug": "jpmorgan-says-bitcoin-capitulation-signaled-by-strategy-s-record-low-nav-multiple",
-    "title": "JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple",
-    "tags": [
-      "JPMorgan",
-      "Bitcoin",
-      "Strategy"
-    ],
-    "source": "The Block",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T16:18:24.000Z"
-  },
-  {
-    "id": "f99aa9a57258a823",
-    "slug": "almost-5-billion-in-xrp-leaves-exchanges-in-30-days-as-xrp-rebounds-to-0-95",
-    "title": "Almost $5 Billion in XRP Leaves Exchanges in 30 Days as XRP Rebounds to $0.95",
-    "tags": [
-      "XRP",
-      "Binance",
-      "OKX"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T16:15:15.000Z"
-  },
-  {
-    "id": "79aa9bb19fa3ba7f",
-    "slug": "chip-sellers-threaten-to-cut-off-neoclouds-that-rent-nvidia-gpus-to-chinese-firms",
-    "title": "Chip sellers threaten to cut off neoclouds that rent Nvidia GPUs to Chinese firms",
-    "tags": [
-      "Nvidia",
-      "United States",
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T16:13:48.000Z"
-  },
-  {
-    "id": "3d48841690014c92",
-    "slug": "coinshares-makes-the-case-for-compute-as-an-asset-class-with-caveats",
-    "title": "CoinShares makes the case for compute as an asset class, with caveats",
-    "tags": [
-      "CoinShares"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T16:06:01.000Z"
-  },
-  {
-    "id": "ca4ead09618374aa",
-    "slug": "arthur-hayes-denies-accusations-of-misleading-followers-on-trades",
-    "title": "Arthur Hayes denies accusations of misleading followers on trades",
-    "tags": [
-      "Arthur Hayes",
-      "Crypto Briefing"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T16:05:48.000Z"
-  },
-  {
-    "id": "132479f2ab261acd",
-    "slug": "anthropic-prices-record-ipo-as-grand-theft-auto-vi-smashes-entertainment-launch-marks",
-    "title": "Anthropic prices record IPO as Grand Theft Auto VI smashes entertainment launch marks",
-    "tags": [
-      "Anthropic",
-      "Grand Theft Auto VI"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-26T16:04:55.000Z"
   }
 ]
