@@ -3057,5 +3057,98 @@
     "content": "Millions of Britons are turning to AI for judgment-free financial guidance, particularly younger adults seeking quick answers and reassurance. However, wealth management platform Moneybox warns that AI is not a regulated adviser. While AI helps reduce financial anxiety and builds early confidence, experts caution that reassuring answers do not guarantee accuracy, urging users to consult regulated professionals for personalized advice.",
     "content_ta": "பிரிட்டனில் லட்சக்கணக்கான மக்கள் நிதி சார்ந்த சந்தேகங்களுக்கு நியாயத் தீர்ப்பு இல்லாத AI-ஐ நாடுகின்றனர், குறிப்பாக இளைய தலைமுறையினர் விரைவான பதில்களையும் நம்பிக்கையையும் தேடுகின்றனர். இருப்பினும், Moneybox நிறுவனம் AI என்பது ஒழுங்குபடுத்தப்பட்ட ஆலோசகர் அல்ல என்று எச்சரிக்கிறது. AI நிதி கவலையைக் குறைத்து நம்பிக்கையை வளர்க்க உதவினாலும், அதன் பதில்கள் துல்லியமானவை என்று உத்தரவாதம் அளிக்க முடியாது என்பதால், தனிப்பயனாக்கப்பட்ட ஆலோசனைகளுக்கு ஒழுங்குபடுத்தப்பட்ட நிபுணர்களை அணுகுமாறு நிபுணர்கள் அறிவுறுத்துகின்றனர்.",
     "slug": "ai-is-becoming-britain-s-financial-confidant-but-expert-warns-reassured-isn-t-the-same-as-well"
+  },
+  {
+    "id": "83dc5130ee18ccc0",
+    "title": "AI agents can pass every accuracy test and still put your money at risk",
+    "summary": "In ShellBench, 2,589 of 26,151 runs that met every correctness criterion still failed at least one safety requirement.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/ai-agents-can-pass-every-accuracy-test-and-still-put-your-money-at-risk/",
+    "source": "CryptoSlate",
+    "tags": [
+      "ShellBench",
+      "CryptoSlate"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T15:00:07.000Z",
+    "fetchedAt": "2026-11-26T15:01:39.577Z",
+    "isDuplicateOf": null,
+    "content": "Recent research reveals that AI agents passing standard accuracy tests can still pose significant financial risks. In a benchmark evaluation called ShellBench, numerous test runs met all correctness criteria yet failed crucial safety requirements. This highlights potential vulnerabilities in deploying automated financial agents without comprehensive risk controls.",
+    "content_ta": "AI ஏஜெண்டுகள் அனைத்து துல்லியத் தேர்வுகளிலும் வெற்றி பெற்றாலும் கூட நிதி சார்ந்த அபாயங்களை ஏற்படுத்தக்கூடும் என்று சமீபத்திய ஆய்வு காட்டுகிறது. ShellBench மதிப்பீட்டில், பல சோதனைகள் சரியான அளவுகோல்களைப் பூர்த்தி செய்தபோதிலும் முக்கிய பாதுகாப்புத் தேவைகளில் தோல்வியடைந்தன. விரிவான இடர் கட்டுப்பாடுகள் இல்லாமல் தானியங்கி நிதி ஏஜெண்டுகளைப் பயன்படுத்துவதில் உள்ள சாத்தியமான குறைபாடுகளை இது எடுத்துக்காட்டுகிறது.",
+    "slug": "ai-agents-can-pass-every-accuracy-test-and-still-put-your-money-at-risk"
+  },
+  {
+    "id": "b89ea0e588a5865d",
+    "title": "BNB Chain’s New Blockchain Hides Who Is Trading, But Not What They Trade",
+    "summary": "Key takeaways BNB Chain has proposed a new Layer 1 blockchain that allows users to interact with public DeFi applications using funds held in a shielded pool. Private payments conceal the parties, asset and amount, while certain public contract interactions remain visible. The proposed AtomicCall mechanism allows users to execute supported DeFi transactions without publicly […]",
+    "hasSummary": true,
+    "link": "https://bitcoinist.com/bnb-chain-new-blockchain-private-defi/",
+    "source": "Bitcoinist",
+    "tags": [
+      "BNB Chain"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T14:55:42.000Z",
+    "fetchedAt": "2026-11-26T15:01:39.577Z",
+    "isDuplicateOf": null,
+    "content": "BNB Chain has proposed a new Layer 1 blockchain designed to enhance user privacy in decentralized finance. The proposed network allows users to interact with public DeFi applications using funds held in a shielded pool. While private payments conceal the parties involved, assets, and amounts, certain public contract interactions remain visible to maintain transparency.",
+    "content_ta": "BNB Chain ஆனது பரவலாக்கப்பட்ட நிதியில் பயனர் தனியுரிமையை மேம்படுத்தும் வகையில் புதிய Layer 1 பிளாக்செயின் ஒன்றை அறிமுகப்படுத்தியுள்ளது. இந்த முன்மொழியப்பட்ட நெட்வொர்க், பாதுகாக்கப்பட்ட பூல் மூலம் பொது DeFi பயன்பாடுகளுடன் தொடர்பு கொள்ள பயனர்களை அனுமதிக்கிறது. தனிப்பட்ட கட்டணங்கள் சம்பந்தப்பட்ட தரப்பினரையும் தொகையையும் மறைக்கும் அதே வேளையில், சில பொது ஒப்பந்த தொடர்புகள் வெளிப்படைத்தன்மைக்காகத் தொடர்ந்து தெரியும்.",
+    "slug": "bnb-chain-s-new-blockchain-hides-who-is-trading-but-not-what-they-trade"
+  },
+  {
+    "id": "419a6482780804ed",
+    "title": "Altria confirms it is considering an offer for Imperial Brands",
+    "summary": "Altria's potential acquisition of Imperial Brands could reshape the tobacco industry landscape, signaling strategic growth beyond the US.\nThe post Altria confirms it is considering an offer for Imperial Brands appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/altria-deal-imperial-brands-possible-offer-2026-11/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Altria",
+      "Imperial Brands"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T14:58:35.000Z",
+    "fetchedAt": "2026-11-26T15:01:39.577Z",
+    "isDuplicateOf": null,
+    "content": "Tobacco giant Altria has confirmed it is exploring a potential offer for rival company Imperial Brands. This strategic move could significantly reshape the global tobacco industry, as companies look for new avenues of growth and expansion outside of the United States market.",
+    "content_ta": "புகையிலை நிறுவனமான Altria, தனது போட்டியாளரான Imperial Brands நிறுவனத்தை வாங்குவது குறித்து பரிசீலித்து வருவதாக உறுதிப்படுத்தியுள்ளது. அமெரிக்க சந்தைக்கு அப்பால் தங்கள் வளர்ச்சியை விரிவாக்க நிறுவனங்கள் முற்படும் நிலையில், இந்த வியூக நகர்வானது உலகளாவிய புகையிலை சந்தையை கணிசமாக மாற்றியமைக்கக்கூடும்.",
+    "slug": "altria-confirms-it-is-considering-an-offer-for-imperial-brands"
+  },
+  {
+    "id": "cb462fa24dfb5c96",
+    "title": "Injective submits policy letter to SEC advocating for onchain orderbooks",
+    "summary": "Injective's advocacy for onchain orderbooks could pave the way for decentralized finance to gain regulatory acceptance, fostering innovation and growth.\nThe post Injective submits policy letter to SEC advocating for onchain orderbooks appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/injective-sec-letter-onchain-orderbooks/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Injective",
+      "SEC"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T14:54:24.000Z",
+    "fetchedAt": "2026-11-26T15:01:39.577Z",
+    "isDuplicateOf": null,
+    "content": "Injective has submitted a formal policy letter to the SEC advocating for the recognition and integration of onchain orderbooks. This proactive regulatory approach aims to support the growth and acceptance of decentralized finance, potentially encouraging further innovation and clearer guidelines for digital asset platforms operating within the market.",
+    "content_ta": "Injective நிறுவனம் SEC-க்கு ஆன்லைன் ஆர்டர்புக்குகளை (onchain orderbooks) ஆதரித்து ஒரு கொள்கை கடினத்தை சமர்ப்பித்துள்ளது. இந்த ஒழுங்குமுறை முயற்சி பரவலாக்கப்பட்ட நிதித்துறையின் வளர்ச்சியை ஊக்குவிப்பதோடு, டிஜிட்டல் சொத்து தளங்களுக்கு தெளிவான வழிகாட்டுதல்களை உருவாக்க உதவும்.",
+    "slug": "injective-submits-policy-letter-to-sec-advocating-for-onchain-orderbooks"
+  },
+  {
+    "id": "3b69eaf57073274f",
+    "title": "GTA 6 fans targeted by crypto-stealing malware disguised as PC download",
+    "summary": "The GTA 6 malware apparently steals browser passwords, cookies, crypto wallet details, seed phrases, and various Steam and VPN credentials. \nThe post GTA 6 fans targeted by crypto-stealing malware disguised as PC download appeared first on Protos.",
+    "hasSummary": true,
+    "link": "https://protos.com/gta-6-fans-targeted-by-crypto-stealing-malware-disguised-as-pc-download/",
+    "source": "Protos",
+    "tags": [
+      "Grand Theft Auto 6"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-26T14:45:34.000Z",
+    "fetchedAt": "2026-11-26T15:01:39.577Z",
+    "isDuplicateOf": null,
+    "content": "Grand Theft Auto 6 fans are being targeted by a new malware campaign disguised as a PC download for the anticipated game. Security researchers discovered that the malicious software is designed to steal sensitive user information, including browser passwords, cookies, cryptocurrency wallet details, seed phrases, and credentials for services like Steam and VPNs.",
+    "content_ta": "எட்டவரும் GTA 6 கேமின் PC பதிப்பு போல் நடித்து, கிரிப்டோகரன்சியைத் திருடும் மால்வேர் மூலம் ரசிகர்கள் குறிவைக்கப்பட்டுள்ளனர். இந்த மால்வேர் உலாவி பாஸ்வேர்டுகள், குகிகள், கிரிப்டோ வாலட் விவரங்கள், சீட் பிரேஸ்கள் மற்றும் Steam மற்றும் VPN சான்றுகளைத் திருடுவதாக பாதுகாப்பு ஆராய்ச்சியாளர்கள் கண்டறிந்துள்ளனர்.",
+    "slug": "gta-6-fans-targeted-by-crypto-stealing-malware-disguised-as-pc-download"
   }
 ]
