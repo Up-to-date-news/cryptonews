@@ -1,79 +1,215 @@
 [
   {
-    "id": "b93e3d192096091e",
-    "title": "Ethereum: Glamsterdam on the way after devs schedule Hoodi testnet run for December 15",
-    "summary": "Ethereum's Glamsterdam upgrade gets the green light, but can it revive network activity?",
+    "id": "244d2bfea9b15ee4",
+    "slug": "grok-build-1-0-92-targets-headless-agent-reliability-and-remote-workflows",
+    "title": "Grok Build 1.0.92 targets headless agent reliability and remote workflows",
+    "tags": [
+      "Grok"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-27T19:04:04.000Z"
+  },
+  {
+    "id": "b32c0faec9f9c8d2",
+    "slug": "how-coldcard-s-112-million-bitcoin-exploit-slipped-past-15-security-reviews",
+    "title": "How Coldcard’s $112 million Bitcoin exploit slipped past 15 security reviews",
+    "tags": [
+      "Coldcard",
+      "Bitcoin",
+      "Coinkite"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-27T19:00:40.000Z"
+  },
+  {
+    "id": "cc809638a4d68c55",
+    "title": "Bitunix Flags $76,300 as Key Bitcoin Support Amid ETF Outflows",
+    "summary": "Bitunix analysts say leveraged positions and record ETF outflows are compressing Bitcoin toward a critical technical level.\nThe post Bitunix Flags $76,300 as Key Bitcoin Support Amid ETF Outflows appeared first on The Fintech Times.",
     "hasSummary": true,
-    "link": "https://ambcrypto.com/ethereum-glamsterdam-on-the-way-after-devs-schedule-hoodi-testnet-run-for-december-15/",
-    "source": "AMBCrypto",
+    "link": "https://thefintechtimes.com/bitunix-flags-76300-as-key-bitcoin-support-amid-etf-outflows/",
+    "source": "The Fintech Times",
+    "tags": [
+      "Bitunix",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-27T19:00:37.000Z",
+    "fetchedAt": "2026-11-27T19:13:24.577Z",
+    "isDuplicateOf": null,
+    "content": "Bitunix analysts have highlighted $76,300 as a crucial technical support level for Bitcoin. This price compression comes as the cryptocurrency faces pressure from leveraged positions and record exchange-traded fund outflows. Market participants are closely monitoring these developments as Bitcoin navigates this current critical price range.",
+    "content_ta": "Bitcoin-க்கான மிக முக்கிய டெக்னிக்கல் சப்போர்ட் நிலையாக $76,300 விலையை Bitunix ஆய்வாளர்கள் சுட்டிக் காட்டியுள்ளனர். லெவரேஜ் பொசிஷன்கள் மற்றும் ரெக்கார்டு ETF வெளியேற்றங்கள் காரணமாக இந்த விலை அழுத்தம் ஏற்பட்டுள்ளது. இந்த முக்கியமான விலை நிலையை Bitcoin எட்டிவரும் நிலையில் சந்தை வல்லுநர்கள் இதனை உன்னிப்பாக கவனித்து வருகின்றனர்.",
+    "slug": "bitunix-flags-76-300-as-key-bitcoin-support-amid-etf-outflows"
+  },
+  {
+    "id": "5ac5df5802cc9d9c",
+    "slug": "taiwan-expects-13-28-growth-in-2026-its-fastest-pace-since-1978-on-ai-demand",
+    "title": "Taiwan expects 13.28% growth in 2026, its fastest pace since 1978, on AI demand",
+    "tags": [
+      "Taiwan"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-27T18:44:12.000Z"
+  },
+  {
+    "id": "bf3b6c5f78dba2cc",
+    "slug": "liquid-ai-s-d1-3-ultra-ties-bison-31b-for-top-decision-index-score-at-a-lower-cost",
+    "title": "Liquid AI’s d1.3-ultra ties Bison 31B for top decision index score at a lower cost",
+    "tags": [
+      "Liquid AI",
+      "Bison 31B"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-27T18:30:08.000Z"
+  },
+  {
+    "id": "045991c8fb278403",
+    "slug": "uae-taps-nine-tech-firms-to-train-80-000-government-employees-in-agentic-ai",
+    "title": "UAE taps nine tech firms to train 80,000 government employees in agentic AI",
+    "tags": [
+      "UAE"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-27T18:24:16.000Z"
+  },
+  {
+    "id": "432c966800850b68",
+    "slug": "drugmakers-could-pay-ai-labs-1t-annually-for-cures-says-warwick",
+    "title": "Drugmakers could pay AI labs $1T annually for cures, says Warwick",
+    "tags": [
+      "Warwick"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-27T18:23:39.000Z"
+  },
+  {
+    "id": "4ec6172cd8de5bbb",
+    "title": "Ethereum’s Next Move: Is the Bottom In, or Is $1,500 the Last Stop Before a Rebound?",
+    "summary": "Ethereum (ETH) could be edging closer to a market bottom inspite of its recent failed recovery. According to market analyst Crypto with Sarmad, the first scenario that is playing out suggests Ethereum has already bottomed and could consolidate sideways before launching its next recovery. Alternatively, ETH could experience one final drop toward $1,500, find strong […]",
+    "hasSummary": true,
+    "link": "https://zycrypto.com/ethereums-next-move-is-the-bottom-in-or-is-1500-the-last-stop-before-a-rebound/",
+    "source": "ZyCrypto",
+    "tags": [
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-27T18:18:17.000Z",
+    "fetchedAt": "2026-11-27T19:13:24.577Z",
+    "isDuplicateOf": null,
+    "content": "Ethereum is showing mixed signals as analysts debate whether the cryptocurrency has reached a market bottom or faces a further drop. One scenario suggests ETH has already hit its lowest point and may consolidate before recovering. Another possibility points to a potential decline toward $1,500 before a strong rebound takes place.",
+    "content_ta": "Ethereum-ன் த ற்போதைய நிலை சந்தையில் ஒரு திருப்புமுனையை நெருங்குகிறதா அல்லது மேலும் விலை சரியுமா என்பது குறித்து பகுப்பாய்வாளர்கள் விவாதித்து வருகின்றனர். ETH ஏற்கனவே தனது குறைந்தபட்ச புள்ளியை எட்டியிருக்கலாம் மற்றும் மீண்டு வருவதற்கு முன்பு பக்கவாட்டில் ஒருங்கிணைக்கப்படலாம் என்று ஒரு கருத்து கூறுகிறது. மற்றொரு சாத்தியக்கூறு, வலுவான மீட்சிக்கு முன்பு $1,500 வரை விலை குறையக்கூடும் என்பதைக் குறிக்கிறது.",
+    "slug": "ethereum-s-next-move-is-the-bottom-in-or-is-1-500-the-last-stop-before-a-rebound"
+  },
+  {
+    "id": "663cb31d89a04976",
+    "slug": "it-s-just-fud-alphafractal-founder-says-bitcoin-quantum-fears-are-overblown",
+    "title": "‘It’s Just FUD’: Alphafractal Founder Says Bitcoin Quantum Fears Are Overblown",
+    "tags": [
+      "Alphafractal",
+      "Bitcoin",
+      "Joao Wedson"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-27T18:10:57.000Z"
+  },
+  {
+    "id": "7608e8e7e06280c5",
+    "title": "Bitcoin Network Activity Surges Despite Whales Dumping 150K BTC as Price Slump Deepens",
+    "summary": "Bitcoin’s network activity continues to show signs of resilience despite mounting price pressure. According to leading on-chain analytics provider Santiment, Bitcoin is creating about 50,000 new addresses per day, showing accelerating network growth despite the market downturn. Tether’s USDT on Ethereum is also experiencing increased adoption, adding roughly 25,000 new addresses over the past month. […]",
+    "hasSummary": true,
+    "link": "https://zycrypto.com/bitcoin-network-activity-surges-despite-whales-dumping-150k-btc-as-price-slump-deepens/",
+    "source": "ZyCrypto",
+    "tags": [
+      "Bitcoin",
+      "Santiment",
+      "Tether",
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-27T18:09:31.000Z",
+    "fetchedAt": "2026-11-27T19:13:24.577Z",
+    "isDuplicateOf": null,
+    "content": "Bitcoin network activity is showing strong resilience amidst a deepening price slump and heavy selling by large holders. According to analytics from Santiment, Bitcoin is generating approximately 50,000 new addresses daily, indicating steady network growth. Meanwhile, Tether on Ethereum is also seeing increased adoption, adding about 25,000 new addresses over the past month.",
+    "content_ta": "விலை சரிவு மற்றும் பெரிய முதலீட்டாளர்களின் விற்பனை அழுத்தங்களுக்கு மத்தியிலும், Bitcoin நெட்வொர்க் செயல்பாடு தொடர்ந்து வலுவாக உள்ளது. Santiment-ன் தரவுகளின்படி, Bitcoin தினசரி சுமார் 50,000 புதிய முகவரிகளை உருவாக்கி வருகிறது. இதற்கிடையில், Ethereum-ல் இயங்கும் Tether-ம் கடந்த மாதத்தில் சுமார் 25,000 புதிய முகவரிகளைப் பெற்று வளர்ச்சியைக் காட்டி வருகிறது.",
+    "slug": "bitcoin-network-activity-surges-despite-whales-dumping-150k-btc-as-price-slump-deepens"
+  },
+  {
+    "id": "c5382621f7f7c878",
+    "slug": "france-enters-technical-recession-how-bad-is-it-and-is-america-next",
+    "title": "France Enters Technical Recession: How Bad Is It and Is America Next?",
+    "tags": [
+      "France",
+      "United States"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-27T18:03:46.000Z"
+  },
+  {
+    "id": "b93e3d192096091e",
+    "slug": "ethereum-glamsterdam-on-the-way-after-devs-schedule-hoodi-testnet-run-for-december-15",
+    "title": "Ethereum: Glamsterdam on the way after devs schedule Hoodi testnet run for December 15",
     "tags": [
       "Ethereum",
       "Hoodi",
       "Glamsterdam"
     ],
+    "source": "AMBCrypto",
     "origin": "rss",
-    "pubDate": "2026-11-27T18:00:25.000Z",
-    "fetchedAt": "2026-11-27T18:01:25.172Z",
-    "isDuplicateOf": null,
-    "content": "Ethereum developers have scheduled the Hoodi testnet run for December 15, marking a step forward on the way to the Glamsterdam upgrade. This upcoming development has drawn attention as the network looks toward future enhancements. Observers are now watching to see if the network upgrades can help revive broader network activity and engagement across the ecosystem following the announcement.",
-    "content_ta": "Ethereum டெவலப்பர்கள் டிசம்பர் 15 அன்று Hoodi testnet இயக்கத்தை திட்டமிட்டுள்ளனர், இது Glamsterdam மேம்படுத்தலை நோக்கிய ஒரு படியாகும். நெட்வொர்க் எதிர்கால மேம்பாடுகளை நோக்கி நகரும் நிலையில், வரவிருக்கும் இந்த வளர்ச்சி கவனத்தை ஈர்த்துள்ளது. இந்த நெட்வொர்க் மேம்பாடுகள் பரந்த நெட்வொர்க் செயல்பாட்டை மீண்டும் உயிர்ப்பிக்க உதவுமா என்பதை பார்வையாளர்கள் கண்காணித்து வருகின்றனர்.",
-    "slug": "ethereum-glamsterdam-on-the-way-after-devs-schedule-hoodi-testnet-run-for-december-15"
+    "hasContent": true,
+    "pubDate": "2026-11-27T18:00:25.000Z"
   },
   {
     "id": "4c100a818324af1d",
+    "slug": "china-sets-march-2027-rollout-for-blockchain-identity-regulations",
     "title": "China sets March 2027 rollout for blockchain identity regulations",
-    "summary": "China's blockchain identity regulations may enhance state control over digital identities, impacting privacy and global tech standards.\nThe post China sets March 2027 rollout for blockchain identity regulations appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/china-blockchain-identity-rules-march-2027/",
-    "source": "CryptoBriefing",
     "tags": [
       "China"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-27T17:47:38.000Z",
-    "fetchedAt": "2026-11-27T18:01:25.172Z",
-    "isDuplicateOf": null,
-    "content": "China has announced plans to roll out new blockchain identity regulations by March 2027. This move is expected to significantly increase state oversight regarding digital identities. Experts note that these upcoming rules could heavily impact user privacy concerns and potentially influence broader global technology standards in the future.",
-    "content_ta": "சீனா தனது புதிய பிளாக்சைன் அடையாள விதிமுறைகளை மார்ச் 2027-க்குள் அமல்படுத்த திட்டமிட்டுள்ளதாக அறிவித்துள்ளது. இந்த நடவடிக்கை டிஜிட்டல் அடையாளங்கள் மீதான மாநிலத்தின் கண்காணிப்பை கணிசமாக அதிகரிக்கும் என்று எதிர்பார்க்கப்படுகிறது. இந்த புதிய விதிகள் பயனர்களின் தனியுரிமையை பாதிக்கலாம் மற்றும் எதிர்காலத்தில் உலகளாவிய தொழில்நுட்ப தரநிலைகளை தாக்கலாம்.",
-    "slug": "china-sets-march-2027-rollout-for-blockchain-identity-regulations"
+    "hasContent": true,
+    "pubDate": "2026-11-27T17:47:38.000Z"
   },
   {
     "id": "03a6331051dcaa24",
+    "slug": "short-interest-in-anthropic-climbs-ahead-of-december-15-ipo-lockup",
     "title": "Short interest in Anthropic climbs ahead of December 15 IPO lockup",
-    "summary": "Increased short interest in Anthropic signals potential volatility and investor skepticism, impacting market perception and future stock performance.\nThe post Short interest in Anthropic climbs ahead of December 15 IPO lockup appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/anthropic-short-interest-ipo-lockup/",
-    "source": "CryptoBriefing",
     "tags": [
       "Anthropic"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-27T17:47:32.000Z",
-    "fetchedAt": "2026-11-27T18:01:25.172Z",
-    "isDuplicateOf": null,
-    "content": "Short interest in Anthropic has climbed ahead of the December 15 IPO lockup expiration. This increase in short positions signals potential market volatility and rising investor skepticism, which could impact overall market perception and future stock performance as the key date approaches.",
-    "content_ta": "டிசம்பர் 15 IPO லாக்டப் காலாவதியாவதற்கு முன்னதாக Anthropic நிறுவனத்தின் மீதான ஷார்ட் இன்ட்ரெஸ்ட் அதிகரித்துள்ளது. ஷார்ட் பொசிஷன்களின் இந்த உயர்வு சாத்தியமான சந்தை நிலையற்ற தன்மையையும் முதலீட்டாளர்களின் அவநம்பிக்கையையும் குறிக்கிறது, இது எதிர்கால பங்கு செயல்திறனை பாதிக்கலாம்.",
-    "slug": "short-interest-in-anthropic-climbs-ahead-of-december-15-ipo-lockup"
+    "hasContent": true,
+    "pubDate": "2026-11-27T17:47:32.000Z"
   },
   {
     "id": "e332dc5b09e18c9e",
+    "slug": "google-s-lightweight-gemini-matched-two-top-models-on-a-chemistry-test",
     "title": "Google’s lightweight Gemini matched two top models on a chemistry test",
-    "summary": "All three models reached about 97% exact-match accuracy in DeepMind’s test of compounds with public reference spectra when given internet access and the same chemistry tools.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-    "hasSummary": true,
-    "link": "https://cryptoslate.com/googles-lightweight-gemini-matched-two-top-models-on-a-chemistry-test/",
-    "source": "CryptoSlate",
     "tags": [
       "Google",
       "Gemini",
       "DeepMind"
     ],
+    "source": "CryptoSlate",
     "origin": "rss",
-    "pubDate": "2026-11-27T17:40:28.000Z",
-    "fetchedAt": "2026-11-27T18:01:25.172Z",
-    "isDuplicateOf": null,
-    "content": "Google’s lightweight Gemini model successfully matched the performance of two top models in a chemistry test conducted by DeepMind. When provided with internet access and standard chemistry tools, all three models achieved approximately 97 percent exact-match accuracy in testing compounds that had public reference spectra.",
-    "content_ta": "Google-ன் lightweight Gemini மாடல், DeepMind நடத்திய வேதியியல் தேர்வில் மற்ற இரண்டு முன்னணி மாடல்களுக்கு இணையாகச் செயல்பட்டது. இணைய வசதி மற்றும் வேதியியல் கருவிகள் வழங்கப்பட்டபோது, மூன்று மாடல்களும் சுமார் 97 சதவீதம் துல்லியத்தை அடைந்தன.",
-    "slug": "google-s-lightweight-gemini-matched-two-top-models-on-a-chemistry-test"
+    "hasContent": true,
+    "pubDate": "2026-11-27T17:40:28.000Z"
   },
   {
     "id": "84fab50c5d518046",
@@ -674,148 +810,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-27T14:03:21.000Z"
-  },
-  {
-    "id": "2e04a3db0964fe8e",
-    "slug": "standard-chartered-and-f1-academy-launch-financial-skills-initiative-drive-further",
-    "title": "Standard Chartered and F1 ACADEMY™ Launch Financial Skills Initiative ‘Drive Further’",
-    "tags": [
-      "Standard Chartered",
-      "F1 ACADEMY"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T13:59:34.000Z"
-  },
-  {
-    "id": "765fcb2d3cbb5e34",
-    "slug": "crypto-price-analysis-nov-27-eth-xrp-ada-bnb-and-hype",
-    "title": "Crypto Price Analysis Nov-27: ETH, XRP, ADA, BNB, and HYPE",
-    "tags": [
-      "Ethereum",
-      "Ripple",
-      "Cardano",
-      "Binance Coin",
-      "Hyperliquid"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T13:57:54.000Z"
-  },
-  {
-    "id": "fa002901c64c843e",
-    "slug": "bitcoin-price-trades-near-61-300-as-tech-stock-futures-rally",
-    "title": "Bitcoin Price Trades Near $61,300 as Tech Stock Futures Rally",
-    "tags": [
-      "Bitcoin",
-      "Wall Street",
-      "Bitcoin Magazine"
-    ],
-    "source": "Bitcoin Magazine",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T13:57:15.000Z"
-  },
-  {
-    "id": "e0cdd412aed9bf40",
-    "slug": "why-adobe-stock-may-barely-move-despite-its-12-9-billion-black-friday-prediction",
-    "title": "Why Adobe Stock May Barely Move Despite Its $12.9 Billion Black Friday Prediction",
-    "tags": [
-      "Adobe"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T13:52:47.000Z"
-  },
-  {
-    "id": "248beccc2dcd3514",
-    "slug": "retn-warns-ai-boom-is-driving-up-optical-networking-prices-and-delays",
-    "title": "RETN warns AI boom is driving up optical networking prices and delays",
-    "tags": [
-      "RETN"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T13:50:15.000Z"
-  },
-  {
-    "id": "b586b57a3e6ea1ad",
-    "slug": "what-s-on-the-ethereum-roadmap-glamsterdam-hegota-and-beyond",
-    "title": "What's on the Ethereum Roadmap: Glamsterdam, Hegotá and Beyond",
-    "tags": [
-      "Ethereum"
-    ],
-    "source": "Decrypt",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T13:50:04.000Z"
-  },
-  {
-    "id": "259e912b42ea42b5",
-    "slug": "agency-lending-crosses-1-billion-in-enrolled-institutional-assets",
-    "title": "Agency Lending crosses $1 billion in enrolled institutional assets",
-    "tags": [
-      "Agency Lending"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T13:49:10.000Z"
-  },
-  {
-    "id": "7a1961b2a9acfc73",
-    "slug": "applied-materials-shares-fall-17-despite-record-quarterly-earnings",
-    "title": "Applied Materials shares fall 17% despite record quarterly earnings",
-    "tags": [
-      "Applied Materials"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T13:45:03.000Z"
-  },
-  {
-    "id": "0524f6ac354f3ff0",
-    "slug": "binance-to-launch-tokenized-ipo-program-after-regulatory-approval-yi-he",
-    "title": "Binance to launch tokenized IPO program after regulatory approval: Yi He",
-    "tags": [
-      "Binance",
-      "Yi He"
-    ],
-    "source": "Cointelegraph",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T13:44:00.000Z"
-  },
-  {
-    "id": "a7b955ea8ecc1d9a",
-    "slug": "nationwide-building-society-s-1-deposit-mortgage-lowers-barriers-for-first-time-buyers-but-shifts",
-    "title": "Nationwide Building Society’s 1% Deposit Mortgage Lowers Barriers for First-Time Buyers but Shifts More Risk Onto Borrowers, Says GlobalData",
-    "tags": [
-      "Nationwide Building Society",
-      "GlobalData"
-    ],
-    "source": "Financial IT",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T13:43:32.000Z"
-  },
-  {
-    "id": "ac8969096fb03312",
-    "slug": "hedgerx-debuts-on-coinmarketcap-with-ai-trading-and-bitcoin-treasury-plans",
-    "title": "HedgerX Debuts on CoinMarketCap With AI Trading and Bitcoin Treasury Plans",
-    "tags": [
-      "HedgerX",
-      "CoinMarketCap",
-      "Bitcoin"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T13:43:24.000Z"
   }
 ]
