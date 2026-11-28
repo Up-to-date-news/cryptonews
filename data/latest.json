@@ -1,208 +1,331 @@
 [
   {
-    "id": "49fc02fbc6faba72",
-    "title": "ADX Lists First Korean-Focused ETFs in the Gulf Region",
-    "summary": "Abu Dhabi Securities Exchange has dual-listed two Hanwha Asset Management ETFs tracking South Korean defence and manufacturing industries.\nThe post ADX Lists First Korean-Focused ETFs in the Gulf Region appeared first on The Fintech Times.",
+    "id": "2e2d6a4ec715acdb",
+    "slug": "binance-picks-bhutan-s-unfinished-city-over-singapore-and-hong-kong",
+    "title": "Binance Picks Bhutan’s Unfinished City Over Singapore and Hong Kong",
+    "tags": [
+      "Binance",
+      "Bhutan",
+      "Singapore",
+      "Hong Kong"
+    ],
+    "source": "BeInCrypto",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-28T08:35:27.000Z"
+  },
+  {
+    "id": "52668530ced47bd5",
+    "slug": "saudi-oil-shows-why-the-next-opec-production-increase-could-deliver-less-than-markets-expect",
+    "title": "Saudi oil shows why the next OPEC+ production increase could deliver less than markets expect",
+    "tags": [
+      "Saudi Arabia",
+      "OPEC"
+    ],
+    "source": "CryptoSlate",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-28T08:30:05.000Z"
+  },
+  {
+    "id": "017ea8c12db9ef7b",
+    "slug": "biggest-us-bank-failure-in-over-two-years-united-fidelity-shut-down-with-5-9b-in-assets",
+    "title": "Biggest US Bank Failure in Over Two Years: United Fidelity Shut Down With $5.9B in Assets",
+    "tags": [
+      "United Fidelity",
+      "United States"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-28T08:18:42.000Z"
+  },
+  {
+    "id": "61538aeb12cc7623",
+    "slug": "fidelity-s-spot-bitcoin-etf-records-20-8-million-in-net-outflows",
+    "title": "Fidelity’s spot Bitcoin ETF records $20.8 million in net outflows",
+    "tags": [
+      "Fidelity",
+      "Bitcoin"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-28T08:04:51.000Z"
+  },
+  {
+    "id": "48b4d77ad8649da0",
+    "title": "HSBC UK Adds Shares and ETFs to Mobile App and Online Banking",
+    "summary": "HSBC UK has expanded its digital investment offering to include UK-listed shares and ETFs, alongside a £50 incentive for new investment customers.\nThe post HSBC UK Adds Shares and ETFs to Mobile App and Online Banking appeared first on The Fintech Times.",
     "hasSummary": true,
-    "link": "https://thefintechtimes.com/adx-lists-first-korean-focused-etfs-in-the-gulf-region/",
+    "link": "https://thefintechtimes.com/hsbc-uk-adds-shares-and-etfs-to-mobile-app-and-online-banking/",
     "source": "The Fintech Times",
+    "tags": [
+      "HSBC UK"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-28T08:00:23.000Z",
+    "fetchedAt": "2026-11-28T09:01:25.626Z",
+    "isDuplicateOf": null,
+    "content": "HSBC UK has expanded its digital investment platform by adding UK-listed shares and exchange-traded funds to its mobile app and online banking services. To encourage adoption, the bank is offering a financial incentive to new investment customers, further strengthening its digital banking and wealth management offerings for UK consumers.",
+    "content_ta": "HSBC UK தனது மொபைல் ஆப் மற்றும் ஆன்லைன் பேங்கிங் சேரிகளில் UK-ல் பட்டியலிடப்பட்ட பங்குகள் மற்றும் ETF-களை சேர்த்து தனது டிஜிட்டல் முதலீட்டு சேவையை விரிவுபடுத்தியுள்ளது. புதிய முதலீட்டு வாடிக்கையாளர்களை ஈர்க்கும் வகையில் வங்கி சலுகை ஒன்றையும் அறிவித்துள்ளது.",
+    "slug": "hsbc-uk-adds-shares-and-etfs-to-mobile-app-and-online-banking"
+  },
+  {
+    "id": "0a40d19a6c8321ee",
+    "slug": "solana-news-developers-issue-urgent-upgrade-notice-to-mainnet-validators",
+    "title": "Solana News: Developers Issue Urgent Upgrade Notice to Mainnet Validators",
+    "tags": [
+      "Solana",
+      "Anza",
+      "SOL"
+    ],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-28T07:34:40.000Z"
+  },
+  {
+    "id": "6d33589db277e7ab",
+    "slug": "trump-linked-usd1-depegs-amid-wlfi-selloff-and-concerns-over-possible-loan-liquidations",
+    "title": "Trump-linked USD1 depegs amid WLFI selloff and concerns over possible loan liquidations",
+    "tags": [
+      "USD1",
+      "WLFI"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-28T07:28:18.000Z"
+  },
+  {
+    "id": "a1cd5fa5c3781d9e",
+    "slug": "musk-says-google-wants-to-lease-more-compute-capacity-from-spacex",
+    "title": "Musk says Google wants to lease more compute capacity from SpaceX",
+    "tags": [
+      "Google",
+      "SpaceX",
+      "Elon Musk"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-28T07:08:53.000Z"
+  },
+  {
+    "id": "d37c582a9264e634",
+    "slug": "shanghai-data-center-holding-nvidia-s-top-chips-linked-to-alice-huang",
+    "title": "Shanghai data center holding Nvidia’s top chips linked to Alice Huang",
+    "tags": [
+      "Nvidia",
+      "Alice Huang",
+      "United States",
+      "China"
+    ],
+    "source": "CryptoBriefing",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-28T07:01:29.000Z"
+  },
+  {
+    "id": "0aea6bf4c47306ba",
+    "slug": "trump-crypto-news-world-liberty-financial-sells-20-million-in-ethereum-assets-data-shows",
+    "title": "Trump Crypto News: World Liberty Financial Sells $20 Million in Ethereum Assets, Data Shows",
+    "tags": [],
+    "source": "NewsBTC",
+    "origin": "rss",
+    "hasContent": false,
+    "pubDate": "2026-11-28T06:59:27.000Z"
+  },
+  {
+    "id": "dd0c6e2c0aa4d681",
+    "slug": "wlfi-collapses-54-as-world-liberty-s-strategic-reserve-dumps-20m-in-eth",
+    "title": "WLFI Collapses 54% as World Liberty’s ‘Strategic Reserve’ Dumps $20M in ETH",
+    "tags": [
+      "WLFI",
+      "World Liberty",
+      "Ethereum"
+    ],
+    "source": "CryptoPotato",
+    "origin": "rss",
+    "hasContent": true,
+    "pubDate": "2026-11-28T06:53:18.000Z"
+  },
+  {
+    "id": "6aff49d637ed0bf4",
+    "title": "4 Major Events Could Trigger Extreme Volatility Across Global Markets in the Next 2 Weeks",
+    "summary": "The post 4 Major Events Could Trigger Extreme Volatility Across Global Markets in the Next 2 Weeks appeared first on Coinpedia Fintech News\nThe next two weeks could become a major stress test for global markets as tariff threats, a key Federal Reserve meeting, U.S. shutdown risks, and systematic selling converge.  Bitcoin has fallen more than 22% this month, while the S&P 500 is down about 6.7% from its October peak and the Nasdaq-100 nearly 15%. That leaves …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/news/4-major-events-could-trigger-extreme-volatility-across-global-markets-in-the-next-2-weeks/",
+    "source": "Coinpedia",
+    "tags": [
+      "Bitcoin",
+      "Federal Reserve",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-28T06:46:39.000Z",
+    "fetchedAt": "2026-11-28T09:01:25.626Z",
+    "isDuplicateOf": null,
+    "content": "Global markets face a potential stress test over the next two weeks as four major events converge, threatening extreme volatility. Markets are currently under pressure, with Bitcoin, the S&P 500, and the Nasdaq-100 all experiencing significant declines recently amid rising economic and political uncertainties.",
+    "content_ta": "வரும் இரண்டு வாரங்களில் நான்கு முக்கிய நிகழ்வுகள் ஒன்றாக இணைவதால் உலகளாவிய சந்தைகள் கடுமையான ஏற்ற இறக்கங்களைச் சந்திக்கக்கூடும். அமெரிக்காவில் நிலவும் பொருளாதார மற்றும் அரசியல் நிச்சயமற்ற தன்மைகளுக்கு மத்தியில், Bitcoin, S&P 500 மற்றும் Nasdaq-100 உள்ளிட்ட சந்தைகள் சமீபத்தில் குறிப்பிடத்தக்க சரிவைச் சந்தித்துள்ளன.",
+    "slug": "4-major-events-could-trigger-extreme-volatility-across-global-markets-in-the-next-2-weeks"
+  },
+  {
+    "id": "cbbb50894923dcaa",
+    "title": "World Liberty Financial’s WLFI token plunges 59% in 24 hours",
+    "summary": "The WLFI token's sharp decline highlights the volatility and financial instability in DeFi projects, raising concerns about investor confidence.\nThe post World Liberty Financial’s WLFI token plunges 59% in 24 hours appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/world-liberty-financial-wlfi-token-plunges-59-percent/",
+    "source": "CryptoBriefing",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-28T06:21:14.000Z",
+    "fetchedAt": "2026-11-28T09:01:25.626Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "world-liberty-financial-s-wlfi-token-plunges-59-in-24-hours"
+  },
+  {
+    "id": "49fc02fbc6faba72",
+    "slug": "adx-lists-first-korean-focused-etfs-in-the-gulf-region",
+    "title": "ADX Lists First Korean-Focused ETFs in the Gulf Region",
     "tags": [
       "Abu Dhabi Securities Exchange",
       "Hanwha Asset Management",
       "South Korea",
       "Abu Dhabi"
     ],
+    "source": "The Fintech Times",
     "origin": "rss",
-    "pubDate": "2026-11-28T06:00:04.000Z",
-    "fetchedAt": "2026-11-28T06:01:29.727Z",
-    "isDuplicateOf": null,
-    "content": "The Abu Dhabi Securities Exchange has listed the first Korean-focused exchange-traded funds in the Gulf region. Two ETFs managed by Hanwha Asset Management have been dual-listed on the exchange. These funds are designed to track South Korean defence and manufacturing industries, marking a significant step in cross-border financial collaboration and investment expansion between the regions.",
-    "content_ta": "அபுதாபி செக்யூரிட்டீஸ் எக்ஸ்சேஞ்ச் வளைகுடா பகுதியில் முதல்முறையாக கொரியாவை மையமாகக் கொண்ட exchange-traded funds-ஐ பட்டியலிட்டுள்ளது. Hanwha Asset Management நிறுவனத்தால் நிர்வகிக்கப்படும் இரண்டு ETFs இந்த பரிமாற்றத்தில் இருபட்டியலிடப்பட்டுள்ளன. South Korean பாதுகாப்பு மற்றும் உற்பத்தித் துறைகளைக் கண்காணிக்க இந்த நிதிகள் வடிவமைக்கப்பட்டுள்ளன.",
-    "slug": "adx-lists-first-korean-focused-etfs-in-the-gulf-region"
+    "hasContent": true,
+    "pubDate": "2026-11-28T06:00:04.000Z"
   },
   {
     "id": "2dc82c3d9f2087e6",
+    "slug": "binance-blockchain-week-kicks-off-with-live-trading-master-tournament-in-bangkok",
     "title": "Binance Blockchain Week kicks off with live Trading Master Tournament in Bangkok",
-    "summary": "The event highlights the growing intersection of digital finance and traditional markets, emphasizing both opportunities and risks in trading.\nThe post Binance Blockchain Week kicks off with live Trading Master Tournament in Bangkok appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/binance-trading-master-tournament-bangkok/",
-    "source": "CryptoBriefing",
     "tags": [
       "Binance",
       "Bangkok"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-28T05:47:49.000Z",
-    "fetchedAt": "2026-11-28T06:01:29.727Z",
-    "isDuplicateOf": null,
-    "content": "Binance Blockchain Week has officially kicked off in Bangkok, featuring a live Trading Master Tournament. The prominent industry event highlights the growing intersection of digital finance and traditional markets. Discussions during the gathering are expected to emphasize both the emerging opportunities and the inherent risks associated with modern cryptocurrency trading, drawing participants and experts from around the globe.",
-    "content_ta": "Bangkok நகரில் Binance Blockchain Week நிகழ்வு நேரலை Trading Master Tournament-உடன் அதிகாரப்பூர்வமாகத் தொடங்கியது. இந்த முக்கிய நிகழ்வு டிஜிட்டல் நிதி மற்றும் பாரம்பரிய சந்தைகளின் வளர்ந்து வரும் சந்திப்பை எடுத்துக்காட்டுகிறது. நவீன கிரிப்டோகரன்சி வர்த்தகத்தில் உள்ள வாய்ப்புகள் மற்றும் ஆபத்துகள் குறித்து இந்நிகழ்வில் விவாதிக்கப்படுகிறது.",
-    "slug": "binance-blockchain-week-kicks-off-with-live-trading-master-tournament-in-bangkok"
+    "hasContent": true,
+    "pubDate": "2026-11-28T05:47:49.000Z"
   },
   {
     "id": "ba7bacffc357e32e",
+    "slug": "okx-ceo-dismisses-2-billion-hack-rumors-after-friday-night-crypto-panic",
     "title": "OKX CEO Dismisses $2 Billion Hack Rumors After Friday Night Crypto Panic",
-    "summary": "OKX CEO Star Xu dismissed a viral $2 billion hack rumor as fake news. See what the claim and public wallet data show.\nThe post OKX CEO Dismisses $2 Billion Hack Rumors After Friday Night Crypto Panic appeared first on BeInCrypto.",
-    "hasSummary": true,
-    "link": "https://beincrypto.com/okx-ceo-denies-2-billion-hack-rumor/",
-    "source": "BeInCrypto",
     "tags": [
       "OKX",
       "Star Xu"
     ],
+    "source": "BeInCrypto",
     "origin": "rss",
-    "pubDate": "2026-11-28T05:31:31.000Z",
-    "fetchedAt": "2026-11-28T06:01:29.727Z",
-    "isDuplicateOf": null,
-    "content": "OKX CEO Star Xu has publicly dismissed viral rumors of a massive $2 billion hack following a sudden crypto market panic on Friday night. The executive clarified that the claims circulating online are entirely false. Public wallet data and official statements addressed the situation to reassure users and calm concerns across the digital asset community.",
-    "content_ta": "OKX CEO Star Xu, வெள்ளிக்கிழமை இரவு கிரிப்டோ சந்தையில் ஏற்பட்ட பீதியை தொடர்ந்து பரவிய $2 பில்லியன் ஹேக் வதந்திகளைப் பொதுவெளியில் மறுத்துள்ளார். ஆன்லைனில் பரவி வரும் தகவல்கள் முற்றிலும் பொய்யானவை என்று அவர் விளக்கமளித்தார். டிஜிட்டல் சொத்து சமூகத்தினருக்கு உறுதியளிக்கவும் கவலைகளைத் தணிக்கவும் பொது வாலட் தரவுகள் மற்றும் அதிகாரப்பூர்வ அறிக்கைகள் வெளியிடப்பட்டன.",
-    "slug": "okx-ceo-dismisses-2-billion-hack-rumors-after-friday-night-crypto-panic"
+    "hasContent": true,
+    "pubDate": "2026-11-28T05:31:31.000Z"
   },
   {
     "id": "c7cacf8fc896b8f9",
+    "slug": "south-korea-s-lee-vows-to-push-ahead-in-global-ai-race-at-data-centre-launch",
     "title": "South Korea’s Lee vows to push ahead in global AI race at data centre launch",
-    "summary": "South Korea's aggressive AI investment strategy could reshape global tech dynamics, fostering regional economic growth and innovation leadership.\nThe post South Korea’s Lee vows to push ahead in global AI race at data centre launch appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/south-korea-lee-ai-race-data-centre/",
-    "source": "CryptoBriefing",
     "tags": [
       "South Korea",
       "Lee"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-28T05:07:27.000Z",
-    "fetchedAt": "2026-11-28T06:01:29.727Z",
-    "isDuplicateOf": null,
-    "content": "South Korea’s Lee has pledged to accelerate the country's efforts in the global artificial intelligence race during a recent data centre launch. This move highlights a strong strategic focus on advanced technology, aiming to strengthen regional economic growth and secure a leading position in worldwide innovation.",
-    "content_ta": "தென் கொரியாவின் Lee, சமீபத்திய டேட்டா சென்டர் தொடக்க விழாவில், உலகளாவிய AI பந்தயத்தில் நாட்டின் முயற்சிகளை துரிதப்படுத்துவதாக உறுதியளித்துள்ளார். இந்த நடவடிக்கை மேம்பட்ட தொழில்நுட்பத்தின் மீது வலுவான மூலோபாய கவனத்தை எடுத்துக்காட்டுகிறது, இது பிராந்திய பொருளாதார வளர்ச்சியை பலப்படுத்துவதையும் உலகளாவிய புதுமை கண்டுபிடிப்புகளில் முன்னணி இடத்தைப் பெறுவதையும் நோக்கமாகக் கொண்டுள்ளது.",
-    "slug": "south-korea-s-lee-vows-to-push-ahead-in-global-ai-race-at-data-centre-launch"
+    "hasContent": true,
+    "pubDate": "2026-11-28T05:07:27.000Z"
   },
   {
     "id": "02be5c1c2bcfbc51",
+    "slug": "binance-secures-in-principle-approval-for-regulated-operations-and-asia-hub-in-bhutan",
     "title": "Binance secures in-principle approval for regulated operations and Asia hub in Bhutan",
-    "summary": "Binance's approval in Bhutan could catalyze the region's digital asset market, influencing regulatory frameworks and attracting global exchanges.\nThe post Binance secures in-principle approval for regulated operations and Asia hub in Bhutan appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/binance-in-principle-approval-bhutan-asia-hub/",
-    "source": "CryptoBriefing",
     "tags": [
       "Binance",
       "Bhutan"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-28T05:03:19.000Z",
-    "fetchedAt": "2026-11-28T06:01:29.727Z",
-    "isDuplicateOf": null,
-    "content": "Binance has secured in-principle approval to establish regulated operations and an Asia hub in Bhutan. This strategic development is expected to significantly boost the regional digital asset market, shape local regulatory frameworks, and attract increased interest from global cryptocurrency exchanges looking to expand their presence in South Asia.",
-    "content_ta": "Bhutan-ல் ஒழுங்குபடுத்தப்பட்ட செயல்பாடுகள் மற்றும் Asia hub-ஐ உருவாக்குவதற்கான in-principle approval-ஐ Binance பெற்றுள்ளது. இந்த உத்தேச வளர்ச்சி இப்பகுதியின் digital asset market-ஐ கணிசமாக உயர்த்தும் என்றும், உள்ளூர் ஒழுங்குமுறை கட்டமைப்புகளை வடிவமைக்கும் என்றும், தெற்காசியாவில் தங்கள் இருப்பை விரிவுபடுத்த விரும்பும் global cryptocurrency exchanges-ஐ ஈர்க்கும் என்றும் எதிர்பார்க்கப்படுகிறது.",
-    "slug": "binance-secures-in-principle-approval-for-regulated-operations-and-asia-hub-in-bhutan"
+    "hasContent": true,
+    "pubDate": "2026-11-28T05:03:19.000Z"
   },
   {
     "id": "d2befe58de6d3117",
+    "slug": "this-trader-just-told-xrp-holders-to-stop-trusting-chart-only-bears",
     "title": "This Trader Just Told XRP Holders to Stop Trusting Chart-Only Bears",
-    "summary": "The trader recalls claims that XRP would never regain $1 after the SEC sued Ripple in 2020, only for the token to set a fresh price record.",
-    "hasSummary": true,
-    "link": "https://cryptopotato.com/this-trader-just-told-xrp-holders-to-stop-trusting-chart-only-bears/",
-    "source": "CryptoPotato",
     "tags": [
       "XRP",
       "Ripple",
       "SEC"
     ],
+    "source": "CryptoPotato",
     "origin": "rss",
-    "pubDate": "2026-11-28T04:50:35.000Z",
-    "fetchedAt": "2026-11-28T06:01:29.727Z",
-    "isDuplicateOf": null,
-    "content": "A prominent trader has advised XRP holders to remain cautious of analysts relying exclusively on charts. Highlighting past market skepticism, the trader recalled predictions that XRP would never recover following the SEC lawsuit against Ripple in 2020. Despite those pessimistic forecasts, the digital asset ultimately rebounded and achieved a new price record, proving that chart-only predictions can miss the broader market reality.",
-    "content_ta": "சார்ட் அடிப்படையிலான கணிப்புகளை மட்டுமே நம்பும் கரடிச் சந்தை ஆய்வாளர்களை முழுமையாக நம்ப வேண்டாம் என டிரேடர் ஒருவர் XRP முதலீட்டாளர்களுக்கு அறிவுறுத்தியுள்ளார். 2020 ஆம் ஆண்டில் SEC நிறுவனம் Ripple மீது வழக்குத் தொடர்ந்தபோது, XRP மீண்டும் $1 விலையை எட்ட முடியாது என்ற கணிப்புகளை அவர் சுட்டிக்காட்டினார். அந்த எதிர்மறையான கணிப்புகளை மீறி, இந்த டோக்கன் புதிய விலை சாதனையைப் படைத்தது குறிப்பிடத்தக்கது.",
-    "slug": "this-trader-just-told-xrp-holders-to-stop-trusting-chart-only-bears"
+    "hasContent": true,
+    "pubDate": "2026-11-28T04:50:35.000Z"
   },
   {
     "id": "c4cb7a08dc6c153e",
+    "slug": "bnb-chain-s-new-blockchain-could-make-the-same-pancakeswap-trade-27-more-expensive",
     "title": "BNB Chain’s new blockchain could make the same PancakeSwap trade 27% more expensive",
-    "summary": "One PancakeSwap trade would have paid about 27% more in network fees under the devnet rule at the same gas price.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-    "hasSummary": true,
-    "link": "https://cryptoslate.com/bnb-chains-new-blockchain-could-make-the-same-pancakeswap-trade-27-more-expensive/",
-    "source": "CryptoSlate",
     "tags": [],
+    "source": "CryptoSlate",
     "origin": "rss",
-    "pubDate": "2026-11-28T04:50:27.000Z",
-    "fetchedAt": "2026-11-28T06:01:29.727Z",
-    "isDuplicateOf": null,
-    "content": null,
-    "slug": "bnb-chain-s-new-blockchain-could-make-the-same-pancakeswap-trade-27-more-expensive"
+    "hasContent": false,
+    "pubDate": "2026-11-28T04:50:27.000Z"
   },
   {
     "id": "8536d1eacce1c97e",
+    "slug": "anthropic-employee-pushes-back-on-claims-claude-sabotages-ml-research",
     "title": "Anthropic employee pushes back on claims Claude sabotages ML research",
-    "summary": "The controversy highlights the critical need for transparency and clarity in AI model behavior to maintain trust and efficiency in research.\nThe post Anthropic employee pushes back on claims Claude sabotages ML research appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/anthropic-claude-fable-5-sabotage-claims/",
-    "source": "CryptoBriefing",
     "tags": [
       "Anthropic",
       "Claude"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-28T04:40:39.000Z",
-    "fetchedAt": "2026-11-28T06:01:29.727Z",
-    "isDuplicateOf": null,
-    "content": "An employee at Anthropic has publicly addressed and pushed back against claims that the Claude AI model sabotages machine learning research. This controversy highlights the critical need for transparency and clarity in AI model behavior to maintain trust and efficiency within the research community as artificial intelligence continues to advance rapidly.",
-    "content_ta": "Anthropic நிறுவனத்தின் ஊழியர் ஒருவர், Claude AI மாதிரி இயந்திர கற்றல் ஆராய்ச்சியை சீர்குலைப்பதாகக் கூறப்படும் குற்றச்சாட்டுகளுக்கு எதிராக பகிரங்கமாக கருத்து தெரிவித்துள்ளார். AI துறையில் தொடர்ந்து நம்பிக்கையையும் செயல்திறனையும் பராமரிக்க மாதிரி நடவடிக்கைகளில் வெளிப்படைத்தன்மை அவசியமாகிறது என்பதை இந்த சர்ச்சை வெளிப்படுத்துகிறது.",
-    "slug": "anthropic-employee-pushes-back-on-claims-claude-sabotages-ml-research"
+    "hasContent": true,
+    "pubDate": "2026-11-28T04:40:39.000Z"
   },
   {
     "id": "9fa4c2b7edf9a1a1",
+    "slug": "binance-blockchain-week-panel-weighs-who-sets-the-rules-for-new-financial-hubs",
     "title": "Binance Blockchain Week panel weighs who sets the rules for new financial hubs",
-    "summary": "Emerging financial hubs leveraging blockchain could disrupt traditional power centers, fostering economic growth and inclusivity globally.\nThe post Binance Blockchain Week panel weighs who sets the rules for new financial hubs appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/binance-blockchain-week-new-financial-hubs/",
-    "source": "CryptoBriefing",
     "tags": [],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-28T04:35:23.000Z",
-    "fetchedAt": "2026-11-28T06:01:29.727Z",
-    "isDuplicateOf": null,
-    "content": null,
-    "slug": "binance-blockchain-week-panel-weighs-who-sets-the-rules-for-new-financial-hubs"
+    "hasContent": false,
+    "pubDate": "2026-11-28T04:35:23.000Z"
   },
   {
     "id": "8aa717ef0363a724",
+    "slug": "bitcoin-recovery-needs-usdt-supply-growth-cryptoquant-k33-weighs-ai-threat-to-bitcoin-and-more",
     "title": "Bitcoin recovery needs USDT supply growth: CryptoQuant, K33 weighs AI threat to Bitcoin, and more",
-    "summary": "In today's newsletter, CryptoQuant says bitcoin price recovery needs USDT supply growth; K33 assesses AI's growing threat to Bitcoin security; and more.",
-    "hasSummary": true,
-    "link": "https://www.theblock.co/newsletters/the-daily/2026-11-27-bitcoin-recovery-usdt-supply-ai-threat-bitcoin-more-crypto-news-447571",
-    "source": "The Block",
     "tags": [
       "Bitcoin",
       "USDT",
       "CryptoQuant",
       "K33"
     ],
+    "source": "The Block",
     "origin": "rss",
-    "pubDate": "2026-11-28T04:11:00.000Z",
-    "fetchedAt": "2026-11-28T06:01:29.727Z",
-    "isDuplicateOf": null,
-    "content": "A recent industry report by CryptoQuant indicates that a strong Bitcoin price recovery requires growth in the USDT supply. Meanwhile, research firm K33 has evaluated the potential long-term security threats that artificial intelligence poses to Bitcoin. These developments highlight the evolving market dynamics and technical challenges currently facing the cryptocurrency ecosystem.",
-    "content_ta": "CryptoQuant வெளியிட்டுள்ள அறிக்கையின்படி, Bitcoin விலை மீண்டும் உயர USDT சப்ளை வளர்ச்சி அவசியமாகிறது. இதற்கிடையில், Bitcoin பாதுகாப்பிற்கு AI அச்சுறுத்தலாக மாறுவது குறித்து K33 ஆய்வு செய்துள்ளது. இந்தத் தகவல்கள் கிரிப்டோகரன்சி சந்தையின் தற்போதைய சவால்களை வெளிப்படுத்துகின்றன.",
-    "slug": "bitcoin-recovery-needs-usdt-supply-growth-cryptoquant-k33-weighs-ai-threat-to-bitcoin-and-more"
+    "hasContent": true,
+    "pubDate": "2026-11-28T04:11:00.000Z"
   },
   {
     "id": "0bf4f3a5d5b6804b",
+    "slug": "citi-s-devin-rollout-could-save-the-bank-about-1-5-billion-in-2026",
     "title": "Citi’s Devin rollout could save the bank about $1.5 billion in 2026",
-    "summary": "Citi's AI-driven cost savings could reshape banking operations, pressuring competitors to innovate and potentially altering vendor dynamics.\nThe post Citi’s Devin rollout could save the bank about $1.5 billion in 2026 appeared first on Crypto Briefing.",
-    "hasSummary": true,
-    "link": "https://cryptobriefing.com/citi-devin-ai-15-billion-savings/",
-    "source": "CryptoBriefing",
     "tags": [
       "Citi"
     ],
+    "source": "CryptoBriefing",
     "origin": "rss",
-    "pubDate": "2026-11-28T04:10:56.000Z",
-    "fetchedAt": "2026-11-28T06:01:29.727Z",
-    "isDuplicateOf": null,
-    "content": "Citigroup's potential rollout of the AI tool Devin could save the bank approximately $1.5 billion by 2026. This artificial intelligence integration is expected to reshape traditional banking operations, driving increased efficiency and potentially creating competitive pressure across the financial sector to adopt similar technological innovations.",
-    "content_ta": "Citi-ன் Devin AI கருவியின் சாத்தியமான பயன்பாடு 2026-க்குள் வங்கிக்கு சுமார் $1.5 பில்லியன் வரை சேமிக்கக்கூடும். இந்த செயற்கை நுண்ணறிவு ஒருங்கிணைப்பு வங்கி நடவடிக்கைகளை மாற்றி அமைக்கும் என்றும், தொழில்நுட்ப புதுமைகளை ஏற்க மற்ற நிறுவனங்களுக்கு அழுத்தம் தரும் என்றும் எதிர்பார்க்கப்படுகிறது.",
-    "slug": "citi-s-devin-rollout-could-save-the-bank-about-1-5-billion-in-2026"
+    "hasContent": true,
+    "pubDate": "2026-11-28T04:10:56.000Z"
   },
   {
     "id": "71047a06d912001c",
@@ -674,179 +797,5 @@
     "origin": "rss",
     "hasContent": true,
     "pubDate": "2026-11-27T18:18:17.000Z"
-  },
-  {
-    "id": "663cb31d89a04976",
-    "slug": "it-s-just-fud-alphafractal-founder-says-bitcoin-quantum-fears-are-overblown",
-    "title": "‘It’s Just FUD’: Alphafractal Founder Says Bitcoin Quantum Fears Are Overblown",
-    "tags": [
-      "Alphafractal",
-      "Bitcoin",
-      "Joao Wedson"
-    ],
-    "source": "CryptoPotato",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T18:10:57.000Z"
-  },
-  {
-    "id": "7608e8e7e06280c5",
-    "slug": "bitcoin-network-activity-surges-despite-whales-dumping-150k-btc-as-price-slump-deepens",
-    "title": "Bitcoin Network Activity Surges Despite Whales Dumping 150K BTC as Price Slump Deepens",
-    "tags": [
-      "Bitcoin",
-      "Santiment",
-      "Tether",
-      "Ethereum"
-    ],
-    "source": "ZyCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T18:09:31.000Z"
-  },
-  {
-    "id": "c5382621f7f7c878",
-    "slug": "france-enters-technical-recession-how-bad-is-it-and-is-america-next",
-    "title": "France Enters Technical Recession: How Bad Is It and Is America Next?",
-    "tags": [
-      "France",
-      "United States"
-    ],
-    "source": "BeInCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T18:03:46.000Z"
-  },
-  {
-    "id": "b93e3d192096091e",
-    "slug": "ethereum-glamsterdam-on-the-way-after-devs-schedule-hoodi-testnet-run-for-december-15",
-    "title": "Ethereum: Glamsterdam on the way after devs schedule Hoodi testnet run for December 15",
-    "tags": [
-      "Ethereum",
-      "Hoodi",
-      "Glamsterdam"
-    ],
-    "source": "AMBCrypto",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T18:00:25.000Z"
-  },
-  {
-    "id": "4c100a818324af1d",
-    "slug": "china-sets-march-2027-rollout-for-blockchain-identity-regulations",
-    "title": "China sets March 2027 rollout for blockchain identity regulations",
-    "tags": [
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T17:47:38.000Z"
-  },
-  {
-    "id": "03a6331051dcaa24",
-    "slug": "short-interest-in-anthropic-climbs-ahead-of-december-15-ipo-lockup",
-    "title": "Short interest in Anthropic climbs ahead of December 15 IPO lockup",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T17:47:32.000Z"
-  },
-  {
-    "id": "e332dc5b09e18c9e",
-    "slug": "google-s-lightweight-gemini-matched-two-top-models-on-a-chemistry-test",
-    "title": "Google’s lightweight Gemini matched two top models on a chemistry test",
-    "tags": [
-      "Google",
-      "Gemini",
-      "DeepMind"
-    ],
-    "source": "CryptoSlate",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T17:40:28.000Z"
-  },
-  {
-    "id": "84fab50c5d518046",
-    "slug": "amd-rises-3-but-still-sits-30-below-its-november-high",
-    "title": "AMD rises 3% but still sits 30% below its November high",
-    "tags": [
-      "AMD"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T17:27:07.000Z"
-  },
-  {
-    "id": "fa26e764ab9d51b0",
-    "slug": "canada-fdi-hits-two-year-high-boosted-by-energy-and-mining-sectors",
-    "title": "Canada FDI hits two-year high, boosted by energy and mining sectors",
-    "tags": [
-      "Canada",
-      "Bank of Canada"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T17:17:54.000Z"
-  },
-  {
-    "id": "77691bbda0a6df64",
-    "slug": "congress-takes-aim-at-asml-s-china-service-engineers-as-chip-war-heats-up",
-    "title": "Congress takes aim at ASML’s China service engineers as chip war heats up",
-    "tags": [
-      "ASML",
-      "United States",
-      "China"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T17:12:05.000Z"
-  },
-  {
-    "id": "ea23e5a5de40ebfd",
-    "slug": "hackers-breach-us-air-force-s-cloud-one-platform-disrupting-operations",
-    "title": "Hackers breach US Air Force’s Cloud One platform, disrupting operations",
-    "tags": [
-      "US Air Force",
-      "Cloud One",
-      "United States"
-    ],
-    "source": "CryptoBriefing",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T17:10:49.000Z"
-  },
-  {
-    "id": "6ca18c142afed170",
-    "slug": "for-the-first-time-in-xrpl-history-xrp-could-unlock-native-lending-in-13-days",
-    "title": "For the First Time in XRPL History, XRP Could Unlock Native Lending in 13 Days",
-    "tags": [
-      "XRP",
-      "XRPL"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T17:06:15.000Z"
-  },
-  {
-    "id": "77854be6c6b22ef5",
-    "slug": "bitcoin-developer-warns-google-play-policy-could-lead-to-home-invasions",
-    "title": "Bitcoin Developer Warns Google Play Policy Could Lead to Home Invasions",
-    "tags": [
-      "Bitcoin",
-      "Google",
-      "Peter Todd"
-    ],
-    "source": "U.Today",
-    "origin": "rss",
-    "hasContent": true,
-    "pubDate": "2026-11-27T16:57:31.000Z"
   }
 ]

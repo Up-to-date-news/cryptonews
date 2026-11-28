@@ -511,5 +511,251 @@
     "content": "The Abu Dhabi Securities Exchange has listed the first Korean-focused exchange-traded funds in the Gulf region. Two ETFs managed by Hanwha Asset Management have been dual-listed on the exchange. These funds are designed to track South Korean defence and manufacturing industries, marking a significant step in cross-border financial collaboration and investment expansion between the regions.",
     "content_ta": "அபுதாபி செக்யூரிட்டீஸ் எக்ஸ்சேஞ்ச் வளைகுடா பகுதியில் முதல்முறையாக கொரியாவை மையமாகக் கொண்ட exchange-traded funds-ஐ பட்டியலிட்டுள்ளது. Hanwha Asset Management நிறுவனத்தால் நிர்வகிக்கப்படும் இரண்டு ETFs இந்த பரிமாற்றத்தில் இருபட்டியலிடப்பட்டுள்ளன. South Korean பாதுகாப்பு மற்றும் உற்பத்தித் துறைகளைக் கண்காணிக்க இந்த நிதிகள் வடிவமைக்கப்பட்டுள்ளன.",
     "slug": "adx-lists-first-korean-focused-etfs-in-the-gulf-region"
+  },
+  {
+    "id": "52668530ced47bd5",
+    "title": "Saudi oil shows why the next OPEC+ production increase could deliver less than markets expect",
+    "summary": "Saudi Arabia can send oil from its eastern fields to an overseas customer without putting a tanker through the Strait of Hormuz, the narrow passage connecting the Persian Gulf to the open sea. The crude travels by pipeline across the country to Yanbu, a port on the Red Sea, where a ship collects it. Kuwait,…\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "hasSummary": true,
+    "link": "https://cryptoslate.com/saudi-oil-hormuz-bypass-kuwait-opec-quotas/",
+    "source": "CryptoSlate",
+    "tags": [
+      "Saudi Arabia",
+      "OPEC"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-28T08:30:05.000Z",
+    "fetchedAt": "2026-11-28T09:01:25.626Z",
+    "isDuplicateOf": null,
+    "content": "Saudi Arabia possesses strategic pipeline infrastructure connecting its eastern oil fields directly to Yanbu on the Red Sea. This allows the country to bypass the Strait of Hormuz for transporting crude to overseas customers. As OPEC+ considers upcoming production increases, analysts suggest the actual market impact could be lower than anticipated due to these complex logistical routing capabilities and regional operational dynamics.",
+    "content_ta": "சவுதி அரேபியா தனது கிழக்கு எண்ணெய் கிணறுகளில் இருந்து செங்கடலில் உள்ள Yanbu பகுதிக்கு நேரடியாக குழாய் வழி போக்குவரத்து மூலம் எண்ணெயை அனுப்பும் உள்கட்டமைப்பைக் கொண்டுள்ளது. இதன் மூலம் பாரசீக வளைகுடாவை இணைக்கும் Hormuz நீரிணையைத் தவிர்த்து வெளிநாட்டு வாடிக்கையாளர்களுக்கு கச்சா எண்ணெயை வழங்க முடிகிறது. OPEC+ உற்பத்தியை அதிகரிக்கத் திட்டமிட்டுள்ள நிலையில், இந்த தளவாடக் கட்டமைப்புகளால் சந்தையில் ஏற்படும் தாக்கம் குறைவாக இருக்கக்கூடும் என கூறப்படுகிறது.",
+    "slug": "saudi-oil-shows-why-the-next-opec-production-increase-could-deliver-less-than-markets-expect"
+  },
+  {
+    "id": "0a40d19a6c8321ee",
+    "title": "Solana News: Developers Issue Urgent Upgrade Notice to Mainnet Validators",
+    "summary": "Key takeaways Anza told Solana mainnet operators, staked and unstaked, to install Agave validator client v4.4.2 immediately. The developers said the network was continuing to operate normally; the release does not by itself indicate an outage, exploit or attack. The exact technical issue behind the urgent release has not been fully established. Validator directory data shows mixed software versions, but no verified breakdown of v4.4.2 adoption is available yet. The notice is aimed at node operators, not wallet holders, and does not by itself require SOL users to take any action. Solana developers have issued an urgent instruction to network operators, asking them to install the latest version of the Agave validator client without delay. The announcement from Anza, the development team responsible for maintaining Agave, applies to both staked and unstaked nodes running the affected software. The developers also indicated that the network was continuing to operate normally. The announcement follows a series of Solana validator software improvements introduced earlier this month, including further development of Agave and Firedancer. An urgent software update does not necessarily mean that a blockchain is experiencing an outage. In Solana’s case, the more interesting question is how quickly its distributed network of operators can respond when developers identify a problem that cannot wait for a routine upgrade. What Is Behind Solana’s Urgent Upgrade? Anza directed operators to install version 4.4.2 of its validator software, telling them in its announcement: “ Don’t wait, upgrade now. Anza · Agave v4.4.2 upgrade notice The release is documented in Anza’s official GitHub repository, while compatible builds have also reportedly been made available by Jito-Solana and Harmonic. Agave is one of the software implementations responsible for processing transactions and participating in Solana’s consensus mechanism. Validators running it help determine which transactions become part of the blockchain. Unlike updating an application on a phone, updating validator software involves coordinating machines operated by independent organizations around the world. Developers can release a new version, but the operators themselves must deploy it. Network monitoring data from Validator Info shows that both Agave 4.4.2 and Jito 4.4.2-jito have been released, while Firedancer’s latest listed version is 26.11.1. The availability of these releases does not, however, establish how many validators have installed them. That makes the speed of adoption almost as interesting as the release itself. A check of the Solana validator directory shows operators reporting different software versions, including Agave-derived implementations. However, a complete and independently verified breakdown of the latest upgrade’s adoption was not yet available. The precise technical issue behind Anza’s urgent instruction remains to be fully established. Describing the release as a response to an exploit or an active network attack would therefore be premature. Solana’s Recent Upgrades Face a Different Kind of Test The announcement comes just weeks after Solana introduced significant changes to its underlying infrastructure. As NewsBTC previously reported, the Solana Foundation introduced protocol version 1.0 in November and moved away from describing the network as mainnet beta. The distinction between the protocol version and the validator software version is important. Solana can establish a common set of network rules while individual software implementations continue to receive updates and fixes. The network has also been pursuing faster transaction processing and shorter confirmation times through its Alpenglow consensus architecture. Those improvements are valuable, but faster transactions are only useful if the infrastructure processing them remains dependable. What Does the Upgrade Mean for SOL Holders? For ordinary users, Anza’s instruction is aimed at node operators rather than wallet holders. The announcement does not, by itself, establish a need for users to move their SOL or change how they interact with the network. At the time of the dashboard snapshot, Solana had 655 active validators and five listed as delinquent. Approximately 423.44 million SOL was actively staked, representing 99.97% of the reported total stake. The figures offer a snapshot of network participation while operators are being asked to update their software, although they do not independently confirm the success of the upgrade. The next meaningful development will be evidence that operators have installed the new release and that transaction processing remains stable throughout the rollout. Solana has spent considerable time demonstrating how fast its network can become. This weekend’s upgrade offers another opportunity to assess something equally important: how well its infrastructure responds when speed is required outside of normal transaction processing.",
+    "hasSummary": true,
+    "link": "https://www.newsbtc.com/altcoin-news/solana-news-urgent-validator-upgrade/",
+    "source": "NewsBTC",
+    "tags": [
+      "Solana",
+      "Anza",
+      "SOL"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-28T07:34:40.000Z",
+    "fetchedAt": "2026-11-28T09:01:25.626Z",
+    "isDuplicateOf": null,
+    "content": "Solana developers have issued an urgent upgrade notice to mainnet validators, instructing node operators to install the Agave validator client version 4.4.2 immediately. The network continues to operate normally, and developers clarified that the release does not necessarily indicate an outage or attack. The exact technical issue has not been fully established, and regular SOL holders are not required to take any action.",
+    "content_ta": "Solana டெவலப்பர்கள் மெயின்நெட் வேலிடேட்டர்களுக்கு ஒரு அவசர மேம்படுத்தல் அறிவிப்பை வெளியிட்டுள்ளனர், Agave வேலிடேட்டர் கிளைன்ட் பதிப்பு 4.4.2-ஐ உடனடியாக நிறுவுமாறு நோடு ஆபரேட்டர்களை அறிவுறுத்தியுள்ளனர். நெட்வொர்க் சாதாரணமாக இயங்கி வருகிறது, மேலும் இந்த வெளியீடு அவுட்டேஜ் அல்லது தாக்குதலைக் குறிக்கவில்லை என்று டெவலப்பர்கள் தெளிவுபடுத்தினர். துல்லியமான தொழில்நுட்ப சிக்கல் முழுமையாக கண்டறியப்படவில்லை, மேலும் வழக்கமான SOL வைத்திருப்பவர்கள் எந்த நடவடிக்கையும் எடுக்கத் தேவையில்லை.",
+    "slug": "solana-news-developers-issue-urgent-upgrade-notice-to-mainnet-validators"
+  },
+  {
+    "id": "0aea6bf4c47306ba",
+    "title": "Trump Crypto News: World Liberty Financial Sells $20 Million in Ethereum Assets, Data Shows",
+    "summary": "Key takeaways A wallet linked to World Liberty Financial sold 10,600 WETH and 1,378 mETH for about $20.06 million. Proceeds went into about $17.58 million USDC and $2.48 million USD1, the project’s own stablecoin. On-chain analyst Ember estimates a cost of $3,244 per ETH against a disposal value near $1,655, implying a loss of about $19.26 million. The loss is an on-chain estimate, not an audited figure, and the sale covers one wallet rather than the project’s full holdings. The move reverses earlier Ethereum buying, and there is no verified evidence that Donald Trump personally directed the trades. Trump-backed crypto project World Liberty Financial has reportedly reduced its Ethereum exposure by approximately $20 million, converting two large holdings into dollar-pegged stablecoins during the latest cryptocurrency market downturn. Blockchain monitoring platform Lookonchain reported that a wallet associated with the project sold 10,600 ETH and 1,378 mETH, receiving approximately $20.06 million. Separate estimates from on-chain analyst Ember suggest the assets may have been sold at a loss of more than $19 million. The transactions come just weeks after World Liberty Financial announced a WLFI token buyback program, which could be partly funded by income generated from its USD1 stablecoin reserves. The Ethereum sales represent a notable reversal for a project that previously accumulated the cryptocurrency during periods of market weakness. Where the money went, however, deserves just as much attention as what was sold. World Liberty Financial Moves Into Stablecoins The reported transactions involved approximately $17.58 million in USDC and another $2.48 million in USD1, World Liberty Financial’s own dollar-pegged stablecoin. Transaction records from Arkham show a series of transfers between World Liberty Financial’s labeled Strategic Reserve wallet and CoW Protocol, involving outgoing mETH and incoming USD1. The wallet also interacted with decentralized lending protocol Dolomite. The Ethereum assets included wrapped ether, known as WETH, and mETH, a token representing exposure to staked Ethereum. The latter distinction matters because a liquid staking token does not necessarily trade at a one-to-one ratio with ETH. Simply adding the number of WETH and mETH tokens together can give a misleading picture of the underlying Ethereum exposure. According to Ember’s estimates, the combined holdings represented approximately 12,121 ETH in equivalent exposure. The analyst estimated an average acquisition cost of $3,244 per ETH, compared with an average disposal value of approximately $1,655. If that cost-basis estimate is accurate, the transactions would represent a loss of roughly $19.26 million, or close to half the original investment. Transaction Reported figure Sold 10,600 WETH + 1,378 mETH Ethereum-equivalent exposure ≈12,121 ETH Received $17.58M USDC + $2.48M USD1 = $20.06M Estimated average cost $3,244 per ETH (≈$39.3M) Average disposal value ≈$1,655 per ETH Estimated loss ≈$19.26M (about 49%) World Liberty Financial’s reported Ethereum sale. Cost basis and loss are on-chain estimates, not audited results. Data: Lookonchain, Ember. Visualization: NewsBTC. World Liberty Financial has not been shown to have confirmed that loss in a public accounting statement. The figure remains an on-chain estimate rather than an audited financial result. Why the USD1 Transaction Matters World Liberty Financial’s decision to move part of the reported proceeds into USD1 raises questions beyond the performance of its Ethereum investments. In its official USD1 risk disclosures, World Liberty Financial acknowledges that its financial interests and those of BitGo may differ from those of USD1 holders. Both benefit from net fees earned through interest on the stablecoin’s reserves, while USD1 holders are not entitled to those earnings. That makes USD1 more than another cryptocurrency held in the project’s treasury. It is part of the business through which World Liberty Financial seeks to generate revenue from its digital-dollar product. Holding USD1, however, does not automatically generate a return for the wallet that receives it. Nor does an exchange of existing tokens necessarily increase the stablecoin’s circulating supply or reserve income. The relevant question is whether the transactions represent temporary treasury management or a broader change in the project’s investment strategy. A Reversal of Its Earlier Ethereum Strategy In January, NewsBTC reported that World Liberty Financial had acquired approximately 2,868 ETH after selling more than $8 million worth of wrapped Bitcoin. The November transactions point in the opposite direction, with the reported wallet moving away from Ethereum-linked exposure and toward dollar-denominated assets. It would nevertheless be misleading to conclude that World Liberty Financial has abandoned Ethereum entirely. The activity concerns a specific wallet, and the project’s broader holdings across other addresses have not been established by these transactions. Data from Arkham Intelligence shows that the project’s labeled Strategic Reserve wallet held approximately $243.8 million in digital assets on November 28. Notably, more than 96% of that valuation came from its own WLFI token, while the wallet retained 2,000 ETH worth approximately $3.32 million. The concentration raises a separate question about the reserve’s exposure to fluctuations in the price of its own token. Its reported portfolio value should not necessarily be confused with readily available liquidity. There is also no verified evidence that President Donald Trump personally instructed the trades. For Ethereum investors, the reported sale is another example of a large crypto-linked entity reducing exposure during a difficult market. For World Liberty Financial’s stakeholders, the more consequential questions concern its treasury strategy, the management of investment losses and the transparency of its financial disclosures. The blockchain can reveal how assets moved. It cannot, on its own, explain who authorized those movements or why.",
+    "hasSummary": true,
+    "link": "https://www.newsbtc.com/ethereum-news/trump-crypto-news-wlfi-ethereum-sale/",
+    "source": "NewsBTC",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-28T06:59:27.000Z",
+    "fetchedAt": "2026-11-28T09:01:25.626Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "trump-crypto-news-world-liberty-financial-sells-20-million-in-ethereum-assets-data-shows"
+  },
+  {
+    "id": "017ea8c12db9ef7b",
+    "title": "Biggest US Bank Failure in Over Two Years: United Fidelity Shut Down With $5.9B in Assets",
+    "summary": "The failure comes with an uncomfortable regulatory history stretching back several years.",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/biggest-us-bank-failure-in-over-two-years-united-fidelity-shut-down-with-5-9b-in-assets/",
+    "source": "CryptoPotato",
+    "tags": [
+      "United Fidelity",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-28T08:18:42.000Z",
+    "fetchedAt": "2026-11-28T09:01:25.626Z",
+    "isDuplicateOf": null,
+    "content": "United Fidelity has been shut down, marking the biggest US bank failure in over two years. The institution held approximately $5.9 billion in assets at the time of its closure. According to reports, this significant failure is tied to an uncomfortable regulatory history that stretches back several years, raising fresh concerns within the banking sector regarding oversight and financial stability.",
+    "content_ta": "இரண்டு ஆண்டுகளுக்குப் பிறகு அமெரிக்காவில் மிகப்பெரிய United Fidelity வங்கி மூடப்பட்டுள்ளது. மூடப்படும்போது இந்த வங்கியிடம் சுமார் $5.9 பில்லியன் மதிப்புள்ள சொத்துக்கள் இருந்தன. பல ஆண்டுகளாக நீடிக்கும் ஒழுங்குமுறைச் சிக்கல்களின் வரலாறே இந்த வங்கி வீழ்ச்சிக்குக் காரணம் என்று தகவல்கள் தெரிவிக்கின்றன.",
+    "slug": "biggest-us-bank-failure-in-over-two-years-united-fidelity-shut-down-with-5-9b-in-assets"
+  },
+  {
+    "id": "dd0c6e2c0aa4d681",
+    "title": "WLFI Collapses 54% as World Liberty’s ‘Strategic Reserve’ Dumps $20M in ETH",
+    "summary": "The reserve wallet sold on Friday night, but WLFI barely flinched first. Several hours later came the actual breakdown.",
+    "hasSummary": true,
+    "link": "https://cryptopotato.com/wlfi-collapses-54-as-world-libertys-strategic-reserve-dumps-20m-in-eth/",
+    "source": "CryptoPotato",
+    "tags": [
+      "WLFI",
+      "World Liberty",
+      "Ethereum"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-28T06:53:18.000Z",
+    "fetchedAt": "2026-11-28T09:01:25.626Z",
+    "isDuplicateOf": null,
+    "content": "The WLFI token experienced a steep 54% price collapse following a $20 million Ethereum dump by World Liberty's strategic reserve wallet. Although the major reserve sell-off occurred on Friday night, the token initially held steady before suffering a severe market breakdown several hours later.",
+    "content_ta": "World Liberty-ன் 'Strategic Reserve' வாலட் 20 மில்லியன் ட மதிப்புள்ள ETH-ஐ விற்றதை அடுத்து, WLFI டோக்கன் 54% விலை வீழ்ச்சியை சந்தித்தது. வெள்ளிக்கிழமை இரவில் இந்த விற்பனை நடந்தாலும், டோக்கன் ஆரம்பத்தில் நிலைத்து நின்றது, ஆனால் சில மணி நேரங்களுக்குப் பிறகு சந்தையில் கடுமையான சரிவு ஏற்பட்டது.",
+    "slug": "wlfi-collapses-54-as-world-liberty-s-strategic-reserve-dumps-20m-in-eth"
+  },
+  {
+    "id": "2e2d6a4ec715acdb",
+    "title": "Binance Picks Bhutan’s Unfinished City Over Singapore and Hong Kong",
+    "summary": "Binance won in-principle approval in Bhutan from a 26-day-old central bank. Here is what it allows, and what it does not.\nThe post Binance Picks Bhutan’s Unfinished City Over Singapore and Hong Kong appeared first on BeInCrypto.",
+    "hasSummary": true,
+    "link": "https://beincrypto.com/binance-asia-hub-bhutan-gelephu-central-bank/",
+    "source": "BeInCrypto",
+    "tags": [
+      "Binance",
+      "Bhutan",
+      "Singapore",
+      "Hong Kong"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-28T08:35:27.000Z",
+    "fetchedAt": "2026-11-28T09:01:25.626Z",
+    "isDuplicateOf": null,
+    "content": "Binance has received in-principle regulatory approval from Bhutan's central bank. This decision stands out as the cryptocurrency exchange chose Bhutan's unfinished city development over major financial hubs like Singapore and Hong Kong to establish its presence. The approval outlines specific operational permissions and limitations for the exchange within the region.",
+    "content_ta": "Binance நிறுவனத்திற்கு Bhutan நாட்டின் மத்திய வங்கி கொள்கையளவில் ஒப்புதல் அளித்துள்ளது. Singapore மற்றும் Hong Kong போன்ற முக்கிய நிதி மையங்களை விட, Bhutan-ல் உள்ள முடிக்கப்படாத நகர்ப்புற திட்டத்தை இந்த கிரிப்டோகரன்சி நிறுவனம் தனது செயல்பாடுகளுக்குத் தேர்ந்தெடுத்துள்ளது குறிப்பிடத்தக்கது. இந்த அனுமதியானது அந்தப் பகுதியில் நிறுவனத்தின் செயல்பாட்டுக்கான சில குறிப்பிட்ட உரிமைகளையும் வரம்புகளையும் வரையறுக்கிறது.",
+    "slug": "binance-picks-bhutan-s-unfinished-city-over-singapore-and-hong-kong"
+  },
+  {
+    "id": "61538aeb12cc7623",
+    "title": "Fidelity’s spot Bitcoin ETF records $20.8 million in net outflows",
+    "summary": "The recent outflows from Fidelity's Bitcoin ETF highlight investor caution and potential reevaluation of cryptocurrency exposure amid market volatility.\nThe post Fidelity’s spot Bitcoin ETF records $20.8 million in net outflows appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/fidelity-bitcoin-etf-fbtc-net-outflows/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Fidelity",
+      "Bitcoin"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-28T08:04:51.000Z",
+    "fetchedAt": "2026-11-28T09:01:25.626Z",
+    "isDuplicateOf": null,
+    "content": "Fidelity's spot Bitcoin ETF recently recorded $20.8 million in net outflows. This withdrawal of funds highlights growing investor caution and a potential reevaluation of cryptocurrency exposure as the market experiences ongoing volatility. Such movements reflect changing sentiment among institutional investors participating in digital asset markets.",
+    "content_ta": "Fidelity நிறுவனத்தின் spot Bitcoin ETF-ல் சமீபத்தில் 20.8 மில்லியன் டாலர் அளவுக்கு முதலீடுகள் வெளியேறியுள்ளன. சந்தையின் நிலையற்ற தன்மையால், முதலீட்டாளர்கள் மத்தியில் எச்சரிக்கை உணர்வும், கிரிப்டோகரன்சி முதலீடுகளை மறுபரிசீலனை செய்யும் நிலையும் ஏற்பட்டுள்ளதை இந்த வெளியேற்றம் காட்டுகிறது.",
+    "slug": "fidelity-s-spot-bitcoin-etf-records-20-8-million-in-net-outflows"
+  },
+  {
+    "id": "6d33589db277e7ab",
+    "title": "Trump-linked USD1 depegs amid WLFI selloff and concerns over possible loan liquidations",
+    "summary": "The stablecoin's de-pegging highlights vulnerabilities in crypto markets, potentially undermining trust in fiat-backed digital currencies.\nThe post Trump-linked USD1 depegs amid WLFI selloff and concerns over possible loan liquidations appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/trump-usd1-stablecoin-depegs-dollar/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "USD1",
+      "WLFI"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-28T07:28:18.000Z",
+    "fetchedAt": "2026-11-28T09:01:25.626Z",
+    "isDuplicateOf": null,
+    "content": "The Trump-linked stablecoin USD1 recently lost its peg to the US dollar amid a significant selloff of WLFI tokens. This depegging event has raised concerns across the cryptocurrency market regarding potential loan liquidations. Analysts note that the incident highlights ongoing vulnerabilities in digital asset markets, potentially impacting trust in fiat-backed currencies.",
+    "content_ta": "Trump-துடன் தொடர்புடைய USD1 ஸ்டேபிள்காயின், WLFI டோக்கன்களின் கணிசமான விற்பனை காரணமாக அமெரிக்க டாலருடனான தனது மதிப்பை இழந்தது. இந்த மதிப்பு விலகல் சம்பவம் கிரிப்டோகரன்சி சந்தையில் சாத்தியமான கடன் liquidate செய்யப்படுவது குறித்த கவலைகளை எழுப்பியுள்ளது. டிஜிட்டல் சொத்து சந்தைகளில் உள்ள தற்போதைய பலவீனங்களை இந்தச் சம்பவம் எடுத்துக்காட்டுவதாக ஆய்வாளர்கள் குறிப்பிடுகின்றனர்.",
+    "slug": "trump-linked-usd1-depegs-amid-wlfi-selloff-and-concerns-over-possible-loan-liquidations"
+  },
+  {
+    "id": "a1cd5fa5c3781d9e",
+    "title": "Musk says Google wants to lease more compute capacity from SpaceX",
+    "summary": "Google's increased demand for SpaceX's compute capacity highlights the growing reliance on AI infrastructure and strategic tech partnerships.\nThe post Musk says Google wants to lease more compute capacity from SpaceX appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/google-lease-more-compute-spacex-musk/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Google",
+      "SpaceX",
+      "Elon Musk"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-28T07:08:53.000Z",
+    "fetchedAt": "2026-11-28T09:01:25.626Z",
+    "isDuplicateOf": null,
+    "content": "Elon Musk has stated that Google is seeking to lease additional compute capacity from SpaceX. This development emphasizes the surging demand for advanced technological infrastructure and highlights ongoing strategic interactions between major technology enterprises, as industry leaders continue to scale operations to support growing computational needs.",
+    "content_ta": "Google நிறுவனம் SpaceX-டமிருந்து கூடுதல் compute capacity-ஐ குத்தகைக்கு எடுக்க விரும்புவதாக Elon Musk தெரிவித்துள்ளார். மேம்பட்ட தொழில்நுட்ப உள்கட்டமைப்புக்கான அதிகரித்து வரும் தேவையை இந்த வளர்ச்சி அடிக்கோடிட்டுக் காட்டுகிறது.",
+    "slug": "musk-says-google-wants-to-lease-more-compute-capacity-from-spacex"
+  },
+  {
+    "id": "d37c582a9264e634",
+    "title": "Shanghai data center holding Nvidia’s top chips linked to Alice Huang",
+    "summary": "The potential breach in US export controls could lead to stricter regulations and impact Nvidia's partnerships and market dynamics globally.\nThe post Shanghai data center holding Nvidia’s top chips linked to Alice Huang appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/nvidia-chips-shanghai-data-center-alice-huang/",
+    "source": "CryptoBriefing",
+    "tags": [
+      "Nvidia",
+      "Alice Huang",
+      "United States",
+      "China"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-28T07:01:29.000Z",
+    "fetchedAt": "2026-11-28T09:01:25.626Z",
+    "isDuplicateOf": null,
+    "content": "A Shanghai data center holding Nvidia’s top chips has been linked to Alice Huang. This potential breach in US export controls could lead to stricter regulations and impact Nvidia's partnerships and global market dynamics.",
+    "content_ta": "Nvidia-வின் முக்கிய சிப்களை வைத்துள்ள ஷாங்காய் டேட்டா சென்டர் ஒன்று Alice Huang-டன் தொடர்புடையது என கண்டறியப்பட்டுள்ளது. அமெரிக்க ஏற்றுமதி கட்டுப்பாடுகளில் ஏற்பட்டுள்ள இந்த சாத்தியமான மீறல், கடுமையான விதிமுறைகளுக்கு வழிவகுப்பதோடு Nvidia-வின் கூட்டாண்மை மற்றும் உலகளாவிய சந்தை நிலவரங்களையும் பாதிக்கலாம்.",
+    "slug": "shanghai-data-center-holding-nvidia-s-top-chips-linked-to-alice-huang"
+  },
+  {
+    "id": "cbbb50894923dcaa",
+    "title": "World Liberty Financial’s WLFI token plunges 59% in 24 hours",
+    "summary": "The WLFI token's sharp decline highlights the volatility and financial instability in DeFi projects, raising concerns about investor confidence.\nThe post World Liberty Financial’s WLFI token plunges 59% in 24 hours appeared first on Crypto Briefing.",
+    "hasSummary": true,
+    "link": "https://cryptobriefing.com/world-liberty-financial-wlfi-token-plunges-59-percent/",
+    "source": "CryptoBriefing",
+    "tags": [],
+    "origin": "rss",
+    "pubDate": "2026-11-28T06:21:14.000Z",
+    "fetchedAt": "2026-11-28T09:01:25.626Z",
+    "isDuplicateOf": null,
+    "content": null,
+    "slug": "world-liberty-financial-s-wlfi-token-plunges-59-in-24-hours"
+  },
+  {
+    "id": "6aff49d637ed0bf4",
+    "title": "4 Major Events Could Trigger Extreme Volatility Across Global Markets in the Next 2 Weeks",
+    "summary": "The post 4 Major Events Could Trigger Extreme Volatility Across Global Markets in the Next 2 Weeks appeared first on Coinpedia Fintech News\nThe next two weeks could become a major stress test for global markets as tariff threats, a key Federal Reserve meeting, U.S. shutdown risks, and systematic selling converge.  Bitcoin has fallen more than 22% this month, while the S&P 500 is down about 6.7% from its October peak and the Nasdaq-100 nearly 15%. That leaves …",
+    "hasSummary": true,
+    "link": "https://coinpedia.org/news/4-major-events-could-trigger-extreme-volatility-across-global-markets-in-the-next-2-weeks/",
+    "source": "Coinpedia",
+    "tags": [
+      "Bitcoin",
+      "Federal Reserve",
+      "United States"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-28T06:46:39.000Z",
+    "fetchedAt": "2026-11-28T09:01:25.626Z",
+    "isDuplicateOf": null,
+    "content": "Global markets face a potential stress test over the next two weeks as four major events converge, threatening extreme volatility. Markets are currently under pressure, with Bitcoin, the S&P 500, and the Nasdaq-100 all experiencing significant declines recently amid rising economic and political uncertainties.",
+    "content_ta": "வரும் இரண்டு வாரங்களில் நான்கு முக்கிய நிகழ்வுகள் ஒன்றாக இணைவதால் உலகளாவிய சந்தைகள் கடுமையான ஏற்ற இறக்கங்களைச் சந்திக்கக்கூடும். அமெரிக்காவில் நிலவும் பொருளாதார மற்றும் அரசியல் நிச்சயமற்ற தன்மைகளுக்கு மத்தியில், Bitcoin, S&P 500 மற்றும் Nasdaq-100 உள்ளிட்ட சந்தைகள் சமீபத்தில் குறிப்பிடத்தக்க சரிவைச் சந்தித்துள்ளன.",
+    "slug": "4-major-events-could-trigger-extreme-volatility-across-global-markets-in-the-next-2-weeks"
+  },
+  {
+    "id": "48b4d77ad8649da0",
+    "title": "HSBC UK Adds Shares and ETFs to Mobile App and Online Banking",
+    "summary": "HSBC UK has expanded its digital investment offering to include UK-listed shares and ETFs, alongside a £50 incentive for new investment customers.\nThe post HSBC UK Adds Shares and ETFs to Mobile App and Online Banking appeared first on The Fintech Times.",
+    "hasSummary": true,
+    "link": "https://thefintechtimes.com/hsbc-uk-adds-shares-and-etfs-to-mobile-app-and-online-banking/",
+    "source": "The Fintech Times",
+    "tags": [
+      "HSBC UK"
+    ],
+    "origin": "rss",
+    "pubDate": "2026-11-28T08:00:23.000Z",
+    "fetchedAt": "2026-11-28T09:01:25.626Z",
+    "isDuplicateOf": null,
+    "content": "HSBC UK has expanded its digital investment platform by adding UK-listed shares and exchange-traded funds to its mobile app and online banking services. To encourage adoption, the bank is offering a financial incentive to new investment customers, further strengthening its digital banking and wealth management offerings for UK consumers.",
+    "content_ta": "HSBC UK தனது மொபைல் ஆப் மற்றும் ஆன்லைன் பேங்கிங் சேரிகளில் UK-ல் பட்டியலிடப்பட்ட பங்குகள் மற்றும் ETF-களை சேர்த்து தனது டிஜிட்டல் முதலீட்டு சேவையை விரிவுபடுத்தியுள்ளது. புதிய முதலீட்டு வாடிக்கையாளர்களை ஈர்க்கும் வகையில் வங்கி சலுகை ஒன்றையும் அறிவித்துள்ளது.",
+    "slug": "hsbc-uk-adds-shares-and-etfs-to-mobile-app-and-online-banking"
   }
 ]
